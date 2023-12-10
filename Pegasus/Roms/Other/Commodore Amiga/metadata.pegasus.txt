@@ -1,9 +1,9 @@
 collection: Commodore Amiga
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Commodore Amiga" {file.path}
+launch: launch_rom -l "Commodore Amiga" {file.path}
 
 
 game: B.C. Kid (Europe)
-file: $ROM_JSON_ROOT/Other/Commodore Amiga/B.C. Kid (Europe)/B.C. Kid (Europe).json
+file: Other/Commodore Amiga/B.C. Kid (Europe)/B.C. Kid (Europe).json
 developer: Factor 5 GmbH
 publisher: Ubisoft Entertainment
 genre: Platform
@@ -56,7 +56,7 @@ x-co-op: No
 
 
 game: Katakis (Europe) (v1.1)
-file: $ROM_JSON_ROOT/Other/Commodore Amiga/Katakis (Europe) (v1.1)/Katakis (Europe) (v1.1).json
+file: Other/Commodore Amiga/Katakis (Europe) (v1.1)/Katakis (Europe) (v1.1).json
 developer: Factor 5 GmbH
 publisher: Rainbow Arts Software
 genre: Action;Shooter
@@ -85,7 +85,7 @@ x-co-op: No
 
 
 game: R-Type (Europe)
-file: $ROM_JSON_ROOT/Other/Commodore Amiga/R-Type (Europe)/R-Type (Europe).json
+file: Other/Commodore Amiga/R-Type (Europe)/R-Type (Europe).json
 developer: Irem Corp.
 publisher: Electronic Dreams Software
 genre: Shooter
@@ -107,7 +107,7 @@ x-co-op: No
 
 
 game: Turrican (Europe)
-file: $ROM_JSON_ROOT/Other/Commodore Amiga/Turrican (Europe)/Turrican (Europe).json
+file: Other/Commodore Amiga/Turrican (Europe)/Turrican (Europe).json
 developer: Factor 5
 publisher: Innerprise Software
 genre: Action;Platformer;2D
@@ -132,7 +132,7 @@ x-co-op: No
 
 
 game: Turrican 3 (Europe)
-file: $ROM_JSON_ROOT/Other/Commodore Amiga/Turrican 3 (Europe)/Turrican 3 (Europe).json
+file: Other/Commodore Amiga/Turrican 3 (Europe)/Turrican 3 (Europe).json
 developer: Factor 5
 publisher: Renegade
 genre: Action;General
@@ -169,7 +169,7 @@ x-co-op: No
 
 
 game: Turrican II - The Final Fight (Europe)
-file: $ROM_JSON_ROOT/Other/Commodore Amiga/Turrican II - The Final Fight (Europe)/Turrican II - The Final Fight (Europe).json
+file: Other/Commodore Amiga/Turrican II - The Final Fight (Europe)/Turrican II - The Final Fight (Europe).json
 developer: Factor 5
 publisher: Rainbow Arts
 genre: Action;General

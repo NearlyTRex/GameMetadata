@@ -1,9 +1,9 @@
 collection: Arcade
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Arcade" {file.path}
+launch: launch_rom -l "Arcade" {file.path}
 
 
 game: 1941 - Counter Attack (World) (1941)
-file: $ROM_JSON_ROOT/Other/Arcade/1941 - Counter Attack (World) (1941)/1941 - Counter Attack (World) (1941).json
+file: Other/Arcade/1941 - Counter Attack (World) (1941)/1941 - Counter Attack (World) (1941).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -36,7 +36,7 @@ x-co-op: Yes
 
 
 game: 1942 (World) (1942)
-file: $ROM_JSON_ROOT/Other/Arcade/1942 (World) (1942)/1942 (World) (1942).json
+file: Other/Arcade/1942 (World) (1942)/1942 (World) (1942).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -60,7 +60,7 @@ x-co-op: No
 
 
 game: 1943 - The Battle of Midway (Europe) (1943)
-file: $ROM_JSON_ROOT/Other/Arcade/1943 - The Battle of Midway (Europe) (1943)/1943 - The Battle of Midway (Europe) (1943).json
+file: Other/Arcade/1943 - The Battle of Midway (Europe) (1943)/1943 - The Battle of Midway (Europe) (1943).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -95,7 +95,7 @@ x-co-op: Yes
 
 
 game: 1943 Kai - Midway Kaisen (Japan) (1943kai)
-file: $ROM_JSON_ROOT/Other/Arcade/1943 Kai - Midway Kaisen (Japan) (1943kai)/1943 Kai - Midway Kaisen (Japan) (1943kai).json
+file: Other/Arcade/1943 Kai - Midway Kaisen (Japan) (1943kai)/1943 Kai - Midway Kaisen (Japan) (1943kai).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -137,7 +137,7 @@ x-co-op: Yes
 
 
 game: 1944 - The Loop Master (Europe) (1944)
-file: $ROM_JSON_ROOT/Other/Arcade/1944 - The Loop Master (Europe) (1944)/1944 - The Loop Master (Europe) (1944).json
+file: Other/Arcade/1944 - The Loop Master (Europe) (1944)/1944 - The Loop Master (Europe) (1944).json
 developer: Capcom
 publisher: 8ing/Raizing
 genre: Action;Shooter
@@ -159,7 +159,7 @@ x-co-op: No
 
 
 game: 19XX - The War Against Destiny (Europe) (19xx)
-file: $ROM_JSON_ROOT/Other/Arcade/19XX - The War Against Destiny (Europe) (19xx)/19XX - The War Against Destiny (Europe) (19xx).json
+file: Other/Arcade/19XX - The War Against Destiny (Europe) (19xx)/19XX - The War Against Destiny (Europe) (19xx).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -181,7 +181,7 @@ x-co-op: Yes
 
 
 game: 720 Degrees (World) (720)
-file: $ROM_JSON_ROOT/Other/Arcade/720 Degrees (World) (720)/720 Degrees (World) (720).json
+file: Other/Arcade/720 Degrees (World) (720)/720 Degrees (World) (720).json
 developer: Atari Games
 publisher: Atari Games
 genre: Sports
@@ -209,7 +209,7 @@ x-co-op: No
 
 
 game: APB - All Points Bulletin (World) (apb)
-file: $ROM_JSON_ROOT/Other/Arcade/APB - All Points Bulletin (World) (apb)/APB - All Points Bulletin (World) (apb).json
+file: Other/Arcade/APB - All Points Bulletin (World) (apb)/APB - All Points Bulletin (World) (apb).json
 developer: Atari Games
 publisher: Atari Games
 genre: Action;Racing
@@ -260,7 +260,7 @@ x-co-op: No
 
 
 game: Akka Arrh (World) (Proto) (akkaarrh)
-file: $ROM_JSON_ROOT/Other/Arcade/Akka Arrh (World) (Proto) (akkaarrh)/Akka Arrh (World) (Proto) (akkaarrh).json
+file: Other/Arcade/Akka Arrh (World) (Proto) (akkaarrh)/Akka Arrh (World) (Proto) (akkaarrh).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action
@@ -291,7 +291,7 @@ x-co-op: No
 
 
 game: Alien Syndrome (World) (aliensyn)
-file: $ROM_JSON_ROOT/Other/Arcade/Alien Syndrome (World) (aliensyn)/Alien Syndrome (World) (aliensyn).json
+file: Other/Arcade/Alien Syndrome (World) (aliensyn)/Alien Syndrome (World) (aliensyn).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -317,7 +317,7 @@ x-co-op: No
 
 
 game: Alpha Mission (World) (alphamis)
-file: $ROM_JSON_ROOT/Other/Arcade/Alpha Mission (World) (alphamis)/Alpha Mission (World) (alphamis).json
+file: Other/Arcade/Alpha Mission (World) (alphamis)/Alpha Mission (World) (alphamis).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -341,7 +341,7 @@ x-co-op: No
 
 
 game: Altered Beast (World) (altbeast)
-file: $ROM_JSON_ROOT/Other/Arcade/Altered Beast (World) (altbeast)/Altered Beast (World) (altbeast).json
+file: Other/Arcade/Altered Beast (World) (altbeast)/Altered Beast (World) (altbeast).json
 developer: Team Shinobi
 publisher: Activision
 genre: Platform;Beat 'em Up
@@ -372,7 +372,7 @@ x-co-op: No
 
 
 game: Arch Rivals (World) (archrivl)
-file: $ROM_JSON_ROOT/Other/Arcade/Arch Rivals (World) (archrivl)/Arch Rivals (World) (archrivl).json
+file: Other/Arcade/Arch Rivals (World) (archrivl)/Arch Rivals (World) (archrivl).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Sports
@@ -403,7 +403,7 @@ x-co-op: No
 
 
 game: Armored Warriors (Europe) (armwar)
-file: $ROM_JSON_ROOT/Other/Arcade/Armored Warriors (Europe) (armwar)/Armored Warriors (Europe) (armwar).json
+file: Other/Arcade/Armored Warriors (Europe) (armwar)/Armored Warriors (Europe) (armwar).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -438,7 +438,7 @@ x-co-op: Yes
 
 
 game: Art of Fighting (World) (aof)
-file: $ROM_JSON_ROOT/Other/Arcade/Art of Fighting (World) (aof)/Art of Fighting (World) (aof).json
+file: Other/Arcade/Art of Fighting (World) (aof)/Art of Fighting (World) (aof).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -462,7 +462,7 @@ x-co-op: No
 
 
 game: Asteroids (World) (asteroid)
-file: $ROM_JSON_ROOT/Other/Arcade/Asteroids (World) (asteroid)/Asteroids (World) (asteroid).json
+file: Other/Arcade/Asteroids (World) (asteroid)/Asteroids (World) (asteroid).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -490,7 +490,7 @@ x-co-op: No
 
 
 game: Asteroids Deluxe (World) (astdelux)
-file: $ROM_JSON_ROOT/Other/Arcade/Asteroids Deluxe (World) (astdelux)/Asteroids Deluxe (World) (astdelux).json
+file: Other/Arcade/Asteroids Deluxe (World) (astdelux)/Asteroids Deluxe (World) (astdelux).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -536,7 +536,7 @@ x-co-op: No
 
 
 game: Atari Baseball (World) (abaseb)
-file: $ROM_JSON_ROOT/Other/Arcade/Atari Baseball (World) (abaseb)/Atari Baseball (World) (abaseb).json
+file: Other/Arcade/Atari Baseball (World) (abaseb)/Atari Baseball (World) (abaseb).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -556,7 +556,7 @@ x-co-op: No
 
 
 game: Atari Basketball (World) (bsktball)
-file: $ROM_JSON_ROOT/Other/Arcade/Atari Basketball (World) (bsktball)/Atari Basketball (World) (bsktball).json
+file: Other/Arcade/Atari Basketball (World) (bsktball)/Atari Basketball (World) (bsktball).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -577,7 +577,7 @@ x-co-op: No
 
 
 game: Atari Football (World) (atarifb)
-file: $ROM_JSON_ROOT/Other/Arcade/Atari Football (World) (atarifb)/Atari Football (World) (atarifb).json
+file: Other/Arcade/Atari Football (World) (atarifb)/Atari Football (World) (atarifb).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -598,7 +598,7 @@ x-co-op: Yes
 
 
 game: Atari Soccer (World) (soccer)
-file: $ROM_JSON_ROOT/Other/Arcade/Atari Soccer (World) (soccer)/Atari Soccer (World) (soccer).json
+file: Other/Arcade/Atari Soccer (World) (soccer)/Atari Soccer (World) (soccer).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -620,7 +620,7 @@ x-co-op: Yes
 
 
 game: Athena (World) (athena)
-file: $ROM_JSON_ROOT/Other/Arcade/Athena (World) (athena)/Athena (World) (athena).json
+file: Other/Arcade/Athena (World) (athena)/Athena (World) (athena).json
 developer: SNK
 publisher: SNK
 genre: Platform
@@ -641,7 +641,7 @@ x-co-op: No
 
 
 game: Avalanche (World) (avalnche)
-file: $ROM_JSON_ROOT/Other/Arcade/Avalanche (World) (avalnche)/Avalanche (World) (avalnche).json
+file: Other/Arcade/Avalanche (World) (avalnche)/Avalanche (World) (avalnche).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -671,7 +671,7 @@ x-co-op: No
 
 
 game: Avengers (USA) (avengers)
-file: $ROM_JSON_ROOT/Other/Arcade/Avengers (USA) (avengers)/Avengers (USA) (avengers).json
+file: Other/Arcade/Avengers (USA) (avengers)/Avengers (USA) (avengers).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -700,7 +700,7 @@ x-co-op: Yes
 
 
 game: Baseball Stars 2 (World) (bstars2)
-file: $ROM_JSON_ROOT/Other/Arcade/Baseball Stars 2 (World) (bstars2)/Baseball Stars 2 (World) (bstars2).json
+file: Other/Arcade/Baseball Stars 2 (World) (bstars2)/Baseball Stars 2 (World) (bstars2).json
 developer: SNK
 publisher: SNK
 genre: Sports
@@ -717,7 +717,7 @@ x-co-op: No
 
 
 game: Battle Circuit (Europe) (batcir)
-file: $ROM_JSON_ROOT/Other/Arcade/Battle Circuit (Europe) (batcir)/Battle Circuit (Europe) (batcir).json
+file: Other/Arcade/Battle Circuit (Europe) (batcir)/Battle Circuit (Europe) (batcir).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -751,7 +751,7 @@ x-co-op: Yes
 
 
 game: Battle Zone (World) (bzone)
-file: $ROM_JSON_ROOT/Other/Arcade/Battle Zone (World) (bzone)/Battle Zone (World) (bzone).json
+file: Other/Arcade/Battle Zone (World) (bzone)/Battle Zone (World) (bzone).json
 developer: Atari
 publisher: Atari
 genre: Shooter;Vehicle Simulation
@@ -776,7 +776,7 @@ x-co-op: No
 
 
 game: Battletoads (World) (btoads)
-file: $ROM_JSON_ROOT/Other/Arcade/Battletoads (World) (btoads)/Battletoads (World) (btoads).json
+file: Other/Arcade/Battletoads (World) (btoads)/Battletoads (World) (btoads).json
 developer: Rare
 publisher: Electronic Arts
 genre: Beat 'em Up
@@ -808,7 +808,7 @@ x-co-op: No
 
 
 game: Beast Busters (World) (bbusters)
-file: $ROM_JSON_ROOT/Other/Arcade/Beast Busters (World) (bbusters)/Beast Busters (World) (bbusters).json
+file: Other/Arcade/Beast Busters (World) (bbusters)/Beast Busters (World) (bbusters).json
 developer: Hamachi | Images Design | Papa and team
 publisher: SNK
 genre: Shooter
@@ -827,7 +827,7 @@ x-co-op: No
 
 
 game: Bermuda Triangle (World) (bermudat)
-file: $ROM_JSON_ROOT/Other/Arcade/Bermuda Triangle (World) (bermudat)/Bermuda Triangle (World) (bermudat).json
+file: Other/Arcade/Bermuda Triangle (World) (bermudat)/Bermuda Triangle (World) (bermudat).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -861,7 +861,7 @@ x-co-op: No
 
 
 game: Bionic Commando (Europe) (bionicc)
-file: $ROM_JSON_ROOT/Other/Arcade/Bionic Commando (Europe) (bionicc)/Bionic Commando (Europe) (bionicc).json
+file: Other/Arcade/Bionic Commando (Europe) (bionicc)/Bionic Commando (Europe) (bionicc).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -883,7 +883,7 @@ x-co-op: No
 
 
 game: Black Tiger (World) (blktiger)
-file: $ROM_JSON_ROOT/Other/Arcade/Black Tiger (World) (blktiger)/Black Tiger (World) (blktiger).json
+file: Other/Arcade/Black Tiger (World) (blktiger)/Black Tiger (World) (blktiger).json
 developer: Capcom
 publisher: Capcom
 genre: Platform;Beat 'em Up
@@ -906,7 +906,7 @@ x-co-op: No
 
 
 game: Black Widow (World) (bwidow)
-file: $ROM_JSON_ROOT/Other/Arcade/Black Widow (World) (bwidow)/Black Widow (World) (bwidow).json
+file: Other/Arcade/Black Widow (World) (bwidow)/Black Widow (World) (bwidow).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -928,7 +928,7 @@ x-co-op: No
 
 
 game: Blaster (World) (blaster)
-file: $ROM_JSON_ROOT/Other/Arcade/Blaster (World) (blaster)/Blaster (World) (blaster).json
+file: Other/Arcade/Blaster (World) (blaster)/Blaster (World) (blaster).json
 developer: Vid Kidz
 publisher: Williams Electronics
 genre: Shooter
@@ -1022,7 +1022,7 @@ x-co-op: No
 
 
 game: Block Block (World) (block)
-file: $ROM_JSON_ROOT/Other/Arcade/Block Block (World) (block)/Block Block (World) (block).json
+file: Other/Arcade/Block Block (World) (block)/Block Block (World) (block).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -1039,7 +1039,7 @@ x-co-op: Yes
 
 
 game: Bosconian - Star Destroyer (World) (bosco)
-file: $ROM_JSON_ROOT/Other/Arcade/Bosconian - Star Destroyer (World) (bosco)/Bosconian - Star Destroyer (World) (bosco).json
+file: Other/Arcade/Bosconian - Star Destroyer (World) (bosco)/Bosconian - Star Destroyer (World) (bosco).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -1069,7 +1069,7 @@ x-co-op: No
 
 
 game: Bubbles (World) (bubbles)
-file: $ROM_JSON_ROOT/Other/Arcade/Bubbles (World) (bubbles)/Bubbles (World) (bubbles).json
+file: Other/Arcade/Bubbles (World) (bubbles)/Bubbles (World) (bubbles).json
 developer: Williams Electronics
 publisher: Williams Electronics
 genre: Action;Puzzle
@@ -1122,7 +1122,7 @@ x-co-op: No
 
 
 game: Burning Fight (World) (burningf)
-file: $ROM_JSON_ROOT/Other/Arcade/Burning Fight (World) (burningf)/Burning Fight (World) (burningf).json
+file: Other/Arcade/Burning Fight (World) (burningf)/Burning Fight (World) (burningf).json
 developer: SNK
 publisher: SNK
 genre: Action;Fighting
@@ -1144,7 +1144,7 @@ x-co-op: No
 
 
 game: Buster Bros. (USA) (bbros)
-file: $ROM_JSON_ROOT/Other/Arcade/Buster Bros. (USA) (bbros)/Buster Bros. (USA) (bbros).json
+file: Other/Arcade/Buster Bros. (USA) (bbros)/Buster Bros. (USA) (bbros).json
 developer: Mitchell
 publisher: Capcom
 genre: Action
@@ -1163,7 +1163,7 @@ x-co-op: Yes
 
 
 game: Canyon Bomber (World) (canyon)
-file: $ROM_JSON_ROOT/Other/Arcade/Canyon Bomber (World) (canyon)/Canyon Bomber (World) (canyon).json
+file: Other/Arcade/Canyon Bomber (World) (canyon)/Canyon Bomber (World) (canyon).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -1194,7 +1194,7 @@ x-co-op: Yes
 
 
 game: Capcom Sports Club (Europe) (csclub)
-file: $ROM_JSON_ROOT/Other/Arcade/Capcom Sports Club (Europe) (csclub)/Capcom Sports Club (Europe) (csclub).json
+file: Other/Arcade/Capcom Sports Club (Europe) (csclub)/Capcom Sports Club (Europe) (csclub).json
 developer: Capcom
 publisher: Capcom
 genre: Sports
@@ -1212,7 +1212,7 @@ x-co-op: Yes
 
 
 game: Captain Commando (World) (captcomm)
-file: $ROM_JSON_ROOT/Other/Arcade/Captain Commando (World) (captcomm)/Captain Commando (World) (captcomm).json
+file: Other/Arcade/Captain Commando (World) (captcomm)/Captain Commando (World) (captcomm).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -1231,7 +1231,7 @@ x-co-op: Yes
 
 
 game: Carrier Air Wing (World) (cawing)
-file: $ROM_JSON_ROOT/Other/Arcade/Carrier Air Wing (World) (cawing)/Carrier Air Wing (World) (cawing).json
+file: Other/Arcade/Carrier Air Wing (World) (cawing)/Carrier Air Wing (World) (cawing).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1260,7 +1260,7 @@ x-co-op: Yes
 
 
 game: Centipede (World) (centiped)
-file: $ROM_JSON_ROOT/Other/Arcade/Centipede (World) (centiped)/Centipede (World) (centiped).json
+file: Other/Arcade/Centipede (World) (centiped)/Centipede (World) (centiped).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Shooter
@@ -1360,7 +1360,7 @@ x-co-op: No
 
 
 game: Championship Sprint (World) (csprint)
-file: $ROM_JSON_ROOT/Other/Arcade/Championship Sprint (World) (csprint)/Championship Sprint (World) (csprint).json
+file: Other/Arcade/Championship Sprint (World) (csprint)/Championship Sprint (World) (csprint).json
 developer: Atari Games Corporation
 publisher: Atari Games Corporation
 genre: Racing;Sports
@@ -1383,7 +1383,7 @@ x-co-op: No
 
 
 game: Chopper I (USA) (chopper)
-file: $ROM_JSON_ROOT/Other/Arcade/Chopper I (USA) (chopper)/Chopper I (USA) (chopper).json
+file: Other/Arcade/Chopper I (USA) (chopper)/Chopper I (USA) (chopper).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -1403,7 +1403,7 @@ x-co-op: No
 
 
 game: Circus Charlie (World) (circusc)
-file: $ROM_JSON_ROOT/Other/Arcade/Circus Charlie (World) (circusc)/Circus Charlie (World) (circusc).json
+file: Other/Arcade/Circus Charlie (World) (circusc)/Circus Charlie (World) (circusc).json
 developer: Konami
 publisher: Centuri
 genre: Action;Platform
@@ -1426,7 +1426,7 @@ x-co-op: No
 
 
 game: Cloak & Dagger (World) (cloak)
-file: $ROM_JSON_ROOT/Other/Arcade/Cloak & Dagger (World) (cloak)/Cloak & Dagger (World) (cloak).json
+file: Other/Arcade/Cloak & Dagger (World) (cloak)/Cloak & Dagger (World) (cloak).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Fighting
@@ -1445,7 +1445,7 @@ x-co-op: No
 
 
 game: Commando (World) (commando)
-file: $ROM_JSON_ROOT/Other/Arcade/Commando (World) (commando)/Commando (World) (commando).json
+file: Other/Arcade/Commando (World) (commando)/Commando (World) (commando).json
 developer: Capcom
 publisher: Data East
 genre: Shooter
@@ -1475,7 +1475,7 @@ x-co-op: No
 
 
 game: Congo Bongo (World) (congo)
-file: $ROM_JSON_ROOT/Other/Arcade/Congo Bongo (World) (congo)/Congo Bongo (World) (congo).json
+file: Other/Arcade/Congo Bongo (World) (congo)/Congo Bongo (World) (congo).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -1497,7 +1497,7 @@ x-co-op: No
 
 
 game: Crystal Castles (World) (ccastles)
-file: $ROM_JSON_ROOT/Other/Arcade/Crystal Castles (World) (ccastles)/Crystal Castles (World) (ccastles).json
+file: Other/Arcade/Crystal Castles (World) (ccastles)/Crystal Castles (World) (ccastles).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Puzzle
@@ -1520,7 +1520,7 @@ x-co-op: No
 
 
 game: Cyberball (World) (cyberbal)
-file: $ROM_JSON_ROOT/Other/Arcade/Cyberball (World) (cyberbal)/Cyberball (World) (cyberbal).json
+file: Other/Arcade/Cyberball (World) (cyberbal)/Cyberball (World) (cyberbal).json
 developer: Atari Games
 publisher: Atari
 genre: Sports
@@ -1547,7 +1547,7 @@ x-co-op: Yes
 
 
 game: Cyberbots - Fullmetal Madness (Europe) (cybots)
-file: $ROM_JSON_ROOT/Other/Arcade/Cyberbots - Fullmetal Madness (Europe) (cybots)/Cyberbots - Fullmetal Madness (Europe) (cybots).json
+file: Other/Arcade/Cyberbots - Fullmetal Madness (Europe) (cybots)/Cyberbots - Fullmetal Madness (Europe) (cybots).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -1570,7 +1570,7 @@ x-co-op: No
 
 
 game: Darkstalkers - The Night Warriors (Europe) (dstlk)
-file: $ROM_JSON_ROOT/Other/Arcade/Darkstalkers - The Night Warriors (Europe) (dstlk)/Darkstalkers - The Night Warriors (Europe) (dstlk).json
+file: Other/Arcade/Darkstalkers - The Night Warriors (Europe) (dstlk)/Darkstalkers - The Night Warriors (Europe) (dstlk).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -1591,7 +1591,7 @@ x-co-op: No
 
 
 game: Defender (World) (defender)
-file: $ROM_JSON_ROOT/Other/Arcade/Defender (World) (defender)/Defender (World) (defender).json
+file: Other/Arcade/Defender (World) (defender)/Defender (World) (defender).json
 developer: Williams Electronics
 publisher: Taito
 genre: Shooter
@@ -1642,7 +1642,7 @@ x-co-op: No
 
 
 game: Destroyer (World) (destroyr)
-file: $ROM_JSON_ROOT/Other/Arcade/Destroyer (World) (destroyr)/Destroyer (World) (destroyr).json
+file: Other/Arcade/Destroyer (World) (destroyr)/Destroyer (World) (destroyr).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -1664,7 +1664,7 @@ x-co-op: No
 
 
 game: Dig Dug (World) (digdug)
-file: $ROM_JSON_ROOT/Other/Arcade/Dig Dug (World) (digdug)/Dig Dug (World) (digdug).json
+file: Other/Arcade/Dig Dug (World) (digdug)/Dig Dug (World) (digdug).json
 developer: Namco
 publisher: Atari
 genre: Action
@@ -1688,7 +1688,7 @@ x-co-op: No
 
 
 game: Dig Dug II (World) (digdug2)
-file: $ROM_JSON_ROOT/Other/Arcade/Dig Dug II (World) (digdug2)/Dig Dug II (World) (digdug2).json
+file: Other/Arcade/Dig Dug II (World) (digdug2)/Dig Dug II (World) (digdug2).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -1716,7 +1716,7 @@ x-co-op: No
 
 
 game: Dominos (World) (dominos)
-file: $ROM_JSON_ROOT/Other/Arcade/Dominos (World) (dominos)/Dominos (World) (dominos).json
+file: Other/Arcade/Dominos (World) (dominos)/Dominos (World) (dominos).json
 developer: Atari
 publisher: Atari
 genre: Puzzle
@@ -1746,7 +1746,7 @@ x-co-op: No
 
 
 game: Dragon Buster (World) (drgnbstr)
-file: $ROM_JSON_ROOT/Other/Arcade/Dragon Buster (World) (drgnbstr)/Dragon Buster (World) (drgnbstr).json
+file: Other/Arcade/Dragon Buster (World) (drgnbstr)/Dragon Buster (World) (drgnbstr).json
 developer: Namco
 publisher: Namco
 genre: Platform
@@ -1764,7 +1764,7 @@ x-co-op: No
 
 
 game: Dynasty Wars (USA) (dynwar)
-file: $ROM_JSON_ROOT/Other/Arcade/Dynasty Wars (USA) (dynwar)/Dynasty Wars (USA) (dynwar).json
+file: Other/Arcade/Dynasty Wars (USA) (dynwar)/Dynasty Wars (USA) (dynwar).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -1794,7 +1794,7 @@ x-co-op: No
 
 
 game: Eco Fighters (World) (ecofghtr)
-file: $ROM_JSON_ROOT/Other/Arcade/Eco Fighters (World) (ecofghtr)/Eco Fighters (World) (ecofghtr).json
+file: Other/Arcade/Eco Fighters (World) (ecofghtr)/Eco Fighters (World) (ecofghtr).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1818,7 +1818,7 @@ x-co-op: Yes
 
 
 game: Exed Exes (World) (exedexes)
-file: $ROM_JSON_ROOT/Other/Arcade/Exed Exes (World) (exedexes)/Exed Exes (World) (exedexes).json
+file: Other/Arcade/Exed Exes (World) (exedexes)/Exed Exes (World) (exedexes).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1845,7 +1845,7 @@ x-co-op: No
 
 
 game: Fantasy (USA) (fantasyu)
-file: $ROM_JSON_ROOT/Other/Arcade/Fantasy (USA) (fantasyu)/Fantasy (USA) (fantasyu).json
+file: Other/Arcade/Fantasy (USA) (fantasyu)/Fantasy (USA) (fantasyu).json
 developer: SNK
 publisher: SNK
 genre: Action
@@ -1863,7 +1863,7 @@ x-co-op: No
 
 
 game: Fantasy Zone (World) (fantzone)
-file: $ROM_JSON_ROOT/Other/Arcade/Fantasy Zone (World) (fantzone)/Fantasy Zone (World) (fantzone).json
+file: Other/Arcade/Fantasy Zone (World) (fantzone)/Fantasy Zone (World) (fantzone).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -1903,7 +1903,7 @@ x-co-op: No
 
 
 game: Fantasy Zone II DX (Japan) (fantzn2x)
-file: $ROM_JSON_ROOT/Other/Arcade/Fantasy Zone II DX (Japan) (fantzn2x)/Fantasy Zone II DX (Japan) (fantzn2x).json
+file: Other/Arcade/Fantasy Zone II DX (Japan) (fantzn2x)/Fantasy Zone II DX (Japan) (fantzn2x).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -1928,7 +1928,7 @@ x-co-op: No
 
 
 game: Fatal Fury - King of Fighters (World) (fatfury1)
-file: $ROM_JSON_ROOT/Other/Arcade/Fatal Fury - King of Fighters (World) (fatfury1)/Fatal Fury - King of Fighters (World) (fatfury1).json
+file: Other/Arcade/Fatal Fury - King of Fighters (World) (fatfury1)/Fatal Fury - King of Fighters (World) (fatfury1).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -1949,7 +1949,7 @@ x-co-op: No
 
 
 game: Final Fight (World) (ffight)
-file: $ROM_JSON_ROOT/Other/Arcade/Final Fight (World) (ffight)/Final Fight (World) (ffight).json
+file: Other/Arcade/Final Fight (World) (ffight)/Final Fight (World) (ffight).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -1968,7 +1968,7 @@ x-co-op: Yes
 
 
 game: Fire Truck ~ Smokey Joe (World) (firetrk)
-file: $ROM_JSON_ROOT/Other/Arcade/Fire Truck ~ Smokey Joe (World) (firetrk)/Fire Truck ~ Smokey Joe (World) (firetrk).json
+file: Other/Arcade/Fire Truck ~ Smokey Joe (World) (firetrk)/Fire Truck ~ Smokey Joe (World) (firetrk).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -2002,7 +2002,7 @@ x-co-op: No
 
 
 game: Food Fight (World) (foodf)
-file: $ROM_JSON_ROOT/Other/Arcade/Food Fight (World) (foodf)/Food Fight (World) (foodf).json
+file: Other/Arcade/Food Fight (World) (foodf)/Food Fight (World) (foodf).json
 developer: Atari
 publisher: Alari
 genre: Platform
@@ -2022,7 +2022,7 @@ x-co-op: No
 
 
 game: Forgotten Worlds (World) (forgottn)
-file: $ROM_JSON_ROOT/Other/Arcade/Forgotten Worlds (World) (forgottn)/Forgotten Worlds (World) (forgottn).json
+file: Other/Arcade/Forgotten Worlds (World) (forgottn)/Forgotten Worlds (World) (forgottn).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -2060,7 +2060,7 @@ x-co-op: Yes
 
 
 game: Galaga '88 (World) (galaga88)
-file: $ROM_JSON_ROOT/Other/Arcade/Galaga '88 (World) (galaga88)/Galaga '88 (World) (galaga88).json
+file: Other/Arcade/Galaga '88 (World) (galaga88)/Galaga '88 (World) (galaga88).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -2114,7 +2114,7 @@ x-co-op: No
 
 
 game: Galaga (World) (galaga)
-file: $ROM_JSON_ROOT/Other/Arcade/Galaga (World) (galaga)/Galaga (World) (galaga).json
+file: Other/Arcade/Galaga (World) (galaga)/Galaga (World) (galaga).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -2155,7 +2155,7 @@ x-co-op: No
 
 
 game: Galaxian (World) (galaxian)
-file: $ROM_JSON_ROOT/Other/Arcade/Galaxian (World) (galaxian)/Galaxian (World) (galaxian).json
+file: Other/Arcade/Galaxian (World) (galaxian)/Galaxian (World) (galaxian).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -2175,7 +2175,7 @@ x-co-op: No
 
 
 game: Gauntlet (World) (gauntlet)
-file: $ROM_JSON_ROOT/Other/Arcade/Gauntlet (World) (gauntlet)/Gauntlet (World) (gauntlet).json
+file: Other/Arcade/Gauntlet (World) (gauntlet)/Gauntlet (World) (gauntlet).json
 developer: Atari Games
 publisher: Atari Games
 genre: Action;Shooter
@@ -2208,7 +2208,7 @@ x-co-op: Yes
 
 
 game: Gauntlet II (World) (gaunt2)
-file: $ROM_JSON_ROOT/Other/Arcade/Gauntlet II (World) (gaunt2)/Gauntlet II (World) (gaunt2).json
+file: Other/Arcade/Gauntlet II (World) (gaunt2)/Gauntlet II (World) (gaunt2).json
 developer: Atari
 publisher: Atari
 genre: Action;Adventure
@@ -2238,7 +2238,7 @@ x-co-op: Yes
 
 
 game: Ghosts 'n Goblins (World) (gng)
-file: $ROM_JSON_ROOT/Other/Arcade/Ghosts 'n Goblins (World) (gng)/Ghosts 'n Goblins (World) (gng).json
+file: Other/Arcade/Ghosts 'n Goblins (World) (gng)/Ghosts 'n Goblins (World) (gng).json
 developer: Capcom
 publisher: Capcom
 genre: Platform;Shooter
@@ -2263,7 +2263,7 @@ x-co-op: No
 
 
 game: Ghouls 'n Ghosts (World) (ghouls)
-file: $ROM_JSON_ROOT/Other/Arcade/Ghouls 'n Ghosts (World) (ghouls)/Ghouls 'n Ghosts (World) (ghouls).json
+file: Other/Arcade/Ghouls 'n Ghosts (World) (ghouls)/Ghouls 'n Ghosts (World) (ghouls).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -2291,7 +2291,7 @@ x-co-op: No
 
 
 game: Giga Wing (USA) (gigawing)
-file: $ROM_JSON_ROOT/Other/Arcade/Giga Wing (USA) (gigawing)/Giga Wing (USA) (gigawing).json
+file: Other/Arcade/Giga Wing (USA) (gigawing)/Giga Wing (USA) (gigawing).json
 developer: Takumi Corporation
 publisher: Capcom
 genre: Shooter
@@ -2317,7 +2317,7 @@ x-co-op: Yes
 
 
 game: Gravitar (World) (gravitar)
-file: $ROM_JSON_ROOT/Other/Arcade/Gravitar (World) (gravitar)/Gravitar (World) (gravitar).json
+file: Other/Arcade/Gravitar (World) (gravitar)/Gravitar (World) (gravitar).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -2346,7 +2346,7 @@ x-co-op: No
 
 
 game: Grobda (World) (grobda)
-file: $ROM_JSON_ROOT/Other/Arcade/Grobda (World) (grobda)/Grobda (World) (grobda).json
+file: Other/Arcade/Grobda (World) (grobda)/Grobda (World) (grobda).json
 developer: Namco
 publisher: Namco
 genre: Puzzle
@@ -2369,7 +2369,7 @@ x-co-op: No
 
 
 game: Guerrilla War (USA) (gwar)
-file: $ROM_JSON_ROOT/Other/Arcade/Guerrilla War (USA) (gwar)/Guerrilla War (USA) (gwar).json
+file: Other/Arcade/Guerrilla War (USA) (gwar)/Guerrilla War (USA) (gwar).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -2392,7 +2392,7 @@ x-co-op: Yes
 
 
 game: Gun.Smoke (World) (gunsmoke)
-file: $ROM_JSON_ROOT/Other/Arcade/Gun.Smoke (World) (gunsmoke)/Gun.Smoke (World) (gunsmoke).json
+file: Other/Arcade/Gun.Smoke (World) (gunsmoke)/Gun.Smoke (World) (gunsmoke).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -2422,7 +2422,7 @@ x-co-op: No
 
 
 game: Gyruss (World) (gyruss)
-file: $ROM_JSON_ROOT/Other/Arcade/Gyruss (World) (gyruss)/Gyruss (World) (gyruss).json
+file: Other/Arcade/Gyruss (World) (gyruss)/Gyruss (World) (gyruss).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -2465,7 +2465,7 @@ x-co-op: No
 
 
 game: Hard Drivin' (World) (harddriv)
-file: $ROM_JSON_ROOT/Other/Arcade/Hard Drivin' (World) (harddriv)/Hard Drivin' (World) (harddriv).json
+file: Other/Arcade/Hard Drivin' (World) (harddriv)/Hard Drivin' (World) (harddriv).json
 developer: Atari Corporation
 publisher: Atari Corporation
 genre: Racing
@@ -2498,7 +2498,7 @@ x-co-op: No
 
 
 game: Haunted Castle (World) (hcastle)
-file: $ROM_JSON_ROOT/Other/Arcade/Haunted Castle (World) (hcastle)/Haunted Castle (World) (hcastle).json
+file: Other/Arcade/Haunted Castle (World) (hcastle)/Haunted Castle (World) (hcastle).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -2528,7 +2528,7 @@ x-co-op: No
 
 
 game: Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2)
-file: $ROM_JSON_ROOT/Other/Arcade/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2)/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).json
+file: Other/Arcade/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2)/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -2552,7 +2552,7 @@ x-co-op: No
 
 
 game: I, Robot (World) (irobot)
-file: $ROM_JSON_ROOT/Other/Arcade/I, Robot (World) (irobot)/I, Robot (World) (irobot).json
+file: Other/Arcade/I, Robot (World) (irobot)/I, Robot (World) (irobot).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter
@@ -2575,7 +2575,7 @@ x-co-op: No
 
 
 game: Ikari III - The Rescue (World) (ikari3)
-file: $ROM_JSON_ROOT/Other/Arcade/Ikari III - The Rescue (World) (ikari3)/Ikari III - The Rescue (World) (ikari3).json
+file: Other/Arcade/Ikari III - The Rescue (World) (ikari3)/Ikari III - The Rescue (World) (ikari3).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -2593,7 +2593,7 @@ x-co-op: Yes
 
 
 game: Ikari Warriors (USA) (ikari)
-file: $ROM_JSON_ROOT/Other/Arcade/Ikari Warriors (USA) (ikari)/Ikari Warriors (USA) (ikari).json
+file: Other/Arcade/Ikari Warriors (USA) (ikari)/Ikari Warriors (USA) (ikari).json
 developer: SNK
 publisher: Tradewest, Inc.
 genre: Action
@@ -2614,7 +2614,7 @@ x-co-op: Yes
 
 
 game: Joust (World) (joust)
-file: $ROM_JSON_ROOT/Other/Arcade/Joust (World) (joust)/Joust (World) (joust).json
+file: Other/Arcade/Joust (World) (joust)/Joust (World) (joust).json
 developer: Williams
 publisher: Williams
 genre: Action;Platform
@@ -2663,7 +2663,7 @@ x-co-op: Yes
 
 
 game: Joust 2 - Survival of the Fittest (World) (joust2)
-file: $ROM_JSON_ROOT/Other/Arcade/Joust 2 - Survival of the Fittest (World) (joust2)/Joust 2 - Survival of the Fittest (World) (joust2).json
+file: Other/Arcade/Joust 2 - Survival of the Fittest (World) (joust2)/Joust 2 - Survival of the Fittest (World) (joust2).json
 developer: Williams
 publisher: Williams
 genre: Platform
@@ -2690,7 +2690,7 @@ x-co-op: No
 
 
 game: Kicker ~ Shao-lin's Road (kicker)
-file: $ROM_JSON_ROOT/Other/Arcade/Kicker ~ Shao-lin's Road (kicker)/Kicker ~ Shao-lin's Road (kicker).json
+file: Other/Arcade/Kicker ~ Shao-lin's Road (kicker)/Kicker ~ Shao-lin's Road (kicker).json
 developer: Konami
 publisher: Konami
 genre: Fighting;Platform
@@ -2714,7 +2714,7 @@ x-co-op: No
 
 
 game: King & Balloon (USA) (kingball)
-file: $ROM_JSON_ROOT/Other/Arcade/King & Balloon (USA) (kingball)/King & Balloon (USA) (kingball).json
+file: Other/Arcade/King & Balloon (USA) (kingball)/King & Balloon (USA) (kingball).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -2735,7 +2735,7 @@ x-co-op: No
 
 
 game: King of Dragons, The (World) (kod)
-file: $ROM_JSON_ROOT/Other/Arcade/King of Dragons, The (World) (kod)/King of Dragons, The (World) (kod).json
+file: Other/Arcade/King of Dragons, The (World) (kod)/King of Dragons, The (World) (kod).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -2762,7 +2762,7 @@ x-co-op: Yes
 
 
 game: King of Fighters '94, The (World) (kof94)
-file: $ROM_JSON_ROOT/Other/Arcade/King of Fighters '94, The (World) (kof94)/King of Fighters '94, The (World) (kof94).json
+file: Other/Arcade/King of Fighters '94, The (World) (kof94)/King of Fighters '94, The (World) (kof94).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -2798,7 +2798,7 @@ x-co-op: No
 
 
 game: King of the Monsters (World) (kotm)
-file: $ROM_JSON_ROOT/Other/Arcade/King of the Monsters (World) (kotm)/King of the Monsters (World) (kotm).json
+file: Other/Arcade/King of the Monsters (World) (kotm)/King of the Monsters (World) (kotm).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -2824,7 +2824,7 @@ x-co-op: No
 
 
 game: Klax (World) (klax)
-file: $ROM_JSON_ROOT/Other/Arcade/Klax (World) (klax)/Klax (World) (klax).json
+file: Other/Arcade/Klax (World) (klax)/Klax (World) (klax).json
 developer: Atari Games
 publisher: Atari Games
 genre: Puzzle
@@ -2844,7 +2844,7 @@ x-co-op: Yes
 
 
 game: Knights of the Round (World) (knights)
-file: $ROM_JSON_ROOT/Other/Arcade/Knights of the Round (World) (knights)/Knights of the Round (World) (knights).json
+file: Other/Arcade/Knights of the Round (World) (knights)/Knights of the Round (World) (knights).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -2869,7 +2869,7 @@ x-co-op: Yes
 
 
 game: Kozmik Kroozr (World) (kroozr)
-file: $ROM_JSON_ROOT/Other/Arcade/Kozmik Kroozr (World) (kroozr)/Kozmik Kroozr (World) (kroozr).json
+file: Other/Arcade/Kozmik Kroozr (World) (kroozr)/Kozmik Kroozr (World) (kroozr).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Shooter
@@ -2888,7 +2888,7 @@ x-co-op: No
 
 
 game: Last Duel (USA) (lastduel)
-file: $ROM_JSON_ROOT/Other/Arcade/Last Duel (USA) (lastduel)/Last Duel (USA) (lastduel).json
+file: Other/Arcade/Last Duel (USA) (lastduel)/Last Duel (USA) (lastduel).json
 developer: Capcom
 publisher: Capcom
 genre: Racing;Shooter
@@ -2919,7 +2919,7 @@ x-co-op: No
 
 
 game: Last Resort (World) (lresort)
-file: $ROM_JSON_ROOT/Other/Arcade/Last Resort (World) (lresort)/Last Resort (World) (lresort).json
+file: Other/Arcade/Last Resort (World) (lresort)/Last Resort (World) (lresort).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -2939,7 +2939,7 @@ x-co-op: No
 
 
 game: Led Storm Rally 2011 (World) (leds2011)
-file: $ROM_JSON_ROOT/Other/Arcade/Led Storm Rally 2011 (World) (leds2011)/Led Storm Rally 2011 (World) (leds2011).json
+file: Other/Arcade/Led Storm Rally 2011 (World) (leds2011)/Led Storm Rally 2011 (World) (leds2011).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Racing
@@ -2958,7 +2958,7 @@ x-co-op: No
 
 
 game: Legendary Wings (USA) (lwings)
-file: $ROM_JSON_ROOT/Other/Arcade/Legendary Wings (USA) (lwings)/Legendary Wings (USA) (lwings).json
+file: Other/Arcade/Legendary Wings (USA) (lwings)/Legendary Wings (USA) (lwings).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -2991,7 +2991,7 @@ x-co-op: Yes
 
 
 game: Liberator (World) (liberatr)
-file: $ROM_JSON_ROOT/Other/Arcade/Liberator (World) (liberatr)/Liberator (World) (liberatr).json
+file: Other/Arcade/Liberator (World) (liberatr)/Liberator (World) (liberatr).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -3014,7 +3014,7 @@ x-co-op: No
 
 
 game: Lunar Lander (World) (llander)
-file: $ROM_JSON_ROOT/Other/Arcade/Lunar Lander (World) (llander)/Lunar Lander (World) (llander).json
+file: Other/Arcade/Lunar Lander (World) (llander)/Lunar Lander (World) (llander).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -3039,7 +3039,7 @@ x-co-op: No
 
 
 game: Magic Sword - Heroic Fantasy (World) (msword)
-file: $ROM_JSON_ROOT/Other/Arcade/Magic Sword - Heroic Fantasy (World) (msword)/Magic Sword - Heroic Fantasy (World) (msword).json
+file: Other/Arcade/Magic Sword - Heroic Fantasy (World) (msword)/Magic Sword - Heroic Fantasy (World) (msword).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -3059,7 +3059,7 @@ x-co-op: Yes
 
 
 game: Magician Lord (World) (maglord)
-file: $ROM_JSON_ROOT/Other/Arcade/Magician Lord (World) (maglord)/Magician Lord (World) (maglord).json
+file: Other/Arcade/Magician Lord (World) (maglord)/Magician Lord (World) (maglord).json
 developer: Alpha Denshi
 publisher: SNK
 genre: Platform
@@ -3083,7 +3083,7 @@ x-co-op: No
 
 
 game: Major Havoc (World) (mhavoc)
-file: $ROM_JSON_ROOT/Other/Arcade/Major Havoc (World) (mhavoc)/Major Havoc (World) (mhavoc).json
+file: Other/Arcade/Major Havoc (World) (mhavoc)/Major Havoc (World) (mhavoc).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Platform;Shooter
@@ -3109,7 +3109,7 @@ x-co-op: No
 
 
 game: Mappy (USA) (mappy)
-file: $ROM_JSON_ROOT/Other/Arcade/Mappy (USA) (mappy)/Mappy (USA) (mappy).json
+file: Other/Arcade/Mappy (USA) (mappy)/Mappy (USA) (mappy).json
 developer: Namco
 publisher: Bally Midway
 genre: Action;Platform
@@ -3128,7 +3128,7 @@ x-co-op: No
 
 
 game: Marble Madness (World) (marble)
-file: $ROM_JSON_ROOT/Other/Arcade/Marble Madness (World) (marble)/Marble Madness (World) (marble).json
+file: Other/Arcade/Marble Madness (World) (marble)/Marble Madness (World) (marble).json
 developer: Atari Games
 publisher: Atari Games
 genre: Puzzle;Racing;Strategy
@@ -3150,7 +3150,7 @@ x-co-op: No
 
 
 game: Maze Invaders (World) (Proto) (mazeinv)
-file: $ROM_JSON_ROOT/Other/Arcade/Maze Invaders (World) (Proto) (mazeinv)/Maze Invaders (World) (Proto) (mazeinv).json
+file: Other/Arcade/Maze Invaders (World) (Proto) (mazeinv)/Maze Invaders (World) (Proto) (mazeinv).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -3170,7 +3170,7 @@ x-co-op: No
 
 
 game: Mega Man - The Power Battle (USA) (megaman)
-file: $ROM_JSON_ROOT/Other/Arcade/Mega Man - The Power Battle (USA) (megaman)/Mega Man - The Power Battle (USA) (megaman).json
+file: Other/Arcade/Mega Man - The Power Battle (USA) (megaman)/Mega Man - The Power Battle (USA) (megaman).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Fighting
@@ -3188,7 +3188,7 @@ x-co-op: No
 
 
 game: Mega Man 2 - The Power Fighters (USA) (megaman2)
-file: $ROM_JSON_ROOT/Other/Arcade/Mega Man 2 - The Power Fighters (USA) (megaman2)/Mega Man 2 - The Power Fighters (USA) (megaman2).json
+file: Other/Arcade/Mega Man 2 - The Power Fighters (USA) (megaman2)/Mega Man 2 - The Power Fighters (USA) (megaman2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -3209,7 +3209,7 @@ x-co-op: No
 
 
 game: Mega Twins (World) (mtwins)
-file: $ROM_JSON_ROOT/Other/Arcade/Mega Twins (World) (mtwins)/Mega Twins (World) (mtwins).json
+file: Other/Arcade/Mega Twins (World) (mtwins)/Mega Twins (World) (mtwins).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -3232,7 +3232,7 @@ x-co-op: Yes
 
 
 game: Mercs (World) (mercs)
-file: $ROM_JSON_ROOT/Other/Arcade/Mercs (World) (mercs)/Mercs (World) (mercs).json
+file: Other/Arcade/Mercs (World) (mercs)/Mercs (World) (mercs).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -3255,7 +3255,7 @@ x-co-op: Yes
 
 
 game: Metal Slug - Super Vehicle-001 (World) (mslug)
-file: $ROM_JSON_ROOT/Other/Arcade/Metal Slug - Super Vehicle-001 (World) (mslug)/Metal Slug - Super Vehicle-001 (World) (mslug).json
+file: Other/Arcade/Metal Slug - Super Vehicle-001 (World) (mslug)/Metal Slug - Super Vehicle-001 (World) (mslug).json
 developer: Nazca Corporation
 publisher: SNK
 genre: Platform;Shooter
@@ -3279,7 +3279,7 @@ x-co-op: Yes
 
 
 game: Metal Slug 2 - Super Vehicle-001 II (World) (mslug2)
-file: $ROM_JSON_ROOT/Other/Arcade/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2)/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).json
+file: Other/Arcade/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2)/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).json
 developer: SNK
 publisher: SNK
 genre: Action;Adventure;Shooter
@@ -3303,7 +3303,7 @@ x-co-op: Yes
 
 
 game: Metal Slug 3 (World) (mslug3)
-file: $ROM_JSON_ROOT/Other/Arcade/Metal Slug 3 (World) (mslug3)/Metal Slug 3 (World) (mslug3).json
+file: Other/Arcade/Metal Slug 3 (World) (mslug3)/Metal Slug 3 (World) (mslug3).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -3331,7 +3331,7 @@ x-co-op: Yes
 
 
 game: Metal Slug 4 (World) (mslug4)
-file: $ROM_JSON_ROOT/Other/Arcade/Metal Slug 4 (World) (mslug4)/Metal Slug 4 (World) (mslug4).json
+file: Other/Arcade/Metal Slug 4 (World) (mslug4)/Metal Slug 4 (World) (mslug4).json
 developer: Mega Enterprise
 publisher: Mega Enterprise
 genre: Action;Adventure;Shooter
@@ -3355,7 +3355,7 @@ x-co-op: Yes
 
 
 game: Metal Slug 5 (World) (mslug5)
-file: $ROM_JSON_ROOT/Other/Arcade/Metal Slug 5 (World) (mslug5)/Metal Slug 5 (World) (mslug5).json
+file: Other/Arcade/Metal Slug 5 (World) (mslug5)/Metal Slug 5 (World) (mslug5).json
 developer: SNK
 publisher: SNK
 genre: Action;Adventure;Shooter
@@ -3376,7 +3376,7 @@ x-co-op: Yes
 
 
 game: Metal Slug 6 (World) (mslug6)
-file: $ROM_JSON_ROOT/Other/Arcade/Metal Slug 6 (World) (mslug6)/Metal Slug 6 (World) (mslug6).json
+file: Other/Arcade/Metal Slug 6 (World) (mslug6)/Metal Slug 6 (World) (mslug6).json
 developer: SNK
 publisher: SNK
 genre: Adventure;Shooter
@@ -3407,7 +3407,7 @@ x-co-op: Yes
 
 
 game: Metal Slug X (World) (mslugx)
-file: $ROM_JSON_ROOT/Other/Arcade/Metal Slug X (World) (mslugx)/Metal Slug X (World) (mslugx).json
+file: Other/Arcade/Metal Slug X (World) (mslugx)/Metal Slug X (World) (mslugx).json
 developer: SNK
 publisher: SNK
 genre: Platform;Shooter
@@ -3435,7 +3435,7 @@ x-co-op: Yes
 
 
 game: Millipede (World) (milliped)
-file: $ROM_JSON_ROOT/Other/Arcade/Millipede (World) (milliped)/Millipede (World) (milliped).json
+file: Other/Arcade/Millipede (World) (milliped)/Millipede (World) (milliped).json
 developer: Atari
 publisher: Atari
 genre: Action;Shooter
@@ -3483,7 +3483,7 @@ x-co-op: No
 
 
 game: Missile Command (World) (missile)
-file: $ROM_JSON_ROOT/Other/Arcade/Missile Command (World) (missile)/Missile Command (World) (missile).json
+file: Other/Arcade/Missile Command (World) (missile)/Missile Command (World) (missile).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -3510,7 +3510,7 @@ x-co-op: No
 
 
 game: Monte Carlo (World) (montecar)
-file: $ROM_JSON_ROOT/Other/Arcade/Monte Carlo (World) (montecar)/Monte Carlo (World) (montecar).json
+file: Other/Arcade/Monte Carlo (World) (montecar)/Monte Carlo (World) (montecar).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -3530,7 +3530,7 @@ x-co-op: No
 
 
 game: Mortal Kombat (World) (mk)
-file: $ROM_JSON_ROOT/Other/Arcade/Mortal Kombat (World) (mk)/Mortal Kombat (World) (mk).json
+file: Other/Arcade/Mortal Kombat (World) (mk)/Mortal Kombat (World) (mk).json
 developer: Midway
 publisher: Midway
 genre: Fighting
@@ -3557,7 +3557,7 @@ x-co-op: No
 
 
 game: Mortal Kombat 3 (World) (mk3)
-file: $ROM_JSON_ROOT/Other/Arcade/Mortal Kombat 3 (World) (mk3)/Mortal Kombat 3 (World) (mk3).json
+file: Other/Arcade/Mortal Kombat 3 (World) (mk3)/Mortal Kombat 3 (World) (mk3).json
 developer: Midway
 publisher: Midway
 genre: Fighting
@@ -3582,7 +3582,7 @@ x-co-op: No
 
 
 game: Mortal Kombat II (World) (mk2)
-file: $ROM_JSON_ROOT/Other/Arcade/Mortal Kombat II (World) (mk2)/Mortal Kombat II (World) (mk2).json
+file: Other/Arcade/Mortal Kombat II (World) (mk2)/Mortal Kombat II (World) (mk2).json
 developer: Midway
 publisher: Midway
 genre: Fighting
@@ -3605,7 +3605,7 @@ x-co-op: No
 
 
 game: Motos (World) (motos)
-file: $ROM_JSON_ROOT/Other/Arcade/Motos (World) (motos)/Motos (World) (motos).json
+file: Other/Arcade/Motos (World) (motos)/Motos (World) (motos).json
 developer: Namco
 publisher: Namco
 genre: Puzzle
@@ -3641,7 +3641,7 @@ x-co-op: No
 
 
 game: Ms. Pac-Man (World) (mspacman)
-file: $ROM_JSON_ROOT/Other/Arcade/Ms. Pac-Man (World) (mspacman)/Ms. Pac-Man (World) (mspacman).json
+file: Other/Arcade/Ms. Pac-Man (World) (mspacman)/Ms. Pac-Man (World) (mspacman).json
 developer: Midway
 publisher: Midway
 genre: Puzzle
@@ -3663,7 +3663,7 @@ x-co-op: No
 
 
 game: Munch Mobile (USA) (mnchmobl)
-file: $ROM_JSON_ROOT/Other/Arcade/Munch Mobile (USA) (mnchmobl)/Munch Mobile (USA) (mnchmobl).json
+file: Other/Arcade/Munch Mobile (USA) (mnchmobl)/Munch Mobile (USA) (mnchmobl).json
 developer: SNK
 publisher: Centuri, Inc.
 genre: Action;Puzzle;Racing
@@ -3687,7 +3687,7 @@ x-co-op: No
 
 
 game: Narc (World) (narc)
-file: $ROM_JSON_ROOT/Other/Arcade/Narc (World) (narc)/Narc (World) (narc).json
+file: Other/Arcade/Narc (World) (narc)/Narc (World) (narc).json
 developer: Williams Electronics
 publisher: Williams Electronics
 genre: Action
@@ -3713,7 +3713,7 @@ x-co-op: Yes
 
 
 game: Nemesis (World) (nemesis)
-file: $ROM_JSON_ROOT/Other/Arcade/Nemesis (World) (nemesis)/Nemesis (World) (nemesis).json
+file: Other/Arcade/Nemesis (World) (nemesis)/Nemesis (World) (nemesis).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -3743,7 +3743,7 @@ x-co-op: No
 
 
 game: Neo Turf Masters ~ Big Tournament Golf (World) (turfmast)
-file: $ROM_JSON_ROOT/Other/Arcade/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast)/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).json
+file: Other/Arcade/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast)/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).json
 developer: Nazca
 publisher: SNK
 genre: Sports
@@ -3765,7 +3765,7 @@ x-co-op: No
 
 
 game: New Rally-X (World) (nrallyx)
-file: $ROM_JSON_ROOT/Other/Arcade/New Rally-X (World) (nrallyx)/New Rally-X (World) (nrallyx).json
+file: Other/Arcade/New Rally-X (World) (nrallyx)/New Rally-X (World) (nrallyx).json
 developer: Namco
 publisher: Namco
 genre: Racing
@@ -3791,7 +3791,7 @@ x-co-op: No
 
 
 game: Night Warriors - Darkstalkers' Revenge (Europe) (nwarr)
-file: $ROM_JSON_ROOT/Other/Arcade/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr)/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).json
+file: Other/Arcade/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr)/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -3814,7 +3814,7 @@ x-co-op: No
 
 
 game: Ozma Wars (World) (ozmawars)
-file: $ROM_JSON_ROOT/Other/Arcade/Ozma Wars (World) (ozmawars)/Ozma Wars (World) (ozmawars).json
+file: Other/Arcade/Ozma Wars (World) (ozmawars)/Ozma Wars (World) (ozmawars).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -3853,7 +3853,7 @@ x-co-op: No
 
 
 game: P.O.W. - Prisoners of War (USA) (pow)
-file: $ROM_JSON_ROOT/Other/Arcade/P.O.W. - Prisoners of War (USA) (pow)/P.O.W. - Prisoners of War (USA) (pow).json
+file: Other/Arcade/P.O.W. - Prisoners of War (USA) (pow)/P.O.W. - Prisoners of War (USA) (pow).json
 developer: SNK
 publisher: SNK
 genre: Action
@@ -3872,7 +3872,7 @@ x-co-op: Yes
 
 
 game: Pac-Man (World) (Midway) (pacman)
-file: $ROM_JSON_ROOT/Other/Arcade/Pac-Man (World) (Midway) (pacman)/Pac-Man (World) (Midway) (pacman).json
+file: Other/Arcade/Pac-Man (World) (Midway) (pacman)/Pac-Man (World) (Midway) (pacman).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -3908,7 +3908,7 @@ x-co-op: No
 
 
 game: Paddle Mania (World) (paddlema)
-file: $ROM_JSON_ROOT/Other/Arcade/Paddle Mania (World) (paddlema)/Paddle Mania (World) (paddlema).json
+file: Other/Arcade/Paddle Mania (World) (paddlema)/Paddle Mania (World) (paddlema).json
 developer: SNK
 publisher: United Amusements
 genre: Sports
@@ -3926,7 +3926,7 @@ x-co-op: No
 
 
 game: Pang! 3 (Europe) (pang3)
-file: $ROM_JSON_ROOT/Other/Arcade/Pang! 3 (Europe) (pang3)/Pang! 3 (Europe) (pang3).json
+file: Other/Arcade/Pang! 3 (Europe) (pang3)/Pang! 3 (Europe) (pang3).json
 developer: Capcom
 publisher: Ubisoft
 genre: Action;Platform;Shooter
@@ -3946,7 +3946,7 @@ x-co-op: Yes
 
 
 game: Paperboy (World) (paperboy)
-file: $ROM_JSON_ROOT/Other/Arcade/Paperboy (World) (paperboy)/Paperboy (World) (paperboy).json
+file: Other/Arcade/Paperboy (World) (paperboy)/Paperboy (World) (paperboy).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -3971,7 +3971,7 @@ x-co-op: No
 
 
 game: Pirate Ship Higemaru (World) (higemaru)
-file: $ROM_JSON_ROOT/Other/Arcade/Pirate Ship Higemaru (World) (higemaru)/Pirate Ship Higemaru (World) (higemaru).json
+file: Other/Arcade/Pirate Ship Higemaru (World) (higemaru)/Pirate Ship Higemaru (World) (higemaru).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle
@@ -4008,7 +4008,7 @@ x-co-op: No
 
 
 game: Pit-Fighter (World) (pitfight)
-file: $ROM_JSON_ROOT/Other/Arcade/Pit-Fighter (World) (pitfight)/Pit-Fighter (World) (pitfight).json
+file: Other/Arcade/Pit-Fighter (World) (pitfight)/Pit-Fighter (World) (pitfight).json
 developer: Atari
 publisher: Atari
 genre: Fighting
@@ -4062,7 +4062,7 @@ x-co-op: No
 
 
 game: Pnickies (Japan) (pnickj)
-file: $ROM_JSON_ROOT/Other/Arcade/Pnickies (Japan) (pnickj)/Pnickies (Japan) (pnickj).json
+file: Other/Arcade/Pnickies (Japan) (pnickj)/Pnickies (Japan) (pnickj).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle
@@ -4089,7 +4089,7 @@ x-co-op: No
 
 
 game: Pong (World) (pong)
-file: $ROM_JSON_ROOT/Other/Arcade/Pong (World) (pong)/Pong (World) (pong).json
+file: Other/Arcade/Pong (World) (pong)/Pong (World) (pong).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -4129,7 +4129,7 @@ x-co-op: No
 
 
 game: Poolshark (World) (poolshrk)
-file: $ROM_JSON_ROOT/Other/Arcade/Poolshark (World) (poolshrk)/Poolshark (World) (poolshrk).json
+file: Other/Arcade/Poolshark (World) (poolshrk)/Poolshark (World) (poolshrk).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -4152,7 +4152,7 @@ x-co-op: No
 
 
 game: Pooyan (World) (pooyan)
-file: $ROM_JSON_ROOT/Other/Arcade/Pooyan (World) (pooyan)/Pooyan (World) (pooyan).json
+file: Other/Arcade/Pooyan (World) (pooyan)/Pooyan (World) (pooyan).json
 developer: Konami
 publisher: Bootleg
 genre: Action;Puzzle
@@ -4171,7 +4171,7 @@ x-co-op: No
 
 
 game: Prehistoric Isle in 1930 (World) (prehisle)
-file: $ROM_JSON_ROOT/Other/Arcade/Prehistoric Isle in 1930 (World) (prehisle)/Prehistoric Isle in 1930 (World) (prehisle).json
+file: Other/Arcade/Prehistoric Isle in 1930 (World) (prehisle)/Prehistoric Isle in 1930 (World) (prehisle).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -4200,7 +4200,7 @@ x-co-op: Yes
 
 
 game: Primal Rage (World) (primrage)
-file: $ROM_JSON_ROOT/Other/Arcade/Primal Rage (World) (primrage)/Primal Rage (World) (primrage).json
+file: Other/Arcade/Primal Rage (World) (primrage)/Primal Rage (World) (primrage).json
 developer: Atari
 publisher: Time Warner Interactive
 genre: Fighting
@@ -4233,7 +4233,7 @@ x-co-op: No
 
 
 game: Progear (USA) (progear)
-file: $ROM_JSON_ROOT/Other/Arcade/Progear (USA) (progear)/Progear (USA) (progear).json
+file: Other/Arcade/Progear (USA) (progear)/Progear (USA) (progear).json
 developer: CAVE Co., Ltd.
 publisher: Capcom
 genre: Shooter
@@ -4270,7 +4270,7 @@ x-co-op: No
 
 
 game: Psycho Soldier (USA) (psychos)
-file: $ROM_JSON_ROOT/Other/Arcade/Psycho Soldier (USA) (psychos)/Psycho Soldier (USA) (psychos).json
+file: Other/Arcade/Psycho Soldier (USA) (psychos)/Psycho Soldier (USA) (psychos).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -4299,7 +4299,7 @@ x-co-op: Yes
 
 
 game: Quantum (World) (quantum)
-file: $ROM_JSON_ROOT/Other/Arcade/Quantum (World) (quantum)/Quantum (World) (quantum).json
+file: Other/Arcade/Quantum (World) (quantum)/Quantum (World) (quantum).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Strategy
@@ -4316,7 +4316,7 @@ x-co-op: No
 
 
 game: Quiz & Dragons - Capcom Quiz Game (USA) (qad)
-file: $ROM_JSON_ROOT/Other/Arcade/Quiz & Dragons - Capcom Quiz Game (USA) (qad)/Quiz & Dragons - Capcom Quiz Game (USA) (qad).json
+file: Other/Arcade/Quiz & Dragons - Capcom Quiz Game (USA) (qad)/Quiz & Dragons - Capcom Quiz Game (USA) (qad).json
 developer: Capcom
 publisher: Capcom
 genre: Quiz
@@ -4349,7 +4349,7 @@ x-co-op: No
 
 
 game: Rally-X (World) (rallyx)
-file: $ROM_JSON_ROOT/Other/Arcade/Rally-X (World) (rallyx)/Rally-X (World) (rallyx).json
+file: Other/Arcade/Rally-X (World) (rallyx)/Rally-X (World) (rallyx).json
 developer: Namco
 publisher: Namco
 genre: Action;Racing
@@ -4377,7 +4377,7 @@ x-co-op: No
 
 
 game: Rampage (World) (rampage)
-file: $ROM_JSON_ROOT/Other/Arcade/Rampage (World) (rampage)/Rampage (World) (rampage).json
+file: Other/Arcade/Rampage (World) (rampage)/Rampage (World) (rampage).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Action
@@ -4397,7 +4397,7 @@ x-co-op: Yes
 
 
 game: Rampage - World Tour (World) (rmpgwt)
-file: $ROM_JSON_ROOT/Other/Arcade/Rampage - World Tour (World) (rmpgwt)/Rampage - World Tour (World) (rmpgwt).json
+file: Other/Arcade/Rampage - World Tour (World) (rmpgwt)/Rampage - World Tour (World) (rmpgwt).json
 developer: Game Refuge
 publisher: Midway Games
 genre: Action
@@ -4436,7 +4436,7 @@ x-co-op: No
 
 
 game: Rampart (World) (rampart)
-file: $ROM_JSON_ROOT/Other/Arcade/Rampart (World) (rampart)/Rampart (World) (rampart).json
+file: Other/Arcade/Rampart (World) (rampart)/Rampart (World) (rampart).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -4476,7 +4476,7 @@ x-co-op: Yes
 
 
 game: Red Baron (World) (redbaron)
-file: $ROM_JSON_ROOT/Other/Arcade/Red Baron (World) (redbaron)/Red Baron (World) (redbaron).json
+file: Other/Arcade/Red Baron (World) (redbaron)/Red Baron (World) (redbaron).json
 developer: Atari
 publisher: Atari
 genre: Action;Flight Simulator
@@ -4510,7 +4510,7 @@ x-co-op: No
 
 
 game: Road Blasters (World) (roadblst)
-file: $ROM_JSON_ROOT/Other/Arcade/Road Blasters (World) (roadblst)/Road Blasters (World) (roadblst).json
+file: Other/Arcade/Road Blasters (World) (roadblst)/Road Blasters (World) (roadblst).json
 developer: Atari Games
 publisher: Atari Games
 genre: Action;Racing;Shooter
@@ -4540,7 +4540,7 @@ x-co-op: No
 
 
 game: Road Fighter (World) (roadf)
-file: $ROM_JSON_ROOT/Other/Arcade/Road Fighter (World) (roadf)/Road Fighter (World) (roadf).json
+file: Other/Arcade/Road Fighter (World) (roadf)/Road Fighter (World) (roadf).json
 developer: Konami
 publisher: Konami
 genre: Racing
@@ -4560,7 +4560,7 @@ x-co-op: No
 
 
 game: Robotron - 2084 (World) (robotron)
-file: $ROM_JSON_ROOT/Other/Arcade/Robotron - 2084 (World) (robotron)/Robotron - 2084 (World) (robotron).json
+file: Other/Arcade/Robotron - 2084 (World) (robotron)/Robotron - 2084 (World) (robotron).json
 developer: Vid Kidz
 publisher: Williams
 genre: Shooter
@@ -4582,7 +4582,7 @@ x-co-op: No
 
 
 game: Roc'n Rope (World) (rocnrope)
-file: $ROM_JSON_ROOT/Other/Arcade/Roc'n Rope (World) (rocnrope)/Roc'n Rope (World) (rocnrope).json
+file: Other/Arcade/Roc'n Rope (World) (rocnrope)/Roc'n Rope (World) (rocnrope).json
 developer: Konami
 publisher: Interlogic
 genre: Platform
@@ -4603,7 +4603,7 @@ x-co-op: No
 
 
 game: Rolling Thunder (World) (rthunder)
-file: $ROM_JSON_ROOT/Other/Arcade/Rolling Thunder (World) (rthunder)/Rolling Thunder (World) (rthunder).json
+file: Other/Arcade/Rolling Thunder (World) (rthunder)/Rolling Thunder (World) (rthunder).json
 developer: Namco
 publisher: Namco
 genre: Platform;Shooter
@@ -4626,7 +4626,7 @@ x-co-op: No
 
 
 game: Rolling Thunder 2 (World) (rthun2)
-file: $ROM_JSON_ROOT/Other/Arcade/Rolling Thunder 2 (World) (rthun2)/Rolling Thunder 2 (World) (rthun2).json
+file: Other/Arcade/Rolling Thunder 2 (World) (rthun2)/Rolling Thunder 2 (World) (rthun2).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -4649,7 +4649,7 @@ x-co-op: Yes
 
 
 game: Root Beer Tapper (World) (rbtapper)
-file: $ROM_JSON_ROOT/Other/Arcade/Root Beer Tapper (World) (rbtapper)/Root Beer Tapper (World) (rbtapper).json
+file: Other/Arcade/Root Beer Tapper (World) (rbtapper)/Root Beer Tapper (World) (rbtapper).json
 developer: Marvin Glass and Associates
 publisher: Bally Midway
 genre: Action
@@ -4670,7 +4670,7 @@ x-co-op: No
 
 
 game: SAR - Search And Rescue (World) (searchar)
-file: $ROM_JSON_ROOT/Other/Arcade/SAR - Search And Rescue (World) (searchar)/SAR - Search And Rescue (World) (searchar).json
+file: Other/Arcade/SAR - Search And Rescue (World) (searchar)/SAR - Search And Rescue (World) (searchar).json
 developer: SNK
 publisher: SNK
 genre: Action
@@ -4689,7 +4689,7 @@ x-co-op: Yes
 
 
 game: Salamander (World) (salamand)
-file: $ROM_JSON_ROOT/Other/Arcade/Salamander (World) (salamand)/Salamander (World) (salamand).json
+file: Other/Arcade/Salamander (World) (salamand)/Salamander (World) (salamand).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -4713,7 +4713,7 @@ x-co-op: Yes
 
 
 game: Samurai Shodown ~ Samurai Spirits (World) (samsho)
-file: $ROM_JSON_ROOT/Other/Arcade/Samurai Shodown ~ Samurai Spirits (World) (samsho)/Samurai Shodown ~ Samurai Spirits (World) (samsho).json
+file: Other/Arcade/Samurai Shodown ~ Samurai Spirits (World) (samsho)/Samurai Shodown ~ Samurai Spirits (World) (samsho).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -4733,7 +4733,7 @@ x-co-op: No
 
 
 game: Sasuke vs. Commander (World) (sasuke)
-file: $ROM_JSON_ROOT/Other/Arcade/Sasuke vs. Commander (World) (sasuke)/Sasuke vs. Commander (World) (sasuke).json
+file: Other/Arcade/Sasuke vs. Commander (World) (sasuke)/Sasuke vs. Commander (World) (sasuke).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -4759,7 +4759,7 @@ x-co-op: No
 
 
 game: Satan's Hollow (World) (shollow)
-file: $ROM_JSON_ROOT/Other/Arcade/Satan's Hollow (World) (shollow)/Satan's Hollow (World) (shollow).json
+file: Other/Arcade/Satan's Hollow (World) (shollow)/Satan's Hollow (World) (shollow).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Shooter
@@ -4802,7 +4802,7 @@ x-co-op: No
 
 
 game: Saturday Night Slam Masters (World) (slammast)
-file: $ROM_JSON_ROOT/Other/Arcade/Saturday Night Slam Masters (World) (slammast)/Saturday Night Slam Masters (World) (slammast).json
+file: Other/Arcade/Saturday Night Slam Masters (World) (slammast)/Saturday Night Slam Masters (World) (slammast).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting;Sports
@@ -4833,7 +4833,7 @@ x-co-op: Yes
 
 
 game: Scramble (World) (scramble)
-file: $ROM_JSON_ROOT/Other/Arcade/Scramble (World) (scramble)/Scramble (World) (scramble).json
+file: Other/Arcade/Scramble (World) (scramble)/Scramble (World) (scramble).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -4851,7 +4851,7 @@ x-co-op: No
 
 
 game: Section Z (World) (sectionz)
-file: $ROM_JSON_ROOT/Other/Arcade/Section Z (World) (sectionz)/Section Z (World) (sectionz).json
+file: Other/Arcade/Section Z (World) (sectionz)/Section Z (World) (sectionz).json
 developer: Capcom Co., Ltd.
 publisher: CAPCOM Co., Ltd.
 genre: Shooter
@@ -4887,7 +4887,7 @@ x-co-op: No
 
 
 game: Sengoku ~ Sengoku Denshou (World) (sengoku)
-file: $ROM_JSON_ROOT/Other/Arcade/Sengoku ~ Sengoku Denshou (World) (sengoku)/Sengoku ~ Sengoku Denshou (World) (sengoku).json
+file: Other/Arcade/Sengoku ~ Sengoku Denshou (World) (sengoku)/Sengoku ~ Sengoku Denshou (World) (sengoku).json
 developer: SNK Corporation
 publisher: SNK Corporation
 genre: Fighting
@@ -4910,7 +4910,7 @@ x-co-op: Yes
 
 
 game: Shinobi (Japan) (shinobi)
-file: $ROM_JSON_ROOT/Other/Arcade/Shinobi (Japan) (shinobi)/Shinobi (Japan) (shinobi).json
+file: Other/Arcade/Shinobi (Japan) (shinobi)/Shinobi (Japan) (shinobi).json
 developer: Sega
 publisher: Sega
 genre: Platform;Beat 'em Up
@@ -4934,7 +4934,7 @@ x-co-op: No
 
 
 game: Shock Troopers (World) (shocktro)
-file: $ROM_JSON_ROOT/Other/Arcade/Shock Troopers (World) (shocktro)/Shock Troopers (World) (shocktro).json
+file: Other/Arcade/Shock Troopers (World) (shocktro)/Shock Troopers (World) (shocktro).json
 developer: Saurus
 publisher: SNK
 genre: Shooter
@@ -4960,7 +4960,7 @@ x-co-op: Yes
 
 
 game: Side Arms - Hyper Dyne (World) (sidearms)
-file: $ROM_JSON_ROOT/Other/Arcade/Side Arms - Hyper Dyne (World) (sidearms)/Side Arms - Hyper Dyne (World) (sidearms).json
+file: Other/Arcade/Side Arms - Hyper Dyne (World) (sidearms)/Side Arms - Hyper Dyne (World) (sidearms).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -4989,7 +4989,7 @@ x-co-op: No
 
 
 game: Sinistar (World) (sinistar)
-file: $ROM_JSON_ROOT/Other/Arcade/Sinistar (World) (sinistar)/Sinistar (World) (sinistar).json
+file: Other/Arcade/Sinistar (World) (sinistar)/Sinistar (World) (sinistar).json
 developer: Williams Electronics
 publisher: Williams Electronics
 genre: Shooter
@@ -5020,7 +5020,7 @@ x-co-op: No
 
 
 game: Sky Diver (World) (skydiver)
-file: $ROM_JSON_ROOT/Other/Arcade/Sky Diver (World) (skydiver)/Sky Diver (World) (skydiver).json
+file: Other/Arcade/Sky Diver (World) (skydiver)/Sky Diver (World) (skydiver).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -5048,7 +5048,7 @@ x-co-op: No
 
 
 game: Sky Kid (World) (skykid)
-file: $ROM_JSON_ROOT/Other/Arcade/Sky Kid (World) (skykid)/Sky Kid (World) (skykid).json
+file: Other/Arcade/Sky Kid (World) (skykid)/Sky Kid (World) (skykid).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -5076,7 +5076,7 @@ x-co-op: No
 
 
 game: Smash T.V. (World) (smashtv)
-file: $ROM_JSON_ROOT/Other/Arcade/Smash T.V. (World) (smashtv)/Smash T.V. (World) (smashtv).json
+file: Other/Arcade/Smash T.V. (World) (smashtv)/Smash T.V. (World) (smashtv).json
 developer: Williams
 publisher: Williams
 genre: Shooter
@@ -5106,7 +5106,7 @@ x-co-op: Yes
 
 
 game: Son Son (World) (sonson)
-file: $ROM_JSON_ROOT/Other/Arcade/Son Son (World) (sonson)/Son Son (World) (sonson).json
+file: Other/Arcade/Son Son (World) (sonson)/Son Son (World) (sonson).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -5148,7 +5148,7 @@ x-co-op: Yes
 
 
 game: Sonic Championship (USA) (schamp)
-file: $ROM_JSON_ROOT/Other/Arcade/Sonic Championship (USA) (schamp)/Sonic Championship (USA) (schamp).json
+file: Other/Arcade/Sonic Championship (USA) (schamp)/Sonic Championship (USA) (schamp).json
 developer: Sega AM2
 publisher: Sega
 genre: Fighting
@@ -5170,7 +5170,7 @@ x-co-op: No
 
 
 game: Space Duel (World) (spacduel)
-file: $ROM_JSON_ROOT/Other/Arcade/Space Duel (World) (spacduel)/Space Duel (World) (spacduel).json
+file: Other/Arcade/Space Duel (World) (spacduel)/Space Duel (World) (spacduel).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -5196,7 +5196,7 @@ x-co-op: Yes
 
 
 game: Space Harrier (World) (sharrier)
-file: $ROM_JSON_ROOT/Other/Arcade/Space Harrier (World) (sharrier)/Space Harrier (World) (sharrier).json
+file: Other/Arcade/Space Harrier (World) (sharrier)/Space Harrier (World) (sharrier).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -5217,7 +5217,7 @@ x-co-op: No
 
 
 game: Speed Rumbler, The (World) (srumbler)
-file: $ROM_JSON_ROOT/Other/Arcade/Speed Rumbler, The (World) (srumbler)/Speed Rumbler, The (World) (srumbler).json
+file: Other/Arcade/Speed Rumbler, The (World) (srumbler)/Speed Rumbler, The (World) (srumbler).json
 developer: Capcom
 publisher: Capcom
 genre: Racing;Shooter
@@ -5253,7 +5253,7 @@ x-co-op: No
 
 
 game: Splat! (World) (splat)
-file: $ROM_JSON_ROOT/Other/Arcade/Splat! (World) (splat)/Splat! (World) (splat).json
+file: Other/Arcade/Splat! (World) (splat)/Splat! (World) (splat).json
 developer: Williams
 publisher: Williams
 genre: Shooter
@@ -5297,7 +5297,7 @@ x-co-op: No
 
 
 game: Splatter House (World) (splatter)
-file: $ROM_JSON_ROOT/Other/Arcade/Splatter House (World) (splatter)/Splatter House (World) (splatter).json
+file: Other/Arcade/Splatter House (World) (splatter)/Splatter House (World) (splatter).json
 developer: Namco
 publisher: Namco
 genre: Beat 'em Up
@@ -5318,7 +5318,7 @@ x-co-op: No
 
 
 game: Sprint 1 (World) (sprint1)
-file: $ROM_JSON_ROOT/Other/Arcade/Sprint 1 (World) (sprint1)/Sprint 1 (World) (sprint1).json
+file: Other/Arcade/Sprint 1 (World) (sprint1)/Sprint 1 (World) (sprint1).json
 developer: Kee Games
 publisher: Atari
 genre: Racing
@@ -5343,7 +5343,7 @@ x-co-op: No
 
 
 game: Sprint 8 (World) (sprint8)
-file: $ROM_JSON_ROOT/Other/Arcade/Sprint 8 (World) (sprint8)/Sprint 8 (World) (sprint8).json
+file: Other/Arcade/Sprint 8 (World) (sprint8)/Sprint 8 (World) (sprint8).json
 developer: Atari, Inc.
 publisher: Kee Games
 genre: Racing;Arcade;Automobile
@@ -5376,7 +5376,7 @@ x-co-op: No
 
 
 game: Spy Hunter (World) (spyhunt)
-file: $ROM_JSON_ROOT/Other/Arcade/Spy Hunter (World) (spyhunt)/Spy Hunter (World) (spyhunt).json
+file: Other/Arcade/Spy Hunter (World) (spyhunt)/Spy Hunter (World) (spyhunt).json
 developer: Midway
 publisher: Midway
 genre: Racing;Shooter
@@ -5396,7 +5396,7 @@ x-co-op: No
 
 
 game: Spy Hunter II (World) (spyhunt2)
-file: $ROM_JSON_ROOT/Other/Arcade/Spy Hunter II (World) (spyhunt2)/Spy Hunter II (World) (spyhunt2).json
+file: Other/Arcade/Spy Hunter II (World) (spyhunt2)/Spy Hunter II (World) (spyhunt2).json
 developer: Bally Midway Mfg Co.
 publisher: Bally Midway Mfg Co.
 genre: Shooter
@@ -5433,7 +5433,7 @@ x-co-op: No
 
 
 game: Stargate (World) (stargate)
-file: $ROM_JSON_ROOT/Other/Arcade/Stargate (World) (stargate)/Stargate (World) (stargate).json
+file: Other/Arcade/Stargate (World) (stargate)/Stargate (World) (stargate).json
 developer: Williams
 publisher: Williams
 genre: Action;Shooter
@@ -5452,7 +5452,7 @@ x-co-op: No
 
 
 game: Street Fighter (USA) (sf)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter (USA) (sf)/Street Fighter (USA) (sf).json
+file: Other/Arcade/Street Fighter (USA) (sf)/Street Fighter (USA) (sf).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5481,7 +5481,7 @@ x-co-op: No
 
 
 game: Street Fighter Alpha - Warriors' Dreams (Europe) (sfa)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa)/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).json
+file: Other/Arcade/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa)/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5509,7 +5509,7 @@ x-co-op: No
 
 
 game: Street Fighter Alpha 2 (Europe) (sfa2)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter Alpha 2 (Europe) (sfa2)/Street Fighter Alpha 2 (Europe) (sfa2).json
+file: Other/Arcade/Street Fighter Alpha 2 (Europe) (sfa2)/Street Fighter Alpha 2 (Europe) (sfa2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5534,7 +5534,7 @@ x-co-op: No
 
 
 game: Street Fighter Alpha 3 (Europe) (sfa3)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter Alpha 3 (Europe) (sfa3)/Street Fighter Alpha 3 (Europe) (sfa3).json
+file: Other/Arcade/Street Fighter Alpha 3 (Europe) (sfa3)/Street Fighter Alpha 3 (Europe) (sfa3).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5559,7 +5559,7 @@ x-co-op: No
 
 
 game: Street Fighter II - The World Warrior (World) (sf2)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter II - The World Warrior (World) (sf2)/Street Fighter II - The World Warrior (World) (sf2).json
+file: Other/Arcade/Street Fighter II - The World Warrior (World) (sf2)/Street Fighter II - The World Warrior (World) (sf2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5591,7 +5591,7 @@ x-co-op: No
 
 
 game: Street Fighter II' - Champion Edition (World) (sf2ce)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter II' - Champion Edition (World) (sf2ce)/Street Fighter II' - Champion Edition (World) (sf2ce).json
+file: Other/Arcade/Street Fighter II' - Champion Edition (World) (sf2ce)/Street Fighter II' - Champion Edition (World) (sf2ce).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5623,7 +5623,7 @@ x-co-op: Yes
 
 
 game: Street Fighter II' - Hyper Fighting (World) (sf2hf)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter II' - Hyper Fighting (World) (sf2hf)/Street Fighter II' - Hyper Fighting (World) (sf2hf).json
+file: Other/Arcade/Street Fighter II' - Hyper Fighting (World) (sf2hf)/Street Fighter II' - Hyper Fighting (World) (sf2hf).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5644,7 +5644,7 @@ x-co-op: No
 
 
 game: Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2)/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).json
+file: Other/Arcade/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2)/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5680,7 +5680,7 @@ x-co-op: No
 
 
 game: Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3)/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).json
+file: Other/Arcade/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3)/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5773,7 +5773,7 @@ x-co-op: No
 
 
 game: Street Fighter III - New Generation (Europe) (sfiii)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Fighter III - New Generation (Europe) (sfiii)/Street Fighter III - New Generation (Europe) (sfiii).json
+file: Other/Arcade/Street Fighter III - New Generation (Europe) (sfiii)/Street Fighter III - New Generation (Europe) (sfiii).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5806,7 +5806,7 @@ x-co-op: No
 
 
 game: Street Smart (USA) (streetsm)
-file: $ROM_JSON_ROOT/Other/Arcade/Street Smart (USA) (streetsm)/Street Smart (USA) (streetsm).json
+file: Other/Arcade/Street Smart (USA) (streetsm)/Street Smart (USA) (streetsm).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -5834,7 +5834,7 @@ x-co-op: No
 
 
 game: Strider (USA) (strider)
-file: $ROM_JSON_ROOT/Other/Arcade/Strider (USA) (strider)/Strider (USA) (strider).json
+file: Other/Arcade/Strider (USA) (strider)/Strider (USA) (strider).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -5857,7 +5857,7 @@ x-co-op: No
 
 
 game: Super Breakout (World) (sbrkout)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Breakout (World) (sbrkout)/Super Breakout (World) (sbrkout).json
+file: Other/Arcade/Super Breakout (World) (sbrkout)/Super Breakout (World) (sbrkout).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -5888,7 +5888,7 @@ x-co-op: No
 
 
 game: Super Bug (World) (superbug)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Bug (World) (superbug)/Super Bug (World) (superbug).json
+file: Other/Arcade/Super Bug (World) (superbug)/Super Bug (World) (superbug).json
 developer: Kee Games
 publisher: Atari
 genre: Racing
@@ -5912,7 +5912,7 @@ x-co-op: No
 
 
 game: Super Buster Bros. (USA) (sbbros)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Buster Bros. (USA) (sbbros)/Super Buster Bros. (USA) (sbbros).json
+file: Other/Arcade/Super Buster Bros. (USA) (sbbros)/Super Buster Bros. (USA) (sbbros).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle;Shooter
@@ -5936,7 +5936,7 @@ x-co-op: No
 
 
 game: Super Cobra (World) (scobra)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Cobra (World) (scobra)/Super Cobra (World) (scobra).json
+file: Other/Arcade/Super Cobra (World) (scobra)/Super Cobra (World) (scobra).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -5959,7 +5959,7 @@ x-co-op: No
 
 
 game: Super Gem Fighter Mini Mix (USA) (sgemf)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Gem Fighter Mini Mix (USA) (sgemf)/Super Gem Fighter Mini Mix (USA) (sgemf).json
+file: Other/Arcade/Super Gem Fighter Mini Mix (USA) (sgemf)/Super Gem Fighter Mini Mix (USA) (sgemf).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5978,7 +5978,7 @@ x-co-op: No
 
 
 game: Super Puzzle Fighter II Turbo (Europe) (spf2t)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Puzzle Fighter II Turbo (Europe) (spf2t)/Super Puzzle Fighter II Turbo (Europe) (spf2t).json
+file: Other/Arcade/Super Puzzle Fighter II Turbo (Europe) (spf2t)/Super Puzzle Fighter II Turbo (Europe) (spf2t).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle
@@ -6003,7 +6003,7 @@ x-co-op: No
 
 
 game: Super Sidekicks 3 - The Next Glory (World) (ssideki3)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Sidekicks 3 - The Next Glory (World) (ssideki3)/Super Sidekicks 3 - The Next Glory (World) (ssideki3).json
+file: Other/Arcade/Super Sidekicks 3 - The Next Glory (World) (ssideki3)/Super Sidekicks 3 - The Next Glory (World) (ssideki3).json
 developer: SNK
 publisher: SNK
 genre: Sports
@@ -6024,7 +6024,7 @@ x-co-op: No
 
 
 game: Super Sprint (World) (ssprint)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Sprint (World) (ssprint)/Super Sprint (World) (ssprint).json
+file: Other/Arcade/Super Sprint (World) (ssprint)/Super Sprint (World) (ssprint).json
 developer: Atari Games
 publisher: Atari Games
 genre: Racing
@@ -6046,7 +6046,7 @@ x-co-op: No
 
 
 game: Super Street Fighter II - The New Challengers (World) (ssf2)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Street Fighter II - The New Challengers (World) (ssf2)/Super Street Fighter II - The New Challengers (World) (ssf2).json
+file: Other/Arcade/Super Street Fighter II - The New Challengers (World) (ssf2)/Super Street Fighter II - The New Challengers (World) (ssf2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6072,7 +6072,7 @@ x-co-op: No
 
 
 game: Super Street Fighter II Turbo (World) (ssf2t)
-file: $ROM_JSON_ROOT/Other/Arcade/Super Street Fighter II Turbo (World) (ssf2t)/Super Street Fighter II Turbo (World) (ssf2t).json
+file: Other/Arcade/Super Street Fighter II Turbo (World) (ssf2t)/Super Street Fighter II Turbo (World) (ssf2t).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6099,7 +6099,7 @@ x-co-op: No
 
 
 game: T.N.K III (USA) (tnk3)
-file: $ROM_JSON_ROOT/Other/Arcade/T.N.K III (USA) (tnk3)/T.N.K III (USA) (tnk3).json
+file: Other/Arcade/T.N.K III (USA) (tnk3)/T.N.K III (USA) (tnk3).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -6123,7 +6123,7 @@ x-co-op: No
 
 
 game: Tank Force (USA) (tankfrce)
-file: $ROM_JSON_ROOT/Other/Arcade/Tank Force (USA) (tankfrce)/Tank Force (USA) (tankfrce).json
+file: Other/Arcade/Tank Force (USA) (tankfrce)/Tank Force (USA) (tankfrce).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -6149,7 +6149,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles (World) (tmnt)
-file: $ROM_JSON_ROOT/Other/Arcade/Teenage Mutant Ninja Turtles (World) (tmnt)/Teenage Mutant Ninja Turtles (World) (tmnt).json
+file: Other/Arcade/Teenage Mutant Ninja Turtles (World) (tmnt)/Teenage Mutant Ninja Turtles (World) (tmnt).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -6170,7 +6170,7 @@ x-co-op: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2)
-file: $ROM_JSON_ROOT/Other/Arcade/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2)/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).json
+file: Other/Arcade/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2)/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -6197,7 +6197,7 @@ x-co-op: Yes
 
 
 game: Tempest (World) (tempest)
-file: $ROM_JSON_ROOT/Other/Arcade/Tempest (World) (tempest)/Tempest (World) (tempest).json
+file: Other/Arcade/Tempest (World) (tempest)/Tempest (World) (tempest).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -6218,7 +6218,7 @@ x-co-op: No
 
 
 game: Three Wonders (World) (3wonders)
-file: $ROM_JSON_ROOT/Other/Arcade/Three Wonders (World) (3wonders)/Three Wonders (World) (3wonders).json
+file: Other/Arcade/Three Wonders (World) (3wonders)/Three Wonders (World) (3wonders).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform;Puzzle;Shooter
@@ -6235,7 +6235,7 @@ x-co-op: No
 
 
 game: Thunder Cross (World) (thunderx)
-file: $ROM_JSON_ROOT/Other/Arcade/Thunder Cross (World) (thunderx)/Thunder Cross (World) (thunderx).json
+file: Other/Arcade/Thunder Cross (World) (thunderx)/Thunder Cross (World) (thunderx).json
 developer: Konami
 publisher: Konami
 genre: Action;Shooter
@@ -6259,7 +6259,7 @@ x-co-op: No
 
 
 game: Tiger Road (USA) (tigeroad)
-file: $ROM_JSON_ROOT/Other/Arcade/Tiger Road (USA) (tigeroad)/Tiger Road (USA) (tigeroad).json
+file: Other/Arcade/Tiger Road (USA) (tigeroad)/Tiger Road (USA) (tigeroad).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -6287,7 +6287,7 @@ x-co-op: No
 
 
 game: Timber (World) (timber)
-file: $ROM_JSON_ROOT/Other/Arcade/Timber (World) (timber)/Timber (World) (timber).json
+file: Other/Arcade/Timber (World) (timber)/Timber (World) (timber).json
 developer: Marvin Glass and Associates
 publisher: Bally Midway
 genre: Platform
@@ -6331,7 +6331,7 @@ x-co-op: No
 
 
 game: Time Pilot (World) (timeplt)
-file: $ROM_JSON_ROOT/Other/Arcade/Time Pilot (World) (timeplt)/Time Pilot (World) (timeplt).json
+file: Other/Arcade/Time Pilot (World) (timeplt)/Time Pilot (World) (timeplt).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -6362,7 +6362,7 @@ x-co-op: No
 
 
 game: Time Soldiers (USA) (timesold)
-file: $ROM_JSON_ROOT/Other/Arcade/Time Soldiers (USA) (timesold)/Time Soldiers (USA) (timesold).json
+file: Other/Arcade/Time Soldiers (USA) (timesold)/Time Soldiers (USA) (timesold).json
 developer: Romstar
 publisher: Romstar Incorporated
 genre: Action;Shooter
@@ -6380,7 +6380,7 @@ x-co-op: Yes
 
 
 game: Toobin' (World) (toobin)
-file: $ROM_JSON_ROOT/Other/Arcade/Toobin' (World) (toobin)/Toobin' (World) (toobin).json
+file: Other/Arcade/Toobin' (World) (toobin)/Toobin' (World) (toobin).json
 developer: Atari
 publisher: Domark
 genre: Racing
@@ -6439,7 +6439,7 @@ x-co-op: No
 
 
 game: Top Hunter - Roddy & Cathy (World) (tophuntr)
-file: $ROM_JSON_ROOT/Other/Arcade/Top Hunter - Roddy & Cathy (World) (tophuntr)/Top Hunter - Roddy & Cathy (World) (tophuntr).json
+file: Other/Arcade/Top Hunter - Roddy & Cathy (World) (tophuntr)/Top Hunter - Roddy & Cathy (World) (tophuntr).json
 developer: SNK
 publisher: SNK
 genre: Platform
@@ -6463,7 +6463,7 @@ x-co-op: No
 
 
 game: Total Carnage (World) (totcam)
-file: $ROM_JSON_ROOT/Other/Arcade/Total Carnage (World) (totcam)/Total Carnage (World) (totcam).json
+file: Other/Arcade/Total Carnage (World) (totcam)/Total Carnage (World) (totcam).json
 developer: Midway
 publisher: Midway
 genre: Shooter
@@ -6493,7 +6493,7 @@ x-co-op: Yes
 
 
 game: Tower of Druaga, The (World) (todruaga)
-file: $ROM_JSON_ROOT/Other/Arcade/Tower of Druaga, The (World) (todruaga)/Tower of Druaga, The (World) (todruaga).json
+file: Other/Arcade/Tower of Druaga, The (World) (todruaga)/Tower of Druaga, The (World) (todruaga).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -6513,7 +6513,7 @@ x-co-op: No
 
 
 game: Trojan (USA) (trojan)
-file: $ROM_JSON_ROOT/Other/Arcade/Trojan (USA) (trojan)/Trojan (USA) (trojan).json
+file: Other/Arcade/Trojan (USA) (trojan)/Trojan (USA) (trojan).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -6543,7 +6543,7 @@ x-co-op: No
 
 
 game: TwinBee (World) (twinbee)
-file: $ROM_JSON_ROOT/Other/Arcade/TwinBee (World) (twinbee)/TwinBee (World) (twinbee).json
+file: Other/Arcade/TwinBee (World) (twinbee)/TwinBee (World) (twinbee).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -6570,7 +6570,7 @@ x-co-op: Yes
 
 
 game: Typhoon (World) (ajax)
-file: $ROM_JSON_ROOT/Other/Arcade/Typhoon (World) (ajax)/Typhoon (World) (ajax).json
+file: Other/Arcade/Typhoon (World) (ajax)/Typhoon (World) (ajax).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -6588,7 +6588,7 @@ x-co-op: No
 
 
 game: Vampire Savior - The Lord of Vampire (Europe) (vsav)
-file: $ROM_JSON_ROOT/Other/Arcade/Vampire Savior - The Lord of Vampire (Europe) (vsav)/Vampire Savior - The Lord of Vampire (Europe) (vsav).json
+file: Other/Arcade/Vampire Savior - The Lord of Vampire (Europe) (vsav)/Vampire Savior - The Lord of Vampire (Europe) (vsav).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6609,7 +6609,7 @@ x-co-op: No
 
 
 game: Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2)
-file: $ROM_JSON_ROOT/Other/Arcade/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2)/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).json
+file: Other/Arcade/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2)/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6635,7 +6635,7 @@ x-co-op: No
 
 
 game: Varth - Operation Thunderstorm (World) (varth)
-file: $ROM_JSON_ROOT/Other/Arcade/Varth - Operation Thunderstorm (World) (varth)/Varth - Operation Thunderstorm (World) (varth).json
+file: Other/Arcade/Varth - Operation Thunderstorm (World) (varth)/Varth - Operation Thunderstorm (World) (varth).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -6669,7 +6669,7 @@ x-co-op: Yes
 
 
 game: Victory Road (World) (victroad)
-file: $ROM_JSON_ROOT/Other/Arcade/Victory Road (World) (victroad)/Victory Road (World) (victroad).json
+file: Other/Arcade/Victory Road (World) (victroad)/Victory Road (World) (victroad).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -6701,7 +6701,7 @@ x-co-op: Yes
 
 
 game: Vindicators (World) (vindictr)
-file: $ROM_JSON_ROOT/Other/Arcade/Vindicators (World) (vindictr)/Vindicators (World) (vindictr).json
+file: Other/Arcade/Vindicators (World) (vindictr)/Vindicators (World) (vindictr).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -6726,7 +6726,7 @@ x-co-op: Yes
 
 
 game: Vulcan Venture (World) (vulcan)
-file: $ROM_JSON_ROOT/Other/Arcade/Vulcan Venture (World) (vulcan)/Vulcan Venture (World) (vulcan).json
+file: Other/Arcade/Vulcan Venture (World) (vulcan)/Vulcan Venture (World) (vulcan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -6763,7 +6763,7 @@ x-co-op: No
 
 
 game: Vulgus (World) (vulgus)
-file: $ROM_JSON_ROOT/Other/Arcade/Vulgus (World) (vulgus)/Vulgus (World) (vulgus).json
+file: Other/Arcade/Vulgus (World) (vulgus)/Vulgus (World) (vulgus).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -6786,7 +6786,7 @@ x-co-op: No
 
 
 game: Wacko (World) (wacko)
-file: $ROM_JSON_ROOT/Other/Arcade/Wacko (World) (wacko)/Wacko (World) (wacko).json
+file: Other/Arcade/Wacko (World) (wacko)/Wacko (World) (wacko).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Shooter
@@ -6804,7 +6804,7 @@ x-co-op: No
 
 
 game: Warlords! (World) (warlords)
-file: $ROM_JSON_ROOT/Other/Arcade/Warlords! (World) (warlords)/Warlords! (World) (warlords).json
+file: Other/Arcade/Warlords! (World) (warlords)/Warlords! (World) (warlords).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -6840,7 +6840,7 @@ x-co-op: No
 
 
 game: Warriors of Fate (World) (wof)
-file: $ROM_JSON_ROOT/Other/Arcade/Warriors of Fate (World) (wof)/Warriors of Fate (World) (wof).json
+file: Other/Arcade/Warriors of Fate (World) (wof)/Warriors of Fate (World) (wof).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6872,7 +6872,7 @@ x-co-op: No
 
 
 game: Wizard of Wor (World) (wow)
-file: $ROM_JSON_ROOT/Other/Arcade/Wizard of Wor (World) (wow)/Wizard of Wor (World) (wow).json
+file: Other/Arcade/Wizard of Wor (World) (wow)/Wizard of Wor (World) (wow).json
 developer: Dave Nutting Associates
 publisher: Midway
 genre: Shooter
@@ -6903,7 +6903,7 @@ x-co-op: Yes
 
 
 game: World Heroes (World) (wh1)
-file: $ROM_JSON_ROOT/Other/Arcade/World Heroes (World) (wh1)/World Heroes (World) (wh1).json
+file: Other/Arcade/World Heroes (World) (wh1)/World Heroes (World) (wh1).json
 developer: Alpha Denshi
 publisher: SNK
 genre: Fighting
@@ -6929,7 +6929,7 @@ x-co-op: No
 
 
 game: World Wars (World) (worldwar)
-file: $ROM_JSON_ROOT/Other/Arcade/World Wars (World) (worldwar)/World Wars (World) (worldwar).json
+file: Other/Arcade/World Wars (World) (worldwar)/World Wars (World) (worldwar).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -6948,7 +6948,7 @@ x-co-op: No
 
 
 game: Xenophobe (World) (xenophob)
-file: $ROM_JSON_ROOT/Other/Arcade/Xenophobe (World) (xenophob)/Xenophobe (World) (xenophob).json
+file: Other/Arcade/Xenophobe (World) (xenophob)/Xenophobe (World) (xenophob).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Action
@@ -6975,7 +6975,7 @@ x-co-op: Yes
 
 
 game: Xevious (World) (xevious)
-file: $ROM_JSON_ROOT/Other/Arcade/Xevious (World) (xevious)/Xevious (World) (xevious).json
+file: Other/Arcade/Xevious (World) (xevious)/Xevious (World) (xevious).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -7005,7 +7005,7 @@ x-co-op: No
 
 
 game: Xybots (World) (xybots)
-file: $ROM_JSON_ROOT/Other/Arcade/Xybots (World) (xybots)/Xybots (World) (xybots).json
+file: Other/Arcade/Xybots (World) (xybots)/Xybots (World) (xybots).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -7038,7 +7038,7 @@ x-co-op: No
 
 
 game: Yie Ar Kung-Fu (World) (yiear)
-file: $ROM_JSON_ROOT/Other/Arcade/Yie Ar Kung-Fu (World) (yiear)/Yie Ar Kung-Fu (World) (yiear).json
+file: Other/Arcade/Yie Ar Kung-Fu (World) (yiear)/Yie Ar Kung-Fu (World) (yiear).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -7071,7 +7071,7 @@ x-co-op: No
 
 
 game: Zaxxon (World) (zaxxon)
-file: $ROM_JSON_ROOT/Other/Arcade/Zaxxon (World) (zaxxon)/Zaxxon (World) (zaxxon).json
+file: Other/Arcade/Zaxxon (World) (zaxxon)/Zaxxon (World) (zaxxon).json
 developer: Ikegami Tsushinki
 publisher: Sega
 genre: Shooter

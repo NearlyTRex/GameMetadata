@@ -1,9 +1,9 @@
 collection: Sega Game Gear
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega Game Gear" {file.path}
+launch: launch_rom -l "Sega Game Gear" {file.path}
 
 
 game: Bare Knuckle ~ Streets of Rage (World)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Bare Knuckle ~ Streets of Rage (World)/Bare Knuckle ~ Streets of Rage (World).json
+file: Other/Sega Game Gear/Bare Knuckle ~ Streets of Rage (World)/Bare Knuckle ~ Streets of Rage (World).json
 developer: Ancient
 publisher: Sega
 genre: Beat 'em Up
@@ -27,7 +27,7 @@ x-co-op: Yes
 
 
 game: Bust-A-Move (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Bust-A-Move (USA, Europe)/Bust-A-Move (USA, Europe).json
+file: Other/Sega Game Gear/Bust-A-Move (USA, Europe)/Bust-A-Move (USA, Europe).json
 developer: Santos
 publisher: Taito
 genre: Puzzle
@@ -48,7 +48,7 @@ x-co-op: No
 
 
 game: Columns (USA, Europe, Brazil) (Rev 2)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Columns (USA, Europe, Brazil) (Rev 2)/Columns (USA, Europe, Brazil) (Rev 2).json
+file: Other/Sega Game Gear/Columns (USA, Europe, Brazil) (Rev 2)/Columns (USA, Europe, Brazil) (Rev 2).json
 developer: Sega
 publisher: Sega
 genre: Puzzle
@@ -68,7 +68,7 @@ x-co-op: No
 
 
 game: Crystal Warriors (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Crystal Warriors (USA, Europe)/Crystal Warriors (USA, Europe).json
+file: Other/Sega Game Gear/Crystal Warriors (USA, Europe)/Crystal Warriors (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing;Strategy
@@ -103,7 +103,7 @@ x-co-op: Yes
 
 
 game: Defenders of Oasis (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Defenders of Oasis (USA, Europe)/Defenders of Oasis (USA, Europe).json
+file: Other/Sega Game Gear/Defenders of Oasis (USA, Europe)/Defenders of Oasis (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -133,7 +133,7 @@ x-co-op: No
 
 
 game: Dr. Robotnik's Mean Bean Machine (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Dr. Robotnik's Mean Bean Machine (USA, Europe)/Dr. Robotnik's Mean Bean Machine (USA, Europe).json
+file: Other/Sega Game Gear/Dr. Robotnik's Mean Bean Machine (USA, Europe)/Dr. Robotnik's Mean Bean Machine (USA, Europe).json
 developer: Compile
 publisher: Sega
 genre: Puzzle
@@ -153,7 +153,7 @@ x-co-op: Yes
 
 
 game: Dragon Crystal (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Dragon Crystal (USA, Europe)/Dragon Crystal (USA, Europe).json
+file: Other/Sega Game Gear/Dragon Crystal (USA, Europe)/Dragon Crystal (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -172,7 +172,7 @@ x-co-op: No
 
 
 game: Dynamite Headdy (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Dynamite Headdy (Japan)/Dynamite Headdy (Japan).json
+file: Other/Sega Game Gear/Dynamite Headdy (Japan)/Dynamite Headdy (Japan).json
 developer: Minato Giken
 publisher: Sega
 genre: Platform
@@ -195,7 +195,7 @@ x-co-op: No
 
 
 game: Dynamite Headdy (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Dynamite Headdy (USA, Europe)/Dynamite Headdy (USA, Europe).json
+file: Other/Sega Game Gear/Dynamite Headdy (USA, Europe)/Dynamite Headdy (USA, Europe).json
 developer: Minato Giken
 publisher: Sega
 genre: Platform
@@ -219,7 +219,7 @@ x-co-op: No
 
 
 game: Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).json
+file: Other/Sega Game Gear/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).json
 developer: Sanritsu
 publisher: Sega
 genre: Shooter
@@ -242,7 +242,7 @@ x-co-op: No
 
 
 game: G-LOC - Air Battle (USA, Europe, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/G-LOC - Air Battle (USA, Europe, Brazil)/G-LOC - Air Battle (USA, Europe, Brazil).json
+file: Other/Sega Game Gear/G-LOC - Air Battle (USA, Europe, Brazil)/G-LOC - Air Battle (USA, Europe, Brazil).json
 developer: Sega AM2 R&D Division
 publisher: Sega
 genre: Action;Flight Simulator
@@ -261,7 +261,7 @@ x-co-op: No
 
 
 game: G-Sonic ~ Sonic Blast (World)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/G-Sonic ~ Sonic Blast (World)/G-Sonic ~ Sonic Blast (World).json
+file: Other/Sega Game Gear/G-Sonic ~ Sonic Blast (World)/G-Sonic ~ Sonic Blast (World).json
 developer: Aspect
 publisher: Sega
 genre: Platform
@@ -282,7 +282,7 @@ x-co-op: No
 
 
 game: GG Shinobi, The ~ Shinobi (World) (Rev 1)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/GG Shinobi, The ~ Shinobi (World) (Rev 1)/GG Shinobi, The ~ Shinobi (World) (Rev 1).json
+file: Other/Sega Game Gear/GG Shinobi, The ~ Shinobi (World) (Rev 1)/GG Shinobi, The ~ Shinobi (World) (Rev 1).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -305,7 +305,7 @@ x-co-op: No
 
 
 game: Gunstar Heroes (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Gunstar Heroes (Japan)/Gunstar Heroes (Japan).json
+file: Other/Sega Game Gear/Gunstar Heroes (Japan)/Gunstar Heroes (Japan).json
 developer: M2
 publisher: Sega
 genre: Action;Shooter
@@ -326,7 +326,7 @@ x-co-op: No
 
 
 game: NBA Jam - Tournament Edition (World)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/NBA Jam - Tournament Edition (World)/NBA Jam - Tournament Edition (World).json
+file: Other/Sega Game Gear/NBA Jam - Tournament Edition (World)/NBA Jam - Tournament Edition (World).json
 developer: Iguana Entertainment
 publisher: Acclaim
 genre: Sports
@@ -347,7 +347,7 @@ x-co-op: No
 
 
 game: Phantasy Star Adventure (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Phantasy Star Adventure (Japan)/Phantasy Star Adventure (Japan).json
+file: Other/Sega Game Gear/Phantasy Star Adventure (Japan)/Phantasy Star Adventure (Japan).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -381,7 +381,7 @@ x-co-op: No
 
 
 game: Phantasy Star Gaiden (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Phantasy Star Gaiden (Japan)/Phantasy Star Gaiden (Japan).json
+file: Other/Sega Game Gear/Phantasy Star Gaiden (Japan)/Phantasy Star Gaiden (Japan).json
 developer: Japan System Supply
 publisher: Sega
 genre: Role-Playing
@@ -412,7 +412,7 @@ x-co-op: No
 
 
 game: Road Rash (USA)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Road Rash (USA)/Road Rash (USA).json
+file: Other/Sega Game Gear/Road Rash (USA)/Road Rash (USA).json
 developer: Probe
 publisher: U.S. Gold
 genre: Action;Racing
@@ -462,7 +462,7 @@ x-co-op: No
 
 
 game: Shining Force - The Sword of Hajya (USA)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Shining Force - The Sword of Hajya (USA)/Shining Force - The Sword of Hajya (USA).json
+file: Other/Sega Game Gear/Shining Force - The Sword of Hajya (USA)/Shining Force - The Sword of Hajya (USA).json
 developer: Sonic! Software Planning
 publisher: Sega
 genre: Role-Playing
@@ -483,7 +483,7 @@ x-co-op: No
 
 
 game: Sonic Chaos (USA, Europe, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic Chaos (USA, Europe, Brazil)/Sonic Chaos (USA, Europe, Brazil).json
+file: Other/Sega Game Gear/Sonic Chaos (USA, Europe, Brazil)/Sonic Chaos (USA, Europe, Brazil).json
 developer: Aspect
 publisher: Sega
 genre: Platform
@@ -510,7 +510,7 @@ x-co-op: No
 
 
 game: Sonic Drift (Japan) (En)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic Drift (Japan) (En)/Sonic Drift (Japan) (En).json
+file: Other/Sega Game Gear/Sonic Drift (Japan) (En)/Sonic Drift (Japan) (En).json
 developer: Sega
 publisher: Sega
 genre: Racing
@@ -536,7 +536,7 @@ x-co-op: No
 
 
 game: Sonic Drift Racing ~ Sonic Drift 2 (World)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic Drift Racing ~ Sonic Drift 2 (World)/Sonic Drift Racing ~ Sonic Drift 2 (World).json
+file: Other/Sega Game Gear/Sonic Drift Racing ~ Sonic Drift 2 (World)/Sonic Drift Racing ~ Sonic Drift 2 (World).json
 developer: Sega
 publisher: Sega
 genre: Racing
@@ -556,7 +556,7 @@ x-co-op: No
 
 
 game: Sonic Labyrinth (World)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic Labyrinth (World)/Sonic Labyrinth (World).json
+file: Other/Sega Game Gear/Sonic Labyrinth (World)/Sonic Labyrinth (World).json
 developer: Minato Giken
 publisher: Sega
 genre: Platform
@@ -577,7 +577,7 @@ x-co-op: No
 
 
 game: Sonic Spinball (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic Spinball (USA, Europe)/Sonic Spinball (USA, Europe).json
+file: Other/Sega Game Gear/Sonic Spinball (USA, Europe)/Sonic Spinball (USA, Europe).json
 developer: SEGA Interactive Development Division
 publisher: Sega
 genre: Action;Platform
@@ -599,7 +599,7 @@ x-co-op: No
 
 
 game: Sonic The Hedgehog (World) (Rev 1)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic The Hedgehog (World) (Rev 1)/Sonic The Hedgehog (World) (Rev 1).json
+file: Other/Sega Game Gear/Sonic The Hedgehog (World) (Rev 1)/Sonic The Hedgehog (World) (Rev 1).json
 developer: Ancient
 publisher: Sega
 genre: Platform
@@ -625,7 +625,7 @@ x-co-op: No
 
 
 game: Sonic The Hedgehog - Triple Trouble (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic The Hedgehog - Triple Trouble (USA, Europe)/Sonic The Hedgehog - Triple Trouble (USA, Europe).json
+file: Other/Sega Game Gear/Sonic The Hedgehog - Triple Trouble (USA, Europe)/Sonic The Hedgehog - Triple Trouble (USA, Europe).json
 developer: Aspect
 publisher: Sega
 genre: Platform
@@ -646,7 +646,7 @@ x-co-op: No
 
 
 game: Sonic The Hedgehog 2 (World)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Sonic The Hedgehog 2 (World)/Sonic The Hedgehog 2 (World).json
+file: Other/Sega Game Gear/Sonic The Hedgehog 2 (World)/Sonic The Hedgehog 2 (World).json
 developer: Aspect
 publisher: Sega
 genre: Action;Platform
@@ -673,7 +673,7 @@ x-co-op: No
 
 
 game: Spider-Man vs. The Kingpin (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Spider-Man vs. The Kingpin (USA, Europe)/Spider-Man vs. The Kingpin (USA, Europe).json
+file: Other/Sega Game Gear/Spider-Man vs. The Kingpin (USA, Europe)/Spider-Man vs. The Kingpin (USA, Europe).json
 developer: Bits Studios
 publisher: Flying Edge
 genre: Action
@@ -700,7 +700,7 @@ x-co-op: No
 
 
 game: Tails Adventure ~ Tails Adventures (World) (En,Ja)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Tails Adventure ~ Tails Adventures (World) (En,Ja)/Tails Adventure ~ Tails Adventures (World) (En,Ja).json
+file: Other/Sega Game Gear/Tails Adventure ~ Tails Adventures (World) (En,Ja)/Tails Adventure ~ Tails Adventures (World) (En,Ja).json
 developer: Aspect
 publisher: Sega
 genre: Adventure;Platform
@@ -720,7 +720,7 @@ x-co-op: No
 
 
 game: Tails no Skypatrol (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Tails no Skypatrol (Japan)/Tails no Skypatrol (Japan).json
+file: Other/Sega Game Gear/Tails no Skypatrol (Japan)/Tails no Skypatrol (Japan).json
 developer: SIMS
 publisher: Sega
 genre: Platform
@@ -742,7 +742,7 @@ x-co-op: No
 
 
 game: Vampire - Master of Darkness (USA)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/Vampire - Master of Darkness (USA)/Vampire - Master of Darkness (USA).json
+file: Other/Sega Game Gear/Vampire - Master of Darkness (USA)/Vampire - Master of Darkness (USA).json
 developer: SIMS
 publisher: Sega
 genre: Platform
@@ -762,7 +762,7 @@ x-co-op: No
 
 
 game: X-Men (USA)
-file: $ROM_JSON_ROOT/Other/Sega Game Gear/X-Men (USA)/X-Men (USA).json
+file: Other/Sega Game Gear/X-Men (USA)/X-Men (USA).json
 developer: Sega
 publisher: Sega
 genre: Action

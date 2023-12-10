@@ -1,9 +1,9 @@
 collection: Microsoft Xbox One
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Microsoft Xbox One" {file.path}
+launch: launch_rom -l "Microsoft Xbox One" {file.path}
 
 
 game: Rare Replay (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One/Rare Replay (USA)/Rare Replay (USA).json
+file: Microsoft/Microsoft Xbox One/Rare Replay (USA)/Rare Replay (USA).json
 developer: Rare
 publisher: Microsoft Game Studios
 genre: Action

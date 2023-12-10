@@ -1,9 +1,9 @@
 collection: Sony PlayStation Vita
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sony PlayStation Vita" {file.path}
+launch: launch_rom -l "Sony PlayStation Vita" {file.path}
 
 
 game: Alone With You (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Alone With You (USA)/Alone With You (USA).json
+file: Sony/Sony PlayStation Vita/Alone With You (USA)/Alone With You (USA).json
 developer: Benjamin Rivers
 publisher: Benjamin Rivers
 genre: Adventure
@@ -27,7 +27,7 @@ x-co-op: No
 
 
 game: Another World - 20th Anniversary Edition (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Another World - 20th Anniversary Edition (USA)/Another World - 20th Anniversary Edition (USA).json
+file: Sony/Sony PlayStation Vita/Another World - 20th Anniversary Edition (USA)/Another World - 20th Anniversary Edition (USA).json
 developer: Delphine Software International
 publisher: Digital Lounge
 genre: Action
@@ -54,7 +54,7 @@ x-co-op: No
 
 
 game: Antiquia Lost (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Antiquia Lost (USA)/Antiquia Lost (USA).json
+file: Sony/Sony PlayStation Vita/Antiquia Lost (USA)/Antiquia Lost (USA).json
 developer: Exe Create Inc.
 publisher: Kemco
 genre: Role-Playing
@@ -76,7 +76,7 @@ x-co-op: No
 
 
 game: Aqua Kitty - Milk Mine Defender DX (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Aqua Kitty - Milk Mine Defender DX (USA)/Aqua Kitty - Milk Mine Defender DX (USA).json
+file: Sony/Sony PlayStation Vita/Aqua Kitty - Milk Mine Defender DX (USA)/Aqua Kitty - Milk Mine Defender DX (USA).json
 developer: Tikipod
 publisher: Tikipod
 genre: Action
@@ -98,7 +98,7 @@ x-co-op: No
 
 
 game: Army Corps of Hell (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Army Corps of Hell (USA)/Army Corps of Hell (USA).json
+file: Sony/Sony PlayStation Vita/Army Corps of Hell (USA)/Army Corps of Hell (USA).json
 developer: Entersphere
 publisher: Square Enix
 genre: Action
@@ -128,7 +128,7 @@ x-co-op: No
 
 
 game: Asdivine Hearts (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Asdivine Hearts (USA)/Asdivine Hearts (USA).json
+file: Sony/Sony PlayStation Vita/Asdivine Hearts (USA)/Asdivine Hearts (USA).json
 developer: Exe Create Inc.
 publisher: Kemco
 genre: Role-Playing
@@ -156,7 +156,7 @@ x-co-op: No
 
 
 game: Bard's Gold (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Bard's Gold (USA)/Bard's Gold (USA).json
+file: Sony/Sony PlayStation Vita/Bard's Gold (USA)/Bard's Gold (USA).json
 developer: Pixel Lantern
 publisher: Pixel Lantern
 genre: Action
@@ -184,7 +184,7 @@ x-co-op: No
 
 
 game: Bastion (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Bastion (USA)/Bastion (USA).json
+file: Sony/Sony PlayStation Vita/Bastion (USA)/Bastion (USA).json
 developer: Supergiant Games
 publisher: Limited Run Games
 genre: Role-Playing
@@ -235,7 +235,7 @@ x-co-op: No
 
 
 game: Bit.Trip Presents... Runner2 - Future Legend of Rhythm Alien (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Bit.Trip Presents... Runner2 - Future Legend of Rhythm Alien (USA)/Bit.Trip Presents... Runner2 - Future Legend of Rhythm Alien (USA).json
+file: Sony/Sony PlayStation Vita/Bit.Trip Presents... Runner2 - Future Legend of Rhythm Alien (USA)/Bit.Trip Presents... Runner2 - Future Legend of Rhythm Alien (USA).json
 developer: Gaijin Games
 publisher: Gaijin Games
 genre: Action
@@ -269,7 +269,7 @@ x-co-op: No
 
 
 game: Bit.Trip, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Bit.Trip, The (USA)/Bit.Trip, The (USA).json
+file: Sony/Sony PlayStation Vita/Bit.Trip, The (USA)/Bit.Trip, The (USA).json
 developer: Choice Provisions
 publisher: Choice Provisions
 genre: Action
@@ -296,7 +296,7 @@ x-co-op: No
 
 
 game: Chronus Arc (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Chronus Arc (USA)/Chronus Arc (USA).json
+file: Sony/Sony PlayStation Vita/Chronus Arc (USA)/Chronus Arc (USA).json
 developer: Hit-Point
 publisher: Kemco
 genre: Role-Playing
@@ -330,7 +330,7 @@ x-co-op: No
 
 
 game: Claire - Extended Cut (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Claire - Extended Cut (USA)/Claire - Extended Cut (USA).json
+file: Sony/Sony PlayStation Vita/Claire - Extended Cut (USA)/Claire - Extended Cut (USA).json
 developer: Hailstorm Games Inc
 publisher: Hailstorm Games Inc
 genre: Adventure;General
@@ -351,7 +351,7 @@ x-co-op: No
 
 
 game: Croixleur Sigma (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Croixleur Sigma (USA)/Croixleur Sigma (USA).json
+file: Sony/Sony PlayStation Vita/Croixleur Sigma (USA)/Croixleur Sigma (USA).json
 developer: Souvenir Circ.
 publisher: Souvenir Circ.
 genre: Action
@@ -378,7 +378,7 @@ x-co-op: No
 
 
 game: Curses 'N Chaos (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Curses 'N Chaos (USA)/Curses 'N Chaos (USA).json
+file: Sony/Sony PlayStation Vita/Curses 'N Chaos (USA)/Curses 'N Chaos (USA).json
 developer: Tribute Games
 publisher: Tribute Games
 genre: Action
@@ -404,7 +404,7 @@ x-co-op: No
 
 
 game: Damascus Gear - Operation Osaka (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Damascus Gear - Operation Osaka (USA)/Damascus Gear - Operation Osaka (USA).json
+file: Sony/Sony PlayStation Vita/Damascus Gear - Operation Osaka (USA)/Damascus Gear - Operation Osaka (USA).json
 developer: Aplus
 publisher: Arc System Works
 genre: Action
@@ -435,7 +435,7 @@ x-co-op: No
 
 
 game: Damascus Gear - Operation Tokyo (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Damascus Gear - Operation Tokyo (USA)/Damascus Gear - Operation Tokyo (USA).json
+file: Sony/Sony PlayStation Vita/Damascus Gear - Operation Tokyo (USA)/Damascus Gear - Operation Tokyo (USA).json
 developer: Aplus
 publisher: Arc System Works
 genre: Action
@@ -465,7 +465,7 @@ x-co-op: No
 
 
 game: Dariusburst - Chronicle Saviours (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Dariusburst - Chronicle Saviours (USA)/Dariusburst - Chronicle Saviours (USA).json
+file: Sony/Sony PlayStation Vita/Dariusburst - Chronicle Saviours (USA)/Dariusburst - Chronicle Saviours (USA).json
 developer: Pyramid
 publisher: Chara-Ani
 genre: Action
@@ -483,7 +483,7 @@ x-co-op: No
 
 
 game: Deadbolt (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Deadbolt (USA)/Deadbolt (USA).json
+file: Sony/Sony PlayStation Vita/Deadbolt (USA)/Deadbolt (USA).json
 developer: Hopoo Games
 publisher: Hopoo Games
 genre: Action
@@ -514,7 +514,7 @@ x-co-op: No
 
 
 game: Deception IV - The Nightmare Princess (Asia) (En)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Deception IV - The Nightmare Princess (Asia) (En)/Deception IV - The Nightmare Princess (Asia) (En).json
+file: Sony/Sony PlayStation Vita/Deception IV - The Nightmare Princess (Asia) (En)/Deception IV - The Nightmare Princess (Asia) (En).json
 developer: Koei Tecmo Games
 publisher: Koei Tecmo Games
 genre: Role-Playing;Strategy
@@ -538,7 +538,7 @@ x-co-op: No
 
 
 game: Deemo - The Last Recital (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Deemo - The Last Recital (USA)/Deemo - The Last Recital (USA).json
+file: Sony/Sony PlayStation Vita/Deemo - The Last Recital (USA)/Deemo - The Last Recital (USA).json
 developer: Rayark Games
 publisher: PM Studios
 genre: Music
@@ -567,7 +567,7 @@ x-co-op: No
 
 
 game: Defender's Quest (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Defender's Quest (USA)/Defender's Quest (USA).json
+file: Sony/Sony PlayStation Vita/Defender's Quest (USA)/Defender's Quest (USA).json
 developer: Level Up Labs
 publisher: Level Up Labs
 genre: Role-Playing;Strategy
@@ -585,7 +585,7 @@ x-co-op: No
 
 
 game: Dragon Fantasy (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Dragon Fantasy (USA)/Dragon Fantasy (USA).json
+file: Sony/Sony PlayStation Vita/Dragon Fantasy (USA)/Dragon Fantasy (USA).json
 developer: Muteki Corporation
 publisher: Muteki Corporation
 genre: Role-Playing
@@ -607,7 +607,7 @@ x-co-op: No
 
 
 game: Dragon Fantasy - Book II - The Black Tome of Ice (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Dragon Fantasy - Book II - The Black Tome of Ice (USA)/Dragon Fantasy - Book II - The Black Tome of Ice (USA).json
+file: Sony/Sony PlayStation Vita/Dragon Fantasy - Book II - The Black Tome of Ice (USA)/Dragon Fantasy - Book II - The Black Tome of Ice (USA).json
 developer: The Muteki Corporation
 publisher: The Muteki Corporation
 genre: Role-Playing;Japanese-Style
@@ -631,7 +631,7 @@ x-co-op: No
 
 
 game: Dragon Sinker (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Dragon Sinker (USA)/Dragon Sinker (USA).json
+file: Sony/Sony PlayStation Vita/Dragon Sinker (USA)/Dragon Sinker (USA).json
 developer: EXE-CREATE
 publisher: Kemco
 genre: Role-Playing
@@ -664,7 +664,7 @@ x-co-op: No
 
 
 game: Earth Defense Force 2 - Invaders From Planet Space (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Earth Defense Force 2 - Invaders From Planet Space (USA)/Earth Defense Force 2 - Invaders From Planet Space (USA).json
+file: Sony/Sony PlayStation Vita/Earth Defense Force 2 - Invaders From Planet Space (USA)/Earth Defense Force 2 - Invaders From Planet Space (USA).json
 developer: Sandlot
 publisher: Xseed Games
 genre: Action;Shooter
@@ -694,7 +694,7 @@ x-co-op: Yes
 
 
 game: Exile's End (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Exile's End (USA)/Exile's End (USA).json
+file: Sony/Sony PlayStation Vita/Exile's End (USA)/Exile's End (USA).json
 developer: Magnetic Realms
 publisher: Xseed
 genre: Action
@@ -715,7 +715,7 @@ x-co-op: Yes
 
 
 game: Exist Archive - The Other Side of the Sky (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Exist Archive - The Other Side of the Sky (USA)/Exist Archive - The Other Side of the Sky (USA).json
+file: Sony/Sony PlayStation Vita/Exist Archive - The Other Side of the Sky (USA)/Exist Archive - The Other Side of the Sky (USA).json
 developer: Spike Chunsoft Co., Ltd.
 publisher: Aksys Games Localization, Inc.
 genre: Role-Playing
@@ -736,7 +736,7 @@ x-co-op: No
 
 
 game: Factotum 90 (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Factotum 90 (USA)/Factotum 90 (USA).json
+file: Sony/Sony PlayStation Vita/Factotum 90 (USA)/Factotum 90 (USA).json
 developer: TACS Games
 publisher: Poppy Works
 genre: Action
@@ -782,7 +782,7 @@ x-co-op: No
 
 
 game: Fernz Gate (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Fernz Gate (USA)/Fernz Gate (USA).json
+file: Sony/Sony PlayStation Vita/Fernz Gate (USA)/Fernz Gate (USA).json
 developer: EXE-CREATE
 publisher: Kemco
 genre: Role-Playing
@@ -818,7 +818,7 @@ x-co-op: No
 
 
 game: Forma.8 (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Forma.8 (USA)/Forma.8 (USA).json
+file: Sony/Sony PlayStation Vita/Forma.8 (USA)/Forma.8 (USA).json
 developer: MixedBag
 publisher: MixedBag
 genre: Adventure
@@ -841,7 +841,7 @@ x-co-op: Yes
 
 
 game: Freedom Wars (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Freedom Wars (USA)/Freedom Wars (USA).json
+file: Sony/Sony PlayStation Vita/Freedom Wars (USA)/Freedom Wars (USA).json
 developer: Dimps
 publisher: Sony Computer Entertainment
 genre: Action;Role-Playing
@@ -866,7 +866,7 @@ x-co-op: Yes
 
 
 game: Guacamelee! (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Guacamelee! (USA)/Guacamelee! (USA).json
+file: Sony/Sony PlayStation Vita/Guacamelee! (USA)/Guacamelee! (USA).json
 developer: Drinkbox Studios
 publisher: Drinkbox Studios
 genre: Action;Platform
@@ -901,7 +901,7 @@ x-co-op: Yes
 
 
 game: Gunhouse (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Gunhouse (USA)/Gunhouse (USA).json
+file: Sony/Sony PlayStation Vita/Gunhouse (USA)/Gunhouse (USA).json
 developer: Necrosoft Games
 publisher: Necrosoft Games
 genre: Puzzle;Strategy
@@ -923,7 +923,7 @@ x-co-op: No
 
 
 game: Home - A Unique Horror Adventure (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Home - A Unique Horror Adventure (USA)/Home - A Unique Horror Adventure (USA).json
+file: Sony/Sony PlayStation Vita/Home - A Unique Horror Adventure (USA)/Home - A Unique Horror Adventure (USA).json
 developer: Benjamin Rivers
 publisher: Benjamin Rivers
 genre: Adventure
@@ -949,7 +949,7 @@ x-co-op: No
 
 
 game: House in Fata Morgana, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/House in Fata Morgana, The (USA)/House in Fata Morgana, The (USA).json
+file: Sony/Sony PlayStation Vita/House in Fata Morgana, The (USA)/House in Fata Morgana, The (USA).json
 developer: Novectacle
 publisher: Limited Run Games
 genre: Visual Novel
@@ -1003,7 +1003,7 @@ x-co-op: No
 
 
 game: Hue (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Hue (USA)/Hue (USA).json
+file: Sony/Sony PlayStation Vita/Hue (USA)/Hue (USA).json
 developer: Fiddlesticks
 publisher: Curve Digital
 genre: Action;Puzzle
@@ -1043,7 +1043,7 @@ x-co-op: No
 
 
 game: LEGO Batman 2 - DC Super Heroes (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Batman 2 - DC Super Heroes (USA)/LEGO Batman 2 - DC Super Heroes (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Batman 2 - DC Super Heroes (USA)/LEGO Batman 2 - DC Super Heroes (USA).json
 developer: Traveller's Tales Ltd.
 publisher: WB Games
 genre: Action;Adventure
@@ -1062,7 +1062,7 @@ x-co-op: Yes
 
 
 game: LEGO Batman 3 - Beyond Gotham (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Batman 3 - Beyond Gotham (USA)/LEGO Batman 3 - Beyond Gotham (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Batman 3 - Beyond Gotham (USA)/LEGO Batman 3 - Beyond Gotham (USA).json
 developer: Irem
 publisher: Irem
 genre: Action
@@ -1085,7 +1085,7 @@ x-co-op: No
 
 
 game: LEGO Jurassic World (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Jurassic World (USA)/LEGO Jurassic World (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Jurassic World (USA)/LEGO Jurassic World (USA).json
 developer: Warner Home Video Games
 publisher: Warner Home Video Games
 genre: Action;Adventure
@@ -1108,7 +1108,7 @@ x-co-op: Yes
 
 
 game: LEGO Marvel Super Heroes - Universe in Peril (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Marvel Super Heroes - Universe in Peril (USA)/LEGO Marvel Super Heroes - Universe in Peril (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Marvel Super Heroes - Universe in Peril (USA)/LEGO Marvel Super Heroes - Universe in Peril (USA).json
 developer: Psikyo
 publisher: Psikyo
 genre: Action;Adventure
@@ -1131,7 +1131,7 @@ x-co-op: No
 
 
 game: LEGO Marvel's Avengers (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Marvel's Avengers (USA)/LEGO Marvel's Avengers (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Marvel's Avengers (USA)/LEGO Marvel's Avengers (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Adventure
@@ -1150,7 +1150,7 @@ x-co-op: Yes
 
 
 game: LEGO Movie Videogame, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Movie Videogame, The (USA)/LEGO Movie Videogame, The (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Movie Videogame, The (USA)/LEGO Movie Videogame, The (USA).json
 developer: TT Fusion
 publisher: Warner Bros Interactive
 genre: Action;Adventure
@@ -1171,7 +1171,7 @@ x-co-op: Yes
 
 
 game: LEGO Ninjago - Shadow of Ronin (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Ninjago - Shadow of Ronin (USA)/LEGO Ninjago - Shadow of Ronin (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Ninjago - Shadow of Ronin (USA)/LEGO Ninjago - Shadow of Ronin (USA).json
 developer: Travellers Tales (UK) Ltd.
 publisher: Warner Bros. Interactive Entertainment Inc.
 genre: Action;Adventure
@@ -1209,7 +1209,7 @@ x-co-op: No
 
 
 game: LEGO Star Wars - The Force Awakens (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LEGO Star Wars - The Force Awakens (USA)/LEGO Star Wars - The Force Awakens (USA).json
+file: Sony/Sony PlayStation Vita/LEGO Star Wars - The Force Awakens (USA)/LEGO Star Wars - The Force Awakens (USA).json
 developer: TT Fusion
 publisher: Warner Bros Interactive Entertainment
 genre: Action;Adventure
@@ -1232,7 +1232,7 @@ x-co-op: No
 
 
 game: La-Mulana EX (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/La-Mulana EX (USA)/La-Mulana EX (USA).json
+file: Sony/Sony PlayStation Vita/La-Mulana EX (USA)/La-Mulana EX (USA).json
 developer: NIGORO
 publisher: Rising Star Games Inc.
 genre: Action;Platform
@@ -1273,7 +1273,7 @@ x-co-op: No
 
 
 game: LittleBigPlanet PS Vita (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/LittleBigPlanet PS Vita (USA)/LittleBigPlanet PS Vita (USA).json
+file: Sony/Sony PlayStation Vita/LittleBigPlanet PS Vita (USA)/LittleBigPlanet PS Vita (USA).json
 developer: Double Eleven
 publisher: Sony Computer Entertainment
 genre: Platform
@@ -1305,7 +1305,7 @@ x-co-op: Yes
 
 
 game: London Detective Mysteria (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/London Detective Mysteria (USA)/London Detective Mysteria (USA).json
+file: Sony/Sony PlayStation Vita/London Detective Mysteria (USA)/London Detective Mysteria (USA).json
 developer: Karin Entertainment
 publisher: Marvelous USA
 genre: Adventure
@@ -1333,7 +1333,7 @@ x-co-op: No
 
 
 game: Lone Survivor - The Director's Cut (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Lone Survivor - The Director's Cut (USA)/Lone Survivor - The Director's Cut (USA).json
+file: Sony/Sony PlayStation Vita/Lone Survivor - The Director's Cut (USA)/Lone Survivor - The Director's Cut (USA).json
 developer: superflat games
 publisher: Curve Studios
 genre: Action;Adventure
@@ -1362,7 +1362,7 @@ x-co-op: No
 
 
 game: Mecho Tales (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Mecho Tales (USA)/Mecho Tales (USA).json
+file: Sony/Sony PlayStation Vita/Mecho Tales (USA)/Mecho Tales (USA).json
 developer: Arcade Distillery
 publisher: Arcade Distillery
 genre: Action
@@ -1381,7 +1381,7 @@ x-co-op: No
 
 
 game: Murasma Rebirth (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Murasma Rebirth (USA)/Murasma Rebirth (USA).json
+file: Sony/Sony PlayStation Vita/Murasma Rebirth (USA)/Murasma Rebirth (USA).json
 developer: Vanillaware
 publisher: Ignition Entertainment
 genre: Role-Playing;Action RPG
@@ -1407,7 +1407,7 @@ x-co-op: No
 
 
 game: Musynx (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Musynx (USA)/Musynx (USA).json
+file: Sony/Sony PlayStation Vita/Musynx (USA)/Musynx (USA).json
 developer: I-Inferno
 publisher: PM Studios
 genre: Music
@@ -1440,7 +1440,7 @@ x-co-op: No
 
 
 game: Mystery Chronicle - One Way Heroics (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Mystery Chronicle - One Way Heroics (USA)/Mystery Chronicle - One Way Heroics (USA).json
+file: Sony/Sony PlayStation Vita/Mystery Chronicle - One Way Heroics (USA)/Mystery Chronicle - One Way Heroics (USA).json
 developer: Spike ChunSoft
 publisher: Spike Chunsoft
 genre: Role-Playing
@@ -1467,7 +1467,7 @@ x-co-op: No
 
 
 game: NOVA-111 (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/NOVA-111 (USA)/NOVA-111 (USA).json
+file: Sony/Sony PlayStation Vita/NOVA-111 (USA)/NOVA-111 (USA).json
 developer: Funktronic Labs
 publisher: Curve Digital
 genre: Action;Strategy
@@ -1502,7 +1502,7 @@ x-co-op: No
 
 
 game: NeuroVoider (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/NeuroVoider (USA)/NeuroVoider (USA).json
+file: Sony/Sony PlayStation Vita/NeuroVoider (USA)/NeuroVoider (USA).json
 developer: Flying Oak Games
 publisher: Plug In Digital
 genre: Action
@@ -1525,7 +1525,7 @@ x-co-op: Yes
 
 
 game: Oceanhorn - Monster of Uncharted Seas (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Oceanhorn - Monster of Uncharted Seas (USA)/Oceanhorn - Monster of Uncharted Seas (USA).json
+file: Sony/Sony PlayStation Vita/Oceanhorn - Monster of Uncharted Seas (USA)/Oceanhorn - Monster of Uncharted Seas (USA).json
 developer: Cornfox & Brothers
 publisher: FDG Entertainment
 genre: Action;Adventure
@@ -1552,7 +1552,7 @@ x-co-op: No
 
 
 game: Octodad - Dadliest Catch (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Octodad - Dadliest Catch (USA)/Octodad - Dadliest Catch (USA).json
+file: Sony/Sony PlayStation Vita/Octodad - Dadliest Catch (USA)/Octodad - Dadliest Catch (USA).json
 developer: Young Horses
 publisher: Young Horses
 genre: Action
@@ -1588,7 +1588,7 @@ x-co-op: No
 
 
 game: Operation Abyss - New Tokyo Legacy (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Operation Abyss - New Tokyo Legacy (USA)/Operation Abyss - New Tokyo Legacy (USA).json
+file: Sony/Sony PlayStation Vita/Operation Abyss - New Tokyo Legacy (USA)/Operation Abyss - New Tokyo Legacy (USA).json
 developer: Experience
 publisher: NIS America, Inc.
 genre: Role-Playing
@@ -1615,7 +1615,7 @@ x-co-op: No
 
 
 game: Operation Babel - New Tokyo Legacy (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Operation Babel - New Tokyo Legacy (USA)/Operation Babel - New Tokyo Legacy (USA).json
+file: Sony/Sony PlayStation Vita/Operation Babel - New Tokyo Legacy (USA)/Operation Babel - New Tokyo Legacy (USA).json
 developer: Experience Inc.
 publisher: NIS America, Inc.
 genre: Role-Playing
@@ -1635,7 +1635,7 @@ x-co-op: No
 
 
 game: Organ Trail - Complete Edition (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Organ Trail - Complete Edition (USA)/Organ Trail - Complete Edition (USA).json
+file: Sony/Sony PlayStation Vita/Organ Trail - Complete Edition (USA)/Organ Trail - Complete Edition (USA).json
 developer: The Men Who Wear Many Hats
 publisher: The Men Who Wear Many Hats
 genre: Action;Role-Playing
@@ -1663,7 +1663,7 @@ x-co-op: No
 
 
 game: PSYCHO-PASS - Mandatory Happiness (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/PSYCHO-PASS - Mandatory Happiness (USA)/PSYCHO-PASS - Mandatory Happiness (USA).json
+file: Sony/Sony PlayStation Vita/PSYCHO-PASS - Mandatory Happiness (USA)/PSYCHO-PASS - Mandatory Happiness (USA).json
 developer: Nitroplus
 publisher: 5pb.
 genre: Visual Novel
@@ -1704,7 +1704,7 @@ x-co-op: No
 
 
 game: Papers, Please (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Papers, Please (USA)/Papers, Please (USA).json
+file: Sony/Sony PlayStation Vita/Papers, Please (USA)/Papers, Please (USA).json
 developer: 3909
 publisher: 3909
 genre: Puzzle
@@ -1762,7 +1762,7 @@ x-co-op: No
 
 
 game: Persona 4 Golden (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Persona 4 Golden (USA)/Persona 4 Golden (USA).json
+file: Sony/Sony PlayStation Vita/Persona 4 Golden (USA)/Persona 4 Golden (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Adventure;Role-Playing
@@ -1788,7 +1788,7 @@ x-co-op: No
 
 
 game: Pix the Cat (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Pix the Cat (USA)/Pix the Cat (USA).json
+file: Sony/Sony PlayStation Vita/Pix the Cat (USA)/Pix the Cat (USA).json
 developer: Liquid Entertainment
 publisher: Ubisoft
 genre: Action;Strategy
@@ -1809,7 +1809,7 @@ x-co-op: No
 
 
 game: Plague Road (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Plague Road (USA)/Plague Road (USA).json
+file: Sony/Sony PlayStation Vita/Plague Road (USA)/Plague Road (USA).json
 developer: Arcade Distillery
 publisher: Arcade Distillery
 genre: Strategy
@@ -1841,7 +1841,7 @@ x-co-op: No
 
 
 game: Proteus (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Proteus (USA)/Proteus (USA).json
+file: Sony/Sony PlayStation Vita/Proteus (USA)/Proteus (USA).json
 developer: New World Computing
 publisher: Ubisoft
 genre: Adventure;Strategy
@@ -1860,7 +1860,7 @@ x-co-op: No
 
 
 game: Race the Sun (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Race the Sun (USA)/Race the Sun (USA).json
+file: Sony/Sony PlayStation Vita/Race the Sun (USA)/Race the Sun (USA).json
 developer: Flippfly LLC
 publisher: Flippfly LLC
 genre: Racing
@@ -1921,7 +1921,7 @@ x-co-op: No
 
 
 game: Ragnarok Odyssey (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Ragnarok Odyssey (USA)/Ragnarok Odyssey (USA).json
+file: Sony/Sony PlayStation Vita/Ragnarok Odyssey (USA)/Ragnarok Odyssey (USA).json
 developer: Game Arts
 publisher: Xseed Games
 genre: Action;Role-Playing
@@ -1945,7 +1945,7 @@ x-co-op: Yes
 
 
 game: Rainbow Moon (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Rainbow Moon (USA)/Rainbow Moon (USA).json
+file: Sony/Sony PlayStation Vita/Rainbow Moon (USA)/Rainbow Moon (USA).json
 developer: SideQuest Studios
 publisher: eastasiasoft
 genre: Role-Playing;Strategy
@@ -1977,7 +1977,7 @@ x-co-op: No
 
 
 game: Ray Gigant (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Ray Gigant (USA)/Ray Gigant (USA).json
+file: Sony/Sony PlayStation Vita/Ray Gigant (USA)/Ray Gigant (USA).json
 developer: Acttil
 publisher: Bandai Namco Entertainment
 genre: Role-Playing
@@ -2004,7 +2004,7 @@ x-co-op: No
 
 
 game: Resistance - Burning Skies (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Resistance - Burning Skies (USA)/Resistance - Burning Skies (USA).json
+file: Sony/Sony PlayStation Vita/Resistance - Burning Skies (USA)/Resistance - Burning Skies (USA).json
 developer: Nihilistic Software
 publisher: Sony Computer Entertainment
 genre: Shooter
@@ -2023,7 +2023,7 @@ x-co-op: Yes
 
 
 game: Revenant Saga (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Revenant Saga (USA)/Revenant Saga (USA).json
+file: Sony/Sony PlayStation Vita/Revenant Saga (USA)/Revenant Saga (USA).json
 developer: EXE-CREATE
 publisher: Kemco
 genre: Role-Playing
@@ -2052,7 +2052,7 @@ x-co-op: No
 
 
 game: Risk of Rain (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Risk of Rain (USA)/Risk of Rain (USA).json
+file: Sony/Sony PlayStation Vita/Risk of Rain (USA)/Risk of Rain (USA).json
 developer: Hopoo Games
 publisher: Hopoo Games
 genre: Action;Platform
@@ -2097,7 +2097,7 @@ x-co-op: No
 
 
 game: Rock Boshers DX - Directors Cut (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Rock Boshers DX - Directors Cut (USA)/Rock Boshers DX - Directors Cut (USA).json
+file: Sony/Sony PlayStation Vita/Rock Boshers DX - Directors Cut (USA)/Rock Boshers DX - Directors Cut (USA).json
 developer: Tikipod
 publisher: Tikipod
 genre: Action;Shooter
@@ -2125,7 +2125,7 @@ x-co-op: No
 
 
 game: Rocketbirds - Hardboiled Chicken (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Rocketbirds - Hardboiled Chicken (USA)/Rocketbirds - Hardboiled Chicken (USA).json
+file: Sony/Sony PlayStation Vita/Rocketbirds - Hardboiled Chicken (USA)/Rocketbirds - Hardboiled Chicken (USA).json
 developer: Ratloop
 publisher: Ratloop
 genre: Action
@@ -2148,7 +2148,7 @@ x-co-op: No
 
 
 game: Sayonara Umihara Kawase++ (Europe)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Sayonara Umihara Kawase++ (Europe)/Sayonara Umihara Kawase++ (Europe).json
+file: Sony/Sony PlayStation Vita/Sayonara Umihara Kawase++ (Europe)/Sayonara Umihara Kawase++ (Europe).json
 developer: Studio Saizensen
 publisher: Studio Saizensen
 genre: Platform
@@ -2178,7 +2178,7 @@ x-co-op: No
 
 
 game: Senran Kagura - Bon Appetit! Full Course (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Senran Kagura - Bon Appetit! Full Course (USA)/Senran Kagura - Bon Appetit! Full Course (USA).json
+file: Sony/Sony PlayStation Vita/Senran Kagura - Bon Appetit! Full Course (USA)/Senran Kagura - Bon Appetit! Full Course (USA).json
 developer: Meteorise
 publisher: XSEED Games
 genre: Action;Rhythm;Music
@@ -2248,7 +2248,7 @@ x-co-op: No
 
 
 game: Silent Hill - Book of Memories (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Silent Hill - Book of Memories (USA)/Silent Hill - Book of Memories (USA).json
+file: Sony/Sony PlayStation Vita/Silent Hill - Book of Memories (USA)/Silent Hill - Book of Memories (USA).json
 developer: WayForward Technologies
 publisher: Konami Digital Entertainment
 genre: Action;Adventure
@@ -2281,7 +2281,7 @@ x-co-op: Yes
 
 
 game: Siralim (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Siralim (USA)/Siralim (USA).json
+file: Sony/Sony PlayStation Vita/Siralim (USA)/Siralim (USA).json
 developer: Thylacine Studios
 publisher: Thylacine Studios LLC
 genre: Role-Playing
@@ -2301,7 +2301,7 @@ x-co-op: No
 
 
 game: Siralim 2 (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Siralim 2 (USA)/Siralim 2 (USA).json
+file: Sony/Sony PlayStation Vita/Siralim 2 (USA)/Siralim 2 (USA).json
 developer: Thylacine Studios
 publisher: Thylacine Studios LLC
 genre: Role-Playing
@@ -2320,7 +2320,7 @@ x-co-op: No
 
 
 game: Skullgirls - 2nd Encore (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Skullgirls - 2nd Encore (USA)/Skullgirls - 2nd Encore (USA).json
+file: Sony/Sony PlayStation Vita/Skullgirls - 2nd Encore (USA)/Skullgirls - 2nd Encore (USA).json
 developer: Lab Zero Games
 publisher: Autumn Games
 genre: Action;Fighting
@@ -2343,7 +2343,7 @@ x-co-op: No
 
 
 game: Sky Force Anniversary (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Sky Force Anniversary (USA)/Sky Force Anniversary (USA).json
+file: Sony/Sony PlayStation Vita/Sky Force Anniversary (USA)/Sky Force Anniversary (USA).json
 developer: Infinite Dreams
 publisher: Infinite Dreams
 genre: Action;Shooter
@@ -2372,7 +2372,7 @@ x-co-op: No
 
 
 game: Soul Sacrifice (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Soul Sacrifice (USA)/Soul Sacrifice (USA).json
+file: Sony/Sony PlayStation Vita/Soul Sacrifice (USA)/Soul Sacrifice (USA).json
 developer: SCE Japan Studio
 publisher: Sony Computer Entertainment
 genre: Action;Role-Playing
@@ -2395,7 +2395,7 @@ x-co-op: Yes
 
 
 game: Spelunky (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Spelunky (USA)/Spelunky (USA).json
+file: Sony/Sony PlayStation Vita/Spelunky (USA)/Spelunky (USA).json
 developer: Mossmouth
 publisher: Twisted Tree
 genre: Adventure;Platform
@@ -2415,7 +2415,7 @@ x-co-op: Yes
 
 
 game: Stealth Inc - A Clone in the Dark Ultimate Edition (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Stealth Inc - A Clone in the Dark Ultimate Edition (USA)/Stealth Inc - A Clone in the Dark Ultimate Edition (USA).json
+file: Sony/Sony PlayStation Vita/Stealth Inc - A Clone in the Dark Ultimate Edition (USA)/Stealth Inc - A Clone in the Dark Ultimate Edition (USA).json
 developer: Curve Digital
 publisher: Limited Run Games
 genre: Action;Stealth
@@ -2436,7 +2436,7 @@ x-co-op: No
 
 
 game: Steins;Gate (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Steins;Gate (USA)/Steins;Gate (USA).json
+file: Sony/Sony PlayStation Vita/Steins;Gate (USA)/Steins;Gate (USA).json
 developer: Nitroplus
 publisher: PQube
 genre: Adventure;Visual Novel
@@ -2460,7 +2460,7 @@ x-co-op: No
 
 
 game: Stranger of Sword City (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Stranger of Sword City (USA)/Stranger of Sword City (USA).json
+file: Sony/Sony PlayStation Vita/Stranger of Sword City (USA)/Stranger of Sword City (USA).json
 developer: Experience Inc.
 publisher: Experience Inc.
 genre: Role-Playing
@@ -2486,7 +2486,7 @@ x-co-op: No
 
 
 game: Super Hydorah (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Super Hydorah (USA)/Super Hydorah (USA).json
+file: Sony/Sony PlayStation Vita/Super Hydorah (USA)/Super Hydorah (USA).json
 developer: Abylight
 publisher: Abylight
 genre: Action;Shooter
@@ -2513,7 +2513,7 @@ x-co-op: No
 
 
 game: Super Mutant Alien Assault (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Super Mutant Alien Assault (USA)/Super Mutant Alien Assault (USA).json
+file: Sony/Sony PlayStation Vita/Super Mutant Alien Assault (USA)/Super Mutant Alien Assault (USA).json
 developer: Cybernate
 publisher: Suprise Attack
 genre: Shooter
@@ -2542,7 +2542,7 @@ x-co-op: No
 
 
 game: Swapper, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Swapper, The (USA)/Swapper, The (USA).json
+file: Sony/Sony PlayStation Vita/Swapper, The (USA)/Swapper, The (USA).json
 developer: Facepalm Games
 publisher: Facepalm Games
 genre: Action;Adventure;Puzzle
@@ -2567,7 +2567,7 @@ x-co-op: No
 
 
 game: Swindle, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Swindle, The (USA)/Swindle, The (USA).json
+file: Sony/Sony PlayStation Vita/Swindle, The (USA)/Swindle, The (USA).json
 developer: Size Five Games
 publisher: Curve Digital
 genre: Action;Platform;Stealth
@@ -2650,7 +2650,7 @@ x-co-op: No
 
 
 game: Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans)/Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans).json
+file: Sony/Sony PlayStation Vita/Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans)/Sword Art Online - Hollow Fragment (Asia) (En,Zh-Hans).json
 developer: Aquria
 publisher: Bandai Namco Games
 genre: Action
@@ -2682,7 +2682,7 @@ x-co-op: Yes
 
 
 game: Sword Art Online - Lost Song (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Sword Art Online - Lost Song (USA)/Sword Art Online - Lost Song (USA).json
+file: Sony/Sony PlayStation Vita/Sword Art Online - Lost Song (USA)/Sword Art Online - Lost Song (USA).json
 developer: ArtDink
 publisher: Bandai Namco Games America Inc.
 genre: Role-Playing
@@ -2705,7 +2705,7 @@ x-co-op: No
 
 
 game: Tales From Space - Mutant Blobs Attack!!! (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Tales From Space - Mutant Blobs Attack!!! (USA)/Tales From Space - Mutant Blobs Attack!!! (USA).json
+file: Sony/Sony PlayStation Vita/Tales From Space - Mutant Blobs Attack!!! (USA)/Tales From Space - Mutant Blobs Attack!!! (USA).json
 developer: Drinkbox Studios
 publisher: Drinkbox Studios
 genre: Platform;Puzzle
@@ -2746,7 +2746,7 @@ x-co-op: No
 
 
 game: Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It)/Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It).json
+file: Sony/Sony PlayStation Vita/Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It)/Tales of Hearts R (USA) (En,Ja,Fr,De,Es,It).json
 developer: 7thChord
 publisher: Bandai Namco Games
 genre: Action;Role-Playing
@@ -2771,7 +2771,7 @@ x-co-op: No
 
 
 game: Tearaway (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Tearaway (USA)/Tearaway (USA).json
+file: Sony/Sony PlayStation Vita/Tearaway (USA)/Tearaway (USA).json
 developer: Media Molecule
 publisher: Sony Computer Entertainment America
 genre: Platform
@@ -2791,7 +2791,7 @@ x-co-op: No
 
 
 game: Teslagrad (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Teslagrad (USA)/Teslagrad (USA).json
+file: Sony/Sony PlayStation Vita/Teslagrad (USA)/Teslagrad (USA).json
 developer: Rain Games
 publisher: SOEDESCO
 genre: Action;Platform
@@ -2823,7 +2823,7 @@ x-co-op: No
 
 
 game: Thomas Was Alone (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Thomas Was Alone (USA)/Thomas Was Alone (USA).json
+file: Sony/Sony PlayStation Vita/Thomas Was Alone (USA)/Thomas Was Alone (USA).json
 developer: Mike Bithell
 publisher: Curve Studios
 genre: Platform
@@ -2853,7 +2853,7 @@ x-co-op: No
 
 
 game: Uncharted - Golden Abyss (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Uncharted - Golden Abyss (USA)/Uncharted - Golden Abyss (USA).json
+file: Sony/Sony PlayStation Vita/Uncharted - Golden Abyss (USA)/Uncharted - Golden Abyss (USA).json
 developer: SCE Bend Studio
 publisher: Sony Computer Entertainment America
 genre: Action;Platform;Shooter
@@ -2881,7 +2881,7 @@ x-co-op: No
 
 
 game: Volume (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Volume (USA)/Volume (USA).json
+file: Sony/Sony PlayStation Vita/Volume (USA)/Volume (USA).json
 developer: Mike Bithell
 publisher: Mike Bithell
 genre: Action
@@ -2944,7 +2944,7 @@ x-co-op: No
 
 
 game: Xenon Valkyrie+ (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Xenon Valkyrie+ (USA)/Xenon Valkyrie+ (USA).json
+file: Sony/Sony PlayStation Vita/Xenon Valkyrie+ (USA)/Xenon Valkyrie+ (USA).json
 developer: Diabolical Mind
 publisher: COWCAT
 genre: Action;Role-Playing
@@ -2978,7 +2978,7 @@ x-co-op: No
 
 
 game: Ys - Memories of Celceta (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Ys - Memories of Celceta (USA)/Ys - Memories of Celceta (USA).json
+file: Sony/Sony PlayStation Vita/Ys - Memories of Celceta (USA)/Ys - Memories of Celceta (USA).json
 developer: Falcom
 publisher: Xseed Games
 genre: Action;Role-Playing
@@ -3009,7 +3009,7 @@ x-co-op: No
 
 
 game: Ys Origin (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Vita/Ys Origin (USA)/Ys Origin (USA).json
+file: Sony/Sony PlayStation Vita/Ys Origin (USA)/Ys Origin (USA).json
 developer: Nihon Falcom Corp.
 publisher: DotEmu SAS
 genre: Action;Role-Playing

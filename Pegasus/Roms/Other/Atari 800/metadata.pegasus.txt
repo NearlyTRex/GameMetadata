@@ -1,9 +1,9 @@
 collection: Atari 800
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Atari 800" {file.path}
+launch: launch_rom -l "Atari 800" {file.path}
 
 
 game: Bounty Bob Strikes Back! (USA)
-file: $ROM_JSON_ROOT/Other/Atari 800/Bounty Bob Strikes Back! (USA)/Bounty Bob Strikes Back! (USA).json
+file: Other/Atari 800/Bounty Bob Strikes Back! (USA)/Bounty Bob Strikes Back! (USA).json
 developer: Big Five Software
 publisher: Big Five Software
 genre: Action;Platformer;2D
@@ -26,7 +26,7 @@ x-co-op: No
 
 
 game: Caverns of Mars (USA)
-file: $ROM_JSON_ROOT/Other/Atari 800/Caverns of Mars (USA)/Caverns of Mars (USA).json
+file: Other/Atari 800/Caverns of Mars (USA)/Caverns of Mars (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -64,7 +64,7 @@ x-co-op: No
 
 
 game: Food Fight (USA)
-file: $ROM_JSON_ROOT/Other/Atari 800/Food Fight (USA)/Food Fight (USA).json
+file: Other/Atari 800/Food Fight (USA)/Food Fight (USA).json
 developer: The Softworks Factory
 publisher: Atari Corporation
 genre: Action;Arcade
@@ -108,7 +108,7 @@ x-co-op: No
 
 
 game: Yoomp! (World)
-file: $ROM_JSON_ROOT/Other/Atari 800/Yoomp! (World)/Yoomp! (World).json
+file: Other/Atari 800/Yoomp! (World)/Yoomp! (World).json
 developer: Marcin Zukowski
 publisher: Marcin Zukowski
 genre: Action;Arcade

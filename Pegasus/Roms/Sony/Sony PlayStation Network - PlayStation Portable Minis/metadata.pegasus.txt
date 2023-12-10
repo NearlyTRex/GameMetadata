@@ -1,9 +1,9 @@
 collection: Sony PlayStation Network - PlayStation Portable Minis
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sony PlayStation Network - PlayStation Portable Minis" {file.path}
+launch: launch_rom -l "Sony PlayStation Network - PlayStation Portable Minis" {file.path}
 
 
 game: Age of Zombies (USA) (Minis)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable Minis/Age of Zombies (USA) (Minis)/Age of Zombies (USA) (Minis).json
+file: Sony/Sony PlayStation Network - PlayStation Portable Minis/Age of Zombies (USA) (Minis)/Age of Zombies (USA) (Minis).json
 developer: Halfbrick
 publisher: Halfbrick
 genre: Horror;Shooter
@@ -29,7 +29,7 @@ x-co-op: No
 
 
 game: Freekscape - Escape From Hell (USA) (Minis)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable Minis/Freekscape - Escape From Hell (USA) (Minis)/Freekscape - Escape From Hell (USA) (Minis).json
+file: Sony/Sony PlayStation Network - PlayStation Portable Minis/Freekscape - Escape From Hell (USA) (Minis)/Freekscape - Escape From Hell (USA) (Minis).json
 developer: Kidguru Studios
 publisher: Creat Studios Inc
 genre: Action

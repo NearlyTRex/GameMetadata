@@ -1,9 +1,9 @@
 collection: Computer - Amazon Games
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Computer - Amazon Games" {file.path}
+launch: launch_rom -l "Computer - Amazon Games" {file.path}
 
 
 game: ACA Neo Geo - 3 Count Bout (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - 3 Count Bout (USA)/ACA Neo Geo - 3 Count Bout (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - 3 Count Bout (USA)/ACA Neo Geo - 3 Count Bout (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Sports
@@ -35,7 +35,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Alpha Mission II (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Alpha Mission II (USA)/ACA Neo Geo - Alpha Mission II (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Alpha Mission II (USA)/ACA Neo Geo - Alpha Mission II (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -68,7 +68,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA)/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA)/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -103,7 +103,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Crossed Swords (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Crossed Swords (USA)/ACA Neo Geo - Crossed Swords (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Crossed Swords (USA)/ACA Neo Geo - Crossed Swords (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -135,7 +135,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Ghost Pilots (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Ghost Pilots (USA)/ACA Neo Geo - Ghost Pilots (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Ghost Pilots (USA)/ACA Neo Geo - Ghost Pilots (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Shooter
@@ -166,7 +166,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA)/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA)/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -199,7 +199,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA)/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA)/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -232,7 +232,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Last Resort (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Last Resort (USA)/ACA Neo Geo - Last Resort (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Last Resort (USA)/ACA Neo Geo - Last Resort (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -262,7 +262,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Magician Lord (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Magician Lord (USA)/ACA Neo Geo - Magician Lord (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Magician Lord (USA)/ACA Neo Geo - Magician Lord (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -285,7 +285,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Metal Slug (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug (USA)/ACA Neo Geo - Metal Slug (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug (USA)/ACA Neo Geo - Metal Slug (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -303,7 +303,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Metal Slug 3 (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 3 (USA)/ACA Neo Geo - Metal Slug 3 (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 3 (USA)/ACA Neo Geo - Metal Slug 3 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -323,7 +323,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Metal Slug 4 (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 4 (USA)/ACA Neo Geo - Metal Slug 4 (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 4 (USA)/ACA Neo Geo - Metal Slug 4 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Shooter
@@ -344,7 +344,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Metal Slug X (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug X (USA)/ACA Neo Geo - Metal Slug X (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug X (USA)/ACA Neo Geo - Metal Slug X (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Shooter
@@ -364,7 +364,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Mutation Nation (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Mutation Nation (USA)/ACA Neo Geo - Mutation Nation (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Mutation Nation (USA)/ACA Neo Geo - Mutation Nation (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -396,7 +396,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Ninja Commando (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Ninja Commando (USA)/ACA Neo Geo - Ninja Commando (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Ninja Commando (USA)/ACA Neo Geo - Ninja Commando (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -426,7 +426,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Ninja Masters (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Ninja Masters (USA)/ACA Neo Geo - Ninja Masters (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Ninja Masters (USA)/ACA Neo Geo - Ninja Masters (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -456,7 +456,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Over Top (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Over Top (USA)/ACA Neo Geo - Over Top (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Over Top (USA)/ACA Neo Geo - Over Top (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Racing
@@ -492,7 +492,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA)/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA)/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Fighting;2D
@@ -520,7 +520,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Robo Army (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Robo Army (USA)/ACA Neo Geo - Robo Army (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Robo Army (USA)/ACA Neo Geo - Robo Army (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -553,7 +553,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA)/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA)/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -586,7 +586,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Sengoku (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Sengoku (USA)/ACA Neo Geo - Sengoku (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Sengoku (USA)/ACA Neo Geo - Sengoku (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Beat-'Em-Up;2D
@@ -605,7 +605,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Sengoku 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Sengoku 2 (USA)/ACA Neo Geo - Sengoku 2 (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Sengoku 2 (USA)/ACA Neo Geo - Sengoku 2 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -641,7 +641,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Soccer Brawl (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Soccer Brawl (USA)/ACA Neo Geo - Soccer Brawl (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Soccer Brawl (USA)/ACA Neo Geo - Soccer Brawl (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Sports
@@ -673,7 +673,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Super Sidekicks (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Super Sidekicks (USA)/ACA Neo Geo - Super Sidekicks (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Super Sidekicks (USA)/ACA Neo Geo - Super Sidekicks (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Sports
@@ -708,7 +708,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - The King of Fighters 2003 (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - The King of Fighters 2003 (USA)/ACA Neo Geo - The King of Fighters 2003 (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - The King of Fighters 2003 (USA)/ACA Neo Geo - The King of Fighters 2003 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Fighting;2D
@@ -736,7 +736,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - The Last Blade (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - The Last Blade (USA)/ACA Neo Geo - The Last Blade (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - The Last Blade (USA)/ACA Neo Geo - The Last Blade (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -756,7 +756,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - The Last Blade 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - The Last Blade 2 (USA)/ACA Neo Geo - The Last Blade 2 (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - The Last Blade 2 (USA)/ACA Neo Geo - The Last Blade 2 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Fighting
@@ -802,7 +802,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - The Super Spy (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - The Super Spy (USA)/ACA Neo Geo - The Super Spy (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - The Super Spy (USA)/ACA Neo Geo - The Super Spy (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -833,7 +833,7 @@ x-co-op: No
 
 
 game: ACA Neo Geo - Top Hunter - Roddy & Cathy (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA)/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA)/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -865,7 +865,7 @@ x-co-op: Yes
 
 
 game: ACA Neo Geo - Twinkle Star Sprites (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/A/ACA Neo Geo - Twinkle Star Sprites (USA)/ACA Neo Geo - Twinkle Star Sprites (USA).json
+file: Computer/Amazon Games/A/ACA Neo Geo - Twinkle Star Sprites (USA)/ACA Neo Geo - Twinkle Star Sprites (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Shooter
@@ -885,7 +885,7 @@ x-co-op: No
 
 
 game: Baldur's Gate II - Enhanced Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/B/Baldur's Gate II - Enhanced Edition (USA)/Baldur's Gate II - Enhanced Edition (USA).json
+file: Computer/Amazon Games/B/Baldur's Gate II - Enhanced Edition (USA)/Baldur's Gate II - Enhanced Edition (USA).json
 developer: Beamdog
 publisher: Beamdog
 genre: Role-Playing;Strategy
@@ -930,7 +930,7 @@ x-co-op: No
 
 
 game: Blade Assault (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/B/Blade Assault (USA)/Blade Assault (USA).json
+file: Computer/Amazon Games/B/Blade Assault (USA)/Blade Assault (USA).json
 developer: TeamSuneat
 publisher: Neowiz Games
 genre: Action;Adventure;Platform
@@ -949,7 +949,7 @@ x-co-op: No
 
 
 game: Cook, Serve, Delicious! 3! (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/C/Cook, Serve, Delicious! 3! (USA)/Cook, Serve, Delicious! 3! (USA).json
+file: Computer/Amazon Games/C/Cook, Serve, Delicious! 3! (USA)/Cook, Serve, Delicious! 3! (USA).json
 developer: Vertigo Games
 publisher: Vertigo Games
 genre: Strategy;Management;Business / Tycoon
@@ -973,7 +973,7 @@ x-co-op: No
 
 
 game: Driftland - The Magic Revival (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/D/Driftland - The Magic Revival (USA)/Driftland - The Magic Revival (USA).json
+file: Computer/Amazon Games/D/Driftland - The Magic Revival (USA)/Driftland - The Magic Revival (USA).json
 developer: Star Drifters
 publisher: Star Drifters
 genre: Strategy;General
@@ -1009,7 +1009,7 @@ x-co-op: No
 
 
 game: Foretales (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/F/Foretales (USA)/Foretales (USA).json
+file: Computer/Amazon Games/F/Foretales (USA)/Foretales (USA).json
 developer: Alkemi Games
 publisher: Dear Villagers
 genre: Strategy;Turn-Based;Card Battle
@@ -1037,7 +1037,7 @@ x-co-op: No
 
 
 game: In Sound Mind (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/I/In Sound Mind (USA)/In Sound Mind (USA).json
+file: Computer/Amazon Games/I/In Sound Mind (USA)/In Sound Mind (USA).json
 developer: We Create Stuff
 publisher: Modus Games
 genre: Action Adventure;Survival
@@ -1062,7 +1062,7 @@ x-co-op: No
 
 
 game: NAIRI - Tower of Shirin (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/N/NAIRI - Tower of Shirin (USA)/NAIRI - Tower of Shirin (USA).json
+file: Computer/Amazon Games/N/NAIRI - Tower of Shirin (USA)/NAIRI - Tower of Shirin (USA).json
 developer: HomeBearStudio
 publisher: HoundPicked Games
 genre: Puzzle;Action
@@ -1086,7 +1086,7 @@ x-co-op: No
 
 
 game: Once Upon a Jester (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/O/Once Upon a Jester (USA)/Once Upon a Jester (USA).json
+file: Computer/Amazon Games/O/Once Upon a Jester (USA)/Once Upon a Jester (USA).json
 developer: Bonte Avond
 publisher: Crunching Koalas
 genre: Adventure;General
@@ -1114,7 +1114,7 @@ x-co-op: No
 
 
 game: Roguebook (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/R/Roguebook (USA)/Roguebook (USA).json
+file: Computer/Amazon Games/R/Roguebook (USA)/Roguebook (USA).json
 developer: Abrakam SA
 publisher: Nacon
 genre: Strategy;Turn-Based;Card Battle
@@ -1140,7 +1140,7 @@ x-co-op: No
 
 
 game: SNK 40th Anniversary Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/S/SNK 40th Anniversary Collection (USA)/SNK 40th Anniversary Collection (USA).json
+file: Computer/Amazon Games/S/SNK 40th Anniversary Collection (USA)/SNK 40th Anniversary Collection (USA).json
 developer: Digital Eclipse
 publisher: SNK Corporation
 genre: Miscellaneous;Compilation
@@ -1174,7 +1174,7 @@ x-co-op: No
 
 
 game: Shovel Knight Showdown (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/S/Shovel Knight Showdown (USA)/Shovel Knight Showdown (USA).json
+file: Computer/Amazon Games/S/Shovel Knight Showdown (USA)/Shovel Knight Showdown (USA).json
 developer: Yacht Club Games
 publisher: Yacht Club Games
 genre: Action;Platformer;2D
@@ -1204,7 +1204,7 @@ x-co-op: No
 
 
 game: Star Wars - The Force Unleashed (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/S/Star Wars - The Force Unleashed (USA)/Star Wars - The Force Unleashed (USA).json
+file: Computer/Amazon Games/S/Star Wars - The Force Unleashed (USA)/Star Wars - The Force Unleashed (USA).json
 developer: LucasArts
 publisher: Aspyr
 genre: Miscellaneous;Compilation
@@ -1230,7 +1230,7 @@ x-co-op: No
 
 
 game: Star Wars - The Force Unleashed II (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/S/Star Wars - The Force Unleashed II (USA)/Star Wars - The Force Unleashed II (USA).json
+file: Computer/Amazon Games/S/Star Wars - The Force Unleashed II (USA)/Star Wars - The Force Unleashed II (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action;General
@@ -1249,7 +1249,7 @@ x-co-op: No
 
 
 game: Wytchwood (USA)
-file: $ROM_JSON_ROOT/Computer/Amazon Games/W/Wytchwood (USA)/Wytchwood (USA).json
+file: Computer/Amazon Games/W/Wytchwood (USA)/Wytchwood (USA).json
 developer: Alientrap
 publisher: Whitethorn Digital
 genre: Adventure;General

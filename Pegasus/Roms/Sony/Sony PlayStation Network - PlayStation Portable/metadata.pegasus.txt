@@ -1,9 +1,9 @@
 collection: Sony PlayStation Network - PlayStation Portable
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sony PlayStation Network - PlayStation Portable" {file.path}
+launch: launch_rom -l "Sony PlayStation Network - PlayStation Portable" {file.path}
 
 
 game: Ape Quest (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Ape Quest (USA)/Ape Quest (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Ape Quest (USA)/Ape Quest (USA).json
 developer: Shift
 publisher: Sony Computer Entertainment
 genre: Role-Playing
@@ -24,7 +24,7 @@ x-co-op: No
 
 
 game: Armored Core - Last Raven Portable (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Armored Core - Last Raven Portable (USA)/Armored Core - Last Raven Portable (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Armored Core - Last Raven Portable (USA)/Armored Core - Last Raven Portable (USA).json
 developer: FromSoftware, Inc.
 publisher: FromSoftware, Inc.
 genre: Action
@@ -57,7 +57,7 @@ x-co-op: No
 
 
 game: Armored Core - Silent Line Portable (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Armored Core - Silent Line Portable (USA)/Armored Core - Silent Line Portable (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Armored Core - Silent Line Portable (USA)/Armored Core - Silent Line Portable (USA).json
 developer: FromSoftware, Inc.
 publisher: FromSoftware, Inc.
 genre: Action;Shooter;Strategy
@@ -82,7 +82,7 @@ x-co-op: No
 
 
 game: Armored Core 3 Portable (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Armored Core 3 Portable (USA)/Armored Core 3 Portable (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Armored Core 3 Portable (USA)/Armored Core 3 Portable (USA).json
 developer: FromSoftware, Inc.
 publisher: FromSoftware, Inc.
 genre: Shooter
@@ -112,7 +112,7 @@ x-co-op: No
 
 
 game: Black Rock Shooter - The Game (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Black Rock Shooter - The Game (USA)/Black Rock Shooter - The Game (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Black Rock Shooter - The Game (USA)/Black Rock Shooter - The Game (USA).json
 developer: imageepoch Inc.
 publisher: NIS America, Inc.
 genre: Role-Playing;Shooter
@@ -155,7 +155,7 @@ x-co-op: No
 
 
 game: Brandish - The Dark Revenant (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Brandish - The Dark Revenant (USA)/Brandish - The Dark Revenant (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Brandish - The Dark Revenant (USA)/Brandish - The Dark Revenant (USA).json
 developer: Falcom
 publisher: Xseed Games
 genre: Role-Playing
@@ -196,7 +196,7 @@ x-co-op: No
 
 
 game: Carnage Heart EXA (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Carnage Heart EXA (USA)/Carnage Heart EXA (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Carnage Heart EXA (USA)/Carnage Heart EXA (USA).json
 developer: Artdink Corporation
 publisher: Natsume, Inc.
 genre: Action;Fighting;Shooter;Strategy
@@ -218,7 +218,7 @@ x-co-op: No
 
 
 game: Cho Aniki Zero (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Cho Aniki Zero (USA)/Cho Aniki Zero (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Cho Aniki Zero (USA)/Cho Aniki Zero (USA).json
 developer: extreme
 publisher: Aksys Games
 genre: Shooter
@@ -248,7 +248,7 @@ x-co-op: No
 
 
 game: Cladun - This Is an RPG! (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Cladun - This Is an RPG! (USA)/Cladun - This Is an RPG! (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Cladun - This Is an RPG! (USA)/Cladun - This Is an RPG! (USA).json
 developer: System Prisma
 publisher: Nippon Ichi Software
 genre: Action;Role-Playing
@@ -270,7 +270,7 @@ x-co-op: No
 
 
 game: Cladun x2 (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Cladun x2 (USA)/Cladun x2 (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Cladun x2 (USA)/Cladun x2 (USA).json
 developer: System Prisma
 publisher: NIS America
 genre: Action;Role-Playing
@@ -291,7 +291,7 @@ x-co-op: No
 
 
 game: Corpse Party - Book of Shadows (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Corpse Party - Book of Shadows (USA)/Corpse Party - Book of Shadows (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Corpse Party - Book of Shadows (USA)/Corpse Party - Book of Shadows (USA).json
 developer: 5pb.
 publisher: Xseed Games
 genre: Adventure;Horror
@@ -321,7 +321,7 @@ x-co-op: No
 
 
 game: Creature Defense (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Creature Defense (USA)/Creature Defense (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Creature Defense (USA)/Creature Defense (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Strategy
@@ -355,7 +355,7 @@ x-co-op: No
 
 
 game: Crimson Room Reverse (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Crimson Room Reverse (USA)/Crimson Room Reverse (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Crimson Room Reverse (USA)/Crimson Room Reverse (USA).json
 developer: Takagism Inc.
 publisher: Success
 genre: Adventure
@@ -373,7 +373,7 @@ x-co-op: No
 
 
 game: Dissidia 012 - Prologus - Duodecim Final Fantasy (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Dissidia 012 - Prologus - Duodecim Final Fantasy (USA)/Dissidia 012 - Prologus - Duodecim Final Fantasy (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Dissidia 012 - Prologus - Duodecim Final Fantasy (USA)/Dissidia 012 - Prologus - Duodecim Final Fantasy (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Action;Fighting;3D
@@ -427,7 +427,7 @@ x-co-op: No
 
 
 game: Elminage Original (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Elminage Original (USA)/Elminage Original (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Elminage Original (USA)/Elminage Original (USA).json
 developer: Starfish SD
 publisher: UFO Interactive
 genre: Role-Playing
@@ -455,7 +455,7 @@ x-co-op: No
 
 
 game: End of Serenity (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/End of Serenity (USA)/End of Serenity (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/End of Serenity (USA)/End of Serenity (USA).json
 developer: Kemco
 publisher: Natsume, Inc.
 genre: Role-Playing
@@ -482,7 +482,7 @@ x-co-op: No
 
 
 game: Eye of Judgment, The - Legends (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Eye of Judgment, The - Legends (USA) (En,Fr,Es)/Eye of Judgment, The - Legends (USA) (En,Fr,Es).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Eye of Judgment, The - Legends (USA) (En,Fr,Es)/Eye of Judgment, The - Legends (USA) (En,Fr,Es).json
 developer: Japan Studio
 publisher: SCE
 genre: Board Game
@@ -507,7 +507,7 @@ x-co-op: No
 
 
 game: Generation of Chaos - Pandora's Reflection (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Generation of Chaos - Pandora's Reflection (USA)/Generation of Chaos - Pandora's Reflection (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Generation of Chaos - Pandora's Reflection (USA)/Generation of Chaos - Pandora's Reflection (USA).json
 developer: Super Sting
 publisher: NIS
 genre: Role-Playing;Strategy
@@ -537,7 +537,7 @@ x-co-op: No
 
 
 game: Gravity Crash Portable (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Gravity Crash Portable (USA) (En,Fr,De,Es,It)/Gravity Crash Portable (USA) (En,Fr,De,Es,It).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Gravity Crash Portable (USA) (En,Fr,De,Es,It)/Gravity Crash Portable (USA) (En,Fr,De,Es,It).json
 developer: Just Add Water
 publisher: SCEA
 genre: Shooter
@@ -560,7 +560,7 @@ x-co-op: No
 
 
 game: Kurulin Fusion (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Kurulin Fusion (USA)/Kurulin Fusion (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Kurulin Fusion (USA)/Kurulin Fusion (USA).json
 developer: Tozai, Lancarse
 publisher: MTO
 genre: Puzzle
@@ -582,7 +582,7 @@ x-co-op: No
 
 
 game: LocoRoco - Midnight Carnival (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/LocoRoco - Midnight Carnival (USA)/LocoRoco - Midnight Carnival (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/LocoRoco - Midnight Carnival (USA)/LocoRoco - Midnight Carnival (USA).json
 developer: SCE Japan Studio
 publisher: Sony
 genre: Puzzle
@@ -613,7 +613,7 @@ x-co-op: Yes
 
 
 game: Mystic Chronicles (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Mystic Chronicles (USA)/Mystic Chronicles (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Mystic Chronicles (USA)/Mystic Chronicles (USA).json
 developer: Kemco
 publisher: Natsume
 genre: Role-Playing
@@ -637,7 +637,7 @@ x-co-op: No
 
 
 game: No Heroes Allowed! (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/No Heroes Allowed! (USA)/No Heroes Allowed! (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/No Heroes Allowed! (USA)/No Heroes Allowed! (USA).json
 developer: Acquire
 publisher: SCEA
 genre: Strategy
@@ -676,7 +676,7 @@ x-co-op: No
 
 
 game: Patchwork Heroes (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Patchwork Heroes (USA) (En,Fr,Es)/Patchwork Heroes (USA) (En,Fr,Es).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Patchwork Heroes (USA) (En,Fr,Es)/Patchwork Heroes (USA) (En,Fr,Es).json
 developer: Acquire
 publisher: SCEA
 genre: Action
@@ -712,7 +712,7 @@ x-co-op: No
 
 
 game: Piyotama (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Piyotama (USA)/Piyotama (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Piyotama (USA)/Piyotama (USA).json
 developer: SCE Japan Studio
 publisher: Sony Computer Entertainment
 genre: Puzzle
@@ -754,7 +754,7 @@ x-co-op: No
 
 
 game: Red Star, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Red Star, The (USA)/Red Star, The (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Red Star, The (USA)/Red Star, The (USA).json
 developer: Acclaim Studios Austin
 publisher: XS Games
 genre: Action
@@ -776,7 +776,7 @@ x-co-op: No
 
 
 game: Savage Moon - The Hera Campaign (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Savage Moon - The Hera Campaign (USA)/Savage Moon - The Hera Campaign (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Savage Moon - The Hera Campaign (USA)/Savage Moon - The Hera Campaign (USA).json
 developer: FluffyLogic
 publisher: Sony Computer Entertainment
 genre: Strategy
@@ -807,7 +807,7 @@ x-co-op: No
 
 
 game: Unchained Blades (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Portable/Unchained Blades (USA)/Unchained Blades (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Portable/Unchained Blades (USA)/Unchained Blades (USA).json
 developer: FuRyu
 publisher: Xseed Games
 genre: Role-Playing

@@ -1,9 +1,9 @@
 collection: Computer - Steam
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Computer - Steam" {file.path}
+launch: launch_rom -l "Computer - Steam" {file.path}
 
 
 game: 7 Days to Die (USA) (Alpha 20.6 b9)
-file: $ROM_JSON_ROOT/Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.6 b9)/7 Days to Die (USA) (Alpha 20.6 b9).json
+file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.6 b9)/7 Days to Die (USA) (Alpha 20.6 b9).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -29,7 +29,7 @@ x-co-op: Yes
 
 
 game: 7 Days to Die (USA) (Alpha 20.7 b1)
-file: $ROM_JSON_ROOT/Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.7 b1)/7 Days to Die (USA) (Alpha 20.7 b1).json
+file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.7 b1)/7 Days to Die (USA) (Alpha 20.7 b1).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -55,7 +55,7 @@ x-co-op: Yes
 
 
 game: 7 Days to Die (USA) (Alpha 21.1 b16)
-file: $ROM_JSON_ROOT/Computer/Steam/#-0/7 Days to Die (USA) (Alpha 21.1 b16)/7 Days to Die (USA) (Alpha 21.1 b16).json
+file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 21.1 b16)/7 Days to Die (USA) (Alpha 21.1 b16).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -81,7 +81,7 @@ x-co-op: No
 
 
 game: 8 Eyes (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/#-0/8 Eyes (USA)/8 Eyes (USA).json
+file: Computer/Steam/#-0/8 Eyes (USA)/8 Eyes (USA).json
 developer: Thinking Rabbit
 publisher: Taxan
 genre: Action;Platformer;2D
@@ -115,7 +115,7 @@ x-co-op: No
 
 
 game: 8-bit Adventure Anthology - Volume I (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/#-0/8-bit Adventure Anthology - Volume I (USA)/8-bit Adventure Anthology - Volume I (USA).json
+file: Computer/Steam/#-0/8-bit Adventure Anthology - Volume I (USA)/8-bit Adventure Anthology - Volume I (USA).json
 developer: Abstraction Games
 publisher: Abstraction Games
 genre: Miscellaneous;Compilation
@@ -142,7 +142,7 @@ x-co-op: No
 
 
 game: ARK - Survival Evolved (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/ARK - Survival Evolved (USA)/ARK - Survival Evolved (USA).json
+file: Computer/Steam/A/ARK - Survival Evolved (USA)/ARK - Survival Evolved (USA).json
 developer: Studio Wildcard
 publisher: Studio Wildcard
 genre: Action Adventure;Survival
@@ -189,7 +189,7 @@ x-co-op: No
 
 
 game: ARK - Survival of the Fittest (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/ARK - Survival of the Fittest (USA)/ARK - Survival of the Fittest (USA).json
+file: Computer/Steam/A/ARK - Survival of the Fittest (USA)/ARK - Survival of the Fittest (USA).json
 developer: Studio Wildcard
 publisher: Studio Wildcard
 genre: Action Adventure;Survival
@@ -223,7 +223,7 @@ x-co-op: Yes
 
 
 game: Abbey of Crime Extensum, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Abbey of Crime Extensum, The (USA)/Abbey of Crime Extensum, The (USA).json
+file: Computer/Steam/A/Abbey of Crime Extensum, The (USA)/Abbey of Crime Extensum, The (USA).json
 developer: Manuel Pazos
 publisher: Manuel Pazos
 genre: Role-Playing;General
@@ -242,7 +242,7 @@ x-co-op: No
 
 
 game: Abzu (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Abzu (USA)/Abzu (USA).json
+file: Computer/Steam/A/Abzu (USA)/Abzu (USA).json
 developer: Giant Squid
 publisher: 505 Games
 genre: Adventure;3D;Third-Person
@@ -269,7 +269,7 @@ x-co-op: No
 
 
 game: Across the Obelisk (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Across the Obelisk (USA)/Across the Obelisk (USA).json
+file: Computer/Steam/A/Across the Obelisk (USA)/Across the Obelisk (USA).json
 developer: Dreamsite Games
 publisher: Dreamsite Games
 genre: Strategy;Turn-Based;Card Battle
@@ -289,7 +289,7 @@ x-co-op: Yes
 
 
 game: Adventures of Elena Temple, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Adventures of Elena Temple, The (USA)/Adventures of Elena Temple, The (USA).json
+file: Computer/Steam/A/Adventures of Elena Temple, The (USA)/Adventures of Elena Temple, The (USA).json
 developer: GrimTalin
 publisher: GrimTalin
 genre: Action;Platformer;2D
@@ -371,7 +371,7 @@ x-co-op: No
 
 
 game: Aegis Defenders (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Aegis Defenders (USA)/Aegis Defenders (USA).json
+file: Computer/Steam/A/Aegis Defenders (USA)/Aegis Defenders (USA).json
 developer: GUTS Department
 publisher: GUTS Department
 genre: Role-Playing;Action RPG
@@ -398,7 +398,7 @@ x-co-op: No
 
 
 game: Alone in the Dark Prologue (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Alone in the Dark Prologue (USA)/Alone in the Dark Prologue (USA).json
+file: Computer/Steam/A/Alone in the Dark Prologue (USA)/Alone in the Dark Prologue (USA).json
 developer: Pieces Interactive
 publisher: THQ Nordic
 genre: Action Adventure;Survival
@@ -428,7 +428,7 @@ x-co-op: No
 
 
 game: Angry Video Game Nerd Adventures (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Angry Video Game Nerd Adventures (USA)/Angry Video Game Nerd Adventures (USA).json
+file: Computer/Steam/A/Angry Video Game Nerd Adventures (USA)/Angry Video Game Nerd Adventures (USA).json
 developer: FreakZone
 publisher: ScrewAttack LLC
 genre: Action;Platformer;2D
@@ -462,7 +462,7 @@ x-co-op: No
 
 
 game: Another Lost Phone - Laura's Story (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Another Lost Phone - Laura's Story (USA)/Another Lost Phone - Laura's Story (USA).json
+file: Computer/Steam/A/Another Lost Phone - Laura's Story (USA)/Another Lost Phone - Laura's Story (USA).json
 developer: Accidental Queens
 publisher: Plug In Digital
 genre: Adventure;General
@@ -487,7 +487,7 @@ x-co-op: No
 
 
 game: Apotheon (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Apotheon (USA)/Apotheon (USA).json
+file: Computer/Steam/A/Apotheon (USA)/Apotheon (USA).json
 developer: Alientrap
 publisher: Alientrap
 genre: Action;Beat-'Em-Up;2D
@@ -506,7 +506,7 @@ x-co-op: No
 
 
 game: Armello (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Armello (USA)/Armello (USA).json
+file: Computer/Steam/A/Armello (USA)/Armello (USA).json
 developer: League of Geeks
 publisher: League of Geeks
 genre: Miscellaneous;Board / Card Game
@@ -536,7 +536,7 @@ x-co-op: No
 
 
 game: Ashes of the Singularity - Escalation (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Ashes of the Singularity - Escalation (USA)/Ashes of the Singularity - Escalation (USA).json
+file: Computer/Steam/A/Ashes of the Singularity - Escalation (USA)/Ashes of the Singularity - Escalation (USA).json
 developer: Oxide Games
 publisher: Stardock
 genre: Strategy;Real-Time;Command
@@ -574,7 +574,7 @@ x-co-op: No
 
 
 game: Assault Android Cactus (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Assault Android Cactus (USA)/Assault Android Cactus (USA).json
+file: Computer/Steam/A/Assault Android Cactus (USA)/Assault Android Cactus (USA).json
 developer: Witch Beam
 publisher: Witch Beam
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -594,7 +594,7 @@ x-co-op: Yes
 
 
 game: Atari Vault (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Atari Vault (USA)/Atari Vault (USA).json
+file: Computer/Steam/A/Atari Vault (USA)/Atari Vault (USA).json
 developer: Code Mystics Inc.
 publisher: Atari SA
 genre: Miscellaneous;Compilation
@@ -624,7 +624,7 @@ x-co-op: Yes
 
 
 game: Aveyond 3-1 - Lord of Twilight (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Aveyond 3-1 - Lord of Twilight (USA)/Aveyond 3-1 - Lord of Twilight (USA).json
+file: Computer/Steam/A/Aveyond 3-1 - Lord of Twilight (USA)/Aveyond 3-1 - Lord of Twilight (USA).json
 developer: Amaranth Games
 publisher: Amaranth Games
 genre: Adventure;General
@@ -662,7 +662,7 @@ x-co-op: No
 
 
 game: Awesome Adventures of Captain Spirit, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Awesome Adventures of Captain Spirit, The (USA)/Awesome Adventures of Captain Spirit, The (USA).json
+file: Computer/Steam/A/Awesome Adventures of Captain Spirit, The (USA)/Awesome Adventures of Captain Spirit, The (USA).json
 developer: DONTNOD Entertainment
 publisher: Square Enix
 genre: Action Adventure;General
@@ -690,7 +690,7 @@ x-co-op: No
 
 
 game: Awkward Dimensions Redux (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Awkward Dimensions Redux (USA)/Awkward Dimensions Redux (USA).json
+file: Computer/Steam/A/Awkward Dimensions Redux (USA)/Awkward Dimensions Redux (USA).json
 developer: StevenHarmonGames
 publisher: StevenHarmonGames
 genre: Adventure;3D;First-Person
@@ -715,7 +715,7 @@ x-co-op: No
 
 
 game: Axiom Verge (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/A/Axiom Verge (USA)/Axiom Verge (USA).json
+file: Computer/Steam/A/Axiom Verge (USA)/Axiom Verge (USA).json
 developer: Tom Happ
 publisher: Tom Happ
 genre: Action;Platformer;Metroidvania
@@ -759,7 +759,7 @@ x-co-op: No
 
 
 game: Baldur's Gate - Enhanced Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Baldur's Gate - Enhanced Edition (USA)/Baldur's Gate - Enhanced Edition (USA).json
+file: Computer/Steam/B/Baldur's Gate - Enhanced Edition (USA)/Baldur's Gate - Enhanced Edition (USA).json
 developer: Overhaul Games
 publisher: Beamdog
 genre: Role-Playing;Western-Style
@@ -780,7 +780,7 @@ x-co-op: No
 
 
 game: Baldur's Gate II - Enhanced Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Baldur's Gate II - Enhanced Edition (USA)/Baldur's Gate II - Enhanced Edition (USA).json
+file: Computer/Steam/B/Baldur's Gate II - Enhanced Edition (USA)/Baldur's Gate II - Enhanced Edition (USA).json
 developer: BioWare
 publisher: Interplay
 genre: Role-Playing;Western-Style
@@ -811,7 +811,7 @@ x-co-op: No
 
 
 game: Basement Collection, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Basement Collection, The (USA)/Basement Collection, The (USA).json
+file: Computer/Steam/B/Basement Collection, The (USA)/Basement Collection, The (USA).json
 developer: Edmund McMillen
 publisher: Edmund McMillen
 genre: Miscellaneous;Compilation
@@ -831,7 +831,7 @@ x-co-op: No
 
 
 game: BattleBlock Theater (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/BattleBlock Theater (USA)/BattleBlock Theater (USA).json
+file: Computer/Steam/B/BattleBlock Theater (USA)/BattleBlock Theater (USA).json
 developer: The Behemoth
 publisher: Microsoft Game Studios
 genre: Action;Platformer;2D
@@ -853,7 +853,7 @@ x-co-op: Yes
 
 
 game: Beatbuddy - Tale of the Guardians (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
+file: Computer/Steam/B/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
 developer: Threaks
 publisher: Reverb
 genre: Action;Rhythm;Music
@@ -877,7 +877,7 @@ x-co-op: No
 
 
 game: Bendy and the Ink Machine (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Bendy and the Ink Machine (USA)/Bendy and the Ink Machine (USA).json
+file: Computer/Steam/B/Bendy and the Ink Machine (USA)/Bendy and the Ink Machine (USA).json
 developer: TheMeatly Games
 publisher: TheMeatly Games
 genre: Adventure;3D;First-Person
@@ -912,7 +912,7 @@ x-co-op: No
 
 
 game: Blood Omen 2 - Legacy of Kain (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Blood Omen 2 - Legacy of Kain (USA)/Blood Omen 2 - Legacy of Kain (USA).json
+file: Computer/Steam/B/Blood Omen 2 - Legacy of Kain (USA)/Blood Omen 2 - Legacy of Kain (USA).json
 developer: Crystal Dynamics
 publisher: Eidos Interactive
 genre: Action Adventure;Survival
@@ -935,7 +935,7 @@ x-co-op: No
 
 
 game: Blood Spear (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Blood Spear (USA)/Blood Spear (USA).json
+file: Computer/Steam/B/Blood Spear (USA)/Blood Spear (USA).json
 developer: Blood Spear Dev
 publisher: Blood Spear Dev
 genre: Action Adventure;General
@@ -955,7 +955,7 @@ x-co-op: No
 
 
 game: Bloodshore (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Bloodshore (USA)/Bloodshore (USA).json
+file: Computer/Steam/B/Bloodshore (USA)/Bloodshore (USA).json
 developer: Wales Interactive
 publisher: Wales Interactive
 genre: Adventure;Visual Novel
@@ -979,7 +979,7 @@ x-co-op: No
 
 
 game: Borderlands (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Borderlands (USA)/Borderlands (USA).json
+file: Computer/Steam/B/Borderlands (USA)/Borderlands (USA).json
 developer: Gearbox Software
 publisher: 2K Games
 genre: Action;Shooter;First-Person;Arcade
@@ -1000,7 +1000,7 @@ x-co-op: Yes
 
 
 game: Borderlands - The Pre-Sequel (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
+file: Computer/Steam/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
 developer: 2K Australia
 publisher: 2K Games
 genre: Action;Shooter;First-Person;Arcade
@@ -1030,7 +1030,7 @@ x-co-op: Yes
 
 
 game: Borderlands 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Borderlands 2 (USA)/Borderlands 2 (USA).json
+file: Computer/Steam/B/Borderlands 2 (USA)/Borderlands 2 (USA).json
 developer: Gearbox Software
 publisher: 2K Games
 genre: Action;Shooter;First-Person;Arcade
@@ -1057,7 +1057,7 @@ x-co-op: Yes
 
 
 game: Brave Battle Saga - The Legend of the Magic Warrior (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Brave Battle Saga - The Legend of the Magic Warrior (USA)/Brave Battle Saga - The Legend of the Magic Warrior (USA).json
+file: Computer/Steam/B/Brave Battle Saga - The Legend of the Magic Warrior (USA)/Brave Battle Saga - The Legend of the Magic Warrior (USA).json
 developer: Chuanpu
 publisher: Piko Interactive LLC
 genre: Role-Playing;Japanese-Style
@@ -1097,7 +1097,7 @@ x-co-op: No
 
 
 game: Breath of Death VII (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Breath of Death VII (USA)/Breath of Death VII (USA).json
+file: Computer/Steam/B/Breath of Death VII (USA)/Breath of Death VII (USA).json
 developer: Zeboyd Games
 publisher: Microsoft Game Studios
 genre: Role-Playing;Japanese-Style
@@ -1119,7 +1119,7 @@ x-co-op: No
 
 
 game: Brutal Legend (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Brutal Legend (USA)/Brutal Legend (USA).json
+file: Computer/Steam/B/Brutal Legend (USA)/Brutal Legend (USA).json
 developer: Double Fine Productions
 publisher: EA Games
 genre: Action Adventure;Open-World
@@ -1152,7 +1152,7 @@ x-co-op: No
 
 
 game: Bunker, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/B/Bunker, The (USA)/Bunker, The (USA).json
+file: Computer/Steam/B/Bunker, The (USA)/Bunker, The (USA).json
 developer: Splendy Games
 publisher: Green Man Gaming Publishing
 genre: Adventure;Point-and-Click
@@ -1173,7 +1173,7 @@ x-co-op: No
 
 
 game: Captain Forever Remix (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Captain Forever Remix (USA)/Captain Forever Remix (USA).json
+file: Computer/Steam/C/Captain Forever Remix (USA)/Captain Forever Remix (USA).json
 developer: Pixelsaurus Games
 publisher: Pixelsaurus Games
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -1203,7 +1203,7 @@ x-co-op: No
 
 
 game: Castle Crashers (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Castle Crashers (USA)/Castle Crashers (USA).json
+file: Computer/Steam/C/Castle Crashers (USA)/Castle Crashers (USA).json
 developer: The Behemoth
 publisher: The Behemoth
 genre: Action;Beat-'Em-Up;2D
@@ -1224,7 +1224,7 @@ x-co-op: Yes
 
 
 game: Castlevania Advance Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Castlevania Advance Collection (USA)/Castlevania Advance Collection (USA).json
+file: Computer/Steam/C/Castlevania Advance Collection (USA)/Castlevania Advance Collection (USA).json
 developer: M2
 publisher: Konami
 genre: Miscellaneous;Compilation
@@ -1371,7 +1371,7 @@ x-co-op: No
 
 
 game: Castlevania Anniversary Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Castlevania Anniversary Collection (USA)/Castlevania Anniversary Collection (USA).json
+file: Computer/Steam/C/Castlevania Anniversary Collection (USA)/Castlevania Anniversary Collection (USA).json
 developer: M2
 publisher: Konami
 genre: Miscellaneous;Compilation
@@ -1470,7 +1470,7 @@ x-co-op: No
 
 
 game: Cayne (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Cayne (USA)/Cayne (USA).json
+file: Computer/Steam/C/Cayne (USA)/Cayne (USA).json
 developer: THE BROTHERHOOD
 publisher: THE BROTHERHOOD
 genre: Adventure;Point-and-Click
@@ -1499,7 +1499,7 @@ x-co-op: No
 
 
 game: Chariot (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Chariot (USA)/Chariot (USA).json
+file: Computer/Steam/C/Chariot (USA)/Chariot (USA).json
 developer: Frima Studio
 publisher: Frima Studio
 genre: Action;Platformer;2D
@@ -1532,7 +1532,7 @@ x-co-op: Yes
 
 
 game: Chex Quest HD (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Chex Quest HD (USA)/Chex Quest HD (USA).json
+file: Computer/Steam/C/Chex Quest HD (USA)/Chex Quest HD (USA).json
 developer: Flight School Studio
 publisher: General Mills
 genre: Action;Shooter;First-Person;Arcade
@@ -1569,7 +1569,7 @@ x-co-op: No
 
 
 game: ColecoVision Flashback (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/ColecoVision Flashback (USA)/ColecoVision Flashback (USA).json
+file: Computer/Steam/C/ColecoVision Flashback (USA)/ColecoVision Flashback (USA).json
 developer: AtGames
 publisher: AtGames
 genre: Miscellaneous;Compilation
@@ -1598,7 +1598,7 @@ x-co-op: Yes
 
 
 game: Complex, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Complex, The (USA)/Complex, The (USA).json
+file: Computer/Steam/C/Complex, The (USA)/Complex, The (USA).json
 developer: Wales Interactive
 publisher: Wales Interactive
 genre: Adventure;General
@@ -1631,7 +1631,7 @@ x-co-op: No
 
 
 game: Complex, The - Found Footage (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Complex, The - Found Footage (USA)/Complex, The - Found Footage (USA).json
+file: Computer/Steam/C/Complex, The - Found Footage (USA)/Complex, The - Found Footage (USA).json
 developer: IsarL
 publisher: IsarL
 genre: Adventure;3D;First-Person
@@ -1655,7 +1655,7 @@ x-co-op: No
 
 
 game: Condemned - Criminal Origins (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Condemned - Criminal Origins (USA)/Condemned - Criminal Origins (USA).json
+file: Computer/Steam/C/Condemned - Criminal Origins (USA)/Condemned - Criminal Origins (USA).json
 developer: Monolith Productions
 publisher: Sega
 genre: Action Adventure;Survival
@@ -1698,7 +1698,7 @@ x-co-op: No
 
 
 game: Contra Anniversary Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Contra Anniversary Collection (USA)/Contra Anniversary Collection (USA).json
+file: Computer/Steam/C/Contra Anniversary Collection (USA)/Contra Anniversary Collection (USA).json
 developer: M2
 publisher: Konami
 genre: Miscellaneous;Compilation
@@ -1748,7 +1748,7 @@ x-co-op: Yes
 
 
 game: Corridor, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Corridor, The (USA)/Corridor, The (USA).json
+file: Computer/Steam/C/Corridor, The (USA)/Corridor, The (USA).json
 developer: Thomas Mackinnon
 publisher: Thomas Mackinnon
 genre: Adventure;3D;First-Person
@@ -1782,7 +1782,7 @@ x-co-op: No
 
 
 game: Crawl (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Crawl (USA)/Crawl (USA).json
+file: Computer/Steam/C/Crawl (USA)/Crawl (USA).json
 developer: Powerhoof
 publisher: Fellow Traveller
 genre: Role-Playing;Action RPG
@@ -1802,7 +1802,7 @@ x-co-op: Yes
 
 
 game: Crimsonland (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Crimsonland (USA)/Crimsonland (USA).json
+file: Computer/Steam/C/Crimsonland (USA)/Crimsonland (USA).json
 developer: 10tons
 publisher: 10tons
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -1830,7 +1830,7 @@ x-co-op: Yes
 
 
 game: Crimzon Clover World Ignition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Crimzon Clover World Ignition (USA)/Crimzon Clover World Ignition (USA).json
+file: Computer/Steam/C/Crimzon Clover World Ignition (USA)/Crimzon Clover World Ignition (USA).json
 developer: Yotsubane
 publisher: Degica
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -1849,7 +1849,7 @@ x-co-op: Yes
 
 
 game: Crowntakers (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Crowntakers (USA)/Crowntakers (USA).json
+file: Computer/Steam/C/Crowntakers (USA)/Crowntakers (USA).json
 developer: Bulwark Studios
 publisher: Kasedo Games
 genre: Role-Playing;Roguelike
@@ -1880,7 +1880,7 @@ x-co-op: No
 
 
 game: Cry of Fear (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Cry of Fear (USA)/Cry of Fear (USA).json
+file: Computer/Steam/C/Cry of Fear (USA)/Cry of Fear (USA).json
 developer: Team Psykskallar
 publisher: Team Psykskallar
 genre: Action Adventure;Survival
@@ -1930,7 +1930,7 @@ x-co-op: Yes
 
 
 game: Crypt of the NecroDancer (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Crypt of the NecroDancer (USA)/Crypt of the NecroDancer (USA).json
+file: Computer/Steam/C/Crypt of the NecroDancer (USA)/Crypt of the NecroDancer (USA).json
 developer: Brace Yourself Games
 publisher: Brace Yourself Games
 genre: Action;Rhythm;Music
@@ -1955,7 +1955,7 @@ x-co-op: Yes
 
 
 game: Cthulhu Saves Christmas (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Cthulhu Saves Christmas (USA)/Cthulhu Saves Christmas (USA).json
+file: Computer/Steam/C/Cthulhu Saves Christmas (USA)/Cthulhu Saves Christmas (USA).json
 developer: Zeboyd Games
 publisher: Zeboyd Games
 genre: Role-Playing;Japanese-Style
@@ -1976,7 +1976,7 @@ x-co-op: No
 
 
 game: Cthulhu Saves the World (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Cthulhu Saves the World (USA)/Cthulhu Saves the World (USA).json
+file: Computer/Steam/C/Cthulhu Saves the World (USA)/Cthulhu Saves the World (USA).json
 developer: Zeboyd Games
 publisher: Zeboyd Games
 genre: Role-Playing;Japanese-Style
@@ -1995,7 +1995,7 @@ x-co-op: No
 
 
 game: Curse of the Crescent Isle DX (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/C/Curse of the Crescent Isle DX (USA)/Curse of the Crescent Isle DX (USA).json
+file: Computer/Steam/C/Curse of the Crescent Isle DX (USA)/Curse of the Crescent Isle DX (USA).json
 developer: Adam Mowery
 publisher: Adam Mowery
 genre: Action;Platformer;2D
@@ -2017,7 +2017,7 @@ x-co-op: No
 
 
 game: DEEEER Simulator (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/DEEEER Simulator (USA)/DEEEER Simulator (USA).json
+file: Computer/Steam/D/DEEEER Simulator (USA)/DEEEER Simulator (USA).json
 developer: Gibier Games
 publisher: Gibier Games
 genre: Action Adventure;Open-World
@@ -2037,7 +2037,7 @@ x-co-op: No
 
 
 game: Daemon 9 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Daemon 9 (USA)/Daemon 9 (USA).json
+file: Computer/Steam/D/Daemon 9 (USA)/Daemon 9 (USA).json
 developer: Curio Productions
 publisher: Curio Productions
 genre: Adventure;Visual Novel
@@ -2084,7 +2084,7 @@ x-co-op: No
 
 
 game: Dagon by H. P. Lovecraft (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dagon by H. P. Lovecraft (USA)/Dagon by H. P. Lovecraft (USA).json
+file: Computer/Steam/D/Dagon by H. P. Lovecraft (USA)/Dagon by H. P. Lovecraft (USA).json
 developer: Bit Golem
 publisher: Bit Golem
 genre: Adventure;General
@@ -2120,7 +2120,7 @@ x-co-op: No
 
 
 game: Dark Nights with Poe and Munro (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dark Nights with Poe and Munro (USA)/Dark Nights with Poe and Munro (USA).json
+file: Computer/Steam/D/Dark Nights with Poe and Munro (USA)/Dark Nights with Poe and Munro (USA).json
 developer: D'Avekki Studios Limited
 publisher: D'Avekki Studios Limited
 genre: Adventure;Visual Novel
@@ -2147,7 +2147,7 @@ x-co-op: No
 
 
 game: Dark Pictures Anthology, The - House of Ashes (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dark Pictures Anthology, The - House of Ashes (USA)/Dark Pictures Anthology, The - House of Ashes (USA).json
+file: Computer/Steam/D/Dark Pictures Anthology, The - House of Ashes (USA)/Dark Pictures Anthology, The - House of Ashes (USA).json
 developer: Supermassive Games
 publisher: Bandai Namco Games
 genre: Action Adventure;Survival
@@ -2191,7 +2191,7 @@ x-co-op: Yes
 
 
 game: Dark Pictures Anthology, The - Little Hope (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dark Pictures Anthology, The - Little Hope (USA)/Dark Pictures Anthology, The - Little Hope (USA).json
+file: Computer/Steam/D/Dark Pictures Anthology, The - Little Hope (USA)/Dark Pictures Anthology, The - Little Hope (USA).json
 developer: Supermassive Games
 publisher: Bandai Namco Games
 genre: Action Adventure;Survival
@@ -2234,7 +2234,7 @@ x-co-op: Yes
 
 
 game: Dark Pictures Anthology, The - Man of Medan (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dark Pictures Anthology, The - Man of Medan (USA)/Dark Pictures Anthology, The - Man of Medan (USA).json
+file: Computer/Steam/D/Dark Pictures Anthology, The - Man of Medan (USA)/Dark Pictures Anthology, The - Man of Medan (USA).json
 developer: Supermassive Games
 publisher: Bandai Namco Games
 genre: Adventure;General
@@ -2289,7 +2289,7 @@ x-co-op: Yes
 
 
 game: Dark Pictures Anthology, The - The Devil In Me (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dark Pictures Anthology, The - The Devil In Me (USA)/Dark Pictures Anthology, The - The Devil In Me (USA).json
+file: Computer/Steam/D/Dark Pictures Anthology, The - The Devil In Me (USA)/Dark Pictures Anthology, The - The Devil In Me (USA).json
 developer: Supermassive Games
 publisher: Bandai Namco Games
 genre: Adventure;3D;Third-Person
@@ -2317,7 +2317,7 @@ x-co-op: Yes
 
 
 game: Dark Side of the Moon, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dark Side of the Moon, The (USA)/Dark Side of the Moon, The (USA).json
+file: Computer/Steam/D/Dark Side of the Moon, The (USA)/Dark Side of the Moon, The (USA).json
 developer: Tayanna Studios
 publisher: Tayanna Studios
 genre: Adventure;Point-and-Click
@@ -2348,7 +2348,7 @@ x-co-op: No
 
 
 game: Date in the Park, A (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Date in the Park, A (USA)/Date in the Park, A (USA).json
+file: Computer/Steam/D/Date in the Park, A (USA)/Date in the Park, A (USA).json
 developer: Cloak and Dagger Games
 publisher: Cloak and Dagger Games
 genre: Adventure;Point-and-Click
@@ -2379,7 +2379,7 @@ x-co-op: No
 
 
 game: Day of the Tentacle Remastered (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Day of the Tentacle Remastered (USA)/Day of the Tentacle Remastered (USA).json
+file: Computer/Steam/D/Day of the Tentacle Remastered (USA)/Day of the Tentacle Remastered (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Adventure;Point-and-Click
@@ -2413,7 +2413,7 @@ x-co-op: No
 
 
 game: Dead Cells (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dead Cells (USA)/Dead Cells (USA).json
+file: Computer/Steam/D/Dead Cells (USA)/Dead Cells (USA).json
 developer: Motion Twin
 publisher: Motion Twin
 genre: Action;Platformer;2D
@@ -2468,7 +2468,7 @@ x-co-op: No
 
 
 game: Dead Island - Definitive Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dead Island - Definitive Edition (USA)/Dead Island - Definitive Edition (USA).json
+file: Computer/Steam/D/Dead Island - Definitive Edition (USA)/Dead Island - Definitive Edition (USA).json
 developer: Techland
 publisher: Deep Silver
 genre: Miscellaneous;Compilation
@@ -2494,7 +2494,7 @@ x-co-op: No
 
 
 game: Dead Island - Retro Revenge (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dead Island - Retro Revenge (USA)/Dead Island - Retro Revenge (USA).json
+file: Computer/Steam/D/Dead Island - Retro Revenge (USA)/Dead Island - Retro Revenge (USA).json
 developer: Empty Clip Studios
 publisher: Deep Silver
 genre: Action;Beat-'Em-Up;2D
@@ -2516,7 +2516,7 @@ x-co-op: No
 
 
 game: Dead Island - Riptide - Definitive Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dead Island - Riptide - Definitive Edition (USA)/Dead Island - Riptide - Definitive Edition (USA).json
+file: Computer/Steam/D/Dead Island - Riptide - Definitive Edition (USA)/Dead Island - Riptide - Definitive Edition (USA).json
 developer: Techland
 publisher: Deep Silver
 genre: Action;Shooter;First-Person;Arcade
@@ -2535,7 +2535,7 @@ x-co-op: No
 
 
 game: Dead Rising 4 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dead Rising 4 (USA)/Dead Rising 4 (USA).json
+file: Computer/Steam/D/Dead Rising 4 (USA)/Dead Rising 4 (USA).json
 developer: Capcom Vancouver
 publisher: Microsoft Game Studios
 genre: Action Adventure;Open-World
@@ -2578,7 +2578,7 @@ x-co-op: No
 
 
 game: Death Road to Canada (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Death Road to Canada (USA)/Death Road to Canada (USA).json
+file: Computer/Steam/D/Death Road to Canada (USA)/Death Road to Canada (USA).json
 developer: Rocketcat Games
 publisher: Rocketcat Games
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -2607,7 +2607,7 @@ x-co-op: Yes
 
 
 game: Deathly Stillness (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Deathly Stillness (USA)/Deathly Stillness (USA).json
+file: Computer/Steam/D/Deathly Stillness (USA)/Deathly Stillness (USA).json
 developer: Chen Jiacheng
 publisher: Chen Jiacheng
 genre: Action;Shooter;Third-Person;Arcade
@@ -2629,7 +2629,7 @@ x-co-op: No
 
 
 game: Deathtrap Dungeon - The Interactive Video Adventure (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Deathtrap Dungeon - The Interactive Video Adventure (USA)/Deathtrap Dungeon - The Interactive Video Adventure (USA).json
+file: Computer/Steam/D/Deathtrap Dungeon - The Interactive Video Adventure (USA)/Deathtrap Dungeon - The Interactive Video Adventure (USA).json
 developer: Branching Narrative Ltd
 publisher: Branching Narrative Ltd
 genre: Role-Playing;General
@@ -2654,7 +2654,7 @@ x-co-op: No
 
 
 game: Deluded (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Deluded (USA)/Deluded (USA).json
+file: Computer/Steam/D/Deluded (USA)/Deluded (USA).json
 developer: New IDEA Games
 publisher: New IDEA Games
 genre: Adventure;General
@@ -2678,7 +2678,7 @@ x-co-op: No
 
 
 game: Deus Ex - Mankind Divided (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Deus Ex - Mankind Divided (USA)/Deus Ex - Mankind Divided (USA).json
+file: Computer/Steam/D/Deus Ex - Mankind Divided (USA)/Deus Ex - Mankind Divided (USA).json
 developer: Nixxes Software
 publisher: Square Enix
 genre: Action Adventure;General
@@ -2703,7 +2703,7 @@ x-co-op: No
 
 
 game: Devil May Cry 4 - Special Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Devil May Cry 4 - Special Edition (USA)/Devil May Cry 4 - Special Edition (USA).json
+file: Computer/Steam/D/Devil May Cry 4 - Special Edition (USA)/Devil May Cry 4 - Special Edition (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Linear
@@ -2735,7 +2735,7 @@ x-co-op: No
 
 
 game: Devour (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Devour (USA)/Devour (USA).json
+file: Computer/Steam/D/Devour (USA)/Devour (USA).json
 developer: Joe Fender
 publisher: Straight Back Games
 genre: Action Adventure;Survival
@@ -2754,7 +2754,7 @@ x-co-op: Yes
 
 
 game: Dinner with an Owl (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dinner with an Owl (USA)/Dinner with an Owl (USA).json
+file: Computer/Steam/D/Dinner with an Owl (USA)/Dinner with an Owl (USA).json
 developer: Timo Jens Wegener
 publisher: Timo Jens Wegener
 genre: Adventure;Point-and-Click
@@ -2781,7 +2781,7 @@ x-co-op: No
 
 
 game: Disney Afternoon Collection, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Disney Afternoon Collection, The (USA)/Disney Afternoon Collection, The (USA).json
+file: Computer/Steam/D/Disney Afternoon Collection, The (USA)/Disney Afternoon Collection, The (USA).json
 developer: Digital Eclipse
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -2799,7 +2799,7 @@ x-co-op: Yes
 
 
 game: Doodle God (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Doodle God (USA)/Doodle God (USA).json
+file: Computer/Steam/D/Doodle God (USA)/Doodle God (USA).json
 developer: JoyBits
 publisher: JoyBits
 genre: Miscellaneous;Board / Card Game
@@ -2825,7 +2825,7 @@ x-co-op: No
 
 
 game: Doom (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Doom (USA)/Doom (USA).json
+file: Computer/Steam/D/Doom (USA)/Doom (USA).json
 developer: id Software
 publisher: Bethesda Softworks
 genre: Action;Shooter;First-Person;Arcade
@@ -2871,7 +2871,7 @@ x-co-op: No
 
 
 game: Dorke and Ymp (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dorke and Ymp (USA)/Dorke and Ymp (USA).json
+file: Computer/Steam/D/Dorke and Ymp (USA)/Dorke and Ymp (USA).json
 developer: Norse
 publisher: Piko Interactive LLC
 genre: Action Adventure;General
@@ -2917,7 +2917,7 @@ x-co-op: No
 
 
 game: Double Dragon Trilogy (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Double Dragon Trilogy (USA)/Double Dragon Trilogy (USA).json
+file: Computer/Steam/D/Double Dragon Trilogy (USA)/Double Dragon Trilogy (USA).json
 developer: DotEmu
 publisher: DotEmu
 genre: Miscellaneous;Compilation
@@ -2965,7 +2965,7 @@ x-co-op: Yes
 
 
 game: Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA)/Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA).json
+file: Computer/Steam/D/Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA)/Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA).json
 developer: Crows Crows Crows
 publisher: Crows Crows Crows
 genre: Adventure;3D;First-Person
@@ -2996,7 +2996,7 @@ x-co-op: No
 
 
 game: Dragon View (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dragon View (USA)/Dragon View (USA).json
+file: Computer/Steam/D/Dragon View (USA)/Dragon View (USA).json
 developer: Kemco
 publisher: Kemco
 genre: Role-Playing;Action RPG
@@ -3019,7 +3019,7 @@ x-co-op: No
 
 
 game: Dragon's Dogma - Dark Arisen (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dragon's Dogma - Dark Arisen (USA)/Dragon's Dogma - Dark Arisen (USA).json
+file: Computer/Steam/D/Dragon's Dogma - Dark Arisen (USA)/Dragon's Dogma - Dark Arisen (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Role-Playing;Action RPG
@@ -3046,7 +3046,7 @@ x-co-op: No
 
 
 game: Drawful 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Drawful 2 (USA)/Drawful 2 (USA).json
+file: Computer/Steam/D/Drawful 2 (USA)/Drawful 2 (USA).json
 developer: Jackbox Games, Inc.
 publisher: Jackbox Games, Inc.
 genre: Miscellaneous;Board / Card Game
@@ -3071,7 +3071,7 @@ x-co-op: No
 
 
 game: DuckTales Remastered (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/DuckTales Remastered (USA)/DuckTales Remastered (USA).json
+file: Computer/Steam/D/DuckTales Remastered (USA)/DuckTales Remastered (USA).json
 developer: WayForward
 publisher: Capcom
 genre: Action;Platformer;2D
@@ -3099,7 +3099,7 @@ x-co-op: No
 
 
 game: Dungeons and Dragons Online (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dungeons and Dragons Online (USA)/Dungeons and Dragons Online (USA).json
+file: Computer/Steam/D/Dungeons and Dragons Online (USA)/Dungeons and Dragons Online (USA).json
 developer: Turbine Inc.
 publisher: Atari SA
 genre: Role-Playing;Massively Multiplayer
@@ -3125,7 +3125,7 @@ x-co-op: Yes
 
 
 game: Dungeons of Dredmor (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dungeons of Dredmor (USA)/Dungeons of Dredmor (USA).json
+file: Computer/Steam/D/Dungeons of Dredmor (USA)/Dungeons of Dredmor (USA).json
 developer: Gaslamp Games
 publisher: Gaslamp Games
 genre: Role-Playing;Roguelike
@@ -3146,7 +3146,7 @@ x-co-op: No
 
 
 game: Dust - An Elysian Tail (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dust - An Elysian Tail (USA)/Dust - An Elysian Tail (USA).json
+file: Computer/Steam/D/Dust - An Elysian Tail (USA)/Dust - An Elysian Tail (USA).json
 developer: Humble Hearts
 publisher: Microsoft Game Studios
 genre: Action;Platformer;Metroidvania
@@ -3172,7 +3172,7 @@ x-co-op: No
 
 
 game: Dying Light 2 - Stay Human (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dying Light 2 - Stay Human (USA)/Dying Light 2 - Stay Human (USA).json
+file: Computer/Steam/D/Dying Light 2 - Stay Human (USA)/Dying Light 2 - Stay Human (USA).json
 developer: Techland
 publisher: Techland
 genre: Action Adventure;Survival
@@ -3240,7 +3240,7 @@ x-co-op: Yes
 
 
 game: Dyscourse (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/D/Dyscourse (USA)/Dyscourse (USA).json
+file: Computer/Steam/D/Dyscourse (USA)/Dyscourse (USA).json
 developer: Owlchemy Labs
 publisher: Owlchemy Labs
 genre: Adventure;General
@@ -3258,7 +3258,7 @@ x-co-op: No
 
 
 game: Edge (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/E/Edge (USA)/Edge (USA).json
+file: Computer/Steam/E/Edge (USA)/Edge (USA).json
 developer: Mobigame
 publisher: Mobigame
 genre: Action;Platformer;3D
@@ -3283,7 +3283,7 @@ x-co-op: No
 
 
 game: Elder Scrolls V, The - Skyrim - Special Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/E/Elder Scrolls V, The - Skyrim - Special Edition (USA)/Elder Scrolls V, The - Skyrim - Special Edition (USA).json
+file: Computer/Steam/E/Elder Scrolls V, The - Skyrim - Special Edition (USA)/Elder Scrolls V, The - Skyrim - Special Edition (USA).json
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 genre: Role-Playing;Western-Style
@@ -3306,7 +3306,7 @@ x-co-op: No
 
 
 game: Elder Scrolls V, The - Skyrim - VR (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/E/Elder Scrolls V, The - Skyrim - VR (USA)/Elder Scrolls V, The - Skyrim - VR (USA).json
+file: Computer/Steam/E/Elder Scrolls V, The - Skyrim - VR (USA)/Elder Scrolls V, The - Skyrim - VR (USA).json
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 genre: Role-Playing;Western-Style
@@ -3332,7 +3332,7 @@ x-co-op: No
 
 
 game: Expendabros, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/E/Expendabros, The (USA)/Expendabros, The (USA).json
+file: Computer/Steam/E/Expendabros, The (USA)/Expendabros, The (USA).json
 developer: Free Lives
 publisher: Devolver Digital
 genre: Action;Platformer;2D
@@ -3356,7 +3356,7 @@ x-co-op: Yes
 
 
 game: Fallout 4 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Fallout 4 (USA)/Fallout 4 (USA).json
+file: Computer/Steam/F/Fallout 4 (USA)/Fallout 4 (USA).json
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 genre: Role-Playing;Western-Style
@@ -3418,7 +3418,7 @@ x-co-op: No
 
 
 game: Fallout 4 VR (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Fallout 4 VR (USA)/Fallout 4 VR (USA).json
+file: Computer/Steam/F/Fallout 4 VR (USA)/Fallout 4 VR (USA).json
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 genre: Role-Playing;Western-Style
@@ -3444,7 +3444,7 @@ x-co-op: No
 
 
 game: Five Dates (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Five Dates (USA)/Five Dates (USA).json
+file: Computer/Steam/F/Five Dates (USA)/Five Dates (USA).json
 developer: Good Gate Media
 publisher: Wales Interactive
 genre: Adventure;Visual Novel
@@ -3470,7 +3470,7 @@ x-co-op: No
 
 
 game: Flinthook (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Flinthook (USA)/Flinthook (USA).json
+file: Computer/Steam/F/Flinthook (USA)/Flinthook (USA).json
 developer: Tribute Games
 publisher: Limited Run Games
 genre: Action;Platformer;2D
@@ -3491,7 +3491,7 @@ x-co-op: No
 
 
 game: Floating Point (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Floating Point (USA)/Floating Point (USA).json
+file: Computer/Steam/F/Floating Point (USA)/Floating Point (USA).json
 developer: Suspicious Developments
 publisher: Suspicious Developments
 genre: Miscellaneous;General
@@ -3520,7 +3520,7 @@ x-co-op: No
 
 
 game: Forced - Showdown (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Forced - Showdown (USA)/Forced - Showdown (USA).json
+file: Computer/Steam/F/Forced - Showdown (USA)/Forced - Showdown (USA).json
 developer: BetaDwarf
 publisher: BetaDwarf
 genre: Role-Playing;Action RPG
@@ -3540,7 +3540,7 @@ x-co-op: No
 
 
 game: Forest, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Forest, The (USA)/Forest, The (USA).json
+file: Computer/Steam/F/Forest, The (USA)/Forest, The (USA).json
 developer: SKS Games
 publisher: Endnight Studios
 genre: Action Adventure;Survival
@@ -3584,7 +3584,7 @@ x-co-op: Yes
 
 
 game: Fotonica (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Fotonica (USA)/Fotonica (USA).json
+file: Computer/Steam/F/Fotonica (USA)/Fotonica (USA).json
 developer: Santa Ragione
 publisher: Santa Ragione
 genre: Action;Platformer;3D
@@ -3614,7 +3614,7 @@ x-co-op: Yes
 
 
 game: FranknJohn (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/FranknJohn (USA)/FranknJohn (USA).json
+file: Computer/Steam/F/FranknJohn (USA)/FranknJohn (USA).json
 developer: bitSmith Games
 publisher: bitSmith Games
 genre: Role-Playing;Action RPG
@@ -3667,7 +3667,7 @@ x-co-op: No
 
 
 game: Freedom Planet (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Freedom Planet (USA)/Freedom Planet (USA).json
+file: Computer/Steam/F/Freedom Planet (USA)/Freedom Planet (USA).json
 developer: GalaxyTrail
 publisher: GalaxyTrail
 genre: Action;Platformer;2D
@@ -3696,7 +3696,7 @@ x-co-op: No
 
 
 game: Frog Fractions - Game of the Decade Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/Frog Fractions - Game of the Decade Edition (USA)/Frog Fractions - Game of the Decade Edition (USA).json
+file: Computer/Steam/F/Frog Fractions - Game of the Decade Edition (USA)/Frog Fractions - Game of the Decade Edition (USA).json
 developer: Twinbeard, Inc.
 publisher: Twinbeard, Inc.
 genre: Adventure;General
@@ -3723,7 +3723,7 @@ x-co-op: No
 
 
 game: FrostRunner (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/F/FrostRunner (USA)/FrostRunner (USA).json
+file: Computer/Steam/F/FrostRunner (USA)/FrostRunner (USA).json
 developer: Think Arcade
 publisher: SMU Guildhall
 genre: Action;Platformer;3D
@@ -3757,7 +3757,7 @@ x-co-op: No
 
 
 game: GTFO (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/GTFO (USA)/GTFO (USA).json
+file: Computer/Steam/G/GTFO (USA)/GTFO (USA).json
 developer: 10 Chambers
 publisher: 10 Chambers
 genre: Action;Shooter;First-Person;Tactical
@@ -3800,7 +3800,7 @@ x-co-op: Yes
 
 
 game: Galak-Z (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Galak-Z (USA)/Galak-Z (USA).json
+file: Computer/Steam/G/Galak-Z (USA)/Galak-Z (USA).json
 developer: 17-Bit
 publisher: 17-Bit
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -3826,7 +3826,7 @@ x-co-op: No
 
 
 game: Game Dev Studio (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Game Dev Studio (USA)/Game Dev Studio (USA).json
+file: Computer/Steam/G/Game Dev Studio (USA)/Game Dev Studio (USA).json
 developer: Roman Glebenkov
 publisher: Roman Glebenkov
 genre: Simulation;Virtual;Career
@@ -3884,7 +3884,7 @@ x-co-op: No
 
 
 game: Garry's Mod (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Garry's Mod (USA)/Garry's Mod (USA).json
+file: Computer/Steam/G/Garry's Mod (USA)/Garry's Mod (USA).json
 developer: Facepunch Studios
 publisher: Facepunch Studios
 genre: Action Adventure;Sandbox
@@ -3911,7 +3911,7 @@ x-co-op: Yes
 
 
 game: Genital Jousting (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Genital Jousting (USA)/Genital Jousting (USA).json
+file: Computer/Steam/G/Genital Jousting (USA)/Genital Jousting (USA).json
 developer: Free Lives
 publisher: Devolver Digital
 genre: Miscellaneous;Party / Minigame
@@ -3964,7 +3964,7 @@ x-co-op: Yes
 
 
 game: Ghost of You, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Ghost of You, The (USA)/Ghost of You, The (USA).json
+file: Computer/Steam/G/Ghost of You, The (USA)/Ghost of You, The (USA).json
 developer: Noodletub Games
 publisher: Noodletub Games
 genre: Adventure;Text
@@ -4001,7 +4001,7 @@ x-co-op: No
 
 
 game: Gish (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Gish (USA)/Gish (USA).json
+file: Computer/Steam/G/Gish (USA)/Gish (USA).json
 developer: Chronic Logic
 publisher: Chronic Logic
 genre: Action;Platformer;2D
@@ -4021,7 +4021,7 @@ x-co-op: No
 
 
 game: Glittermitten Grove (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Glittermitten Grove (USA)/Glittermitten Grove (USA).json
+file: Computer/Steam/G/Glittermitten Grove (USA)/Glittermitten Grove (USA).json
 developer: Mostly Tigerproof
 publisher: Adult Swim
 genre: Strategy;Real-Time;General
@@ -4050,7 +4050,7 @@ x-co-op: No
 
 
 game: Goats on a Bridge (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Goats on a Bridge (USA)/Goats on a Bridge (USA).json
+file: Computer/Steam/G/Goats on a Bridge (USA)/Goats on a Bridge (USA).json
 developer: Cabygon
 publisher: Degica
 genre: Action;Platformer;3D
@@ -4101,7 +4101,7 @@ x-co-op: No
 
 
 game: Golf With Your Friends (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Golf With Your Friends (USA)/Golf With Your Friends (USA).json
+file: Computer/Steam/G/Golf With Your Friends (USA)/Golf With Your Friends (USA).json
 developer: Blacklight Interactive
 publisher: Blacklight Interactive
 genre: Sports;Individual;Golf;Arcade
@@ -4121,7 +4121,7 @@ x-co-op: Yes
 
 
 game: Grand Theft Auto V (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Grand Theft Auto V (USA)/Grand Theft Auto V (USA).json
+file: Computer/Steam/G/Grand Theft Auto V (USA)/Grand Theft Auto V (USA).json
 developer: Rockstar North
 publisher: Rockstar Games
 genre: Action Adventure;Open-World
@@ -4161,7 +4161,7 @@ x-co-op: No
 
 
 game: Grim Fandango Remastered (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
+file: Computer/Steam/G/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Adventure;3D;Third-Person
@@ -4204,7 +4204,7 @@ x-co-op: No
 
 
 game: Guacamelee! Gold Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Guacamelee! Gold Edition (USA)/Guacamelee! Gold Edition (USA).json
+file: Computer/Steam/G/Guacamelee! Gold Edition (USA)/Guacamelee! Gold Edition (USA).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action;Platformer;Metroidvania
@@ -4262,7 +4262,7 @@ x-co-op: Yes
 
 
 game: Guacamelee! Super Turbo Championship Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/G/Guacamelee! Super Turbo Championship Edition (USA)/Guacamelee! Super Turbo Championship Edition (USA).json
+file: Computer/Steam/G/Guacamelee! Super Turbo Championship Edition (USA)/Guacamelee! Super Turbo Championship Edition (USA).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action;Platformer;Metroidvania
@@ -4297,7 +4297,7 @@ x-co-op: Yes
 
 
 game: Hacknet (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Hacknet (USA)/Hacknet (USA).json
+file: Computer/Steam/H/Hacknet (USA)/Hacknet (USA).json
 developer: Orann
 publisher: Fellow Traveller
 genre: Miscellaneous;General
@@ -4320,7 +4320,7 @@ x-co-op: No
 
 
 game: Halcyon 6 - Lightspeed Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Halcyon 6 - Lightspeed Edition (USA)/Halcyon 6 - Lightspeed Edition (USA).json
+file: Computer/Steam/H/Halcyon 6 - Lightspeed Edition (USA)/Halcyon 6 - Lightspeed Edition (USA).json
 developer: Massive Damage, Inc.
 publisher: Massive Damage, Inc.
 genre: Strategy;Turn-Based;Tactics
@@ -4395,7 +4395,7 @@ x-co-op: No
 
 
 game: Halcyon 6 - Starbase Commander (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Halcyon 6 - Starbase Commander (USA)/Halcyon 6 - Starbase Commander (USA).json
+file: Computer/Steam/H/Halcyon 6 - Starbase Commander (USA)/Halcyon 6 - Starbase Commander (USA).json
 developer: Massive Damage, Inc.
 publisher: Massive Damage, Inc.
 genre: Strategy;Turn-Based;Tactics
@@ -4430,7 +4430,7 @@ x-co-op: No
 
 
 game: Hand of Fate (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Hand of Fate (USA)/Hand of Fate (USA).json
+file: Computer/Steam/H/Hand of Fate (USA)/Hand of Fate (USA).json
 developer: Defiant Development
 publisher: Defiant Development
 genre: Miscellaneous;Board / Card Game
@@ -4452,7 +4452,7 @@ x-co-op: No
 
 
 game: Headsnatchers (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Headsnatchers (USA)/Headsnatchers (USA).json
+file: Computer/Steam/H/Headsnatchers (USA)/Headsnatchers (USA).json
 developer: IguanaBee
 publisher: Iceberg Interactive
 genre: Miscellaneous;Party / Minigame
@@ -4487,7 +4487,7 @@ x-co-op: Yes
 
 
 game: Heaven Will Be Mine (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Heaven Will Be Mine (USA)/Heaven Will Be Mine (USA).json
+file: Computer/Steam/H/Heaven Will Be Mine (USA)/Heaven Will Be Mine (USA).json
 developer: Pillow Fight Games
 publisher: Pillow Fight Games
 genre: Adventure;Visual Novel
@@ -4534,7 +4534,7 @@ x-co-op: No
 
 
 game: Hellcoming (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Hellcoming (USA)/Hellcoming (USA).json
+file: Computer/Steam/H/Hellcoming (USA)/Hellcoming (USA).json
 developer: SurgutGames
 publisher: SurgutGames
 genre: Action Adventure;Survival
@@ -4565,7 +4565,7 @@ x-co-op: Yes
 
 
 game: Helltaker (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Helltaker (USA)/Helltaker (USA).json
+file: Computer/Steam/H/Helltaker (USA)/Helltaker (USA).json
 developer: Vanripper
 publisher: Vanripper
 genre: Adventure;General
@@ -4585,7 +4585,7 @@ x-co-op: No
 
 
 game: Henry Stickmin Collection, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Henry Stickmin Collection, The (USA)/Henry Stickmin Collection, The (USA).json
+file: Computer/Steam/H/Henry Stickmin Collection, The (USA)/Henry Stickmin Collection, The (USA).json
 developer: PuffballsUnited
 publisher: Innersloth
 genre: Miscellaneous;Compilation
@@ -4619,7 +4619,7 @@ x-co-op: No
 
 
 game: Hijacker Jack - Arcade FMV (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Hijacker Jack - Arcade FMV (USA)/Hijacker Jack - Arcade FMV (USA).json
+file: Computer/Steam/H/Hijacker Jack - Arcade FMV (USA)/Hijacker Jack - Arcade FMV (USA).json
 developer: New IDEA Games
 publisher: New IDEA Games
 genre: Adventure;3D;First-Person
@@ -4646,7 +4646,7 @@ x-co-op: No
 
 
 game: How do you Do It (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/How do you Do It (USA)/How do you Do It (USA).json
+file: Computer/Steam/H/How do you Do It (USA)/How do you Do It (USA).json
 developer: nina's games
 publisher: nina's games
 genre: Adventure;Visual Novel
@@ -4672,7 +4672,7 @@ x-co-op: No
 
 
 game: Hue (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Hue (USA)/Hue (USA).json
+file: Computer/Steam/H/Hue (USA)/Hue (USA).json
 developer: Fiddlesticks Games
 publisher: Curve Digital
 genre: Puzzle;Action
@@ -4693,7 +4693,7 @@ x-co-op: No
 
 
 game: Human - Fall Flat (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Human - Fall Flat (USA)/Human - Fall Flat (USA).json
+file: Computer/Steam/H/Human - Fall Flat (USA)/Human - Fall Flat (USA).json
 developer: No Brakes Games
 publisher: Curve Digital
 genre: Action Adventure;General
@@ -4712,7 +4712,7 @@ x-co-op: Yes
 
 
 game: Hurtworld (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/H/Hurtworld (USA)/Hurtworld (USA).json
+file: Computer/Steam/H/Hurtworld (USA)/Hurtworld (USA).json
 developer: Bankroll Studios
 publisher: Bankroll Studios
 genre: Action;Shooter;First-Person;Arcade
@@ -4754,7 +4754,7 @@ x-co-op: No
 
 
 game: I Saw Black Clouds (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/I Saw Black Clouds (USA)/I Saw Black Clouds (USA).json
+file: Computer/Steam/I/I Saw Black Clouds (USA)/I Saw Black Clouds (USA).json
 developer: Ghost Dog Films
 publisher: Wales Interactive
 genre: Adventure;General
@@ -4787,7 +4787,7 @@ x-co-op: No
 
 
 game: I'm on Observation Duty (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/I'm on Observation Duty (USA)/I'm on Observation Duty (USA).json
+file: Computer/Steam/I/I'm on Observation Duty (USA)/I'm on Observation Duty (USA).json
 developer: Notovia
 publisher: Notovia
 genre: Action Adventure;Survival
@@ -4813,7 +4813,7 @@ x-co-op: No
 
 
 game: I'm on Observation Duty 2 - Timothy's Revenge (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/I'm on Observation Duty 2 - Timothy's Revenge (USA)/I'm on Observation Duty 2 - Timothy's Revenge (USA).json
+file: Computer/Steam/I/I'm on Observation Duty 2 - Timothy's Revenge (USA)/I'm on Observation Duty 2 - Timothy's Revenge (USA).json
 developer: Notovia
 publisher: Notovia
 genre: Action Adventure;Survival
@@ -4840,7 +4840,7 @@ x-co-op: No
 
 
 game: I'm on Observation Duty 3 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/I'm on Observation Duty 3 (USA)/I'm on Observation Duty 3 (USA).json
+file: Computer/Steam/I/I'm on Observation Duty 3 (USA)/I'm on Observation Duty 3 (USA).json
 developer: Notovia
 publisher: Notovia
 genre: Action Adventure;Survival
@@ -4863,7 +4863,7 @@ x-co-op: No
 
 
 game: I'm on Observation Duty 4 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/I'm on Observation Duty 4 (USA)/I'm on Observation Duty 4 (USA).json
+file: Computer/Steam/I/I'm on Observation Duty 4 (USA)/I'm on Observation Duty 4 (USA).json
 developer: Notovia
 publisher: Notovia
 genre: Action Adventure;Survival
@@ -4894,7 +4894,7 @@ x-co-op: No
 
 
 game: I'm on Observation Duty 5 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/I'm on Observation Duty 5 (USA)/I'm on Observation Duty 5 (USA).json
+file: Computer/Steam/I/I'm on Observation Duty 5 (USA)/I'm on Observation Duty 5 (USA).json
 developer: Notovia
 publisher: Notovia
 genre: Action Adventure;Survival
@@ -4924,7 +4924,7 @@ x-co-op: No
 
 
 game: Infectious Madness of Doctor Dekker, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/Infectious Madness of Doctor Dekker, The (USA)/Infectious Madness of Doctor Dekker, The (USA).json
+file: Computer/Steam/I/Infectious Madness of Doctor Dekker, The (USA)/Infectious Madness of Doctor Dekker, The (USA).json
 developer: D'Avekki Studios Limited
 publisher: D'Avekki Studios Limited
 genre: Adventure;General
@@ -4960,7 +4960,7 @@ x-co-op: No
 
 
 game: Injustice - Gods Among Us Ultimate Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/Injustice - Gods Among Us Ultimate Edition (USA)/Injustice - Gods Among Us Ultimate Edition (USA).json
+file: Computer/Steam/I/Injustice - Gods Among Us Ultimate Edition (USA)/Injustice - Gods Among Us Ultimate Edition (USA).json
 developer: NetherRealm Studios
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Fighting;2D
@@ -4981,7 +4981,7 @@ x-co-op: No
 
 
 game: Inside the Backrooms (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/Inside the Backrooms (USA)/Inside the Backrooms (USA).json
+file: Computer/Steam/I/Inside the Backrooms (USA)/Inside the Backrooms (USA).json
 developer: MrFatcat
 publisher: MrFatcat
 genre: Adventure;3D;First-Person
@@ -5016,7 +5016,7 @@ x-co-op: Yes
 
 
 game: Invisible, Inc. (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/Invisible, Inc. (USA)/Invisible, Inc. (USA).json
+file: Computer/Steam/I/Invisible, Inc. (USA)/Invisible, Inc. (USA).json
 developer: Klei Entertainment
 publisher: Klei Entertainment
 genre: Strategy;Turn-Based;Tactics
@@ -5035,7 +5035,7 @@ x-co-op: No
 
 
 game: Iron Commando (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/Iron Commando (USA)/Iron Commando (USA).json
+file: Computer/Steam/I/Iron Commando (USA)/Iron Commando (USA).json
 developer: Arcade Zone LTD
 publisher: Piko Interactive LLC
 genre: Action;Beat-'Em-Up;2D
@@ -5065,7 +5065,7 @@ x-co-op: No
 
 
 game: Iron Snout (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/I/Iron Snout (USA)/Iron Snout (USA).json
+file: Computer/Steam/I/Iron Snout (USA)/Iron Snout (USA).json
 developer: SnoutUp
 publisher: SnoutUp
 genre: Action;Beat-'Em-Up;2D
@@ -5083,7 +5083,7 @@ x-co-op: No
 
 
 game: Jay and Silent Bob - Mall Brawl (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/J/Jay and Silent Bob - Mall Brawl (USA)/Jay and Silent Bob - Mall Brawl (USA).json
+file: Computer/Steam/J/Jay and Silent Bob - Mall Brawl (USA)/Jay and Silent Bob - Mall Brawl (USA).json
 developer: Spoony Bard Productions
 publisher: Limited Run Games
 genre: Action;Beat-'Em-Up;2D
@@ -5125,7 +5125,7 @@ x-co-op: Yes
 
 
 game: Jim Power - The Lost Dimension in 3-D (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/J/Jim Power - The Lost Dimension in 3-D (USA)/Jim Power - The Lost Dimension in 3-D (USA).json
+file: Computer/Steam/J/Jim Power - The Lost Dimension in 3-D (USA)/Jim Power - The Lost Dimension in 3-D (USA).json
 developer: Loriciels
 publisher: Electro Brain
 genre: Action;Platformer;2D
@@ -5155,7 +5155,7 @@ x-co-op: No
 
 
 game: Jotun - Valhalla Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
+file: Computer/Steam/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
 developer: Thunder Lotus Games
 publisher: Thunder Lotus Games
 genre: Action Adventure;General
@@ -5181,7 +5181,7 @@ x-co-op: No
 
 
 game: Keep Talking and Nobody Explodes (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/K/Keep Talking and Nobody Explodes (USA)/Keep Talking and Nobody Explodes (USA).json
+file: Computer/Steam/K/Keep Talking and Nobody Explodes (USA)/Keep Talking and Nobody Explodes (USA).json
 developer: Steel Crate Games
 publisher: Steel Crate Games
 genre: Adventure;3D;First-Person
@@ -5202,7 +5202,7 @@ x-co-op: Yes
 
 
 game: Killing Floor (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/K/Killing Floor (USA)/Killing Floor (USA).json
+file: Computer/Steam/K/Killing Floor (USA)/Killing Floor (USA).json
 developer: Tripwire Interactive
 publisher: Tripwire Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -5262,7 +5262,7 @@ x-co-op: Yes
 
 
 game: Kung Fury - Street Rage (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/K/Kung Fury - Street Rage (USA)/Kung Fury - Street Rage (USA).json
+file: Computer/Steam/K/Kung Fury - Street Rage (USA)/Kung Fury - Street Rage (USA).json
 developer: Hello There
 publisher: Hello There
 genre: Action;Beat-'Em-Up;2D
@@ -5308,7 +5308,7 @@ x-co-op: No
 
 
 game: LEGO Batman - The Videogame (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Batman - The Videogame (USA)/LEGO Batman - The Videogame (USA).json
+file: Computer/Steam/L/LEGO Batman - The Videogame (USA)/LEGO Batman - The Videogame (USA).json
 developer: Traveller's Tales
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5328,7 +5328,7 @@ x-co-op: Yes
 
 
 game: LEGO Batman 2 - DC Super Heroes (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Batman 2 - DC Super Heroes (USA)/LEGO Batman 2 - DC Super Heroes (USA).json
+file: Computer/Steam/L/LEGO Batman 2 - DC Super Heroes (USA)/LEGO Batman 2 - DC Super Heroes (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5348,7 +5348,7 @@ x-co-op: Yes
 
 
 game: LEGO Batman 3 - Beyond Gotham (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Batman 3 - Beyond Gotham (USA)/LEGO Batman 3 - Beyond Gotham (USA).json
+file: Computer/Steam/L/LEGO Batman 3 - Beyond Gotham (USA)/LEGO Batman 3 - Beyond Gotham (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5380,7 +5380,7 @@ x-co-op: Yes
 
 
 game: LEGO City Undercover (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO City Undercover (USA)/LEGO City Undercover (USA).json
+file: Computer/Steam/L/LEGO City Undercover (USA)/LEGO City Undercover (USA).json
 developer: TT Games
 publisher: Nintendo
 genre: Action Adventure;Open-World
@@ -5399,7 +5399,7 @@ x-co-op: Yes
 
 
 game: LEGO DC Super-Villains (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO DC Super-Villains (USA)/LEGO DC Super-Villains (USA).json
+file: Computer/Steam/L/LEGO DC Super-Villains (USA)/LEGO DC Super-Villains (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5428,7 +5428,7 @@ x-co-op: Yes
 
 
 game: LEGO Harry Potter - Years 1-4 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Harry Potter - Years 1-4 (USA)/LEGO Harry Potter - Years 1-4 (USA).json
+file: Computer/Steam/L/LEGO Harry Potter - Years 1-4 (USA)/LEGO Harry Potter - Years 1-4 (USA).json
 developer: Traveller's Tales
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;Linear
@@ -5452,7 +5452,7 @@ x-co-op: Yes
 
 
 game: LEGO Harry Potter - Years 5-7 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Harry Potter - Years 5-7 (USA)/LEGO Harry Potter - Years 5-7 (USA).json
+file: Computer/Steam/L/LEGO Harry Potter - Years 5-7 (USA)/LEGO Harry Potter - Years 5-7 (USA).json
 developer: Traveller's Tales
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5475,7 +5475,7 @@ x-co-op: Yes
 
 
 game: LEGO Jurassic World (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Jurassic World (USA)/LEGO Jurassic World (USA).json
+file: Computer/Steam/L/LEGO Jurassic World (USA)/LEGO Jurassic World (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5495,7 +5495,7 @@ x-co-op: Yes
 
 
 game: LEGO Marvel Super Heroes (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Marvel Super Heroes (USA)/LEGO Marvel Super Heroes (USA).json
+file: Computer/Steam/L/LEGO Marvel Super Heroes (USA)/LEGO Marvel Super Heroes (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;Open-World
@@ -5518,7 +5518,7 @@ x-co-op: Yes
 
 
 game: LEGO Marvel Super Heroes 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Marvel Super Heroes 2 (USA)/LEGO Marvel Super Heroes 2 (USA).json
+file: Computer/Steam/L/LEGO Marvel Super Heroes 2 (USA)/LEGO Marvel Super Heroes 2 (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Platformer;3D
@@ -5540,7 +5540,7 @@ x-co-op: Yes
 
 
 game: LEGO Marvel's Avengers (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Marvel's Avengers (USA)/LEGO Marvel's Avengers (USA).json
+file: Computer/Steam/L/LEGO Marvel's Avengers (USA)/LEGO Marvel's Avengers (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5560,7 +5560,7 @@ x-co-op: Yes
 
 
 game: LEGO Movie 2, The - Videogame (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Movie 2, The - Videogame (USA)/LEGO Movie 2, The - Videogame (USA).json
+file: Computer/Steam/L/LEGO Movie 2, The - Videogame (USA)/LEGO Movie 2, The - Videogame (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5580,7 +5580,7 @@ x-co-op: Yes
 
 
 game: LEGO Movie, The - Videogame (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Movie, The - Videogame (USA)/LEGO Movie, The - Videogame (USA).json
+file: Computer/Steam/L/LEGO Movie, The - Videogame (USA)/LEGO Movie, The - Videogame (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5602,7 +5602,7 @@ x-co-op: Yes
 
 
 game: LEGO Star Wars - The Force Awakens (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Star Wars - The Force Awakens (USA)/LEGO Star Wars - The Force Awakens (USA).json
+file: Computer/Steam/L/LEGO Star Wars - The Force Awakens (USA)/LEGO Star Wars - The Force Awakens (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5629,7 +5629,7 @@ x-co-op: Yes
 
 
 game: LEGO The Hobbit (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO The Hobbit (USA)/LEGO The Hobbit (USA).json
+file: Computer/Steam/L/LEGO The Hobbit (USA)/LEGO The Hobbit (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5649,7 +5649,7 @@ x-co-op: No
 
 
 game: LEGO The Incredibles (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO The Incredibles (USA)/LEGO The Incredibles (USA).json
+file: Computer/Steam/L/LEGO The Incredibles (USA)/LEGO The Incredibles (USA).json
 developer: TT Fusion
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;Open-World
@@ -5675,7 +5675,7 @@ x-co-op: Yes
 
 
 game: LEGO The Lord of the Rings (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO The Lord of the Rings (USA)/LEGO The Lord of the Rings (USA).json
+file: Computer/Steam/L/LEGO The Lord of the Rings (USA)/LEGO The Lord of the Rings (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -5723,7 +5723,7 @@ x-co-op: Yes
 
 
 game: LEGO Worlds (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/LEGO Worlds (USA)/LEGO Worlds (USA).json
+file: Computer/Steam/L/LEGO Worlds (USA)/LEGO Worlds (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;Sandbox
@@ -5748,7 +5748,7 @@ x-co-op: Yes
 
 
 game: Labyrinthine (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Labyrinthine (USA)/Labyrinthine (USA).json
+file: Computer/Steam/L/Labyrinthine (USA)/Labyrinthine (USA).json
 developer: Valko Game Studios
 publisher: Valko Game Studios
 genre: Action Adventure;Survival
@@ -5781,7 +5781,7 @@ x-co-op: No
 
 
 game: Labyrinthine Dreams (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Labyrinthine Dreams (USA)/Labyrinthine Dreams (USA).json
+file: Computer/Steam/L/Labyrinthine Dreams (USA)/Labyrinthine Dreams (USA).json
 developer: Solest Games
 publisher: Degica
 genre: Adventure;3D;First-Person
@@ -5826,7 +5826,7 @@ x-co-op: No
 
 
 game: Last Word (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Last Word (USA)/Last Word (USA).json
+file: Computer/Steam/L/Last Word (USA)/Last Word (USA).json
 developer: Twelve Tiles
 publisher: Degica
 genre: Role-Playing;General
@@ -5874,7 +5874,7 @@ x-co-op: No
 
 
 game: Late Shift (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Late Shift (USA)/Late Shift (USA).json
+file: Computer/Steam/L/Late Shift (USA)/Late Shift (USA).json
 developer: CtrlMovie
 publisher: Wales Interactive
 genre: Adventure;General
@@ -5896,7 +5896,7 @@ x-co-op: No
 
 
 game: Left 4 Dead (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Left 4 Dead (USA)/Left 4 Dead (USA).json
+file: Computer/Steam/L/Left 4 Dead (USA)/Left 4 Dead (USA).json
 developer: Valve Software
 publisher: Valve Software
 genre: Action;Shooter;First-Person;Arcade
@@ -5922,7 +5922,7 @@ x-co-op: Yes
 
 
 game: Left 4 Dead 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Left 4 Dead 2 (USA)/Left 4 Dead 2 (USA).json
+file: Computer/Steam/L/Left 4 Dead 2 (USA)/Left 4 Dead 2 (USA).json
 developer: Valve Software
 publisher: Electronic Arts
 genre: Action;Shooter;First-Person;Tactical
@@ -5953,7 +5953,7 @@ x-co-op: Yes
 
 
 game: Legacy of Kain - Defiance (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Legacy of Kain - Defiance (USA)/Legacy of Kain - Defiance (USA).json
+file: Computer/Steam/L/Legacy of Kain - Defiance (USA)/Legacy of Kain - Defiance (USA).json
 developer: Crystal Dynamics
 publisher: Eidos Interactive
 genre: Action Adventure;Survival
@@ -5974,7 +5974,7 @@ x-co-op: No
 
 
 game: Legacy of Kain - Soul Reaver (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Legacy of Kain - Soul Reaver (USA)/Legacy of Kain - Soul Reaver (USA).json
+file: Computer/Steam/L/Legacy of Kain - Soul Reaver (USA)/Legacy of Kain - Soul Reaver (USA).json
 developer: Crystal Dynamics
 publisher: Eidos Interactive
 genre: Action Adventure;Survival
@@ -6008,7 +6008,7 @@ x-co-op: No
 
 
 game: Legacy of Kain - Soul Reaver 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Legacy of Kain - Soul Reaver 2 (USA)/Legacy of Kain - Soul Reaver 2 (USA).json
+file: Computer/Steam/L/Legacy of Kain - Soul Reaver 2 (USA)/Legacy of Kain - Soul Reaver 2 (USA).json
 developer: Crystal Dynamics
 publisher: Eidos Interactive
 genre: Action Adventure;Open-World
@@ -6031,7 +6031,7 @@ x-co-op: No
 
 
 game: Legend (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Legend (USA)/Legend (USA).json
+file: Computer/Steam/L/Legend (USA)/Legend (USA).json
 developer: Arcade Zone
 publisher: Piko Interactive LLC, Bleem!
 genre: Fighting
@@ -6049,7 +6049,7 @@ x-co-op: No
 
 
 game: Longing, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Longing, The (USA)/Longing, The (USA).json
+file: Computer/Steam/L/Longing, The (USA)/Longing, The (USA).json
 developer: Studio Seufz
 publisher: Studio Seufz
 genre: Adventure;General
@@ -6079,7 +6079,7 @@ x-co-op: No
 
 
 game: Loot Rascals (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Loot Rascals (USA)/Loot Rascals (USA).json
+file: Computer/Steam/L/Loot Rascals (USA)/Loot Rascals (USA).json
 developer: Hollow Ponds
 publisher: Hollow Ponds
 genre: Action Adventure;General
@@ -6115,7 +6115,7 @@ x-co-op: No
 
 
 game: Lovely Planet (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/L/Lovely Planet (USA)/Lovely Planet (USA).json
+file: Computer/Steam/L/Lovely Planet (USA)/Lovely Planet (USA).json
 developer: QUICKTEQUILA
 publisher: tinyBuild
 genre: Action;Shooter;First-Person;Arcade
@@ -6156,7 +6156,7 @@ x-co-op: No
 
 
 game: MANOS - The Hands of Fate - Director's Cut (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/MANOS - The Hands of Fate - Director's Cut (USA)/MANOS - The Hands of Fate - Director's Cut (USA).json
+file: Computer/Steam/M/MANOS - The Hands of Fate - Director's Cut (USA)/MANOS - The Hands of Fate - Director's Cut (USA).json
 developer: FreakZone
 publisher: FreakZone
 genre: Adventure;General
@@ -6189,7 +6189,7 @@ x-co-op: No
 
 
 game: MacVenture Series - Deja Vu I (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/MacVenture Series - Deja Vu I (USA)/MacVenture Series - Deja Vu I (USA).json
+file: Computer/Steam/M/MacVenture Series - Deja Vu I (USA)/MacVenture Series - Deja Vu I (USA).json
 developer: ICOM Simulations
 publisher: Mindscape
 genre: Adventure;Point-and-Click
@@ -6217,7 +6217,7 @@ x-co-op: No
 
 
 game: MacVenture Series - Deja Vu II (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/MacVenture Series - Deja Vu II (USA)/MacVenture Series - Deja Vu II (USA).json
+file: Computer/Steam/M/MacVenture Series - Deja Vu II (USA)/MacVenture Series - Deja Vu II (USA).json
 developer: ICOM Simulations
 publisher: ICOM Simulations
 genre: Adventure;General
@@ -6243,7 +6243,7 @@ x-co-op: No
 
 
 game: MacVenture Series - Shadowgate (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/MacVenture Series - Shadowgate (USA)/MacVenture Series - Shadowgate (USA).json
+file: Computer/Steam/M/MacVenture Series - Shadowgate (USA)/MacVenture Series - Shadowgate (USA).json
 developer: ICOM Simulations
 publisher: Mindscape
 genre: Adventure;Point-and-Click
@@ -6273,7 +6273,7 @@ x-co-op: No
 
 
 game: MacVenture Series - The Uninvited (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/MacVenture Series - The Uninvited (USA)/MacVenture Series - The Uninvited (USA).json
+file: Computer/Steam/M/MacVenture Series - The Uninvited (USA)/MacVenture Series - The Uninvited (USA).json
 developer: ICOM Simulations
 publisher: Mindscape
 genre: Adventure;Point-and-Click
@@ -6303,7 +6303,7 @@ x-co-op: No
 
 
 game: Max Gentlemen (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Max Gentlemen (USA)/Max Gentlemen (USA).json
+file: Computer/Steam/M/Max Gentlemen (USA)/Max Gentlemen (USA).json
 developer: The Men Who Wear Many Hats LLC
 publisher: The Men Who Wear Many Hats LLC
 genre: Action;Arcade
@@ -6321,7 +6321,7 @@ x-co-op: No
 
 
 game: Mega Man 11 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Mega Man 11 (USA)/Mega Man 11 (USA).json
+file: Computer/Steam/M/Mega Man 11 (USA)/Mega Man 11 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platformer;2D
@@ -6345,7 +6345,7 @@ x-co-op: No
 
 
 game: Mega Man Legacy Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Mega Man Legacy Collection (USA)/Mega Man Legacy Collection (USA).json
+file: Computer/Steam/M/Mega Man Legacy Collection (USA)/Mega Man Legacy Collection (USA).json
 developer: Digital Eclipse
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6410,7 +6410,7 @@ x-co-op: No
 
 
 game: Mega Man Legacy Collection 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Mega Man Legacy Collection 2 (USA)/Mega Man Legacy Collection 2 (USA).json
+file: Computer/Steam/M/Mega Man Legacy Collection 2 (USA)/Mega Man Legacy Collection 2 (USA).json
 developer: Now Production
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6443,7 +6443,7 @@ x-co-op: No
 
 
 game: Mega Man X Legacy Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Mega Man X Legacy Collection (USA)/Mega Man X Legacy Collection (USA).json
+file: Computer/Steam/M/Mega Man X Legacy Collection (USA)/Mega Man X Legacy Collection (USA).json
 developer: M2
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6476,7 +6476,7 @@ x-co-op: No
 
 
 game: Mega Man X Legacy Collection 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Mega Man X Legacy Collection 2 (USA)/Mega Man X Legacy Collection 2 (USA).json
+file: Computer/Steam/M/Mega Man X Legacy Collection 2 (USA)/Mega Man X Legacy Collection 2 (USA).json
 developer: Digital Works Entertainment
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6510,7 +6510,7 @@ x-co-op: No
 
 
 game: Mega Man Zero - ZX Legacy Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Mega Man Zero - ZX Legacy Collection (USA)/Mega Man Zero - ZX Legacy Collection (USA).json
+file: Computer/Steam/M/Mega Man Zero - ZX Legacy Collection (USA)/Mega Man Zero - ZX Legacy Collection (USA).json
 developer: Access Games
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6535,7 +6535,7 @@ x-co-op: No
 
 
 game: Metro - Last Light Complete Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Metro - Last Light Complete Edition (USA)/Metro - Last Light Complete Edition (USA).json
+file: Computer/Steam/M/Metro - Last Light Complete Edition (USA)/Metro - Last Light Complete Edition (USA).json
 developer: 4A Games
 publisher: Deep Silver
 genre: Action;Shooter;First-Person;Arcade
@@ -6559,7 +6559,7 @@ x-co-op: No
 
 
 game: Monster Loves You! (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Monster Loves You! (USA)/Monster Loves You! (USA).json
+file: Computer/Steam/M/Monster Loves You! (USA)/Monster Loves You! (USA).json
 developer: Dejobaan Games
 publisher: Radial Games Corp.
 genre: Adventure;Point-and-Click
@@ -6598,7 +6598,7 @@ x-co-op: No
 
 
 game: Monster Prom (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Monster Prom (USA)/Monster Prom (USA).json
+file: Computer/Steam/M/Monster Prom (USA)/Monster Prom (USA).json
 developer: Beautiful Glitch
 publisher: Those Awesome Guys
 genre: Adventure;General
@@ -6637,7 +6637,7 @@ x-co-op: Yes
 
 
 game: Monumental Failure (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Monumental Failure (USA)/Monumental Failure (USA).json
+file: Computer/Steam/M/Monumental Failure (USA)/Monumental Failure (USA).json
 developer: Scary Wizard Games
 publisher: Scary Wizard Games
 genre: Simulation;General
@@ -6691,7 +6691,7 @@ x-co-op: Yes
 
 
 game: Moon Hunters (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Moon Hunters (USA)/Moon Hunters (USA).json
+file: Computer/Steam/M/Moon Hunters (USA)/Moon Hunters (USA).json
 developer: Kitfox Games
 publisher: Kitfox Games
 genre: Role-Playing;Action RPG
@@ -6730,7 +6730,7 @@ x-co-op: Yes
 
 
 game: MouseCraft (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/MouseCraft (USA)/MouseCraft (USA).json
+file: Computer/Steam/M/MouseCraft (USA)/MouseCraft (USA).json
 developer: Crunching Koalas
 publisher: Crunching Koalas
 genre: Puzzle;Action
@@ -6762,7 +6762,7 @@ x-co-op: No
 
 
 game: Muck (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Muck (USA)/Muck (USA).json
+file: Computer/Steam/M/Muck (USA)/Muck (USA).json
 developer: Dani
 publisher: Dani
 genre: Action Adventure;Sandbox
@@ -6790,7 +6790,7 @@ x-co-op: Yes
 
 
 game: Mysterium (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/M/Mysterium (USA)/Mysterium (USA).json
+file: Computer/Steam/M/Mysterium (USA)/Mysterium (USA).json
 developer: Asmodee
 publisher: Libellud
 genre: Miscellaneous;Board / Card Game
@@ -6814,7 +6814,7 @@ x-co-op: Yes
 
 
 game: Narcosis (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Narcosis (USA)/Narcosis (USA).json
+file: Computer/Steam/N/Narcosis (USA)/Narcosis (USA).json
 developer: Honor Code, Inc.
 publisher: Honor Code, Inc.
 genre: Action Adventure;Survival
@@ -6833,7 +6833,7 @@ x-co-op: No
 
 
 game: Never Split the Party (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Never Split the Party (USA)/Never Split the Party (USA).json
+file: Computer/Steam/N/Never Split the Party (USA)/Never Split the Party (USA).json
 developer: Legend Studio
 publisher: Legend Studio
 genre: Role-Playing;Roguelike
@@ -6884,7 +6884,7 @@ x-co-op: Yes
 
 
 game: Neverending Nightmares (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
+file: Computer/Steam/N/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
 developer: Infinitap Games
 publisher: Infinitap Games
 genre: Action Adventure;Survival
@@ -6910,7 +6910,7 @@ x-co-op: No
 
 
 game: Next Penelope, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Next Penelope, The (USA)/Next Penelope, The (USA).json
+file: Computer/Steam/N/Next Penelope, The (USA)/Next Penelope, The (USA).json
 developer: Aurelien Regard
 publisher: Plug In Digital
 genre: Racing;Arcade;Futuristic
@@ -6932,7 +6932,7 @@ x-co-op: Yes
 
 
 game: Night Book (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Night Book (USA)/Night Book (USA).json
+file: Computer/Steam/N/Night Book (USA)/Night Book (USA).json
 developer: Good Gate Media
 publisher: Wales Interactive
 genre: Adventure;General
@@ -6957,7 +6957,7 @@ x-co-op: No
 
 
 game: Night at the Gates of Hell (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Night at the Gates of Hell (USA)/Night at the Gates of Hell (USA).json
+file: Computer/Steam/N/Night at the Gates of Hell (USA)/Night at the Gates of Hell (USA).json
 developer: Black Eyed Priest
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -6988,7 +6988,7 @@ x-co-op: No
 
 
 game: No Man's Sky (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/No Man's Sky (USA)/No Man's Sky (USA).json
+file: Computer/Steam/N/No Man's Sky (USA)/No Man's Sky (USA).json
 developer: Hello Games
 publisher: Hello Games
 genre: Action Adventure;Open-World
@@ -7022,7 +7022,7 @@ x-co-op: No
 
 
 game: Normal Lost Phone, A (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Normal Lost Phone, A (USA)/Normal Lost Phone, A (USA).json
+file: Computer/Steam/N/Normal Lost Phone, A (USA)/Normal Lost Phone, A (USA).json
 developer: Accidental Queens
 publisher: Plug In Digital
 genre: Simulation;General
@@ -7046,7 +7046,7 @@ x-co-op: No
 
 
 game: Nosferatu - The Wrath of Malachi (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Nosferatu - The Wrath of Malachi (USA)/Nosferatu - The Wrath of Malachi (USA).json
+file: Computer/Steam/N/Nosferatu - The Wrath of Malachi (USA)/Nosferatu - The Wrath of Malachi (USA).json
 developer: Idol FX
 publisher: iGames
 genre: Action;Shooter;First-Person;Arcade
@@ -7070,7 +7070,7 @@ x-co-op: No
 
 
 game: Nuclear Throne (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/N/Nuclear Throne (USA)/Nuclear Throne (USA).json
+file: Computer/Steam/N/Nuclear Throne (USA)/Nuclear Throne (USA).json
 developer: Vlambeer
 publisher: Vlambeer
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -7103,7 +7103,7 @@ x-co-op: Yes
 
 
 game: OddPlanet (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/O/OddPlanet (USA)/OddPlanet (USA).json
+file: Computer/Steam/O/OddPlanet (USA)/OddPlanet (USA).json
 developer: Piotr Krol
 publisher: Piotr Krol
 genre: Action;Platformer;2D
@@ -7129,7 +7129,7 @@ x-co-op: No
 
 
 game: Off-Peak (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/O/Off-Peak (USA)/Off-Peak (USA).json
+file: Computer/Steam/O/Off-Peak (USA)/Off-Peak (USA).json
 developer: Cosmo D Studios
 publisher: Cosmo D Studios
 genre: Adventure;3D;First-Person
@@ -7167,7 +7167,7 @@ x-co-op: No
 
 
 game: OnlyCans - Thirst Date (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/O/OnlyCans - Thirst Date (USA)/OnlyCans - Thirst Date (USA).json
+file: Computer/Steam/O/OnlyCans - Thirst Date (USA)/OnlyCans - Thirst Date (USA).json
 developer: OnlyCans Team
 publisher: OnlyCans Team
 genre: Action;Rhythm;Music
@@ -7197,7 +7197,7 @@ x-co-op: No
 
 
 game: Organ Trail - Director's Cut (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/O/Organ Trail - Director's Cut (USA)/Organ Trail - Director's Cut (USA).json
+file: Computer/Steam/O/Organ Trail - Director's Cut (USA)/Organ Trail - Director's Cut (USA).json
 developer: The Men Who Wear Many Hats LLC
 publisher: The Men Who Wear Many Hats LLC
 genre: Strategy;General
@@ -7222,7 +7222,7 @@ x-co-op: Yes
 
 
 game: Owlboy (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/O/Owlboy (USA)/Owlboy (USA).json
+file: Computer/Steam/O/Owlboy (USA)/Owlboy (USA).json
 developer: D-Pad Studio
 publisher: D-Pad Studio
 genre: Action Adventure;General
@@ -7242,7 +7242,7 @@ x-co-op: No
 
 
 game: Pac-Man Championship Edition 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Pac-Man Championship Edition 2 (USA)/Pac-Man Championship Edition 2 (USA).json
+file: Computer/Steam/P/Pac-Man Championship Edition 2 (USA)/Pac-Man Championship Edition 2 (USA).json
 developer: Bandai Namco Games
 publisher: Bandai Namco Games
 genre: Action;Arcade
@@ -7265,7 +7265,7 @@ x-co-op: No
 
 
 game: Pac-Man Championship Edition DX+ (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Pac-Man Championship Edition DX+ (USA)/Pac-Man Championship Edition DX+ (USA).json
+file: Computer/Steam/P/Pac-Man Championship Edition DX+ (USA)/Pac-Man Championship Edition DX+ (USA).json
 developer: Namco Bandai Games
 publisher: Namco Bandai Games
 genre: Action;Arcade
@@ -7286,7 +7286,7 @@ x-co-op: No
 
 
 game: Pandemonium (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Pandemonium (USA)/Pandemonium (USA).json
+file: Computer/Steam/P/Pandemonium (USA)/Pandemonium (USA).json
 developer: Toys for Bob
 publisher: Crystal Dynamics
 genre: Action;Platformer;3D
@@ -7304,7 +7304,7 @@ x-co-op: No
 
 
 game: Paper Sorcerer (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Paper Sorcerer (USA)/Paper Sorcerer (USA).json
+file: Computer/Steam/P/Paper Sorcerer (USA)/Paper Sorcerer (USA).json
 developer: Ultra Runaway Games
 publisher: Ultra Runaway Games
 genre: Role-Playing;General
@@ -7326,7 +7326,7 @@ x-co-op: No
 
 
 game: Path of Exile (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Path of Exile (USA)/Path of Exile (USA).json
+file: Computer/Steam/P/Path of Exile (USA)/Path of Exile (USA).json
 developer: Grinding Gear Games
 publisher: Grinding Gear Games
 genre: Role-Playing;Action RPG
@@ -7348,7 +7348,7 @@ x-co-op: Yes
 
 
 game: Path, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Path, The (USA)/Path, The (USA).json
+file: Computer/Steam/P/Path, The (USA)/Path, The (USA).json
 developer: Tale of Tales
 publisher: Tale of Tales
 genre: Adventure;3D;Third-Person
@@ -7374,7 +7374,7 @@ x-co-op: No
 
 
 game: Perfect Vermin (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Perfect Vermin (USA)/Perfect Vermin (USA).json
+file: Computer/Steam/P/Perfect Vermin (USA)/Perfect Vermin (USA).json
 developer: Maceo bob Mair
 publisher: ItsTheMaceo
 genre: Action Adventure;Linear
@@ -7400,7 +7400,7 @@ x-co-op: No
 
 
 game: Phasmophobia (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Phasmophobia (USA)/Phasmophobia (USA).json
+file: Computer/Steam/P/Phasmophobia (USA)/Phasmophobia (USA).json
 developer: Kinetic Games
 publisher: Kinetic Games
 genre: Action Adventure;Survival
@@ -7449,7 +7449,7 @@ x-co-op: Yes
 
 
 game: Pit People (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Pit People (USA)/Pit People (USA).json
+file: Computer/Steam/P/Pit People (USA)/Pit People (USA).json
 developer: The Behemoth
 publisher: The Behemoth
 genre: Strategy;Turn-Based;Tactics
@@ -7484,7 +7484,7 @@ x-co-op: Yes
 
 
 game: Pitiri 1977 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Pitiri 1977 (USA)/Pitiri 1977 (USA).json
+file: Computer/Steam/P/Pitiri 1977 (USA)/Pitiri 1977 (USA).json
 developer: ILIKESCIFI Games
 publisher: ILIKESCIFI Games
 genre: Action;General
@@ -7512,7 +7512,7 @@ x-co-op: No
 
 
 game: Pony Island (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Pony Island (USA)/Pony Island (USA).json
+file: Computer/Steam/P/Pony Island (USA)/Pony Island (USA).json
 developer: Daniel Mullins Games
 publisher: Daniel Mullins Games
 genre: Puzzle;General
@@ -7544,7 +7544,7 @@ x-co-op: No
 
 
 game: Portal (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Portal (USA)/Portal (USA).json
+file: Computer/Steam/P/Portal (USA)/Portal (USA).json
 developer: Valve Software
 publisher: Valve Software
 genre: Action;Shooter;First-Person;Arcade
@@ -7564,7 +7564,7 @@ x-co-op: Yes
 
 
 game: Portal 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Portal 2 (USA)/Portal 2 (USA).json
+file: Computer/Steam/P/Portal 2 (USA)/Portal 2 (USA).json
 developer: Valve Software
 publisher: Valve Software
 genre: Action;Shooter;First-Person;Arcade
@@ -7585,7 +7585,7 @@ x-co-op: Yes
 
 
 game: PowerWash Simulator (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/PowerWash Simulator (USA)/PowerWash Simulator (USA).json
+file: Computer/Steam/P/PowerWash Simulator (USA)/PowerWash Simulator (USA).json
 developer: FuturLab
 publisher: Square Enix Collective
 genre: Simulation;Virtual;Career
@@ -7611,7 +7611,7 @@ x-co-op: Yes
 
 
 game: Press X to Not Die (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Press X to Not Die (USA)/Press X to Not Die (USA).json
+file: Computer/Steam/P/Press X to Not Die (USA)/Press X to Not Die (USA).json
 developer: All Seeing Eye Games
 publisher: All Seeing Eye Games
 genre: Action;Arcade
@@ -7634,7 +7634,7 @@ x-co-op: No
 
 
 game: Prey (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Prey (USA)/Prey (USA).json
+file: Computer/Steam/P/Prey (USA)/Prey (USA).json
 developer: Arkane Studios
 publisher: Bethesda Softworks
 genre: Role-Playing;Action RPG
@@ -7698,7 +7698,7 @@ x-co-op: No
 
 
 game: Prey - Typhon Hunter (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Prey - Typhon Hunter (USA)/Prey - Typhon Hunter (USA).json
+file: Computer/Steam/P/Prey - Typhon Hunter (USA)/Prey - Typhon Hunter (USA).json
 developer: Arkane Studios
 publisher: Bethesda Softworks
 genre: Action;Shooter;First-Person;Arcade
@@ -7718,7 +7718,7 @@ x-co-op: No
 
 
 game: Project - Snowblind (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Project - Snowblind (USA)/Project - Snowblind (USA).json
+file: Computer/Steam/P/Project - Snowblind (USA)/Project - Snowblind (USA).json
 developer: Crystal Dynamics
 publisher: Eidos Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -7740,7 +7740,7 @@ x-co-op: No
 
 
 game: Punch Club (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/P/Punch Club (USA)/Punch Club (USA).json
+file: Computer/Steam/P/Punch Club (USA)/Punch Club (USA).json
 developer: Lazy Bear Games
 publisher: tinyBuild
 genre: Simulation;Virtual;Career
@@ -7777,7 +7777,7 @@ x-co-op: No
 
 
 game: Quarry, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/Q/Quarry, The (USA)/Quarry, The (USA).json
+file: Computer/Steam/Q/Quarry, The (USA)/Quarry, The (USA).json
 developer: Supermassive Games
 publisher: 2K Games
 genre: Action Adventure;Survival
@@ -7811,7 +7811,7 @@ x-co-op: Yes
 
 
 game: RPG MO (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/RPG MO (USA)/RPG MO (USA).json
+file: Computer/Steam/R/RPG MO (USA)/RPG MO (USA).json
 developer: ResideSin
 publisher: ResideSin
 genre: Role-Playing;Massively Multiplayer
@@ -7857,7 +7857,7 @@ x-co-op: No
 
 
 game: Raft (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Raft (USA)/Raft (USA).json
+file: Computer/Steam/R/Raft (USA)/Raft (USA).json
 developer: Redbeet Interactive
 publisher: Axolot Games
 genre: Action Adventure;Survival
@@ -7905,7 +7905,7 @@ x-co-op: No
 
 
 game: Raven Monologue, A (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Raven Monologue, A (USA)/Raven Monologue, A (USA).json
+file: Computer/Steam/R/Raven Monologue, A (USA)/Raven Monologue, A (USA).json
 developer: Mojiken Studio
 publisher: Toge Productions
 genre: Adventure;General
@@ -7928,7 +7928,7 @@ x-co-op: No
 
 
 game: Recettear - An Item Shop's Tale (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Recettear - An Item Shop's Tale (USA)/Recettear - An Item Shop's Tale (USA).json
+file: Computer/Steam/R/Recettear - An Item Shop's Tale (USA)/Recettear - An Item Shop's Tale (USA).json
 developer: EasyGameStation
 publisher: Carpe Fulgur
 genre: Simulation;Virtual;Virtual Life
@@ -7966,7 +7966,7 @@ x-co-op: No
 
 
 game: Regular Human Basketball (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Regular Human Basketball (USA)/Regular Human Basketball (USA).json
+file: Computer/Steam/R/Regular Human Basketball (USA)/Regular Human Basketball (USA).json
 developer: Powerhoof
 publisher: Powerhoof
 genre: Sports;Team;Basketball;Arcade
@@ -8024,7 +8024,7 @@ x-co-op: Yes
 
 
 game: Remnants of Isolation (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Remnants of Isolation (USA)/Remnants of Isolation (USA).json
+file: Computer/Steam/R/Remnants of Isolation (USA)/Remnants of Isolation (USA).json
 developer: Team Isolation
 publisher: Degica
 genre: Role-Playing;Japanese-Style
@@ -8080,7 +8080,7 @@ x-co-op: No
 
 
 game: Resident Evil - Operation Raccoon City (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil - Operation Raccoon City (USA)/Resident Evil - Operation Raccoon City (USA).json
+file: Computer/Steam/R/Resident Evil - Operation Raccoon City (USA)/Resident Evil - Operation Raccoon City (USA).json
 developer: Slant Six
 publisher: Capcom
 genre: Action;Shooter;Third-Person;Arcade
@@ -8118,7 +8118,7 @@ x-co-op: Yes
 
 
 game: Resident Evil 0 HD (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 0 HD (USA)/Resident Evil 0 HD (USA).json
+file: Computer/Steam/R/Resident Evil 0 HD (USA)/Resident Evil 0 HD (USA).json
 developer: Flagship
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8151,7 +8151,7 @@ x-co-op: No
 
 
 game: Resident Evil 2 Remake (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 2 Remake (USA)/Resident Evil 2 Remake (USA).json
+file: Computer/Steam/R/Resident Evil 2 Remake (USA)/Resident Evil 2 Remake (USA).json
 developer: Capcom R&D Division 1
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8181,7 +8181,7 @@ x-co-op: No
 
 
 game: Resident Evil 3 Remake (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 3 Remake (USA)/Resident Evil 3 Remake (USA).json
+file: Computer/Steam/R/Resident Evil 3 Remake (USA)/Resident Evil 3 Remake (USA).json
 developer: M-Two
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8214,7 +8214,7 @@ x-co-op: No
 
 
 game: Resident Evil 4 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
+file: Computer/Steam/R/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8236,7 +8236,7 @@ x-co-op: No
 
 
 game: Resident Evil 4 Remake (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 4 Remake (USA)/Resident Evil 4 Remake (USA).json
+file: Computer/Steam/R/Resident Evil 4 Remake (USA)/Resident Evil 4 Remake (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8264,7 +8264,7 @@ x-co-op: No
 
 
 game: Resident Evil 5 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 5 (USA)/Resident Evil 5 (USA).json
+file: Computer/Steam/R/Resident Evil 5 (USA)/Resident Evil 5 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8304,7 +8304,7 @@ x-co-op: Yes
 
 
 game: Resident Evil 6 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 6 (USA)/Resident Evil 6 (USA).json
+file: Computer/Steam/R/Resident Evil 6 (USA)/Resident Evil 6 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8385,7 +8385,7 @@ x-co-op: Yes
 
 
 game: Resident Evil 7 - Biohazard (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil 7 - Biohazard (USA)/Resident Evil 7 - Biohazard (USA).json
+file: Computer/Steam/R/Resident Evil 7 - Biohazard (USA)/Resident Evil 7 - Biohazard (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8406,7 +8406,7 @@ x-co-op: No
 
 
 game: Resident Evil HD (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil HD (USA)/Resident Evil HD (USA).json
+file: Computer/Steam/R/Resident Evil HD (USA)/Resident Evil HD (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8470,7 +8470,7 @@ x-co-op: No
 
 
 game: Resident Evil ReVerse (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil ReVerse (USA)/Resident Evil ReVerse (USA).json
+file: Computer/Steam/R/Resident Evil ReVerse (USA)/Resident Evil ReVerse (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8494,7 +8494,7 @@ x-co-op: No
 
 
 game: Resident Evil Resistance (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil Resistance (USA)/Resident Evil Resistance (USA).json
+file: Computer/Steam/R/Resident Evil Resistance (USA)/Resident Evil Resistance (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8521,7 +8521,7 @@ x-co-op: Yes
 
 
 game: Resident Evil Revelations (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil Revelations (USA)/Resident Evil Revelations (USA).json
+file: Computer/Steam/R/Resident Evil Revelations (USA)/Resident Evil Revelations (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8556,7 +8556,7 @@ x-co-op: Yes
 
 
 game: Resident Evil Revelations 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil Revelations 2 (USA)/Resident Evil Revelations 2 (USA).json
+file: Computer/Steam/R/Resident Evil Revelations 2 (USA)/Resident Evil Revelations 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8601,7 +8601,7 @@ x-co-op: Yes
 
 
 game: Resident Evil Village (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Resident Evil Village (USA)/Resident Evil Village (USA).json
+file: Computer/Steam/R/Resident Evil Village (USA)/Resident Evil Village (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -8628,7 +8628,7 @@ x-co-op: No
 
 
 game: Retro Game Crunch (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Retro Game Crunch (USA)/Retro Game Crunch (USA).json
+file: Computer/Steam/R/Retro Game Crunch (USA)/Retro Game Crunch (USA).json
 developer: Retro Game Crunch
 publisher: Retro Game Crunch
 genre: Action;General
@@ -8648,7 +8648,7 @@ x-co-op: No
 
 
 game: Risk of Rain (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Risk of Rain (USA)/Risk of Rain (USA).json
+file: Computer/Steam/R/Risk of Rain (USA)/Risk of Rain (USA).json
 developer: Hopoo Games
 publisher: Chucklefish
 genre: Action;Platformer;2D
@@ -8671,7 +8671,7 @@ x-co-op: Yes
 
 
 game: Rive (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Rive (USA)/Rive (USA).json
+file: Computer/Steam/R/Rive (USA)/Rive (USA).json
 developer: Two Tribes
 publisher: Two Tribes
 genre: Action;Platformer;2D
@@ -8691,7 +8691,7 @@ x-co-op: No
 
 
 game: Rogue Legacy (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Rogue Legacy (USA)/Rogue Legacy (USA).json
+file: Computer/Steam/R/Rogue Legacy (USA)/Rogue Legacy (USA).json
 developer: Cellar Door Games
 publisher: Cellar Door Games
 genre: Action;Platformer;2D
@@ -8716,7 +8716,7 @@ x-co-op: No
 
 
 game: Rush (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/R/Rush (USA)/Rush (USA).json
+file: Computer/Steam/R/Rush (USA)/Rush (USA).json
 developer: The Binary Mill
 publisher: The Binary Mill
 genre: Racing
@@ -8736,7 +8736,7 @@ x-co-op: No
 
 
 game: SCP - Containment Breach Remastered (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/SCP - Containment Breach Remastered (USA)/SCP - Containment Breach Remastered (USA).json
+file: Computer/Steam/S/SCP - Containment Breach Remastered (USA)/SCP - Containment Breach Remastered (USA).json
 developer: Hunter Pollock
 publisher: HNT8 Organization
 genre: Action Adventure;Survival
@@ -8767,7 +8767,7 @@ x-co-op: No
 
 
 game: SEGA Bass Fishing (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/SEGA Bass Fishing (USA)/SEGA Bass Fishing (USA).json
+file: Computer/Steam/S/SEGA Bass Fishing (USA)/SEGA Bass Fishing (USA).json
 developer: Sega
 publisher: Activision
 genre: Sports;Individual;Nature;Fishing
@@ -8788,7 +8788,7 @@ x-co-op: No
 
 
 game: SEGA Mega Drive & Genesis Classics (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/SEGA Mega Drive & Genesis Classics (USA)/SEGA Mega Drive & Genesis Classics (USA).json
+file: Computer/Steam/S/SEGA Mega Drive & Genesis Classics (USA)/SEGA Mega Drive & Genesis Classics (USA).json
 developer: D3T Limited
 publisher: Sega
 genre: Miscellaneous;Compilation
@@ -8817,7 +8817,7 @@ x-co-op: Yes
 
 
 game: Samsara Room (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Samsara Room (USA)/Samsara Room (USA).json
+file: Computer/Steam/S/Samsara Room (USA)/Samsara Room (USA).json
 developer: Rusty Lake
 publisher: Rusty Lake
 genre: Adventure;Point-and-Click
@@ -8845,7 +8845,7 @@ x-co-op: No
 
 
 game: Sanctum 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Sanctum 2 (USA)/Sanctum 2 (USA).json
+file: Computer/Steam/S/Sanctum 2 (USA)/Sanctum 2 (USA).json
 developer: Coffee Stain Studios
 publisher: Coffee Stain Studios
 genre: Action;Shooter;First-Person;Arcade
@@ -8871,7 +8871,7 @@ x-co-op: Yes
 
 
 game: Satellite Reign (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Satellite Reign (USA)/Satellite Reign (USA).json
+file: Computer/Steam/S/Satellite Reign (USA)/Satellite Reign (USA).json
 developer: 5 Lives Studios
 publisher: 5 Lives Studios
 genre: Strategy;Real-Time;General
@@ -8890,7 +8890,7 @@ x-co-op: No
 
 
 game: Screencheat (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Screencheat (USA)/Screencheat (USA).json
+file: Computer/Steam/S/Screencheat (USA)/Screencheat (USA).json
 developer: Samurai Punk
 publisher: Fellow Traveller
 genre: Action;Shooter;First-Person;Tactical
@@ -8958,7 +8958,7 @@ x-co-op: No
 
 
 game: Secret Little Haven (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Secret Little Haven (USA)/Secret Little Haven (USA).json
+file: Computer/Steam/S/Secret Little Haven (USA)/Secret Little Haven (USA).json
 developer: Hummingwarp Interactive
 publisher: Hummingwarp Interactive
 genre: Simulation;Virtual;Virtual Life
@@ -8991,7 +8991,7 @@ x-co-op: No
 
 
 game: Secret of the Magic Crystals (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Secret of the Magic Crystals (USA)/Secret of the Magic Crystals (USA).json
+file: Computer/Steam/S/Secret of the Magic Crystals (USA)/Secret of the Magic Crystals (USA).json
 developer: Artwaregames Inc.
 publisher: Artwaregames Inc.
 genre: Simulation;Virtual;Pet
@@ -9017,7 +9017,7 @@ x-co-op: No
 
 
 game: Serena (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Serena (USA)/Serena (USA).json
+file: Computer/Steam/S/Serena (USA)/Serena (USA).json
 developer: Senscape
 publisher: Senscape
 genre: Adventure;3D;First-Person
@@ -9056,7 +9056,7 @@ x-co-op: No
 
 
 game: Shadow Complex Remastered (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Shadow Complex Remastered (USA)/Shadow Complex Remastered (USA).json
+file: Computer/Steam/S/Shadow Complex Remastered (USA)/Shadow Complex Remastered (USA).json
 developer: Chair Entertainment
 publisher: Epic Games
 genre: Action;Platformer;Metroidvania
@@ -9075,7 +9075,7 @@ x-co-op: No
 
 
 game: Shadow Warrior Classic (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Shadow Warrior Classic (USA)/Shadow Warrior Classic (USA).json
+file: Computer/Steam/S/Shadow Warrior Classic (USA)/Shadow Warrior Classic (USA).json
 developer: 3D Realms
 publisher: GT Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -9113,7 +9113,7 @@ x-co-op: No
 
 
 game: Shapeshifting Detective, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Shapeshifting Detective, The (USA)/Shapeshifting Detective, The (USA).json
+file: Computer/Steam/S/Shapeshifting Detective, The (USA)/Shapeshifting Detective, The (USA).json
 developer: D'Avekki Studios Limited
 publisher: Wales Interactive
 genre: Adventure;General
@@ -9149,7 +9149,7 @@ x-co-op: No
 
 
 game: She Sees Red (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/She Sees Red (USA)/She Sees Red (USA).json
+file: Computer/Steam/S/She Sees Red (USA)/She Sees Red (USA).json
 developer: Rhinotales
 publisher: Rhinotales
 genre: Adventure;General
@@ -9172,7 +9172,7 @@ x-co-op: No
 
 
 game: Shenmue I & II (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Shenmue I & II (USA)/Shenmue I & II (USA).json
+file: Computer/Steam/S/Shenmue I & II (USA)/Shenmue I & II (USA).json
 developer: d3t Ltd
 publisher: Sega
 genre: Miscellaneous;Compilation
@@ -9259,7 +9259,7 @@ x-co-op: No
 
 
 game: Sid Meier's Civilization III - Complete (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Sid Meier's Civilization III - Complete (USA)/Sid Meier's Civilization III - Complete (USA).json
+file: Computer/Steam/S/Sid Meier's Civilization III - Complete (USA)/Sid Meier's Civilization III - Complete (USA).json
 developer: Firaxis Games
 publisher: Infogrames
 genre: Strategy;Turn-Based;4X
@@ -9282,7 +9282,7 @@ x-co-op: No
 
 
 game: Sims 3, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Sims 3, The (USA)/Sims 3, The (USA).json
+file: Computer/Steam/S/Sims 3, The (USA)/Sims 3, The (USA).json
 developer: Maxis Software
 publisher: Electronic Arts
 genre: Construction and Management Simulation;Life Simulation
@@ -9303,7 +9303,7 @@ x-co-op: No
 
 
 game: Sims 4, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Sims 4, The (USA)/Sims 4, The (USA).json
+file: Computer/Steam/S/Sims 4, The (USA)/Sims 4, The (USA).json
 developer: Maxis
 publisher: Electronic Arts
 genre: Simulation;Virtual;Virtual Life
@@ -9324,7 +9324,7 @@ x-co-op: No
 
 
 game: Simulacra (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Simulacra (USA)/Simulacra (USA).json
+file: Computer/Steam/S/Simulacra (USA)/Simulacra (USA).json
 developer: Kaigan Games
 publisher: Kaigan Games
 genre: Simulation;Virtual;Virtual Life
@@ -9380,7 +9380,7 @@ x-co-op: No
 
 
 game: Simulacra 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Simulacra 2 (USA)/Simulacra 2 (USA).json
+file: Computer/Steam/S/Simulacra 2 (USA)/Simulacra 2 (USA).json
 developer: Kaigan Games
 publisher: Kaigan Games
 genre: Simulation;Virtual;Virtual Life
@@ -9406,7 +9406,7 @@ x-co-op: No
 
 
 game: Sisyphus Reborn (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Sisyphus Reborn (USA)/Sisyphus Reborn (USA).json
+file: Computer/Steam/S/Sisyphus Reborn (USA)/Sisyphus Reborn (USA).json
 developer: Myshkin Entertainment
 publisher: Myshkin Entertainment
 genre: Adventure;General
@@ -9427,7 +9427,7 @@ x-co-op: No
 
 
 game: Song of Horror (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Song of Horror (USA)/Song of Horror (USA).json
+file: Computer/Steam/S/Song of Horror (USA)/Song of Horror (USA).json
 developer: Protocol Games
 publisher: Raiser Games
 genre: Action Adventure;Survival
@@ -9498,7 +9498,7 @@ x-co-op: No
 
 
 game: Sonic CD (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Sonic CD (USA)/Sonic CD (USA).json
+file: Computer/Steam/S/Sonic CD (USA)/Sonic CD (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platformer;2D
@@ -9523,7 +9523,7 @@ x-co-op: No
 
 
 game: Sons Of The Forest (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Sons Of The Forest (USA)/Sons Of The Forest (USA).json
+file: Computer/Steam/S/Sons Of The Forest (USA)/Sons Of The Forest (USA).json
 developer: Endnight Games Ltd
 publisher: Endnight Games Ltd
 genre: Horror
@@ -9542,7 +9542,7 @@ x-co-op: Yes
 
 
 game: Spooky's Jump Scare Mansion (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Spooky's Jump Scare Mansion (USA)/Spooky's Jump Scare Mansion (USA).json
+file: Computer/Steam/S/Spooky's Jump Scare Mansion (USA)/Spooky's Jump Scare Mansion (USA).json
 developer: Lag Studios
 publisher: Lag Studios
 genre: Adventure;3D;First-Person
@@ -9564,7 +9564,7 @@ x-co-op: No
 
 
 game: Stanley Parable, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stanley Parable, The (USA)/Stanley Parable, The (USA).json
+file: Computer/Steam/S/Stanley Parable, The (USA)/Stanley Parable, The (USA).json
 developer: Davey Wreden
 publisher: Galactic Cafe
 genre: Adventure;3D;First-Person
@@ -9591,7 +9591,7 @@ x-co-op: No
 
 
 game: Star Wars - Dark Forces (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Star Wars - Dark Forces (USA)/Star Wars - Dark Forces (USA).json
+file: Computer/Steam/S/Star Wars - Dark Forces (USA)/Star Wars - Dark Forces (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action;Shooter;First-Person;Arcade
@@ -9615,7 +9615,7 @@ x-co-op: No
 
 
 game: Star Wars - Jedi Knight - Dark Forces II (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Star Wars - Jedi Knight - Dark Forces II (USA)/Star Wars - Jedi Knight - Dark Forces II (USA).json
+file: Computer/Steam/S/Star Wars - Jedi Knight - Dark Forces II (USA)/Star Wars - Jedi Knight - Dark Forces II (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action;Shooter;First-Person;Arcade
@@ -9639,7 +9639,7 @@ x-co-op: No
 
 
 game: Star Wars - Jedi Knight II - Jedi Outcast (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Star Wars - Jedi Knight II - Jedi Outcast (USA)/Star Wars - Jedi Knight II - Jedi Outcast (USA).json
+file: Computer/Steam/S/Star Wars - Jedi Knight II - Jedi Outcast (USA)/Star Wars - Jedi Knight II - Jedi Outcast (USA).json
 developer: Raven Software
 publisher: Activision
 genre: Action Adventure;Linear
@@ -9662,7 +9662,7 @@ x-co-op: No
 
 
 game: Star Wars - Knights of the Old Republic (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Star Wars - Knights of the Old Republic (USA)/Star Wars - Knights of the Old Republic (USA).json
+file: Computer/Steam/S/Star Wars - Knights of the Old Republic (USA)/Star Wars - Knights of the Old Republic (USA).json
 developer: BioWare
 publisher: LucasArts
 genre: Role-Playing;Western-Style
@@ -9686,7 +9686,7 @@ x-co-op: No
 
 
 game: Star Wars - Knights of the Old Republic II - The Sith Lords (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
+file: Computer/Steam/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
 developer: Obsidian Entertainment
 publisher: LucasArts
 genre: Role-Playing;Western-Style
@@ -9712,7 +9712,7 @@ x-co-op: No
 
 
 game: Stardew Valley (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stardew Valley (USA)/Stardew Valley (USA).json
+file: Computer/Steam/S/Stardew Valley (USA)/Stardew Valley (USA).json
 developer: ConcernedApe
 publisher: Chucklefish
 genre: Role-Playing;General
@@ -9807,7 +9807,7 @@ x-co-op: Yes
 
 
 game: SteamWorld Dig - A Fistful of Dirt (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/SteamWorld Dig - A Fistful of Dirt (USA)/SteamWorld Dig - A Fistful of Dirt (USA).json
+file: Computer/Steam/S/SteamWorld Dig - A Fistful of Dirt (USA)/SteamWorld Dig - A Fistful of Dirt (USA).json
 developer: Image & Form
 publisher: Image & Form
 genre: Action;Platformer;Metroidvania
@@ -9826,7 +9826,7 @@ x-co-op: No
 
 
 game: Stikbold! (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stikbold! (USA)/Stikbold! (USA).json
+file: Computer/Steam/S/Stikbold! (USA)/Stikbold! (USA).json
 developer: Game Swing
 publisher: Curve Digital
 genre: Action;Arcade
@@ -9869,7 +9869,7 @@ x-co-op: Yes
 
 
 game: Stories - The Path of Destinies (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stories - The Path of Destinies (USA)/Stories - The Path of Destinies (USA).json
+file: Computer/Steam/S/Stories - The Path of Destinies (USA)/Stories - The Path of Destinies (USA).json
 developer: Spearhead Games
 publisher: Spearhead Games
 genre: Role-Playing;Action RPG
@@ -9892,7 +9892,7 @@ x-co-op: No
 
 
 game: Strafe - Gold Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Strafe - Gold Edition (USA)/Strafe - Gold Edition (USA).json
+file: Computer/Steam/S/Strafe - Gold Edition (USA)/Strafe - Gold Edition (USA).json
 developer: Pixel Titans
 publisher: Devolver Digital
 genre: Action;Shooter;First-Person;Arcade
@@ -9910,7 +9910,7 @@ x-co-op: No
 
 
 game: Stranger of Sword City (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stranger of Sword City (USA)/Stranger of Sword City (USA).json
+file: Computer/Steam/S/Stranger of Sword City (USA)/Stranger of Sword City (USA).json
 developer: Experience Inc.
 publisher: Experience Inc.
 genre: Role-Playing;General
@@ -9940,7 +9940,7 @@ x-co-op: No
 
 
 game: Strata (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Strata (USA)/Strata (USA).json
+file: Computer/Steam/S/Strata (USA)/Strata (USA).json
 developer: Graveck
 publisher: Graveck
 genre: Puzzle;General
@@ -9975,7 +9975,7 @@ x-co-op: No
 
 
 game: Stray (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stray (USA)/Stray (USA).json
+file: Computer/Steam/S/Stray (USA)/Stray (USA).json
 developer: BlueTwelve Studio
 publisher: Annapurna Interactive
 genre: Action Adventure;General
@@ -10009,7 +10009,7 @@ x-co-op: No
 
 
 game: Street Fighter 30th Anniversary Collection (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Street Fighter 30th Anniversary Collection (USA)/Street Fighter 30th Anniversary Collection (USA).json
+file: Computer/Steam/S/Street Fighter 30th Anniversary Collection (USA)/Street Fighter 30th Anniversary Collection (USA).json
 developer: Digital Eclipse
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -10081,7 +10081,7 @@ x-co-op: No
 
 
 game: Strider (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Strider (USA)/Strider (USA).json
+file: Computer/Steam/S/Strider (USA)/Strider (USA).json
 developer: Double Helix Games
 publisher: Capcom
 genre: Action Adventure;General
@@ -10102,7 +10102,7 @@ x-co-op: No
 
 
 game: Stronghold Crusader Extreme HD (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stronghold Crusader Extreme HD (USA)/Stronghold Crusader Extreme HD (USA).json
+file: Computer/Steam/S/Stronghold Crusader Extreme HD (USA)/Stronghold Crusader Extreme HD (USA).json
 developer: FireFly Studios
 publisher: Gamecock Media Group
 genre: Miscellaneous;Compilation
@@ -10125,7 +10125,7 @@ x-co-op: No
 
 
 game: Stronghold Crusader HD (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Stronghold Crusader HD (USA)/Stronghold Crusader HD (USA).json
+file: Computer/Steam/S/Stronghold Crusader HD (USA)/Stronghold Crusader HD (USA).json
 developer: FireFly Studios
 publisher: Gathering
 genre: Strategy;Real-Time;General
@@ -10174,7 +10174,7 @@ x-co-op: No
 
 
 game: Subnautica (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Subnautica (USA)/Subnautica (USA).json
+file: Computer/Steam/S/Subnautica (USA)/Subnautica (USA).json
 developer: Unknown Worlds Entertainment
 publisher: Unknown Worlds Entertainment
 genre: Adventure;General
@@ -10193,7 +10193,7 @@ x-co-op: No
 
 
 game: Summer of '58 (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Summer of '58 (USA)/Summer of '58 (USA).json
+file: Computer/Steam/S/Summer of '58 (USA)/Summer of '58 (USA).json
 developer: EMIKA_GAMES
 publisher: EMIKA_GAMES
 genre: Action Adventure;Survival
@@ -10224,7 +10224,7 @@ x-co-op: No
 
 
 game: Super Crate Box (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Super Crate Box (USA)/Super Crate Box (USA).json
+file: Computer/Steam/S/Super Crate Box (USA)/Super Crate Box (USA).json
 developer: Vlambeer
 publisher: Vlambeer
 genre: Action;Platformer;2D
@@ -10248,7 +10248,7 @@ x-co-op: No
 
 
 game: Super Win the Game (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Super Win the Game (USA)/Super Win the Game (USA).json
+file: Computer/Steam/S/Super Win the Game (USA)/Super Win the Game (USA).json
 developer: Minor Key Games
 publisher: Minor Key Games
 genre: Action;Platformer;2D
@@ -10278,7 +10278,7 @@ x-co-op: No
 
 
 game: Superliminal (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Superliminal (USA)/Superliminal (USA).json
+file: Computer/Steam/S/Superliminal (USA)/Superliminal (USA).json
 developer: Pillow Castle Games
 publisher: Pillow Castle Games
 genre: Adventure;3D;First-Person
@@ -10298,7 +10298,7 @@ x-co-op: No
 
 
 game: Supper, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/S/Supper, The (USA)/Supper, The (USA).json
+file: Computer/Steam/S/Supper, The (USA)/Supper, The (USA).json
 developer: Octavi Navarro
 publisher: Octavi Navarro
 genre: Adventure;Point-and-Click
@@ -10322,7 +10322,7 @@ x-co-op: No
 
 
 game: Tabletop Simulator (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Tabletop Simulator (USA)/Tabletop Simulator (USA).json
+file: Computer/Steam/T/Tabletop Simulator (USA)/Tabletop Simulator (USA).json
 developer: Berserk Games
 publisher: Berserk Games
 genre: Miscellaneous;Board / Card Game
@@ -10348,7 +10348,7 @@ x-co-op: Yes
 
 
 game: Tacoma (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Tacoma (USA)/Tacoma (USA).json
+file: Computer/Steam/T/Tacoma (USA)/Tacoma (USA).json
 developer: Fullbright
 publisher: Fullbright
 genre: Adventure;General
@@ -10366,7 +10366,7 @@ x-co-op: No
 
 
 game: Tell Me Why (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Tell Me Why (USA)/Tell Me Why (USA).json
+file: Computer/Steam/T/Tell Me Why (USA)/Tell Me Why (USA).json
 developer: DONTNOD Entertainment
 publisher: Xbox Game Studios
 genre: Adventure;General
@@ -10393,7 +10393,7 @@ x-co-op: No
 
 
 game: Tick Tock - A Tale for Two (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Tick Tock - A Tale for Two (USA)/Tick Tock - A Tale for Two (USA).json
+file: Computer/Steam/T/Tick Tock - A Tale for Two (USA)/Tick Tock - A Tale for Two (USA).json
 developer: Other Tales Interactive
 publisher: Other Tales Interactive
 genre: Adventure;General
@@ -10453,7 +10453,7 @@ x-co-op: Yes
 
 
 game: Ticket to Ride (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Ticket to Ride (USA)/Ticket to Ride (USA).json
+file: Computer/Steam/T/Ticket to Ride (USA)/Ticket to Ride (USA).json
 developer: Days Of Wonder
 publisher: Days Of Wonder
 genre: Miscellaneous;Board / Card Game
@@ -10490,7 +10490,7 @@ x-co-op: Yes
 
 
 game: TinyKeep (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/TinyKeep (USA)/TinyKeep (USA).json
+file: Computer/Steam/T/TinyKeep (USA)/TinyKeep (USA).json
 developer: Phigames
 publisher: Digital Tribe
 genre: Role-Playing;Action RPG
@@ -10542,7 +10542,7 @@ x-co-op: No
 
 
 game: Toki Tori (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Toki Tori (USA)/Toki Tori (USA).json
+file: Computer/Steam/T/Toki Tori (USA)/Toki Tori (USA).json
 developer: Two Tribes
 publisher: Capcom
 genre: Puzzle;Action
@@ -10564,7 +10564,7 @@ x-co-op: No
 
 
 game: Toki Tori 2+ (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Toki Tori 2+ (USA)/Toki Tori 2+ (USA).json
+file: Computer/Steam/T/Toki Tori 2+ (USA)/Toki Tori 2+ (USA).json
 developer: Two Tribes
 publisher: Two Tribes
 genre: Puzzle;Action
@@ -10584,7 +10584,7 @@ x-co-op: No
 
 
 game: Tukoni (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Tukoni (USA)/Tukoni (USA).json
+file: Computer/Steam/T/Tukoni (USA)/Tukoni (USA).json
 developer: Oksana Bula
 publisher: Oksana Bula
 genre: Adventure;General
@@ -10622,7 +10622,7 @@ x-co-op: No
 
 
 game: TumbleSeed (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/TumbleSeed (USA)/TumbleSeed (USA).json
+file: Computer/Steam/T/TumbleSeed (USA)/TumbleSeed (USA).json
 developer: Benedict Fritz
 publisher: aeiowu
 genre: Action;General
@@ -10643,7 +10643,7 @@ x-co-op: No
 
 
 game: Typoman (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/T/Typoman (USA)/Typoman (USA).json
+file: Computer/Steam/T/Typoman (USA)/Typoman (USA).json
 developer: Brainseed Factory
 publisher: Headup Games
 genre: Action;Platformer;2D
@@ -10664,7 +10664,7 @@ x-co-op: No
 
 
 game: Unfortunate Spacemen (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/U/Unfortunate Spacemen (USA)/Unfortunate Spacemen (USA).json
+file: Computer/Steam/U/Unfortunate Spacemen (USA)/Unfortunate Spacemen (USA).json
 developer: Sandswept Studios
 publisher: Sandswept Studios
 genre: Action;Shooter;First-Person;Tactical
@@ -10684,7 +10684,7 @@ x-co-op: Yes
 
 
 game: VVVVVV (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/V/VVVVVV (USA)/VVVVVV (USA).json
+file: Computer/Steam/V/VVVVVV (USA)/VVVVVV (USA).json
 developer: Terry Cavanagh
 publisher: Terry Cavanagh
 genre: Action;Platformer;Metroidvania
@@ -10715,7 +10715,7 @@ x-co-op: No
 
 
 game: Viscera Cleanup Detail (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/V/Viscera Cleanup Detail (USA)/Viscera Cleanup Detail (USA).json
+file: Computer/Steam/V/Viscera Cleanup Detail (USA)/Viscera Cleanup Detail (USA).json
 developer: Runestorm
 publisher: Runestorm
 genre: Action;General
@@ -10735,7 +10735,7 @@ x-co-op: No
 
 
 game: Viscera Cleanup Detail - Santa's Rampage (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/V/Viscera Cleanup Detail - Santa's Rampage (USA)/Viscera Cleanup Detail - Santa's Rampage (USA).json
+file: Computer/Steam/V/Viscera Cleanup Detail - Santa's Rampage (USA)/Viscera Cleanup Detail - Santa's Rampage (USA).json
 developer: Runestorm
 publisher: Runestorm
 genre: Action;General
@@ -10788,7 +10788,7 @@ x-co-op: No
 
 
 game: Viscera Cleanup Detail - Shadow Warrior (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/V/Viscera Cleanup Detail - Shadow Warrior (USA)/Viscera Cleanup Detail - Shadow Warrior (USA).json
+file: Computer/Steam/V/Viscera Cleanup Detail - Shadow Warrior (USA)/Viscera Cleanup Detail - Shadow Warrior (USA).json
 developer: Runestorm
 publisher: Devolver Digital
 genre: Action;General
@@ -10812,7 +10812,7 @@ x-co-op: No
 
 
 game: War for the Overworld - Ultimate Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/War for the Overworld - Ultimate Edition (USA)/War for the Overworld - Ultimate Edition (USA).json
+file: Computer/Steam/W/War for the Overworld - Ultimate Edition (USA)/War for the Overworld - Ultimate Edition (USA).json
 developer: Subterranean Games
 publisher: Subterranean Games
 genre: Strategy;Real-Time;General
@@ -10831,7 +10831,7 @@ x-co-op: No
 
 
 game: Warframe (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/Warframe (USA)/Warframe (USA).json
+file: Computer/Steam/W/Warframe (USA)/Warframe (USA).json
 developer: Digital Extremes
 publisher: Digital Extremes
 genre: Action;MMO
@@ -10866,7 +10866,7 @@ x-co-op: Yes
 
 
 game: Warlock of Firetop Mountain, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/Warlock of Firetop Mountain, The (USA)/Warlock of Firetop Mountain, The (USA).json
+file: Computer/Steam/W/Warlock of Firetop Mountain, The (USA)/Warlock of Firetop Mountain, The (USA).json
 developer: Tin Man Games
 publisher: Tin Man Games
 genre: Role-Playing;Western-Style
@@ -10886,7 +10886,7 @@ x-co-op: No
 
 
 game: We Were Here (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/We Were Here (USA)/We Were Here (USA).json
+file: Computer/Steam/W/We Were Here (USA)/We Were Here (USA).json
 developer: Total Mayhem Games
 publisher: Total Mayhem Games
 genre: Adventure;3D;First-Person
@@ -10905,7 +10905,7 @@ x-co-op: Yes
 
 
 game: We Were Here Forever (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/We Were Here Forever (USA)/We Were Here Forever (USA).json
+file: Computer/Steam/W/We Were Here Forever (USA)/We Were Here Forever (USA).json
 developer: Total Mayhem Games
 publisher: Total Mayhem Games
 genre: Adventure;3D;First-Person
@@ -10930,7 +10930,7 @@ x-co-op: Yes
 
 
 game: We Were Here Together (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/We Were Here Together (USA)/We Were Here Together (USA).json
+file: Computer/Steam/W/We Were Here Together (USA)/We Were Here Together (USA).json
 developer: Total Mayhem Games
 publisher: Total Mayhem Games
 genre: Adventure;3D;Third-Person
@@ -10962,7 +10962,7 @@ x-co-op: Yes
 
 
 game: We Were Here Too (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/We Were Here Too (USA)/We Were Here Too (USA).json
+file: Computer/Steam/W/We Were Here Too (USA)/We Were Here Too (USA).json
 developer: Total Mayhem Games
 publisher: Total Mayhem Games
 genre: Adventure;3D;First-Person
@@ -10981,7 +10981,7 @@ x-co-op: Yes
 
 
 game: What Never Was (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/What Never Was (USA)/What Never Was (USA).json
+file: Computer/Steam/W/What Never Was (USA)/What Never Was (USA).json
 developer: Acke Hallgren
 publisher: Acke Hallgren
 genre: Adventure;3D;First-Person
@@ -11008,7 +11008,7 @@ x-co-op: No
 
 
 game: Whisper of a Rose (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/Whisper of a Rose (USA)/Whisper of a Rose (USA).json
+file: Computer/Steam/W/Whisper of a Rose (USA)/Whisper of a Rose (USA).json
 developer: RosePortal Games
 publisher: RosePortal Games
 genre: Role-Playing;Japanese-Style
@@ -11043,7 +11043,7 @@ x-co-op: No
 
 
 game: Whisperer in Darkness, The (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/Whisperer in Darkness, The (USA)/Whisperer in Darkness, The (USA).json
+file: Computer/Steam/W/Whisperer in Darkness, The (USA)/Whisperer in Darkness, The (USA).json
 developer: Nathaniel Nelson
 publisher: Nathaniel Nelson
 genre: Adventure;Visual Novel
@@ -11078,7 +11078,7 @@ x-co-op: No
 
 
 game: Who Pressed Mute on Uncle Marcus (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/Who Pressed Mute on Uncle Marcus (USA)/Who Pressed Mute on Uncle Marcus (USA).json
+file: Computer/Steam/W/Who Pressed Mute on Uncle Marcus (USA)/Who Pressed Mute on Uncle Marcus (USA).json
 developer: Wales Interactive
 publisher: Wales Interactive
 genre: Adventure;General
@@ -11104,7 +11104,7 @@ x-co-op: No
 
 
 game: Without Within (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/W/Without Within (USA)/Without Within (USA).json
+file: Computer/Steam/W/Without Within (USA)/Without Within (USA).json
 developer: InvertMouse
 publisher: InvertMouse
 genre: Adventure;Visual Novel
@@ -11127,7 +11127,7 @@ x-co-op: No
 
 
 game: You Have to Win the Game (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/Y/You Have to Win the Game (USA)/You Have to Win the Game (USA).json
+file: Computer/Steam/Y/You Have to Win the Game (USA)/You Have to Win the Game (USA).json
 developer: Pirate Hearts
 publisher: Pirate Hearts
 genre: Action;Platformer;2D
@@ -11152,7 +11152,7 @@ x-co-op: No
 
 
 game: Yume Nikki (USA)
-file: $ROM_JSON_ROOT/Computer/Steam/Y/Yume Nikki (USA)/Yume Nikki (USA).json
+file: Computer/Steam/Y/Yume Nikki (USA)/Yume Nikki (USA).json
 developer: kikiyama
 publisher: kikiyama
 genre: Adventure;General

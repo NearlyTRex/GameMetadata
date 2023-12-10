@@ -1,9 +1,9 @@
 collection: Computer - Square Enix
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Computer - Square Enix" {file.path}
+launch: launch_rom -l "Computer - Square Enix" {file.path}
 
 
 game: Final Fantasy XI - Ultimate Collection Seekers Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Square Enix/F/Final Fantasy XI - Ultimate Collection Seekers Edition (USA)/Final Fantasy XI - Ultimate Collection Seekers Edition (USA).json
+file: Computer/Square Enix/F/Final Fantasy XI - Ultimate Collection Seekers Edition (USA)/Final Fantasy XI - Ultimate Collection Seekers Edition (USA).json
 developer: SquareSoft
 publisher: Square Enix
 genre: Role-Playing;Massively Multiplayer

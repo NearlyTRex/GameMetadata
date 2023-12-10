@@ -1,9 +1,9 @@
 collection: Sega Genesis
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega Genesis" {file.path}
+launch: launch_rom -l "Sega Genesis" {file.path}
 
 
 game: 6-Pak (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/6-Pak (USA)/6-Pak (USA).json
+file: Other/Sega Genesis/6-Pak (USA)/6-Pak (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Fighting;Platform;Puzzle;Racing
@@ -27,7 +27,7 @@ x-co-op: Yes
 
 
 game: After Burner II (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/After Burner II (USA, Europe)/After Burner II (USA, Europe).json
+file: Other/Sega Genesis/After Burner II (USA, Europe)/After Burner II (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Simulation;Flight;Combat
@@ -53,7 +53,7 @@ x-co-op: No
 
 
 game: Alex Kidd in the Enchanted Castle (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Alex Kidd in the Enchanted Castle (USA)/Alex Kidd in the Enchanted Castle (USA).json
+file: Other/Sega Genesis/Alex Kidd in the Enchanted Castle (USA)/Alex Kidd in the Enchanted Castle (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Adventure;Platform
@@ -80,7 +80,7 @@ x-co-op: No
 
 
 game: Alien Soldier (Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Alien Soldier (Europe)/Alien Soldier (Europe).json
+file: Other/Sega Genesis/Alien Soldier (Europe)/Alien Soldier (Europe).json
 developer: Treasure
 publisher: Sega
 genre: Shooter
@@ -110,7 +110,7 @@ x-co-op: No
 
 
 game: Alien Soldier (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Alien Soldier (Japan)/Alien Soldier (Japan).json
+file: Other/Sega Genesis/Alien Soldier (Japan)/Alien Soldier (Japan).json
 developer: Treasure
 publisher: Sega
 genre: Shooter
@@ -140,7 +140,7 @@ x-co-op: No
 
 
 game: Alien Storm (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Alien Storm (World)/Alien Storm (World).json
+file: Other/Sega Genesis/Alien Storm (World)/Alien Storm (World).json
 developer: Team Shinobi
 publisher: Sega
 genre: Shooter;Beat 'em Up
@@ -164,7 +164,7 @@ x-co-op: Yes
 
 
 game: Alisia Dragoon (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Alisia Dragoon (USA)/Alisia Dragoon (USA).json
+file: Other/Sega Genesis/Alisia Dragoon (USA)/Alisia Dragoon (USA).json
 developer: Game Arts
 publisher: Sega
 genre: Platform;Shooter
@@ -190,7 +190,7 @@ x-co-op: No
 
 
 game: Altered Beast (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Altered Beast (USA, Europe)/Altered Beast (USA, Europe).json
+file: Other/Sega Genesis/Altered Beast (USA, Europe)/Altered Beast (USA, Europe).json
 developer: Team Shinobi
 publisher: Sega
 genre: Platform;Beat 'em Up
@@ -222,7 +222,7 @@ x-co-op: Yes
 
 
 game: Atomic Runner (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Atomic Runner (USA)/Atomic Runner (USA).json
+file: Other/Sega Genesis/Atomic Runner (USA)/Atomic Runner (USA).json
 developer: Data East
 publisher: Data East
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -241,7 +241,7 @@ x-co-op: No
 
 
 game: Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A)/Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A).json
+file: Other/Sega Genesis/Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A)/Bare Knuckle - Ikari no Tekken ~ Streets of Rage (World) (Rev A).json
 developer: Sega
 publisher: Sega
 genre: Beat 'em Up
@@ -265,7 +265,7 @@ x-co-op: Yes
 
 
 game: Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja)/Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja).json
+file: Other/Sega Genesis/Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja)/Bare Knuckle II - Shitou e no Requiem ~ Streets of Rage II (Japan, Europe) (En,Ja).json
 developer: M.N.M Software
 publisher: Sega
 genre: Beat 'em Up
@@ -291,7 +291,7 @@ x-co-op: Yes
 
 
 game: Bare Knuckle III (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Bare Knuckle III (Japan)/Bare Knuckle III (Japan).json
+file: Other/Sega Genesis/Bare Knuckle III (Japan)/Bare Knuckle III (Japan).json
 developer: Sega
 publisher: Sega
 genre: Beat 'em Up
@@ -313,7 +313,7 @@ x-co-op: Yes
 
 
 game: Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl)/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl).json
+file: Other/Sega Genesis/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl)/Barver Battle Saga - Tai Kong Zhan Shi (Taiwan) (Unl).json
 developer: Never Ending Soft Studio
 publisher: Ka Sheng
 genre: Role-Playing
@@ -340,7 +340,7 @@ x-co-op: No
 
 
 game: Beavis and Butt-Head (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Beavis and Butt-Head (USA)/Beavis and Butt-Head (USA).json
+file: Other/Sega Genesis/Beavis and Butt-Head (USA)/Beavis and Butt-Head (USA).json
 developer: Radical Entertainment
 publisher: Viacom
 genre: Action;Puzzle
@@ -361,7 +361,7 @@ x-co-op: Yes
 
 
 game: Beyond Oasis (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Beyond Oasis (USA)/Beyond Oasis (USA).json
+file: Other/Sega Genesis/Beyond Oasis (USA)/Beyond Oasis (USA).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -385,7 +385,7 @@ x-co-op: No
 
 
 game: Bio Hazard Battle (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Bio Hazard Battle (USA, Europe)/Bio Hazard Battle (USA, Europe).json
+file: Other/Sega Genesis/Bio Hazard Battle (USA, Europe)/Bio Hazard Battle (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -412,7 +412,7 @@ x-co-op: Yes
 
 
 game: Bonanza Bros. (Japan, Europe) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Bonanza Bros. (Japan, Europe) (Rev A)/Bonanza Bros. (Japan, Europe) (Rev A).json
+file: Other/Sega Genesis/Bonanza Bros. (Japan, Europe) (Rev A)/Bonanza Bros. (Japan, Europe) (Rev A).json
 developer: ITL
 publisher: Sega
 genre: Action;Platform
@@ -446,7 +446,7 @@ x-co-op: Yes
 
 
 game: Bonanza Bros. (USA, Europe, Korea) (Rev B)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Bonanza Bros. (USA, Europe, Korea) (Rev B)/Bonanza Bros. (USA, Europe, Korea) (Rev B).json
+file: Other/Sega Genesis/Bonanza Bros. (USA, Europe, Korea) (Rev B)/Bonanza Bros. (USA, Europe, Korea) (Rev B).json
 developer: ITL
 publisher: Sega
 genre: Action;Platform
@@ -481,7 +481,7 @@ x-co-op: Yes
 
 
 game: Bram Stoker's Dracula (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Bram Stoker's Dracula (USA)/Bram Stoker's Dracula (USA).json
+file: Other/Sega Genesis/Bram Stoker's Dracula (USA)/Bram Stoker's Dracula (USA).json
 developer: Traveller's Tales
 publisher: Sony Imagesoft
 genre: Action;Platform
@@ -506,7 +506,7 @@ x-co-op: No
 
 
 game: Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl)/Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl).json
+file: Other/Sega Genesis/Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl)/Brave Battle Saga - Legend of the Magic Warrior (Taiwan) (Unl).json
 developer: Never Ending Soft Studio
 publisher: Ka Sheng
 genre: Role-Playing
@@ -533,7 +533,7 @@ x-co-op: No
 
 
 game: Budokan - The Martial Spirit (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Budokan - The Martial Spirit (USA) (Unl)/Budokan - The Martial Spirit (USA) (Unl).json
+file: Other/Sega Genesis/Budokan - The Martial Spirit (USA) (Unl)/Budokan - The Martial Spirit (USA) (Unl).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Fighting
@@ -558,7 +558,7 @@ x-co-op: No
 
 
 game: Castle of Illusion Starring Mickey Mouse (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Castle of Illusion Starring Mickey Mouse (USA, Europe)/Castle of Illusion Starring Mickey Mouse (USA, Europe).json
+file: Other/Sega Genesis/Castle of Illusion Starring Mickey Mouse (USA, Europe)/Castle of Illusion Starring Mickey Mouse (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -589,7 +589,7 @@ x-co-op: No
 
 
 game: Castlevania - Bloodlines (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Castlevania - Bloodlines (USA)/Castlevania - Bloodlines (USA).json
+file: Other/Sega Genesis/Castlevania - Bloodlines (USA)/Castlevania - Bloodlines (USA).json
 developer: Konami
 publisher: Konami
 genre: Horror;Platform;Beat 'em Up
@@ -619,7 +619,7 @@ x-co-op: No
 
 
 game: Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection)/Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection).json
+file: Other/Sega Genesis/Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection)/Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Horror;Platform;Beat 'em Up
@@ -649,7 +649,7 @@ x-co-op: No
 
 
 game: Chakan (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Chakan (USA, Europe)/Chakan (USA, Europe).json
+file: Other/Sega Genesis/Chakan (USA, Europe)/Chakan (USA, Europe).json
 developer: Extended Play
 publisher: Sega
 genre: Action;Platform
@@ -684,7 +684,7 @@ x-co-op: No
 
 
 game: ClayFighter (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/ClayFighter (USA)/ClayFighter (USA).json
+file: Other/Sega Genesis/ClayFighter (USA)/ClayFighter (USA).json
 developer: Visual Concepts
 publisher: Interplay
 genre: Action;Fighting;2D
@@ -704,7 +704,7 @@ x-co-op: No
 
 
 game: Columns (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Columns (USA, Europe)/Columns (USA, Europe).json
+file: Other/Sega Genesis/Columns (USA, Europe)/Columns (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Puzzle
@@ -735,7 +735,7 @@ x-co-op: Yes
 
 
 game: Columns III (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Columns III (USA)/Columns III (USA).json
+file: Other/Sega Genesis/Columns III (USA)/Columns III (USA).json
 developer: Sega
 publisher: Sega
 genre: Puzzle
@@ -759,7 +759,7 @@ x-co-op: Yes
 
 
 game: Comix Zone (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Comix Zone (USA)/Comix Zone (USA).json
+file: Other/Sega Genesis/Comix Zone (USA)/Comix Zone (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat 'em Up
@@ -782,7 +782,7 @@ x-co-op: No
 
 
 game: Contra - Hard Corps (USA, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Contra - Hard Corps (USA, Korea)/Contra - Hard Corps (USA, Korea).json
+file: Other/Sega Genesis/Contra - Hard Corps (USA, Korea)/Contra - Hard Corps (USA, Korea).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -810,7 +810,7 @@ x-co-op: No
 
 
 game: Contra - Hard Corps (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Contra - Hard Corps (World) (Contra Anniversary Collection)/Contra - Hard Corps (World) (Contra Anniversary Collection).json
+file: Other/Sega Genesis/Contra - Hard Corps (World) (Contra Anniversary Collection)/Contra - Hard Corps (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -838,7 +838,7 @@ x-co-op: No
 
 
 game: Contra - The Hard Corps (Japan) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Contra - The Hard Corps (Japan) (Contra Anniversary Collection)/Contra - The Hard Corps (Japan) (Contra Anniversary Collection).json
+file: Other/Sega Genesis/Contra - The Hard Corps (Japan) (Contra Anniversary Collection)/Contra - The Hard Corps (Japan) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -865,7 +865,7 @@ x-co-op: Yes
 
 
 game: Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)/Cosmic Spacehead (USA, Europe) (En,Fr,De,Es).json
+file: Other/Sega Genesis/Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)/Cosmic Spacehead (USA, Europe) (En,Fr,De,Es).json
 developer: Supersonic Software
 publisher: Codemasters
 genre: Action;Adventure
@@ -887,7 +887,7 @@ x-co-op: No
 
 
 game: Crack Down (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Crack Down (USA)/Crack Down (USA).json
+file: Other/Sega Genesis/Crack Down (USA)/Crack Down (USA).json
 developer: Hot-B
 publisher: Sega
 genre: Action
@@ -907,7 +907,7 @@ x-co-op: No
 
 
 game: Crusader of Centy (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Crusader of Centy (USA)/Crusader of Centy (USA).json
+file: Other/Sega Genesis/Crusader of Centy (USA)/Crusader of Centy (USA).json
 developer: NexTech
 publisher: Atlus
 genre: Action Adventure;General
@@ -954,7 +954,7 @@ x-co-op: No
 
 
 game: Cyborg Justice (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Cyborg Justice (USA, Europe)/Cyborg Justice (USA, Europe).json
+file: Other/Sega Genesis/Cyborg Justice (USA, Europe)/Cyborg Justice (USA, Europe).json
 developer: Novotrade International
 publisher: Sega
 genre: Beat 'em Up
@@ -980,7 +980,7 @@ x-co-op: No
 
 
 game: DEcapAttack (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/DEcapAttack (USA, Europe)/DEcapAttack (USA, Europe).json
+file: Other/Sega Genesis/DEcapAttack (USA, Europe)/DEcapAttack (USA, Europe).json
 developer: Vic Tokai
 publisher: Sega
 genre: Action;Platform
@@ -1007,7 +1007,7 @@ x-co-op: No
 
 
 game: DEcapAttack (USA, Europe, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/DEcapAttack (USA, Europe, Korea)/DEcapAttack (USA, Europe, Korea).json
+file: Other/Sega Genesis/DEcapAttack (USA, Europe, Korea)/DEcapAttack (USA, Europe, Korea).json
 developer: Vic Tokai
 publisher: Sega
 genre: Action;Platform
@@ -1034,7 +1034,7 @@ x-co-op: No
 
 
 game: Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A)/Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A).json
+file: Other/Sega Genesis/Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A)/Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1056,7 +1056,7 @@ x-co-op: No
 
 
 game: Desert Strike - Return to the Gulf (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Desert Strike - Return to the Gulf (USA, Europe)/Desert Strike - Return to the Gulf (USA, Europe).json
+file: Other/Sega Genesis/Desert Strike - Return to the Gulf (USA, Europe)/Desert Strike - Return to the Gulf (USA, Europe).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Shooter
@@ -1076,7 +1076,7 @@ x-co-op: No
 
 
 game: Dr. Robotnik's Mean Bean Machine (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Dr. Robotnik's Mean Bean Machine (USA)/Dr. Robotnik's Mean Bean Machine (USA).json
+file: Other/Sega Genesis/Dr. Robotnik's Mean Bean Machine (USA)/Dr. Robotnik's Mean Bean Machine (USA).json
 developer: Compile
 publisher: Sega
 genre: Puzzle
@@ -1100,7 +1100,7 @@ x-co-op: Yes
 
 
 game: Dynamite Headdy (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Dynamite Headdy (Japan)/Dynamite Headdy (Japan).json
+file: Other/Sega Genesis/Dynamite Headdy (Japan)/Dynamite Headdy (Japan).json
 developer: Treasure
 publisher: Sega
 genre: Platform
@@ -1123,7 +1123,7 @@ x-co-op: No
 
 
 game: Dynamite Headdy (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Dynamite Headdy (USA, Europe)/Dynamite Headdy (USA, Europe).json
+file: Other/Sega Genesis/Dynamite Headdy (USA, Europe)/Dynamite Headdy (USA, Europe).json
 developer: Treasure
 publisher: Sega
 genre: Platform
@@ -1147,7 +1147,7 @@ x-co-op: No
 
 
 game: ESWAT - City under Siege (USA, Europe) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/ESWAT - City under Siege (USA, Europe) (Rev A)/ESWAT - City under Siege (USA, Europe) (Rev A).json
+file: Other/Sega Genesis/ESWAT - City under Siege (USA, Europe) (Rev A)/ESWAT - City under Siege (USA, Europe) (Rev A).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -1178,7 +1178,7 @@ x-co-op: No
 
 
 game: Earthworm Jim (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Earthworm Jim (USA)/Earthworm Jim (USA).json
+file: Other/Sega Genesis/Earthworm Jim (USA)/Earthworm Jim (USA).json
 developer: Shiny Entertainment
 publisher: Playmates Interactive Entertainment
 genre: Action;Platform
@@ -1209,7 +1209,7 @@ x-co-op: No
 
 
 game: Earthworm Jim 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Earthworm Jim 2 (USA)/Earthworm Jim 2 (USA).json
+file: Other/Sega Genesis/Earthworm Jim 2 (USA)/Earthworm Jim 2 (USA).json
 developer: Shiny Entertainment
 publisher: Playmates
 genre: Action;Platformer;2D
@@ -1232,7 +1232,7 @@ x-co-op: No
 
 
 game: Ecco - The Tides of Time (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Ecco - The Tides of Time (USA)/Ecco - The Tides of Time (USA).json
+file: Other/Sega Genesis/Ecco - The Tides of Time (USA)/Ecco - The Tides of Time (USA).json
 developer: Novotrade International
 publisher: Sega
 genre: Action;Adventure
@@ -1255,7 +1255,7 @@ x-co-op: No
 
 
 game: Ecco Jr. (USA, Australia)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Ecco Jr. (USA, Australia)/Ecco Jr. (USA, Australia).json
+file: Other/Sega Genesis/Ecco Jr. (USA, Australia)/Ecco Jr. (USA, Australia).json
 developer: Novotrade International
 publisher: Sega
 genre: Action;Adventure;Education
@@ -1277,7 +1277,7 @@ x-co-op: No
 
 
 game: Ecco the Dolphin (USA, Europe, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Ecco the Dolphin (USA, Europe, Korea)/Ecco the Dolphin (USA, Europe, Korea).json
+file: Other/Sega Genesis/Ecco the Dolphin (USA, Europe, Korea)/Ecco the Dolphin (USA, Europe, Korea).json
 developer: Novotrade International
 publisher: Sega
 genre: Action
@@ -1303,7 +1303,7 @@ x-co-op: No
 
 
 game: Elemental Master (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Elemental Master (USA)/Elemental Master (USA).json
+file: Other/Sega Genesis/Elemental Master (USA)/Elemental Master (USA).json
 developer: TechnoSoft
 publisher: Renovation
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -1342,7 +1342,7 @@ x-co-op: No
 
 
 game: Eternal Champions (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Eternal Champions (USA)/Eternal Champions (USA).json
+file: Other/Sega Genesis/Eternal Champions (USA)/Eternal Champions (USA).json
 developer: SEGA Interactive Development Division
 publisher: Sega
 genre: Fighting
@@ -1367,7 +1367,7 @@ x-co-op: Yes
 
 
 game: Fatal Fury 2 (USA, Korea) (En)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Fatal Fury 2 (USA, Korea) (En)/Fatal Fury 2 (USA, Korea) (En).json
+file: Other/Sega Genesis/Fatal Fury 2 (USA, Korea) (En)/Fatal Fury 2 (USA, Korea) (En).json
 developer: SNK
 publisher: SNK
 genre: Action;Fighting;2D
@@ -1388,7 +1388,7 @@ x-co-op: Yes
 
 
 game: Fatal Labyrinth (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Fatal Labyrinth (USA, Europe)/Fatal Labyrinth (USA, Europe).json
+file: Other/Sega Genesis/Fatal Labyrinth (USA, Europe)/Fatal Labyrinth (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -1410,7 +1410,7 @@ x-co-op: No
 
 
 game: Flicky (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Flicky (USA, Europe)/Flicky (USA, Europe).json
+file: Other/Sega Genesis/Flicky (USA, Europe)/Flicky (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -1439,7 +1439,7 @@ x-co-op: No
 
 
 game: Gain Ground (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Gain Ground (USA)/Gain Ground (USA).json
+file: Other/Sega Genesis/Gain Ground (USA)/Gain Ground (USA).json
 developer: Sanritsu Denki
 publisher: Renovation Products, Inc.
 genre: Action
@@ -1460,7 +1460,7 @@ x-co-op: Yes
 
 
 game: Galaxy Force II (USA, Europe) (PC Rerelease)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Galaxy Force II (USA, Europe) (PC Rerelease)/Galaxy Force II (USA, Europe) (PC Rerelease).json
+file: Other/Sega Genesis/Galaxy Force II (USA, Europe) (PC Rerelease)/Galaxy Force II (USA, Europe) (PC Rerelease).json
 developer: CSK Research Institute Corp.
 publisher: Sega
 genre: Shooter
@@ -1483,7 +1483,7 @@ x-co-op: No
 
 
 game: Galaxy Force II (World) (Rev B)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Galaxy Force II (World) (Rev B)/Galaxy Force II (World) (Rev B).json
+file: Other/Sega Genesis/Galaxy Force II (World) (Rev B)/Galaxy Force II (World) (Rev B).json
 developer: CSK Research Institute Corp.
 publisher: Sega
 genre: Shooter
@@ -1506,7 +1506,7 @@ x-co-op: No
 
 
 game: General Chaos (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/General Chaos (USA, Europe)/General Chaos (USA, Europe).json
+file: Other/Sega Genesis/General Chaos (USA, Europe)/General Chaos (USA, Europe).json
 developer: Game Refuge
 publisher: Electronic Arts
 genre: Action;Strategy
@@ -1528,7 +1528,7 @@ x-co-op: Yes
 
 
 game: Golden Axe (World) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Golden Axe (World) (Rev A)/Golden Axe (World) (Rev A).json
+file: Other/Sega Genesis/Golden Axe (World) (Rev A)/Golden Axe (World) (Rev A).json
 developer: Sega
 publisher: Sega
 genre: Beat 'em Up
@@ -1560,7 +1560,7 @@ x-co-op: Yes
 
 
 game: Golden Axe II (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Golden Axe II (World)/Golden Axe II (World).json
+file: Other/Sega Genesis/Golden Axe II (World)/Golden Axe II (World).json
 developer: Sega
 publisher: Sega
 genre: Action;Adventure;Beat 'em Up
@@ -1583,7 +1583,7 @@ x-co-op: Yes
 
 
 game: Golden Axe III (Japan) (En)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Golden Axe III (Japan) (En)/Golden Axe III (Japan) (En).json
+file: Other/Sega Genesis/Golden Axe III (Japan) (En)/Golden Axe III (Japan) (En).json
 developer: Sega
 publisher: Sega
 genre: Action;Adventure;Beat 'em Up
@@ -1602,7 +1602,7 @@ x-co-op: Yes
 
 
 game: Granada (Japan, USA) (En)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Granada (Japan, USA) (En)/Granada (Japan, USA) (En).json
+file: Other/Sega Genesis/Granada (Japan, USA) (En)/Granada (Japan, USA) (En).json
 developer: Wolf Team
 publisher: Renovation
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -1633,7 +1633,7 @@ x-co-op: No
 
 
 game: Gunstar Heroes (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Gunstar Heroes (Japan)/Gunstar Heroes (Japan).json
+file: Other/Sega Genesis/Gunstar Heroes (Japan)/Gunstar Heroes (Japan).json
 developer: Treasure
 publisher: Sega
 genre: Platform;Shooter
@@ -1654,7 +1654,7 @@ x-co-op: Yes
 
 
 game: Gunstar Heroes (Japan) (Sample) (April, 1993)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Gunstar Heroes (Japan) (Sample) (April, 1993)/Gunstar Heroes (Japan) (Sample) (April, 1993).json
+file: Other/Sega Genesis/Gunstar Heroes (Japan) (Sample) (April, 1993)/Gunstar Heroes (Japan) (Sample) (April, 1993).json
 developer: Treasure
 publisher: Sega
 genre: Platform;Shooter
@@ -1675,7 +1675,7 @@ x-co-op: Yes
 
 
 game: Gunstar Heroes (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Gunstar Heroes (USA)/Gunstar Heroes (USA).json
+file: Other/Sega Genesis/Gunstar Heroes (USA)/Gunstar Heroes (USA).json
 developer: Treasure
 publisher: Sega
 genre: Platform;Shooter
@@ -1697,7 +1697,7 @@ x-co-op: Yes
 
 
 game: Haunting Starring Polterguy (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Haunting Starring Polterguy (USA, Europe)/Haunting Starring Polterguy (USA, Europe).json
+file: Other/Sega Genesis/Haunting Starring Polterguy (USA, Europe)/Haunting Starring Polterguy (USA, Europe).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Action
@@ -1721,7 +1721,7 @@ x-co-op: No
 
 
 game: Hellfire (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Hellfire (USA)/Hellfire (USA).json
+file: Other/Sega Genesis/Hellfire (USA)/Hellfire (USA).json
 developer: Toaplan
 publisher: Taito Corporation
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -1742,7 +1742,7 @@ x-co-op: No
 
 
 game: Herzog Zwei (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Herzog Zwei (USA, Europe)/Herzog Zwei (USA, Europe).json
+file: Other/Sega Genesis/Herzog Zwei (USA, Europe)/Herzog Zwei (USA, Europe).json
 developer: TechnoSoft
 publisher: Sega
 genre: Strategy;Real-Time;General
@@ -1769,7 +1769,7 @@ x-co-op: Yes
 
 
 game: Jungle Strike (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Jungle Strike (USA, Europe)/Jungle Strike (USA, Europe).json
+file: Other/Sega Genesis/Jungle Strike (USA, Europe)/Jungle Strike (USA, Europe).json
 developer: High Score Productions
 publisher: Electronic Arts
 genre: Shooter
@@ -1803,7 +1803,7 @@ x-co-op: No
 
 
 game: Kid Chameleon (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Kid Chameleon (USA, Europe)/Kid Chameleon (USA, Europe).json
+file: Other/Sega Genesis/Kid Chameleon (USA, Europe)/Kid Chameleon (USA, Europe).json
 developer: Sega Technical Institute
 publisher: Sega
 genre: Platform
@@ -1834,7 +1834,7 @@ x-co-op: No
 
 
 game: Landstalker (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Landstalker (USA)/Landstalker (USA).json
+file: Other/Sega Genesis/Landstalker (USA)/Landstalker (USA).json
 developer: Climax Entertainment
 publisher: Sega
 genre: Action;Role-Playing
@@ -1858,7 +1858,7 @@ x-co-op: No
 
 
 game: Landstalker - Die Schatze von Konig Nolo (Germany)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Landstalker - Die Schatze von Konig Nolo (Germany)/Landstalker - Die Schatze von Konig Nolo (Germany).json
+file: Other/Sega Genesis/Landstalker - Die Schatze von Konig Nolo (Germany)/Landstalker - Die Schatze von Konig Nolo (Germany).json
 developer: Climax Entertainment
 publisher: Sega
 genre: Action;Role-Playing
@@ -1881,7 +1881,7 @@ x-co-op: No
 
 
 game: Landstalker - Le Tresor du Roi Nole (France)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Landstalker - Le Tresor du Roi Nole (France)/Landstalker - Le Tresor du Roi Nole (France).json
+file: Other/Sega Genesis/Landstalker - Le Tresor du Roi Nole (France)/Landstalker - Le Tresor du Roi Nole (France).json
 developer: Climax Entertainment
 publisher: Sega
 genre: Action;Role-Playing
@@ -1904,7 +1904,7 @@ x-co-op: No
 
 
 game: Legende de Thor, La (France)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Legende de Thor, La (France)/Legende de Thor, La (France).json
+file: Other/Sega Genesis/Legende de Thor, La (France)/Legende de Thor, La (France).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -1927,7 +1927,7 @@ x-co-op: No
 
 
 game: Light Crusader (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Light Crusader (USA)/Light Crusader (USA).json
+file: Other/Sega Genesis/Light Crusader (USA)/Light Crusader (USA).json
 developer: Treasure
 publisher: Sega
 genre: Action;Role-Playing
@@ -1947,7 +1947,7 @@ x-co-op: No
 
 
 game: Lightening Force - Quest for the Darkstar (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Lightening Force - Quest for the Darkstar (USA)/Lightening Force - Quest for the Darkstar (USA).json
+file: Other/Sega Genesis/Lightening Force - Quest for the Darkstar (USA)/Lightening Force - Quest for the Darkstar (USA).json
 developer: TechnoSoft
 publisher: Sega
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -1972,7 +1972,7 @@ x-co-op: No
 
 
 game: Mega Man - The Wily Wars (Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Mega Man - The Wily Wars (Europe)/Mega Man - The Wily Wars (Europe).json
+file: Other/Sega Genesis/Mega Man - The Wily Wars (Europe)/Mega Man - The Wily Wars (Europe).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -1993,7 +1993,7 @@ x-co-op: No
 
 
 game: Mega Turrican (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Mega Turrican (USA)/Mega Turrican (USA).json
+file: Other/Sega Genesis/Mega Turrican (USA)/Mega Turrican (USA).json
 developer: Factor 5
 publisher: Data East
 genre: Action;Platformer;2D
@@ -2016,7 +2016,7 @@ x-co-op: No
 
 
 game: Mega Turrican - Director's Cut (World) (Aftermarket) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Mega Turrican - Director's Cut (World) (Aftermarket) (Unl)/Mega Turrican - Director's Cut (World) (Aftermarket) (Unl).json
+file: Other/Sega Genesis/Mega Turrican - Director's Cut (World) (Aftermarket) (Unl)/Mega Turrican - Director's Cut (World) (Aftermarket) (Unl).json
 developer: Factor 5
 publisher: Data East
 genre: Action;Platformer;2D
@@ -2038,7 +2038,7 @@ x-co-op: No
 
 
 game: Midnight Resistance (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Midnight Resistance (USA)/Midnight Resistance (USA).json
+file: Other/Sega Genesis/Midnight Resistance (USA)/Midnight Resistance (USA).json
 developer: Data East
 publisher: Data East
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -2065,7 +2065,7 @@ x-co-op: Yes
 
 
 game: Might and Magic - Gates to Another World (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Might and Magic - Gates to Another World (USA, Europe)/Might and Magic - Gates to Another World (USA, Europe).json
+file: Other/Sega Genesis/Might and Magic - Gates to Another World (USA, Europe)/Might and Magic - Gates to Another World (USA, Europe).json
 developer: New World Computing
 publisher: Electronic Arts
 genre: Role-Playing
@@ -2087,7 +2087,7 @@ x-co-op: No
 
 
 game: Mortal Kombat (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Mortal Kombat (World)/Mortal Kombat (World).json
+file: Other/Sega Genesis/Mortal Kombat (World)/Mortal Kombat (World).json
 developer: Probe Software
 publisher: Acclaim Entertainment
 genre: Fighting
@@ -2108,7 +2108,7 @@ x-co-op: Yes
 
 
 game: Mortal Kombat II (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Mortal Kombat II (World)/Mortal Kombat II (World).json
+file: Other/Sega Genesis/Mortal Kombat II (World)/Mortal Kombat II (World).json
 developer: Probe Entertainment
 publisher: Acclaim Entertainment
 genre: Fighting
@@ -2132,7 +2132,7 @@ x-co-op: No
 
 
 game: Mugen Senshi Valis (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Mugen Senshi Valis (Japan)/Mugen Senshi Valis (Japan).json
+file: Other/Sega Genesis/Mugen Senshi Valis (Japan)/Mugen Senshi Valis (Japan).json
 developer: Riot
 publisher: Renovation Products, Inc.
 genre: Action
@@ -2160,7 +2160,7 @@ x-co-op: No
 
 
 game: Mutant League Football (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Mutant League Football (USA, Europe)/Mutant League Football (USA, Europe).json
+file: Other/Sega Genesis/Mutant League Football (USA, Europe)/Mutant League Football (USA, Europe).json
 developer: Mutant Productions
 publisher: Electronic Arts
 genre: Sports
@@ -2182,7 +2182,7 @@ x-co-op: Yes
 
 
 game: Ooze, The (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Ooze, The (Japan, USA)/Ooze, The (Japan, USA).json
+file: Other/Sega Genesis/Ooze, The (Japan, USA)/Ooze, The (Japan, USA).json
 developer: Sega Technical Institute
 publisher: Sega
 genre: Action
@@ -2207,7 +2207,7 @@ x-co-op: No
 
 
 game: OutRun (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/OutRun (USA, Europe)/OutRun (USA, Europe).json
+file: Other/Sega Genesis/OutRun (USA, Europe)/OutRun (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Racing;Arcade;Automobile
@@ -2228,7 +2228,7 @@ x-co-op: No
 
 
 game: OutRunners (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/OutRunners (USA)/OutRunners (USA).json
+file: Other/Sega Genesis/OutRunners (USA)/OutRunners (USA).json
 developer: Sega
 publisher: Sega
 genre: Racing;Arcade;Automobile
@@ -2259,7 +2259,7 @@ x-co-op: No
 
 
 game: Phantasy Star - Sennenki no Owari ni (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star - Sennenki no Owari ni (Japan)/Phantasy Star - Sennenki no Owari ni (Japan).json
+file: Other/Sega Genesis/Phantasy Star - Sennenki no Owari ni (Japan)/Phantasy Star - Sennenki no Owari ni (Japan).json
 developer: Sega CS R&D
 publisher: Sega
 genre: Role-Playing
@@ -2279,7 +2279,7 @@ x-co-op: No
 
 
 game: Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)/Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini).json
+file: Other/Sega Genesis/Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)/Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini).json
 developer: Sega CS R&D
 publisher: Sega
 genre: Role-Playing
@@ -2299,7 +2299,7 @@ x-co-op: No
 
 
 game: Phantasy Star II (USA, Europe) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II (USA, Europe) (Rev A)/Phantasy Star II (USA, Europe) (Rev A).json
+file: Other/Sega Genesis/Phantasy Star II (USA, Europe) (Rev A)/Phantasy Star II (USA, Europe) (Rev A).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -2328,7 +2328,7 @@ x-co-op: No
 
 
 game: Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)/Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease).json
+file: Other/Sega Genesis/Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)/Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -2357,7 +2357,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Amia's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Amia's Adventure (Japan) (SegaNet)/Phantasy Star II - Amia's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Amia's Adventure (Japan) (SegaNet)/Phantasy Star II - Amia's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2387,7 +2387,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Anne's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Anne's Adventure (Japan) (SegaNet)/Phantasy Star II - Anne's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Anne's Adventure (Japan) (SegaNet)/Phantasy Star II - Anne's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2411,7 +2411,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Huey's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Huey's Adventure (Japan) (SegaNet)/Phantasy Star II - Huey's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Huey's Adventure (Japan) (SegaNet)/Phantasy Star II - Huey's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2438,7 +2438,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)/Phantasy Star II - Kaerazaru Toki no Owari ni (Japan).json
+file: Other/Sega Genesis/Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)/Phantasy Star II - Kaerazaru Toki no Owari ni (Japan).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -2466,7 +2466,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)/Phantasy Star II - Kinds's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2494,7 +2494,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Nei's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Nei's Adventure (Japan) (SegaNet)/Phantasy Star II - Nei's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Nei's Adventure (Japan) (SegaNet)/Phantasy Star II - Nei's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2520,7 +2520,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)/Phantasy Star II - Rudger's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2547,7 +2547,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)/Phantasy Star II - Shilka's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2572,7 +2572,7 @@ x-co-op: No
 
 
 game: Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet).json
+file: Other/Sega Genesis/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)/Phantasy Star II - Yushis's Adventure (Japan) (SegaNet).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -2596,7 +2596,7 @@ x-co-op: No
 
 
 game: Phantasy Star III - Generations of Doom (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star III - Generations of Doom (USA, Europe)/Phantasy Star III - Generations of Doom (USA, Europe).json
+file: Other/Sega Genesis/Phantasy Star III - Generations of Doom (USA, Europe)/Phantasy Star III - Generations of Doom (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -2625,7 +2625,7 @@ x-co-op: No
 
 
 game: Phantasy Star III - Generations of Doom (USA, Europe, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star III - Generations of Doom (USA, Europe, Korea)/Phantasy Star III - Generations of Doom (USA, Europe, Korea).json
+file: Other/Sega Genesis/Phantasy Star III - Generations of Doom (USA, Europe, Korea)/Phantasy Star III - Generations of Doom (USA, Europe, Korea).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -2654,7 +2654,7 @@ x-co-op: No
 
 
 game: Phantasy Star IV (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Phantasy Star IV (USA)/Phantasy Star IV (USA).json
+file: Other/Sega Genesis/Phantasy Star IV (USA)/Phantasy Star IV (USA).json
 developer: Sega CS R&D
 publisher: Sega
 genre: Role-Playing
@@ -2675,7 +2675,7 @@ x-co-op: No
 
 
 game: Populous (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Populous (Japan)/Populous (Japan).json
+file: Other/Sega Genesis/Populous (Japan)/Populous (Japan).json
 developer: Bullfrog Productions
 publisher: Electronic Arts
 genre: Strategy;General
@@ -2693,7 +2693,7 @@ x-co-op: No
 
 
 game: Populous (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Populous (USA) (Unl)/Populous (USA) (Unl).json
+file: Other/Sega Genesis/Populous (USA) (Unl)/Populous (USA) (Unl).json
 developer: Bullfrog Productions
 publisher: Electronic Arts
 genre: Strategy;General
@@ -2712,7 +2712,7 @@ x-co-op: No
 
 
 game: Probotector (World) (60Hz Hack) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Probotector (World) (60Hz Hack) (Contra Anniversary Collection)/Probotector (World) (60Hz Hack) (Contra Anniversary Collection).json
+file: Other/Sega Genesis/Probotector (World) (60Hz Hack) (Contra Anniversary Collection)/Probotector (World) (60Hz Hack) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2739,7 +2739,7 @@ x-co-op: Yes
 
 
 game: Probotector (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Probotector (World) (Contra Anniversary Collection)/Probotector (World) (Contra Anniversary Collection).json
+file: Other/Sega Genesis/Probotector (World) (Contra Anniversary Collection)/Probotector (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2766,7 +2766,7 @@ x-co-op: Yes
 
 
 game: Rainbow Islands Extra (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Rainbow Islands Extra (Japan)/Rainbow Islands Extra (Japan).json
+file: Other/Sega Genesis/Rainbow Islands Extra (Japan)/Rainbow Islands Extra (Japan).json
 developer: Taito Corporation
 publisher: Romstar
 genre: Action;Platformer;2D
@@ -2790,7 +2790,7 @@ x-co-op: No
 
 
 game: Ranger X (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Ranger X (USA)/Ranger X (USA).json
+file: Other/Sega Genesis/Ranger X (USA)/Ranger X (USA).json
 developer: Gau Entertainment
 publisher: Sega
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -2813,7 +2813,7 @@ x-co-op: No
 
 
 game: Revenge of Shinobi, The (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Revenge of Shinobi, The (USA, Europe)/Revenge of Shinobi, The (USA, Europe).json
+file: Other/Sega Genesis/Revenge of Shinobi, The (USA, Europe)/Revenge of Shinobi, The (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -2844,7 +2844,7 @@ x-co-op: No
 
 
 game: Revenge of Shinobi, The (USA, Europe) (Rev B)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Revenge of Shinobi, The (USA, Europe) (Rev B)/Revenge of Shinobi, The (USA, Europe) (Rev B).json
+file: Other/Sega Genesis/Revenge of Shinobi, The (USA, Europe) (Rev B)/Revenge of Shinobi, The (USA, Europe) (Rev B).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -2875,7 +2875,7 @@ x-co-op: No
 
 
 game: Revenge of Shinobi, The (World) (Rev B) (Virtual Console)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Revenge of Shinobi, The (World) (Rev B) (Virtual Console)/Revenge of Shinobi, The (World) (Rev B) (Virtual Console).json
+file: Other/Sega Genesis/Revenge of Shinobi, The (World) (Rev B) (Virtual Console)/Revenge of Shinobi, The (World) (Rev B) (Virtual Console).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -2905,7 +2905,7 @@ x-co-op: No
 
 
 game: Ristar (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Ristar (USA, Europe)/Ristar (USA, Europe).json
+file: Other/Sega Genesis/Ristar (USA, Europe)/Ristar (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -2930,7 +2930,7 @@ x-co-op: No
 
 
 game: Ristar - The Shooting Star (Japan, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Ristar - The Shooting Star (Japan, Korea)/Ristar - The Shooting Star (Japan, Korea).json
+file: Other/Sega Genesis/Ristar - The Shooting Star (Japan, Korea)/Ristar - The Shooting Star (Japan, Korea).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -2954,7 +2954,7 @@ x-co-op: No
 
 
 game: Road Rash (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Road Rash (USA, Europe)/Road Rash (USA, Europe).json
+file: Other/Sega Genesis/Road Rash (USA, Europe)/Road Rash (USA, Europe).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Action;Racing
@@ -2978,7 +2978,7 @@ x-co-op: No
 
 
 game: Road Rash 3 (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Road Rash 3 (USA, Europe)/Road Rash 3 (USA, Europe).json
+file: Other/Sega Genesis/Road Rash 3 (USA, Europe)/Road Rash 3 (USA, Europe).json
 developer: Monkey Do Productions
 publisher: Electronic Arts
 genre: Action;Racing
@@ -2999,7 +2999,7 @@ x-co-op: No
 
 
 game: Road Rash II (USA, Europe) (RR206)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Road Rash II (USA, Europe) (RR206)/Road Rash II (USA, Europe) (RR206).json
+file: Other/Sega Genesis/Road Rash II (USA, Europe) (RR206)/Road Rash II (USA, Europe) (RR206).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Racing
@@ -3022,7 +3022,7 @@ x-co-op: Yes
 
 
 game: RoboCop versus The Terminator (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/RoboCop versus The Terminator (USA)/RoboCop versus The Terminator (USA).json
+file: Other/Sega Genesis/RoboCop versus The Terminator (USA)/RoboCop versus The Terminator (USA).json
 developer: Virgin Games
 publisher: Virgin Games
 genre: Action;Platform
@@ -3056,7 +3056,7 @@ x-co-op: No
 
 
 game: Rocket Knight Adventures (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Rocket Knight Adventures (USA)/Rocket Knight Adventures (USA).json
+file: Other/Sega Genesis/Rocket Knight Adventures (USA)/Rocket Knight Adventures (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -3089,7 +3089,7 @@ x-co-op: No
 
 
 game: Rolling Thunder 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Rolling Thunder 2 (USA)/Rolling Thunder 2 (USA).json
+file: Other/Sega Genesis/Rolling Thunder 2 (USA)/Rolling Thunder 2 (USA).json
 developer: Namco
 publisher: Namco
 genre: Action;Platformer;2D
@@ -3113,7 +3113,7 @@ x-co-op: Yes
 
 
 game: SD Valis (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/SD Valis (Japan)/SD Valis (Japan).json
+file: Other/Sega Genesis/SD Valis (Japan)/SD Valis (Japan).json
 developer: ISC
 publisher: Renovation Products, Inc.
 genre: Action;Platform
@@ -3142,7 +3142,7 @@ x-co-op: No
 
 
 game: Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease)/Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease).json
+file: Other/Sega Genesis/Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease)/Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -3174,7 +3174,7 @@ x-co-op: No
 
 
 game: Shadow Dancer - The Secret of Shinobi (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Shadow Dancer - The Secret of Shinobi (World)/Shadow Dancer - The Secret of Shinobi (World).json
+file: Other/Sega Genesis/Shadow Dancer - The Secret of Shinobi (World)/Shadow Dancer - The Secret of Shinobi (World).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -3206,7 +3206,7 @@ x-co-op: No
 
 
 game: Shadowrun (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Shadowrun (USA)/Shadowrun (USA).json
+file: Other/Sega Genesis/Shadowrun (USA)/Shadowrun (USA).json
 developer: BlueSky Software
 publisher: Sega
 genre: Action;Role-Playing
@@ -3232,7 +3232,7 @@ x-co-op: No
 
 
 game: Shining Force (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Shining Force (USA)/Shining Force (USA).json
+file: Other/Sega Genesis/Shining Force (USA)/Shining Force (USA).json
 developer: Climax Entertainment
 publisher: Sega
 genre: Role-Playing;Strategy
@@ -3268,7 +3268,7 @@ x-co-op: No
 
 
 game: Shining Force II (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Shining Force II (USA)/Shining Force II (USA).json
+file: Other/Sega Genesis/Shining Force II (USA)/Shining Force II (USA).json
 developer: Sonic! Software Planning
 publisher: Sega
 genre: Role-Playing;Strategy
@@ -3291,7 +3291,7 @@ x-co-op: No
 
 
 game: Shining in the Darkness (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Shining in the Darkness (USA, Europe)/Shining in the Darkness (USA, Europe).json
+file: Other/Sega Genesis/Shining in the Darkness (USA, Europe)/Shining in the Darkness (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -3318,7 +3318,7 @@ x-co-op: No
 
 
 game: Shinobi III - Return of the Ninja Master (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Shinobi III - Return of the Ninja Master (USA)/Shinobi III - Return of the Ninja Master (USA).json
+file: Other/Sega Genesis/Shinobi III - Return of the Ninja Master (USA)/Shinobi III - Return of the Ninja Master (USA).json
 developer: Megasoft
 publisher: Sega
 genre: Action;Platform
@@ -3339,7 +3339,7 @@ x-co-op: No
 
 
 game: Sonic & Knuckles (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic & Knuckles (World)/Sonic & Knuckles (World).json
+file: Other/Sega Genesis/Sonic & Knuckles (World)/Sonic & Knuckles (World).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3364,7 +3364,7 @@ x-co-op: No
 
 
 game: Sonic & Knuckles + Sonic The Hedgehog (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog (World)/Sonic & Knuckles + Sonic The Hedgehog (World).json
+file: Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog (World)/Sonic & Knuckles + Sonic The Hedgehog (World).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3389,7 +3389,7 @@ x-co-op: No
 
 
 game: Sonic & Knuckles + Sonic The Hedgehog 2 (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog 2 (World)/Sonic & Knuckles + Sonic The Hedgehog 2 (World).json
+file: Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog 2 (World)/Sonic & Knuckles + Sonic The Hedgehog 2 (World).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3411,7 +3411,7 @@ x-co-op: Yes
 
 
 game: Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En)/Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En).json
+file: Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En)/Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3446,7 +3446,7 @@ x-co-op: Yes
 
 
 game: Sonic & Knuckles + Sonic The Hedgehog 3 (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog 3 (World)/Sonic & Knuckles + Sonic The Hedgehog 3 (World).json
+file: Other/Sega Genesis/Sonic & Knuckles + Sonic The Hedgehog 3 (World)/Sonic & Knuckles + Sonic The Hedgehog 3 (World).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3481,7 +3481,7 @@ x-co-op: Yes
 
 
 game: Sonic 2 Heroes (World) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic 2 Heroes (World) (Unl)/Sonic 2 Heroes (World) (Unl).json
+file: Other/Sega Genesis/Sonic 2 Heroes (World) (Unl)/Sonic 2 Heroes (World) (Unl).json
 developer: flamewing, ColinC10
 publisher: flamewing, ColinC10
 genre: Platform
@@ -3510,7 +3510,7 @@ x-co-op: Yes
 
 
 game: Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea)/Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea).json
+file: Other/Sega Genesis/Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea)/Sonic 3D Blast ~ Sonic 3D Flickies' Island (USA, Europe, Korea).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platform
@@ -3531,7 +3531,7 @@ x-co-op: No
 
 
 game: Sonic Classic Heroes (World) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic Classic Heroes (World) (Unl)/Sonic Classic Heroes (World) (Unl).json
+file: Other/Sega Genesis/Sonic Classic Heroes (World) (Unl)/Sonic Classic Heroes (World) (Unl).json
 developer: flamewing, ColinC10
 publisher: flamewing, ColinC10
 genre: Platform
@@ -3563,7 +3563,7 @@ x-co-op: Yes
 
 
 game: Sonic Spinball (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic Spinball (USA)/Sonic Spinball (USA).json
+file: Other/Sega Genesis/Sonic Spinball (USA)/Sonic Spinball (USA).json
 developer: Polygames
 publisher: Sega
 genre: Action;Platform
@@ -3587,7 +3587,7 @@ x-co-op: No
 
 
 game: Sonic The Hedgehog (Japan, Europe, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic The Hedgehog (Japan, Europe, Korea)/Sonic The Hedgehog (Japan, Europe, Korea).json
+file: Other/Sega Genesis/Sonic The Hedgehog (Japan, Europe, Korea)/Sonic The Hedgehog (Japan, Europe, Korea).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3612,7 +3612,7 @@ x-co-op: No
 
 
 game: Sonic The Hedgehog (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic The Hedgehog (USA, Europe)/Sonic The Hedgehog (USA, Europe).json
+file: Other/Sega Genesis/Sonic The Hedgehog (USA, Europe)/Sonic The Hedgehog (USA, Europe).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3638,7 +3638,7 @@ x-co-op: No
 
 
 game: Sonic The Hedgehog 1+2 (World) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic The Hedgehog 1+2 (World) (Unl)/Sonic The Hedgehog 1+2 (World) (Unl).json
+file: Other/Sega Genesis/Sonic The Hedgehog 1+2 (World) (Unl)/Sonic The Hedgehog 1+2 (World) (Unl).json
 developer: ColinC10
 publisher: ColinC10
 genre: Platform
@@ -3670,7 +3670,7 @@ x-co-op: Yes
 
 
 game: Sonic The Hedgehog 2 (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic The Hedgehog 2 (World)/Sonic The Hedgehog 2 (World).json
+file: Other/Sega Genesis/Sonic The Hedgehog 2 (World)/Sonic The Hedgehog 2 (World).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3695,7 +3695,7 @@ x-co-op: Yes
 
 
 game: Sonic The Hedgehog 2 (World) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic The Hedgehog 2 (World) (Rev A)/Sonic The Hedgehog 2 (World) (Rev A).json
+file: Other/Sega Genesis/Sonic The Hedgehog 2 (World) (Rev A)/Sonic The Hedgehog 2 (World) (Rev A).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3720,7 +3720,7 @@ x-co-op: Yes
 
 
 game: Sonic The Hedgehog 3 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sonic The Hedgehog 3 (USA)/Sonic The Hedgehog 3 (USA).json
+file: Other/Sega Genesis/Sonic The Hedgehog 3 (USA)/Sonic The Hedgehog 3 (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -3744,7 +3744,7 @@ x-co-op: Yes
 
 
 game: Space Harrier II (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Space Harrier II (World)/Space Harrier II (World).json
+file: Other/Sega Genesis/Space Harrier II (World)/Space Harrier II (World).json
 developer: Sega R&D2
 publisher: Sega
 genre: Shooter
@@ -3770,7 +3770,7 @@ x-co-op: No
 
 
 game: Spider-Man (World) (Sega)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Spider-Man (World) (Sega)/Spider-Man (World) (Sega).json
+file: Other/Sega Genesis/Spider-Man (World) (Sega)/Spider-Man (World) (Sega).json
 developer: Western Technologies Inc.
 publisher: Acclaim Entertainment
 genre: Action;Platform
@@ -3791,7 +3791,7 @@ x-co-op: No
 
 
 game: Splatterhouse 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Splatterhouse 2 (USA)/Splatterhouse 2 (USA).json
+file: Other/Sega Genesis/Splatterhouse 2 (USA)/Splatterhouse 2 (USA).json
 developer: Now Production
 publisher: Namco
 genre: Beat 'em Up
@@ -3817,7 +3817,7 @@ x-co-op: No
 
 
 game: Splatterhouse 3 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Splatterhouse 3 (USA)/Splatterhouse 3 (USA).json
+file: Other/Sega Genesis/Splatterhouse 3 (USA)/Splatterhouse 3 (USA).json
 developer: Now Production
 publisher: Namco
 genre: Beat 'em Up
@@ -3856,7 +3856,7 @@ x-co-op: No
 
 
 game: Star Control (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Star Control (USA) (Unl)/Star Control (USA) (Unl).json
+file: Other/Sega Genesis/Star Control (USA) (Unl)/Star Control (USA) (Unl).json
 developer: Toys for Bob
 publisher: Ballistic
 genre: Action;Strategy
@@ -3884,7 +3884,7 @@ x-co-op: No
 
 
 game: Story of Thor, The (Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Story of Thor, The (Europe)/Story of Thor, The (Europe).json
+file: Other/Sega Genesis/Story of Thor, The (Europe)/Story of Thor, The (Europe).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -3907,7 +3907,7 @@ x-co-op: No
 
 
 game: Story of Thor, The (Germany)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Story of Thor, The (Germany)/Story of Thor, The (Germany).json
+file: Other/Sega Genesis/Story of Thor, The (Germany)/Story of Thor, The (Germany).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -3930,7 +3930,7 @@ x-co-op: No
 
 
 game: Story of Thor, The (Spain)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Story of Thor, The (Spain)/Story of Thor, The (Spain).json
+file: Other/Sega Genesis/Story of Thor, The (Spain)/Story of Thor, The (Spain).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -3953,7 +3953,7 @@ x-co-op: No
 
 
 game: Story of Thor, The - Hikari o Tsugumono (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Story of Thor, The - Hikari o Tsugumono (Japan)/Story of Thor, The - Hikari o Tsugumono (Japan).json
+file: Other/Sega Genesis/Story of Thor, The - Hikari o Tsugumono (Japan)/Story of Thor, The - Hikari o Tsugumono (Japan).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -3976,7 +3976,7 @@ x-co-op: No
 
 
 game: Street Fighter II' - Special Champion Edition (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Street Fighter II' - Special Champion Edition (USA)/Street Fighter II' - Special Champion Edition (USA).json
+file: Other/Sega Genesis/Street Fighter II' - Special Champion Edition (USA)/Street Fighter II' - Special Champion Edition (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -3999,7 +3999,7 @@ x-co-op: Yes
 
 
 game: Streets of Rage 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Streets of Rage 2 (USA)/Streets of Rage 2 (USA).json
+file: Other/Sega Genesis/Streets of Rage 2 (USA)/Streets of Rage 2 (USA).json
 developer: M.N.M Software
 publisher: Sega
 genre: Beat 'em Up
@@ -4026,7 +4026,7 @@ x-co-op: Yes
 
 
 game: Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (New Music)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (New Music)/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (New Music).json
+file: Other/Sega Genesis/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (New Music)/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (New Music).json
 developer: M.N.M Software
 publisher: Sega
 genre: Beat 'em Up
@@ -4072,7 +4072,7 @@ x-co-op: Yes
 
 
 game: Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (Original Music)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (Original Music)/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (Original Music).json
+file: Other/Sega Genesis/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (Original Music)/Streets of Rage 2 (USA) (TMNT Shredder's Re-Revenge Patch) (Original Music).json
 developer: M.N.M Software
 publisher: Sega
 genre: Beat 'em Up
@@ -4117,7 +4117,7 @@ x-co-op: Yes
 
 
 game: Streets of Rage 3 (Asia) (En)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Streets of Rage 3 (Asia) (En)/Streets of Rage 3 (Asia) (En).json
+file: Other/Sega Genesis/Streets of Rage 3 (Asia) (En)/Streets of Rage 3 (Asia) (En).json
 developer: Sega
 publisher: Sega
 genre: Beat 'em Up
@@ -4139,7 +4139,7 @@ x-co-op: Yes
 
 
 game: Streets of Rage 3 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Streets of Rage 3 (USA)/Streets of Rage 3 (USA).json
+file: Other/Sega Genesis/Streets of Rage 3 (USA)/Streets of Rage 3 (USA).json
 developer: Sega
 publisher: Sega
 genre: Beat 'em Up
@@ -4162,7 +4162,7 @@ x-co-op: Yes
 
 
 game: Strider (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Strider (USA, Europe)/Strider (USA, Europe).json
+file: Other/Sega Genesis/Strider (USA, Europe)/Strider (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -4193,7 +4193,7 @@ x-co-op: No
 
 
 game: Sub-Terrania (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sub-Terrania (USA)/Sub-Terrania (USA).json
+file: Other/Sega Genesis/Sub-Terrania (USA)/Sub-Terrania (USA).json
 developer: Zyrinx
 publisher: Sega
 genre: Shooter
@@ -4218,7 +4218,7 @@ x-co-op: No
 
 
 game: Super Fantasy Zone (Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Super Fantasy Zone (Europe)/Super Fantasy Zone (Europe).json
+file: Other/Sega Genesis/Super Fantasy Zone (Europe)/Super Fantasy Zone (Europe).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Shooter
@@ -4252,7 +4252,7 @@ x-co-op: No
 
 
 game: Super Fantasy Zone (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Super Fantasy Zone (Japan)/Super Fantasy Zone (Japan).json
+file: Other/Sega Genesis/Super Fantasy Zone (Japan)/Super Fantasy Zone (Japan).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Shooter
@@ -4286,7 +4286,7 @@ x-co-op: No
 
 
 game: Super Hang-On (Japan, USA) (En,Ja)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Super Hang-On (Japan, USA) (En,Ja)/Super Hang-On (Japan, USA) (En,Ja).json
+file: Other/Sega Genesis/Super Hang-On (Japan, USA) (En,Ja)/Super Hang-On (Japan, USA) (En,Ja).json
 developer: Sega AM2
 publisher: Sega
 genre: Racing;Arcade;Automobile
@@ -4314,7 +4314,7 @@ x-co-op: No
 
 
 game: Super Street Fighter II - The New Challengers (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Super Street Fighter II - The New Challengers (Japan)/Super Street Fighter II - The New Challengers (Japan).json
+file: Other/Sega Genesis/Super Street Fighter II - The New Challengers (Japan)/Super Street Fighter II - The New Challengers (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Fighting;2D
@@ -4332,7 +4332,7 @@ x-co-op: No
 
 
 game: Super Thunder Blade (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Super Thunder Blade (World)/Super Thunder Blade (World).json
+file: Other/Sega Genesis/Super Thunder Blade (World)/Super Thunder Blade (World).json
 developer: Sega R&D2
 publisher: Sega
 genre: Shooter
@@ -4352,7 +4352,7 @@ x-co-op: No
 
 
 game: Sword of Vermilion (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Sword of Vermilion (USA, Europe)/Sword of Vermilion (USA, Europe).json
+file: Other/Sega Genesis/Sword of Vermilion (USA, Europe)/Sword of Vermilion (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -4384,7 +4384,7 @@ x-co-op: No
 
 
 game: Syd of Valis (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Syd of Valis (USA)/Syd of Valis (USA).json
+file: Other/Sega Genesis/Syd of Valis (USA)/Syd of Valis (USA).json
 developer: ISC
 publisher: Renovation Products, Inc.
 genre: Action;Platform
@@ -4413,7 +4413,7 @@ x-co-op: No
 
 
 game: Tanglewood (World) (Demo) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Tanglewood (World) (Demo) (Unl)/Tanglewood (World) (Demo) (Unl).json
+file: Other/Sega Genesis/Tanglewood (World) (Demo) (Unl)/Tanglewood (World) (Demo) (Unl).json
 developer: Big Evil Corporation
 publisher: Big Evil Corporation
 genre: Platform;Puzzle
@@ -4440,7 +4440,7 @@ x-co-op: No
 
 
 game: Tanglewood (World) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Tanglewood (World) (Unl)/Tanglewood (World) (Unl).json
+file: Other/Sega Genesis/Tanglewood (World) (Unl)/Tanglewood (World) (Unl).json
 developer: Big Evil Corporation
 publisher: Big Evil Corporation
 genre: Platform;Puzzle
@@ -4467,7 +4467,7 @@ x-co-op: No
 
 
 game: Tatsujin ~ Truxton (World)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Tatsujin ~ Truxton (World)/Tatsujin ~ Truxton (World).json
+file: Other/Sega Genesis/Tatsujin ~ Truxton (World)/Tatsujin ~ Truxton (World).json
 developer: Toaplan
 publisher: Midway
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -4494,7 +4494,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).json
+file: Other/Sega Genesis/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)/Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Beat-'Em-Up;2D
@@ -4516,7 +4516,7 @@ x-co-op: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Tournament Fighters (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
+file: Other/Sega Genesis/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Fighting;2D
@@ -4542,7 +4542,7 @@ x-co-op: No
 
 
 game: Tetris (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Tetris (Japan)/Tetris (Japan).json
+file: Other/Sega Genesis/Tetris (Japan)/Tetris (Japan).json
 developer: Sanritsu
 publisher: Sega
 genre: Puzzle
@@ -4560,7 +4560,7 @@ x-co-op: No
 
 
 game: Thunder Force III (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Thunder Force III (Japan, USA)/Thunder Force III (Japan, USA).json
+file: Other/Sega Genesis/Thunder Force III (Japan, USA)/Thunder Force III (Japan, USA).json
 developer: TechnoSoft
 publisher: Technosoft
 genre: Shooter
@@ -4582,7 +4582,7 @@ x-co-op: No
 
 
 game: ToeJam & Earl (Japan, Europe) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/ToeJam & Earl (Japan, Europe) (Rev A)/ToeJam & Earl (Japan, Europe) (Rev A).json
+file: Other/Sega Genesis/ToeJam & Earl (Japan, Europe) (Rev A)/ToeJam & Earl (Japan, Europe) (Rev A).json
 developer: Johnson Voorsanger Productions
 publisher: Sega
 genre: Action
@@ -4610,7 +4610,7 @@ x-co-op: Yes
 
 
 game: ToeJam & Earl (USA, Europe, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/ToeJam & Earl (USA, Europe, Korea)/ToeJam & Earl (USA, Europe, Korea).json
+file: Other/Sega Genesis/ToeJam & Earl (USA, Europe, Korea)/ToeJam & Earl (USA, Europe, Korea).json
 developer: Johnson Voorsanger Productions
 publisher: Sega
 genre: Action
@@ -4639,7 +4639,7 @@ x-co-op: Yes
 
 
 game: ToeJam & Earl in Panic on Funkotron (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/ToeJam & Earl in Panic on Funkotron (USA)/ToeJam & Earl in Panic on Funkotron (USA).json
+file: Other/Sega Genesis/ToeJam & Earl in Panic on Funkotron (USA)/ToeJam & Earl in Panic on Funkotron (USA).json
 developer: Johnson Voorsanger Productions
 publisher: Sega
 genre: Action;Platform
@@ -4662,7 +4662,7 @@ x-co-op: Yes
 
 
 game: Toki no Keishousha - Phantasy Star III (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Toki no Keishousha - Phantasy Star III (Japan)/Toki no Keishousha - Phantasy Star III (Japan).json
+file: Other/Sega Genesis/Toki no Keishousha - Phantasy Star III (Japan)/Toki no Keishousha - Phantasy Star III (Japan).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -4690,7 +4690,7 @@ x-co-op: No
 
 
 game: Valis (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Valis (USA)/Valis (USA).json
+file: Other/Sega Genesis/Valis (USA)/Valis (USA).json
 developer: Riot
 publisher: Renovation Products, Inc.
 genre: Action
@@ -4719,7 +4719,7 @@ x-co-op: No
 
 
 game: Vampire Killer (Japan) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Vampire Killer (Japan) (Castlevania Anniversary Collection)/Vampire Killer (Japan) (Castlevania Anniversary Collection).json
+file: Other/Sega Genesis/Vampire Killer (Japan) (Castlevania Anniversary Collection)/Vampire Killer (Japan) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Horror;Platform;Beat 'em Up
@@ -4748,7 +4748,7 @@ x-co-op: No
 
 
 game: Vectorman (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Vectorman (USA, Europe)/Vectorman (USA, Europe).json
+file: Other/Sega Genesis/Vectorman (USA, Europe)/Vectorman (USA, Europe).json
 developer: BlueSky Software
 publisher: Sega
 genre: Action;Platform
@@ -4777,7 +4777,7 @@ x-co-op: No
 
 
 game: Vectorman 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Vectorman 2 (USA)/Vectorman 2 (USA).json
+file: Other/Sega Genesis/Vectorman 2 (USA)/Vectorman 2 (USA).json
 developer: BlueSky Software
 publisher: Sega
 genre: Action;Platform
@@ -4798,7 +4798,7 @@ x-co-op: No
 
 
 game: Viewpoint (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Viewpoint (USA)/Viewpoint (USA).json
+file: Other/Sega Genesis/Viewpoint (USA)/Viewpoint (USA).json
 developer: Sammy Studios
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -4821,7 +4821,7 @@ x-co-op: No
 
 
 game: Virtua Fighter 2 (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Virtua Fighter 2 (USA, Europe)/Virtua Fighter 2 (USA, Europe).json
+file: Other/Sega Genesis/Virtua Fighter 2 (USA, Europe)/Virtua Fighter 2 (USA, Europe).json
 developer: Gaibrain
 publisher: Sega
 genre: Fighting
@@ -4841,7 +4841,7 @@ x-co-op: Yes
 
 
 game: Virtua Racing (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Virtua Racing (USA)/Virtua Racing (USA).json
+file: Other/Sega Genesis/Virtua Racing (USA)/Virtua Racing (USA).json
 developer: Sega
 publisher: Sega
 genre: Racing
@@ -4868,7 +4868,7 @@ x-co-op: No
 
 
 game: Virtual Pinball (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Virtual Pinball (USA, Europe)/Virtual Pinball (USA, Europe).json
+file: Other/Sega Genesis/Virtual Pinball (USA, Europe)/Virtual Pinball (USA, Europe).json
 developer: BudgeCo
 publisher: Electronic Arts
 genre: Action
@@ -4888,7 +4888,7 @@ x-co-op: No
 
 
 game: Warsong (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Warsong (USA)/Warsong (USA).json
+file: Other/Sega Genesis/Warsong (USA)/Warsong (USA).json
 developer: NCS
 publisher: Treco
 genre: Strategy;Turn-Based;Tactics
@@ -4913,7 +4913,7 @@ x-co-op: No
 
 
 game: Wonder Boy III - Monster Lair (Japan, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Wonder Boy III - Monster Lair (Japan, Europe)/Wonder Boy III - Monster Lair (Japan, Europe).json
+file: Other/Sega Genesis/Wonder Boy III - Monster Lair (Japan, Europe)/Wonder Boy III - Monster Lair (Japan, Europe).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -4936,7 +4936,7 @@ x-co-op: Yes
 
 
 game: Wonder Boy V - Monster World III (Japan, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Wonder Boy V - Monster World III (Japan, Korea)/Wonder Boy V - Monster World III (Japan, Korea).json
+file: Other/Sega Genesis/Wonder Boy V - Monster World III (Japan, Korea)/Wonder Boy V - Monster World III (Japan, Korea).json
 developer: Westone
 publisher: Sega
 genre: Action;Platform;Role-Playing
@@ -4956,7 +4956,7 @@ x-co-op: No
 
 
 game: Wonder Boy in Monster World (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Wonder Boy in Monster World (USA, Europe)/Wonder Boy in Monster World (USA, Europe).json
+file: Other/Sega Genesis/Wonder Boy in Monster World (USA, Europe)/Wonder Boy in Monster World (USA, Europe).json
 developer: Westone
 publisher: Sega
 genre: Action;Platform;Role-Playing
@@ -4977,7 +4977,7 @@ x-co-op: No
 
 
 game: World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea)/World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea).json
+file: Other/Sega Genesis/World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea)/World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -5003,7 +5003,7 @@ x-co-op: Yes
 
 
 game: Wrestle War (Japan, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Wrestle War (Japan, Europe)/Wrestle War (Japan, Europe).json
+file: Other/Sega Genesis/Wrestle War (Japan, Europe)/Wrestle War (Japan, Europe).json
 developer: SIMS
 publisher: Sega
 genre: Sports
@@ -5033,7 +5033,7 @@ x-co-op: No
 
 
 game: X-Men (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/X-Men (USA)/X-Men (USA).json
+file: Other/Sega Genesis/X-Men (USA)/X-Men (USA).json
 developer: Western Technologies Inc.
 publisher: Sega
 genre: Action;Platform
@@ -5057,7 +5057,7 @@ x-co-op: Yes
 
 
 game: X-Men 2 - Clone Wars (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/X-Men 2 - Clone Wars (USA, Europe)/X-Men 2 - Clone Wars (USA, Europe).json
+file: Other/Sega Genesis/X-Men 2 - Clone Wars (USA, Europe)/X-Men 2 - Clone Wars (USA, Europe).json
 developer: Headgames
 publisher: Sega
 genre: Action;Platform
@@ -5082,7 +5082,7 @@ x-co-op: Yes
 
 
 game: Zero Tolerance (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Zero Tolerance (USA, Europe)/Zero Tolerance (USA, Europe).json
+file: Other/Sega Genesis/Zero Tolerance (USA, Europe)/Zero Tolerance (USA, Europe).json
 developer: Technopop
 publisher: Accolade
 genre: Shooter
@@ -5108,7 +5108,7 @@ x-co-op: No
 
 
 game: Zoop (USA)
-file: $ROM_JSON_ROOT/Other/Sega Genesis/Zoop (USA)/Zoop (USA).json
+file: Other/Sega Genesis/Zoop (USA)/Zoop (USA).json
 developer: PanelComp
 publisher: Viacom New Media
 genre: Puzzle

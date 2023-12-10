@@ -1,9 +1,9 @@
 collection: Sony PlayStation Network - PlayStation Vita
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sony PlayStation Network - PlayStation Vita" {file.path}
+launch: launch_rom -l "Sony PlayStation Network - PlayStation Vita" {file.path}
 
 
 game: Accel World vs. Sword Art Online (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Accel World vs. Sword Art Online (USA)/Accel World vs. Sword Art Online (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Accel World vs. Sword Art Online (USA)/Accel World vs. Sword Art Online (USA).json
 developer: ArtDink
 publisher: Bandai Namco Games
 genre: Role-Playing
@@ -34,7 +34,7 @@ x-co-op: No
 
 
 game: Adventures of Mana (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Adventures of Mana (USA)/Adventures of Mana (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Adventures of Mana (USA)/Adventures of Mana (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Action;Role-Playing
@@ -60,7 +60,7 @@ x-co-op: No
 
 
 game: Alien Shooter (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Alien Shooter (USA)/Alien Shooter (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Alien Shooter (USA)/Alien Shooter (USA).json
 developer: Sigma Team
 publisher: Sigma Team
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -80,7 +80,7 @@ x-co-op: No
 
 
 game: Best of Arcade Games (USA) (En,Fr,De,Es,It,Nl)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Best of Arcade Games (USA) (En,Fr,De,Es,It,Nl)/Best of Arcade Games (USA) (En,Fr,De,Es,It,Nl).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Best of Arcade Games (USA) (En,Fr,De,Es,It,Nl)/Best of Arcade Games (USA) (En,Fr,De,Es,It,Nl).json
 developer: DREAM ON STUDIO
 publisher: Bigben Interactive
 genre: Action;Arcade
@@ -104,7 +104,7 @@ x-co-op: No
 
 
 game: Best of Board Games (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Best of Board Games (USA) (En,Fr,Es)/Best of Board Games (USA) (En,Fr,Es).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Best of Board Games (USA) (En,Fr,Es)/Best of Board Games (USA) (En,Fr,Es).json
 developer: Bigben Interactive
 publisher: Bigben Interactive
 genre: Miscellaneous;Board / Card Game
@@ -129,7 +129,7 @@ x-co-op: No
 
 
 game: BreakQuest - Extra Evolution (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/BreakQuest - Extra Evolution (USA)/BreakQuest - Extra Evolution (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/BreakQuest - Extra Evolution (USA)/BreakQuest - Extra Evolution (USA).json
 developer: Beatshapers
 publisher: Beatshapers
 genre: Puzzle;General
@@ -155,7 +155,7 @@ x-co-op: No
 
 
 game: Chronovolt (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Chronovolt (USA)/Chronovolt (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Chronovolt (USA)/Chronovolt (USA).json
 developer: Playerthree
 publisher: Playerthree
 genre: Action;Puzzle
@@ -171,7 +171,7 @@ x-co-op: No
 
 
 game: Cliff Diving (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Cliff Diving (USA) (En,Fr,Es)/Cliff Diving (USA) (En,Fr,Es).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Cliff Diving (USA) (En,Fr,Es)/Cliff Diving (USA) (En,Fr,Es).json
 developer: Studio Liverpool
 publisher: SCEA
 genre: Sports;Individual;Other
@@ -197,7 +197,7 @@ x-co-op: No
 
 
 game: Crazy Market (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Crazy Market (USA)/Crazy Market (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Crazy Market (USA)/Crazy Market (USA).json
 developer: The Game Atelier
 publisher: The Game Atelier
 genre: Puzzle;Action
@@ -223,7 +223,7 @@ x-co-op: No
 
 
 game: Dead Nation (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Dead Nation (USA) (En,Fr,Es,Pt)/Dead Nation (USA) (En,Fr,Es,Pt).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Dead Nation (USA) (En,Fr,Es,Pt)/Dead Nation (USA) (En,Fr,Es,Pt).json
 developer: House Marque, Climax Studios
 publisher: Sony Computer Entertainment
 genre: Shooter
@@ -249,7 +249,7 @@ x-co-op: No
 
 
 game: Deception IV - The Nightmare Princess (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Deception IV - The Nightmare Princess (USA)/Deception IV - The Nightmare Princess (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Deception IV - The Nightmare Princess (USA)/Deception IV - The Nightmare Princess (USA).json
 developer: Koei Tecmo Games
 publisher: Koei Tecmo Games
 genre: Role-Playing;Strategy
@@ -273,7 +273,7 @@ x-co-op: No
 
 
 game: Desert Ashes (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Desert Ashes (USA)/Desert Ashes (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Desert Ashes (USA)/Desert Ashes (USA).json
 developer: Nine Tales Digital
 publisher: Nine Tales Digital
 genre: Strategy;Turn-Based;General
@@ -309,7 +309,7 @@ x-co-op: No
 
 
 game: Doki-Doki Universe (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Doki-Doki Universe (USA)/Doki-Doki Universe (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Doki-Doki Universe (USA)/Doki-Doki Universe (USA).json
 developer: HumaNature Studios
 publisher: Sears
 genre: Adventure;Sports
@@ -333,7 +333,7 @@ x-co-op: No
 
 
 game: Dustforce (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Dustforce (USA) (En,Fr,De,Es,It)/Dustforce (USA) (En,Fr,De,Es,It).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Dustforce (USA) (En,Fr,De,Es,It)/Dustforce (USA) (En,Fr,De,Es,It).json
 developer: Hitbox Team
 publisher: Digerati Distribution
 genre: Action;Platform
@@ -352,7 +352,7 @@ x-co-op: No
 
 
 game: Fat Princess - Piece of Cake (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Fat Princess - Piece of Cake (USA) (En,Fr,Es,Pt)/Fat Princess - Piece of Cake (USA) (En,Fr,Es,Pt).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Fat Princess - Piece of Cake (USA) (En,Fr,Es,Pt)/Fat Princess - Piece of Cake (USA) (En,Fr,Es,Pt).json
 developer: One Loop Games
 publisher: PlayStation Mobile Inc.
 genre: Puzzle
@@ -373,7 +373,7 @@ x-co-op: No
 
 
 game: Frobisher Says! (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Frobisher Says! (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)/Frobisher Says! (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Frobisher Says! (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru)/Frobisher Says! (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru).json
 developer: Honeyslug Ltd
 publisher: SCEA
 genre: Miscellaneous;General
@@ -401,7 +401,7 @@ x-co-op: No
 
 
 game: Grim Fandango Remastered (USA) (En,Fr,De,Es,It,Pt)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Grim Fandango Remastered (USA) (En,Fr,De,Es,It,Pt)/Grim Fandango Remastered (USA) (En,Fr,De,Es,It,Pt).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Grim Fandango Remastered (USA) (En,Fr,De,Es,It,Pt)/Grim Fandango Remastered (USA) (En,Fr,De,Es,It,Pt).json
 developer: Double Fine Productions, Inc.
 publisher: Double Fine Productions, Inc.
 genre: Adventure
@@ -429,7 +429,7 @@ x-co-op: No
 
 
 game: Helldivers (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Helldivers (USA)/Helldivers (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Helldivers (USA)/Helldivers (USA).json
 developer: Arrowhead Game Studios
 publisher: SCEI
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -454,7 +454,7 @@ x-co-op: No
 
 
 game: Imaginstruments (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Imaginstruments (USA) (En,Fr,Es,Pt)/Imaginstruments (USA) (En,Fr,Es,Pt).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Imaginstruments (USA) (En,Fr,Es,Pt)/Imaginstruments (USA) (En,Fr,Es,Pt).json
 developer: Catalyst Coders
 publisher: SCEA
 genre: Music
@@ -470,7 +470,7 @@ x-co-op: No
 
 
 game: Need a packet (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Need a packet (USA)/Need a packet (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Need a packet (USA)/Need a packet (USA).json
 developer: Sometimes You
 publisher: Marginal act
 genre: Life Simulation
@@ -495,7 +495,7 @@ x-co-op: No
 
 
 game: NekoBuro - Cats Block (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/NekoBuro - Cats Block (USA)/NekoBuro - Cats Block (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/NekoBuro - Cats Block (USA)/NekoBuro - Cats Block (USA).json
 developer: Arc System Works
 publisher: Arc System Works
 genre: Puzzle;Matching
@@ -512,7 +512,7 @@ x-co-op: No
 
 
 game: No Heroes Allowed - No Puzzles Either! (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/No Heroes Allowed - No Puzzles Either! (USA)/No Heroes Allowed - No Puzzles Either! (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/No Heroes Allowed - No Puzzles Either! (USA)/No Heroes Allowed - No Puzzles Either! (USA).json
 developer: Sony Computer Entertainment
 publisher: SCEA
 genre: Puzzle
@@ -529,7 +529,7 @@ x-co-op: No
 
 
 game: Oreshika - Tainted Bloodlines (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Oreshika - Tainted Bloodlines (USA)/Oreshika - Tainted Bloodlines (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Oreshika - Tainted Bloodlines (USA)/Oreshika - Tainted Bloodlines (USA).json
 developer: Alfa System
 publisher: Sony Interactive Entertainment
 genre: Role-Playing
@@ -547,7 +547,7 @@ x-co-op: No
 
 
 game: Paint Park Plus (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Paint Park Plus (USA)/Paint Park Plus (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Paint Park Plus (USA)/Paint Park Plus (USA).json
 developer: SCEE
 publisher: SCEA
 genre: Miscellaneous;Application
@@ -564,7 +564,7 @@ x-co-op: No
 
 
 game: PlayStation All-Stars Battle Royale (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/PlayStation All-Stars Battle Royale (USA)/PlayStation All-Stars Battle Royale (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/PlayStation All-Stars Battle Royale (USA)/PlayStation All-Stars Battle Royale (USA).json
 developer: Superbot Entertainment
 publisher: Sony Computer Entertainment America
 genre: Fighting
@@ -586,7 +586,7 @@ x-co-op: Yes
 
 
 game: PlayStation Home Arcade (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/PlayStation Home Arcade (USA)/PlayStation Home Arcade (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/PlayStation Home Arcade (USA)/PlayStation Home Arcade (USA).json
 developer: SCEA
 publisher: SCEA
 genre: Miscellaneous;Compilation
@@ -616,7 +616,7 @@ x-co-op: No
 
 
 game: Rainbow Moon (USA) (Compatible with DLC)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Rainbow Moon (USA) (Compatible with DLC)/Rainbow Moon (USA) (Compatible with DLC).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Rainbow Moon (USA) (Compatible with DLC)/Rainbow Moon (USA) (Compatible with DLC).json
 developer: SideQuest Studios
 publisher: eastasiasoft
 genre: Role-Playing;Strategy
@@ -648,7 +648,7 @@ x-co-op: No
 
 
 game: Resistance - Burning Skies - Augmented Reality Monument Viewer (USA) (En,Fr)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Resistance - Burning Skies - Augmented Reality Monument Viewer (USA) (En,Fr)/Resistance - Burning Skies - Augmented Reality Monument Viewer (USA) (En,Fr).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Resistance - Burning Skies - Augmented Reality Monument Viewer (USA) (En,Fr)/Resistance - Burning Skies - Augmented Reality Monument Viewer (USA) (En,Fr).json
 developer: Nihilistic
 publisher: SCEA
 genre: Action;Shooter;First-Person;Arcade
@@ -668,7 +668,7 @@ x-co-op: No
 
 
 game: Run Sackboy! Run! (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Run Sackboy! Run! (USA) (En,Fr,Es,Pt)/Run Sackboy! Run! (USA) (En,Fr,Es,Pt).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Run Sackboy! Run! (USA) (En,Fr,Es,Pt)/Run Sackboy! Run! (USA) (En,Fr,Es,Pt).json
 developer: Firesprite
 publisher: Sony Computer Entertainment Europe
 genre: Platform
@@ -715,7 +715,7 @@ x-co-op: No
 
 
 game: Senran Kagura - Estival Versus (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Senran Kagura - Estival Versus (USA)/Senran Kagura - Estival Versus (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Senran Kagura - Estival Versus (USA)/Senran Kagura - Estival Versus (USA).json
 developer: Tamsoft
 publisher: Xseed Games
 genre: Action;Fighting
@@ -736,7 +736,7 @@ x-co-op: No
 
 
 game: Senran Kagura - Shinovi Versus (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Senran Kagura - Shinovi Versus (USA)/Senran Kagura - Shinovi Versus (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Senran Kagura - Shinovi Versus (USA)/Senran Kagura - Shinovi Versus (USA).json
 developer: Tamsoft
 publisher: Xseed Games
 genre: Action;Fighting
@@ -762,7 +762,7 @@ x-co-op: No
 
 
 game: Sword Art Online - Hollow Fragment (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Sword Art Online - Hollow Fragment (USA)/Sword Art Online - Hollow Fragment (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Sword Art Online - Hollow Fragment (USA)/Sword Art Online - Hollow Fragment (USA).json
 developer: Aquria
 publisher: Bandai Namco Games
 genre: Action
@@ -794,7 +794,7 @@ x-co-op: Yes
 
 
 game: Sword Art Online - Hollow Realization (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Sword Art Online - Hollow Realization (USA)/Sword Art Online - Hollow Realization (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Sword Art Online - Hollow Realization (USA)/Sword Art Online - Hollow Realization (USA).json
 developer: Aquria Inc.
 publisher: Bandai Namco Games
 genre: Action;Role-Playing
@@ -824,7 +824,7 @@ x-co-op: No
 
 
 game: Treasures of Montezuma Blitz (USA) (En,Es,Pt)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Treasures of Montezuma Blitz (USA) (En,Es,Pt)/Treasures of Montezuma Blitz (USA) (En,Es,Pt).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Treasures of Montezuma Blitz (USA) (En,Es,Pt)/Treasures of Montezuma Blitz (USA) (En,Es,Pt).json
 developer: Alawar Entertainment
 publisher: Alawar Entertainment
 genre: Puzzle;Matching
@@ -844,7 +844,7 @@ x-co-op: No
 
 
 game: TxK (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/TxK (USA)/TxK (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/TxK (USA)/TxK (USA).json
 developer: Jeff Minter
 publisher: Llamasoft Ltd.
 genre: Action;Shooter
@@ -879,7 +879,7 @@ x-co-op: No
 
 
 game: Vitamin Z (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Vitamin Z (USA)/Vitamin Z (USA).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Vitamin Z (USA)/Vitamin Z (USA).json
 developer: Namazu Studios
 publisher: Namazu Studios
 genre: Action
@@ -896,7 +896,7 @@ x-co-op: No
 
 
 game: Zen Pinball 2 (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation Vita/Zen Pinball 2 (USA) (En,Fr,De,Es,It)/Zen Pinball 2 (USA) (En,Fr,De,Es,It).json
+file: Sony/Sony PlayStation Network - PlayStation Vita/Zen Pinball 2 (USA) (En,Fr,De,Es,It)/Zen Pinball 2 (USA) (En,Fr,De,Es,It).json
 developer: Zen Studios
 publisher: Zen Studios
 genre: Action

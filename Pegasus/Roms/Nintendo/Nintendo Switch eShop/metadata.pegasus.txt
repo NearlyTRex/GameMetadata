@@ -1,9 +1,9 @@
 collection: Nintendo Switch eShop
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Switch eShop" {file.path}
+launch: launch_rom -l "Nintendo Switch eShop" {file.path}
 
 
 game: Bad Dream - Coma (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Bad Dream - Coma (World) (eShop)/Bad Dream - Coma (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Bad Dream - Coma (World) (eShop)/Bad Dream - Coma (World) (eShop).json
 developer: Desert Fox
 publisher: PlayWay
 genre: Adventure;Point-and-Click
@@ -25,7 +25,7 @@ x-co-op: No
 
 
 game: Bad Dream - Fever (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Bad Dream - Fever (World) (eShop)/Bad Dream - Fever (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Bad Dream - Fever (World) (eShop)/Bad Dream - Fever (World) (eShop).json
 developer: Desert Fox
 publisher: PlayWay
 genre: Adventure;Point-and-Click
@@ -50,7 +50,7 @@ x-co-op: No
 
 
 game: Baldur's Gate and Baldur's Gate II - Enhanced Editions (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Baldur's Gate and Baldur's Gate II - Enhanced Editions (World) (eShop)/Baldur's Gate and Baldur's Gate II - Enhanced Editions (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Baldur's Gate and Baldur's Gate II - Enhanced Editions (World) (eShop)/Baldur's Gate and Baldur's Gate II - Enhanced Editions (World) (eShop).json
 developer: Beamdog
 publisher: Beamdog
 genre: Adventure;Role-Playing
@@ -79,7 +79,7 @@ x-co-op: Yes
 
 
 game: Capcom Arcade 2nd Stadium (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Capcom Arcade 2nd Stadium (World) (eShop)/Capcom Arcade 2nd Stadium (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Capcom Arcade 2nd Stadium (World) (eShop)/Capcom Arcade 2nd Stadium (World) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -105,7 +105,7 @@ x-co-op: No
 
 
 game: Capcom Arcade Stadium (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Capcom Arcade Stadium (World) (eShop)/Capcom Arcade Stadium (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Capcom Arcade Stadium (World) (eShop)/Capcom Arcade Stadium (World) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -136,7 +136,7 @@ x-co-op: No
 
 
 game: Capcom Beat 'Em Up Bundle (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Capcom Beat 'Em Up Bundle (World) (eShop)/Capcom Beat 'Em Up Bundle (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Capcom Beat 'Em Up Bundle (World) (eShop)/Capcom Beat 'Em Up Bundle (World) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -166,7 +166,7 @@ x-co-op: No
 
 
 game: Cat Quest 2 (USA, Europe) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Cat Quest 2 (USA, Europe) (eShop)/Cat Quest 2 (USA, Europe) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Cat Quest 2 (USA, Europe) (eShop)/Cat Quest 2 (USA, Europe) (eShop).json
 developer: The Gentlebros
 publisher: PQube
 genre: Action;Adventure
@@ -211,7 +211,7 @@ x-co-op: No
 
 
 game: Coma 2, The - Vicious Sisters (USA, Europe) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Coma 2, The - Vicious Sisters (USA, Europe) (eShop)/Coma 2, The - Vicious Sisters (USA, Europe) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Coma 2, The - Vicious Sisters (USA, Europe) (eShop)/Coma 2, The - Vicious Sisters (USA, Europe) (eShop).json
 developer: Devespresso Games
 publisher: Digerati Distribution
 genre: Action Adventure;Survival
@@ -248,7 +248,7 @@ x-co-op: No
 
 
 game: Diablo II - Resurrected (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Diablo II - Resurrected (World) (eShop)/Diablo II - Resurrected (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Diablo II - Resurrected (World) (eShop)/Diablo II - Resurrected (World) (eShop).json
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
 genre: Role-Playing;Action RPG
@@ -270,7 +270,7 @@ x-co-op: No
 
 
 game: Draw a Stickman - EPIC (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Draw a Stickman - EPIC (World) (eShop)/Draw a Stickman - EPIC (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Draw a Stickman - EPIC (World) (eShop)/Draw a Stickman - EPIC (World) (eShop).json
 developer: Hitcents
 publisher: Hitcents
 genre: Puzzle;Action
@@ -303,7 +303,7 @@ x-co-op: No
 
 
 game: Draw a Stickman - EPIC 2 (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Draw a Stickman - EPIC 2 (World) (eShop)/Draw a Stickman - EPIC 2 (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Draw a Stickman - EPIC 2 (World) (eShop)/Draw a Stickman - EPIC 2 (World) (eShop).json
 developer: Hitcents
 publisher: Hitcents
 genre: Miscellaneous;Edutainment
@@ -367,7 +367,7 @@ x-co-op: No
 
 
 game: Goat Simulator - The GOATY (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Goat Simulator - The GOATY (World) (eShop)/Goat Simulator - The GOATY (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Goat Simulator - The GOATY (World) (eShop)/Goat Simulator - The GOATY (World) (eShop).json
 developer: Coffee Stain Studios
 publisher: Coffee Stain Publishing
 genre: Action;Adventure
@@ -393,7 +393,7 @@ x-co-op: Yes
 
 
 game: Jump Rope Challenge (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Jump Rope Challenge (World) (eShop)/Jump Rope Challenge (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Jump Rope Challenge (World) (eShop)/Jump Rope Challenge (World) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Miscellaneous;Exercise / Fitness
@@ -427,7 +427,7 @@ x-co-op: No
 
 
 game: Mega Man Battle & Fighters (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Mega Man Battle & Fighters (World) (eShop)/Mega Man Battle & Fighters (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Mega Man Battle & Fighters (World) (eShop)/Mega Man Battle & Fighters (World) (eShop).json
 developer: Capcom
 publisher: SNK Corporation
 genre: Action;General
@@ -455,7 +455,7 @@ x-co-op: No
 
 
 game: Neverwinter Nights - Enhanced Edition (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Neverwinter Nights - Enhanced Edition (World) (eShop)/Neverwinter Nights - Enhanced Edition (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Neverwinter Nights - Enhanced Edition (World) (eShop)/Neverwinter Nights - Enhanced Edition (World) (eShop).json
 developer: Beamdog
 publisher: Beamdog
 genre: Adventure;Role-Playing
@@ -474,7 +474,7 @@ x-co-op: Yes
 
 
 game: Planescape - Torment and Icewind Dale - Enhanced Editions (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Planescape - Torment and Icewind Dale - Enhanced Editions (World) (eShop)/Planescape - Torment and Icewind Dale - Enhanced Editions (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Planescape - Torment and Icewind Dale - Enhanced Editions (World) (eShop)/Planescape - Torment and Icewind Dale - Enhanced Editions (World) (eShop).json
 developer: Beamdog
 publisher: Beamdog
 genre: Adventure;Role-Playing
@@ -503,7 +503,7 @@ x-co-op: No
 
 
 game: SNK 40th Anniversary Collection (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/SNK 40th Anniversary Collection (World) (eShop)/SNK 40th Anniversary Collection (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/SNK 40th Anniversary Collection (World) (eShop)/SNK 40th Anniversary Collection (World) (eShop).json
 developer: Digital Eclipse
 publisher: NIS America
 genre: Miscellaneous;Compilation
@@ -537,7 +537,7 @@ x-co-op: No
 
 
 game: Sea of Stars (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Sea of Stars (World) (eShop)/Sea of Stars (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Sea of Stars (World) (eShop)/Sea of Stars (World) (eShop).json
 developer: Sabotage Studio
 publisher: Sabotage Studio
 genre: Role-Playing;Japanese-Style
@@ -571,7 +571,7 @@ x-co-op: No
 
 
 game: Sinking City, The (World) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Sinking City, The (World) (eShop)/Sinking City, The (World) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Sinking City, The (World) (eShop)/Sinking City, The (World) (eShop).json
 developer: Frogwares
 publisher: Frogwares
 genre: Action;Adventure
@@ -605,7 +605,7 @@ x-co-op: No
 
 
 game: Star Ocean - First Departure R (USA, Europe) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch eShop/Star Ocean - First Departure R (USA, Europe) (eShop)/Star Ocean - First Departure R (USA, Europe) (eShop).json
+file: Nintendo/Nintendo Switch eShop/Star Ocean - First Departure R (USA, Europe) (eShop)/Star Ocean - First Departure R (USA, Europe) (eShop).json
 players: 1
 assets.boxfront: BoxFront/Star Ocean - First Departure R (USA, Europe) (eShop).jpg
 assets.boxback: BoxBack/Star Ocean - First Departure R (USA, Europe) (eShop).jpg

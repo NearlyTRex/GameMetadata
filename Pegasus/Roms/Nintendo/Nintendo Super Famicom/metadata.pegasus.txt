@@ -1,9 +1,9 @@
 collection: Nintendo Super Famicom
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Super Famicom" {file.path}
+launch: launch_rom -l "Nintendo Super Famicom" {file.path}
 
 
 game: Akumajou Dracula (Japan) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Akumajou Dracula (Japan) (Castlevania Anniversary Collection)/Akumajou Dracula (Japan) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Super Famicom/Akumajou Dracula (Japan) (Castlevania Anniversary Collection)/Akumajou Dracula (Japan) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -39,7 +39,7 @@ x-co-op: No
 
 
 game: Bahamut Lagoon (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Bahamut Lagoon (Japan)/Bahamut Lagoon (Japan).json
+file: Nintendo/Nintendo Super Famicom/Bahamut Lagoon (Japan)/Bahamut Lagoon (Japan).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Role-Playing;Strategy
@@ -91,7 +91,7 @@ x-co-op: No
 
 
 game: Bahamut Lagoon (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Bahamut Lagoon (Japan) (English Patch)/Bahamut Lagoon (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Bahamut Lagoon (Japan) (English Patch)/Bahamut Lagoon (Japan) (English Patch).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Role-Playing;Strategy
@@ -144,7 +144,7 @@ x-co-op: No
 
 
 game: Chou Mahou Tairiku Wozz (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Chou Mahou Tairiku Wozz (Japan)/Chou Mahou Tairiku Wozz (Japan).json
+file: Nintendo/Nintendo Super Famicom/Chou Mahou Tairiku Wozz (Japan)/Chou Mahou Tairiku Wozz (Japan).json
 developer: Red Entertainment
 publisher: Bullet-Proof Software
 genre: Role-Playing
@@ -174,7 +174,7 @@ x-co-op: No
 
 
 game: Chou Mahou Tairiku Wozz (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Chou Mahou Tairiku Wozz (Japan) (English Patch)/Chou Mahou Tairiku Wozz (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Chou Mahou Tairiku Wozz (Japan) (English Patch)/Chou Mahou Tairiku Wozz (Japan) (English Patch).json
 developer: Red Entertainment
 publisher: Bullet-Proof Software
 genre: Role-Playing
@@ -205,7 +205,7 @@ x-co-op: No
 
 
 game: Chrono Trigger (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Chrono Trigger (Japan)/Chrono Trigger (Japan).json
+file: Nintendo/Nintendo Super Famicom/Chrono Trigger (Japan)/Chrono Trigger (Japan).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Role-Playing
@@ -228,7 +228,7 @@ x-co-op: No
 
 
 game: Contra Spirits (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Contra Spirits (World) (Contra Anniversary Collection)/Contra Spirits (World) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo Super Famicom/Contra Spirits (World) (Contra Anniversary Collection)/Contra Spirits (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -259,7 +259,7 @@ x-co-op: Yes
 
 
 game: Cyber Knight (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Cyber Knight (Japan)/Cyber Knight (Japan).json
+file: Nintendo/Nintendo Super Famicom/Cyber Knight (Japan)/Cyber Knight (Japan).json
 developer: Advance Communication Company
 publisher: Tonkin House
 genre: Role-Playing
@@ -311,7 +311,7 @@ x-co-op: No
 
 
 game: Cyber Knight (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Cyber Knight (Japan) (English Patch)/Cyber Knight (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Cyber Knight (Japan) (English Patch)/Cyber Knight (Japan) (English Patch).json
 developer: Advance Communication Company
 publisher: Tonkin House
 genre: Role-Playing
@@ -364,7 +364,7 @@ x-co-op: No
 
 
 game: Cyber Knight (Japan) (English+Easy Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Cyber Knight (Japan) (English+Easy Patch)/Cyber Knight (Japan) (English+Easy Patch).json
+file: Nintendo/Nintendo Super Famicom/Cyber Knight (Japan) (English+Easy Patch)/Cyber Knight (Japan) (English+Easy Patch).json
 developer: Advance Communication Company
 publisher: Tonkin House
 genre: Role-Playing
@@ -417,7 +417,7 @@ x-co-op: No
 
 
 game: Cyber Knight II - Chikyuu Teikoku no Yabou (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan)/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan).json
+file: Nintendo/Nintendo Super Famicom/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan)/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan).json
 developer: Atelier Double
 publisher: Tonkinhouse
 genre: Role-Playing
@@ -459,7 +459,7 @@ x-co-op: No
 
 
 game: Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) (English Patch)/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) (English Patch)/Cyber Knight II - Chikyuu Teikoku no Yabou (Japan) (English Patch).json
 developer: Atelier Double
 publisher: Tonkinhouse
 genre: Role-Playing
@@ -502,7 +502,7 @@ x-co-op: No
 
 
 game: Dragon Quest I & II (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest I & II (Japan)/Dragon Quest I & II (Japan).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest I & II (Japan)/Dragon Quest I & II (Japan).json
 developer: Enix Corporation
 publisher: Enix Corporation
 genre: Role-Playing
@@ -529,7 +529,7 @@ x-co-op: No
 
 
 game: Dragon Quest I & II (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest I & II (Japan) (English Patch)/Dragon Quest I & II (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest I & II (Japan) (English Patch)/Dragon Quest I & II (Japan) (English Patch).json
 developer: Enix Corporation
 publisher: Enix Corporation
 genre: Role-Playing
@@ -557,7 +557,7 @@ x-co-op: No
 
 
 game: Dragon Quest III - Soshite Densetsu e... (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest III - Soshite Densetsu e... (Japan)/Dragon Quest III - Soshite Densetsu e... (Japan).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest III - Soshite Densetsu e... (Japan)/Dragon Quest III - Soshite Densetsu e... (Japan).json
 developer: Heart Beat
 publisher: Enix
 genre: Role-Playing
@@ -580,7 +580,7 @@ x-co-op: No
 
 
 game: Dragon Quest III - Soshite Densetsu e... (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest III - Soshite Densetsu e... (Japan) (English Patch)/Dragon Quest III - Soshite Densetsu e... (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest III - Soshite Densetsu e... (Japan) (English Patch)/Dragon Quest III - Soshite Densetsu e... (Japan) (English Patch).json
 developer: Heart Beat
 publisher: Enix
 genre: Role-Playing
@@ -604,7 +604,7 @@ x-co-op: No
 
 
 game: Dragon Quest V - Tenkuu no Hanayome (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest V - Tenkuu no Hanayome (Japan)/Dragon Quest V - Tenkuu no Hanayome (Japan).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest V - Tenkuu no Hanayome (Japan)/Dragon Quest V - Tenkuu no Hanayome (Japan).json
 developer: Chunsoft
 publisher: Enix
 genre: Role-Playing
@@ -642,7 +642,7 @@ x-co-op: No
 
 
 game: Dragon Quest V - Tenkuu no Hanayome (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest V - Tenkuu no Hanayome (Japan) (English Patch)/Dragon Quest V - Tenkuu no Hanayome (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest V - Tenkuu no Hanayome (Japan) (English Patch)/Dragon Quest V - Tenkuu no Hanayome (Japan) (English Patch).json
 developer: Chunsoft
 publisher: Enix
 genre: Role-Playing
@@ -681,7 +681,7 @@ x-co-op: No
 
 
 game: Dragon Quest VI - Maboroshi no Daichi (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest VI - Maboroshi no Daichi (Japan)/Dragon Quest VI - Maboroshi no Daichi (Japan).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest VI - Maboroshi no Daichi (Japan)/Dragon Quest VI - Maboroshi no Daichi (Japan).json
 developer: Heart Beat
 publisher: Enix
 genre: Role-Playing
@@ -711,7 +711,7 @@ x-co-op: No
 
 
 game: Dragon Quest VI - Maboroshi no Daichi (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dragon Quest VI - Maboroshi no Daichi (Japan) (English Patch)/Dragon Quest VI - Maboroshi no Daichi (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Dragon Quest VI - Maboroshi no Daichi (Japan) (English Patch)/Dragon Quest VI - Maboroshi no Daichi (Japan) (English Patch).json
 developer: Heart Beat
 publisher: Enix
 genre: Role-Playing
@@ -742,7 +742,7 @@ x-co-op: No
 
 
 game: Dual Orb - Seirei Tama Densetsu (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dual Orb - Seirei Tama Densetsu (Japan)/Dual Orb - Seirei Tama Densetsu (Japan).json
+file: Nintendo/Nintendo Super Famicom/Dual Orb - Seirei Tama Densetsu (Japan)/Dual Orb - Seirei Tama Densetsu (Japan).json
 developer: Prism Kikaku
 publisher: I'Max
 genre: Role-Playing
@@ -777,7 +777,7 @@ x-co-op: No
 
 
 game: Dual Orb II (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dual Orb II (Japan)/Dual Orb II (Japan).json
+file: Nintendo/Nintendo Super Famicom/Dual Orb II (Japan)/Dual Orb II (Japan).json
 developer: I'Max
 publisher: I'Max
 genre: Role-Playing
@@ -812,7 +812,7 @@ x-co-op: No
 
 
 game: Dual Orb II (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Dual Orb II (Japan) (English Patch)/Dual Orb II (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Dual Orb II (Japan) (English Patch)/Dual Orb II (Japan) (English Patch).json
 developer: I'Max
 publisher: I'Max
 genre: Role-Playing
@@ -848,7 +848,7 @@ x-co-op: No
 
 
 game: Emerald Dragon (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Emerald Dragon (Japan)/Emerald Dragon (Japan).json
+file: Nintendo/Nintendo Super Famicom/Emerald Dragon (Japan)/Emerald Dragon (Japan).json
 developer: Alfa System
 publisher: Media Works
 genre: Role-Playing
@@ -886,7 +886,7 @@ x-co-op: No
 
 
 game: Emerald Dragon (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Emerald Dragon (Japan) (English Patch)/Emerald Dragon (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Emerald Dragon (Japan) (English Patch)/Emerald Dragon (Japan) (English Patch).json
 developer: Alfa System
 publisher: Media Works
 genre: Role-Playing
@@ -925,7 +925,7 @@ x-co-op: No
 
 
 game: Feda - The Emblem of Justice (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Feda - The Emblem of Justice (Japan)/Feda - The Emblem of Justice (Japan).json
+file: Nintendo/Nintendo Super Famicom/Feda - The Emblem of Justice (Japan)/Feda - The Emblem of Justice (Japan).json
 developer: Max Entertainment
 publisher: Yanoman
 genre: Role-Playing;Strategy
@@ -977,7 +977,7 @@ x-co-op: No
 
 
 game: Feda - The Emblem of Justice (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Feda - The Emblem of Justice (Japan) (English Patch)/Feda - The Emblem of Justice (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Feda - The Emblem of Justice (Japan) (English Patch)/Feda - The Emblem of Justice (Japan) (English Patch).json
 developer: Max Entertainment
 publisher: Yanoman
 genre: Role-Playing;Strategy
@@ -1030,7 +1030,7 @@ x-co-op: No
 
 
 game: Live A Live (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Live A Live (Japan)/Live A Live (Japan).json
+file: Nintendo/Nintendo Super Famicom/Live A Live (Japan)/Live A Live (Japan).json
 developer: Square Co., Ltd.
 publisher: Square Co., Ltd.
 genre: Role-Playing
@@ -1053,7 +1053,7 @@ x-co-op: No
 
 
 game: Live A Live (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Live A Live (Japan) (English Patch)/Live A Live (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Live A Live (Japan) (English Patch)/Live A Live (Japan) (English Patch).json
 developer: Square Co., Ltd.
 publisher: Square Co., Ltd.
 genre: Role-Playing
@@ -1077,7 +1077,7 @@ x-co-op: No
 
 
 game: Monstania (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Monstania (Japan)/Monstania (Japan).json
+file: Nintendo/Nintendo Super Famicom/Monstania (Japan)/Monstania (Japan).json
 developer: Amccus
 publisher: Pack-In-Video
 genre: Role-Playing
@@ -1116,7 +1116,7 @@ x-co-op: No
 
 
 game: Monstania (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Monstania (Japan) (English Patch)/Monstania (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Monstania (Japan) (English Patch)/Monstania (Japan) (English Patch).json
 developer: Amccus
 publisher: Pack-In-Video
 genre: Role-Playing
@@ -1156,7 +1156,7 @@ x-co-op: No
 
 
 game: Mystic Ark (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Mystic Ark (Japan)/Mystic Ark (Japan).json
+file: Nintendo/Nintendo Super Famicom/Mystic Ark (Japan)/Mystic Ark (Japan).json
 developer: Enix
 publisher: Produce
 genre: Role-Playing
@@ -1190,7 +1190,7 @@ x-co-op: No
 
 
 game: Mystic Ark (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Mystic Ark (Japan) (English Patch)/Mystic Ark (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Mystic Ark (Japan) (English Patch)/Mystic Ark (Japan) (English Patch).json
 developer: Enix
 publisher: Produce
 genre: Role-Playing
@@ -1225,7 +1225,7 @@ x-co-op: No
 
 
 game: Nekketsu Tairiku Burning Heroes (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Nekketsu Tairiku Burning Heroes (Japan)/Nekketsu Tairiku Burning Heroes (Japan).json
+file: Nintendo/Nintendo Super Famicom/Nekketsu Tairiku Burning Heroes (Japan)/Nekketsu Tairiku Burning Heroes (Japan).json
 developer: J-Force
 publisher: Enix
 genre: Role-Playing
@@ -1263,7 +1263,7 @@ x-co-op: No
 
 
 game: Nekketsu Tairiku Burning Heroes (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Nekketsu Tairiku Burning Heroes (Japan) (English Patch)/Nekketsu Tairiku Burning Heroes (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Nekketsu Tairiku Burning Heroes (Japan) (English Patch)/Nekketsu Tairiku Burning Heroes (Japan) (English Patch).json
 developer: J-Force
 publisher: Enix
 genre: Role-Playing
@@ -1302,7 +1302,7 @@ x-co-op: No
 
 
 game: Rockman X (Japan) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Rockman X (Japan) (Rev 1)/Rockman X (Japan) (Rev 1).json
+file: Nintendo/Nintendo Super Famicom/Rockman X (Japan) (Rev 1)/Rockman X (Japan) (Rev 1).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1330,7 +1330,7 @@ x-co-op: No
 
 
 game: Rockman X2 (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Rockman X2 (Japan)/Rockman X2 (Japan).json
+file: Nintendo/Nintendo Super Famicom/Rockman X2 (Japan)/Rockman X2 (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1359,7 +1359,7 @@ x-co-op: No
 
 
 game: Rockman X3 (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Rockman X3 (Japan)/Rockman X3 (Japan).json
+file: Nintendo/Nintendo Super Famicom/Rockman X3 (Japan)/Rockman X3 (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1384,7 +1384,7 @@ x-co-op: No
 
 
 game: Rudra no Hihou (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Rudra no Hihou (Japan)/Rudra no Hihou (Japan).json
+file: Nintendo/Nintendo Super Famicom/Rudra no Hihou (Japan)/Rudra no Hihou (Japan).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -1441,7 +1441,7 @@ x-co-op: No
 
 
 game: Rudra no Hihou (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Rudra no Hihou (Japan) (English Patch)/Rudra no Hihou (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Rudra no Hihou (Japan) (English Patch)/Rudra no Hihou (Japan) (English Patch).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -1499,7 +1499,7 @@ x-co-op: No
 
 
 game: Shin Megami Tensei (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Shin Megami Tensei (Japan)/Shin Megami Tensei (Japan).json
+file: Nintendo/Nintendo Super Famicom/Shin Megami Tensei (Japan)/Shin Megami Tensei (Japan).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -1527,7 +1527,7 @@ x-co-op: No
 
 
 game: Shin Megami Tensei (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Shin Megami Tensei (Japan) (English Patch)/Shin Megami Tensei (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Shin Megami Tensei (Japan) (English Patch)/Shin Megami Tensei (Japan) (English Patch).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -1556,7 +1556,7 @@ x-co-op: No
 
 
 game: Shin Megami Tensei II (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Shin Megami Tensei II (Japan)/Shin Megami Tensei II (Japan).json
+file: Nintendo/Nintendo Super Famicom/Shin Megami Tensei II (Japan)/Shin Megami Tensei II (Japan).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -1602,7 +1602,7 @@ x-co-op: No
 
 
 game: Shin Megami Tensei II (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Shin Megami Tensei II (Japan) (English Patch)/Shin Megami Tensei II (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Shin Megami Tensei II (Japan) (English Patch)/Shin Megami Tensei II (Japan) (English Patch).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -1649,7 +1649,7 @@ x-co-op: No
 
 
 game: Silva Saga II - The Legend of Light and Darkness (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Silva Saga II - The Legend of Light and Darkness (Japan)/Silva Saga II - The Legend of Light and Darkness (Japan).json
+file: Nintendo/Nintendo Super Famicom/Silva Saga II - The Legend of Light and Darkness (Japan)/Silva Saga II - The Legend of Light and Darkness (Japan).json
 developer: SETA Corporation
 publisher: SETA Corporation
 genre: Role-Playing
@@ -1672,7 +1672,7 @@ x-co-op: No
 
 
 game: Silva Saga II - The Legend of Light and Darkness (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Silva Saga II - The Legend of Light and Darkness (Japan) (English Patch)/Silva Saga II - The Legend of Light and Darkness (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Silva Saga II - The Legend of Light and Darkness (Japan) (English Patch)/Silva Saga II - The Legend of Light and Darkness (Japan) (English Patch).json
 developer: SETA Corporation
 publisher: SETA Corporation
 genre: Role-Playing
@@ -1696,7 +1696,7 @@ x-co-op: No
 
 
 game: Super E.D.F. (Japan) (En)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Super E.D.F. (Japan) (En)/Super E.D.F. (Japan) (En).json
+file: Nintendo/Nintendo Super Famicom/Super E.D.F. (Japan) (En)/Super E.D.F. (Japan) (En).json
 developer: Jaleco
 publisher: Jaleco
 genre: Shooter
@@ -1718,7 +1718,7 @@ x-co-op: No
 
 
 game: Torneco no Daibouken - Fushigi no Dungeon (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Torneco no Daibouken - Fushigi no Dungeon (Japan)/Torneco no Daibouken - Fushigi no Dungeon (Japan).json
+file: Nintendo/Nintendo Super Famicom/Torneco no Daibouken - Fushigi no Dungeon (Japan)/Torneco no Daibouken - Fushigi no Dungeon (Japan).json
 developer: ChunSoft
 publisher: ChunSoft
 genre: Role-Playing;Roguelike
@@ -1752,7 +1752,7 @@ x-co-op: No
 
 
 game: Torneco no Daibouken - Fushigi no Dungeon (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Torneco no Daibouken - Fushigi no Dungeon (Japan) (English Patch)/Torneco no Daibouken - Fushigi no Dungeon (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Torneco no Daibouken - Fushigi no Dungeon (Japan) (English Patch)/Torneco no Daibouken - Fushigi no Dungeon (Japan) (English Patch).json
 developer: ChunSoft
 publisher: ChunSoft
 genre: Role-Playing;Roguelike
@@ -1787,7 +1787,7 @@ x-co-op: No
 
 
 game: Treasure Hunter G (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Treasure Hunter G (Japan)/Treasure Hunter G (Japan).json
+file: Nintendo/Nintendo Super Famicom/Treasure Hunter G (Japan)/Treasure Hunter G (Japan).json
 developer: Sting
 publisher: Squaresoft
 genre: Role-Playing;Strategy
@@ -1821,7 +1821,7 @@ x-co-op: No
 
 
 game: Treasure Hunter G (Japan) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Super Famicom/Treasure Hunter G (Japan) (English Patch)/Treasure Hunter G (Japan) (English Patch).json
+file: Nintendo/Nintendo Super Famicom/Treasure Hunter G (Japan) (English Patch)/Treasure Hunter G (Japan) (English Patch).json
 developer: Sting
 publisher: Squaresoft
 genre: Role-Playing;Strategy

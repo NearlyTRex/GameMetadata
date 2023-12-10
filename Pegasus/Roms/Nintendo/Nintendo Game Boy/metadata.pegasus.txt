@@ -1,9 +1,9 @@
 collection: Nintendo Game Boy
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Game Boy" {file.path}
+launch: launch_rom -l "Nintendo Game Boy" {file.path}
 
 
 game: Adventure Island (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Adventure Island (USA, Europe)/Adventure Island (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Adventure Island (USA, Europe)/Adventure Island (USA, Europe).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Platform
@@ -33,7 +33,7 @@ x-co-op: No
 
 
 game: Alleyway (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Alleyway (World)/Alleyway (World).json
+file: Nintendo/Nintendo Game Boy/Alleyway (World)/Alleyway (World).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Action
@@ -53,7 +53,7 @@ x-co-op: No
 
 
 game: Atchafalaya Arcade (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Atchafalaya Arcade (USA)/Atchafalaya Arcade (USA).json
+file: Nintendo/Nintendo Game Boy/Atchafalaya Arcade (USA)/Atchafalaya Arcade (USA).json
 developer: Tambalaya
 publisher: Tambalaya
 genre: 8-Bit;Abstract;Artgame;Experimental
@@ -80,7 +80,7 @@ x-co-op: No
 
 
 game: Avenging Spirit (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Avenging Spirit (USA, Europe)/Avenging Spirit (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Avenging Spirit (USA, Europe)/Avenging Spirit (USA, Europe).json
 developer: C.P. Brain
 publisher: Jaleco
 genre: Action
@@ -105,7 +105,7 @@ x-co-op: No
 
 
 game: Balloon Kid (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Balloon Kid (USA, Europe)/Balloon Kid (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Balloon Kid (USA, Europe)/Balloon Kid (USA, Europe).json
 developer: Pax Softnica
 publisher: Nintendo
 genre: Platform
@@ -128,7 +128,7 @@ x-co-op: No
 
 
 game: Bionic Commando (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Bionic Commando (USA)/Bionic Commando (USA).json
+file: Nintendo/Nintendo Game Boy/Bionic Commando (USA)/Bionic Commando (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -155,7 +155,7 @@ x-co-op: No
 
 
 game: Bugs Bunny Crazy Castle, The (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Bugs Bunny Crazy Castle, The (USA, Europe)/Bugs Bunny Crazy Castle, The (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Bugs Bunny Crazy Castle, The (USA, Europe)/Bugs Bunny Crazy Castle, The (USA, Europe).json
 developer: Kemco
 publisher: Kemco
 genre: Action
@@ -183,7 +183,7 @@ x-co-op: No
 
 
 game: Bunflower (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Bunflower (USA)/Bunflower (USA).json
+file: Nintendo/Nintendo Game Boy/Bunflower (USA)/Bunflower (USA).json
 developer: SaturnSprout
 publisher: SaturnSprout
 genre: Adventure
@@ -201,7 +201,7 @@ x-co-op: No
 
 
 game: BurgerTime Deluxe (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/BurgerTime Deluxe (World)/BurgerTime Deluxe (World).json
+file: Nintendo/Nintendo Game Boy/BurgerTime Deluxe (World)/BurgerTime Deluxe (World).json
 developer: Data East Corporation
 publisher: Data East Corporation
 genre: Action
@@ -242,7 +242,7 @@ x-co-op: No
 
 
 game: Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Game Boy/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -273,7 +273,7 @@ x-co-op: No
 
 
 game: Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Game Boy/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform
@@ -312,7 +312,7 @@ x-co-op: No
 
 
 game: Catrap (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Catrap (USA)/Catrap (USA).json
+file: Nintendo/Nintendo Game Boy/Catrap (USA)/Catrap (USA).json
 developer: ASK Kodansha
 publisher: Asmik
 genre: Puzzle
@@ -345,7 +345,7 @@ x-co-op: No
 
 
 game: Contra (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo Game Boy/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -376,7 +376,7 @@ x-co-op: No
 
 
 game: Double Dragon (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Double Dragon (USA, Europe)/Double Dragon (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Double Dragon (USA, Europe)/Double Dragon (USA, Europe).json
 developer: Technōs Japan
 publisher: Tradewest
 genre: Action;Beat 'em Up
@@ -399,7 +399,7 @@ x-co-op: No
 
 
 game: Dr. Mario (World) (Rev A)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Dr. Mario (World) (Rev A)/Dr. Mario (World) (Rev A).json
+file: Nintendo/Nintendo Game Boy/Dr. Mario (World) (Rev A)/Dr. Mario (World) (Rev A).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Puzzle
@@ -423,7 +423,7 @@ x-co-op: No
 
 
 game: Dracula Densetsu (Japan) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Dracula Densetsu (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu (Japan) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Game Boy/Dracula Densetsu (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu (Japan) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -453,7 +453,7 @@ x-co-op: No
 
 
 game: Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Game Boy/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform
@@ -491,7 +491,7 @@ x-co-op: No
 
 
 game: DuckTales (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/DuckTales (USA)/DuckTales (USA).json
+file: Nintendo/Nintendo Game Boy/DuckTales (USA)/DuckTales (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -518,7 +518,7 @@ x-co-op: No
 
 
 game: Final Fantasy Adventure (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Final Fantasy Adventure (USA)/Final Fantasy Adventure (USA).json
+file: Nintendo/Nintendo Game Boy/Final Fantasy Adventure (USA)/Final Fantasy Adventure (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -545,7 +545,7 @@ x-co-op: No
 
 
 game: Final Fantasy Legend II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Final Fantasy Legend II (USA)/Final Fantasy Legend II (USA).json
+file: Nintendo/Nintendo Game Boy/Final Fantasy Legend II (USA)/Final Fantasy Legend II (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -569,7 +569,7 @@ x-co-op: No
 
 
 game: Final Fantasy Legend III (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Final Fantasy Legend III (USA)/Final Fantasy Legend III (USA).json
+file: Nintendo/Nintendo Game Boy/Final Fantasy Legend III (USA)/Final Fantasy Legend III (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -594,7 +594,7 @@ x-co-op: No
 
 
 game: Final Fantasy Legend, The (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Final Fantasy Legend, The (USA)/Final Fantasy Legend, The (USA).json
+file: Nintendo/Nintendo Game Boy/Final Fantasy Legend, The (USA)/Final Fantasy Legend, The (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -619,7 +619,7 @@ x-co-op: No
 
 
 game: Fortified Zone (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Fortified Zone (USA, Europe)/Fortified Zone (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Fortified Zone (USA, Europe)/Fortified Zone (USA, Europe).json
 developer: Jaleco
 publisher: Jaleco
 genre: Shooter
@@ -655,7 +655,7 @@ x-co-op: No
 
 
 game: Gargoyle's Quest (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Gargoyle's Quest (USA, Europe)/Gargoyle's Quest (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Gargoyle's Quest (USA, Europe)/Gargoyle's Quest (USA, Europe).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure;Platform
@@ -682,7 +682,7 @@ x-co-op: No
 
 
 game: Kid Icarus - Of Myths and Monsters (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Kid Icarus - Of Myths and Monsters (USA, Europe)/Kid Icarus - Of Myths and Monsters (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Kid Icarus - Of Myths and Monsters (USA, Europe)/Kid Icarus - Of Myths and Monsters (USA, Europe).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -710,7 +710,7 @@ x-co-op: No
 
 
 game: Kirby's Dream Land (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Kirby's Dream Land (USA, Europe)/Kirby's Dream Land (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Kirby's Dream Land (USA, Europe)/Kirby's Dream Land (USA, Europe).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -740,7 +740,7 @@ x-co-op: No
 
 
 game: Kirby's Pinball Land (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Kirby's Pinball Land (USA, Europe)/Kirby's Pinball Land (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Kirby's Pinball Land (USA, Europe)/Kirby's Pinball Land (USA, Europe).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action
@@ -761,7 +761,7 @@ x-co-op: No
 
 
 game: Lock n' Chase ~ Lock 'n' Chase (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Lock n' Chase ~ Lock 'n' Chase (World)/Lock n' Chase ~ Lock 'n' Chase (World).json
+file: Nintendo/Nintendo Game Boy/Lock n' Chase ~ Lock 'n' Chase (World)/Lock n' Chase ~ Lock 'n' Chase (World).json
 developer: Data East
 publisher: Data East
 genre: Action
@@ -783,7 +783,7 @@ x-co-op: No
 
 
 game: Maru's Mission (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Maru's Mission (USA)/Maru's Mission (USA).json
+file: Nintendo/Nintendo Game Boy/Maru's Mission (USA)/Maru's Mission (USA).json
 developer: TOSE
 publisher: Jaleco
 genre: Platform
@@ -810,7 +810,7 @@ x-co-op: No
 
 
 game: Mega Man - Dr. Wily's Revenge (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Mega Man - Dr. Wily's Revenge (USA)/Mega Man - Dr. Wily's Revenge (USA).json
+file: Nintendo/Nintendo Game Boy/Mega Man - Dr. Wily's Revenge (USA)/Mega Man - Dr. Wily's Revenge (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -835,7 +835,7 @@ x-co-op: No
 
 
 game: Mega Man II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Mega Man II (USA)/Mega Man II (USA).json
+file: Nintendo/Nintendo Game Boy/Mega Man II (USA)/Mega Man II (USA).json
 developer: Japan System House
 publisher: Capcom
 genre: Action;Platform
@@ -858,7 +858,7 @@ x-co-op: No
 
 
 game: Mega Man III (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Mega Man III (USA)/Mega Man III (USA).json
+file: Nintendo/Nintendo Game Boy/Mega Man III (USA)/Mega Man III (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -886,7 +886,7 @@ x-co-op: No
 
 
 game: Mega Man IV (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Mega Man IV (USA)/Mega Man IV (USA).json
+file: Nintendo/Nintendo Game Boy/Mega Man IV (USA)/Mega Man IV (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -913,7 +913,7 @@ x-co-op: No
 
 
 game: Metroid II - Return of Samus (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Metroid II - Return of Samus (World)/Metroid II - Return of Samus (World).json
+file: Nintendo/Nintendo Game Boy/Metroid II - Return of Samus (World)/Metroid II - Return of Samus (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Adventure
@@ -944,7 +944,7 @@ x-co-op: No
 
 
 game: Operation C (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Operation C (USA)/Operation C (USA).json
+file: Nintendo/Nintendo Game Boy/Operation C (USA)/Operation C (USA).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -976,7 +976,7 @@ x-co-op: No
 
 
 game: Operation C (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Operation C (World) (Contra Anniversary Collection)/Operation C (World) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo Game Boy/Operation C (World) (Contra Anniversary Collection)/Operation C (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -1008,7 +1008,7 @@ x-co-op: No
 
 
 game: Pinball - Revenge of the 'Gator (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Pinball - Revenge of the 'Gator (USA, Europe)/Pinball - Revenge of the 'Gator (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Pinball - Revenge of the 'Gator (USA, Europe)/Pinball - Revenge of the 'Gator (USA, Europe).json
 developer: HAL Laboratory
 publisher: HAL Laboratory
 genre: Action
@@ -1030,7 +1030,7 @@ x-co-op: No
 
 
 game: Probotector (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Probotector (World) (Contra Anniversary Collection)/Probotector (World) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo Game Boy/Probotector (World) (Contra Anniversary Collection)/Probotector (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -1061,7 +1061,7 @@ x-co-op: No
 
 
 game: QIX (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/QIX (World)/QIX (World).json
+file: Nintendo/Nintendo Game Boy/QIX (World)/QIX (World).json
 developer: Minakuchi Engineering
 publisher: Nintendo
 genre: Puzzle
@@ -1084,7 +1084,7 @@ x-co-op: No
 
 
 game: Quarth (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Quarth (USA, Europe)/Quarth (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Quarth (USA, Europe)/Quarth (USA, Europe).json
 developer: Konami
 publisher: Ultra Games
 genre: Puzzle
@@ -1110,7 +1110,7 @@ x-co-op: No
 
 
 game: Radar Mission (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Radar Mission (USA, Europe)/Radar Mission (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Radar Mission (USA, Europe)/Radar Mission (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Strategy
@@ -1129,7 +1129,7 @@ x-co-op: No
 
 
 game: Side Pocket (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Side Pocket (World)/Side Pocket (World).json
+file: Nintendo/Nintendo Game Boy/Side Pocket (World)/Side Pocket (World).json
 developer: Data East Corporation
 publisher: Data East Corporation
 genre: Sports
@@ -1150,7 +1150,7 @@ x-co-op: No
 
 
 game: Super Mario Land (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Super Mario Land (World)/Super Mario Land (World).json
+file: Nintendo/Nintendo Game Boy/Super Mario Land (World)/Super Mario Land (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Platform
@@ -1173,7 +1173,7 @@ x-co-op: No
 
 
 game: Super Mario Land 2 - 6 Golden Coins (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Super Mario Land 2 - 6 Golden Coins (USA, Europe)/Super Mario Land 2 - 6 Golden Coins (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Super Mario Land 2 - 6 Golden Coins (USA, Europe)/Super Mario Land 2 - 6 Golden Coins (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Platform
@@ -1200,7 +1200,7 @@ x-co-op: No
 
 
 game: Sword of Hope II, The (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Sword of Hope II, The (USA)/Sword of Hope II, The (USA).json
+file: Nintendo/Nintendo Game Boy/Sword of Hope II, The (USA)/Sword of Hope II, The (USA).json
 developer: Kemco
 publisher: Kemco
 genre: Role-Playing
@@ -1225,7 +1225,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).json
+file: Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -1256,7 +1256,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).json
+file: Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platformer;2D
@@ -1279,7 +1279,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles III - Radical Rescue (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)/Teenage Mutant Ninja Turtles III - Radical Rescue (USA).json
+file: Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)/Teenage Mutant Ninja Turtles III - Radical Rescue (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platformer;2D
@@ -1327,7 +1327,7 @@ x-co-op: No
 
 
 game: Tetris (World) (Rev A)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Tetris (World) (Rev A)/Tetris (World) (Rev A).json
+file: Nintendo/Nintendo Game Boy/Tetris (World) (Rev A)/Tetris (World) (Rev A).json
 developer: Bullet-Proof Software
 publisher: Nintendo
 genre: Puzzle
@@ -1350,7 +1350,7 @@ x-co-op: No
 
 
 game: Tumble Pop (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Tumble Pop (USA, Europe)/Tumble Pop (USA, Europe).json
+file: Nintendo/Nintendo Game Boy/Tumble Pop (USA, Europe)/Tumble Pop (USA, Europe).json
 developer: Data East
 publisher: Sunsoft
 genre: Action
@@ -1376,7 +1376,7 @@ x-co-op: No
 
 
 game: Vampire Night Shift (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Vampire Night Shift (USA)/Vampire Night Shift (USA).json
+file: Nintendo/Nintendo Game Boy/Vampire Night Shift (USA)/Vampire Night Shift (USA).json
 developer: cloverfirefly
 publisher: cloverfirefly
 genre: Adventure
@@ -1408,7 +1408,7 @@ x-co-op: No
 
 
 game: Viv and Bob (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Viv and Bob (USA)/Viv and Bob (USA).json
+file: Nintendo/Nintendo Game Boy/Viv and Bob (USA)/Viv and Bob (USA).json
 developer: Impergatox
 publisher: Impergatox
 genre: Puzzle
@@ -1437,7 +1437,7 @@ x-co-op: No
 
 
 game: Wario Land - Super Mario Land 3 (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Wario Land - Super Mario Land 3 (World)/Wario Land - Super Mario Land 3 (World).json
+file: Nintendo/Nintendo Game Boy/Wario Land - Super Mario Land 3 (World)/Wario Land - Super Mario Land 3 (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Platform
@@ -1465,7 +1465,7 @@ x-co-op: No
 
 
 game: Wishing Sarah (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy/Wishing Sarah (USA)/Wishing Sarah (USA).json
+file: Nintendo/Nintendo Game Boy/Wishing Sarah (USA)/Wishing Sarah (USA).json
 developer: Asteristic Game Studio
 publisher: Asteristic Game Studio
 genre: Adventure

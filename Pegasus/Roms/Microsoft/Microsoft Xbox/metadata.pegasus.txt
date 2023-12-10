@@ -1,9 +1,9 @@
 collection: Microsoft Xbox
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Microsoft Xbox" {file.path}
+launch: launch_rom -l "Microsoft Xbox" {file.path}
 
 
 game: Big Bumpin' (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Big Bumpin' (USA)/Big Bumpin' (USA).json
+file: Microsoft/Microsoft Xbox/Big Bumpin' (USA)/Big Bumpin' (USA).json
 developer: Blitz Game Studios
 publisher: King Games
 genre: Racing;Arcade;Other
@@ -35,7 +35,7 @@ x-co-op: No
 
 
 game: Buffy the Vampire Slayer (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Buffy the Vampire Slayer (USA)/Buffy the Vampire Slayer (USA).json
+file: Microsoft/Microsoft Xbox/Buffy the Vampire Slayer (USA)/Buffy the Vampire Slayer (USA).json
 developer: The Collective
 publisher: Fox Interactive
 genre: Action;Adventure;Horror;Beat 'em Up
@@ -57,7 +57,7 @@ x-co-op: No
 
 
 game: Crimson Sea (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Crimson Sea (USA)/Crimson Sea (USA).json
+file: Microsoft/Microsoft Xbox/Crimson Sea (USA)/Crimson Sea (USA).json
 developer: Koei
 publisher: Koei
 genre: Action;Adventure
@@ -79,7 +79,7 @@ x-co-op: No
 
 
 game: Dino Crisis 3 (USA, Asia)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Dino Crisis 3 (USA, Asia)/Dino Crisis 3 (USA, Asia).json
+file: Microsoft/Microsoft Xbox/Dino Crisis 3 (USA, Asia)/Dino Crisis 3 (USA, Asia).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -110,7 +110,7 @@ x-co-op: No
 
 
 game: Dungeons & Dragons - Heroes (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Dungeons & Dragons - Heroes (USA)/Dungeons & Dragons - Heroes (USA).json
+file: Microsoft/Microsoft Xbox/Dungeons & Dragons - Heroes (USA)/Dungeons & Dragons - Heroes (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Adventure
@@ -133,7 +133,7 @@ x-co-op: Yes
 
 
 game: Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).json
+file: Microsoft/Microsoft Xbox/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).json
 developer: Bethesda Softworks
 publisher: Ubisoft
 genre: Role-Playing
@@ -156,7 +156,7 @@ x-co-op: No
 
 
 game: Fable - The Lost Chapters (USA) (En,Es)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Fable - The Lost Chapters (USA) (En,Es)/Fable - The Lost Chapters (USA) (En,Es).json
+file: Microsoft/Microsoft Xbox/Fable - The Lost Chapters (USA) (En,Es)/Fable - The Lost Chapters (USA) (En,Es).json
 developer: Lionhead Studios
 publisher: Microsoft Game Studios
 genre: Action;Role-Playing
@@ -180,7 +180,7 @@ x-co-op: No
 
 
 game: Fuzion Frenzy (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Fuzion Frenzy (USA)/Fuzion Frenzy (USA).json
+file: Microsoft/Microsoft Xbox/Fuzion Frenzy (USA)/Fuzion Frenzy (USA).json
 developer: Blitz Games
 publisher: Microsoft Game Studios
 genre: Party
@@ -203,7 +203,7 @@ x-co-op: Yes
 
 
 game: Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It)/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).json
+file: Microsoft/Microsoft Xbox/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It)/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).json
 developer: Rare
 publisher: Microsoft
 genre: Action;Platform
@@ -222,7 +222,7 @@ x-co-op: No
 
 
 game: Jade Empire (USA, Europe) (En,Es,It)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Jade Empire (USA, Europe) (En,Es,It)/Jade Empire (USA, Europe) (En,Es,It).json
+file: Microsoft/Microsoft Xbox/Jade Empire (USA, Europe) (En,Es,It)/Jade Empire (USA, Europe) (En,Es,It).json
 developer: BioWare
 publisher: Microsoft Game Studios
 genre: Role-Playing
@@ -245,7 +245,7 @@ x-co-op: No
 
 
 game: Mercenaries (USA, Europe)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Mercenaries (USA, Europe)/Mercenaries (USA, Europe).json
+file: Microsoft/Microsoft Xbox/Mercenaries (USA, Europe)/Mercenaries (USA, Europe).json
 developer: Pandemic
 publisher: LucasArts
 genre: Action;Sandbox
@@ -294,7 +294,7 @@ x-co-op: No
 
 
 game: Night Caster - Defeat the Darkness (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Night Caster - Defeat the Darkness (USA)/Night Caster - Defeat the Darkness (USA).json
+file: Microsoft/Microsoft Xbox/Night Caster - Defeat the Darkness (USA)/Night Caster - Defeat the Darkness (USA).json
 developer: VR1 Entertainment
 publisher: Microsoft
 genre: Action;Adventure
@@ -328,7 +328,7 @@ x-co-op: No
 
 
 game: Otogi - Myth of Demons (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Otogi - Myth of Demons (USA)/Otogi - Myth of Demons (USA).json
+file: Microsoft/Microsoft Xbox/Otogi - Myth of Demons (USA)/Otogi - Myth of Demons (USA).json
 developer: FromSoftware, Inc.
 publisher: Sega
 genre: Action
@@ -354,7 +354,7 @@ x-co-op: No
 
 
 game: Otogi 2 - Immortal Warriors (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Otogi 2 - Immortal Warriors (USA)/Otogi 2 - Immortal Warriors (USA).json
+file: Microsoft/Microsoft Xbox/Otogi 2 - Immortal Warriors (USA)/Otogi 2 - Immortal Warriors (USA).json
 developer: FromSoftware, Inc.
 publisher: Sega
 genre: Action
@@ -385,7 +385,7 @@ x-co-op: No
 
 
 game: Panzer Dragoon Orta (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Panzer Dragoon Orta (USA)/Panzer Dragoon Orta (USA).json
+file: Microsoft/Microsoft Xbox/Panzer Dragoon Orta (USA)/Panzer Dragoon Orta (USA).json
 developer: Smilebit
 publisher: Sega
 genre: Shooter
@@ -418,7 +418,7 @@ x-co-op: No
 
 
 game: PocketBike Racer (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/PocketBike Racer (USA)/PocketBike Racer (USA).json
+file: Microsoft/Microsoft Xbox/PocketBike Racer (USA)/PocketBike Racer (USA).json
 developer: Blitz Arcade
 publisher: King Games
 genre: Racing
@@ -455,7 +455,7 @@ x-co-op: No
 
 
 game: Project Gotham Racing (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Project Gotham Racing (USA)/Project Gotham Racing (USA).json
+file: Microsoft/Microsoft Xbox/Project Gotham Racing (USA)/Project Gotham Racing (USA).json
 developer: Bizarre Creations
 publisher: Microsoft Game Studios
 genre: Racing
@@ -479,7 +479,7 @@ x-co-op: No
 
 
 game: Psychonauts (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Psychonauts (USA)/Psychonauts (USA).json
+file: Microsoft/Microsoft Xbox/Psychonauts (USA)/Psychonauts (USA).json
 developer: Double Fine Productions
 publisher: Majesco Entertainment
 genre: Platform
@@ -507,7 +507,7 @@ x-co-op: No
 
 
 game: Raze's Hell (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Raze's Hell (USA)/Raze's Hell (USA).json
+file: Microsoft/Microsoft Xbox/Raze's Hell (USA)/Raze's Hell (USA).json
 developer: Artech Digital Entertainment
 publisher: Majesco Entertainment
 genre: Shooter
@@ -527,7 +527,7 @@ x-co-op: No
 
 
 game: Sneak King (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Sneak King (USA)/Sneak King (USA).json
+file: Microsoft/Microsoft Xbox/Sneak King (USA)/Sneak King (USA).json
 developer: Blitz Games
 publisher: King Games
 genre: Action Adventure;General
@@ -552,7 +552,7 @@ x-co-op: No
 
 
 game: Soldier of Fortune II - Double Helix (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Soldier of Fortune II - Double Helix (USA)/Soldier of Fortune II - Double Helix (USA).json
+file: Microsoft/Microsoft Xbox/Soldier of Fortune II - Double Helix (USA)/Soldier of Fortune II - Double Helix (USA).json
 developer: Gratuitous Games
 publisher: Activision
 genre: Action;Shooter
@@ -576,7 +576,7 @@ x-co-op: No
 
 
 game: Star Wars - Knights of the Old Republic (USA) (v1.10)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic (USA) (v1.10)/Star Wars - Knights of the Old Republic (USA) (v1.10).json
+file: Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic (USA) (v1.10)/Star Wars - Knights of the Old Republic (USA) (v1.10).json
 developer: BioWare
 publisher: LucasArts
 genre: Role-Playing
@@ -599,7 +599,7 @@ x-co-op: No
 
 
 game: Star Wars - Knights of the Old Republic II - The Sith Lords (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
+file: Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
 developer: Obsidian Entertainment
 publisher: LucasArts
 genre: Action;Adventure;Role-Playing;Strategy
@@ -624,7 +624,7 @@ x-co-op: No
 
 
 game: Tecmo Classic Arcade (USA, Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Tecmo Classic Arcade (USA, Japan)/Tecmo Classic Arcade (USA, Japan).json
+file: Microsoft/Microsoft Xbox/Tecmo Classic Arcade (USA, Japan)/Tecmo Classic Arcade (USA, Japan).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action
@@ -644,7 +644,7 @@ x-co-op: No
 
 
 game: Unreal Championship (USA, Europe) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Unreal Championship (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).json
+file: Microsoft/Microsoft Xbox/Unreal Championship (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).json
 developer: Epic Games
 publisher: Atari
 genre: Shooter
@@ -675,7 +675,7 @@ x-co-op: No
 
 
 game: Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).json
+file: Microsoft/Microsoft Xbox/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).json
 developer: Epic Games
 publisher: Midway Games
 genre: Shooter
@@ -699,7 +699,7 @@ x-co-op: No
 
 
 game: Xbox Exhibition (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox/Xbox Exhibition (USA)/Xbox Exhibition (USA).json
+file: Microsoft/Microsoft Xbox/Xbox Exhibition (USA)/Xbox Exhibition (USA).json
 developer: Microsoft Game Studios
 publisher: Microsoft Game Studios
 genre: Miscellaneous;Demo Disc

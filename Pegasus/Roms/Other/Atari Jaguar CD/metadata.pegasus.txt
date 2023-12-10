@@ -1,9 +1,9 @@
 collection: Atari Jaguar CD
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Atari Jaguar CD" {file.path}
+launch: launch_rom -l "Atari Jaguar CD" {file.path}
 
 
 game: Blue Lightning (USA)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar CD/Blue Lightning (USA)/Blue Lightning (USA).json
+file: Other/Atari Jaguar CD/Blue Lightning (USA)/Blue Lightning (USA).json
 developer: Epyx
 publisher: Atari
 genre: Flight Simulator
@@ -24,7 +24,7 @@ x-co-op: No
 
 
 game: Myst (USA)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar CD/Myst (USA)/Myst (USA).json
+file: Other/Atari Jaguar CD/Myst (USA)/Myst (USA).json
 developer: Cyan
 publisher: Sun soft
 genre: Adventure

@@ -1,9 +1,9 @@
 collection: Nintendo 64
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo 64" {file.path}
+launch: launch_rom -l "Nintendo 64" {file.path}
 
 
 game: 007 - The World Is Not Enough (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/007 - The World Is Not Enough (USA)/007 - The World Is Not Enough (USA).json
+file: Nintendo/Nintendo 64/007 - The World Is Not Enough (USA)/007 - The World Is Not Enough (USA).json
 developer: Eurocom
 publisher: Electronic Arts
 genre: Shooter
@@ -27,7 +27,7 @@ x-co-op: No
 
 
 game: Blast Corps (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Blast Corps (USA)/Blast Corps (USA).json
+file: Nintendo/Nintendo 64/Blast Corps (USA)/Blast Corps (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Action;Puzzle
@@ -47,7 +47,7 @@ x-co-op: No
 
 
 game: Bomberman 64 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Bomberman 64 (USA)/Bomberman 64 (USA).json
+file: Nintendo/Nintendo 64/Bomberman 64 (USA)/Bomberman 64 (USA).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Action;Platform
@@ -70,7 +70,7 @@ x-co-op: No
 
 
 game: Bomberman 64 - The Second Attack! (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Bomberman 64 - The Second Attack! (USA)/Bomberman 64 - The Second Attack! (USA).json
+file: Nintendo/Nintendo 64/Bomberman 64 - The Second Attack! (USA)/Bomberman 64 - The Second Attack! (USA).json
 developer: Hudson Soft
 publisher: Vatical Entertainment
 genre: Action
@@ -103,7 +103,7 @@ x-co-op: No
 
 
 game: Bomberman Hero (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Bomberman Hero (USA)/Bomberman Hero (USA).json
+file: Nintendo/Nintendo 64/Bomberman Hero (USA)/Bomberman Hero (USA).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Action;Platform
@@ -125,7 +125,7 @@ x-co-op: No
 
 
 game: Castlevania (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Castlevania (USA)/Castlevania (USA).json
+file: Nintendo/Nintendo 64/Castlevania (USA)/Castlevania (USA).json
 developer: KCEK
 publisher: Konami
 genre: Action;Platform
@@ -148,7 +148,7 @@ x-co-op: No
 
 
 game: Castlevania - Legacy of Darkness (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Castlevania - Legacy of Darkness (USA)/Castlevania - Legacy of Darkness (USA).json
+file: Nintendo/Nintendo 64/Castlevania - Legacy of Darkness (USA)/Castlevania - Legacy of Darkness (USA).json
 developer: KCEK
 publisher: Konami
 genre: Action;Platform
@@ -175,7 +175,7 @@ x-co-op: No
 
 
 game: Conker's Bad Fur Day (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Conker's Bad Fur Day (USA)/Conker's Bad Fur Day (USA).json
+file: Nintendo/Nintendo 64/Conker's Bad Fur Day (USA)/Conker's Bad Fur Day (USA).json
 developer: Rare
 publisher: Rare
 genre: Action;Adventure;Platform
@@ -196,7 +196,7 @@ x-co-op: No
 
 
 game: Cruis'n USA (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Cruis'n USA (USA)/Cruis'n USA (USA).json
+file: Nintendo/Nintendo 64/Cruis'n USA (USA)/Cruis'n USA (USA).json
 developer: Williams Entertainment, Inc.
 publisher: Nintendo
 genre: Racing
@@ -221,7 +221,7 @@ x-co-op: No
 
 
 game: Diddy Kong Racing (USA) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Diddy Kong Racing (USA) (En,Fr)/Diddy Kong Racing (USA) (En,Fr).json
+file: Nintendo/Nintendo 64/Diddy Kong Racing (USA) (En,Fr)/Diddy Kong Racing (USA) (En,Fr).json
 developer: Rare
 publisher: Nintendo
 genre: Racing
@@ -265,7 +265,7 @@ x-co-op: No
 
 
 game: Doom 64 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Doom 64 (USA)/Doom 64 (USA).json
+file: Nintendo/Nintendo 64/Doom 64 (USA)/Doom 64 (USA).json
 developer: Midway Games
 publisher: Midway Games
 genre: Shooter
@@ -294,7 +294,7 @@ x-co-op: No
 
 
 game: F-Zero X (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/F-Zero X (USA)/F-Zero X (USA).json
+file: Nintendo/Nintendo 64/F-Zero X (USA)/F-Zero X (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Racing
@@ -316,7 +316,7 @@ x-co-op: No
 
 
 game: Gauntlet Legends (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Gauntlet Legends (USA)/Gauntlet Legends (USA).json
+file: Nintendo/Nintendo 64/Gauntlet Legends (USA)/Gauntlet Legends (USA).json
 developer: Atari Games
 publisher: Midway
 genre: Action
@@ -340,7 +340,7 @@ x-co-op: Yes
 
 
 game: GoldenEye 007 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/GoldenEye 007 (USA)/GoldenEye 007 (USA).json
+file: Nintendo/Nintendo 64/GoldenEye 007 (USA)/GoldenEye 007 (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Shooter
@@ -373,7 +373,7 @@ x-co-op: No
 
 
 game: Harvest Moon 64 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Harvest Moon 64 (USA)/Harvest Moon 64 (USA).json
+file: Nintendo/Nintendo 64/Harvest Moon 64 (USA)/Harvest Moon 64 (USA).json
 developer: Toy Box Studios
 publisher: Natsume
 genre: Life Simulation;Role-Playing
@@ -396,7 +396,7 @@ x-co-op: No
 
 
 game: Hexen (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Hexen (USA)/Hexen (USA).json
+file: Nintendo/Nintendo 64/Hexen (USA)/Hexen (USA).json
 developer: Software Creations Ltd.
 publisher: id Software
 genre: Action;Shooter
@@ -422,7 +422,7 @@ x-co-op: Yes
 
 
 game: Hybrid Heaven (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Hybrid Heaven (USA)/Hybrid Heaven (USA).json
+file: Nintendo/Nintendo 64/Hybrid Heaven (USA)/Hybrid Heaven (USA).json
 developer: KCEO
 publisher: Konami
 genre: Action;Role-Playing
@@ -452,7 +452,7 @@ x-co-op: No
 
 
 game: Indiana Jones and the Infernal Machine (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Indiana Jones and the Infernal Machine (USA)/Indiana Jones and the Infernal Machine (USA).json
+file: Nintendo/Nintendo 64/Indiana Jones and the Infernal Machine (USA)/Indiana Jones and the Infernal Machine (USA).json
 developer: Factor 5
 publisher: LucasArts
 genre: Action;Adventure
@@ -478,7 +478,7 @@ x-co-op: No
 
 
 game: Jet Force Gemini (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Jet Force Gemini (USA)/Jet Force Gemini (USA).json
+file: Nintendo/Nintendo 64/Jet Force Gemini (USA)/Jet Force Gemini (USA).json
 developer: Rare
 publisher: Rare
 genre: Action;Adventure;Shooter
@@ -502,7 +502,7 @@ x-co-op: No
 
 
 game: John Romero's Daikatana (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/John Romero's Daikatana (USA)/John Romero's Daikatana (USA).json
+file: Nintendo/Nintendo 64/John Romero's Daikatana (USA)/John Romero's Daikatana (USA).json
 developer: Kemco
 publisher: Kemco
 genre: Action;Shooter
@@ -524,7 +524,7 @@ x-co-op: No
 
 
 game: Killer Instinct Gold (USA) (Rev 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Killer Instinct Gold (USA) (Rev 2)/Killer Instinct Gold (USA) (Rev 2).json
+file: Nintendo/Nintendo 64/Killer Instinct Gold (USA) (Rev 2)/Killer Instinct Gold (USA) (Rev 2).json
 developer: Rare
 publisher: Nintendo
 genre: Fighting
@@ -547,7 +547,7 @@ x-co-op: No
 
 
 game: Kirby 64 - The Crystal Shards (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Kirby 64 - The Crystal Shards (USA)/Kirby 64 - The Crystal Shards (USA).json
+file: Nintendo/Nintendo 64/Kirby 64 - The Crystal Shards (USA)/Kirby 64 - The Crystal Shards (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -570,7 +570,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Majora's Mask (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA)/Legend of Zelda, The - Majora's Mask (USA).json
+file: Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA)/Legend of Zelda, The - Majora's Mask (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -602,7 +602,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Majora's Mask (USA) (GameCube)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA) (GameCube)/Legend of Zelda, The - Majora's Mask (USA) (GameCube).json
+file: Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA) (GameCube)/Legend of Zelda, The - Majora's Mask (USA) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -634,7 +634,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Ocarina of Time (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA)/Legend of Zelda, The - Ocarina of Time (USA).json
+file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA)/Legend of Zelda, The - Ocarina of Time (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -666,7 +666,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Ocarina of Time (USA) (GameCube)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time (USA) (GameCube).json
+file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time (USA) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -698,7 +698,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube).json
+file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -718,7 +718,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).json
+file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -738,7 +738,7 @@ x-co-op: No
 
 
 game: Mario Kart 64 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Mario Kart 64 (USA)/Mario Kart 64 (USA).json
+file: Nintendo/Nintendo 64/Mario Kart 64 (USA)/Mario Kart 64 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Racing
@@ -768,7 +768,7 @@ x-co-op: No
 
 
 game: Mario Party 2 (USA) (Wii Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Mario Party 2 (USA) (Wii Virtual Console)/Mario Party 2 (USA) (Wii Virtual Console).json
+file: Nintendo/Nintendo 64/Mario Party 2 (USA) (Wii Virtual Console)/Mario Party 2 (USA) (Wii Virtual Console).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Party
@@ -791,7 +791,7 @@ x-co-op: No
 
 
 game: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).json
+file: Nintendo/Nintendo 64/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).json
 developer: Quest
 publisher: Atlus
 genre: Role-Playing;Strategy
@@ -817,7 +817,7 @@ x-co-op: No
 
 
 game: Paper Mario (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Paper Mario (USA)/Paper Mario (USA).json
+file: Nintendo/Nintendo 64/Paper Mario (USA)/Paper Mario (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Role-Playing
@@ -840,7 +840,7 @@ x-co-op: No
 
 
 game: Perfect Dark (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Perfect Dark (USA)/Perfect Dark (USA).json
+file: Nintendo/Nintendo 64/Perfect Dark (USA)/Perfect Dark (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Shooter
@@ -860,7 +860,7 @@ x-co-op: Yes
 
 
 game: Pokemon Snap (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Pokemon Snap (USA)/Pokemon Snap (USA).json
+file: Nintendo/Nintendo 64/Pokemon Snap (USA)/Pokemon Snap (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Shooter
@@ -891,7 +891,7 @@ x-co-op: No
 
 
 game: Resident Evil 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Nintendo/Nintendo 64/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Angel Studios
 publisher: Capcom
 genre: Action;Horror
@@ -914,7 +914,7 @@ x-co-op: No
 
 
 game: Star Fox 64 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Star Fox 64 (USA)/Star Fox 64 (USA).json
+file: Nintendo/Nintendo 64/Star Fox 64 (USA)/Star Fox 64 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Shooter
@@ -942,7 +942,7 @@ x-co-op: No
 
 
 game: Star Wars - Rogue Squadron (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Star Wars - Rogue Squadron (USA)/Star Wars - Rogue Squadron (USA).json
+file: Nintendo/Nintendo 64/Star Wars - Rogue Squadron (USA)/Star Wars - Rogue Squadron (USA).json
 developer: Factor 5
 publisher: Nintendo
 genre: Shooter
@@ -964,7 +964,7 @@ x-co-op: No
 
 
 game: Star Wars - Shadows of the Empire (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Star Wars - Shadows of the Empire (USA)/Star Wars - Shadows of the Empire (USA).json
+file: Nintendo/Nintendo 64/Star Wars - Shadows of the Empire (USA)/Star Wars - Shadows of the Empire (USA).json
 developer: LucasArts
 publisher: Nintendo
 genre: Action
@@ -991,7 +991,7 @@ x-co-op: No
 
 
 game: Star Wars Episode I - Battle for Naboo (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Star Wars Episode I - Battle for Naboo (USA)/Star Wars Episode I - Battle for Naboo (USA).json
+file: Nintendo/Nintendo 64/Star Wars Episode I - Battle for Naboo (USA)/Star Wars Episode I - Battle for Naboo (USA).json
 developer: Factor 5
 publisher: LucasArts
 genre: Action;Flight Simulator
@@ -1012,7 +1012,7 @@ x-co-op: No
 
 
 game: Star Wars Episode I - Racer (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Star Wars Episode I - Racer (USA)/Star Wars Episode I - Racer (USA).json
+file: Nintendo/Nintendo 64/Star Wars Episode I - Racer (USA)/Star Wars Episode I - Racer (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Racing
@@ -1037,7 +1037,7 @@ x-co-op: No
 
 
 game: Super Mario 64 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Super Mario 64 (USA)/Super Mario 64 (USA).json
+file: Nintendo/Nintendo 64/Super Mario 64 (USA)/Super Mario 64 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Platform
@@ -1078,7 +1078,7 @@ x-co-op: No
 
 
 game: Super Mario 64 (USA) (Co-op Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Super Mario 64 (USA) (Co-op Patch)/Super Mario 64 (USA) (Co-op Patch).json
+file: Nintendo/Nintendo 64/Super Mario 64 (USA) (Co-op Patch)/Super Mario 64 (USA) (Co-op Patch).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Platform
@@ -1118,7 +1118,7 @@ x-co-op: Yes
 
 
 game: Super Smash Bros. (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Super Smash Bros. (USA)/Super Smash Bros. (USA).json
+file: Nintendo/Nintendo 64/Super Smash Bros. (USA)/Super Smash Bros. (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Fighting
@@ -1147,7 +1147,7 @@ x-co-op: Yes
 
 
 game: Super Smash Bros. (USA) (Smash Remix Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Super Smash Bros. (USA) (Smash Remix Patch)/Super Smash Bros. (USA) (Smash Remix Patch).json
+file: Nintendo/Nintendo 64/Super Smash Bros. (USA) (Smash Remix Patch)/Super Smash Bros. (USA) (Smash Remix Patch).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Fighting;Platform;Party
@@ -1180,7 +1180,7 @@ x-co-op: Yes
 
 
 game: Tsumi to Batsu - Hoshi no Keishousha (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Tsumi to Batsu - Hoshi no Keishousha (Japan)/Tsumi to Batsu - Hoshi no Keishousha (Japan).json
+file: Nintendo/Nintendo 64/Tsumi to Batsu - Hoshi no Keishousha (Japan)/Tsumi to Batsu - Hoshi no Keishousha (Japan).json
 developer: Treasure
 publisher: Nintendo
 genre: Shooter
@@ -1201,7 +1201,7 @@ x-co-op: No
 
 
 game: WWF WrestleMania 2000 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/WWF WrestleMania 2000 (USA)/WWF WrestleMania 2000 (USA).json
+file: Nintendo/Nintendo 64/WWF WrestleMania 2000 (USA)/WWF WrestleMania 2000 (USA).json
 developer: AKI Corporation
 publisher: THQ
 genre: Sports
@@ -1222,7 +1222,7 @@ x-co-op: No
 
 
 game: Yoshi's Story (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 64/Yoshi's Story (USA) (En,Ja)/Yoshi's Story (USA) (En,Ja).json
+file: Nintendo/Nintendo 64/Yoshi's Story (USA) (En,Ja)/Yoshi's Story (USA) (En,Ja).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform

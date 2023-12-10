@@ -1,9 +1,9 @@
 collection: Atari 2600
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Atari 2600" {file.path}
+launch: launch_rom -l "Atari 2600" {file.path}
 
 
 game: 3-D Tic-Tac-Toe (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/3-D Tic-Tac-Toe (USA)/3-D Tic-Tac-Toe (USA).json
+file: Other/Atari 2600/3-D Tic-Tac-Toe (USA)/3-D Tic-Tac-Toe (USA).json
 developer: Atari
 publisher: Atari
 genre: Puzzle
@@ -29,7 +29,7 @@ x-co-op: No
 
 
 game: Activision Decathlon, The (Europe)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Activision Decathlon, The (Europe)/Activision Decathlon, The (Europe).json
+file: Other/Atari 2600/Activision Decathlon, The (Europe)/Activision Decathlon, The (Europe).json
 developer: David Crane
 publisher: Activision, Inc.
 genre: Sports
@@ -53,7 +53,7 @@ x-co-op: No
 
 
 game: Adventure (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Adventure (USA)/Adventure (USA).json
+file: Other/Atari 2600/Adventure (USA)/Adventure (USA).json
 developer: Warren Robinett
 publisher: Atari
 genre: Adventure
@@ -96,7 +96,7 @@ x-co-op: No
 
 
 game: Adventure II (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Adventure II (USA) (Proto)/Adventure II (USA) (Proto).json
+file: Other/Atari 2600/Adventure II (USA) (Proto)/Adventure II (USA) (Proto).json
 developer: Curt Vendel
 publisher: Atari
 genre: Adventure
@@ -115,7 +115,7 @@ x-co-op: No
 
 
 game: Air Raiders (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Air Raiders (USA)/Air Raiders (USA).json
+file: Other/Atari 2600/Air Raiders (USA)/Air Raiders (USA).json
 developer: Larry Zwick
 publisher: Telegames
 genre: Shooter
@@ -136,7 +136,7 @@ x-co-op: No
 
 
 game: Air-Sea Battle ~ Target Fun (Japan, USA) (En)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Air-Sea Battle ~ Target Fun (Japan, USA) (En)/Air-Sea Battle ~ Target Fun (Japan, USA) (En).json
+file: Other/Atari 2600/Air-Sea Battle ~ Target Fun (Japan, USA) (En)/Air-Sea Battle ~ Target Fun (Japan, USA) (En).json
 developer: Larry Kaplan
 publisher: Atari, Inc.
 genre: Shooter
@@ -187,7 +187,7 @@ x-co-op: Yes
 
 
 game: Aquaventure (USA) (Proto) (1983-08-12)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Aquaventure (USA) (Proto) (1983-08-12)/Aquaventure (USA) (Proto) (1983-08-12).json
+file: Other/Atari 2600/Aquaventure (USA) (Proto) (1983-08-12)/Aquaventure (USA) (Proto) (1983-08-12).json
 developer: Gary Shannon & Tod Frye
 publisher: Never Published (Prototype)
 genre: Shooter
@@ -209,7 +209,7 @@ x-co-op: No
 
 
 game: Armor Ambush (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Armor Ambush (USA)/Armor Ambush (USA).json
+file: Other/Atari 2600/Armor Ambush (USA)/Armor Ambush (USA).json
 developer: Hal Finney
 publisher: Mattel Electronics
 genre: Shooter
@@ -235,7 +235,7 @@ x-co-op: No
 
 
 game: Asteroids (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Asteroids (Japan, USA)/Asteroids (Japan, USA).json
+file: Other/Atari 2600/Asteroids (Japan, USA)/Asteroids (Japan, USA).json
 developer: Bradley G. Stewart
 publisher: Atari
 genre: Shooter
@@ -304,7 +304,7 @@ x-co-op: No
 
 
 game: Asteroids (USA) (Atari Anthology)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Asteroids (USA) (Atari Anthology)/Asteroids (USA) (Atari Anthology).json
+file: Other/Atari 2600/Asteroids (USA) (Atari Anthology)/Asteroids (USA) (Atari Anthology).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter
@@ -327,7 +327,7 @@ x-co-op: No
 
 
 game: Astroblast (USA) (v1.1)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Astroblast (USA) (v1.1)/Astroblast (USA) (v1.1).json
+file: Other/Atari 2600/Astroblast (USA) (v1.1)/Astroblast (USA) (v1.1).json
 developer: Hal Finney
 publisher: Mattel Electronics
 genre: Shooter
@@ -360,7 +360,7 @@ x-co-op: No
 
 
 game: Atari Video Cube (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Atari Video Cube (USA)/Atari Video Cube (USA).json
+file: Other/Atari 2600/Atari Video Cube (USA)/Atari Video Cube (USA).json
 developer: Atari
 publisher: Atari
 genre: Puzzle
@@ -400,7 +400,7 @@ x-co-op: No
 
 
 game: Atlantis (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Atlantis (USA)/Atlantis (USA).json
+file: Other/Atari 2600/Atlantis (USA)/Atlantis (USA).json
 developer: Dennis Koble
 publisher: Imagic
 genre: Shooter
@@ -426,7 +426,7 @@ x-co-op: No
 
 
 game: BASIC Programming (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/BASIC Programming (USA)/BASIC Programming (USA).json
+file: Other/Atari 2600/BASIC Programming (USA)/BASIC Programming (USA).json
 developer: Warren Robinett
 publisher: Atari
 genre: Education
@@ -454,7 +454,7 @@ x-co-op: No
 
 
 game: Backgammon (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Backgammon (USA)/Backgammon (USA).json
+file: Other/Atari 2600/Backgammon (USA)/Backgammon (USA).json
 developer: Craig Nelson
 publisher: Atari
 genre: Strategy;Board Game
@@ -503,7 +503,7 @@ x-co-op: No
 
 
 game: Barnstorming (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Barnstorming (USA)/Barnstorming (USA).json
+file: Other/Atari 2600/Barnstorming (USA)/Barnstorming (USA).json
 developer: Steve Cartwright
 publisher: Activision
 genre: Action
@@ -526,7 +526,7 @@ x-co-op: No
 
 
 game: Basic Math (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Basic Math (USA)/Basic Math (USA).json
+file: Other/Atari 2600/Basic Math (USA)/Basic Math (USA).json
 developer: Gary Palmer
 publisher: Atari
 genre: Education
@@ -551,7 +551,7 @@ x-co-op: No
 
 
 game: Battlezone (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Battlezone (Japan, USA)/Battlezone (Japan, USA).json
+file: Other/Atari 2600/Battlezone (Japan, USA)/Battlezone (Japan, USA).json
 developer: Michael Feinstein
 publisher: Atari
 genre: Shooter
@@ -586,7 +586,7 @@ x-co-op: No
 
 
 game: Beamrider (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Beamrider (USA)/Beamrider (USA).json
+file: Other/Atari 2600/Beamrider (USA)/Beamrider (USA).json
 developer: David Rolfe
 publisher: Activision
 genre: Shooter
@@ -615,7 +615,7 @@ x-co-op: No
 
 
 game: Black Jack (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Black Jack (USA)/Black Jack (USA).json
+file: Other/Atari 2600/Black Jack (USA)/Black Jack (USA).json
 developer: Bob Whitehead
 publisher: Atari
 genre: Casino
@@ -642,7 +642,7 @@ x-co-op: No
 
 
 game: Bowling (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Bowling (USA)/Bowling (USA).json
+file: Other/Atari 2600/Bowling (USA)/Bowling (USA).json
 developer: Larry Kaplan
 publisher: Atari
 genre: Sports
@@ -674,7 +674,7 @@ x-co-op: No
 
 
 game: Boxing (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Boxing (USA)/Boxing (USA).json
+file: Other/Atari 2600/Boxing (USA)/Boxing (USA).json
 developer: Bob Whitehead
 publisher: Activision
 genre: Sports
@@ -700,7 +700,7 @@ x-co-op: No
 
 
 game: Brain Games (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Brain Games (USA)/Brain Games (USA).json
+file: Other/Atari 2600/Brain Games (USA)/Brain Games (USA).json
 developer: Larry Kaplan
 publisher: Atari
 genre: Puzzle;Strategy
@@ -736,7 +736,7 @@ x-co-op: No
 
 
 game: Breakout ~ Breakaway IV (Japan, USA) (En)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Breakout ~ Breakaway IV (Japan, USA) (En)/Breakout ~ Breakaway IV (Japan, USA) (En).json
+file: Other/Atari 2600/Breakout ~ Breakaway IV (Japan, USA) (En)/Breakout ~ Breakaway IV (Japan, USA) (En).json
 developer: Brad Stewart
 publisher: Atari
 genre: Action
@@ -758,7 +758,7 @@ x-co-op: No
 
 
 game: Bridge (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Bridge (USA)/Bridge (USA).json
+file: Other/Atari 2600/Bridge (USA)/Bridge (USA).json
 developer: Larry Kaplan
 publisher: Activision
 genre: Strategy;Casino
@@ -788,7 +788,7 @@ x-co-op: No
 
 
 game: Canyon Bomber (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Canyon Bomber (USA)/Canyon Bomber (USA).json
+file: Other/Atari 2600/Canyon Bomber (USA)/Canyon Bomber (USA).json
 developer: David Crane
 publisher: Atari
 genre: Shooter
@@ -874,7 +874,7 @@ x-co-op: No
 
 
 game: Casino ~ Poker Plus (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Casino ~ Poker Plus (USA)/Casino ~ Poker Plus (USA).json
+file: Other/Atari 2600/Casino ~ Poker Plus (USA)/Casino ~ Poker Plus (USA).json
 developer: Bob Whitehead
 publisher: Atari, Inc.
 genre: Puzzle;Strategy;Casino
@@ -945,7 +945,7 @@ x-co-op: No
 
 
 game: Centipede (Japan, USA) (En)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Centipede (Japan, USA) (En)/Centipede (Japan, USA) (En).json
+file: Other/Atari 2600/Centipede (Japan, USA) (En)/Centipede (Japan, USA) (En).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -1046,7 +1046,7 @@ x-co-op: No
 
 
 game: Championship Soccer ~ Soccer (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Championship Soccer ~ Soccer (USA)/Championship Soccer ~ Soccer (USA).json
+file: Other/Atari 2600/Championship Soccer ~ Soccer (USA)/Championship Soccer ~ Soccer (USA).json
 developer: Steve Wright
 publisher: Atari
 genre: Sports
@@ -1108,7 +1108,7 @@ x-co-op: No
 
 
 game: Checkers (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Checkers (USA)/Checkers (USA).json
+file: Other/Atari 2600/Checkers (USA)/Checkers (USA).json
 developer: Alan Miller
 publisher: Activision
 genre: Strategy;Board Game
@@ -1137,7 +1137,7 @@ x-co-op: No
 
 
 game: Chopper Command (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Chopper Command (USA)/Chopper Command (USA).json
+file: Other/Atari 2600/Chopper Command (USA)/Chopper Command (USA).json
 developer: Bob Whitehead
 publisher: CCE
 genre: Shooter
@@ -1165,7 +1165,7 @@ x-co-op: No
 
 
 game: Circus Atari (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Circus Atari (Japan, USA)/Circus Atari (Japan, USA).json
+file: Other/Atari 2600/Circus Atari (Japan, USA)/Circus Atari (Japan, USA).json
 developer: Mike Lorenzen
 publisher: Atari
 genre: Action
@@ -1192,7 +1192,7 @@ x-co-op: No
 
 
 game: Codebreaker (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Codebreaker (USA)/Codebreaker (USA).json
+file: Other/Atari 2600/Codebreaker (USA)/Codebreaker (USA).json
 developer: Atari
 publisher: Atari
 genre: Puzzle
@@ -1215,7 +1215,7 @@ x-co-op: No
 
 
 game: Combat (USA, Europe) (Atari Anthology)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Combat (USA, Europe) (Atari Anthology)/Combat (USA, Europe) (Atari Anthology).json
+file: Other/Atari 2600/Combat (USA, Europe) (Atari Anthology)/Combat (USA, Europe) (Atari Anthology).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter
@@ -1237,7 +1237,7 @@ x-co-op: No
 
 
 game: Combat Two (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Combat Two (USA) (Proto)/Combat Two (USA) (Proto).json
+file: Other/Atari 2600/Combat Two (USA) (Proto)/Combat Two (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Fighting;Strategy
@@ -1277,7 +1277,7 @@ x-co-op: Yes
 
 
 game: Combat ~ Tank-Plus (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Combat ~ Tank-Plus (USA)/Combat ~ Tank-Plus (USA).json
+file: Other/Atari 2600/Combat ~ Tank-Plus (USA)/Combat ~ Tank-Plus (USA).json
 developer: Larry Wagner
 publisher: Atari
 genre: Action
@@ -1334,7 +1334,7 @@ x-co-op: No
 
 
 game: Commando (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Commando (USA)/Commando (USA).json
+file: Other/Atari 2600/Commando (USA)/Commando (USA).json
 developer: Imagineering
 publisher: Activision, Inc.
 genre: Shooter
@@ -1356,7 +1356,7 @@ x-co-op: No
 
 
 game: Computer Chess (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Computer Chess (USA) (Proto)/Computer Chess (USA) (Proto).json
+file: Other/Atari 2600/Computer Chess (USA) (Proto)/Computer Chess (USA) (Proto).json
 developer: Bob Whitehead
 publisher: Atari,Inc.
 genre: Strategy;Board Game
@@ -1409,7 +1409,7 @@ x-co-op: No
 
 
 game: Cosmic Commuter (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Cosmic Commuter (USA)/Cosmic Commuter (USA).json
+file: Other/Atari 2600/Cosmic Commuter (USA)/Cosmic Commuter (USA).json
 developer: John Van Ryzin
 publisher: Activision
 genre: Shooter
@@ -1439,7 +1439,7 @@ x-co-op: No
 
 
 game: Crackpots (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Crackpots (USA)/Crackpots (USA).json
+file: Other/Atari 2600/Crackpots (USA)/Crackpots (USA).json
 developer: Dan Kitchen
 publisher: Activision
 genre: Action
@@ -1469,7 +1469,7 @@ x-co-op: No
 
 
 game: Crystal Castles (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Crystal Castles (USA)/Crystal Castles (USA).json
+file: Other/Atari 2600/Crystal Castles (USA)/Crystal Castles (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -1493,7 +1493,7 @@ x-co-op: No
 
 
 game: Dark Cavern (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Dark Cavern (USA)/Dark Cavern (USA).json
+file: Other/Atari 2600/Dark Cavern (USA)/Dark Cavern (USA).json
 developer: Hal Finney
 publisher: M-Network
 genre: Action
@@ -1519,7 +1519,7 @@ x-co-op: No
 
 
 game: Dark Chambers (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Dark Chambers (USA)/Dark Chambers (USA).json
+file: Other/Atari 2600/Dark Chambers (USA)/Dark Chambers (USA).json
 developer: Adam Clayton
 publisher: Atari
 genre: Action
@@ -1548,7 +1548,7 @@ x-co-op: No
 
 
 game: Demon Attack (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Demon Attack (USA) (Rev 1)/Demon Attack (USA) (Rev 1).json
+file: Other/Atari 2600/Demon Attack (USA) (Rev 1)/Demon Attack (USA) (Rev 1).json
 developer: Imagic
 publisher: Imagic
 genre: Shooter
@@ -1572,7 +1572,7 @@ x-co-op: No
 
 
 game: Demons to Diamonds (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Demons to Diamonds (USA)/Demons to Diamonds (USA).json
+file: Other/Atari 2600/Demons to Diamonds (USA)/Demons to Diamonds (USA).json
 developer: Nick Turner
 publisher: Atari, Inc.
 genre: Shooter
@@ -1599,7 +1599,7 @@ x-co-op: No
 
 
 game: Desert Falcon (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Desert Falcon (USA)/Desert Falcon (USA).json
+file: Other/Atari 2600/Desert Falcon (USA)/Desert Falcon (USA).json
 developer: Bob Polaro
 publisher: Atari
 genre: Shooter
@@ -1630,7 +1630,7 @@ x-co-op: No
 
 
 game: Dodge 'Em ~ Dodger Cars (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Dodge 'Em ~ Dodger Cars (USA)/Dodge 'Em ~ Dodger Cars (USA).json
+file: Other/Atari 2600/Dodge 'Em ~ Dodger Cars (USA)/Dodge 'Em ~ Dodger Cars (USA).json
 developer: Carla Meninsky
 publisher: Atari
 genre: Action;Racing
@@ -1658,7 +1658,7 @@ x-co-op: No
 
 
 game: Dolphin (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Dolphin (USA)/Dolphin (USA).json
+file: Other/Atari 2600/Dolphin (USA)/Dolphin (USA).json
 developer: Bob Whitehead
 publisher: Activision
 genre: Action
@@ -1707,7 +1707,7 @@ x-co-op: No
 
 
 game: Double Dunk (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Double Dunk (USA)/Double Dunk (USA).json
+file: Other/Atari 2600/Double Dunk (USA)/Double Dunk (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -1734,7 +1734,7 @@ x-co-op: No
 
 
 game: Dragster (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Dragster (USA)/Dragster (USA).json
+file: Other/Atari 2600/Dragster (USA)/Dragster (USA).json
 developer: David Crane
 publisher: Activision, Inc.
 genre: Racing
@@ -1775,7 +1775,7 @@ x-co-op: No
 
 
 game: Enduro (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Enduro (USA)/Enduro (USA).json
+file: Other/Atari 2600/Enduro (USA)/Enduro (USA).json
 developer: Larry Miller
 publisher: Activision
 genre: Racing
@@ -1801,7 +1801,7 @@ x-co-op: No
 
 
 game: Fatal Run (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Fatal Run (USA)/Fatal Run (USA).json
+file: Other/Atari 2600/Fatal Run (USA)/Fatal Run (USA).json
 developer: Sculptured Software
 publisher: Atari Corporation
 genre: Racing
@@ -1825,7 +1825,7 @@ x-co-op: No
 
 
 game: Fishing Derby (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Fishing Derby (USA)/Fishing Derby (USA).json
+file: Other/Atari 2600/Fishing Derby (USA)/Fishing Derby (USA).json
 developer: Activision
 publisher: Activision
 genre: Sports
@@ -1850,7 +1850,7 @@ x-co-op: No
 
 
 game: Flag Capture ~ Capture (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Flag Capture ~ Capture (USA)/Flag Capture ~ Capture (USA).json
+file: Other/Atari 2600/Flag Capture ~ Capture (USA)/Flag Capture ~ Capture (USA).json
 developer: Jim Heuther
 publisher: Atari, Inc.
 genre: Puzzle;Strategy
@@ -1883,7 +1883,7 @@ x-co-op: No
 
 
 game: Football (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Football (USA)/Football (USA).json
+file: Other/Atari 2600/Football (USA)/Football (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -1930,7 +1930,7 @@ x-co-op: No
 
 
 game: Freeway (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Freeway (USA)/Freeway (USA).json
+file: Other/Atari 2600/Freeway (USA)/Freeway (USA).json
 developer: David Crane
 publisher: Activision
 genre: Action
@@ -1968,7 +1968,7 @@ x-co-op: No
 
 
 game: Frog Pond (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Frog Pond (USA) (Proto)/Frog Pond (USA) (Proto).json
+file: Other/Atari 2600/Frog Pond (USA) (Proto)/Frog Pond (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Platform
@@ -2007,7 +2007,7 @@ x-co-op: No
 
 
 game: Frogs and Flies (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Frogs and Flies (USA)/Frogs and Flies (USA).json
+file: Other/Atari 2600/Frogs and Flies (USA)/Frogs and Flies (USA).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Platform
@@ -2034,7 +2034,7 @@ x-co-op: No
 
 
 game: Frostbite (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Frostbite (USA)/Frostbite (USA).json
+file: Other/Atari 2600/Frostbite (USA)/Frostbite (USA).json
 developer: Activision
 publisher: Activision
 genre: Action
@@ -2056,7 +2056,7 @@ x-co-op: No
 
 
 game: Golf (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Golf (USA)/Golf (USA).json
+file: Other/Atari 2600/Golf (USA)/Golf (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -2081,7 +2081,7 @@ x-co-op: No
 
 
 game: Grand Prix (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Grand Prix (USA)/Grand Prix (USA).json
+file: Other/Atari 2600/Grand Prix (USA)/Grand Prix (USA).json
 developer: David Crane
 publisher: Activision, Inc.
 genre: Racing
@@ -2107,7 +2107,7 @@ x-co-op: No
 
 
 game: Gravitar (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Gravitar (USA)/Gravitar (USA).json
+file: Other/Atari 2600/Gravitar (USA)/Gravitar (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -2137,7 +2137,7 @@ x-co-op: No
 
 
 game: H.E.R.O. (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/H.E.R.O. (USA)/H.E.R.O. (USA).json
+file: Other/Atari 2600/H.E.R.O. (USA)/H.E.R.O. (USA).json
 developer: John Van Ryzin
 publisher: Activision, Inc.
 genre: Action;Platform
@@ -2176,7 +2176,7 @@ x-co-op: No
 
 
 game: Hangman ~ Spelling (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Hangman ~ Spelling (USA)/Hangman ~ Spelling (USA).json
+file: Other/Atari 2600/Hangman ~ Spelling (USA)/Hangman ~ Spelling (USA).json
 developer: Atari
 publisher: Atari
 genre: Puzzle
@@ -2246,7 +2246,7 @@ x-co-op: Yes
 
 
 game: Haunted House (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Haunted House (USA)/Haunted House (USA).json
+file: Other/Atari 2600/Haunted House (USA)/Haunted House (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Adventure
@@ -2291,7 +2291,7 @@ x-co-op: No
 
 
 game: Holey Moley (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Holey Moley (USA) (Proto)/Holey Moley (USA) (Proto).json
+file: Other/Atari 2600/Holey Moley (USA) (Proto)/Holey Moley (USA) (Proto).json
 developer: Atari, Inc.
 publisher: Atari2600.com
 genre: Action
@@ -2331,7 +2331,7 @@ x-co-op: No
 
 
 game: Home Run ~ Baseball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Home Run ~ Baseball (USA)/Home Run ~ Baseball (USA).json
+file: Other/Atari 2600/Home Run ~ Baseball (USA)/Home Run ~ Baseball (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -2361,7 +2361,7 @@ x-co-op: No
 
 
 game: Human Cannonball ~ Cannon Man (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Human Cannonball ~ Cannon Man (USA)/Human Cannonball ~ Cannon Man (USA).json
+file: Other/Atari 2600/Human Cannonball ~ Cannon Man (USA)/Human Cannonball ~ Cannon Man (USA).json
 developer: Atari
 publisher: Atari
 genre: Strategy
@@ -2394,7 +2394,7 @@ x-co-op: No
 
 
 game: Hunt & Score ~ Memory Match (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Hunt & Score ~ Memory Match (USA)/Hunt & Score ~ Memory Match (USA).json
+file: Other/Atari 2600/Hunt & Score ~ Memory Match (USA)/Hunt & Score ~ Memory Match (USA).json
 developer: Atari
 publisher: Atari
 genre: Puzzle
@@ -2417,7 +2417,7 @@ x-co-op: No
 
 
 game: Ice Hockey (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Ice Hockey (USA)/Ice Hockey (USA).json
+file: Other/Atari 2600/Ice Hockey (USA)/Ice Hockey (USA).json
 developer: Alan Miller
 publisher: Activision
 genre: Sports
@@ -2443,7 +2443,7 @@ x-co-op: No
 
 
 game: Indy 500 ~ Race (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Indy 500 ~ Race (USA)/Indy 500 ~ Race (USA).json
+file: Other/Atari 2600/Indy 500 ~ Race (USA)/Indy 500 ~ Race (USA).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -2470,7 +2470,7 @@ x-co-op: No
 
 
 game: International Soccer (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/International Soccer (USA)/International Soccer (USA).json
+file: Other/Atari 2600/International Soccer (USA)/International Soccer (USA).json
 developer: APh Technological Consulting
 publisher: M-Network
 genre: Sports
@@ -2497,7 +2497,7 @@ x-co-op: No
 
 
 game: Kabobber (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Kabobber (USA) (Proto)/Kabobber (USA) (Proto).json
+file: Other/Atari 2600/Kabobber (USA) (Proto)/Kabobber (USA) (Proto).json
 developer: Bradford, Rex
 publisher: Activision
 genre: Action
@@ -2537,7 +2537,7 @@ x-co-op: No
 
 
 game: Kaboom! (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Kaboom! (USA)/Kaboom! (USA).json
+file: Other/Atari 2600/Kaboom! (USA)/Kaboom! (USA).json
 developer: Activision
 publisher: Activision
 genre: Action
@@ -2559,7 +2559,7 @@ x-co-op: No
 
 
 game: Keystone Kapers (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Keystone Kapers (USA)/Keystone Kapers (USA).json
+file: Other/Atari 2600/Keystone Kapers (USA)/Keystone Kapers (USA).json
 developer: Garry Kitchen
 publisher: Activision
 genre: Action
@@ -2589,7 +2589,7 @@ x-co-op: No
 
 
 game: Laser Blast (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Laser Blast (USA)/Laser Blast (USA).json
+file: Other/Atari 2600/Laser Blast (USA)/Laser Blast (USA).json
 developer: David Crane
 publisher: Activision
 genre: Shooter
@@ -2627,7 +2627,7 @@ x-co-op: No
 
 
 game: Math Gran Prix (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Math Gran Prix (USA)/Math Gran Prix (USA).json
+file: Other/Atari 2600/Math Gran Prix (USA)/Math Gran Prix (USA).json
 developer: Atari
 publisher: Atari
 genre: Quiz;Education
@@ -2671,7 +2671,7 @@ x-co-op: No
 
 
 game: Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).json
+file: Other/Atari 2600/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA)/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Puzzle
@@ -2711,7 +2711,7 @@ x-co-op: No
 
 
 game: MegaMania - A Space Nightmare (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/MegaMania - A Space Nightmare (USA)/MegaMania - A Space Nightmare (USA).json
+file: Other/Atari 2600/MegaMania - A Space Nightmare (USA)/MegaMania - A Space Nightmare (USA).json
 developer: Activision
 publisher: Activision
 genre: Shooter
@@ -2751,7 +2751,7 @@ x-co-op: No
 
 
 game: Millipede (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Millipede (USA)/Millipede (USA).json
+file: Other/Atari 2600/Millipede (USA)/Millipede (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -2781,7 +2781,7 @@ x-co-op: No
 
 
 game: Miner 2049er - Starring Bounty Bob (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Miner 2049er - Starring Bounty Bob (USA)/Miner 2049er - Starring Bounty Bob (USA).json
+file: Other/Atari 2600/Miner 2049er - Starring Bounty Bob (USA)/Miner 2049er - Starring Bounty Bob (USA).json
 developer: Tigervision
 publisher: Tigervision
 genre: Platform
@@ -2801,7 +2801,7 @@ x-co-op: No
 
 
 game: Miniature Golf ~ Arcade Golf (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Miniature Golf ~ Arcade Golf (USA)/Miniature Golf ~ Arcade Golf (USA).json
+file: Other/Atari 2600/Miniature Golf ~ Arcade Golf (USA)/Miniature Golf ~ Arcade Golf (USA).json
 developer: Tom Reuterdahl
 publisher: Atari, Inc.
 genre: Sports
@@ -2835,7 +2835,7 @@ x-co-op: No
 
 
 game: Missile Command (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Missile Command (USA)/Missile Command (USA).json
+file: Other/Atari 2600/Missile Command (USA)/Missile Command (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -2887,7 +2887,7 @@ x-co-op: No
 
 
 game: Moonsweeper (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Moonsweeper (USA)/Moonsweeper (USA).json
+file: Other/Atari 2600/Moonsweeper (USA)/Moonsweeper (USA).json
 developer: Imagic
 publisher: Imagic
 genre: Shooter
@@ -2916,7 +2916,7 @@ x-co-op: No
 
 
 game: MotoRodeo (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/MotoRodeo (USA)/MotoRodeo (USA).json
+file: Other/Atari 2600/MotoRodeo (USA)/MotoRodeo (USA).json
 developer: Axlon
 publisher: Atari
 genre: Action;Racing
@@ -2970,7 +2970,7 @@ x-co-op: No
 
 
 game: Night Driver (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Night Driver (USA)/Night Driver (USA).json
+file: Other/Atari 2600/Night Driver (USA)/Night Driver (USA).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -2996,7 +2996,7 @@ x-co-op: No
 
 
 game: Off the Wall (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Off the Wall (USA)/Off the Wall (USA).json
+file: Other/Atari 2600/Off the Wall (USA)/Off the Wall (USA).json
 developer: John Vifian
 publisher: Atari
 genre: Action
@@ -3030,7 +3030,7 @@ x-co-op: No
 
 
 game: Oink! (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Oink! (USA)/Oink! (USA).json
+file: Other/Atari 2600/Oink! (USA)/Oink! (USA).json
 developer: Activision
 publisher: Activision
 genre: Action
@@ -3066,7 +3066,7 @@ x-co-op: No
 
 
 game: Outlaw ~ Gunslinger (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Outlaw ~ Gunslinger (USA)/Outlaw ~ Gunslinger (USA).json
+file: Other/Atari 2600/Outlaw ~ Gunslinger (USA)/Outlaw ~ Gunslinger (USA).json
 developer: David Crane
 publisher: Atari
 genre: Action;Shooter
@@ -3103,7 +3103,7 @@ x-co-op: No
 
 
 game: Pac-Man (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Pac-Man (USA)/Pac-Man (USA).json
+file: Other/Atari 2600/Pac-Man (USA)/Pac-Man (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -3136,7 +3136,7 @@ x-co-op: No
 
 
 game: Pitfall II - Lost Caverns (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Pitfall II - Lost Caverns (USA)/Pitfall II - Lost Caverns (USA).json
+file: Other/Atari 2600/Pitfall II - Lost Caverns (USA)/Pitfall II - Lost Caverns (USA).json
 developer: David Crane
 publisher: Activision, Inc.
 genre: Action;Platform
@@ -3170,7 +3170,7 @@ x-co-op: No
 
 
 game: Pitfall! - Pitfall Harry's Jungle Adventure (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Pitfall! - Pitfall Harry's Jungle Adventure (USA)/Pitfall! - Pitfall Harry's Jungle Adventure (USA).json
+file: Other/Atari 2600/Pitfall! - Pitfall Harry's Jungle Adventure (USA)/Pitfall! - Pitfall Harry's Jungle Adventure (USA).json
 developer: David Crane
 publisher: Goliath
 genre: Action;Platform
@@ -3218,7 +3218,7 @@ x-co-op: No
 
 
 game: Plaque Attack (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Plaque Attack (USA)/Plaque Attack (USA).json
+file: Other/Atari 2600/Plaque Attack (USA)/Plaque Attack (USA).json
 developer: Activision
 publisher: Activision
 genre: Action
@@ -3257,7 +3257,7 @@ x-co-op: No
 
 
 game: Pressure Cooker (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Pressure Cooker (USA)/Pressure Cooker (USA).json
+file: Other/Atari 2600/Pressure Cooker (USA)/Pressure Cooker (USA).json
 developer: Activision
 publisher: Activision
 genre: Action
@@ -3294,7 +3294,7 @@ x-co-op: No
 
 
 game: Private Eye (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Private Eye (USA)/Private Eye (USA).json
+file: Other/Atari 2600/Private Eye (USA)/Private Eye (USA).json
 developer: Activision
 publisher: Activision
 genre: Action
@@ -3333,7 +3333,7 @@ x-co-op: No
 
 
 game: Quadrun (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Quadrun (USA)/Quadrun (USA).json
+file: Other/Atari 2600/Quadrun (USA)/Quadrun (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -3366,7 +3366,7 @@ x-co-op: No
 
 
 game: Radar Lock (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Radar Lock (USA)/Radar Lock (USA).json
+file: Other/Atari 2600/Radar Lock (USA)/Radar Lock (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -3398,7 +3398,7 @@ x-co-op: No
 
 
 game: Raiders of the Lost Ark (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Raiders of the Lost Ark (USA)/Raiders of the Lost Ark (USA).json
+file: Other/Atari 2600/Raiders of the Lost Ark (USA)/Raiders of the Lost Ark (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -3458,7 +3458,7 @@ x-co-op: No
 
 
 game: RealSports Baseball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/RealSports Baseball (USA)/RealSports Baseball (USA).json
+file: Other/Atari 2600/RealSports Baseball (USA)/RealSports Baseball (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -3483,7 +3483,7 @@ x-co-op: No
 
 
 game: RealSports Basketball (Europe) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/RealSports Basketball (Europe) (Proto)/RealSports Basketball (Europe) (Proto).json
+file: Other/Atari 2600/RealSports Basketball (Europe) (Proto)/RealSports Basketball (Europe) (Proto).json
 developer: Gaucher, Joe
 publisher: Atari (USA)
 genre: Sports
@@ -3520,7 +3520,7 @@ x-co-op: No
 
 
 game: RealSports Boxing (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/RealSports Boxing (USA)/RealSports Boxing (USA).json
+file: Other/Atari 2600/RealSports Boxing (USA)/RealSports Boxing (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -3546,7 +3546,7 @@ x-co-op: No
 
 
 game: RealSports Football (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/RealSports Football (USA)/RealSports Football (USA).json
+file: Other/Atari 2600/RealSports Football (USA)/RealSports Football (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -3569,7 +3569,7 @@ x-co-op: No
 
 
 game: RealSports Soccer (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/RealSports Soccer (USA)/RealSports Soccer (USA).json
+file: Other/Atari 2600/RealSports Soccer (USA)/RealSports Soccer (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -3606,7 +3606,7 @@ x-co-op: No
 
 
 game: RealSports Tennis (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/RealSports Tennis (USA)/RealSports Tennis (USA).json
+file: Other/Atari 2600/RealSports Tennis (USA)/RealSports Tennis (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -3636,7 +3636,7 @@ x-co-op: No
 
 
 game: RealSports Volleyball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/RealSports Volleyball (USA)/RealSports Volleyball (USA).json
+file: Other/Atari 2600/RealSports Volleyball (USA)/RealSports Volleyball (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -3673,7 +3673,7 @@ x-co-op: No
 
 
 game: Return to Haunted House (USA) (Hack)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Return to Haunted House (USA) (Hack)/Return to Haunted House (USA) (Hack).json
+file: Other/Atari 2600/Return to Haunted House (USA) (Hack)/Return to Haunted House (USA) (Hack).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Action;General
@@ -3692,7 +3692,7 @@ x-co-op: No
 
 
 game: River Raid (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/River Raid (USA)/River Raid (USA).json
+file: Other/Atari 2600/River Raid (USA)/River Raid (USA).json
 developer: Carol Shaw
 publisher: Activision
 genre: Shooter
@@ -3713,7 +3713,7 @@ x-co-op: No
 
 
 game: River Raid II (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/River Raid II (USA)/River Raid II (USA).json
+file: Other/Atari 2600/River Raid II (USA)/River Raid II (USA).json
 developer: Imagineering
 publisher: Activision
 genre: Shooter
@@ -3735,7 +3735,7 @@ x-co-op: No
 
 
 game: Robot Tank (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Robot Tank (USA)/Robot Tank (USA).json
+file: Other/Atari 2600/Robot Tank (USA)/Robot Tank (USA).json
 developer: Alan Miller
 publisher: Activision, Inc.
 genre: Shooter
@@ -3764,7 +3764,7 @@ x-co-op: No
 
 
 game: Saboteur (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Saboteur (USA) (Proto)/Saboteur (USA) (Proto).json
+file: Other/Atari 2600/Saboteur (USA) (Proto)/Saboteur (USA) (Proto).json
 developer: Atari, Inc.
 publisher: AtariAge
 genre: Action;Shooter
@@ -3812,7 +3812,7 @@ x-co-op: Yes
 
 
 game: Save Mary! (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Save Mary! (USA) (Proto)/Save Mary! (USA) (Proto).json
+file: Other/Atari 2600/Save Mary! (USA) (Proto)/Save Mary! (USA) (Proto).json
 developer: Tod Frye
 publisher: Atari, Inc.
 genre: Puzzle
@@ -3830,7 +3830,7 @@ x-co-op: No
 
 
 game: Sea Battle (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Sea Battle (USA)/Sea Battle (USA).json
+file: Other/Atari 2600/Sea Battle (USA)/Sea Battle (USA).json
 developer: Larry Zwick
 publisher: M-Network
 genre: Action
@@ -3859,7 +3859,7 @@ x-co-op: No
 
 
 game: Seaquest (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Seaquest (USA)/Seaquest (USA).json
+file: Other/Atari 2600/Seaquest (USA)/Seaquest (USA).json
 developer: Steve Cartwright
 publisher: Activision
 genre: Shooter
@@ -3879,7 +3879,7 @@ x-co-op: No
 
 
 game: Secret Quest (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Secret Quest (USA)/Secret Quest (USA).json
+file: Other/Atari 2600/Secret Quest (USA)/Secret Quest (USA).json
 developer: Axlon
 publisher: Atari
 genre: Action
@@ -3914,7 +3914,7 @@ x-co-op: No
 
 
 game: Sentinel (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Sentinel (USA)/Sentinel (USA).json
+file: Other/Atari 2600/Sentinel (USA)/Sentinel (USA).json
 developer: David Lubar
 publisher: Atari Corporation
 genre: Shooter
@@ -3940,7 +3940,7 @@ x-co-op: No
 
 
 game: Skiing (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Skiing (USA)/Skiing (USA).json
+file: Other/Atari 2600/Skiing (USA)/Skiing (USA).json
 developer: Activision
 publisher: Activision
 genre: Sports
@@ -3963,7 +3963,7 @@ x-co-op: No
 
 
 game: Sky Diver ~ Dare Diver (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Sky Diver ~ Dare Diver (USA)/Sky Diver ~ Dare Diver (USA).json
+file: Other/Atari 2600/Sky Diver ~ Dare Diver (USA)/Sky Diver ~ Dare Diver (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Sports
@@ -3983,7 +3983,7 @@ x-co-op: No
 
 
 game: Sky Jinks (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Sky Jinks (USA)/Sky Jinks (USA).json
+file: Other/Atari 2600/Sky Jinks (USA)/Sky Jinks (USA).json
 developer: Activision
 publisher: Activision
 genre: Racing
@@ -4009,7 +4009,7 @@ x-co-op: No
 
 
 game: Slot Machine ~ Slots (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Slot Machine ~ Slots (USA)/Slot Machine ~ Slots (USA).json
+file: Other/Atari 2600/Slot Machine ~ Slots (USA)/Slot Machine ~ Slots (USA).json
 developer: Atari
 publisher: Atari
 genre: Casino
@@ -4033,7 +4033,7 @@ x-co-op: No
 
 
 game: Slot Racers ~ Maze (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Slot Racers ~ Maze (USA)/Slot Racers ~ Maze (USA).json
+file: Other/Atari 2600/Slot Racers ~ Maze (USA)/Slot Racers ~ Maze (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Shooter
@@ -4055,7 +4055,7 @@ x-co-op: No
 
 
 game: Solaris (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Solaris (USA)/Solaris (USA).json
+file: Other/Atari 2600/Solaris (USA)/Solaris (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter;Flight Simulator
@@ -4087,7 +4087,7 @@ x-co-op: No
 
 
 game: Space Attack (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Space Attack (USA)/Space Attack (USA).json
+file: Other/Atari 2600/Space Attack (USA)/Space Attack (USA).json
 developer: Bruce Robinson
 publisher: Mattel Electronics
 genre: Shooter
@@ -4112,7 +4112,7 @@ x-co-op: No
 
 
 game: Space Shuttle - A Journey into Space (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Space Shuttle - A Journey into Space (USA)/Space Shuttle - A Journey into Space (USA).json
+file: Other/Atari 2600/Space Shuttle - A Journey into Space (USA)/Space Shuttle - A Journey into Space (USA).json
 developer: Activision
 publisher: Activision
 genre: Vehicle Simulation
@@ -4139,7 +4139,7 @@ x-co-op: No
 
 
 game: Space War ~ Space Combat (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Space War ~ Space Combat (USA)/Space War ~ Space Combat (USA).json
+file: Other/Atari 2600/Space War ~ Space Combat (USA)/Space War ~ Space Combat (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -4160,7 +4160,7 @@ x-co-op: No
 
 
 game: Spider Fighter (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Spider Fighter (USA)/Spider Fighter (USA).json
+file: Other/Atari 2600/Spider Fighter (USA)/Spider Fighter (USA).json
 developer: Activision
 publisher: Activision
 genre: Shooter
@@ -4184,7 +4184,7 @@ x-co-op: No
 
 
 game: Sprint Master (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Sprint Master (USA)/Sprint Master (USA).json
+file: Other/Atari 2600/Sprint Master (USA)/Sprint Master (USA).json
 developer: Robert C. Polaro
 publisher: Atari Corporation
 genre: Action;Racing
@@ -4209,7 +4209,7 @@ x-co-op: No
 
 
 game: Stampede (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Stampede (USA)/Stampede (USA).json
+file: Other/Atari 2600/Stampede (USA)/Stampede (USA).json
 developer: Bob Whitehead
 publisher: Activision, Inc.
 genre: Action
@@ -4231,7 +4231,7 @@ x-co-op: No
 
 
 game: Star Raiders (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Star Raiders (USA)/Star Raiders (USA).json
+file: Other/Atari 2600/Star Raiders (USA)/Star Raiders (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Flight Simulator
@@ -4261,7 +4261,7 @@ x-co-op: No
 
 
 game: Star Ship ~ Outer Space (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Star Ship ~ Outer Space (USA)/Star Ship ~ Outer Space (USA).json
+file: Other/Atari 2600/Star Ship ~ Outer Space (USA)/Star Ship ~ Outer Space (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Shooter
@@ -4289,7 +4289,7 @@ x-co-op: No
 
 
 game: Star Strike (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Star Strike (USA)/Star Strike (USA).json
+file: Other/Atari 2600/Star Strike (USA)/Star Strike (USA).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Shooter
@@ -4312,7 +4312,7 @@ x-co-op: No
 
 
 game: StarMaster (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/StarMaster (USA)/StarMaster (USA).json
+file: Other/Atari 2600/StarMaster (USA)/StarMaster (USA).json
 developer: Activision
 publisher: Activision
 genre: Flight Simulator;Shooter
@@ -4347,7 +4347,7 @@ x-co-op: No
 
 
 game: Steeplechase (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Steeplechase (USA)/Steeplechase (USA).json
+file: Other/Atari 2600/Steeplechase (USA)/Steeplechase (USA).json
 developer: Atari
 publisher: Sears, Roebuck and Co.
 genre: Racing
@@ -4372,7 +4372,7 @@ x-co-op: No
 
 
 game: Stellar Track (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Stellar Track (USA)/Stellar Track (USA).json
+file: Other/Atari 2600/Stellar Track (USA)/Stellar Track (USA).json
 developer: Atari
 publisher: Sears
 genre: Strategy
@@ -4392,7 +4392,7 @@ x-co-op: No
 
 
 game: Street Racer ~ Speedway II (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Street Racer ~ Speedway II (USA)/Street Racer ~ Speedway II (USA).json
+file: Other/Atari 2600/Street Racer ~ Speedway II (USA)/Street Racer ~ Speedway II (USA).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -4414,7 +4414,7 @@ x-co-op: No
 
 
 game: Stunt Cycle (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Stunt Cycle (USA) (Proto)/Stunt Cycle (USA) (Proto).json
+file: Other/Atari 2600/Stunt Cycle (USA) (Proto)/Stunt Cycle (USA) (Proto).json
 developer: Bob Polaro
 publisher: Atari
 genre: Arcade
@@ -4452,7 +4452,7 @@ x-co-op: No
 
 
 game: Submarine Commander (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Submarine Commander (USA)/Submarine Commander (USA).json
+file: Other/Atari 2600/Submarine Commander (USA)/Submarine Commander (USA).json
 developer: Atari
 publisher: Sears, Roebuck and Co.
 genre: Shooter
@@ -4475,7 +4475,7 @@ x-co-op: No
 
 
 game: Super Baseball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Super Baseball (USA)/Super Baseball (USA).json
+file: Other/Atari 2600/Super Baseball (USA)/Super Baseball (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -4499,7 +4499,7 @@ x-co-op: No
 
 
 game: Super Breakout (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Super Breakout (USA)/Super Breakout (USA).json
+file: Other/Atari 2600/Super Breakout (USA)/Super Breakout (USA).json
 developer: Nick Turner
 publisher: Atari
 genre: Action
@@ -4530,7 +4530,7 @@ x-co-op: No
 
 
 game: Super Breakout (USA, Europe) (Atari Anthology)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Super Breakout (USA, Europe) (Atari Anthology)/Super Breakout (USA, Europe) (Atari Anthology).json
+file: Other/Atari 2600/Super Breakout (USA, Europe) (Atari Anthology)/Super Breakout (USA, Europe) (Atari Anthology).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action
@@ -4562,7 +4562,7 @@ x-co-op: No
 
 
 game: Super Challenge Baseball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Super Challenge Baseball (USA)/Super Challenge Baseball (USA).json
+file: Other/Atari 2600/Super Challenge Baseball (USA)/Super Challenge Baseball (USA).json
 developer: Mattel
 publisher: M-Network
 genre: Sports
@@ -4583,7 +4583,7 @@ x-co-op: No
 
 
 game: Super Challenge Football (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Super Challenge Football (USA)/Super Challenge Football (USA).json
+file: Other/Atari 2600/Super Challenge Football (USA)/Super Challenge Football (USA).json
 developer: Mattel
 publisher: M-Network
 genre: Sports
@@ -4602,7 +4602,7 @@ x-co-op: No
 
 
 game: Super Football (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Super Football (USA)/Super Football (USA).json
+file: Other/Atari 2600/Super Football (USA)/Super Football (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -4624,7 +4624,7 @@ x-co-op: No
 
 
 game: Surround ~ Chase (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Surround ~ Chase (USA)/Surround ~ Chase (USA).json
+file: Other/Atari 2600/Surround ~ Chase (USA)/Surround ~ Chase (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -4655,7 +4655,7 @@ x-co-op: No
 
 
 game: SwordQuest - EarthWorld (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/SwordQuest - EarthWorld (USA)/SwordQuest - EarthWorld (USA).json
+file: Other/Atari 2600/SwordQuest - EarthWorld (USA)/SwordQuest - EarthWorld (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -4681,7 +4681,7 @@ x-co-op: No
 
 
 game: SwordQuest - EarthWorld (USA, Europe) (Atari Anthology)
-file: $ROM_JSON_ROOT/Other/Atari 2600/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology)/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology).json
+file: Other/Atari 2600/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology)/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action
@@ -4707,7 +4707,7 @@ x-co-op: No
 
 
 game: SwordQuest - FireWorld (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/SwordQuest - FireWorld (USA)/SwordQuest - FireWorld (USA).json
+file: Other/Atari 2600/SwordQuest - FireWorld (USA)/SwordQuest - FireWorld (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -4749,7 +4749,7 @@ x-co-op: No
 
 
 game: SwordQuest - WaterWorld (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/SwordQuest - WaterWorld (USA)/SwordQuest - WaterWorld (USA).json
+file: Other/Atari 2600/SwordQuest - WaterWorld (USA)/SwordQuest - WaterWorld (USA).json
 developer: Atari
 publisher: Atari
 genre: Adventure;Puzzle
@@ -4774,7 +4774,7 @@ x-co-op: No
 
 
 game: Swordfight (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Swordfight (USA)/Swordfight (USA).json
+file: Other/Atari 2600/Swordfight (USA)/Swordfight (USA).json
 developer: M Network
 publisher: Intellivision Productions
 genre: Action
@@ -4794,7 +4794,7 @@ x-co-op: No
 
 
 game: Tank AI (USA) (Combat Edit)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Tank AI (USA) (Combat Edit)/Tank AI (USA) (Combat Edit).json
+file: Other/Atari 2600/Tank AI (USA) (Combat Edit)/Tank AI (USA) (Combat Edit).json
 developer: Zach Matley
 publisher: Zach Matley
 genre: Action
@@ -4814,7 +4814,7 @@ x-co-op: No
 
 
 game: Tempest (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Tempest (USA) (Proto)/Tempest (USA) (Proto).json
+file: Other/Atari 2600/Tempest (USA) (Proto)/Tempest (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -4840,7 +4840,7 @@ x-co-op: No
 
 
 game: Tennis (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Tennis (USA)/Tennis (USA).json
+file: Other/Atari 2600/Tennis (USA)/Tennis (USA).json
 developer: Activision
 publisher: Activision
 genre: Sports
@@ -4861,7 +4861,7 @@ x-co-op: No
 
 
 game: Thwocker (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Thwocker (USA) (Proto)/Thwocker (USA) (Proto).json
+file: Other/Atari 2600/Thwocker (USA) (Proto)/Thwocker (USA) (Proto).json
 developer: Activision
 publisher: Activision
 genre: Action;Platformer;2D
@@ -4880,7 +4880,7 @@ x-co-op: No
 
 
 game: Title Match Pro Wrestling (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Title Match Pro Wrestling (USA)/Title Match Pro Wrestling (USA).json
+file: Other/Atari 2600/Title Match Pro Wrestling (USA)/Title Match Pro Wrestling (USA).json
 developer: Absolute Entertainment
 publisher: Absolute Entertainment
 genre: Fighting;Sports
@@ -4914,7 +4914,7 @@ x-co-op: No
 
 
 game: Tomcat - The F-14 Fighter Simulator (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Tomcat - The F-14 Fighter Simulator (USA)/Tomcat - The F-14 Fighter Simulator (USA).json
+file: Other/Atari 2600/Tomcat - The F-14 Fighter Simulator (USA)/Tomcat - The F-14 Fighter Simulator (USA).json
 developer: Absolute Entertainment
 publisher: Absolute Entertainment
 genre: Flight Simulator
@@ -4936,7 +4936,7 @@ x-co-op: No
 
 
 game: Video Checkers ~ Checkers (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Video Checkers ~ Checkers (USA)/Video Checkers ~ Checkers (USA).json
+file: Other/Atari 2600/Video Checkers ~ Checkers (USA)/Video Checkers ~ Checkers (USA).json
 developer: Atari
 publisher: Atari
 genre: Strategy
@@ -4958,7 +4958,7 @@ x-co-op: No
 
 
 game: Video Chess (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Video Chess (USA)/Video Chess (USA).json
+file: Other/Atari 2600/Video Chess (USA)/Video Chess (USA).json
 developer: Bob Whitehead
 publisher: Atari
 genre: Strategy;Board Game
@@ -4985,7 +4985,7 @@ x-co-op: No
 
 
 game: Video Olympics ~ Pong Sports (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Video Olympics ~ Pong Sports (USA)/Video Olympics ~ Pong Sports (USA).json
+file: Other/Atari 2600/Video Olympics ~ Pong Sports (USA)/Video Olympics ~ Pong Sports (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Sports
@@ -5009,7 +5009,7 @@ x-co-op: No
 
 
 game: Video Pinball ~ Arcade Pinball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Video Pinball ~ Arcade Pinball (USA)/Video Pinball ~ Arcade Pinball (USA).json
+file: Other/Atari 2600/Video Pinball ~ Arcade Pinball (USA)/Video Pinball ~ Arcade Pinball (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -5030,7 +5030,7 @@ x-co-op: No
 
 
 game: Warlords (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Warlords (USA)/Warlords (USA).json
+file: Other/Atari 2600/Warlords (USA)/Warlords (USA).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -5056,7 +5056,7 @@ x-co-op: No
 
 
 game: Wizard (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Wizard (USA) (Proto)/Wizard (USA) (Proto).json
+file: Other/Atari 2600/Wizard (USA) (Proto)/Wizard (USA) (Proto).json
 developer: Chris Crawford
 publisher: Never Published (Prototype)
 genre: Action
@@ -5096,7 +5096,7 @@ x-co-op: No
 
 
 game: Yars' Return (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Yars' Return (USA) (Proto)/Yars' Return (USA) (Proto).json
+file: Other/Atari 2600/Yars' Return (USA) (Proto)/Yars' Return (USA) (Proto).json
 developer: Atari, Inc.
 publisher: Atari Inc.
 genre: Shooter
@@ -5120,7 +5120,7 @@ x-co-op: No
 
 
 game: Yars' Revenge (USA)
-file: $ROM_JSON_ROOT/Other/Atari 2600/Yars' Revenge (USA)/Yars' Revenge (USA).json
+file: Other/Atari 2600/Yars' Revenge (USA)/Yars' Revenge (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter

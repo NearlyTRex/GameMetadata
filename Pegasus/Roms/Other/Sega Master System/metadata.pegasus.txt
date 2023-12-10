@@ -1,9 +1,9 @@
 collection: Sega Master System
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega Master System" {file.path}
+launch: launch_rom -l "Sega Master System" {file.path}
 
 
 game: Alien Syndrome (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Alien Syndrome (USA, Europe)/Alien Syndrome (USA, Europe).json
+file: Other/Sega Master System/Alien Syndrome (USA, Europe)/Alien Syndrome (USA, Europe).json
 developer: Sanritsu
 publisher: Sega
 genre: Shooter
@@ -35,7 +35,7 @@ x-co-op: No
 
 
 game: Aztec Adventure - The Golden Road to Paradise (World)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Aztec Adventure - The Golden Road to Paradise (World)/Aztec Adventure - The Golden Road to Paradise (World).json
+file: Other/Sega Master System/Aztec Adventure - The Golden Road to Paradise (World)/Aztec Adventure - The Golden Road to Paradise (World).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -64,7 +64,7 @@ x-co-op: No
 
 
 game: Cloud Master (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Cloud Master (USA, Europe)/Cloud Master (USA, Europe).json
+file: Other/Sega Master System/Cloud Master (USA, Europe)/Cloud Master (USA, Europe).json
 developer: Opera House
 publisher: Sega
 genre: Shooter
@@ -95,7 +95,7 @@ x-co-op: No
 
 
 game: Dynamite Headdy (Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Dynamite Headdy (Brazil)/Dynamite Headdy (Brazil).json
+file: Other/Sega Master System/Dynamite Headdy (Brazil)/Dynamite Headdy (Brazil).json
 developer: Minato Giken
 publisher: Tec Toy
 genre: Platform
@@ -119,7 +119,7 @@ x-co-op: No
 
 
 game: Fantasy Zone (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Fantasy Zone (Japan)/Fantasy Zone (Japan).json
+file: Other/Sega Master System/Fantasy Zone (Japan)/Fantasy Zone (Japan).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -142,7 +142,7 @@ x-co-op: No
 
 
 game: Fantasy Zone - The Maze (USA, Europe, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Fantasy Zone - The Maze (USA, Europe, Brazil)/Fantasy Zone - The Maze (USA, Europe, Brazil).json
+file: Other/Sega Master System/Fantasy Zone - The Maze (USA, Europe, Brazil)/Fantasy Zone - The Maze (USA, Europe, Brazil).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -170,7 +170,7 @@ x-co-op: Yes
 
 
 game: Fantasy Zone II (USA, Europe, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Fantasy Zone II (USA, Europe, Brazil)/Fantasy Zone II (USA, Europe, Brazil).json
+file: Other/Sega Master System/Fantasy Zone II (USA, Europe, Brazil)/Fantasy Zone II (USA, Europe, Brazil).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -195,7 +195,7 @@ x-co-op: No
 
 
 game: Fantasy Zone II - Opa-Opa no Namida (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Fantasy Zone II - Opa-Opa no Namida (Japan)/Fantasy Zone II - Opa-Opa no Namida (Japan).json
+file: Other/Sega Master System/Fantasy Zone II - Opa-Opa no Namida (Japan)/Fantasy Zone II - Opa-Opa no Namida (Japan).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -221,7 +221,7 @@ x-co-op: No
 
 
 game: Galactic Protector (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Galactic Protector (Japan)/Galactic Protector (Japan).json
+file: Other/Sega Master System/Galactic Protector (Japan)/Galactic Protector (Japan).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -248,7 +248,7 @@ x-co-op: No
 
 
 game: Ghost House (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Ghost House (USA, Europe)/Ghost House (USA, Europe).json
+file: Other/Sega Master System/Ghost House (USA, Europe)/Ghost House (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -276,7 +276,7 @@ x-co-op: No
 
 
 game: Golden Axe Warrior (USA, Europe, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Golden Axe Warrior (USA, Europe, Brazil)/Golden Axe Warrior (USA, Europe, Brazil).json
+file: Other/Sega Master System/Golden Axe Warrior (USA, Europe, Brazil)/Golden Axe Warrior (USA, Europe, Brazil).json
 developer: Sega
 publisher: Sega
 genre: Action;Role-Playing
@@ -305,7 +305,7 @@ x-co-op: No
 
 
 game: Maze Hunter 3-D (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Maze Hunter 3-D (USA, Europe)/Maze Hunter 3-D (USA, Europe).json
+file: Other/Sega Master System/Maze Hunter 3-D (USA, Europe)/Maze Hunter 3-D (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -329,7 +329,7 @@ x-co-op: No
 
 
 game: Miracle Warriors - Seal of the Dark Lord (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Miracle Warriors - Seal of the Dark Lord (USA, Europe)/Miracle Warriors - Seal of the Dark Lord (USA, Europe).json
+file: Other/Sega Master System/Miracle Warriors - Seal of the Dark Lord (USA, Europe)/Miracle Warriors - Seal of the Dark Lord (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -357,7 +357,7 @@ x-co-op: No
 
 
 game: Phantasy Star (USA, Europe) (Rev 3)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Phantasy Star (USA, Europe) (Rev 3)/Phantasy Star (USA, Europe) (Rev 3).json
+file: Other/Sega Master System/Phantasy Star (USA, Europe) (Rev 3)/Phantasy Star (USA, Europe) (Rev 3).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -385,7 +385,7 @@ x-co-op: No
 
 
 game: Sagaia (Europe, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Sagaia (Europe, Brazil)/Sagaia (Europe, Brazil).json
+file: Other/Sega Master System/Sagaia (Europe, Brazil)/Sagaia (Europe, Brazil).json
 developer: Natsume
 publisher: Taito
 genre: Shooter
@@ -405,7 +405,7 @@ x-co-op: No
 
 
 game: Sonic The Hedgehog 2 (Europe, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Sonic The Hedgehog 2 (Europe, Brazil)/Sonic The Hedgehog 2 (Europe, Brazil).json
+file: Other/Sega Master System/Sonic The Hedgehog 2 (Europe, Brazil)/Sonic The Hedgehog 2 (Europe, Brazil).json
 developer: Aspect
 publisher: Sega
 genre: Platform
@@ -425,7 +425,7 @@ x-co-op: No
 
 
 game: Zillion (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Zillion (USA) (Rev 1)/Zillion (USA) (Rev 1).json
+file: Other/Sega Master System/Zillion (USA) (Rev 1)/Zillion (USA) (Rev 1).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -456,7 +456,7 @@ x-co-op: No
 
 
 game: Zillion II - The Tri Formation (World)
-file: $ROM_JSON_ROOT/Other/Sega Master System/Zillion II - The Tri Formation (World)/Zillion II - The Tri Formation (World).json
+file: Other/Sega Master System/Zillion II - The Tri Formation (World)/Zillion II - The Tri Formation (World).json
 developer: Sega
 publisher: Sega
 genre: Shooter

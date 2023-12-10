@@ -1,9 +1,9 @@
 collection: Sega CD
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega CD" {file.path}
+launch: launch_rom -l "Sega CD" {file.path}
 
 
 game: Bram Stoker's Dracula (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Bram Stoker's Dracula (USA)/Bram Stoker's Dracula (USA).json
+file: Other/Sega CD/Bram Stoker's Dracula (USA)/Bram Stoker's Dracula (USA).json
 developer: Psygnosis Limited
 publisher: Sony Imagesoft
 genre: Action;Fighting;Horror
@@ -31,7 +31,7 @@ x-co-op: No
 
 
 game: Cliffhanger (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Cliffhanger (USA)/Cliffhanger (USA).json
+file: Other/Sega CD/Cliffhanger (USA)/Cliffhanger (USA).json
 developer: Malibu Interactive
 publisher: Sony Imagesoft
 genre: Action;Fighting
@@ -52,7 +52,7 @@ x-co-op: No
 
 
 game: Dungeon Explorer (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Dungeon Explorer (USA)/Dungeon Explorer (USA).json
+file: Other/Sega CD/Dungeon Explorer (USA)/Dungeon Explorer (USA).json
 developer: Hudson Soft
 publisher: Sega
 genre: Action;Role-Playing
@@ -78,7 +78,7 @@ x-co-op: Yes
 
 
 game: Dungeon Master II - Skullkeep (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Dungeon Master II - Skullkeep (USA)/Dungeon Master II - Skullkeep (USA).json
+file: Other/Sega CD/Dungeon Master II - Skullkeep (USA)/Dungeon Master II - Skullkeep (USA).json
 developer: FTL Games
 publisher: JVC
 genre: Role-Playing
@@ -98,7 +98,7 @@ x-co-op: No
 
 
 game: Ecco - The Tides of Time (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Ecco - The Tides of Time (USA)/Ecco - The Tides of Time (USA).json
+file: Other/Sega CD/Ecco - The Tides of Time (USA)/Ecco - The Tides of Time (USA).json
 developer: Novotrade
 publisher: Sega
 genre: Action;Platformer;2D
@@ -122,7 +122,7 @@ x-co-op: No
 
 
 game: Ecco the Dolphin (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Ecco the Dolphin (USA)/Ecco the Dolphin (USA).json
+file: Other/Sega CD/Ecco the Dolphin (USA)/Ecco the Dolphin (USA).json
 developer: Novotrade
 publisher: Sega
 genre: Action;Platformer;2D
@@ -148,7 +148,7 @@ x-co-op: No
 
 
 game: Eye of the Beholder (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Eye of the Beholder (USA)/Eye of the Beholder (USA).json
+file: Other/Sega CD/Eye of the Beholder (USA)/Eye of the Beholder (USA).json
 developer: Westwood
 publisher: Sega
 genre: Role-Playing
@@ -170,7 +170,7 @@ x-co-op: No
 
 
 game: Final Fight CD (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Final Fight CD (USA)/Final Fight CD (USA).json
+file: Other/Sega CD/Final Fight CD (USA)/Final Fight CD (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Beat-'Em-Up;2D
@@ -190,7 +190,7 @@ x-co-op: Yes
 
 
 game: Heart of the Alien - Out of This World Parts I and II (USA) (RE)
-file: $ROM_JSON_ROOT/Other/Sega CD/Heart of the Alien - Out of This World Parts I and II (USA) (RE)/Heart of the Alien - Out of This World Parts I and II (USA) (RE).json
+file: Other/Sega CD/Heart of the Alien - Out of This World Parts I and II (USA) (RE)/Heart of the Alien - Out of This World Parts I and II (USA) (RE).json
 developer: Delphine
 publisher: Virgin
 genre: Adventure
@@ -214,7 +214,7 @@ x-co-op: No
 
 
 game: Heimdall (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Heimdall (USA)/Heimdall (USA).json
+file: Other/Sega CD/Heimdall (USA)/Heimdall (USA).json
 developer: The 8th Day
 publisher: JVC
 genre: Role-Playing
@@ -243,7 +243,7 @@ x-co-op: No
 
 
 game: Mansion of Hidden Souls (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Mansion of Hidden Souls (USA)/Mansion of Hidden Souls (USA).json
+file: Other/Sega CD/Mansion of Hidden Souls (USA)/Mansion of Hidden Souls (USA).json
 developer: System Sacom
 publisher: Sega
 genre: Adventure
@@ -268,7 +268,7 @@ x-co-op: No
 
 
 game: Night Striker (Japan, Korea)
-file: $ROM_JSON_ROOT/Other/Sega CD/Night Striker (Japan, Korea)/Night Striker (Japan, Korea).json
+file: Other/Sega CD/Night Striker (Japan, Korea)/Night Striker (Japan, Korea).json
 developer: Taito Corporation
 publisher: Taito Corporation
 genre: Action;Shooter;Rail
@@ -299,7 +299,7 @@ x-co-op: No
 
 
 game: Night Trap (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Night Trap (USA)/Night Trap (USA).json
+file: Other/Sega CD/Night Trap (USA)/Night Trap (USA).json
 developer: Digital Pictures
 publisher: Sega
 genre: Action;General
@@ -319,7 +319,7 @@ x-co-op: No
 
 
 game: Ninja Warriors, The (Japan)
-file: $ROM_JSON_ROOT/Other/Sega CD/Ninja Warriors, The (Japan)/Ninja Warriors, The (Japan).json
+file: Other/Sega CD/Ninja Warriors, The (Japan)/Ninja Warriors, The (Japan).json
 developer: Taito Corporation
 publisher: Romstar
 genre: Action;Beat-'Em-Up;2D
@@ -342,7 +342,7 @@ x-co-op: No
 
 
 game: Rise of the Dragon (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Rise of the Dragon (USA)/Rise of the Dragon (USA).json
+file: Other/Sega CD/Rise of the Dragon (USA)/Rise of the Dragon (USA).json
 developer: Dynamix
 publisher: Sega
 genre: Adventure
@@ -366,7 +366,7 @@ x-co-op: No
 
 
 game: Robo Aleste (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Robo Aleste (USA)/Robo Aleste (USA).json
+file: Other/Sega CD/Robo Aleste (USA)/Robo Aleste (USA).json
 developer: Compile
 publisher: Tengen
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -387,7 +387,7 @@ x-co-op: No
 
 
 game: Sega Classics Arcade Collection (USA) (RE) (4-in-1)
-file: $ROM_JSON_ROOT/Other/Sega CD/Sega Classics Arcade Collection (USA) (RE) (4-in-1)/Sega Classics Arcade Collection (USA) (RE) (4-in-1).json
+file: Other/Sega CD/Sega Classics Arcade Collection (USA) (RE) (4-in-1)/Sega Classics Arcade Collection (USA) (RE) (4-in-1).json
 developer: Sega
 publisher: Sega
 genre: Action;Puzzle
@@ -427,7 +427,7 @@ x-co-op: No
 
 
 game: Sewer Shark (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Sewer Shark (USA)/Sewer Shark (USA).json
+file: Other/Sega CD/Sewer Shark (USA)/Sewer Shark (USA).json
 developer: Digital Pictures
 publisher: Sony Imagesoft
 genre: Shooter;Vehicle Simulation
@@ -454,7 +454,7 @@ x-co-op: No
 
 
 game: Sherlock Holmes - Consulting Detective (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Sherlock Holmes - Consulting Detective (USA)/Sherlock Holmes - Consulting Detective (USA).json
+file: Other/Sega CD/Sherlock Holmes - Consulting Detective (USA)/Sherlock Holmes - Consulting Detective (USA).json
 developer: ICOM
 publisher: Sega
 genre: Adventure
@@ -479,7 +479,7 @@ x-co-op: No
 
 
 game: Shining Force CD (USA) (5R, 6R)
-file: $ROM_JSON_ROOT/Other/Sega CD/Shining Force CD (USA) (5R, 6R)/Shining Force CD (USA) (5R, 6R).json
+file: Other/Sega CD/Shining Force CD (USA) (5R, 6R)/Shining Force CD (USA) (5R, 6R).json
 developer: Camelot Software Planning
 publisher: Sega
 genre: Strategy;Turn-Based;Tactics
@@ -499,7 +499,7 @@ x-co-op: No
 
 
 game: Silpheed (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Silpheed (USA)/Silpheed (USA).json
+file: Other/Sega CD/Silpheed (USA)/Silpheed (USA).json
 developer: Game Arts
 publisher: Sierra Entertainment
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -522,7 +522,7 @@ x-co-op: No
 
 
 game: Software Toolworks' Star Wars Chess, The (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Software Toolworks' Star Wars Chess, The (USA)/Software Toolworks' Star Wars Chess, The (USA).json
+file: Other/Sega CD/Software Toolworks' Star Wars Chess, The (USA)/Software Toolworks' Star Wars Chess, The (USA).json
 developer: Software Toolworks
 publisher: Mindscape
 genre: Strategy
@@ -541,7 +541,7 @@ x-co-op: No
 
 
 game: Sonic CD (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Sonic CD (USA)/Sonic CD (USA).json
+file: Other/Sega CD/Sonic CD (USA)/Sonic CD (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Adventure;Platform
@@ -569,7 +569,7 @@ x-co-op: No
 
 
 game: Star Wars - Rebel Assault (USA)
-file: $ROM_JSON_ROOT/Other/Sega CD/Star Wars - Rebel Assault (USA)/Star Wars - Rebel Assault (USA).json
+file: Other/Sega CD/Star Wars - Rebel Assault (USA)/Star Wars - Rebel Assault (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Shooter

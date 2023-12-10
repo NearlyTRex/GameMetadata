@@ -1,9 +1,9 @@
 collection: Nintendo Virtual Boy
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Virtual Boy" {file.path}
+launch: launch_rom -l "Nintendo Virtual Boy" {file.path}
 
 
 game: Mario Clash (Japan, USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Virtual Boy/Mario Clash (Japan, USA)/Mario Clash (Japan, USA).json
+file: Nintendo/Nintendo Virtual Boy/Mario Clash (Japan, USA)/Mario Clash (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -31,7 +31,7 @@ x-co-op: No
 
 
 game: Virtual Boy Wario Land (Japan, USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Virtual Boy/Virtual Boy Wario Land (Japan, USA)/Virtual Boy Wario Land (Japan, USA).json
+file: Nintendo/Nintendo Virtual Boy/Virtual Boy Wario Land (Japan, USA)/Virtual Boy Wario Land (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform

@@ -1,9 +1,9 @@
 collection: Sony PlayStation Portable Video
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sony PlayStation Portable Video" {file.path}
+launch: launch_rom -l "Sony PlayStation Portable Video" {file.path}
 
 
 game: Dark Tales of Japan (Japan) (En,Ja)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Portable Video/Dark Tales of Japan (Japan) (En,Ja)/Dark Tales of Japan (Japan) (En,Ja).json
+file: Sony/Sony PlayStation Portable Video/Dark Tales of Japan (Japan) (En,Ja)/Dark Tales of Japan (Japan) (En,Ja).json
 developer: Genius Entertainment
 publisher: Genius Entertainment
 genre: Movie
@@ -20,7 +20,7 @@ x-co-op: No
 
 
 game: Galerians - Rion (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Portable Video/Galerians - Rion (USA) (En,Ja)/Galerians - Rion (USA) (En,Ja).json
+file: Sony/Sony PlayStation Portable Video/Galerians - Rion (USA) (En,Ja)/Galerians - Rion (USA) (En,Ja).json
 developer: Image Entertainment
 publisher: Image Entertainment
 genre: Movie

@@ -1,9 +1,9 @@
 collection: Nintendo NES
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo NES" {file.path}
+launch: launch_rom -l "Nintendo NES" {file.path}
 
 
 game: Adventure Island II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Adventure Island II (USA)/Adventure Island II (USA).json
+file: Nintendo/Nintendo NES/Adventure Island II (USA)/Adventure Island II (USA).json
 developer: Hudson Entertainment, Inc.
 publisher: Hudson Entertainment, Inc.
 genre: Action;Adventure;Platform
@@ -30,7 +30,7 @@ x-co-op: No
 
 
 game: Adventures of Lolo (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Adventures of Lolo (USA) (Virtual Console)/Adventures of Lolo (USA) (Virtual Console).json
+file: Nintendo/Nintendo NES/Adventures of Lolo (USA) (Virtual Console)/Adventures of Lolo (USA) (Virtual Console).json
 developer: HAL Laboratory
 publisher: HAL America Inc.
 genre: Action;Puzzle
@@ -58,7 +58,7 @@ x-co-op: No
 
 
 game: Alpha Mission (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Alpha Mission (USA)/Alpha Mission (USA).json
+file: Nintendo/Nintendo NES/Alpha Mission (USA)/Alpha Mission (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -80,7 +80,7 @@ x-co-op: No
 
 
 game: Athena (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Athena (USA)/Athena (USA).json
+file: Nintendo/Nintendo NES/Athena (USA)/Athena (USA).json
 developer: Micronics
 publisher: SNK
 genre: Action;Platformer;2D
@@ -105,7 +105,7 @@ x-co-op: No
 
 
 game: Balloon Fight (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Balloon Fight (USA)/Balloon Fight (USA).json
+file: Nintendo/Nintendo NES/Balloon Fight (USA)/Balloon Fight (USA).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Platform
@@ -131,7 +131,7 @@ x-co-op: Yes
 
 
 game: Baseball (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Baseball (USA, Europe)/Baseball (USA, Europe).json
+file: Nintendo/Nintendo NES/Baseball (USA, Europe)/Baseball (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Sports
@@ -155,7 +155,7 @@ x-co-op: No
 
 
 game: Baseball Stars (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Baseball Stars (USA)/Baseball Stars (USA).json
+file: Nintendo/Nintendo NES/Baseball Stars (USA)/Baseball Stars (USA).json
 developer: SNK
 publisher: SNK
 genre: Sports;Team;Baseball;Arcade
@@ -176,7 +176,7 @@ x-co-op: No
 
 
 game: Bat Lizard Bonanza (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Bat Lizard Bonanza (USA)/Bat Lizard Bonanza (USA).json
+file: Nintendo/Nintendo NES/Bat Lizard Bonanza (USA)/Bat Lizard Bonanza (USA).json
 developer: John Vanderhoef
 publisher: John Vanderhoef
 genre: Action
@@ -202,7 +202,7 @@ x-co-op: No
 
 
 game: Batman - The Video Game (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Batman - The Video Game (USA)/Batman - The Video Game (USA).json
+file: Nintendo/Nintendo NES/Batman - The Video Game (USA)/Batman - The Video Game (USA).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Action;Platform
@@ -228,7 +228,7 @@ x-co-op: No
 
 
 game: Battletoads (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Battletoads (USA)/Battletoads (USA).json
+file: Nintendo/Nintendo NES/Battletoads (USA)/Battletoads (USA).json
 developer: Rare
 publisher: Tradewest
 genre: Platform;Beat 'em Up
@@ -261,7 +261,7 @@ x-co-op: Yes
 
 
 game: Blaster Master (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Blaster Master (USA)/Blaster Master (USA).json
+file: Nintendo/Nintendo NES/Blaster Master (USA)/Blaster Master (USA).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Platform;Shooter
@@ -283,7 +283,7 @@ x-co-op: No
 
 
 game: Bomberman (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Bomberman (USA)/Bomberman (USA).json
+file: Nintendo/Nintendo NES/Bomberman (USA)/Bomberman (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action
@@ -310,7 +310,7 @@ x-co-op: No
 
 
 game: Castlevania (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Castlevania (USA)/Castlevania (USA).json
+file: Nintendo/Nintendo NES/Castlevania (USA)/Castlevania (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -333,7 +333,7 @@ x-co-op: No
 
 
 game: Castlevania (World) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Castlevania (World) (Castlevania Anniversary Collection)/Castlevania (World) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo NES/Castlevania (World) (Castlevania Anniversary Collection)/Castlevania (World) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -356,7 +356,7 @@ x-co-op: No
 
 
 game: Castlevania II - Simon's Quest (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Castlevania II - Simon's Quest (USA)/Castlevania II - Simon's Quest (USA).json
+file: Nintendo/Nintendo NES/Castlevania II - Simon's Quest (USA)/Castlevania II - Simon's Quest (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -384,7 +384,7 @@ x-co-op: No
 
 
 game: Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection)/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo NES/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection)/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -412,7 +412,7 @@ x-co-op: No
 
 
 game: Castlevania III - Dracula's Curse (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (USA)/Castlevania III - Dracula's Curse (USA).json
+file: Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (USA)/Castlevania III - Dracula's Curse (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -447,7 +447,7 @@ x-co-op: No
 
 
 game: Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection)/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection)/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -482,7 +482,7 @@ x-co-op: No
 
 
 game: Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection).json
+file: Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -507,7 +507,7 @@ x-co-op: Yes
 
 
 game: Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection).json
+file: Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -533,7 +533,7 @@ x-co-op: Yes
 
 
 game: City Connection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/City Connection (USA)/City Connection (USA).json
+file: Nintendo/Nintendo NES/City Connection (USA)/City Connection (USA).json
 developer: Axes Art Amuse
 publisher: Jaleco Ltd. | Kitcorp
 genre: Racing;Platform
@@ -577,7 +577,7 @@ x-co-op: No
 
 
 game: Clu Clu Land (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Clu Clu Land (World)/Clu Clu Land (World).json
+file: Nintendo/Nintendo NES/Clu Clu Land (World)/Clu Clu Land (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Puzzle
@@ -602,7 +602,7 @@ x-co-op: Yes
 
 
 game: Cobra Triangle (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Cobra Triangle (USA)/Cobra Triangle (USA).json
+file: Nintendo/Nintendo NES/Cobra Triangle (USA)/Cobra Triangle (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Racing
@@ -636,7 +636,7 @@ x-co-op: No
 
 
 game: Contra (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Contra (USA)/Contra (USA).json
+file: Nintendo/Nintendo NES/Contra (USA)/Contra (USA).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -662,7 +662,7 @@ x-co-op: Yes
 
 
 game: Contra (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo NES/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -688,7 +688,7 @@ x-co-op: Yes
 
 
 game: Crash 'n' the Boys - Street Challenge (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Crash 'n' the Boys - Street Challenge (USA)/Crash 'n' the Boys - Street Challenge (USA).json
+file: Nintendo/Nintendo NES/Crash 'n' the Boys - Street Challenge (USA)/Crash 'n' the Boys - Street Challenge (USA).json
 developer: Technos
 publisher: Technos
 genre: Sports;Individual;Athletics
@@ -713,7 +713,7 @@ x-co-op: No
 
 
 game: Crystalis (USA, Europe) (SNK 40th Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Crystalis (USA, Europe) (SNK 40th Anniversary Collection)/Crystalis (USA, Europe) (SNK 40th Anniversary Collection).json
+file: Nintendo/Nintendo NES/Crystalis (USA, Europe) (SNK 40th Anniversary Collection)/Crystalis (USA, Europe) (SNK 40th Anniversary Collection).json
 developer: SNK
 publisher: SNK
 genre: Role-Playing;Action RPG
@@ -747,7 +747,7 @@ x-co-op: No
 
 
 game: Darkwing Duck (World) (The Disney Afternoon Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Darkwing Duck (World) (The Disney Afternoon Collection)/Darkwing Duck (World) (The Disney Afternoon Collection).json
+file: Nintendo/Nintendo NES/Darkwing Duck (World) (The Disney Afternoon Collection)/Darkwing Duck (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -771,7 +771,7 @@ x-co-op: No
 
 
 game: David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).json
+file: Nintendo/Nintendo NES/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).json
 developer: Imagineering
 publisher: Jaleco
 genre: Platform;Puzzle
@@ -797,7 +797,7 @@ x-co-op: No
 
 
 game: Dead Tomb (USA) (Unl)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Dead Tomb (USA) (Unl)/Dead Tomb (USA) (Unl).json
+file: Nintendo/Nintendo NES/Dead Tomb (USA) (Unl)/Dead Tomb (USA) (Unl).json
 developer: CollectorVision Games
 publisher: Limited Run Games
 genre: Platform;Puzzle
@@ -823,7 +823,7 @@ x-co-op: No
 
 
 game: Deadly Towers (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Deadly Towers (USA)/Deadly Towers (USA).json
+file: Nintendo/Nintendo NES/Deadly Towers (USA)/Deadly Towers (USA).json
 developer: Lenar
 publisher: Brøderbund Software, Inc.
 genre: Action;Role-Playing
@@ -848,7 +848,7 @@ x-co-op: No
 
 
 game: Deja Vu (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Deja Vu (USA)/Deja Vu (USA).json
+file: Nintendo/Nintendo NES/Deja Vu (USA)/Deja Vu (USA).json
 developer: ICOM Simulations
 publisher: Kemco
 genre: Adventure
@@ -871,7 +871,7 @@ x-co-op: No
 
 
 game: Digger - The Legend of the Lost City (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Digger - The Legend of the Lost City (USA)/Digger - The Legend of the Lost City (USA).json
+file: Nintendo/Nintendo NES/Digger - The Legend of the Lost City (USA)/Digger - The Legend of the Lost City (USA).json
 developer: Rare
 publisher: Milton Bradley
 genre: Action
@@ -895,7 +895,7 @@ x-co-op: No
 
 
 game: Donkey Kong (World) (Rev A)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Donkey Kong (World) (Rev A)/Donkey Kong (World) (Rev A).json
+file: Nintendo/Nintendo NES/Donkey Kong (World) (Rev A)/Donkey Kong (World) (Rev A).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -919,7 +919,7 @@ x-co-op: No
 
 
 game: Donkey Kong 3 (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Donkey Kong 3 (World)/Donkey Kong 3 (World).json
+file: Nintendo/Nintendo NES/Donkey Kong 3 (World)/Donkey Kong 3 (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Shooter
@@ -942,7 +942,7 @@ x-co-op: No
 
 
 game: Donkey Kong Jr. (World) (Rev A)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Donkey Kong Jr. (World) (Rev A)/Donkey Kong Jr. (World) (Rev A).json
+file: Nintendo/Nintendo NES/Donkey Kong Jr. (World) (Rev A)/Donkey Kong Jr. (World) (Rev A).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -964,7 +964,7 @@ x-co-op: No
 
 
 game: Double Dragon (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Double Dragon (USA)/Double Dragon (USA).json
+file: Nintendo/Nintendo NES/Double Dragon (USA)/Double Dragon (USA).json
 developer: Technos
 publisher: Taito Corporation
 genre: Action;Beat-'Em-Up;2D
@@ -989,7 +989,7 @@ x-co-op: Yes
 
 
 game: Double Dragon II - The Revenge (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Double Dragon II - The Revenge (USA) (Rev 1)/Double Dragon II - The Revenge (USA) (Rev 1).json
+file: Nintendo/Nintendo NES/Double Dragon II - The Revenge (USA) (Rev 1)/Double Dragon II - The Revenge (USA) (Rev 1).json
 developer: Technos
 publisher: Romstar
 genre: Action;Beat-'Em-Up;2D
@@ -1014,7 +1014,7 @@ x-co-op: Yes
 
 
 game: Double Dragon III - The Sacred Stones (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Double Dragon III - The Sacred Stones (USA)/Double Dragon III - The Sacred Stones (USA).json
+file: Nintendo/Nintendo NES/Double Dragon III - The Sacred Stones (USA)/Double Dragon III - The Sacred Stones (USA).json
 developer: East Technology
 publisher: Technos
 genre: Action;Beat-'Em-Up;2D
@@ -1039,7 +1039,7 @@ x-co-op: Yes
 
 
 game: Dr. Mario (Japan, USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Dr. Mario (Japan, USA)/Dr. Mario (Japan, USA).json
+file: Nintendo/Nintendo NES/Dr. Mario (Japan, USA)/Dr. Mario (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -1059,7 +1059,7 @@ x-co-op: No
 
 
 game: Dragon Warrior (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Dragon Warrior (USA)/Dragon Warrior (USA).json
+file: Nintendo/Nintendo NES/Dragon Warrior (USA)/Dragon Warrior (USA).json
 developer: Chunsoft
 publisher: Nintendo
 genre: Role-Playing
@@ -1092,7 +1092,7 @@ x-co-op: No
 
 
 game: DuckTales (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/DuckTales (USA)/DuckTales (USA).json
+file: Nintendo/Nintendo NES/DuckTales (USA)/DuckTales (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -1120,7 +1120,7 @@ x-co-op: No
 
 
 game: DuckTales (World) (The Disney Afternoon Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/DuckTales (World) (The Disney Afternoon Collection)/DuckTales (World) (The Disney Afternoon Collection).json
+file: Nintendo/Nintendo NES/DuckTales (World) (The Disney Afternoon Collection)/DuckTales (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -1148,7 +1148,7 @@ x-co-op: No
 
 
 game: DuckTales 2 (USA) (Co-op Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/DuckTales 2 (USA) (Co-op Patch)/DuckTales 2 (USA) (Co-op Patch).json
+file: Nintendo/Nintendo NES/DuckTales 2 (USA) (Co-op Patch)/DuckTales 2 (USA) (Co-op Patch).json
 developer: Make Software
 publisher: Capcom
 genre: Action;Platform
@@ -1173,7 +1173,7 @@ x-co-op: Yes
 
 
 game: DuckTales 2 (World) (The Disney Afternoon Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/DuckTales 2 (World) (The Disney Afternoon Collection)/DuckTales 2 (World) (The Disney Afternoon Collection).json
+file: Nintendo/Nintendo NES/DuckTales 2 (World) (The Disney Afternoon Collection)/DuckTales 2 (World) (The Disney Afternoon Collection).json
 developer: Make Software
 publisher: Capcom
 genre: Action;Platform
@@ -1199,7 +1199,7 @@ x-co-op: No
 
 
 game: EarthBound Beginnings (USA, Europe) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/EarthBound Beginnings (USA, Europe) (Virtual Console)/EarthBound Beginnings (USA, Europe) (Virtual Console).json
+file: Nintendo/Nintendo NES/EarthBound Beginnings (USA, Europe) (Virtual Console)/EarthBound Beginnings (USA, Europe) (Virtual Console).json
 developer: Ape Inc.
 publisher: Nintendo
 genre: Role-Playing
@@ -1226,7 +1226,7 @@ x-co-op: No
 
 
 game: Elevator Action (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Elevator Action (USA)/Elevator Action (USA).json
+file: Nintendo/Nintendo NES/Elevator Action (USA)/Elevator Action (USA).json
 developer: Micronics
 publisher: Taito
 genre: Platform;Shooter;Stealth
@@ -1250,7 +1250,7 @@ x-co-op: No
 
 
 game: Excitebike (Japan, USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Excitebike (Japan, USA)/Excitebike (Japan, USA).json
+file: Nintendo/Nintendo NES/Excitebike (Japan, USA)/Excitebike (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing
@@ -1275,7 +1275,7 @@ x-co-op: No
 
 
 game: Faxanadu (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Faxanadu (USA)/Faxanadu (USA).json
+file: Nintendo/Nintendo NES/Faxanadu (USA)/Faxanadu (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action;Role-Playing
@@ -1297,7 +1297,7 @@ x-co-op: No
 
 
 game: Final Fantasy (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Final Fantasy (USA)/Final Fantasy (USA).json
+file: Nintendo/Nintendo NES/Final Fantasy (USA)/Final Fantasy (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -1321,7 +1321,7 @@ x-co-op: No
 
 
 game: Friday the 13th (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Friday the 13th (USA)/Friday the 13th (USA).json
+file: Nintendo/Nintendo NES/Friday the 13th (USA)/Friday the 13th (USA).json
 developer: Pack-In-Video Co., Ltd
 publisher: LJN
 genre: Action
@@ -1350,7 +1350,7 @@ x-co-op: No
 
 
 game: Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2)/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2).json
+file: Nintendo/Nintendo NES/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2)/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2).json
 developer: Namco
 publisher: Bandai
 genre: Shooter
@@ -1371,7 +1371,7 @@ x-co-op: No
 
 
 game: Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket)/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket).json
+file: Nintendo/Nintendo NES/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket)/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket).json
 developer: M2 Co., Ltd.
 publisher: BANDAI NAMCO Entertainment Inc.
 genre: Shooter
@@ -1388,7 +1388,7 @@ x-co-op: No
 
 
 game: Gargoyle's Quest II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Gargoyle's Quest II (USA)/Gargoyle's Quest II (USA).json
+file: Nintendo/Nintendo NES/Gargoyle's Quest II (USA)/Gargoyle's Quest II (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Platform
@@ -1412,7 +1412,7 @@ x-co-op: No
 
 
 game: Ghostbusters (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ghostbusters (USA)/Ghostbusters (USA).json
+file: Nintendo/Nintendo NES/Ghostbusters (USA)/Ghostbusters (USA).json
 developer: Bits Laboratory
 publisher: Activision
 genre: Action
@@ -1433,7 +1433,7 @@ x-co-op: No
 
 
 game: Ghostbusters II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ghostbusters II (USA)/Ghostbusters II (USA).json
+file: Nintendo/Nintendo NES/Ghostbusters II (USA)/Ghostbusters II (USA).json
 developer: Imagineering
 publisher: Activision
 genre: Action
@@ -1456,7 +1456,7 @@ x-co-op: No
 
 
 game: Golf (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Golf (USA)/Golf (USA).json
+file: Nintendo/Nintendo NES/Golf (USA)/Golf (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports
@@ -1479,7 +1479,7 @@ x-co-op: No
 
 
 game: Golgo 13 - Top Secret Episode (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Golgo 13 - Top Secret Episode (USA)/Golgo 13 - Top Secret Episode (USA).json
+file: Nintendo/Nintendo NES/Golgo 13 - Top Secret Episode (USA)/Golgo 13 - Top Secret Episode (USA).json
 developer: Vic Tokai
 publisher: Vic Tokai
 genre: Action;Adventure
@@ -1502,7 +1502,7 @@ x-co-op: No
 
 
 game: Guerrilla War (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Guerrilla War (USA)/Guerrilla War (USA).json
+file: Nintendo/Nintendo NES/Guerrilla War (USA)/Guerrilla War (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -1522,7 +1522,7 @@ x-co-op: No
 
 
 game: Gyromite (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Gyromite (World)/Gyromite (World).json
+file: Nintendo/Nintendo NES/Gyromite (World)/Gyromite (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -1546,7 +1546,7 @@ x-co-op: No
 
 
 game: Gyruss (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Gyruss (USA)/Gyruss (USA).json
+file: Nintendo/Nintendo NES/Gyruss (USA)/Gyruss (USA).json
 developer: Konami
 publisher: Ultra Games
 genre: Shooter
@@ -1580,7 +1580,7 @@ x-co-op: No
 
 
 game: Hole New World Soundtrack, A (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Hole New World Soundtrack, A (USA)/Hole New World Soundtrack, A (USA).json
+file: Nintendo/Nintendo NES/Hole New World Soundtrack, A (USA)/Hole New World Soundtrack, A (USA).json
 developer: MadGear Games
 publisher: Limited Run Games
 genre: Music
@@ -1599,7 +1599,7 @@ x-co-op: No
 
 
 game: Hudson's Adventure Island (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Hudson's Adventure Island (USA)/Hudson's Adventure Island (USA).json
+file: Nintendo/Nintendo NES/Hudson's Adventure Island (USA)/Hudson's Adventure Island (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Platform
@@ -1626,7 +1626,7 @@ x-co-op: No
 
 
 game: Hydlide (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Hydlide (USA)/Hydlide (USA).json
+file: Nintendo/Nintendo NES/Hydlide (USA)/Hydlide (USA).json
 developer: T&E Soft
 publisher: FCI
 genre: Action;Role-Playing
@@ -1656,7 +1656,7 @@ x-co-op: No
 
 
 game: Ice Climber (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ice Climber (USA, Europe)/Ice Climber (USA, Europe).json
+file: Nintendo/Nintendo NES/Ice Climber (USA, Europe)/Ice Climber (USA, Europe).json
 developer: Nintendo Co., Ltd.
 publisher: Nintendo Co., Ltd.
 genre: Platform
@@ -1681,7 +1681,7 @@ x-co-op: Yes
 
 
 game: Ikari III - The Rescue (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ikari III - The Rescue (USA)/Ikari III - The Rescue (USA).json
+file: Nintendo/Nintendo NES/Ikari III - The Rescue (USA)/Ikari III - The Rescue (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Beat-'Em-Up;2D
@@ -1710,7 +1710,7 @@ x-co-op: No
 
 
 game: Ikari Warriors (USA) (Rev A)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ikari Warriors (USA) (Rev A)/Ikari Warriors (USA) (Rev A).json
+file: Nintendo/Nintendo NES/Ikari Warriors (USA) (Rev A)/Ikari Warriors (USA) (Rev A).json
 developer: Micronics
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -1731,7 +1731,7 @@ x-co-op: No
 
 
 game: Ikari Warriors II - Victory Road (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ikari Warriors II - Victory Road (USA)/Ikari Warriors II - Victory Road (USA).json
+file: Nintendo/Nintendo NES/Ikari Warriors II - Victory Road (USA)/Ikari Warriors II - Victory Road (USA).json
 developer: Micronics
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -1763,7 +1763,7 @@ x-co-op: No
 
 
 game: IronSword - Wizards & Warriors II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/IronSword - Wizards & Warriors II (USA)/IronSword - Wizards & Warriors II (USA).json
+file: Nintendo/Nintendo NES/IronSword - Wizards & Warriors II (USA)/IronSword - Wizards & Warriors II (USA).json
 developer: Zippo Games
 publisher: Acclaim
 genre: Action;Platform
@@ -1789,7 +1789,7 @@ x-co-op: No
 
 
 game: Jay and Silent Bob Mall Brawl (World) (Unl)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Jay and Silent Bob Mall Brawl (World) (Unl)/Jay and Silent Bob Mall Brawl (World) (Unl).json
+file: Nintendo/Nintendo NES/Jay and Silent Bob Mall Brawl (World) (Unl)/Jay and Silent Bob Mall Brawl (World) (Unl).json
 developer: Spoony Bard Productions
 publisher: Limited Run Games
 genre: Beat 'em Up
@@ -1811,7 +1811,7 @@ x-co-op: Yes
 
 
 game: Kid Icarus (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Kid Icarus (USA, Europe)/Kid Icarus (USA, Europe).json
+file: Nintendo/Nintendo NES/Kid Icarus (USA, Europe)/Kid Icarus (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Platform
@@ -1836,7 +1836,7 @@ x-co-op: No
 
 
 game: Kirby's Adventure (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Kirby's Adventure (USA)/Kirby's Adventure (USA).json
+file: Nintendo/Nintendo NES/Kirby's Adventure (USA)/Kirby's Adventure (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1862,7 +1862,7 @@ x-co-op: No
 
 
 game: Legacy of the Wizard (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Legacy of the Wizard (USA)/Legacy of the Wizard (USA).json
+file: Nintendo/Nintendo NES/Legacy of the Wizard (USA)/Legacy of the Wizard (USA).json
 developer: Compile
 publisher: Broderbund Software
 genre: Action;Platform
@@ -1888,7 +1888,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Legend of Zelda, The (USA)/Legend of Zelda, The (USA).json
+file: Nintendo/Nintendo NES/Legend of Zelda, The (USA)/Legend of Zelda, The (USA).json
 developer: Nintendo R&D4
 publisher: Nintendo
 genre: Action;Adventure
@@ -1917,7 +1917,7 @@ x-co-op: No
 
 
 game: Leggite Luta Livre (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Leggite Luta Livre (USA)/Leggite Luta Livre (USA).json
+file: Nintendo/Nintendo NES/Leggite Luta Livre (USA)/Leggite Luta Livre (USA).json
 developer: John Vanderhoef
 publisher: John Vanderhoef
 genre: Arcade
@@ -1957,7 +1957,7 @@ x-co-op: No
 
 
 game: Life Force (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Life Force (USA) (Rev 1)/Life Force (USA) (Rev 1).json
+file: Nintendo/Nintendo NES/Life Force (USA) (Rev 1)/Life Force (USA) (Rev 1).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -1985,7 +1985,7 @@ x-co-op: Yes
 
 
 game: Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console)/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console).json
+file: Nintendo/Nintendo NES/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console)/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Racing;Shooter
@@ -2010,7 +2010,7 @@ x-co-op: No
 
 
 game: Mafat Conspiracy, The (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mafat Conspiracy, The (USA)/Mafat Conspiracy, The (USA).json
+file: Nintendo/Nintendo NES/Mafat Conspiracy, The (USA)/Mafat Conspiracy, The (USA).json
 developer: Aicom
 publisher: Vic Tokai
 genre: Action
@@ -2034,7 +2034,7 @@ x-co-op: No
 
 
 game: Mario Bros. (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mario Bros. (World)/Mario Bros. (World).json
+file: Nintendo/Nintendo NES/Mario Bros. (World)/Mario Bros. (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -2057,7 +2057,7 @@ x-co-op: Yes
 
 
 game: Mega Man (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mega Man (USA)/Mega Man (USA).json
+file: Nintendo/Nintendo NES/Mega Man (USA)/Mega Man (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -2088,7 +2088,7 @@ x-co-op: No
 
 
 game: Mega Man 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mega Man 2 (USA)/Mega Man 2 (USA).json
+file: Nintendo/Nintendo NES/Mega Man 2 (USA)/Mega Man 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -2111,7 +2111,7 @@ x-co-op: No
 
 
 game: Mega Man 3 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mega Man 3 (USA)/Mega Man 3 (USA).json
+file: Nintendo/Nintendo NES/Mega Man 3 (USA)/Mega Man 3 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -2134,7 +2134,7 @@ x-co-op: No
 
 
 game: Mega Man 4 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mega Man 4 (USA)/Mega Man 4 (USA).json
+file: Nintendo/Nintendo NES/Mega Man 4 (USA)/Mega Man 4 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -2157,7 +2157,7 @@ x-co-op: No
 
 
 game: Mega Man 5 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mega Man 5 (USA)/Mega Man 5 (USA).json
+file: Nintendo/Nintendo NES/Mega Man 5 (USA)/Mega Man 5 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -2182,7 +2182,7 @@ x-co-op: No
 
 
 game: Mega Man 6 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mega Man 6 (USA)/Mega Man 6 (USA).json
+file: Nintendo/Nintendo NES/Mega Man 6 (USA)/Mega Man 6 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -2205,7 +2205,7 @@ x-co-op: No
 
 
 game: Metal Storm (USA) (Retro-Bit) (2019)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Metal Storm (USA) (Retro-Bit) (2019)/Metal Storm (USA) (Retro-Bit) (2019).json
+file: Nintendo/Nintendo NES/Metal Storm (USA) (Retro-Bit) (2019)/Metal Storm (USA) (Retro-Bit) (2019).json
 developer: Irem
 publisher: Irem
 genre: Shooter
@@ -2227,7 +2227,7 @@ x-co-op: No
 
 
 game: Metroid (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Metroid (USA)/Metroid (USA).json
+file: Nintendo/Nintendo NES/Metroid (USA)/Metroid (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Action;Adventure
@@ -2253,7 +2253,7 @@ x-co-op: No
 
 
 game: Micro Mages (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Micro Mages (USA)/Micro Mages (USA).json
+file: Nintendo/Nintendo NES/Micro Mages (USA)/Micro Mages (USA).json
 developer: Morphcat Games UG
 publisher: Morphcat Games UG
 genre: Platform
@@ -2279,7 +2279,7 @@ x-co-op: Yes
 
 
 game: Might & Magic - Secret of the Inner Sanctum (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Might & Magic - Secret of the Inner Sanctum (USA)/Might & Magic - Secret of the Inner Sanctum (USA).json
+file: Nintendo/Nintendo NES/Might & Magic - Secret of the Inner Sanctum (USA)/Might & Magic - Secret of the Inner Sanctum (USA).json
 developer: G. Amusements
 publisher: American Sammy
 genre: Role-Playing
@@ -2304,7 +2304,7 @@ x-co-op: No
 
 
 game: Mighty Bomb Jack (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mighty Bomb Jack (USA)/Mighty Bomb Jack (USA).json
+file: Nintendo/Nintendo NES/Mighty Bomb Jack (USA)/Mighty Bomb Jack (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2333,7 +2333,7 @@ x-co-op: No
 
 
 game: Mighty Final Fight (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Mighty Final Fight (USA)/Mighty Final Fight (USA).json
+file: Nintendo/Nintendo NES/Mighty Final Fight (USA)/Mighty Final Fight (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -2358,7 +2358,7 @@ x-co-op: No
 
 
 game: Monster Party (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Monster Party (USA)/Monster Party (USA).json
+file: Nintendo/Nintendo NES/Monster Party (USA)/Monster Party (USA).json
 developer: Sonata
 publisher: Bandai
 genre: Action;Platform
@@ -2384,7 +2384,7 @@ x-co-op: No
 
 
 game: NES Open Tournament Golf (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/NES Open Tournament Golf (USA)/NES Open Tournament Golf (USA).json
+file: Nintendo/Nintendo NES/NES Open Tournament Golf (USA)/NES Open Tournament Golf (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Sports
@@ -2410,7 +2410,7 @@ x-co-op: No
 
 
 game: Nebs 'n Debs (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Nebs 'n Debs (USA)/Nebs 'n Debs (USA).json
+file: Nintendo/Nintendo NES/Nebs 'n Debs (USA)/Nebs 'n Debs (USA).json
 developer: Dullahan Software
 publisher: Dullahan Software
 genre: Platformer
@@ -2430,7 +2430,7 @@ x-co-op: No
 
 
 game: Nightmare on Elm Street, A (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Nightmare on Elm Street, A (USA)/Nightmare on Elm Street, A (USA).json
+file: Nintendo/Nintendo NES/Nightmare on Elm Street, A (USA)/Nightmare on Elm Street, A (USA).json
 developer: Rare
 publisher: LJN
 genre: Action;Platform
@@ -2458,7 +2458,7 @@ x-co-op: Yes
 
 
 game: Ninja Gaiden (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ninja Gaiden (USA)/Ninja Gaiden (USA).json
+file: Nintendo/Nintendo NES/Ninja Gaiden (USA)/Ninja Gaiden (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2479,7 +2479,7 @@ x-co-op: No
 
 
 game: Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console)/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console).json
+file: Nintendo/Nintendo NES/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console)/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2501,7 +2501,7 @@ x-co-op: No
 
 
 game: Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console).json
+file: Nintendo/Nintendo NES/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2524,7 +2524,7 @@ x-co-op: No
 
 
 game: P.O.W. - Prisoners of War (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/P.O.W. - Prisoners of War (USA)/P.O.W. - Prisoners of War (USA).json
+file: Nintendo/Nintendo NES/P.O.W. - Prisoners of War (USA)/P.O.W. - Prisoners of War (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Beat-'Em-Up;2D
@@ -2544,7 +2544,7 @@ x-co-op: No
 
 
 game: Pac-Man (USA) (Namco)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Pac-Man (USA) (Namco)/Pac-Man (USA) (Namco).json
+file: Nintendo/Nintendo NES/Pac-Man (USA) (Namco)/Pac-Man (USA) (Namco).json
 developer: Namco
 publisher: Tengen
 genre: Action
@@ -2566,7 +2566,7 @@ x-co-op: No
 
 
 game: Pac-Man (USA) (Tengen)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Pac-Man (USA) (Tengen)/Pac-Man (USA) (Tengen).json
+file: Nintendo/Nintendo NES/Pac-Man (USA) (Tengen)/Pac-Man (USA) (Tengen).json
 developer: Namco
 publisher: Tengen
 genre: Action
@@ -2587,7 +2587,7 @@ x-co-op: No
 
 
 game: Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1)/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo NES/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1)/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Tengen
 genre: Action
@@ -2608,7 +2608,7 @@ x-co-op: No
 
 
 game: Pinball (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Pinball (World)/Pinball (World).json
+file: Nintendo/Nintendo NES/Pinball (World)/Pinball (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action
@@ -2631,7 +2631,7 @@ x-co-op: No
 
 
 game: Probotector (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Probotector (Europe)/Probotector (Europe).json
+file: Nintendo/Nintendo NES/Probotector (Europe)/Probotector (Europe).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2657,7 +2657,7 @@ x-co-op: Yes
 
 
 game: Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection)/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo NES/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection)/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2685,7 +2685,7 @@ x-co-op: Yes
 
 
 game: Punch-Out!! (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Punch-Out!! (USA)/Punch-Out!! (USA).json
+file: Nintendo/Nintendo NES/Punch-Out!! (USA)/Punch-Out!! (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Fighting;Sports
@@ -2706,7 +2706,7 @@ x-co-op: No
 
 
 game: R.C. Pro-Am (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/R.C. Pro-Am (USA)/R.C. Pro-Am (USA).json
+file: Nintendo/Nintendo NES/R.C. Pro-Am (USA)/R.C. Pro-Am (USA).json
 developer: Rare Ltd.
 publisher: Nintendo
 genre: Racing
@@ -2730,7 +2730,7 @@ x-co-op: No
 
 
 game: R.C. Pro-Am II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/R.C. Pro-Am II (USA)/R.C. Pro-Am II (USA).json
+file: Nintendo/Nintendo NES/R.C. Pro-Am II (USA)/R.C. Pro-Am II (USA).json
 developer: Rare Ltd.
 publisher: Tradewest
 genre: Racing
@@ -2755,7 +2755,7 @@ x-co-op: No
 
 
 game: Renegade (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Renegade (USA)/Renegade (USA).json
+file: Nintendo/Nintendo NES/Renegade (USA)/Renegade (USA).json
 developer: Technos
 publisher: Taito Corporation
 genre: Action;Beat-'Em-Up;2D
@@ -2775,7 +2775,7 @@ x-co-op: No
 
 
 game: River City Ransom (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/River City Ransom (USA)/River City Ransom (USA).json
+file: Nintendo/Nintendo NES/River City Ransom (USA)/River City Ransom (USA).json
 developer: Million
 publisher: Technos
 genre: Action;Beat-'Em-Up;2D
@@ -2796,7 +2796,7 @@ x-co-op: Yes
 
 
 game: Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2)/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2).json
+file: Nintendo/Nintendo NES/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2)/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2).json
 developer: Arc System Works
 publisher: Tengen
 genre: Platform;Shooter
@@ -2818,7 +2818,7 @@ x-co-op: No
 
 
 game: Rygar (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Rygar (USA)/Rygar (USA).json
+file: Nintendo/Nintendo NES/Rygar (USA)/Rygar (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Platform
@@ -2843,7 +2843,7 @@ x-co-op: No
 
 
 game: S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console)/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console).json
+file: Nintendo/Nintendo NES/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console)/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console).json
 developer: Natsume
 publisher: Infogrames
 genre: Shooter
@@ -2867,7 +2867,7 @@ x-co-op: No
 
 
 game: Shadow of the Ninja (USA, Europe) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Shadow of the Ninja (USA, Europe) (Virtual Console)/Shadow of the Ninja (USA, Europe) (Virtual Console).json
+file: Nintendo/Nintendo NES/Shadow of the Ninja (USA, Europe) (Virtual Console)/Shadow of the Ninja (USA, Europe) (Virtual Console).json
 developer: Natsume
 publisher: Taito
 genre: Action;Platform
@@ -2894,7 +2894,7 @@ x-co-op: No
 
 
 game: Shadowgate (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Shadowgate (USA)/Shadowgate (USA).json
+file: Nintendo/Nintendo NES/Shadowgate (USA)/Shadowgate (USA).json
 developer: ICOM Simulations
 publisher: Kemco
 genre: Adventure
@@ -2926,7 +2926,7 @@ x-co-op: No
 
 
 game: Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1)/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo NES/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1)/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Sunsoft
 genre: Shooter
@@ -2954,7 +2954,7 @@ x-co-op: Yes
 
 
 game: Slalom (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Slalom (USA)/Slalom (USA).json
+file: Nintendo/Nintendo NES/Slalom (USA)/Slalom (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Sports
@@ -2980,7 +2980,7 @@ x-co-op: No
 
 
 game: Snake Rattle n Roll (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Snake Rattle n Roll (USA)/Snake Rattle n Roll (USA).json
+file: Nintendo/Nintendo NES/Snake Rattle n Roll (USA)/Snake Rattle n Roll (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Action;Platform
@@ -3004,7 +3004,7 @@ x-co-op: No
 
 
 game: Solar Jetman - Hunt for the Golden Warpship (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Solar Jetman - Hunt for the Golden Warpship (USA)/Solar Jetman - Hunt for the Golden Warpship (USA).json
+file: Nintendo/Nintendo NES/Solar Jetman - Hunt for the Golden Warpship (USA)/Solar Jetman - Hunt for the Golden Warpship (USA).json
 developer: Rare Ltd.
 publisher: Tradewest
 genre: Action
@@ -3028,7 +3028,7 @@ x-co-op: No
 
 
 game: Solomon's Key (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Solomon's Key (USA)/Solomon's Key (USA).json
+file: Nintendo/Nintendo NES/Solomon's Key (USA)/Solomon's Key (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Puzzle;Platform
@@ -3058,7 +3058,7 @@ x-co-op: No
 
 
 game: Solstice - The Quest for the Staff of Demnos (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Solstice - The Quest for the Staff of Demnos (USA)/Solstice - The Quest for the Staff of Demnos (USA).json
+file: Nintendo/Nintendo NES/Solstice - The Quest for the Staff of Demnos (USA)/Solstice - The Quest for the Staff of Demnos (USA).json
 developer: Software Creations Ltd.
 publisher: CSG Imagesoft
 genre: Action;Puzzle
@@ -3080,7 +3080,7 @@ x-co-op: No
 
 
 game: Star Soldier (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Star Soldier (USA)/Star Soldier (USA).json
+file: Nintendo/Nintendo NES/Star Soldier (USA)/Star Soldier (USA).json
 developer: Hudson Entertainment, Inc.
 publisher: Taxan
 genre: Shooter
@@ -3105,7 +3105,7 @@ x-co-op: No
 
 
 game: StarTropics (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/StarTropics (USA)/StarTropics (USA).json
+file: Nintendo/Nintendo NES/StarTropics (USA)/StarTropics (USA).json
 developer: Locomotive
 publisher: Nintendo
 genre: Action
@@ -3133,7 +3133,7 @@ x-co-op: No
 
 
 game: Street Fighter 2010 - The Final Fight (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Street Fighter 2010 - The Final Fight (USA)/Street Fighter 2010 - The Final Fight (USA).json
+file: Nintendo/Nintendo NES/Street Fighter 2010 - The Final Fight (USA)/Street Fighter 2010 - The Final Fight (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -3158,7 +3158,7 @@ x-co-op: No
 
 
 game: Super C (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super C (USA)/Super C (USA).json
+file: Nintendo/Nintendo NES/Super C (USA)/Super C (USA).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -3186,7 +3186,7 @@ x-co-op: Yes
 
 
 game: Super C (World) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super C (World) (Contra Anniversary Collection)/Super C (World) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo NES/Super C (World) (Contra Anniversary Collection)/Super C (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -3214,7 +3214,7 @@ x-co-op: Yes
 
 
 game: Super Dodge Ball (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super Dodge Ball (USA)/Super Dodge Ball (USA).json
+file: Nintendo/Nintendo NES/Super Dodge Ball (USA)/Super Dodge Ball (USA).json
 developer: Technos
 publisher: Technos
 genre: Sports;Team;Other
@@ -3247,7 +3247,7 @@ x-co-op: No
 
 
 game: Super Mario Bros. (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super Mario Bros. (World)/Super Mario Bros. (World).json
+file: Nintendo/Nintendo NES/Super Mario Bros. (World)/Super Mario Bros. (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -3271,7 +3271,7 @@ x-co-op: No
 
 
 game: Super Mario Bros. (World) (Co-op Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super Mario Bros. (World) (Co-op Patch)/Super Mario Bros. (World) (Co-op Patch).json
+file: Nintendo/Nintendo NES/Super Mario Bros. (World) (Co-op Patch)/Super Mario Bros. (World) (Co-op Patch).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -3294,7 +3294,7 @@ x-co-op: Yes
 
 
 game: Super Mario Bros. + Duck Hunt (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super Mario Bros. + Duck Hunt (USA)/Super Mario Bros. + Duck Hunt (USA).json
+file: Nintendo/Nintendo NES/Super Mario Bros. + Duck Hunt (USA)/Super Mario Bros. + Duck Hunt (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform;Shooter
@@ -3330,7 +3330,7 @@ x-co-op: No
 
 
 game: Super Mario Bros. 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super Mario Bros. 2 (USA)/Super Mario Bros. 2 (USA).json
+file: Nintendo/Nintendo NES/Super Mario Bros. 2 (USA)/Super Mario Bros. 2 (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -3354,7 +3354,7 @@ x-co-op: No
 
 
 game: Super Mario Bros. 3 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Super Mario Bros. 3 (USA)/Super Mario Bros. 3 (USA).json
+file: Nintendo/Nintendo NES/Super Mario Bros. 3 (USA)/Super Mario Bros. 3 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -3385,7 +3385,7 @@ x-co-op: No
 
 
 game: Swords and Serpents (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Swords and Serpents (USA)/Swords and Serpents (USA).json
+file: Nintendo/Nintendo NES/Swords and Serpents (USA)/Swords and Serpents (USA).json
 developer: Interplay
 publisher: Acclaim
 genre: Role-Playing
@@ -3412,7 +3412,7 @@ x-co-op: No
 
 
 game: TaleSpin (World) (The Disney Afternoon Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/TaleSpin (World) (The Disney Afternoon Collection)/TaleSpin (World) (The Disney Afternoon Collection).json
+file: Nintendo/Nintendo NES/TaleSpin (World) (The Disney Afternoon Collection)/TaleSpin (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -3438,7 +3438,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles (USA)/Teenage Mutant Ninja Turtles (USA).json
+file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles (USA)/Teenage Mutant Ninja Turtles (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure
@@ -3464,7 +3464,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles - Tournament Fighters (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
+file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Fighting;2D
@@ -3490,7 +3490,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles II - The Arcade Game (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles II - The Arcade Game (USA)/Teenage Mutant Ninja Turtles II - The Arcade Game (USA).json
+file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles II - The Arcade Game (USA)/Teenage Mutant Ninja Turtles II - The Arcade Game (USA).json
 developer: Konami
 publisher: Ultra Games
 genre: Beat 'em Up
@@ -3526,7 +3526,7 @@ x-co-op: Yes
 
 
 game: Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).json
+file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Beat-'Em-Up;2D
@@ -3550,7 +3550,7 @@ x-co-op: Yes
 
 
 game: Tennis (Japan, USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Tennis (Japan, USA)/Tennis (Japan, USA).json
+file: Nintendo/Nintendo NES/Tennis (Japan, USA)/Tennis (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports
@@ -3576,7 +3576,7 @@ x-co-op: Yes
 
 
 game: Tetris (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Tetris (USA)/Tetris (USA).json
+file: Nintendo/Nintendo NES/Tetris (USA)/Tetris (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -3612,7 +3612,7 @@ x-co-op: No
 
 
 game: Time Lord (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Time Lord (USA)/Time Lord (USA).json
+file: Nintendo/Nintendo NES/Time Lord (USA)/Time Lord (USA).json
 developer: Rare
 publisher: Milton Bradley
 genre: Action;Platform
@@ -3640,7 +3640,7 @@ x-co-op: No
 
 
 game: Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console).json
+file: Nintendo/Nintendo NES/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Platform
@@ -3666,7 +3666,7 @@ x-co-op: No
 
 
 game: Ultima - Exodus (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ultima - Exodus (USA)/Ultima - Exodus (USA).json
+file: Nintendo/Nintendo NES/Ultima - Exodus (USA)/Ultima - Exodus (USA).json
 developer: FCI
 publisher: FCI
 genre: Role-Playing
@@ -3699,7 +3699,7 @@ x-co-op: No
 
 
 game: Ultima - Quest of the Avatar (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Ultima - Quest of the Avatar (USA)/Ultima - Quest of the Avatar (USA).json
+file: Nintendo/Nintendo NES/Ultima - Quest of the Avatar (USA)/Ultima - Quest of the Avatar (USA).json
 developer: Infinity Co., Ltd.
 publisher: FCI
 genre: Role-Playing
@@ -3722,7 +3722,7 @@ x-co-op: No
 
 
 game: Uninvited (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Uninvited (USA)/Uninvited (USA).json
+file: Nintendo/Nintendo NES/Uninvited (USA)/Uninvited (USA).json
 developer: ICOM
 publisher: Kemco
 genre: Adventure
@@ -3744,7 +3744,7 @@ x-co-op: No
 
 
 game: Urban Champion (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Urban Champion (World)/Urban Champion (World).json
+file: Nintendo/Nintendo NES/Urban Champion (World)/Urban Champion (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Fighting
@@ -3770,7 +3770,7 @@ x-co-op: No
 
 
 game: Wampus DX (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Wampus DX (USA)/Wampus DX (USA).json
+file: Nintendo/Nintendo NES/Wampus DX (USA)/Wampus DX (USA).json
 developer: John Vanderhoef
 publisher: John Vanderhoef
 genre: Adventure
@@ -3797,7 +3797,7 @@ x-co-op: No
 
 
 game: Wario's Woods (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Wario's Woods (USA)/Wario's Woods (USA).json
+file: Nintendo/Nintendo NES/Wario's Woods (USA)/Wario's Woods (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Puzzle
@@ -3823,7 +3823,7 @@ x-co-op: No
 
 
 game: Wizards & Warriors (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Wizards & Warriors (USA)/Wizards & Warriors (USA).json
+file: Nintendo/Nintendo NES/Wizards & Warriors (USA)/Wizards & Warriors (USA).json
 developer: Rare
 publisher: Acclaim
 genre: Action;Platform
@@ -3850,7 +3850,7 @@ x-co-op: No
 
 
 game: Wrecking Crew (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Wrecking Crew (World)/Wrecking Crew (World).json
+file: Nintendo/Nintendo NES/Wrecking Crew (World)/Wrecking Crew (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Puzzle
@@ -3872,7 +3872,7 @@ x-co-op: Yes
 
 
 game: Xenophobe (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Xenophobe (USA)/Xenophobe (USA).json
+file: Nintendo/Nintendo NES/Xenophobe (USA)/Xenophobe (USA).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Shooter
@@ -3893,7 +3893,7 @@ x-co-op: No
 
 
 game: Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1)/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo NES/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1)/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Bandai
 genre: Shooter
@@ -3912,7 +3912,7 @@ x-co-op: No
 
 
 game: Yoshi (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Yoshi (USA)/Yoshi (USA).json
+file: Nintendo/Nintendo NES/Yoshi (USA)/Yoshi (USA).json
 developer: Game Freak
 publisher: Nintendo of America Inc.
 genre: Puzzle
@@ -3938,7 +3938,7 @@ x-co-op: No
 
 
 game: Zelda II - The Adventure of Link (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA)/Zelda II - The Adventure of Link (USA).json
+file: Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA)/Zelda II - The Adventure of Link (USA).json
 developer: Nintendo R&D4
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -3962,7 +3962,7 @@ x-co-op: No
 
 
 game: Zelda II - The Adventure of Link (USA) (Co-op Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA) (Co-op Patch)/Zelda II - The Adventure of Link (USA) (Co-op Patch).json
+file: Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA) (Co-op Patch)/Zelda II - The Adventure of Link (USA) (Co-op Patch).json
 developer: Nintendo R&D4
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -3985,7 +3985,7 @@ x-co-op: Yes
 
 
 game: Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console)/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console).json
+file: Nintendo/Nintendo NES/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console)/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console).json
 developer: Nintendo R&D3
 publisher: Nintendo
 genre: Action;Adventure
@@ -4016,7 +4016,7 @@ x-co-op: No
 
 
 game: Zombie Nation (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo NES/Zombie Nation (USA)/Zombie Nation (USA).json
+file: Nintendo/Nintendo NES/Zombie Nation (USA)/Zombie Nation (USA).json
 developer: KAZe
 publisher: Meldac
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal

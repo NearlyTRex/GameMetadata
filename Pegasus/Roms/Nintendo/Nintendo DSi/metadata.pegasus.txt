@@ -1,9 +1,9 @@
 collection: Nintendo DSi
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo DSi" {file.path}
+launch: launch_rom -l "Nintendo DSi" {file.path}
 
 
 game: 7 Wonders II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/7 Wonders II (USA)/7 Wonders II (USA).json
+file: Nintendo/Nintendo DSi/7 Wonders II (USA)/7 Wonders II (USA).json
 developer: MumboJumbo
 publisher: Avanquest Software
 genre: Puzzle
@@ -24,7 +24,7 @@ x-co-op: No
 
 
 game: Abyss (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Abyss (USA)/Abyss (USA).json
+file: Nintendo/Nintendo DSi/Abyss (USA)/Abyss (USA).json
 developer: EnjoyUp Games
 publisher: EnjoyUp Games
 genre: Action
@@ -52,7 +52,7 @@ x-co-op: Yes
 
 
 game: AiRace (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/AiRace (USA)/AiRace (USA).json
+file: Nintendo/Nintendo DSi/AiRace (USA)/AiRace (USA).json
 developer: NoWay Studio
 publisher: QubicGames
 genre: Racing
@@ -75,7 +75,7 @@ x-co-op: No
 
 
 game: AiRace Tunnel (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/AiRace Tunnel (USA)/AiRace Tunnel (USA).json
+file: Nintendo/Nintendo DSi/AiRace Tunnel (USA)/AiRace Tunnel (USA).json
 developer: NoWay Studio
 publisher: QubicGames
 genre: Racing
@@ -97,7 +97,7 @@ x-co-op: No
 
 
 game: Amoebattle (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Amoebattle (USA)/Amoebattle (USA).json
+file: Nintendo/Nintendo DSi/Amoebattle (USA)/Amoebattle (USA).json
 developer: Grab, LLC
 publisher: Grab, LLC
 genre: Puzzle;Strategy
@@ -121,7 +121,7 @@ x-co-op: No
 
 
 game: Anonymous Notes 1 - From The Abyss (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Anonymous Notes 1 - From The Abyss (USA)/Anonymous Notes 1 - From The Abyss (USA).json
+file: Nintendo/Nintendo DSi/Anonymous Notes 1 - From The Abyss (USA)/Anonymous Notes 1 - From The Abyss (USA).json
 developer: Sonic Powered
 publisher: Sonic Powered
 genre: Role-Playing;Action RPG
@@ -143,7 +143,7 @@ x-co-op: No
 
 
 game: Anonymous Notes 2 - From The Abyss (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Anonymous Notes 2 - From The Abyss (USA)/Anonymous Notes 2 - From The Abyss (USA).json
+file: Nintendo/Nintendo DSi/Anonymous Notes 2 - From The Abyss (USA)/Anonymous Notes 2 - From The Abyss (USA).json
 developer: Sonic Powered
 publisher: Sonic Powered
 genre: Role-Playing;Action RPG
@@ -166,7 +166,7 @@ x-co-op: No
 
 
 game: Anonymous Notes 3 - From The Abyss (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Anonymous Notes 3 - From The Abyss (USA)/Anonymous Notes 3 - From The Abyss (USA).json
+file: Nintendo/Nintendo DSi/Anonymous Notes 3 - From The Abyss (USA)/Anonymous Notes 3 - From The Abyss (USA).json
 developer: Sonic Powered
 publisher: Sonic Powered
 genre: Role-Playing;Action RPG
@@ -202,7 +202,7 @@ x-co-op: No
 
 
 game: Anonymous Notes 4 - From The Abyss (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Anonymous Notes 4 - From The Abyss (USA)/Anonymous Notes 4 - From The Abyss (USA).json
+file: Nintendo/Nintendo DSi/Anonymous Notes 4 - From The Abyss (USA)/Anonymous Notes 4 - From The Abyss (USA).json
 developer: Sonic Powered
 publisher: Sonic Powered
 genre: Role-Playing;Action RPG
@@ -231,7 +231,7 @@ x-co-op: No
 
 
 game: Art Style - AQUIA (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Art Style - AQUIA (USA)/Art Style - AQUIA (USA).json
+file: Nintendo/Nintendo DSi/Art Style - AQUIA (USA)/Art Style - AQUIA (USA).json
 developer: Skip Ltd.
 publisher: Nintendo
 genre: Puzzle;General
@@ -256,7 +256,7 @@ x-co-op: No
 
 
 game: Aura-Aura Climber (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Aura-Aura Climber (USA)/Aura-Aura Climber (USA).json
+file: Nintendo/Nintendo DSi/Aura-Aura Climber (USA)/Aura-Aura Climber (USA).json
 developer: Nintendo Software Technology
 publisher: Nintendo
 genre: Action
@@ -280,7 +280,7 @@ x-co-op: No
 
 
 game: Bomberman Blitz (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Bomberman Blitz (USA)/Bomberman Blitz (USA).json
+file: Nintendo/Nintendo DSi/Bomberman Blitz (USA)/Bomberman Blitz (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action;Strategy
@@ -303,7 +303,7 @@ x-co-op: No
 
 
 game: Bookworm (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Bookworm (USA)/Bookworm (USA).json
+file: Nintendo/Nintendo DSi/Bookworm (USA)/Bookworm (USA).json
 developer: Black Lantern Studios
 publisher: PopCap Games, Inc.
 genre: Puzzle
@@ -348,7 +348,7 @@ x-co-op: Yes
 
 
 game: Box Pusher (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Box Pusher (USA)/Box Pusher (USA).json
+file: Nintendo/Nintendo DSi/Box Pusher (USA)/Box Pusher (USA).json
 developer: Cosmigo
 publisher: GameOn
 genre: Puzzle
@@ -374,7 +374,7 @@ x-co-op: Yes
 
 
 game: Candle Route (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Candle Route (USA)/Candle Route (USA).json
+file: Nintendo/Nintendo DSi/Candle Route (USA)/Candle Route (USA).json
 developer: Fun Unit
 publisher: Teyon
 genre: Puzzle
@@ -394,7 +394,7 @@ x-co-op: No
 
 
 game: Cat Frenzy (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Cat Frenzy (USA)/Cat Frenzy (USA).json
+file: Nintendo/Nintendo DSi/Cat Frenzy (USA)/Cat Frenzy (USA).json
 developer: Teyon
 publisher: Teyon
 genre: Puzzle
@@ -414,7 +414,7 @@ x-co-op: No
 
 
 game: Clash of Elementalists (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Clash of Elementalists (USA)/Clash of Elementalists (USA).json
+file: Nintendo/Nintendo DSi/Clash of Elementalists (USA)/Clash of Elementalists (USA).json
 developer: Amzy
 publisher: Teyon
 genre: Fighting
@@ -439,7 +439,7 @@ x-co-op: No
 
 
 game: Color Commando (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Color Commando (USA)/Color Commando (USA).json
+file: Nintendo/Nintendo DSi/Color Commando (USA)/Color Commando (USA).json
 developer: Circle Entertainment
 publisher: CIRCLE Entertainment
 genre: Action;Platform;Puzzle
@@ -472,7 +472,7 @@ x-co-op: No
 
 
 game: Commando - Steel Disaster (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Commando - Steel Disaster (USA)/Commando - Steel Disaster (USA).json
+file: Nintendo/Nintendo DSi/Commando - Steel Disaster (USA)/Commando - Steel Disaster (USA).json
 developer: Mana Computer Software
 publisher: XS Games
 genre: Action;Shooter
@@ -499,7 +499,7 @@ x-co-op: No
 
 
 game: Crystal Adventure (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Crystal Adventure (USA)/Crystal Adventure (USA).json
+file: Nintendo/Nintendo DSi/Crystal Adventure (USA)/Crystal Adventure (USA).json
 developer: Circle Entertainment
 publisher: CIRCLE Entertainment
 genre: Role-Playing
@@ -526,7 +526,7 @@ x-co-op: No
 
 
 game: Dark Void Zero (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Dark Void Zero (USA)/Dark Void Zero (USA).json
+file: Nintendo/Nintendo DSi/Dark Void Zero (USA)/Dark Void Zero (USA).json
 developer: Other Ocean Interactive
 publisher: Capcom
 genre: Action;Platform
@@ -556,7 +556,7 @@ x-co-op: No
 
 
 game: Don't Cross The Line (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Don't Cross The Line (USA)/Don't Cross The Line (USA).json
+file: Nintendo/Nintendo DSi/Don't Cross The Line (USA)/Don't Cross The Line (USA).json
 developer: Jupiter Corporation
 publisher: Aksys Games
 genre: Puzzle;General
@@ -578,7 +578,7 @@ x-co-op: No
 
 
 game: Doodle Fit (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Doodle Fit (USA)/Doodle Fit (USA).json
+file: Nintendo/Nintendo DSi/Doodle Fit (USA)/Doodle Fit (USA).json
 developer: Gamelion Studios
 publisher: Gamelion Studios
 genre: Puzzle;Logic
@@ -600,7 +600,7 @@ x-co-op: No
 
 
 game: Dr. Mario Express (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Dr. Mario Express (USA) (Rev 1)/Dr. Mario Express (USA) (Rev 1).json
+file: Nintendo/Nintendo DSi/Dr. Mario Express (USA) (Rev 1)/Dr. Mario Express (USA) (Rev 1).json
 developer: Arika
 publisher: Nintendo
 genre: Puzzle
@@ -625,7 +625,7 @@ x-co-op: No
 
 
 game: Dracula - Undead Awakening (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Dracula - Undead Awakening (USA)/Dracula - Undead Awakening (USA).json
+file: Nintendo/Nintendo DSi/Dracula - Undead Awakening (USA)/Dracula - Undead Awakening (USA).json
 developer: Moregames Entertainment
 publisher: Chillingo
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -649,7 +649,7 @@ x-co-op: No
 
 
 game: Dragon Quest Wars (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Dragon Quest Wars (USA)/Dragon Quest Wars (USA).json
+file: Nintendo/Nintendo DSi/Dragon Quest Wars (USA)/Dragon Quest Wars (USA).json
 developer: Intelligent Systems
 publisher: Square Enix
 genre: Role-Playing;Strategy
@@ -670,7 +670,7 @@ x-co-op: No
 
 
 game: Fishdom (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Fishdom (USA)/Fishdom (USA).json
+file: Nintendo/Nintendo DSi/Fishdom (USA)/Fishdom (USA).json
 developer: Playrix Entertainment
 publisher: Playrix Entertainment
 genre: Puzzle;Matching
@@ -703,7 +703,7 @@ x-co-op: No
 
 
 game: Flip the Core (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Flip the Core (USA)/Flip the Core (USA).json
+file: Nintendo/Nintendo DSi/Flip the Core (USA)/Flip the Core (USA).json
 developer: Engine Software
 publisher: Engine Software
 genre: Shooter
@@ -728,7 +728,7 @@ x-co-op: No
 
 
 game: Gaia's Moon (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Gaia's Moon (USA)/Gaia's Moon (USA).json
+file: Nintendo/Nintendo DSi/Gaia's Moon (USA)/Gaia's Moon (USA).json
 developer: EnjoyUp Games
 publisher: EnjoyUp Games
 genre: Action;Adventure
@@ -751,7 +751,7 @@ x-co-op: No
 
 
 game: Goony (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Goony (USA)/Goony (USA).json
+file: Nintendo/Nintendo DSi/Goony (USA)/Goony (USA).json
 developer: Moragami Company
 publisher: CIRCLE Entertainment
 genre: Action
@@ -777,7 +777,7 @@ x-co-op: No
 
 
 game: Kappa's Trail, A (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Kappa's Trail, A (USA)/Kappa's Trail, A (USA).json
+file: Nintendo/Nintendo DSi/Kappa's Trail, A (USA)/Kappa's Trail, A (USA).json
 developer: Brownie Brown
 publisher: Nintendo
 genre: Action
@@ -797,7 +797,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Four Swords Anniversary Edition (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Legend of Zelda, The - Four Swords Anniversary Edition (USA) (En,Fr,Es)/Legend of Zelda, The - Four Swords Anniversary Edition (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo DSi/Legend of Zelda, The - Four Swords Anniversary Edition (USA) (En,Fr,Es)/Legend of Zelda, The - Four Swords Anniversary Edition (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -824,7 +824,7 @@ x-co-op: Yes
 
 
 game: Little Red Riding Hood's Zombie BBQ (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Little Red Riding Hood's Zombie BBQ (USA)/Little Red Riding Hood's Zombie BBQ (USA).json
+file: Nintendo/Nintendo DSi/Little Red Riding Hood's Zombie BBQ (USA)/Little Red Riding Hood's Zombie BBQ (USA).json
 developer: EnjoyUp
 publisher: Destineer
 genre: Action
@@ -851,7 +851,7 @@ x-co-op: No
 
 
 game: Looksley's Line Up (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Looksley's Line Up (USA)/Looksley's Line Up (USA).json
+file: Nintendo/Nintendo DSi/Looksley's Line Up (USA)/Looksley's Line Up (USA).json
 developer: Good-Feel
 publisher: Nintendo
 genre: Puzzle
@@ -877,7 +877,7 @@ x-co-op: No
 
 
 game: Mario Calculator (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Mario Calculator (USA) (Rev 1)/Mario Calculator (USA) (Rev 1).json
+file: Nintendo/Nintendo DSi/Mario Calculator (USA) (Rev 1)/Mario Calculator (USA) (Rev 1).json
 developer: Nintendo Software Technology Corporation
 publisher: Nintendo
 genre: Miscellaneous;Application
@@ -901,7 +901,7 @@ x-co-op: No
 
 
 game: Mario Clock (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Mario Clock (USA) (Rev 1)/Mario Clock (USA) (Rev 1).json
+file: Nintendo/Nintendo DSi/Mario Clock (USA) (Rev 1)/Mario Clock (USA) (Rev 1).json
 developer: Nintendo Software Technology Corporation
 publisher: Nintendo
 genre: Miscellaneous;Application
@@ -926,7 +926,7 @@ x-co-op: No
 
 
 game: Mario vs. Donkey Kong - Minis March Again! (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Mario vs. Donkey Kong - Minis March Again! (USA) (Rev 1)/Mario vs. Donkey Kong - Minis March Again! (USA) (Rev 1).json
+file: Nintendo/Nintendo DSi/Mario vs. Donkey Kong - Minis March Again! (USA) (Rev 1)/Mario vs. Donkey Kong - Minis March Again! (USA) (Rev 1).json
 developer: Nintendo Software Technology
 publisher: Nintendo
 genre: Puzzle
@@ -954,7 +954,7 @@ x-co-op: No
 
 
 game: Mighty Flip Champs! (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Mighty Flip Champs! (USA)/Mighty Flip Champs! (USA).json
+file: Nintendo/Nintendo DSi/Mighty Flip Champs! (USA)/Mighty Flip Champs! (USA).json
 developer: WayForward Technologies
 publisher: WayForward Technologies
 genre: Puzzle
@@ -990,7 +990,7 @@ x-co-op: No
 
 
 game: Mighty Milky Way (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Mighty Milky Way (USA)/Mighty Milky Way (USA).json
+file: Nintendo/Nintendo DSi/Mighty Milky Way (USA)/Mighty Milky Way (USA).json
 developer: WayForward Technologies
 publisher: WayForward Technologies
 genre: Action;Puzzle
@@ -1016,7 +1016,7 @@ x-co-op: No
 
 
 game: Nintendo 3DS Transfer Tool (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo 3DS Transfer Tool (USA) (Rev 1)/Nintendo 3DS Transfer Tool (USA) (Rev 1).json
+file: Nintendo/Nintendo DSi/Nintendo 3DS Transfer Tool (USA) (Rev 1)/Nintendo 3DS Transfer Tool (USA) (Rev 1).json
 developer: Nintendo
 publisher: Nintendo
 genre: Tool
@@ -1053,7 +1053,7 @@ x-co-op: No
 
 
 game: Nintendo DSi + Internet (USA) (Pre-install Only)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo DSi + Internet (USA) (Pre-install Only)/Nintendo DSi + Internet (USA) (Pre-install Only).json
+file: Nintendo/Nintendo DSi/Nintendo DSi + Internet (USA) (Pre-install Only)/Nintendo DSi + Internet (USA) (Pre-install Only).json
 developer: Nintendo
 publisher: Nintendo
 genre: Firmware
@@ -1079,7 +1079,7 @@ x-co-op: No
 
 
 game: Nintendo DSi - Instrument Tuner (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo DSi - Instrument Tuner (USA)/Nintendo DSi - Instrument Tuner (USA).json
+file: Nintendo/Nintendo DSi/Nintendo DSi - Instrument Tuner (USA)/Nintendo DSi - Instrument Tuner (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -1102,7 +1102,7 @@ x-co-op: No
 
 
 game: Nintendo DSi Browser (USA) (Rev 3)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo DSi Browser (USA) (Rev 3)/Nintendo DSi Browser (USA) (Rev 3).json
+file: Nintendo/Nintendo DSi/Nintendo DSi Browser (USA) (Rev 3)/Nintendo DSi Browser (USA) (Rev 3).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -1123,7 +1123,7 @@ x-co-op: No
 
 
 game: Nintendo DSi Camera (USA) (Rev 4)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo DSi Camera (USA) (Rev 4)/Nintendo DSi Camera (USA) (Rev 4).json
+file: Nintendo/Nintendo DSi/Nintendo DSi Camera (USA) (Rev 4)/Nintendo DSi Camera (USA) (Rev 4).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -1143,7 +1143,7 @@ x-co-op: No
 
 
 game: Nintendo DSi Metronome (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo DSi Metronome (USA)/Nintendo DSi Metronome (USA).json
+file: Nintendo/Nintendo DSi/Nintendo DSi Metronome (USA)/Nintendo DSi Metronome (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -1166,7 +1166,7 @@ x-co-op: No
 
 
 game: Nintendo DSi Shop (USA) (Rev 12)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo DSi Shop (USA) (Rev 12)/Nintendo DSi Shop (USA) (Rev 12).json
+file: Nintendo/Nintendo DSi/Nintendo DSi Shop (USA) (Rev 12)/Nintendo DSi Shop (USA) (Rev 12).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -1190,7 +1190,7 @@ x-co-op: No
 
 
 game: Nintendo DSi Sound (USA) (Rev 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Nintendo DSi Sound (USA) (Rev 2)/Nintendo DSi Sound (USA) (Rev 2).json
+file: Nintendo/Nintendo DSi/Nintendo DSi Sound (USA) (Rev 2)/Nintendo DSi Sound (USA) (Rev 2).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -1208,7 +1208,7 @@ x-co-op: No
 
 
 game: Penguin Patrol (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Penguin Patrol (USA)/Penguin Patrol (USA).json
+file: Nintendo/Nintendo DSi/Penguin Patrol (USA)/Penguin Patrol (USA).json
 developer: Grab Games
 publisher: Grab Games
 genre: Puzzle;General
@@ -1233,7 +1233,7 @@ x-co-op: No
 
 
 game: Photo Dojo (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Photo Dojo (USA)/Photo Dojo (USA).json
+file: Nintendo/Nintendo DSi/Photo Dojo (USA)/Photo Dojo (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Fighting
@@ -1252,7 +1252,7 @@ x-co-op: No
 
 
 game: Plants vs. Zombies (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Plants vs. Zombies (USA)/Plants vs. Zombies (USA).json
+file: Nintendo/Nintendo DSi/Plants vs. Zombies (USA)/Plants vs. Zombies (USA).json
 developer: PopCap Games
 publisher: PopCap Games
 genre: Puzzle
@@ -1273,7 +1273,7 @@ x-co-op: No
 
 
 game: Retro Pocket (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Retro Pocket (USA)/Retro Pocket (USA).json
+file: Nintendo/Nintendo DSi/Retro Pocket (USA)/Retro Pocket (USA).json
 developer: UFO Interactive
 publisher: UFO Interactive
 genre: Miscellaneous;General
@@ -1296,7 +1296,7 @@ x-co-op: No
 
 
 game: Rhythm Core Alpha (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Rhythm Core Alpha (USA)/Rhythm Core Alpha (USA).json
+file: Nintendo/Nintendo DSi/Rhythm Core Alpha (USA)/Rhythm Core Alpha (USA).json
 developer: SoftEgg
 publisher: SoftEgg
 genre: Action;Rhythm;Music
@@ -1323,7 +1323,7 @@ x-co-op: No
 
 
 game: Rhythm Core Alpha 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Rhythm Core Alpha 2 (USA)/Rhythm Core Alpha 2 (USA).json
+file: Nintendo/Nintendo DSi/Rhythm Core Alpha 2 (USA)/Rhythm Core Alpha 2 (USA).json
 developer: SoftEgg
 publisher: SoftEgg
 genre: Miscellaneous;Application
@@ -1366,7 +1366,7 @@ x-co-op: No
 
 
 game: Rytmik Retrobits (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Rytmik Retrobits (USA)/Rytmik Retrobits (USA).json
+file: Nintendo/Nintendo DSi/Rytmik Retrobits (USA)/Rytmik Retrobits (USA).json
 developer: Cinemax
 publisher: Cinemax
 genre: Miscellaneous;Application
@@ -1403,7 +1403,7 @@ x-co-op: No
 
 
 game: Soul of Darkness (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Soul of Darkness (USA)/Soul of Darkness (USA).json
+file: Nintendo/Nintendo DSi/Soul of Darkness (USA)/Soul of Darkness (USA).json
 developer: Gameloft
 publisher: Gameloft
 genre: Action;Adventure
@@ -1426,7 +1426,7 @@ x-co-op: No
 
 
 game: Starship Defense (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Starship Defense (USA)/Starship Defense (USA).json
+file: Nintendo/Nintendo DSi/Starship Defense (USA)/Starship Defense (USA).json
 developer: BLUE WIND
 publisher: BLUE WIND
 genre: Strategy;Real-Time;Defense
@@ -1454,7 +1454,7 @@ x-co-op: No
 
 
 game: SteamWorld Tower Defense (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/SteamWorld Tower Defense (USA)/SteamWorld Tower Defense (USA).json
+file: Nintendo/Nintendo DSi/SteamWorld Tower Defense (USA)/SteamWorld Tower Defense (USA).json
 developer: Image & Form
 publisher: Image & Form
 genre: Action;Strategy
@@ -1476,7 +1476,7 @@ x-co-op: No
 
 
 game: Topsy Turvy Life, A - The Turvys Strike Back (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Topsy Turvy Life, A - The Turvys Strike Back (USA)/Topsy Turvy Life, A - The Turvys Strike Back (USA).json
+file: Nintendo/Nintendo DSi/Topsy Turvy Life, A - The Turvys Strike Back (USA)/Topsy Turvy Life, A - The Turvys Strike Back (USA).json
 developer: Tecmo
 publisher: Tecmo Koei Games
 genre: Shooter
@@ -1500,7 +1500,7 @@ x-co-op: No
 
 
 game: Topsy Turvy Life, A - Turvy Drops (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Topsy Turvy Life, A - Turvy Drops (USA)/Topsy Turvy Life, A - Turvy Drops (USA).json
+file: Nintendo/Nintendo DSi/Topsy Turvy Life, A - Turvy Drops (USA)/Topsy Turvy Life, A - Turvy Drops (USA).json
 developer: Tecmo
 publisher: Tecmo Koei Games
 genre: Action;Puzzle
@@ -1519,7 +1519,7 @@ x-co-op: No
 
 
 game: Touch Solitaire (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Touch Solitaire (USA)/Touch Solitaire (USA).json
+file: Nintendo/Nintendo DSi/Touch Solitaire (USA)/Touch Solitaire (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Strategy
@@ -1544,7 +1544,7 @@ x-co-op: No
 
 
 game: WarioWare - Snapped! (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/WarioWare - Snapped! (USA) (Rev 1)/WarioWare - Snapped! (USA) (Rev 1).json
+file: Nintendo/Nintendo DSi/WarioWare - Snapped! (USA) (Rev 1)/WarioWare - Snapped! (USA) (Rev 1).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Action;Puzzle
@@ -1572,7 +1572,7 @@ x-co-op: No
 
 
 game: X-Scape (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/X-Scape (USA)/X-Scape (USA).json
+file: Nintendo/Nintendo DSi/X-Scape (USA)/X-Scape (USA).json
 developer: Q-Games
 publisher: Nintendo
 genre: Action;Shooter
@@ -1604,7 +1604,7 @@ x-co-op: No
 
 
 game: ZENONIA (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/ZENONIA (USA)/ZENONIA (USA).json
+file: Nintendo/Nintendo DSi/ZENONIA (USA)/ZENONIA (USA).json
 developer: GAMEVIL
 publisher: GAMEVIL
 genre: Action
@@ -1626,7 +1626,7 @@ x-co-op: No
 
 
 game: Zuma's Revenge! (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo DSi/Zuma's Revenge! (USA)/Zuma's Revenge! (USA).json
+file: Nintendo/Nintendo DSi/Zuma's Revenge! (USA)/Zuma's Revenge! (USA).json
 developer: PopCap Games
 publisher: PopCap Games
 genre: Puzzle

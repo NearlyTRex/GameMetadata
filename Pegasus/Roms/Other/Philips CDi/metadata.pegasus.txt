@@ -1,9 +1,9 @@
 collection: Philips CDi
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Philips CDi" {file.path}
+launch: launch_rom -l "Philips CDi" {file.path}
 
 
 game: Apprentice, The (Europe)
-file: $ROM_JSON_ROOT/Other/Philips CDi/Apprentice, The (Europe)/Apprentice, The (Europe).json
+file: Other/Philips CDi/Apprentice, The (Europe)/Apprentice, The (Europe).json
 developer: The Vision Factory
 publisher: Philips Interactive Media
 genre: Platform
@@ -26,7 +26,7 @@ x-co-op: No
 
 
 game: Mutant Rampage - Bodyslam (Europe)
-file: $ROM_JSON_ROOT/Other/Philips CDi/Mutant Rampage - Bodyslam (Europe)/Mutant Rampage - Bodyslam (Europe).json
+file: Other/Philips CDi/Mutant Rampage - Bodyslam (Europe)/Mutant Rampage - Bodyslam (Europe).json
 developer: Animation Magic
 publisher: Philips Interactive Media
 genre: Action
@@ -46,7 +46,7 @@ x-co-op: No
 
 
 game: Pac-Panic (Europe)
-file: $ROM_JSON_ROOT/Other/Philips CDi/Pac-Panic (Europe)/Pac-Panic (Europe).json
+file: Other/Philips CDi/Pac-Panic (Europe)/Pac-Panic (Europe).json
 developer: Namco
 publisher: Philips Interactive Media
 genre: Puzzle

@@ -1,9 +1,9 @@
 collection: Bandai WonderSwan
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Bandai WonderSwan" {file.path}
+launch: launch_rom -l "Bandai WonderSwan" {file.path}
 
 
 game: Clock Tower for WonderSwan (Japan)
-file: $ROM_JSON_ROOT/Other/Bandai WonderSwan/Clock Tower for WonderSwan (Japan)/Clock Tower for WonderSwan (Japan).json
+file: Other/Bandai WonderSwan/Clock Tower for WonderSwan (Japan)/Clock Tower for WonderSwan (Japan).json
 developer: Human Entertainment
 publisher: Naxat Soft
 genre: Adventure

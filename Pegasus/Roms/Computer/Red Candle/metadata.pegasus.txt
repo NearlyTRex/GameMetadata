@@ -1,9 +1,9 @@
 collection: Computer - Red Candle
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Computer - Red Candle" {file.path}
+launch: launch_rom -l "Computer - Red Candle" {file.path}
 
 
 game: Detention (USA)
-file: $ROM_JSON_ROOT/Computer/Red Candle/D/Detention (USA)/Detention (USA).json
+file: Computer/Red Candle/D/Detention (USA)/Detention (USA).json
 developer: RedCandleGames
 publisher: RedCandleGames
 genre: Horror
@@ -22,7 +22,7 @@ x-co-op: No
 
 
 game: Devotion (USA)
-file: $ROM_JSON_ROOT/Computer/Red Candle/D/Devotion (USA)/Devotion (USA).json
+file: Computer/Red Candle/D/Devotion (USA)/Devotion (USA).json
 developer: RedCandleGames
 publisher: RedCandleGames
 genre: Horror

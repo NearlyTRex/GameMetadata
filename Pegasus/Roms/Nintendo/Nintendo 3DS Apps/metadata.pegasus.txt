@@ -1,9 +1,9 @@
 collection: Nintendo 3DS Apps
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo 3DS Apps" {file.path}
+launch: launch_rom -l "Nintendo 3DS Apps" {file.path}
 
 
 game: AR Games (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/AR Games (USA) (Embedded App)/AR Games (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/AR Games (USA) (Embedded App)/AR Games (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -23,7 +23,7 @@ x-co-op: No
 
 
 game: Activity Log (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Activity Log (USA) (Embedded App)/Activity Log (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Activity Log (USA) (Embedded App)/Activity Log (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -41,7 +41,7 @@ x-co-op: No
 
 
 game: Download Play (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Download Play (USA) (Embedded App)/Download Play (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Download Play (USA) (Embedded App)/Download Play (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -62,7 +62,7 @@ x-co-op: No
 
 
 game: Face Raiders (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Face Raiders (USA) (Embedded App)/Face Raiders (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Face Raiders (USA) (Embedded App)/Face Raiders (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -85,7 +85,7 @@ x-co-op: No
 
 
 game: Mii Maker (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Mii Maker (USA) (Embedded App)/Mii Maker (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Mii Maker (USA) (Embedded App)/Mii Maker (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -107,7 +107,7 @@ x-co-op: No
 
 
 game: Nintendo 3DS Camera (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Nintendo 3DS Camera (USA) (Embedded App)/Nintendo 3DS Camera (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Nintendo 3DS Camera (USA) (Embedded App)/Nintendo 3DS Camera (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -127,7 +127,7 @@ x-co-op: No
 
 
 game: Nintendo 3DS Sound (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Nintendo 3DS Sound (USA) (Embedded App)/Nintendo 3DS Sound (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Nintendo 3DS Sound (USA) (Embedded App)/Nintendo 3DS Sound (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -146,7 +146,7 @@ x-co-op: No
 
 
 game: Nintendo Network ID Settings (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Nintendo Network ID Settings (USA) (Embedded App)/Nintendo Network ID Settings (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Nintendo Network ID Settings (USA) (Embedded App)/Nintendo Network ID Settings (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -169,7 +169,7 @@ x-co-op: No
 
 
 game: Nintendo Zone Viewer (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Nintendo Zone Viewer (USA) (Embedded App)/Nintendo Zone Viewer (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Nintendo Zone Viewer (USA) (Embedded App)/Nintendo Zone Viewer (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -187,7 +187,7 @@ x-co-op: No
 
 
 game: Nintendo eShop (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/Nintendo eShop (USA) (Embedded App)/Nintendo eShop (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/Nintendo eShop (USA) (Embedded App)/Nintendo eShop (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -208,7 +208,7 @@ x-co-op: No
 
 
 game: StreetPass Mii Plaza (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/StreetPass Mii Plaza (USA) (Embedded App)/StreetPass Mii Plaza (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/StreetPass Mii Plaza (USA) (Embedded App)/StreetPass Mii Plaza (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application
@@ -238,7 +238,7 @@ x-co-op: No
 
 
 game: System Settings (USA) (Embedded App)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo 3DS Apps/System Settings (USA) (Embedded App)/System Settings (USA) (Embedded App).json
+file: Nintendo/Nintendo 3DS Apps/System Settings (USA) (Embedded App)/System Settings (USA) (Embedded App).json
 developer: Nintendo
 publisher: Nintendo
 genre: Application

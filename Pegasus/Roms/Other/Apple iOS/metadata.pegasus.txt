@@ -1,9 +1,9 @@
 collection: Apple iOS
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Apple iOS" {file.path}
+launch: launch_rom -l "Apple iOS" {file.path}
 
 
 game: 7th Guest, The (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/7th Guest, The (USA)/7th Guest, The (USA).json
+file: Other/Apple iOS/7th Guest, The (USA)/7th Guest, The (USA).json
 developer: Trilobyte
 publisher: Virgin Interactive Entertainment, Inc.
 genre: Adventure;Puzzle
@@ -29,7 +29,7 @@ x-co-op: No
 
 
 game: After Burner Climax (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/After Burner Climax (USA)/After Burner Climax (USA).json
+file: Other/Apple iOS/After Burner Climax (USA)/After Burner Climax (USA).json
 developer: Fishing Cactus
 publisher: Sega
 genre: Shooter;Flight Simulator
@@ -85,7 +85,7 @@ x-co-op: No
 
 
 game: Autumn Dynasty - RTS (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Autumn Dynasty - RTS (USA)/Autumn Dynasty - RTS (USA).json
+file: Other/Apple iOS/Autumn Dynasty - RTS (USA)/Autumn Dynasty - RTS (USA).json
 developer: Bulkypix
 publisher: Bulkypix
 genre: Strategy
@@ -112,7 +112,7 @@ x-co-op: No
 
 
 game: Badland (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Badland (USA)/Badland (USA).json
+file: Other/Apple iOS/Badland (USA)/Badland (USA).json
 developer: Frogmind
 publisher: Frogmind
 genre: Adventure
@@ -177,7 +177,7 @@ x-co-op: No
 
 
 game: Cthulhu Saves the World (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Cthulhu Saves the World (USA)/Cthulhu Saves the World (USA).json
+file: Other/Apple iOS/Cthulhu Saves the World (USA)/Cthulhu Saves the World (USA).json
 developer: Zeboyd Games
 publisher: Zeboyd Games
 genre: Role-Playing
@@ -196,7 +196,7 @@ x-co-op: No
 
 
 game: Dead Space (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Dead Space (USA)/Dead Space (USA).json
+file: Other/Apple iOS/Dead Space (USA)/Dead Space (USA).json
 developer: IronMonkey Studios
 publisher: Electronic Arts
 genre: Action;Stealth;Horror
@@ -238,7 +238,7 @@ x-co-op: No
 
 
 game: Dead Space for iPad (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Dead Space for iPad (USA)/Dead Space for iPad (USA).json
+file: Other/Apple iOS/Dead Space for iPad (USA)/Dead Space for iPad (USA).json
 developer: IronMonkey Studios
 publisher: Electronic Arts
 genre: Action;Stealth;Horror
@@ -280,7 +280,7 @@ x-co-op: No
 
 
 game: Dead Trigger - Survival Shooter (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Dead Trigger - Survival Shooter (USA)/Dead Trigger - Survival Shooter (USA).json
+file: Other/Apple iOS/Dead Trigger - Survival Shooter (USA)/Dead Trigger - Survival Shooter (USA).json
 developer: Madfinger Games
 publisher: Madfinger Games
 genre: Action;Shooter;Horror
@@ -299,7 +299,7 @@ x-co-op: No
 
 
 game: Doom II RPG (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Doom II RPG (USA)/Doom II RPG (USA).json
+file: Other/Apple iOS/Doom II RPG (USA)/Doom II RPG (USA).json
 developer: id Software
 publisher: id Software
 genre: RPG
@@ -401,7 +401,7 @@ x-co-op: No
 
 
 game: Drowning, The (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Drowning, The (USA)/Drowning, The (USA).json
+file: Other/Apple iOS/Drowning, The (USA)/Drowning, The (USA).json
 developer: Scattered Entertainment
 publisher: DeNA/Mobage
 genre: Shooter
@@ -442,7 +442,7 @@ x-co-op: No
 
 
 game: Fail Hard (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Fail Hard (USA)/Fail Hard (USA).json
+file: Other/Apple iOS/Fail Hard (USA)/Fail Hard (USA).json
 developer: Fingersoft
 publisher: Fingersoft
 genre: Action
@@ -469,7 +469,7 @@ x-co-op: No
 
 
 game: Final Fantasy - All The Bravest (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Final Fantasy - All The Bravest (USA)/Final Fantasy - All The Bravest (USA).json
+file: Other/Apple iOS/Final Fantasy - All The Bravest (USA)/Final Fantasy - All The Bravest (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing;General
@@ -542,7 +542,7 @@ x-co-op: No
 
 
 game: Final Fantasy - Dimensions (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Final Fantasy - Dimensions (USA)/Final Fantasy - Dimensions (USA).json
+file: Other/Apple iOS/Final Fantasy - Dimensions (USA)/Final Fantasy - Dimensions (USA).json
 developer: Matrix Software
 publisher: Square Enix
 genre: Role-Playing;Japanese-Style
@@ -565,7 +565,7 @@ x-co-op: No
 
 
 game: Forever Lost - Episode 1 HD (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Forever Lost - Episode 1 HD (USA)/Forever Lost - Episode 1 HD (USA).json
+file: Other/Apple iOS/Forever Lost - Episode 1 HD (USA)/Forever Lost - Episode 1 HD (USA).json
 developer: Glitch Games
 publisher: Glitch Games
 genre: Adventure;General
@@ -612,7 +612,7 @@ x-co-op: No
 
 
 game: Forever Lost - Episode 2 HD (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Forever Lost - Episode 2 HD (USA)/Forever Lost - Episode 2 HD (USA).json
+file: Other/Apple iOS/Forever Lost - Episode 2 HD (USA)/Forever Lost - Episode 2 HD (USA).json
 developer: Glitch Games
 publisher: Glitch Games
 genre: Role-Playing;General
@@ -656,7 +656,7 @@ x-co-op: No
 
 
 game: Forever Lost - Episode 3 HD (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Forever Lost - Episode 3 HD (USA)/Forever Lost - Episode 3 HD (USA).json
+file: Other/Apple iOS/Forever Lost - Episode 3 HD (USA)/Forever Lost - Episode 3 HD (USA).json
 developer: Glitch Games
 publisher: Glitch Games
 genre: Adventure;Point-and-Click
@@ -686,7 +686,7 @@ x-co-op: No
 
 
 game: Framed (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Framed (USA)/Framed (USA).json
+file: Other/Apple iOS/Framed (USA)/Framed (USA).json
 developer: Loveshack Entertainment
 publisher: Loveshack Entertainment
 genre: Puzzle;General
@@ -708,7 +708,7 @@ x-co-op: No
 
 
 game: Gesundheit! HD (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Gesundheit! HD (USA)/Gesundheit! HD (USA).json
+file: Other/Apple iOS/Gesundheit! HD (USA)/Gesundheit! HD (USA).json
 developer: Konami Mobile & Online, Inc.
 publisher: Konami Mobile & Online, Inc.
 genre: Adventure;General
@@ -731,7 +731,7 @@ x-co-op: No
 
 
 game: Haunted Rooms - Escape VR Game for Google Cardboard (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Haunted Rooms - Escape VR Game for Google Cardboard (USA)/Haunted Rooms - Escape VR Game for Google Cardboard (USA).json
+file: Other/Apple iOS/Haunted Rooms - Escape VR Game for Google Cardboard (USA)/Haunted Rooms - Escape VR Game for Google Cardboard (USA).json
 developer: Rabbit Mountain
 publisher: Rabbit Mountain
 genre: Horror
@@ -771,7 +771,7 @@ x-co-op: No
 
 
 game: Hidden Agenda (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Hidden Agenda (USA)/Hidden Agenda (USA).json
+file: Other/Apple iOS/Hidden Agenda (USA)/Hidden Agenda (USA).json
 developer: Supermassive Games
 publisher: Sony Interactive Entertainment
 genre: Action;Adventure
@@ -812,7 +812,7 @@ x-co-op: Yes
 
 
 game: Infection (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Infection (USA)/Infection (USA).json
+file: Other/Apple iOS/Infection (USA)/Infection (USA).json
 developer: Fun Games For Free
 publisher: Fun Games For Free
 genre: Strategy
@@ -844,7 +844,7 @@ x-co-op: No
 
 
 game: Into the Dead (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Into the Dead (USA)/Into the Dead (USA).json
+file: Other/Apple iOS/Into the Dead (USA)/Into the Dead (USA).json
 developer: PikPok
 publisher: PikPok
 genre: Action;Shooter;First-Person;Arcade
@@ -877,7 +877,7 @@ x-co-op: No
 
 
 game: Jetpack Joyride (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Jetpack Joyride (USA)/Jetpack Joyride (USA).json
+file: Other/Apple iOS/Jetpack Joyride (USA)/Jetpack Joyride (USA).json
 developer: Halfbrick Studios
 publisher: Halfbrick Studios
 genre: Action;Arcade
@@ -907,7 +907,7 @@ x-co-op: No
 
 
 game: Kingturn RPG (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Kingturn RPG (USA)/Kingturn RPG (USA).json
+file: Other/Apple iOS/Kingturn RPG (USA)/Kingturn RPG (USA).json
 developer: Mangobile
 publisher: Mangobile
 genre: Role-Playing;General
@@ -933,7 +933,7 @@ x-co-op: No
 
 
 game: LEGO Star Wars - The Complete Saga (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/LEGO Star Wars - The Complete Saga (USA)/LEGO Star Wars - The Complete Saga (USA).json
+file: Other/Apple iOS/LEGO Star Wars - The Complete Saga (USA)/LEGO Star Wars - The Complete Saga (USA).json
 developer: Traveller's Tales
 publisher: LucasArts
 genre: Miscellaneous;Compilation
@@ -952,7 +952,7 @@ x-co-op: No
 
 
 game: LEGO Star Wars - The Force Awakens (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/LEGO Star Wars - The Force Awakens (USA)/LEGO Star Wars - The Force Awakens (USA).json
+file: Other/Apple iOS/LEGO Star Wars - The Force Awakens (USA)/LEGO Star Wars - The Force Awakens (USA).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action Adventure;General
@@ -978,7 +978,7 @@ x-co-op: No
 
 
 game: Marvel Puzzle Quest - Hero RPG (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Marvel Puzzle Quest - Hero RPG (USA)/Marvel Puzzle Quest - Hero RPG (USA).json
+file: Other/Apple iOS/Marvel Puzzle Quest - Hero RPG (USA)/Marvel Puzzle Quest - Hero RPG (USA).json
 developer: Demiurge Studios
 publisher: D3Publisher
 genre: Puzzle;Matching
@@ -998,7 +998,7 @@ x-co-op: Yes
 
 
 game: Maze of Darkness (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Maze of Darkness (USA)/Maze of Darkness (USA).json
+file: Other/Apple iOS/Maze of Darkness (USA)/Maze of Darkness (USA).json
 developer: doopop
 publisher: doopop
 genre: Adventure;General
@@ -1032,7 +1032,7 @@ x-co-op: No
 
 
 game: Mini Day Z - Zombie Survival (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Mini Day Z - Zombie Survival (USA)/Mini Day Z - Zombie Survival (USA).json
+file: Other/Apple iOS/Mini Day Z - Zombie Survival (USA)/Mini Day Z - Zombie Survival (USA).json
 developer: Bohemia Interactive a.s.
 publisher: Bohemia Interactive a.s.
 genre: Survival
@@ -1059,7 +1059,7 @@ x-co-op: No
 
 
 game: Monument Valley (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Monument Valley (USA)/Monument Valley (USA).json
+file: Other/Apple iOS/Monument Valley (USA)/Monument Valley (USA).json
 developer: ustwo
 publisher: USTWO
 genre: Puzzle
@@ -1081,7 +1081,7 @@ x-co-op: No
 
 
 game: Neko Atsume - Kitty Collector (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Neko Atsume - Kitty Collector (USA)/Neko Atsume - Kitty Collector (USA).json
+file: Other/Apple iOS/Neko Atsume - Kitty Collector (USA)/Neko Atsume - Kitty Collector (USA).json
 developer: Hit-Point Co., Ltd.
 publisher: Hit-Point Co., Ltd.
 genre: Simulation;Virtual;Pet
@@ -1108,7 +1108,7 @@ x-co-op: No
 
 
 game: Organ Trail - Director's Cut (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Organ Trail - Director's Cut (USA)/Organ Trail - Director's Cut (USA).json
+file: Other/Apple iOS/Organ Trail - Director's Cut (USA)/Organ Trail - Director's Cut (USA).json
 developer: The Men Who Wear Many Hats LLC
 publisher: The Men Who Wear Many Hats LLC
 genre: Strategy;General
@@ -1132,7 +1132,7 @@ x-co-op: Yes
 
 
 game: Plague Inc. (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Plague Inc. (USA)/Plague Inc. (USA).json
+file: Other/Apple iOS/Plague Inc. (USA)/Plague Inc. (USA).json
 developer: Ndemic Creations
 publisher: Ndemic Creations
 genre: Simulation;General
@@ -1158,7 +1158,7 @@ x-co-op: No
 
 
 game: Rage of Bahamut (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Rage of Bahamut (USA)/Rage of Bahamut (USA).json
+file: Other/Apple iOS/Rage of Bahamut (USA)/Rage of Bahamut (USA).json
 developer: Cygames
 publisher: Mobage, Inc.
 genre: Strategy;Turn-Based;Card Battle
@@ -1186,7 +1186,7 @@ x-co-op: No
 
 
 game: Resident Evil - Degeneration (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Resident Evil - Degeneration (USA)/Resident Evil - Degeneration (USA).json
+file: Other/Apple iOS/Resident Evil - Degeneration (USA)/Resident Evil - Degeneration (USA).json
 developer: Ideaworks3D
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -1232,7 +1232,7 @@ x-co-op: No
 
 
 game: Resident Evil 4 (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
+file: Other/Apple iOS/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -1253,7 +1253,7 @@ x-co-op: No
 
 
 game: Rick and Morty - Pocket Mortys (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Rick and Morty - Pocket Mortys (USA)/Rick and Morty - Pocket Mortys (USA).json
+file: Other/Apple iOS/Rick and Morty - Pocket Mortys (USA)/Rick and Morty - Pocket Mortys (USA).json
 developer: Big Pixel Studios
 publisher: Adult Swim
 genre: Action Adventure;General
@@ -1288,7 +1288,7 @@ x-co-op: No
 
 
 game: Scribblenauts Remix (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Scribblenauts Remix (USA)/Scribblenauts Remix (USA).json
+file: Other/Apple iOS/Scribblenauts Remix (USA)/Scribblenauts Remix (USA).json
 developer: Iron Galaxy Studios
 publisher: Warner Bros. Interactive Entertainment
 genre: Puzzle;Action
@@ -1318,7 +1318,7 @@ x-co-op: No
 
 
 game: Sega Classics - Altered Beast (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Altered Beast (USA)/Sega Classics - Altered Beast (USA).json
+file: Other/Apple iOS/Sega Classics - Altered Beast (USA)/Sega Classics - Altered Beast (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1345,7 +1345,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - Beyond Oasis (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Beyond Oasis (USA)/Sega Classics - Beyond Oasis (USA).json
+file: Other/Apple iOS/Sega Classics - Beyond Oasis (USA)/Sega Classics - Beyond Oasis (USA).json
 developer: Ancient
 publisher: Sega
 genre: Role-Playing;Action RPG
@@ -1368,7 +1368,7 @@ x-co-op: No
 
 
 game: Sega Classics - Comix Zone (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Comix Zone (USA)/Sega Classics - Comix Zone (USA).json
+file: Other/Apple iOS/Sega Classics - Comix Zone (USA)/Sega Classics - Comix Zone (USA).json
 developer: Sega Technical Institute
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1390,7 +1390,7 @@ x-co-op: No
 
 
 game: Sega Classics - Crazy Taxi (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Crazy Taxi (USA)/Sega Classics - Crazy Taxi (USA).json
+file: Other/Apple iOS/Sega Classics - Crazy Taxi (USA)/Sega Classics - Crazy Taxi (USA).json
 developer: Sega
 publisher: Sega
 genre: Racing;Arcade;Automobile
@@ -1411,7 +1411,7 @@ x-co-op: No
 
 
 game: Sega Classics - Decap Attack (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Decap Attack (USA)/Sega Classics - Decap Attack (USA).json
+file: Other/Apple iOS/Sega Classics - Decap Attack (USA)/Sega Classics - Decap Attack (USA).json
 developer: Vic Tokai
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1434,7 +1434,7 @@ x-co-op: No
 
 
 game: Sega Classics - Dynamite Headdy (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Dynamite Headdy (USA)/Sega Classics - Dynamite Headdy (USA).json
+file: Other/Apple iOS/Sega Classics - Dynamite Headdy (USA)/Sega Classics - Dynamite Headdy (USA).json
 developer: Treasure
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1457,7 +1457,7 @@ x-co-op: No
 
 
 game: Sega Classics - ESWAT - City Under Siege (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - ESWAT - City Under Siege (USA)/Sega Classics - ESWAT - City Under Siege (USA).json
+file: Other/Apple iOS/Sega Classics - ESWAT - City Under Siege (USA)/Sega Classics - ESWAT - City Under Siege (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1483,7 +1483,7 @@ x-co-op: No
 
 
 game: Sega Classics - Ecco the Dolphin (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Ecco the Dolphin (USA)/Sega Classics - Ecco the Dolphin (USA).json
+file: Other/Apple iOS/Sega Classics - Ecco the Dolphin (USA)/Sega Classics - Ecco the Dolphin (USA).json
 developer: Novotrade
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1522,7 +1522,7 @@ x-co-op: No
 
 
 game: Sega Classics - Golden Axe (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Golden Axe (USA)/Sega Classics - Golden Axe (USA).json
+file: Other/Apple iOS/Sega Classics - Golden Axe (USA)/Sega Classics - Golden Axe (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1551,7 +1551,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - Golden Axe II (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Golden Axe II (USA)/Sega Classics - Golden Axe II (USA).json
+file: Other/Apple iOS/Sega Classics - Golden Axe II (USA)/Sega Classics - Golden Axe II (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1571,7 +1571,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - Golden Axe III (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Golden Axe III (USA)/Sega Classics - Golden Axe III (USA).json
+file: Other/Apple iOS/Sega Classics - Golden Axe III (USA)/Sega Classics - Golden Axe III (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1593,7 +1593,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - Gunstar Heroes (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Gunstar Heroes (USA)/Sega Classics - Gunstar Heroes (USA).json
+file: Other/Apple iOS/Sega Classics - Gunstar Heroes (USA)/Sega Classics - Gunstar Heroes (USA).json
 developer: Treasure
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1613,7 +1613,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - Kid Chameleon (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Kid Chameleon (USA)/Sega Classics - Kid Chameleon (USA).json
+file: Other/Apple iOS/Sega Classics - Kid Chameleon (USA)/Sega Classics - Kid Chameleon (USA).json
 developer: Sega Technical Institute
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1640,7 +1640,7 @@ x-co-op: No
 
 
 game: Sega Classics - Phantasy Star II (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Phantasy Star II (USA)/Sega Classics - Phantasy Star II (USA).json
+file: Other/Apple iOS/Sega Classics - Phantasy Star II (USA)/Sega Classics - Phantasy Star II (USA).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing;Japanese-Style
@@ -1681,7 +1681,7 @@ x-co-op: No
 
 
 game: Sega Classics - Ristar (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Ristar (USA)/Sega Classics - Ristar (USA).json
+file: Other/Apple iOS/Sega Classics - Ristar (USA)/Sega Classics - Ristar (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1705,7 +1705,7 @@ x-co-op: No
 
 
 game: Sega Classics - Shining Force (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Shining Force (USA)/Sega Classics - Shining Force (USA).json
+file: Other/Apple iOS/Sega Classics - Shining Force (USA)/Sega Classics - Shining Force (USA).json
 developer: Camelot Software Planning
 publisher: Sega
 genre: Strategy;Turn-Based;Tactics
@@ -1744,7 +1744,7 @@ x-co-op: No
 
 
 game: Sega Classics - Sonic CD (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Sonic CD (USA)/Sega Classics - Sonic CD (USA).json
+file: Other/Apple iOS/Sega Classics - Sonic CD (USA)/Sega Classics - Sonic CD (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1766,7 +1766,7 @@ x-co-op: No
 
 
 game: Sega Classics - Sonic the Hedgehog (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Sonic the Hedgehog (USA)/Sega Classics - Sonic the Hedgehog (USA).json
+file: Other/Apple iOS/Sega Classics - Sonic the Hedgehog (USA)/Sega Classics - Sonic the Hedgehog (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1789,7 +1789,7 @@ x-co-op: No
 
 
 game: Sega Classics - Sonic the Hedgehog 2 (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Sonic the Hedgehog 2 (USA)/Sega Classics - Sonic the Hedgehog 2 (USA).json
+file: Other/Apple iOS/Sega Classics - Sonic the Hedgehog 2 (USA)/Sega Classics - Sonic the Hedgehog 2 (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1810,7 +1810,7 @@ x-co-op: No
 
 
 game: Sega Classics - Space Harrier II (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Space Harrier II (USA)/Sega Classics - Space Harrier II (USA).json
+file: Other/Apple iOS/Sega Classics - Space Harrier II (USA)/Sega Classics - Space Harrier II (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Shooter;Rail
@@ -1846,7 +1846,7 @@ x-co-op: No
 
 
 game: Sega Classics - Streets of Rage (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Streets of Rage (USA)/Sega Classics - Streets of Rage (USA).json
+file: Other/Apple iOS/Sega Classics - Streets of Rage (USA)/Sega Classics - Streets of Rage (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1877,7 +1877,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - Streets of Rage 2 (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Streets of Rage 2 (USA)/Sega Classics - Streets of Rage 2 (USA).json
+file: Other/Apple iOS/Sega Classics - Streets of Rage 2 (USA)/Sega Classics - Streets of Rage 2 (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1901,7 +1901,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - Streets of Rage 3 (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Streets of Rage 3 (USA)/Sega Classics - Streets of Rage 3 (USA).json
+file: Other/Apple iOS/Sega Classics - Streets of Rage 3 (USA)/Sega Classics - Streets of Rage 3 (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Beat-'Em-Up;2D
@@ -1923,7 +1923,7 @@ x-co-op: Yes
 
 
 game: Sega Classics - The Revenge of Shinobi (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - The Revenge of Shinobi (USA)/Sega Classics - The Revenge of Shinobi (USA).json
+file: Other/Apple iOS/Sega Classics - The Revenge of Shinobi (USA)/Sega Classics - The Revenge of Shinobi (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1948,7 +1948,7 @@ x-co-op: No
 
 
 game: Sega Classics - Vectorman (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Vectorman (USA)/Sega Classics - Vectorman (USA).json
+file: Other/Apple iOS/Sega Classics - Vectorman (USA)/Sega Classics - Vectorman (USA).json
 developer: Blue Sky Software
 publisher: Sega
 genre: Action;Platformer;2D
@@ -1971,7 +1971,7 @@ x-co-op: No
 
 
 game: Sega Classics - Virtua Fighter 2 (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Classics - Virtua Fighter 2 (USA)/Sega Classics - Virtua Fighter 2 (USA).json
+file: Other/Apple iOS/Sega Classics - Virtua Fighter 2 (USA)/Sega Classics - Virtua Fighter 2 (USA).json
 developer: Sega AM2
 publisher: Sega
 genre: Action;Fighting;3D
@@ -2002,7 +2002,7 @@ x-co-op: No
 
 
 game: Sega Columns Deluxe (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sega Columns Deluxe (USA)/Sega Columns Deluxe (USA).json
+file: Other/Apple iOS/Sega Columns Deluxe (USA)/Sega Columns Deluxe (USA).json
 developer: Sega
 publisher: Sega
 genre: Puzzle;Matching
@@ -2025,7 +2025,7 @@ x-co-op: No
 
 
 game: Silent Hill - The Escape (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Silent Hill - The Escape (USA)/Silent Hill - The Escape (USA).json
+file: Other/Apple iOS/Silent Hill - The Escape (USA)/Silent Hill - The Escape (USA).json
 developer: Konami
 publisher: Konami Mobile & Online, Inc.
 genre: Action;Shooter;First-Person;Arcade
@@ -2046,7 +2046,7 @@ x-co-op: No
 
 
 game: Solitaire (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Solitaire (USA)/Solitaire (USA).json
+file: Other/Apple iOS/Solitaire (USA)/Solitaire (USA).json
 developer: baKno Games
 publisher: baKno Games
 genre: Miscellaneous;Board / Card Game
@@ -2067,7 +2067,7 @@ x-co-op: No
 
 
 game: Solitaire Deluxe 2 - Card Game (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Solitaire Deluxe 2 - Card Game (USA)/Solitaire Deluxe 2 - Card Game (USA).json
+file: Other/Apple iOS/Solitaire Deluxe 2 - Card Game (USA)/Solitaire Deluxe 2 - Card Game (USA).json
 developer: Concrete Software
 publisher: Concrete Software
 genre: Miscellaneous;Board / Card Game
@@ -2089,7 +2089,7 @@ x-co-op: No
 
 
 game: Sonic Dash - Endless Running (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sonic Dash - Endless Running (USA)/Sonic Dash - Endless Running (USA).json
+file: Other/Apple iOS/Sonic Dash - Endless Running (USA)/Sonic Dash - Endless Running (USA).json
 developer: Hardlight Studio
 publisher: Sega
 genre: Action;Platformer;3D
@@ -2151,7 +2151,7 @@ x-co-op: No
 
 
 game: Sonic Dash 2 - Sonic Boom (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sonic Dash 2 - Sonic Boom (USA)/Sonic Dash 2 - Sonic Boom (USA).json
+file: Other/Apple iOS/Sonic Dash 2 - Sonic Boom (USA)/Sonic Dash 2 - Sonic Boom (USA).json
 developer: Hardlight Studio
 publisher: Sega
 genre: Action;Platformer;3D
@@ -2199,7 +2199,7 @@ x-co-op: No
 
 
 game: Sonic at the Olympic Games (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sonic at the Olympic Games (USA)/Sonic at the Olympic Games (USA).json
+file: Other/Apple iOS/Sonic at the Olympic Games (USA)/Sonic at the Olympic Games (USA).json
 developer: Sega
 publisher: Sega
 genre: Sports;Individual;Athletics
@@ -2235,7 +2235,7 @@ x-co-op: No
 
 
 game: Sonic the Hedgehog 4  - Episode I (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sonic the Hedgehog 4  - Episode I (USA)/Sonic the Hedgehog 4  - Episode I (USA).json
+file: Other/Apple iOS/Sonic the Hedgehog 4  - Episode I (USA)/Sonic the Hedgehog 4  - Episode I (USA).json
 developer: Sega
 publisher: Sega
 genre: Action;Platformer;2D
@@ -2280,7 +2280,7 @@ x-co-op: No
 
 
 game: Sonic the Hedgehog 4 - Episode II (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sonic the Hedgehog 4 - Episode II (USA)/Sonic the Hedgehog 4 - Episode II (USA).json
+file: Other/Apple iOS/Sonic the Hedgehog 4 - Episode II (USA)/Sonic the Hedgehog 4 - Episode II (USA).json
 developer: TOSE
 publisher: Sega
 genre: Action;Platformer;2D
@@ -2311,7 +2311,7 @@ x-co-op: No
 
 
 game: Sorcery! (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Sorcery! (USA)/Sorcery! (USA).json
+file: Other/Apple iOS/Sorcery! (USA)/Sorcery! (USA).json
 developer: inkle
 publisher: inkle
 genre: Adventure;Text
@@ -2363,7 +2363,7 @@ x-co-op: No
 
 
 game: Steppy Pants (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Steppy Pants (USA)/Steppy Pants (USA).json
+file: Other/Apple iOS/Steppy Pants (USA)/Steppy Pants (USA).json
 developer: Super Entertainment
 publisher: S Games Pty Ltd
 genre: Action;Arcade
@@ -2380,7 +2380,7 @@ x-co-op: No
 
 
 game: Super Flipside (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Super Flipside (USA)/Super Flipside (USA).json
+file: Other/Apple iOS/Super Flipside (USA)/Super Flipside (USA).json
 developer: Brian O'Keefe
 publisher: Brian O'Keefe
 genre: Action;Arcade
@@ -2418,7 +2418,7 @@ x-co-op: No
 
 
 game: Super Mario Run (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Super Mario Run (USA)/Super Mario Run (USA).json
+file: Other/Apple iOS/Super Mario Run (USA)/Super Mario Run (USA).json
 developer: Nintendo EPD
 publisher: Nintendo
 genre: Platform
@@ -2439,7 +2439,7 @@ x-co-op: No
 
 
 game: Super Monkey Ball (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Super Monkey Ball (USA)/Super Monkey Ball (USA).json
+file: Other/Apple iOS/Super Monkey Ball (USA)/Super Monkey Ball (USA).json
 developer: Sega
 publisher: Other Ocean
 genre: Miscellaneous;Party / Minigame
@@ -2457,7 +2457,7 @@ x-co-op: No
 
 
 game: Super Monkey Ball - Sakura (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Super Monkey Ball - Sakura (USA)/Super Monkey Ball - Sakura (USA).json
+file: Other/Apple iOS/Super Monkey Ball - Sakura (USA)/Super Monkey Ball - Sakura (USA).json
 developer: Sega
 publisher: Sega
 genre: Miscellaneous;Party / Minigame
@@ -2481,7 +2481,7 @@ x-co-op: No
 
 
 game: Super Monkey Ball 2 (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Super Monkey Ball 2 (USA)/Super Monkey Ball 2 (USA).json
+file: Other/Apple iOS/Super Monkey Ball 2 (USA)/Super Monkey Ball 2 (USA).json
 developer: Amusement Vision
 publisher: Sega
 genre: Miscellaneous;Party / Minigame
@@ -2501,7 +2501,7 @@ x-co-op: Yes
 
 
 game: Superbrothers - Sword & Sorcery EP (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Superbrothers - Sword & Sorcery EP (USA)/Superbrothers - Sword & Sorcery EP (USA).json
+file: Other/Apple iOS/Superbrothers - Sword & Sorcery EP (USA)/Superbrothers - Sword & Sorcery EP (USA).json
 developer: Capy Games
 publisher: Superbrothers
 genre: Adventure;General
@@ -2521,7 +2521,7 @@ x-co-op: No
 
 
 game: Tesla Wars HD (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Tesla Wars HD (USA)/Tesla Wars HD (USA).json
+file: Other/Apple iOS/Tesla Wars HD (USA)/Tesla Wars HD (USA).json
 developer: Pavel Tarabrin
 publisher: Pavel Tarabrin
 genre: Action;General
@@ -2570,7 +2570,7 @@ x-co-op: No
 
 
 game: Tetris Blitz (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Tetris Blitz (USA)/Tetris Blitz (USA).json
+file: Other/Apple iOS/Tetris Blitz (USA)/Tetris Blitz (USA).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Puzzle;Stacking
@@ -2595,7 +2595,7 @@ x-co-op: No
 
 
 game: Tiny Wings (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Tiny Wings (USA)/Tiny Wings (USA).json
+file: Other/Apple iOS/Tiny Wings (USA)/Tiny Wings (USA).json
 developer: Andreas Illiger
 publisher: Andreas Illiger
 genre: Action;Arcade
@@ -2637,7 +2637,7 @@ x-co-op: No
 
 
 game: Tiny Wings HD (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Tiny Wings HD (USA)/Tiny Wings HD (USA).json
+file: Other/Apple iOS/Tiny Wings HD (USA)/Tiny Wings HD (USA).json
 developer: Andreas Illiger
 publisher: Andreas Illiger
 genre: Action;Arcade
@@ -2681,7 +2681,7 @@ x-co-op: No
 
 
 game: Vigil RPG (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Vigil RPG (USA)/Vigil RPG (USA).json
+file: Other/Apple iOS/Vigil RPG (USA)/Vigil RPG (USA).json
 developer: Jonathan Schneider
 publisher: Jonathan Schneider
 genre: Action;General
@@ -2730,7 +2730,7 @@ x-co-op: No
 
 
 game: Virtua Tennis Challenge (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Virtua Tennis Challenge (USA)/Virtua Tennis Challenge (USA).json
+file: Other/Apple iOS/Virtua Tennis Challenge (USA)/Virtua Tennis Challenge (USA).json
 developer: Sega
 publisher: Sega
 genre: Sports;Individual;Tennis
@@ -2791,7 +2791,7 @@ x-co-op: Yes
 
 
 game: Where's My Water (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Where's My Water (USA)/Where's My Water (USA).json
+file: Other/Apple iOS/Where's My Water (USA)/Where's My Water (USA).json
 developer: Creature Feep
 publisher: Disney Mobile
 genre: Puzzle
@@ -2814,7 +2814,7 @@ x-co-op: No
 
 
 game: Wizardry - Labyrinth of Lost Souls (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Wizardry - Labyrinth of Lost Souls (USA)/Wizardry - Labyrinth of Lost Souls (USA).json
+file: Other/Apple iOS/Wizardry - Labyrinth of Lost Souls (USA)/Wizardry - Labyrinth of Lost Souls (USA).json
 developer: Acquire
 publisher: XSEED Games
 genre: Role-Playing;Western-Style
@@ -2837,7 +2837,7 @@ x-co-op: No
 
 
 game: Woodventure - Mahjong Connect (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/Woodventure - Mahjong Connect (USA)/Woodventure - Mahjong Connect (USA).json
+file: Other/Apple iOS/Woodventure - Mahjong Connect (USA)/Woodventure - Mahjong Connect (USA).json
 developer: Tomas Rychnovsky
 publisher: Tomas Rychnovsky
 genre: Puzzle
@@ -2873,7 +2873,7 @@ x-co-op: No
 
 
 game: World War Z (USA)
-file: $ROM_JSON_ROOT/Other/Apple iOS/World War Z (USA)/World War Z (USA).json
+file: Other/Apple iOS/World War Z (USA)/World War Z (USA).json
 developer: Paramount Digital Entertainment
 publisher: Paramount Digital Entertainment
 genre: Action;General

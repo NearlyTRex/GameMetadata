@@ -1,9 +1,9 @@
 collection: Tiger Game.com
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Tiger Game.com" {file.path}
+launch: launch_rom -l "Tiger Game.com" {file.path}
 
 
 game: Castlevania - Symphony of the Night (Unknown) (Proto)
-file: $ROM_JSON_ROOT/Other/Tiger Game.com/Castlevania - Symphony of the Night (Unknown) (Proto)/Castlevania - Symphony of the Night (Unknown) (Proto).json
+file: Other/Tiger Game.com/Castlevania - Symphony of the Night (Unknown) (Proto)/Castlevania - Symphony of the Night (Unknown) (Proto).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Action
@@ -33,7 +33,7 @@ x-co-op: No
 
 
 game: Fighters Megamix (USA)
-file: $ROM_JSON_ROOT/Other/Tiger Game.com/Fighters Megamix (USA)/Fighters Megamix (USA).json
+file: Other/Tiger Game.com/Fighters Megamix (USA)/Fighters Megamix (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Fighting
@@ -54,7 +54,7 @@ x-co-op: No
 
 
 game: Jurassic Park - The Lost World (USA)
-file: $ROM_JSON_ROOT/Other/Tiger Game.com/Jurassic Park - The Lost World (USA)/Jurassic Park - The Lost World (USA).json
+file: Other/Tiger Game.com/Jurassic Park - The Lost World (USA)/Jurassic Park - The Lost World (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Action;Platform
@@ -72,7 +72,7 @@ x-co-op: No
 
 
 game: Resident Evil 2 (USA)
-file: $ROM_JSON_ROOT/Other/Tiger Game.com/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Other/Tiger Game.com/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Horror
@@ -103,7 +103,7 @@ x-co-op: No
 
 
 game: Sonic Jam (USA)
-file: $ROM_JSON_ROOT/Other/Tiger Game.com/Sonic Jam (USA)/Sonic Jam (USA).json
+file: Other/Tiger Game.com/Sonic Jam (USA)/Sonic Jam (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Sega
 genre: Platform

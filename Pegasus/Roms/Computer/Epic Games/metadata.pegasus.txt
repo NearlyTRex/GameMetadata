@@ -1,9 +1,9 @@
 collection: Computer - Epic Games
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Computer - Epic Games" {file.path}
+launch: launch_rom -l "Computer - Epic Games" {file.path}
 
 
 game: 3 out of 10 - Season One (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/#-0/3 out of 10 - Season One (USA)/3 out of 10 - Season One (USA).json
+file: Computer/Epic Games/#-0/3 out of 10 - Season One (USA)/3 out of 10 - Season One (USA).json
 developer: Terrible Posture Games
 publisher: Terrible Posture Games
 genre: Adventure;General
@@ -24,7 +24,7 @@ x-co-op: No
 
 
 game: 3 out of 10 - Season Two (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/#-0/3 out of 10 - Season Two (USA)/3 out of 10 - Season Two (USA).json
+file: Computer/Epic Games/#-0/3 out of 10 - Season Two (USA)/3 out of 10 - Season Two (USA).json
 developer: Terrible Posture Games
 publisher: Terrible Posture Games
 genre: Adventure;General
@@ -48,7 +48,7 @@ x-co-op: No
 
 
 game: Ancient Enemy (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/A/Ancient Enemy (USA)/Ancient Enemy (USA).json
+file: Computer/Epic Games/A/Ancient Enemy (USA)/Ancient Enemy (USA).json
 developer: Grey Alien Games
 publisher: Grey Alien Games
 genre: Strategy;Turn-Based;Card Battle
@@ -73,7 +73,7 @@ x-co-op: No
 
 
 game: Borderlands 3 (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/B/Borderlands 3 (USA)/Borderlands 3 (USA).json
+file: Computer/Epic Games/B/Borderlands 3 (USA)/Borderlands 3 (USA).json
 developer: Gearbox Software
 publisher: 2K Games
 genre: Action;Shooter;First-Person;Arcade
@@ -117,7 +117,7 @@ x-co-op: Yes
 
 
 game: Cave Story+ (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/C/Cave Story+ (USA)/Cave Story+ (USA).json
+file: Computer/Epic Games/C/Cave Story+ (USA)/Cave Story+ (USA).json
 developer: Nicalis
 publisher: Nicalis
 genre: Action;Platformer;Metroidvania
@@ -141,7 +141,7 @@ x-co-op: No
 
 
 game: Death Stranding - Director's Cut (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/D/Death Stranding - Director's Cut (USA)/Death Stranding - Director's Cut (USA).json
+file: Computer/Epic Games/D/Death Stranding - Director's Cut (USA)/Death Stranding - Director's Cut (USA).json
 developer: Kojima Productions
 publisher: 505 Games
 genre: Action Adventure;Open-World
@@ -164,7 +164,7 @@ x-co-op: No
 
 
 game: Doom 64 (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/D/Doom 64 (USA)/Doom 64 (USA).json
+file: Computer/Epic Games/D/Doom 64 (USA)/Doom 64 (USA).json
 developer: Midway Studios - San Diego
 publisher: Midway
 genre: Action;Shooter;First-Person;Arcade
@@ -185,7 +185,7 @@ x-co-op: No
 
 
 game: Drawful 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/D/Drawful 2 (USA)/Drawful 2 (USA).json
+file: Computer/Epic Games/D/Drawful 2 (USA)/Drawful 2 (USA).json
 developer: Jackbox Games, Inc.
 publisher: Jackbox Games, Inc.
 genre: Miscellaneous;Board / Card Game
@@ -209,7 +209,7 @@ x-co-op: No
 
 
 game: Evil Dead - The Game (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/E/Evil Dead - The Game (USA)/Evil Dead - The Game (USA).json
+file: Computer/Epic Games/E/Evil Dead - The Game (USA)/Evil Dead - The Game (USA).json
 developer: Saber Interactive
 publisher: Saber Interactive
 genre: Action;Horror;Virtual Console
@@ -233,7 +233,7 @@ x-co-op: Yes
 
 
 game: Fallout - New Vegas - Ultimate Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/F/Fallout - New Vegas - Ultimate Edition (USA)/Fallout - New Vegas - Ultimate Edition (USA).json
+file: Computer/Epic Games/F/Fallout - New Vegas - Ultimate Edition (USA)/Fallout - New Vegas - Ultimate Edition (USA).json
 developer: Obsidian Entertainment
 publisher: Bethesda Softworks
 genre: Role-Playing;Western-Style
@@ -255,7 +255,7 @@ x-co-op: No
 
 
 game: Forest Quartet, The (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/F/Forest Quartet, The (USA)/Forest Quartet, The (USA).json
+file: Computer/Epic Games/F/Forest Quartet, The (USA)/Forest Quartet, The (USA).json
 developer: Mads & Friends
 publisher: Bedtime Digital Games
 genre: Adventure;3D;Third-Person
@@ -275,7 +275,7 @@ x-co-op: No
 
 
 game: Geneforge 1 - Mutagen (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/G/Geneforge 1 - Mutagen (USA)/Geneforge 1 - Mutagen (USA).json
+file: Computer/Epic Games/G/Geneforge 1 - Mutagen (USA)/Geneforge 1 - Mutagen (USA).json
 developer: Spiderweb Software
 publisher: Spiderweb Software
 genre: Role-Playing;General
@@ -300,7 +300,7 @@ x-co-op: No
 
 
 game: Guacamelee! 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/G/Guacamelee! 2 (USA)/Guacamelee! 2 (USA).json
+file: Computer/Epic Games/G/Guacamelee! 2 (USA)/Guacamelee! 2 (USA).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action;Platformer;Metroidvania
@@ -327,7 +327,7 @@ x-co-op: No
 
 
 game: Guacamelee! Super Turbo Championship Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/G/Guacamelee! Super Turbo Championship Edition (USA)/Guacamelee! Super Turbo Championship Edition (USA).json
+file: Computer/Epic Games/G/Guacamelee! Super Turbo Championship Edition (USA)/Guacamelee! Super Turbo Championship Edition (USA).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action;Platformer;Metroidvania
@@ -348,7 +348,7 @@ x-co-op: No
 
 
 game: Iratus - Lord of the Dead (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/I/Iratus - Lord of the Dead (USA)/Iratus - Lord of the Dead (USA).json
+file: Computer/Epic Games/I/Iratus - Lord of the Dead (USA)/Iratus - Lord of the Dead (USA).json
 developer: Unfrozen
 publisher: Unfrozen
 genre: Role-Playing;Roguelike
@@ -381,7 +381,7 @@ x-co-op: No
 
 
 game: Jotun - Valhalla Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
+file: Computer/Epic Games/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
 developer: Thunder Lotus Games
 publisher: Thunder Lotus Games
 genre: Action Adventure;General
@@ -406,7 +406,7 @@ x-co-op: No
 
 
 game: Killing Floor 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/K/Killing Floor 2 (USA)/Killing Floor 2 (USA).json
+file: Computer/Epic Games/K/Killing Floor 2 (USA)/Killing Floor 2 (USA).json
 developer: Tripwire Interactive
 publisher: Tripwire Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -439,7 +439,7 @@ x-co-op: Yes
 
 
 game: Maneater (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/M/Maneater (USA)/Maneater (USA).json
+file: Computer/Epic Games/M/Maneater (USA)/Maneater (USA).json
 developer: Tripwire Interactive
 publisher: Tripwire Interactive
 genre: Action Adventure;General
@@ -490,7 +490,7 @@ x-co-op: No
 
 
 game: Model Builder (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/M/Model Builder (USA)/Model Builder (USA).json
+file: Computer/Epic Games/M/Model Builder (USA)/Model Builder (USA).json
 developer: Moonlit
 publisher: Green Man Gaming Publishing
 genre: Simulation;Virtual;Career
@@ -516,7 +516,7 @@ x-co-op: No
 
 
 game: Orwell - Keeping An Eye On You (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/O/Orwell - Keeping An Eye On You (USA)/Orwell - Keeping An Eye On You (USA).json
+file: Computer/Epic Games/O/Orwell - Keeping An Eye On You (USA)/Orwell - Keeping An Eye On You (USA).json
 developer: Osmotic Studios
 publisher: Fellow Traveller
 genre: Adventure;Point-and-Click
@@ -551,7 +551,7 @@ x-co-op: No
 
 
 game: Out of Line (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/O/Out of Line (USA)/Out of Line (USA).json
+file: Computer/Epic Games/O/Out of Line (USA)/Out of Line (USA).json
 developer: Nerd Monkeys
 publisher: Hatinh Interactive
 genre: Action Adventure;General
@@ -575,7 +575,7 @@ x-co-op: No
 
 
 game: Prey (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/P/Prey (USA)/Prey (USA).json
+file: Computer/Epic Games/P/Prey (USA)/Prey (USA).json
 developer: Arkane Studios
 publisher: Bethesda Softworks
 genre: Role-Playing;Action RPG
@@ -633,7 +633,7 @@ x-co-op: No
 
 
 game: Redout - Enhanced Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/R/Redout - Enhanced Edition (USA)/Redout - Enhanced Edition (USA).json
+file: Computer/Epic Games/R/Redout - Enhanced Edition (USA)/Redout - Enhanced Edition (USA).json
 developer: 34BigThings srl
 publisher: 34BigThings srl
 genre: Racing
@@ -653,7 +653,7 @@ x-co-op: No
 
 
 game: Ring of Pain (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/R/Ring of Pain (USA)/Ring of Pain (USA).json
+file: Computer/Epic Games/R/Ring of Pain (USA)/Ring of Pain (USA).json
 developer: Twice Different
 publisher: Twice Different
 genre: Strategy;Turn-Based;Card Battle
@@ -676,7 +676,7 @@ x-co-op: No
 
 
 game: Rise of the Tomb Raider - 20 Year Celebration (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/R/Rise of the Tomb Raider - 20 Year Celebration (USA)/Rise of the Tomb Raider - 20 Year Celebration (USA).json
+file: Computer/Epic Games/R/Rise of the Tomb Raider - 20 Year Celebration (USA)/Rise of the Tomb Raider - 20 Year Celebration (USA).json
 developer: Crystal Dynamics
 publisher: Square Enix
 genre: Action Adventure;Linear
@@ -730,7 +730,7 @@ x-co-op: No
 
 
 game: Shadow of the Tomb Raider - Definitive Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/S/Shadow of the Tomb Raider - Definitive Edition (USA)/Shadow of the Tomb Raider - Definitive Edition (USA).json
+file: Computer/Epic Games/S/Shadow of the Tomb Raider - Definitive Edition (USA)/Shadow of the Tomb Raider - Definitive Edition (USA).json
 developer: Eidos Montreal
 publisher: Square Enix
 genre: Action Adventure;General
@@ -754,7 +754,7 @@ x-co-op: No
 
 
 game: Soulstice (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/S/Soulstice (USA)/Soulstice (USA).json
+file: Computer/Epic Games/S/Soulstice (USA)/Soulstice (USA).json
 developer: Reply Game Studios
 publisher: Modus Games
 genre: Role-Playing;Action RPG
@@ -785,7 +785,7 @@ x-co-op: No
 
 
 game: Spelldrifter (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/S/Spelldrifter (USA)/Spelldrifter (USA).json
+file: Computer/Epic Games/S/Spelldrifter (USA)/Spelldrifter (USA).json
 developer: Free Range Games
 publisher: Free Range Games
 genre: Strategy;Turn-Based;Card Battle
@@ -816,7 +816,7 @@ x-co-op: No
 
 
 game: Tomb Raider - Game of the Year Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/T/Tomb Raider - Game of the Year Edition (USA)/Tomb Raider - Game of the Year Edition (USA).json
+file: Computer/Epic Games/T/Tomb Raider - Game of the Year Edition (USA)/Tomb Raider - Game of the Year Edition (USA).json
 developer: Nixxes Software
 publisher: Square Enix
 genre: Action Adventure;Linear
@@ -837,7 +837,7 @@ x-co-op: No
 
 
 game: Wolfenstein - The New Order (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/W/Wolfenstein - The New Order (USA)/Wolfenstein - The New Order (USA).json
+file: Computer/Epic Games/W/Wolfenstein - The New Order (USA)/Wolfenstein - The New Order (USA).json
 developer: MachineGames
 publisher: Bethesda Softworks
 genre: Action;Shooter;First-Person;Arcade
@@ -870,7 +870,7 @@ x-co-op: No
 
 
 game: Wonder Boy - The Dragon's Trap (USA)
-file: $ROM_JSON_ROOT/Computer/Epic Games/W/Wonder Boy - The Dragon's Trap (USA)/Wonder Boy - The Dragon's Trap (USA).json
+file: Computer/Epic Games/W/Wonder Boy - The Dragon's Trap (USA)/Wonder Boy - The Dragon's Trap (USA).json
 developer: Lizardcube
 publisher: DotEmu
 genre: Action;Platformer;Metroidvania

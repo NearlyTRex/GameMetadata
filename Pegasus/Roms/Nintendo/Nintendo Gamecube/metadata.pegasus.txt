@@ -1,9 +1,9 @@
 collection: Nintendo Gamecube
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Gamecube" {file.path}
+launch: launch_rom -l "Nintendo Gamecube" {file.path}
 
 
 game: 007 - Agent Under Fire (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/007 - Agent Under Fire (USA)/007 - Agent Under Fire (USA).json
+file: Nintendo/Nintendo Gamecube/007 - Agent Under Fire (USA)/007 - Agent Under Fire (USA).json
 developer: EA Redwood Shores
 publisher: Electronic Arts
 genre: Shooter
@@ -38,7 +38,7 @@ x-co-op: No
 
 
 game: Chibi-Robo! Plug into Adventure! (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Chibi-Robo! Plug into Adventure! (USA)/Chibi-Robo! Plug into Adventure! (USA).json
+file: Nintendo/Nintendo Gamecube/Chibi-Robo! Plug into Adventure! (USA)/Chibi-Robo! Plug into Adventure! (USA).json
 developer: Skip Ltd.
 publisher: Nintendo
 genre: Adventure;Platform
@@ -58,7 +58,7 @@ x-co-op: No
 
 
 game: Darkened Skye (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Darkened Skye (USA)/Darkened Skye (USA).json
+file: Nintendo/Nintendo Gamecube/Darkened Skye (USA)/Darkened Skye (USA).json
 developer: Boston Animation
 publisher: Simon & Schuster Interactive
 genre: Action;Adventure;Role-Playing
@@ -90,7 +90,7 @@ x-co-op: No
 
 
 game: Donkey Kong Jungle Beat (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Donkey Kong Jungle Beat (USA)/Donkey Kong Jungle Beat (USA).json
+file: Nintendo/Nintendo Gamecube/Donkey Kong Jungle Beat (USA)/Donkey Kong Jungle Beat (USA).json
 developer: Nintendo EAD Tokyo
 publisher: Nintendo
 genre: Adventure
@@ -116,7 +116,7 @@ x-co-op: No
 
 
 game: Eternal Darkness - Sanity's Requiem (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Eternal Darkness - Sanity's Requiem (USA)/Eternal Darkness - Sanity's Requiem (USA).json
+file: Nintendo/Nintendo Gamecube/Eternal Darkness - Sanity's Requiem (USA)/Eternal Darkness - Sanity's Requiem (USA).json
 developer: Silicon Knights
 publisher: Nintendo
 genre: Action;Adventure;Horror
@@ -150,7 +150,7 @@ x-co-op: No
 
 
 game: Final Fantasy - Crystal Chronicles (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Final Fantasy - Crystal Chronicles (USA)/Final Fantasy - Crystal Chronicles (USA).json
+file: Nintendo/Nintendo Gamecube/Final Fantasy - Crystal Chronicles (USA)/Final Fantasy - Crystal Chronicles (USA).json
 developer: Square Enix
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -170,7 +170,7 @@ x-co-op: Yes
 
 
 game: Geist (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Geist (USA)/Geist (USA).json
+file: Nintendo/Nintendo Gamecube/Geist (USA)/Geist (USA).json
 developer: N-Space
 publisher: Nintendo
 genre: Action;Shooter
@@ -194,7 +194,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Collector's Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Legend of Zelda, The - Collector's Edition (USA)/Legend of Zelda, The - Collector's Edition (USA).json
+file: Nintendo/Nintendo Gamecube/Legend of Zelda, The - Collector's Edition (USA)/Legend of Zelda, The - Collector's Edition (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -215,7 +215,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Four Swords Adventures (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Legend of Zelda, The - Four Swords Adventures (USA)/Legend of Zelda, The - Four Swords Adventures (USA).json
+file: Nintendo/Nintendo Gamecube/Legend of Zelda, The - Four Swords Adventures (USA)/Legend of Zelda, The - Four Swords Adventures (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Adventure
@@ -242,7 +242,7 @@ x-co-op: Yes
 
 
 game: Legend of Zelda, The - Ocarina of Time & Master Quest (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Legend of Zelda, The - Ocarina of Time & Master Quest (USA)/Legend of Zelda, The - Ocarina of Time & Master Quest (USA).json
+file: Nintendo/Nintendo Gamecube/Legend of Zelda, The - Ocarina of Time & Master Quest (USA)/Legend of Zelda, The - Ocarina of Time & Master Quest (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -269,7 +269,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - The Wind Waker (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Legend of Zelda, The - The Wind Waker (USA)/Legend of Zelda, The - The Wind Waker (USA).json
+file: Nintendo/Nintendo Gamecube/Legend of Zelda, The - The Wind Waker (USA)/Legend of Zelda, The - The Wind Waker (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -298,7 +298,7 @@ x-co-op: Yes
 
 
 game: Legend of Zelda, The - Twilight Princess (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Legend of Zelda, The - Twilight Princess (USA)/Legend of Zelda, The - Twilight Princess (USA).json
+file: Nintendo/Nintendo Gamecube/Legend of Zelda, The - Twilight Princess (USA)/Legend of Zelda, The - Twilight Princess (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -320,7 +320,7 @@ x-co-op: No
 
 
 game: Mega Man - Network Transmission (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Mega Man - Network Transmission (USA)/Mega Man - Network Transmission (USA).json
+file: Nintendo/Nintendo Gamecube/Mega Man - Network Transmission (USA)/Mega Man - Network Transmission (USA).json
 developer: Arika
 publisher: Capcom
 genre: Action;Platform;Role-Playing
@@ -348,7 +348,7 @@ x-co-op: No
 
 
 game: P.N. 03 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/P.N. 03 (USA)/P.N. 03 (USA).json
+file: Nintendo/Nintendo Gamecube/P.N. 03 (USA)/P.N. 03 (USA).json
 developer: Capcom Production Studio 4
 publisher: Capcom
 genre: Action;Shooter
@@ -372,7 +372,7 @@ x-co-op: No
 
 
 game: Pac-Man Vs. (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Pac-Man Vs. (USA)/Pac-Man Vs. (USA).json
+file: Nintendo/Nintendo Gamecube/Pac-Man Vs. (USA)/Pac-Man Vs. (USA).json
 developer: Nintendo EAD
 publisher: Namco
 genre: Action
@@ -391,7 +391,7 @@ x-co-op: No
 
 
 game: Paper Mario - The Thousand-Year Door (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Paper Mario - The Thousand-Year Door (USA)/Paper Mario - The Thousand-Year Door (USA).json
+file: Nintendo/Nintendo Gamecube/Paper Mario - The Thousand-Year Door (USA)/Paper Mario - The Thousand-Year Door (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -413,7 +413,7 @@ x-co-op: No
 
 
 game: Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1)/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).json
+file: Nintendo/Nintendo Gamecube/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1)/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).json
 developer: Sonic Team
 publisher: Sega
 genre: Role-Playing
@@ -436,7 +436,7 @@ x-co-op: Yes
 
 
 game: Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).json
+file: Nintendo/Nintendo Gamecube/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja)/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Adventure;Role-Playing
@@ -460,7 +460,7 @@ x-co-op: Yes
 
 
 game: Resident Evil (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Resident Evil (USA)/Resident Evil (USA).json
+file: Nintendo/Nintendo Gamecube/Resident Evil (USA)/Resident Evil (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror
@@ -484,7 +484,7 @@ x-co-op: No
 
 
 game: Resident Evil - Code - Veronica X (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Resident Evil - Code - Veronica X (USA)/Resident Evil - Code - Veronica X (USA).json
+file: Nintendo/Nintendo Gamecube/Resident Evil - Code - Veronica X (USA)/Resident Evil - Code - Veronica X (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Horror
@@ -507,7 +507,7 @@ x-co-op: No
 
 
 game: Resident Evil 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Nintendo/Nintendo Gamecube/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror
@@ -535,7 +535,7 @@ x-co-op: No
 
 
 game: Resident Evil 3 - Nemesis (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Resident Evil 3 - Nemesis (USA)/Resident Evil 3 - Nemesis (USA).json
+file: Nintendo/Nintendo Gamecube/Resident Evil 3 - Nemesis (USA)/Resident Evil 3 - Nemesis (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure
@@ -555,7 +555,7 @@ x-co-op: No
 
 
 game: Resident Evil 4 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
+file: Nintendo/Nintendo Gamecube/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
 developer: Capcom Production Studio 4
 publisher: Capcom
 genre: Action;Horror;Shooter
@@ -575,7 +575,7 @@ x-co-op: No
 
 
 game: Resident Evil Zero (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Resident Evil Zero (USA)/Resident Evil Zero (USA).json
+file: Nintendo/Nintendo Gamecube/Resident Evil Zero (USA)/Resident Evil Zero (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Horror
@@ -603,7 +603,7 @@ x-co-op: No
 
 
 game: Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It)/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Gamecube/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It)/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Adventure;Platform;Shooter
@@ -624,7 +624,7 @@ x-co-op: No
 
 
 game: Skies of Arcadia Legends (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Skies of Arcadia Legends (USA)/Skies of Arcadia Legends (USA).json
+file: Nintendo/Nintendo Gamecube/Skies of Arcadia Legends (USA)/Skies of Arcadia Legends (USA).json
 developer: Overworks
 publisher: Sega
 genre: Action;Adventure;Role-Playing
@@ -648,7 +648,7 @@ x-co-op: No
 
 
 game: Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).json
+file: Nintendo/Nintendo Gamecube/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es)/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Adventure;Platform
@@ -677,7 +677,7 @@ x-co-op: No
 
 
 game: Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).json
+file: Nintendo/Nintendo Gamecube/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es)/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).json
 developer: Sonic Team
 publisher: Sega
 genre: Adventure;Platform
@@ -700,7 +700,7 @@ x-co-op: No
 
 
 game: Sonic Gems Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Sonic Gems Collection (USA)/Sonic Gems Collection (USA).json
+file: Nintendo/Nintendo Gamecube/Sonic Gems Collection (USA)/Sonic Gems Collection (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Fighting;Platform;Racing
@@ -726,7 +726,7 @@ x-co-op: Yes
 
 
 game: Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Gamecube/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It)/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -751,7 +751,7 @@ x-co-op: No
 
 
 game: Sonic Riders (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Sonic Riders (USA) (En,Ja,Fr,De,Es,It)/Sonic Riders (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Gamecube/Sonic Riders (USA) (En,Ja,Fr,De,Es,It)/Sonic Riders (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Racing
@@ -774,7 +774,7 @@ x-co-op: Yes
 
 
 game: Soulcalibur II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Soulcalibur II (USA)/Soulcalibur II (USA).json
+file: Nintendo/Nintendo Gamecube/Soulcalibur II (USA)/Soulcalibur II (USA).json
 developer: Project Soul
 publisher: Namco
 genre: Fighting
@@ -800,7 +800,7 @@ x-co-op: No
 
 
 game: Super Mario Sunshine (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Super Mario Sunshine (USA)/Super Mario Sunshine (USA).json
+file: Nintendo/Nintendo Gamecube/Super Mario Sunshine (USA)/Super Mario Sunshine (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -824,7 +824,7 @@ x-co-op: No
 
 
 game: Super Smash Bros. Melee (USA) (En,Ja) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1)/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1).json
+file: Nintendo/Nintendo Gamecube/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1)/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Fighting
@@ -850,7 +850,7 @@ x-co-op: Yes
 
 
 game: WarioWare, Inc. - Mega Party Games! (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Gamecube/WarioWare, Inc. - Mega Party Games! (USA)/WarioWare, Inc. - Mega Party Games! (USA).json
+file: Nintendo/Nintendo Gamecube/WarioWare, Inc. - Mega Party Games! (USA)/WarioWare, Inc. - Mega Party Games! (USA).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action

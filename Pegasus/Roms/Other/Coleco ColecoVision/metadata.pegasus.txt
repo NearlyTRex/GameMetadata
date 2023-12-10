@@ -1,9 +1,9 @@
 collection: Coleco ColecoVision
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Coleco ColecoVision" {file.path}
+launch: launch_rom -l "Coleco ColecoVision" {file.path}
 
 
 game: Antarctic Adventure (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Antarctic Adventure (USA, Europe)/Antarctic Adventure (USA, Europe).json
+file: Other/Coleco ColecoVision/Antarctic Adventure (USA, Europe)/Antarctic Adventure (USA, Europe).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -27,7 +27,7 @@ x-co-op: No
 
 
 game: Aquattack (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Aquattack (USA)/Aquattack (USA).json
+file: Other/Coleco ColecoVision/Aquattack (USA)/Aquattack (USA).json
 developer: Interphase
 publisher: Interphase
 genre: Shooter
@@ -57,7 +57,7 @@ x-co-op: No
 
 
 game: Brain Strainers (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Brain Strainers (USA)/Brain Strainers (USA).json
+file: Other/Coleco ColecoVision/Brain Strainers (USA)/Brain Strainers (USA).json
 developer: Carousel Software, Inc.
 publisher: Coleco Industries, Inc.
 genre: Music;Education
@@ -86,7 +86,7 @@ x-co-op: No
 
 
 game: Bump 'n' Jump (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Bump 'n' Jump (USA, Europe)/Bump 'n' Jump (USA, Europe).json
+file: Other/Coleco ColecoVision/Bump 'n' Jump (USA, Europe)/Bump 'n' Jump (USA, Europe).json
 developer: Coleco
 publisher: Coleco Industries, Inc.
 genre: Racing
@@ -110,7 +110,7 @@ x-co-op: No
 
 
 game: Choplifter! (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Choplifter! (USA)/Choplifter! (USA).json
+file: Other/Coleco ColecoVision/Choplifter! (USA)/Choplifter! (USA).json
 developer: Dan Gorlin
 publisher: Coleco Industries, Inc.
 genre: Shooter
@@ -135,7 +135,7 @@ x-co-op: No
 
 
 game: Cosmic Avenger (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Cosmic Avenger (USA, Europe)/Cosmic Avenger (USA, Europe).json
+file: Other/Coleco ColecoVision/Cosmic Avenger (USA, Europe)/Cosmic Avenger (USA, Europe).json
 developer: Coleco
 publisher: Coleco Industries, Inc.
 genre: Shooter
@@ -157,7 +157,7 @@ x-co-op: No
 
 
 game: Evolution (Canada)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Evolution (Canada)/Evolution (Canada).json
+file: Other/Coleco ColecoVision/Evolution (Canada)/Evolution (Canada).json
 developer: Sydney Development Corp.
 publisher: Coleco Industries, Inc.
 genre: Action
@@ -186,7 +186,7 @@ x-co-op: No
 
 
 game: Fathom (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Fathom (USA)/Fathom (USA).json
+file: Other/Coleco ColecoVision/Fathom (USA)/Fathom (USA).json
 developer: Imagic
 publisher: Imagic
 genre: Action;Adventure
@@ -213,7 +213,7 @@ x-co-op: No
 
 
 game: Flipper Slipper (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Flipper Slipper (USA, Europe)/Flipper Slipper (USA, Europe).json
+file: Other/Coleco ColecoVision/Flipper Slipper (USA, Europe)/Flipper Slipper (USA, Europe).json
 developer: Spectravision
 publisher: Spectravision
 genre: Action;Puzzle
@@ -232,7 +232,7 @@ x-co-op: No
 
 
 game: Fortune Builder (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Fortune Builder (USA)/Fortune Builder (USA).json
+file: Other/Coleco ColecoVision/Fortune Builder (USA)/Fortune Builder (USA).json
 developer: Coleco Industries, Inc.
 publisher: Coleco Industries, Inc.
 genre: Strategy
@@ -265,7 +265,7 @@ x-co-op: No
 
 
 game: Frantic Freddy (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Frantic Freddy (USA)/Frantic Freddy (USA).json
+file: Other/Coleco ColecoVision/Frantic Freddy (USA)/Frantic Freddy (USA).json
 developer: Spectravideo International Ltd.
 publisher: Spectravideo International Ltd.
 genre: Action;Platform
@@ -298,7 +298,7 @@ x-co-op: No
 
 
 game: Frenzy (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Frenzy (USA, Europe)/Frenzy (USA, Europe).json
+file: Other/Coleco ColecoVision/Frenzy (USA, Europe)/Frenzy (USA, Europe).json
 developer: Coleco Industries, Inc.
 publisher: CBS Electronics
 genre: Shooter
@@ -322,7 +322,7 @@ x-co-op: No
 
 
 game: Gateway to Apshai (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Gateway to Apshai (USA, Europe)/Gateway to Apshai (USA, Europe).json
+file: Other/Coleco ColecoVision/Gateway to Apshai (USA, Europe)/Gateway to Apshai (USA, Europe).json
 developer: Epyx
 publisher: Epyx, Inc.
 genre: Role-Playing
@@ -369,7 +369,7 @@ x-co-op: No
 
 
 game: Gust Buster (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Gust Buster (USA)/Gust Buster (USA).json
+file: Other/Coleco ColecoVision/Gust Buster (USA)/Gust Buster (USA).json
 developer: Sunrise Software, Inc.
 publisher: Sunrise Software, Inc.
 genre: Action
@@ -388,7 +388,7 @@ x-co-op: No
 
 
 game: Heist, The (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Heist, The (USA)/Heist, The (USA).json
+file: Other/Coleco ColecoVision/Heist, The (USA)/Heist, The (USA).json
 developer: Micro Fun
 publisher: Micro Fun
 genre: Platform
@@ -409,7 +409,7 @@ x-co-op: No
 
 
 game: Jumpman Junior (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Jumpman Junior (USA, Europe)/Jumpman Junior (USA, Europe).json
+file: Other/Coleco ColecoVision/Jumpman Junior (USA, Europe)/Jumpman Junior (USA, Europe).json
 developer: Epyx
 publisher: Epyx
 genre: Action
@@ -438,7 +438,7 @@ x-co-op: No
 
 
 game: Jungle Hunt (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Jungle Hunt (USA)/Jungle Hunt (USA).json
+file: Other/Coleco ColecoVision/Jungle Hunt (USA)/Jungle Hunt (USA).json
 developer: Taito America Corporation
 publisher: Atarisoft
 genre: Action;Platform
@@ -470,7 +470,7 @@ x-co-op: No
 
 
 game: Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).json
+file: Other/Coleco ColecoVision/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).json
 developer: Big Five Software
 publisher: Big Five Software
 genre: Platform
@@ -504,7 +504,7 @@ x-co-op: No
 
 
 game: Moonsweeper (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Moonsweeper (USA, Europe)/Moonsweeper (USA, Europe).json
+file: Other/Coleco ColecoVision/Moonsweeper (USA, Europe)/Moonsweeper (USA, Europe).json
 developer: Imagic
 publisher: Imagic
 genre: Shooter
@@ -533,7 +533,7 @@ x-co-op: No
 
 
 game: Mountain King (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Mountain King (USA)/Mountain King (USA).json
+file: Other/Coleco ColecoVision/Mountain King (USA)/Mountain King (USA).json
 developer: Sunrise Software
 publisher: Sunrise Software, Inc.
 genre: Action;Platform
@@ -552,7 +552,7 @@ x-co-op: No
 
 
 game: Nova Blast (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Nova Blast (USA, Europe)/Nova Blast (USA, Europe).json
+file: Other/Coleco ColecoVision/Nova Blast (USA, Europe)/Nova Blast (USA, Europe).json
 developer: Imagic
 publisher: Imagic
 genre: Shooter
@@ -572,7 +572,7 @@ x-co-op: No
 
 
 game: Oil's Well (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Oil's Well (USA)/Oil's Well (USA).json
+file: Other/Coleco ColecoVision/Oil's Well (USA)/Oil's Well (USA).json
 developer: Sierra On-Line, Inc.
 publisher: Sierra On-Line, Inc.
 genre: Action
@@ -596,7 +596,7 @@ x-co-op: No
 
 
 game: Omega Race (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Omega Race (USA, Europe)/Omega Race (USA, Europe).json
+file: Other/Coleco ColecoVision/Omega Race (USA, Europe)/Omega Race (USA, Europe).json
 developer: Micro Fun
 publisher: Micro Fun
 genre: Shooter
@@ -630,7 +630,7 @@ x-co-op: Yes
 
 
 game: Pepper II (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Pepper II (USA, Europe)/Pepper II (USA, Europe).json
+file: Other/Coleco ColecoVision/Pepper II (USA, Europe)/Pepper II (USA, Europe).json
 developer: Coleco Industries, Inc.
 publisher: Coleco Industries, Inc.
 genre: Action;Puzzle
@@ -656,7 +656,7 @@ x-co-op: No
 
 
 game: Quest for Quintana Roo (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Quest for Quintana Roo (USA)/Quest for Quintana Roo (USA).json
+file: Other/Coleco ColecoVision/Quest for Quintana Roo (USA)/Quest for Quintana Roo (USA).json
 developer: VSS, Inc.
 publisher: Sunrise Software
 genre: Action;Adventure
@@ -691,7 +691,7 @@ x-co-op: No
 
 
 game: Rolloverture (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Rolloverture (USA)/Rolloverture (USA).json
+file: Other/Coleco ColecoVision/Rolloverture (USA)/Rolloverture (USA).json
 developer: Sunrise Software
 publisher: Sunrise Software, Inc.
 genre: Music;Education
@@ -741,7 +741,7 @@ x-co-op: No
 
 
 game: Sammy Lightfoot (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Sammy Lightfoot (USA)/Sammy Lightfoot (USA).json
+file: Other/Coleco ColecoVision/Sammy Lightfoot (USA)/Sammy Lightfoot (USA).json
 developer: Sierra Entertainment
 publisher: Sierra Entertainment, Inc.
 genre: Platform
@@ -764,7 +764,7 @@ x-co-op: No
 
 
 game: Sir Lancelot (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Sir Lancelot (USA)/Sir Lancelot (USA).json
+file: Other/Coleco ColecoVision/Sir Lancelot (USA)/Sir Lancelot (USA).json
 developer: Xonox
 publisher: Xonox
 genre: Action
@@ -793,7 +793,7 @@ x-co-op: No
 
 
 game: Slurpy (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Slurpy (USA)/Slurpy (USA).json
+file: Other/Coleco ColecoVision/Slurpy (USA)/Slurpy (USA).json
 developer: Emag
 publisher: Xonox
 genre: Action
@@ -817,7 +817,7 @@ x-co-op: No
 
 
 game: Smurf Rescue (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Smurf Rescue (USA, Europe)/Smurf Rescue (USA, Europe).json
+file: Other/Coleco ColecoVision/Smurf Rescue (USA, Europe)/Smurf Rescue (USA, Europe).json
 developer: Coleco Industries, Inc.
 publisher: Coleco Industries, Inc.
 genre: Platform
@@ -845,7 +845,7 @@ x-co-op: No
 
 
 game: Space Fury (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Space Fury (USA, Europe)/Space Fury (USA, Europe).json
+file: Other/Coleco ColecoVision/Space Fury (USA, Europe)/Space Fury (USA, Europe).json
 developer: Sega Enterprises Ltd.
 publisher: Coleco Industries, Inc.
 genre: Action;Shooter
@@ -877,7 +877,7 @@ x-co-op: No
 
 
 game: Space Panic (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Space Panic (USA, Europe)/Space Panic (USA, Europe).json
+file: Other/Coleco ColecoVision/Space Panic (USA, Europe)/Space Panic (USA, Europe).json
 developer: Universal Co., Ltd.
 publisher: Coleco Industries, Inc.
 genre: Action
@@ -899,7 +899,7 @@ x-co-op: No
 
 
 game: Squish'em Featuring Sam (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Squish'em Featuring Sam (USA)/Squish'em Featuring Sam (USA).json
+file: Other/Coleco ColecoVision/Squish'em Featuring Sam (USA)/Squish'em Featuring Sam (USA).json
 developer: Interphase
 publisher: Interphase
 genre: Action
@@ -934,7 +934,7 @@ x-co-op: No
 
 
 game: Super Cross Force (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Super Cross Force (USA, Europe)/Super Cross Force (USA, Europe).json
+file: Other/Coleco ColecoVision/Super Cross Force (USA, Europe)/Super Cross Force (USA, Europe).json
 developer: Spectravision
 publisher: Spectravideo International Ltd.
 genre: Shooter
@@ -961,7 +961,7 @@ x-co-op: No
 
 
 game: Threshold (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Threshold (USA)/Threshold (USA).json
+file: Other/Coleco ColecoVision/Threshold (USA)/Threshold (USA).json
 developer: Sierra Entertainment
 publisher: Sierra Entertainment
 genre: Shooter
@@ -987,7 +987,7 @@ x-co-op: No
 
 
 game: Tournament Tennis (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Tournament Tennis (USA)/Tournament Tennis (USA).json
+file: Other/Coleco ColecoVision/Tournament Tennis (USA)/Tournament Tennis (USA).json
 developer: Imagic
 publisher: Imagic
 genre: Sports
@@ -1015,7 +1015,7 @@ x-co-op: No
 
 
 game: Venture (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Venture (USA, Europe)/Venture (USA, Europe).json
+file: Other/Coleco ColecoVision/Venture (USA, Europe)/Venture (USA, Europe).json
 developer: Exidy, Inc.
 publisher: Coleco Industries, Inc.
 genre: Action
@@ -1038,7 +1038,7 @@ x-co-op: No
 
 
 game: War Room (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/War Room (USA)/War Room (USA).json
+file: Other/Coleco ColecoVision/War Room (USA)/War Room (USA).json
 developer: NAP Consumer Electronics
 publisher: Probe 2000
 genre: Strategy
@@ -1058,7 +1058,7 @@ x-co-op: Yes
 
 
 game: Wing War (USA)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Wing War (USA)/Wing War (USA).json
+file: Other/Coleco ColecoVision/Wing War (USA)/Wing War (USA).json
 developer: Animagic S.A.
 publisher: Animagic S.A.
 genre: Shooter
@@ -1086,7 +1086,7 @@ x-co-op: No
 
 
 game: Zaxxon (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Coleco ColecoVision/Zaxxon (USA, Europe)/Zaxxon (USA, Europe).json
+file: Other/Coleco ColecoVision/Zaxxon (USA, Europe)/Zaxxon (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Shooter

@@ -1,9 +1,9 @@
 collection: Sega Dreamcast
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega Dreamcast" {file.path}
+launch: launch_rom -l "Sega Dreamcast" {file.path}
 
 
 game: Alien Front Online (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Alien Front Online (USA)/Alien Front Online (USA).json
+file: Other/Sega Dreamcast/Alien Front Online (USA)/Alien Front Online (USA).json
 developer: WOW Entertainment
 publisher: Sega
 genre: Shooter
@@ -35,7 +35,7 @@ x-co-op: Yes
 
 
 game: Alone in the Dark - The New Nightmare (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Alone in the Dark - The New Nightmare (USA)/Alone in the Dark - The New Nightmare (USA).json
+file: Other/Sega Dreamcast/Alone in the Dark - The New Nightmare (USA)/Alone in the Dark - The New Nightmare (USA).json
 developer: Darkworks
 publisher: Infogrames
 genre: Action;Adventure;Horror
@@ -65,7 +65,7 @@ x-co-op: No
 
 
 game: Bleem! for Dreamcast - Gran Tursimo 2 (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Bleem! for Dreamcast - Gran Tursimo 2 (USA) (Unl)/Bleem! for Dreamcast - Gran Tursimo 2 (USA) (Unl).json
+file: Other/Sega Dreamcast/Bleem! for Dreamcast - Gran Tursimo 2 (USA) (Unl)/Bleem! for Dreamcast - Gran Tursimo 2 (USA) (Unl).json
 developer: Polyphony Digital
 publisher: SCEA
 genre: Racing;Simulation;Automobile
@@ -87,7 +87,7 @@ x-co-op: No
 
 
 game: Bleemcast! for Metal Gear Solid (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Bleemcast! for Metal Gear Solid (USA) (Unl)/Bleemcast! for Metal Gear Solid (USA) (Unl).json
+file: Other/Sega Dreamcast/Bleemcast! for Metal Gear Solid (USA) (Unl)/Bleemcast! for Metal Gear Solid (USA) (Unl).json
 developer: KCEJ
 publisher: Konami
 genre: Action Adventure;General
@@ -110,7 +110,7 @@ x-co-op: No
 
 
 game: Bleemcast! for Tekken 3 (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Bleemcast! for Tekken 3 (USA) (Unl)/Bleemcast! for Tekken 3 (USA) (Unl).json
+file: Other/Sega Dreamcast/Bleemcast! for Tekken 3 (USA) (Unl)/Bleemcast! for Tekken 3 (USA) (Unl).json
 developer: Namco
 publisher: Namco
 genre: Action;Fighting;3D
@@ -130,7 +130,7 @@ x-co-op: No
 
 
 game: Blue Stinger (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Blue Stinger (USA)/Blue Stinger (USA).json
+file: Other/Sega Dreamcast/Blue Stinger (USA)/Blue Stinger (USA).json
 developer: Climax Entertainment
 publisher: Activision
 genre: Action;Adventure;Horror
@@ -150,7 +150,7 @@ x-co-op: No
 
 
 game: Carrier (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Carrier (USA)/Carrier (USA).json
+file: Other/Sega Dreamcast/Carrier (USA)/Carrier (USA).json
 developer: Jaleco Entertainment
 publisher: Jaleco Entertainment
 genre: Action;Adventure;Horror
@@ -176,7 +176,7 @@ x-co-op: No
 
 
 game: Cool Herders (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Cool Herders (USA) (Unl)/Cool Herders (USA) (Unl).json
+file: Other/Sega Dreamcast/Cool Herders (USA) (Unl)/Cool Herders (USA) (Unl).json
 developer: HarmlessLion
 publisher: GOAT Store Publishing
 genre: Action;Puzzle;Board Game
@@ -203,7 +203,7 @@ x-co-op: No
 
 
 game: D2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/D2 (USA)/D2 (USA).json
+file: Other/Sega Dreamcast/D2 (USA)/D2 (USA).json
 developer: Warp Inc.
 publisher: Sega
 genre: Action;Horror;Role-Playing
@@ -254,7 +254,7 @@ x-co-op: No
 
 
 game: Dino Crisis (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Dino Crisis (USA)/Dino Crisis (USA).json
+file: Other/Sega Dreamcast/Dino Crisis (USA)/Dino Crisis (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror;Shooter
@@ -279,7 +279,7 @@ x-co-op: No
 
 
 game: Draconus - Cult of the Wyrm (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Draconus - Cult of the Wyrm (USA)/Draconus - Cult of the Wyrm (USA).json
+file: Other/Sega Dreamcast/Draconus - Cult of the Wyrm (USA)/Draconus - Cult of the Wyrm (USA).json
 developer: Treyarch Invention
 publisher: Crave Entertainment
 genre: Role-Playing
@@ -302,7 +302,7 @@ x-co-op: No
 
 
 game: Elemental Gimmick Gear (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Elemental Gimmick Gear (USA)/Elemental Gimmick Gear (USA).json
+file: Other/Sega Dreamcast/Elemental Gimmick Gear (USA)/Elemental Gimmick Gear (USA).json
 developer: Birthday
 publisher: Vatical Entertainment
 genre: Action;Role-Playing
@@ -344,7 +344,7 @@ x-co-op: No
 
 
 game: Evil Dead - Hail to the King (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Evil Dead - Hail to the King (USA)/Evil Dead - Hail to the King (USA).json
+file: Other/Sega Dreamcast/Evil Dead - Hail to the King (USA)/Evil Dead - Hail to the King (USA).json
 developer: Heavy Iron Studios
 publisher: THQ
 genre: Horror
@@ -369,7 +369,7 @@ x-co-op: No
 
 
 game: Evolution - The World of Sacred Device (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Evolution - The World of Sacred Device (USA)/Evolution - The World of Sacred Device (USA).json
+file: Other/Sega Dreamcast/Evolution - The World of Sacred Device (USA)/Evolution - The World of Sacred Device (USA).json
 developer: Sting
 publisher: Ubisoft
 genre: Role-Playing
@@ -393,7 +393,7 @@ x-co-op: No
 
 
 game: Expendable (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Expendable (USA)/Expendable (USA).json
+file: Other/Sega Dreamcast/Expendable (USA)/Expendable (USA).json
 developer: Rage Software
 publisher: Infogrames
 genre: Action;Shooter
@@ -412,7 +412,7 @@ x-co-op: Yes
 
 
 game: Finding Teddy (USA, Japan) (En,Ja) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Finding Teddy (USA, Japan) (En,Ja) (Unl)/Finding Teddy (USA, Japan) (En,Ja) (Unl).json
+file: Other/Sega Dreamcast/Finding Teddy (USA, Japan) (En,Ja) (Unl)/Finding Teddy (USA, Japan) (En,Ja) (Unl).json
 developer: Storybird SARL
 publisher: JoshProd
 genre: Adventure
@@ -445,7 +445,7 @@ x-co-op: No
 
 
 game: Generator Vol. 1 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Generator Vol. 1 (USA)/Generator Vol. 1 (USA).json
+file: Other/Sega Dreamcast/Generator Vol. 1 (USA)/Generator Vol. 1 (USA).json
 developer: Sega
 publisher: Sega
 genre: Miscellaneous;Demo Disc
@@ -466,7 +466,7 @@ x-co-op: No
 
 
 game: Generator Vol. 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Generator Vol. 2 (USA)/Generator Vol. 2 (USA).json
+file: Other/Sega Dreamcast/Generator Vol. 2 (USA)/Generator Vol. 2 (USA).json
 developer: Sega
 publisher: Sega
 genre: Miscellaneous;Demo Disc
@@ -489,7 +489,7 @@ x-co-op: No
 
 
 game: Half-Life (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Half-Life (USA) (Unl)/Half-Life (USA) (Unl).json
+file: Other/Sega Dreamcast/Half-Life (USA) (Unl)/Half-Life (USA) (Unl).json
 developer: Captivation Digital Laboratories
 publisher: Sierra Entertainment
 genre: Shooter
@@ -516,7 +516,7 @@ x-co-op: No
 
 
 game: Half-Life - Paranoia (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Half-Life - Paranoia (USA) (Unl)/Half-Life - Paranoia (USA) (Unl).json
+file: Other/Sega Dreamcast/Half-Life - Paranoia (USA) (Unl)/Half-Life - Paranoia (USA) (Unl).json
 developer: Mikhail Kadikov
 publisher: HLP Team
 genre: Shooter
@@ -536,7 +536,7 @@ x-co-op: No
 
 
 game: Illbleed (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Illbleed (USA)/Illbleed (USA).json
+file: Other/Sega Dreamcast/Illbleed (USA)/Illbleed (USA).json
 developer: Crazy Games
 publisher: AIA
 genre: Horror
@@ -560,7 +560,7 @@ x-co-op: No
 
 
 game: Nanatsu no Hikan - Senritsu no Bishou (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Nanatsu no Hikan - Senritsu no Bishou (Japan)/Nanatsu no Hikan - Senritsu no Bishou (Japan).json
+file: Other/Sega Dreamcast/Nanatsu no Hikan - Senritsu no Bishou (Japan)/Nanatsu no Hikan - Senritsu no Bishou (Japan).json
 developer: Koei
 publisher: Koei
 genre: Horror
@@ -580,7 +580,7 @@ x-co-op: Yes
 
 
 game: Nanatsu no Hikan - Senritsu no Bishou (Japan) (Translation v1.00)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Nanatsu no Hikan - Senritsu no Bishou (Japan) (Translation v1.00)/Nanatsu no Hikan - Senritsu no Bishou (Japan) (Translation v1.00).json
+file: Other/Sega Dreamcast/Nanatsu no Hikan - Senritsu no Bishou (Japan) (Translation v1.00)/Nanatsu no Hikan - Senritsu no Bishou (Japan) (Translation v1.00).json
 developer: Koei
 publisher: Koei Co., Ltd.
 genre: Adventure;Horror
@@ -601,7 +601,7 @@ x-co-op: Yes
 
 
 game: Phantasy Star Online (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Phantasy Star Online (USA)/Phantasy Star Online (USA).json
+file: Other/Sega Dreamcast/Phantasy Star Online (USA)/Phantasy Star Online (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Adventure;MMO;Role-Playing
@@ -624,7 +624,7 @@ x-co-op: Yes
 
 
 game: Phantasy Star Online Ver. 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Phantasy Star Online Ver. 2 (USA)/Phantasy Star Online Ver. 2 (USA).json
+file: Other/Sega Dreamcast/Phantasy Star Online Ver. 2 (USA)/Phantasy Star Online Ver. 2 (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Role-Playing
@@ -645,7 +645,7 @@ x-co-op: Yes
 
 
 game: Phantasy Star Online Ver. 2 (USA) (Sylverant)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Phantasy Star Online Ver. 2 (USA) (Sylverant)/Phantasy Star Online Ver. 2 (USA) (Sylverant).json
+file: Other/Sega Dreamcast/Phantasy Star Online Ver. 2 (USA) (Sylverant)/Phantasy Star Online Ver. 2 (USA) (Sylverant).json
 developer: Sonic Team
 publisher: Sega
 genre: Role-Playing
@@ -666,7 +666,7 @@ x-co-op: Yes
 
 
 game: Pier Solar and the Great Architects (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Pier Solar and the Great Architects (USA) (Unl)/Pier Solar and the Great Architects (USA) (Unl).json
+file: Other/Sega Dreamcast/Pier Solar and the Great Architects (USA) (Unl)/Pier Solar and the Great Architects (USA) (Unl).json
 developer: Watermelon
 publisher: WaterMelon
 genre: Role-Playing
@@ -698,7 +698,7 @@ x-co-op: No
 
 
 game: Plasma Sword - Nightmare of Bilstein (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Plasma Sword - Nightmare of Bilstein (USA)/Plasma Sword - Nightmare of Bilstein (USA).json
+file: Other/Sega Dreamcast/Plasma Sword - Nightmare of Bilstein (USA)/Plasma Sword - Nightmare of Bilstein (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -724,7 +724,7 @@ x-co-op: No
 
 
 game: Resident Evil - Code - Veronica (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Resident Evil - Code - Veronica (USA)/Resident Evil - Code - Veronica (USA).json
+file: Other/Sega Dreamcast/Resident Evil - Code - Veronica (USA)/Resident Evil - Code - Veronica (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Puzzle
@@ -750,7 +750,7 @@ x-co-op: No
 
 
 game: Resident Evil 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Other/Sega Dreamcast/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror
@@ -781,7 +781,7 @@ x-co-op: No
 
 
 game: Resident Evil 3 - Nemesis (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Resident Evil 3 - Nemesis (USA)/Resident Evil 3 - Nemesis (USA).json
+file: Other/Sega Dreamcast/Resident Evil 3 - Nemesis (USA)/Resident Evil 3 - Nemesis (USA).json
 developer: Capcom Co., Ltd.
 publisher: Capcom Entertainment, Inc.
 genre: Action;Adventure;Horror
@@ -801,7 +801,7 @@ x-co-op: No
 
 
 game: Ring, The - Terror's Realm (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Ring, The - Terror's Realm (USA)/Ring, The - Terror's Realm (USA).json
+file: Other/Sega Dreamcast/Ring, The - Terror's Realm (USA)/Ring, The - Terror's Realm (USA).json
 developer: Tycoon
 publisher: Infogrames
 genre: Horror
@@ -843,7 +843,7 @@ x-co-op: No
 
 
 game: Sega Smashpack Volume 1 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Sega Smashpack Volume 1 (USA)/Sega Smashpack Volume 1 (USA).json
+file: Other/Sega Dreamcast/Sega Smashpack Volume 1 (USA)/Sega Smashpack Volume 1 (USA).json
 developer: Sega
 publisher: Sega
 genre: Miscellaneous;Compilation
@@ -874,7 +874,7 @@ x-co-op: Yes
 
 
 game: Slave Zero (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Slave Zero (USA)/Slave Zero (USA).json
+file: Other/Sega Dreamcast/Slave Zero (USA)/Slave Zero (USA).json
 developer: Infogrames North America
 publisher: Sega
 genre: Action
@@ -895,7 +895,7 @@ x-co-op: No
 
 
 game: Sonic Adventure 2 - The Trial (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Sonic Adventure 2 - The Trial (USA) (En,Ja)/Sonic Adventure 2 - The Trial (USA) (En,Ja).json
+file: Other/Sega Dreamcast/Sonic Adventure 2 - The Trial (USA) (En,Ja)/Sonic Adventure 2 - The Trial (USA) (En,Ja).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Adventure
@@ -932,7 +932,7 @@ x-co-op: No
 
 
 game: Soul Calibur (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Soul Calibur (USA)/Soul Calibur (USA).json
+file: Other/Sega Dreamcast/Soul Calibur (USA)/Soul Calibur (USA).json
 developer: Project Soul
 publisher: Namco
 genre: Fighting
@@ -952,7 +952,7 @@ x-co-op: No
 
 
 game: Soul Fighter (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Soul Fighter (USA)/Soul Fighter (USA).json
+file: Other/Sega Dreamcast/Soul Fighter (USA)/Soul Fighter (USA).json
 developer: Red Orb Entertainment
 publisher: Toka S.a.r.l
 genre: Fighting
@@ -972,7 +972,7 @@ x-co-op: No
 
 
 game: TimeStalkers (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/TimeStalkers (USA)/TimeStalkers (USA).json
+file: Other/Sega Dreamcast/TimeStalkers (USA)/TimeStalkers (USA).json
 developer: Climax Entertainment
 publisher: Sega
 genre: Role-Playing
@@ -993,7 +993,7 @@ x-co-op: No
 
 
 game: Web Browser (USA) (Rev A)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Web Browser (USA) (Rev A)/Web Browser (USA) (Rev A).json
+file: Other/Sega Dreamcast/Web Browser (USA) (Rev A)/Web Browser (USA) (Rev A).json
 developer: Sega
 publisher: Sega
 genre: Miscellaneous;Application
@@ -1018,7 +1018,7 @@ x-co-op: No
 
 
 game: Web Browser 2.0 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Web Browser 2.0 (USA)/Web Browser 2.0 (USA).json
+file: Other/Sega Dreamcast/Web Browser 2.0 (USA)/Web Browser 2.0 (USA).json
 developer: Sega
 publisher: Sega
 genre: Miscellaneous;Application
@@ -1045,7 +1045,7 @@ x-co-op: No
 
 
 game: Worms Armageddon (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Worms Armageddon (USA)/Worms Armageddon (USA).json
+file: Other/Sega Dreamcast/Worms Armageddon (USA)/Worms Armageddon (USA).json
 developer: Team17 Software
 publisher: MicroProse
 genre: Strategy
@@ -1069,7 +1069,7 @@ x-co-op: Yes
 
 
 game: Xeno Crisis (USA) (Unl)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Xeno Crisis (USA) (Unl)/Xeno Crisis (USA) (Unl).json
+file: Other/Sega Dreamcast/Xeno Crisis (USA) (Unl)/Xeno Crisis (USA) (Unl).json
 developer: Bitmap Bureau
 publisher: Bitmap Bureau
 genre: Shooter
@@ -1096,7 +1096,7 @@ x-co-op: Yes
 
 
 game: Zombie Revenge (USA)
-file: $ROM_JSON_ROOT/Other/Sega Dreamcast/Zombie Revenge (USA)/Zombie Revenge (USA).json
+file: Other/Sega Dreamcast/Zombie Revenge (USA)/Zombie Revenge (USA).json
 developer: Sega
 publisher: Sega
 genre: Horror;Beat 'em Up

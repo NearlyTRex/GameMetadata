@@ -1,9 +1,9 @@
 collection: Atari Lynx
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Atari Lynx" {file.path}
+launch: launch_rom -l "Atari Lynx" {file.path}
 
 
 game: Basketbrawl (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Basketbrawl (USA, Europe)/Basketbrawl (USA, Europe).json
+file: Other/Atari Lynx/Basketbrawl (USA, Europe)/Basketbrawl (USA, Europe).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Fighting;Sports
@@ -22,7 +22,7 @@ x-co-op: No
 
 
 game: Block Out (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Block Out (USA, Europe)/Block Out (USA, Europe).json
+file: Other/Atari Lynx/Block Out (USA, Europe)/Block Out (USA, Europe).json
 developer: P.Z.Karen Co. Development Group
 publisher: Atari
 genre: Puzzle
@@ -45,7 +45,7 @@ x-co-op: No
 
 
 game: Chip's Challenge (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Chip's Challenge (USA, Europe)/Chip's Challenge (USA, Europe).json
+file: Other/Atari Lynx/Chip's Challenge (USA, Europe)/Chip's Challenge (USA, Europe).json
 developer: Epyx
 publisher: Atari
 genre: Puzzle
@@ -72,7 +72,7 @@ x-co-op: No
 
 
 game: Crystal Mines II (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Crystal Mines II (USA, Europe)/Crystal Mines II (USA, Europe).json
+file: Other/Atari Lynx/Crystal Mines II (USA, Europe)/Crystal Mines II (USA, Europe).json
 developer: Color Dreams
 publisher: Atari
 genre: Puzzle
@@ -92,7 +92,7 @@ x-co-op: No
 
 
 game: Gates of Zendocon, The (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Gates of Zendocon, The (USA, Europe)/Gates of Zendocon, The (USA, Europe).json
+file: Other/Atari Lynx/Gates of Zendocon, The (USA, Europe)/Gates of Zendocon, The (USA, Europe).json
 developer: Epyx, Inc.
 publisher: Atari Corporation
 genre: Shooter
@@ -120,7 +120,7 @@ x-co-op: No
 
 
 game: Gauntlet - The Third Encounter (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Gauntlet - The Third Encounter (USA, Europe)/Gauntlet - The Third Encounter (USA, Europe).json
+file: Other/Atari Lynx/Gauntlet - The Third Encounter (USA, Europe)/Gauntlet - The Third Encounter (USA, Europe).json
 developer: Epyx
 publisher: Atari
 genre: Action
@@ -144,7 +144,7 @@ x-co-op: Yes
 
 
 game: Ishido - The Way of Stones (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Ishido - The Way of Stones (USA, Europe)/Ishido - The Way of Stones (USA, Europe).json
+file: Other/Atari Lynx/Ishido - The Way of Stones (USA, Europe)/Ishido - The Way of Stones (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Strategy
@@ -164,7 +164,7 @@ x-co-op: No
 
 
 game: Klax (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Klax (USA, Europe)/Klax (USA, Europe).json
+file: Other/Atari Lynx/Klax (USA, Europe)/Klax (USA, Europe).json
 developer: Atari Games Corporation
 publisher: Atari Corporation
 genre: Puzzle
@@ -184,7 +184,7 @@ x-co-op: No
 
 
 game: Malibu Bikini Volleyball (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Malibu Bikini Volleyball (USA, Europe)/Malibu Bikini Volleyball (USA, Europe).json
+file: Other/Atari Lynx/Malibu Bikini Volleyball (USA, Europe)/Malibu Bikini Volleyball (USA, Europe).json
 developer: Hand Made Software
 publisher: Atari, Inc.
 genre: Sports
@@ -203,7 +203,7 @@ x-co-op: No
 
 
 game: Scrapyard Dog (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Scrapyard Dog (USA, Europe)/Scrapyard Dog (USA, Europe).json
+file: Other/Atari Lynx/Scrapyard Dog (USA, Europe)/Scrapyard Dog (USA, Europe).json
 developer: Creative Software Designs
 publisher: Atari
 genre: Adventure
@@ -223,7 +223,7 @@ x-co-op: No
 
 
 game: Shanghai (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Shanghai (USA, Europe)/Shanghai (USA, Europe).json
+file: Other/Atari Lynx/Shanghai (USA, Europe)/Shanghai (USA, Europe).json
 developer: Activision
 publisher: Atari
 genre: Puzzle
@@ -253,7 +253,7 @@ x-co-op: No
 
 
 game: Super Asteroids, Missile Command (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Super Asteroids, Missile Command (USA, Europe)/Super Asteroids, Missile Command (USA, Europe).json
+file: Other/Atari Lynx/Super Asteroids, Missile Command (USA, Europe)/Super Asteroids, Missile Command (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -286,7 +286,7 @@ x-co-op: No
 
 
 game: Todd's Adventures in Slime World (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Todd's Adventures in Slime World (USA, Europe)/Todd's Adventures in Slime World (USA, Europe).json
+file: Other/Atari Lynx/Todd's Adventures in Slime World (USA, Europe)/Todd's Adventures in Slime World (USA, Europe).json
 developer: Epyx
 publisher: Atari
 genre: Action;Platform
@@ -306,7 +306,7 @@ x-co-op: Yes
 
 
 game: Turbo Sub (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Turbo Sub (USA, Europe)/Turbo Sub (USA, Europe).json
+file: Other/Atari Lynx/Turbo Sub (USA, Europe)/Turbo Sub (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -328,7 +328,7 @@ x-co-op: No
 
 
 game: Warbirds (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Lynx/Warbirds (USA, Europe)/Warbirds (USA, Europe).json
+file: Other/Atari Lynx/Warbirds (USA, Europe)/Warbirds (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Shooter

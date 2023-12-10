@@ -1,9 +1,9 @@
 collection: Microsoft Xbox 360 XIG
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Microsoft Xbox 360 XIG" {file.path}
+launch: launch_rom -l "Microsoft Xbox 360 XIG" {file.path}
 
 
 game: Breath of Death VII (USA) (XIG)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox 360 XIG/Breath of Death VII (USA) (XIG)/Breath of Death VII (USA) (XIG).json
+file: Microsoft/Microsoft Xbox 360 XIG/Breath of Death VII (USA) (XIG)/Breath of Death VII (USA) (XIG).json
 developer: Zeboyd Games
 publisher: Zeboyd Games
 genre: Role-Playing
@@ -28,7 +28,7 @@ x-co-op: No
 
 
 game: Cthulhu Saves the World (USA) (XIG)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox 360 XIG/Cthulhu Saves the World (USA) (XIG)/Cthulhu Saves the World (USA) (XIG).json
+file: Microsoft/Microsoft Xbox 360 XIG/Cthulhu Saves the World (USA) (XIG)/Cthulhu Saves the World (USA) (XIG).json
 developer: Zeboyd Games
 publisher: Zeboyd Games
 genre: Role-Playing
@@ -54,7 +54,7 @@ x-co-op: No
 
 
 game: Dead Pixels (USA) (XIG)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox 360 XIG/Dead Pixels (USA) (XIG)/Dead Pixels (USA) (XIG).json
+file: Microsoft/Microsoft Xbox 360 XIG/Dead Pixels (USA) (XIG)/Dead Pixels (USA) (XIG).json
 developer: CSR-Studios
 publisher: CSR-Studios
 genre: Shooter
@@ -80,7 +80,7 @@ x-co-op: No
 
 
 game: EvilQuest (USA) (XIG)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox 360 XIG/EvilQuest (USA) (XIG)/EvilQuest (USA) (XIG).json
+file: Microsoft/Microsoft Xbox 360 XIG/EvilQuest (USA) (XIG)/EvilQuest (USA) (XIG).json
 developer: Chaosoft Games
 publisher: Chaosoft Games
 genre: Role-Playing;Action RPG
@@ -101,7 +101,7 @@ x-co-op: No
 
 
 game: White Noise - A Tale of Horror (USA) (XIG)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox 360 XIG/White Noise - A Tale of Horror (USA) (XIG)/White Noise - A Tale of Horror (USA) (XIG).json
+file: Microsoft/Microsoft Xbox 360 XIG/White Noise - A Tale of Horror (USA) (XIG)/White Noise - A Tale of Horror (USA) (XIG).json
 developer: Milkstone Studios
 publisher: Milkstone Studios
 genre: Miscellaneous;General
@@ -119,7 +119,7 @@ x-co-op: No
 
 
 game: Zombie Snowmen (USA) (XIG)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox 360 XIG/Zombie Snowmen (USA) (XIG)/Zombie Snowmen (USA) (XIG).json
+file: Microsoft/Microsoft Xbox 360 XIG/Zombie Snowmen (USA) (XIG)/Zombie Snowmen (USA) (XIG).json
 developer: sanGames
 publisher: sanGames
 genre: Action;Arcade

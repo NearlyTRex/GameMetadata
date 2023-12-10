@@ -1,9 +1,9 @@
 collection: Microsoft MSX
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Microsoft MSX" {file.path}
+launch: launch_rom -l "Microsoft MSX" {file.path}
 
 
 game: Antarctic Adventure (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Antarctic Adventure (Japan)/Antarctic Adventure (Japan).json
+file: Microsoft/Microsoft MSX/Antarctic Adventure (Japan)/Antarctic Adventure (Japan).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -26,7 +26,7 @@ x-co-op: No
 
 
 game: Athletic Land (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Athletic Land (Japan)/Athletic Land (Japan).json
+file: Microsoft/Microsoft MSX/Athletic Land (Japan)/Athletic Land (Japan).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -45,7 +45,7 @@ x-co-op: No
 
 
 game: Hyper Sports 2 (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Hyper Sports 2 (Japan)/Hyper Sports 2 (Japan).json
+file: Microsoft/Microsoft MSX/Hyper Sports 2 (Japan)/Hyper Sports 2 (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -64,7 +64,7 @@ x-co-op: No
 
 
 game: Hyper Sports 3 (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Hyper Sports 3 (Japan)/Hyper Sports 3 (Japan).json
+file: Microsoft/Microsoft MSX/Hyper Sports 3 (Japan)/Hyper Sports 3 (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -84,7 +84,7 @@ x-co-op: No
 
 
 game: Knightmare - Majou Densetsu (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Knightmare - Majou Densetsu (Japan)/Knightmare - Majou Densetsu (Japan).json
+file: Microsoft/Microsoft MSX/Knightmare - Majou Densetsu (Japan)/Knightmare - Majou Densetsu (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -107,7 +107,7 @@ x-co-op: No
 
 
 game: Konami's Billiards (Europe)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Konami's Billiards (Europe)/Konami's Billiards (Europe).json
+file: Microsoft/Microsoft MSX/Konami's Billiards (Europe)/Konami's Billiards (Europe).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -127,7 +127,7 @@ x-co-op: No
 
 
 game: Konami's Boxing (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Konami's Boxing (Japan)/Konami's Boxing (Japan).json
+file: Microsoft/Microsoft MSX/Konami's Boxing (Japan)/Konami's Boxing (Japan).json
 developer: Konami
 publisher: Konami
 genre: Fighting;Sports
@@ -144,7 +144,7 @@ x-co-op: No
 
 
 game: Konami's Golf (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Konami's Golf (Japan)/Konami's Golf (Japan).json
+file: Microsoft/Microsoft MSX/Konami's Golf (Japan)/Konami's Golf (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -162,7 +162,7 @@ x-co-op: No
 
 
 game: Konami's Ping-Pong (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Konami's Ping-Pong (Japan)/Konami's Ping-Pong (Japan).json
+file: Microsoft/Microsoft MSX/Konami's Ping-Pong (Japan)/Konami's Ping-Pong (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -188,7 +188,7 @@ x-co-op: No
 
 
 game: Magical Tree (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Magical Tree (Japan)/Magical Tree (Japan).json
+file: Microsoft/Microsoft MSX/Magical Tree (Japan)/Magical Tree (Japan).json
 developer: Konami
 publisher: Konami
 genre: Platform
@@ -207,7 +207,7 @@ x-co-op: No
 
 
 game: Mopiranger (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Mopiranger (Japan)/Mopiranger (Japan).json
+file: Microsoft/Microsoft MSX/Mopiranger (Japan)/Mopiranger (Japan).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -229,7 +229,7 @@ x-co-op: No
 
 
 game: Mugen Senshi Valis - The Fantasm Soldier (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Mugen Senshi Valis - The Fantasm Soldier (Japan)/Mugen Senshi Valis - The Fantasm Soldier (Japan).json
+file: Microsoft/Microsoft MSX/Mugen Senshi Valis - The Fantasm Soldier (Japan)/Mugen Senshi Valis - The Fantasm Soldier (Japan).json
 developer: Telenet Japan
 publisher: Telenet Japan Co., Ltd.
 genre: Action
@@ -254,7 +254,7 @@ x-co-op: No
 
 
 game: Nemesis (Japan, Europe)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Nemesis (Japan, Europe)/Nemesis (Japan, Europe).json
+file: Microsoft/Microsoft MSX/Nemesis (Japan, Europe)/Nemesis (Japan, Europe).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -277,7 +277,7 @@ x-co-op: No
 
 
 game: Nemesis 2 (Japan, Europe)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Nemesis 2 (Japan, Europe)/Nemesis 2 (Japan, Europe).json
+file: Microsoft/Microsoft MSX/Nemesis 2 (Japan, Europe)/Nemesis 2 (Japan, Europe).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -310,7 +310,7 @@ x-co-op: No
 
 
 game: Nemesis 3 - The Eve of Destruction (Japan, Europe)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Nemesis 3 - The Eve of Destruction (Japan, Europe)/Nemesis 3 - The Eve of Destruction (Japan, Europe).json
+file: Microsoft/Microsoft MSX/Nemesis 3 - The Eve of Destruction (Japan, Europe)/Nemesis 3 - The Eve of Destruction (Japan, Europe).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -337,7 +337,7 @@ x-co-op: No
 
 
 game: Road Fighter (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Road Fighter (Japan)/Road Fighter (Japan).json
+file: Microsoft/Microsoft MSX/Road Fighter (Japan)/Road Fighter (Japan).json
 developer: Konami
 publisher: Konami
 genre: Racing
@@ -358,7 +358,7 @@ x-co-op: No
 
 
 game: Sky Jaguar (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Sky Jaguar (Japan)/Sky Jaguar (Japan).json
+file: Microsoft/Microsoft MSX/Sky Jaguar (Japan)/Sky Jaguar (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -379,7 +379,7 @@ x-co-op: No
 
 
 game: Super Cobra (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Super Cobra (Japan)/Super Cobra (Japan).json
+file: Microsoft/Microsoft MSX/Super Cobra (Japan)/Super Cobra (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -399,7 +399,7 @@ x-co-op: No
 
 
 game: Twin Bee (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Twin Bee (Japan)/Twin Bee (Japan).json
+file: Microsoft/Microsoft MSX/Twin Bee (Japan)/Twin Bee (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -443,7 +443,7 @@ x-co-op: No
 
 
 game: Yie Ar Kung-Fu (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Yie Ar Kung-Fu (Japan)/Yie Ar Kung-Fu (Japan).json
+file: Microsoft/Microsoft MSX/Yie Ar Kung-Fu (Japan)/Yie Ar Kung-Fu (Japan).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -468,7 +468,7 @@ x-co-op: No
 
 
 game: Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft MSX/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).json
+file: Microsoft/Microsoft MSX/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).json
 developer: Konami
 publisher: Konami
 genre: Adventure;Fighting

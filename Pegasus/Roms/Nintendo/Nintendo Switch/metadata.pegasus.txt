@@ -1,9 +1,9 @@
 collection: Nintendo Switch
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Switch" {file.path}
+launch: launch_rom -l "Nintendo Switch" {file.path}
 
 
 game: 2064 - Read Only Memories INTEGRAL (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/2064 - Read Only Memories INTEGRAL (USA) (En,Ja)/2064 - Read Only Memories INTEGRAL (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/2064 - Read Only Memories INTEGRAL (USA) (En,Ja)/2064 - Read Only Memories INTEGRAL (USA) (En,Ja).json
 developer: MidBoss
 publisher: MidBoss
 genre: Adventure
@@ -43,7 +43,7 @@ x-co-op: No
 
 
 game: Abarenbo Tengu & Zombie Nation (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Abarenbo Tengu & Zombie Nation (Europe)/Abarenbo Tengu & Zombie Nation (Europe).json
+file: Nintendo/Nintendo Switch/Abarenbo Tengu & Zombie Nation (Europe)/Abarenbo Tengu & Zombie Nation (Europe).json
 developer: City Connection
 publisher: Strictly Limited Games
 genre: Shooter
@@ -92,7 +92,7 @@ x-co-op: No
 
 
 game: Abzu (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Abzu (Europe)/Abzu (Europe).json
+file: Nintendo/Nintendo Switch/Abzu (Europe)/Abzu (Europe).json
 developer: Giant Squid
 publisher: 505 Games
 genre: Adventure;Puzzle
@@ -118,7 +118,7 @@ x-co-op: No
 
 
 game: Adventure Pals, The (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Adventure Pals, The (Europe)/Adventure Pals, The (Europe).json
+file: Nintendo/Nintendo Switch/Adventure Pals, The (Europe)/Adventure Pals, The (Europe).json
 developer: Massive Monster
 publisher: Armor Games Studios
 genre: Adventure;Platform;Puzzle
@@ -151,7 +151,7 @@ x-co-op: Yes
 
 
 game: Aegis Defenders (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Aegis Defenders (USA)/Aegis Defenders (USA).json
+file: Nintendo/Nintendo Switch/Aegis Defenders (USA)/Aegis Defenders (USA).json
 developer: GUTS Department
 publisher: Humble Games
 genre: Action;Platform;Role-Playing
@@ -169,7 +169,7 @@ x-co-op: Yes
 
 
 game: Afterparty (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Afterparty (USA)/Afterparty (USA).json
+file: Nintendo/Nintendo Switch/Afterparty (USA)/Afterparty (USA).json
 developer: Night School Studio
 publisher: Night School
 genre: Adventure
@@ -200,7 +200,7 @@ x-co-op: No
 
 
 game: Among the Sleep - Enhanced Edition (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Among the Sleep - Enhanced Edition (Europe)/Among the Sleep - Enhanced Edition (Europe).json
+file: Nintendo/Nintendo Switch/Among the Sleep - Enhanced Edition (Europe)/Among the Sleep - Enhanced Edition (Europe).json
 developer: Krillbite Studio
 publisher: SOEDESCO
 genre: Action;Adventure;Puzzle
@@ -225,7 +225,7 @@ x-co-op: No
 
 
 game: Angry Video Game Nerd 1 & 2 Deluxe (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Angry Video Game Nerd 1 & 2 Deluxe (USA)/Angry Video Game Nerd 1 & 2 Deluxe (USA).json
+file: Nintendo/Nintendo Switch/Angry Video Game Nerd 1 & 2 Deluxe (USA)/Angry Video Game Nerd 1 & 2 Deluxe (USA).json
 developer: FreakZone Games
 publisher: Limited Run Games
 genre: Action;Adventure;Platform
@@ -287,7 +287,7 @@ x-co-op: No
 
 
 game: Arcade Classics Anniversary Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Arcade Classics Anniversary Collection (USA)/Arcade Classics Anniversary Collection (USA).json
+file: Nintendo/Nintendo Switch/Arcade Classics Anniversary Collection (USA)/Arcade Classics Anniversary Collection (USA).json
 developer: Konami
 publisher: Konami Digital Entertainment, Inc.
 genre: Action;Adventure;Shooter;Virtual Console
@@ -350,7 +350,7 @@ x-co-op: Yes
 
 
 game: Arcade Paradise (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Arcade Paradise (USA)/Arcade Paradise (USA).json
+file: Nintendo/Nintendo Switch/Arcade Paradise (USA)/Arcade Paradise (USA).json
 developer: Nosebleed Interactive
 publisher: Wired Productions
 genre: Simulation;Virtual;Career
@@ -380,7 +380,7 @@ x-co-op: No
 
 
 game: Assault Android Cactus+ (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Assault Android Cactus+ (Europe)/Assault Android Cactus+ (Europe).json
+file: Nintendo/Nintendo Switch/Assault Android Cactus+ (Europe)/Assault Android Cactus+ (Europe).json
 developer: Witch Beam
 publisher: Witch Beam
 genre: Action;Shooter
@@ -403,7 +403,7 @@ x-co-op: Yes
 
 
 game: Atari 50 - The Anniversary Celebration (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Atari 50 - The Anniversary Celebration (USA)/Atari 50 - The Anniversary Celebration (USA).json
+file: Nintendo/Nintendo Switch/Atari 50 - The Anniversary Celebration (USA)/Atari 50 - The Anniversary Celebration (USA).json
 developer: Digital Eclipse
 publisher: Atari, Inc.
 genre: Adventure;Racing;Shooter;Fighting;Platform
@@ -471,7 +471,7 @@ x-co-op: No
 
 
 game: Away - Journey to the Unexpected (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Away - Journey to the Unexpected (USA)/Away - Journey to the Unexpected (USA).json
+file: Nintendo/Nintendo Switch/Away - Journey to the Unexpected (USA)/Away - Journey to the Unexpected (USA).json
 developer: AurelxJim
 publisher: Plug In Digital
 genre: Action;Adventure;Role-Playing
@@ -499,7 +499,7 @@ x-co-op: No
 
 
 game: Axiom Verge (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Axiom Verge (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)/Axiom Verge (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Axiom Verge (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ru)/Axiom Verge (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Ru).json
 developer: Thomas Happ Games LLC
 publisher: Thomas Happ Games LLC
 genre: Action;Platform;Shooter
@@ -535,7 +535,7 @@ x-co-op: No
 
 
 game: Axiom Verge 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Axiom Verge 2 (USA)/Axiom Verge 2 (USA).json
+file: Nintendo/Nintendo Switch/Axiom Verge 2 (USA)/Axiom Verge 2 (USA).json
 developer: Thomas Happ Games, LLC
 publisher: Thomas Happ Games, LLC
 genre: Action;Adventure;Platform
@@ -568,7 +568,7 @@ x-co-op: No
 
 
 game: Bad North (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bad North (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)/Bad North (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1).json
+file: Nintendo/Nintendo Switch/Bad North (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)/Bad North (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1).json
 developer: Plausible Concept
 publisher: Raw Fury
 genre: Strategy
@@ -604,7 +604,7 @@ x-co-op: No
 
 
 game: Battle Axe (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Battle Axe (USA)/Battle Axe (USA).json
+file: Nintendo/Nintendo Switch/Battle Axe (USA)/Battle Axe (USA).json
 developer: Henk Nieborg
 publisher: Numskull Games Ltd.
 genre: Action;Adventure
@@ -634,7 +634,7 @@ x-co-op: Yes
 
 
 game: Battle Princess Madelyn Royal Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Battle Princess Madelyn Royal Edition (USA)/Battle Princess Madelyn Royal Edition (USA).json
+file: Nintendo/Nintendo Switch/Battle Princess Madelyn Royal Edition (USA)/Battle Princess Madelyn Royal Edition (USA).json
 developer: Monster Bath Studios
 publisher: Causal Bit Games Inc.
 genre: Action
@@ -655,7 +655,7 @@ x-co-op: No
 
 
 game: Binding of Isaac, The - Afterbirth+ (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Binding of Isaac, The - Afterbirth+ (USA) (En,Ja)/Binding of Isaac, The - Afterbirth+ (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/Binding of Isaac, The - Afterbirth+ (USA) (En,Ja)/Binding of Isaac, The - Afterbirth+ (USA) (En,Ja).json
 developer: Nicalis
 publisher: Nicalis
 genre: Action
@@ -679,7 +679,7 @@ x-co-op: Yes
 
 
 game: Black Bird (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Black Bird (USA)/Black Bird (USA).json
+file: Nintendo/Nintendo Switch/Black Bird (USA)/Black Bird (USA).json
 developer: Onion Games
 publisher: Onion Games
 genre: Shooter
@@ -736,7 +736,7 @@ x-co-op: No
 
 
 game: Blair Witch (Japan) (En,Ja,Zh-Hans)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Blair Witch (Japan) (En,Ja,Zh-Hans)/Blair Witch (Japan) (En,Ja,Zh-Hans).json
+file: Nintendo/Nintendo Switch/Blair Witch (Japan) (En,Ja,Zh-Hans)/Blair Witch (Japan) (En,Ja,Zh-Hans).json
 developer: Bloober Team SA
 publisher: Bloober Team
 genre: Adventure;Horror
@@ -760,7 +760,7 @@ x-co-op: No
 
 
 game: Blasphemous (USA) (En,Fr,De,Es,It,Pt,Zh-Hans,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Blasphemous (USA) (En,Fr,De,Es,It,Pt,Zh-Hans,Ru)/Blasphemous (USA) (En,Fr,De,Es,It,Pt,Zh-Hans,Ru).json
+file: Nintendo/Nintendo Switch/Blasphemous (USA) (En,Fr,De,Es,It,Pt,Zh-Hans,Ru)/Blasphemous (USA) (En,Fr,De,Es,It,Pt,Zh-Hans,Ru).json
 developer: The Game Kitchen
 publisher: Team17 Digital Ltd
 genre: Action;Adventure;Platform;Role-Playing
@@ -813,7 +813,7 @@ x-co-op: No
 
 
 game: Blaster Master Zero (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Blaster Master Zero (USA) (En,Ja)/Blaster Master Zero (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/Blaster Master Zero (USA) (En,Ja)/Blaster Master Zero (USA) (En,Ja).json
 developer: Inti Creates
 publisher: Inti Creates
 genre: Action;Adventure;Platform;Shooter
@@ -840,7 +840,7 @@ x-co-op: Yes
 
 
 game: Blaster Master Zero 2 (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Blaster Master Zero 2 (USA) (En,Ja)/Blaster Master Zero 2 (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/Blaster Master Zero 2 (USA) (En,Ja)/Blaster Master Zero 2 (USA) (En,Ja).json
 developer: INTI CREATES CO., LTD.
 publisher: INTI CREATES CO., LTD.
 genre: Adventure
@@ -871,7 +871,7 @@ x-co-op: Yes
 
 
 game: Blaster Master Zero 3 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Blaster Master Zero 3 (USA)/Blaster Master Zero 3 (USA).json
+file: Nintendo/Nintendo Switch/Blaster Master Zero 3 (USA)/Blaster Master Zero 3 (USA).json
 developer: INTI CREATES CO., LTD.
 publisher: INTI CREATES CO., LTD.
 genre: Action;Adventure;Platform
@@ -897,7 +897,7 @@ x-co-op: Yes
 
 
 game: Blazing Chrome (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Blazing Chrome (USA)/Blazing Chrome (USA).json
+file: Nintendo/Nintendo Switch/Blazing Chrome (USA)/Blazing Chrome (USA).json
 developer: JoyMasher
 publisher: Limited Run Games
 genre: Action;Platform;Shooter
@@ -932,7 +932,7 @@ x-co-op: Yes
 
 
 game: Bloodrayne - ReVamped (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bloodrayne - ReVamped (USA)/Bloodrayne - ReVamped (USA).json
+file: Nintendo/Nintendo Switch/Bloodrayne - ReVamped (USA)/Bloodrayne - ReVamped (USA).json
 developer: Terminal Reality, Inc.
 publisher: Limited Run Games
 genre: Action;Platform
@@ -974,7 +974,7 @@ x-co-op: No
 
 
 game: Bloodrayne 2 - ReVamped (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bloodrayne 2 - ReVamped (USA)/Bloodrayne 2 - ReVamped (USA).json
+file: Nintendo/Nintendo Switch/Bloodrayne 2 - ReVamped (USA)/Bloodrayne 2 - ReVamped (USA).json
 developer: Terminal Reality, Inc.
 publisher: Limited Run Games
 genre: Action;Adventure;Fighting;Platform
@@ -1013,7 +1013,7 @@ x-co-op: No
 
 
 game: Bloodrayne Betrayal - Fresh Bites (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bloodrayne Betrayal - Fresh Bites (USA)/Bloodrayne Betrayal - Fresh Bites (USA).json
+file: Nintendo/Nintendo Switch/Bloodrayne Betrayal - Fresh Bites (USA)/Bloodrayne Betrayal - Fresh Bites (USA).json
 developer: WayForward Technologies
 publisher: Majesco
 genre: Action;Adventure;Platform;Horror
@@ -1042,7 +1042,7 @@ x-co-op: No
 
 
 game: Bloodstained - Curse of the Moon (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bloodstained - Curse of the Moon (USA) (En,Ja)/Bloodstained - Curse of the Moon (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/Bloodstained - Curse of the Moon (USA) (En,Ja)/Bloodstained - Curse of the Moon (USA) (En,Ja).json
 developer: INTI CREATES CO., LTD.
 publisher: Limited Run Games
 genre: Action;Platform
@@ -1065,7 +1065,7 @@ x-co-op: Yes
 
 
 game: Bloodstained - Curse of the Moon 2 (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bloodstained - Curse of the Moon 2 (USA) (En,Ja)/Bloodstained - Curse of the Moon 2 (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/Bloodstained - Curse of the Moon 2 (USA) (En,Ja)/Bloodstained - Curse of the Moon 2 (USA) (En,Ja).json
 developer: Inti Creates
 publisher: Inti Creates
 genre: Action;Platform
@@ -1100,7 +1100,7 @@ x-co-op: Yes
 
 
 game: Blossom Tales - The Sleeping King (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Blossom Tales - The Sleeping King (USA)/Blossom Tales - The Sleeping King (USA).json
+file: Nintendo/Nintendo Switch/Blossom Tales - The Sleeping King (USA)/Blossom Tales - The Sleeping King (USA).json
 developer: Castle Pixel, LLC.
 publisher: FDG Entertainment
 genre: Action;Adventure;Role-Playing
@@ -1123,7 +1123,7 @@ x-co-op: No
 
 
 game: Bomb Chicken (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bomb Chicken (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru)/Bomb Chicken (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Bomb Chicken (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru)/Bomb Chicken (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru).json
 developer: Nitrome
 publisher: Limited Run Games
 genre: Action;Platform;Puzzle
@@ -1148,7 +1148,7 @@ x-co-op: No
 
 
 game: Broken Age (USA) (En,Fr,De,Es,It,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Broken Age (USA) (En,Fr,De,Es,It,Ru)/Broken Age (USA) (En,Fr,De,Es,It,Ru).json
+file: Nintendo/Nintendo Switch/Broken Age (USA) (En,Fr,De,Es,It,Ru)/Broken Age (USA) (En,Fr,De,Es,It,Ru).json
 developer: Double Fine Productions
 publisher: Double Fine Productions
 genre: Adventure
@@ -1168,7 +1168,7 @@ x-co-op: No
 
 
 game: Brothers - A Tale of Two Sons (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Brothers - A Tale of Two Sons (Europe)/Brothers - A Tale of Two Sons (Europe).json
+file: Nintendo/Nintendo Switch/Brothers - A Tale of Two Sons (Europe)/Brothers - A Tale of Two Sons (Europe).json
 developer: Starbreeze
 publisher: 505 Games
 genre: Adventure;Puzzle
@@ -1195,7 +1195,7 @@ x-co-op: Yes
 
 
 game: Bubble Bobble 4 Friends (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bubble Bobble 4 Friends (Europe)/Bubble Bobble 4 Friends (Europe).json
+file: Nintendo/Nintendo Switch/Bubble Bobble 4 Friends (Europe)/Bubble Bobble 4 Friends (Europe).json
 developer: Taito Corporation
 publisher: ININ Games
 genre: Action;Platform
@@ -1231,7 +1231,7 @@ x-co-op: Yes
 
 
 game: Bug Fables - The Everlasting Sapling (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Bug Fables - The Everlasting Sapling (USA)/Bug Fables - The Everlasting Sapling (USA).json
+file: Nintendo/Nintendo Switch/Bug Fables - The Everlasting Sapling (USA)/Bug Fables - The Everlasting Sapling (USA).json
 developer: Moonsprout Games
 publisher: DANGEN Entertainment
 genre: Action;Role-Playing
@@ -1287,7 +1287,7 @@ x-co-op: No
 
 
 game: Cadence of Hyrule - Crypt of the NecroDancer (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Cadence of Hyrule - Crypt of the NecroDancer (USA, Europe)/Cadence of Hyrule - Crypt of the NecroDancer (USA, Europe).json
+file: Nintendo/Nintendo Switch/Cadence of Hyrule - Crypt of the NecroDancer (USA, Europe)/Cadence of Hyrule - Crypt of the NecroDancer (USA, Europe).json
 developer: Brace Yourself Games
 publisher: Nintendo
 genre: Action;Adventure
@@ -1321,7 +1321,7 @@ x-co-op: Yes
 
 
 game: Call of Cthulhu - The Official Video Game (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Call of Cthulhu - The Official Video Game (USA, Europe)/Call of Cthulhu - The Official Video Game (USA, Europe).json
+file: Nintendo/Nintendo Switch/Call of Cthulhu - The Official Video Game (USA, Europe)/Call of Cthulhu - The Official Video Game (USA, Europe).json
 developer: Cyanide
 publisher: Focus Home Interactive
 genre: Horror
@@ -1341,7 +1341,7 @@ x-co-op: No
 
 
 game: Carrion (USA) (En,Ja,Fr,De,Es,Zh,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Carrion (USA) (En,Ja,Fr,De,Es,Zh,Ko,Ru)/Carrion (USA) (En,Ja,Fr,De,Es,Zh,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Carrion (USA) (En,Ja,Fr,De,Es,Zh,Ko,Ru)/Carrion (USA) (En,Ja,Fr,De,Es,Zh,Ko,Ru).json
 developer: Phobia Game Studio
 publisher: Devolver Digital
 genre: Action
@@ -1363,7 +1363,7 @@ x-co-op: No
 
 
 game: Castlevania - Anniversary Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Castlevania - Anniversary Collection (USA)/Castlevania - Anniversary Collection (USA).json
+file: Nintendo/Nintendo Switch/Castlevania - Anniversary Collection (USA)/Castlevania - Anniversary Collection (USA).json
 developer: Konami
 publisher: Konami
 genre: Adventure;Platform
@@ -1406,7 +1406,7 @@ x-co-op: No
 
 
 game: Cat Quest (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ru,Th)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Cat Quest (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ru,Th)/Cat Quest (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ru,Th).json
+file: Nintendo/Nintendo Switch/Cat Quest (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ru,Th)/Cat Quest (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ru,Th).json
 developer: PQube
 publisher: The Gentlebros
 genre: Action;Adventure
@@ -1445,7 +1445,7 @@ x-co-op: No
 
 
 game: Catlateral Damage - Remeowstered (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Catlateral Damage - Remeowstered (USA)/Catlateral Damage - Remeowstered (USA).json
+file: Nintendo/Nintendo Switch/Catlateral Damage - Remeowstered (USA)/Catlateral Damage - Remeowstered (USA).json
 developer: Fire Hose Games
 publisher: Fire Hose Games
 genre: Action;Life Simulation;Platform
@@ -1491,7 +1491,7 @@ x-co-op: No
 
 
 game: Celeste (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Celeste (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)/Celeste (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1).json
+file: Nintendo/Nintendo Switch/Celeste (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)/Celeste (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1).json
 developer: Matt Makes Games Inc.
 publisher: Matt Makes Games Inc.
 genre: Action;Platform
@@ -1526,7 +1526,7 @@ x-co-op: No
 
 
 game: Chasm (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Chasm (USA)/Chasm (USA).json
+file: Nintendo/Nintendo Switch/Chasm (USA)/Chasm (USA).json
 developer: Bit Kid, Inc.
 publisher: Leadman Games
 genre: Action;Adventure;Platform;Role-Playing
@@ -1555,7 +1555,7 @@ x-co-op: No
 
 
 game: Child of Light - Ultimate Edition + Valiant Hearts (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Child of Light - Ultimate Edition + Valiant Hearts (Europe)/Child of Light - Ultimate Edition + Valiant Hearts (Europe).json
+file: Nintendo/Nintendo Switch/Child of Light - Ultimate Edition + Valiant Hearts (Europe)/Child of Light - Ultimate Edition + Valiant Hearts (Europe).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Adventure;Role-Playing;Strategy;Platform
@@ -1587,7 +1587,7 @@ x-co-op: No
 
 
 game: Chroma Squad (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Chroma Squad (Europe)/Chroma Squad (Europe).json
+file: Nintendo/Nintendo Switch/Chroma Squad (Europe)/Chroma Squad (Europe).json
 developer: Behold Studios Jogos Eletronicos Ltda ME
 publisher: Plug In Digital
 genre: Role-Playing;Strategy
@@ -1631,7 +1631,7 @@ x-co-op: No
 
 
 game: Chrono Cross - The Radical Dreamers Edition (Asia) (En,Zh,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Chrono Cross - The Radical Dreamers Edition (Asia) (En,Zh,Ko)/Chrono Cross - The Radical Dreamers Edition (Asia) (En,Zh,Ko).json
+file: Nintendo/Nintendo Switch/Chrono Cross - The Radical Dreamers Edition (Asia) (En,Zh,Ko)/Chrono Cross - The Radical Dreamers Edition (Asia) (En,Zh,Ko).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -1692,7 +1692,7 @@ x-co-op: No
 
 
 game: Coffee Talk (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Coffee Talk (Europe)/Coffee Talk (Europe).json
+file: Nintendo/Nintendo Switch/Coffee Talk (Europe)/Coffee Talk (Europe).json
 developer: Toge Productions
 publisher: Toge Productions
 genre: Adventure;Life Simulation
@@ -1719,7 +1719,7 @@ x-co-op: No
 
 
 game: Collection of Mana (USA, Europe) (En,Fr,De)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Collection of Mana (USA, Europe) (En,Fr,De)/Collection of Mana (USA, Europe) (En,Fr,De).json
+file: Nintendo/Nintendo Switch/Collection of Mana (USA, Europe) (En,Fr,De)/Collection of Mana (USA, Europe) (En,Fr,De).json
 developer: Square Enix
 publisher: Square Enix Co., Ltd.
 genre: Action;Adventure;Role-Playing
@@ -1751,7 +1751,7 @@ x-co-op: No
 
 
 game: Coma, The - Recut (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Coma, The - Recut (USA)/Coma, The - Recut (USA).json
+file: Nintendo/Nintendo Switch/Coma, The - Recut (USA)/Coma, The - Recut (USA).json
 developer: Devespresso Games
 publisher: Devespresso Games
 genre: Action;Adventure
@@ -1772,7 +1772,7 @@ x-co-op: No
 
 
 game: Contra Anniversary Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Contra Anniversary Collection (USA)/Contra Anniversary Collection (USA).json
+file: Nintendo/Nintendo Switch/Contra Anniversary Collection (USA)/Contra Anniversary Collection (USA).json
 developer: Konami
 publisher: Limited Run Games
 genre: Action;Platform
@@ -1818,7 +1818,7 @@ x-co-op: Yes
 
 
 game: Corpse Killer - 25th Anniversary Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Corpse Killer - 25th Anniversary Edition (USA)/Corpse Killer - 25th Anniversary Edition (USA).json
+file: Nintendo/Nintendo Switch/Corpse Killer - 25th Anniversary Edition (USA)/Corpse Killer - 25th Anniversary Edition (USA).json
 developer: Digital Pictures
 publisher: Limited Run Games
 genre: Action
@@ -1850,7 +1850,7 @@ x-co-op: No
 
 
 game: Cosmic Star Heroine (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Cosmic Star Heroine (USA)/Cosmic Star Heroine (USA).json
+file: Nintendo/Nintendo Switch/Cosmic Star Heroine (USA)/Cosmic Star Heroine (USA).json
 developer: Zeboyd Games
 publisher: Limited Run Games
 genre: Role-Playing
@@ -1884,7 +1884,7 @@ x-co-op: No
 
 
 game: Creaks (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Creaks (Europe)/Creaks (Europe).json
+file: Nintendo/Nintendo Switch/Creaks (Europe)/Creaks (Europe).json
 developer: Amanita Design
 publisher: Amanita Design
 genre: Adventure
@@ -1912,7 +1912,7 @@ x-co-op: No
 
 
 game: CrossCode (USA, Europe) (En,Ja,De,Zh-Hans,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/CrossCode (USA, Europe) (En,Ja,De,Zh-Hans,Ko)/CrossCode (USA, Europe) (En,Ja,De,Zh-Hans,Ko).json
+file: Nintendo/Nintendo Switch/CrossCode (USA, Europe) (En,Ja,De,Zh-Hans,Ko)/CrossCode (USA, Europe) (En,Ja,De,Zh-Hans,Ko).json
 developer: Radical Fish Games
 publisher: Deck13
 genre: Action;Platform
@@ -1953,7 +1953,7 @@ x-co-op: No
 
 
 game: Crossing Souls (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Crossing Souls (USA)/Crossing Souls (USA).json
+file: Nintendo/Nintendo Switch/Crossing Souls (USA)/Crossing Souls (USA).json
 developer: fourattic
 publisher: Devolver Digital
 genre: Action;Adventure
@@ -1981,7 +1981,7 @@ x-co-op: No
 
 
 game: Cthulhu Saves Christmas (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Cthulhu Saves Christmas (USA)/Cthulhu Saves Christmas (USA).json
+file: Nintendo/Nintendo Switch/Cthulhu Saves Christmas (USA)/Cthulhu Saves Christmas (USA).json
 developer: Zeboyd Games
 publisher: Limited Run Games
 genre: Role-Playing
@@ -2027,7 +2027,7 @@ x-co-op: No
 
 
 game: Dandara - Trials of Fear Edition (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dandara - Trials of Fear Edition (Europe)/Dandara - Trials of Fear Edition (Europe).json
+file: Nintendo/Nintendo Switch/Dandara - Trials of Fear Edition (Europe)/Dandara - Trials of Fear Edition (Europe).json
 developer: Long Hat House
 publisher: Raw Fury
 genre: Action;Adventure;Platform
@@ -2074,7 +2074,7 @@ x-co-op: No
 
 
 game: Danmaku Unlimited 3 (USA) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Danmaku Unlimited 3 (USA) (En,Fr)/Danmaku Unlimited 3 (USA) (En,Fr).json
+file: Nintendo/Nintendo Switch/Danmaku Unlimited 3 (USA) (En,Fr)/Danmaku Unlimited 3 (USA) (En,Fr).json
 developer: Doragon Entertainment
 publisher: Doragon Entertainment
 genre: Shooter
@@ -2110,7 +2110,7 @@ x-co-op: No
 
 
 game: Darius Cozmic Collection Console (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Darius Cozmic Collection Console (Europe)/Darius Cozmic Collection Console (Europe).json
+file: Nintendo/Nintendo Switch/Darius Cozmic Collection Console (Europe)/Darius Cozmic Collection Console (Europe).json
 developer: M2
 publisher: ININ Games
 genre: Shooter
@@ -2144,7 +2144,7 @@ x-co-op: No
 
 
 game: Dark Devotion (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dark Devotion (USA)/Dark Devotion (USA).json
+file: Nintendo/Nintendo Switch/Dark Devotion (USA)/Dark Devotion (USA).json
 developer: Hibernian Workshop
 publisher: DotEmu
 genre: Action;Adventure;Role-Playing;Platform
@@ -2163,7 +2163,7 @@ x-co-op: No
 
 
 game: Darkside Detective, The (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Darkside Detective, The (Europe)/Darkside Detective, The (Europe).json
+file: Nintendo/Nintendo Switch/Darkside Detective, The (Europe)/Darkside Detective, The (Europe).json
 developer: Spooky Doorway
 publisher: Isometric Dreams
 genre: Adventure;Puzzle
@@ -2202,7 +2202,7 @@ x-co-op: No
 
 
 game: Darkwood (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Darkwood (Europe)/Darkwood (Europe).json
+file: Nintendo/Nintendo Switch/Darkwood (Europe)/Darkwood (Europe).json
 developer: Crunching Koalas
 publisher: Crunching Koalas
 genre: Adventure;Role-Playing
@@ -2244,7 +2244,7 @@ x-co-op: No
 
 
 game: Darq - Complete Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Darq - Complete Edition (USA)/Darq - Complete Edition (USA).json
+file: Nintendo/Nintendo Switch/Darq - Complete Edition (USA)/Darq - Complete Edition (USA).json
 developer: Unfold Games
 publisher: Feardemic
 genre: Action;Platform;Puzzle;Strategy
@@ -2274,7 +2274,7 @@ x-co-op: No
 
 
 game: Deponia Collection (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Deponia Collection (Europe)/Deponia Collection (Europe).json
+file: Nintendo/Nintendo Switch/Deponia Collection (Europe)/Deponia Collection (Europe).json
 developer: Daedalic Entertainment
 publisher: Super Rare Games
 genre: Adventure
@@ -2305,7 +2305,7 @@ x-co-op: No
 
 
 game: Diablo III - Eternal Collection (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Diablo III - Eternal Collection (USA, Europe)/Diablo III - Eternal Collection (USA, Europe).json
+file: Nintendo/Nintendo Switch/Diablo III - Eternal Collection (USA, Europe)/Diablo III - Eternal Collection (USA, Europe).json
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
 genre: Action;Role-Playing
@@ -2342,7 +2342,7 @@ x-co-op: Yes
 
 
 game: Divinity Original Sin II - Definitive Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Divinity Original Sin II - Definitive Edition (USA)/Divinity Original Sin II - Definitive Edition (USA).json
+file: Nintendo/Nintendo Switch/Divinity Original Sin II - Definitive Edition (USA)/Divinity Original Sin II - Definitive Edition (USA).json
 developer: Larian Studios
 publisher: Larian Studios
 genre: Adventure;Role-Playing;Strategy
@@ -2366,7 +2366,7 @@ x-co-op: Yes
 
 
 game: Dogworld (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dogworld (Europe)/Dogworld (Europe).json
+file: Nintendo/Nintendo Switch/Dogworld (Europe)/Dogworld (Europe).json
 developer: Lateralis
 publisher: Lateralis
 genre: Action
@@ -2393,7 +2393,7 @@ x-co-op: No
 
 
 game: Doom 64 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Doom 64 (USA)/Doom 64 (USA).json
+file: Nintendo/Nintendo Switch/Doom 64 (USA)/Doom 64 (USA).json
 developer: Midway Studios - San Diego
 publisher: Midway
 genre: Shooter
@@ -2416,7 +2416,7 @@ x-co-op: No
 
 
 game: Door Kickers - Action Squad (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Door Kickers - Action Squad (Europe)/Door Kickers - Action Squad (Europe).json
+file: Nintendo/Nintendo Switch/Door Kickers - Action Squad (Europe)/Door Kickers - Action Squad (Europe).json
 developer: KillHouse Games
 publisher: KillHouse Games
 genre: Action;Platform
@@ -2458,7 +2458,7 @@ x-co-op: Yes
 
 
 game: Double Dragon & Kunio-Kun Retro Brawler Bundle (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Double Dragon & Kunio-Kun Retro Brawler Bundle (USA)/Double Dragon & Kunio-Kun Retro Brawler Bundle (USA).json
+file: Nintendo/Nintendo Switch/Double Dragon & Kunio-Kun Retro Brawler Bundle (USA)/Double Dragon & Kunio-Kun Retro Brawler Bundle (USA).json
 developer: Technos Japan Corp.
 publisher: Arc System Works Co., Ltd.
 genre: Action;Fighting;Sports
@@ -2527,7 +2527,7 @@ x-co-op: Yes
 
 
 game: Double Dragon IV (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Double Dragon IV (USA)/Double Dragon IV (USA).json
+file: Nintendo/Nintendo Switch/Double Dragon IV (USA)/Double Dragon IV (USA).json
 developer: Arc System Works Co., Ltd.
 publisher: Arc System Works Co., Ltd.
 genre: Beat 'em Up
@@ -2559,7 +2559,7 @@ x-co-op: Yes
 
 
 game: Double Dragon Neon (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Double Dragon Neon (USA)/Double Dragon Neon (USA).json
+file: Nintendo/Nintendo Switch/Double Dragon Neon (USA)/Double Dragon Neon (USA).json
 developer: WayForward Technologies
 publisher: Majesco Entertainment
 genre: Beat 'em Up
@@ -2597,7 +2597,7 @@ x-co-op: Yes
 
 
 game: Double Switch - 25th Anniversary Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Double Switch - 25th Anniversary Edition (USA)/Double Switch - 25th Anniversary Edition (USA).json
+file: Nintendo/Nintendo Switch/Double Switch - 25th Anniversary Edition (USA)/Double Switch - 25th Anniversary Edition (USA).json
 developer: Digital Pictures | Screaming Villains
 publisher: Limited Run Games
 genre: Action;Adventure
@@ -2633,7 +2633,7 @@ x-co-op: No
 
 
 game: Downwell (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Downwell (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Downwell (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Downwell (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Downwell (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
 developer: Moppin
 publisher: Devolver Digital
 genre: Platform;Shooter
@@ -2655,7 +2655,7 @@ x-co-op: No
 
 
 game: Dragon Quest 1+2+3 Collection (Asia) (En,Zh,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dragon Quest 1+2+3 Collection (Asia) (En,Zh,Ko)/Dragon Quest 1+2+3 Collection (Asia) (En,Zh,Ko).json
+file: Nintendo/Nintendo Switch/Dragon Quest 1+2+3 Collection (Asia) (En,Zh,Ko)/Dragon Quest 1+2+3 Collection (Asia) (En,Zh,Ko).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -2702,7 +2702,7 @@ x-co-op: No
 
 
 game: Dragon Quest Builders (USA, Europe) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dragon Quest Builders (USA, Europe) (En,Fr,De,Es,It)/Dragon Quest Builders (USA, Europe) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Dragon Quest Builders (USA, Europe) (En,Fr,De,Es,It)/Dragon Quest Builders (USA, Europe) (En,Fr,De,Es,It).json
 developer: Square Enix Co., Ltd.
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -2734,7 +2734,7 @@ x-co-op: No
 
 
 game: Dragon Quest Builders 2 (USA, Europe) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dragon Quest Builders 2 (USA, Europe) (En,Fr,De,Es,It)/Dragon Quest Builders 2 (USA, Europe) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Dragon Quest Builders 2 (USA, Europe) (En,Fr,De,Es,It)/Dragon Quest Builders 2 (USA, Europe) (En,Fr,De,Es,It).json
 developer: Square Enix Co., Ltd.
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -2760,7 +2760,7 @@ x-co-op: No
 
 
 game: Dragon's Lair Trilogy (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dragon's Lair Trilogy (USA)/Dragon's Lair Trilogy (USA).json
+file: Nintendo/Nintendo Switch/Dragon's Lair Trilogy (USA)/Dragon's Lair Trilogy (USA).json
 developer: Digital Leisure
 publisher: Digital Leisure
 genre: Action;Adventure
@@ -2788,7 +2788,7 @@ x-co-op: No
 
 
 game: Duck Game (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Duck Game (USA)/Duck Game (USA).json
+file: Nintendo/Nintendo Switch/Duck Game (USA)/Duck Game (USA).json
 developer: Landon Podbielski
 publisher: Adult Swim Games
 genre: Action;Shooter
@@ -2807,7 +2807,7 @@ x-co-op: No
 
 
 game: Dusk (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dusk (USA)/Dusk (USA).json
+file: Nintendo/Nintendo Switch/Dusk (USA)/Dusk (USA).json
 developer: New Blood Interactive
 publisher: New Blood Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -2841,7 +2841,7 @@ x-co-op: No
 
 
 game: Dust - An Elysian Tail (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Dust - An Elysian Tail (USA) (En,Ja,Fr,De,Es,It)/Dust - An Elysian Tail (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Dust - An Elysian Tail (USA) (En,Ja,Fr,De,Es,It)/Dust - An Elysian Tail (USA) (En,Ja,Fr,De,Es,It).json
 developer: Humble Hearts
 publisher: Limited Run Games
 genre: Action;Adventure;Platform;Role-Playing
@@ -2873,7 +2873,7 @@ x-co-op: No
 
 
 game: Earthlock (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Earthlock (Europe)/Earthlock (Europe).json
+file: Nintendo/Nintendo Switch/Earthlock (Europe)/Earthlock (Europe).json
 developer: Snow Castle Games
 publisher: CrossFunction Co., Ltd.
 genre: Role-Playing
@@ -2899,7 +2899,7 @@ x-co-op: No
 
 
 game: Enter the Gungeon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Ru) (Rev 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Enter the Gungeon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Ru) (Rev 2)/Enter the Gungeon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Ru) (Rev 2).json
+file: Nintendo/Nintendo Switch/Enter the Gungeon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Ru) (Rev 2)/Enter the Gungeon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Ru) (Rev 2).json
 developer: Dodge Roll
 publisher: Devolver Digital
 genre: Shooter
@@ -2946,7 +2946,7 @@ x-co-op: Yes
 
 
 game: Escapists, The - Complete Edition (USA) (En,Fr,De,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Escapists, The - Complete Edition (USA) (En,Fr,De,Es)/Escapists, The - Complete Edition (USA) (En,Fr,De,Es).json
+file: Nintendo/Nintendo Switch/Escapists, The - Complete Edition (USA) (En,Fr,De,Es)/Escapists, The - Complete Edition (USA) (En,Fr,De,Es).json
 developer: Mouldy Toof Studios
 publisher: Team 17 Digital Ltd
 genre: Puzzle;Role-Playing
@@ -2970,7 +2970,7 @@ x-co-op: No
 
 
 game: Etrian Odyssey Origins Collection (Asia) (En,Ja,Zh)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Etrian Odyssey Origins Collection (Asia) (En,Ja,Zh)/Etrian Odyssey Origins Collection (Asia) (En,Ja,Zh).json
+file: Nintendo/Nintendo Switch/Etrian Odyssey Origins Collection (Asia) (En,Ja,Zh)/Etrian Odyssey Origins Collection (Asia) (En,Ja,Zh).json
 players: 1
 assets.boxfront: BoxFront/Etrian Odyssey Origins Collection (Asia) (En,Ja,Zh).jpg
 assets.boxback: BoxBack/Etrian Odyssey Origins Collection (Asia) (En,Ja,Zh).jpg
@@ -2980,7 +2980,7 @@ x-co-op: No
 
 
 game: Evoland Legendary Edition (Europe) (En,Ja,Fr,De)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Evoland Legendary Edition (Europe) (En,Ja,Fr,De)/Evoland Legendary Edition (Europe) (En,Ja,Fr,De).json
+file: Nintendo/Nintendo Switch/Evoland Legendary Edition (Europe) (En,Ja,Fr,De)/Evoland Legendary Edition (Europe) (En,Ja,Fr,De).json
 developer: Shiro Games
 publisher: Shiro Games
 genre: Action;Adventure;Role-Playing
@@ -3013,7 +3013,7 @@ x-co-op: No
 
 
 game: Fairune Collection (Europe) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fairune Collection (Europe) (En,Ja)/Fairune Collection (Europe) (En,Ja).json
+file: Nintendo/Nintendo Switch/Fairune Collection (Europe) (En,Ja)/Fairune Collection (Europe) (En,Ja).json
 developer: SKIPMORE
 publisher: Flyhigh Works
 genre: Action;Role-Playing;Shooter
@@ -3047,7 +3047,7 @@ x-co-op: No
 
 
 game: Fairy Fencer F - Advent Dark Force (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fairy Fencer F - Advent Dark Force (USA)/Fairy Fencer F - Advent Dark Force (USA).json
+file: Nintendo/Nintendo Switch/Fairy Fencer F - Advent Dark Force (USA)/Fairy Fencer F - Advent Dark Force (USA).json
 developer: Compile Heart
 publisher: Idea Factory
 genre: Role-Playing
@@ -3072,7 +3072,7 @@ x-co-op: No
 
 
 game: Fallen Legion - Rise to Glory (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fallen Legion - Rise to Glory (USA, Europe)/Fallen Legion - Rise to Glory (USA, Europe).json
+file: Nintendo/Nintendo Switch/Fallen Legion - Rise to Glory (USA, Europe)/Fallen Legion - Rise to Glory (USA, Europe).json
 developer: YummyYummyTummy
 publisher: NIS America
 genre: Action;Role-Playing
@@ -3094,7 +3094,7 @@ x-co-op: No
 
 
 game: Fatal Frame - Maiden of Black Water (Japan) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fatal Frame - Maiden of Black Water (Japan) (En,Ja)/Fatal Frame - Maiden of Black Water (Japan) (En,Ja).json
+file: Nintendo/Nintendo Switch/Fatal Frame - Maiden of Black Water (Japan) (En,Ja)/Fatal Frame - Maiden of Black Water (Japan) (En,Ja).json
 developer: Koei Tecmo
 publisher: KOEI TECMO AMERICA
 genre: Adventure
@@ -3136,7 +3136,7 @@ x-co-op: No
 
 
 game: Fatal Frame - Mask of the Lunar Eclipse (Asia) (En,Ja,Zh)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fatal Frame - Mask of the Lunar Eclipse (Asia) (En,Ja,Zh)/Fatal Frame - Mask of the Lunar Eclipse (Asia) (En,Ja,Zh).json
+file: Nintendo/Nintendo Switch/Fatal Frame - Mask of the Lunar Eclipse (Asia) (En,Ja,Zh)/Fatal Frame - Mask of the Lunar Eclipse (Asia) (En,Ja,Zh).json
 players: 1
 assets.boxfront: BoxFront/Fatal Frame - Mask of the Lunar Eclipse (Asia) (En,Ja,Zh).jpg
 assets.boxback: BoxBack/Fatal Frame - Mask of the Lunar Eclipse (Asia) (En,Ja,Zh).jpg
@@ -3146,7 +3146,7 @@ x-co-op: No
 
 
 game: Fight Crab (Japan) (En,Ja,Zh) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fight Crab (Japan) (En,Ja,Zh) (Rev 1)/Fight Crab (Japan) (En,Ja,Zh) (Rev 1).json
+file: Nintendo/Nintendo Switch/Fight Crab (Japan) (En,Ja,Zh) (Rev 1)/Fight Crab (Japan) (En,Ja,Zh) (Rev 1).json
 developer: Calappa Games
 publisher: Mastiff
 genre: Action;Fighting
@@ -3184,7 +3184,7 @@ x-co-op: Yes
 
 
 game: Final Fantasy IX (Asia) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Final Fantasy IX (Asia) (En,Ja)/Final Fantasy IX (Asia) (En,Ja).json
+file: Nintendo/Nintendo Switch/Final Fantasy IX (Asia) (En,Ja)/Final Fantasy IX (Asia) (En,Ja).json
 developer: GUILD STUDIO Inc.
 publisher: Square Enix
 genre: Role-Playing
@@ -3240,7 +3240,7 @@ x-co-op: No
 
 
 game: Final Fantasy VII + Final Fantasy VIII Remastered Twin Pack (Asia) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Final Fantasy VII + Final Fantasy VIII Remastered Twin Pack (Asia) (En,Ja)/Final Fantasy VII + Final Fantasy VIII Remastered Twin Pack (Asia) (En,Ja).json
+file: Nintendo/Nintendo Switch/Final Fantasy VII + Final Fantasy VIII Remastered Twin Pack (Asia) (En,Ja)/Final Fantasy VII + Final Fantasy VIII Remastered Twin Pack (Asia) (En,Ja).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -3315,7 +3315,7 @@ x-co-op: No
 
 
 game: Final Fantasy X + X-2 HD Remaster (Japan) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Final Fantasy X + X-2 HD Remaster (Japan) (En,Ja)/Final Fantasy X + X-2 HD Remaster (Japan) (En,Ja).json
+file: Nintendo/Nintendo Switch/Final Fantasy X + X-2 HD Remaster (Japan) (En,Ja)/Final Fantasy X + X-2 HD Remaster (Japan) (En,Ja).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -3334,7 +3334,7 @@ x-co-op: No
 
 
 game: Final Fantasy XII - The Zodiac Age (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Final Fantasy XII - The Zodiac Age (World)/Final Fantasy XII - The Zodiac Age (World).json
+file: Nintendo/Nintendo Switch/Final Fantasy XII - The Zodiac Age (World)/Final Fantasy XII - The Zodiac Age (World).json
 developer: Square Enix Co., Ltd.
 publisher: Square Enix
 genre: Role-Playing
@@ -3403,7 +3403,7 @@ x-co-op: No
 
 
 game: Fitness Boxing (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fitness Boxing (USA)/Fitness Boxing (USA).json
+file: Nintendo/Nintendo Switch/Fitness Boxing (USA)/Fitness Boxing (USA).json
 developer: Imagineer Co.,Ltd.
 publisher: Nintendo
 genre: Miscellaneous;Exercise / Fitness
@@ -3439,7 +3439,7 @@ x-co-op: No
 
 
 game: Fitness Boxing 2 - Rhythm & Exercise (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fitness Boxing 2 - Rhythm & Exercise (USA)/Fitness Boxing 2 - Rhythm & Exercise (USA).json
+file: Nintendo/Nintendo Switch/Fitness Boxing 2 - Rhythm & Exercise (USA)/Fitness Boxing 2 - Rhythm & Exercise (USA).json
 developer: Jupiter Corporation
 publisher: Nintendo
 genre: Miscellaneous;Exercise / Fitness
@@ -3465,7 +3465,7 @@ x-co-op: No
 
 
 game: Flame in the Flood, The (Europe) (En,Fr,De,Es,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Flame in the Flood, The (Europe) (En,Fr,De,Es,Pt,Ru)/Flame in the Flood, The (Europe) (En,Fr,De,Es,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Flame in the Flood, The (Europe) (En,Fr,De,Es,Pt,Ru)/Flame in the Flood, The (Europe) (En,Fr,De,Es,Pt,Ru).json
 developer: The Molasses Flood
 publisher: Curve Digital
 genre: Adventure
@@ -3492,7 +3492,7 @@ x-co-op: No
 
 
 game: Flinthook (USA) (En,Ja,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Flinthook (USA) (En,Ja,Fr)/Flinthook (USA) (En,Ja,Fr).json
+file: Nintendo/Nintendo Switch/Flinthook (USA) (En,Ja,Fr)/Flinthook (USA) (En,Ja,Fr).json
 developer: Tribute Games Inc.
 publisher: Tribute Games
 genre: Action;Adventure;Platform
@@ -3546,7 +3546,7 @@ x-co-op: No
 
 
 game: Flower Collectors, The + The Lion's Song (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Flower Collectors, The + The Lion's Song (Europe)/Flower Collectors, The + The Lion's Song (Europe).json
+file: Nintendo/Nintendo Switch/Flower Collectors, The + The Lion's Song (Europe)/Flower Collectors, The + The Lion's Song (Europe).json
 developer: Mi'pu'mi Games
 publisher: Super Rare Games
 genre: Adventure
@@ -3590,7 +3590,7 @@ x-co-op: No
 
 
 game: Forgotton Anne (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Forgotton Anne (USA)/Forgotton Anne (USA).json
+file: Nintendo/Nintendo Switch/Forgotton Anne (USA)/Forgotton Anne (USA).json
 developer: ThroughLine Games
 publisher: Square Enix Europe LTD
 genre: Adventure;General
@@ -3630,7 +3630,7 @@ x-co-op: No
 
 
 game: Fox n Forests (Europe) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Fox n Forests (Europe) (En,Fr,De,Es,It)/Fox n Forests (Europe) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Fox n Forests (Europe) (En,Fr,De,Es,It)/Fox n Forests (Europe) (En,Fr,De,Es,It).json
 developer: Bonus Level Entertainment
 publisher: EuroVideo Medien
 genre: Action;Platform
@@ -3649,7 +3649,7 @@ x-co-op: No
 
 
 game: Freedom Finger (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Freedom Finger (Europe)/Freedom Finger (Europe).json
+file: Nintendo/Nintendo Switch/Freedom Finger (Europe)/Freedom Finger (Europe).json
 developer: Wide Right Interactive
 publisher: Wide Right Interactive
 genre: Action;Shooter
@@ -3689,7 +3689,7 @@ x-co-op: No
 
 
 game: Freedom Planet (USA) (En,Ja,Fr,De,Es,Ko) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Freedom Planet (USA) (En,Ja,Fr,De,Es,Ko) (Rev 1)/Freedom Planet (USA) (En,Ja,Fr,De,Es,Ko) (Rev 1).json
+file: Nintendo/Nintendo Switch/Freedom Planet (USA) (En,Ja,Fr,De,Es,Ko) (Rev 1)/Freedom Planet (USA) (En,Ja,Fr,De,Es,Ko) (Rev 1).json
 developer: GalaxyTrail
 publisher: Xseed Games
 genre: Action;Platform
@@ -3719,7 +3719,7 @@ x-co-op: No
 
 
 game: Gardens Between, The (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Gardens Between, The (Europe)/Gardens Between, The (Europe).json
+file: Nintendo/Nintendo Switch/Gardens Between, The (Europe)/Gardens Between, The (Europe).json
 developer: The Voxel Agents
 publisher: The Voxel Agents
 genre: Puzzle
@@ -3745,7 +3745,7 @@ x-co-op: No
 
 
 game: Ghost of a Tale (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ghost of a Tale (Europe)/Ghost of a Tale (Europe).json
+file: Nintendo/Nintendo Switch/Ghost of a Tale (Europe)/Ghost of a Tale (Europe).json
 developer: SeithCG
 publisher: Plug In Digital
 genre: Action;Adventure;Puzzle;Role-Playing
@@ -3778,7 +3778,7 @@ x-co-op: No
 
 
 game: Giga Wrecker Alt. (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Giga Wrecker Alt. (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)/Giga Wrecker Alt. (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Giga Wrecker Alt. (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)/Giga Wrecker Alt. (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).json
 developer: Game Freak
 publisher: Rising Star Games
 genre: Action;Platform;Puzzle
@@ -3817,7 +3817,7 @@ x-co-op: No
 
 
 game: Golf Story (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Golf Story (USA)/Golf Story (USA).json
+file: Nintendo/Nintendo Switch/Golf Story (USA)/Golf Story (USA).json
 developer: Sidebar Games
 publisher: Limited Run Games
 genre: Adventure;Role-Playing;Sports
@@ -3841,7 +3841,7 @@ x-co-op: Yes
 
 
 game: Gone Home (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Gone Home (USA)/Gone Home (USA).json
+file: Nintendo/Nintendo Switch/Gone Home (USA)/Gone Home (USA).json
 developer: Blitworks
 publisher: Annapurna Interactive
 genre: Adventure
@@ -3869,7 +3869,7 @@ x-co-op: No
 
 
 game: Graceful Explosion Machine (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Graceful Explosion Machine (Europe)/Graceful Explosion Machine (Europe).json
+file: Nintendo/Nintendo Switch/Graceful Explosion Machine (Europe)/Graceful Explosion Machine (Europe).json
 developer: Vertex Pop
 publisher: Vertex Pop
 genre: Shooter
@@ -3891,7 +3891,7 @@ x-co-op: No
 
 
 game: Grandia HD Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Grandia HD Collection (USA)/Grandia HD Collection (USA).json
+file: Nintendo/Nintendo Switch/Grandia HD Collection (USA)/Grandia HD Collection (USA).json
 developer: GungHo
 publisher: GungHo America
 genre: Role-Playing
@@ -3911,7 +3911,7 @@ x-co-op: No
 
 
 game: Gris (USA) (En,Ja,Fr,De,Es,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Gris (USA) (En,Ja,Fr,De,Es,Pt,Ru)/Gris (USA) (En,Ja,Fr,De,Es,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Gris (USA) (En,Ja,Fr,De,Es,Pt,Ru)/Gris (USA) (En,Ja,Fr,De,Es,Pt,Ru).json
 developer: Nomada Studio
 publisher: Devolver Digital
 genre: Platform;Puzzle
@@ -3937,7 +3937,7 @@ x-co-op: No
 
 
 game: Guns, Gore & Cannoli 1 & 2 (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Guns, Gore & Cannoli 1 & 2 (Europe)/Guns, Gore & Cannoli 1 & 2 (Europe).json
+file: Nintendo/Nintendo Switch/Guns, Gore & Cannoli 1 & 2 (Europe)/Guns, Gore & Cannoli 1 & 2 (Europe).json
 developer: Crazy Monkey Studios
 publisher: Rogueside
 genre: Action;Shooter
@@ -3970,7 +3970,7 @@ x-co-op: Yes
 
 
 game: Gunvolt Chronicles - Luminous Avenger iX (USA) (En,Ja,Zh,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Gunvolt Chronicles - Luminous Avenger iX (USA) (En,Ja,Zh,Ko)/Gunvolt Chronicles - Luminous Avenger iX (USA) (En,Ja,Zh,Ko).json
+file: Nintendo/Nintendo Switch/Gunvolt Chronicles - Luminous Avenger iX (USA) (En,Ja,Zh,Ko)/Gunvolt Chronicles - Luminous Avenger iX (USA) (En,Ja,Zh,Ko).json
 developer: Inti Creates
 publisher: Inti Creates
 genre: Action;Platform
@@ -4011,7 +4011,7 @@ x-co-op: No
 
 
 game: Has-Been Heroes (World) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Has-Been Heroes (World) (En,Fr,De,Es,It)/Has-Been Heroes (World) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Has-Been Heroes (World) (En,Fr,De,Es,It)/Has-Been Heroes (World) (En,Fr,De,Es,It).json
 developer: Frozenbyte
 publisher: GameTrust Games
 genre: Action;Strategy
@@ -4066,7 +4066,7 @@ x-co-op: No
 
 
 game: Hole New World, A (Europe) (En,Ja,Fr,De,Es,It) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Hole New World, A (Europe) (En,Ja,Fr,De,Es,It) (Rev 1)/Hole New World, A (Europe) (En,Ja,Fr,De,Es,It) (Rev 1).json
+file: Nintendo/Nintendo Switch/Hole New World, A (Europe) (En,Ja,Fr,De,Es,It) (Rev 1)/Hole New World, A (Europe) (En,Ja,Fr,De,Es,It) (Rev 1).json
 developer: Mad Gear Games,S.L.
 publisher: Dolores Entertainment S.L.
 genre: Action;Adventure;Platform
@@ -4098,7 +4098,7 @@ x-co-op: No
 
 
 game: Hollow Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Hollow Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)/Hollow Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1).json
+file: Nintendo/Nintendo Switch/Hollow Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1)/Hollow Knight (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru) (Rev 1).json
 developer: Team Cherry
 publisher: Team Cherry
 genre: Action;Platform
@@ -4132,7 +4132,7 @@ x-co-op: No
 
 
 game: Holy Potatoes! Compendium (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Holy Potatoes! Compendium (USA)/Holy Potatoes! Compendium (USA).json
+file: Nintendo/Nintendo Switch/Holy Potatoes! Compendium (USA)/Holy Potatoes! Compendium (USA).json
 developer: Daylight Studios
 publisher: PM Studios
 genre: Adventure;Construction and Management Simulation
@@ -4161,7 +4161,7 @@ x-co-op: No
 
 
 game: Human - Fall Flat (Europe) (En,Fr,De,Es,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Human - Fall Flat (Europe) (En,Fr,De,Es,Ru)/Human - Fall Flat (Europe) (En,Fr,De,Es,Ru).json
+file: Nintendo/Nintendo Switch/Human - Fall Flat (Europe) (En,Fr,De,Es,Ru)/Human - Fall Flat (Europe) (En,Fr,De,Es,Ru).json
 developer: No Brakes Games
 publisher: Curve Digital
 genre: Platform;Puzzle
@@ -4184,7 +4184,7 @@ x-co-op: Yes
 
 
 game: ITTA (Europe) (En,Ja,Fr,De,Es,Pt,Zh-Hans,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/ITTA (Europe) (En,Ja,Fr,De,Es,Pt,Zh-Hans,Ru)/ITTA (Europe) (En,Ja,Fr,De,Es,Pt,Zh-Hans,Ru).json
+file: Nintendo/Nintendo Switch/ITTA (Europe) (En,Ja,Fr,De,Es,Pt,Zh-Hans,Ru)/ITTA (Europe) (En,Ja,Fr,De,Es,Pt,Zh-Hans,Ru).json
 developer: Bandai Namco Games
 publisher: Bandai Namco Games
 genre: Puzzle
@@ -4241,7 +4241,7 @@ x-co-op: No
 
 
 game: Iconoclasts (USA) (En,Ja,Fr,De,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Iconoclasts (USA) (En,Ja,Fr,De,Es)/Iconoclasts (USA) (En,Ja,Fr,De,Es).json
+file: Nintendo/Nintendo Switch/Iconoclasts (USA) (En,Ja,Fr,De,Es)/Iconoclasts (USA) (En,Ja,Fr,De,Es).json
 developer: Joakim Sandberg
 publisher: Bifrost Entertainment
 genre: Action;Platform
@@ -4279,7 +4279,7 @@ x-co-op: No
 
 
 game: Ion Fury (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ion Fury (USA)/Ion Fury (USA).json
+file: Nintendo/Nintendo Switch/Ion Fury (USA)/Ion Fury (USA).json
 developer: 3D Realms
 publisher: 1C Entertainment
 genre: Action;Shooter
@@ -4329,7 +4329,7 @@ x-co-op: No
 
 
 game: Ittle Dew (Asia) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ittle Dew (Asia) (En,Ja)/Ittle Dew (Asia) (En,Ja).json
+file: Nintendo/Nintendo Switch/Ittle Dew (Asia) (En,Ja)/Ittle Dew (Asia) (En,Ja).json
 developer: Ludosity
 publisher: Ludosity
 genre: Action;Adventure;Puzzle
@@ -4362,7 +4362,7 @@ x-co-op: No
 
 
 game: Joe Dever's Lone Wolf (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Joe Dever's Lone Wolf (Europe)/Joe Dever's Lone Wolf (Europe).json
+file: Nintendo/Nintendo Switch/Joe Dever's Lone Wolf (Europe)/Joe Dever's Lone Wolf (Europe).json
 developer: Forge Reply srl con socio unico
 publisher: Forge Reply
 genre: Adventure;Role-Playing
@@ -4407,7 +4407,7 @@ x-co-op: No
 
 
 game: Just Dance 2019 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Just Dance 2019 (USA)/Just Dance 2019 (USA).json
+file: Nintendo/Nintendo Switch/Just Dance 2019 (USA)/Just Dance 2019 (USA).json
 developer: Ubisoft Paris
 publisher: Ubisoft
 genre: Action;Rhythm;Dancing
@@ -4439,7 +4439,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2020 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Just Dance 2020 (USA)/Just Dance 2020 (USA).json
+file: Nintendo/Nintendo Switch/Just Dance 2020 (USA)/Just Dance 2020 (USA).json
 developer: Ubisoft Paris
 publisher: Ubisoft
 genre: Action;Rhythm;Dancing
@@ -4477,7 +4477,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2021 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Just Dance 2021 (USA)/Just Dance 2021 (USA).json
+file: Nintendo/Nintendo Switch/Just Dance 2021 (USA)/Just Dance 2021 (USA).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Action;Rhythm;Dancing
@@ -4497,7 +4497,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2022 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Just Dance 2022 (USA)/Just Dance 2022 (USA).json
+file: Nintendo/Nintendo Switch/Just Dance 2022 (USA)/Just Dance 2022 (USA).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Action;Rhythm;Dancing
@@ -4523,7 +4523,7 @@ x-co-op: Yes
 
 
 game: Kero Blaster (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Kero Blaster (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)/Kero Blaster (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).json
+file: Nintendo/Nintendo Switch/Kero Blaster (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)/Kero Blaster (Asia) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).json
 developer: Studio Pixel
 publisher: Active Gaming Media
 genre: Action;Platformer;2D
@@ -4557,7 +4557,7 @@ x-co-op: No
 
 
 game: Kingdom - New Lands (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Kingdom - New Lands (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)/Kingdom - New Lands (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Kingdom - New Lands (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)/Kingdom - New Lands (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).json
 developer: Noio
 publisher: Raw Fury
 genre: Action;Construction and Management Simulation;Strategy
@@ -4600,7 +4600,7 @@ x-co-op: No
 
 
 game: Knights of Pen and Paper +1 Deluxier Edition (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Knights of Pen and Paper +1 Deluxier Edition (Europe)/Knights of Pen and Paper +1 Deluxier Edition (Europe).json
+file: Nintendo/Nintendo Switch/Knights of Pen and Paper +1 Deluxier Edition (Europe)/Knights of Pen and Paper +1 Deluxier Edition (Europe).json
 developer: Seaven Studio
 publisher: Plug In Digital
 genre: Role-Playing;General
@@ -4631,7 +4631,7 @@ x-co-op: No
 
 
 game: Knights of Pen and Paper 2 - Deluxiest Edition (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Knights of Pen and Paper 2 - Deluxiest Edition (Europe)/Knights of Pen and Paper 2 - Deluxiest Edition (Europe).json
+file: Nintendo/Nintendo Switch/Knights of Pen and Paper 2 - Deluxiest Edition (Europe)/Knights of Pen and Paper 2 - Deluxiest Edition (Europe).json
 developer: Seaven Studio
 publisher: Plug In Digital
 genre: Role-Playing;General
@@ -4676,7 +4676,7 @@ x-co-op: No
 
 
 game: Kunai (USA, Europe) (En,Fr,De,Es,It,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Kunai (USA, Europe) (En,Fr,De,Es,It,Ru)/Kunai (USA, Europe) (En,Fr,De,Es,It,Ru).json
+file: Nintendo/Nintendo Switch/Kunai (USA, Europe) (En,Fr,De,Es,It,Ru)/Kunai (USA, Europe) (En,Fr,De,Es,It,Ru).json
 developer: TurtleBlaze
 publisher: The Arcade Crew
 genre: Action;Platform
@@ -4731,7 +4731,7 @@ x-co-op: No
 
 
 game: LEGO Worlds (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/LEGO Worlds (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru)/LEGO Worlds (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru).json
+file: Nintendo/Nintendo Switch/LEGO Worlds (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru)/LEGO Worlds (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru).json
 developer: Travellers Tales (UK) Ltd.
 publisher: Warner Bros Interactive Entertainment
 genre: Sandbox
@@ -4756,7 +4756,7 @@ x-co-op: Yes
 
 
 game: Last Day of June (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Last Day of June (Europe)/Last Day of June (Europe).json
+file: Nintendo/Nintendo Switch/Last Day of June (Europe)/Last Day of June (Europe).json
 developer: Ovosonico
 publisher: 505 Games
 genre: Adventure;3D;Third-Person
@@ -4791,7 +4791,7 @@ x-co-op: No
 
 
 game: Layers of Fear - Legacy (USA) (En,Fr,De,Es,It,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Layers of Fear - Legacy (USA) (En,Fr,De,Es,It,Pt,Ru)/Layers of Fear - Legacy (USA) (En,Fr,De,Es,It,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Layers of Fear - Legacy (USA) (En,Fr,De,Es,It,Pt,Ru)/Layers of Fear - Legacy (USA) (En,Fr,De,Es,It,Pt,Ru).json
 developer: Bloober Team
 publisher: Aspyr
 genre: Adventure;Horror
@@ -4821,7 +4821,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Breath of the Wild (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Legend of Zelda, The - Breath of the Wild (World)/Legend of Zelda, The - Breath of the Wild (World).json
+file: Nintendo/Nintendo Switch/Legend of Zelda, The - Breath of the Wild (World)/Legend of Zelda, The - Breath of the Wild (World).json
 developer: Monolith Soft
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -4843,7 +4843,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Link's Awakening (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Legend of Zelda, The - Link's Awakening (World)/Legend of Zelda, The - Link's Awakening (World).json
+file: Nintendo/Nintendo Switch/Legend of Zelda, The - Link's Awakening (World)/Legend of Zelda, The - Link's Awakening (World).json
 developer: Grezzo
 publisher: Nintendo
 genre: Action;Adventure
@@ -4892,7 +4892,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Skyward Sword HD (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Legend of Zelda, The - Skyward Sword HD (USA)/Legend of Zelda, The - Skyward Sword HD (USA).json
+file: Nintendo/Nintendo Switch/Legend of Zelda, The - Skyward Sword HD (USA)/Legend of Zelda, The - Skyward Sword HD (USA).json
 developer: Nintendo EPD
 publisher: Nintendo
 genre: Action;Adventure
@@ -4922,7 +4922,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Tears of the Kingdom (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Legend of Zelda, The - Tears of the Kingdom (World)/Legend of Zelda, The - Tears of the Kingdom (World).json
+file: Nintendo/Nintendo Switch/Legend of Zelda, The - Tears of the Kingdom (World)/Legend of Zelda, The - Tears of the Kingdom (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action Adventure;Open-World
@@ -4947,7 +4947,7 @@ x-co-op: No
 
 
 game: Little Inferno (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Little Inferno (Europe)/Little Inferno (Europe).json
+file: Nintendo/Nintendo Switch/Little Inferno (Europe)/Little Inferno (Europe).json
 developer: Tomorrow Corporation
 publisher: Tomorrow Corporation
 genre: Puzzle
@@ -4977,7 +4977,7 @@ x-co-op: No
 
 
 game: Lonely Mountains - Downhill (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Lonely Mountains - Downhill (Europe)/Lonely Mountains - Downhill (Europe).json
+file: Nintendo/Nintendo Switch/Lonely Mountains - Downhill (Europe)/Lonely Mountains - Downhill (Europe).json
 developer: Thunderful
 publisher: Thunderful
 genre: Racing;Sports
@@ -5009,7 +5009,7 @@ x-co-op: No
 
 
 game: Lovers in a Dangerous Spacetime (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Lovers in a Dangerous Spacetime (Europe)/Lovers in a Dangerous Spacetime (Europe).json
+file: Nintendo/Nintendo Switch/Lovers in a Dangerous Spacetime (Europe)/Lovers in a Dangerous Spacetime (Europe).json
 developer: Asteroid Base Inc.
 publisher: Asteroid Base
 genre: Action;Party
@@ -5053,7 +5053,7 @@ x-co-op: Yes
 
 
 game: Lumines Remastered (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Lumines Remastered (USA) (En,Ja,Fr,De,Es,It)/Lumines Remastered (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Lumines Remastered (USA) (En,Ja,Fr,De,Es,It)/Lumines Remastered (USA) (En,Ja,Fr,De,Es,It).json
 developer: Resonair
 publisher: Enhance Games
 genre: Music;Puzzle
@@ -5078,7 +5078,7 @@ x-co-op: No
 
 
 game: Machinarium (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Machinarium (Europe)/Machinarium (Europe).json
+file: Nintendo/Nintendo Switch/Machinarium (Europe)/Machinarium (Europe).json
 developer: Amanita Design
 publisher: Amanita Design
 genre: Puzzle
@@ -5111,7 +5111,7 @@ x-co-op: No
 
 
 game: Mechstermination Force (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Mechstermination Force (Europe)/Mechstermination Force (Europe).json
+file: Nintendo/Nintendo Switch/Mechstermination Force (Europe)/Mechstermination Force (Europe).json
 developer: Hörberg Productions
 publisher: Hörberg Productions
 genre: Action
@@ -5139,7 +5139,7 @@ x-co-op: Yes
 
 
 game: Mercenaries Wings - The False Phoenix (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Mercenaries Wings - The False Phoenix (USA)/Mercenaries Wings - The False Phoenix (USA).json
+file: Nintendo/Nintendo Switch/Mercenaries Wings - The False Phoenix (USA)/Mercenaries Wings - The False Phoenix (USA).json
 developer: RideOn Japan
 publisher: CIRCLE Ent.
 genre: Role-Playing;Strategy
@@ -5186,7 +5186,7 @@ x-co-op: No
 
 
 game: Mercenary Kings (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Mercenary Kings (USA)/Mercenary Kings (USA).json
+file: Nintendo/Nintendo Switch/Mercenary Kings (USA)/Mercenary Kings (USA).json
 developer: Tribute Games Inc.
 publisher: Tribute Games
 genre: Action;Platform
@@ -5209,7 +5209,7 @@ x-co-op: No
 
 
 game: Messenger, The (USA) (En,Ja,Fr,De,Es,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Messenger, The (USA) (En,Ja,Fr,De,Es,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 1)/Messenger, The (USA) (En,Ja,Fr,De,Es,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 1).json
+file: Nintendo/Nintendo Switch/Messenger, The (USA) (En,Ja,Fr,De,Es,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 1)/Messenger, The (USA) (En,Ja,Fr,De,Es,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 1).json
 developer: Sabotage Studio
 publisher: Devolver Digital
 genre: Action;Platform
@@ -5233,7 +5233,7 @@ x-co-op: No
 
 
 game: Metal Unit (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Metal Unit (Europe)/Metal Unit (Europe).json
+file: Nintendo/Nintendo Switch/Metal Unit (Europe)/Metal Unit (Europe).json
 developer: JellySnow Studio
 publisher: Neowiz Games Corporation
 genre: Action
@@ -5278,7 +5278,7 @@ x-co-op: No
 
 
 game: Metroid Dread (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Metroid Dread (USA)/Metroid Dread (USA).json
+file: Nintendo/Nintendo Switch/Metroid Dread (USA)/Metroid Dread (USA).json
 developer: MercurySteam
 publisher: Nintendo Co., Ltd.
 genre: Action;Adventure;Platform
@@ -5299,7 +5299,7 @@ x-co-op: No
 
 
 game: Mighty Gunvolt Burst (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Mighty Gunvolt Burst (USA)/Mighty Gunvolt Burst (USA).json
+file: Nintendo/Nintendo Switch/Mighty Gunvolt Burst (USA)/Mighty Gunvolt Burst (USA).json
 developer: Inti Creates
 publisher: Inti Creates
 genre: Action;Platform
@@ -5331,7 +5331,7 @@ x-co-op: No
 
 
 game: Mighty Switch Force! Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Mighty Switch Force! Collection (USA)/Mighty Switch Force! Collection (USA).json
+file: Nintendo/Nintendo Switch/Mighty Switch Force! Collection (USA)/Mighty Switch Force! Collection (USA).json
 developer: WayForward
 publisher: WayForward
 genre: Action;Adventure;Platform;Puzzle
@@ -5361,7 +5361,7 @@ x-co-op: Yes
 
 
 game: Minit (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Minit (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru)/Minit (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Minit (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru)/Minit (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru).json
 developer: Devolver Digital
 publisher: Devolver Digital
 genre: Adventure
@@ -5382,7 +5382,7 @@ x-co-op: No
 
 
 game: Missing, The - J.J. Macfield and the Island of Memories (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Missing, The - J.J. Macfield and the Island of Memories (USA)/Missing, The - J.J. Macfield and the Island of Memories (USA).json
+file: Nintendo/Nintendo Switch/Missing, The - J.J. Macfield and the Island of Memories (USA)/Missing, The - J.J. Macfield and the Island of Memories (USA).json
 developer: White Owls Inc.
 publisher: Arc System Works Co., Ltd.
 genre: Action Adventure;General
@@ -5407,7 +5407,7 @@ x-co-op: No
 
 
 game: Momodora - Reverie Under the Moonlight (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Momodora - Reverie Under the Moonlight (USA)/Momodora - Reverie Under the Moonlight (USA).json
+file: Nintendo/Nintendo Switch/Momodora - Reverie Under the Moonlight (USA)/Momodora - Reverie Under the Moonlight (USA).json
 developer: Bombservice
 publisher: DANGEN Entertainment
 genre: Action;Adventure;Platform
@@ -5430,7 +5430,7 @@ x-co-op: No
 
 
 game: Monster Prom XXL (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Monster Prom XXL (Europe)/Monster Prom XXL (Europe).json
+file: Nintendo/Nintendo Switch/Monster Prom XXL (Europe)/Monster Prom XXL (Europe).json
 developer: Beautiful Glitch
 publisher: Those Awesome Guys
 genre: Role-Playing
@@ -5456,7 +5456,7 @@ x-co-op: No
 
 
 game: Ms. Splosion Man (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ms. Splosion Man (USA)/Ms. Splosion Man (USA).json
+file: Nintendo/Nintendo Switch/Ms. Splosion Man (USA)/Ms. Splosion Man (USA).json
 developer: Twisted Pixel Games
 publisher: Twisted Pixel
 genre: Action;Platform
@@ -5476,7 +5476,7 @@ x-co-op: No
 
 
 game: Mummy Demastered, The (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Mummy Demastered, The (USA)/Mummy Demastered, The (USA).json
+file: Nintendo/Nintendo Switch/Mummy Demastered, The (USA)/Mummy Demastered, The (USA).json
 developer: WayForward
 publisher: WayForward
 genre: Action;Adventure;Platform
@@ -5501,7 +5501,7 @@ x-co-op: No
 
 
 game: Mutant Mudds Collection (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Mutant Mudds Collection (Europe)/Mutant Mudds Collection (Europe).json
+file: Nintendo/Nintendo Switch/Mutant Mudds Collection (Europe)/Mutant Mudds Collection (Europe).json
 developer: Atooi
 publisher: Atooi
 genre: Platform
@@ -5521,7 +5521,7 @@ x-co-op: Yes
 
 
 game: My Friend Pedro - Blood Bullets Bananas (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/My Friend Pedro - Blood Bullets Bananas (USA)/My Friend Pedro - Blood Bullets Bananas (USA).json
+file: Nintendo/Nintendo Switch/My Friend Pedro - Blood Bullets Bananas (USA)/My Friend Pedro - Blood Bullets Bananas (USA).json
 developer: Deadtoast
 publisher: Devolver Digital
 genre: Shooter
@@ -5550,7 +5550,7 @@ x-co-op: No
 
 
 game: N++ (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/N++ (Europe)/N++ (Europe).json
+file: Nintendo/Nintendo Switch/N++ (Europe)/N++ (Europe).json
 developer: Metanet Software
 publisher: Metanet Software
 genre: Platformer;Action;Arcade
@@ -5579,7 +5579,7 @@ x-co-op: No
 
 
 game: Namco Museum Arcade Pac (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Namco Museum Arcade Pac (USA)/Namco Museum Arcade Pac (USA).json
+file: Nintendo/Nintendo Switch/Namco Museum Arcade Pac (USA)/Namco Museum Arcade Pac (USA).json
 developer: Bandai Namco Games
 publisher: Bandai Namco Entertainment
 genre: Action
@@ -5617,7 +5617,7 @@ x-co-op: Yes
 
 
 game: Namcot Collection (Japan) (En,Ja,Zh-Hant,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Namcot Collection (Japan) (En,Ja,Zh-Hant,Ko)/Namcot Collection (Japan) (En,Ja,Zh-Hant,Ko).json
+file: Nintendo/Nintendo Switch/Namcot Collection (Japan) (En,Ja,Zh-Hant,Ko)/Namcot Collection (Japan) (En,Ja,Zh-Hant,Ko).json
 developer: M2 Co., Ltd.
 publisher: Bandai Namco
 genre: Miscellaneous;Compilation
@@ -5647,7 +5647,7 @@ x-co-op: Yes
 
 
 game: NeoGeo Pocket Color Selection Vol. 1 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/NeoGeo Pocket Color Selection Vol. 1 (USA)/NeoGeo Pocket Color Selection Vol. 1 (USA).json
+file: Nintendo/Nintendo Switch/NeoGeo Pocket Color Selection Vol. 1 (USA)/NeoGeo Pocket Color Selection Vol. 1 (USA).json
 developer: Code Mystics
 publisher: SNK
 genre: Action;Fighting;Sports
@@ -5685,7 +5685,7 @@ x-co-op: No
 
 
 game: NeoGeo Pocket Color Selection Vol. 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/NeoGeo Pocket Color Selection Vol. 2 (USA)/NeoGeo Pocket Color Selection Vol. 2 (USA).json
+file: Nintendo/Nintendo Switch/NeoGeo Pocket Color Selection Vol. 2 (USA)/NeoGeo Pocket Color Selection Vol. 2 (USA).json
 developer: SNK
 publisher: Limited Run Games
 genre: Action;Puzzle;Sports
@@ -5726,7 +5726,7 @@ x-co-op: Yes
 
 
 game: Night Trap - 25th Anniversary Edition (USA) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Night Trap - 25th Anniversary Edition (USA) (En,Fr)/Night Trap - 25th Anniversary Edition (USA) (En,Fr).json
+file: Nintendo/Nintendo Switch/Night Trap - 25th Anniversary Edition (USA) (En,Fr)/Night Trap - 25th Anniversary Edition (USA) (En,Fr).json
 developer: Screaming Villains
 publisher: Limited Run Games
 genre: Action;Puzzle
@@ -5756,7 +5756,7 @@ x-co-op: No
 
 
 game: Nurse Love Obsession (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Nurse Love Obsession (USA)/Nurse Love Obsession (USA).json
+file: Nintendo/Nintendo Switch/Nurse Love Obsession (USA)/Nurse Love Obsession (USA).json
 developer: Degica | Kogado Software Products
 publisher: Limited Run Games
 genre: Life Simulation
@@ -5772,7 +5772,7 @@ x-co-op: No
 
 
 game: Oceanhorn - Monster of Uncharted Seas (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Oceanhorn - Monster of Uncharted Seas (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)/Oceanhorn - Monster of Uncharted Seas (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Oceanhorn - Monster of Uncharted Seas (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru)/Oceanhorn - Monster of Uncharted Seas (USA) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru).json
 developer: Cornfox & Brothers
 publisher: FDG Entertainment
 genre: Action;Adventure
@@ -5797,7 +5797,7 @@ x-co-op: No
 
 
 game: Octahedron (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Octahedron (Europe)/Octahedron (Europe).json
+file: Nintendo/Nintendo Switch/Octahedron (Europe)/Octahedron (Europe).json
 developer: Demimonde
 publisher: Square Enix
 genre: Platform
@@ -5823,7 +5823,7 @@ x-co-op: No
 
 
 game: Old School Musical (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Old School Musical (Europe)/Old School Musical (Europe).json
+file: Nintendo/Nintendo Switch/Old School Musical (Europe)/Old School Musical (Europe).json
 developer: La Moutarde
 publisher: Plug In Digital
 genre: Adventure;Music
@@ -5849,7 +5849,7 @@ x-co-op: No
 
 
 game: Outlast (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Outlast (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Outlast (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Outlast (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Outlast (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
 developer: Red Barrels
 publisher: Red Barrels
 genre: Action Adventure;Survival
@@ -5879,7 +5879,7 @@ x-co-op: No
 
 
 game: Outlast 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Outlast 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)/Outlast 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).json
+file: Nintendo/Nintendo Switch/Outlast 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru)/Outlast 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).json
 developer: Red Barrels
 publisher: Red Barrels
 genre: Action Adventure;Survival
@@ -5909,7 +5909,7 @@ x-co-op: No
 
 
 game: Oxenfree (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Oxenfree (USA)/Oxenfree (USA).json
+file: Nintendo/Nintendo Switch/Oxenfree (USA)/Oxenfree (USA).json
 developer: Night School Studio, LLC
 publisher: Night School Studio
 genre: Action;Adventure
@@ -5934,7 +5934,7 @@ x-co-op: No
 
 
 game: Panzer Dragoon - Remake (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Panzer Dragoon - Remake (USA)/Panzer Dragoon - Remake (USA).json
+file: Nintendo/Nintendo Switch/Panzer Dragoon - Remake (USA)/Panzer Dragoon - Remake (USA).json
 developer: MegaPixel Studio
 publisher: Limited Run Games
 genre: Shooter
@@ -5968,7 +5968,7 @@ x-co-op: No
 
 
 game: Panzer Paladin (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Panzer Paladin (USA)/Panzer Paladin (USA).json
+file: Nintendo/Nintendo Switch/Panzer Paladin (USA)/Panzer Paladin (USA).json
 developer: Tribute Games
 publisher: Tribute Games
 genre: Action;Platform
@@ -5997,7 +5997,7 @@ x-co-op: No
 
 
 game: PixelJunk Monsters 2 (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/PixelJunk Monsters 2 (USA) (En,Ja)/PixelJunk Monsters 2 (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/PixelJunk Monsters 2 (USA) (En,Ja)/PixelJunk Monsters 2 (USA) (En,Ja).json
 developer: Q-Games
 publisher: Spike Chunsoft
 genre: Strategy;Real-Time;Defense
@@ -6019,7 +6019,7 @@ x-co-op: No
 
 
 game: Pokemon - Let's Go, Pikachu! (World) (En,Ja,Fr,De,Es,It,Zh,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Pokemon - Let's Go, Pikachu! (World) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon - Let's Go, Pikachu! (World) (En,Ja,Fr,De,Es,It,Zh,Ko).json
+file: Nintendo/Nintendo Switch/Pokemon - Let's Go, Pikachu! (World) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon - Let's Go, Pikachu! (World) (En,Ja,Fr,De,Es,It,Zh,Ko).json
 developer: Game Freak Inc.
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -6083,7 +6083,7 @@ x-co-op: Yes
 
 
 game: Pokemon Shield (World) (En,Ja,Fr,De,Es,It,Zh,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Pokemon Shield (World) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon Shield (World) (En,Ja,Fr,De,Es,It,Zh,Ko).json
+file: Nintendo/Nintendo Switch/Pokemon Shield (World) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon Shield (World) (En,Ja,Fr,De,Es,It,Zh,Ko).json
 developer: Game Freak / Nintendo
 publisher: Nintendo Co., Ltd.
 genre: Adventure;Role-Playing
@@ -6116,7 +6116,7 @@ x-co-op: No
 
 
 game: Q.U.B.E. 2 (Europe) (En,Fr,De,Es,It,Pt,Zh,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Q.U.B.E. 2 (Europe) (En,Fr,De,Es,It,Pt,Zh,Ru)/Q.U.B.E. 2 (Europe) (En,Fr,De,Es,It,Pt,Zh,Ru).json
+file: Nintendo/Nintendo Switch/Q.U.B.E. 2 (Europe) (En,Fr,De,Es,It,Pt,Zh,Ru)/Q.U.B.E. 2 (Europe) (En,Fr,De,Es,It,Pt,Zh,Ru).json
 developer: Toxic Games
 publisher: TrappedNerveGames
 genre: Action;Shooter;First-Person;Arcade
@@ -6143,7 +6143,7 @@ x-co-op: No
 
 
 game: Quake (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Quake (USA)/Quake (USA).json
+file: Nintendo/Nintendo Switch/Quake (USA)/Quake (USA).json
 developer: Head Games Publishing
 publisher: WizardWorks
 genre: Action;Shooter;First-Person;Arcade
@@ -6174,7 +6174,7 @@ x-co-op: No
 
 
 game: RIVE - Ultimate Edition + Swap This! (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/RIVE - Ultimate Edition + Swap This! (Europe)/RIVE - Ultimate Edition + Swap This! (Europe).json
+file: Nintendo/Nintendo Switch/RIVE - Ultimate Edition + Swap This! (Europe)/RIVE - Ultimate Edition + Swap This! (Europe).json
 developer: Two Tribes
 publisher: Two Tribes
 genre: Action;Platformer;2D
@@ -6211,7 +6211,7 @@ x-co-op: Yes
 
 
 game: RPG Tkool MV Trinity (Japan) (En,Ja,De,Es,It,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/RPG Tkool MV Trinity (Japan) (En,Ja,De,Es,It,Pt,Ru)/RPG Tkool MV Trinity (Japan) (En,Ja,De,Es,It,Pt,Ru).json
+file: Nintendo/Nintendo Switch/RPG Tkool MV Trinity (Japan) (En,Ja,De,Es,It,Pt,Ru)/RPG Tkool MV Trinity (Japan) (En,Ja,De,Es,It,Pt,Ru).json
 developer: Kadokawa
 publisher: Degica
 genre: Miscellaneous;Application
@@ -6251,7 +6251,7 @@ x-co-op: No
 
 
 game: Regions Of Ruin (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Regions Of Ruin (USA)/Regions Of Ruin (USA).json
+file: Nintendo/Nintendo Switch/Regions Of Ruin (USA)/Regions Of Ruin (USA).json
 developer: Vox Games
 publisher: Poysky Productions
 genre: Action;Role-Playing;Strategy;Platform
@@ -6297,7 +6297,7 @@ x-co-op: No
 
 
 game: Remothered - Double Pack (Japan) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Remothered - Double Pack (Japan) (En,Ja)/Remothered - Double Pack (Japan) (En,Ja).json
+file: Nintendo/Nintendo Switch/Remothered - Double Pack (Japan) (En,Ja)/Remothered - Double Pack (Japan) (En,Ja).json
 developer: Stormind Games
 publisher: Modus Games
 genre: Action;Adventure;Horror
@@ -6421,7 +6421,7 @@ x-co-op: No
 
 
 game: Return of the Obra Dinn (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Return of the Obra Dinn (USA)/Return of the Obra Dinn (USA).json
+file: Nintendo/Nintendo Switch/Return of the Obra Dinn (USA)/Return of the Obra Dinn (USA).json
 developer: 3909
 publisher: 3909
 genre: Adventure;Puzzle
@@ -6447,7 +6447,7 @@ x-co-op: No
 
 
 game: Ring Fit Adventure (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ring Fit Adventure (USA)/Ring Fit Adventure (USA).json
+file: Nintendo/Nintendo Switch/Ring Fit Adventure (USA)/Ring Fit Adventure (USA).json
 developer: Nintendo
 publisher: Nintendo of America Inc.
 genre: Adventure
@@ -6477,7 +6477,7 @@ x-co-op: No
 
 
 game: River City Girls (USA) (En,Ja,Fr,De,Es,It,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/River City Girls (USA) (En,Ja,Fr,De,Es,It,Ru)/River City Girls (USA) (En,Ja,Fr,De,Es,It,Ru).json
+file: Nintendo/Nintendo Switch/River City Girls (USA) (En,Ja,Fr,De,Es,It,Ru)/River City Girls (USA) (En,Ja,Fr,De,Es,It,Ru).json
 developer: WayForward
 publisher: Arc System Works
 genre: Beat 'em Up
@@ -6505,7 +6505,7 @@ x-co-op: Yes
 
 
 game: River City Girls 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/River City Girls 2 (USA)/River City Girls 2 (USA).json
+file: Nintendo/Nintendo Switch/River City Girls 2 (USA)/River City Girls 2 (USA).json
 developer: WayForward
 publisher: Arc System Works
 genre: Beat 'em Up
@@ -6553,7 +6553,7 @@ x-co-op: Yes
 
 
 game: River City Girls Zero (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/River City Girls Zero (USA)/River City Girls Zero (USA).json
+file: Nintendo/Nintendo Switch/River City Girls Zero (USA)/River City Girls Zero (USA).json
 developer: WayForward
 publisher: Arc System Works
 genre: Action;Fighting
@@ -6603,7 +6603,7 @@ x-co-op: Yes
 
 
 game: Rockman - Legacy Collection (World) (En,Ja,Fr,De,Es,It,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Rockman - Legacy Collection (World) (En,Ja,Fr,De,Es,It,Pt,Ru)/Rockman - Legacy Collection (World) (En,Ja,Fr,De,Es,It,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Rockman - Legacy Collection (World) (En,Ja,Fr,De,Es,It,Pt,Ru)/Rockman - Legacy Collection (World) (En,Ja,Fr,De,Es,It,Pt,Ru).json
 developer: Digital Eclipse
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6667,7 +6667,7 @@ x-co-op: No
 
 
 game: Rockman - Legacy Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Rockman - Legacy Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)/Rockman - Legacy Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant).json
+file: Nintendo/Nintendo Switch/Rockman - Legacy Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)/Rockman - Legacy Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant).json
 developer: Now Production
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6699,7 +6699,7 @@ x-co-op: No
 
 
 game: Rockman 11 (World) (En,Ja,Fr,De,Es,It,Zh)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Rockman 11 (World) (En,Ja,Fr,De,Es,It,Zh)/Rockman 11 (World) (En,Ja,Fr,De,Es,It,Zh).json
+file: Nintendo/Nintendo Switch/Rockman 11 (World) (En,Ja,Fr,De,Es,It,Zh)/Rockman 11 (World) (En,Ja,Fr,De,Es,It,Zh).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -6724,7 +6724,7 @@ x-co-op: No
 
 
 game: Rockman X - Anniversary Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Rockman X - Anniversary Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant)/Rockman X - Anniversary Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant).json
+file: Nintendo/Nintendo Switch/Rockman X - Anniversary Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant)/Rockman X - Anniversary Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant).json
 developer: Digital Works Entertainment
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6757,7 +6757,7 @@ x-co-op: No
 
 
 game: Rockman X - Anniversary Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Rockman X - Anniversary Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)/Rockman X - Anniversary Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant).json
+file: Nintendo/Nintendo Switch/Rockman X - Anniversary Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant)/Rockman X - Anniversary Collection 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant).json
 developer: Digital Works Entertainment
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6790,7 +6790,7 @@ x-co-op: No
 
 
 game: Rockman Zero ZX Legacy Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Rockman Zero ZX Legacy Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans)/Rockman Zero ZX Legacy Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans).json
+file: Nintendo/Nintendo Switch/Rockman Zero ZX Legacy Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans)/Rockman Zero ZX Legacy Collection (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans).json
 developer: Access Games
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -6814,7 +6814,7 @@ x-co-op: No
 
 
 game: Rogue Legacy (USA) (En,Fr,De,Es,Zh,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Rogue Legacy (USA) (En,Fr,De,Es,Zh,Ru)/Rogue Legacy (USA) (En,Fr,De,Es,Zh,Ru).json
+file: Nintendo/Nintendo Switch/Rogue Legacy (USA) (En,Fr,De,Es,Zh,Ru)/Rogue Legacy (USA) (En,Fr,De,Es,Zh,Ru).json
 developer: Cellar Door Games
 publisher: Cellar Door Games
 genre: Adventure;Platform;Role-Playing
@@ -6839,7 +6839,7 @@ x-co-op: No
 
 
 game: Roki (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Roki (Europe)/Roki (Europe).json
+file: Nintendo/Nintendo Switch/Roki (Europe)/Roki (Europe).json
 developer: Picomy
 publisher: Picomy
 genre: Action
@@ -6861,7 +6861,7 @@ x-co-op: No
 
 
 game: Romancing SaGa 3 (World) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Romancing SaGa 3 (World) (En,Ja)/Romancing SaGa 3 (World) (En,Ja).json
+file: Nintendo/Nintendo Switch/Romancing SaGa 3 (World) (En,Ja)/Romancing SaGa 3 (World) (En,Ja).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -6890,7 +6890,7 @@ x-co-op: No
 
 
 game: Ruiner (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ruiner (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko)/Ruiner (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko).json
+file: Nintendo/Nintendo Switch/Ruiner (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko)/Ruiner (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko).json
 developer: Reikon Games
 publisher: Devolver Digital
 genre: Action
@@ -6923,7 +6923,7 @@ x-co-op: No
 
 
 game: Sam & Max - Beyond Time and Space (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Sam & Max - Beyond Time and Space (USA)/Sam & Max - Beyond Time and Space (USA).json
+file: Nintendo/Nintendo Switch/Sam & Max - Beyond Time and Space (USA)/Sam & Max - Beyond Time and Space (USA).json
 developer: Telltale Games
 publisher: Limited Run Games
 genre: Adventure;Puzzle
@@ -6964,7 +6964,7 @@ x-co-op: No
 
 
 game: Sam & Max Save the World (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Sam & Max Save the World (USA)/Sam & Max Save the World (USA).json
+file: Nintendo/Nintendo Switch/Sam & Max Save the World (USA)/Sam & Max Save the World (USA).json
 developer: Telltale Games
 publisher: Nintendo
 genre: Adventure
@@ -6999,7 +6999,7 @@ x-co-op: No
 
 
 game: Samurai Shodown Neogeo Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Samurai Shodown Neogeo Collection (USA)/Samurai Shodown Neogeo Collection (USA).json
+file: Nintendo/Nintendo Switch/Samurai Shodown Neogeo Collection (USA)/Samurai Shodown Neogeo Collection (USA).json
 developer: Digital Eclipse
 publisher: SNK
 genre: Fighting
@@ -7025,7 +7025,7 @@ x-co-op: No
 
 
 game: Saturday Morning RPG (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Saturday Morning RPG (USA)/Saturday Morning RPG (USA).json
+file: Nintendo/Nintendo Switch/Saturday Morning RPG (USA)/Saturday Morning RPG (USA).json
 developer: Mighty Rabbit Studios
 publisher: Limited Run Games
 genre: Role-Playing
@@ -7048,7 +7048,7 @@ x-co-op: No
 
 
 game: Sayonara Wild Hearts (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Sayonara Wild Hearts (USA)/Sayonara Wild Hearts (USA).json
+file: Nintendo/Nintendo Switch/Sayonara Wild Hearts (USA)/Sayonara Wild Hearts (USA).json
 developer: Simogo
 publisher: Annapurna Interactive
 genre: Music
@@ -7077,7 +7077,7 @@ x-co-op: No
 
 
 game: Scott Pilgrim vs. The World - The Game (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Scott Pilgrim vs. The World - The Game (USA)/Scott Pilgrim vs. The World - The Game (USA).json
+file: Nintendo/Nintendo Switch/Scott Pilgrim vs. The World - The Game (USA)/Scott Pilgrim vs. The World - The Game (USA).json
 developer: Ubisoft Montreal
 publisher: Ubisoft
 genre: Beat 'em Up
@@ -7104,7 +7104,7 @@ x-co-op: Yes
 
 
 game: Sea of Solitude - The Director's Cut (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Sea of Solitude - The Director's Cut (USA)/Sea of Solitude - The Director's Cut (USA).json
+file: Nintendo/Nintendo Switch/Sea of Solitude - The Director's Cut (USA)/Sea of Solitude - The Director's Cut (USA).json
 developer: Jo-Mei
 publisher: Quantic Dream
 genre: Action;Adventure;Platform
@@ -7163,7 +7163,7 @@ x-co-op: No
 
 
 game: Sea of Stars (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Sea of Stars (USA)/Sea of Stars (USA).json
+file: Nintendo/Nintendo Switch/Sea of Stars (USA)/Sea of Stars (USA).json
 developer: Sabotage Studio
 publisher: Sabotage Studio
 genre: Adventure;Role-Playing
@@ -7197,7 +7197,7 @@ x-co-op: No
 
 
 game: Sexy Brutale, The (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Sexy Brutale, The (Europe)/Sexy Brutale, The (Europe).json
+file: Nintendo/Nintendo Switch/Sexy Brutale, The (Europe)/Sexy Brutale, The (Europe).json
 developer: Cavalier Game Studios
 publisher: Tequila Works
 genre: Adventure;Puzzle
@@ -7216,7 +7216,7 @@ x-co-op: No
 
 
 game: Shadowgate (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Shadowgate (USA)/Shadowgate (USA).json
+file: Nintendo/Nintendo Switch/Shadowgate (USA)/Shadowgate (USA).json
 developer: ICOM Simulations
 publisher: Mindscape
 genre: Adventure;Point-and-Click
@@ -7238,7 +7238,7 @@ x-co-op: No
 
 
 game: Shantae (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Shantae (USA)/Shantae (USA).json
+file: Nintendo/Nintendo Switch/Shantae (USA)/Shantae (USA).json
 developer: WayForward
 publisher: WayForward
 genre: Platform
@@ -7276,7 +7276,7 @@ x-co-op: No
 
 
 game: Shantae - Half-Genie Hero - Ultimate Edition! (USA, Europe) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Shantae - Half-Genie Hero - Ultimate Edition! (USA, Europe) (En,Fr,De,Es,It)/Shantae - Half-Genie Hero - Ultimate Edition! (USA, Europe) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Shantae - Half-Genie Hero - Ultimate Edition! (USA, Europe) (En,Fr,De,Es,It)/Shantae - Half-Genie Hero - Ultimate Edition! (USA, Europe) (En,Fr,De,Es,It).json
 developer: WayForward
 publisher: WayForward
 genre: Action;Adventure;Platform
@@ -7300,7 +7300,7 @@ x-co-op: No
 
 
 game: Shantae - Risky's Revenge - Director's Cut (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Shantae - Risky's Revenge - Director's Cut (USA)/Shantae - Risky's Revenge - Director's Cut (USA).json
+file: Nintendo/Nintendo Switch/Shantae - Risky's Revenge - Director's Cut (USA)/Shantae - Risky's Revenge - Director's Cut (USA).json
 developer: WayForward
 publisher: WayForward
 genre: Adventure;Platform
@@ -7327,7 +7327,7 @@ x-co-op: No
 
 
 game: Shantae and the Pirate's Curse (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Shantae and the Pirate's Curse (USA) (En,Ja,Fr,De,Es,It)/Shantae and the Pirate's Curse (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Shantae and the Pirate's Curse (USA) (En,Ja,Fr,De,Es,It)/Shantae and the Pirate's Curse (USA) (En,Ja,Fr,De,Es,It).json
 developer: WayForward
 publisher: WayForward
 genre: Adventure;Platform;Role-Playing
@@ -7357,7 +7357,7 @@ x-co-op: No
 
 
 game: Shantae and the Seven Sirens (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Shantae and the Seven Sirens (USA) (En,Fr,De,Es,It)/Shantae and the Seven Sirens (USA) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Shantae and the Seven Sirens (USA) (En,Fr,De,Es,It)/Shantae and the Seven Sirens (USA) (En,Fr,De,Es,It).json
 developer: WayForward Technologies, Inc.
 publisher: WayForward
 genre: Adventure;Platform
@@ -7394,7 +7394,7 @@ x-co-op: No
 
 
 game: Shelter Generations (Europe) (En,Zh)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Shelter Generations (Europe) (En,Zh)/Shelter Generations (Europe) (En,Zh).json
+file: Nintendo/Nintendo Switch/Shelter Generations (Europe) (En,Zh)/Shelter Generations (Europe) (En,Zh).json
 developer: Might and Delight
 publisher: CIRCLE Entertainment
 genre: Miscellaneous;Compilation
@@ -7425,7 +7425,7 @@ x-co-op: No
 
 
 game: Slime-san Superslime Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Slime-san Superslime Edition (USA)/Slime-san Superslime Edition (USA).json
+file: Nintendo/Nintendo Switch/Slime-san Superslime Edition (USA)/Slime-san Superslime Edition (USA).json
 developer: Fabraz
 publisher: Headup Games
 genre: Platform
@@ -7457,7 +7457,7 @@ x-co-op: No
 
 
 game: Smoke and Sacrifice (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Smoke and Sacrifice (Europe)/Smoke and Sacrifice (Europe).json
+file: Nintendo/Nintendo Switch/Smoke and Sacrifice (Europe)/Smoke and Sacrifice (Europe).json
 developer: Solar Sail Games
 publisher: Curve Digital
 genre: Adventure;Role-Playing
@@ -7490,7 +7490,7 @@ x-co-op: No
 
 
 game: Space Invaders Invincible Collection (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Space Invaders Invincible Collection (Europe)/Space Invaders Invincible Collection (Europe).json
+file: Nintendo/Nintendo Switch/Space Invaders Invincible Collection (Europe)/Space Invaders Invincible Collection (Europe).json
 developer: Taito Corporation
 publisher: Strictly Limited Games
 genre: Shooter
@@ -7531,7 +7531,7 @@ x-co-op: No
 
 
 game: Spelunker HD Deluxe (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Spelunker HD Deluxe (Europe)/Spelunker HD Deluxe (Europe).json
+file: Nintendo/Nintendo Switch/Spelunker HD Deluxe (Europe)/Spelunker HD Deluxe (Europe).json
 developer: Tozai Games
 publisher: ININ Games
 genre: Action;Platform
@@ -7562,7 +7562,7 @@ x-co-op: No
 
 
 game: Star Ocean - The Second Story R (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Star Ocean - The Second Story R (USA)/Star Ocean - The Second Story R (USA).json
+file: Nintendo/Nintendo Switch/Star Ocean - The Second Story R (USA)/Star Ocean - The Second Story R (USA).json
 developer: Gemdrops
 publisher: Square Enix
 genre: Role-Playing;Japanese-Style
@@ -7650,7 +7650,7 @@ x-co-op: No
 
 
 game: Star Wars - Jedi Knight - Jedi Academy (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Star Wars - Jedi Knight - Jedi Academy (USA)/Star Wars - Jedi Knight - Jedi Academy (USA).json
+file: Nintendo/Nintendo Switch/Star Wars - Jedi Knight - Jedi Academy (USA)/Star Wars - Jedi Knight - Jedi Academy (USA).json
 developer: Raven Software Corporation
 publisher: Aspyr Media, Inc.
 genre: Action;Adventure
@@ -7682,7 +7682,7 @@ x-co-op: No
 
 
 game: Star Wars - Jedi Knight II - Jedi Outcast (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Star Wars - Jedi Knight II - Jedi Outcast (USA)/Star Wars - Jedi Knight II - Jedi Outcast (USA).json
+file: Nintendo/Nintendo Switch/Star Wars - Jedi Knight II - Jedi Outcast (USA)/Star Wars - Jedi Knight II - Jedi Outcast (USA).json
 developer: Raven Software
 publisher: Aspyr Media, Inc.
 genre: Action;Adventure
@@ -7708,7 +7708,7 @@ x-co-op: No
 
 
 game: Stardew Valley (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru,Tr,Hu)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Stardew Valley (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru,Tr,Hu)/Stardew Valley (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru,Tr,Hu).json
+file: Nintendo/Nintendo Switch/Stardew Valley (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru,Tr,Hu)/Stardew Valley (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru,Tr,Hu).json
 developer: ConcernedApe
 publisher: Chucklefish LTD
 genre: Life Simulation;Role-Playing
@@ -7733,7 +7733,7 @@ x-co-op: Yes
 
 
 game: SteamWorld Dig 1+2 (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/SteamWorld Dig 1+2 (Europe)/SteamWorld Dig 1+2 (Europe).json
+file: Nintendo/Nintendo Switch/SteamWorld Dig 1+2 (Europe)/SteamWorld Dig 1+2 (Europe).json
 developer: Image & Form
 publisher: Image & Form
 genre: Action;Platformer;Metroidvania
@@ -7751,7 +7751,7 @@ x-co-op: No
 
 
 game: SteamWorld Heist - Ultimate Edition (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/SteamWorld Heist - Ultimate Edition (Europe)/SteamWorld Heist - Ultimate Edition (Europe).json
+file: Nintendo/Nintendo Switch/SteamWorld Heist - Ultimate Edition (Europe)/SteamWorld Heist - Ultimate Edition (Europe).json
 developer: Image & Form International AB
 publisher: Image & Form International AB
 genre: Action;Role-Playing;Strategy
@@ -7780,7 +7780,7 @@ x-co-op: No
 
 
 game: SteamWorld Quest - Hand of Gilgamech (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/SteamWorld Quest - Hand of Gilgamech (Europe)/SteamWorld Quest - Hand of Gilgamech (Europe).json
+file: Nintendo/Nintendo Switch/SteamWorld Quest - Hand of Gilgamech (Europe)/SteamWorld Quest - Hand of Gilgamech (Europe).json
 developer: Image & Form International AB
 publisher: Thunderful Publishing AB
 genre: Adventure;Role-Playing
@@ -7805,7 +7805,7 @@ x-co-op: No
 
 
 game: Stranger Things 3 - The Game (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Stranger Things 3 - The Game (USA)/Stranger Things 3 - The Game (USA).json
+file: Nintendo/Nintendo Switch/Stranger Things 3 - The Game (USA)/Stranger Things 3 - The Game (USA).json
 developer: BonusXP, Inc.
 publisher: BonusXP, Inc.
 genre: Action;Adventure
@@ -7829,7 +7829,7 @@ x-co-op: No
 
 
 game: Streets of Rage 4 (USA) (En,Fr,De,Es,It,Pt,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Streets of Rage 4 (USA) (En,Fr,De,Es,It,Pt,Ru)/Streets of Rage 4 (USA) (En,Fr,De,Es,It,Pt,Ru).json
+file: Nintendo/Nintendo Switch/Streets of Rage 4 (USA) (En,Fr,De,Es,It,Pt,Ru)/Streets of Rage 4 (USA) (En,Fr,De,Es,It,Pt,Ru).json
 developer: DotEmu
 publisher: DotEmu
 genre: Beat 'em Up
@@ -7853,7 +7853,7 @@ x-co-op: Yes
 
 
 game: Streets of Red - Devil's Dare Deluxe (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Streets of Red - Devil's Dare Deluxe (USA)/Streets of Red - Devil's Dare Deluxe (USA).json
+file: Nintendo/Nintendo Switch/Streets of Red - Devil's Dare Deluxe (USA)/Streets of Red - Devil's Dare Deluxe (USA).json
 developer: Secret Base Pte Ltd
 publisher: Secret Base
 genre: Action;Fighting;Party
@@ -7885,7 +7885,7 @@ x-co-op: Yes
 
 
 game: Super Bomberman R (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Super Bomberman R (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ru)/Super Bomberman R (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ru).json
+file: Nintendo/Nintendo Switch/Super Bomberman R (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ru)/Super Bomberman R (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ru).json
 developer: Konami
 publisher: Konami
 genre: Action;Puzzle
@@ -7927,7 +7927,7 @@ x-co-op: No
 
 
 game: Super Mario 3D All-Stars (World) (En,Ja,Fr,De,Es,It,Zh,Ko)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Super Mario 3D All-Stars (World) (En,Ja,Fr,De,Es,It,Zh,Ko)/Super Mario 3D All-Stars (World) (En,Ja,Fr,De,Es,It,Zh,Ko).json
+file: Nintendo/Nintendo Switch/Super Mario 3D All-Stars (World) (En,Ja,Fr,De,Es,It,Zh,Ko)/Super Mario 3D All-Stars (World) (En,Ja,Fr,De,Es,It,Zh,Ko).json
 developer: Nintendo EPD
 publisher: Nintendo
 genre: Action;Platform
@@ -7983,7 +7983,7 @@ x-co-op: Yes
 
 
 game: Super Mario Odyssey (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Super Mario Odyssey (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ru)/Super Mario Odyssey (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ru).json
+file: Nintendo/Nintendo Switch/Super Mario Odyssey (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ru)/Super Mario Odyssey (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ru).json
 developer: Nintendo EPD
 publisher: Nintendo Co., Ltd.
 genre: Action;Platform
@@ -8008,7 +8008,7 @@ x-co-op: Yes
 
 
 game: Super Mario RPG (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Super Mario RPG (USA)/Super Mario RPG (USA).json
+file: Nintendo/Nintendo Switch/Super Mario RPG (USA)/Super Mario RPG (USA).json
 developer: ArtePiazza
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -8038,7 +8038,7 @@ x-co-op: No
 
 
 game: Super Meat Boy (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Super Meat Boy (USA)/Super Meat Boy (USA).json
+file: Nintendo/Nintendo Switch/Super Meat Boy (USA)/Super Meat Boy (USA).json
 developer: Team Meat
 publisher: BlitWorks
 genre: Platform
@@ -8074,7 +8074,7 @@ x-co-op: No
 
 
 game: Super Smash Bros. Ultimate (World) (Rev 5)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Super Smash Bros. Ultimate (World) (Rev 5)/Super Smash Bros. Ultimate (World) (Rev 5).json
+file: Nintendo/Nintendo Switch/Super Smash Bros. Ultimate (World) (Rev 5)/Super Smash Bros. Ultimate (World) (Rev 5).json
 developer: Sora Ltd
 publisher: Nintendo
 genre: Fighting
@@ -8105,7 +8105,7 @@ x-co-op: Yes
 
 
 game: Swords of Ditto, The - Mormo's Curse (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Swords of Ditto, The - Mormo's Curse (USA)/Swords of Ditto, The - Mormo's Curse (USA).json
+file: Nintendo/Nintendo Switch/Swords of Ditto, The - Mormo's Curse (USA)/Swords of Ditto, The - Mormo's Curse (USA).json
 developer: Onebitbeyond
 publisher: Devolver Digital
 genre: Role-Playing;Action RPG
@@ -8154,7 +8154,7 @@ x-co-op: No
 
 
 game: Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).json
+file: Nintendo/Nintendo Switch/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).json
 developer: Tribute Games
 publisher: DotEmu
 genre: Action;Fighting
@@ -8214,7 +8214,7 @@ x-co-op: Yes
 
 
 game: Teenage Mutant Ninja Turtles - The Cowabunga Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Teenage Mutant Ninja Turtles - The Cowabunga Collection (USA)/Teenage Mutant Ninja Turtles - The Cowabunga Collection (USA).json
+file: Nintendo/Nintendo Switch/Teenage Mutant Ninja Turtles - The Cowabunga Collection (USA)/Teenage Mutant Ninja Turtles - The Cowabunga Collection (USA).json
 developer: Digital Eclipse
 publisher: Konami
 genre: Action;Fighting;Platform
@@ -8288,7 +8288,7 @@ x-co-op: Yes
 
 
 game: Terraria (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Terraria (USA) (En,Fr,De,Es,It)/Terraria (USA) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Terraria (USA) (En,Fr,De,Es,It)/Terraria (USA) (En,Fr,De,Es,It).json
 developer: Pipeworks
 publisher: 505 Games
 genre: Sandbox;Shooter
@@ -8339,7 +8339,7 @@ x-co-op: Yes
 
 
 game: Thea - The Awakening (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Thea - The Awakening (USA)/Thea - The Awakening (USA).json
+file: Nintendo/Nintendo Switch/Thea - The Awakening (USA)/Thea - The Awakening (USA).json
 developer: MuHa Games
 publisher: Monster Couch
 genre: Strategy;Turn-Based;4X
@@ -8364,7 +8364,7 @@ x-co-op: No
 
 
 game: There Is No Game - Wrong Dimension (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/There Is No Game - Wrong Dimension (USA)/There Is No Game - Wrong Dimension (USA).json
+file: Nintendo/Nintendo Switch/There Is No Game - Wrong Dimension (USA)/There Is No Game - Wrong Dimension (USA).json
 developer: Draw Me A Pixel
 publisher: Draw Me A Pixel
 genre: Adventure;Point-and-Click
@@ -8389,7 +8389,7 @@ x-co-op: No
 
 
 game: Thimbleweed Park (USA) (En,Fr,De,Es,It,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Thimbleweed Park (USA) (En,Fr,De,Es,It,Ru)/Thimbleweed Park (USA) (En,Fr,De,Es,It,Ru).json
+file: Nintendo/Nintendo Switch/Thimbleweed Park (USA) (En,Fr,De,Es,It,Ru)/Thimbleweed Park (USA) (En,Fr,De,Es,It,Ru).json
 developer: Terrible Toybox
 publisher: Terrible Toybox
 genre: Adventure
@@ -8426,7 +8426,7 @@ x-co-op: No
 
 
 game: Timespinner (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Timespinner (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ru)/Timespinner (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ru).json
+file: Nintendo/Nintendo Switch/Timespinner (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ru)/Timespinner (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ru).json
 developer: Lunar Ray Games LLC
 publisher: Limited Run Games
 genre: Action;Platform;Puzzle;Role-Playing
@@ -8457,7 +8457,7 @@ x-co-op: Yes
 
 
 game: ToeJam & Earl - Back in the Groove! (USA) (En,Fr,De,Es,It,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/ToeJam & Earl - Back in the Groove! (USA) (En,Fr,De,Es,It,Pt)/ToeJam & Earl - Back in the Groove! (USA) (En,Fr,De,Es,It,Pt).json
+file: Nintendo/Nintendo Switch/ToeJam & Earl - Back in the Groove! (USA) (En,Fr,De,Es,It,Pt)/ToeJam & Earl - Back in the Groove! (USA) (En,Fr,De,Es,It,Pt).json
 developer: HumaNature Studios
 publisher: Limited Run Games
 genre: Adventure
@@ -8488,7 +8488,7 @@ x-co-op: Yes
 
 
 game: Toki Tori Collection (Europe) (En,Ja,Fr,De,Es,It,Nl)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Toki Tori Collection (Europe) (En,Ja,Fr,De,Es,It,Nl)/Toki Tori Collection (Europe) (En,Ja,Fr,De,Es,It,Nl).json
+file: Nintendo/Nintendo Switch/Toki Tori Collection (Europe) (En,Ja,Fr,De,Es,It,Nl)/Toki Tori Collection (Europe) (En,Ja,Fr,De,Es,It,Nl).json
 developer: Two Tribes
 publisher: Two Tribes
 genre: Puzzle
@@ -8533,7 +8533,7 @@ x-co-op: No
 
 
 game: TowerFall (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/TowerFall (USA) (Rev 1)/TowerFall (USA) (Rev 1).json
+file: Nintendo/Nintendo Switch/TowerFall (USA) (Rev 1)/TowerFall (USA) (Rev 1).json
 developer: Matt Makes Games Inc.
 publisher: Matt Makes Games Inc.
 genre: Action;Fighting;Platform;Party
@@ -8565,7 +8565,7 @@ x-co-op: Yes
 
 
 game: Transistor (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Transistor (USA)/Transistor (USA).json
+file: Nintendo/Nintendo Switch/Transistor (USA)/Transistor (USA).json
 developer: Supergiant Games
 publisher: Supergiant Games
 genre: Adventure;Role-Playing
@@ -8587,7 +8587,7 @@ x-co-op: No
 
 
 game: Tricky Towers (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Tricky Towers (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Ko,Ru)/Tricky Towers (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Tricky Towers (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Ko,Ru)/Tricky Towers (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Ko,Ru).json
 developer: WeirdBeard
 publisher: WeirdBeard
 genre: Puzzle;Party
@@ -8612,7 +8612,7 @@ x-co-op: No
 
 
 game: Trover Saves the Universe (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Trover Saves the Universe (USA)/Trover Saves the Universe (USA).json
+file: Nintendo/Nintendo Switch/Trover Saves the Universe (USA)/Trover Saves the Universe (USA).json
 developer: Squanch Games
 publisher: Limited Run Games
 genre: Action;Adventure;Puzzle
@@ -8640,7 +8640,7 @@ x-co-op: No
 
 
 game: Turok (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Turok (USA) (En,Fr,De,Es,It)/Turok (USA) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Turok (USA) (En,Fr,De,Es,It)/Turok (USA) (En,Fr,De,Es,It).json
 developer: Iguana Entertainment
 publisher: Nightdive Studios
 genre: Shooter
@@ -8676,7 +8676,7 @@ x-co-op: No
 
 
 game: Turok 2 - Seeds of Evil (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Turok 2 - Seeds of Evil (USA) (En,Fr,De,Es,It)/Turok 2 - Seeds of Evil (USA) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Turok 2 - Seeds of Evil (USA) (En,Fr,De,Es,It)/Turok 2 - Seeds of Evil (USA) (En,Fr,De,Es,It).json
 developer: Iguana Entertainment
 publisher: Nightdive Studios
 genre: Shooter
@@ -8708,7 +8708,7 @@ x-co-op: No
 
 
 game: Turrican Anthology Vol. 1 (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Turrican Anthology Vol. 1 (Europe)/Turrican Anthology Vol. 1 (Europe).json
+file: Nintendo/Nintendo Switch/Turrican Anthology Vol. 1 (Europe)/Turrican Anthology Vol. 1 (Europe).json
 developer: Factor 5 GmbH
 publisher: Strictly Limited Games
 genre: Action;Shooter
@@ -8741,7 +8741,7 @@ x-co-op: No
 
 
 game: Turrican Anthology Vol. 2 (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Turrican Anthology Vol. 2 (Europe)/Turrican Anthology Vol. 2 (Europe).json
+file: Nintendo/Nintendo Switch/Turrican Anthology Vol. 2 (Europe)/Turrican Anthology Vol. 2 (Europe).json
 developer: Factor 5 GmbH
 publisher: Strictly Limited Games
 genre: Action;Adventure
@@ -8774,7 +8774,7 @@ x-co-op: No
 
 
 game: Ultracore (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ultracore (Europe)/Ultracore (Europe).json
+file: Nintendo/Nintendo Switch/Ultracore (Europe)/Ultracore (Europe).json
 developer: Strictly Limited Games
 publisher: ININ Games
 genre: Action;Platform
@@ -8810,7 +8810,7 @@ x-co-op: No
 
 
 game: Undertale (Japan, USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Undertale (Japan, USA) (En,Ja)/Undertale (Japan, USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/Undertale (Japan, USA) (En,Ja)/Undertale (Japan, USA) (En,Ja).json
 developer: 8-4, Ltd
 publisher: 8-4
 genre: Role-Playing
@@ -8854,7 +8854,7 @@ x-co-op: No
 
 
 game: Unrailed! (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Unrailed! (Europe)/Unrailed! (Europe).json
+file: Nintendo/Nintendo Switch/Unrailed! (Europe)/Unrailed! (Europe).json
 developer: Indoor Astronaut
 publisher: Daedalic Entertainment
 genre: Strategy
@@ -8878,7 +8878,7 @@ x-co-op: Yes
 
 
 game: Untitled Goose Game (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Untitled Goose Game (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)/Untitled Goose Game (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Untitled Goose Game (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru)/Untitled Goose Game (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).json
 developer: House House
 publisher: Panic
 genre: Strategy
@@ -8903,7 +8903,7 @@ x-co-op: Yes
 
 
 game: VA-11 Hall-A - Cyberpunk Bartender Action (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/VA-11 Hall-A - Cyberpunk Bartender Action (USA) (En,Ja)/VA-11 Hall-A - Cyberpunk Bartender Action (USA) (En,Ja).json
+file: Nintendo/Nintendo Switch/VA-11 Hall-A - Cyberpunk Bartender Action (USA) (En,Ja)/VA-11 Hall-A - Cyberpunk Bartender Action (USA) (En,Ja).json
 developer: Sukeban Games
 publisher: Ysbryd Games
 genre: Life Simulation
@@ -8934,7 +8934,7 @@ x-co-op: No
 
 
 game: Valis - The Fantasm Soldier Collection (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Valis - The Fantasm Soldier Collection (USA)/Valis - The Fantasm Soldier Collection (USA).json
+file: Nintendo/Nintendo Switch/Valis - The Fantasm Soldier Collection (USA)/Valis - The Fantasm Soldier Collection (USA).json
 developer: Edia Co.
 publisher: Edia Co.
 genre: Miscellaneous;Compilation
@@ -8968,7 +8968,7 @@ x-co-op: No
 
 
 game: Valis - The Fantasm Soldier Collection II (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Valis - The Fantasm Soldier Collection II (USA)/Valis - The Fantasm Soldier Collection II (USA).json
+file: Nintendo/Nintendo Switch/Valis - The Fantasm Soldier Collection II (USA)/Valis - The Fantasm Soldier Collection II (USA).json
 developer: Edia Co.
 publisher: Edia Co.
 genre: Miscellaneous;Compilation
@@ -9009,7 +9009,7 @@ x-co-op: No
 
 
 game: Vitamin Connection (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Vitamin Connection (USA) (En,Ja,Fr,De,Es,It)/Vitamin Connection (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Vitamin Connection (USA) (En,Ja,Fr,De,Es,It)/Vitamin Connection (USA) (En,Ja,Fr,De,Es,It).json
 developer: WayForward
 publisher: WayForward
 genre: Action;Adventure
@@ -9041,7 +9041,7 @@ x-co-op: Yes
 
 
 game: Wandersong (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Wandersong (USA)/Wandersong (USA).json
+file: Nintendo/Nintendo Switch/Wandersong (USA)/Wandersong (USA).json
 developer: Greg Lobanov
 publisher: Humble Games
 genre: Music;Platform;Puzzle
@@ -9060,7 +9060,7 @@ x-co-op: No
 
 
 game: West of Loathing (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/West of Loathing (USA)/West of Loathing (USA).json
+file: Nintendo/Nintendo Switch/West of Loathing (USA)/West of Loathing (USA).json
 developer: Asymmetric Publications
 publisher: Asymmetric Publications
 genre: Role-Playing
@@ -9085,7 +9085,7 @@ x-co-op: No
 
 
 game: Windjammers (USA) (En,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Windjammers (USA) (En,Fr,De,Es,It)/Windjammers (USA) (En,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Windjammers (USA) (En,Fr,De,Es,It)/Windjammers (USA) (En,Fr,De,Es,It).json
 developer: DotEmu
 publisher: Limited Run Games
 genre: Fighting;Sports
@@ -9115,7 +9115,7 @@ x-co-op: No
 
 
 game: Wizard of Legend (USA) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Wizard of Legend (USA) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru)/Wizard of Legend (USA) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru).json
+file: Nintendo/Nintendo Switch/Wizard of Legend (USA) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru)/Wizard of Legend (USA) (En,Ja,Fr,De,Es,Zh-Hans,Ko,Ru).json
 developer: Contingent99
 publisher: Humble Bundle
 genre: Action;Adventure
@@ -9137,7 +9137,7 @@ x-co-op: Yes
 
 
 game: World of Goo (Europe) (En,Fr,De,Es,It,Nl)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/World of Goo (Europe) (En,Fr,De,Es,It,Nl)/World of Goo (Europe) (En,Fr,De,Es,It,Nl).json
+file: Nintendo/Nintendo Switch/World of Goo (Europe) (En,Fr,De,Es,It,Nl)/World of Goo (Europe) (En,Fr,De,Es,It,Nl).json
 developer: 2D Boy
 publisher: Tomorrow Corporation
 genre: Puzzle;Strategy
@@ -9174,7 +9174,7 @@ x-co-op: No
 
 
 game: Wulverblade (Europe) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Wulverblade (Europe) (En,Ja)/Wulverblade (Europe) (En,Ja).json
+file: Nintendo/Nintendo Switch/Wulverblade (Europe) (En,Ja)/Wulverblade (Europe) (En,Ja).json
 developer: Fully Illustrated
 publisher: Darkwind Media
 genre: Beat 'em Up
@@ -9194,7 +9194,7 @@ x-co-op: Yes
 
 
 game: Xenoblade Chronicles - Definitive Edition (World)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Xenoblade Chronicles - Definitive Edition (World)/Xenoblade Chronicles - Definitive Edition (World).json
+file: Nintendo/Nintendo Switch/Xenoblade Chronicles - Definitive Edition (World)/Xenoblade Chronicles - Definitive Edition (World).json
 developer: Monolith Soft
 publisher: Nintendo
 genre: Role-Playing
@@ -9232,7 +9232,7 @@ x-co-op: No
 
 
 game: Yes, Your Grace (Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Yes, Your Grace (Europe)/Yes, Your Grace (Europe).json
+file: Nintendo/Nintendo Switch/Yes, Your Grace (Europe)/Yes, Your Grace (Europe).json
 developer: Brave At Night Ltd
 publisher: No More Robots Ltd.
 genre: Construction and Management Simulation;Role-Playing;Strategy
@@ -9258,7 +9258,7 @@ x-co-op: No
 
 
 game: Ys Origin (USA, Europe) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ys Origin (USA, Europe) (En,Ja,Fr,De,Es,It)/Ys Origin (USA, Europe) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Switch/Ys Origin (USA, Europe) (En,Ja,Fr,De,Es,It)/Ys Origin (USA, Europe) (En,Ja,Fr,De,Es,It).json
 developer: DotEmu
 publisher: DotEmu
 genre: Role-Playing
@@ -9289,7 +9289,7 @@ x-co-op: No
 
 
 game: Ys VIII - Lacrimosa of DANA (USA, Europe) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Ys VIII - Lacrimosa of DANA (USA, Europe) (En,Fr)/Ys VIII - Lacrimosa of DANA (USA, Europe) (En,Fr).json
+file: Nintendo/Nintendo Switch/Ys VIII - Lacrimosa of DANA (USA, Europe) (En,Fr)/Ys VIII - Lacrimosa of DANA (USA, Europe) (En,Fr).json
 developer: Nihon Falcom
 publisher: NIS America
 genre: Action;Role-Playing
@@ -9310,7 +9310,7 @@ x-co-op: No
 
 
 game: Zombies Ate My Neighbors & Ghoul Patrol (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/Zombies Ate My Neighbors & Ghoul Patrol (USA)/Zombies Ate My Neighbors & Ghoul Patrol (USA).json
+file: Nintendo/Nintendo Switch/Zombies Ate My Neighbors & Ghoul Patrol (USA)/Zombies Ate My Neighbors & Ghoul Patrol (USA).json
 developer: Lucasfilm Games (Legacy)
 publisher: Disney Interactive Studios
 genre: Miscellaneous;Compilation
@@ -9329,7 +9329,7 @@ x-co-op: Yes
 
 
 game: realMyst - Masterpiece Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Switch/realMyst - Masterpiece Edition (USA)/realMyst - Masterpiece Edition (USA).json
+file: Nintendo/Nintendo Switch/realMyst - Masterpiece Edition (USA)/realMyst - Masterpiece Edition (USA).json
 developer: Cyan Worlds, Inc.
 publisher: Cyan Worlds
 genre: Adventure;Puzzle

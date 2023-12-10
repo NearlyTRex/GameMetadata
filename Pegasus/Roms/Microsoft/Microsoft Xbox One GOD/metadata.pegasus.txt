@@ -1,9 +1,9 @@
 collection: Microsoft Xbox One GOD
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Microsoft Xbox One GOD" {file.path}
+launch: launch_rom -l "Microsoft Xbox One GOD" {file.path}
 
 
 game: 7 Days to Die (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/7 Days to Die (USA)/7 Days to Die (USA).json
+file: Microsoft/Microsoft Xbox One GOD/7 Days to Die (USA)/7 Days to Die (USA).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -28,7 +28,7 @@ x-co-op: Yes
 
 
 game: Bunker, The (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/Bunker, The (USA)/Bunker, The (USA).json
+file: Microsoft/Microsoft Xbox One GOD/Bunker, The (USA)/Bunker, The (USA).json
 developer: Splendy Games
 publisher: Green Man Gaming Publishing
 genre: Adventure;Point-and-Click
@@ -49,7 +49,7 @@ x-co-op: No
 
 
 game: Claire - Extended Cut (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/Claire - Extended Cut (USA)/Claire - Extended Cut (USA).json
+file: Microsoft/Microsoft Xbox One GOD/Claire - Extended Cut (USA)/Claire - Extended Cut (USA).json
 developer: Hailstorm Games Inc
 publisher: Hailstorm Games Inc
 genre: Adventure;General
@@ -71,7 +71,7 @@ x-co-op: No
 
 
 game: D4 - Dark Dreams Don't Die (USA) (Demo)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/D4 - Dark Dreams Don't Die (USA) (Demo)/D4 - Dark Dreams Don't Die (USA) (Demo).json
+file: Microsoft/Microsoft Xbox One GOD/D4 - Dark Dreams Don't Die (USA) (Demo)/D4 - Dark Dreams Don't Die (USA) (Demo).json
 developer: Access Games
 publisher: Microsoft Game Studios
 genre: Adventure;Point-and-Click
@@ -123,7 +123,7 @@ x-co-op: No
 
 
 game: Divinity - Original Sin - Enhanced Edition (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/Divinity - Original Sin - Enhanced Edition (USA)/Divinity - Original Sin - Enhanced Edition (USA).json
+file: Microsoft/Microsoft Xbox One GOD/Divinity - Original Sin - Enhanced Edition (USA)/Divinity - Original Sin - Enhanced Edition (USA).json
 developer: Larian Studios Games
 publisher: Larian Studios Games
 genre: Role-Playing;Western-Style
@@ -151,7 +151,7 @@ x-co-op: Yes
 
 
 game: Emily Wants to Play (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/Emily Wants to Play (USA)/Emily Wants to Play (USA).json
+file: Microsoft/Microsoft Xbox One GOD/Emily Wants to Play (USA)/Emily Wants to Play (USA).json
 developer: SKH Apps
 publisher: SKH Apps
 genre: Adventure;3D;First-Person
@@ -193,7 +193,7 @@ x-co-op: No
 
 
 game: Layers of Fear (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/Layers of Fear (USA)/Layers of Fear (USA).json
+file: Microsoft/Microsoft Xbox One GOD/Layers of Fear (USA)/Layers of Fear (USA).json
 developer: Bloober Team
 publisher: Bloober Team
 genre: Adventure;3D;First-Person
@@ -231,7 +231,7 @@ x-co-op: No
 
 
 game: Soda Drinker Pro (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/Soda Drinker Pro (USA)/Soda Drinker Pro (USA).json
+file: Microsoft/Microsoft Xbox One GOD/Soda Drinker Pro (USA)/Soda Drinker Pro (USA).json
 developer: Snowrunner Games
 publisher: Snowrunner Games
 genre: Miscellaneous;General
@@ -260,7 +260,7 @@ x-co-op: No
 
 
 game: Zoo Tycoon (USA)
-file: $ROM_JSON_ROOT/Microsoft/Microsoft Xbox One GOD/Zoo Tycoon (USA)/Zoo Tycoon (USA).json
+file: Microsoft/Microsoft Xbox One GOD/Zoo Tycoon (USA)/Zoo Tycoon (USA).json
 developer: Frontier Developments
 publisher: Microsoft Game Studios
 genre: Strategy;Management;Business / Tycoon

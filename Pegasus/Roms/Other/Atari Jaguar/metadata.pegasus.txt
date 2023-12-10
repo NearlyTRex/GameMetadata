@@ -1,9 +1,9 @@
 collection: Atari Jaguar
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Atari Jaguar" {file.path}
+launch: launch_rom -l "Atari Jaguar" {file.path}
 
 
 game: Alien vs Predator (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Alien vs Predator (World)/Alien vs Predator (World).json
+file: Other/Atari Jaguar/Alien vs Predator (World)/Alien vs Predator (World).json
 developer: Rebellion
 publisher: Atari
 genre: Shooter
@@ -24,7 +24,7 @@ x-co-op: No
 
 
 game: Atari Karts (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Atari Karts (World)/Atari Karts (World).json
+file: Other/Atari Jaguar/Atari Karts (World)/Atari Karts (World).json
 developer: Miracle Designs
 publisher: Atari, Inc.
 genre: Racing
@@ -46,7 +46,7 @@ x-co-op: No
 
 
 game: Checkered Flag (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Checkered Flag (World)/Checkered Flag (World).json
+file: Other/Atari Jaguar/Checkered Flag (World)/Checkered Flag (World).json
 developer: Rebellion
 publisher: Atari
 genre: Racing
@@ -69,7 +69,7 @@ x-co-op: No
 
 
 game: Club Drive (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Club Drive (World)/Club Drive (World).json
+file: Other/Atari Jaguar/Club Drive (World)/Club Drive (World).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Racing
@@ -90,7 +90,7 @@ x-co-op: No
 
 
 game: Cybermorph (World) (Rev A)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Cybermorph (World) (Rev A)/Cybermorph (World) (Rev A).json
+file: Other/Atari Jaguar/Cybermorph (World) (Rev A)/Cybermorph (World) (Rev A).json
 developer: Attention to Detail
 publisher: Atari
 genre: Shooter
@@ -119,7 +119,7 @@ x-co-op: No
 
 
 game: Cybermorph (World) (Rev B)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Cybermorph (World) (Rev B)/Cybermorph (World) (Rev B).json
+file: Other/Atari Jaguar/Cybermorph (World) (Rev B)/Cybermorph (World) (Rev B).json
 developer: Attention to Detail
 publisher: Atari
 genre: Shooter
@@ -148,7 +148,7 @@ x-co-op: No
 
 
 game: Doom (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Doom (World)/Doom (World).json
+file: Other/Atari Jaguar/Doom (World)/Doom (World).json
 developer: id Software
 publisher: Atari
 genre: Shooter
@@ -169,7 +169,7 @@ x-co-op: No
 
 
 game: Evolution - Dino Dudes (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Evolution - Dino Dudes (World)/Evolution - Dino Dudes (World).json
+file: Other/Atari Jaguar/Evolution - Dino Dudes (World)/Evolution - Dino Dudes (World).json
 developer: Imagitec Design Inc.
 publisher: Atari, Inc.
 genre: Puzzle
@@ -192,7 +192,7 @@ x-co-op: No
 
 
 game: Fight for Life (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Fight for Life (USA, Europe)/Fight for Life (USA, Europe).json
+file: Other/Atari Jaguar/Fight for Life (USA, Europe)/Fight for Life (USA, Europe).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Fighting
@@ -215,7 +215,7 @@ x-co-op: No
 
 
 game: Flip Out! (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Flip Out! (World)/Flip Out! (World).json
+file: Other/Atari Jaguar/Flip Out! (World)/Flip Out! (World).json
 developer: Gorilla Systems
 publisher: Atari
 genre: Puzzle
@@ -237,7 +237,7 @@ x-co-op: No
 
 
 game: Iron Soldier (World) (v1.04)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Iron Soldier (World) (v1.04)/Iron Soldier (World) (v1.04).json
+file: Other/Atari Jaguar/Iron Soldier (World) (v1.04)/Iron Soldier (World) (v1.04).json
 developer: Eclipse Software
 publisher: Atari
 genre: Shooter
@@ -264,7 +264,7 @@ x-co-op: No
 
 
 game: Kasumi Ninja (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Kasumi Ninja (World)/Kasumi Ninja (World).json
+file: Other/Atari Jaguar/Kasumi Ninja (World)/Kasumi Ninja (World).json
 developer: Hand Made Software
 publisher: Atari
 genre: Fighting
@@ -289,7 +289,7 @@ x-co-op: No
 
 
 game: Missile Command 3D (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Missile Command 3D (World)/Missile Command 3D (World).json
+file: Other/Atari Jaguar/Missile Command 3D (World)/Missile Command 3D (World).json
 developer: Virtuality Entertainment Ltd.
 publisher: Atari, Inc.
 genre: Shooter
@@ -320,7 +320,7 @@ x-co-op: No
 
 
 game: Ruiner Pinball (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Ruiner Pinball (USA, Europe)/Ruiner Pinball (USA, Europe).json
+file: Other/Atari Jaguar/Ruiner Pinball (USA, Europe)/Ruiner Pinball (USA, Europe).json
 developer: High Voltage Software, Inc.
 publisher: Atari, Inc.
 genre: Strategy
@@ -343,7 +343,7 @@ x-co-op: No
 
 
 game: Tempest 2000 (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Tempest 2000 (World)/Tempest 2000 (World).json
+file: Other/Atari Jaguar/Tempest 2000 (World)/Tempest 2000 (World).json
 developer: LLamasoft
 publisher: Atari
 genre: Shooter
@@ -365,7 +365,7 @@ x-co-op: No
 
 
 game: Theme Park (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Theme Park (World)/Theme Park (World).json
+file: Other/Atari Jaguar/Theme Park (World)/Theme Park (World).json
 developer: Bullfrog
 publisher: Ocean Software
 genre: Construction and Management Simulation;Strategy
@@ -386,7 +386,7 @@ x-co-op: No
 
 
 game: Towers II (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Towers II (World)/Towers II (World).json
+file: Other/Atari Jaguar/Towers II (World)/Towers II (World).json
 developer: JV Games
 publisher: Telegames
 genre: Role-Playing
@@ -409,7 +409,7 @@ x-co-op: No
 
 
 game: Trevor McFur in the Crescent Galaxy (World) (Rev A)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Trevor McFur in the Crescent Galaxy (World) (Rev A)/Trevor McFur in the Crescent Galaxy (World) (Rev A).json
+file: Other/Atari Jaguar/Trevor McFur in the Crescent Galaxy (World) (Rev A)/Trevor McFur in the Crescent Galaxy (World) (Rev A).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter
@@ -432,7 +432,7 @@ x-co-op: No
 
 
 game: Zool 2 (World)
-file: $ROM_JSON_ROOT/Other/Atari Jaguar/Zool 2 (World)/Zool 2 (World).json
+file: Other/Atari Jaguar/Zool 2 (World)/Zool 2 (World).json
 developer: Imagitec Design
 publisher: Atari
 genre: Action;Platform

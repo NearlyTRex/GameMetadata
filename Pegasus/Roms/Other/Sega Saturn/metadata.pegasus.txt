@@ -1,9 +1,9 @@
 collection: Sega Saturn
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega Saturn" {file.path}
+launch: launch_rom -l "Sega Saturn" {file.path}
 
 
 game: Alone in the Dark - One-Eyed Jack's Revenge (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Alone in the Dark - One-Eyed Jack's Revenge (USA)/Alone in the Dark - One-Eyed Jack's Revenge (USA).json
+file: Other/Sega Saturn/Alone in the Dark - One-Eyed Jack's Revenge (USA)/Alone in the Dark - One-Eyed Jack's Revenge (USA).json
 developer: Infogrames
 publisher: Interplay Entertainment
 genre: Action;Adventure
@@ -33,7 +33,7 @@ x-co-op: No
 
 
 game: Bio Hazard (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Bio Hazard (Japan)/Bio Hazard (Japan).json
+file: Other/Sega Saturn/Bio Hazard (Japan)/Bio Hazard (Japan).json
 developer: Nextech
 publisher: Capcom
 genre: Action;Horror;Puzzle
@@ -58,7 +58,7 @@ x-co-op: No
 
 
 game: Bug! (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Bug! (USA)/Bug! (USA).json
+file: Other/Sega Saturn/Bug! (USA)/Bug! (USA).json
 developer: Realtime Associates
 publisher: Sega
 genre: Platform
@@ -82,7 +82,7 @@ x-co-op: No
 
 
 game: Clockwork Knight - Pepperouchau's Adventure (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Clockwork Knight - Pepperouchau's Adventure (USA)/Clockwork Knight - Pepperouchau's Adventure (USA).json
+file: Other/Sega Saturn/Clockwork Knight - Pepperouchau's Adventure (USA)/Clockwork Knight - Pepperouchau's Adventure (USA).json
 developer: AM7
 publisher: Sega
 genre: Platform
@@ -109,7 +109,7 @@ x-co-op: No
 
 
 game: D (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/D (USA)/D (USA).json
+file: Other/Sega Saturn/D (USA)/D (USA).json
 developer: Warp
 publisher: Acclaim
 genre: Adventure
@@ -145,7 +145,7 @@ x-co-op: No
 
 
 game: Daytona USA (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Daytona USA (USA)/Daytona USA (USA).json
+file: Other/Sega Saturn/Daytona USA (USA)/Daytona USA (USA).json
 developer: Sega AM2
 publisher: Sega
 genre: Racing
@@ -170,7 +170,7 @@ x-co-op: No
 
 
 game: Deep Fear (Japan)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Deep Fear (Japan)/Deep Fear (Japan).json
+file: Other/Sega Saturn/Deep Fear (Japan)/Deep Fear (Japan).json
 developer: ISCO
 publisher: Sega
 genre: Action;Adventure;Horror
@@ -201,7 +201,7 @@ x-co-op: No
 
 
 game: Enemy Zero (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Enemy Zero (USA)/Enemy Zero (USA).json
+file: Other/Sega Saturn/Enemy Zero (USA)/Enemy Zero (USA).json
 developer: Warp
 publisher: Sega
 genre: Action;Adventure
@@ -236,7 +236,7 @@ x-co-op: No
 
 
 game: Legend of Oasis, The (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Legend of Oasis, The (USA)/Legend of Oasis, The (USA).json
+file: Other/Sega Saturn/Legend of Oasis, The (USA)/Legend of Oasis, The (USA).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -257,7 +257,7 @@ x-co-op: No
 
 
 game: Mansion of Hidden Souls, The (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Mansion of Hidden Souls, The (USA)/Mansion of Hidden Souls, The (USA).json
+file: Other/Sega Saturn/Mansion of Hidden Souls, The (USA)/Mansion of Hidden Souls, The (USA).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -285,7 +285,7 @@ x-co-op: No
 
 
 game: Mass Destruction (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Mass Destruction (USA)/Mass Destruction (USA).json
+file: Other/Sega Saturn/Mass Destruction (USA)/Mass Destruction (USA).json
 developer: NMS Software Ltd.
 publisher: ASC Games
 genre: Action
@@ -307,7 +307,7 @@ x-co-op: No
 
 
 game: Mystaria - The Realms of Lore (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Mystaria - The Realms of Lore (USA)/Mystaria - The Realms of Lore (USA).json
+file: Other/Sega Saturn/Mystaria - The Realms of Lore (USA)/Mystaria - The Realms of Lore (USA).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing;Strategy
@@ -353,7 +353,7 @@ x-co-op: No
 
 
 game: NiGHTS into Dreams... (USA) (Demo)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/NiGHTS into Dreams... (USA) (Demo)/NiGHTS into Dreams... (USA) (Demo).json
+file: Other/Sega Saturn/NiGHTS into Dreams... (USA) (Demo)/NiGHTS into Dreams... (USA) (Demo).json
 developer: Sonic Team
 publisher: Sega
 genre: Action
@@ -377,7 +377,7 @@ x-co-op: No
 
 
 game: Sonic R (USA, Brazil)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Sonic R (USA, Brazil)/Sonic R (USA, Brazil).json
+file: Other/Sega Saturn/Sonic R (USA, Brazil)/Sonic R (USA, Brazil).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Racing
@@ -397,7 +397,7 @@ x-co-op: No
 
 
 game: Virtua Cop (USA) (6S)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Virtua Cop (USA) (6S)/Virtua Cop (USA) (6S).json
+file: Other/Sega Saturn/Virtua Cop (USA) (6S)/Virtua Cop (USA) (6S).json
 developer: Sega AM2
 publisher: Sega
 genre: Shooter
@@ -418,7 +418,7 @@ x-co-op: Yes
 
 
 game: Virtua Fighter 2 (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Virtua Fighter 2 (USA)/Virtua Fighter 2 (USA).json
+file: Other/Sega Saturn/Virtua Fighter 2 (USA)/Virtua Fighter 2 (USA).json
 developer: Sega
 publisher: Sega
 genre: Fighting
@@ -440,7 +440,7 @@ x-co-op: No
 
 
 game: Virtual Hydlide (USA)
-file: $ROM_JSON_ROOT/Other/Sega Saturn/Virtual Hydlide (USA)/Virtual Hydlide (USA).json
+file: Other/Sega Saturn/Virtual Hydlide (USA)/Virtual Hydlide (USA).json
 developer: T&E Soft
 publisher: Atlus
 genre: Action;Role-Playing

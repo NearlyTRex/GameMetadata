@@ -1,9 +1,9 @@
 collection: Panasonic 3DO
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Panasonic 3DO" {file.path}
+launch: launch_rom -l "Panasonic 3DO" {file.path}
 
 
 game: Alone in the Dark (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Alone in the Dark (USA)/Alone in the Dark (USA).json
+file: Other/Panasonic 3DO/Alone in the Dark (USA)/Alone in the Dark (USA).json
 developer: Krisalis Software
 publisher: Interplay
 genre: Action;Adventure
@@ -28,7 +28,7 @@ x-co-op: No
 
 
 game: Alone in the Dark 2 (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Alone in the Dark 2 (USA)/Alone in the Dark 2 (USA).json
+file: Other/Panasonic 3DO/Alone in the Dark 2 (USA)/Alone in the Dark 2 (USA).json
 developer: Krisalis
 publisher: Infogrames
 genre: Action;Adventure
@@ -49,7 +49,7 @@ x-co-op: No
 
 
 game: Burning Soldier (USA, Korea)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Burning Soldier (USA, Korea)/Burning Soldier (USA, Korea).json
+file: Other/Panasonic 3DO/Burning Soldier (USA, Korea)/Burning Soldier (USA, Korea).json
 developer: Genki
 publisher: Panasonic
 genre: Action;Shooter
@@ -82,7 +82,7 @@ x-co-op: No
 
 
 game: DeathKeep (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/DeathKeep (USA)/DeathKeep (USA).json
+file: Other/Panasonic 3DO/DeathKeep (USA)/DeathKeep (USA).json
 developer: Lion Entertainment Inc.
 publisher: Strategic Simulations Inc.
 genre: Action;Role-Playing
@@ -105,7 +105,7 @@ x-co-op: No
 
 
 game: Doctor Hauzer (Japan)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Doctor Hauzer (Japan)/Doctor Hauzer (Japan).json
+file: Other/Panasonic 3DO/Doctor Hauzer (Japan)/Doctor Hauzer (Japan).json
 developer: River Hill Software
 publisher: Matsushita Electric Industrial
 genre: Horror
@@ -128,7 +128,7 @@ x-co-op: No
 
 
 game: Escape from Monster Manor (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Escape from Monster Manor (USA)/Escape from Monster Manor (USA).json
+file: Other/Panasonic 3DO/Escape from Monster Manor (USA)/Escape from Monster Manor (USA).json
 developer: Studio 3do
 publisher: Electronic Arts
 genre: Shooter
@@ -150,7 +150,7 @@ x-co-op: No
 
 
 game: Guardian War (USA, Korea)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Guardian War (USA, Korea)/Guardian War (USA, Korea).json
+file: Other/Panasonic 3DO/Guardian War (USA, Korea)/Guardian War (USA, Korea).json
 developer: Micro Cabin
 publisher: Matsushita
 genre: Role-Playing
@@ -178,7 +178,7 @@ x-co-op: No
 
 
 game: Horde, The (Japan)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Horde, The (Japan)/Horde, The (Japan).json
+file: Other/Panasonic 3DO/Horde, The (Japan)/Horde, The (Japan).json
 developer: Toys for Bob
 publisher: Crystal Dynamics
 genre: Action;Strategy
@@ -204,7 +204,7 @@ x-co-op: No
 
 
 game: Horde, The (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Horde, The (USA)/Horde, The (USA).json
+file: Other/Panasonic 3DO/Horde, The (USA)/Horde, The (USA).json
 developer: Toys for Bob
 publisher: Crystal Dynamics
 genre: Action;Strategy
@@ -230,7 +230,7 @@ x-co-op: No
 
 
 game: Immercenary - Combat in a Digital World (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Immercenary - Combat in a Digital World (USA)/Immercenary - Combat in a Digital World (USA).json
+file: Other/Panasonic 3DO/Immercenary - Combat in a Digital World (USA)/Immercenary - Combat in a Digital World (USA).json
 developer: Five Miles Out
 publisher: Electronic Arts
 genre: Shooter
@@ -269,7 +269,7 @@ x-co-op: No
 
 
 game: Jurassic Park Interactive (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Jurassic Park Interactive (USA)/Jurassic Park Interactive (USA).json
+file: Other/Panasonic 3DO/Jurassic Park Interactive (USA)/Jurassic Park Interactive (USA).json
 developer: Studio 3do
 publisher: Universal Interactive
 genre: Action;Racing
@@ -293,7 +293,7 @@ x-co-op: No
 
 
 game: Kingdom - The Far Reaches (USA, Europe)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Kingdom - The Far Reaches (USA, Europe)/Kingdom - The Far Reaches (USA, Europe).json
+file: Other/Panasonic 3DO/Kingdom - The Far Reaches (USA, Europe)/Kingdom - The Far Reaches (USA, Europe).json
 developer: Interplay
 publisher: Interplay
 genre: Adventure
@@ -319,7 +319,7 @@ x-co-op: No
 
 
 game: Lucienne's Quest (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Lucienne's Quest (USA)/Lucienne's Quest (USA).json
+file: Other/Panasonic 3DO/Lucienne's Quest (USA)/Lucienne's Quest (USA).json
 developer: Micro Cabin
 publisher: Panasonic Interactive
 genre: Role-Playing
@@ -344,7 +344,7 @@ x-co-op: No
 
 
 game: Return Fire (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Return Fire (USA)/Return Fire (USA).json
+file: Other/Panasonic 3DO/Return Fire (USA)/Return Fire (USA).json
 developer: Silent Software
 publisher: Prolific Publishing
 genre: Action
@@ -368,7 +368,7 @@ x-co-op: No
 
 
 game: Slayer (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Slayer (USA)/Slayer (USA).json
+file: Other/Panasonic 3DO/Slayer (USA)/Slayer (USA).json
 developer: Lion Entertainment Inc.
 publisher: Strategic Simulations, Inc.
 genre: Action;Role-Playing
@@ -388,7 +388,7 @@ x-co-op: No
 
 
 game: Space Hulk - Vengeance of the Blood Angels (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Space Hulk - Vengeance of the Blood Angels (USA)/Space Hulk - Vengeance of the Blood Angels (USA).json
+file: Other/Panasonic 3DO/Space Hulk - Vengeance of the Blood Angels (USA)/Space Hulk - Vengeance of the Blood Angels (USA).json
 developer: Key Game
 publisher: Electronic Arts
 genre: Action;Strategy
@@ -414,7 +414,7 @@ x-co-op: No
 
 
 game: Total Eclipse (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Total Eclipse (USA)/Total Eclipse (USA).json
+file: Other/Panasonic 3DO/Total Eclipse (USA)/Total Eclipse (USA).json
 developer: Crystal Dynamics
 publisher: Crystal Dynamics
 genre: Action;Shooter
@@ -436,7 +436,7 @@ x-co-op: No
 
 
 game: Wolfenstein 3D (USA)
-file: $ROM_JSON_ROOT/Other/Panasonic 3DO/Wolfenstein 3D (USA)/Wolfenstein 3D (USA).json
+file: Other/Panasonic 3DO/Wolfenstein 3D (USA)/Wolfenstein 3D (USA).json
 developer: id Software
 publisher: Interplay
 genre: Shooter

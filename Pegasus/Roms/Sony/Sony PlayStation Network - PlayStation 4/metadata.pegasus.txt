@@ -1,9 +1,9 @@
 collection: Sony PlayStation Network - PlayStation 4
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sony PlayStation Network - PlayStation 4" {file.path}
+launch: launch_rom -l "Sony PlayStation Network - PlayStation 4" {file.path}
 
 
 game: Abzu (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Abzu (USA)/Abzu (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Abzu (USA)/Abzu (USA).json
 developer: Giant Squid
 publisher: 505 Games
 genre: Adventure;3D;Third-Person
@@ -28,7 +28,7 @@ x-co-op: No
 
 
 game: Allumette (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Allumette (USA)/Allumette (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Allumette (USA)/Allumette (USA).json
 developer: Penrose Studios
 publisher: Penrose Studios
 genre: Adventure;General
@@ -49,7 +49,7 @@ x-co-op: No
 
 
 game: Astro Bot - Rescue Mission (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Astro Bot - Rescue Mission (USA)/Astro Bot - Rescue Mission (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Astro Bot - Rescue Mission (USA)/Astro Bot - Rescue Mission (USA).json
 developer: SIE Japan Studio
 publisher: Sony Interactive Entertainment
 genre: Platform
@@ -76,7 +76,7 @@ x-co-op: No
 
 
 game: Dead Rising (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Dead Rising (USA)/Dead Rising (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Dead Rising (USA)/Dead Rising (USA).json
 developer: Capcom Co. Ltd
 publisher: Capcom
 genre: Horror;Shooter
@@ -98,7 +98,7 @@ x-co-op: No
 
 
 game: Dead Rising 2 (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Dead Rising 2 (USA)/Dead Rising 2 (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Dead Rising 2 (USA)/Dead Rising 2 (USA).json
 developer: Blue Castle Games
 publisher: Capcom
 genre: Horror
@@ -123,7 +123,7 @@ x-co-op: No
 
 
 game: Enter the Gungeon (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Enter the Gungeon (USA)/Enter the Gungeon (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Enter the Gungeon (USA)/Enter the Gungeon (USA).json
 developer: Dodge Roll
 publisher: Devolver Digital
 genre: Action;Adventure
@@ -170,7 +170,7 @@ x-co-op: Yes
 
 
 game: Fallout Shelter (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Fallout Shelter (USA)/Fallout Shelter (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Fallout Shelter (USA)/Fallout Shelter (USA).json
 developer: Bethesda Softworks
 publisher: Bethesda Softworks
 genre: Strategy;General
@@ -216,7 +216,7 @@ x-co-op: No
 
 
 game: Friday the 13th - The Game (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Friday the 13th - The Game (USA)/Friday the 13th - The Game (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Friday the 13th - The Game (USA)/Friday the 13th - The Game (USA).json
 developer: IllFonic
 publisher: Gun Media
 genre: Action Adventure;Survival
@@ -241,7 +241,7 @@ x-co-op: Yes
 
 
 game: Gary the Gull (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Gary the Gull (USA)/Gary the Gull (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Gary the Gull (USA)/Gary the Gull (USA).json
 developer: Motional Entertainment
 publisher: Limitless Ltd
 genre: Adventure;General
@@ -258,7 +258,7 @@ x-co-op: No
 
 
 game: Grim Fandango Remastered (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
 developer: Double Fine
 publisher: Double Fine
 genre: Adventure
@@ -287,7 +287,7 @@ x-co-op: No
 
 
 game: Horizon Zero Dawn - Complete Edition (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Horizon Zero Dawn - Complete Edition (USA)/Horizon Zero Dawn - Complete Edition (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Horizon Zero Dawn - Complete Edition (USA)/Horizon Zero Dawn - Complete Edition (USA).json
 developer: Guerrilla Games
 publisher: Sony Interactive Entertainment
 genre: Action;Role-Playing;Sandbox
@@ -313,7 +313,7 @@ x-co-op: No
 
 
 game: Invasion! (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Invasion! (USA)/Invasion! (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Invasion! (USA)/Invasion! (USA).json
 developer: Baobab Studios Inc.
 publisher: Ubisoft
 genre: Adventure;Visual Novel
@@ -333,7 +333,7 @@ x-co-op: No
 
 
 game: Keep Talking and Nobody Explodes (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Keep Talking and Nobody Explodes (USA)/Keep Talking and Nobody Explodes (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Keep Talking and Nobody Explodes (USA)/Keep Talking and Nobody Explodes (USA).json
 developer: Steel Crate Games
 publisher: Steel Crate Games
 genre: Adventure;3D;First-Person
@@ -353,7 +353,7 @@ x-co-op: Yes
 
 
 game: King's Tale - Final Fantasy XV, A (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/King's Tale - Final Fantasy XV, A (USA)/King's Tale - Final Fantasy XV, A (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/King's Tale - Final Fantasy XV, A (USA)/King's Tale - Final Fantasy XV, A (USA).json
 developer: Empty Clip Studios
 publisher: Square Enix
 genre: Action
@@ -382,7 +382,7 @@ x-co-op: No
 
 
 game: Mega Man Legacy Collection (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Mega Man Legacy Collection (USA)/Mega Man Legacy Collection (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Mega Man Legacy Collection (USA)/Mega Man Legacy Collection (USA).json
 developer: Digital Eclipse
 publisher: Capcom
 genre: Action;Platform
@@ -410,7 +410,7 @@ x-co-op: No
 
 
 game: Moss (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Moss (USA)/Moss (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Moss (USA)/Moss (USA).json
 developer: Polyarc
 publisher: Polyarc
 genre: Action;Platform;Puzzle
@@ -438,7 +438,7 @@ x-co-op: No
 
 
 game: Nuclear Throne (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Nuclear Throne (USA)/Nuclear Throne (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Nuclear Throne (USA)/Nuclear Throne (USA).json
 developer: Vlambeer
 publisher: Vlambeer
 genre: Action
@@ -485,7 +485,7 @@ x-co-op: Yes
 
 
 game: P.T. - Silent Hills (Europe)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/P.T. - Silent Hills (Europe)/P.T. - Silent Hills (Europe).json
+file: Sony/Sony PlayStation Network - PlayStation 4/P.T. - Silent Hills (Europe)/P.T. - Silent Hills (Europe).json
 developer: Kojima Productions
 publisher: Konami
 genre: Action Adventure;Survival
@@ -502,7 +502,7 @@ x-co-op: No
 
 
 game: P.T. - Silent Hills (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/P.T. - Silent Hills (USA)/P.T. - Silent Hills (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/P.T. - Silent Hills (USA)/P.T. - Silent Hills (USA).json
 developer: Kojima Productions
 publisher: Konami
 genre: Action Adventure;Survival
@@ -525,7 +525,7 @@ x-co-op: No
 
 
 game: Paper Beast (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Paper Beast (USA)/Paper Beast (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Paper Beast (USA)/Paper Beast (USA).json
 developer: Pixel Reef
 publisher: Pixel Reef
 genre: Action Adventure;Sandbox
@@ -545,7 +545,7 @@ x-co-op: No
 
 
 game: PlayStation VR Demo Disc 2 (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/PlayStation VR Demo Disc 2 (USA)/PlayStation VR Demo Disc 2 (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/PlayStation VR Demo Disc 2 (USA)/PlayStation VR Demo Disc 2 (USA).json
 developer: Sony Interactive Entertainment
 publisher: Sony Interactive Entertainment
 genre: Miscellaneous;Demo Disc
@@ -562,7 +562,7 @@ x-co-op: No
 
 
 game: Playroom VR, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Playroom VR, The (USA)/Playroom VR, The (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Playroom VR, The (USA)/Playroom VR, The (USA).json
 developer: Japan Studio
 publisher: Sony Interactive Entertainment
 genre: Action;Platform
@@ -590,7 +590,7 @@ x-co-op: Yes
 
 
 game: RPG Maker MV Player (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/RPG Maker MV Player (USA)/RPG Maker MV Player (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/RPG Maker MV Player (USA)/RPG Maker MV Player (USA).json
 developer: Kadokawa
 publisher: NIS America
 genre: Miscellaneous;Application
@@ -607,7 +607,7 @@ x-co-op: No
 
 
 game: Ratchet & Clank (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Ratchet & Clank (USA)/Ratchet & Clank (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Ratchet & Clank (USA)/Ratchet & Clank (USA).json
 developer: Insomniac Games
 publisher: Sony Computer Entertainment
 genre: Action;Platform;Shooter
@@ -641,7 +641,7 @@ x-co-op: No
 
 
 game: Resident Evil (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Resident Evil (USA)/Resident Evil (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Resident Evil (USA)/Resident Evil (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror
@@ -664,7 +664,7 @@ x-co-op: No
 
 
 game: Resident Evil - Code - Veronica X (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Resident Evil - Code - Veronica X (USA)/Resident Evil - Code - Veronica X (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Resident Evil - Code - Veronica X (USA)/Resident Evil - Code - Veronica X (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror
@@ -687,7 +687,7 @@ x-co-op: No
 
 
 game: Rez Infinite (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Rez Infinite (USA)/Rez Infinite (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Rez Infinite (USA)/Rez Infinite (USA).json
 developer: Enhance Games
 publisher: Enhance Games
 genre: Music
@@ -714,7 +714,7 @@ x-co-op: No
 
 
 game: Rollercoaster Dreams (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Rollercoaster Dreams (USA)/Rollercoaster Dreams (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Rollercoaster Dreams (USA)/Rollercoaster Dreams (USA).json
 developer: COLOPL, Inc.
 publisher: Bimboosoft
 genre: Strategy;Management;Business / Tycoon
@@ -739,7 +739,7 @@ x-co-op: No
 
 
 game: Spider-Man - Far From Home VR (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Spider-Man - Far From Home VR (USA)/Spider-Man - Far From Home VR (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Spider-Man - Far From Home VR (USA)/Spider-Man - Far From Home VR (USA).json
 developer: CreateVR
 publisher: Sony Pictures Virtual Reality
 genre: Action;General
@@ -765,7 +765,7 @@ x-co-op: No
 
 
 game: Spider-Man - Homecoming VR (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Spider-Man - Homecoming VR (USA)/Spider-Man - Homecoming VR (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Spider-Man - Homecoming VR (USA)/Spider-Man - Homecoming VR (USA).json
 developer: CreateVR
 publisher: Sony Pictures Virtual Reality
 genre: Action;General
@@ -790,7 +790,7 @@ x-co-op: No
 
 
 game: Statik (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Statik (USA)/Statik (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Statik (USA)/Statik (USA).json
 developer: Tarsier Studios
 publisher: Tarsier Studios
 genre: Puzzle
@@ -813,7 +813,7 @@ x-co-op: No
 
 
 game: Subnautica (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Subnautica (USA)/Subnautica (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Subnautica (USA)/Subnautica (USA).json
 developer: Unknown Worlds Entertainment
 publisher: Unknown Worlds Entertainment
 genre: Adventure;General
@@ -831,7 +831,7 @@ x-co-op: No
 
 
 game: SuperHyperCube (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/SuperHyperCube (USA)/SuperHyperCube (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/SuperHyperCube (USA)/SuperHyperCube (USA).json
 developer: KOKOROMI
 publisher: Polytron Corp.
 genre: Puzzle;General
@@ -848,7 +848,7 @@ x-co-op: No
 
 
 game: Tearaway Unfolded Soundtrack (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Tearaway Unfolded Soundtrack (USA)/Tearaway Unfolded Soundtrack (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Tearaway Unfolded Soundtrack (USA)/Tearaway Unfolded Soundtrack (USA).json
 developer: Media Molecule
 publisher: SCEA
 genre: Action;Platformer;3D
@@ -866,7 +866,7 @@ x-co-op: No
 
 
 game: Thumper (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Thumper (USA)/Thumper (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Thumper (USA)/Thumper (USA).json
 developer: Drool
 publisher: Drool
 genre: Action;Music
@@ -890,7 +890,7 @@ x-co-op: No
 
 
 game: Tumble VR (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Tumble VR (USA)/Tumble VR (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Tumble VR (USA)/Tumble VR (USA).json
 developer: Supermassive Games
 publisher: Sony Interactive Entertainment
 genre: Puzzle
@@ -920,7 +920,7 @@ x-co-op: No
 
 
 game: Valkyria Chronicles Remastered (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Valkyria Chronicles Remastered (USA)/Valkyria Chronicles Remastered (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Valkyria Chronicles Remastered (USA)/Valkyria Chronicles Remastered (USA).json
 developer: Sega
 publisher: Sega
 genre: Shooter;Strategy
@@ -949,7 +949,7 @@ x-co-op: No
 
 
 game: Witness, The (USA)
-file: $ROM_JSON_ROOT/Sony/Sony PlayStation Network - PlayStation 4/Witness, The (USA)/Witness, The (USA).json
+file: Sony/Sony PlayStation Network - PlayStation 4/Witness, The (USA)/Witness, The (USA).json
 developer: Jonathan Blow
 publisher: Thekla, Inc
 genre: Puzzle

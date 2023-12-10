@@ -1,9 +1,9 @@
 collection: Texas Instruments TI-99-4A
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Texas Instruments TI-99-4A" {file.path}
+launch: launch_rom -l "Texas Instruments TI-99-4A" {file.path}
 
 
 game: A-Maze-Ing (USA)
-file: $ROM_JSON_ROOT/Other/Texas Instruments TI-99-4A/A-Maze-Ing (USA)/A-Maze-Ing (USA).json
+file: Other/Texas Instruments TI-99-4A/A-Maze-Ing (USA)/A-Maze-Ing (USA).json
 developer: Kevin Kenney
 publisher: Texas Instruments Incorporated
 genre: Action;Puzzle
@@ -27,7 +27,7 @@ x-co-op: No
 
 
 game: Hunt The Wumpus (USA)
-file: $ROM_JSON_ROOT/Other/Texas Instruments TI-99-4A/Hunt The Wumpus (USA)/Hunt The Wumpus (USA).json
+file: Other/Texas Instruments TI-99-4A/Hunt The Wumpus (USA)/Hunt The Wumpus (USA).json
 developer: Texas Instruments Incorporated
 publisher: Texas Instruments Incorporated
 genre: Action;Puzzle
@@ -55,7 +55,7 @@ x-co-op: No
 
 
 game: Moon Mine (USA)
-file: $ROM_JSON_ROOT/Other/Texas Instruments TI-99-4A/Moon Mine (USA)/Moon Mine (USA).json
+file: Other/Texas Instruments TI-99-4A/Moon Mine (USA)/Moon Mine (USA).json
 developer: John M. Phillips
 publisher: Texas Instruments Incorporated
 genre: Shooter
@@ -86,7 +86,7 @@ x-co-op: No
 
 
 game: Munch Man (USA)
-file: $ROM_JSON_ROOT/Other/Texas Instruments TI-99-4A/Munch Man (USA)/Munch Man (USA).json
+file: Other/Texas Instruments TI-99-4A/Munch Man (USA)/Munch Man (USA).json
 developer: Texas Instruments
 publisher: Texas Instruments
 genre: Action;Arcade
@@ -106,7 +106,7 @@ x-co-op: No
 
 
 game: Parsec (USA)
-file: $ROM_JSON_ROOT/Other/Texas Instruments TI-99-4A/Parsec (USA)/Parsec (USA).json
+file: Other/Texas Instruments TI-99-4A/Parsec (USA)/Parsec (USA).json
 developer: Paul Urbanus
 publisher: Texas Instruments Incorporated
 genre: Shooter

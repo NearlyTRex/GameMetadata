@@ -1,9 +1,9 @@
 collection: Nintendo Wii
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Wii" {file.path}
+launch: launch_rom -l "Nintendo Wii" {file.path}
 
 
 game: Alien Syndrome (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Alien Syndrome (USA)/Alien Syndrome (USA).json
+file: Nintendo/Nintendo Wii/Alien Syndrome (USA)/Alien Syndrome (USA).json
 developer: Totally Games
 publisher: Sega
 genre: Shooter
@@ -27,7 +27,7 @@ x-co-op: Yes
 
 
 game: Attack of the Movies 3-D (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Attack of the Movies 3-D (USA)/Attack of the Movies 3-D (USA).json
+file: Nintendo/Nintendo Wii/Attack of the Movies 3-D (USA)/Attack of the Movies 3-D (USA).json
 developer: Panic Button Games
 publisher: Majesco
 genre: Shooter
@@ -48,7 +48,7 @@ x-co-op: No
 
 
 game: Boom Blox (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Boom Blox (USA) (En,Fr,Es)/Boom Blox (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Boom Blox (USA) (En,Fr,Es)/Boom Blox (USA) (En,Fr,Es).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Puzzle
@@ -70,7 +70,7 @@ x-co-op: No
 
 
 game: Boom Blox Bash Party (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Boom Blox Bash Party (USA) (En,Fr,Es)/Boom Blox Bash Party (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Boom Blox Bash Party (USA) (En,Fr,Es)/Boom Blox Bash Party (USA) (En,Fr,Es).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Puzzle
@@ -96,7 +96,7 @@ x-co-op: Yes
 
 
 game: Boy and His Blob, A (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Boy and His Blob, A (USA)/Boy and His Blob, A (USA).json
+file: Nintendo/Nintendo Wii/Boy and His Blob, A (USA)/Boy and His Blob, A (USA).json
 developer: WayForward Technologies
 publisher: Majesco Entertainment
 genre: Platform;Puzzle
@@ -121,7 +121,7 @@ x-co-op: No
 
 
 game: Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es)/Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es)/Broken Sword - Shadow of the Templars - The Director's Cut (USA) (En,Fr,Es).json
 developer: Revolution Software
 publisher: Ubisoft
 genre: Adventure
@@ -156,7 +156,7 @@ x-co-op: No
 
 
 game: Bully - Scholarship Edition (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Bully - Scholarship Edition (USA) (En,Fr,Es)/Bully - Scholarship Edition (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Bully - Scholarship Edition (USA) (En,Fr,Es)/Bully - Scholarship Edition (USA) (En,Fr,Es).json
 developer: Rockstar
 publisher: Rockstar
 genre: Action;Adventure;Sandbox
@@ -189,7 +189,7 @@ x-co-op: No
 
 
 game: Calling (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Calling (USA) (En,Fr,Es)/Calling (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Calling (USA) (En,Fr,Es)/Calling (USA) (En,Fr,Es).json
 developer: Hudson Soft
 publisher: Konami
 genre: Adventure;Horror
@@ -220,7 +220,7 @@ x-co-op: No
 
 
 game: Castlevania Judgment (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Castlevania Judgment (USA)/Castlevania Judgment (USA).json
+file: Nintendo/Nintendo Wii/Castlevania Judgment (USA)/Castlevania Judgment (USA).json
 developer: Eighting Co
 publisher: Konami
 genre: Fighting;Horror
@@ -243,7 +243,7 @@ x-co-op: No
 
 
 game: Cooking Mama - World Kitchen (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Cooking Mama - World Kitchen (USA) (Rev 1)/Cooking Mama - World Kitchen (USA) (Rev 1).json
+file: Nintendo/Nintendo Wii/Cooking Mama - World Kitchen (USA) (Rev 1)/Cooking Mama - World Kitchen (USA) (Rev 1).json
 developer: Cooking Mama Ltd.
 publisher: Majesco
 genre: Life Simulation
@@ -263,7 +263,7 @@ x-co-op: No
 
 
 game: Cursed Mountain (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Cursed Mountain (USA) (En,Fr,Es)/Cursed Mountain (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Cursed Mountain (USA) (En,Fr,Es)/Cursed Mountain (USA) (En,Fr,Es).json
 developer: Deep Silver Vienna
 publisher: Deep Silver Vienna
 genre: Adventure;Horror
@@ -286,7 +286,7 @@ x-co-op: No
 
 
 game: Dance Dance Revolution (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Dance Dance Revolution (USA) (En,Fr,Es)/Dance Dance Revolution (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Dance Dance Revolution (USA) (En,Fr,Es)/Dance Dance Revolution (USA) (En,Fr,Es).json
 developer: Konami
 publisher: Konami
 genre: Music
@@ -319,7 +319,7 @@ x-co-op: No
 
 
 game: Disney Epic Mickey (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Disney Epic Mickey (USA) (En,Fr,Es)/Disney Epic Mickey (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Disney Epic Mickey (USA) (En,Fr,Es)/Disney Epic Mickey (USA) (En,Fr,Es).json
 developer: Junction Point Studios
 publisher: Nintendo
 genre: Adventure;Platform
@@ -348,7 +348,7 @@ x-co-op: No
 
 
 game: Donkey Kong Jungle Beat (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Donkey Kong Jungle Beat (USA) (En,Fr,Es)/Donkey Kong Jungle Beat (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Donkey Kong Jungle Beat (USA) (En,Fr,Es)/Donkey Kong Jungle Beat (USA) (En,Fr,Es).json
 developer: Nintendo EAD Tokyo
 publisher: Nintendo
 genre: Platform
@@ -371,7 +371,7 @@ x-co-op: No
 
 
 game: Escape from Bug Island (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Escape from Bug Island (USA)/Escape from Bug Island (USA).json
+file: Nintendo/Nintendo Wii/Escape from Bug Island (USA)/Escape from Bug Island (USA).json
 developer: Spike Co.
 publisher: Secret Stash
 genre: Horror
@@ -393,7 +393,7 @@ x-co-op: No
 
 
 game: Excite Truck (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Excite Truck (USA)/Excite Truck (USA).json
+file: Nintendo/Nintendo Wii/Excite Truck (USA)/Excite Truck (USA).json
 developer: Monster Games, Inc.
 publisher: Nintendo
 genre: Racing
@@ -414,7 +414,7 @@ x-co-op: No
 
 
 game: Far Cry Vengeance (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Far Cry Vengeance (USA) (En,Fr,Es)/Far Cry Vengeance (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Far Cry Vengeance (USA) (En,Fr,Es)/Far Cry Vengeance (USA) (En,Fr,Es).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Shooter
@@ -436,7 +436,7 @@ x-co-op: No
 
 
 game: Final Fantasy Crystal Chronicles - The Crystal Bearers (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Final Fantasy Crystal Chronicles - The Crystal Bearers (USA) (En,Fr,Es)/Final Fantasy Crystal Chronicles - The Crystal Bearers (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Final Fantasy Crystal Chronicles - The Crystal Bearers (USA) (En,Fr,Es)/Final Fantasy Crystal Chronicles - The Crystal Bearers (USA) (En,Fr,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Action;Adventure
@@ -461,7 +461,7 @@ x-co-op: No
 
 
 game: Final Fantasy Fables - Chocobo's Dungeon (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Final Fantasy Fables - Chocobo's Dungeon (USA)/Final Fantasy Fables - Chocobo's Dungeon (USA).json
+file: Nintendo/Nintendo Wii/Final Fantasy Fables - Chocobo's Dungeon (USA)/Final Fantasy Fables - Chocobo's Dungeon (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -494,7 +494,7 @@ x-co-op: No
 
 
 game: Food Network - Cook or Be Cooked (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Food Network - Cook or Be Cooked (USA)/Food Network - Cook or Be Cooked (USA).json
+file: Nintendo/Nintendo Wii/Food Network - Cook or Be Cooked (USA)/Food Network - Cook or Be Cooked (USA).json
 developer: Red Fly Studio
 publisher: Namco
 genre: Life Simulation
@@ -528,7 +528,7 @@ x-co-op: No
 
 
 game: Gold's Gym - Cardio Workout (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Gold's Gym - Cardio Workout (USA)/Gold's Gym - Cardio Workout (USA).json
+file: Nintendo/Nintendo Wii/Gold's Gym - Cardio Workout (USA)/Gold's Gym - Cardio Workout (USA).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Miscellaneous;Exercise / Fitness
@@ -546,7 +546,7 @@ x-co-op: No
 
 
 game: Harvest Moon - Animal Parade (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Harvest Moon - Animal Parade (USA)/Harvest Moon - Animal Parade (USA).json
+file: Nintendo/Nintendo Wii/Harvest Moon - Animal Parade (USA)/Harvest Moon - Animal Parade (USA).json
 developer: Natsume
 publisher: Marvelous Entertainment
 genre: Life Simulation;Role-Playing;Sandbox
@@ -573,7 +573,7 @@ x-co-op: No
 
 
 game: Harvest Moon - Magical Melody (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Harvest Moon - Magical Melody (USA)/Harvest Moon - Magical Melody (USA).json
+file: Nintendo/Nintendo Wii/Harvest Moon - Magical Melody (USA)/Harvest Moon - Magical Melody (USA).json
 developer: Marvelous Entertainment
 publisher: Natsume
 genre: Adventure
@@ -600,7 +600,7 @@ x-co-op: No
 
 
 game: Harvest Moon - Tree of Tranquility (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Harvest Moon - Tree of Tranquility (USA) (Rev 1)/Harvest Moon - Tree of Tranquility (USA) (Rev 1).json
+file: Nintendo/Nintendo Wii/Harvest Moon - Tree of Tranquility (USA) (Rev 1)/Harvest Moon - Tree of Tranquility (USA) (Rev 1).json
 developer: Marvelous Entertainment
 publisher: Natsume / Marvelous Entertainment
 genre: Adventure
@@ -628,7 +628,7 @@ x-co-op: No
 
 
 game: House of the Dead 2 & 3 Return, The (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/House of the Dead 2 & 3 Return, The (USA) (En,Fr,Es)/House of the Dead 2 & 3 Return, The (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/House of the Dead 2 & 3 Return, The (USA) (En,Fr,Es)/House of the Dead 2 & 3 Return, The (USA) (En,Fr,Es).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -655,7 +655,7 @@ x-co-op: Yes
 
 
 game: Ikenie no Yoru (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Ikenie no Yoru (Japan)/Ikenie no Yoru (Japan).json
+file: Nintendo/Nintendo Wii/Ikenie no Yoru (Japan)/Ikenie no Yoru (Japan).json
 developer: Marvelous Entertainment
 publisher: Marvelous Entertainment
 genre: Adventure;Horror
@@ -691,7 +691,7 @@ x-co-op: No
 
 
 game: Indiana Jones and the Staff of Kings (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Indiana Jones and the Staff of Kings (USA) (En,Fr,Es)/Indiana Jones and the Staff of Kings (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Indiana Jones and the Staff of Kings (USA) (En,Fr,Es)/Indiana Jones and the Staff of Kings (USA) (En,Fr,Es).json
 developer: A2M
 publisher: LucasArts
 genre: Action
@@ -714,7 +714,7 @@ x-co-op: No
 
 
 game: Ju-on - The Grudge - Haunted House Simulator (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Ju-on - The Grudge - Haunted House Simulator (USA) (En,Fr,Es)/Ju-on - The Grudge - Haunted House Simulator (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Ju-on - The Grudge - Haunted House Simulator (USA) (En,Fr,Es)/Ju-on - The Grudge - Haunted House Simulator (USA) (En,Fr,Es).json
 developer: feelplus
 publisher: Xseed Games
 genre: Horror
@@ -746,7 +746,7 @@ x-co-op: Yes
 
 
 game: Just Dance (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Just Dance (USA) (En,Fr,Es)/Just Dance (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Just Dance (USA) (En,Fr,Es)/Just Dance (USA) (En,Fr,Es).json
 developer: Ubisoft Paris
 publisher: Ubisoft
 genre: Music
@@ -766,7 +766,7 @@ x-co-op: Yes
 
 
 game: Just Dance - Summer Party (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Just Dance - Summer Party (USA) (En,Fr,Es)/Just Dance - Summer Party (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Just Dance - Summer Party (USA) (En,Fr,Es)/Just Dance - Summer Party (USA) (En,Fr,Es).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Music
@@ -789,7 +789,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2 (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Just Dance 2 (USA) (En,Fr,Es)/Just Dance 2 (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Just Dance 2 (USA) (En,Fr,Es)/Just Dance 2 (USA) (En,Fr,Es).json
 developer: Ubisoft Milan
 publisher: Ubisoft
 genre: Music
@@ -823,7 +823,7 @@ x-co-op: Yes
 
 
 game: Just Dance 3 (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Just Dance 3 (USA) (En,Fr,Es)/Just Dance 3 (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Just Dance 3 (USA) (En,Fr,Es)/Just Dance 3 (USA) (En,Fr,Es).json
 developer: Ubisoft, Inc.
 publisher: Ubisoft Paris Studios SARL
 genre: Music
@@ -869,7 +869,7 @@ x-co-op: Yes
 
 
 game: Kirby's Dream Collection - Special Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Kirby's Dream Collection - Special Edition (USA)/Kirby's Dream Collection - Special Edition (USA).json
+file: Nintendo/Nintendo Wii/Kirby's Dream Collection - Special Edition (USA)/Kirby's Dream Collection - Special Edition (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform
@@ -897,7 +897,7 @@ x-co-op: Yes
 
 
 game: Kirby's Epic Yarn (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Kirby's Epic Yarn (USA) (En,Fr,Es)/Kirby's Epic Yarn (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Kirby's Epic Yarn (USA) (En,Fr,Es)/Kirby's Epic Yarn (USA) (En,Fr,Es).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform
@@ -934,7 +934,7 @@ x-co-op: Yes
 
 
 game: Kirby's Return to Dream Land (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Kirby's Return to Dream Land (USA) (En,Fr,Es)/Kirby's Return to Dream Land (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Kirby's Return to Dream Land (USA) (En,Fr,Es)/Kirby's Return to Dream Land (USA) (En,Fr,Es).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -957,7 +957,7 @@ x-co-op: Yes
 
 
 game: Klonoa (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Klonoa (USA) (En,Fr,Es)/Klonoa (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Klonoa (USA) (En,Fr,Es)/Klonoa (USA) (En,Fr,Es).json
 developer: Paon Corporation
 publisher: Namco Bandai Games
 genre: Action;Adventure;Platform
@@ -976,7 +976,7 @@ x-co-op: No
 
 
 game: LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es) (Rev 1)/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es) (Rev 1).json
+file: Nintendo/Nintendo Wii/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es) (Rev 1)/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es) (Rev 1).json
 developer: Traveller's Tales
 publisher: LucasArts
 genre: Action;Adventure
@@ -1010,7 +1010,7 @@ x-co-op: Yes
 
 
 game: LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1)/LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1).json
+file: Nintendo/Nintendo Wii/LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1)/LEGO Star Wars - The Complete Saga (USA) (En,Fr,Es) (Rev 1).json
 developer: Traveller's Tales
 publisher: LucasArts
 genre: Action
@@ -1036,7 +1036,7 @@ x-co-op: Yes
 
 
 game: LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1)/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1).json
+file: Nintendo/Nintendo Wii/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1)/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es) (Rev 1).json
 developer: Traveller's Tales
 publisher: LucasArts
 genre: Action;Puzzle
@@ -1059,7 +1059,7 @@ x-co-op: Yes
 
 
 game: Last Story, The (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Last Story, The (USA) (En,Fr,Es)/Last Story, The (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Last Story, The (USA) (En,Fr,Es)/Last Story, The (USA) (En,Fr,Es).json
 developer: Mistwalker
 publisher: Xseed Games
 genre: Action;Role-Playing
@@ -1094,7 +1094,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Skyward Sword (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Legend of Zelda, The - Skyward Sword (USA) (En,Fr,Es)/Legend of Zelda, The - Skyward Sword (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Legend of Zelda, The - Skyward Sword (USA) (En,Fr,Es)/Legend of Zelda, The - Skyward Sword (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -1131,7 +1131,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2)/Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2).json
+file: Nintendo/Nintendo Wii/Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2)/Legend of Zelda, The - Twilight Princess (USA) (En,Fr,Es) (Rev 2).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -1153,7 +1153,7 @@ x-co-op: No
 
 
 game: Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1)/Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1).json
+file: Nintendo/Nintendo Wii/Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1)/Link's Crossbow Training (USA) (En,Fr,Es) (Rev 1).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Shooter
@@ -1176,7 +1176,7 @@ x-co-op: No
 
 
 game: MadWorld (USA) (En,Fr,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/MadWorld (USA) (En,Fr,Es,It)/MadWorld (USA) (En,Fr,Es,It).json
+file: Nintendo/Nintendo Wii/MadWorld (USA) (En,Fr,Es,It)/MadWorld (USA) (En,Fr,Es,It).json
 developer: PlatinumGames
 publisher: Sega
 genre: Action
@@ -1200,7 +1200,7 @@ x-co-op: No
 
 
 game: Mario Kart Wii (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Mario Kart Wii (USA) (En,Fr,Es)/Mario Kart Wii (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Mario Kart Wii (USA) (En,Fr,Es)/Mario Kart Wii (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing
@@ -1224,7 +1224,7 @@ x-co-op: No
 
 
 game: Metroid - Other M (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Metroid - Other M (USA) (En,Fr,Es)/Metroid - Other M (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Metroid - Other M (USA) (En,Fr,Es)/Metroid - Other M (USA) (En,Fr,Es).json
 developer: Team Ninja
 publisher: Nintendo
 genre: Action;Adventure
@@ -1255,7 +1255,7 @@ x-co-op: No
 
 
 game: Metroid Prime Trilogy (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Metroid Prime Trilogy (USA)/Metroid Prime Trilogy (USA).json
+file: Nintendo/Nintendo Wii/Metroid Prime Trilogy (USA)/Metroid Prime Trilogy (USA).json
 developer: Retro Studios
 publisher: Nintendo
 genre: Action;Adventure
@@ -1277,7 +1277,7 @@ x-co-op: No
 
 
 game: Monster Hunter Tri (USA) (Demo)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Monster Hunter Tri (USA) (Demo)/Monster Hunter Tri (USA) (Demo).json
+file: Nintendo/Nintendo Wii/Monster Hunter Tri (USA) (Demo)/Monster Hunter Tri (USA) (Demo).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -1300,7 +1300,7 @@ x-co-op: Yes
 
 
 game: My Fitness Coach (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/My Fitness Coach (USA)/My Fitness Coach (USA).json
+file: Nintendo/Nintendo Wii/My Fitness Coach (USA)/My Fitness Coach (USA).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Miscellaneous;Exercise / Fitness
@@ -1319,7 +1319,7 @@ x-co-op: No
 
 
 game: My Fitness Coach 2 - Exercise and Nutrition (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/My Fitness Coach 2 - Exercise and Nutrition (USA) (En,Fr,Es)/My Fitness Coach 2 - Exercise and Nutrition (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/My Fitness Coach 2 - Exercise and Nutrition (USA) (En,Fr,Es)/My Fitness Coach 2 - Exercise and Nutrition (USA) (En,Fr,Es).json
 developer: Ubi Soft Milan
 publisher: Ubi Soft Entertainment
 genre: Sports
@@ -1342,7 +1342,7 @@ x-co-op: No
 
 
 game: New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).json
+file: Nintendo/Nintendo Wii/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2)/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -1366,7 +1366,7 @@ x-co-op: Yes
 
 
 game: Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It)/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Wii/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It)/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Action
@@ -1395,7 +1395,7 @@ x-co-op: No
 
 
 game: No More Heroes (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/No More Heroes (USA) (En,Fr,Es)/No More Heroes (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/No More Heroes (USA) (En,Fr,Es)/No More Heroes (USA) (En,Fr,Es).json
 developer: Grasshopper Manufacture
 publisher: Ubisoft
 genre: Action
@@ -1424,7 +1424,7 @@ x-co-op: No
 
 
 game: No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es)/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).json
 developer: Grasshopper Manufacture
 publisher: Ubisoft
 genre: Action
@@ -1448,7 +1448,7 @@ x-co-op: No
 
 
 game: Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)/Onechanbara - Bikini Zombie Slayers (USA) (En,Fr).json
+file: Nintendo/Nintendo Wii/Onechanbara - Bikini Zombie Slayers (USA) (En,Fr)/Onechanbara - Bikini Zombie Slayers (USA) (En,Fr).json
 developer: Tamsoft
 publisher: D3 Publisher
 genre: Action
@@ -1474,7 +1474,7 @@ x-co-op: Yes
 
 
 game: Overlord - Dark Legend (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Overlord - Dark Legend (USA) (En,Fr,Es)/Overlord - Dark Legend (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Overlord - Dark Legend (USA) (En,Fr,Es)/Overlord - Dark Legend (USA) (En,Fr,Es).json
 developer: Climax Studios
 publisher: Codemasters
 genre: Action;Strategy
@@ -1500,7 +1500,7 @@ x-co-op: No
 
 
 game: Pandora's Tower (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Pandora's Tower (USA) (En,Fr,Es)/Pandora's Tower (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Pandora's Tower (USA) (En,Fr,Es)/Pandora's Tower (USA) (En,Fr,Es).json
 developer: Ganbarion
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -1525,7 +1525,7 @@ x-co-op: No
 
 
 game: Pikmin (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Pikmin (USA) (En,Fr,Es)/Pikmin (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Pikmin (USA) (En,Fr,Es)/Pikmin (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Strategy
@@ -1548,7 +1548,7 @@ x-co-op: No
 
 
 game: Pikmin 2 (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Pikmin 2 (USA) (En,Fr,Es)/Pikmin 2 (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Pikmin 2 (USA) (En,Fr,Es)/Pikmin 2 (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Strategy
@@ -1576,7 +1576,7 @@ x-co-op: No
 
 
 game: Punch-Out!! (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Punch-Out!! (USA) (En,Fr,Es)/Punch-Out!! (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Punch-Out!! (USA) (En,Fr,Es)/Punch-Out!! (USA) (En,Fr,Es).json
 developer: Next Level Games
 publisher: Nintendo
 genre: Sports
@@ -1606,7 +1606,7 @@ x-co-op: No
 
 
 game: Rampage - Total Destruction (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Rampage - Total Destruction (USA)/Rampage - Total Destruction (USA).json
+file: Nintendo/Nintendo Wii/Rampage - Total Destruction (USA)/Rampage - Total Destruction (USA).json
 developer: Pipeworks
 publisher: Midway
 genre: Action
@@ -1629,7 +1629,7 @@ x-co-op: No
 
 
 game: Red Steel (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Red Steel (USA) (En,Fr,Es)/Red Steel (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Red Steel (USA) (En,Fr,Es)/Red Steel (USA) (En,Fr,Es).json
 developer: Ubisoft Paris
 publisher: Ubisoft
 genre: Action;Shooter
@@ -1652,7 +1652,7 @@ x-co-op: No
 
 
 game: Red Steel 2 (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Red Steel 2 (USA) (En,Fr,Es)/Red Steel 2 (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Red Steel 2 (USA) (En,Fr,Es)/Red Steel 2 (USA) (En,Fr,Es).json
 developer: Ubisoft Paris
 publisher: Ubisoft
 genre: Action;Shooter
@@ -1684,7 +1684,7 @@ x-co-op: No
 
 
 game: Resident Evil - The Darkside Chronicles (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Resident Evil - The Darkside Chronicles (USA)/Resident Evil - The Darkside Chronicles (USA).json
+file: Nintendo/Nintendo Wii/Resident Evil - The Darkside Chronicles (USA)/Resident Evil - The Darkside Chronicles (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1717,7 +1717,7 @@ x-co-op: Yes
 
 
 game: Resident Evil - The Umbrella Chronicles (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Resident Evil - The Umbrella Chronicles (USA)/Resident Evil - The Umbrella Chronicles (USA).json
+file: Nintendo/Nintendo Wii/Resident Evil - The Umbrella Chronicles (USA)/Resident Evil - The Umbrella Chronicles (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1741,7 +1741,7 @@ x-co-op: Yes
 
 
 game: Resident Evil 4 - Wii Edition (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Resident Evil 4 - Wii Edition (USA)/Resident Evil 4 - Wii Edition (USA).json
+file: Nintendo/Nintendo Wii/Resident Evil 4 - Wii Edition (USA)/Resident Evil 4 - Wii Edition (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Horror
@@ -1767,7 +1767,7 @@ x-co-op: No
 
 
 game: Resident Evil Archives - Resident Evil (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Resident Evil Archives - Resident Evil (USA)/Resident Evil Archives - Resident Evil (USA).json
+file: Nintendo/Nintendo Wii/Resident Evil Archives - Resident Evil (USA)/Resident Evil Archives - Resident Evil (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror
@@ -1786,7 +1786,7 @@ x-co-op: No
 
 
 game: Resident Evil Archives - Resident Evil Zero (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Resident Evil Archives - Resident Evil Zero (USA)/Resident Evil Archives - Resident Evil Zero (USA).json
+file: Nintendo/Nintendo Wii/Resident Evil Archives - Resident Evil Zero (USA)/Resident Evil Archives - Resident Evil Zero (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror;Shooter
@@ -1814,7 +1814,7 @@ x-co-op: No
 
 
 game: Retro City Rampage DX (Europe) (En,Fr,It,De,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Retro City Rampage DX (Europe) (En,Fr,It,De,Es)/Retro City Rampage DX (Europe) (En,Fr,It,De,Es).json
+file: Nintendo/Nintendo Wii/Retro City Rampage DX (Europe) (En,Fr,It,De,Es)/Retro City Rampage DX (Europe) (En,Fr,It,De,Es).json
 developer: Vblank Entertainment Inc.
 publisher: Vblank Entertainment Inc.
 genre: Action;Adventure;Shooter
@@ -1848,7 +1848,7 @@ x-co-op: No
 
 
 game: Rodea the Sky Soldier (USA) (En,Ja,Fr,De)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Rodea the Sky Soldier (USA) (En,Ja,Fr,De)/Rodea the Sky Soldier (USA) (En,Ja,Fr,De).json
+file: Nintendo/Nintendo Wii/Rodea the Sky Soldier (USA) (En,Ja,Fr,De)/Rodea the Sky Soldier (USA) (En,Ja,Fr,De).json
 developer: Kadokawa Games
 publisher: NIS America
 genre: Action
@@ -1875,7 +1875,7 @@ x-co-op: No
 
 
 game: Sam & Max - Beyond Time and Space (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Sam & Max - Beyond Time and Space (USA) (En,Fr,Es)/Sam & Max - Beyond Time and Space (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Sam & Max - Beyond Time and Space (USA) (En,Fr,Es)/Sam & Max - Beyond Time and Space (USA) (En,Fr,Es).json
 developer: Telltale Games
 publisher: Telltale Games
 genre: Adventure
@@ -1895,7 +1895,7 @@ x-co-op: No
 
 
 game: Sam & Max - Season One (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Sam & Max - Season One (USA) (En,Fr,Es)/Sam & Max - Season One (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Sam & Max - Season One (USA) (En,Fr,Es)/Sam & Max - Season One (USA) (En,Fr,Es).json
 developer: Telltale Games
 publisher: JoWooD
 genre: Adventure
@@ -1922,7 +1922,7 @@ x-co-op: No
 
 
 game: Shakedown - Hawaii (Europe) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Shakedown - Hawaii (Europe) (En,Fr)/Shakedown - Hawaii (Europe) (En,Fr).json
+file: Nintendo/Nintendo Wii/Shakedown - Hawaii (Europe) (En,Fr)/Shakedown - Hawaii (Europe) (En,Fr).json
 developer: Vblank Entertainment Inc.
 publisher: Vblank Entertainment Inc.
 genre: Action;Shooter
@@ -1948,7 +1948,7 @@ x-co-op: No
 
 
 game: Silent Hill - Shattered Memories (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Silent Hill - Shattered Memories (USA) (En,Fr,Es)/Silent Hill - Shattered Memories (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Silent Hill - Shattered Memories (USA) (En,Fr,Es)/Silent Hill - Shattered Memories (USA) (En,Fr,Es).json
 developer: Climax Studios Ltd.
 publisher: Konami
 genre: Adventure;Horror
@@ -1980,7 +1980,7 @@ x-co-op: No
 
 
 game: Sonic Colors (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Sonic Colors (USA) (En,Ja,Fr,De,Es,It)/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Wii/Sonic Colors (USA) (En,Ja,Fr,De,Es,It)/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platform
@@ -2014,7 +2014,7 @@ x-co-op: No
 
 
 game: Sonic and the Black Knight (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Sonic and the Black Knight (USA) (En,Ja,Fr,De,Es,It)/Sonic and the Black Knight (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Wii/Sonic and the Black Knight (USA) (En,Ja,Fr,De,Es,It)/Sonic and the Black Knight (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Adventure;Platform
@@ -2042,7 +2042,7 @@ x-co-op: No
 
 
 game: Sonic and the Secret Rings (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Sonic and the Secret Rings (USA) (En,Ja,Fr,De,Es,It)/Sonic and the Secret Rings (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Wii/Sonic and the Secret Rings (USA) (En,Ja,Fr,De,Es,It)/Sonic and the Secret Rings (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platform
@@ -2062,7 +2062,7 @@ x-co-op: No
 
 
 game: Soulcalibur Legends (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Soulcalibur Legends (USA)/Soulcalibur Legends (USA).json
+file: Nintendo/Nintendo Wii/Soulcalibur Legends (USA)/Soulcalibur Legends (USA).json
 developer: Project Soul
 publisher: Namco Bandai
 genre: Action;Adventure
@@ -2084,7 +2084,7 @@ x-co-op: No
 
 
 game: Star Wars - The Force Unleashed (USA) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Star Wars - The Force Unleashed (USA) (En,Fr)/Star Wars - The Force Unleashed (USA) (En,Fr).json
+file: Nintendo/Nintendo Wii/Star Wars - The Force Unleashed (USA) (En,Fr)/Star Wars - The Force Unleashed (USA) (En,Fr).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action
@@ -2105,7 +2105,7 @@ x-co-op: No
 
 
 game: Star Wars - The Force Unleashed II (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Star Wars - The Force Unleashed II (USA) (En,Fr,Es)/Star Wars - The Force Unleashed II (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Star Wars - The Force Unleashed II (USA) (En,Fr,Es)/Star Wars - The Force Unleashed II (USA) (En,Fr,Es).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action
@@ -2130,7 +2130,7 @@ x-co-op: No
 
 
 game: Super Mario All-Stars (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Super Mario All-Stars (USA)/Super Mario All-Stars (USA).json
+file: Nintendo/Nintendo Wii/Super Mario All-Stars (USA)/Super Mario All-Stars (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -2163,7 +2163,7 @@ x-co-op: No
 
 
 game: Super Mario Galaxy (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Super Mario Galaxy (USA) (En,Fr,Es)/Super Mario Galaxy (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Super Mario Galaxy (USA) (En,Fr,Es)/Super Mario Galaxy (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -2193,7 +2193,7 @@ x-co-op: Yes
 
 
 game: Super Paper Mario (USA) (Rev 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Super Paper Mario (USA) (Rev 2)/Super Paper Mario (USA) (Rev 2).json
+file: Nintendo/Nintendo Wii/Super Paper Mario (USA) (Rev 2)/Super Paper Mario (USA) (Rev 2).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Platform
@@ -2216,7 +2216,7 @@ x-co-op: No
 
 
 game: Super Smash Bros. Brawl (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Super Smash Bros. Brawl (USA) (Rev 1)/Super Smash Bros. Brawl (USA) (Rev 1).json
+file: Nintendo/Nintendo Wii/Super Smash Bros. Brawl (USA) (Rev 1)/Super Smash Bros. Brawl (USA) (Rev 1).json
 developer: Game Arts
 publisher: Nintendo
 genre: Fighting
@@ -2235,7 +2235,7 @@ x-co-op: No
 
 
 game: Tatsunoko vs. Capcom - Ultimate All-Stars (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Tatsunoko vs. Capcom - Ultimate All-Stars (USA)/Tatsunoko vs. Capcom - Ultimate All-Stars (USA).json
+file: Nintendo/Nintendo Wii/Tatsunoko vs. Capcom - Ultimate All-Stars (USA)/Tatsunoko vs. Capcom - Ultimate All-Stars (USA).json
 developer: Eighting
 publisher: Capcom
 genre: Fighting
@@ -2266,7 +2266,7 @@ x-co-op: No
 
 
 game: Trauma Center - New Blood (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Trauma Center - New Blood (USA)/Trauma Center - New Blood (USA).json
+file: Nintendo/Nintendo Wii/Trauma Center - New Blood (USA)/Trauma Center - New Blood (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Life Simulation;Visual Novel
@@ -2287,7 +2287,7 @@ x-co-op: Yes
 
 
 game: Wario Land - Shake It! (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Wario Land - Shake It! (USA) (En,Fr,Es)/Wario Land - Shake It! (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Wario Land - Shake It! (USA) (En,Fr,Es)/Wario Land - Shake It! (USA) (En,Fr,Es).json
 developer: Good-Feel
 publisher: Nintendo
 genre: Platform
@@ -2315,7 +2315,7 @@ x-co-op: No
 
 
 game: Wii Fit (USA) (En,Fr,Es) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Wii Fit (USA) (En,Fr,Es) (Rev 1)/Wii Fit (USA) (En,Fr,Es) (Rev 1).json
+file: Nintendo/Nintendo Wii/Wii Fit (USA) (En,Fr,Es) (Rev 1)/Wii Fit (USA) (En,Fr,Es) (Rev 1).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports;Productivity;Utility
@@ -2340,7 +2340,7 @@ x-co-op: No
 
 
 game: Wii Fit Plus (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Wii Fit Plus (USA) (En,Fr,Es)/Wii Fit Plus (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Wii Fit Plus (USA) (En,Fr,Es)/Wii Fit Plus (USA) (En,Fr,Es).json
 developer: Nintendo EAD5
 publisher: Nintendo
 genre: Sports
@@ -2358,7 +2358,7 @@ x-co-op: No
 
 
 game: Wii Music (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Wii Music (USA) (En,Fr,Es)/Wii Music (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii/Wii Music (USA) (En,Fr,Es)/Wii Music (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Music
@@ -2387,7 +2387,7 @@ x-co-op: No
 
 
 game: Wii Play (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Wii Play (USA)/Wii Play (USA).json
+file: Nintendo/Nintendo Wii/Wii Play (USA)/Wii Play (USA).json
 developer: Nintendo R&D2
 publisher: Nintendo
 genre: Sports
@@ -2406,7 +2406,7 @@ x-co-op: Yes
 
 
 game: Wii Sports (USA) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Wii Sports (USA) (Rev 1)/Wii Sports (USA) (Rev 1).json
+file: Nintendo/Nintendo Wii/Wii Sports (USA) (Rev 1)/Wii Sports (USA) (Rev 1).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Sports
@@ -2441,7 +2441,7 @@ x-co-op: Yes
 
 
 game: Zack & Wiki - Quest for Barbaros' Treasure (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Zack & Wiki - Quest for Barbaros' Treasure (USA)/Zack & Wiki - Quest for Barbaros' Treasure (USA).json
+file: Nintendo/Nintendo Wii/Zack & Wiki - Quest for Barbaros' Treasure (USA)/Zack & Wiki - Quest for Barbaros' Treasure (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure;Puzzle
@@ -2468,7 +2468,7 @@ x-co-op: No
 
 
 game: Zero - Tsukihami no Kamen (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii/Zero - Tsukihami no Kamen (Japan)/Zero - Tsukihami no Kamen (Japan).json
+file: Nintendo/Nintendo Wii/Zero - Tsukihami no Kamen (Japan)/Zero - Tsukihami no Kamen (Japan).json
 developer: Grasshopper Manufacture
 publisher: Tecmo
 genre: Adventure;Horror

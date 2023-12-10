@@ -1,9 +1,9 @@
 collection: Nintendo Wii U eShop
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Wii U eShop" {file.path}
+launch: launch_rom -l "Nintendo Wii U eShop" {file.path}
 
 
 game: 3Souls (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/3Souls (USA) (eShop)/3Souls (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/3Souls (USA) (eShop)/3Souls (USA) (eShop).json
 developer: Red Column
 publisher: Red Column
 genre: Adventure;Puzzle;Platform
@@ -29,7 +29,7 @@ x-co-op: Yes
 
 
 game: 6180 the Moon (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/6180 the Moon (USA) (eShop)/6180 the Moon (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/6180 the Moon (USA) (eShop)/6180 the Moon (USA) (eShop).json
 developer: Turtle Cream & PokPoong Games
 publisher: Turtle Cream
 genre: Action;Platform
@@ -52,7 +52,7 @@ x-co-op: No
 
 
 game: Adventure Party - Cats and Caverns (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Adventure Party - Cats and Caverns (USA) (eShop)/Adventure Party - Cats and Caverns (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Adventure Party - Cats and Caverns (USA) (eShop)/Adventure Party - Cats and Caverns (USA) (eShop).json
 developer: E-Regular Games LLC
 publisher: E-Regular Games LLC
 genre: Role-Playing;Western-Style
@@ -87,7 +87,7 @@ x-co-op: No
 
 
 game: Affordable Space Adventures (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Affordable Space Adventures (USA) (eShop)/Affordable Space Adventures (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Affordable Space Adventures (USA) (eShop)/Affordable Space Adventures (USA) (eShop).json
 developer: KnapNok Games
 publisher: KnapNok Games
 genre: Adventure;Puzzle
@@ -118,7 +118,7 @@ x-co-op: Yes
 
 
 game: Art of Balance (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Art of Balance (USA) (eShop)/Art of Balance (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Art of Balance (USA) (eShop)/Art of Balance (USA) (eShop).json
 developer: Shin'en Multimedia
 publisher: Shin'en Multimedia
 genre: Puzzle
@@ -146,7 +146,7 @@ x-co-op: Yes
 
 
 game: Blek (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Blek (USA) (eShop)/Blek (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Blek (USA) (eShop)/Blek (USA) (eShop).json
 developer: Broken Rules
 publisher: kunabi brother GmbH
 genre: Puzzle
@@ -170,7 +170,7 @@ x-co-op: No
 
 
 game: Breezeblox (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Breezeblox (USA) (eShop)/Breezeblox (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Breezeblox (USA) (eShop)/Breezeblox (USA) (eShop).json
 developer: Brennan Maddox
 publisher: Pugsley LLC
 genre: Puzzle;Logic
@@ -190,7 +190,7 @@ x-co-op: No
 
 
 game: Captain U (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Captain U (USA) (eShop)/Captain U (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Captain U (USA) (eShop)/Captain U (USA) (eShop).json
 developer: Ultra Dolphin Revolution
 publisher: Ultra Dolphin Revolution
 genre: Action;Platformer;2D
@@ -221,7 +221,7 @@ x-co-op: No
 
 
 game: Chasing Aurora (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Chasing Aurora (USA) (eShop)/Chasing Aurora (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Chasing Aurora (USA) (eShop)/Chasing Aurora (USA) (eShop).json
 developer: Broken Rules
 publisher: Broken Rules
 genre: Simulation;Flight;Combat
@@ -248,7 +248,7 @@ x-co-op: No
 
 
 game: Dr. Luigi (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Dr. Luigi (USA) (eShop)/Dr. Luigi (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Dr. Luigi (USA) (eShop)/Dr. Luigi (USA) (eShop).json
 developer: Arika
 publisher: Nintendo
 genre: Puzzle;Stacking
@@ -272,7 +272,7 @@ x-co-op: No
 
 
 game: Dungeons & Dragons - Chronicles of Mystara (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Dungeons & Dragons - Chronicles of Mystara (USA) (eShop)/Dungeons & Dragons - Chronicles of Mystara (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Dungeons & Dragons - Chronicles of Mystara (USA) (eShop)/Dungeons & Dragons - Chronicles of Mystara (USA) (eShop).json
 developer: Iron Galaxy Studios
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -331,7 +331,7 @@ x-co-op: No
 
 
 game: Fast Racing Neo (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Fast Racing Neo (USA) (eShop)/Fast Racing Neo (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Fast Racing Neo (USA) (eShop)/Fast Racing Neo (USA) (eShop).json
 developer: Shin'en
 publisher: Shin'en
 genre: Racing;Arcade;Futuristic
@@ -355,7 +355,7 @@ x-co-op: No
 
 
 game: Fatal Frame - Maiden of Black Water (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Fatal Frame - Maiden of Black Water (USA) (eShop)/Fatal Frame - Maiden of Black Water (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Fatal Frame - Maiden of Black Water (USA) (eShop)/Fatal Frame - Maiden of Black Water (USA) (eShop).json
 developer: Koei Tecmo
 publisher: Nintendo
 genre: Action;Adventure;Horror
@@ -398,7 +398,7 @@ x-co-op: No
 
 
 game: Flowerworks HD - Follie's Adventure (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Flowerworks HD - Follie's Adventure (USA) (eShop)/Flowerworks HD - Follie's Adventure (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Flowerworks HD - Follie's Adventure (USA) (eShop)/Flowerworks HD - Follie's Adventure (USA) (eShop).json
 developer: Nocturnal Entertainment
 publisher: Nocturnal Entertainment
 genre: Adventure;General
@@ -424,7 +424,7 @@ x-co-op: No
 
 
 game: Gunman Clive HD Collection (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Gunman Clive HD Collection (USA) (eShop)/Gunman Clive HD Collection (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Gunman Clive HD Collection (USA) (eShop)/Gunman Clive HD Collection (USA) (eShop).json
 developer: Horberg Productions
 publisher: Horberg Productions
 genre: Miscellaneous;Compilation
@@ -452,7 +452,7 @@ x-co-op: No
 
 
 game: Mario vs. Donkey Kong - Tipping Stars (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop)/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop)/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).json
 developer: Nintendo Software Technology
 publisher: Nintendo
 genre: Platform
@@ -480,7 +480,7 @@ x-co-op: No
 
 
 game: Mini Mario & Friends - amiibo Challenge (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Mini Mario & Friends - amiibo Challenge (USA) (eShop)/Mini Mario & Friends - amiibo Challenge (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Mini Mario & Friends - amiibo Challenge (USA) (eShop)/Mini Mario & Friends - amiibo Challenge (USA) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle;Action
@@ -520,7 +520,7 @@ x-co-op: No
 
 
 game: Monster Hunter 3 Ultimate Packet Relay Tools (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Monster Hunter 3 Ultimate Packet Relay Tools (USA) (eShop)/Monster Hunter 3 Ultimate Packet Relay Tools (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Monster Hunter 3 Ultimate Packet Relay Tools (USA) (eShop)/Monster Hunter 3 Ultimate Packet Relay Tools (USA) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Miscellaneous;Application
@@ -546,7 +546,7 @@ x-co-op: No
 
 
 game: Mr. Pumpkin Adventure (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Mr. Pumpkin Adventure (USA) (eShop)/Mr. Pumpkin Adventure (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Mr. Pumpkin Adventure (USA) (eShop)/Mr. Pumpkin Adventure (USA) (eShop).json
 developer: CottonGame
 publisher: CIRCLE Entertainment
 genre: Adventure;Point-and-Click
@@ -570,7 +570,7 @@ x-co-op: No
 
 
 game: Nano Assault Neo (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Nano Assault Neo (USA) (eShop)/Nano Assault Neo (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Nano Assault Neo (USA) (eShop)/Nano Assault Neo (USA) (eShop).json
 developer: Shin'en
 publisher: Shin'en
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -600,7 +600,7 @@ x-co-op: No
 
 
 game: Nihilumbra (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Nihilumbra (USA) (eShop)/Nihilumbra (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Nihilumbra (USA) (eShop)/Nihilumbra (USA) (eShop).json
 developer: BeautiFun Games
 publisher: BeautiFun Games
 genre: Action;Platformer;2D
@@ -635,7 +635,7 @@ x-co-op: No
 
 
 game: Pad of Time (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Pad of Time (USA) (eShop)/Pad of Time (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Pad of Time (USA) (eShop)/Pad of Time (USA) (eShop).json
 developer: Markanime Studios
 publisher: Markanime Studios
 genre: Action;Platformer;2D
@@ -656,7 +656,7 @@ x-co-op: No
 
 
 game: Pic-a-Pix Color (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Pic-a-Pix Color (USA) (eShop)/Pic-a-Pix Color (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Pic-a-Pix Color (USA) (eShop)/Pic-a-Pix Color (USA) (eShop).json
 developer: Lightwood Games
 publisher: Lightwood Games
 genre: Puzzle;Logic
@@ -693,7 +693,7 @@ x-co-op: No
 
 
 game: Pokemon Rumble U (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Pokemon Rumble U (USA) (eShop)/Pokemon Rumble U (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Pokemon Rumble U (USA) (eShop)/Pokemon Rumble U (USA) (eShop).json
 developer: Ambrella
 publisher: Nintendo
 genre: Action;Beat-'Em-Up;3D
@@ -718,7 +718,7 @@ x-co-op: No
 
 
 game: Pushmo World (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Pushmo World (USA) (eShop)/Pushmo World (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Pushmo World (USA) (eShop)/Pushmo World (USA) (eShop).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Puzzle
@@ -759,7 +759,7 @@ x-co-op: No
 
 
 game: Quest of Dungeons (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Quest of Dungeons (USA) (eShop)/Quest of Dungeons (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Quest of Dungeons (USA) (eShop)/Quest of Dungeons (USA) (eShop).json
 developer: Upfall Studios
 publisher: Upfall Studios
 genre: Role-Playing;Roguelike
@@ -787,7 +787,7 @@ x-co-op: No
 
 
 game: Rush (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Rush (USA) (eShop)/Rush (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Rush (USA) (eShop)/Rush (USA) (eShop).json
 developer: Two Tribes
 publisher: Two Tribes
 genre: Puzzle;General
@@ -807,7 +807,7 @@ x-co-op: No
 
 
 game: SDK Spriter (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/SDK Spriter (USA) (eShop)/SDK Spriter (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/SDK Spriter (USA) (eShop)/SDK Spriter (USA) (eShop).json
 developer: HullBreach Studios
 publisher: HullBreach Studios
 genre: Miscellaneous;Edutainment
@@ -843,7 +843,7 @@ x-co-op: No
 
 
 game: Scram Kitty and his Buddy on Rails (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Scram Kitty and his Buddy on Rails (USA) (eShop)/Scram Kitty and his Buddy on Rails (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Scram Kitty and his Buddy on Rails (USA) (eShop)/Scram Kitty and his Buddy on Rails (USA) (eShop).json
 developer: Dakko Dakko Limited
 publisher: Dakko Dakko Limited
 genre: Action;General
@@ -877,7 +877,7 @@ x-co-op: No
 
 
 game: Severed (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Severed (USA) (eShop)/Severed (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Severed (USA) (eShop)/Severed (USA) (eShop).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action Adventure;General
@@ -899,7 +899,7 @@ x-co-op: No
 
 
 game: Shuttle Rush (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Shuttle Rush (USA) (eShop)/Shuttle Rush (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Shuttle Rush (USA) (eShop)/Shuttle Rush (USA) (eShop).json
 developer: Takusan Works
 publisher: Takusan Works
 genre: Action;Platformer;2D
@@ -927,7 +927,7 @@ x-co-op: No
 
 
 game: Silver Falls - White Inside Its Umbra (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Silver Falls - White Inside Its Umbra (USA) (eShop)/Silver Falls - White Inside Its Umbra (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Silver Falls - White Inside Its Umbra (USA) (eShop)/Silver Falls - White Inside Its Umbra (USA) (eShop).json
 developer: Sungrand
 publisher: Sungrand
 genre: Action Adventure;Survival
@@ -958,7 +958,7 @@ x-co-op: No
 
 
 game: Space Hunted (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Space Hunted (USA) (eShop)/Space Hunted (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Space Hunted (USA) (eShop)/Space Hunted (USA) (eShop).json
 developer: Ultra Dolphin Revolution
 publisher: Ultra Dolphin Revolution
 genre: Action;Platformer;2D
@@ -983,7 +983,7 @@ x-co-op: No
 
 
 game: Space Hunted - The Lost Levels (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Space Hunted - The Lost Levels (USA) (eShop)/Space Hunted - The Lost Levels (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Space Hunted - The Lost Levels (USA) (eShop)/Space Hunted - The Lost Levels (USA) (eShop).json
 developer: Ultra Dolphin Revolution
 publisher: Ultra Dolphin Revolution
 genre: Action;Platformer;2D
@@ -1021,7 +1021,7 @@ x-co-op: No
 
 
 game: Spin the Bottle - Bumpie's Party (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Spin the Bottle - Bumpie's Party (USA) (eShop)/Spin the Bottle - Bumpie's Party (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Spin the Bottle - Bumpie's Party (USA) (eShop)/Spin the Bottle - Bumpie's Party (USA) (eShop).json
 developer: Redgrim AB
 publisher: KnapNok Games
 genre: Miscellaneous;Party / Minigame
@@ -1042,7 +1042,7 @@ x-co-op: No
 
 
 game: Sportsball (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Sportsball (USA) (eShop)/Sportsball (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Sportsball (USA) (eShop)/Sportsball (USA) (eShop).json
 developer: TOO DX
 publisher: TOO DX
 genre: Sports;General
@@ -1071,7 +1071,7 @@ x-co-op: No
 
 
 game: Star Fox Guard - Special Demo (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Star Fox Guard - Special Demo (USA) (eShop)/Star Fox Guard - Special Demo (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Star Fox Guard - Special Demo (USA) (eShop)/Star Fox Guard - Special Demo (USA) (eShop).json
 developer: PlatinumGames
 publisher: Nintendo
 genre: Strategy;Real-Time;Defense
@@ -1091,7 +1091,7 @@ x-co-op: No
 
 
 game: Star Fox Zero - The Battle Begins + Training (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Star Fox Zero - The Battle Begins + Training (USA) (eShop)/Star Fox Zero - The Battle Begins + Training (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Star Fox Zero - The Battle Begins + Training (USA) (eShop)/Star Fox Zero - The Battle Begins + Training (USA) (eShop).json
 developer: PlatinumGames
 publisher: Nintendo
 genre: Simulation;Space;Combat
@@ -1140,7 +1140,7 @@ x-co-op: No
 
 
 game: SturmFront - The Mutant War - Ubel Edition (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/SturmFront - The Mutant War - Ubel Edition (USA) (eShop)/SturmFront - The Mutant War - Ubel Edition (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/SturmFront - The Mutant War - Ubel Edition (USA) (eShop)/SturmFront - The Mutant War - Ubel Edition (USA) (eShop).json
 developer: Red Art Games
 publisher: Red Art Games
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -1168,7 +1168,7 @@ x-co-op: No
 
 
 game: Tiny Galaxy (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Tiny Galaxy (USA) (eShop)/Tiny Galaxy (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Tiny Galaxy (USA) (eShop)/Tiny Galaxy (USA) (eShop).json
 developer: Arcane Pixel Games
 publisher: Arcane Pixel Games
 genre: Action;General
@@ -1193,7 +1193,7 @@ x-co-op: No
 
 
 game: Wicked Monsters Blast! HD+ (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Wicked Monsters Blast! HD+ (USA) (eShop)/Wicked Monsters Blast! HD+ (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Wicked Monsters Blast! HD+ (USA) (eShop)/Wicked Monsters Blast! HD+ (USA) (eShop).json
 developer: Corecell Technology
 publisher: Corecell Technology
 genre: Action;Shooter;Light Gun
@@ -1213,7 +1213,7 @@ x-co-op: No
 
 
 game: Woah Dave! (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Woah Dave! (USA) (eShop)/Woah Dave! (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Woah Dave! (USA) (eShop)/Woah Dave! (USA) (eShop).json
 developer: Choice Provisions
 publisher: Choice Provisions
 genre: Action;Platformer;2D
@@ -1236,7 +1236,7 @@ x-co-op: No
 
 
 game: Zen Pinball 2 (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Zen Pinball 2 (USA) (eShop)/Zen Pinball 2 (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Zen Pinball 2 (USA) (eShop)/Zen Pinball 2 (USA) (eShop).json
 developer: Zen Studios
 publisher: Zen Studios
 genre: Action;Pinball
@@ -1287,7 +1287,7 @@ x-co-op: No
 
 
 game: Zombie Defense (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/Zombie Defense (USA) (eShop)/Zombie Defense (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/Zombie Defense (USA) (eShop)/Zombie Defense (USA) (eShop).json
 developer: Home Net Games
 publisher: Teyon
 genre: Strategy;Real-Time;Defense
@@ -1335,7 +1335,7 @@ x-co-op: No
 
 
 game: amiibo tap - Nintendo's Greatest Bits (USA) (eShop)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U eShop/amiibo tap - Nintendo's Greatest Bits (USA) (eShop)/amiibo tap - Nintendo's Greatest Bits (USA) (eShop).json
+file: Nintendo/Nintendo Wii U eShop/amiibo tap - Nintendo's Greatest Bits (USA) (eShop)/amiibo tap - Nintendo's Greatest Bits (USA) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Miscellaneous;Application

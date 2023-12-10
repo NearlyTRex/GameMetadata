@@ -1,9 +1,9 @@
 collection: Sega 32X
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega 32X" {file.path}
+launch: launch_rom -l "Sega 32X" {file.path}
 
 
 game: Chaotix ~ Knuckles' Chaotix (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Sega 32X/Chaotix ~ Knuckles' Chaotix (Japan, USA)/Chaotix ~ Knuckles' Chaotix (Japan, USA).json
+file: Other/Sega 32X/Chaotix ~ Knuckles' Chaotix (Japan, USA)/Chaotix ~ Knuckles' Chaotix (Japan, USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -29,7 +29,7 @@ x-co-op: Yes
 
 
 game: Cyber Brawl ~ Cosmic Carnage (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Sega 32X/Cyber Brawl ~ Cosmic Carnage (Japan, USA)/Cyber Brawl ~ Cosmic Carnage (Japan, USA).json
+file: Other/Sega 32X/Cyber Brawl ~ Cosmic Carnage (Japan, USA)/Cyber Brawl ~ Cosmic Carnage (Japan, USA).json
 developer: Almanic
 publisher: Sega
 genre: Fighting
@@ -51,7 +51,7 @@ x-co-op: No
 
 
 game: Doom (Europe) (32X Resurrection Patch)
-file: $ROM_JSON_ROOT/Other/Sega 32X/Doom (Europe) (32X Resurrection Patch)/Doom (Europe) (32X Resurrection Patch).json
+file: Other/Sega 32X/Doom (Europe) (32X Resurrection Patch)/Doom (Europe) (32X Resurrection Patch).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -110,7 +110,7 @@ x-co-op: Yes
 
 
 game: Doom (Japan, USA)
-file: $ROM_JSON_ROOT/Other/Sega 32X/Doom (Japan, USA)/Doom (Japan, USA).json
+file: Other/Sega 32X/Doom (Japan, USA)/Doom (Japan, USA).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -135,7 +135,7 @@ x-co-op: No
 
 
 game: Metal Head (Japan, USA) (En,Ja)
-file: $ROM_JSON_ROOT/Other/Sega 32X/Metal Head (Japan, USA) (En,Ja)/Metal Head (Japan, USA) (En,Ja).json
+file: Other/Sega 32X/Metal Head (Japan, USA) (En,Ja)/Metal Head (Japan, USA) (En,Ja).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -161,7 +161,7 @@ x-co-op: No
 
 
 game: Star Wars Arcade (USA)
-file: $ROM_JSON_ROOT/Other/Sega 32X/Star Wars Arcade (USA)/Star Wars Arcade (USA).json
+file: Other/Sega 32X/Star Wars Arcade (USA)/Star Wars Arcade (USA).json
 developer: Sega Interactive
 publisher: Sega
 genre: Shooter

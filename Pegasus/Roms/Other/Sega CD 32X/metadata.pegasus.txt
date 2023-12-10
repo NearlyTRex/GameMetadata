@@ -1,9 +1,9 @@
 collection: Sega CD 32X
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sega CD 32X" {file.path}
+launch: launch_rom -l "Sega CD 32X" {file.path}
 
 
 game: Corpse Killer (USA) (Sega CD 32X)
-file: $ROM_JSON_ROOT/Other/Sega CD 32X/Corpse Killer (USA) (Sega CD 32X)/Corpse Killer (USA) (Sega CD 32X).json
+file: Other/Sega CD 32X/Corpse Killer (USA) (Sega CD 32X)/Corpse Killer (USA) (Sega CD 32X).json
 developer: Digital Pictures
 publisher: Digital Pictures
 genre: Shooter

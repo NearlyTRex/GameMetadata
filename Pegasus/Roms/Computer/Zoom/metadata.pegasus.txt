@@ -1,9 +1,9 @@
 collection: Computer - Zoom
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Computer - Zoom" {file.path}
+launch: launch_rom -l "Computer - Zoom" {file.path}
 
 
 game: Alien Carnage - Halloween Harry (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/A/Alien Carnage - Halloween Harry (USA)/Alien Carnage - Halloween Harry (USA).json
+file: Computer/Zoom/A/Alien Carnage - Halloween Harry (USA)/Alien Carnage - Halloween Harry (USA).json
 developer: Interactive Binary Illusions
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -22,7 +22,7 @@ x-co-op: No
 
 
 game: Aliens Versus Predator - Gold Edition (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/A/Aliens Versus Predator - Gold Edition (USA)/Aliens Versus Predator - Gold Edition (USA).json
+file: Computer/Zoom/A/Aliens Versus Predator - Gold Edition (USA)/Aliens Versus Predator - Gold Edition (USA).json
 developer: Rebellion
 publisher: Fox Interactive
 genre: Action;Horror;Shooter
@@ -82,7 +82,7 @@ x-co-op: No
 
 
 game: Arctic Adventure (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/A/Arctic Adventure (USA)/Arctic Adventure (USA).json
+file: Computer/Zoom/A/Arctic Adventure (USA)/Arctic Adventure (USA).json
 developer: Apogee Software, Ltd.
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -104,7 +104,7 @@ x-co-op: No
 
 
 game: Bio Menace (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/B/Bio Menace (USA)/Bio Menace (USA).json
+file: Computer/Zoom/B/Bio Menace (USA)/Bio Menace (USA).json
 developer: Apogee Software, Ltd.
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -129,7 +129,7 @@ x-co-op: No
 
 
 game: Curse - The Eye of Isis (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/C/Curse - The Eye of Isis (USA)/Curse - The Eye of Isis (USA).json
+file: Computer/Zoom/C/Curse - The Eye of Isis (USA)/Curse - The Eye of Isis (USA).json
 developer: Asylum Entertainment
 publisher: DreamCatcher Interactive
 genre: Action;Adventure;Horror
@@ -162,7 +162,7 @@ x-co-op: No
 
 
 game: Dark Ages (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/D/Dark Ages (USA)/Dark Ages (USA).json
+file: Computer/Zoom/D/Dark Ages (USA)/Dark Ages (USA).json
 developer: Scenario Software
 publisher: Apogee Software, Ltd.
 genre: Action;General
@@ -202,7 +202,7 @@ x-co-op: No
 
 
 game: Death Rally (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/D/Death Rally (USA)/Death Rally (USA).json
+file: Computer/Zoom/D/Death Rally (USA)/Death Rally (USA).json
 developer: Remedy Entertainment
 publisher: GT Interactive
 genre: Racing;Arcade;Automobile
@@ -226,7 +226,7 @@ x-co-op: No
 
 
 game: Killing Time (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/K/Killing Time (USA)/Killing Time (USA).json
+file: Computer/Zoom/K/Killing Time (USA)/Killing Time (USA).json
 developer: ONEONE1
 publisher: SakuraGame
 genre: Adventure;Visual Novel
@@ -261,7 +261,7 @@ x-co-op: No
 
 
 game: Major Stryker (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/M/Major Stryker (USA)/Major Stryker (USA).json
+file: Computer/Zoom/M/Major Stryker (USA)/Major Stryker (USA).json
 developer: Apogee Software, Ltd.
 publisher: Apogee Software, Ltd.
 genre: Action
@@ -281,7 +281,7 @@ x-co-op: No
 
 
 game: Monuments of Mars (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/M/Monuments of Mars (USA)/Monuments of Mars (USA).json
+file: Computer/Zoom/M/Monuments of Mars (USA)/Monuments of Mars (USA).json
 developer: Scenario Software
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -313,7 +313,7 @@ x-co-op: No
 
 
 game: Necronomicon - The Dawning of Darkness (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/N/Necronomicon - The Dawning of Darkness (USA)/Necronomicon - The Dawning of Darkness (USA).json
+file: Computer/Zoom/N/Necronomicon - The Dawning of Darkness (USA)/Necronomicon - The Dawning of Darkness (USA).json
 developer: Wanadoo
 publisher: DreamCatcher Interactive
 genre: Adventure;Point-and-Click
@@ -333,7 +333,7 @@ x-co-op: No
 
 
 game: Pharaoh's Tomb (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/P/Pharaoh's Tomb (USA)/Pharaoh's Tomb (USA).json
+file: Computer/Zoom/P/Pharaoh's Tomb (USA)/Pharaoh's Tomb (USA).json
 developer: Micro F/X Software
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -371,7 +371,7 @@ x-co-op: No
 
 
 game: Postal - Classic and Uncut (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/P/Postal - Classic and Uncut (USA)/Postal - Classic and Uncut (USA).json
+file: Computer/Zoom/P/Postal - Classic and Uncut (USA)/Postal - Classic and Uncut (USA).json
 developer: Running With Scissors
 publisher: Ripcord Games
 genre: Shooter
@@ -390,7 +390,7 @@ x-co-op: No
 
 
 game: Shadow Warrior - Classic and Complete (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/S/Shadow Warrior - Classic and Complete (USA)/Shadow Warrior - Classic and Complete (USA).json
+file: Computer/Zoom/S/Shadow Warrior - Classic and Complete (USA)/Shadow Warrior - Classic and Complete (USA).json
 developer: 3D Realms
 publisher: GT Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -428,7 +428,7 @@ x-co-op: No
 
 
 game: StarGunner (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/S/StarGunner (USA)/StarGunner (USA).json
+file: Computer/Zoom/S/StarGunner (USA)/StarGunner (USA).json
 developer: WizardWorks
 publisher: Apogee Software, Ltd.
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -464,7 +464,7 @@ x-co-op: No
 
 
 game: Terminal Velocity (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/T/Terminal Velocity (USA)/Terminal Velocity (USA).json
+file: Computer/Zoom/T/Terminal Velocity (USA)/Terminal Velocity (USA).json
 developer: Terminal Reality
 publisher: 3D Realms
 genre: Simulation;Space;Combat
@@ -491,7 +491,7 @@ x-co-op: No
 
 
 game: Warzone 2100 (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/W/Warzone 2100 (USA)/Warzone 2100 (USA).json
+file: Computer/Zoom/W/Warzone 2100 (USA)/Warzone 2100 (USA).json
 developer: Pumpkin Software
 publisher: Eidos Interactive
 genre: Strategy
@@ -529,7 +529,7 @@ x-co-op: Yes
 
 
 game: Xenophage - Alien Bloodsport (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/X/Xenophage - Alien Bloodsport (USA)/Xenophage - Alien Bloodsport (USA).json
+file: Computer/Zoom/X/Xenophage - Alien Bloodsport (USA)/Xenophage - Alien Bloodsport (USA).json
 developer: Argo Games
 publisher: Apogee Software, Ltd.
 genre: Action;Fighting;2D
@@ -568,7 +568,7 @@ x-co-op: No
 
 
 game: Z - The Game (USA)
-file: $ROM_JSON_ROOT/Computer/Zoom/Z/Z - The Game (USA)/Z - The Game (USA).json
+file: Computer/Zoom/Z/Z - The Game (USA)/Z - The Game (USA).json
 developer: Tic Toc Games
 publisher: KISS ltd
 genre: Strategy

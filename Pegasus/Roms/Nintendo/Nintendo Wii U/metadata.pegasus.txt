@@ -1,9 +1,9 @@
 collection: Nintendo Wii U
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Wii U" {file.path}
+launch: launch_rom -l "Nintendo Wii U" {file.path}
 
 
 game: Animal Crossing - Amiibo Festival (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Animal Crossing - Amiibo Festival (USA)/Animal Crossing - Amiibo Festival (USA).json
+file: Nintendo/Nintendo Wii U/Animal Crossing - Amiibo Festival (USA)/Animal Crossing - Amiibo Festival (USA).json
 developer: Nd Cube
 publisher: Nintendo
 genre: Board Game;Party
@@ -35,7 +35,7 @@ x-co-op: Yes
 
 
 game: Axiom Verge (USA) (En,Fr,De,Es,It,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Axiom Verge (USA) (En,Fr,De,Es,It,Pt)/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).json
+file: Nintendo/Nintendo Wii U/Axiom Verge (USA) (En,Fr,De,Es,It,Pt)/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).json
 developer: Thomas Happ Games
 publisher: Thomas Happ Games, LLC
 genre: Action;Adventure
@@ -56,7 +56,7 @@ x-co-op: No
 
 
 game: Bayonetta (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Bayonetta (USA) (En,Ja,Fr,De,Es,It)/Bayonetta (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Wii U/Bayonetta (USA) (En,Ja,Fr,De,Es,It)/Bayonetta (USA) (En,Ja,Fr,De,Es,It).json
 developer: PlatinumGames
 publisher: Nintendo
 genre: Action
@@ -79,7 +79,7 @@ x-co-op: Yes
 
 
 game: Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Wii U/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).json
 developer: PlatinumGames
 publisher: Nintendo
 genre: Action
@@ -107,7 +107,7 @@ x-co-op: Yes
 
 
 game: Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00)/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).json
+file: Nintendo/Nintendo Wii U/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00)/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).json
 developer: Nintendo EAD Tokyo
 publisher: Nintendo
 genre: Platform;Puzzle
@@ -126,7 +126,7 @@ x-co-op: No
 
 
 game: Devil's Third (USA) (En,Fr)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Devil's Third (USA) (En,Fr)/Devil's Third (USA) (En,Fr).json
+file: Nintendo/Nintendo Wii U/Devil's Third (USA) (En,Fr)/Devil's Third (USA) (En,Fr).json
 developer: Valhalla Game Studio
 publisher: Nintendo
 genre: Action
@@ -152,7 +152,7 @@ x-co-op: No
 
 
 game: Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).json
 developer: WayForward Technologies
 publisher: Capcom
 genre: Action;Adventure;Platform
@@ -181,7 +181,7 @@ x-co-op: No
 
 
 game: Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).json
 developer: Junction Point Studios
 publisher: Disney Interactive
 genre: Adventure
@@ -205,7 +205,7 @@ x-co-op: No
 
 
 game: Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01)/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).json
+file: Nintendo/Nintendo Wii U/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01)/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).json
 developer: Retro Studios
 publisher: Nintendo
 genre: Platform
@@ -238,7 +238,7 @@ x-co-op: Yes
 
 
 game: Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru)/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).json
+file: Nintendo/Nintendo Wii U/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru)/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).json
 developer: Storybird
 publisher: PixelHeart
 genre: Platform
@@ -278,7 +278,7 @@ x-co-op: No
 
 
 game: Game & Wario (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Game & Wario (USA) (En,Fr,Es)/Game & Wario (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Game & Wario (USA) (En,Fr,Es)/Game & Wario (USA) (En,Fr,Es).json
 developer: Intelligent Systems Co., Ltd.
 publisher: Nintendo
 genre: Action;Puzzle
@@ -299,7 +299,7 @@ x-co-op: No
 
 
 game: Hyrule Warriors (USA) (En,Fr,Es) (v1.01)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Hyrule Warriors (USA) (En,Fr,Es) (v1.01)/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).json
+file: Nintendo/Nintendo Wii U/Hyrule Warriors (USA) (En,Fr,Es) (v1.01)/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).json
 developer: Team Ninja
 publisher: Nintendo
 genre: Action;Adventure;Strategy;Beat 'em Up
@@ -332,7 +332,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2014 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Just Dance 2014 (USA)/Just Dance 2014 (USA).json
+file: Nintendo/Nintendo Wii U/Just Dance 2014 (USA)/Just Dance 2014 (USA).json
 developer: Ubisoft, Inc.
 publisher: Ubisoft, Inc.
 genre: Music
@@ -360,7 +360,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2015 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Just Dance 2015 (USA)/Just Dance 2015 (USA).json
+file: Nintendo/Nintendo Wii U/Just Dance 2015 (USA)/Just Dance 2015 (USA).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Music
@@ -396,7 +396,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2016 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Just Dance 2016 (USA)/Just Dance 2016 (USA).json
+file: Nintendo/Nintendo Wii U/Just Dance 2016 (USA)/Just Dance 2016 (USA).json
 developer: Ubisoft France
 publisher: Ubisoft
 genre: Music
@@ -421,7 +421,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2017 (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Just Dance 2017 (USA) (En,Fr,Es,Pt)/Just Dance 2017 (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/Just Dance 2017 (USA) (En,Fr,Es,Pt)/Just Dance 2017 (USA) (En,Fr,Es,Pt).json
 developer: Ubisoft
 publisher: Ubisoft Entertainment
 genre: Music
@@ -441,7 +441,7 @@ x-co-op: Yes
 
 
 game: Just Dance 2018 (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Just Dance 2018 (USA) (En,Fr,Es,Pt)/Just Dance 2018 (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/Just Dance 2018 (USA) (En,Fr,Es,Pt)/Just Dance 2018 (USA) (En,Fr,Es,Pt).json
 developer: Ubisoft Paris
 publisher: Ubisoft
 genre: Action;Music
@@ -469,7 +469,7 @@ x-co-op: Yes
 
 
 game: Just Dance 4 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Just Dance 4 (USA)/Just Dance 4 (USA).json
+file: Nintendo/Nintendo Wii U/Just Dance 4 (USA)/Just Dance 4 (USA).json
 developer: Ubisoft
 publisher: Ubisoft
 genre: Music;Sports
@@ -488,7 +488,7 @@ x-co-op: Yes
 
 
 game: Kirby and the Rainbow Curse (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Kirby and the Rainbow Curse (USA) (En,Fr,Es)/Kirby and the Rainbow Curse (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Kirby and the Rainbow Curse (USA) (En,Fr,Es)/Kirby and the Rainbow Curse (USA) (En,Fr,Es).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform
@@ -510,7 +510,7 @@ x-co-op: Yes
 
 
 game: LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).json
 developer: Traveller's Tales
 publisher: Warner Bros. Interactive Entertainment
 genre: Action
@@ -532,7 +532,7 @@ x-co-op: Yes
 
 
 game: LEGO Dimensions (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/LEGO Dimensions (USA) (En,Fr,Es)/LEGO Dimensions (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/LEGO Dimensions (USA) (En,Fr,Es)/LEGO Dimensions (USA) (En,Fr,Es).json
 developer: Warner Home Video Games
 publisher: Warner Home Video Games
 genre: Action;Adventure
@@ -560,7 +560,7 @@ x-co-op: Yes
 
 
 game: LEGO Jurassic World (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/LEGO Jurassic World (USA) (En,Fr,Es,Pt)/LEGO Jurassic World (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/LEGO Jurassic World (USA) (En,Fr,Es,Pt)/LEGO Jurassic World (USA) (En,Fr,Es,Pt).json
 developer: TT Games
 publisher: Warner Bros Interactive Entertainment
 genre: Action;Adventure
@@ -581,7 +581,7 @@ x-co-op: Yes
 
 
 game: LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).json
 developer: Traveller's Tales
 publisher: WB Games
 genre: Action
@@ -605,7 +605,7 @@ x-co-op: Yes
 
 
 game: LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).json
 developer: TT Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Adventure
@@ -649,7 +649,7 @@ x-co-op: Yes
 
 
 game: Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -694,7 +694,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es)/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es)/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -721,7 +721,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es)/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es)/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).json
 developer: Tantalus
 publisher: Nintendo
 genre: Action;Adventure;Puzzle;Role-Playing
@@ -744,7 +744,7 @@ x-co-op: No
 
 
 game: Mario Party 10 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Mario Party 10 (USA)/Mario Party 10 (USA).json
+file: Nintendo/Nintendo Wii U/Mario Party 10 (USA)/Mario Party 10 (USA).json
 developer: NDcube
 publisher: Nintendo
 genre: Strategy;Party
@@ -764,7 +764,7 @@ x-co-op: Yes
 
 
 game: Mighty No. 9 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Mighty No. 9 (USA)/Mighty No. 9 (USA).json
+file: Nintendo/Nintendo Wii U/Mighty No. 9 (USA)/Mighty No. 9 (USA).json
 developer: Abstraction Games
 publisher: Deep Silver
 genre: Action;Platform
@@ -789,7 +789,7 @@ x-co-op: Yes
 
 
 game: Monster Hunter 3 Ultimate (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Monster Hunter 3 Ultimate (USA)/Monster Hunter 3 Ultimate (USA).json
+file: Nintendo/Nintendo Wii U/Monster Hunter 3 Ultimate (USA)/Monster Hunter 3 Ultimate (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Role-Playing
@@ -811,7 +811,7 @@ x-co-op: No
 
 
 game: NES Remix Pack (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/NES Remix Pack (USA) (En,Fr,Es)/NES Remix Pack (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/NES Remix Pack (USA) (En,Fr,Es)/NES Remix Pack (USA) (En,Fr,Es).json
 developer: Nintendo EAD Tokyo
 publisher: Nintendo
 genre: Action;Platform;Sports
@@ -842,7 +842,7 @@ x-co-op: No
 
 
 game: New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -861,7 +861,7 @@ x-co-op: Yes
 
 
 game: Nintendo Land (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Nintendo Land (USA) (En,Fr,Es)/Nintendo Land (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Nintendo Land (USA) (En,Fr,Es)/Nintendo Land (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure;Platform;Racing;Shooter;Sports
@@ -885,7 +885,7 @@ x-co-op: Yes
 
 
 game: Paper Mario - Color Splash (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Paper Mario - Color Splash (USA) (En,Fr,Es)/Paper Mario - Color Splash (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Paper Mario - Color Splash (USA) (En,Fr,Es)/Paper Mario - Color Splash (USA) (En,Fr,Es).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Adventure
@@ -906,7 +906,7 @@ x-co-op: No
 
 
 game: Pikmin 3 (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Pikmin 3 (USA) (En,Fr,Es)/Pikmin 3 (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Pikmin 3 (USA) (En,Fr,Es)/Pikmin 3 (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle;Strategy
@@ -928,7 +928,7 @@ x-co-op: No
 
 
 game: Pokken Tournament (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Pokken Tournament (USA)/Pokken Tournament (USA).json
+file: Nintendo/Nintendo Wii U/Pokken Tournament (USA)/Pokken Tournament (USA).json
 developer: Bandai Namco Games
 publisher: Nintendo
 genre: Action;Fighting
@@ -959,7 +959,7 @@ x-co-op: No
 
 
 game: Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).json
+file: Nintendo/Nintendo Wii U/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror
@@ -982,7 +982,7 @@ x-co-op: No
 
 
 game: Rodea the Sky Soldier (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Rodea the Sky Soldier (USA)/Rodea the Sky Soldier (USA).json
+file: Nintendo/Nintendo Wii U/Rodea the Sky Soldier (USA)/Rodea the Sky Soldier (USA).json
 developer: Kadokawa Games
 publisher: NIS America
 genre: Action
@@ -1010,7 +1010,7 @@ x-co-op: No
 
 
 game: Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Wii U/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).json
 developer: 13AM Games
 publisher: 13AM Games
 genre: Racing;Fighting
@@ -1034,7 +1034,7 @@ x-co-op: Yes
 
 
 game: Scribblenauts Unlimited (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Scribblenauts Unlimited (USA)/Scribblenauts Unlimited (USA).json
+file: Nintendo/Nintendo Wii U/Scribblenauts Unlimited (USA)/Scribblenauts Unlimited (USA).json
 developer: 5th Cell
 publisher: Warner Bros
 genre: Adventure;Puzzle
@@ -1055,7 +1055,7 @@ x-co-op: No
 
 
 game: Scribblenauts Unmasked - A DC Comics Adventure (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Scribblenauts Unmasked - A DC Comics Adventure (USA)/Scribblenauts Unmasked - A DC Comics Adventure (USA).json
+file: Nintendo/Nintendo Wii U/Scribblenauts Unmasked - A DC Comics Adventure (USA)/Scribblenauts Unmasked - A DC Comics Adventure (USA).json
 developer: 5th Cell
 publisher: Warner Brothers Interactive Entertainment
 genre: Action;Adventure;Puzzle
@@ -1081,7 +1081,7 @@ x-co-op: No
 
 
 game: Shakedown - Hawaii (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Shakedown - Hawaii (USA)/Shakedown - Hawaii (USA).json
+file: Nintendo/Nintendo Wii U/Shakedown - Hawaii (USA)/Shakedown - Hawaii (USA).json
 developer: VBlank Entertainment
 publisher: VBlank Entertainment
 genre: Action
@@ -1113,7 +1113,7 @@ x-co-op: No
 
 
 game: Shovel Knight (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Shovel Knight (USA)/Shovel Knight (USA).json
+file: Nintendo/Nintendo Wii U/Shovel Knight (USA)/Shovel Knight (USA).json
 developer: Yacht Club Games
 publisher: Yacht Club Games
 genre: Action;Adventure;Platform
@@ -1144,7 +1144,7 @@ x-co-op: No
 
 
 game: Sonic & All-Stars Racing Transformed (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Sonic & All-Stars Racing Transformed (USA)/Sonic & All-Stars Racing Transformed (USA).json
+file: Nintendo/Nintendo Wii U/Sonic & All-Stars Racing Transformed (USA)/Sonic & All-Stars Racing Transformed (USA).json
 developer: Sega
 publisher: Sega
 genre: Racing;Sports
@@ -1171,7 +1171,7 @@ x-co-op: No
 
 
 game: Sonic Boom - Rise of Lyric (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Sonic Boom - Rise of Lyric (USA)/Sonic Boom - Rise of Lyric (USA).json
+file: Nintendo/Nintendo Wii U/Sonic Boom - Rise of Lyric (USA)/Sonic Boom - Rise of Lyric (USA).json
 developer: Big Red Button Entertainment
 publisher: Sega
 genre: Action;Adventure;Platform
@@ -1206,7 +1206,7 @@ x-co-op: Yes
 
 
 game: Star Fox Guard (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Star Fox Guard (USA) (En,Fr,Es)/Star Fox Guard (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Star Fox Guard (USA) (En,Fr,Es)/Star Fox Guard (USA) (En,Fr,Es).json
 developer: PlatinumGames
 publisher: Nintendo
 genre: Strategy
@@ -1233,7 +1233,7 @@ x-co-op: No
 
 
 game: Star Fox Zero (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Star Fox Zero (USA) (En,Fr,Es)/Star Fox Zero (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Star Fox Zero (USA) (En,Fr,Es)/Star Fox Zero (USA) (En,Fr,Es).json
 developer: PlatinumGames
 publisher: Nintendo
 genre: Shooter
@@ -1266,7 +1266,7 @@ x-co-op: No
 
 
 game: Super Mario 3D World (USA) (En,Fr,Es) (v1.00)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Super Mario 3D World (USA) (En,Fr,Es) (v1.00)/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).json
+file: Nintendo/Nintendo Wii U/Super Mario 3D World (USA) (En,Fr,Es) (v1.00)/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).json
 developer: Nintendo EAD Tokyo
 publisher: Nintendo
 genre: Adventure;Platform
@@ -1299,7 +1299,7 @@ x-co-op: Yes
 
 
 game: Super Mario Maker (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Super Mario Maker (USA) (En,Fr,Es)/Super Mario Maker (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Super Mario Maker (USA) (En,Fr,Es)/Super Mario Maker (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -1320,7 +1320,7 @@ x-co-op: No
 
 
 game: Super Smash Bros. for Wii U (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Super Smash Bros. for Wii U (USA) (En,Fr,Es)/Super Smash Bros. for Wii U (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Super Smash Bros. for Wii U (USA) (En,Fr,Es)/Super Smash Bros. for Wii U (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Fighting
@@ -1344,7 +1344,7 @@ x-co-op: Yes
 
 
 game: Tank! Tank! Tank! (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Tank! Tank! Tank! (USA) (En,Fr,Es)/Tank! Tank! Tank! (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Tank! Tank! Tank! (USA) (En,Fr,Es)/Tank! Tank! Tank! (USA) (En,Fr,Es).json
 developer: Bandai Namco Entertainment
 publisher: Bandai Namco of America
 genre: Action
@@ -1369,7 +1369,7 @@ x-co-op: No
 
 
 game: Tokyo Mirage Sessions FE (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Tokyo Mirage Sessions FE (USA)/Tokyo Mirage Sessions FE (USA).json
+file: Nintendo/Nintendo Wii U/Tokyo Mirage Sessions FE (USA)/Tokyo Mirage Sessions FE (USA).json
 developer: Atlus
 publisher: Nintendo
 genre: Role-Playing
@@ -1389,7 +1389,7 @@ x-co-op: No
 
 
 game: Wii Fit U (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Wii Fit U (USA)/Wii Fit U (USA).json
+file: Nintendo/Nintendo Wii U/Wii Fit U (USA)/Wii Fit U (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports
@@ -1413,7 +1413,7 @@ x-co-op: No
 
 
 game: Wonderful 101, The (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Wonderful 101, The (USA) (En,Ja)/Wonderful 101, The (USA) (En,Ja).json
+file: Nintendo/Nintendo Wii U/Wonderful 101, The (USA) (En,Ja)/Wonderful 101, The (USA) (En,Ja).json
 developer: PlatinumGames
 publisher: Nintendo
 genre: Action;Strategy
@@ -1436,7 +1436,7 @@ x-co-op: Yes
 
 
 game: Xenoblade Chronicles X (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Xenoblade Chronicles X (USA) (En,Fr,Es)/Xenoblade Chronicles X (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Xenoblade Chronicles X (USA) (En,Fr,Es)/Xenoblade Chronicles X (USA) (En,Fr,Es).json
 developer: Monolith Soft
 publisher: Nintendo
 genre: Role-Playing
@@ -1471,7 +1471,7 @@ x-co-op: Yes
 
 
 game: Yoshi's Woolly World (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Yoshi's Woolly World (USA) (En,Fr,Es)/Yoshi's Woolly World (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Yoshi's Woolly World (USA) (En,Fr,Es)/Yoshi's Woolly World (USA) (En,Fr,Es).json
 developer: Good-Feel
 publisher: Nintendo
 genre: Platform
@@ -1504,7 +1504,7 @@ x-co-op: Yes
 
 
 game: Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).json
+file: Nintendo/Nintendo Wii U/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).json
 developer: Blue Byte Software
 publisher: Ubisoft Entertainment
 genre: Sports
@@ -1527,7 +1527,7 @@ x-co-op: No
 
 
 game: ZombiU (USA) (En,Fr,Es,Pt)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Wii U/ZombiU (USA) (En,Fr,Es,Pt)/ZombiU (USA) (En,Fr,Es,Pt).json
+file: Nintendo/Nintendo Wii U/ZombiU (USA) (En,Fr,Es,Pt)/ZombiU (USA) (En,Fr,Es,Pt).json
 developer: Ubisoft Montpellier
 publisher: Ubisoft
 genre: Horror;Shooter

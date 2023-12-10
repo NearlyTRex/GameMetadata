@@ -1,9 +1,9 @@
 collection: Computer - Humble Bundle
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Computer - Humble Bundle" {file.path}
+launch: launch_rom -l "Computer - Humble Bundle" {file.path}
 
 
 game: Amnesia - The Dark Descent (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
+file: Computer/Humble Bundle/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
 developer: Frictional Games
 publisher: Frictional Games
 genre: Action;Adventure;Horror
@@ -49,7 +49,7 @@ x-co-op: No
 
 
 game: Among the Sleep (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/A/Among the Sleep (USA)/Among the Sleep (USA).json
+file: Computer/Humble Bundle/A/Among the Sleep (USA)/Among the Sleep (USA).json
 developer: Krillbite Studio
 publisher: Krillbite Studio
 genre: Adventure;Horror
@@ -72,7 +72,7 @@ x-co-op: No
 
 
 game: Bastion (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/B/Bastion (USA)/Bastion (USA).json
+file: Computer/Humble Bundle/B/Bastion (USA)/Bastion (USA).json
 developer: Supergiant Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Role-Playing
@@ -124,7 +124,7 @@ x-co-op: No
 
 
 game: Beat Hazard Ultra (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/B/Beat Hazard Ultra (USA)/Beat Hazard Ultra (USA).json
+file: Computer/Humble Bundle/B/Beat Hazard Ultra (USA)/Beat Hazard Ultra (USA).json
 developer: ShadowRage
 publisher: ShadowRage
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -157,7 +157,7 @@ x-co-op: Yes
 
 
 game: Beatbuddy - Tale of the Guardians (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/B/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
+file: Computer/Humble Bundle/B/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
 developer: Threaks
 publisher: Reverb Publishing
 genre: Action;Adventure;Music
@@ -178,7 +178,7 @@ x-co-op: No
 
 
 game: Braid (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/B/Braid (USA)/Braid (USA).json
+file: Computer/Humble Bundle/B/Braid (USA)/Braid (USA).json
 developer: Number None
 publisher: Number None
 genre: Platform;Puzzle
@@ -201,7 +201,7 @@ x-co-op: No
 
 
 game: Brutal Legend (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/B/Brutal Legend (USA)/Brutal Legend (USA).json
+file: Computer/Humble Bundle/B/Brutal Legend (USA)/Brutal Legend (USA).json
 developer: Double Fine Productions
 publisher: Double Fine Productions
 genre: Action;Music;Sandbox;Strategy;Beat 'em Up
@@ -236,7 +236,7 @@ x-co-op: No
 
 
 game: Crawl (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/C/Crawl (USA)/Crawl (USA).json
+file: Computer/Humble Bundle/C/Crawl (USA)/Crawl (USA).json
 developer: Powerhoof
 publisher: Powerhoof
 genre: Action;Role-Playing;Beat 'em Up;Party
@@ -269,7 +269,7 @@ x-co-op: Yes
 
 
 game: Crayon Physics Deluxe (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/C/Crayon Physics Deluxe (USA)/Crayon Physics Deluxe (USA).json
+file: Computer/Humble Bundle/C/Crayon Physics Deluxe (USA)/Crayon Physics Deluxe (USA).json
 developer: Kloonigames
 publisher: Kloonigames
 genre: Puzzle
@@ -289,7 +289,7 @@ x-co-op: No
 
 
 game: Crimsonland (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/C/Crimsonland (USA)/Crimsonland (USA).json
+file: Computer/Humble Bundle/C/Crimsonland (USA)/Crimsonland (USA).json
 developer: 10tons Ltd.
 publisher: Reflexive Entertainment
 genre: Action;Shooter
@@ -332,7 +332,7 @@ x-co-op: Yes
 
 
 game: Crowntakers (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/C/Crowntakers (USA)/Crowntakers (USA).json
+file: Computer/Humble Bundle/C/Crowntakers (USA)/Crowntakers (USA).json
 developer: Bulwark Studios
 publisher: Kasedo Games
 genre: Role-Playing;Strategy
@@ -364,7 +364,7 @@ x-co-op: No
 
 
 game: Curse of the Crescent Isle DX (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/C/Curse of the Crescent Isle DX (USA)/Curse of the Crescent Isle DX (USA).json
+file: Computer/Humble Bundle/C/Curse of the Crescent Isle DX (USA)/Curse of the Crescent Isle DX (USA).json
 developer: Adam Mowery
 publisher: Self-Published
 genre: Platform
@@ -394,7 +394,7 @@ x-co-op: No
 
 
 game: Day of the Tentacle Remastered (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/D/Day of the Tentacle Remastered (USA)/Day of the Tentacle Remastered (USA).json
+file: Computer/Humble Bundle/D/Day of the Tentacle Remastered (USA)/Day of the Tentacle Remastered (USA).json
 developer: LucasArts
 publisher: Double Fine Productions
 genre: Adventure
@@ -419,7 +419,7 @@ x-co-op: No
 
 
 game: Doodle God (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/D/Doodle God (USA)/Doodle God (USA).json
+file: Computer/Humble Bundle/D/Doodle God (USA)/Doodle God (USA).json
 developer: JoyBits Ltd.
 publisher: JoyBits Ltd.
 genre: Puzzle
@@ -454,7 +454,7 @@ x-co-op: No
 
 
 game: Dungeon Defenders (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/D/Dungeon Defenders (USA)/Dungeon Defenders (USA).json
+file: Computer/Humble Bundle/D/Dungeon Defenders (USA)/Dungeon Defenders (USA).json
 developer: Trendy Entertainment
 publisher: Trendy Entertainment
 genre: Action;Role-Playing;Strategy
@@ -480,7 +480,7 @@ x-co-op: Yes
 
 
 game: Dungeons of Dredmor Complete (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/D/Dungeons of Dredmor Complete (USA)/Dungeons of Dredmor Complete (USA).json
+file: Computer/Humble Bundle/D/Dungeons of Dredmor Complete (USA)/Dungeons of Dredmor Complete (USA).json
 developer: Gaslamp Games
 publisher: Gaslamp Games
 genre: Role-Playing;Roguelike
@@ -501,7 +501,7 @@ x-co-op: No
 
 
 game: Dynamite Jack (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/D/Dynamite Jack (USA)/Dynamite Jack (USA).json
+file: Computer/Humble Bundle/D/Dynamite Jack (USA)/Dynamite Jack (USA).json
 developer: Hassey Enterprises
 publisher: Hassey Enterprises
 genre: Stealth
@@ -521,7 +521,7 @@ x-co-op: No
 
 
 game: Eets Munchies (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/E/Eets Munchies (USA)/Eets Munchies (USA).json
+file: Computer/Humble Bundle/E/Eets Munchies (USA)/Eets Munchies (USA).json
 developer: Klei Entertainment
 publisher: Klei Entertainment
 genre: Puzzle
@@ -541,7 +541,7 @@ x-co-op: No
 
 
 game: FTL - Faster than Light (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/F/FTL - Faster than Light (USA)/FTL - Faster than Light (USA).json
+file: Computer/Humble Bundle/F/FTL - Faster than Light (USA)/FTL - Faster than Light (USA).json
 developer: Subset Games
 publisher: Subset Games
 genre: Role-Playing;Strategy;Vehicle Simulation
@@ -600,7 +600,7 @@ x-co-op: No
 
 
 game: Faerie Solitaire (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/F/Faerie Solitaire (USA)/Faerie Solitaire (USA).json
+file: Computer/Humble Bundle/F/Faerie Solitaire (USA)/Faerie Solitaire (USA).json
 developer: Subsoap
 publisher: Subsoap
 genre: Puzzle
@@ -627,7 +627,7 @@ x-co-op: No
 
 
 game: Fez (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/F/Fez (USA)/Fez (USA).json
+file: Computer/Humble Bundle/F/Fez (USA)/Fez (USA).json
 developer: Polytron
 publisher: Polytron
 genre: Platform;Puzzle
@@ -650,7 +650,7 @@ x-co-op: No
 
 
 game: Fotonica (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/F/Fotonica (USA)/Fotonica (USA).json
+file: Computer/Humble Bundle/F/Fotonica (USA)/Fotonica (USA).json
 developer: Santa Ragione
 publisher: Santa Ragione
 genre: Action
@@ -678,7 +678,7 @@ x-co-op: Yes
 
 
 game: Grim Fandango Remastered (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/G/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
+file: Computer/Humble Bundle/G/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
 developer: Double Fine Productions, Inc.
 publisher: Double Fine Productions, Inc.
 genre: Adventure
@@ -708,7 +708,7 @@ x-co-op: No
 
 
 game: Hacknet (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/H/Hacknet (USA)/Hacknet (USA).json
+file: Computer/Humble Bundle/H/Hacknet (USA)/Hacknet (USA).json
 developer: Team Fractal Alligator
 publisher: Surprise Attack
 genre: Puzzle
@@ -741,7 +741,7 @@ x-co-op: No
 
 
 game: Hand of Fate (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/H/Hand of Fate (USA)/Hand of Fate (USA).json
+file: Computer/Humble Bundle/H/Hand of Fate (USA)/Hand of Fate (USA).json
 developer: Defiant Development
 publisher: Defiant Development
 genre: Action;Role-Playing
@@ -763,7 +763,7 @@ x-co-op: No
 
 
 game: Home - A Unique Horror Adventure (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/H/Home - A Unique Horror Adventure (USA)/Home - A Unique Horror Adventure (USA).json
+file: Computer/Humble Bundle/H/Home - A Unique Horror Adventure (USA)/Home - A Unique Horror Adventure (USA).json
 developer: Benjamin Rivers
 publisher: Benjamin Rivers
 genre: Adventure;General
@@ -781,7 +781,7 @@ x-co-op: No
 
 
 game: Knock-Knock (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/K/Knock-Knock (USA)/Knock-Knock (USA).json
+file: Computer/Humble Bundle/K/Knock-Knock (USA)/Knock-Knock (USA).json
 developer: Ice-pick Lodge
 publisher: Ice-Pick Lodge
 genre: Horror
@@ -831,7 +831,7 @@ x-co-op: No
 
 
 game: Limbo (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/L/Limbo (USA)/Limbo (USA).json
+file: Computer/Humble Bundle/L/Limbo (USA)/Limbo (USA).json
 developer: Playdead
 publisher: Playdead
 genre: Platform;Puzzle
@@ -853,7 +853,7 @@ x-co-op: No
 
 
 game: Lone Survivor - The Director's Cut (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/L/Lone Survivor - The Director's Cut (USA)/Lone Survivor - The Director's Cut (USA).json
+file: Computer/Humble Bundle/L/Lone Survivor - The Director's Cut (USA)/Lone Survivor - The Director's Cut (USA).json
 developer: superflat games
 publisher: Curve Studios
 genre: Horror
@@ -913,7 +913,7 @@ x-co-op: No
 
 
 game: Loot Rascals (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/L/Loot Rascals (USA)/Loot Rascals (USA).json
+file: Computer/Humble Bundle/L/Loot Rascals (USA)/Loot Rascals (USA).json
 developer: Hollow Ponds
 publisher: Hollow Ponds
 genre: Adventure
@@ -948,7 +948,7 @@ x-co-op: No
 
 
 game: MANOS - The Hands of Fate (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/M/MANOS - The Hands of Fate (USA)/MANOS - The Hands of Fate (USA).json
+file: Computer/Humble Bundle/M/MANOS - The Hands of Fate (USA)/MANOS - The Hands of Fate (USA).json
 developer: FreakZone Games
 publisher: FreakZone Games
 genre: Platform
@@ -987,7 +987,7 @@ x-co-op: No
 
 
 game: Mark of the Ninja (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/M/Mark of the Ninja (USA)/Mark of the Ninja (USA).json
+file: Computer/Humble Bundle/M/Mark of the Ninja (USA)/Mark of the Ninja (USA).json
 developer: Klei Entertainment
 publisher: Microsoft Studios
 genre: Action;Stealth
@@ -1012,7 +1012,7 @@ x-co-op: No
 
 
 game: Mibibli's Quest (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/M/Mibibli's Quest (USA)/Mibibli's Quest (USA).json
+file: Computer/Humble Bundle/M/Mibibli's Quest (USA)/Mibibli's Quest (USA).json
 developer: Ryan Melmoth
 publisher: Ryan Melmoth
 genre: Platform
@@ -1042,7 +1042,7 @@ x-co-op: No
 
 
 game: Monster Loves You! (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/M/Monster Loves You! (USA)/Monster Loves You! (USA).json
+file: Computer/Humble Bundle/M/Monster Loves You! (USA)/Monster Loves You! (USA).json
 developer: Dejobaan Games
 publisher: Radial Games Corp
 genre: Adventure;Role-Playing
@@ -1078,7 +1078,7 @@ x-co-op: No
 
 
 game: Neverending Nightmares (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/N/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
+file: Computer/Humble Bundle/N/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
 developer: Infinitap Games
 publisher: Infinitap Games
 genre: Horror
@@ -1111,7 +1111,7 @@ x-co-op: No
 
 
 game: NightSky (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/N/NightSky (USA)/NightSky (USA).json
+file: Computer/Humble Bundle/N/NightSky (USA)/NightSky (USA).json
 developer: Nicalis
 publisher: Nicalis
 genre: Platform;Strategy
@@ -1133,7 +1133,7 @@ x-co-op: No
 
 
 game: OddPlanet (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/O/OddPlanet (USA)/OddPlanet (USA).json
+file: Computer/Humble Bundle/O/OddPlanet (USA)/OddPlanet (USA).json
 developer: Piotr Krol
 publisher: Piotr Krol
 genre: Action;Platformer;2D
@@ -1154,7 +1154,7 @@ x-co-op: No
 
 
 game: Our Darker Purpose (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/O/Our Darker Purpose (USA)/Our Darker Purpose (USA).json
+file: Computer/Humble Bundle/O/Our Darker Purpose (USA)/Our Darker Purpose (USA).json
 developer: Avidly Wild Games
 publisher: Avidly Wild Games
 genre: Role-Playing
@@ -1191,7 +1191,7 @@ x-co-op: No
 
 
 game: Pitiri 1977 (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/P/Pitiri 1977 (USA)/Pitiri 1977 (USA).json
+file: Computer/Humble Bundle/P/Pitiri 1977 (USA)/Pitiri 1977 (USA).json
 developer: ILIKESCIFI Games
 publisher: ILIKESCIFI Games
 genre: Action;General
@@ -1218,7 +1218,7 @@ x-co-op: No
 
 
 game: Pony Island (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/P/Pony Island (USA)/Pony Island (USA).json
+file: Computer/Humble Bundle/P/Pony Island (USA)/Pony Island (USA).json
 developer: Daniel Mullins Games
 publisher: Daniel Mullins Games
 genre: Action;Puzzle
@@ -1268,7 +1268,7 @@ x-co-op: No
 
 
 game: Psychonauts (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/P/Psychonauts (USA)/Psychonauts (USA).json
+file: Computer/Humble Bundle/P/Psychonauts (USA)/Psychonauts (USA).json
 developer: Double Fine Productions
 publisher: Majesco
 genre: Action;Adventure;Platform
@@ -1313,7 +1313,7 @@ x-co-op: No
 
 
 game: Rocketbirds - Hardboiled Chicken (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/R/Rocketbirds - Hardboiled Chicken (USA)/Rocketbirds - Hardboiled Chicken (USA).json
+file: Computer/Humble Bundle/R/Rocketbirds - Hardboiled Chicken (USA)/Rocketbirds - Hardboiled Chicken (USA).json
 developer: Ratloop Asia
 publisher: Reverb Publishing
 genre: Action;Platform
@@ -1349,7 +1349,7 @@ x-co-op: Yes
 
 
 game: Satellite Reign (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Satellite Reign (USA)/Satellite Reign (USA).json
+file: Computer/Humble Bundle/S/Satellite Reign (USA)/Satellite Reign (USA).json
 developer: 5 Lives Studios
 publisher: 5 Lives Studios
 genre: Action;Role-Playing;Sandbox;Strategy
@@ -1377,7 +1377,7 @@ x-co-op: No
 
 
 game: Screencheat (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Screencheat (USA)/Screencheat (USA).json
+file: Computer/Humble Bundle/S/Screencheat (USA)/Screencheat (USA).json
 developer: Samurai Punk
 publisher: Surprise Attack
 genre: Shooter
@@ -1402,7 +1402,7 @@ x-co-op: No
 
 
 game: Secret of the Magic Crystals Complete (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Secret of the Magic Crystals Complete (USA)/Secret of the Magic Crystals Complete (USA).json
+file: Computer/Humble Bundle/S/Secret of the Magic Crystals Complete (USA)/Secret of the Magic Crystals Complete (USA).json
 developer: Artwaregames Inc.
 publisher: Artwaregames Inc.
 genre: Simulation;Virtual;Pet
@@ -1428,7 +1428,7 @@ x-co-op: No
 
 
 game: Solar 2 (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Solar 2 (USA)/Solar 2 (USA).json
+file: Computer/Humble Bundle/S/Solar 2 (USA)/Solar 2 (USA).json
 developer: Murudai
 publisher: Murudai
 genre: Adventure;Life Simulation;Puzzle;Sandbox
@@ -1454,7 +1454,7 @@ x-co-op: No
 
 
 game: Splice (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Splice (USA)/Splice (USA).json
+file: Computer/Humble Bundle/S/Splice (USA)/Splice (USA).json
 developer: Cipher Prime Studios
 publisher: Cipher Prime Studios
 genre: Puzzle
@@ -1483,7 +1483,7 @@ x-co-op: No
 
 
 game: Splotches (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Splotches (USA)/Splotches (USA).json
+file: Computer/Humble Bundle/S/Splotches (USA)/Splotches (USA).json
 developer: Jolly Crouton Media Ltd.
 publisher: Jolly Crouton Media Ltd.
 genre: Puzzle
@@ -1505,7 +1505,7 @@ x-co-op: No
 
 
 game: Spookening, The (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Spookening, The (USA)/Spookening, The (USA).json
+file: Computer/Humble Bundle/S/Spookening, The (USA)/Spookening, The (USA).json
 developer: Modesty
 publisher: Modesty
 genre: Action;General
@@ -1537,7 +1537,7 @@ x-co-op: No
 
 
 game: Strata (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Strata (USA)/Strata (USA).json
+file: Computer/Humble Bundle/S/Strata (USA)/Strata (USA).json
 developer: Graveck
 publisher: Graveck
 genre: Puzzle
@@ -1562,7 +1562,7 @@ x-co-op: No
 
 
 game: Super Hexagon (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Super Hexagon (USA)/Super Hexagon (USA).json
+file: Computer/Humble Bundle/S/Super Hexagon (USA)/Super Hexagon (USA).json
 developer: Terry Cavanagh
 publisher: Terry Cavanagh
 genre: Action;Puzzle
@@ -1582,7 +1582,7 @@ x-co-op: No
 
 
 game: Super Meat Boy (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Super Meat Boy (USA)/Super Meat Boy (USA).json
+file: Computer/Humble Bundle/S/Super Meat Boy (USA)/Super Meat Boy (USA).json
 developer: Team Meat
 publisher: Team Meat
 genre: Action;Platform
@@ -1615,7 +1615,7 @@ x-co-op: No
 
 
 game: Superbrothers - Sword & Sworcery EP (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/S/Superbrothers - Sword & Sworcery EP (USA)/Superbrothers - Sword & Sworcery EP (USA).json
+file: Computer/Humble Bundle/S/Superbrothers - Sword & Sworcery EP (USA)/Superbrothers - Sword & Sworcery EP (USA).json
 developer: Capybara Games
 publisher: Capybara Games
 genre: Adventure
@@ -1640,7 +1640,7 @@ x-co-op: No
 
 
 game: TinyKeep (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/T/TinyKeep (USA)/TinyKeep (USA).json
+file: Computer/Humble Bundle/T/TinyKeep (USA)/TinyKeep (USA).json
 developer: Phigames
 publisher: Digital Tribe
 genre: Action;Role-Playing
@@ -1699,7 +1699,7 @@ x-co-op: No
 
 
 game: Trine 2 - Complete Story (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/T/Trine 2 - Complete Story (USA)/Trine 2 - Complete Story (USA).json
+file: Computer/Humble Bundle/T/Trine 2 - Complete Story (USA)/Trine 2 - Complete Story (USA).json
 developer: Frozenbyte
 publisher: Frozenbyte
 genre: Platform;Puzzle
@@ -1724,7 +1724,7 @@ x-co-op: No
 
 
 game: TumbleSeed (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/T/TumbleSeed (USA)/TumbleSeed (USA).json
+file: Computer/Humble Bundle/T/TumbleSeed (USA)/TumbleSeed (USA).json
 developer: Benedict Fritz
 publisher: aeiowu
 genre: Action
@@ -1752,7 +1752,7 @@ x-co-op: No
 
 
 game: Vertical Drop Heroes HD (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/V/Vertical Drop Heroes HD (USA)/Vertical Drop Heroes HD (USA).json
+file: Computer/Humble Bundle/V/Vertical Drop Heroes HD (USA)/Vertical Drop Heroes HD (USA).json
 developer: Nerdook Productions
 publisher: Digerati Distribution
 genre: Action;Platform;Role-Playing
@@ -1798,7 +1798,7 @@ x-co-op: Yes
 
 
 game: Vincere Totus Astrum (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/V/Vincere Totus Astrum (USA)/Vincere Totus Astrum (USA).json
+file: Computer/Humble Bundle/V/Vincere Totus Astrum (USA)/Vincere Totus Astrum (USA).json
 developer: Gamesare Studios
 publisher: Gamesare Studios
 genre: Simulation;General
@@ -1823,7 +1823,7 @@ x-co-op: No
 
 
 game: Virus Named Tom, A (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/V/Virus Named Tom, A (USA)/Virus Named Tom, A (USA).json
+file: Computer/Humble Bundle/V/Virus Named Tom, A (USA)/Virus Named Tom, A (USA).json
 developer: Misfits Attic
 publisher: Misfits Attic
 genre: Action;Puzzle
@@ -1844,7 +1844,7 @@ x-co-op: Yes
 
 
 game: Warlock of Firetop Mountain, The (USA)
-file: $ROM_JSON_ROOT/Computer/Humble Bundle/W/Warlock of Firetop Mountain, The (USA)/Warlock of Firetop Mountain, The (USA).json
+file: Computer/Humble Bundle/W/Warlock of Firetop Mountain, The (USA)/Warlock of Firetop Mountain, The (USA).json
 developer: Tin Man Games
 publisher: Tin Man Games
 genre: Role-Playing

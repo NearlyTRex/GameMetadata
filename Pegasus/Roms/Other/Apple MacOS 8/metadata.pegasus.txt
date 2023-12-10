@@ -1,9 +1,9 @@
 collection: Apple MacOS 8
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Apple MacOS 8" {file.path}
+launch: launch_rom -l "Apple MacOS 8" {file.path}
 
 
 game: Harry the Handsome Executive (USA)
-file: $ROM_JSON_ROOT/Other/Apple MacOS 8/Harry the Handsome Executive (USA)/Harry the Handsome Executive (USA).json
+file: Other/Apple MacOS 8/Harry the Handsome Executive (USA)/Harry the Handsome Executive (USA).json
 developer: Ambrosia
 publisher: Ambrosia
 genre: Action
@@ -32,7 +32,7 @@ x-co-op: No
 
 
 game: Robo-Theif - Crisis at New York City (USA)
-file: $ROM_JSON_ROOT/Other/Apple MacOS 8/Robo-Theif - Crisis at New York City (USA)/Robo-Theif - Crisis at New York City (USA).json
+file: Other/Apple MacOS 8/Robo-Theif - Crisis at New York City (USA)/Robo-Theif - Crisis at New York City (USA).json
 developer: Unknown
 publisher: Unknown
 genre: Adventure

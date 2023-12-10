@@ -1,9 +1,9 @@
 collection: Atari 5200
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Atari 5200" {file.path}
+launch: launch_rom -l "Atari 5200" {file.path}
 
 
 game: Asteroids (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Asteroids (USA) (Proto)/Asteroids (USA) (Proto).json
+file: Other/Atari 5200/Asteroids (USA) (Proto)/Asteroids (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -36,7 +36,7 @@ x-co-op: Yes
 
 
 game: Bounty Bob Strikes Back! (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Bounty Bob Strikes Back! (USA)/Bounty Bob Strikes Back! (USA).json
+file: Other/Atari 5200/Bounty Bob Strikes Back! (USA)/Bounty Bob Strikes Back! (USA).json
 developer: Big Five Software
 publisher: Big Five Software
 genre: Action
@@ -59,7 +59,7 @@ x-co-op: No
 
 
 game: Centipede (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Centipede (USA)/Centipede (USA).json
+file: Other/Atari 5200/Centipede (USA)/Centipede (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -82,7 +82,7 @@ x-co-op: No
 
 
 game: Countermeasure (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Countermeasure (USA)/Countermeasure (USA).json
+file: Other/Atari 5200/Countermeasure (USA)/Countermeasure (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Shooter
@@ -114,7 +114,7 @@ x-co-op: No
 
 
 game: Final Legacy (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Final Legacy (USA) (Proto)/Final Legacy (USA) (Proto).json
+file: Other/Atari 5200/Final Legacy (USA) (Proto)/Final Legacy (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Strategy;Vehicle Simulation
@@ -180,7 +180,7 @@ x-co-op: No
 
 
 game: Microgammon SB (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Microgammon SB (USA) (Proto)/Microgammon SB (USA) (Proto).json
+file: Other/Atari 5200/Microgammon SB (USA) (Proto)/Microgammon SB (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Board Game
@@ -200,7 +200,7 @@ x-co-op: No
 
 
 game: Millipede (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Millipede (USA) (Proto)/Millipede (USA) (Proto).json
+file: Other/Atari 5200/Millipede (USA) (Proto)/Millipede (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -225,7 +225,7 @@ x-co-op: No
 
 
 game: Miner 2049er Starring Bounty Bob (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Miner 2049er Starring Bounty Bob (USA)/Miner 2049er Starring Bounty Bob (USA).json
+file: Other/Atari 5200/Miner 2049er Starring Bounty Bob (USA)/Miner 2049er Starring Bounty Bob (USA).json
 developer: Big Five Software
 publisher: Big Five Software
 genre: Platform
@@ -254,7 +254,7 @@ x-co-op: No
 
 
 game: Miniature Golf (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Miniature Golf (USA) (Proto)/Miniature Golf (USA) (Proto).json
+file: Other/Atari 5200/Miniature Golf (USA) (Proto)/Miniature Golf (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -279,7 +279,7 @@ x-co-op: No
 
 
 game: Missile Command (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Missile Command (USA)/Missile Command (USA).json
+file: Other/Atari 5200/Missile Command (USA)/Missile Command (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -303,7 +303,7 @@ x-co-op: No
 
 
 game: Pac-Man (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Pac-Man (USA)/Pac-Man (USA).json
+file: Other/Atari 5200/Pac-Man (USA)/Pac-Man (USA).json
 developer: Namco
 publisher: Atari
 genre: Action
@@ -324,7 +324,7 @@ x-co-op: No
 
 
 game: RealSports Baseball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/RealSports Baseball (USA)/RealSports Baseball (USA).json
+file: Other/Atari 5200/RealSports Baseball (USA)/RealSports Baseball (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -355,7 +355,7 @@ x-co-op: No
 
 
 game: RealSports Basketball (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/RealSports Basketball (USA)/RealSports Basketball (USA).json
+file: Other/Atari 5200/RealSports Basketball (USA)/RealSports Basketball (USA).json
 developer: Patrick Bass
 publisher: Atari
 genre: Sports
@@ -381,7 +381,7 @@ x-co-op: No
 
 
 game: RealSports Football (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/RealSports Football (USA)/RealSports Football (USA).json
+file: Other/Atari 5200/RealSports Football (USA)/RealSports Football (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Sports
@@ -404,7 +404,7 @@ x-co-op: No
 
 
 game: RealSports Soccer (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/RealSports Soccer (USA)/RealSports Soccer (USA).json
+file: Other/Atari 5200/RealSports Soccer (USA)/RealSports Soccer (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -425,7 +425,7 @@ x-co-op: No
 
 
 game: RealSports Tennis (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/RealSports Tennis (USA)/RealSports Tennis (USA).json
+file: Other/Atari 5200/RealSports Tennis (USA)/RealSports Tennis (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -445,7 +445,7 @@ x-co-op: No
 
 
 game: Star Raiders (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Star Raiders (USA)/Star Raiders (USA).json
+file: Other/Atari 5200/Star Raiders (USA)/Star Raiders (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Shooter
@@ -475,7 +475,7 @@ x-co-op: No
 
 
 game: Super Breakout (USA)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Super Breakout (USA)/Super Breakout (USA).json
+file: Other/Atari 5200/Super Breakout (USA)/Super Breakout (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Action
@@ -506,7 +506,7 @@ x-co-op: No
 
 
 game: Xari Arena (USA) (Proto)
-file: $ROM_JSON_ROOT/Other/Atari 5200/Xari Arena (USA) (Proto)/Xari Arena (USA) (Proto).json
+file: Other/Atari 5200/Xari Arena (USA) (Proto)/Xari Arena (USA) (Proto).json
 developer: Atari
 publisher: AtariAge
 genre: Action

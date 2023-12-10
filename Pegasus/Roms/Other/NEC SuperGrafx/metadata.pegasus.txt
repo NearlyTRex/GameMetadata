@@ -1,9 +1,9 @@
 collection: NEC SuperGrafx
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "NEC SuperGrafx" {file.path}
+launch: launch_rom -l "NEC SuperGrafx" {file.path}
 
 
 game: Aldynes - The Misson Code for Rage Crisis (Japan)
-file: $ROM_JSON_ROOT/Other/NEC SuperGrafx/Aldynes - The Misson Code for Rage Crisis (Japan)/Aldynes - The Misson Code for Rage Crisis (Japan).json
+file: Other/NEC SuperGrafx/Aldynes - The Misson Code for Rage Crisis (Japan)/Aldynes - The Misson Code for Rage Crisis (Japan).json
 developer: Produce
 publisher: Hudson Soft
 genre: Action;Shooter
@@ -39,7 +39,7 @@ x-co-op: No
 
 
 game: Daimakai Mura (Japan)
-file: $ROM_JSON_ROOT/Other/NEC SuperGrafx/Daimakai Mura (Japan)/Daimakai Mura (Japan).json
+file: Other/NEC SuperGrafx/Daimakai Mura (Japan)/Daimakai Mura (Japan).json
 developer: Alfa System
 publisher: NEC Avenue
 genre: Action;Horror

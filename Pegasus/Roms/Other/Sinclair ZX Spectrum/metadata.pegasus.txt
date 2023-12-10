@@ -1,9 +1,9 @@
 collection: Sinclair ZX Spectrum
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Sinclair ZX Spectrum" {file.path}
+launch: launch_rom -l "Sinclair ZX Spectrum" {file.path}
 
 
 game: Alien 8 (Europe) (Ultimate Play The Game)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Alien 8 (Europe) (Ultimate Play The Game)/Alien 8 (Europe) (Ultimate Play The Game).json
+file: Other/Sinclair ZX Spectrum/Alien 8 (Europe) (Ultimate Play The Game)/Alien 8 (Europe) (Ultimate Play The Game).json
 developer: Chris Stamper
 publisher: Ultimate Play the Game
 genre: Action;Platform
@@ -35,7 +35,7 @@ x-co-op: No
 
 
 game: Atic Atac (Europe) (Ultimate Play The Game)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Atic Atac (Europe) (Ultimate Play The Game)/Atic Atac (Europe) (Ultimate Play The Game).json
+file: Other/Sinclair ZX Spectrum/Atic Atac (Europe) (Ultimate Play The Game)/Atic Atac (Europe) (Ultimate Play The Game).json
 developer: Chris Stamper
 publisher: Ultimate Play the Game
 genre: Action;Adventure;Puzzle
@@ -58,7 +58,7 @@ x-co-op: No
 
 
 game: Cookie (Europe) (Ultimate Play The Game) (16K)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Cookie (Europe) (Ultimate Play The Game) (16K)/Cookie (Europe) (Ultimate Play The Game) (16K).json
+file: Other/Sinclair ZX Spectrum/Cookie (Europe) (Ultimate Play The Game) (16K)/Cookie (Europe) (Ultimate Play The Game) (16K).json
 developer: Tim and Chris Stamper
 publisher: Ultimate Play the Game
 genre: Platform;Shooter
@@ -87,7 +87,7 @@ x-co-op: No
 
 
 game: Gunfright (Europe) (Ultimate Play The Game)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Gunfright (Europe) (Ultimate Play The Game)/Gunfright (Europe) (Ultimate Play The Game).json
+file: Other/Sinclair ZX Spectrum/Gunfright (Europe) (Ultimate Play The Game)/Gunfright (Europe) (Ultimate Play The Game).json
 developer: Ultimate Play The Game
 publisher: Ultimate Play the Game
 genre: Adventure
@@ -119,7 +119,7 @@ x-co-op: No
 
 
 game: Jet Pac (Europe) (Ultimate Play The Game) (16K)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Jet Pac (Europe) (Ultimate Play The Game) (16K)/Jet Pac (Europe) (Ultimate Play The Game) (16K).json
+file: Other/Sinclair ZX Spectrum/Jet Pac (Europe) (Ultimate Play The Game) (16K)/Jet Pac (Europe) (Ultimate Play The Game) (16K).json
 developer: Chris Stamper
 publisher: Ultimate Play the Game
 genre: Platform;Shooter
@@ -146,7 +146,7 @@ x-co-op: No
 
 
 game: Jumpin' Jupiter - Prelude (USA)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Jumpin' Jupiter - Prelude (USA)/Jumpin' Jupiter - Prelude (USA).json
+file: Other/Sinclair ZX Spectrum/Jumpin' Jupiter - Prelude (USA)/Jumpin' Jupiter - Prelude (USA).json
 developer: Quantum Sheep
 publisher: Quantum Sheep
 genre: Platformer
@@ -172,7 +172,7 @@ x-co-op: No
 
 
 game: Knight Lore (Europe) (Ultimate Play The Game)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Knight Lore (Europe) (Ultimate Play The Game)/Knight Lore (Europe) (Ultimate Play The Game).json
+file: Other/Sinclair ZX Spectrum/Knight Lore (Europe) (Ultimate Play The Game)/Knight Lore (Europe) (Ultimate Play The Game).json
 developer: Ultimate Play The Game
 publisher: Ultimate Play the Game
 genre: Adventure;Platform;Puzzle
@@ -199,7 +199,7 @@ x-co-op: No
 
 
 game: Lunar Jetman (Europe) (Ultimate Play The Game)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Lunar Jetman (Europe) (Ultimate Play The Game)/Lunar Jetman (Europe) (Ultimate Play The Game).json
+file: Other/Sinclair ZX Spectrum/Lunar Jetman (Europe) (Ultimate Play The Game)/Lunar Jetman (Europe) (Ultimate Play The Game).json
 developer: Ashby Computers and Graphics Limited
 publisher: Ultimate Play the Game
 genre: Shooter
@@ -229,7 +229,7 @@ x-co-op: No
 
 
 game: Pssst (Europe) (Ultimate Play The Game) (16K)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Pssst (Europe) (Ultimate Play The Game) (16K)/Pssst (Europe) (Ultimate Play The Game) (16K).json
+file: Other/Sinclair ZX Spectrum/Pssst (Europe) (Ultimate Play The Game) (16K)/Pssst (Europe) (Ultimate Play The Game) (16K).json
 developer: Ultimate Play The Game
 publisher: Ultimate Play the Game
 genre: Platform;Shooter
@@ -268,7 +268,7 @@ x-co-op: No
 
 
 game: Sabre Wulf (Europe) (Ultimate Play The Game)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Sabre Wulf (Europe) (Ultimate Play The Game)/Sabre Wulf (Europe) (Ultimate Play The Game).json
+file: Other/Sinclair ZX Spectrum/Sabre Wulf (Europe) (Ultimate Play The Game)/Sabre Wulf (Europe) (Ultimate Play The Game).json
 developer: Chris Stamper
 publisher: Ultimate Play the Game
 genre: Action;Adventure
@@ -306,7 +306,7 @@ x-co-op: No
 
 
 game: Underwurlde (Europe) (Ultimate Play The Game)
-file: $ROM_JSON_ROOT/Other/Sinclair ZX Spectrum/Underwurlde (Europe) (Ultimate Play The Game)/Underwurlde (Europe) (Ultimate Play The Game).json
+file: Other/Sinclair ZX Spectrum/Underwurlde (Europe) (Ultimate Play The Game)/Underwurlde (Europe) (Ultimate Play The Game).json
 developer: Ultimate Play The Game
 publisher: Ultimate Play the Game
 genre: Platform

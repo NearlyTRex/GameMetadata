@@ -1,9 +1,9 @@
 collection: Nokia N-Gage
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nokia N-Gage" {file.path}
+launch: launch_rom -l "Nokia N-Gage" {file.path}
 
 
 game: Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)
-file: $ROM_JSON_ROOT/Other/Nokia N-Gage/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).json
+file: Other/Nokia N-Gage/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).json
 developer: Torus Games
 publisher: Nokia
 genre: Action;Shooter
@@ -23,7 +23,7 @@ x-co-op: No
 
 
 game: Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0)
-file: $ROM_JSON_ROOT/Other/Nokia N-Gage/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0)/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).json
+file: Other/Nokia N-Gage/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0)/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).json
 developer: Ideaworks3D
 publisher: Eidos
 genre: Platform

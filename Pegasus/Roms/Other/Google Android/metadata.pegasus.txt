@@ -1,9 +1,9 @@
 collection: Google Android
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Google Android" {file.path}
+launch: launch_rom -l "Google Android" {file.path}
 
 
 game: 12 Orbits (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/12 Orbits (USA)/12 Orbits (USA).json
+file: Other/Google Android/12 Orbits (USA)/12 Orbits (USA).json
 developer: Roman Uhlig
 publisher: Roman Uhlig
 genre: Action
@@ -62,7 +62,7 @@ x-co-op: No
 
 
 game: 2D Flight Simulator (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/2D Flight Simulator (USA)/2D Flight Simulator (USA).json
+file: Other/Google Android/2D Flight Simulator (USA)/2D Flight Simulator (USA).json
 developer: phrssoftware
 publisher: phrssoftware
 genre: Simulation
@@ -105,7 +105,7 @@ x-co-op: No
 
 
 game: 8 Bit Space (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/8 Bit Space (USA)/8 Bit Space (USA).json
+file: Other/Google Android/8 Bit Space (USA)/8 Bit Space (USA).json
 developer: GlassFrogGames
 publisher: GlassFrogGames
 genre: Platformer
@@ -143,7 +143,7 @@ x-co-op: No
 
 
 game: Air Dasher (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Air Dasher (USA)/Air Dasher (USA).json
+file: Other/Google Android/Air Dasher (USA)/Air Dasher (USA).json
 developer: Anton
 publisher: Anton
 genre: Platformer
@@ -169,7 +169,7 @@ x-co-op: No
 
 
 game: Alt-Frequencies (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Alt-Frequencies (USA)/Alt-Frequencies (USA).json
+file: Other/Google Android/Alt-Frequencies (USA)/Alt-Frequencies (USA).json
 developer: Plug In Digital
 publisher: Plug In Digital
 genre: Interactive Fiction;Puzzle
@@ -212,7 +212,7 @@ x-co-op: No
 
 
 game: Amelie (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Amelie (USA)/Amelie (USA).json
+file: Other/Google Android/Amelie (USA)/Amelie (USA).json
 developer: Two and a Half Studios
 publisher: Two and a Half Studios
 genre: Visual Novel
@@ -263,7 +263,7 @@ x-co-op: No
 
 
 game: Another Lost Phone - Laura's Story (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Another Lost Phone - Laura's Story (USA)/Another Lost Phone - Laura's Story (USA).json
+file: Other/Google Android/Another Lost Phone - Laura's Story (USA)/Another Lost Phone - Laura's Story (USA).json
 developer: Dear Villagers
 publisher: Dear Villagers
 genre: Adventure
@@ -299,7 +299,7 @@ x-co-op: No
 
 
 game: Beat Hazard Ultra (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Beat Hazard Ultra (USA)/Beat Hazard Ultra (USA).json
+file: Other/Google Android/Beat Hazard Ultra (USA)/Beat Hazard Ultra (USA).json
 developer: ShadowRage
 publisher: Cold Beam Games Ltd
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -324,7 +324,7 @@ x-co-op: No
 
 
 game: Beatbuddy - Tale of the Guardians (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
+file: Other/Google Android/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
 developer: Threaks
 publisher: Reverb
 genre: Action;Rhythm;Music
@@ -345,7 +345,7 @@ x-co-op: No
 
 
 game: Blast Rush (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Blast Rush (USA)/Blast Rush (USA).json
+file: Other/Google Android/Blast Rush (USA)/Blast Rush (USA).json
 developer: Bipedal Dog
 publisher: Bipedal Dog
 genre: Shooter
@@ -385,7 +385,7 @@ x-co-op: No
 
 
 game: Bloons TD 5 (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Bloons TD 5 (USA)/Bloons TD 5 (USA).json
+file: Other/Google Android/Bloons TD 5 (USA)/Bloons TD 5 (USA).json
 developer: Ninja kiwi
 publisher: Ninja Kiwi
 genre: Strategy
@@ -408,7 +408,7 @@ x-co-op: No
 
 
 game: Breaker (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Breaker (USA)/Breaker (USA).json
+file: Other/Google Android/Breaker (USA)/Breaker (USA).json
 developer: Daniel Linssen
 publisher: Daniel Linssen
 genre: Action
@@ -447,7 +447,7 @@ x-co-op: No
 
 
 game: By Your Side (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/By Your Side (USA)/By Your Side (USA).json
+file: Other/Google Android/By Your Side (USA)/By Your Side (USA).json
 developer: Takafumi
 publisher: Takafumi
 genre: Visual Novel;Simulation
@@ -467,7 +467,7 @@ x-co-op: No
 
 
 game: Carmageddon (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Carmageddon (USA)/Carmageddon (USA).json
+file: Other/Google Android/Carmageddon (USA)/Carmageddon (USA).json
 developer: Stainless Games
 publisher: Stainless Games Ltd
 genre: Action;Racing
@@ -492,7 +492,7 @@ x-co-op: No
 
 
 game: Catlandia - Crisis at Fort Pawprint (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Catlandia - Crisis at Fort Pawprint (USA)/Catlandia - Crisis at Fort Pawprint (USA).json
+file: Other/Google Android/Catlandia - Crisis at Fort Pawprint (USA)/Catlandia - Crisis at Fort Pawprint (USA).json
 developer: Polar Tabby
 publisher: Polar Tabby
 genre: Role Playing
@@ -529,7 +529,7 @@ x-co-op: No
 
 
 game: Chess Mix (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Chess Mix (USA)/Chess Mix (USA).json
+file: Other/Google Android/Chess Mix (USA)/Chess Mix (USA).json
 developer: Keith Burgun Games
 publisher: Keith Burgun Games
 genre: Strategy
@@ -576,7 +576,7 @@ x-co-op: No
 
 
 game: Codemancer (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Codemancer (USA)/Codemancer (USA).json
+file: Other/Google Android/Codemancer (USA)/Codemancer (USA).json
 developer: Important Little Games
 publisher: Important Little Games
 genre: Educational;Puzzle
@@ -688,7 +688,7 @@ x-co-op: No
 
 
 game: Crayon Physics Deluxe (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Crayon Physics Deluxe (USA)/Crayon Physics Deluxe (USA).json
+file: Other/Google Android/Crayon Physics Deluxe (USA)/Crayon Physics Deluxe (USA).json
 developer: Kloonigames
 publisher: Hudson Soft
 genre: Puzzle;General
@@ -735,7 +735,7 @@ x-co-op: No
 
 
 game: Crimsonland (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Crimsonland (USA)/Crimsonland (USA).json
+file: Other/Google Android/Crimsonland (USA)/Crimsonland (USA).json
 developer: 10tons
 publisher: 10tons
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -760,7 +760,7 @@ x-co-op: Yes
 
 
 game: Crowntakers (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Crowntakers (USA)/Crowntakers (USA).json
+file: Other/Google Android/Crowntakers (USA)/Crowntakers (USA).json
 developer: Bulwark Studios
 publisher: Kasedo Games
 genre: Role-Playing;Roguelike
@@ -789,7 +789,7 @@ x-co-op: No
 
 
 game: Darkest Wave (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Darkest Wave (USA)/Darkest Wave (USA).json
+file: Other/Google Android/Darkest Wave (USA)/Darkest Wave (USA).json
 developer: duckmanSD
 publisher: duckmanSD
 genre: Shooter
@@ -832,7 +832,7 @@ x-co-op: No
 
 
 game: Dastardly Dairy Debacle, The (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Dastardly Dairy Debacle, The (USA)/Dastardly Dairy Debacle, The (USA).json
+file: Other/Google Android/Dastardly Dairy Debacle, The (USA)/Dastardly Dairy Debacle, The (USA).json
 developer: Whim Independent Studios
 publisher: Whim Independent Studios
 genre: Role-playing
@@ -859,7 +859,7 @@ x-co-op: No
 
 
 game: Death of the Corpse Wizard, The (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Death of the Corpse Wizard, The (USA)/Death of the Corpse Wizard, The (USA).json
+file: Other/Google Android/Death of the Corpse Wizard, The (USA)/Death of the Corpse Wizard, The (USA).json
 developer: FeatureCreeps
 publisher: FeatureCreeps
 genre: Action
@@ -878,7 +878,7 @@ x-co-op: No
 
 
 game: Demonizer (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Demonizer (USA)/Demonizer (USA).json
+file: Other/Google Android/Demonizer (USA)/Demonizer (USA).json
 developer: IoriBranford
 publisher: IoriBranford
 genre: Shooter;Action
@@ -924,7 +924,7 @@ x-co-op: No
 
 
 game: Desert Mothers (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Desert Mothers (USA)/Desert Mothers (USA).json
+file: Other/Google Android/Desert Mothers (USA)/Desert Mothers (USA).json
 developer: Aaron Oldenburg
 publisher: Aaron Oldenburg
 genre: Meditation
@@ -947,7 +947,7 @@ x-co-op: Yes
 
 
 game: Detective Case and Clown Bot in Murder in The Hotel Lisbon (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Detective Case and Clown Bot in Murder in The Hotel Lisbon (USA)/Detective Case and Clown Bot in Murder in The Hotel Lisbon (USA).json
+file: Other/Google Android/Detective Case and Clown Bot in Murder in The Hotel Lisbon (USA)/Detective Case and Clown Bot in Murder in The Hotel Lisbon (USA).json
 developer: Nerd Monkeys
 publisher: Nerd Monkeys
 genre: Adventure
@@ -973,7 +973,7 @@ x-co-op: No
 
 
 game: Distortion Nation (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Distortion Nation (USA)/Distortion Nation (USA).json
+file: Other/Google Android/Distortion Nation (USA)/Distortion Nation (USA).json
 developer: TangledVirus, BáiYù
 publisher: TangledVirus, BáiYù
 genre: Visual Novel
@@ -996,7 +996,7 @@ x-co-op: No
 
 
 game: Don't Move (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Don't Move (USA)/Don't Move (USA).json
+file: Other/Google Android/Don't Move (USA)/Don't Move (USA).json
 developer: stvr
 publisher: stvr
 genre: Platformer
@@ -1015,7 +1015,7 @@ x-co-op: No
 
 
 game: Doodle God (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Doodle God (USA)/Doodle God (USA).json
+file: Other/Google Android/Doodle God (USA)/Doodle God (USA).json
 developer: JoyBits
 publisher: JoyBits
 genre: Miscellaneous;Board / Card Game
@@ -1039,7 +1039,7 @@ x-co-op: No
 
 
 game: Dungeon Defenders (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Dungeon Defenders (USA)/Dungeon Defenders (USA).json
+file: Other/Google Android/Dungeon Defenders (USA)/Dungeon Defenders (USA).json
 developer: Trendy Entertainment
 publisher: Trendy Entertainment
 genre: Strategy;Real-Time;Defense
@@ -1058,7 +1058,7 @@ x-co-op: Yes
 
 
 game: Dynamite Jack (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Dynamite Jack (USA)/Dynamite Jack (USA).json
+file: Other/Google Android/Dynamite Jack (USA)/Dynamite Jack (USA).json
 developer: Hassey Enterprises, Inc.
 publisher: Hassey Enterprises, Inc.
 genre: Action
@@ -1106,7 +1106,7 @@ x-co-op: No
 
 
 game: Eves Drop (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Eves Drop (USA)/Eves Drop (USA).json
+file: Other/Google Android/Eves Drop (USA)/Eves Drop (USA).json
 developer: 8points
 publisher: 8points
 genre: Action
@@ -1156,7 +1156,7 @@ x-co-op: No
 
 
 game: Explobers Go (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Explobers Go (USA)/Explobers Go (USA).json
+file: Other/Google Android/Explobers Go (USA)/Explobers Go (USA).json
 developer: John D. Moore
 publisher: John D. Moore
 genre: Platformer
@@ -1188,7 +1188,7 @@ x-co-op: No
 
 
 game: Explobers Pocket (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Explobers Pocket (USA)/Explobers Pocket (USA).json
+file: Other/Google Android/Explobers Pocket (USA)/Explobers Pocket (USA).json
 developer: John D. Moore
 publisher: John D. Moore
 genre: Platformer
@@ -1219,7 +1219,7 @@ x-co-op: No
 
 
 game: FOTONICA (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/FOTONICA (USA)/FOTONICA (USA).json
+file: Other/Google Android/FOTONICA (USA)/FOTONICA (USA).json
 developer: Santa Ragione S.r.l.
 publisher: Santa Ragione S.r.l.
 genre: Action
@@ -1240,7 +1240,7 @@ x-co-op: No
 
 
 game: Fateful Lore (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Fateful Lore (USA)/Fateful Lore (USA).json
+file: Other/Google Android/Fateful Lore (USA)/Fateful Lore (USA).json
 developer: Stonehollow Workshop, Lartu, Tejo
 publisher: Stonehollow Workshop, Lartu, Tejo
 genre: Role Playing;Adventure
@@ -1315,7 +1315,7 @@ x-co-op: No
 
 
 game: Feud (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Feud (USA)/Feud (USA).json
+file: Other/Google Android/Feud (USA)/Feud (USA).json
 developer: Bearwaves
 publisher: Bearwaves
 genre: Strategy
@@ -1361,7 +1361,7 @@ x-co-op: No
 
 
 game: Food Flinger VR (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Food Flinger VR (USA)/Food Flinger VR (USA).json
+file: Other/Google Android/Food Flinger VR (USA)/Food Flinger VR (USA).json
 developer: Eric Guadara
 publisher: Eric Guadara
 genre: Action
@@ -1394,7 +1394,7 @@ x-co-op: No
 
 
 game: Galactic Bar Fight VR (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Galactic Bar Fight VR (USA)/Galactic Bar Fight VR (USA).json
+file: Other/Google Android/Galactic Bar Fight VR (USA)/Galactic Bar Fight VR (USA).json
 developer: WeirdKidStudios
 publisher: WeirdKidStudios
 genre: Action;Shooter
@@ -1444,7 +1444,7 @@ x-co-op: No
 
 
 game: Geography, The (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Geography, The (USA)/Geography, The (USA).json
+file: Other/Google Android/Geography, The (USA)/Geography, The (USA).json
 developer: Paws Menu
 publisher: Paws Menu
 genre: Exploration;Meditation
@@ -1486,7 +1486,7 @@ x-co-op: No
 
 
 game: God of Blades (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/God of Blades (USA)/God of Blades (USA).json
+file: Other/Google Android/God of Blades (USA)/God of Blades (USA).json
 developer: White Whale Games, LLC
 publisher: White Whale Games, LLC
 genre: Action
@@ -1508,7 +1508,7 @@ x-co-op: No
 
 
 game: Golf Peaks (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Golf Peaks (USA)/Golf Peaks (USA).json
+file: Other/Google Android/Golf Peaks (USA)/Golf Peaks (USA).json
 developer: afterburn, Mirzka, wrnk
 publisher: afterburn, Mirzka, wrnk
 genre: Puzzle;Sports
@@ -1543,7 +1543,7 @@ x-co-op: No
 
 
 game: Gunhouse (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Gunhouse (USA)/Gunhouse (USA).json
+file: Other/Google Android/Gunhouse (USA)/Gunhouse (USA).json
 developer: Necrosoft Games
 publisher: Necrosoft Games
 genre: Puzzle
@@ -1581,7 +1581,7 @@ x-co-op: No
 
 
 game: Guppy (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Guppy (USA)/Guppy (USA).json
+file: Other/Google Android/Guppy (USA)/Guppy (USA).json
 developer: Christiaan Moleman
 publisher: Christiaan Moleman
 genre: Simulation
@@ -1612,7 +1612,7 @@ x-co-op: No
 
 
 game: Hammer Bomb (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Hammer Bomb (USA)/Hammer Bomb (USA).json
+file: Other/Google Android/Hammer Bomb (USA)/Hammer Bomb (USA).json
 developer: Crescent Moon Games
 publisher: Crescent Moon Games
 genre: Action
@@ -1661,7 +1661,7 @@ x-co-op: No
 
 
 game: He Plays the Piano (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/He Plays the Piano (USA)/He Plays the Piano (USA).json
+file: Other/Google Android/He Plays the Piano (USA)/He Plays the Piano (USA).json
 developer: Sebastian Scaini
 publisher: Sebastian Scaini
 genre: Music
@@ -1677,7 +1677,7 @@ x-co-op: No
 
 
 game: Idioctopus (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Idioctopus (USA)/Idioctopus (USA).json
+file: Other/Google Android/Idioctopus (USA)/Idioctopus (USA).json
 developer: BadgerHammer
 publisher: BadgerHammer
 genre: Puzzle
@@ -1710,7 +1710,7 @@ x-co-op: No
 
 
 game: Inbento (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Inbento (USA)/Inbento (USA).json
+file: Other/Google Android/Inbento (USA)/Inbento (USA).json
 developer: afterburn
 publisher: afterburn
 genre: Puzzle
@@ -1735,7 +1735,7 @@ x-co-op: No
 
 
 game: Inkanians - Ouya Edition (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Inkanians - Ouya Edition (USA)/Inkanians - Ouya Edition (USA).json
+file: Other/Google Android/Inkanians - Ouya Edition (USA)/Inkanians - Ouya Edition (USA).json
 developer: Kronbits
 publisher: Kronbits
 genre: Puzzle
@@ -1760,7 +1760,7 @@ x-co-op: No
 
 
 game: Jabberwocky (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Jabberwocky (USA)/Jabberwocky (USA).json
+file: Other/Google Android/Jabberwocky (USA)/Jabberwocky (USA).json
 developer: python-b5, Sam Gorman
 publisher: python-b5, Sam Gorman
 genre: Adventure;Action;Role Playing
@@ -1784,7 +1784,7 @@ x-co-op: No
 
 
 game: Kaiju Big Battel - Fighto Fantasy (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Kaiju Big Battel - Fighto Fantasy (USA)/Kaiju Big Battel - Fighto Fantasy (USA).json
+file: Other/Google Android/Kaiju Big Battel - Fighto Fantasy (USA)/Kaiju Big Battel - Fighto Fantasy (USA).json
 developer: Super Walrus Games
 publisher: Super Walrus Games
 genre: Role Playing
@@ -1835,7 +1835,7 @@ x-co-op: No
 
 
 game: Karambola (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Karambola (USA)/Karambola (USA).json
+file: Other/Google Android/Karambola (USA)/Karambola (USA).json
 developer: Holy Pangolin
 publisher: Holy Pangolin
 genre: Puzzle
@@ -1860,7 +1860,7 @@ x-co-op: No
 
 
 game: Karateka Classic (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Karateka Classic (USA)/Karateka Classic (USA).json
+file: Other/Google Android/Karateka Classic (USA)/Karateka Classic (USA).json
 developer: Karateka, LLC
 publisher: Karateka, LLC
 genre: Action
@@ -1885,7 +1885,7 @@ x-co-op: No
 
 
 game: Knock-Knock (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Knock-Knock (USA)/Knock-Knock (USA).json
+file: Other/Google Android/Knock-Knock (USA)/Knock-Knock (USA).json
 developer: Ice-Pick Lodge Ltd.
 publisher: Ice-Pick Lodge Ltd.
 genre: Action
@@ -1921,7 +1921,7 @@ x-co-op: No
 
 
 game: Love (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Love (USA)/Love (USA).json
+file: Other/Google Android/Love (USA)/Love (USA).json
 developer: Fred Wood
 publisher: Fred Wood
 genre: Platformer
@@ -1953,7 +1953,7 @@ x-co-op: No
 
 
 game: Love - Ouya Edition (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Love - Ouya Edition (USA)/Love - Ouya Edition (USA).json
+file: Other/Google Android/Love - Ouya Edition (USA)/Love - Ouya Edition (USA).json
 developer: Fred Wood
 publisher: Fred Wood
 genre: Platformer
@@ -1985,7 +1985,7 @@ x-co-op: No
 
 
 game: Love 2 - Kuso (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Love 2 - Kuso (USA)/Love 2 - Kuso (USA).json
+file: Other/Google Android/Love 2 - Kuso (USA)/Love 2 - Kuso (USA).json
 developer: Fred Wood
 publisher: Fred Wood
 genre: Platformer
@@ -2026,7 +2026,7 @@ x-co-op: No
 
 
 game: Love 2 - Kuso - Ouya Edition (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Love 2 - Kuso - Ouya Edition (USA)/Love 2 - Kuso - Ouya Edition (USA).json
+file: Other/Google Android/Love 2 - Kuso - Ouya Edition (USA)/Love 2 - Kuso - Ouya Edition (USA).json
 developer: Fred Wood
 publisher: Fred Wood
 genre: Platformer
@@ -2069,7 +2069,7 @@ x-co-op: No
 
 
 game: Lullaby of Colors, A (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Lullaby of Colors, A (USA)/Lullaby of Colors, A (USA).json
+file: Other/Google Android/Lullaby of Colors, A (USA)/Lullaby of Colors, A (USA).json
 developer: andyman404
 publisher: andyman404
 genre: Action
@@ -2105,7 +2105,7 @@ x-co-op: No
 
 
 game: Luminous Labyrinth (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Luminous Labyrinth (USA)/Luminous Labyrinth (USA).json
+file: Other/Google Android/Luminous Labyrinth (USA)/Luminous Labyrinth (USA).json
 developer: Bobby Wolfe
 publisher: Bobby Wolfe
 genre: Puzzle
@@ -2145,7 +2145,7 @@ x-co-op: No
 
 
 game: Lyne (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Lyne (USA)/Lyne (USA).json
+file: Other/Google Android/Lyne (USA)/Lyne (USA).json
 developer: Thomas Bowker
 publisher: Thomas Bowker
 genre: Puzzle
@@ -2175,7 +2175,7 @@ x-co-op: No
 
 
 game: MANOS - The Hands of Fate (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/MANOS - The Hands of Fate (USA)/MANOS - The Hands of Fate (USA).json
+file: Other/Google Android/MANOS - The Hands of Fate (USA)/MANOS - The Hands of Fate (USA).json
 developer: FreakZone Games
 publisher: FreakZone Games
 genre: Action
@@ -2201,7 +2201,7 @@ x-co-op: No
 
 
 game: Madball (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Madball (USA)/Madball (USA).json
+file: Other/Google Android/Madball (USA)/Madball (USA).json
 developer: Madness Studio
 publisher: Madness Studio
 genre: Platformer
@@ -2249,7 +2249,7 @@ x-co-op: No
 
 
 game: Magical Tale, A - Cavern Crawler (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Magical Tale, A - Cavern Crawler (USA)/Magical Tale, A - Cavern Crawler (USA).json
+file: Other/Google Android/Magical Tale, A - Cavern Crawler (USA)/Magical Tale, A - Cavern Crawler (USA).json
 developer: DarkLightGames
 publisher: DarkLightGames
 genre: Adventure
@@ -2278,7 +2278,7 @@ x-co-op: No
 
 
 game: Manna for Our Malices (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Manna for Our Malices (USA)/Manna for Our Malices (USA).json
+file: Other/Google Android/Manna for Our Malices (USA)/Manna for Our Malices (USA).json
 developer: enkiv2
 publisher: enkiv2
 genre: Visual Novel
@@ -2300,7 +2300,7 @@ x-co-op: No
 
 
 game: Micron (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Micron (USA)/Micron (USA).json
+file: Other/Google Android/Micron (USA)/Micron (USA).json
 developer: Apparition Games
 publisher: Apparition Games
 genre: Puzzle;Rhythm
@@ -2324,7 +2324,7 @@ x-co-op: No
 
 
 game: Millikan's Reach (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Millikan's Reach (USA)/Millikan's Reach (USA).json
+file: Other/Google Android/Millikan's Reach (USA)/Millikan's Reach (USA).json
 developer: Inferior Planet
 publisher: Inferior Planet
 genre: Simulation;Shooter
@@ -2367,7 +2367,7 @@ x-co-op: No
 
 
 game: Mnemonic MV (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Mnemonic MV (USA)/Mnemonic MV (USA).json
+file: Other/Google Android/Mnemonic MV (USA)/Mnemonic MV (USA).json
 developer: Pablo Lavín
 publisher: Pablo Lavín
 genre: Application
@@ -2412,7 +2412,7 @@ x-co-op: No
 
 
 game: Mole (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Mole (USA)/Mole (USA).json
+file: Other/Google Android/Mole (USA)/Mole (USA).json
 developer: Badjano Entertainment
 publisher: Badjano Entertainment
 genre: Puzzle
@@ -2446,7 +2446,7 @@ x-co-op: No
 
 
 game: Monster Loves You! (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Monster Loves You! (USA)/Monster Loves You! (USA).json
+file: Other/Google Android/Monster Loves You! (USA)/Monster Loves You! (USA).json
 developer: Dejobaan Games, LLC, Radial Games Corp.
 publisher: Radial Games Corp.
 genre: Simulation
@@ -2483,7 +2483,7 @@ x-co-op: No
 
 
 game: Neverending Nightmares (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
+file: Other/Google Android/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
 developer: Infinitap Games, LLC
 publisher: Infinitap Games, LLC
 genre: Adventure
@@ -2508,7 +2508,7 @@ x-co-op: No
 
 
 game: NightSky (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/NightSky (USA)/NightSky (USA).json
+file: Other/Google Android/NightSky (USA)/NightSky (USA).json
 developer: Nicalis, Inc.
 publisher: Nicalis, Inc.
 genre: Action;Puzzle
@@ -2556,7 +2556,7 @@ x-co-op: No
 
 
 game: Normal Lost Phone, A (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Normal Lost Phone, A (USA)/Normal Lost Phone, A (USA).json
+file: Other/Google Android/Normal Lost Phone, A (USA)/Normal Lost Phone, A (USA).json
 developer: Dear Villagers
 publisher: Dear Villagers
 genre: Adventure;Interactive Fiction;Puzzle
@@ -2592,7 +2592,7 @@ x-co-op: No
 
 
 game: Nuvoloso (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Nuvoloso (USA)/Nuvoloso (USA).json
+file: Other/Google Android/Nuvoloso (USA)/Nuvoloso (USA).json
 developer: Claudio Vertemara
 publisher: Claudio Vertemara
 genre: Action;Educational
@@ -2635,7 +2635,7 @@ x-co-op: No
 
 
 game: Omeganaut (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Omeganaut (USA)/Omeganaut (USA).json
+file: Other/Google Android/Omeganaut (USA)/Omeganaut (USA).json
 developer: Txori
 publisher: Txori
 genre: Shooter
@@ -2680,7 +2680,7 @@ x-co-op: No
 
 
 game: Orbis - Throw Them All! (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Orbis - Throw Them All! (USA)/Orbis - Throw Them All! (USA).json
+file: Other/Google Android/Orbis - Throw Them All! (USA)/Orbis - Throw Them All! (USA).json
 developer: Madness Studio
 publisher: Madness Studio
 genre: Platformer
@@ -2718,7 +2718,7 @@ x-co-op: No
 
 
 game: Organ Trail (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Organ Trail (USA)/Organ Trail (USA).json
+file: Other/Google Android/Organ Trail (USA)/Organ Trail (USA).json
 developer: The Men Who Wear Many Hats LLC
 publisher: The Men Who Wear Many Hats LLC
 genre: Action;Role-playing;Simulation
@@ -2749,7 +2749,7 @@ x-co-op: Yes
 
 
 game: Petty Puny Planet (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Petty Puny Planet (USA)/Petty Puny Planet (USA).json
+file: Other/Google Android/Petty Puny Planet (USA)/Petty Puny Planet (USA).json
 developer: Whales And Games, MoskiDraws, Zachary Blystone, JorgeGameDev
 publisher: Whales And Games, MoskiDraws, Zachary Blystone, JorgeGameDev
 genre: Simulation
@@ -2791,7 +2791,7 @@ x-co-op: No
 
 
 game: Plant Down (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Plant Down (USA)/Plant Down (USA).json
+file: Other/Google Android/Plant Down (USA)/Plant Down (USA).json
 developer: Rouli
 publisher: Rouli
 genre: Action
@@ -2820,7 +2820,7 @@ x-co-op: No
 
 
 game: Provider (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Provider (USA)/Provider (USA).json
+file: Other/Google Android/Provider (USA)/Provider (USA).json
 developer: CakeNeq Games
 publisher: CakeNeq Games
 genre: Action
@@ -2859,7 +2859,7 @@ x-co-op: No
 
 
 game: Pulstario (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Pulstario (USA)/Pulstario (USA).json
+file: Other/Google Android/Pulstario (USA)/Pulstario (USA).json
 developer: Fred Wood
 publisher: Fred Wood
 genre: Action;Platformer
@@ -2910,7 +2910,7 @@ x-co-op: No
 
 
 game: Pulstario - Ouya Edition (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Pulstario - Ouya Edition (USA)/Pulstario - Ouya Edition (USA).json
+file: Other/Google Android/Pulstario - Ouya Edition (USA)/Pulstario - Ouya Edition (USA).json
 developer: Fred Wood
 publisher: Fred Wood
 genre: Action;Platformer
@@ -2961,7 +2961,7 @@ x-co-op: No
 
 
 game: Punch Quest (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Punch Quest (USA)/Punch Quest (USA).json
+file: Other/Google Android/Punch Quest (USA)/Punch Quest (USA).json
 developer: Madgarden, Rocketcat LLC
 publisher: Noodlecake Studios Inc.
 genre: Action
@@ -2992,7 +2992,7 @@ x-co-op: No
 
 
 game: QWOP (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/QWOP (USA)/QWOP (USA).json
+file: Other/Google Android/QWOP (USA)/QWOP (USA).json
 developer: Noodlecake Studios Inc.
 publisher: Noodlecake Studios Inc.
 genre: Sports
@@ -3025,7 +3025,7 @@ x-co-op: No
 
 
 game: Quest of Dungeons (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Quest of Dungeons (USA)/Quest of Dungeons (USA).json
+file: Other/Google Android/Quest of Dungeons (USA)/Quest of Dungeons (USA).json
 developer: David Amador
 publisher: David Amador
 genre: Role Playing
@@ -3069,7 +3069,7 @@ x-co-op: No
 
 
 game: Ravensword - Shadowlands (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Ravensword - Shadowlands (USA)/Ravensword - Shadowlands (USA).json
+file: Other/Google Android/Ravensword - Shadowlands (USA)/Ravensword - Shadowlands (USA).json
 developer: Crescent Moon Games LLC
 publisher: Crescent Moon Games LLC
 genre: Role-playing
@@ -3099,7 +3099,7 @@ x-co-op: No
 
 
 game: Roly-Polo (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Roly-Polo (USA)/Roly-Polo (USA).json
+file: Other/Google Android/Roly-Polo (USA)/Roly-Polo (USA).json
 developer: LaPieza
 publisher: LaPieza
 genre: Sports;Platformer
@@ -3132,7 +3132,7 @@ x-co-op: No
 
 
 game: Secret of the Magic Crystals (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Secret of the Magic Crystals (USA)/Secret of the Magic Crystals (USA).json
+file: Other/Google Android/Secret of the Magic Crystals (USA)/Secret of the Magic Crystals (USA).json
 developer: Artery Studios Kft.
 publisher: Artery Studios Kft.
 genre: Simulation;Sports
@@ -3169,7 +3169,7 @@ x-co-op: No
 
 
 game: Seduce Me - The Complete Story (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Seduce Me - The Complete Story (USA)/Seduce Me - The Complete Story (USA).json
+file: Other/Google Android/Seduce Me - The Complete Story (USA)/Seduce Me - The Complete Story (USA).json
 developer: Michaela Laws
 publisher: Michaela Laws
 genre: Visual Novel;Action
@@ -3218,7 +3218,7 @@ x-co-op: No
 
 
 game: Six Match (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Six Match (USA)/Six Match (USA).json
+file: Other/Google Android/Six Match (USA)/Six Match (USA).json
 developer: st33d
 publisher: st33d
 genre: Puzzle
@@ -3250,7 +3250,7 @@ x-co-op: No
 
 
 game: Snake's Tale, A (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Snake's Tale, A (USA)/Snake's Tale, A (USA).json
+file: Other/Google Android/Snake's Tale, A (USA)/Snake's Tale, A (USA).json
 developer: m12y
 publisher: m12y
 genre: Puzzle
@@ -3280,7 +3280,7 @@ x-co-op: No
 
 
 game: Solar 2 (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Solar 2 (USA)/Solar 2 (USA).json
+file: Other/Google Android/Solar 2 (USA)/Solar 2 (USA).json
 developer: Murudai
 publisher: Murudai
 genre: Action
@@ -3305,7 +3305,7 @@ x-co-op: No
 
 
 game: Splice (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Splice (USA)/Splice (USA).json
+file: Other/Google Android/Splice (USA)/Splice (USA).json
 developer: Cipher Prime Studios, Inc.
 publisher: Cipher Prime Studios, Inc.
 genre: Puzzle
@@ -3326,7 +3326,7 @@ x-co-op: No
 
 
 game: Spookening, The (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Spookening, The (USA)/Spookening, The (USA).json
+file: Other/Google Android/Spookening, The (USA)/Spookening, The (USA).json
 developer: Modesty Creative Agency
 publisher: Modesty Creative Agency
 genre: Action
@@ -3348,7 +3348,7 @@ x-co-op: No
 
 
 game: Star Command (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Star Command (USA)/Star Command (USA).json
+file: Other/Google Android/Star Command (USA)/Star Command (USA).json
 developer: Star Command LLC
 publisher: Star Command LLC
 genre: Action;Construction and Management Simulation;Strategy
@@ -3384,7 +3384,7 @@ x-co-op: No
 
 
 game: Stophat (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Stophat (USA)/Stophat (USA).json
+file: Other/Google Android/Stophat (USA)/Stophat (USA).json
 developer: Problematicar
 publisher: Problematicar
 genre: Action;Arcade
@@ -3409,7 +3409,7 @@ x-co-op: No
 
 
 game: Super Hexagon (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Super Hexagon (USA)/Super Hexagon (USA).json
+file: Other/Google Android/Super Hexagon (USA)/Super Hexagon (USA).json
 developer: Terry Cavanagh
 publisher: Terry Cavanagh
 genre: Action
@@ -3443,7 +3443,7 @@ x-co-op: No
 
 
 game: Superbrothers - Sword & Sworcery EP (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Superbrothers - Sword & Sworcery EP (USA)/Superbrothers - Sword & Sworcery EP (USA).json
+file: Other/Google Android/Superbrothers - Sword & Sworcery EP (USA)/Superbrothers - Sword & Sworcery EP (USA).json
 developer: Capybara Games Inc.
 publisher: Capybara Games Inc.
 genre: Adventure
@@ -3485,7 +3485,7 @@ x-co-op: No
 
 
 game: Surprise Mechanic - The Gaming Trivia (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Surprise Mechanic - The Gaming Trivia (USA)/Surprise Mechanic - The Gaming Trivia (USA).json
+file: Other/Google Android/Surprise Mechanic - The Gaming Trivia (USA)/Surprise Mechanic - The Gaming Trivia (USA).json
 developer: Sword Garden Studios
 publisher: Sword Garden Studios
 genre: Card Game;Educational
@@ -3512,7 +3512,7 @@ x-co-op: No
 
 
 game: Switch 'N' Shoot (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Switch 'N' Shoot (USA)/Switch 'N' Shoot (USA).json
+file: Other/Google Android/Switch 'N' Shoot (USA)/Switch 'N' Shoot (USA).json
 developer: Matt Glanville
 publisher: Matt Glanville
 genre: Action
@@ -3559,7 +3559,7 @@ x-co-op: No
 
 
 game: Talk To Me (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Talk To Me (USA)/Talk To Me (USA).json
+file: Other/Google Android/Talk To Me (USA)/Talk To Me (USA).json
 developer: Boop Studios
 publisher: Boop Studios
 genre: Visual Novel
@@ -3607,7 +3607,7 @@ x-co-op: No
 
 
 game: Tallowmere (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Tallowmere (USA)/Tallowmere (USA).json
+file: Other/Google Android/Tallowmere (USA)/Tallowmere (USA).json
 developer: Chris McFarland
 publisher: Chris McFarland
 genre: Platformer;Action
@@ -3667,7 +3667,7 @@ x-co-op: Yes
 
 
 game: That Which Binds Us (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/That Which Binds Us (USA)/That Which Binds Us (USA).json
+file: Other/Google Android/That Which Binds Us (USA)/That Which Binds Us (USA).json
 developer: Crystal Game Works
 publisher: Crystal Game Works
 genre: Visual Novel;Interactive Fiction
@@ -3703,7 +3703,7 @@ x-co-op: No
 
 
 game: Time Surfer (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Time Surfer (USA)/Time Surfer (USA).json
+file: Other/Google Android/Time Surfer (USA)/Time Surfer (USA).json
 developer: Kumobius Pty. Ltd.
 publisher: Kumobius Pty. Ltd.
 genre: Action
@@ -3747,7 +3747,7 @@ x-co-op: No
 
 
 game: Timebomb (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Timebomb (USA)/Timebomb (USA).json
+file: Other/Google Android/Timebomb (USA)/Timebomb (USA).json
 developer: Isoteric Games
 publisher: Isoteric Games
 genre: Action
@@ -3771,7 +3771,7 @@ x-co-op: No
 
 
 game: TinyKeep (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/TinyKeep (USA)/TinyKeep (USA).json
+file: Other/Google Android/TinyKeep (USA)/TinyKeep (USA).json
 developer: Phigames
 publisher: Digital Tribe Entertainment, Inc.
 genre: Action
@@ -3799,7 +3799,7 @@ x-co-op: No
 
 
 game: Walking Tourist (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Walking Tourist (USA)/Walking Tourist (USA).json
+file: Other/Google Android/Walking Tourist (USA)/Walking Tourist (USA).json
 developer: August Junkala
 publisher: August Junkala
 genre: Puzzle
@@ -3818,7 +3818,7 @@ x-co-op: No
 
 
 game: Zombies, Run! 5k Training (USA)
-file: $ROM_JSON_ROOT/Other/Google Android/Zombies, Run! 5k Training (USA)/Zombies, Run! 5k Training (USA).json
+file: Other/Google Android/Zombies, Run! 5k Training (USA)/Zombies, Run! 5k Training (USA).json
 developer: Six to Start
 publisher: Six to Start
 genre: Sports

@@ -1,9 +1,9 @@
 collection: Nintendo Famicom
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Famicom" {file.path}
+launch: launch_rom -l "Nintendo Famicom" {file.path}
 
 
 game: ASO - Armored Scrum Object (Japan) (En)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/ASO - Armored Scrum Object (Japan) (En)/ASO - Armored Scrum Object (Japan) (En).json
+file: Nintendo/Nintendo Famicom/ASO - Armored Scrum Object (Japan) (En)/ASO - Armored Scrum Object (Japan) (En).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -25,7 +25,7 @@ x-co-op: No
 
 
 game: Abarenbou Tengu (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Abarenbou Tengu (Japan)/Abarenbou Tengu (Japan).json
+file: Nintendo/Nintendo Famicom/Abarenbou Tengu (Japan)/Abarenbou Tengu (Japan).json
 developer: KAZe
 publisher: Meldac
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -51,7 +51,7 @@ x-co-op: No
 
 
 game: Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection)/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Famicom/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection)/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -86,7 +86,7 @@ x-co-op: No
 
 
 game: Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection)/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Famicom/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection)/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -109,7 +109,7 @@ x-co-op: No
 
 
 game: Athena (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Athena (Japan)/Athena (Japan).json
+file: Nintendo/Nintendo Famicom/Athena (Japan)/Athena (Japan).json
 developer: Micronics
 publisher: SNK
 genre: Action;Platformer;2D
@@ -134,7 +134,7 @@ x-co-op: No
 
 
 game: Babel no Tou (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Babel no Tou (Japan) (Namcot Collection)/Babel no Tou (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Babel no Tou (Japan) (Namcot Collection)/Babel no Tou (Japan) (Namcot Collection).json
 developer: Namco
 publisher: Namco
 genre: Platform;Puzzle
@@ -163,7 +163,7 @@ x-co-op: No
 
 
 game: BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2)/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).json
+file: Nintendo/Nintendo Famicom/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2)/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).json
 developer: Namco Limited
 publisher: Namco Limited
 genre: Shooter
@@ -189,7 +189,7 @@ x-co-op: No
 
 
 game: Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).json
+file: Nintendo/Nintendo Famicom/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan)/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).json
 developer: Technos
 publisher: Technos
 genre: Sports;Individual;Athletics
@@ -214,7 +214,7 @@ x-co-op: No
 
 
 game: Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection)/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection).json
+file: Nintendo/Nintendo Famicom/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection)/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -244,7 +244,7 @@ x-co-op: No
 
 
 game: Contra (World) (Ja) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Contra (World) (Ja) (Contra Anniversary Collection)/Contra (World) (Ja) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo Famicom/Contra (World) (Ja) (Contra Anniversary Collection)/Contra (World) (Ja) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -270,7 +270,7 @@ x-co-op: Yes
 
 
 game: Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1)/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo Famicom/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1)/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -295,7 +295,7 @@ x-co-op: No
 
 
 game: Dig Dug II (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Dig Dug II (Japan)/Dig Dug II (Japan).json
+file: Nintendo/Nintendo Famicom/Dig Dug II (Japan)/Dig Dug II (Japan).json
 developer: Namco
 publisher: Bandai
 genre: Puzzle
@@ -320,7 +320,7 @@ x-co-op: No
 
 
 game: Digital Devil Story - Megami Tensei (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection)/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection)/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).json
 developer: Atlus
 publisher: Namco
 genre: Role-Playing
@@ -362,7 +362,7 @@ x-co-op: No
 
 
 game: Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).json
+file: Nintendo/Nintendo Famicom/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan)/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).json
 developer: Million
 publisher: Technos
 genre: Sports;Individual;Athletics
@@ -397,7 +397,7 @@ x-co-op: No
 
 
 game: Downtown - Nekketsu Monogatari (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Downtown - Nekketsu Monogatari (Japan)/Downtown - Nekketsu Monogatari (Japan).json
+file: Nintendo/Nintendo Famicom/Downtown - Nekketsu Monogatari (Japan)/Downtown - Nekketsu Monogatari (Japan).json
 developer: Million
 publisher: Technos
 genre: Action;Beat-'Em-Up;2D
@@ -418,7 +418,7 @@ x-co-op: No
 
 
 game: Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).json
+file: Nintendo/Nintendo Famicom/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan)/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).json
 developer: Million
 publisher: Technos
 genre: Action;Beat-'Em-Up;2D
@@ -454,7 +454,7 @@ x-co-op: Yes
 
 
 game: Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1)/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo Famicom/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1)/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: TOSE
 publisher: Namco
 genre: Action;Platform
@@ -480,7 +480,7 @@ x-co-op: No
 
 
 game: Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection)/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection)/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).json
 developer: Now Production
 publisher: Namco
 genre: Shooter
@@ -505,7 +505,7 @@ x-co-op: No
 
 
 game: Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1)/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo Famicom/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1)/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -542,7 +542,7 @@ x-co-op: No
 
 
 game: Family Circuit (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Family Circuit (Japan) (Namcot Collection)/Family Circuit (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Family Circuit (Japan) (Namcot Collection)/Family Circuit (Japan) (Namcot Collection).json
 developer: Game Studio
 publisher: Namco
 genre: Racing
@@ -580,7 +580,7 @@ x-co-op: No
 
 
 game: Family Jockey (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Family Jockey (Japan) (Namcot Collection)/Family Jockey (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Family Jockey (Japan) (Namcot Collection)/Family Jockey (Japan) (Namcot Collection).json
 developer: Namco
 publisher: Namco
 genre: Sports
@@ -607,7 +607,7 @@ x-co-op: No
 
 
 game: Family Pinball (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Family Pinball (Japan) (Namcot Collection)/Family Pinball (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Family Pinball (Japan) (Namcot Collection)/Family Pinball (Japan) (Namcot Collection).json
 developer: KID Corp.
 publisher: Namco Limited
 genre: Sports
@@ -634,7 +634,7 @@ x-co-op: No
 
 
 game: Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1)/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo Famicom/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1)/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -657,7 +657,7 @@ x-co-op: No
 
 
 game: God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection)/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).json
+file: Nintendo/Nintendo Famicom/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection)/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).json
 developer: SNK
 publisher: SNK
 genre: Role-Playing;Action RPG
@@ -691,7 +691,7 @@ x-co-op: No
 
 
 game: Great Tank (Japan) (SNK 40th Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Great Tank (Japan) (SNK 40th Anniversary Collection)/Great Tank (Japan) (SNK 40th Anniversary Collection).json
+file: Nintendo/Nintendo Famicom/Great Tank (Japan) (SNK 40th Anniversary Collection)/Great Tank (Japan) (SNK 40th Anniversary Collection).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -714,7 +714,7 @@ x-co-op: No
 
 
 game: Ikari (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Ikari (Japan)/Ikari (Japan).json
+file: Nintendo/Nintendo Famicom/Ikari (Japan)/Ikari (Japan).json
 developer: Micronics
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -734,7 +734,7 @@ x-co-op: No
 
 
 game: Ikari II - Dogosoken (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Ikari II - Dogosoken (Japan)/Ikari II - Dogosoken (Japan).json
+file: Nintendo/Nintendo Famicom/Ikari II - Dogosoken (Japan)/Ikari II - Dogosoken (Japan).json
 developer: Micronics
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -765,7 +765,7 @@ x-co-op: No
 
 
 game: Ikari III (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Ikari III (Japan)/Ikari III (Japan).json
+file: Nintendo/Nintendo Famicom/Ikari III (Japan)/Ikari III (Japan).json
 developer: SNK
 publisher: SNK
 genre: Action;Beat-'Em-Up;2D
@@ -793,7 +793,7 @@ x-co-op: No
 
 
 game: Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan)/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan).json
+file: Nintendo/Nintendo Famicom/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan)/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan).json
 developer: Technos
 publisher: Technos
 genre: Sports;Team;Ice Hockey;Arcade
@@ -826,7 +826,7 @@ x-co-op: Yes
 
 
 game: Kaijuu Monogatari (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Kaijuu Monogatari (Japan) (Namcot Collection)/Kaijuu Monogatari (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Kaijuu Monogatari (Japan) (Namcot Collection)/Kaijuu Monogatari (Japan) (Namcot Collection).json
 developer: Birthday
 publisher: Namco
 genre: Role-Playing
@@ -844,7 +844,7 @@ x-co-op: No
 
 
 game: Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection)/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection)/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).json
 developer: Game Studio
 publisher: Namco
 genre: Platform
@@ -889,7 +889,7 @@ x-co-op: No
 
 
 game: King of Kings (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/King of Kings (Japan) (Namcot Collection)/King of Kings (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/King of Kings (Japan) (Namcot Collection)/King of Kings (Japan) (Namcot Collection).json
 developer: Atlus
 publisher: Namco
 genre: Strategy
@@ -910,7 +910,7 @@ x-co-op: No
 
 
 game: Kunio-kun no Nekketsu Soccer League (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Kunio-kun no Nekketsu Soccer League (Japan)/Kunio-kun no Nekketsu Soccer League (Japan).json
+file: Nintendo/Nintendo Famicom/Kunio-kun no Nekketsu Soccer League (Japan)/Kunio-kun no Nekketsu Soccer League (Japan).json
 developer: Technos
 publisher: Technos
 genre: Sports;Team;Soccer;Arcade
@@ -928,7 +928,7 @@ x-co-op: No
 
 
 game: Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1)/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Nintendo/Nintendo Famicom/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1)/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Namco
 genre: Platform
@@ -953,7 +953,7 @@ x-co-op: No
 
 
 game: Metro-Cross (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Metro-Cross (Japan) (Namcot Collection)/Metro-Cross (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Metro-Cross (Japan) (Namcot Collection)/Metro-Cross (Japan) (Namcot Collection).json
 developer: Now Production
 publisher: Namco
 genre: Action;Platform
@@ -998,7 +998,7 @@ x-co-op: No
 
 
 game: Namco Classic II (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Namco Classic II (Japan) (Namcot Collection)/Namco Classic II (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Namco Classic II (Japan) (Namcot Collection)/Namco Classic II (Japan) (Namcot Collection).json
 developer: TOSE
 publisher: Namco
 genre: Sports
@@ -1020,7 +1020,7 @@ x-co-op: No
 
 
 game: Nazo no Murasamejou (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Nazo no Murasamejou (Japan)/Nazo no Murasamejou (Japan).json
+file: Nintendo/Nintendo Famicom/Nazo no Murasamejou (Japan)/Nazo no Murasamejou (Japan).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action Adventure;General
@@ -1045,7 +1045,7 @@ x-co-op: No
 
 
 game: Nekketsu Kakutou Densetsu (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Nekketsu Kakutou Densetsu (Japan)/Nekketsu Kakutou Densetsu (Japan).json
+file: Nintendo/Nintendo Famicom/Nekketsu Kakutou Densetsu (Japan)/Nekketsu Kakutou Densetsu (Japan).json
 developer: Technos
 publisher: Technos
 genre: Action;Beat-'Em-Up;2D
@@ -1080,7 +1080,7 @@ x-co-op: No
 
 
 game: Nekketsu Kouha Kunio-kun (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Nekketsu Kouha Kunio-kun (Japan)/Nekketsu Kouha Kunio-kun (Japan).json
+file: Nintendo/Nintendo Famicom/Nekketsu Kouha Kunio-kun (Japan)/Nekketsu Kouha Kunio-kun (Japan).json
 developer: Technos
 publisher: Taito Corporation
 genre: Action;Beat-'Em-Up;2D
@@ -1100,7 +1100,7 @@ x-co-op: No
 
 
 game: Nekketsu Koukou Dodgeball-bu (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Nekketsu Koukou Dodgeball-bu (Japan)/Nekketsu Koukou Dodgeball-bu (Japan).json
+file: Nintendo/Nintendo Famicom/Nekketsu Koukou Dodgeball-bu (Japan)/Nekketsu Koukou Dodgeball-bu (Japan).json
 developer: Technos
 publisher: Technos
 genre: Sports;Team;Other
@@ -1133,7 +1133,7 @@ x-co-op: No
 
 
 game: Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan)/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).json
+file: Nintendo/Nintendo Famicom/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan)/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).json
 developer: Million
 publisher: Nintendo
 genre: Sports;Team;Soccer;Arcade
@@ -1157,7 +1157,7 @@ x-co-op: No
 
 
 game: Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).json
+file: Nintendo/Nintendo Famicom/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan)/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).json
 developer: Technos
 publisher: Technos
 genre: Sports;Team;Basketball;Arcade
@@ -1193,7 +1193,7 @@ x-co-op: Yes
 
 
 game: Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2)/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).json
+file: Nintendo/Nintendo Famicom/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2)/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).json
 developer: Namco
 publisher: Namco
 genre: Platform
@@ -1223,7 +1223,7 @@ x-co-op: No
 
 
 game: Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket)/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).json
+file: Nintendo/Nintendo Famicom/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket)/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).json
 developer: M2 Co., Ltd.
 publisher: Bandai Namco Entertainment
 genre: Action
@@ -1246,7 +1246,7 @@ x-co-op: No
 
 
 game: Quinty (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Quinty (Japan) (Namcot Collection)/Quinty (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Quinty (Japan) (Namcot Collection)/Quinty (Japan) (Namcot Collection).json
 developer: Game Freak
 publisher: Namco
 genre: Action;Puzzle
@@ -1265,7 +1265,7 @@ x-co-op: No
 
 
 game: Rockman (Japan) (En)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Rockman (Japan) (En)/Rockman (Japan) (En).json
+file: Nintendo/Nintendo Famicom/Rockman (Japan) (En)/Rockman (Japan) (En).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1295,7 +1295,7 @@ x-co-op: No
 
 
 game: Rockman 2 - Dr. Wily no Nazo (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Rockman 2 - Dr. Wily no Nazo (Japan)/Rockman 2 - Dr. Wily no Nazo (Japan).json
+file: Nintendo/Nintendo Famicom/Rockman 2 - Dr. Wily no Nazo (Japan)/Rockman 2 - Dr. Wily no Nazo (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1317,7 +1317,7 @@ x-co-op: No
 
 
 game: Rockman 3 - Dr. Wily no Saigo! (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Rockman 3 - Dr. Wily no Saigo! (Japan)/Rockman 3 - Dr. Wily no Saigo! (Japan).json
+file: Nintendo/Nintendo Famicom/Rockman 3 - Dr. Wily no Saigo! (Japan)/Rockman 3 - Dr. Wily no Saigo! (Japan).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1339,7 +1339,7 @@ x-co-op: No
 
 
 game: Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1)/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1).json
+file: Nintendo/Nintendo Famicom/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1)/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1361,7 +1361,7 @@ x-co-op: No
 
 
 game: Rockman 5 - Blues no Wana! (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Rockman 5 - Blues no Wana! (Japan)/Rockman 5 - Blues no Wana! (Japan).json
+file: Nintendo/Nintendo Famicom/Rockman 5 - Blues no Wana! (Japan)/Rockman 5 - Blues no Wana! (Japan).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1385,7 +1385,7 @@ x-co-op: No
 
 
 game: Rockman 6 - Shijou Saidai no Tatakai!! (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Rockman 6 - Shijou Saidai no Tatakai!! (Japan)/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).json
+file: Nintendo/Nintendo Famicom/Rockman 6 - Shijou Saidai no Tatakai!! (Japan)/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1407,7 +1407,7 @@ x-co-op: No
 
 
 game: Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection)/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection)/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection).json
 developer: Now Production
 publisher: Namco
 genre: Action;Horror;Platform
@@ -1427,7 +1427,7 @@ x-co-op: No
 
 
 game: Star Luster (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Star Luster (Japan) (Namcot Collection)/Star Luster (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Star Luster (Japan) (Namcot Collection)/Star Luster (Japan) (Namcot Collection).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -1460,7 +1460,7 @@ x-co-op: No
 
 
 game: Summer Carnival '92 - Recca (Japan) (En)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Summer Carnival '92 - Recca (Japan) (En)/Summer Carnival '92 - Recca (Japan) (En).json
+file: Nintendo/Nintendo Famicom/Summer Carnival '92 - Recca (Japan) (En)/Summer Carnival '92 - Recca (Japan) (En).json
 developer: Kid
 publisher: Naxat Soft
 genre: Shooter
@@ -1481,7 +1481,7 @@ x-co-op: No
 
 
 game: Super Contra (World) (Ja) (Contra Anniversary Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Super Contra (World) (Ja) (Contra Anniversary Collection)/Super Contra (World) (Ja) (Contra Anniversary Collection).json
+file: Nintendo/Nintendo Famicom/Super Contra (World) (Ja) (Contra Anniversary Collection)/Super Contra (World) (Ja) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -1508,7 +1508,7 @@ x-co-op: Yes
 
 
 game: Super Mario Bros. 2 (Japan) (Lost Levels) (Unl)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl)/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl).json
+file: Nintendo/Nintendo Famicom/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl)/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -1532,7 +1532,7 @@ x-co-op: No
 
 
 game: Super Xevious - Gump no Nazo (Japan)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Super Xevious - Gump no Nazo (Japan)/Super Xevious - Gump no Nazo (Japan).json
+file: Nintendo/Nintendo Famicom/Super Xevious - Gump no Nazo (Japan)/Super Xevious - Gump no Nazo (Japan).json
 developer: TOSE
 publisher: Namco
 genre: Shooter
@@ -1563,7 +1563,7 @@ x-co-op: No
 
 
 game: Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection)/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection)/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).json
 developer: Game Studio
 publisher: Namco
 genre: Fighting;Role-Playing
@@ -1597,7 +1597,7 @@ x-co-op: No
 
 
 game: Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection)/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection)/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).json
 developer: Namco
 publisher: Namco
 genre: Action;Role-Playing
@@ -1632,7 +1632,7 @@ x-co-op: No
 
 
 game: Vs. Excitebike (Japan) (En)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Vs. Excitebike (Japan) (En)/Vs. Excitebike (Japan) (En).json
+file: Nintendo/Nintendo Famicom/Vs. Excitebike (Japan) (En)/Vs. Excitebike (Japan) (En).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing;Arcade;Automobile
@@ -1655,7 +1655,7 @@ x-co-op: No
 
 
 game: Wagyan Land (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Wagyan Land (Japan) (Namcot Collection)/Wagyan Land (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Wagyan Land (Japan) (Namcot Collection)/Wagyan Land (Japan) (Namcot Collection).json
 developer: Now Production
 publisher: Namco
 genre: Platform
@@ -1676,7 +1676,7 @@ x-co-op: No
 
 
 game: Warpman (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Warpman (Japan) (Namcot Collection)/Warpman (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Warpman (Japan) (Namcot Collection)/Warpman (Japan) (Namcot Collection).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -1717,7 +1717,7 @@ x-co-op: No
 
 
 game: Youkai Douchuuki (Japan) (Namcot Collection)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Youkai Douchuuki (Japan) (Namcot Collection)/Youkai Douchuuki (Japan) (Namcot Collection).json
+file: Nintendo/Nintendo Famicom/Youkai Douchuuki (Japan) (Namcot Collection)/Youkai Douchuuki (Japan) (Namcot Collection).json
 developer: Namco
 publisher: Namco
 genre: Platform
@@ -1742,7 +1742,7 @@ x-co-op: No
 
 
 game: Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII)/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII).json
+file: Nintendo/Nintendo Famicom/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII)/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII).json
 developer: Shenzhen Nanjing Technology
 publisher: Shenzhen Nanjing Technology
 genre: Role-Playing
@@ -1773,7 +1773,7 @@ x-co-op: No
 
 
 game: Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Famicom/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch)/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch).json
+file: Nintendo/Nintendo Famicom/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch)/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch).json
 developer: Shenzhen Nanjing Technology
 publisher: Shenzhen Nanjing Technology
 genre: Role-Playing

@@ -1,9 +1,9 @@
 collection: Atari 7800
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Atari 7800" {file.path}
+launch: launch_rom -l "Atari 7800" {file.path}
 
 
 game: Asteroids (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Asteroids (USA)/Asteroids (USA).json
+file: Other/Atari 7800/Asteroids (USA)/Asteroids (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action;Shooter
@@ -28,7 +28,7 @@ x-co-op: Yes
 
 
 game: Basketbrawl (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Basketbrawl (USA)/Basketbrawl (USA).json
+file: Other/Atari 7800/Basketbrawl (USA)/Basketbrawl (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Sports
@@ -54,7 +54,7 @@ x-co-op: No
 
 
 game: Centipede (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Centipede (USA)/Centipede (USA).json
+file: Other/Atari 7800/Centipede (USA)/Centipede (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter
@@ -72,7 +72,7 @@ x-co-op: No
 
 
 game: Dark Chambers (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Dark Chambers (USA)/Dark Chambers (USA).json
+file: Other/Atari 7800/Dark Chambers (USA)/Dark Chambers (USA).json
 developer: John Palevich
 publisher: Atari, Inc.
 genre: Action
@@ -99,7 +99,7 @@ x-co-op: No
 
 
 game: Donkey Kong (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Donkey Kong (USA)/Donkey Kong (USA).json
+file: Other/Atari 7800/Donkey Kong (USA)/Donkey Kong (USA).json
 developer: Nintendo
 publisher: Atari
 genre: Platform
@@ -122,7 +122,7 @@ x-co-op: No
 
 
 game: Fatal Run (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Fatal Run (USA)/Fatal Run (USA).json
+file: Other/Atari 7800/Fatal Run (USA)/Fatal Run (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action
@@ -154,7 +154,7 @@ x-co-op: No
 
 
 game: Ninja Golf (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Ninja Golf (USA)/Ninja Golf (USA).json
+file: Other/Atari 7800/Ninja Golf (USA)/Ninja Golf (USA).json
 developer: BlueSky Software
 publisher: Atari
 genre: Action;Sports;Beat 'em Up
@@ -185,7 +185,7 @@ x-co-op: No
 
 
 game: Scrapyard Dog (USA)
-file: $ROM_JSON_ROOT/Other/Atari 7800/Scrapyard Dog (USA)/Scrapyard Dog (USA).json
+file: Other/Atari 7800/Scrapyard Dog (USA)/Scrapyard Dog (USA).json
 developer: BlueSky Software
 publisher: Atari, Inc.
 genre: Platform

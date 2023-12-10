@@ -1,9 +1,9 @@
 collection: Nintendo Game Boy Advance
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Game Boy Advance" {file.path}
+launch: launch_rom -l "Nintendo Game Boy Advance" {file.path}
 
 
 game: Animal Snap - Rescue Them 2 by 2 (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Animal Snap - Rescue Them 2 by 2 (USA)/Animal Snap - Rescue Them 2 by 2 (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Animal Snap - Rescue Them 2 by 2 (USA)/Animal Snap - Rescue Them 2 by 2 (USA).json
 developer: Awesome Developments
 publisher: Ignition Entertainment
 genre: Puzzle
@@ -21,7 +21,7 @@ x-co-op: No
 
 
 game: Cabbage Patch Kids - The Patch Puppy Rescue (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Cabbage Patch Kids - The Patch Puppy Rescue (USA)/Cabbage Patch Kids - The Patch Puppy Rescue (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Cabbage Patch Kids - The Patch Puppy Rescue (USA)/Cabbage Patch Kids - The Patch Puppy Rescue (USA).json
 developer: 1st Playable Productions
 publisher: D3Publisher
 genre: Platform
@@ -44,7 +44,7 @@ x-co-op: No
 
 
 game: Car Battler Joe (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Car Battler Joe (USA)/Car Battler Joe (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Car Battler Joe (USA)/Car Battler Joe (USA).json
 developer: Ancient
 publisher: Natsume
 genre: Role-Playing
@@ -67,7 +67,7 @@ x-co-op: No
 
 
 game: Castlevania - Circle of the Moon (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Castlevania - Circle of the Moon (USA)/Castlevania - Circle of the Moon (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Castlevania - Circle of the Moon (USA)/Castlevania - Circle of the Moon (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform;Role-Playing
@@ -87,7 +87,7 @@ x-co-op: No
 
 
 game: Castlevania Double Pack (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Castlevania Double Pack (USA)/Castlevania Double Pack (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Castlevania Double Pack (USA)/Castlevania Double Pack (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure;Horror
@@ -109,7 +109,7 @@ x-co-op: No
 
 
 game: Contra Advance - The Alien Wars EX (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Contra Advance - The Alien Wars EX (USA) (Virtual Console)/Contra Advance - The Alien Wars EX (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Contra Advance - The Alien Wars EX (USA) (Virtual Console)/Contra Advance - The Alien Wars EX (USA) (Virtual Console).json
 developer: TOSE
 publisher: Konami
 genre: Action;Platform;Shooter
@@ -129,7 +129,7 @@ x-co-op: No
 
 
 game: DK - King of Swing (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/DK - King of Swing (USA)/DK - King of Swing (USA).json
+file: Nintendo/Nintendo Game Boy Advance/DK - King of Swing (USA)/DK - King of Swing (USA).json
 developer: Paon Corporation
 publisher: Nintendo
 genre: Action
@@ -156,7 +156,7 @@ x-co-op: No
 
 
 game: Drill Dozer (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Drill Dozer (USA)/Drill Dozer (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Drill Dozer (USA)/Drill Dozer (USA).json
 developer: Game Freak
 publisher: Nintendo
 genre: Action;Platform
@@ -178,7 +178,7 @@ x-co-op: No
 
 
 game: Dungeons & Dragons - Eye of the Beholder (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Dungeons & Dragons - Eye of the Beholder (USA)/Dungeons & Dragons - Eye of the Beholder (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Dungeons & Dragons - Eye of the Beholder (USA)/Dungeons & Dragons - Eye of the Beholder (USA).json
 developer: Pronto Games
 publisher: Infogrames
 genre: Role-Playing
@@ -198,7 +198,7 @@ x-co-op: No
 
 
 game: F-Zero - GP Legend (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/F-Zero - GP Legend (USA) (Virtual Console)/F-Zero - GP Legend (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/F-Zero - GP Legend (USA) (Virtual Console)/F-Zero - GP Legend (USA) (Virtual Console).json
 developer: Suzak
 publisher: Nintendo
 genre: Racing
@@ -221,7 +221,7 @@ x-co-op: No
 
 
 game: F-Zero - Maximum Velocity (USA, Europe) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/F-Zero - Maximum Velocity (USA, Europe) (Virtual Console)/F-Zero - Maximum Velocity (USA, Europe) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/F-Zero - Maximum Velocity (USA, Europe) (Virtual Console)/F-Zero - Maximum Velocity (USA, Europe) (Virtual Console).json
 developer: Nd Cube
 publisher: Nintendo
 genre: Racing
@@ -245,7 +245,7 @@ x-co-op: No
 
 
 game: Final Fantasy Tactics Advance (USA, Australia)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Final Fantasy Tactics Advance (USA, Australia)/Final Fantasy Tactics Advance (USA, Australia).json
+file: Nintendo/Nintendo Game Boy Advance/Final Fantasy Tactics Advance (USA, Australia)/Final Fantasy Tactics Advance (USA, Australia).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing;Strategy
@@ -267,7 +267,7 @@ x-co-op: No
 
 
 game: Fire Emblem - The Sacred Stones (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Fire Emblem - The Sacred Stones (USA) (Virtual Console)/Fire Emblem - The Sacred Stones (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Fire Emblem - The Sacred Stones (USA) (Virtual Console)/Fire Emblem - The Sacred Stones (USA) (Virtual Console).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Role-Playing;Strategy
@@ -288,7 +288,7 @@ x-co-op: No
 
 
 game: Game & Watch Gallery 4 (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Game & Watch Gallery 4 (USA) (Virtual Console)/Game & Watch Gallery 4 (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Game & Watch Gallery 4 (USA) (Virtual Console)/Game & Watch Gallery 4 (USA) (Virtual Console).json
 developer: TOSE
 publisher: Nintendo
 genre: Action
@@ -318,7 +318,7 @@ x-co-op: No
 
 
 game: Golden Sun (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Golden Sun (USA, Europe)/Golden Sun (USA, Europe).json
+file: Nintendo/Nintendo Game Boy Advance/Golden Sun (USA, Europe)/Golden Sun (USA, Europe).json
 developer: Camelot Software Planning
 publisher: Nintendo
 genre: Role-Playing
@@ -339,7 +339,7 @@ x-co-op: No
 
 
 game: Golden Sun - The Lost Age (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Golden Sun - The Lost Age (USA, Europe)/Golden Sun - The Lost Age (USA, Europe).json
+file: Nintendo/Nintendo Game Boy Advance/Golden Sun - The Lost Age (USA, Europe)/Golden Sun - The Lost Age (USA, Europe).json
 developer: Camelot Software Planning
 publisher: Nintendo
 genre: Role-Playing
@@ -360,7 +360,7 @@ x-co-op: No
 
 
 game: Harvest Moon - Friends of Mineral Town (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Harvest Moon - Friends of Mineral Town (USA)/Harvest Moon - Friends of Mineral Town (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Harvest Moon - Friends of Mineral Town (USA)/Harvest Moon - Friends of Mineral Town (USA).json
 developer: Marvelous Interactive
 publisher: Natsume
 genre: Life Simulation;Role-Playing
@@ -383,7 +383,7 @@ x-co-op: No
 
 
 game: Harvest Moon - More Friends of Mineral Town (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Harvest Moon - More Friends of Mineral Town (USA)/Harvest Moon - More Friends of Mineral Town (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Harvest Moon - More Friends of Mineral Town (USA)/Harvest Moon - More Friends of Mineral Town (USA).json
 developer: Natsume
 publisher: Natsume
 genre: Life Simulation;Role-Playing
@@ -404,7 +404,7 @@ x-co-op: No
 
 
 game: Kirby & The Amazing Mirror (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Kirby & The Amazing Mirror (USA) (Virtual Console)/Kirby & The Amazing Mirror (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Kirby & The Amazing Mirror (USA) (Virtual Console)/Kirby & The Amazing Mirror (USA) (Virtual Console).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -426,7 +426,7 @@ x-co-op: No
 
 
 game: Kirby - Nightmare in Dream Land (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Kirby - Nightmare in Dream Land (USA) (Virtual Console)/Kirby - Nightmare in Dream Land (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Kirby - Nightmare in Dream Land (USA) (Virtual Console)/Kirby - Nightmare in Dream Land (USA) (Virtual Console).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -450,7 +450,7 @@ x-co-op: No
 
 
 game: Klonoa - Empire of Dreams (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Klonoa - Empire of Dreams (USA)/Klonoa - Empire of Dreams (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Klonoa - Empire of Dreams (USA)/Klonoa - Empire of Dreams (USA).json
 developer: Namco
 publisher: Namco
 genre: Action;Platform
@@ -470,7 +470,7 @@ x-co-op: No
 
 
 game: Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console)/Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console)/Klonoa 2 - Dream Champ Tournament (USA) (Virtual Console).json
 developer: Namco
 publisher: Namco
 genre: Action;Platform
@@ -501,7 +501,7 @@ x-co-op: No
 
 
 game: Konami Krazy Racers (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Konami Krazy Racers (USA) (Virtual Console)/Konami Krazy Racers (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Konami Krazy Racers (USA) (Virtual Console)/Konami Krazy Racers (USA) (Virtual Console).json
 developer: Konami Computer Entertainment Kobe
 publisher: Konami
 genre: Racing
@@ -523,7 +523,7 @@ x-co-op: No
 
 
 game: Legend of Zelda, The - The Minish Cap (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Legend of Zelda, The - The Minish Cap (USA)/Legend of Zelda, The - The Minish Cap (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Legend of Zelda, The - The Minish Cap (USA)/Legend of Zelda, The - The Minish Cap (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -546,7 +546,7 @@ x-co-op: No
 
 
 game: Lufia - The Ruins of Lore (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Lufia - The Ruins of Lore (USA)/Lufia - The Ruins of Lore (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Lufia - The Ruins of Lore (USA)/Lufia - The Ruins of Lore (USA).json
 developer: Taito
 publisher: Atlus
 genre: Role-Playing
@@ -569,7 +569,7 @@ x-co-op: No
 
 
 game: Mario Kart - Super Circuit (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mario Kart - Super Circuit (USA) (Virtual Console)/Mario Kart - Super Circuit (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mario Kart - Super Circuit (USA) (Virtual Console)/Mario Kart - Super Circuit (USA) (Virtual Console).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Racing
@@ -594,7 +594,7 @@ x-co-op: No
 
 
 game: Mario Party Advance (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mario Party Advance (USA) (Virtual Console)/Mario Party Advance (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mario Party Advance (USA) (Virtual Console)/Mario Party Advance (USA) (Virtual Console).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Party
@@ -620,7 +620,7 @@ x-co-op: No
 
 
 game: Mario Pinball Land (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mario Pinball Land (USA) (Virtual Console)/Mario Pinball Land (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mario Pinball Land (USA) (Virtual Console)/Mario Pinball Land (USA) (Virtual Console).json
 developer: Fuse Games Limited
 publisher: Nintendo
 genre: Sports
@@ -642,7 +642,7 @@ x-co-op: No
 
 
 game: Mario vs. Donkey Kong (USA, Australia)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mario vs. Donkey Kong (USA, Australia)/Mario vs. Donkey Kong (USA, Australia).json
+file: Nintendo/Nintendo Game Boy Advance/Mario vs. Donkey Kong (USA, Australia)/Mario vs. Donkey Kong (USA, Australia).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform;Puzzle
@@ -664,7 +664,7 @@ x-co-op: No
 
 
 game: Mega Man & Bass (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man & Bass (USA)/Mega Man & Bass (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man & Bass (USA)/Mega Man & Bass (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -691,7 +691,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Chip Challenge (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Chip Challenge (USA) (Virtual Console)/Mega Man Battle Chip Challenge (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Chip Challenge (USA) (Virtual Console)/Mega Man Battle Chip Challenge (USA) (Virtual Console).json
 developer: Capcom
 publisher: DreamCatcher Interactive
 genre: Strategy
@@ -716,7 +716,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network (USA) (Virtual Console)/Mega Man Battle Network (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network (USA) (Virtual Console)/Mega Man Battle Network (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -740,7 +740,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 2 (USA, Europe) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 2 (USA, Europe) (Virtual Console)/Mega Man Battle Network 2 (USA, Europe) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 2 (USA, Europe) (Virtual Console)/Mega Man Battle Network 2 (USA, Europe) (Virtual Console).json
 developer: Capcom Production Studio 2
 publisher: Capcom
 genre: Action;Role-Playing
@@ -762,7 +762,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console)/Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console)/Mega Man Battle Network 3 - Blue Version (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -782,7 +782,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 3 - White Version (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 3 - White Version (USA) (Virtual Console)/Mega Man Battle Network 3 - White Version (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 3 - White Version (USA) (Virtual Console)/Mega Man Battle Network 3 - White Version (USA) (Virtual Console).json
 developer: Capcom Production Studio 2
 publisher: Capcom
 genre: Action;Role-Playing
@@ -802,7 +802,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console)/Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console)/Mega Man Battle Network 4 - Blue Moon (USA) (Virtual Console).json
 developer: Capcom Production Studio 2
 publisher: Capcom
 genre: Action;Role-Playing
@@ -826,7 +826,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console)/Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console)/Mega Man Battle Network 4 - Red Sun (USA) (Virtual Console).json
 developer: Capcom Production Studio 2
 publisher: Capcom
 genre: Action;Role-Playing
@@ -850,7 +850,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console)/Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console)/Mega Man Battle Network 5 - Team Colonel (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -871,7 +871,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console)/Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console)/Mega Man Battle Network 5 - Team Proto Man (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -892,7 +892,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)/Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console)/Mega Man Battle Network 6 - Cybeast Falzar (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -914,7 +914,7 @@ x-co-op: No
 
 
 game: Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)/Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console)/Mega Man Battle Network 6 - Cybeast Gregar (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -936,7 +936,7 @@ x-co-op: No
 
 
 game: Metroid - Zero Mission (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Metroid - Zero Mission (USA)/Metroid - Zero Mission (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Metroid - Zero Mission (USA)/Metroid - Zero Mission (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -960,7 +960,7 @@ x-co-op: No
 
 
 game: Metroid Fusion (USA, Australia)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Metroid Fusion (USA, Australia)/Metroid Fusion (USA, Australia).json
+file: Nintendo/Nintendo Game Boy Advance/Metroid Fusion (USA, Australia)/Metroid Fusion (USA, Australia).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -984,7 +984,7 @@ x-co-op: No
 
 
 game: Mr. Driller 2 (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Mr. Driller 2 (USA) (Virtual Console)/Mr. Driller 2 (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Mr. Driller 2 (USA) (Virtual Console)/Mr. Driller 2 (USA) (Virtual Console).json
 developer: Namco
 publisher: Namco
 genre: Action;Puzzle
@@ -1006,7 +1006,7 @@ x-co-op: No
 
 
 game: Pocky & Rocky with Becky (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Pocky & Rocky with Becky (USA)/Pocky & Rocky with Becky (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Pocky & Rocky with Becky (USA)/Pocky & Rocky with Becky (USA).json
 developer: Altron
 publisher: Natsume
 genre: Shooter
@@ -1029,7 +1029,7 @@ x-co-op: No
 
 
 game: Pokemon Pinball - Ruby & Sapphire (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Pokemon Pinball - Ruby & Sapphire (USA)/Pokemon Pinball - Ruby & Sapphire (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Pokemon Pinball - Ruby & Sapphire (USA)/Pokemon Pinball - Ruby & Sapphire (USA).json
 developer: Jupiter Corporation
 publisher: Nintendo
 genre: Action
@@ -1053,7 +1053,7 @@ x-co-op: No
 
 
 game: Resident Evil 2 (Unknown) (Proto)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Resident Evil 2 (Unknown) (Proto)/Resident Evil 2 (Unknown) (Proto).json
+file: Nintendo/Nintendo Game Boy Advance/Resident Evil 2 (Unknown) (Proto)/Resident Evil 2 (Unknown) (Proto).json
 developer: Raylight Studios
 publisher: Never Published (Prototype)
 genre: Horror
@@ -1072,7 +1072,7 @@ x-co-op: No
 
 
 game: Santa Clause 3, The - The Escape Clause (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Santa Clause 3, The - The Escape Clause (USA)/Santa Clause 3, The - The Escape Clause (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Santa Clause 3, The - The Escape Clause (USA)/Santa Clause 3, The - The Escape Clause (USA).json
 developer: 1st Playable Productions
 publisher: Buena Vista Games
 genre: Action
@@ -1094,7 +1094,7 @@ x-co-op: No
 
 
 game: Sonic Advance (USA) (En,Ja)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Sonic Advance (USA) (En,Ja)/Sonic Advance (USA) (En,Ja).json
+file: Nintendo/Nintendo Game Boy Advance/Sonic Advance (USA) (En,Ja)/Sonic Advance (USA) (En,Ja).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platform
@@ -1114,7 +1114,7 @@ x-co-op: No
 
 
 game: Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).json
+file: Nintendo/Nintendo Game Boy Advance/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It)/Sonic Advance 2 (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -1138,7 +1138,7 @@ x-co-op: No
 
 
 game: Super Mario Advance (USA, Europe) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Super Mario Advance (USA, Europe) (Virtual Console)/Super Mario Advance (USA, Europe) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Super Mario Advance (USA, Europe) (Virtual Console)/Super Mario Advance (USA, Europe) (Virtual Console).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action
@@ -1176,7 +1176,7 @@ x-co-op: Yes
 
 
 game: Super Mario Advance 2 - Super Mario World (USA, Australia)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Super Mario Advance 2 - Super Mario World (USA, Australia)/Super Mario Advance 2 - Super Mario World (USA, Australia).json
+file: Nintendo/Nintendo Game Boy Advance/Super Mario Advance 2 - Super Mario World (USA, Australia)/Super Mario Advance 2 - Super Mario World (USA, Australia).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -1210,7 +1210,7 @@ x-co-op: No
 
 
 game: Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console)/Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console)/Super Mario Advance 3 - Yoshi's Island (USA) (Virtual Console).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -1254,7 +1254,7 @@ x-co-op: No
 
 
 game: Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)/Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console)/Super Mario Advance 4 - Super Mario Bros. 3 (USA) (Rev 1) (Virtual Console).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -1286,7 +1286,7 @@ x-co-op: No
 
 
 game: Three-in-One Pack - Risk + Battleship + Clue (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Three-in-One Pack - Risk + Battleship + Clue (USA)/Three-in-One Pack - Risk + Battleship + Clue (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Three-in-One Pack - Risk + Battleship + Clue (USA)/Three-in-One Pack - Risk + Battleship + Clue (USA).json
 developer: Gravity-I
 publisher: DSI Games
 genre: Board Game
@@ -1304,7 +1304,7 @@ x-co-op: No
 
 
 game: Wario Land 4 (USA, Europe)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Wario Land 4 (USA, Europe)/Wario Land 4 (USA, Europe).json
+file: Nintendo/Nintendo Game Boy Advance/Wario Land 4 (USA, Europe)/Wario Land 4 (USA, Europe).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -1326,7 +1326,7 @@ x-co-op: No
 
 
 game: WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)/WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console).json
+file: Nintendo/Nintendo Game Boy Advance/WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console)/WarioWare, Inc. - Mega Microgame$! (USA) (Virtual Console).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action
@@ -1347,7 +1347,7 @@ x-co-op: No
 
 
 game: Yu-Gi-Oh! - Reshef of Destruction (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance/Yu-Gi-Oh! - Reshef of Destruction (USA)/Yu-Gi-Oh! - Reshef of Destruction (USA).json
+file: Nintendo/Nintendo Game Boy Advance/Yu-Gi-Oh! - Reshef of Destruction (USA)/Yu-Gi-Oh! - Reshef of Destruction (USA).json
 developer: Konami
 publisher: Konami
 genre: Strategy

@@ -1,9 +1,9 @@
 collection: Nintendo Game Boy Advance e-Reader
-launch: {env.JB_LAUNCHROM_PROGRAM} -l "Nintendo Game Boy Advance e-Reader" {file.path}
+launch: launch_rom -l "Nintendo Game Boy Advance e-Reader" {file.path}
 
 
 game: NES-e - Balloon Fight-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Balloon Fight-e (USA)/NES-e - Balloon Fight-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Balloon Fight-e (USA)/NES-e - Balloon Fight-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Arcade
@@ -27,7 +27,7 @@ x-co-op: No
 
 
 game: NES-e - Baseball-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Baseball-e (USA)/NES-e - Baseball-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Baseball-e (USA)/NES-e - Baseball-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports;Team;Baseball;Sim
@@ -50,7 +50,7 @@ x-co-op: No
 
 
 game: NES-e - Clu Clu Land-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Clu Clu Land-e (USA)/NES-e - Clu Clu Land-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Clu Clu Land-e (USA)/NES-e - Clu Clu Land-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Arcade
@@ -74,7 +74,7 @@ x-co-op: No
 
 
 game: NES-e - Donkey Kong 3-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Donkey Kong 3-e (USA)/NES-e - Donkey Kong 3-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Donkey Kong 3-e (USA)/NES-e - Donkey Kong 3-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -93,7 +93,7 @@ x-co-op: No
 
 
 game: NES-e - Donkey Kong Jr.-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Donkey Kong Jr.-e (USA)/NES-e - Donkey Kong Jr.-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Donkey Kong Jr.-e (USA)/NES-e - Donkey Kong Jr.-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platformer;2D
@@ -114,7 +114,7 @@ x-co-op: No
 
 
 game: NES-e - Donkey Kong-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Donkey Kong-e (USA)/NES-e - Donkey Kong-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Donkey Kong-e (USA)/NES-e - Donkey Kong-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platformer;2D
@@ -135,7 +135,7 @@ x-co-op: No
 
 
 game: NES-e - Excitebike-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Excitebike-e (USA)/NES-e - Excitebike-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Excitebike-e (USA)/NES-e - Excitebike-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing;Arcade;Automobile
@@ -157,7 +157,7 @@ x-co-op: No
 
 
 game: NES-e - Golf-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Golf-e (USA)/NES-e - Golf-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Golf-e (USA)/NES-e - Golf-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports;Individual;Golf;Sim
@@ -179,7 +179,7 @@ x-co-op: No
 
 
 game: NES-e - Ice Climber-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Ice Climber-e (USA)/NES-e - Ice Climber-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Ice Climber-e (USA)/NES-e - Ice Climber-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platformer;2D
@@ -201,7 +201,7 @@ x-co-op: No
 
 
 game: NES-e - Mario Bros.-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Mario Bros.-e (USA)/NES-e - Mario Bros.-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Mario Bros.-e (USA)/NES-e - Mario Bros.-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platformer;2D
@@ -221,7 +221,7 @@ x-co-op: No
 
 
 game: NES-e - Pinball-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Pinball-e (USA)/NES-e - Pinball-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Pinball-e (USA)/NES-e - Pinball-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Pinball
@@ -242,7 +242,7 @@ x-co-op: No
 
 
 game: NES-e - Tennis-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Tennis-e (USA)/NES-e - Tennis-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Tennis-e (USA)/NES-e - Tennis-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports;Individual;Tennis
@@ -265,7 +265,7 @@ x-co-op: No
 
 
 game: NES-e - Urban Champion-e (USA)
-file: $ROM_JSON_ROOT/Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Urban Champion-e (USA)/NES-e - Urban Champion-e (USA).json
+file: Nintendo/Nintendo Game Boy Advance e-Reader/NES-e - Urban Champion-e (USA)/NES-e - Urban Champion-e (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Fighting;2D
