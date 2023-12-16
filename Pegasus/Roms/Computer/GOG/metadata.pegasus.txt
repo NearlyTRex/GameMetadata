@@ -6813,6 +6813,12 @@ assets.video: Video/Legend of Grimrock (USA).mp4
 x-co-op: No
 
 
+game: Legend of Keepers - Career of a Dungeon Manager (USA)
+file: Computer/GOG/L/Legend of Keepers - Career of a Dungeon Manager (USA)/Legend of Keepers - Career of a Dungeon Manager (USA).json
+players: 1
+x-co-op: No
+
+
 game: Legend of Keepers - Prologue (USA)
 file: Computer/GOG/L/Legend of Keepers - Prologue (USA)/Legend of Keepers - Prologue (USA).json
 developer: Goblinz Studio
@@ -13398,6 +13404,12 @@ assets.boxback: BoxBack/Witcher 2, The - Assassins of Kings Enhanced Edition (US
 assets.background: Background/Witcher 2, The - Assassins of Kings Enhanced Edition (USA).jpg
 assets.screenshot: Screenshot/Witcher 2, The - Assassins of Kings Enhanced Edition (USA).jpg
 assets.video: Video/Witcher 2, The - Assassins of Kings Enhanced Edition (USA).mp4
+x-co-op: No
+
+
+game: Witcher 3, The - Wild Hunt - Complete Edition (USA)
+file: Computer/GOG/W/Witcher 3, The - Wild Hunt - Complete Edition (USA)/Witcher 3, The - Wild Hunt - Complete Edition (USA).json
+players: 1
 x-co-op: No
 
 
