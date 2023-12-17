@@ -145,29 +145,6 @@ assets.screenshot: Screenshot/Nintendo 3DS Sound (USA) (Embedded App).jpg
 x-co-op: No
 
 
-game: Nintendo Network ID Settings (USA) (Embedded App)
-file: Nintendo/Nintendo 3DS Apps/Nintendo Network ID Settings (USA) (Embedded App)/Nintendo Network ID Settings (USA) (Embedded App).json
-developer: Nintendo
-publisher: Nintendo
-genre: Application
-description:
-  Each Nintendo Network ID can be associated to one Wii U console and one
-  Nintendo 3DS family system.
-  .
-  The Nintendo 3DS can have only one active Nintendo Network ID registered to
-  it at one time.
-  .
-  If a previous account exists on the system, it will need to be removed before
-  a new Nintendo Network ID can be created or linked.
-release: 2011-03-27
-players: 1
-assets.boxfront: BoxFront/Nintendo Network ID Settings (USA) (Embedded App).jpg
-assets.boxback: BoxBack/Nintendo Network ID Settings (USA) (Embedded App).jpg
-assets.background: Background/Nintendo Network ID Settings (USA) (Embedded App).jpg
-assets.screenshot: Screenshot/Nintendo Network ID Settings (USA) (Embedded App).jpg
-x-co-op: No
-
-
 game: Nintendo Zone Viewer (USA) (Embedded App)
 file: Nintendo/Nintendo 3DS Apps/Nintendo Zone Viewer (USA) (Embedded App)/Nintendo Zone Viewer (USA) (Embedded App).json
 developer: Nintendo
