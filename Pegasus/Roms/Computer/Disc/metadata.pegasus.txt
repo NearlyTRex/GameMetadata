@@ -21,6 +21,12 @@ assets.screenshot: Screenshot/1000 Best Games for Windows (USA).jpg
 x-co-op: No
 
 
+game: AM2R - Another Metroid 2 Remake (USA)
+file: Computer/Disc/A/AM2R - Another Metroid 2 Remake (USA)/AM2R - Another Metroid 2 Remake (USA).json
+players: 1
+x-co-op: No
+
+
 game: Action 52 Owns (USA)
 file: Computer/Disc/A/Action 52 Owns (USA)/Action 52 Owns (USA).json
 developer: TIGSource
@@ -3002,6 +3008,12 @@ assets.video: Video/Land of the Dead - Road to Fiddler's Green (USA).mp4
 x-co-op: No
 
 
+game: Legend of Zelda, The - Link's Awakening DX HD (USA)
+file: Computer/Disc/L/Legend of Zelda, The - Link's Awakening DX HD (USA)/Legend of Zelda, The - Link's Awakening DX HD (USA).json
+players: 1
+x-co-op: No
+
+
 game: Legend of Zelda, The - The Faces of Evil - Remastered (USA)
 file: Computer/Disc/L/Legend of Zelda, The - The Faces of Evil - Remastered (USA)/Legend of Zelda, The - The Faces of Evil - Remastered (USA).json
 developer: Dopply
@@ -5171,6 +5183,12 @@ assets.boxback: BoxBack/Sonic R (USA).jpg
 assets.background: Background/Sonic R (USA).jpg
 assets.screenshot: Screenshot/Sonic R (USA).jpg
 assets.video: Video/Sonic R (USA).mp4
+x-co-op: No
+
+
+game: Sonic Triple Trouble 16-bit (USA)
+file: Computer/Disc/S/Sonic Triple Trouble 16-bit (USA)/Sonic Triple Trouble 16-bit (USA).json
+players: 1
 x-co-op: No
 
 
