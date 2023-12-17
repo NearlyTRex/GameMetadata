@@ -2,5 +2,23 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/SEGA Mega Drive & Genesis Classics (USA).exe"
     ],
+    "main_game_exe": [
+        "SEGA Mega Drive & Genesis Classics/SEGAGameRoom.exe",
+        "SEGA Mega Drive & Genesis Classics/SEGAGenesisClassics.exe"
+    ],
+    "main_game_exe_cwd": {
+        "SEGA Mega Drive & Genesis Classics/SEGAGameRoom.exe": "SEGA Mega Drive & Genesis Classics",
+        "SEGA Mega Drive & Genesis Classics/SEGAGenesisClassics.exe": "SEGA Mega Drive & Genesis Classics"
+    },
+    "sandbox": {
+        "wine": {
+            "overrides": {
+                "game": [
+                    "d3d9,d3d10core,d3d11,dxgi=n,b"
+                ]
+            },
+            "use_dxvk": true
+        }
+    },
     "transform_file": "SEGA Mega Drive & Genesis Classics (USA).exe"
 }

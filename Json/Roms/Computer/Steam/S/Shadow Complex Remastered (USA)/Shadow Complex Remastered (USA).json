@@ -2,5 +2,11 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Shadow Complex Remastered (USA).exe"
     ],
+    "main_game_exe": [
+        "Shadow Complex Remastered/Binaries/Win32/ShadowComplexRemastered.exe"
+    ],
+    "main_game_exe_cwd": {
+        "Shadow Complex Remastered/Binaries/Win32/ShadowComplexRemastered.exe": "Shadow Complex Remastered/Binaries/Win32"
+    },
     "transform_file": "Shadow Complex Remastered (USA).exe"
 }

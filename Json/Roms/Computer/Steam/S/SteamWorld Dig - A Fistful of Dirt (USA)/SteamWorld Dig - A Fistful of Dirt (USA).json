@@ -2,5 +2,21 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/SteamWorld Dig - A Fistful of Dirt (USA).exe"
     ],
+    "main_game_exe": [
+        "SteamWorld Dig - A Fistful of Dirt/SteamWorldDig.exe"
+    ],
+    "main_game_exe_cwd": {
+        "SteamWorld Dig - A Fistful of Dirt/SteamWorldDig.exe": "SteamWorld Dig - A Fistful of Dirt"
+    },
+    "sandbox": {
+        "wine": {
+            "overrides": {
+                "game": [
+                    "d3d9,d3d10core,d3d11,dxgi=n,b"
+                ]
+            },
+            "use_dxvk": true
+        }
+    },
     "transform_file": "SteamWorld Dig - A Fistful of Dirt (USA).exe"
 }
