@@ -1,0 +1,12 @@
+{
+    "steps": {
+        "preinstall": [
+            {
+                "from": "$DISC_MAIN_ROOT",
+                "to": "$HDD_MAIN_ROOT/Sonic Triple Trouble",
+                "type": "copy"
+            }
+        ]
+    },
+    "transform_file": "Sonic Triple Trouble 16-bit (USA).chd"
+}

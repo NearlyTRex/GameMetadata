@@ -1,0 +1,12 @@
+{
+    "steps": {
+        "preinstall": [
+            {
+                "from": "$DISC_MAIN_ROOT",
+                "to": "$HDD_MAIN_ROOT/AM2R",
+                "type": "copy"
+            }
+        ]
+    },
+    "transform_file": "AM2R - Another Metroid 2 Remake (USA).chd"
+}
