@@ -1,4 +1,10 @@
 {
+    "main_game_exe": [
+        "Sonic Triple Trouble/Sonic Triple Trouble 16-Bit.exe"
+    ],
+    "main_game_exe_cwd": {
+        "Sonic Triple Trouble/Sonic Triple Trouble 16-Bit.exe": "Sonic Triple Trouble"
+    },
     "steps": {
         "preinstall": [
             {

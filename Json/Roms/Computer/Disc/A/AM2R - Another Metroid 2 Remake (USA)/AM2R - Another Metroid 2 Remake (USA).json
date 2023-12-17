@@ -1,4 +1,10 @@
 {
+    "main_game_exe": [
+        "AM2R/Profiles/Community Updates (Latest)/AM2R.exe"
+    ],
+    "main_game_exe_cwd": {
+        "AM2R/Profiles/Community Updates (Latest)/AM2R.exe": "AM2R/Profiles/Community Updates (Latest)"
+    },
     "steps": {
         "preinstall": [
             {
