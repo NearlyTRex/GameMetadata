@@ -23,7 +23,54 @@ x-co-op: No
 
 game: AM2R - Another Metroid 2 Remake (USA)
 file: Computer/Disc/A/AM2R - Another Metroid 2 Remake (USA)/AM2R - Another Metroid 2 Remake (USA).json
+developer: Milton Guasti (DoctorM64)
+publisher: Milton Guasti (DoctorM64)
+genre: Adventure;Puzzle;Shooter;Platform;Unofficial
+description:
+  Metroids. The most dangerous species in the galaxy.
+  .
+  One of the most important moments of the Metroid storyline happened in SR388,
+  after a titanic battle between Samus and the mighty Queen Metroid. Memories of
+  that event start to fade... it was long ago.
+  .
+  Project AM2R aimed to recreate Metroid 2 with updated graphics and gameplay.
+  Taking elements from newer Metroid titles: the fast paced gameplay of Metroid:
+  Zero Mission, the atmosphere and solitude of Super Metroid, and adding new game
+  mechanics, AM2R is one of the most ambitious Metroid fan games.
+  .
+  The game started development in late 2007, and it was released to celebrate the
+  30th anniversary of the Metroid franchise, on August 6, 2017.
+  .
+  Nintendo filed a DMCA claim soon after the release, and we complied with their
+  demands. AM2R is no longer being supported.
+  .
+  FEATURES
+  .
+  * Metroid Zero Mission style gameplay
+  .
+  * Map system
+  .
+  * Updated enemy AI
+  .
+  * Minibosses
+  .
+  * New areas
+  .
+  * Challenging Metroid fights
+  .
+  * Stackable beam system
+  .
+  * Completely redrawn enemy and Metroid sprites
+  .
+  * Log system with non-intrusive narrative
+  .
+  * High quality soundtrack
+release: 2017-08-06
 players: 1
+assets.boxfront: BoxFront/AM2R - Another Metroid 2 Remake (USA).jpg
+assets.boxback: BoxBack/AM2R - Another Metroid 2 Remake (USA).jpg
+assets.background: Background/AM2R - Another Metroid 2 Remake (USA).jpg
+assets.screenshot: Screenshot/AM2R - Another Metroid 2 Remake (USA).jpg
 x-co-op: No
 
 
@@ -3010,7 +3057,35 @@ x-co-op: No
 
 game: Legend of Zelda, The - Link's Awakening DX HD (USA)
 file: Computer/Disc/L/Legend of Zelda, The - Link's Awakening DX HD (USA)/Legend of Zelda, The - Link's Awakening DX HD (USA).json
+developer: linksawakeningdxhd
+publisher: linksawakeningdxhd
+genre: Action Adventure
+description:
+  Dive into the enchanting world of The Legend of Zelda: Link's Awakening DX
+  as you've never experienced it before, with this meticulously crafted PC
+  version that breathes new life into this classic adventure. Immerse yourself
+  in the nostalgia of Koholint Island with enhanced graphics and widescreen
+  support, bringing the charming landscapes and characters to vivid detail on
+  your modern PC display.
+  .
+  But that's not all – we've turbocharged the gameplay with high framerate
+  support, ensuring that every sword swing, puzzle solve, and enemy encounter
+  feels smoother and more responsive than ever. Rediscover the magic of this
+  timeless Zelda title with improved performance, letting you explore dungeons,
+  uncover secrets, and engage in epic battles with unparalleled fluidity.
+  .
+  Whether you're a long-time fan of Link's Awakening or a newcomer to the
+  series, this PC version offers a fresh take on the beloved classic, combining
+  the essence of the original with cutting-edge enhancements. Embark on a
+  journey across the mysterious island, solve puzzles, meet quirky characters,
+  and relive the adventure with a level of polish and finesse that pays homage
+  to the legendary legacy of The Legend of Zelda.
+release: 2023-12-04
 players: 1
+assets.boxfront: BoxFront/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
+assets.boxback: BoxBack/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
+assets.background: Background/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
+assets.screenshot: Screenshot/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
 x-co-op: No
 
 
@@ -5168,7 +5243,30 @@ x-co-op: No
 
 game: Sonic 3 AIR (USA)
 file: Computer/Disc/S/Sonic 3 AIR (USA)/Sonic 3 AIR (USA).json
+developer: Eukaryot
+publisher: Eukaryot
+genre: Action;Platformer;2D
+description:
+  Sonic 3: Angel Island Revisited (Sonic 3 A.I.R.) is a fangame by Eukaryot
+  which aims to be an enhanced port of Sonic the Hedgehog 3 & Knuckles.
+  The fangame includes features such as 16:9 widescreen support, constant
+  60 fps gameplay, a new time attack mode, as well as various bug fixes and
+  minor gameplay tweaks. Sonic 3: A.I.R. requires a ROM of Sonic 3 & Knuckles
+  in order to run, however, as the project doesn't involve piracy, the
+  officially recommended source is the Steam version of Sonic 3 & Knuckles
+  (which is automatically detected by A.I.R.), but any ROM will work as long
+  as it's the same revision.
+  .
+  Because it was built on the original ROM, Sonic 3 A.I.R. features physics
+  that are 100% accurate to Sonic 3 & Knuckles. However, a large number of
+  changes were implemented to provide players with a more refined and modern
+  experience.
+release: 2022-09-10
 players: 1
+assets.boxfront: BoxFront/Sonic 3 AIR (USA).jpg
+assets.boxback: BoxBack/Sonic 3 AIR (USA).jpg
+assets.background: Background/Sonic 3 AIR (USA).jpg
+assets.screenshot: Screenshot/Sonic 3 AIR (USA).jpg
 x-co-op: No
 
 
@@ -5194,7 +5292,37 @@ x-co-op: No
 
 game: Sonic Triple Trouble 16-bit (USA)
 file: Computer/Disc/S/Sonic Triple Trouble 16-bit (USA)/Sonic Triple Trouble 16-bit (USA).json
+developer: NoahNCopeland
+publisher: Gamejolt
+genre: Action;Platformer;2D
+description:
+  What if Sonic Triple Trouble had been originally released on the Sega
+  Genesis / MegaDrive, after Sonic 3 & Knuckles?
+  .
+  This is a fangame re-imagining of the Game Gear game Sonic Triple Trouble in
+  the style of the Genesis Sonic classics.
+  .
+  Features
+  .
+  * New stage layouts, enemies, and gimmicks!
+  .
+  * 3D Special Stages!
+  .
+  * Sega Genesis accurate Colors & Sound!
+  .
+  * Switch between Sonic and Tails in real-time!
+  .
+  * Gamepad Support!
+  .
+  * Play in modern 16:9 or retro 4:3!
+  .
+  * Available in over 10 languages!
+release: 2023-05-26
 players: 1
+assets.boxfront: BoxFront/Sonic Triple Trouble 16-bit (USA).jpg
+assets.boxback: BoxBack/Sonic Triple Trouble 16-bit (USA).jpg
+assets.background: Background/Sonic Triple Trouble 16-bit (USA).jpg
+assets.screenshot: Screenshot/Sonic Triple Trouble 16-bit (USA).jpg
 x-co-op: No
 
 

@@ -6050,7 +6050,38 @@ x-co-op: No
 
 game: Lethal Company (USA)
 file: Computer/Steam/L/Lethal Company (USA)/Lethal Company (USA).json
+developer: Zeekerss
+publisher: Zeekerss
+genre: Action Adventure;Survival
+description:
+  You are a contracted worker for the Company. Your job is to collect scrap from
+  abandoned, industrialized moons to meet the Company's profit quota. You can use
+  the cash you earn to travel to new moons with higher risks and rewards--or you
+  can buy fancy suits and decorations for your ship. Experience nature, scanning
+  any creature you find to add them to your bestiary. Explore the wondrous
+  outdoors and rummage through their derelict, steel and concrete underbellies.
+  Just never miss the quota.
+  .
+  > DON'T GO ALONE
+  .
+  These dangers prey upon the vulnerable and lonesome, and the protection of your
+  crew may be your only hope. You can guide your crewmates from your ship, using
+  the radar to call out traps and using the ship's terminal to access remotely
+  locked doors--or you can all go in together. The Company store has many useful
+  tools for the job, including lights, shovels, walkie talkies, stun grenades, or
+  boomboxes.
+  .
+  > WORK FAST
+  .
+  Things get dangerous at Night. Communicate with your crewmates to carry all
+  valuables to the ship before things get too dangerous, and try not to leave
+  anyone behind.
+release: 2023-10-23
 players: 1
+assets.boxfront: BoxFront/Lethal Company (USA).jpg
+assets.boxback: BoxBack/Lethal Company (USA).jpg
+assets.background: Background/Lethal Company (USA).jpg
+assets.screenshot: Screenshot/Lethal Company (USA).jpg
 x-co-op: No
 
 

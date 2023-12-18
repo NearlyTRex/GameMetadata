@@ -165,7 +165,32 @@ x-co-op: No
 
 game: Deliver Us Mars (USA)
 file: Computer/Epic Games/D/Deliver Us Mars (USA)/Deliver Us Mars (USA).json
+developer: KeokeN Interactive
+publisher: Frontier Foundry
+genre: Adventure;General
+description:
+  Ten years after the Fortuna mission, humanity is closer than ever to extinction.
+  After a mysterious distress call from Mars, Earth's youngest astronaut Kathy
+  Johannson joins the Zephyr and its crew on one last mission: to recover the ARK
+  colony ships stolen by the mysterious Outward, and with them, ensure the
+  survival of the human race.
+  .
+  Sequel to the award-winning Deliver Us The Moon, Deliver Us Mars is an
+  atmospheric sci-fi adventure offering an immersive astronaut experience. Explore
+  new frontiers on a suspense-fuelled, high-stakes mission to recover the ARK
+  colony ships stolen by the mysterious Outward.
+  .
+  Board the Zephyr as you journey from Earth to the surface of Mars. Traverse and
+  endure its harsh and unforgiving terrain as you quest to discover the secrets
+  left behind by Outward. Use both brains and brawn to overcome mental and
+  physical challenges, find the ARKs, and uncover the motivations of those behind
+  the distress call that brought you here.
+release: 2023-02-02
 players: 1
+assets.boxfront: BoxFront/Deliver Us Mars (USA).jpg
+assets.boxback: BoxBack/Deliver Us Mars (USA).jpg
+assets.background: Background/Deliver Us Mars (USA).jpg
+assets.screenshot: Screenshot/Deliver Us Mars (USA).jpg
 x-co-op: No
 
 
@@ -216,13 +241,57 @@ x-co-op: No
 
 game: Earthlock (USA)
 file: Computer/Epic Games/E/Earthlock (USA)/Earthlock (USA).json
+developer: Snow Castle Games
+publisher: Snow Castle Games
+genre: Role-Playing;Japanese-Style
+description:
+  Embark on a journey to save the beautiful world of Umbra, a harsh planet that
+  stopped spinning thousands of cycles ago. What started as a mission to rescue
+  Amon's uncle from the clutches of an ancient cult, soon spirals into an
+  adventure that was centuries in the making. You must bring together this group
+  of unlikely heroes to stop the ruinous past from repeating itself.
+  .
+  With a unique set of customizable characters, all with their own personalities
+  and journeys of self-discovery, you will scavenge, explore and fight your way
+  from the everlasting day-side and into the darkness of perpetual night. To save
+  Umbra you must unlock its secrets, expose the shadows, and defeat a growing evil
+  beyond your wildest imagination!
+release: 2018-03-08
 players: 1
+assets.boxfront: BoxFront/Earthlock (USA).jpg
+assets.boxback: BoxBack/Earthlock (USA).jpg
+assets.background: Background/Earthlock (USA).jpg
+assets.screenshot: Screenshot/Earthlock (USA).jpg
 x-co-op: No
 
 
 game: Eternal Threads (USA)
 file: Computer/Epic Games/E/Eternal Threads (USA)/Eternal Threads (USA).json
+developer: Cosmonaut Studios
+publisher: Secret Mode
+genre: Adventure;3D;First-Person
+description:
+  Eternal Threads is a single-player, first-person story-driven puzzle game of
+  time manipulation, choice and consequence.
+  .
+  As an operative tasked with fixing corruption in the timestream, you have been
+  sent to the North of England in May 2015, where six people died in a house fire.
+  Prohibited from simply stopping the fire, you must instead manipulate the
+  choices made by the housemates in the week leading up to it so that they all
+  survive the event.
+  .
+  Each of them can be saved from the fire in multiple ways, with each outcome
+  having a profound effect on their lives in the future. Will you just search for
+  the quickest and easiest solution, or can you find the best possible outcome for
+  everyone?
+  .
+  Ultimately, everything is about choices and consequences.
+release: 2022-05-19
 players: 1
+assets.boxfront: BoxFront/Eternal Threads (USA).jpg
+assets.boxback: BoxBack/Eternal Threads (USA).jpg
+assets.background: Background/Eternal Threads (USA).jpg
+assets.screenshot: Screenshot/Eternal Threads (USA).jpg
 x-co-op: No
 
 
@@ -835,7 +904,21 @@ x-co-op: No
 
 game: Surviving the Aftermath (USA)
 file: Computer/Epic Games/S/Surviving the Aftermath (USA)/Surviving the Aftermath (USA).json
+developer: Iceflake Studios
+publisher: Paradox Interactive
+genre: Strategy;Management;Government
+description:
+  Survive and thrive in a post-apocalyptic future resources are scarce but
+  opportunity calls. Build the ultimate disaster proof colony, protect your
+  colonists and restore civilization to a devastated world.
+  .
+  Remember: The end of the world is just the beginning.
+release: 2021-11-16
 players: 1
+assets.boxfront: BoxFront/Surviving the Aftermath (USA).jpg
+assets.boxback: BoxBack/Surviving the Aftermath (USA).jpg
+assets.background: Background/Surviving the Aftermath (USA).jpg
+assets.screenshot: Screenshot/Surviving the Aftermath (USA).jpg
 x-co-op: No
 
 
