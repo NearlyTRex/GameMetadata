@@ -163,6 +163,12 @@ assets.video: Video/Death Stranding - Director's Cut (USA).mp4
 x-co-op: No
 
 
+game: Deliver Us Mars (USA)
+file: Computer/Epic Games/D/Deliver Us Mars (USA)/Deliver Us Mars (USA).json
+players: 1
+x-co-op: No
+
+
 game: Doom 64 (USA)
 file: Computer/Epic Games/D/Doom 64 (USA)/Doom 64 (USA).json
 developer: Midway Studios - San Diego
@@ -205,6 +211,18 @@ assets.boxback: BoxBack/Drawful 2 (USA).jpg
 assets.background: Background/Drawful 2 (USA).jpg
 assets.screenshot: Screenshot/Drawful 2 (USA).jpg
 assets.video: Video/Drawful 2 (USA).mp4
+x-co-op: No
+
+
+game: Earthlock (USA)
+file: Computer/Epic Games/E/Earthlock (USA)/Earthlock (USA).json
+players: 1
+x-co-op: No
+
+
+game: Eternal Threads (USA)
+file: Computer/Epic Games/E/Eternal Threads (USA)/Eternal Threads (USA).json
+players: 1
 x-co-op: No
 
 
@@ -812,6 +830,12 @@ assets.boxback: BoxBack/Spelldrifter (USA).jpg
 assets.background: Background/Spelldrifter (USA).jpg
 assets.screenshot: Screenshot/Spelldrifter (USA).jpg
 assets.video: Video/Spelldrifter (USA).mp4
+x-co-op: No
+
+
+game: Surviving the Aftermath (USA)
+file: Computer/Epic Games/S/Surviving the Aftermath (USA)/Surviving the Aftermath (USA).json
+players: 1
 x-co-op: No
 
 
