@@ -1,0 +1,18 @@
+{
+    "main_game_exe": [
+        "Sonic3/Sonic3AIR.exe"
+    ],
+    "main_game_exe_cwd": {
+        "Sonic3/Sonic3AIR.exe": "Sonic3"
+    },
+    "steps": {
+        "preinstall": [
+            {
+                "from": "$DISC_MAIN_ROOT",
+                "to": "$HDD_MAIN_ROOT/Sonic3",
+                "type": "copy"
+            }
+        ]
+    },
+    "transform_file": "Sonic 3 AIR (USA).chd"
+}
