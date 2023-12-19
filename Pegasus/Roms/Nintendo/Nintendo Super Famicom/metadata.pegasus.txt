@@ -1,5 +1,5 @@
 collection: Nintendo Super Famicom
-launch: launch_rom -l "Nintendo Super Famicom" {file.path}
+launch: launch_json {file.path}
 
 
 game: Akumajou Dracula (Japan) (Castlevania Anniversary Collection)

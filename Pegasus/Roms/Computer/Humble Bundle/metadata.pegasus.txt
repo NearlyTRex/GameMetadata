@@ -1,5 +1,5 @@
 collection: Computer - Humble Bundle
-launch: launch_rom -l "Computer - Humble Bundle" {file.path}
+launch: launch_json {file.path}
 
 
 game: Amnesia - The Dark Descent (USA)

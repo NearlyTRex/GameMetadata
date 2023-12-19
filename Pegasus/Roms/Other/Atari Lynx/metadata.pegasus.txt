@@ -1,5 +1,5 @@
 collection: Atari Lynx
-launch: launch_rom -l "Atari Lynx" {file.path}
+launch: launch_json {file.path}
 
 
 game: Basketbrawl (USA, Europe)

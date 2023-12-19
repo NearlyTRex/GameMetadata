@@ -1,5 +1,5 @@
 collection: Computer - Epic Games
-launch: launch_rom -l "Computer - Epic Games" {file.path}
+launch: launch_json {file.path}
 
 
 game: 3 out of 10 - Season One (USA)

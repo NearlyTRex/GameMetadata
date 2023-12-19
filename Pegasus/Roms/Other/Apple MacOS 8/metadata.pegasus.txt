@@ -1,5 +1,5 @@
 collection: Apple MacOS 8
-launch: launch_rom -l "Apple MacOS 8" {file.path}
+launch: launch_json {file.path}
 
 
 game: Harry the Handsome Executive (USA)

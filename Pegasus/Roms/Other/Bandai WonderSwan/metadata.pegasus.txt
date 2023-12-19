@@ -1,5 +1,5 @@
 collection: Bandai WonderSwan
-launch: launch_rom -l "Bandai WonderSwan" {file.path}
+launch: launch_json {file.path}
 
 
 game: Clock Tower for WonderSwan (Japan)

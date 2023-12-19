@@ -1,5 +1,5 @@
 collection: Nintendo Famicom
-launch: launch_rom -l "Nintendo Famicom" {file.path}
+launch: launch_json {file.path}
 
 
 game: ASO - Armored Scrum Object (Japan) (En)

@@ -1,5 +1,5 @@
 collection: Sega Game Gear
-launch: launch_rom -l "Sega Game Gear" {file.path}
+launch: launch_json {file.path}
 
 
 game: Bare Knuckle ~ Streets of Rage (World)

@@ -1,5 +1,5 @@
 collection: Panasonic 3DO
-launch: launch_rom -l "Panasonic 3DO" {file.path}
+launch: launch_json {file.path}
 
 
 game: Alone in the Dark (USA)

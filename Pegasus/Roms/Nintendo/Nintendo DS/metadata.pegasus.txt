@@ -1,5 +1,5 @@
 collection: Nintendo DS
-launch: launch_rom -l "Nintendo DS" {file.path}
+launch: launch_json {file.path}
 
 
 game: America's Test Kitchen - Let's Get Cooking (USA)

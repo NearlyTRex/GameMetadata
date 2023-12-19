@@ -1,5 +1,5 @@
 collection: Arcade
-launch: launch_rom -l "Arcade" {file.path}
+launch: launch_json {file.path}
 
 
 game: 1941 - Counter Attack (World) (1941)

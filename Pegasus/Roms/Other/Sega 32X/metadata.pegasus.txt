@@ -1,5 +1,5 @@
 collection: Sega 32X
-launch: launch_rom -l "Sega 32X" {file.path}
+launch: launch_json {file.path}
 
 
 game: Chaotix ~ Knuckles' Chaotix (Japan, USA)

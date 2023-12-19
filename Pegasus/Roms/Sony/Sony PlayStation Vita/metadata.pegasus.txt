@@ -1,5 +1,5 @@
 collection: Sony PlayStation Vita
-launch: launch_rom -l "Sony PlayStation Vita" {file.path}
+launch: launch_json {file.path}
 
 
 game: Alone With You (USA)

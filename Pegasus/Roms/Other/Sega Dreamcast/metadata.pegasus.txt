@@ -1,5 +1,5 @@
 collection: Sega Dreamcast
-launch: launch_rom -l "Sega Dreamcast" {file.path}
+launch: launch_json {file.path}
 
 
 game: Alien Front Online (USA)

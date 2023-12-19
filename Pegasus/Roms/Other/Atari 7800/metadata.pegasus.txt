@@ -1,5 +1,5 @@
 collection: Atari 7800
-launch: launch_rom -l "Atari 7800" {file.path}
+launch: launch_json {file.path}
 
 
 game: Asteroids (USA)

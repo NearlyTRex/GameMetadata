@@ -1,5 +1,5 @@
 collection: Microsoft MSX
-launch: launch_rom -l "Microsoft MSX" {file.path}
+launch: launch_json {file.path}
 
 
 game: Antarctic Adventure (Japan)

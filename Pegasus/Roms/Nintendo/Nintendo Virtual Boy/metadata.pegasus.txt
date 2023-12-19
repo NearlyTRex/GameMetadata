@@ -1,5 +1,5 @@
 collection: Nintendo Virtual Boy
-launch: launch_rom -l "Nintendo Virtual Boy" {file.path}
+launch: launch_json {file.path}
 
 
 game: Mario Clash (Japan, USA)

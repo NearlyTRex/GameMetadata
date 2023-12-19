@@ -1,5 +1,5 @@
 collection: Nintendo Switch
-launch: launch_rom -l "Nintendo Switch" {file.path}
+launch: launch_json {file.path}
 
 
 game: 2064 - Read Only Memories INTEGRAL (USA) (En,Ja)

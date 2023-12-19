@@ -1,5 +1,5 @@
 collection: Atari Jaguar CD
-launch: launch_rom -l "Atari Jaguar CD" {file.path}
+launch: launch_json {file.path}
 
 
 game: Blue Lightning (USA)

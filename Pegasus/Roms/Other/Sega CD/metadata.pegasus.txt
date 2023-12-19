@@ -1,5 +1,5 @@
 collection: Sega CD
-launch: launch_rom -l "Sega CD" {file.path}
+launch: launch_json {file.path}
 
 
 game: Bram Stoker's Dracula (USA)

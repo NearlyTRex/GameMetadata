@@ -1,5 +1,5 @@
 collection: Apple iOS
-launch: launch_rom -l "Apple iOS" {file.path}
+launch: launch_json {file.path}
 
 
 game: 7th Guest, The (USA)

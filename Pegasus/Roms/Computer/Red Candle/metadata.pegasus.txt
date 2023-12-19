@@ -1,5 +1,5 @@
 collection: Computer - Red Candle
-launch: launch_rom -l "Computer - Red Candle" {file.path}
+launch: launch_json {file.path}
 
 
 game: Detention (USA)

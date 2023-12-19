@@ -1,5 +1,5 @@
 collection: Coleco ColecoVision
-launch: launch_rom -l "Coleco ColecoVision" {file.path}
+launch: launch_json {file.path}
 
 
 game: Antarctic Adventure (USA, Europe)

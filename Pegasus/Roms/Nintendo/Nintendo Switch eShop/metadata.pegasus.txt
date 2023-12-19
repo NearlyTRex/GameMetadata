@@ -1,5 +1,5 @@
 collection: Nintendo Switch eShop
-launch: launch_rom -l "Nintendo Switch eShop" {file.path}
+launch: launch_json {file.path}
 
 
 game: Bad Dream - Coma (World) (eShop)

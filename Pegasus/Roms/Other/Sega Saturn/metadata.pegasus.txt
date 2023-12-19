@@ -1,5 +1,5 @@
 collection: Sega Saturn
-launch: launch_rom -l "Sega Saturn" {file.path}
+launch: launch_json {file.path}
 
 
 game: Alone in the Dark - One-Eyed Jack's Revenge (USA)

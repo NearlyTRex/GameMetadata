@@ -1,5 +1,5 @@
 collection: Nintendo Gamecube
-launch: launch_rom -l "Nintendo Gamecube" {file.path}
+launch: launch_json {file.path}
 
 
 game: 007 - Agent Under Fire (USA)

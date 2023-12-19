@@ -1,5 +1,5 @@
 collection: Sony PlayStation
-launch: launch_rom -l "Sony PlayStation" {file.path}
+launch: launch_json {file.path}
 
 
 game: Activision Classics (USA)

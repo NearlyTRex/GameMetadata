@@ -1,5 +1,5 @@
 collection: Sega CD 32X
-launch: launch_rom -l "Sega CD 32X" {file.path}
+launch: launch_json {file.path}
 
 
 game: Corpse Killer (USA) (Sega CD 32X)

@@ -1,5 +1,5 @@
 collection: Atari Jaguar
-launch: launch_rom -l "Atari Jaguar" {file.path}
+launch: launch_json {file.path}
 
 
 game: Alien vs Predator (World)

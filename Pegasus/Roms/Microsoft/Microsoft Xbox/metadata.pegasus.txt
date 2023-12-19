@@ -1,5 +1,5 @@
 collection: Microsoft Xbox
-launch: launch_rom -l "Microsoft Xbox" {file.path}
+launch: launch_json {file.path}
 
 
 game: Big Bumpin' (USA)

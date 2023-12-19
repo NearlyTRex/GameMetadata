@@ -1,5 +1,5 @@
 collection: Texas Instruments TI-99-4A
-launch: launch_rom -l "Texas Instruments TI-99-4A" {file.path}
+launch: launch_json {file.path}
 
 
 game: A-Maze-Ing (USA)

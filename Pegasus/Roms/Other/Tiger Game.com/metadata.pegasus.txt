@@ -1,5 +1,5 @@
 collection: Tiger Game.com
-launch: launch_rom -l "Tiger Game.com" {file.path}
+launch: launch_json {file.path}
 
 
 game: Castlevania - Symphony of the Night (Unknown) (Proto)

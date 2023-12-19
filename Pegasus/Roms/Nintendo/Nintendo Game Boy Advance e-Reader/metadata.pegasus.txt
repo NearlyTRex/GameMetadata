@@ -1,5 +1,5 @@
 collection: Nintendo Game Boy Advance e-Reader
-launch: launch_rom -l "Nintendo Game Boy Advance e-Reader" {file.path}
+launch: launch_json {file.path}
 
 
 game: NES-e - Balloon Fight-e (USA)

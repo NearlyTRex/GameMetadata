@@ -1,5 +1,5 @@
 collection: Computer - Itchio
-launch: launch_rom -l "Computer - Itchio" {file.path}
+launch: launch_json {file.path}
 
 
 game: 1,000 Heads Among the Trees (USA)

@@ -1,5 +1,5 @@
 collection: Microsoft Xbox One GOD
-launch: launch_rom -l "Microsoft Xbox One GOD" {file.path}
+launch: launch_json {file.path}
 
 
 game: 7 Days to Die (USA)

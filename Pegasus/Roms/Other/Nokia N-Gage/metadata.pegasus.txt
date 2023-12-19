@@ -1,5 +1,5 @@
 collection: Nokia N-Gage
-launch: launch_rom -l "Nokia N-Gage" {file.path}
+launch: launch_json {file.path}
 
 
 game: Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)

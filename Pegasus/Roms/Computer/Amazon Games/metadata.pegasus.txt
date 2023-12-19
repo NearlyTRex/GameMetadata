@@ -1,5 +1,5 @@
 collection: Computer - Amazon Games
-launch: launch_rom -l "Computer - Amazon Games" {file.path}
+launch: launch_json {file.path}
 
 
 game: ACA Neo Geo - 3 Count Bout (USA)

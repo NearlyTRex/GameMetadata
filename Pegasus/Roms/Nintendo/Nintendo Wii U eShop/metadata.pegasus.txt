@@ -1,5 +1,5 @@
 collection: Nintendo Wii U eShop
-launch: launch_rom -l "Nintendo Wii U eShop" {file.path}
+launch: launch_json {file.path}
 
 
 game: 3Souls (USA) (eShop)

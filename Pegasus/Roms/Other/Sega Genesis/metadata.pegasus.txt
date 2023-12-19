@@ -1,5 +1,5 @@
 collection: Sega Genesis
-launch: launch_rom -l "Sega Genesis" {file.path}
+launch: launch_json {file.path}
 
 
 game: 6-Pak (USA)

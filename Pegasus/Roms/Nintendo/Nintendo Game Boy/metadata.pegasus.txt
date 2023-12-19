@@ -1,5 +1,5 @@
 collection: Nintendo Game Boy
-launch: launch_rom -l "Nintendo Game Boy" {file.path}
+launch: launch_json {file.path}
 
 
 game: Adventure Island (USA, Europe)

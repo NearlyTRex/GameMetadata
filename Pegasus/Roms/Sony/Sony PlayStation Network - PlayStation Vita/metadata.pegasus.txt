@@ -1,5 +1,5 @@
 collection: Sony PlayStation Network - PlayStation Vita
-launch: launch_rom -l "Sony PlayStation Network - PlayStation Vita" {file.path}
+launch: launch_json {file.path}
 
 
 game: Accel World vs. Sword Art Online (USA)
