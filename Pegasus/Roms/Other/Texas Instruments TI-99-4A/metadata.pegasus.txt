@@ -24,6 +24,7 @@ assets.background: Background/A-Maze-Ing (USA).jpg
 assets.screenshot: Screenshot/A-Maze-Ing (USA).jpg
 assets.video: Video/A-Maze-Ing (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Hunt The Wumpus (USA)
@@ -52,6 +53,7 @@ assets.background: Background/Hunt The Wumpus (USA).jpg
 assets.screenshot: Screenshot/Hunt The Wumpus (USA).jpg
 assets.video: Video/Hunt The Wumpus (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Moon Mine (USA)
@@ -83,6 +85,7 @@ assets.background: Background/Moon Mine (USA).jpg
 assets.screenshot: Screenshot/Moon Mine (USA).jpg
 assets.video: Video/Moon Mine (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Munch Man (USA)
@@ -103,6 +106,7 @@ assets.background: Background/Munch Man (USA).jpg
 assets.screenshot: Screenshot/Munch Man (USA).jpg
 assets.video: Video/Munch Man (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Parsec (USA)
@@ -129,5 +133,6 @@ assets.background: Background/Parsec (USA).jpg
 assets.screenshot: Screenshot/Parsec (USA).jpg
 assets.video: Video/Parsec (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 

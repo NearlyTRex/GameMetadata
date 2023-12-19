@@ -28,6 +28,7 @@ assets.background: Background/Mario Clash (Japan, USA).jpg
 assets.screenshot: Screenshot/Mario Clash (Japan, USA).jpg
 assets.video: Video/Mario Clash (Japan, USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Virtual Boy Wario Land (Japan, USA)
@@ -51,5 +52,6 @@ assets.background: Background/Virtual Boy Wario Land (Japan, USA).jpg
 assets.screenshot: Screenshot/Virtual Boy Wario Land (Japan, USA).jpg
 assets.video: Video/Virtual Boy Wario Land (Japan, USA).mp4
 x-co-op: No
+x-playable: Yes
 
 

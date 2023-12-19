@@ -33,6 +33,7 @@ assets.background: Background/Asteroids (USA) (Proto).jpg
 assets.screenshot: Screenshot/Asteroids (USA) (Proto).jpg
 assets.video: Video/Asteroids (USA) (Proto).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Bounty Bob Strikes Back! (USA)
@@ -56,6 +57,7 @@ assets.background: Background/Bounty Bob Strikes Back! (USA).jpg
 assets.screenshot: Screenshot/Bounty Bob Strikes Back! (USA).jpg
 assets.video: Video/Bounty Bob Strikes Back! (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Centipede (USA)
@@ -79,6 +81,7 @@ assets.background: Background/Centipede (USA).jpg
 assets.screenshot: Screenshot/Centipede (USA).jpg
 assets.video: Video/Centipede (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Countermeasure (USA)
@@ -111,6 +114,7 @@ assets.background: Background/Countermeasure (USA).jpg
 assets.screenshot: Screenshot/Countermeasure (USA).jpg
 assets.video: Video/Countermeasure (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Final Legacy (USA) (Proto)
@@ -177,6 +181,7 @@ assets.background: Background/Final Legacy (USA) (Proto).jpg
 assets.screenshot: Screenshot/Final Legacy (USA) (Proto).jpg
 assets.video: Video/Final Legacy (USA) (Proto).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Microgammon SB (USA) (Proto)
@@ -197,6 +202,7 @@ assets.background: Background/Microgammon SB (USA) (Proto).jpg
 assets.screenshot: Screenshot/Microgammon SB (USA) (Proto).jpg
 assets.video: Video/Microgammon SB (USA) (Proto).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Millipede (USA) (Proto)
@@ -222,6 +228,7 @@ assets.background: Background/Millipede (USA) (Proto).jpg
 assets.screenshot: Screenshot/Millipede (USA) (Proto).jpg
 assets.video: Video/Millipede (USA) (Proto).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Miner 2049er Starring Bounty Bob (USA)
@@ -251,6 +258,7 @@ assets.background: Background/Miner 2049er Starring Bounty Bob (USA).jpg
 assets.screenshot: Screenshot/Miner 2049er Starring Bounty Bob (USA).jpg
 assets.video: Video/Miner 2049er Starring Bounty Bob (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Miniature Golf (USA) (Proto)
@@ -276,6 +284,7 @@ assets.background: Background/Miniature Golf (USA) (Proto).jpg
 assets.screenshot: Screenshot/Miniature Golf (USA) (Proto).jpg
 assets.video: Video/Miniature Golf (USA) (Proto).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Missile Command (USA)
@@ -300,6 +309,7 @@ assets.background: Background/Missile Command (USA).jpg
 assets.screenshot: Screenshot/Missile Command (USA).jpg
 assets.video: Video/Missile Command (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Pac-Man (USA)
@@ -321,6 +331,7 @@ assets.background: Background/Pac-Man (USA).jpg
 assets.screenshot: Screenshot/Pac-Man (USA).jpg
 assets.video: Video/Pac-Man (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: RealSports Baseball (USA)
@@ -352,6 +363,7 @@ assets.background: Background/RealSports Baseball (USA).jpg
 assets.screenshot: Screenshot/RealSports Baseball (USA).jpg
 assets.video: Video/RealSports Baseball (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: RealSports Basketball (USA)
@@ -378,6 +390,7 @@ assets.background: Background/RealSports Basketball (USA).jpg
 assets.screenshot: Screenshot/RealSports Basketball (USA).jpg
 assets.video: Video/RealSports Basketball (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: RealSports Football (USA)
@@ -401,6 +414,7 @@ assets.background: Background/RealSports Football (USA).jpg
 assets.screenshot: Screenshot/RealSports Football (USA).jpg
 assets.video: Video/RealSports Football (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: RealSports Soccer (USA)
@@ -422,6 +436,7 @@ assets.background: Background/RealSports Soccer (USA).jpg
 assets.screenshot: Screenshot/RealSports Soccer (USA).jpg
 assets.video: Video/RealSports Soccer (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: RealSports Tennis (USA)
@@ -442,6 +457,7 @@ assets.background: Background/RealSports Tennis (USA).jpg
 assets.screenshot: Screenshot/RealSports Tennis (USA).jpg
 assets.video: Video/RealSports Tennis (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Star Raiders (USA)
@@ -472,6 +488,7 @@ assets.background: Background/Star Raiders (USA).jpg
 assets.screenshot: Screenshot/Star Raiders (USA).jpg
 assets.video: Video/Star Raiders (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Breakout (USA)
@@ -503,6 +520,7 @@ assets.background: Background/Super Breakout (USA).jpg
 assets.screenshot: Screenshot/Super Breakout (USA).jpg
 assets.video: Video/Super Breakout (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Xari Arena (USA) (Proto)
@@ -545,5 +563,6 @@ assets.background: Background/Xari Arena (USA) (Proto).jpg
 assets.screenshot: Screenshot/Xari Arena (USA) (Proto).jpg
 assets.video: Video/Xari Arena (USA) (Proto).mp4
 x-co-op: No
+x-playable: Yes
 
 

@@ -25,6 +25,7 @@ assets.background: Background/Asteroids (USA).jpg
 assets.screenshot: Screenshot/Asteroids (USA).jpg
 assets.video: Video/Asteroids (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Basketbrawl (USA)
@@ -51,6 +52,7 @@ assets.background: Background/Basketbrawl (USA).jpg
 assets.screenshot: Screenshot/Basketbrawl (USA).jpg
 assets.video: Video/Basketbrawl (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Centipede (USA)
@@ -69,6 +71,7 @@ assets.background: Background/Centipede (USA).jpg
 assets.screenshot: Screenshot/Centipede (USA).jpg
 assets.video: Video/Centipede (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Dark Chambers (USA)
@@ -96,6 +99,7 @@ assets.background: Background/Dark Chambers (USA).jpg
 assets.screenshot: Screenshot/Dark Chambers (USA).jpg
 assets.video: Video/Dark Chambers (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Donkey Kong (USA)
@@ -119,6 +123,7 @@ assets.background: Background/Donkey Kong (USA).jpg
 assets.screenshot: Screenshot/Donkey Kong (USA).jpg
 assets.video: Video/Donkey Kong (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Fatal Run (USA)
@@ -151,6 +156,7 @@ assets.background: Background/Fatal Run (USA).jpg
 assets.screenshot: Screenshot/Fatal Run (USA).jpg
 assets.video: Video/Fatal Run (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Ninja Golf (USA)
@@ -182,6 +188,7 @@ assets.background: Background/Ninja Golf (USA).jpg
 assets.screenshot: Screenshot/Ninja Golf (USA).jpg
 assets.video: Video/Ninja Golf (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Scrapyard Dog (USA)
@@ -208,5 +215,6 @@ assets.background: Background/Scrapyard Dog (USA).jpg
 assets.screenshot: Screenshot/Scrapyard Dog (USA).jpg
 assets.video: Video/Scrapyard Dog (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 

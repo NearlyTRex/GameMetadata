@@ -21,6 +21,7 @@ assets.background: Background/Blue Lightning (USA).jpg
 assets.screenshot: Screenshot/Blue Lightning (USA).jpg
 assets.video: Video/Blue Lightning (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Myst (USA)
@@ -58,5 +59,6 @@ assets.background: Background/Myst (USA).jpg
 assets.screenshot: Screenshot/Myst (USA).jpg
 assets.video: Video/Myst (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 

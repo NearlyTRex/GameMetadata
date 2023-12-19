@@ -30,6 +30,7 @@ assets.boxback: BoxBack/Castlevania - Symphony of the Night (Unknown) (Proto).jp
 assets.background: Background/Castlevania - Symphony of the Night (Unknown) (Proto).jpg
 assets.screenshot: Screenshot/Castlevania - Symphony of the Night (Unknown) (Proto).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fighters Megamix (USA)
@@ -51,6 +52,7 @@ assets.background: Background/Fighters Megamix (USA).jpg
 assets.screenshot: Screenshot/Fighters Megamix (USA).jpg
 assets.video: Video/Fighters Megamix (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Jurassic Park - The Lost World (USA)
@@ -69,6 +71,7 @@ assets.background: Background/Jurassic Park - The Lost World (USA).jpg
 assets.screenshot: Screenshot/Jurassic Park - The Lost World (USA).jpg
 assets.video: Video/Jurassic Park - The Lost World (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Resident Evil 2 (USA)
@@ -100,6 +103,7 @@ assets.background: Background/Resident Evil 2 (USA).jpg
 assets.screenshot: Screenshot/Resident Evil 2 (USA).jpg
 assets.video: Video/Resident Evil 2 (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Sonic Jam (USA)
@@ -119,5 +123,6 @@ assets.background: Background/Sonic Jam (USA).jpg
 assets.screenshot: Screenshot/Sonic Jam (USA).jpg
 assets.video: Video/Sonic Jam (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 

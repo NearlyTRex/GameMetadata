@@ -33,6 +33,7 @@ assets.boxback: BoxBack/1941 - Counter Attack (World) (1941).jpg
 assets.background: Background/1941 - Counter Attack (World) (1941).jpg
 assets.screenshot: Screenshot/1941 - Counter Attack (World) (1941).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: 1942 (World) (1942)
@@ -57,6 +58,7 @@ assets.background: Background/1942 (World) (1942).jpg
 assets.screenshot: Screenshot/1942 (World) (1942).jpg
 assets.video: Video/1942 (World) (1942).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: 1943 - The Battle of Midway (Europe) (1943)
@@ -92,6 +94,7 @@ assets.background: Background/1943 - The Battle of Midway (Europe) (1943).jpg
 assets.screenshot: Screenshot/1943 - The Battle of Midway (Europe) (1943).jpg
 assets.video: Video/1943 - The Battle of Midway (Europe) (1943).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: 1943 Kai - Midway Kaisen (Japan) (1943kai)
@@ -134,6 +137,7 @@ assets.boxback: BoxBack/1943 Kai - Midway Kaisen (Japan) (1943kai).jpg
 assets.background: Background/1943 Kai - Midway Kaisen (Japan) (1943kai).jpg
 assets.screenshot: Screenshot/1943 Kai - Midway Kaisen (Japan) (1943kai).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: 1944 - The Loop Master (Europe) (1944)
@@ -156,6 +160,7 @@ assets.background: Background/1944 - The Loop Master (Europe) (1944).jpg
 assets.screenshot: Screenshot/1944 - The Loop Master (Europe) (1944).jpg
 assets.video: Video/1944 - The Loop Master (Europe) (1944).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: 19XX - The War Against Destiny (Europe) (19xx)
@@ -178,6 +183,7 @@ assets.background: Background/19XX - The War Against Destiny (Europe) (19xx).jpg
 assets.screenshot: Screenshot/19XX - The War Against Destiny (Europe) (19xx).jpg
 assets.video: Video/19XX - The War Against Destiny (Europe) (19xx).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: 720 Degrees (World) (720)
@@ -206,6 +212,7 @@ assets.boxback: BoxBack/720 Degrees (World) (720).jpg
 assets.background: Background/720 Degrees (World) (720).jpg
 assets.screenshot: Screenshot/720 Degrees (World) (720).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: APB - All Points Bulletin (World) (apb)
@@ -257,6 +264,7 @@ assets.boxback: BoxBack/APB - All Points Bulletin (World) (apb).jpg
 assets.background: Background/APB - All Points Bulletin (World) (apb).jpg
 assets.screenshot: Screenshot/APB - All Points Bulletin (World) (apb).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Akka Arrh (World) (Proto) (akkaarrh)
@@ -288,6 +296,7 @@ assets.boxback: BoxBack/Akka Arrh (World) (Proto) (akkaarrh).jpg
 assets.background: Background/Akka Arrh (World) (Proto) (akkaarrh).jpg
 assets.screenshot: Screenshot/Akka Arrh (World) (Proto) (akkaarrh).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Alien Syndrome (World) (aliensyn)
@@ -314,6 +323,7 @@ assets.boxback: BoxBack/Alien Syndrome (World) (aliensyn).jpg
 assets.background: Background/Alien Syndrome (World) (aliensyn).jpg
 assets.screenshot: Screenshot/Alien Syndrome (World) (aliensyn).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Alpha Mission (World) (alphamis)
@@ -338,6 +348,7 @@ assets.boxback: BoxBack/Alpha Mission (World) (alphamis).jpg
 assets.background: Background/Alpha Mission (World) (alphamis).jpg
 assets.screenshot: Screenshot/Alpha Mission (World) (alphamis).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Altered Beast (World) (altbeast)
@@ -369,6 +380,7 @@ assets.boxback: BoxBack/Altered Beast (World) (altbeast).jpg
 assets.background: Background/Altered Beast (World) (altbeast).jpg
 assets.screenshot: Screenshot/Altered Beast (World) (altbeast).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Arch Rivals (World) (archrivl)
@@ -400,6 +412,7 @@ assets.boxback: BoxBack/Arch Rivals (World) (archrivl).jpg
 assets.background: Background/Arch Rivals (World) (archrivl).jpg
 assets.screenshot: Screenshot/Arch Rivals (World) (archrivl).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Armored Warriors (Europe) (armwar)
@@ -435,6 +448,7 @@ assets.background: Background/Armored Warriors (Europe) (armwar).jpg
 assets.screenshot: Screenshot/Armored Warriors (Europe) (armwar).jpg
 assets.video: Video/Armored Warriors (Europe) (armwar).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Art of Fighting (World) (aof)
@@ -459,6 +473,7 @@ assets.boxback: BoxBack/Art of Fighting (World) (aof).jpg
 assets.background: Background/Art of Fighting (World) (aof).jpg
 assets.screenshot: Screenshot/Art of Fighting (World) (aof).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Asteroids (World) (asteroid)
@@ -487,6 +502,7 @@ assets.boxback: BoxBack/Asteroids (World) (asteroid).jpg
 assets.background: Background/Asteroids (World) (asteroid).jpg
 assets.screenshot: Screenshot/Asteroids (World) (asteroid).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Asteroids Deluxe (World) (astdelux)
@@ -533,6 +549,7 @@ assets.boxback: BoxBack/Asteroids Deluxe (World) (astdelux).jpg
 assets.background: Background/Asteroids Deluxe (World) (astdelux).jpg
 assets.screenshot: Screenshot/Asteroids Deluxe (World) (astdelux).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Atari Baseball (World) (abaseb)
@@ -553,6 +570,7 @@ assets.boxback: BoxBack/Atari Baseball (World) (abaseb).jpg
 assets.background: Background/Atari Baseball (World) (abaseb).jpg
 assets.screenshot: Screenshot/Atari Baseball (World) (abaseb).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Atari Basketball (World) (bsktball)
@@ -574,6 +592,7 @@ assets.boxback: BoxBack/Atari Basketball (World) (bsktball).jpg
 assets.background: Background/Atari Basketball (World) (bsktball).jpg
 assets.screenshot: Screenshot/Atari Basketball (World) (bsktball).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Atari Football (World) (atarifb)
@@ -595,6 +614,7 @@ assets.boxback: BoxBack/Atari Football (World) (atarifb).jpg
 assets.background: Background/Atari Football (World) (atarifb).jpg
 assets.screenshot: Screenshot/Atari Football (World) (atarifb).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Atari Soccer (World) (soccer)
@@ -617,6 +637,7 @@ assets.boxback: BoxBack/Atari Soccer (World) (soccer).jpg
 assets.background: Background/Atari Soccer (World) (soccer).jpg
 assets.screenshot: Screenshot/Atari Soccer (World) (soccer).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Athena (World) (athena)
@@ -638,6 +659,7 @@ assets.boxback: BoxBack/Athena (World) (athena).jpg
 assets.background: Background/Athena (World) (athena).jpg
 assets.screenshot: Screenshot/Athena (World) (athena).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Avalanche (World) (avalnche)
@@ -668,6 +690,7 @@ assets.boxback: BoxBack/Avalanche (World) (avalnche).jpg
 assets.background: Background/Avalanche (World) (avalnche).jpg
 assets.screenshot: Screenshot/Avalanche (World) (avalnche).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Avengers (USA) (avengers)
@@ -697,6 +720,7 @@ assets.boxback: BoxBack/Avengers (USA) (avengers).jpg
 assets.background: Background/Avengers (USA) (avengers).jpg
 assets.screenshot: Screenshot/Avengers (USA) (avengers).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Baseball Stars 2 (World) (bstars2)
@@ -714,6 +738,7 @@ assets.boxback: BoxBack/Baseball Stars 2 (World) (bstars2).jpg
 assets.background: Background/Baseball Stars 2 (World) (bstars2).jpg
 assets.screenshot: Screenshot/Baseball Stars 2 (World) (bstars2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Battle Circuit (Europe) (batcir)
@@ -748,6 +773,7 @@ assets.background: Background/Battle Circuit (Europe) (batcir).jpg
 assets.screenshot: Screenshot/Battle Circuit (Europe) (batcir).jpg
 assets.video: Video/Battle Circuit (Europe) (batcir).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Battle Zone (World) (bzone)
@@ -773,6 +799,7 @@ assets.boxback: BoxBack/Battle Zone (World) (bzone).jpg
 assets.background: Background/Battle Zone (World) (bzone).jpg
 assets.screenshot: Screenshot/Battle Zone (World) (bzone).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Battletoads (World) (btoads)
@@ -805,6 +832,7 @@ assets.boxback: BoxBack/Battletoads (World) (btoads).jpg
 assets.background: Background/Battletoads (World) (btoads).jpg
 assets.screenshot: Screenshot/Battletoads (World) (btoads).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Beast Busters (World) (bbusters)
@@ -824,6 +852,7 @@ assets.boxback: BoxBack/Beast Busters (World) (bbusters).jpg
 assets.background: Background/Beast Busters (World) (bbusters).jpg
 assets.screenshot: Screenshot/Beast Busters (World) (bbusters).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Bermuda Triangle (World) (bermudat)
@@ -858,6 +887,7 @@ assets.boxback: BoxBack/Bermuda Triangle (World) (bermudat).jpg
 assets.background: Background/Bermuda Triangle (World) (bermudat).jpg
 assets.screenshot: Screenshot/Bermuda Triangle (World) (bermudat).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Bionic Commando (Europe) (bionicc)
@@ -880,6 +910,7 @@ assets.boxback: BoxBack/Bionic Commando (Europe) (bionicc).jpg
 assets.background: Background/Bionic Commando (Europe) (bionicc).jpg
 assets.screenshot: Screenshot/Bionic Commando (Europe) (bionicc).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Black Tiger (World) (blktiger)
@@ -903,6 +934,7 @@ assets.boxback: BoxBack/Black Tiger (World) (blktiger).jpg
 assets.background: Background/Black Tiger (World) (blktiger).jpg
 assets.screenshot: Screenshot/Black Tiger (World) (blktiger).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Black Widow (World) (bwidow)
@@ -925,6 +957,7 @@ assets.boxback: BoxBack/Black Widow (World) (bwidow).jpg
 assets.background: Background/Black Widow (World) (bwidow).jpg
 assets.screenshot: Screenshot/Black Widow (World) (bwidow).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Blaster (World) (blaster)
@@ -1019,6 +1052,7 @@ assets.boxback: BoxBack/Blaster (World) (blaster).jpg
 assets.background: Background/Blaster (World) (blaster).jpg
 assets.screenshot: Screenshot/Blaster (World) (blaster).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Block Block (World) (block)
@@ -1036,6 +1070,7 @@ assets.boxback: BoxBack/Block Block (World) (block).jpg
 assets.background: Background/Block Block (World) (block).jpg
 assets.screenshot: Screenshot/Block Block (World) (block).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Bosconian - Star Destroyer (World) (bosco)
@@ -1066,6 +1101,7 @@ assets.boxback: BoxBack/Bosconian - Star Destroyer (World) (bosco).jpg
 assets.background: Background/Bosconian - Star Destroyer (World) (bosco).jpg
 assets.screenshot: Screenshot/Bosconian - Star Destroyer (World) (bosco).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Bubbles (World) (bubbles)
@@ -1119,6 +1155,7 @@ assets.boxback: BoxBack/Bubbles (World) (bubbles).jpg
 assets.background: Background/Bubbles (World) (bubbles).jpg
 assets.screenshot: Screenshot/Bubbles (World) (bubbles).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Burning Fight (World) (burningf)
@@ -1141,6 +1178,7 @@ assets.boxback: BoxBack/Burning Fight (World) (burningf).jpg
 assets.background: Background/Burning Fight (World) (burningf).jpg
 assets.screenshot: Screenshot/Burning Fight (World) (burningf).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Buster Bros. (USA) (bbros)
@@ -1160,6 +1198,7 @@ assets.boxback: BoxBack/Buster Bros. (USA) (bbros).jpg
 assets.background: Background/Buster Bros. (USA) (bbros).jpg
 assets.screenshot: Screenshot/Buster Bros. (USA) (bbros).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Canyon Bomber (World) (canyon)
@@ -1191,6 +1230,7 @@ assets.boxback: BoxBack/Canyon Bomber (World) (canyon).jpg
 assets.background: Background/Canyon Bomber (World) (canyon).jpg
 assets.screenshot: Screenshot/Canyon Bomber (World) (canyon).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Capcom Sports Club (Europe) (csclub)
@@ -1209,6 +1249,7 @@ assets.boxback: BoxBack/Capcom Sports Club (Europe) (csclub).jpg
 assets.background: Background/Capcom Sports Club (Europe) (csclub).jpg
 assets.screenshot: Screenshot/Capcom Sports Club (Europe) (csclub).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Captain Commando (World) (captcomm)
@@ -1228,6 +1269,7 @@ assets.boxback: BoxBack/Captain Commando (World) (captcomm).jpg
 assets.background: Background/Captain Commando (World) (captcomm).jpg
 assets.screenshot: Screenshot/Captain Commando (World) (captcomm).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Carrier Air Wing (World) (cawing)
@@ -1257,6 +1299,7 @@ assets.boxback: BoxBack/Carrier Air Wing (World) (cawing).jpg
 assets.background: Background/Carrier Air Wing (World) (cawing).jpg
 assets.screenshot: Screenshot/Carrier Air Wing (World) (cawing).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Centipede (World) (centiped)
@@ -1357,6 +1400,7 @@ assets.boxback: BoxBack/Centipede (World) (centiped).jpg
 assets.background: Background/Centipede (World) (centiped).jpg
 assets.screenshot: Screenshot/Centipede (World) (centiped).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Championship Sprint (World) (csprint)
@@ -1380,6 +1424,7 @@ assets.boxback: BoxBack/Championship Sprint (World) (csprint).jpg
 assets.background: Background/Championship Sprint (World) (csprint).jpg
 assets.screenshot: Screenshot/Championship Sprint (World) (csprint).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Chopper I (USA) (chopper)
@@ -1400,6 +1445,7 @@ assets.boxback: BoxBack/Chopper I (USA) (chopper).jpg
 assets.background: Background/Chopper I (USA) (chopper).jpg
 assets.screenshot: Screenshot/Chopper I (USA) (chopper).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Circus Charlie (World) (circusc)
@@ -1423,6 +1469,7 @@ assets.boxback: BoxBack/Circus Charlie (World) (circusc).jpg
 assets.background: Background/Circus Charlie (World) (circusc).jpg
 assets.screenshot: Screenshot/Circus Charlie (World) (circusc).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Cloak & Dagger (World) (cloak)
@@ -1442,6 +1489,7 @@ assets.boxback: BoxBack/Cloak & Dagger (World) (cloak).jpg
 assets.background: Background/Cloak & Dagger (World) (cloak).jpg
 assets.screenshot: Screenshot/Cloak & Dagger (World) (cloak).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Commando (World) (commando)
@@ -1472,6 +1520,7 @@ assets.boxback: BoxBack/Commando (World) (commando).jpg
 assets.background: Background/Commando (World) (commando).jpg
 assets.screenshot: Screenshot/Commando (World) (commando).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Congo Bongo (World) (congo)
@@ -1494,6 +1543,7 @@ assets.boxback: BoxBack/Congo Bongo (World) (congo).jpg
 assets.background: Background/Congo Bongo (World) (congo).jpg
 assets.screenshot: Screenshot/Congo Bongo (World) (congo).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Crystal Castles (World) (ccastles)
@@ -1517,6 +1567,7 @@ assets.boxback: BoxBack/Crystal Castles (World) (ccastles).jpg
 assets.background: Background/Crystal Castles (World) (ccastles).jpg
 assets.screenshot: Screenshot/Crystal Castles (World) (ccastles).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Cyberball (World) (cyberbal)
@@ -1544,6 +1595,7 @@ assets.boxback: BoxBack/Cyberball (World) (cyberbal).jpg
 assets.background: Background/Cyberball (World) (cyberbal).jpg
 assets.screenshot: Screenshot/Cyberball (World) (cyberbal).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Cyberbots - Fullmetal Madness (Europe) (cybots)
@@ -1567,6 +1619,7 @@ assets.boxback: BoxBack/Cyberbots - Fullmetal Madness (Europe) (cybots).jpg
 assets.background: Background/Cyberbots - Fullmetal Madness (Europe) (cybots).jpg
 assets.screenshot: Screenshot/Cyberbots - Fullmetal Madness (Europe) (cybots).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Darkstalkers - The Night Warriors (Europe) (dstlk)
@@ -1588,6 +1641,7 @@ assets.boxback: BoxBack/Darkstalkers - The Night Warriors (Europe) (dstlk).jpg
 assets.background: Background/Darkstalkers - The Night Warriors (Europe) (dstlk).jpg
 assets.screenshot: Screenshot/Darkstalkers - The Night Warriors (Europe) (dstlk).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Defender (World) (defender)
@@ -1639,6 +1693,7 @@ assets.boxback: BoxBack/Defender (World) (defender).jpg
 assets.background: Background/Defender (World) (defender).jpg
 assets.screenshot: Screenshot/Defender (World) (defender).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Destroyer (World) (destroyr)
@@ -1661,6 +1716,7 @@ assets.boxback: BoxBack/Destroyer (World) (destroyr).jpg
 assets.background: Background/Destroyer (World) (destroyr).jpg
 assets.screenshot: Screenshot/Destroyer (World) (destroyr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Dig Dug (World) (digdug)
@@ -1685,6 +1741,7 @@ assets.boxback: BoxBack/Dig Dug (World) (digdug).jpg
 assets.background: Background/Dig Dug (World) (digdug).jpg
 assets.screenshot: Screenshot/Dig Dug (World) (digdug).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Dig Dug II (World) (digdug2)
@@ -1713,6 +1770,7 @@ assets.boxback: BoxBack/Dig Dug II (World) (digdug2).jpg
 assets.background: Background/Dig Dug II (World) (digdug2).jpg
 assets.screenshot: Screenshot/Dig Dug II (World) (digdug2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Dominos (World) (dominos)
@@ -1743,6 +1801,7 @@ assets.boxback: BoxBack/Dominos (World) (dominos).jpg
 assets.background: Background/Dominos (World) (dominos).jpg
 assets.screenshot: Screenshot/Dominos (World) (dominos).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Dragon Buster (World) (drgnbstr)
@@ -1761,6 +1820,7 @@ assets.boxback: BoxBack/Dragon Buster (World) (drgnbstr).jpg
 assets.background: Background/Dragon Buster (World) (drgnbstr).jpg
 assets.screenshot: Screenshot/Dragon Buster (World) (drgnbstr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Dynasty Wars (USA) (dynwar)
@@ -1791,6 +1851,7 @@ assets.boxback: BoxBack/Dynasty Wars (USA) (dynwar).jpg
 assets.background: Background/Dynasty Wars (USA) (dynwar).jpg
 assets.screenshot: Screenshot/Dynasty Wars (USA) (dynwar).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Eco Fighters (World) (ecofghtr)
@@ -1815,6 +1876,7 @@ assets.boxback: BoxBack/Eco Fighters (World) (ecofghtr).jpg
 assets.background: Background/Eco Fighters (World) (ecofghtr).jpg
 assets.screenshot: Screenshot/Eco Fighters (World) (ecofghtr).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Exed Exes (World) (exedexes)
@@ -1842,6 +1904,7 @@ assets.boxback: BoxBack/Exed Exes (World) (exedexes).jpg
 assets.background: Background/Exed Exes (World) (exedexes).jpg
 assets.screenshot: Screenshot/Exed Exes (World) (exedexes).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fantasy (USA) (fantasyu)
@@ -1860,6 +1923,7 @@ assets.boxback: BoxBack/Fantasy (USA) (fantasyu).jpg
 assets.background: Background/Fantasy (USA) (fantasyu).jpg
 assets.screenshot: Screenshot/Fantasy (USA) (fantasyu).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fantasy Zone (World) (fantzone)
@@ -1900,6 +1964,7 @@ assets.boxback: BoxBack/Fantasy Zone (World) (fantzone).jpg
 assets.background: Background/Fantasy Zone (World) (fantzone).jpg
 assets.screenshot: Screenshot/Fantasy Zone (World) (fantzone).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fantasy Zone II DX (Japan) (fantzn2x)
@@ -1925,6 +1990,7 @@ assets.boxback: BoxBack/Fantasy Zone II DX (Japan) (fantzn2x).jpg
 assets.background: Background/Fantasy Zone II DX (Japan) (fantzn2x).jpg
 assets.screenshot: Screenshot/Fantasy Zone II DX (Japan) (fantzn2x).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fatal Fury - King of Fighters (World) (fatfury1)
@@ -1946,6 +2012,7 @@ assets.boxback: BoxBack/Fatal Fury - King of Fighters (World) (fatfury1).jpg
 assets.background: Background/Fatal Fury - King of Fighters (World) (fatfury1).jpg
 assets.screenshot: Screenshot/Fatal Fury - King of Fighters (World) (fatfury1).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Final Fight (World) (ffight)
@@ -1965,6 +2032,7 @@ assets.boxback: BoxBack/Final Fight (World) (ffight).jpg
 assets.background: Background/Final Fight (World) (ffight).jpg
 assets.screenshot: Screenshot/Final Fight (World) (ffight).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Fire Truck ~ Smokey Joe (World) (firetrk)
@@ -1999,6 +2067,7 @@ assets.boxback: BoxBack/Fire Truck ~ Smokey Joe (World) (firetrk).jpg
 assets.background: Background/Fire Truck ~ Smokey Joe (World) (firetrk).jpg
 assets.screenshot: Screenshot/Fire Truck ~ Smokey Joe (World) (firetrk).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Food Fight (World) (foodf)
@@ -2019,6 +2088,7 @@ assets.boxback: BoxBack/Food Fight (World) (foodf).jpg
 assets.background: Background/Food Fight (World) (foodf).jpg
 assets.screenshot: Screenshot/Food Fight (World) (foodf).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Forgotten Worlds (World) (forgottn)
@@ -2057,6 +2127,7 @@ assets.boxback: BoxBack/Forgotten Worlds (World) (forgottn).jpg
 assets.background: Background/Forgotten Worlds (World) (forgottn).jpg
 assets.screenshot: Screenshot/Forgotten Worlds (World) (forgottn).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Galaga '88 (World) (galaga88)
@@ -2111,6 +2182,7 @@ assets.boxback: BoxBack/Galaga '88 (World) (galaga88).jpg
 assets.background: Background/Galaga '88 (World) (galaga88).jpg
 assets.screenshot: Screenshot/Galaga '88 (World) (galaga88).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Galaga (World) (galaga)
@@ -2152,6 +2224,7 @@ assets.boxback: BoxBack/Galaga (World) (galaga).jpg
 assets.background: Background/Galaga (World) (galaga).jpg
 assets.screenshot: Screenshot/Galaga (World) (galaga).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Galaxian (World) (galaxian)
@@ -2172,6 +2245,7 @@ assets.boxback: BoxBack/Galaxian (World) (galaxian).jpg
 assets.background: Background/Galaxian (World) (galaxian).jpg
 assets.screenshot: Screenshot/Galaxian (World) (galaxian).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Gauntlet (World) (gauntlet)
@@ -2205,6 +2279,7 @@ assets.boxback: BoxBack/Gauntlet (World) (gauntlet).jpg
 assets.background: Background/Gauntlet (World) (gauntlet).jpg
 assets.screenshot: Screenshot/Gauntlet (World) (gauntlet).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Gauntlet II (World) (gaunt2)
@@ -2235,6 +2310,7 @@ assets.boxback: BoxBack/Gauntlet II (World) (gaunt2).jpg
 assets.background: Background/Gauntlet II (World) (gaunt2).jpg
 assets.screenshot: Screenshot/Gauntlet II (World) (gaunt2).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Ghosts 'n Goblins (World) (gng)
@@ -2260,6 +2336,7 @@ assets.boxback: BoxBack/Ghosts 'n Goblins (World) (gng).jpg
 assets.background: Background/Ghosts 'n Goblins (World) (gng).jpg
 assets.screenshot: Screenshot/Ghosts 'n Goblins (World) (gng).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Ghouls 'n Ghosts (World) (ghouls)
@@ -2288,6 +2365,7 @@ assets.boxback: BoxBack/Ghouls 'n Ghosts (World) (ghouls).jpg
 assets.background: Background/Ghouls 'n Ghosts (World) (ghouls).jpg
 assets.screenshot: Screenshot/Ghouls 'n Ghosts (World) (ghouls).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Giga Wing (USA) (gigawing)
@@ -2314,6 +2392,7 @@ assets.boxback: BoxBack/Giga Wing (USA) (gigawing).jpg
 assets.background: Background/Giga Wing (USA) (gigawing).jpg
 assets.screenshot: Screenshot/Giga Wing (USA) (gigawing).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Gravitar (World) (gravitar)
@@ -2343,6 +2422,7 @@ assets.boxback: BoxBack/Gravitar (World) (gravitar).jpg
 assets.background: Background/Gravitar (World) (gravitar).jpg
 assets.screenshot: Screenshot/Gravitar (World) (gravitar).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Grobda (World) (grobda)
@@ -2366,6 +2446,7 @@ assets.boxback: BoxBack/Grobda (World) (grobda).jpg
 assets.background: Background/Grobda (World) (grobda).jpg
 assets.screenshot: Screenshot/Grobda (World) (grobda).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Guerrilla War (USA) (gwar)
@@ -2389,6 +2470,7 @@ assets.boxback: BoxBack/Guerrilla War (USA) (gwar).jpg
 assets.background: Background/Guerrilla War (USA) (gwar).jpg
 assets.screenshot: Screenshot/Guerrilla War (USA) (gwar).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Gun.Smoke (World) (gunsmoke)
@@ -2419,6 +2501,7 @@ assets.boxback: BoxBack/Gun.Smoke (World) (gunsmoke).jpg
 assets.background: Background/Gun.Smoke (World) (gunsmoke).jpg
 assets.screenshot: Screenshot/Gun.Smoke (World) (gunsmoke).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Gyruss (World) (gyruss)
@@ -2462,6 +2545,7 @@ assets.boxback: BoxBack/Gyruss (World) (gyruss).jpg
 assets.background: Background/Gyruss (World) (gyruss).jpg
 assets.screenshot: Screenshot/Gyruss (World) (gyruss).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Hard Drivin' (World) (harddriv)
@@ -2495,6 +2579,7 @@ assets.boxback: BoxBack/Hard Drivin' (World) (harddriv).jpg
 assets.background: Background/Hard Drivin' (World) (harddriv).jpg
 assets.screenshot: Screenshot/Hard Drivin' (World) (harddriv).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Haunted Castle (World) (hcastle)
@@ -2525,6 +2610,7 @@ assets.boxback: BoxBack/Haunted Castle (World) (hcastle).jpg
 assets.background: Background/Haunted Castle (World) (hcastle).jpg
 assets.screenshot: Screenshot/Haunted Castle (World) (hcastle).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2)
@@ -2549,6 +2635,7 @@ assets.boxback: BoxBack/Hyper Street Fighter II - The Anniversary Edition (USA) 
 assets.background: Background/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).jpg
 assets.screenshot: Screenshot/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: I, Robot (World) (irobot)
@@ -2572,6 +2659,7 @@ assets.boxback: BoxBack/I, Robot (World) (irobot).jpg
 assets.background: Background/I, Robot (World) (irobot).jpg
 assets.screenshot: Screenshot/I, Robot (World) (irobot).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Ikari III - The Rescue (World) (ikari3)
@@ -2590,6 +2678,7 @@ assets.boxback: BoxBack/Ikari III - The Rescue (World) (ikari3).jpg
 assets.background: Background/Ikari III - The Rescue (World) (ikari3).jpg
 assets.screenshot: Screenshot/Ikari III - The Rescue (World) (ikari3).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Ikari Warriors (USA) (ikari)
@@ -2611,6 +2700,7 @@ assets.boxback: BoxBack/Ikari Warriors (USA) (ikari).jpg
 assets.background: Background/Ikari Warriors (USA) (ikari).jpg
 assets.screenshot: Screenshot/Ikari Warriors (USA) (ikari).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Joust (World) (joust)
@@ -2660,6 +2750,7 @@ assets.boxback: BoxBack/Joust (World) (joust).jpg
 assets.background: Background/Joust (World) (joust).jpg
 assets.screenshot: Screenshot/Joust (World) (joust).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Joust 2 - Survival of the Fittest (World) (joust2)
@@ -2687,6 +2778,7 @@ assets.boxback: BoxBack/Joust 2 - Survival of the Fittest (World) (joust2).jpg
 assets.background: Background/Joust 2 - Survival of the Fittest (World) (joust2).jpg
 assets.screenshot: Screenshot/Joust 2 - Survival of the Fittest (World) (joust2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Kicker ~ Shao-lin's Road (kicker)
@@ -2711,6 +2803,7 @@ assets.boxback: BoxBack/Kicker ~ Shao-lin's Road (kicker).jpg
 assets.background: Background/Kicker ~ Shao-lin's Road (kicker).jpg
 assets.screenshot: Screenshot/Kicker ~ Shao-lin's Road (kicker).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: King & Balloon (USA) (kingball)
@@ -2732,6 +2825,7 @@ assets.boxback: BoxBack/King & Balloon (USA) (kingball).jpg
 assets.background: Background/King & Balloon (USA) (kingball).jpg
 assets.screenshot: Screenshot/King & Balloon (USA) (kingball).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: King of Dragons, The (World) (kod)
@@ -2759,6 +2853,7 @@ assets.boxback: BoxBack/King of Dragons, The (World) (kod).jpg
 assets.background: Background/King of Dragons, The (World) (kod).jpg
 assets.screenshot: Screenshot/King of Dragons, The (World) (kod).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: King of Fighters '94, The (World) (kof94)
@@ -2795,6 +2890,7 @@ assets.boxback: BoxBack/King of Fighters '94, The (World) (kof94).jpg
 assets.background: Background/King of Fighters '94, The (World) (kof94).jpg
 assets.screenshot: Screenshot/King of Fighters '94, The (World) (kof94).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: King of the Monsters (World) (kotm)
@@ -2821,6 +2917,7 @@ assets.boxback: BoxBack/King of the Monsters (World) (kotm).jpg
 assets.background: Background/King of the Monsters (World) (kotm).jpg
 assets.screenshot: Screenshot/King of the Monsters (World) (kotm).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Klax (World) (klax)
@@ -2841,6 +2938,7 @@ assets.boxback: BoxBack/Klax (World) (klax).jpg
 assets.background: Background/Klax (World) (klax).jpg
 assets.screenshot: Screenshot/Klax (World) (klax).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Knights of the Round (World) (knights)
@@ -2866,6 +2964,7 @@ assets.boxback: BoxBack/Knights of the Round (World) (knights).jpg
 assets.background: Background/Knights of the Round (World) (knights).jpg
 assets.screenshot: Screenshot/Knights of the Round (World) (knights).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Kozmik Kroozr (World) (kroozr)
@@ -2885,6 +2984,7 @@ assets.boxback: BoxBack/Kozmik Kroozr (World) (kroozr).jpg
 assets.background: Background/Kozmik Kroozr (World) (kroozr).jpg
 assets.screenshot: Screenshot/Kozmik Kroozr (World) (kroozr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Last Duel (USA) (lastduel)
@@ -2916,6 +3016,7 @@ assets.boxback: BoxBack/Last Duel (USA) (lastduel).jpg
 assets.background: Background/Last Duel (USA) (lastduel).jpg
 assets.screenshot: Screenshot/Last Duel (USA) (lastduel).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Last Resort (World) (lresort)
@@ -2936,6 +3037,7 @@ assets.boxback: BoxBack/Last Resort (World) (lresort).jpg
 assets.background: Background/Last Resort (World) (lresort).jpg
 assets.screenshot: Screenshot/Last Resort (World) (lresort).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Led Storm Rally 2011 (World) (leds2011)
@@ -2955,6 +3057,7 @@ assets.boxback: BoxBack/Led Storm Rally 2011 (World) (leds2011).jpg
 assets.background: Background/Led Storm Rally 2011 (World) (leds2011).jpg
 assets.screenshot: Screenshot/Led Storm Rally 2011 (World) (leds2011).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Legendary Wings (USA) (lwings)
@@ -2988,6 +3091,7 @@ assets.boxback: BoxBack/Legendary Wings (USA) (lwings).jpg
 assets.background: Background/Legendary Wings (USA) (lwings).jpg
 assets.screenshot: Screenshot/Legendary Wings (USA) (lwings).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Liberator (World) (liberatr)
@@ -3011,6 +3115,7 @@ assets.boxback: BoxBack/Liberator (World) (liberatr).jpg
 assets.background: Background/Liberator (World) (liberatr).jpg
 assets.screenshot: Screenshot/Liberator (World) (liberatr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Lunar Lander (World) (llander)
@@ -3036,6 +3141,7 @@ assets.boxback: BoxBack/Lunar Lander (World) (llander).jpg
 assets.background: Background/Lunar Lander (World) (llander).jpg
 assets.screenshot: Screenshot/Lunar Lander (World) (llander).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Magic Sword - Heroic Fantasy (World) (msword)
@@ -3056,6 +3162,7 @@ assets.boxback: BoxBack/Magic Sword - Heroic Fantasy (World) (msword).jpg
 assets.background: Background/Magic Sword - Heroic Fantasy (World) (msword).jpg
 assets.screenshot: Screenshot/Magic Sword - Heroic Fantasy (World) (msword).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Magician Lord (World) (maglord)
@@ -3080,6 +3187,7 @@ assets.boxback: BoxBack/Magician Lord (World) (maglord).jpg
 assets.background: Background/Magician Lord (World) (maglord).jpg
 assets.screenshot: Screenshot/Magician Lord (World) (maglord).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Major Havoc (World) (mhavoc)
@@ -3106,6 +3214,7 @@ assets.boxback: BoxBack/Major Havoc (World) (mhavoc).jpg
 assets.background: Background/Major Havoc (World) (mhavoc).jpg
 assets.screenshot: Screenshot/Major Havoc (World) (mhavoc).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Mappy (USA) (mappy)
@@ -3125,6 +3234,7 @@ assets.boxback: BoxBack/Mappy (USA) (mappy).jpg
 assets.background: Background/Mappy (USA) (mappy).jpg
 assets.screenshot: Screenshot/Mappy (USA) (mappy).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Marble Madness (World) (marble)
@@ -3147,6 +3257,7 @@ assets.boxback: BoxBack/Marble Madness (World) (marble).jpg
 assets.background: Background/Marble Madness (World) (marble).jpg
 assets.screenshot: Screenshot/Marble Madness (World) (marble).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Maze Invaders (World) (Proto) (mazeinv)
@@ -3167,6 +3278,7 @@ assets.boxback: BoxBack/Maze Invaders (World) (Proto) (mazeinv).jpg
 assets.background: Background/Maze Invaders (World) (Proto) (mazeinv).jpg
 assets.screenshot: Screenshot/Maze Invaders (World) (Proto) (mazeinv).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Mega Man - The Power Battle (USA) (megaman)
@@ -3185,6 +3297,7 @@ assets.boxback: BoxBack/Mega Man - The Power Battle (USA) (megaman).jpg
 assets.background: Background/Mega Man - The Power Battle (USA) (megaman).jpg
 assets.screenshot: Screenshot/Mega Man - The Power Battle (USA) (megaman).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Mega Man 2 - The Power Fighters (USA) (megaman2)
@@ -3206,6 +3319,7 @@ assets.boxback: BoxBack/Mega Man 2 - The Power Fighters (USA) (megaman2).jpg
 assets.background: Background/Mega Man 2 - The Power Fighters (USA) (megaman2).jpg
 assets.screenshot: Screenshot/Mega Man 2 - The Power Fighters (USA) (megaman2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Mega Twins (World) (mtwins)
@@ -3229,6 +3343,7 @@ assets.boxback: BoxBack/Mega Twins (World) (mtwins).jpg
 assets.background: Background/Mega Twins (World) (mtwins).jpg
 assets.screenshot: Screenshot/Mega Twins (World) (mtwins).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Mercs (World) (mercs)
@@ -3252,6 +3367,7 @@ assets.boxback: BoxBack/Mercs (World) (mercs).jpg
 assets.background: Background/Mercs (World) (mercs).jpg
 assets.screenshot: Screenshot/Mercs (World) (mercs).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Metal Slug - Super Vehicle-001 (World) (mslug)
@@ -3276,6 +3392,7 @@ assets.boxback: BoxBack/Metal Slug - Super Vehicle-001 (World) (mslug).jpg
 assets.background: Background/Metal Slug - Super Vehicle-001 (World) (mslug).jpg
 assets.screenshot: Screenshot/Metal Slug - Super Vehicle-001 (World) (mslug).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Metal Slug 2 - Super Vehicle-001 II (World) (mslug2)
@@ -3300,6 +3417,7 @@ assets.boxback: BoxBack/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).jpg
 assets.background: Background/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).jpg
 assets.screenshot: Screenshot/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Metal Slug 3 (World) (mslug3)
@@ -3328,6 +3446,7 @@ assets.boxback: BoxBack/Metal Slug 3 (World) (mslug3).jpg
 assets.background: Background/Metal Slug 3 (World) (mslug3).jpg
 assets.screenshot: Screenshot/Metal Slug 3 (World) (mslug3).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Metal Slug 4 (World) (mslug4)
@@ -3352,6 +3471,7 @@ assets.boxback: BoxBack/Metal Slug 4 (World) (mslug4).jpg
 assets.background: Background/Metal Slug 4 (World) (mslug4).jpg
 assets.screenshot: Screenshot/Metal Slug 4 (World) (mslug4).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Metal Slug 5 (World) (mslug5)
@@ -3373,6 +3493,7 @@ assets.boxback: BoxBack/Metal Slug 5 (World) (mslug5).jpg
 assets.background: Background/Metal Slug 5 (World) (mslug5).jpg
 assets.screenshot: Screenshot/Metal Slug 5 (World) (mslug5).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Metal Slug 6 (World) (mslug6)
@@ -3404,6 +3525,7 @@ assets.boxback: BoxBack/Metal Slug 6 (World) (mslug6).jpg
 assets.background: Background/Metal Slug 6 (World) (mslug6).jpg
 assets.screenshot: Screenshot/Metal Slug 6 (World) (mslug6).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Metal Slug X (World) (mslugx)
@@ -3432,6 +3554,7 @@ assets.boxback: BoxBack/Metal Slug X (World) (mslugx).jpg
 assets.background: Background/Metal Slug X (World) (mslugx).jpg
 assets.screenshot: Screenshot/Metal Slug X (World) (mslugx).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Millipede (World) (milliped)
@@ -3480,6 +3603,7 @@ assets.boxback: BoxBack/Millipede (World) (milliped).jpg
 assets.background: Background/Millipede (World) (milliped).jpg
 assets.screenshot: Screenshot/Millipede (World) (milliped).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Missile Command (World) (missile)
@@ -3507,6 +3631,7 @@ assets.boxback: BoxBack/Missile Command (World) (missile).jpg
 assets.background: Background/Missile Command (World) (missile).jpg
 assets.screenshot: Screenshot/Missile Command (World) (missile).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Monte Carlo (World) (montecar)
@@ -3527,6 +3652,7 @@ assets.boxback: BoxBack/Monte Carlo (World) (montecar).jpg
 assets.background: Background/Monte Carlo (World) (montecar).jpg
 assets.screenshot: Screenshot/Monte Carlo (World) (montecar).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Mortal Kombat (World) (mk)
@@ -3554,6 +3680,7 @@ assets.boxback: BoxBack/Mortal Kombat (World) (mk).jpg
 assets.background: Background/Mortal Kombat (World) (mk).jpg
 assets.screenshot: Screenshot/Mortal Kombat (World) (mk).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Mortal Kombat 3 (World) (mk3)
@@ -3579,6 +3706,7 @@ assets.boxback: BoxBack/Mortal Kombat 3 (World) (mk3).jpg
 assets.background: Background/Mortal Kombat 3 (World) (mk3).jpg
 assets.screenshot: Screenshot/Mortal Kombat 3 (World) (mk3).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Mortal Kombat II (World) (mk2)
@@ -3602,6 +3730,7 @@ assets.boxback: BoxBack/Mortal Kombat II (World) (mk2).jpg
 assets.background: Background/Mortal Kombat II (World) (mk2).jpg
 assets.screenshot: Screenshot/Mortal Kombat II (World) (mk2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Motos (World) (motos)
@@ -3638,6 +3767,7 @@ assets.boxback: BoxBack/Motos (World) (motos).jpg
 assets.background: Background/Motos (World) (motos).jpg
 assets.screenshot: Screenshot/Motos (World) (motos).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Ms. Pac-Man (World) (mspacman)
@@ -3660,6 +3790,7 @@ assets.boxback: BoxBack/Ms. Pac-Man (World) (mspacman).jpg
 assets.background: Background/Ms. Pac-Man (World) (mspacman).jpg
 assets.screenshot: Screenshot/Ms. Pac-Man (World) (mspacman).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Munch Mobile (USA) (mnchmobl)
@@ -3684,6 +3815,7 @@ assets.boxback: BoxBack/Munch Mobile (USA) (mnchmobl).jpg
 assets.background: Background/Munch Mobile (USA) (mnchmobl).jpg
 assets.screenshot: Screenshot/Munch Mobile (USA) (mnchmobl).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Narc (World) (narc)
@@ -3710,6 +3842,7 @@ assets.boxback: BoxBack/Narc (World) (narc).jpg
 assets.background: Background/Narc (World) (narc).jpg
 assets.screenshot: Screenshot/Narc (World) (narc).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Nemesis (World) (nemesis)
@@ -3740,6 +3873,7 @@ assets.boxback: BoxBack/Nemesis (World) (nemesis).jpg
 assets.background: Background/Nemesis (World) (nemesis).jpg
 assets.screenshot: Screenshot/Nemesis (World) (nemesis).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Neo Turf Masters ~ Big Tournament Golf (World) (turfmast)
@@ -3762,6 +3896,7 @@ assets.boxback: BoxBack/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast
 assets.background: Background/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).jpg
 assets.screenshot: Screenshot/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: New Rally-X (World) (nrallyx)
@@ -3788,6 +3923,7 @@ assets.boxback: BoxBack/New Rally-X (World) (nrallyx).jpg
 assets.background: Background/New Rally-X (World) (nrallyx).jpg
 assets.screenshot: Screenshot/New Rally-X (World) (nrallyx).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Night Warriors - Darkstalkers' Revenge (Europe) (nwarr)
@@ -3811,6 +3947,7 @@ assets.boxback: BoxBack/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).
 assets.background: Background/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).jpg
 assets.screenshot: Screenshot/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Ozma Wars (World) (ozmawars)
@@ -3850,6 +3987,7 @@ assets.boxback: BoxBack/Ozma Wars (World) (ozmawars).jpg
 assets.background: Background/Ozma Wars (World) (ozmawars).jpg
 assets.screenshot: Screenshot/Ozma Wars (World) (ozmawars).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: P.O.W. - Prisoners of War (USA) (pow)
@@ -3869,6 +4007,7 @@ assets.boxback: BoxBack/P.O.W. - Prisoners of War (USA) (pow).jpg
 assets.background: Background/P.O.W. - Prisoners of War (USA) (pow).jpg
 assets.screenshot: Screenshot/P.O.W. - Prisoners of War (USA) (pow).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Pac-Man (World) (Midway) (pacman)
@@ -3905,6 +4044,7 @@ assets.boxback: BoxBack/Pac-Man (World) (Midway) (pacman).jpg
 assets.background: Background/Pac-Man (World) (Midway) (pacman).jpg
 assets.screenshot: Screenshot/Pac-Man (World) (Midway) (pacman).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Paddle Mania (World) (paddlema)
@@ -3923,6 +4063,7 @@ assets.boxback: BoxBack/Paddle Mania (World) (paddlema).jpg
 assets.background: Background/Paddle Mania (World) (paddlema).jpg
 assets.screenshot: Screenshot/Paddle Mania (World) (paddlema).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Pang! 3 (Europe) (pang3)
@@ -3943,6 +4084,7 @@ assets.boxback: BoxBack/Pang! 3 (Europe) (pang3).jpg
 assets.background: Background/Pang! 3 (Europe) (pang3).jpg
 assets.screenshot: Screenshot/Pang! 3 (Europe) (pang3).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Paperboy (World) (paperboy)
@@ -3968,6 +4110,7 @@ assets.boxback: BoxBack/Paperboy (World) (paperboy).jpg
 assets.background: Background/Paperboy (World) (paperboy).jpg
 assets.screenshot: Screenshot/Paperboy (World) (paperboy).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Pirate Ship Higemaru (World) (higemaru)
@@ -4005,6 +4148,7 @@ assets.boxback: BoxBack/Pirate Ship Higemaru (World) (higemaru).jpg
 assets.background: Background/Pirate Ship Higemaru (World) (higemaru).jpg
 assets.screenshot: Screenshot/Pirate Ship Higemaru (World) (higemaru).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Pit-Fighter (World) (pitfight)
@@ -4059,6 +4203,7 @@ assets.boxback: BoxBack/Pit-Fighter (World) (pitfight).jpg
 assets.background: Background/Pit-Fighter (World) (pitfight).jpg
 assets.screenshot: Screenshot/Pit-Fighter (World) (pitfight).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Pnickies (Japan) (pnickj)
@@ -4086,6 +4231,7 @@ assets.boxback: BoxBack/Pnickies (Japan) (pnickj).jpg
 assets.background: Background/Pnickies (Japan) (pnickj).jpg
 assets.screenshot: Screenshot/Pnickies (Japan) (pnickj).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Pong (World) (pong)
@@ -4126,6 +4272,7 @@ assets.boxback: BoxBack/Pong (World) (pong).jpg
 assets.background: Background/Pong (World) (pong).jpg
 assets.screenshot: Screenshot/Pong (World) (pong).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Poolshark (World) (poolshrk)
@@ -4149,6 +4296,7 @@ assets.boxback: BoxBack/Poolshark (World) (poolshrk).jpg
 assets.background: Background/Poolshark (World) (poolshrk).jpg
 assets.screenshot: Screenshot/Poolshark (World) (poolshrk).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Pooyan (World) (pooyan)
@@ -4168,6 +4316,7 @@ assets.boxback: BoxBack/Pooyan (World) (pooyan).jpg
 assets.background: Background/Pooyan (World) (pooyan).jpg
 assets.screenshot: Screenshot/Pooyan (World) (pooyan).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Prehistoric Isle in 1930 (World) (prehisle)
@@ -4197,6 +4346,7 @@ assets.boxback: BoxBack/Prehistoric Isle in 1930 (World) (prehisle).jpg
 assets.background: Background/Prehistoric Isle in 1930 (World) (prehisle).jpg
 assets.screenshot: Screenshot/Prehistoric Isle in 1930 (World) (prehisle).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Primal Rage (World) (primrage)
@@ -4230,6 +4380,7 @@ assets.boxback: BoxBack/Primal Rage (World) (primrage).jpg
 assets.background: Background/Primal Rage (World) (primrage).jpg
 assets.screenshot: Screenshot/Primal Rage (World) (primrage).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Progear (USA) (progear)
@@ -4267,6 +4418,7 @@ assets.boxback: BoxBack/Progear (USA) (progear).jpg
 assets.background: Background/Progear (USA) (progear).jpg
 assets.screenshot: Screenshot/Progear (USA) (progear).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Psycho Soldier (USA) (psychos)
@@ -4296,6 +4448,7 @@ assets.boxback: BoxBack/Psycho Soldier (USA) (psychos).jpg
 assets.background: Background/Psycho Soldier (USA) (psychos).jpg
 assets.screenshot: Screenshot/Psycho Soldier (USA) (psychos).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Quantum (World) (quantum)
@@ -4313,6 +4466,7 @@ assets.boxback: BoxBack/Quantum (World) (quantum).jpg
 assets.background: Background/Quantum (World) (quantum).jpg
 assets.screenshot: Screenshot/Quantum (World) (quantum).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Quiz & Dragons - Capcom Quiz Game (USA) (qad)
@@ -4346,6 +4500,7 @@ assets.boxback: BoxBack/Quiz & Dragons - Capcom Quiz Game (USA) (qad).jpg
 assets.background: Background/Quiz & Dragons - Capcom Quiz Game (USA) (qad).jpg
 assets.screenshot: Screenshot/Quiz & Dragons - Capcom Quiz Game (USA) (qad).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Rally-X (World) (rallyx)
@@ -4374,6 +4529,7 @@ assets.boxback: BoxBack/Rally-X (World) (rallyx).jpg
 assets.background: Background/Rally-X (World) (rallyx).jpg
 assets.screenshot: Screenshot/Rally-X (World) (rallyx).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Rampage (World) (rampage)
@@ -4394,6 +4550,7 @@ assets.boxback: BoxBack/Rampage (World) (rampage).jpg
 assets.background: Background/Rampage (World) (rampage).jpg
 assets.screenshot: Screenshot/Rampage (World) (rampage).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Rampage - World Tour (World) (rmpgwt)
@@ -4433,6 +4590,7 @@ assets.boxback: BoxBack/Rampage - World Tour (World) (rmpgwt).jpg
 assets.background: Background/Rampage - World Tour (World) (rmpgwt).jpg
 assets.screenshot: Screenshot/Rampage - World Tour (World) (rmpgwt).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Rampart (World) (rampart)
@@ -4473,6 +4631,7 @@ assets.boxback: BoxBack/Rampart (World) (rampart).jpg
 assets.background: Background/Rampart (World) (rampart).jpg
 assets.screenshot: Screenshot/Rampart (World) (rampart).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Red Baron (World) (redbaron)
@@ -4507,6 +4666,7 @@ assets.boxback: BoxBack/Red Baron (World) (redbaron).jpg
 assets.background: Background/Red Baron (World) (redbaron).jpg
 assets.screenshot: Screenshot/Red Baron (World) (redbaron).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Road Blasters (World) (roadblst)
@@ -4537,6 +4697,7 @@ assets.boxback: BoxBack/Road Blasters (World) (roadblst).jpg
 assets.background: Background/Road Blasters (World) (roadblst).jpg
 assets.screenshot: Screenshot/Road Blasters (World) (roadblst).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Road Fighter (World) (roadf)
@@ -4557,6 +4718,7 @@ assets.boxback: BoxBack/Road Fighter (World) (roadf).jpg
 assets.background: Background/Road Fighter (World) (roadf).jpg
 assets.screenshot: Screenshot/Road Fighter (World) (roadf).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Robotron - 2084 (World) (robotron)
@@ -4579,6 +4741,7 @@ assets.boxback: BoxBack/Robotron - 2084 (World) (robotron).jpg
 assets.background: Background/Robotron - 2084 (World) (robotron).jpg
 assets.screenshot: Screenshot/Robotron - 2084 (World) (robotron).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Roc'n Rope (World) (rocnrope)
@@ -4600,6 +4763,7 @@ assets.boxback: BoxBack/Roc'n Rope (World) (rocnrope).jpg
 assets.background: Background/Roc'n Rope (World) (rocnrope).jpg
 assets.screenshot: Screenshot/Roc'n Rope (World) (rocnrope).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Rolling Thunder (World) (rthunder)
@@ -4623,6 +4787,7 @@ assets.boxback: BoxBack/Rolling Thunder (World) (rthunder).jpg
 assets.background: Background/Rolling Thunder (World) (rthunder).jpg
 assets.screenshot: Screenshot/Rolling Thunder (World) (rthunder).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Rolling Thunder 2 (World) (rthun2)
@@ -4646,6 +4811,7 @@ assets.boxback: BoxBack/Rolling Thunder 2 (World) (rthun2).jpg
 assets.background: Background/Rolling Thunder 2 (World) (rthun2).jpg
 assets.screenshot: Screenshot/Rolling Thunder 2 (World) (rthun2).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Root Beer Tapper (World) (rbtapper)
@@ -4667,6 +4833,7 @@ assets.boxback: BoxBack/Root Beer Tapper (World) (rbtapper).jpg
 assets.background: Background/Root Beer Tapper (World) (rbtapper).jpg
 assets.screenshot: Screenshot/Root Beer Tapper (World) (rbtapper).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: SAR - Search And Rescue (World) (searchar)
@@ -4686,6 +4853,7 @@ assets.boxback: BoxBack/SAR - Search And Rescue (World) (searchar).jpg
 assets.background: Background/SAR - Search And Rescue (World) (searchar).jpg
 assets.screenshot: Screenshot/SAR - Search And Rescue (World) (searchar).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Salamander (World) (salamand)
@@ -4710,6 +4878,7 @@ assets.boxback: BoxBack/Salamander (World) (salamand).jpg
 assets.background: Background/Salamander (World) (salamand).jpg
 assets.screenshot: Screenshot/Salamander (World) (salamand).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Samurai Shodown ~ Samurai Spirits (World) (samsho)
@@ -4730,6 +4899,7 @@ assets.boxback: BoxBack/Samurai Shodown ~ Samurai Spirits (World) (samsho).jpg
 assets.background: Background/Samurai Shodown ~ Samurai Spirits (World) (samsho).jpg
 assets.screenshot: Screenshot/Samurai Shodown ~ Samurai Spirits (World) (samsho).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Sasuke vs. Commander (World) (sasuke)
@@ -4756,6 +4926,7 @@ assets.boxback: BoxBack/Sasuke vs. Commander (World) (sasuke).jpg
 assets.background: Background/Sasuke vs. Commander (World) (sasuke).jpg
 assets.screenshot: Screenshot/Sasuke vs. Commander (World) (sasuke).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Satan's Hollow (World) (shollow)
@@ -4799,6 +4970,7 @@ assets.boxback: BoxBack/Satan's Hollow (World) (shollow).jpg
 assets.background: Background/Satan's Hollow (World) (shollow).jpg
 assets.screenshot: Screenshot/Satan's Hollow (World) (shollow).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Saturday Night Slam Masters (World) (slammast)
@@ -4830,6 +5002,7 @@ assets.boxback: BoxBack/Saturday Night Slam Masters (World) (slammast).jpg
 assets.background: Background/Saturday Night Slam Masters (World) (slammast).jpg
 assets.screenshot: Screenshot/Saturday Night Slam Masters (World) (slammast).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Scramble (World) (scramble)
@@ -4848,6 +5021,7 @@ assets.boxback: BoxBack/Scramble (World) (scramble).jpg
 assets.background: Background/Scramble (World) (scramble).jpg
 assets.screenshot: Screenshot/Scramble (World) (scramble).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Section Z (World) (sectionz)
@@ -4884,6 +5058,7 @@ assets.boxback: BoxBack/Section Z (World) (sectionz).jpg
 assets.background: Background/Section Z (World) (sectionz).jpg
 assets.screenshot: Screenshot/Section Z (World) (sectionz).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Sengoku ~ Sengoku Denshou (World) (sengoku)
@@ -4907,6 +5082,7 @@ assets.boxback: BoxBack/Sengoku ~ Sengoku Denshou (World) (sengoku).jpg
 assets.background: Background/Sengoku ~ Sengoku Denshou (World) (sengoku).jpg
 assets.screenshot: Screenshot/Sengoku ~ Sengoku Denshou (World) (sengoku).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Shinobi (Japan) (shinobi)
@@ -4931,6 +5107,7 @@ assets.boxback: BoxBack/Shinobi (Japan) (shinobi).jpg
 assets.background: Background/Shinobi (Japan) (shinobi).jpg
 assets.screenshot: Screenshot/Shinobi (Japan) (shinobi).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Shock Troopers (World) (shocktro)
@@ -4957,6 +5134,7 @@ assets.boxback: BoxBack/Shock Troopers (World) (shocktro).jpg
 assets.background: Background/Shock Troopers (World) (shocktro).jpg
 assets.screenshot: Screenshot/Shock Troopers (World) (shocktro).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Side Arms - Hyper Dyne (World) (sidearms)
@@ -4986,6 +5164,7 @@ assets.boxback: BoxBack/Side Arms - Hyper Dyne (World) (sidearms).jpg
 assets.background: Background/Side Arms - Hyper Dyne (World) (sidearms).jpg
 assets.screenshot: Screenshot/Side Arms - Hyper Dyne (World) (sidearms).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Sinistar (World) (sinistar)
@@ -5017,6 +5196,7 @@ assets.boxback: BoxBack/Sinistar (World) (sinistar).jpg
 assets.background: Background/Sinistar (World) (sinistar).jpg
 assets.screenshot: Screenshot/Sinistar (World) (sinistar).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Sky Diver (World) (skydiver)
@@ -5045,6 +5225,7 @@ assets.boxback: BoxBack/Sky Diver (World) (skydiver).jpg
 assets.background: Background/Sky Diver (World) (skydiver).jpg
 assets.screenshot: Screenshot/Sky Diver (World) (skydiver).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Sky Kid (World) (skykid)
@@ -5073,6 +5254,7 @@ assets.boxback: BoxBack/Sky Kid (World) (skykid).jpg
 assets.background: Background/Sky Kid (World) (skykid).jpg
 assets.screenshot: Screenshot/Sky Kid (World) (skykid).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Smash T.V. (World) (smashtv)
@@ -5103,6 +5285,7 @@ assets.boxback: BoxBack/Smash T.V. (World) (smashtv).jpg
 assets.background: Background/Smash T.V. (World) (smashtv).jpg
 assets.screenshot: Screenshot/Smash T.V. (World) (smashtv).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Son Son (World) (sonson)
@@ -5145,6 +5328,7 @@ assets.boxback: BoxBack/Son Son (World) (sonson).jpg
 assets.background: Background/Son Son (World) (sonson).jpg
 assets.screenshot: Screenshot/Son Son (World) (sonson).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Sonic Championship (USA) (schamp)
@@ -5167,6 +5351,7 @@ assets.boxback: BoxBack/Sonic Championship (USA) (schamp).jpg
 assets.background: Background/Sonic Championship (USA) (schamp).jpg
 assets.screenshot: Screenshot/Sonic Championship (USA) (schamp).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Space Duel (World) (spacduel)
@@ -5193,6 +5378,7 @@ assets.boxback: BoxBack/Space Duel (World) (spacduel).jpg
 assets.background: Background/Space Duel (World) (spacduel).jpg
 assets.screenshot: Screenshot/Space Duel (World) (spacduel).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Space Harrier (World) (sharrier)
@@ -5214,6 +5400,7 @@ assets.boxback: BoxBack/Space Harrier (World) (sharrier).jpg
 assets.background: Background/Space Harrier (World) (sharrier).jpg
 assets.screenshot: Screenshot/Space Harrier (World) (sharrier).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Speed Rumbler, The (World) (srumbler)
@@ -5250,6 +5437,7 @@ assets.boxback: BoxBack/Speed Rumbler, The (World) (srumbler).jpg
 assets.background: Background/Speed Rumbler, The (World) (srumbler).jpg
 assets.screenshot: Screenshot/Speed Rumbler, The (World) (srumbler).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Splat! (World) (splat)
@@ -5294,6 +5482,7 @@ assets.boxback: BoxBack/Splat! (World) (splat).jpg
 assets.background: Background/Splat! (World) (splat).jpg
 assets.screenshot: Screenshot/Splat! (World) (splat).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Splatter House (World) (splatter)
@@ -5315,6 +5504,7 @@ assets.boxback: BoxBack/Splatter House (World) (splatter).jpg
 assets.background: Background/Splatter House (World) (splatter).jpg
 assets.screenshot: Screenshot/Splatter House (World) (splatter).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Sprint 1 (World) (sprint1)
@@ -5340,6 +5530,7 @@ assets.boxback: BoxBack/Sprint 1 (World) (sprint1).jpg
 assets.background: Background/Sprint 1 (World) (sprint1).jpg
 assets.screenshot: Screenshot/Sprint 1 (World) (sprint1).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Sprint 8 (World) (sprint8)
@@ -5373,6 +5564,7 @@ assets.boxback: BoxBack/Sprint 8 (World) (sprint8).jpg
 assets.background: Background/Sprint 8 (World) (sprint8).jpg
 assets.screenshot: Screenshot/Sprint 8 (World) (sprint8).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Spy Hunter (World) (spyhunt)
@@ -5393,6 +5585,7 @@ assets.boxback: BoxBack/Spy Hunter (World) (spyhunt).jpg
 assets.background: Background/Spy Hunter (World) (spyhunt).jpg
 assets.screenshot: Screenshot/Spy Hunter (World) (spyhunt).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Spy Hunter II (World) (spyhunt2)
@@ -5430,6 +5623,7 @@ assets.boxback: BoxBack/Spy Hunter II (World) (spyhunt2).jpg
 assets.background: Background/Spy Hunter II (World) (spyhunt2).jpg
 assets.screenshot: Screenshot/Spy Hunter II (World) (spyhunt2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Stargate (World) (stargate)
@@ -5449,6 +5643,7 @@ assets.boxback: BoxBack/Stargate (World) (stargate).jpg
 assets.background: Background/Stargate (World) (stargate).jpg
 assets.screenshot: Screenshot/Stargate (World) (stargate).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter (USA) (sf)
@@ -5478,6 +5673,7 @@ assets.boxback: BoxBack/Street Fighter (USA) (sf).jpg
 assets.background: Background/Street Fighter (USA) (sf).jpg
 assets.screenshot: Screenshot/Street Fighter (USA) (sf).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter Alpha - Warriors' Dreams (Europe) (sfa)
@@ -5506,6 +5702,7 @@ assets.boxback: BoxBack/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).j
 assets.background: Background/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).jpg
 assets.screenshot: Screenshot/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter Alpha 2 (Europe) (sfa2)
@@ -5531,6 +5728,7 @@ assets.boxback: BoxBack/Street Fighter Alpha 2 (Europe) (sfa2).jpg
 assets.background: Background/Street Fighter Alpha 2 (Europe) (sfa2).jpg
 assets.screenshot: Screenshot/Street Fighter Alpha 2 (Europe) (sfa2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter Alpha 3 (Europe) (sfa3)
@@ -5556,6 +5754,7 @@ assets.boxback: BoxBack/Street Fighter Alpha 3 (Europe) (sfa3).jpg
 assets.background: Background/Street Fighter Alpha 3 (Europe) (sfa3).jpg
 assets.screenshot: Screenshot/Street Fighter Alpha 3 (Europe) (sfa3).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter II - The World Warrior (World) (sf2)
@@ -5588,6 +5787,7 @@ assets.boxback: BoxBack/Street Fighter II - The World Warrior (World) (sf2).jpg
 assets.background: Background/Street Fighter II - The World Warrior (World) (sf2).jpg
 assets.screenshot: Screenshot/Street Fighter II - The World Warrior (World) (sf2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter II' - Champion Edition (World) (sf2ce)
@@ -5620,6 +5820,7 @@ assets.boxback: BoxBack/Street Fighter II' - Champion Edition (World) (sf2ce).jp
 assets.background: Background/Street Fighter II' - Champion Edition (World) (sf2ce).jpg
 assets.screenshot: Screenshot/Street Fighter II' - Champion Edition (World) (sf2ce).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Street Fighter II' - Hyper Fighting (World) (sf2hf)
@@ -5641,6 +5842,7 @@ assets.boxback: BoxBack/Street Fighter II' - Hyper Fighting (World) (sf2hf).jpg
 assets.background: Background/Street Fighter II' - Hyper Fighting (World) (sf2hf).jpg
 assets.screenshot: Screenshot/Street Fighter II' - Hyper Fighting (World) (sf2hf).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2)
@@ -5677,6 +5879,7 @@ assets.boxback: BoxBack/Street Fighter III - 2nd Impact - Giant Attack (USA) (sf
 assets.background: Background/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).jpg
 assets.screenshot: Screenshot/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3)
@@ -5770,6 +5973,7 @@ assets.boxback: BoxBack/Street Fighter III - 3rd Strike - Fight for the Future (
 assets.background: Background/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).jpg
 assets.screenshot: Screenshot/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Fighter III - New Generation (Europe) (sfiii)
@@ -5803,6 +6007,7 @@ assets.boxback: BoxBack/Street Fighter III - New Generation (Europe) (sfiii).jpg
 assets.background: Background/Street Fighter III - New Generation (Europe) (sfiii).jpg
 assets.screenshot: Screenshot/Street Fighter III - New Generation (Europe) (sfiii).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Street Smart (USA) (streetsm)
@@ -5831,6 +6036,7 @@ assets.boxback: BoxBack/Street Smart (USA) (streetsm).jpg
 assets.background: Background/Street Smart (USA) (streetsm).jpg
 assets.screenshot: Screenshot/Street Smart (USA) (streetsm).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Strider (USA) (strider)
@@ -5854,6 +6060,7 @@ assets.boxback: BoxBack/Strider (USA) (strider).jpg
 assets.background: Background/Strider (USA) (strider).jpg
 assets.screenshot: Screenshot/Strider (USA) (strider).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Breakout (World) (sbrkout)
@@ -5885,6 +6092,7 @@ assets.boxback: BoxBack/Super Breakout (World) (sbrkout).jpg
 assets.background: Background/Super Breakout (World) (sbrkout).jpg
 assets.screenshot: Screenshot/Super Breakout (World) (sbrkout).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Bug (World) (superbug)
@@ -5909,6 +6117,7 @@ assets.boxback: BoxBack/Super Bug (World) (superbug).jpg
 assets.background: Background/Super Bug (World) (superbug).jpg
 assets.screenshot: Screenshot/Super Bug (World) (superbug).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Buster Bros. (USA) (sbbros)
@@ -5933,6 +6142,7 @@ assets.boxback: BoxBack/Super Buster Bros. (USA) (sbbros).jpg
 assets.background: Background/Super Buster Bros. (USA) (sbbros).jpg
 assets.screenshot: Screenshot/Super Buster Bros. (USA) (sbbros).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Cobra (World) (scobra)
@@ -5956,6 +6166,7 @@ assets.boxback: BoxBack/Super Cobra (World) (scobra).jpg
 assets.background: Background/Super Cobra (World) (scobra).jpg
 assets.screenshot: Screenshot/Super Cobra (World) (scobra).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Gem Fighter Mini Mix (USA) (sgemf)
@@ -5975,6 +6186,7 @@ assets.boxback: BoxBack/Super Gem Fighter Mini Mix (USA) (sgemf).jpg
 assets.background: Background/Super Gem Fighter Mini Mix (USA) (sgemf).jpg
 assets.screenshot: Screenshot/Super Gem Fighter Mini Mix (USA) (sgemf).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Puzzle Fighter II Turbo (Europe) (spf2t)
@@ -6000,6 +6212,7 @@ assets.boxback: BoxBack/Super Puzzle Fighter II Turbo (Europe) (spf2t).jpg
 assets.background: Background/Super Puzzle Fighter II Turbo (Europe) (spf2t).jpg
 assets.screenshot: Screenshot/Super Puzzle Fighter II Turbo (Europe) (spf2t).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Sidekicks 3 - The Next Glory (World) (ssideki3)
@@ -6021,6 +6234,7 @@ assets.boxback: BoxBack/Super Sidekicks 3 - The Next Glory (World) (ssideki3).jp
 assets.background: Background/Super Sidekicks 3 - The Next Glory (World) (ssideki3).jpg
 assets.screenshot: Screenshot/Super Sidekicks 3 - The Next Glory (World) (ssideki3).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Sprint (World) (ssprint)
@@ -6043,6 +6257,7 @@ assets.boxback: BoxBack/Super Sprint (World) (ssprint).jpg
 assets.background: Background/Super Sprint (World) (ssprint).jpg
 assets.screenshot: Screenshot/Super Sprint (World) (ssprint).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Street Fighter II - The New Challengers (World) (ssf2)
@@ -6069,6 +6284,7 @@ assets.boxback: BoxBack/Super Street Fighter II - The New Challengers (World) (s
 assets.background: Background/Super Street Fighter II - The New Challengers (World) (ssf2).jpg
 assets.screenshot: Screenshot/Super Street Fighter II - The New Challengers (World) (ssf2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Street Fighter II Turbo (World) (ssf2t)
@@ -6096,6 +6312,7 @@ assets.boxback: BoxBack/Super Street Fighter II Turbo (World) (ssf2t).jpg
 assets.background: Background/Super Street Fighter II Turbo (World) (ssf2t).jpg
 assets.screenshot: Screenshot/Super Street Fighter II Turbo (World) (ssf2t).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: T.N.K III (USA) (tnk3)
@@ -6120,6 +6337,7 @@ assets.boxback: BoxBack/T.N.K III (USA) (tnk3).jpg
 assets.background: Background/T.N.K III (USA) (tnk3).jpg
 assets.screenshot: Screenshot/T.N.K III (USA) (tnk3).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Tank Force (USA) (tankfrce)
@@ -6146,6 +6364,7 @@ assets.boxback: BoxBack/Tank Force (USA) (tankfrce).jpg
 assets.background: Background/Tank Force (USA) (tankfrce).jpg
 assets.screenshot: Screenshot/Tank Force (USA) (tankfrce).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles (World) (tmnt)
@@ -6167,6 +6386,7 @@ assets.boxback: BoxBack/Teenage Mutant Ninja Turtles (World) (tmnt).jpg
 assets.background: Background/Teenage Mutant Ninja Turtles (World) (tmnt).jpg
 assets.screenshot: Screenshot/Teenage Mutant Ninja Turtles (World) (tmnt).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2)
@@ -6194,6 +6414,7 @@ assets.boxback: BoxBack/Teenage Mutant Ninja Turtles - Turtles in Time (World) (
 assets.background: Background/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).jpg
 assets.screenshot: Screenshot/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Tempest (World) (tempest)
@@ -6215,6 +6436,7 @@ assets.boxback: BoxBack/Tempest (World) (tempest).jpg
 assets.background: Background/Tempest (World) (tempest).jpg
 assets.screenshot: Screenshot/Tempest (World) (tempest).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Three Wonders (World) (3wonders)
@@ -6232,6 +6454,7 @@ assets.boxback: BoxBack/Three Wonders (World) (3wonders).jpg
 assets.background: Background/Three Wonders (World) (3wonders).jpg
 assets.screenshot: Screenshot/Three Wonders (World) (3wonders).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Thunder Cross (World) (thunderx)
@@ -6256,6 +6479,7 @@ assets.boxback: BoxBack/Thunder Cross (World) (thunderx).jpg
 assets.background: Background/Thunder Cross (World) (thunderx).jpg
 assets.screenshot: Screenshot/Thunder Cross (World) (thunderx).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Tiger Road (USA) (tigeroad)
@@ -6284,6 +6508,7 @@ assets.boxback: BoxBack/Tiger Road (USA) (tigeroad).jpg
 assets.background: Background/Tiger Road (USA) (tigeroad).jpg
 assets.screenshot: Screenshot/Tiger Road (USA) (tigeroad).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Timber (World) (timber)
@@ -6328,6 +6553,7 @@ assets.boxback: BoxBack/Timber (World) (timber).jpg
 assets.background: Background/Timber (World) (timber).jpg
 assets.screenshot: Screenshot/Timber (World) (timber).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Time Pilot (World) (timeplt)
@@ -6359,6 +6585,7 @@ assets.boxback: BoxBack/Time Pilot (World) (timeplt).jpg
 assets.background: Background/Time Pilot (World) (timeplt).jpg
 assets.screenshot: Screenshot/Time Pilot (World) (timeplt).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Time Soldiers (USA) (timesold)
@@ -6377,6 +6604,7 @@ assets.boxback: BoxBack/Time Soldiers (USA) (timesold).jpg
 assets.background: Background/Time Soldiers (USA) (timesold).jpg
 assets.screenshot: Screenshot/Time Soldiers (USA) (timesold).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Toobin' (World) (toobin)
@@ -6436,6 +6664,7 @@ assets.boxback: BoxBack/Toobin' (World) (toobin).jpg
 assets.background: Background/Toobin' (World) (toobin).jpg
 assets.screenshot: Screenshot/Toobin' (World) (toobin).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Top Hunter - Roddy & Cathy (World) (tophuntr)
@@ -6460,6 +6689,7 @@ assets.boxback: BoxBack/Top Hunter - Roddy & Cathy (World) (tophuntr).jpg
 assets.background: Background/Top Hunter - Roddy & Cathy (World) (tophuntr).jpg
 assets.screenshot: Screenshot/Top Hunter - Roddy & Cathy (World) (tophuntr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Total Carnage (World) (totcam)
@@ -6490,6 +6720,7 @@ assets.boxback: BoxBack/Total Carnage (World) (totcam).jpg
 assets.background: Background/Total Carnage (World) (totcam).jpg
 assets.screenshot: Screenshot/Total Carnage (World) (totcam).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Tower of Druaga, The (World) (todruaga)
@@ -6510,6 +6741,7 @@ assets.boxback: BoxBack/Tower of Druaga, The (World) (todruaga).jpg
 assets.background: Background/Tower of Druaga, The (World) (todruaga).jpg
 assets.screenshot: Screenshot/Tower of Druaga, The (World) (todruaga).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Trojan (USA) (trojan)
@@ -6540,6 +6772,7 @@ assets.boxback: BoxBack/Trojan (USA) (trojan).jpg
 assets.background: Background/Trojan (USA) (trojan).jpg
 assets.screenshot: Screenshot/Trojan (USA) (trojan).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: TwinBee (World) (twinbee)
@@ -6567,6 +6800,7 @@ assets.boxback: BoxBack/TwinBee (World) (twinbee).jpg
 assets.background: Background/TwinBee (World) (twinbee).jpg
 assets.screenshot: Screenshot/TwinBee (World) (twinbee).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Typhoon (World) (ajax)
@@ -6585,6 +6819,7 @@ assets.boxback: BoxBack/Typhoon (World) (ajax).jpg
 assets.background: Background/Typhoon (World) (ajax).jpg
 assets.screenshot: Screenshot/Typhoon (World) (ajax).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Vampire Savior - The Lord of Vampire (Europe) (vsav)
@@ -6606,6 +6841,7 @@ assets.boxback: BoxBack/Vampire Savior - The Lord of Vampire (Europe) (vsav).jpg
 assets.background: Background/Vampire Savior - The Lord of Vampire (Europe) (vsav).jpg
 assets.screenshot: Screenshot/Vampire Savior - The Lord of Vampire (Europe) (vsav).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2)
@@ -6632,6 +6868,7 @@ assets.boxback: BoxBack/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).j
 assets.background: Background/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).jpg
 assets.screenshot: Screenshot/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Varth - Operation Thunderstorm (World) (varth)
@@ -6666,6 +6903,7 @@ assets.boxback: BoxBack/Varth - Operation Thunderstorm (World) (varth).jpg
 assets.background: Background/Varth - Operation Thunderstorm (World) (varth).jpg
 assets.screenshot: Screenshot/Varth - Operation Thunderstorm (World) (varth).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Victory Road (World) (victroad)
@@ -6698,6 +6936,7 @@ assets.boxback: BoxBack/Victory Road (World) (victroad).jpg
 assets.background: Background/Victory Road (World) (victroad).jpg
 assets.screenshot: Screenshot/Victory Road (World) (victroad).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Vindicators (World) (vindictr)
@@ -6723,6 +6962,7 @@ assets.boxback: BoxBack/Vindicators (World) (vindictr).jpg
 assets.background: Background/Vindicators (World) (vindictr).jpg
 assets.screenshot: Screenshot/Vindicators (World) (vindictr).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Vulcan Venture (World) (vulcan)
@@ -6760,6 +7000,7 @@ assets.boxback: BoxBack/Vulcan Venture (World) (vulcan).jpg
 assets.background: Background/Vulcan Venture (World) (vulcan).jpg
 assets.screenshot: Screenshot/Vulcan Venture (World) (vulcan).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Vulgus (World) (vulgus)
@@ -6783,6 +7024,7 @@ assets.boxback: BoxBack/Vulgus (World) (vulgus).jpg
 assets.background: Background/Vulgus (World) (vulgus).jpg
 assets.screenshot: Screenshot/Vulgus (World) (vulgus).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Wacko (World) (wacko)
@@ -6801,6 +7043,7 @@ assets.boxback: BoxBack/Wacko (World) (wacko).jpg
 assets.background: Background/Wacko (World) (wacko).jpg
 assets.screenshot: Screenshot/Wacko (World) (wacko).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Warlords! (World) (warlords)
@@ -6837,6 +7080,7 @@ assets.boxback: BoxBack/Warlords! (World) (warlords).jpg
 assets.background: Background/Warlords! (World) (warlords).jpg
 assets.screenshot: Screenshot/Warlords! (World) (warlords).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Warriors of Fate (World) (wof)
@@ -6869,6 +7113,7 @@ assets.boxback: BoxBack/Warriors of Fate (World) (wof).jpg
 assets.background: Background/Warriors of Fate (World) (wof).jpg
 assets.screenshot: Screenshot/Warriors of Fate (World) (wof).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Wizard of Wor (World) (wow)
@@ -6900,6 +7145,7 @@ assets.boxback: BoxBack/Wizard of Wor (World) (wow).jpg
 assets.background: Background/Wizard of Wor (World) (wow).jpg
 assets.screenshot: Screenshot/Wizard of Wor (World) (wow).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: World Heroes (World) (wh1)
@@ -6926,6 +7172,7 @@ assets.boxback: BoxBack/World Heroes (World) (wh1).jpg
 assets.background: Background/World Heroes (World) (wh1).jpg
 assets.screenshot: Screenshot/World Heroes (World) (wh1).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: World Wars (World) (worldwar)
@@ -6945,6 +7192,7 @@ assets.boxback: BoxBack/World Wars (World) (worldwar).jpg
 assets.background: Background/World Wars (World) (worldwar).jpg
 assets.screenshot: Screenshot/World Wars (World) (worldwar).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Xenophobe (World) (xenophob)
@@ -6972,6 +7220,7 @@ assets.boxback: BoxBack/Xenophobe (World) (xenophob).jpg
 assets.background: Background/Xenophobe (World) (xenophob).jpg
 assets.screenshot: Screenshot/Xenophobe (World) (xenophob).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Xevious (World) (xevious)
@@ -7002,6 +7251,7 @@ assets.boxback: BoxBack/Xevious (World) (xevious).jpg
 assets.background: Background/Xevious (World) (xevious).jpg
 assets.screenshot: Screenshot/Xevious (World) (xevious).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Xybots (World) (xybots)
@@ -7035,6 +7285,7 @@ assets.boxback: BoxBack/Xybots (World) (xybots).jpg
 assets.background: Background/Xybots (World) (xybots).jpg
 assets.screenshot: Screenshot/Xybots (World) (xybots).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Yie Ar Kung-Fu (World) (yiear)
@@ -7068,6 +7319,7 @@ assets.boxback: BoxBack/Yie Ar Kung-Fu (World) (yiear).jpg
 assets.background: Background/Yie Ar Kung-Fu (World) (yiear).jpg
 assets.screenshot: Screenshot/Yie Ar Kung-Fu (World) (yiear).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Zaxxon (World) (zaxxon)
@@ -7090,5 +7342,6 @@ assets.boxback: BoxBack/Zaxxon (World) (zaxxon).jpg
 assets.background: Background/Zaxxon (World) (zaxxon).jpg
 assets.screenshot: Screenshot/Zaxxon (World) (zaxxon).jpg
 x-co-op: No
+x-playable: Yes
 
 

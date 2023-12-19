@@ -30,6 +30,7 @@ assets.boxback: BoxBack/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 assets.background: Background/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 assets.screenshot: Screenshot/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs)
@@ -66,6 +67,7 @@ assets.boxback: BoxBack/Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl
 assets.background: Background/Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs).jpg
 assets.screenshot: Screenshot/Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Blue Dragon (World) (En,Fr)
@@ -100,6 +102,7 @@ assets.boxback: BoxBack/Blue Dragon (World) (En,Fr).jpg
 assets.background: Background/Blue Dragon (World) (En,Fr).jpg
 assets.screenshot: Screenshot/Blue Dragon (World) (En,Fr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Capcom Digital Collection (World)
@@ -132,6 +135,7 @@ assets.boxback: BoxBack/Capcom Digital Collection (World).jpg
 assets.background: Background/Capcom Digital Collection (World).jpg
 assets.screenshot: Screenshot/Capcom Digital Collection (World).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Condemned - Criminal Origins (World) (En,Fr,De,Es,It)
@@ -171,6 +175,7 @@ assets.boxback: BoxBack/Condemned - Criminal Origins (World) (En,Fr,De,Es,It).jp
 assets.background: Background/Condemned - Criminal Origins (World) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Condemned - Criminal Origins (World) (En,Fr,De,Es,It).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Condemned 2 - Bloodshot (World) (En,Fr,Es,It)
@@ -194,6 +199,7 @@ assets.boxback: BoxBack/Condemned 2 - Bloodshot (World) (En,Fr,Es,It).jpg
 assets.background: Background/Condemned 2 - Bloodshot (World) (En,Fr,Es,It).jpg
 assets.screenshot: Screenshot/Condemned 2 - Bloodshot (World) (En,Fr,Es,It).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu)
@@ -237,6 +243,7 @@ assets.boxback: BoxBack/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).jpg
 assets.background: Background/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).jpg
 assets.screenshot: Screenshot/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu)
@@ -264,6 +271,7 @@ assets.boxback: BoxBack/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu
 assets.background: Background/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).jpg
 assets.screenshot: Screenshot/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Dreamcast Collection (USA)
@@ -285,6 +293,7 @@ assets.boxback: BoxBack/Dreamcast Collection (USA).jpg
 assets.background: Background/Dreamcast Collection (USA).jpg
 assets.screenshot: Screenshot/Dreamcast Collection (USA).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fable - Anniversary (World)
@@ -321,6 +330,7 @@ assets.boxback: BoxBack/Fable - Anniversary (World).jpg
 assets.background: Background/Fable - Anniversary (World).jpg
 assets.screenshot: Screenshot/Fable - Anniversary (World).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition)
@@ -345,6 +355,7 @@ assets.boxback: BoxBack/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year E
 assets.background: Background/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition).jpg
 assets.screenshot: Screenshot/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk)
@@ -365,6 +376,7 @@ assets.boxback: BoxBack/Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).jpg
 assets.background: Background/Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).jpg
 assets.screenshot: Screenshot/Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Far Cry 2 (World) (En,Fr,De,Es,It)
@@ -396,6 +408,7 @@ assets.boxback: BoxBack/Far Cry 2 (World) (En,Fr,De,Es,It).jpg
 assets.background: Background/Far Cry 2 (World) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Far Cry 2 (World) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Far Cry 3 (World)
@@ -418,6 +431,7 @@ assets.boxback: BoxBack/Far Cry 3 (World).jpg
 assets.background: Background/Far Cry 3 (World).jpg
 assets.screenshot: Screenshot/Far Cry 3 (World).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Far Cry 3 - Blood Dragon (World)
@@ -442,6 +456,7 @@ assets.boxback: BoxBack/Far Cry 3 - Blood Dragon (World).jpg
 assets.background: Background/Far Cry 3 - Blood Dragon (World).jpg
 assets.screenshot: Screenshot/Far Cry 3 - Blood Dragon (World).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko)
@@ -474,6 +489,7 @@ assets.boxback: BoxBack/Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 assets.background: Background/Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 assets.screenshot: Screenshot/Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Infinite Undiscovery (USA)
@@ -495,6 +511,7 @@ assets.boxback: BoxBack/Infinite Undiscovery (USA).jpg
 assets.background: Background/Infinite Undiscovery (USA).jpg
 assets.screenshot: Screenshot/Infinite Undiscovery (USA).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Jurassic Park - The Game (USA)
@@ -525,6 +542,7 @@ assets.boxback: BoxBack/Jurassic Park - The Game (USA).jpg
 assets.background: Background/Jurassic Park - The Game (USA).jpg
 assets.screenshot: Screenshot/Jurassic Park - The Game (USA).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)
@@ -564,6 +582,7 @@ assets.boxback: BoxBack/Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko
 assets.background: Background/Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 assets.screenshot: Screenshot/Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)
@@ -581,6 +600,7 @@ assets.boxback: BoxBack/Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).j
 assets.background: Background/Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 assets.screenshot: Screenshot/Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Last Remnant, The (USA, Asia) (En,Fr,De,Es,It)
@@ -608,6 +628,7 @@ assets.boxback: BoxBack/Last Remnant, The (USA, Asia) (En,Fr,De,Es,It).jpg
 assets.background: Background/Last Remnant, The (USA, Asia) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Last Remnant, The (USA, Asia) (En,Fr,De,Es,It).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)
@@ -659,6 +680,7 @@ assets.boxback: BoxBack/Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).j
 assets.background: Background/Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 assets.screenshot: Screenshot/Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)
@@ -759,6 +781,7 @@ assets.boxback: BoxBack/Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)
 assets.background: Background/Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 assets.screenshot: Screenshot/Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Lost Odyssey (World) (En,Ja,Fr,De,Es,It)
@@ -781,6 +804,7 @@ assets.boxback: BoxBack/Lost Odyssey (World) (En,Ja,Fr,De,Es,It).jpg
 assets.background: Background/Lost Odyssey (World) (En,Ja,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Lost Odyssey (World) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Marvel - Ultimate Alliance Platinum Hits Special Edition (World)
@@ -813,6 +837,7 @@ assets.boxback: BoxBack/Marvel - Ultimate Alliance Platinum Hits Special Edition
 assets.background: Background/Marvel - Ultimate Alliance Platinum Hits Special Edition (World).jpg
 assets.screenshot: Screenshot/Marvel - Ultimate Alliance Platinum Hits Special Edition (World).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It)
@@ -866,6 +891,7 @@ assets.boxback: BoxBack/N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It).jpg
 assets.background: Background/N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Namco Museum - Virtual Arcade (USA)
@@ -922,6 +948,7 @@ assets.boxback: BoxBack/Namco Museum - Virtual Arcade (USA).jpg
 assets.background: Background/Namco Museum - Virtual Arcade (USA).jpg
 assets.screenshot: Screenshot/Namco Museum - Virtual Arcade (USA).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)
@@ -949,6 +976,7 @@ assets.boxback: BoxBack/Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 assets.background: Background/Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 assets.screenshot: Screenshot/Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Orange Box, The (World) (En,Fr)
@@ -972,6 +1000,7 @@ assets.boxback: BoxBack/Orange Box, The (World) (En,Fr).jpg
 assets.background: Background/Orange Box, The (World) (En,Fr).jpg
 assets.screenshot: Screenshot/Orange Box, The (World) (En,Fr).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Perfect Dark Zero (USA) (En,Fr,Es)
@@ -998,6 +1027,7 @@ assets.boxback: BoxBack/Perfect Dark Zero (USA) (En,Fr,Es).jpg
 assets.background: Background/Perfect Dark Zero (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Perfect Dark Zero (USA) (En,Fr,Es).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Phantasy Star Universe (USA, Europe) (En,Fr,De)
@@ -1022,6 +1052,7 @@ assets.boxback: BoxBack/Phantasy Star Universe (USA, Europe) (En,Fr,De).jpg
 assets.background: Background/Phantasy Star Universe (USA, Europe) (En,Fr,De).jpg
 assets.screenshot: Screenshot/Phantasy Star Universe (USA, Europe) (En,Fr,De).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Qubed (World) (En,Ja,Fr,De,Es,It)
@@ -1042,6 +1073,7 @@ assets.boxback: BoxBack/Qubed (World) (En,Ja,Fr,De,Es,It).jpg
 assets.background: Background/Qubed (World) (En,Ja,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Qubed (World) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Rise of Nightmares (World)
@@ -1061,6 +1093,7 @@ assets.boxback: BoxBack/Rise of Nightmares (World).jpg
 assets.background: Background/Rise of Nightmares (World).jpg
 assets.screenshot: Screenshot/Rise of Nightmares (World).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Saints Row (World) (En,Fr,De,Es,It)
@@ -1094,6 +1127,7 @@ assets.boxback: BoxBack/Saints Row (World) (En,Fr,De,Es,It).jpg
 assets.background: Background/Saints Row (World) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Saints Row (World) (En,Fr,De,Es,It).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Saints Row - The Third - The Full Package (World) (En,Fr,De,Es,It)
@@ -1125,6 +1159,7 @@ assets.boxback: BoxBack/Saints Row - The Third - The Full Package (World) (En,Fr
 assets.background: Background/Saints Row - The Third - The Full Package (World) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Saints Row - The Third - The Full Package (World) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Saints Row 2 (World) (En,Fr,De,Es,It,Nl)
@@ -1147,6 +1182,7 @@ assets.boxback: BoxBack/Saints Row 2 (World) (En,Fr,De,Es,It,Nl).jpg
 assets.background: Background/Saints Row 2 (World) (En,Fr,De,Es,It,Nl).jpg
 assets.screenshot: Screenshot/Saints Row 2 (World) (En,Fr,De,Es,It,Nl).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Saints Row IV - Gat out of Hell (World)
@@ -1191,6 +1227,7 @@ assets.boxback: BoxBack/Saints Row IV - Gat out of Hell (World).jpg
 assets.background: Background/Saints Row IV - Gat out of Hell (World).jpg
 assets.screenshot: Screenshot/Saints Row IV - Gat out of Hell (World).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Saints Row IV - National Treasure Edition (World)
@@ -1211,6 +1248,7 @@ assets.boxback: BoxBack/Saints Row IV - National Treasure Edition (World).jpg
 assets.background: Background/Saints Row IV - National Treasure Edition (World).jpg
 assets.screenshot: Screenshot/Saints Row IV - National Treasure Edition (World).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Serious Sam Collection, The (World)
@@ -1257,6 +1295,7 @@ assets.boxback: BoxBack/Serious Sam Collection, The (World).jpg
 assets.background: Background/Serious Sam Collection, The (World).jpg
 assets.screenshot: Screenshot/Serious Sam Collection, The (World).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA)
@@ -1282,6 +1321,7 @@ assets.boxback: BoxBack/Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA).jpg
 assets.background: Background/Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA).jpg
 assets.screenshot: Screenshot/Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Triple Pack - Outland, From Dust, Beyond Good & Evil HD (Europe)
@@ -1305,6 +1345,7 @@ assets.boxback: BoxBack/Triple Pack - Outland, From Dust, Beyond Good & Evil HD 
 assets.background: Background/Triple Pack - Outland, From Dust, Beyond Good & Evil HD (Europe).jpg
 assets.screenshot: Screenshot/Triple Pack - Outland, From Dust, Beyond Good & Evil HD (Europe).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Viva Pinata (USA, Europe)
@@ -1323,6 +1364,7 @@ assets.boxback: BoxBack/Viva Pinata (USA, Europe).jpg
 assets.background: Background/Viva Pinata (USA, Europe).jpg
 assets.screenshot: Screenshot/Viva Pinata (USA, Europe).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Viva Pinata - Trouble in Paradise (USA, Europe)
@@ -1364,6 +1406,7 @@ assets.boxback: BoxBack/Viva Pinata - Trouble in Paradise (USA, Europe).jpg
 assets.background: Background/Viva Pinata - Trouble in Paradise (USA, Europe).jpg
 assets.screenshot: Screenshot/Viva Pinata - Trouble in Paradise (USA, Europe).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)
@@ -1383,6 +1426,7 @@ assets.boxback: BoxBack/Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,
 assets.background: Background/Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 assets.screenshot: Screenshot/Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es,It)
@@ -1408,5 +1452,6 @@ assets.boxback: BoxBack/Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es
 assets.background: Background/Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
+x-playable: Yes
 
 

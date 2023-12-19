@@ -26,6 +26,7 @@ assets.background: Background/Chaotix ~ Knuckles' Chaotix (Japan, USA).jpg
 assets.screenshot: Screenshot/Chaotix ~ Knuckles' Chaotix (Japan, USA).jpg
 assets.video: Video/Chaotix ~ Knuckles' Chaotix (Japan, USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Cyber Brawl ~ Cosmic Carnage (Japan, USA)
@@ -48,6 +49,7 @@ assets.background: Background/Cyber Brawl ~ Cosmic Carnage (Japan, USA).jpg
 assets.screenshot: Screenshot/Cyber Brawl ~ Cosmic Carnage (Japan, USA).jpg
 assets.video: Video/Cyber Brawl ~ Cosmic Carnage (Japan, USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Doom (Europe) (32X Resurrection Patch)
@@ -107,6 +109,7 @@ assets.boxback: BoxBack/Doom (Europe) (32X Resurrection Patch).jpg
 assets.background: Background/Doom (Europe) (32X Resurrection Patch).jpg
 assets.screenshot: Screenshot/Doom (Europe) (32X Resurrection Patch).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Doom (Japan, USA)
@@ -132,6 +135,7 @@ assets.background: Background/Doom (Japan, USA).jpg
 assets.screenshot: Screenshot/Doom (Japan, USA).jpg
 assets.video: Video/Doom (Japan, USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Metal Head (Japan, USA) (En,Ja)
@@ -158,6 +162,7 @@ assets.background: Background/Metal Head (Japan, USA) (En,Ja).jpg
 assets.screenshot: Screenshot/Metal Head (Japan, USA) (En,Ja).jpg
 assets.video: Video/Metal Head (Japan, USA) (En,Ja).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Star Wars Arcade (USA)
@@ -179,5 +184,6 @@ assets.background: Background/Star Wars Arcade (USA).jpg
 assets.screenshot: Screenshot/Star Wars Arcade (USA).jpg
 assets.video: Video/Star Wars Arcade (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 

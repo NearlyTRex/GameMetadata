@@ -32,6 +32,7 @@ assets.background: Background/Animal Crossing - Amiibo Festival (USA).jpg
 assets.screenshot: Screenshot/Animal Crossing - Amiibo Festival (USA).jpg
 assets.video: Video/Animal Crossing - Amiibo Festival (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Axiom Verge (USA) (En,Fr,De,Es,It,Pt)
@@ -53,6 +54,7 @@ assets.boxback: BoxBack/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).jpg
 assets.background: Background/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).jpg
 assets.screenshot: Screenshot/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Bayonetta (USA) (En,Ja,Fr,De,Es,It)
@@ -76,6 +78,7 @@ assets.background: Background/Bayonetta (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Bayonetta (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Bayonetta (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It)
@@ -104,6 +107,7 @@ assets.background: Background/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00)
@@ -123,6 +127,7 @@ assets.background: Background/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (
 assets.screenshot: Screenshot/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).jpg
 assets.video: Video/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Devil's Third (USA) (En,Fr)
@@ -149,6 +154,7 @@ assets.background: Background/Devil's Third (USA) (En,Fr).jpg
 assets.screenshot: Screenshot/Devil's Third (USA) (En,Fr).jpg
 assets.video: Video/Devil's Third (USA) (En,Fr).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt)
@@ -178,6 +184,7 @@ assets.background: Background/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).
 assets.screenshot: Screenshot/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es)
@@ -202,6 +209,7 @@ assets.background: Background/Disney Epic Mickey 2 - The Power of Two (USA) (En,
 assets.screenshot: Screenshot/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).jpg
 assets.video: Video/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01)
@@ -235,6 +243,7 @@ assets.background: Background/Donkey Kong Country - Tropical Freeze (USA) (En,Fr
 assets.screenshot: Screenshot/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).jpg
 assets.video: Video/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru)
@@ -275,6 +284,7 @@ assets.boxback: BoxBack/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr
 assets.background: Background/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).jpg
 assets.screenshot: Screenshot/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Game & Wario (USA) (En,Fr,Es)
@@ -296,6 +306,7 @@ assets.background: Background/Game & Wario (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Game & Wario (USA) (En,Fr,Es).jpg
 assets.video: Video/Game & Wario (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Hyrule Warriors (USA) (En,Fr,Es) (v1.01)
@@ -329,6 +340,7 @@ assets.background: Background/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).jpg
 assets.screenshot: Screenshot/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).jpg
 assets.video: Video/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Just Dance 2014 (USA)
@@ -357,6 +369,7 @@ assets.background: Background/Just Dance 2014 (USA).jpg
 assets.screenshot: Screenshot/Just Dance 2014 (USA).jpg
 assets.video: Video/Just Dance 2014 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Just Dance 2015 (USA)
@@ -393,6 +406,7 @@ assets.background: Background/Just Dance 2015 (USA).jpg
 assets.screenshot: Screenshot/Just Dance 2015 (USA).jpg
 assets.video: Video/Just Dance 2015 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Just Dance 2016 (USA)
@@ -418,6 +432,7 @@ assets.background: Background/Just Dance 2016 (USA).jpg
 assets.screenshot: Screenshot/Just Dance 2016 (USA).jpg
 assets.video: Video/Just Dance 2016 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Just Dance 2017 (USA) (En,Fr,Es,Pt)
@@ -438,6 +453,7 @@ assets.background: Background/Just Dance 2017 (USA) (En,Fr,Es,Pt).jpg
 assets.screenshot: Screenshot/Just Dance 2017 (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/Just Dance 2017 (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Just Dance 2018 (USA) (En,Fr,Es,Pt)
@@ -466,6 +482,7 @@ assets.boxback: BoxBack/Just Dance 2018 (USA) (En,Fr,Es,Pt).jpg
 assets.background: Background/Just Dance 2018 (USA) (En,Fr,Es,Pt).jpg
 assets.screenshot: Screenshot/Just Dance 2018 (USA) (En,Fr,Es,Pt).jpg
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Just Dance 4 (USA)
@@ -485,6 +502,7 @@ assets.background: Background/Just Dance 4 (USA).jpg
 assets.screenshot: Screenshot/Just Dance 4 (USA).jpg
 assets.video: Video/Just Dance 4 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Kirby and the Rainbow Curse (USA) (En,Fr,Es)
@@ -507,6 +525,7 @@ assets.background: Background/Kirby and the Rainbow Curse (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Kirby and the Rainbow Curse (USA) (En,Fr,Es).jpg
 assets.video: Video/Kirby and the Rainbow Curse (USA) (En,Fr,Es).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt)
@@ -529,6 +548,7 @@ assets.background: Background/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt
 assets.screenshot: Screenshot/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: LEGO Dimensions (USA) (En,Fr,Es)
@@ -557,6 +577,7 @@ assets.background: Background/LEGO Dimensions (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/LEGO Dimensions (USA) (En,Fr,Es).jpg
 assets.video: Video/LEGO Dimensions (USA) (En,Fr,Es).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: LEGO Jurassic World (USA) (En,Fr,Es,Pt)
@@ -578,6 +599,7 @@ assets.background: Background/LEGO Jurassic World (USA) (En,Fr,Es,Pt).jpg
 assets.screenshot: Screenshot/LEGO Jurassic World (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Jurassic World (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt)
@@ -602,6 +624,7 @@ assets.background: Background/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).jpg
 assets.screenshot: Screenshot/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt)
@@ -646,6 +669,7 @@ assets.background: Background/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es
 assets.screenshot: Screenshot/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es)
@@ -691,6 +715,7 @@ assets.background: Background/Legend of Zelda, The - Breath of the Wild (USA) (E
 assets.screenshot: Screenshot/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es)
@@ -718,6 +743,7 @@ assets.background: Background/Legend of Zelda, The - The Wind Waker HD (USA) (En
 assets.screenshot: Screenshot/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es)
@@ -741,6 +767,7 @@ assets.background: Background/Legend of Zelda, The - Twilight Princess HD (USA) 
 assets.screenshot: Screenshot/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Mario Party 10 (USA)
@@ -761,6 +788,7 @@ assets.background: Background/Mario Party 10 (USA).jpg
 assets.screenshot: Screenshot/Mario Party 10 (USA).jpg
 assets.video: Video/Mario Party 10 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Mighty No. 9 (USA)
@@ -786,6 +814,7 @@ assets.background: Background/Mighty No. 9 (USA).jpg
 assets.screenshot: Screenshot/Mighty No. 9 (USA).jpg
 assets.video: Video/Mighty No. 9 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Monster Hunter 3 Ultimate (USA)
@@ -808,6 +837,7 @@ assets.background: Background/Monster Hunter 3 Ultimate (USA).jpg
 assets.screenshot: Screenshot/Monster Hunter 3 Ultimate (USA).jpg
 assets.video: Video/Monster Hunter 3 Ultimate (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: NES Remix Pack (USA) (En,Fr,Es)
@@ -839,6 +869,7 @@ assets.background: Background/NES Remix Pack (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/NES Remix Pack (USA) (En,Fr,Es).jpg
 assets.video: Video/NES Remix Pack (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es)
@@ -858,6 +889,7 @@ assets.background: Background/New Super Mario Bros. U + New Super Luigi U (USA) 
 assets.screenshot: Screenshot/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).jpg
 assets.video: Video/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Nintendo Land (USA) (En,Fr,Es)
@@ -882,6 +914,7 @@ assets.background: Background/Nintendo Land (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Nintendo Land (USA) (En,Fr,Es).jpg
 assets.video: Video/Nintendo Land (USA) (En,Fr,Es).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Paper Mario - Color Splash (USA) (En,Fr,Es)
@@ -903,6 +936,7 @@ assets.background: Background/Paper Mario - Color Splash (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Paper Mario - Color Splash (USA) (En,Fr,Es).jpg
 assets.video: Video/Paper Mario - Color Splash (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Pikmin 3 (USA) (En,Fr,Es)
@@ -925,6 +959,7 @@ assets.background: Background/Pikmin 3 (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Pikmin 3 (USA) (En,Fr,Es).jpg
 assets.video: Video/Pikmin 3 (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Pokken Tournament (USA)
@@ -956,6 +991,7 @@ assets.background: Background/Pokken Tournament (USA).jpg
 assets.screenshot: Screenshot/Pokken Tournament (USA).jpg
 assets.video: Video/Pokken Tournament (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)
@@ -979,6 +1015,7 @@ assets.background: Background/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,
 assets.screenshot: Screenshot/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
 assets.video: Video/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Rodea the Sky Soldier (USA)
@@ -1007,6 +1044,7 @@ assets.background: Background/Rodea the Sky Soldier (USA).jpg
 assets.screenshot: Screenshot/Rodea the Sky Soldier (USA).jpg
 assets.video: Video/Rodea the Sky Soldier (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It)
@@ -1031,6 +1069,7 @@ assets.background: Background/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).
 assets.screenshot: Screenshot/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Scribblenauts Unlimited (USA)
@@ -1052,6 +1091,7 @@ assets.background: Background/Scribblenauts Unlimited (USA).jpg
 assets.screenshot: Screenshot/Scribblenauts Unlimited (USA).jpg
 assets.video: Video/Scribblenauts Unlimited (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Scribblenauts Unmasked - A DC Comics Adventure (USA)
@@ -1078,6 +1118,7 @@ assets.background: Background/Scribblenauts Unmasked - A DC Comics Adventure (US
 assets.screenshot: Screenshot/Scribblenauts Unmasked - A DC Comics Adventure (USA).jpg
 assets.video: Video/Scribblenauts Unmasked - A DC Comics Adventure (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Shakedown - Hawaii (USA)
@@ -1110,6 +1151,7 @@ assets.boxback: BoxBack/Shakedown - Hawaii (USA).jpg
 assets.background: Background/Shakedown - Hawaii (USA).jpg
 assets.screenshot: Screenshot/Shakedown - Hawaii (USA).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Shovel Knight (USA)
@@ -1141,6 +1183,7 @@ assets.background: Background/Shovel Knight (USA).jpg
 assets.screenshot: Screenshot/Shovel Knight (USA).jpg
 assets.video: Video/Shovel Knight (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Sonic & All-Stars Racing Transformed (USA)
@@ -1168,6 +1211,7 @@ assets.background: Background/Sonic & All-Stars Racing Transformed (USA).jpg
 assets.screenshot: Screenshot/Sonic & All-Stars Racing Transformed (USA).jpg
 assets.video: Video/Sonic & All-Stars Racing Transformed (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Sonic Boom - Rise of Lyric (USA)
@@ -1203,6 +1247,7 @@ assets.background: Background/Sonic Boom - Rise of Lyric (USA).jpg
 assets.screenshot: Screenshot/Sonic Boom - Rise of Lyric (USA).jpg
 assets.video: Video/Sonic Boom - Rise of Lyric (USA).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Star Fox Guard (USA) (En,Fr,Es)
@@ -1230,6 +1275,7 @@ assets.background: Background/Star Fox Guard (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Star Fox Guard (USA) (En,Fr,Es).jpg
 assets.video: Video/Star Fox Guard (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Star Fox Zero (USA) (En,Fr,Es)
@@ -1263,6 +1309,7 @@ assets.background: Background/Star Fox Zero (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Star Fox Zero (USA) (En,Fr,Es).jpg
 assets.video: Video/Star Fox Zero (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Mario 3D World (USA) (En,Fr,Es) (v1.00)
@@ -1296,6 +1343,7 @@ assets.background: Background/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).jpg
 assets.screenshot: Screenshot/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).jpg
 assets.video: Video/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Super Mario Maker (USA) (En,Fr,Es)
@@ -1317,6 +1365,7 @@ assets.background: Background/Super Mario Maker (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Super Mario Maker (USA) (En,Fr,Es).jpg
 assets.video: Video/Super Mario Maker (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Super Smash Bros. for Wii U (USA) (En,Fr,Es)
@@ -1341,6 +1390,7 @@ assets.background: Background/Super Smash Bros. for Wii U (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Super Smash Bros. for Wii U (USA) (En,Fr,Es).jpg
 assets.video: Video/Super Smash Bros. for Wii U (USA) (En,Fr,Es).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Tank! Tank! Tank! (USA) (En,Fr,Es)
@@ -1366,6 +1416,7 @@ assets.background: Background/Tank! Tank! Tank! (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Tank! Tank! Tank! (USA) (En,Fr,Es).jpg
 assets.video: Video/Tank! Tank! Tank! (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Tokyo Mirage Sessions FE (USA)
@@ -1386,6 +1437,7 @@ assets.boxback: BoxBack/Tokyo Mirage Sessions FE (USA).jpg
 assets.background: Background/Tokyo Mirage Sessions FE (USA).jpg
 assets.screenshot: Screenshot/Tokyo Mirage Sessions FE (USA).jpg
 x-co-op: No
+x-playable: Yes
 
 
 game: Wii Fit U (USA)
@@ -1410,6 +1462,7 @@ assets.background: Background/Wii Fit U (USA).jpg
 assets.screenshot: Screenshot/Wii Fit U (USA).jpg
 assets.video: Video/Wii Fit U (USA).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: Wonderful 101, The (USA) (En,Ja)
@@ -1433,6 +1486,7 @@ assets.background: Background/Wonderful 101, The (USA) (En,Ja).jpg
 assets.screenshot: Screenshot/Wonderful 101, The (USA) (En,Ja).jpg
 assets.video: Video/Wonderful 101, The (USA) (En,Ja).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Xenoblade Chronicles X (USA) (En,Fr,Es)
@@ -1468,6 +1522,7 @@ assets.background: Background/Xenoblade Chronicles X (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Xenoblade Chronicles X (USA) (En,Fr,Es).jpg
 assets.video: Video/Xenoblade Chronicles X (USA) (En,Fr,Es).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Yoshi's Woolly World (USA) (En,Fr,Es)
@@ -1501,6 +1556,7 @@ assets.background: Background/Yoshi's Woolly World (USA) (En,Fr,Es).jpg
 assets.screenshot: Screenshot/Yoshi's Woolly World (USA) (En,Fr,Es).jpg
 assets.video: Video/Yoshi's Woolly World (USA) (En,Fr,Es).mp4
 x-co-op: Yes
+x-playable: Yes
 
 
 game: Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)
@@ -1524,6 +1580,7 @@ assets.background: Background/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es)
 assets.screenshot: Screenshot/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).jpg
 assets.video: Video/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).mp4
 x-co-op: No
+x-playable: Yes
 
 
 game: ZombiU (USA) (En,Fr,Es,Pt)
@@ -1551,5 +1608,6 @@ assets.background: Background/ZombiU (USA) (En,Fr,Es,Pt).jpg
 assets.screenshot: Screenshot/ZombiU (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/ZombiU (USA) (En,Fr,Es,Pt).mp4
 x-co-op: No
+x-playable: Yes
 
 
