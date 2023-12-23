@@ -1,4 +1,8 @@
 {
+    "files": [
+        "Curse - The Eye of Isis (USA).chd",
+        "fix/Curse.exe"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/setup.exe",
     "steps": {
         "postinstall": [

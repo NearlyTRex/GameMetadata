@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Rogue Legacy (USA).chd"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/Rogue Legacy/Windows/Installation Files/RogueLegacyInstaller_v120a.exe",
     "transform_file": "Rogue Legacy (USA).chd",
     "update": [

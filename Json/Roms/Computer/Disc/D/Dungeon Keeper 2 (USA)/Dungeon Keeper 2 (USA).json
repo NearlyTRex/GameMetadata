@@ -1,4 +1,8 @@
 {
+    "files": [
+        "Dungeon Keeper 2 (USA).chd",
+        "update/DKII_173.exe"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/Autorun.exe",
     "sync": {
         "data": [

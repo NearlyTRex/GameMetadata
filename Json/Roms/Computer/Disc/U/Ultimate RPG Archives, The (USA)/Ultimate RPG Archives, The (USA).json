@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Ultimate RPG Archives, The (USA) (Disc 1) (Stonekeep).chd",
+        "Ultimate RPG Archives, The (USA) (Disc 2) (The Bard's Tale, Ultima Underworld, Dragon Wars, Wasteland).chd",
+        "Ultimate RPG Archives, The (USA) (Disc 3) (Might & Magic World of Xeen Disk A).chd",
+        "Ultimate RPG Archives, The (USA) (Disc 4) (Might & Magic World of Xeen Disk B).chd",
+        "Ultimate RPG Archives, The (USA) (Disc 5) (Wizardry Gold).chd",
+        "Ultimate RPG Archives, The (USA).m3u"
+    ],
     "installer_dos_exe": [
         "$DISC_ONE_ROOT/INSTALL.EXE",
         "$DISC_THREE_ROOT/INSTALL.EXE"

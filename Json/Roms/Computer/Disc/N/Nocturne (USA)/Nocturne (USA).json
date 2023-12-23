@@ -1,4 +1,10 @@
 {
+    "files": [
+        "Nocturne (USA) (Disc 1).chd",
+        "Nocturne (USA) (Disc 2).chd",
+        "Nocturne (USA).m3u",
+        "update/nocpatch2.exe"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/SETUP.EXE",
     "main_game_exe": [
         "Program Files (x86)/Terminal Reality/Nocturne/nocturne.exe"

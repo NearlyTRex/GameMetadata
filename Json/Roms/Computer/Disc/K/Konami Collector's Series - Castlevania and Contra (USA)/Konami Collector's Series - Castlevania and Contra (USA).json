@@ -1,4 +1,13 @@
 {
+    "files": [
+        "Konami Collector's Series - Castlevania and Contra (USA).chd",
+        "fix/cc.exe",
+        "fix/ddraw.dll",
+        "fix/dinput8.dll",
+        "fix/dixi.ini",
+        "fix/dxcfg.exe",
+        "fix/dxcfg.ini"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/STARTUP.EXE",
     "steps": {
         "postinstall": [

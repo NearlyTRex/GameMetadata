@@ -1,4 +1,18 @@
 {
+    "files": [
+        "Diablo II & Lord of Destruction (USA) (Disc 1).chd",
+        "Diablo II & Lord of Destruction (USA) (Disc 1).txt",
+        "Diablo II & Lord of Destruction (USA) (Disc 2).chd",
+        "Diablo II & Lord of Destruction (USA) (Disc 3).chd",
+        "Diablo II & Lord of Destruction (USA) (Disc 4).chd",
+        "Diablo II & Lord of Destruction (USA) (Disc 4).txt",
+        "Diablo II & Lord of Destruction (USA).m3u",
+        "fix/Start.bat",
+        "fix/d2dx-defaults.cfg",
+        "fix/glide3x.dll",
+        "update/D2Patch_114d.exe",
+        "update/LODPatch_114d.exe"
+    ],
     "installer_exe": [
         "$DISC_ONE_ROOT/Installer.exe",
         "$DISC_FOUR_ROOT/Installer.exe"

@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Call of Cthulhu - Dark Corners of the Earth (USA) (Disc 1).chd",
+        "Call of Cthulhu - Dark Corners of the Earth (USA) (Disc 2).chd",
+        "Call of Cthulhu - Dark Corners of the Earth (USA).m3u"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/setup.exe",
     "steps": {
         "preinstall": [

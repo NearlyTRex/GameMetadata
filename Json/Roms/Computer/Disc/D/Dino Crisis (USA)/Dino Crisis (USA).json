@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Dino Crisis (USA) (Disc 1).chd",
+        "Dino Crisis (USA) (Disc 2).chd",
+        "Dino Crisis (USA) (Disc 3).chd",
+        "Dino Crisis (USA).m3u",
+        "fix/config.ini",
+        "fix/ddraw.dll"
+    ],
     "main_game_exe": [
         "DinoCrisis/DINO.exe"
     ],

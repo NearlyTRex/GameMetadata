@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Wetrix (USA).chd"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Wetrix (USA).chd"
 }

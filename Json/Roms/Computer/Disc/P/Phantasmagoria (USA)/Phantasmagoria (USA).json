@@ -1,4 +1,14 @@
 {
+    "files": [
+        "Phantasmagoria (USA) (Disc 1).chd",
+        "Phantasmagoria (USA) (Disc 2).chd",
+        "Phantasmagoria (USA) (Disc 3).chd",
+        "Phantasmagoria (USA) (Disc 4).chd",
+        "Phantasmagoria (USA) (Disc 5).chd",
+        "Phantasmagoria (USA) (Disc 6).chd",
+        "Phantasmagoria (USA) (Disc 7).chd",
+        "Phantasmagoria (USA).m3u"
+    ],
     "is_scumm": true,
     "steps": {
         "preinstall": [

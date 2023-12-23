@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Silent Hill 3 (USA) (Disc 1).chd",
+        "Silent Hill 3 (USA) (Disc 2).chd",
+        "Silent Hill 3 (USA) (Disc 3).chd",
+        "Silent Hill 3 (USA) (Disc 4).chd",
+        "Silent Hill 3 (USA) (Disc 5).chd",
+        "Silent Hill 3 (USA).m3u"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/autorun.exe",
     "transform_file": "Silent Hill 3 (USA).m3u"
 }

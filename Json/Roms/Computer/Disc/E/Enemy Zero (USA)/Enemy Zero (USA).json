@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Enemy Zero (USA) (Disc 0).chd",
+        "Enemy Zero (USA) (Disc 1).chd",
+        "Enemy Zero (USA) (Disc 2).chd",
+        "Enemy Zero (USA) (Disc 3).chd",
+        "Enemy Zero (USA).m3u",
+        "EnemyZeroSetup_21.exe"
+    ],
     "installer_exe": "$SETUP_MAIN_ROOT/EnemyZeroSetup_21.exe",
     "transform_file": "Enemy Zero (USA).m3u",
     "winver": "win10"

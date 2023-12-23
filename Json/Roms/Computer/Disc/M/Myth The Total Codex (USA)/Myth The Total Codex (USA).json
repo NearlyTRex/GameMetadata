@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Myth The Total Codex (USA) (Disc 1).chd",
+        "Myth The Total Codex (USA) (Disc 2).chd",
+        "Myth The Total Codex (USA) (Disc 3).chd",
+        "Myth The Total Codex (USA) (Disc 4).chd",
+        "Myth The Total Codex (USA).m3u",
+        "update/Myth2_184.exe"
+    ],
     "installer_exe": "$DISC_THREE_ROOT/Autoplay.exe",
     "main_game_exe": [
         "Program Files (x86)/Myth II/Myth II.exe"

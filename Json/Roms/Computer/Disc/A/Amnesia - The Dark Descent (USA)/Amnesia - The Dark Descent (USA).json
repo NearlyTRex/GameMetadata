@@ -1,4 +1,8 @@
 {
+    "files": [
+        "Amnesia - The Dark Descent (USA).chd",
+        "Amnesia - The Dark Descent (USA).txt"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/setup.exe",
     "main_game_exe": [
         "Program Files (x86)/Amnesia - The Dark Descent/redist/Amnesia.exe"

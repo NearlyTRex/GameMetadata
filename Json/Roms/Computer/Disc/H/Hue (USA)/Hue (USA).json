@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Hue (USA).chd"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/Hue (Windows).exe",
     "installer_type": "7zip",
     "transform_file": "Hue (USA).chd"

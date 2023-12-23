@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Schizm (USA) (Disc 1).chd",
+        "Schizm (USA) (Disc 2).chd",
+        "Schizm (USA) (Disc 3).chd",
+        "Schizm (USA) (Disc 4).chd",
+        "Schizm (USA) (Disc 5).chd",
+        "Schizm (USA).m3u"
+    ],
     "is_scumm": true,
     "steps": {
         "preinstall": [

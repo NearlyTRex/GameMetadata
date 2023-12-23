@@ -1,4 +1,14 @@
 {
+    "files": [
+        "Unreal Tournament 2004 (USA) (Disc 1).chd",
+        "Unreal Tournament 2004 (USA) (Disc 2).chd",
+        "Unreal Tournament 2004 (USA) (Disc 3).chd",
+        "Unreal Tournament 2004 (USA) (Disc 4).chd",
+        "Unreal Tournament 2004 (USA) (Disc 5).chd",
+        "Unreal Tournament 2004 (USA) (Disc 6).chd",
+        "Unreal Tournament 2004 (USA).m3u",
+        "Unreal Tournament 2004 (USA).txt"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/Setup.exe",
     "steps": {
         "preinstall": [

@@ -1,4 +1,14 @@
 {
+    "files": [
+        "Resident Evil 2 (USA) (Disc 1).chd",
+        "Resident Evil 2 (USA) (Disc 2).chd",
+        "Resident Evil 2 (USA) (Disc 3).chd",
+        "Resident Evil 2 (USA) (Disc 4).chd",
+        "Resident Evil 2 (USA).m3u",
+        "fix/bio2 1.10.exe",
+        "fix/config.ini",
+        "fix/ddraw.dll"
+    ],
     "main_game_exe": [
         "ResidentEvil2/bio2 1.10.exe"
     ],

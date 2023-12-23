@@ -1,4 +1,15 @@
 {
+    "files": [
+        "Black & White 2 (USA) (Disc 1).chd",
+        "Black & White 2 (USA) (Disc 2).chd",
+        "Black & White 2 (USA) (Disc 3).chd",
+        "Black & White 2 (USA) (Disc 4).chd",
+        "Black & White 2 (USA).m3u",
+        "Black & White 2 (USA).txt",
+        "update/B&W2 Fan Patch v1.42 Installer.exe",
+        "update/BW2Patch1_1.exe",
+        "update/BW2Patch1_2.exe"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/arun.exe",
     "steps": {
         "preinstall": [

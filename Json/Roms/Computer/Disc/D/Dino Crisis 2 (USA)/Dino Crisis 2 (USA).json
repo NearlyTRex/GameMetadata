@@ -1,4 +1,8 @@
 {
+    "files": [
+        "Dino Crisis 2 (USA).chd",
+        "fix/dino2.exe"
+    ],
     "steps": {
         "preinstall": [
             {

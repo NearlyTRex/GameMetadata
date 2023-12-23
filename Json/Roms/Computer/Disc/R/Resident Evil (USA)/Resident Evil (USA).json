@@ -1,4 +1,15 @@
 {
+    "files": [
+        "Resident Evil (USA) (Disc 1).chd",
+        "Resident Evil (USA) (Disc 2).chd",
+        "Resident Evil (USA) (Disc 3).chd",
+        "Resident Evil (USA).m3u",
+        "fix/BIOHAZARD_DC.EXE",
+        "fix/BIOHAZARD_DS.EXE",
+        "fix/Biohazard.exe",
+        "fix/config.ini",
+        "fix/ddraw.dll"
+    ],
     "main_game_exe": [
         "ResidentEvil/Biohazard.exe"
     ],

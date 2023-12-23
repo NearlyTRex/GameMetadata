@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Sims, The - Complete Collection (USA) (Disc 1).chd",
+        "Sims, The - Complete Collection (USA) (Disc 2).chd",
+        "Sims, The - Complete Collection (USA) (Disc 3).chd",
+        "Sims, The - Complete Collection (USA) (Disc 4).chd",
+        "Sims, The - Complete Collection (USA).m3u",
+        "Sims, The - Complete Collection (USA).txt"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/start.exe",
     "steps": {
         "preinstall": [

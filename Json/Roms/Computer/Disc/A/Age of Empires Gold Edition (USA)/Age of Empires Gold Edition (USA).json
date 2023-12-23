@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Age of Empires Gold Edition (USA).chd",
+        "fix/EMPIRES.EXE",
+        "fix/EMPIRESX.EXE"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/AOESETUP.EXE",
     "steps": {
         "postinstall": [

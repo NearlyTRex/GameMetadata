@@ -1,4 +1,17 @@
 {
+    "files": [
+        "Resident Evil 3 - Nemesis (USA) (Disc 1).chd",
+        "Resident Evil 3 - Nemesis (USA) (Disc 2).chd",
+        "Resident Evil 3 - Nemesis (USA) (Disc 3).chd",
+        "Resident Evil 3 - Nemesis (USA).m3u",
+        "fix/BIOHAZARD(R) 3 PC.exe",
+        "fix/MERCENARIES.exe",
+        "fix/config.ini",
+        "fix/ddraw.dll",
+        "fix/readme.txt",
+        "fix/rofs4.dat",
+        "fix/xaudio2_9.dll"
+    ],
     "main_game_exe": [
         "ResidentEvil3/BIOHAZARD(R) 3 PC.exe"
     ],

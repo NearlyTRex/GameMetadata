@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Starsiege Universe (USA).chd"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Starsiege Universe (USA).chd"
 }

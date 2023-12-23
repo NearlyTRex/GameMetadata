@@ -1,4 +1,8 @@
 {
+    "files": [
+        "Nox (USA).chd",
+        "update/OpenNox-v1.8.11.exe"
+    ],
     "steps": {
         "postinstall": [
             {

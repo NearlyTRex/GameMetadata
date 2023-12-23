@@ -1,4 +1,10 @@
 {
+    "files": [
+        "Grim Fandango (USA) (Disc 1).chd",
+        "Grim Fandango (USA) (Disc 2).chd",
+        "Grim Fandango (USA).m3u",
+        "update/gfupd101.exe"
+    ],
     "is_scumm": true,
     "steps": {
         "preinstall": [

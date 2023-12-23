@@ -1,4 +1,11 @@
 {
+    "files": [
+        "Alone in the Dark - The New Nightmare (USA) (Disc 1).chd",
+        "Alone in the Dark - The New Nightmare (USA) (Disc 2).chd",
+        "Alone in the Dark - The New Nightmare (USA) (Disc 3).chd",
+        "Alone in the Dark - The New Nightmare (USA).m3u",
+        "fix/alone4.exe"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/SETUP.EXE",
     "steps": {
         "postinstall": [

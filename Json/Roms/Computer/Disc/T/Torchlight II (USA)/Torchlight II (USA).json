@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Torchlight II (USA).chd"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Torchlight II (USA).chd"
 }

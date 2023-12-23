@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Land of the Dead - Road to Fiddler's Green (USA) (Disc 1).chd",
+        "Land of the Dead - Road to Fiddler's Green (USA) (Disc 2).chd",
+        "Land of the Dead - Road to Fiddler's Green (USA).m3u"
+    ],
     "installer_exe": "$DISC_ONE_ROOT/Setup.exe",
     "steps": {
         "preinstall": [

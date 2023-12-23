@@ -1,4 +1,8 @@
 {
+    "files": [
+        "Rise of Nations - Rise of Legends (USA).chd",
+        "Rise of Nations - Rise of Legends (USA).txt"
+    ],
     "installer_exe": "$DISC_MAIN_ROOT/setup.exe",
     "sandbox": {
         "wine": {

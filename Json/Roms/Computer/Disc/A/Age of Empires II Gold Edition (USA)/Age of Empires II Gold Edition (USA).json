@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Age of Empires II Gold Edition (USA) (Disc 1).chd",
+        "Age of Empires II Gold Edition (USA) (Disc 2).chd",
+        "Age of Empires II Gold Edition (USA).m3u"
+    ],
     "installer_exe": [
         "$DISC_ONE_ROOT/AOESETUP.EXE",
         "$DISC_TWO_ROOT/AOCSETUP.EXE"
