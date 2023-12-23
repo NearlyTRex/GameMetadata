@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/doodlegod_ost_mp3_1411516234.zip"
+        "doodlegod_ost_mp3_1411516234.zip"
+    ],
+    "files": [
+        "DoodleGodSetup_fixed.exe",
+        "extra/doodlegod_ost_mp3_1411516234.zip"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/DoodleGodSetup_fixed.exe"

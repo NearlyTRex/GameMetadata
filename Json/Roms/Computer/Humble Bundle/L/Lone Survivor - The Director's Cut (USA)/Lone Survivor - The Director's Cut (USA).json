@@ -1,4 +1,7 @@
 {
+    "files": [
+        "LoneSurvivor-PC.exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LoneSurvivor-PC.exe"
     ],

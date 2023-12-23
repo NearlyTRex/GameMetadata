@@ -1,4 +1,7 @@
 {
+    "files": [
+        "home-windows-v1.6.3.exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/home-windows-v1.6.3.exe"
     ],

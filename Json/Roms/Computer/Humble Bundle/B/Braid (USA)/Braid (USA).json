@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/braid_ost_flac_1433448506.zip",
-        "$SETUP_MAIN_ROOT/extra/braid_ost_mp3_1433448506.zip"
+        "braid_ost_flac_1433448506.zip",
+        "braid_ost_mp3_1433448506.zip"
+    ],
+    "files": [
+        "BraidSetup1448938528.exe",
+        "extra/braid_ost_flac_1433448506.zip",
+        "extra/braid_ost_mp3_1433448506.zip"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/BraidSetup1448938528.exe"

@@ -1,4 +1,7 @@
 {
+    "files": [
+        "NeverendingNightmares-3.0.22218.msi"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/NeverendingNightmares-3.0.22218.msi"
     ],

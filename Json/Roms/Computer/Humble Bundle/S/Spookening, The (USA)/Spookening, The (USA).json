@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Spookening_Windows.exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Spookening_Windows.exe"
     ],

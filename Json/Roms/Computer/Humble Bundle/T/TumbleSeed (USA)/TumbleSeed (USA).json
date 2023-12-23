@@ -1,4 +1,7 @@
 {
+    "files": [
+        "TumbleSeed_WIN_4Peaks.exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/TumbleSeed_WIN_4Peaks.exe"
     ],

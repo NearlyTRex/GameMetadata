@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/pitiri1977_ost_mp3_1386101773.zip"
+        "pitiri1977_ost_mp3_1386101773.zip"
+    ],
+    "files": [
+        "Pitiri1977_windows_1386124298.exe",
+        "extra/pitiri1977_ost_mp3_1386101773.zip"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Pitiri1977_windows_1386124298.exe"

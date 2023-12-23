@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/theballadofthespacebabies_flac_1373669240.zip",
-        "$SETUP_MAIN_ROOT/extra/theballadofthespacebabies_mp3_1373669240.zip"
+        "theballadofthespacebabies_flac_1373669240.zip",
+        "theballadofthespacebabies_mp3_1373669240.zip"
+    ],
+    "files": [
+        "extra/theballadofthespacebabies_flac_1373669240.zip",
+        "extra/theballadofthespacebabies_mp3_1373669240.zip",
+        "swordandsworcery-windows-1.02-1344449589.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/swordandsworcery-windows-1.02-1344449589.exe"

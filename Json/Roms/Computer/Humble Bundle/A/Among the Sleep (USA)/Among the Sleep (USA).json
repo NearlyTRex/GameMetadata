@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/amongthesleep_ost_flac_1436320012.zip",
-        "$SETUP_MAIN_ROOT/extra/amongthesleep_ost_mp3_1436320022.zip"
+        "amongthesleep_ost_flac_1436320012.zip",
+        "amongthesleep_ost_mp3_1436320022.zip"
+    ],
+    "files": [
+        "Among_the_Sleep_Windows.exe",
+        "extra/amongthesleep_ost_flac_1436320012.zip",
+        "extra/amongthesleep_ost_mp3_1436320022.zip"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Among_the_Sleep_Windows.exe"

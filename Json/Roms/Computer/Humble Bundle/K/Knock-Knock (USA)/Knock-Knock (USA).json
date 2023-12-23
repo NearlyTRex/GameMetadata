@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/knockknock_ost_mp3_1414095807.zip"
+        "knockknock_ost_mp3_1414095807.zip"
+    ],
+    "files": [
+        "extra/knockknock_ost_mp3_1414095807.zip",
+        "knockknock_win_1393371335.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/knockknock_win_1393371335.exe"

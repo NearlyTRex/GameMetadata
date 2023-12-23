@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Supergiant_Games_Bastion_Original_Soundtrack_FLAC.zip",
-        "$SETUP_MAIN_ROOT/extra/Supergiant_Games_Bastion_Original_Soundtrack_MP3.zip"
+        "Supergiant_Games_Bastion_Original_Soundtrack_FLAC.zip",
+        "Supergiant_Games_Bastion_Original_Soundtrack_MP3.zip"
+    ],
+    "files": [
+        "Bastion_DRM_Free_r50406.exe",
+        "extra/Supergiant_Games_Bastion_Original_Soundtrack_FLAC.zip",
+        "extra/Supergiant_Games_Bastion_Original_Soundtrack_MP3.zip"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Bastion_DRM_Free_r50406.exe"

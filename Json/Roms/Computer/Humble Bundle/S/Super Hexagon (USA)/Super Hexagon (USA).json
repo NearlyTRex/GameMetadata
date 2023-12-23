@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/chipzel_-_super_hexagon_ep-flac.zip",
-        "$SETUP_MAIN_ROOT/extra/chipzel_-_super_hexagon_ep-mp3.zip"
+        "chipzel_-_super_hexagon_ep-flac.zip",
+        "chipzel_-_super_hexagon_ep-mp3.zip"
+    ],
+    "files": [
+        "extra/chipzel_-_super_hexagon_ep-flac.zip",
+        "extra/chipzel_-_super_hexagon_ep-mp3.zip",
+        "super_hexagon-windows.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/super_hexagon-windows.exe"
