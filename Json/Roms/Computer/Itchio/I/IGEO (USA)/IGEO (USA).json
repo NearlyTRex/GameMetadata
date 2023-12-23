@@ -1,4 +1,7 @@
 {
+    "files": [
+        "IGEO (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/IGEO (USA).exe"
     ],

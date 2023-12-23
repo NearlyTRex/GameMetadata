@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Welcome to Elk (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Welcome to Elk (USA).exe"
     ],

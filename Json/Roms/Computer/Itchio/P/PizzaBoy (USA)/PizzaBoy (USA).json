@@ -1,4 +1,7 @@
 {
+    "files": [
+        "PizzaBoy (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/PizzaBoy (USA).exe"
     ],

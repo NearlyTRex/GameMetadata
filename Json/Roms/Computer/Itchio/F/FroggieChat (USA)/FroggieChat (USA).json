@@ -1,4 +1,7 @@
 {
+    "files": [
+        "FroggieChat (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/FroggieChat (USA).exe"
     ],

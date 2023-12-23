@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Fuzz Dungeon (USA).7z.001",
+        "Fuzz Dungeon (USA).7z.002",
+        "Fuzz Dungeon (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Fuzz Dungeon (USA).exe"
     ],

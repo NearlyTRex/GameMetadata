@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Stardrop (USA).7z.001",
+        "Stardrop (USA).7z.002",
+        "Stardrop (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Stardrop (USA).exe"
     ],
