@@ -2098,6 +2098,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Caveblazers (USA)
+file: Computer/GOG/C/Caveblazers (USA)/Caveblazers (USA).json
+players: 1
+assets.boxfront: BoxFront/Caveblazers (USA).jpg
+assets.boxback: BoxBack/Caveblazers (USA).jpg
+assets.background: Background/Caveblazers (USA).jpg
+assets.screenshot: Screenshot/Caveblazers (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Cayne (USA)
 file: Computer/GOG/C/Cayne (USA)/Cayne (USA).json
 developer: THE BROTHERHOOD
