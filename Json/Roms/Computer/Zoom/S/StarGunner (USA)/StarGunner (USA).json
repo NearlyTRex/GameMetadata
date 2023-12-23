@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/StarGunner-MP3-Soundtrack-1.0.zip",
-        "$SETUP_MAIN_ROOT/extra/StarGunner-Manual-1.0.pdf"
+        "StarGunner-MP3-Soundtrack-1.0.zip",
+        "StarGunner-Manual-1.0.pdf"
+    ],
+    "files": [
+        "StarGunner-English-Setup-1.2.exe",
+        "extra/StarGunner-MP3-Soundtrack-1.0.zip",
+        "extra/StarGunner-Manual-1.0.pdf"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/StarGunner-English-Setup-1.2.exe"

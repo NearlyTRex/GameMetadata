@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Pharaoh's-Tomb-English-Manual-1.0.pdf"
+        "Pharaoh's-Tomb-English-Manual-1.0.pdf"
+    ],
+    "files": [
+        "Pharaoh's-Tomb-English-Setup-1.0.exe",
+        "extra/Pharaoh's-Tomb-English-Manual-1.0.pdf"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Pharaoh's-Tomb-English-Setup-1.0.exe"

@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Shadow-Warrior-Classic-Complete-FLAC-Soundtrack-1.0.zip",
-        "$SETUP_MAIN_ROOT/extra/Shadow-Warrior-Classic-Complete-Manual-1.0.pdf"
+        "Shadow-Warrior-Classic-Complete-FLAC-Soundtrack-1.0.zip",
+        "Shadow-Warrior-Classic-Complete-Manual-1.0.pdf"
+    ],
+    "files": [
+        "Shadow-Warrior-Classic-Complete-English-Setup-1.1.exe",
+        "extra/Shadow-Warrior-Classic-Complete-FLAC-Soundtrack-1.0.zip",
+        "extra/Shadow-Warrior-Classic-Complete-Manual-1.0.pdf"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Shadow-Warrior-Classic-Complete-English-Setup-1.1.exe"

@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Warzone-2100-Manual-1.0.pdf"
+        "Warzone-2100-Manual-1.0.pdf"
+    ],
+    "files": [
+        "extra/Warzone-2100-Manual-1.0.pdf",
+        "warzone2100_win_x64_installer.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/warzone2100_win_x64_installer.exe"
