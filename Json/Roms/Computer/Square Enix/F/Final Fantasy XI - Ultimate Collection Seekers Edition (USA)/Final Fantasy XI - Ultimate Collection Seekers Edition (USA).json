@@ -1,4 +1,11 @@
 {
+    "files": [
+        "FFXIFullSetup_US.part1.exe",
+        "FFXIFullSetup_US.part2.rar",
+        "FFXIFullSetup_US.part3.rar",
+        "FFXIFullSetup_US.part4.rar",
+        "FFXIFullSetup_US.part5.rar"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/FFXIFullSetup_US.part1.exe"
     ],
