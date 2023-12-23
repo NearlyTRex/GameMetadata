@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Detention-ost-mp3-20210316.zip"
+        "Detention-ost-mp3-20210316.zip"
+    ],
+    "files": [
+        "Detention-windows(7821293f).exe",
+        "extra/Detention-ost-mp3-20210316.zip"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Detention-windows(7821293f).exe"
