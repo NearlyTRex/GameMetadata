@@ -10,7 +10,12 @@
         "update/BW2Patch1_1.exe",
         "update/BW2Patch1_2.exe"
     ],
-    "installer_exe": "$DISC_ONE_ROOT/arun.exe",
+    "installer_exe": [
+        "$DISC_ONE_ROOT/arun.exe",
+        "$SETUP_MAIN_ROOT/update/BW2Patch1_1.exe",
+        "$SETUP_MAIN_ROOT/update/BW2Patch1_2.exe",
+        "$SETUP_MAIN_ROOT/update/B&W2 Fan Patch v1.42 Installer.exe"
+    ],
     "steps": {
         "preinstall": [
             {
@@ -35,8 +40,8 @@
     },
     "transform_file": "Black & White 2 (USA).m3u",
     "update": [
-        "$SETUP_MAIN_ROOT/update/BW2Patch1_1.exe",
-        "$SETUP_MAIN_ROOT/update/BW2Patch1_2.exe",
-        "$SETUP_MAIN_ROOT/update/B&W2 Fan Patch v1.42 Installer.exe"
+        "B&W2 Fan Patch v1.42 Installer.exe",
+        "BW2Patch1_1.exe",
+        "BW2Patch1_2.exe"
     ]
 }

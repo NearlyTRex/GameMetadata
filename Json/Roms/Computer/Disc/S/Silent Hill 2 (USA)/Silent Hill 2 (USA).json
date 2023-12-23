@@ -16,7 +16,10 @@
         "update/SH2EEsetup.exe",
         "update/local_sh2ee.dat"
     ],
-    "installer_exe": "$DISC_ONE_ROOT/Autorun.exe",
+    "installer_exe": [
+        "$DISC_ONE_ROOT/Autorun.exe",
+        "$SETUP_MAIN_ROOT/update/SH2EEsetup.exe"
+    ],
     "main_game_exe": [
         "Program Files (x86)/Konami/Silent Hill 2/sh2pc.exe"
     ],
@@ -47,6 +50,16 @@
     },
     "transform_file": "Silent Hill 2 (USA).m3u",
     "update": [
-        "$SETUP_MAIN_ROOT/update/SH2EEsetup.exe"
+        "SH2EE_Audio_Enhancement_Pack_2.0.5.zip",
+        "SH2EE_DSOAL_0.9.2_OpenALSoft_1.22.2.zip",
+        "SH2EE_Enhanced_EXE_NA_v1.0.zip",
+        "SH2EE_Enhancements_Module_2.1.2070.0.zip",
+        "SH2EE_Essential_Files_1.2.5.zip",
+        "SH2EE_FMV_Credits_1.5.4b.zip",
+        "SH2EE_FMV_Enhancement_Pack_1.5.4b.zip",
+        "SH2EE_Image_Enhancement_Pack_1.1.2.zip",
+        "SH2EE_Xidi_4.1.1b.zip",
+        "SH2EEsetup.exe",
+        "local_sh2ee.dat"
     ]
 }

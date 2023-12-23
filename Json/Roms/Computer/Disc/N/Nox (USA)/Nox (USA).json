@@ -3,6 +3,9 @@
         "Nox (USA).chd",
         "update/OpenNox-v1.8.11.exe"
     ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/update/OpenNox-v1.8.11.exe"
+    ],
     "steps": {
         "postinstall": [
             {
@@ -35,6 +38,6 @@
     },
     "transform_file": "Nox (USA).chd",
     "update": [
-        "$SETUP_MAIN_ROOT/update/OpenNox-v1.8.11.exe"
+        "OpenNox-v1.8.11.exe"
     ]
 }

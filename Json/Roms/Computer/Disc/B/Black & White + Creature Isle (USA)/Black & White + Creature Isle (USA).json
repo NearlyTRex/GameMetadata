@@ -14,7 +14,10 @@
         "$DISC_ONE_ROOT/Autorun.exe",
         "$DISC_TWO_ROOT/Autorun.exe",
         "$DISC_THREE_ROOT/Horse/Setup.exe",
-        "$DISC_THREE_ROOT/Leopard/Setup.exe"
+        "$DISC_THREE_ROOT/Leopard/Setup.exe",
+        "$SETUP_MAIN_ROOT/update/black_white_patch_v1_20.exe",
+        "$SETUP_MAIN_ROOT/update/BWFanPatchInstaller.exe",
+        "$SETUP_MAIN_ROOT/update/BWCIFanPatchInstaller.exe"
     ],
     "steps": {
         "postinstall": [
@@ -92,8 +95,8 @@
     },
     "transform_file": "Black & White + Creature Isle (USA).m3u",
     "update": [
-        "$SETUP_MAIN_ROOT/update/black_white_patch_v1_20.exe",
-        "$SETUP_MAIN_ROOT/update/BWFanPatchInstaller.exe",
-        "$SETUP_MAIN_ROOT/update/BWCIFanPatchInstaller.exe"
+        "BWCIFanPatchInstaller.exe",
+        "BWFanPatchInstaller.exe",
+        "black_white_patch_v1_20.exe"
     ]
 }

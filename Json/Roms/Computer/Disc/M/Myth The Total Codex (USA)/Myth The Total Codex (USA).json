@@ -7,7 +7,10 @@
         "Myth The Total Codex (USA).m3u",
         "update/Myth2_184.exe"
     ],
-    "installer_exe": "$DISC_THREE_ROOT/Autoplay.exe",
+    "installer_exe": [
+        "$DISC_THREE_ROOT/Autoplay.exe",
+        "$SETUP_MAIN_ROOT/update/Myth2_184.exe"
+    ],
     "main_game_exe": [
         "Program Files (x86)/Myth II/Myth II.exe"
     ],
@@ -62,6 +65,6 @@
     },
     "transform_file": "Myth The Total Codex (USA).m3u",
     "update": [
-        "$SETUP_MAIN_ROOT/update/Myth2_184.exe"
+        "Myth2_184.exe"
     ]
 }
