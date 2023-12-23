@@ -1,4 +1,11 @@
 {
+    "files": [
+        "Borderlands (USA).7z.001",
+        "Borderlands (USA).7z.002",
+        "Borderlands (USA).7z.003",
+        "Borderlands (USA).7z.004",
+        "Borderlands (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Borderlands (USA).exe"
     ],

@@ -1,4 +1,9 @@
 {
+    "files": [
+        "LEGO The Hobbit (USA).7z.001",
+        "LEGO The Hobbit (USA).7z.002",
+        "LEGO The Hobbit (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO The Hobbit (USA).exe"
     ],

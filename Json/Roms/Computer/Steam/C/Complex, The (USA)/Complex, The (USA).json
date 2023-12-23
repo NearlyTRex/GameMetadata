@@ -1,4 +1,10 @@
 {
+    "files": [
+        "Complex, The (USA).7z.001",
+        "Complex, The (USA).7z.002",
+        "Complex, The (USA).7z.003",
+        "Complex, The (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Complex, The (USA).exe"
     ],

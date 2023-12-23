@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Stray (USA).7z.001",
+        "Stray (USA).7z.002",
+        "Stray (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Stray (USA).exe"
     ],

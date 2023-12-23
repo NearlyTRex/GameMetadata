@@ -1,4 +1,9 @@
 {
+    "files": [
+        "Deluded (USA).7z.001",
+        "Deluded (USA).7z.002",
+        "Deluded (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Deluded (USA).exe"
     ],

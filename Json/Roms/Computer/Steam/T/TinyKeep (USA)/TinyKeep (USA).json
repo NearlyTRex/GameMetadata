@@ -1,4 +1,7 @@
 {
+    "files": [
+        "TinyKeep (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/TinyKeep (USA).exe"
     ],
