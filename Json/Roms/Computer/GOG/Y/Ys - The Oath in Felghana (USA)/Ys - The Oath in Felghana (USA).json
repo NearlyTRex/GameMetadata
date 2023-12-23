@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/ys_felghana_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/ys_felghana_wallpapers.zip"
+        "ys_felghana_avatars.zip",
+        "ys_felghana_wallpapers.zip"
+    ],
+    "files": [
+        "extra/ys_felghana_avatars.zip",
+        "extra/ys_felghana_wallpapers.zip",
+        "setup_ys_the_oath_in_felghana_2020.03.11_(36759).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ys_the_oath_in_felghana_2020.03.11_(36759).exe"

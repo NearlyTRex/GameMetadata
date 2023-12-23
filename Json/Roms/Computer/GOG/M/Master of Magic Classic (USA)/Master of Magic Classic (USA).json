@@ -1,12 +1,22 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Master_of_MagicWallpapers.zip",
-        "$SETUP_MAIN_ROOT/extra/Master_of_Magic_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/Master_of_Magic_ost_new.zip",
-        "$SETUP_MAIN_ROOT/extra/Master_of_Magic_spellbook.zip",
-        "$SETUP_MAIN_ROOT/extra/master_of_magic_advances_chart.zip",
-        "$SETUP_MAIN_ROOT/extra/mom_spellbook_german.zip",
-        "$SETUP_MAIN_ROOT/extra/older_master_of_magic_1.3.1_(28044).zip"
+        "Master_of_MagicWallpapers.zip",
+        "Master_of_Magic_manual.zip",
+        "Master_of_Magic_ost_new.zip",
+        "Master_of_Magic_spellbook.zip",
+        "master_of_magic_advances_chart.zip",
+        "mom_spellbook_german.zip",
+        "older_master_of_magic_1.3.1_(28044).zip"
+    ],
+    "files": [
+        "extra/Master_of_MagicWallpapers.zip",
+        "extra/Master_of_Magic_manual.zip",
+        "extra/Master_of_Magic_ost_new.zip",
+        "extra/Master_of_Magic_spellbook.zip",
+        "extra/master_of_magic_advances_chart.zip",
+        "extra/mom_spellbook_german.zip",
+        "extra/older_master_of_magic_1.3.1_(28044).zip",
+        "setup_master_of_magic_classic_momc_1.60.00_(67790).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_master_of_magic_classic_momc_1.60.00_(67790).exe"

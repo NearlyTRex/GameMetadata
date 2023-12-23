@@ -1,6 +1,11 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/sw_kotor_manual.zip"
+        "sw_kotor_manual.zip"
+    ],
+    "files": [
+        "extra/sw_kotor_manual.zip",
+        "setup_star_wars_-_knights_of_the_old_republic_1.03_(29871)-1.bin",
+        "setup_star_wars_-_knights_of_the_old_republic_1.03_(29871).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_wars_-_knights_of_the_old_republic_1.03_(29871).exe"

@@ -1,6 +1,13 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/br2_tc_wallpapers.zip"
+        "br2_tc_wallpapers.zip"
+    ],
+    "files": [
+        "extra/br2_tc_wallpapers.zip",
+        "setup_bloodrayne_2_terminal_cut_1.04_(49566)-1.bin",
+        "setup_bloodrayne_2_terminal_cut_1.04_(49566)-2.bin",
+        "setup_bloodrayne_2_terminal_cut_1.04_(49566)-3.bin",
+        "setup_bloodrayne_2_terminal_cut_1.04_(49566).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bloodrayne_2_terminal_cut_1.04_(49566).exe"

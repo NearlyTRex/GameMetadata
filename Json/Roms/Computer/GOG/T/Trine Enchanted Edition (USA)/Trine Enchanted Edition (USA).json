@@ -1,11 +1,21 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/trine_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_ee_wallpaper.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_wallpapers.zip"
+        "trine_artworks.zip",
+        "trine_avatars.zip",
+        "trine_ee_wallpaper.zip",
+        "trine_manual.zip",
+        "trine_soundtrack.zip",
+        "trine_wallpapers.zip"
+    ],
+    "files": [
+        "extra/trine_artworks.zip",
+        "extra/trine_avatars.zip",
+        "extra/trine_ee_wallpaper.zip",
+        "extra/trine_manual.zip",
+        "extra/trine_soundtrack.zip",
+        "extra/trine_wallpapers.zip",
+        "setup_trine_enhanced_edition_2.12(a)_(50506)-1.bin",
+        "setup_trine_enhanced_edition_2.12(a)_(50506).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_trine_enhanced_edition_2.12(a)_(50506).exe"

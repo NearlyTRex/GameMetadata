@@ -1,12 +1,22 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/shadow_man_alt_ost.zip",
-        "$SETUP_MAIN_ROOT/extra/shadow_man_avatar.zip",
-        "$SETUP_MAIN_ROOT/extra/shadow_man_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/shadow_man_mapp.zip",
-        "$SETUP_MAIN_ROOT/extra/shadow_man_ost.zip",
-        "$SETUP_MAIN_ROOT/extra/shadow_man_quick_reference.zip",
-        "$SETUP_MAIN_ROOT/extra/shadow_man_strategy_guide.zip"
+        "shadow_man_alt_ost.zip",
+        "shadow_man_avatar.zip",
+        "shadow_man_manual.zip",
+        "shadow_man_mapp.zip",
+        "shadow_man_ost.zip",
+        "shadow_man_quick_reference.zip",
+        "shadow_man_strategy_guide.zip"
+    ],
+    "files": [
+        "extra/shadow_man_alt_ost.zip",
+        "extra/shadow_man_avatar.zip",
+        "extra/shadow_man_manual.zip",
+        "extra/shadow_man_mapp.zip",
+        "extra/shadow_man_ost.zip",
+        "extra/shadow_man_quick_reference.zip",
+        "extra/shadow_man_strategy_guide.zip",
+        "setup_shadow_man_1.0_(22189).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shadow_man_1.0_(22189).exe"

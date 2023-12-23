@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/downfall_redux_manual.zip"
+        "downfall_redux_manual.zip"
+    ],
+    "files": [
+        "extra/downfall_redux_manual.zip",
+        "setup_downfall_redux_1.1.3_(21295).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_downfall_redux_1.1.3_(21295).exe"

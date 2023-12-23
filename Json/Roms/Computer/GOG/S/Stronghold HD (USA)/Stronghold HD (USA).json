@@ -1,11 +1,21 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/setup_stronghold_2.0.0_classic.zip",
-        "$SETUP_MAIN_ROOT/extra/stronghold_excalibur_pack.zip",
-        "$SETUP_MAIN_ROOT/extra/stronghold_hd_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/stronghold_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/stronghold_wallpaper.zip",
-        "$SETUP_MAIN_ROOT/extra/super_castle_attack.zip"
+        "setup_stronghold_2.0.0_classic.zip",
+        "stronghold_excalibur_pack.zip",
+        "stronghold_hd_soundtrack.zip",
+        "stronghold_manual.zip",
+        "stronghold_wallpaper.zip",
+        "super_castle_attack.zip"
+    ],
+    "files": [
+        "extra/setup_stronghold_2.0.0_classic.zip",
+        "extra/stronghold_excalibur_pack.zip",
+        "extra/stronghold_hd_soundtrack.zip",
+        "extra/stronghold_manual.zip",
+        "extra/stronghold_wallpaper.zip",
+        "extra/super_castle_attack.zip",
+        "setup_stronghold_hd_1.41_(20341)-1.bin",
+        "setup_stronghold_hd_1.41_(20341).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_stronghold_hd_1.41_(20341).exe"

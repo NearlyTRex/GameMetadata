@@ -1,8 +1,14 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Dragonsphere_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/dragonsphere_examination_paper.zip",
-        "$SETUP_MAIN_ROOT/extra/dragonsphere_ost_flac.zip"
+        "Dragonsphere_manual.zip",
+        "dragonsphere_examination_paper.zip",
+        "dragonsphere_ost_flac.zip"
+    ],
+    "files": [
+        "extra/Dragonsphere_manual.zip",
+        "extra/dragonsphere_examination_paper.zip",
+        "extra/dragonsphere_ost_flac.zip",
+        "setup_dragonsphere_1.0_(28044).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dragonsphere_1.0_(28044).exe"

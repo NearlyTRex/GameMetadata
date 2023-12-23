@@ -1,11 +1,20 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/ultima_8_chronicle.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_8_cluebook.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_8_lost_vale_design_documents.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_8_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_8_map.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_8_reference_card.zip"
+        "ultima_8_chronicle.zip",
+        "ultima_8_cluebook.zip",
+        "ultima_8_lost_vale_design_documents.zip",
+        "ultima_8_manual.zip",
+        "ultima_8_map.zip",
+        "ultima_8_reference_card.zip"
+    ],
+    "files": [
+        "extra/ultima_8_chronicle.zip",
+        "extra/ultima_8_cluebook.zip",
+        "extra/ultima_8_lost_vale_design_documents.zip",
+        "extra/ultima_8_manual.zip",
+        "extra/ultima_8_map.zip",
+        "extra/ultima_8_reference_card.zip",
+        "setup_ultima_viii_-_pagan_1.0_cs_v2_(28831).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_viii_-_pagan_1.0_cs_v2_(28831).exe"

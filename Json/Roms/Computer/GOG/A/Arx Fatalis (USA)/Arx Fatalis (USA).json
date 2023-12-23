@@ -1,11 +1,21 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/arx_fatalis_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/arx_fatalis_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/arx_fatalis_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/arx_fatalis_screensaver.zip",
-        "$SETUP_MAIN_ROOT/extra/arx_fatalis_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/arx_fatalis_wallpapers.zip"
+        "arx_fatalis_artworks.zip",
+        "arx_fatalis_avatars.zip",
+        "arx_fatalis_manual.zip",
+        "arx_fatalis_screensaver.zip",
+        "arx_fatalis_soundtrack.zip",
+        "arx_fatalis_wallpapers.zip"
+    ],
+    "files": [
+        "extra/arx_fatalis_artworks.zip",
+        "extra/arx_fatalis_avatars.zip",
+        "extra/arx_fatalis_manual.zip",
+        "extra/arx_fatalis_screensaver.zip",
+        "extra/arx_fatalis_soundtrack.zip",
+        "extra/arx_fatalis_wallpapers.zip",
+        "setup_arx_fatalis_1.22_(38577)-1.bin",
+        "setup_arx_fatalis_1.22_(38577).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_arx_fatalis_1.22_(38577).exe"

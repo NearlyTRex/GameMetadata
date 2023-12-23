@@ -1,10 +1,19 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/trine_2_artbooks.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_2_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_2_goblin_menace_ost.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_2_ost.zip",
-        "$SETUP_MAIN_ROOT/extra/trine_2_wallpapers.zip"
+        "trine_2_artbooks.zip",
+        "trine_2_avatars.zip",
+        "trine_2_goblin_menace_ost.zip",
+        "trine_2_ost.zip",
+        "trine_2_wallpapers.zip"
+    ],
+    "files": [
+        "extra/trine_2_artbooks.zip",
+        "extra/trine_2_avatars.zip",
+        "extra/trine_2_goblin_menace_ost.zip",
+        "extra/trine_2_ost.zip",
+        "extra/trine_2_wallpapers.zip",
+        "setup_trine_2_-_complete_story_2.01_build_447_(15973)-1.bin",
+        "setup_trine_2_-_complete_story_2.01_build_447_(15973).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_trine_2_-_complete_story_2.01_build_447_(15973).exe"

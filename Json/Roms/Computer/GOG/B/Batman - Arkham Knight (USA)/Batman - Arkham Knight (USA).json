@@ -1,9 +1,27 @@
 {
-    "dlc": [
-        "$SETUP_MAIN_ROOT/dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902).exe"
+    "files": [
+        "dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902)-1.bin",
+        "dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902)-2.bin",
+        "dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902)-3.bin",
+        "dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902)-4.bin",
+        "dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902).exe",
+        "setup_batman_arkham_knight_1.98_(37902)-1.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-10.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-11.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-12.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-2.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-3.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-4.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-5.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-6.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-7.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-8.bin",
+        "setup_batman_arkham_knight_1.98_(37902)-9.bin",
+        "setup_batman_arkham_knight_1.98_(37902).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_batman_arkham_knight_1.98_(37902).exe"
+        "$SETUP_MAIN_ROOT/setup_batman_arkham_knight_1.98_(37902).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902).exe"
     ],
     "transform_file": "setup_batman_arkham_knight_1.98_(37902).exe"
 }

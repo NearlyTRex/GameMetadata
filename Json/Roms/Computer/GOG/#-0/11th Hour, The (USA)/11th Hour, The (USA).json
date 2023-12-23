@@ -1,11 +1,21 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/the_11th_hour_avatar.zip",
-        "$SETUP_MAIN_ROOT/extra/the_11th_hour_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/the_11th_hour_rm_jurnal.zip",
-        "$SETUP_MAIN_ROOT/extra/the_11th_hour_script.zip",
-        "$SETUP_MAIN_ROOT/extra/the_11th_hour_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/the_11th_hour_the_stauf_files.zip"
+        "the_11th_hour_avatar.zip",
+        "the_11th_hour_manual.zip",
+        "the_11th_hour_rm_jurnal.zip",
+        "the_11th_hour_script.zip",
+        "the_11th_hour_soundtrack.zip",
+        "the_11th_hour_the_stauf_files.zip"
+    ],
+    "files": [
+        "extra/the_11th_hour_avatar.zip",
+        "extra/the_11th_hour_manual.zip",
+        "extra/the_11th_hour_rm_jurnal.zip",
+        "extra/the_11th_hour_script.zip",
+        "extra/the_11th_hour_soundtrack.zip",
+        "extra/the_11th_hour_the_stauf_files.zip",
+        "setup_the_11th_hour_1.0_(22303)-1.bin",
+        "setup_the_11th_hour_1.0_(22303).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_11th_hour_1.0_(22303).exe"

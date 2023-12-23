@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/paper_sorcerer_avatars.zip"
+        "paper_sorcerer_avatars.zip"
+    ],
+    "files": [
+        "extra/paper_sorcerer_avatars.zip",
+        "setup_paper_sorcerer_2.5_(21323).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_paper_sorcerer_2.5_(21323).exe"

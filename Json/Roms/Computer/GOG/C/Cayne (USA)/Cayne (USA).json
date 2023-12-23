@@ -1,4 +1,8 @@
 {
+    "files": [
+        "setup_cayne_2.0.0.2-1.bin",
+        "setup_cayne_2.0.0.2.exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_cayne_2.0.0.2.exe"
     ],

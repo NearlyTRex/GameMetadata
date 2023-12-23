@@ -1,6 +1,28 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/horizon_zero_dawn_digital_artbook_pdf.zip"
+        "horizon_zero_dawn_digital_artbook_pdf.zip"
+    ],
+    "files": [
+        "extra/horizon_zero_dawn_digital_artbook_pdf.zip",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-1.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-10.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-11.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-12.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-13.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-14.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-15.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-16.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-17.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-18.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-2.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-3.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-4.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-5.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-6.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-7.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-8.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037)-9.bin",
+        "setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037).exe"

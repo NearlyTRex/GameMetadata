@@ -1,13 +1,24 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/carmageddon_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/carmageddon_concept_arts.zip",
-        "$SETUP_MAIN_ROOT/extra/carmageddon_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/carmageddon_papercraft_cars.zip",
-        "$SETUP_MAIN_ROOT/extra/carmageddon_reference_card.zip",
-        "$SETUP_MAIN_ROOT/extra/carmageddon_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/carmageddon_tips_book.zip",
-        "$SETUP_MAIN_ROOT/extra/carmageddon_wallpaper.zip"
+        "carmageddon_avatars.zip",
+        "carmageddon_concept_arts.zip",
+        "carmageddon_manual.zip",
+        "carmageddon_papercraft_cars.zip",
+        "carmageddon_reference_card.zip",
+        "carmageddon_soundtrack.zip",
+        "carmageddon_tips_book.zip",
+        "carmageddon_wallpaper.zip"
+    ],
+    "files": [
+        "extra/carmageddon_avatars.zip",
+        "extra/carmageddon_concept_arts.zip",
+        "extra/carmageddon_manual.zip",
+        "extra/carmageddon_papercraft_cars.zip",
+        "extra/carmageddon_reference_card.zip",
+        "extra/carmageddon_soundtrack.zip",
+        "extra/carmageddon_tips_book.zip",
+        "extra/carmageddon_wallpaper.zip",
+        "setup_carmageddon_2.0.0.63.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_carmageddon_2.0.0.63.exe"

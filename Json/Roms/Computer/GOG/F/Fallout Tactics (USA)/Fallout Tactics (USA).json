@@ -1,18 +1,34 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/FT_Intro_Movie_Concepts.zip",
-        "$SETUP_MAIN_ROOT/extra/Fallout_Bible_gog.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_pipboys_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_series_wallpaper.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tacics_warfare.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tactics_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tactics_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tactics_bonus_mission.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tactics_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tactics_refcard.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tactics_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_tactics_wallpapers.zip",
-        "$SETUP_MAIN_ROOT/extra/ft_item_icons_pack.zip"
+        "FT_Intro_Movie_Concepts.zip",
+        "Fallout_Bible_gog.zip",
+        "fallout_pipboys_avatars.zip",
+        "fallout_series_wallpaper.zip",
+        "fallout_tacics_warfare.zip",
+        "fallout_tactics_artworks.zip",
+        "fallout_tactics_avatars.zip",
+        "fallout_tactics_bonus_mission.zip",
+        "fallout_tactics_manual.zip",
+        "fallout_tactics_refcard.zip",
+        "fallout_tactics_soundtrack.zip",
+        "fallout_tactics_wallpapers.zip",
+        "ft_item_icons_pack.zip"
+    ],
+    "files": [
+        "extra/FT_Intro_Movie_Concepts.zip",
+        "extra/Fallout_Bible_gog.zip",
+        "extra/fallout_pipboys_avatars.zip",
+        "extra/fallout_series_wallpaper.zip",
+        "extra/fallout_tacics_warfare.zip",
+        "extra/fallout_tactics_artworks.zip",
+        "extra/fallout_tactics_avatars.zip",
+        "extra/fallout_tactics_bonus_mission.zip",
+        "extra/fallout_tactics_manual.zip",
+        "extra/fallout_tactics_refcard.zip",
+        "extra/fallout_tactics_soundtrack.zip",
+        "extra/fallout_tactics_wallpapers.zip",
+        "extra/ft_item_icons_pack.zip",
+        "setup_fallout_tactics_2.1.0.12.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_fallout_tactics_2.1.0.12.exe"

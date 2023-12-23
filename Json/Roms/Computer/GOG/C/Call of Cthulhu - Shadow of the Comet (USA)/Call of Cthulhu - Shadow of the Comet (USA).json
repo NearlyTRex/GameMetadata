@@ -1,11 +1,21 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/sotc_capt_robins.zip",
-        "$SETUP_MAIN_ROOT/extra/sotc_death_certificate.zip",
-        "$SETUP_MAIN_ROOT/extra/sotc_forester_note.zip",
-        "$SETUP_MAIN_ROOT/extra/sotc_handbuch.zip",
-        "$SETUP_MAIN_ROOT/extra/sotc_jack_reeves.zip",
-        "$SETUP_MAIN_ROOT/extra/sotc_manual_eng.zip"
+        "sotc_capt_robins.zip",
+        "sotc_death_certificate.zip",
+        "sotc_forester_note.zip",
+        "sotc_handbuch.zip",
+        "sotc_jack_reeves.zip",
+        "sotc_manual_eng.zip"
+    ],
+    "files": [
+        "extra/sotc_capt_robins.zip",
+        "extra/sotc_death_certificate.zip",
+        "extra/sotc_forester_note.zip",
+        "extra/sotc_handbuch.zip",
+        "extra/sotc_jack_reeves.zip",
+        "extra/sotc_manual_eng.zip",
+        "setup_shadow_of_the_comet_1.0_(28045).exe",
+        "setup_shadow_of_the_comet_floppy_2.0.0.3.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shadow_of_the_comet_1.0_(28045).exe"

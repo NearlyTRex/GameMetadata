@@ -1,11 +1,20 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/torchlight_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/torchlight_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/torchlight_level_editor.zip",
-        "$SETUP_MAIN_ROOT/extra/torchlight_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/torchlight_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/torchlight_wallpapers.zip"
+        "torchlight_artworks.zip",
+        "torchlight_avatars.zip",
+        "torchlight_level_editor.zip",
+        "torchlight_manual.zip",
+        "torchlight_soundtrack.zip",
+        "torchlight_wallpapers.zip"
+    ],
+    "files": [
+        "extra/torchlight_artworks.zip",
+        "extra/torchlight_avatars.zip",
+        "extra/torchlight_level_editor.zip",
+        "extra/torchlight_manual.zip",
+        "extra/torchlight_soundtrack.zip",
+        "extra/torchlight_wallpapers.zip",
+        "setup_torchlight_1.15(a)_(23675).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_torchlight_1.15(a)_(23675).exe"

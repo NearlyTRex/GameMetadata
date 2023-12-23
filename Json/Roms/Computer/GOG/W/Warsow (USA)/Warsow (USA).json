@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/warsow_soundtrack.zip"
+        "warsow_soundtrack.zip"
+    ],
+    "files": [
+        "extra/warsow_soundtrack.zip",
+        "setup_warsow_2.4.0.18.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_warsow_2.4.0.18.exe"

@@ -1,11 +1,21 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/kholat_comic_book_en.zip",
-        "$SETUP_MAIN_ROOT/extra/kholat_comic_book_pl.zip",
-        "$SETUP_MAIN_ROOT/extra/kholat_map.zip",
-        "$SETUP_MAIN_ROOT/extra/kholat_ost_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/kholat_ost_mp3.zip",
-        "$SETUP_MAIN_ROOT/extra/kholat_poster.zip"
+        "kholat_comic_book_en.zip",
+        "kholat_comic_book_pl.zip",
+        "kholat_map.zip",
+        "kholat_ost_flac.zip",
+        "kholat_ost_mp3.zip",
+        "kholat_poster.zip"
+    ],
+    "files": [
+        "extra/kholat_comic_book_en.zip",
+        "extra/kholat_comic_book_pl.zip",
+        "extra/kholat_map.zip",
+        "extra/kholat_ost_flac.zip",
+        "extra/kholat_ost_mp3.zip",
+        "extra/kholat_poster.zip",
+        "setup_kholat_1.03a_(64bit)_(40572)-1.bin",
+        "setup_kholat_1.03a_(64bit)_(40572).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_kholat_1.03a_(64bit)_(40572).exe"

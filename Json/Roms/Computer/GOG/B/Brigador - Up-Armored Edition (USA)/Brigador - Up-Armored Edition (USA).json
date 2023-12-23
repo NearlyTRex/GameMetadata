@@ -1,15 +1,28 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/brigador_audiobook.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_ost_volume_i.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_ost_volume_i_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_ost_volume_ii.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_ost_volume_ii_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_uparmored_ep.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_uparmored_ep_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_uplink_ep.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_uplink_ep_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/brigador_wallpaper.zip"
+        "brigador_audiobook.zip",
+        "brigador_ost_volume_i.zip",
+        "brigador_ost_volume_i_flac.zip",
+        "brigador_ost_volume_ii.zip",
+        "brigador_ost_volume_ii_flac.zip",
+        "brigador_uparmored_ep.zip",
+        "brigador_uparmored_ep_flac.zip",
+        "brigador_uplink_ep.zip",
+        "brigador_uplink_ep_flac.zip",
+        "brigador_wallpaper.zip"
+    ],
+    "files": [
+        "extra/brigador_audiobook.zip",
+        "extra/brigador_ost_volume_i.zip",
+        "extra/brigador_ost_volume_i_flac.zip",
+        "extra/brigador_ost_volume_ii.zip",
+        "extra/brigador_ost_volume_ii_flac.zip",
+        "extra/brigador_uparmored_ep.zip",
+        "extra/brigador_uparmored_ep_flac.zip",
+        "extra/brigador_uplink_ep.zip",
+        "extra/brigador_uplink_ep_flac.zip",
+        "extra/brigador_wallpaper.zip",
+        "setup_brigador_up-armored_edition_v1.65b_(64bit)_(62346).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_brigador_up-armored_edition_v1.65b_(64bit)_(62346).exe"

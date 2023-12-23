@@ -1,4 +1,12 @@
 {
+    "files": [
+        "setup_scorn_1.2.2.0_(63131)-1.bin",
+        "setup_scorn_1.2.2.0_(63131)-2.bin",
+        "setup_scorn_1.2.2.0_(63131)-3.bin",
+        "setup_scorn_1.2.2.0_(63131)-4.bin",
+        "setup_scorn_1.2.2.0_(63131)-5.bin",
+        "setup_scorn_1.2.2.0_(63131).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_scorn_1.2.2.0_(63131).exe"
     ],

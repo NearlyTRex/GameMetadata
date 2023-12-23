@@ -1,4 +1,12 @@
 {
+    "files": [
+        "setup_martha_is_dead_1.0712.00_(64bit)_(57223)-1.bin",
+        "setup_martha_is_dead_1.0712.00_(64bit)_(57223)-2.bin",
+        "setup_martha_is_dead_1.0712.00_(64bit)_(57223)-3.bin",
+        "setup_martha_is_dead_1.0712.00_(64bit)_(57223)-4.bin",
+        "setup_martha_is_dead_1.0712.00_(64bit)_(57223)-5.bin",
+        "setup_martha_is_dead_1.0712.00_(64bit)_(57223).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_martha_is_dead_1.0712.00_(64bit)_(57223).exe"
     ],

@@ -1,10 +1,18 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/lords_of_midnight_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/lords_of_midnight_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/lords_of_midnight_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/lords_of_midnight_novella.zip",
-        "$SETUP_MAIN_ROOT/extra/lords_of_midnight_wallpapers.zip"
+        "lords_of_midnight_artworks.zip",
+        "lords_of_midnight_avatars.zip",
+        "lords_of_midnight_manual.zip",
+        "lords_of_midnight_novella.zip",
+        "lords_of_midnight_wallpapers.zip"
+    ],
+    "files": [
+        "extra/lords_of_midnight_artworks.zip",
+        "extra/lords_of_midnight_avatars.zip",
+        "extra/lords_of_midnight_manual.zip",
+        "extra/lords_of_midnight_novella.zip",
+        "extra/lords_of_midnight_wallpapers.zip",
+        "setup_lords_of_midnight_2.2.0.5.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_lords_of_midnight_2.2.0.5.exe"

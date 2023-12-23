@@ -1,12 +1,22 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/ultima_456_cluebooks.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_456_lorebooks.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_456_manuals.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_456_maps.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_456_reference_card.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_4_cassette.zip",
-        "$SETUP_MAIN_ROOT/extra/ultimat_456_spellbooks.zip"
+        "ultima_456_cluebooks.zip",
+        "ultima_456_lorebooks.zip",
+        "ultima_456_manuals.zip",
+        "ultima_456_maps.zip",
+        "ultima_456_reference_card.zip",
+        "ultima_4_cassette.zip",
+        "ultimat_456_spellbooks.zip"
+    ],
+    "files": [
+        "extra/ultima_456_cluebooks.zip",
+        "extra/ultima_456_lorebooks.zip",
+        "extra/ultima_456_manuals.zip",
+        "extra/ultima_456_maps.zip",
+        "extra/ultima_456_reference_card.zip",
+        "extra/ultima_4_cassette.zip",
+        "extra/ultimat_456_spellbooks.zip",
+        "setup_ultima_v_-_warriors_of_destiny_1.0_cs_(28045).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_v_-_warriors_of_destiny_1.0_cs_(28045).exe"

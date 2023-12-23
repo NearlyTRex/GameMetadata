@@ -1,13 +1,24 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/ultima_9_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_9_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_9_design_documents.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_9_tarot_cards.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_9_wallpapers.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_ix_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_ix_reference_card.zip",
-        "$SETUP_MAIN_ROOT/extra/ultima_ix_spellbook.zip"
+        "ultima_9_artworks.zip",
+        "ultima_9_avatars.zip",
+        "ultima_9_design_documents.zip",
+        "ultima_9_tarot_cards.zip",
+        "ultima_9_wallpapers.zip",
+        "ultima_ix_manual.zip",
+        "ultima_ix_reference_card.zip",
+        "ultima_ix_spellbook.zip"
+    ],
+    "files": [
+        "extra/ultima_9_artworks.zip",
+        "extra/ultima_9_avatars.zip",
+        "extra/ultima_9_design_documents.zip",
+        "extra/ultima_9_tarot_cards.zip",
+        "extra/ultima_9_wallpapers.zip",
+        "extra/ultima_ix_manual.zip",
+        "extra/ultima_ix_reference_card.zip",
+        "extra/ultima_ix_spellbook.zip",
+        "setup_ultima9_2.0.0.14.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima9_2.0.0.14.exe"

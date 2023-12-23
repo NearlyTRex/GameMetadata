@@ -1,10 +1,18 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/bass_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/bass_comic_book.zip",
-        "$SETUP_MAIN_ROOT/extra/bass_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/bass_security_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/bass_wallpapers.zip"
+        "bass_avatars.zip",
+        "bass_comic_book.zip",
+        "bass_manual.zip",
+        "bass_security_manual.zip",
+        "bass_wallpapers.zip"
+    ],
+    "files": [
+        "extra/bass_avatars.zip",
+        "extra/bass_comic_book.zip",
+        "extra/bass_manual.zip",
+        "extra/bass_security_manual.zip",
+        "extra/bass_wallpapers.zip",
+        "setup_beneath_a_steel_sky_1.0_(20270).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_beneath_a_steel_sky_1.0_(20270).exe"

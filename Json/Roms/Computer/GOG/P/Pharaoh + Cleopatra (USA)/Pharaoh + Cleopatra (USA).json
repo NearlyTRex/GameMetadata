@@ -1,9 +1,16 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/pharaoh_cleopatra_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/pharaoh_cleopatra_manuals.zip",
-        "$SETUP_MAIN_ROOT/extra/pharaoh_cleopatra_mission_edittor_guide.zip",
-        "$SETUP_MAIN_ROOT/extra/pharaoh_cleopatra_reference_card.zip"
+        "pharaoh_cleopatra_avatars.zip",
+        "pharaoh_cleopatra_manuals.zip",
+        "pharaoh_cleopatra_mission_edittor_guide.zip",
+        "pharaoh_cleopatra_reference_card.zip"
+    ],
+    "files": [
+        "extra/pharaoh_cleopatra_avatars.zip",
+        "extra/pharaoh_cleopatra_manuals.zip",
+        "extra/pharaoh_cleopatra_mission_edittor_guide.zip",
+        "extra/pharaoh_cleopatra_reference_card.zip",
+        "setup_pharaoh_gold_2.1.0.15.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_pharaoh_gold_2.1.0.15.exe"

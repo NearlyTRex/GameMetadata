@@ -1,13 +1,25 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/harvester_article.zip",
-        "$SETUP_MAIN_ROOT/extra/harvester_brochures.zip",
-        "$SETUP_MAIN_ROOT/extra/harvester_making_of.zip",
-        "$SETUP_MAIN_ROOT/extra/harvester_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/harvester_manual_euro.zip",
-        "$SETUP_MAIN_ROOT/extra/harvester_manual_spanish.zip",
-        "$SETUP_MAIN_ROOT/extra/harvester_poster.zip",
-        "$SETUP_MAIN_ROOT/extra/harvester_soundtrack.zip"
+        "harvester_article.zip",
+        "harvester_brochures.zip",
+        "harvester_making_of.zip",
+        "harvester_manual.zip",
+        "harvester_manual_euro.zip",
+        "harvester_manual_spanish.zip",
+        "harvester_poster.zip",
+        "harvester_soundtrack.zip"
+    ],
+    "files": [
+        "extra/harvester_article.zip",
+        "extra/harvester_brochures.zip",
+        "extra/harvester_making_of.zip",
+        "extra/harvester_manual.zip",
+        "extra/harvester_manual_euro.zip",
+        "extra/harvester_manual_spanish.zip",
+        "extra/harvester_poster.zip",
+        "extra/harvester_soundtrack.zip",
+        "setup_harvester_1.0_(28235)-1.bin",
+        "setup_harvester_1.0_(28235).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_harvester_1.0_(28235).exe"

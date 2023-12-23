@@ -1,15 +1,31 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_artbook.zip",
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_directors_cut_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_map.zip",
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_reference_card.zip",
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_soundtrack_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_soundtrack_mp3.zip",
-        "$SETUP_MAIN_ROOT/extra/wasteland_2_wallpapers.zip",
-        "$SETUP_MAIN_ROOT/extra/wl2_choir_songs_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/wl2_choir_songs_mp3.zip"
+        "wasteland_2_artbook.zip",
+        "wasteland_2_directors_cut_manual.zip",
+        "wasteland_2_manual.zip",
+        "wasteland_2_map.zip",
+        "wasteland_2_reference_card.zip",
+        "wasteland_2_soundtrack_flac.zip",
+        "wasteland_2_soundtrack_mp3.zip",
+        "wasteland_2_wallpapers.zip",
+        "wl2_choir_songs_flac.zip",
+        "wl2_choir_songs_mp3.zip"
+    ],
+    "files": [
+        "extra/wasteland_2_artbook.zip",
+        "extra/wasteland_2_directors_cut_manual.zip",
+        "extra/wasteland_2_manual.zip",
+        "extra/wasteland_2_map.zip",
+        "extra/wasteland_2_reference_card.zip",
+        "extra/wasteland_2_soundtrack_flac.zip",
+        "extra/wasteland_2_soundtrack_mp3.zip",
+        "extra/wasteland_2_wallpapers.zip",
+        "extra/wl2_choir_songs_flac.zip",
+        "extra/wl2_choir_songs_mp3.zip",
+        "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579)-1.bin",
+        "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579)-2.bin",
+        "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579)-3.bin",
+        "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579).exe"

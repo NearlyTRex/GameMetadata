@@ -1,12 +1,22 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/DD_TheProphecy.zip",
-        "$SETUP_MAIN_ROOT/extra/DD_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/Divine_Divinity_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/Divine_Divinity_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/Divine_Divinity_wallpapers.zip",
-        "$SETUP_MAIN_ROOT/extra/dd_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/divdiv_ladymageknight.zip"
+        "DD_TheProphecy.zip",
+        "DD_soundtrack.zip",
+        "Divine_Divinity_artworks.zip",
+        "Divine_Divinity_avatars.zip",
+        "Divine_Divinity_wallpapers.zip",
+        "dd_manual.zip",
+        "divdiv_ladymageknight.zip"
+    ],
+    "files": [
+        "extra/DD_TheProphecy.zip",
+        "extra/DD_soundtrack.zip",
+        "extra/Divine_Divinity_artworks.zip",
+        "extra/Divine_Divinity_avatars.zip",
+        "extra/Divine_Divinity_wallpapers.zip",
+        "extra/dd_manual.zip",
+        "extra/divdiv_ladymageknight.zip",
+        "setup_divine_divinity_2.0.0.21.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_divine_divinity_2.0.0.21.exe"

@@ -1,7 +1,15 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/soma_artwork.zip",
-        "$SETUP_MAIN_ROOT/extra/soma_wallpapers.zip"
+        "soma_artwork.zip",
+        "soma_wallpapers.zip"
+    ],
+    "files": [
+        "extra/soma_artwork.zip",
+        "extra/soma_wallpapers.zip",
+        "setup_soma_1.61_(64bit)_(50360)-1.bin",
+        "setup_soma_1.61_(64bit)_(50360)-2.bin",
+        "setup_soma_1.61_(64bit)_(50360)-3.bin",
+        "setup_soma_1.61_(64bit)_(50360).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_soma_1.61_(64bit)_(50360).exe"

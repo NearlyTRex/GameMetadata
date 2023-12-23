@@ -1,7 +1,12 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/menzoberranzan_clue_book.zip",
-        "$SETUP_MAIN_ROOT/extra/menzoberranzan_manual.zip"
+        "menzoberranzan_clue_book.zip",
+        "menzoberranzan_manual.zip"
+    ],
+    "files": [
+        "extra/menzoberranzan_clue_book.zip",
+        "extra/menzoberranzan_manual.zip",
+        "setup_menzoberranzan_1.1_(28166).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_menzoberranzan_1.1_(28166).exe"

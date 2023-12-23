@@ -1,9 +1,20 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/fear_2_avatar.zip",
-        "$SETUP_MAIN_ROOT/extra/fear_2_manual_en.zip",
-        "$SETUP_MAIN_ROOT/extra/fear_2_manuals_de_esp_fr_ita.zip",
-        "$SETUP_MAIN_ROOT/extra/fear_2_wallpapers.zip"
+        "fear_2_avatar.zip",
+        "fear_2_manual_en.zip",
+        "fear_2_manuals_de_esp_fr_ita.zip",
+        "fear_2_wallpapers.zip"
+    ],
+    "files": [
+        "extra/fear_2_avatar.zip",
+        "extra/fear_2_manual_en.zip",
+        "extra/fear_2_manuals_de_esp_fr_ita.zip",
+        "extra/fear_2_wallpapers.zip",
+        "setup_fear_2_1.05_(18567)-1.bin",
+        "setup_fear_2_1.05_(18567)-2.bin",
+        "setup_fear_2_1.05_(18567)-3.bin",
+        "setup_fear_2_1.05_(18567)-4.bin",
+        "setup_fear_2_1.05_(18567).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_fear_2_1.05_(18567).exe"

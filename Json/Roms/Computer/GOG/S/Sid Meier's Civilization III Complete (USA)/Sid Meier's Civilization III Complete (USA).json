@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/civ_3_complete_manuals.zip"
+        "civ_3_complete_manuals.zip"
+    ],
+    "files": [
+        "extra/civ_3_complete_manuals.zip",
+        "setup_civilization3_complete_2.0.0.7.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_civilization3_complete_2.0.0.7.exe"

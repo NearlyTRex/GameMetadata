@@ -1,9 +1,16 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/vampire_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/vampire_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/vampire_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/vampire_wallpapers.zip"
+        "vampire_artworks.zip",
+        "vampire_avatars.zip",
+        "vampire_manual.zip",
+        "vampire_wallpapers.zip"
+    ],
+    "files": [
+        "extra/vampire_artworks.zip",
+        "extra/vampire_avatars.zip",
+        "extra/vampire_manual.zip",
+        "extra/vampire_wallpapers.zip",
+        "setup_vampire_the_masquerade_redemption_2.0.0.3.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_vampire_the_masquerade_redemption_2.0.0.3.exe"

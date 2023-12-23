@@ -1,10 +1,18 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/ad_2044_manual_pl.zip",
-        "$SETUP_MAIN_ROOT/extra/setup_skaut_kwatermaster_polish_2.0.0.3.exe.zip",
-        "$SETUP_MAIN_ROOT/extra/setup_soltys_polish_2.0.0.5.exe.zip",
-        "$SETUP_MAIN_ROOT/extra/skaut_manual_pl.zip",
-        "$SETUP_MAIN_ROOT/extra/soltys_manual_pl.zip"
+        "ad_2044_manual_pl.zip",
+        "setup_skaut_kwatermaster_polish_2.0.0.3.exe.zip",
+        "setup_soltys_polish_2.0.0.5.exe.zip",
+        "skaut_manual_pl.zip",
+        "soltys_manual_pl.zip"
+    ],
+    "files": [
+        "extra/ad_2044_manual_pl.zip",
+        "extra/setup_skaut_kwatermaster_polish_2.0.0.3.exe.zip",
+        "extra/setup_soltys_polish_2.0.0.5.exe.zip",
+        "extra/skaut_manual_pl.zip",
+        "extra/soltys_manual_pl.zip",
+        "setup_ad2044_1.0_(15637).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ad2044_1.0_(15637).exe"

@@ -1,6 +1,11 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/bioshock_breaking_the_mold_artbook.zip"
+        "bioshock_breaking_the_mold_artbook.zip"
+    ],
+    "files": [
+        "extra/bioshock_breaking_the_mold_artbook.zip",
+        "setup_bioshock_1.1_(25450)-1.bin",
+        "setup_bioshock_1.1_(25450).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bioshock_1.1_(25450).exe"

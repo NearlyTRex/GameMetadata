@@ -1,10 +1,19 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Still_Life_Artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/Still_Life_Avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/Still_Life_Soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/Still_Life_Wallpapers.zip",
-        "$SETUP_MAIN_ROOT/extra/Still_Life_manual.zip"
+        "Still_Life_Artworks.zip",
+        "Still_Life_Avatars.zip",
+        "Still_Life_Soundtrack.zip",
+        "Still_Life_Wallpapers.zip",
+        "Still_Life_manual.zip"
+    ],
+    "files": [
+        "extra/Still_Life_Artworks.zip",
+        "extra/Still_Life_Avatars.zip",
+        "extra/Still_Life_Soundtrack.zip",
+        "extra/Still_Life_Wallpapers.zip",
+        "extra/Still_Life_manual.zip",
+        "setup_still_life_1.0_(22140)-1.bin",
+        "setup_still_life_1.0_(22140).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_still_life_1.0_(22140).exe"

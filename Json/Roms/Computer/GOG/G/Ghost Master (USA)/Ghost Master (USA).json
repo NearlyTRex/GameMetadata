@@ -1,12 +1,22 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/ghost_master_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/ghost_master_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/ghost_master_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/ghost_master_manual_pl.zip",
-        "$SETUP_MAIN_ROOT/extra/ghost_master_screensaver.zip",
-        "$SETUP_MAIN_ROOT/extra/ghost_master_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/ghost_master_wallpapers.zip"
+        "ghost_master_artworks.zip",
+        "ghost_master_avatars.zip",
+        "ghost_master_manual.zip",
+        "ghost_master_manual_pl.zip",
+        "ghost_master_screensaver.zip",
+        "ghost_master_soundtrack.zip",
+        "ghost_master_wallpapers.zip"
+    ],
+    "files": [
+        "extra/ghost_master_artworks.zip",
+        "extra/ghost_master_avatars.zip",
+        "extra/ghost_master_manual.zip",
+        "extra/ghost_master_manual_pl.zip",
+        "extra/ghost_master_screensaver.zip",
+        "extra/ghost_master_soundtrack.zip",
+        "extra/ghost_master_wallpapers.zip",
+        "setup_ghost_master_20171020_(15806).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ghost_master_20171020_(15806).exe"

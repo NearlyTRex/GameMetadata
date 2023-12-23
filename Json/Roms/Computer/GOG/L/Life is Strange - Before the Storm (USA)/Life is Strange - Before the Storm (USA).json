@@ -1,9 +1,16 @@
 {
-    "dlc": [
-        "$SETUP_MAIN_ROOT/dlc/setup_life_is_strange_before_the_storm_-_deluxe_upgrade_1.0_hotfix_(64bit)_(39227).exe"
+    "files": [
+        "dlc/setup_life_is_strange_before_the_storm_-_deluxe_upgrade_1.0_hotfix_(64bit)_(39227)-1.bin",
+        "dlc/setup_life_is_strange_before_the_storm_-_deluxe_upgrade_1.0_hotfix_(64bit)_(39227).exe",
+        "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227)-1.bin",
+        "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227)-2.bin",
+        "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227)-3.bin",
+        "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227)-4.bin",
+        "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227).exe"
+        "$SETUP_MAIN_ROOT/setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_life_is_strange_before_the_storm_-_deluxe_upgrade_1.0_hotfix_(64bit)_(39227).exe"
     ],
     "transform_file": "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227).exe"
 }

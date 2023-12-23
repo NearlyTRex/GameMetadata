@@ -1,5 +1,62 @@
 {
-    "dlc": [
+    "extra": [
+        "dying_dight_3D_printer_models.zip",
+        "dying_light_collectors_artbook.zip",
+        "dying_light_novel.zip",
+        "dying_light_original_soundtrack.zip",
+        "dying_light_tf_character_artworks.zip",
+        "dying_light_tf_enemy_artworks.zip",
+        "dying_light_tf_posters.zip",
+        "dying_light_wallpaper_pack.zip"
+    ],
+    "files": [
+        "dlc/setup_dying_light_-_5th_anniversary_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_astronaut_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_chivalry_weapon_pack_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_classified_operation_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_dieselpunk_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_harran_inmate_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_harran_tactical_unit_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_hellraid_1.49.8_(64bit)_(69352)-1.bin",
+        "dlc/setup_dying_light_-_hellraid_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_l4d2_bill_and_gnome_chompski_pack_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_left_4_dead_2_weapon_pack_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_ox_warrior_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_retrowave_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_rust_weapon_pack_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_savvy_gamer_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_shu_warrior_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_snow_ops_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_unturned_weapon_pack_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_van_crane_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_viking_raider_of_harran_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_-_volkan_combat_armor_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_godfather_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_gun_psycho_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_harran_ranger_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_rais_elite_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_vintage_gunslinger_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_volatile_hunter_bundle_1.49.8_(64bit)_(69352).exe",
+        "dlc/setup_dying_light_white_death_bundle_1.49.8_(64bit)_(69352).exe",
+        "extra/dying_dight_3D_printer_models.zip",
+        "extra/dying_light_collectors_artbook.zip",
+        "extra/dying_light_novel.zip",
+        "extra/dying_light_original_soundtrack.zip",
+        "extra/dying_light_tf_character_artworks.zip",
+        "extra/dying_light_tf_enemy_artworks.zip",
+        "extra/dying_light_tf_posters.zip",
+        "extra/dying_light_wallpaper_pack.zip",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352)-1.bin",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352)-2.bin",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352)-3.bin",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352)-4.bin",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352)-5.bin",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352)-6.bin",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352)-7.bin",
+        "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352).exe"
+    ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_dying_light_-_5th_anniversary_bundle_1.49.8_(64bit)_(69352).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_dying_light_-_astronaut_bundle_1.49.8_(64bit)_(69352).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_dying_light_-_chivalry_weapon_pack_1.49.8_(64bit)_(69352).exe",
@@ -27,19 +84,6 @@
         "$SETUP_MAIN_ROOT/dlc/setup_dying_light_vintage_gunslinger_bundle_1.49.8_(64bit)_(69352).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_dying_light_volatile_hunter_bundle_1.49.8_(64bit)_(69352).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_dying_light_white_death_bundle_1.49.8_(64bit)_(69352).exe"
-    ],
-    "extra": [
-        "$SETUP_MAIN_ROOT/extra/dying_dight_3D_printer_models.zip",
-        "$SETUP_MAIN_ROOT/extra/dying_light_collectors_artbook.zip",
-        "$SETUP_MAIN_ROOT/extra/dying_light_novel.zip",
-        "$SETUP_MAIN_ROOT/extra/dying_light_original_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/dying_light_tf_character_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/dying_light_tf_enemy_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/dying_light_tf_posters.zip",
-        "$SETUP_MAIN_ROOT/extra/dying_light_wallpaper_pack.zip"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352).exe"
     ],
     "transform_file": "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352).exe"
 }

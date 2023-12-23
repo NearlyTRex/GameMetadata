@@ -1,19 +1,30 @@
 {
-    "dlc": [
+    "extra": [
+        "war_for_the_overworld_all_that_is_gold.zip",
+        "war_for_the_overworld_community_map_pack.zip",
+        "war_for_the_overworld_soundtrack.zip",
+        "war_for_the_overworld_the_Dungeoneers_guide.zip"
+    ],
+    "files": [
+        "dlc/setup_crucible_v2.1.0f4_(64bit)_(55093).exe",
+        "dlc/setup_heart_of_gold_v2.1.0f4_(64bit)_(55093).exe",
+        "dlc/setup_my_pet_dungeon_v2.1.0f4_(64bit)_(55093).exe",
+        "dlc/setup_the_undergames_v2.1.0f4_(64bit)_(55093).exe",
+        "dlc/setup_underlord_edition_content_v2.1.0f4_(64bit)_(55093).exe",
+        "extra/war_for_the_overworld_all_that_is_gold.zip",
+        "extra/war_for_the_overworld_community_map_pack.zip",
+        "extra/war_for_the_overworld_soundtrack.zip",
+        "extra/war_for_the_overworld_the_Dungeoneers_guide.zip",
+        "setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093)-1.bin",
+        "setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe"
+    ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_crucible_v2.1.0f4_(64bit)_(55093).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_heart_of_gold_v2.1.0f4_(64bit)_(55093).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_my_pet_dungeon_v2.1.0f4_(64bit)_(55093).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_the_undergames_v2.1.0f4_(64bit)_(55093).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_underlord_edition_content_v2.1.0f4_(64bit)_(55093).exe"
-    ],
-    "extra": [
-        "$SETUP_MAIN_ROOT/extra/war_for_the_overworld_all_that_is_gold.zip",
-        "$SETUP_MAIN_ROOT/extra/war_for_the_overworld_community_map_pack.zip",
-        "$SETUP_MAIN_ROOT/extra/war_for_the_overworld_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/war_for_the_overworld_the_Dungeoneers_guide.zip"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe"
     ],
     "transform_file": "setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe"
 }

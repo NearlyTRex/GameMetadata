@@ -1,4 +1,9 @@
 {
+    "files": [
+        "setup_deadly_premonition_directors_cut_2.1.0.6-1.bin",
+        "setup_deadly_premonition_directors_cut_2.1.0.6-2.bin",
+        "setup_deadly_premonition_directors_cut_2.1.0.6.exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_deadly_premonition_directors_cut_2.1.0.6.exe"
     ],

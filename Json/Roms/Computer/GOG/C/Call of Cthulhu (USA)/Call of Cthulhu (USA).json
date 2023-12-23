@@ -1,6 +1,14 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/call_of_cthulhu_wallpaper.zip"
+        "call_of_cthulhu_wallpaper.zip"
+    ],
+    "files": [
+        "extra/call_of_cthulhu_wallpaper.zip",
+        "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-1.bin",
+        "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-2.bin",
+        "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-3.bin",
+        "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-4.bin",
+        "setup_call_of_cthulhu_4.15.2_(64bit)_(33442).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_call_of_cthulhu_4.15.2_(64bit)_(33442).exe"

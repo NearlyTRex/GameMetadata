@@ -1,8 +1,14 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/indiana_jones_et_concept_art.zip",
-        "$SETUP_MAIN_ROOT/extra/indiana_jones_et_handbuch.zip",
-        "$SETUP_MAIN_ROOT/extra/indiana_jones_et_manual.zip"
+        "indiana_jones_et_concept_art.zip",
+        "indiana_jones_et_handbuch.zip",
+        "indiana_jones_et_manual.zip"
+    ],
+    "files": [
+        "extra/indiana_jones_et_concept_art.zip",
+        "extra/indiana_jones_et_handbuch.zip",
+        "extra/indiana_jones_et_manual.zip",
+        "setup_indiana_jones_and_the_emperors_tomb_2.0.0.6.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_indiana_jones_and_the_emperors_tomb_2.0.0.6.exe"

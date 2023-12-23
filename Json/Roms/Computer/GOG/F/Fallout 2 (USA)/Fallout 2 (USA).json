@@ -1,14 +1,26 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/Fallout_Bible_gog.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_2_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_2_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_2_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_2_refcard.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_2_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_2_wallpaper.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_pipboys_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/fallout_series_wallpaper.zip"
+        "Fallout_Bible_gog.zip",
+        "fallout_2_artworks.zip",
+        "fallout_2_avatars.zip",
+        "fallout_2_manual.zip",
+        "fallout_2_refcard.zip",
+        "fallout_2_soundtrack.zip",
+        "fallout_2_wallpaper.zip",
+        "fallout_pipboys_avatars.zip",
+        "fallout_series_wallpaper.zip"
+    ],
+    "files": [
+        "extra/Fallout_Bible_gog.zip",
+        "extra/fallout_2_artworks.zip",
+        "extra/fallout_2_avatars.zip",
+        "extra/fallout_2_manual.zip",
+        "extra/fallout_2_refcard.zip",
+        "extra/fallout_2_soundtrack.zip",
+        "extra/fallout_2_wallpaper.zip",
+        "extra/fallout_pipboys_avatars.zip",
+        "extra/fallout_series_wallpaper.zip",
+        "setup_fallout2_2.1.0.17.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_fallout2_2.1.0.17.exe"

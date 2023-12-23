@@ -1,10 +1,18 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/mm_6_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/mm_6_map.zip",
-        "$SETUP_MAIN_ROOT/extra/mm_6_ost_flac.zip",
-        "$SETUP_MAIN_ROOT/extra/mm_6_reference_card.zip",
-        "$SETUP_MAIN_ROOT/extra/mm_6_soundtrack.zip"
+        "mm_6_manual.zip",
+        "mm_6_map.zip",
+        "mm_6_ost_flac.zip",
+        "mm_6_reference_card.zip",
+        "mm_6_soundtrack.zip"
+    ],
+    "files": [
+        "extra/mm_6_manual.zip",
+        "extra/mm_6_map.zip",
+        "extra/mm_6_ost_flac.zip",
+        "extra/mm_6_reference_card.zip",
+        "extra/mm_6_soundtrack.zip",
+        "setup_mm6_2.1.0.42.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_mm6_2.1.0.42.exe"

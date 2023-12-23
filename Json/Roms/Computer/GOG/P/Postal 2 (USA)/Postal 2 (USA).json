@@ -1,13 +1,25 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/SMS_tunes.zip",
-        "$SETUP_MAIN_ROOT/extra/music_to_go_postal_by.zip",
-        "$SETUP_MAIN_ROOT/extra/postal_2_manuals.zip",
-        "$SETUP_MAIN_ROOT/extra/postal_series_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/postal_series_wallpapers.zip",
-        "$SETUP_MAIN_ROOT/extra/postalbabes_comic.zip",
-        "$SETUP_MAIN_ROOT/extra/postalforms.zip",
-        "$SETUP_MAIN_ROOT/extra/setup_postal2_complete_2.0.0.6.zip"
+        "SMS_tunes.zip",
+        "music_to_go_postal_by.zip",
+        "postal_2_manuals.zip",
+        "postal_series_avatars.zip",
+        "postal_series_wallpapers.zip",
+        "postalbabes_comic.zip",
+        "postalforms.zip",
+        "setup_postal2_complete_2.0.0.6.zip"
+    ],
+    "files": [
+        "extra/SMS_tunes.zip",
+        "extra/music_to_go_postal_by.zip",
+        "extra/postal_2_manuals.zip",
+        "extra/postal_series_avatars.zip",
+        "extra/postal_series_wallpapers.zip",
+        "extra/postalbabes_comic.zip",
+        "extra/postalforms.zip",
+        "extra/setup_postal2_complete_2.0.0.6.zip",
+        "setup_postal_2_5100_(64474)-1.bin",
+        "setup_postal_2_5100_(64474).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_postal_2_5100_(64474).exe"

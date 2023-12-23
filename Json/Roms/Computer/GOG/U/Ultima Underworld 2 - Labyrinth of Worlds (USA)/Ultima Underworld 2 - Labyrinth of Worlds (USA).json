@@ -1,12 +1,22 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/UU_1_memoirs_of_cabirus.zip",
-        "$SETUP_MAIN_ROOT/extra/UU_2_a_safe_passage_through_britannia.zip",
-        "$SETUP_MAIN_ROOT/extra/Ultima_Underworld_1_2_QRC.zip",
-        "$SETUP_MAIN_ROOT/extra/Ultima_Underworld_1_2_cluebook.zip",
-        "$SETUP_MAIN_ROOT/extra/Ultima_Underworld_1_2_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/Ultima_Underworld_1_2_maps.zip",
-        "$SETUP_MAIN_ROOT/extra/uu_avatars.zip"
+        "UU_1_memoirs_of_cabirus.zip",
+        "UU_2_a_safe_passage_through_britannia.zip",
+        "Ultima_Underworld_1_2_QRC.zip",
+        "Ultima_Underworld_1_2_cluebook.zip",
+        "Ultima_Underworld_1_2_manual.zip",
+        "Ultima_Underworld_1_2_maps.zip",
+        "uu_avatars.zip"
+    ],
+    "files": [
+        "extra/UU_1_memoirs_of_cabirus.zip",
+        "extra/UU_2_a_safe_passage_through_britannia.zip",
+        "extra/Ultima_Underworld_1_2_QRC.zip",
+        "extra/Ultima_Underworld_1_2_cluebook.zip",
+        "extra/Ultima_Underworld_1_2_manual.zip",
+        "extra/Ultima_Underworld_1_2_maps.zip",
+        "extra/uu_avatars.zip",
+        "setup_ultima_underworld_2_1.0_cs_(28190).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_underworld_2_1.0_cs_(28190).exe"

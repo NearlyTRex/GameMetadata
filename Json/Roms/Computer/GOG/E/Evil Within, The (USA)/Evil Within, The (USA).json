@@ -1,11 +1,30 @@
 {
-    "dlc": [
+    "files": [
+        "dlc/setup_the_evil_within_the_assignment_1.0_(36732)-1.bin",
+        "dlc/setup_the_evil_within_the_assignment_1.0_(36732)-2.bin",
+        "dlc/setup_the_evil_within_the_assignment_1.0_(36732).exe",
+        "dlc/setup_the_evil_within_the_consequence_1.0_(36732)-1.bin",
+        "dlc/setup_the_evil_within_the_consequence_1.0_(36732)-2.bin",
+        "dlc/setup_the_evil_within_the_consequence_1.0_(36732).exe",
+        "dlc/setup_the_evil_within_the_executioner_1.0_(36732)-1.bin",
+        "dlc/setup_the_evil_within_the_executioner_1.0_(36732)-2.bin",
+        "dlc/setup_the_evil_within_the_executioner_1.0_(36732).exe",
+        "setup_the_evil_within_1.0_(36732)-1.bin",
+        "setup_the_evil_within_1.0_(36732)-2.bin",
+        "setup_the_evil_within_1.0_(36732)-3.bin",
+        "setup_the_evil_within_1.0_(36732)-4.bin",
+        "setup_the_evil_within_1.0_(36732)-5.bin",
+        "setup_the_evil_within_1.0_(36732)-6.bin",
+        "setup_the_evil_within_1.0_(36732)-7.bin",
+        "setup_the_evil_within_1.0_(36732)-8.bin",
+        "setup_the_evil_within_1.0_(36732)-9.bin",
+        "setup_the_evil_within_1.0_(36732).exe"
+    ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_the_evil_within_1.0_(36732).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_the_evil_within_the_assignment_1.0_(36732).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_the_evil_within_the_consequence_1.0_(36732).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_the_evil_within_the_executioner_1.0_(36732).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_evil_within_1.0_(36732).exe"
     ],
     "transform_file": "setup_the_evil_within_1.0_(36732).exe"
 }

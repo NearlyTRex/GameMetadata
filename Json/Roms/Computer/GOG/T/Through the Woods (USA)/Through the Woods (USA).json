@@ -1,9 +1,18 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/through_the_woods_artbook.zip",
-        "$SETUP_MAIN_ROOT/extra/through_the_woods_collectors_edition_flac_final.zip",
-        "$SETUP_MAIN_ROOT/extra/through_the_woods_collectors_edition_mp3_final.zip",
-        "$SETUP_MAIN_ROOT/extra/through_the_woods_wallapaper.zip"
+        "through_the_woods_artbook.zip",
+        "through_the_woods_collectors_edition_flac_final.zip",
+        "through_the_woods_collectors_edition_mp3_final.zip",
+        "through_the_woods_wallapaper.zip"
+    ],
+    "files": [
+        "extra/through_the_woods_artbook.zip",
+        "extra/through_the_woods_collectors_edition_flac_final.zip",
+        "extra/through_the_woods_collectors_edition_mp3_final.zip",
+        "extra/through_the_woods_wallapaper.zip",
+        "setup_through_the_woods_1.2_(15132)-1.bin",
+        "setup_through_the_woods_1.2_(15132)-2.bin",
+        "setup_through_the_woods_1.2_(15132).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_through_the_woods_1.2_(15132).exe"

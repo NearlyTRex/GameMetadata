@@ -1,13 +1,24 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_design_sketches.zip",
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_main_music_theme.zip",
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_map.zip",
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_team_photo.zip",
-        "$SETUP_MAIN_ROOT/extra/legend_of_grimrock_wallpapers2.zip"
+        "legend_of_grimrock_artworks.zip",
+        "legend_of_grimrock_avatars.zip",
+        "legend_of_grimrock_design_sketches.zip",
+        "legend_of_grimrock_main_music_theme.zip",
+        "legend_of_grimrock_manual.zip",
+        "legend_of_grimrock_map.zip",
+        "legend_of_grimrock_team_photo.zip",
+        "legend_of_grimrock_wallpapers2.zip"
+    ],
+    "files": [
+        "extra/legend_of_grimrock_artworks.zip",
+        "extra/legend_of_grimrock_avatars.zip",
+        "extra/legend_of_grimrock_design_sketches.zip",
+        "extra/legend_of_grimrock_main_music_theme.zip",
+        "extra/legend_of_grimrock_manual.zip",
+        "extra/legend_of_grimrock_map.zip",
+        "extra/legend_of_grimrock_team_photo.zip",
+        "extra/legend_of_grimrock_wallpapers2.zip",
+        "setup_legend_of_grimrock_1.3.7_(18443).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_legend_of_grimrock_1.3.7_(18443).exe"

@@ -1,9 +1,17 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/aamfp_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/aamfp_walkthrough.zip",
-        "$SETUP_MAIN_ROOT/extra/amnesia_a_machine_for_pigs_image_concepts.zip",
-        "$SETUP_MAIN_ROOT/extra/amnesia_a_machine_for_pigs_wallpaper.zip"
+        "aamfp_manual.zip",
+        "aamfp_walkthrough.zip",
+        "amnesia_a_machine_for_pigs_image_concepts.zip",
+        "amnesia_a_machine_for_pigs_wallpaper.zip"
+    ],
+    "files": [
+        "extra/aamfp_manual.zip",
+        "extra/aamfp_walkthrough.zip",
+        "extra/amnesia_a_machine_for_pigs_image_concepts.zip",
+        "extra/amnesia_a_machine_for_pigs_wallpaper.zip",
+        "setup_amnesia_-_a_machine_for_pigs_1.0_(20583)-1.bin",
+        "setup_amnesia_-_a_machine_for_pigs_1.0_(20583).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_amnesia_-_a_machine_for_pigs_1.0_(20583).exe"

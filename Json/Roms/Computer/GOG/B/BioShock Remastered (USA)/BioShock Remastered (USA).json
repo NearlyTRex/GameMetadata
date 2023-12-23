@@ -1,4 +1,11 @@
 {
+    "files": [
+        "setup_bioshock_remastered_1.0.122872_(25715)-1.bin",
+        "setup_bioshock_remastered_1.0.122872_(25715)-2.bin",
+        "setup_bioshock_remastered_1.0.122872_(25715)-3.bin",
+        "setup_bioshock_remastered_1.0.122872_(25715)-4.bin",
+        "setup_bioshock_remastered_1.0.122872_(25715).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bioshock_remastered_1.0.122872_(25715).exe"
     ],

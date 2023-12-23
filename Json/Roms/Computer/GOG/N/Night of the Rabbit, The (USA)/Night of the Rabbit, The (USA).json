@@ -1,8 +1,16 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/notr_wallpaper.zip",
-        "$SETUP_MAIN_ROOT/extra/tnotr_artworks.zip",
-        "$SETUP_MAIN_ROOT/extra/tnotr_avatars.zip"
+        "notr_wallpaper.zip",
+        "tnotr_artworks.zip",
+        "tnotr_avatars.zip"
+    ],
+    "files": [
+        "extra/notr_wallpaper.zip",
+        "extra/tnotr_artworks.zip",
+        "extra/tnotr_avatars.zip",
+        "setup_the_night_of_the_rabbit_1.2.3.0389_(18473)-1.bin",
+        "setup_the_night_of_the_rabbit_1.2.3.0389_(18473)-2.bin",
+        "setup_the_night_of_the_rabbit_1.2.3.0389_(18473).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_night_of_the_rabbit_1.2.3.0389_(18473).exe"

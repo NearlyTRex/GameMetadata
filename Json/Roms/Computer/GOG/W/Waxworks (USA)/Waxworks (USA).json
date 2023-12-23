@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/waxworks_manual.zip"
+        "waxworks_manual.zip"
+    ],
+    "files": [
+        "extra/waxworks_manual.zip",
+        "setup_waxworks_1.0_(28045).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_waxworks_1.0_(28045).exe"

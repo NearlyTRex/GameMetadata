@@ -1,7 +1,13 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/sanitarium_manual.zip",
-        "$SETUP_MAIN_ROOT/extra/sanitarium_soundtrack.zip"
+        "sanitarium_manual.zip",
+        "sanitarium_soundtrack.zip"
+    ],
+    "files": [
+        "extra/sanitarium_manual.zip",
+        "extra/sanitarium_soundtrack.zip",
+        "setup_sanitarium_1.0_svm_(57892)-1.bin",
+        "setup_sanitarium_1.0_svm_(57892).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_sanitarium_1.0_svm_(57892).exe"

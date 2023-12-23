@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/shivers_manual.zip"
+        "shivers_manual.zip"
+    ],
+    "files": [
+        "extra/shivers_manual.zip",
+        "setup_shivers_1.02_(18230).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shivers_1.02_(18230).exe"

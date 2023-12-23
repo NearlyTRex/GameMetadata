@@ -1,8 +1,15 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/dracula_trilogy_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/dracula_trilogy_manuals.zip",
-        "$SETUP_MAIN_ROOT/extra/dracula_trilogy_wallpaper.zip"
+        "dracula_trilogy_avatars.zip",
+        "dracula_trilogy_manuals.zip",
+        "dracula_trilogy_wallpaper.zip"
+    ],
+    "files": [
+        "extra/dracula_trilogy_avatars.zip",
+        "extra/dracula_trilogy_manuals.zip",
+        "extra/dracula_trilogy_wallpaper.zip",
+        "setup_dracula3_2.1.0.5-1.bin",
+        "setup_dracula3_2.1.0.5.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dracula3_2.1.0.5.exe"

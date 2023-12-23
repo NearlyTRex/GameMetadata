@@ -1,10 +1,18 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/wizardry67_cluebooks.zip",
-        "$SETUP_MAIN_ROOT/extra/wizardry67_manuals.zip",
-        "$SETUP_MAIN_ROOT/extra/wizardry67_soundtrack.zip",
-        "$SETUP_MAIN_ROOT/extra/wizardry6_character_sheet.zip",
-        "$SETUP_MAIN_ROOT/extra/wizardry6_icon_list.zip"
+        "wizardry67_cluebooks.zip",
+        "wizardry67_manuals.zip",
+        "wizardry67_soundtrack.zip",
+        "wizardry6_character_sheet.zip",
+        "wizardry6_icon_list.zip"
+    ],
+    "files": [
+        "extra/wizardry67_cluebooks.zip",
+        "extra/wizardry67_manuals.zip",
+        "extra/wizardry67_soundtrack.zip",
+        "extra/wizardry6_character_sheet.zip",
+        "extra/wizardry6_icon_list.zip",
+        "setup_wizardry6_2.2.0.18.exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wizardry6_2.2.0.18.exe"

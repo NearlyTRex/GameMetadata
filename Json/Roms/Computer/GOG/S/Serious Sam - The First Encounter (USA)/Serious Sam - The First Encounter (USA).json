@@ -1,6 +1,10 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/serious_samFE_soundtrack.zip"
+        "serious_samFE_soundtrack.zip"
+    ],
+    "files": [
+        "extra/serious_samFE_soundtrack.zip",
+        "setup_serious_sam_the_first_encounter_1.05_(21759).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_serious_sam_the_first_encounter_1.05_(21759).exe"

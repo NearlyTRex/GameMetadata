@@ -1,10 +1,19 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/gf_remastered_wallpaper.zip",
-        "$SETUP_MAIN_ROOT/extra/gfrm_making_of_part_1.zip",
-        "$SETUP_MAIN_ROOT/extra/gfrm_making_of_part_2.zip",
-        "$SETUP_MAIN_ROOT/extra/gfrm_making_of_part_3.zip",
-        "$SETUP_MAIN_ROOT/extra/grim_fandango_remastered_fan_art.zip"
+        "gf_remastered_wallpaper.zip",
+        "gfrm_making_of_part_1.zip",
+        "gfrm_making_of_part_2.zip",
+        "gfrm_making_of_part_3.zip",
+        "grim_fandango_remastered_fan_art.zip"
+    ],
+    "files": [
+        "extra/gf_remastered_wallpaper.zip",
+        "extra/gfrm_making_of_part_1.zip",
+        "extra/gfrm_making_of_part_2.zip",
+        "extra/gfrm_making_of_part_3.zip",
+        "extra/grim_fandango_remastered_fan_art.zip",
+        "setup_grim_fandango_remastererd_1.4.0_(17097)-1.bin",
+        "setup_grim_fandango_remastererd_1.4.0_(17097).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_grim_fandango_remastererd_1.4.0_(17097).exe"

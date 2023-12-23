@@ -1,8 +1,14 @@
 {
     "extra": [
-        "$SETUP_MAIN_ROOT/extra/pathologic_classic_hd_concept_art.zip",
-        "$SETUP_MAIN_ROOT/extra/pathologic_hd_avatars.zip",
-        "$SETUP_MAIN_ROOT/extra/pathologic_hd_wallpapers.zip"
+        "pathologic_classic_hd_concept_art.zip",
+        "pathologic_hd_avatars.zip",
+        "pathologic_hd_wallpapers.zip"
+    ],
+    "files": [
+        "extra/pathologic_classic_hd_concept_art.zip",
+        "extra/pathologic_hd_avatars.zip",
+        "extra/pathologic_hd_wallpapers.zip",
+        "setup_pathologic_classic_hd_1.0.3_(16813).exe"
     ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_pathologic_classic_hd_1.0.3_(16813).exe"
