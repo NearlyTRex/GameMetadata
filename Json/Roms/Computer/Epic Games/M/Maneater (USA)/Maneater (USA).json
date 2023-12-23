@@ -1,4 +1,12 @@
 {
+    "files": [
+        "Maneater (USA).7z.001",
+        "Maneater (USA).7z.002",
+        "Maneater (USA).7z.003",
+        "Maneater (USA).7z.004",
+        "Maneater (USA).7z.005",
+        "Maneater (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Maneater (USA).exe"
     ],
