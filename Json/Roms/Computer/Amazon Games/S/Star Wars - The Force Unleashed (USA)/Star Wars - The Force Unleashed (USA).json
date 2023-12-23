@@ -1,4 +1,11 @@
 {
+    "files": [
+        "Star Wars - The Force Unleashed (USA).7z.001",
+        "Star Wars - The Force Unleashed (USA).7z.002",
+        "Star Wars - The Force Unleashed (USA).7z.003",
+        "Star Wars - The Force Unleashed (USA).7z.004",
+        "Star Wars - The Force Unleashed (USA).exe"
+    ],
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Star Wars - The Force Unleashed (USA).exe"
     ],
