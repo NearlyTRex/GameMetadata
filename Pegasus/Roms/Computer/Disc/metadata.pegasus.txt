@@ -2682,6 +2682,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Gun (USA)
+file: Computer/Disc/G/Gun (USA)/Gun (USA).json
+players: 1
+assets.boxfront: BoxFront/Gun (USA).jpg
+assets.boxback: BoxBack/Gun (USA).jpg
+assets.background: Background/Gun (USA).jpg
+assets.screenshot: Screenshot/Gun (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Halcyon 6 (USA)
 file: Computer/Disc/H/Halcyon 6 (USA)/Halcyon 6 (USA).json
 developer: Massive Damage, Inc.
@@ -3008,6 +3019,17 @@ assets.boxback: BoxBack/Jeff Wayne's The War of the Worlds (USA).jpg
 assets.background: Background/Jeff Wayne's The War of the Worlds (USA).jpg
 assets.screenshot: Screenshot/Jeff Wayne's The War of the Worlds (USA).jpg
 assets.video: Video/Jeff Wayne's The War of the Worlds (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Jewel Quest V - The Sleepless Star (USA)
+file: Computer/Disc/J/Jewel Quest V - The Sleepless Star (USA)/Jewel Quest V - The Sleepless Star (USA).json
+players: 1
+assets.boxfront: BoxFront/Jewel Quest V - The Sleepless Star (USA).jpg
+assets.boxback: BoxBack/Jewel Quest V - The Sleepless Star (USA).jpg
+assets.background: Background/Jewel Quest V - The Sleepless Star (USA).jpg
+assets.screenshot: Screenshot/Jewel Quest V - The Sleepless Star (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3742,6 +3764,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Moraff's Maximum Mahjongg (USA)
+file: Computer/Disc/M/Moraff's Maximum Mahjongg (USA)/Moraff's Maximum Mahjongg (USA).json
+players: 1
+assets.boxfront: BoxFront/Moraff's Maximum Mahjongg (USA).jpg
+assets.boxback: BoxBack/Moraff's Maximum Mahjongg (USA).jpg
+assets.background: Background/Moraff's Maximum Mahjongg (USA).jpg
+assets.screenshot: Screenshot/Moraff's Maximum Mahjongg (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: MouseCraft (USA)
 file: Computer/Disc/M/MouseCraft (USA)/MouseCraft (USA).json
 developer: Crunching Koalas
@@ -4357,6 +4390,17 @@ assets.boxfront: BoxFront/Pillars of Garendall (USA).jpg
 assets.boxback: BoxBack/Pillars of Garendall (USA).jpg
 assets.background: Background/Pillars of Garendall (USA).jpg
 assets.screenshot: Screenshot/Pillars of Garendall (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Play-Doh Creations (USA)
+file: Computer/Disc/P/Play-Doh Creations (USA)/Play-Doh Creations (USA).json
+players: 1
+assets.boxfront: BoxFront/Play-Doh Creations (USA).jpg
+assets.boxback: BoxBack/Play-Doh Creations (USA).jpg
+assets.background: Background/Play-Doh Creations (USA).jpg
+assets.screenshot: Screenshot/Play-Doh Creations (USA).jpg
 x-co-op: No
 x-playable: Yes
 
