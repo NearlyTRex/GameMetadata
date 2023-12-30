@@ -2,5 +2,8 @@
     "files": [
         "Play-Doh Creations (USA).chd"
     ],
+    "installer_exe": [
+        "$DISC_MAIN_ROOT/SETUP.EXE"
+    ],
     "transform_file": "Play-Doh Creations (USA).chd"
 }

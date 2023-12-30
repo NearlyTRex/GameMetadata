@@ -2,5 +2,10 @@
     "files": [
         "Jewel Quest V - The Sleepless Star (USA).chd"
     ],
+    "installer_exe": [
+        "$DISC_MAIN_ROOT/JewelQuest/setup.exe",
+        "$DISC_MAIN_ROOT/JewelQuest2/setup.exe",
+        "$DISC_MAIN_ROOT/JewelQuest5/setup.exe"
+    ],
     "transform_file": "Jewel Quest V - The Sleepless Star (USA).chd"
 }

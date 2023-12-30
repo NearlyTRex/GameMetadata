@@ -2,5 +2,8 @@
     "files": [
         "Moraff's Maximum Mahjongg (USA).chd"
     ],
+    "installer_exe": [
+        "$DISC_MAIN_ROOT/setup.exe"
+    ],
     "transform_file": "Moraff's Maximum Mahjongg (USA).chd"
 }
