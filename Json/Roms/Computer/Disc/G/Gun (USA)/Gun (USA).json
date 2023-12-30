@@ -8,6 +8,12 @@
     "installer_exe": [
         "$DISC_ONE_ROOT/setup.exe"
     ],
+    "main_game_exe": [
+        "Program Files (x86)/Activision/GUN/Gun.exe"
+    ],
+    "main_game_exe_cwd": {
+        "Program Files (x86)/Activision/GUN/Gun.exe": "Program Files (x86)/Activision/GUN"
+    },
     "steps": {
         "preinstall": [
             {
