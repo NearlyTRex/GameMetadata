@@ -1,5 +1,5 @@
 collection: Computer - GOG
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: 11th Hour, The (USA)

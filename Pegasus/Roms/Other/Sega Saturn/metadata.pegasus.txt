@@ -1,5 +1,5 @@
 collection: Sega Saturn
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Alone in the Dark - One-Eyed Jack's Revenge (USA)

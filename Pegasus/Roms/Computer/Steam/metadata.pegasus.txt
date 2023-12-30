@@ -1,5 +1,5 @@
 collection: Computer - Steam
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: 7 Days to Die (USA) (Alpha 20.6 b9)

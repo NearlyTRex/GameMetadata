@@ -1,5 +1,5 @@
 collection: Sony PlayStation Portable Video
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Dark Tales of Japan (Japan) (En,Ja)

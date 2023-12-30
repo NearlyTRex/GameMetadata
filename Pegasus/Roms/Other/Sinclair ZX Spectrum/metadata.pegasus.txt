@@ -1,5 +1,5 @@
 collection: Sinclair ZX Spectrum
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Alien 8 (Europe) (Ultimate Play The Game)

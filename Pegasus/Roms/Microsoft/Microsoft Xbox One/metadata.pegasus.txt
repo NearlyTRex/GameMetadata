@@ -1,5 +1,5 @@
 collection: Microsoft Xbox One
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Rare Replay (USA)

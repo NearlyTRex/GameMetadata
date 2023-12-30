@@ -1,5 +1,5 @@
 collection: Sony PlayStation Vita
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Alone With You (USA)

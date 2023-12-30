@@ -1,5 +1,5 @@
 collection: NEC TurboGrafx CD & PC-Engine CD
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)

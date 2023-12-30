@@ -1,5 +1,5 @@
 collection: NEC SuperGrafx
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Aldynes - The Misson Code for Rage Crisis (Japan)

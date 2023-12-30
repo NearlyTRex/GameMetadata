@@ -1,5 +1,5 @@
 collection: Nokia N-Gage
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)

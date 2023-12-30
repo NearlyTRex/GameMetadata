@@ -1,5 +1,5 @@
 collection: Microsoft Xbox
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Big Bumpin' (USA)

@@ -1,5 +1,5 @@
 collection: Nintendo Game Boy Advance e-Reader
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: NES-e - Balloon Fight-e (USA)

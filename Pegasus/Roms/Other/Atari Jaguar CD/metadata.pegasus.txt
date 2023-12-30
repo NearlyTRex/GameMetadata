@@ -1,5 +1,5 @@
 collection: Atari Jaguar CD
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Blue Lightning (USA)

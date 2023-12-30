@@ -1,5 +1,5 @@
 collection: Sony PlayStation Network - PlayStation Vita
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Accel World vs. Sword Art Online (USA)

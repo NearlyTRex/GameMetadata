@@ -1,5 +1,5 @@
 collection: Nintendo 3DS
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: Animal Crossing - New Leaf (USA) (En,Fr,Es)

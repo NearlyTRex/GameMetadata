@@ -1,5 +1,5 @@
 collection: Computer - Itchio
-launch: launch_json {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
 
 
 game: 1,000 Heads Among the Trees (USA)
