@@ -7,5 +7,15 @@
         "$DISC_MAIN_ROOT/JewelQuest2/setup.exe",
         "$DISC_MAIN_ROOT/JewelQuest5/setup.exe"
     ],
+    "main_game_exe": [
+        "Program Files (x86)/Jewel Quest - Sleepless Star/JewelQuestSleeplessStar.exe",
+        "Program Files (x86)/Jewel Quest 2/JewelQuest2.exe",
+        "Program Files (x86)/Jewel Quest/JewelQuest.exe"
+    ],
+    "main_game_exe_cwd": {
+        "Program Files (x86)/Jewel Quest - Sleepless Star/JewelQuestSleeplessStar.exe": "Program Files (x86)/Jewel Quest - Sleepless Star",
+        "Program Files (x86)/Jewel Quest 2/JewelQuest2.exe": "Program Files (x86)/Jewel Quest 2",
+        "Program Files (x86)/Jewel Quest/JewelQuest.exe": "Program Files (x86)/Jewel Quest"
+    },
     "transform_file": "Jewel Quest V - The Sleepless Star (USA).chd"
 }
