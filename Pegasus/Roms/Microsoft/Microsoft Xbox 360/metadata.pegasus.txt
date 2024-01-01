@@ -1,5 +1,5 @@
 collection: Microsoft Xbox 360
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft Xbox 360" -n {file.basename}
 
 
 game: Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru)

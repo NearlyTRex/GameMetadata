@@ -1,5 +1,5 @@
 collection: Magnavox Odyssey 2
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Magnavox Odyssey 2" -n {file.basename}
 
 
 game: Invaders from Hyperspace (USA)

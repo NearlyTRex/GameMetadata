@@ -1,5 +1,5 @@
 collection: Coleco ColecoVision
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Coleco ColecoVision" -n {file.basename}
 
 
 game: Antarctic Adventure (USA, Europe)

@@ -1,5 +1,5 @@
 collection: Nintendo 64
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo 64" -n {file.basename}
 
 
 game: 007 - The World Is Not Enough (USA)

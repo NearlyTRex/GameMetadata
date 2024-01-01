@@ -1,5 +1,5 @@
 collection: NEC SuperGrafx
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC SuperGrafx" -n {file.basename}
 
 
 game: Aldynes - The Misson Code for Rage Crisis (Japan)

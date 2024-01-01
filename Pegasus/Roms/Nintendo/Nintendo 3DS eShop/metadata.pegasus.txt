@@ -1,5 +1,5 @@
 collection: Nintendo 3DS eShop
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo 3DS eShop" -n {file.basename}
 
 
 game: 3D After Burner II (USA) (eShop)

@@ -1,5 +1,5 @@
 collection: Nintendo Super Game Boy
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Super Game Boy" -n {file.basename}
 
 
 game: Donkey Kong (Japan, USA) (SGB Enhanced)

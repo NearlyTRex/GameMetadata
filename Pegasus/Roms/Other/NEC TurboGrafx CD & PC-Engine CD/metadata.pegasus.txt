@@ -1,5 +1,5 @@
 collection: NEC TurboGrafx CD & PC-Engine CD
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC TurboGrafx CD & PC-Engine CD" -n {file.basename}
 
 
 game: Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)

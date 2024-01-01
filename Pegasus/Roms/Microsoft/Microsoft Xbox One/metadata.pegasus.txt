@@ -1,5 +1,5 @@
 collection: Microsoft Xbox One
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft Xbox One" -n {file.basename}
 
 
 game: Rare Replay (USA)

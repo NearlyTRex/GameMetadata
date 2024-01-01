@@ -1,5 +1,5 @@
 collection: Commodore 64
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Commodore 64" -n {file.basename}
 
 
 game: Alleykat (Europe)

@@ -1,5 +1,5 @@
 collection: Bandai WonderSwan
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Bandai WonderSwan" -n {file.basename}
 
 
 game: Clock Tower for WonderSwan (Japan)

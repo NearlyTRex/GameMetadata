@@ -1,5 +1,5 @@
 collection: Nintendo Game Boy Advance e-Reader
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Game Boy Advance e-Reader" -n {file.basename}
 
 
 game: NES-e - Balloon Fight-e (USA)

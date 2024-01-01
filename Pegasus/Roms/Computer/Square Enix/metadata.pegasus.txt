@@ -1,5 +1,5 @@
 collection: Computer - Square Enix
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Square Enix" -n {file.basename}
 
 
 game: Final Fantasy XI - Ultimate Collection Seekers Edition (USA)

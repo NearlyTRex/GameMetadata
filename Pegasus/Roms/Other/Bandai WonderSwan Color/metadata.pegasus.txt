@@ -1,5 +1,5 @@
 collection: Bandai WonderSwan Color
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Bandai WonderSwan Color" -n {file.basename}
 
 
 game: Star Hearts - Hoshi to Daichi no Shisha (Japan)

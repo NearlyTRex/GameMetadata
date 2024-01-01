@@ -1,5 +1,5 @@
 collection: Atari 5200
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari 5200" -n {file.basename}
 
 
 game: Asteroids (USA) (Proto)

@@ -1,5 +1,5 @@
 collection: Texas Instruments TI-99-4A
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Texas Instruments TI-99-4A" -n {file.basename}
 
 
 game: A-Maze-Ing (USA)

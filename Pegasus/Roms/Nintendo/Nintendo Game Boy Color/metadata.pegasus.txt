@@ -1,5 +1,5 @@
 collection: Nintendo Game Boy Color
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Game Boy Color" -n {file.basename}
 
 
 game: Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)

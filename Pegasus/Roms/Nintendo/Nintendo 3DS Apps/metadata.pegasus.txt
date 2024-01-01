@@ -1,5 +1,5 @@
 collection: Nintendo 3DS Apps
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo 3DS Apps" -n {file.basename}
 
 
 game: AR Games (USA) (Embedded App)

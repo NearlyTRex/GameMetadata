@@ -1,5 +1,5 @@
 collection: Atari 2600
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari 2600" -n {file.basename}
 
 
 game: 3-D Tic-Tac-Toe (USA)

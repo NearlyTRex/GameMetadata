@@ -1,5 +1,5 @@
 collection: Nintendo Gamecube
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Gamecube" -n {file.basename}
 
 
 game: 007 - Agent Under Fire (USA)

@@ -1,5 +1,5 @@
 collection: Nintendo Switch eShop
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Switch eShop" -n {file.basename}
 
 
 game: Bad Dream - Coma (World) (eShop)

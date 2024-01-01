@@ -1,5 +1,5 @@
 collection: Computer - Humble Bundle
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Humble Bundle" -n {file.basename}
 
 
 game: Amnesia - The Dark Descent (USA)

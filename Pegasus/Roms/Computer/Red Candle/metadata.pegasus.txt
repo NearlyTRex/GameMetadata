@@ -1,5 +1,5 @@
 collection: Computer - Red Candle
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Red Candle" -n {file.basename}
 
 
 game: Detention (USA)

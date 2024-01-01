@@ -1,5 +1,5 @@
 collection: Arcade
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Arcade" -n {file.basename}
 
 
 game: 1941 - Counter Attack (World) (1941)

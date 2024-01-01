@@ -1,5 +1,5 @@
 collection: Sony PlayStation Portable Video
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Sony" -s "Sony PlayStation Portable Video" -n {file.basename}
 
 
 game: Dark Tales of Japan (Japan) (En,Ja)

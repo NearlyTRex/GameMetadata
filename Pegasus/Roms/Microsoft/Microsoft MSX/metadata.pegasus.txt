@@ -1,5 +1,5 @@
 collection: Microsoft MSX
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft MSX" -n {file.basename}
 
 
 game: Antarctic Adventure (Japan)

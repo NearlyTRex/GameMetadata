@@ -1,5 +1,5 @@
 collection: Atari Jaguar CD
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari Jaguar CD" -n {file.basename}
 
 
 game: Blue Lightning (USA)

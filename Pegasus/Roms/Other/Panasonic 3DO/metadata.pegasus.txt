@@ -1,5 +1,5 @@
 collection: Panasonic 3DO
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Panasonic 3DO" -n {file.basename}
 
 
 game: Alone in the Dark (USA)

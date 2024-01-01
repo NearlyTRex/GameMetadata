@@ -1,5 +1,5 @@
 collection: Computer - Puppet Combo
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Puppet Combo" -n {file.basename}
 
 
 game: Babysitter Bloodbath (USA)

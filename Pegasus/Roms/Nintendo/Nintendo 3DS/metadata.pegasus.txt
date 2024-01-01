@@ -1,5 +1,5 @@
 collection: Nintendo 3DS
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo 3DS" -n {file.basename}
 
 
 game: Animal Crossing - New Leaf (USA) (En,Fr,Es)

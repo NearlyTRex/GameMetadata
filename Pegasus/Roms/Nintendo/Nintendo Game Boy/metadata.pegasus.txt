@@ -1,5 +1,5 @@
 collection: Nintendo Game Boy
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Game Boy" -n {file.basename}
 
 
 game: Adventure Island (USA, Europe)

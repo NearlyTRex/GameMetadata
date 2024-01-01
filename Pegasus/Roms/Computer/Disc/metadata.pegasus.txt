@@ -1,5 +1,5 @@
 collection: Computer - Disc
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Disc" -n {file.basename}
 
 
 game: 1000 Best Games for Windows (USA)

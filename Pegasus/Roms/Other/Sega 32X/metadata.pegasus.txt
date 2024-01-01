@@ -1,5 +1,5 @@
 collection: Sega 32X
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Sega 32X" -n {file.basename}
 
 
 game: Chaotix ~ Knuckles' Chaotix (Japan, USA)

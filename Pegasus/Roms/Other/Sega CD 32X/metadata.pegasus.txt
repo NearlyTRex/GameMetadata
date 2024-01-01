@@ -1,5 +1,5 @@
 collection: Sega CD 32X
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Sega CD 32X" -n {file.basename}
 
 
 game: Corpse Killer (USA) (Sega CD 32X)

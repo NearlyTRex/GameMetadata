@@ -1,5 +1,5 @@
 collection: Nintendo DSi
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo DSi" -n {file.basename}
 
 
 game: 7 Wonders II (USA)

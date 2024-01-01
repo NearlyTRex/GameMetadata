@@ -1,5 +1,5 @@
 collection: Mattel Intellivision
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Mattel Intellivision" -n {file.basename}
 
 
 game: ABPA Backgammon ~ Backgammon (World)

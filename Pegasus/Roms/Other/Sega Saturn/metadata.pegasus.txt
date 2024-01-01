@@ -1,5 +1,5 @@
 collection: Sega Saturn
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Sega Saturn" -n {file.basename}
 
 
 game: Alone in the Dark - One-Eyed Jack's Revenge (USA)

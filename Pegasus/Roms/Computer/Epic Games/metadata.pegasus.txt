@@ -1,5 +1,5 @@
 collection: Computer - Epic Games
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Epic Games" -n {file.basename}
 
 
 game: 3 out of 10 - Season One (USA)

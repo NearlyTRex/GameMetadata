@@ -1,5 +1,5 @@
 collection: Tiger Game.com
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Tiger Game.com" -n {file.basename}
 
 
 game: Castlevania - Symphony of the Night (Unknown) (Proto)

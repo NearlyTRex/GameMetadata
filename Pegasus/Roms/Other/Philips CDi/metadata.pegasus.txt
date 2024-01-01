@@ -1,5 +1,5 @@
 collection: Philips CDi
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Philips CDi" -n {file.basename}
 
 
 game: Apprentice, The (Europe)

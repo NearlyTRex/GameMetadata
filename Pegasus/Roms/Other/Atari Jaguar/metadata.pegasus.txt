@@ -1,5 +1,5 @@
 collection: Atari Jaguar
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari Jaguar" -n {file.basename}
 
 
 game: Alien vs Predator (World)

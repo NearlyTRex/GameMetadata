@@ -1,5 +1,5 @@
 collection: Nintendo NES
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo NES" -n {file.basename}
 
 
 game: Adventure Island II (USA)

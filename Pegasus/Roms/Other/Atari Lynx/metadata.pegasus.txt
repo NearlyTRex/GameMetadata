@@ -1,5 +1,5 @@
 collection: Atari Lynx
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari Lynx" -n {file.basename}
 
 
 game: Basketbrawl (USA, Europe)

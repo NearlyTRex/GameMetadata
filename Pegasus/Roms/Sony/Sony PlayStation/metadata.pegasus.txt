@@ -1,5 +1,5 @@
 collection: Sony PlayStation
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Sony" -s "Sony PlayStation" -n {file.basename}
 
 
 game: Activision Classics (USA)

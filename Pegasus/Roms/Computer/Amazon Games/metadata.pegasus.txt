@@ -1,5 +1,5 @@
 collection: Computer - Amazon Games
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Amazon Games" -n {file.basename}
 
 
 game: ACA Neo Geo - 3 Count Bout (USA)

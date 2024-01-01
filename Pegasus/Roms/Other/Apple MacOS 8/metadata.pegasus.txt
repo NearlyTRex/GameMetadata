@@ -1,5 +1,5 @@
 collection: Apple MacOS 8
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Apple MacOS 8" -n {file.basename}
 
 
 game: Harry the Handsome Executive (USA)

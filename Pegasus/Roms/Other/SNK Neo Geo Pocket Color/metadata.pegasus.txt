@@ -1,5 +1,5 @@
 collection: SNK Neo Geo Pocket Color
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "SNK Neo Geo Pocket Color" -n {file.basename}
 
 
 game: Baseball Stars Color - Pocket Sports Series (World) (En,Ja)

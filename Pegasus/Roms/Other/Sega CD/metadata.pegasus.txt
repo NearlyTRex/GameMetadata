@@ -1,5 +1,5 @@
 collection: Sega CD
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Sega CD" -n {file.basename}
 
 
 game: Bram Stoker's Dracula (USA)

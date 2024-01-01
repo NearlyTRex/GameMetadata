@@ -1,5 +1,5 @@
 collection: Nintendo Switch
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Switch" -n {file.basename}
 
 
 game: 2064 - Read Only Memories INTEGRAL (USA) (En,Ja)

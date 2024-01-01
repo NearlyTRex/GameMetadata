@@ -1,5 +1,5 @@
 collection: Atari 800
-launch: {env.JOYBOX_LAUNCH_JSON} {file.path}
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari 800" -n {file.basename}
 
 
 game: Bounty Bob Strikes Back! (USA)
