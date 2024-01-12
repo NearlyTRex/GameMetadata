@@ -924,6 +924,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Portal 64 (USA)
+file: Nintendo/Nintendo 64/Portal 64 (USA)/Portal 64 (USA).json
+players: 1
+assets.boxfront: BoxFront/Portal 64 (USA).jpg
+assets.boxback: BoxBack/Portal 64 (USA).jpg
+assets.background: Background/Portal 64 (USA).jpg
+assets.screenshot: Screenshot/Portal 64 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Resident Evil 2 (USA)
 file: Nintendo/Nintendo 64/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Angel Studios

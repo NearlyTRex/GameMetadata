@@ -10667,6 +10667,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: South of the Circle (USA)
+file: Computer/GOG/S/South of the Circle (USA)/South of the Circle (USA).json
+players: 1
+assets.boxfront: BoxFront/South of the Circle (USA).jpg
+assets.boxback: BoxBack/South of the Circle (USA).jpg
+assets.background: Background/South of the Circle (USA).jpg
+assets.screenshot: Screenshot/South of the Circle (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Star Trek - Armada (USA)
 file: Computer/GOG/S/Star Trek - Armada (USA)/Star Trek - Armada (USA).json
 developer: Mad Doc Software
