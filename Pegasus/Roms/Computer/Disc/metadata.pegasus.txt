@@ -258,6 +258,30 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Amazon Trail 3rd Edition - Rainforest Adventures (USA)
+file: Computer/Disc/A/Amazon Trail 3rd Edition - Rainforest Adventures (USA)/Amazon Trail 3rd Edition - Rainforest Adventures (USA).json
+developer: MECC
+publisher: The Learning Company
+genre: Adventure;Education
+description:
+  Your survival depends on the many decisions you will make. Prove yourself worthy
+  and discover the secrets of the ancient fortress Vilcabamba.
+  .
+  Face the perils of the uncharted rainforest as you journey to the source of the
+  mighty Amazon River.
+  .
+  Every voyage upriver is a new adventure, so start packing. The wild Amazon is
+  calling.
+release: 1999
+players: 1
+assets.boxfront: BoxFront/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
+assets.boxback: BoxBack/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
+assets.background: Background/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
+assets.screenshot: Screenshot/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Amnesia - The Dark Descent (USA)
 file: Computer/Disc/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
 developer: Frictional Games
@@ -3760,6 +3784,35 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Microsoft Flight Simulator for Windows 95 (USA)
+file: Computer/Disc/M/Microsoft Flight Simulator for Windows 95 (USA)/Microsoft Flight Simulator for Windows 95 (USA).json
+developer: Microsoft Studios
+publisher: Microsoft Studios
+genre: Flight Simulator
+description:
+  Take a cross-country cruise in a Cessna
+  .
+  * Buzz tall buildings in a Sopwith Camel
+  .
+  * Fly under bridges in a Learjet
+  .
+  * Go barnstorning in an Extra 300S stunt plane
+  .
+  * Glide on the wind in a Schweizer Sailplane
+  .
+  * Deal with major instrument failure in a Boeing 737-400
+  .
+  * Crash-land and walk away from it
+release: 1996-11-07
+players: 1
+assets.boxfront: BoxFront/Microsoft Flight Simulator for Windows 95 (USA).jpg
+assets.boxback: BoxBack/Microsoft Flight Simulator for Windows 95 (USA).jpg
+assets.background: Background/Microsoft Flight Simulator for Windows 95 (USA).jpg
+assets.screenshot: Screenshot/Microsoft Flight Simulator for Windows 95 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Moon Hunters (USA)
 file: Computer/Disc/M/Moon Hunters (USA)/Moon Hunters (USA).json
 developer: Kitfox Games
@@ -6946,6 +6999,36 @@ assets.boxback: BoxBack/Wetrix (USA).jpg
 assets.background: Background/Wetrix (USA).jpg
 assets.screenshot: Screenshot/Wetrix (USA).jpg
 assets.video: Video/Wetrix (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Wheel of Fortune Deluxe (USA)
+file: Computer/Disc/W/Wheel of Fortune Deluxe (USA)/Wheel of Fortune Deluxe (USA).json
+developer: Sony Online Entertainment
+publisher: Encore, Inc.
+genre: Puzzle
+description:
+  Spin the wheel and experience the enhanced game play and vivid graphics of
+  the updated version of America's #1 game show! Pick a consonant or buy a
+  vowel to solve puzzles in three exciting new game modes; Road Trip, Group
+  Play, and Puzzle of the Day. Create your own profile and earn trophies along
+  with virtual cash! Look out for the dreaded Bankrupt and Lose A Turn wedges
+  as you spin to win in the sparkling new version of this beloved game.
+  .
+  Features:
+  .
+  * 2,000 puzzles created by the show's staff
+  .
+  * Play alone, versus the PC, or versus others at the same keyboard
+  .
+  * Earn in-game trophies and badges for high scores
+release: 2008
+players: 1
+assets.boxfront: BoxFront/Wheel of Fortune Deluxe (USA).jpg
+assets.boxback: BoxBack/Wheel of Fortune Deluxe (USA).jpg
+assets.background: Background/Wheel of Fortune Deluxe (USA).jpg
+assets.screenshot: Screenshot/Wheel of Fortune Deluxe (USA).jpg
 x-co-op: No
 x-playable: Yes
 
