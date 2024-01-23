@@ -355,6 +355,36 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Amnesia - Rebirth (USA)
+file: Computer/GOG/A/Amnesia - Rebirth (USA)/Amnesia - Rebirth (USA).json
+developer: Frictional Games
+publisher: Frictional Games
+genre: Action Adventure;Survival
+description:
+  You can't let out a breath. The creature is only inches away. Its sole purpose -
+  to feed off your terror. And so you crouch in the dark, trying to stop the fear
+  rising, trying to silence what lies within you.
+  .
+  In Amnesia: Rebirth, you are Tasi Trianon, waking up deep in the desert of
+  Algeria. Days have passed. Where have you been? What did you do? Where are the
+  others? Retrace your journey, pull together the fragments of your shattered
+  past; it is your only chance to survive the pitiless horror that threatens to
+  devour you.
+  .
+  Step into Tasi's shoes and guide her through her personal terror and pain. While
+  you struggle to make your way through a desolate landscape, you must also
+  struggle with your own hopes, fears, and bitter regrets. And still you must
+  continue, step by step, knowing that if you fail you will lose everything.
+release: 2020-09-15
+players: 1
+assets.boxfront: BoxFront/Amnesia - Rebirth (USA).jpg
+assets.boxback: BoxBack/Amnesia - Rebirth (USA).jpg
+assets.background: Background/Amnesia - Rebirth (USA).jpg
+assets.screenshot: Screenshot/Amnesia - Rebirth (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Amnesia - The Dark Descent (USA)
 file: Computer/GOG/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
 developer: Frictional Games
@@ -2280,6 +2310,41 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Conarium (USA)
+file: Computer/GOG/C/Conarium (USA)/Conarium (USA).json
+developer: Zoetrope Interactive
+publisher: Iceberg Interactive
+genre: Adventure;3D;First-Person
+description:
+  Conarium is a chilling Lovecraftian game, which follows a gripping story
+  involving four scientists and their endeavor to challenge what we normally
+  consider to be the 'absolute' limits of nature. Inspired by H.P. Lovecraft's
+  novella "At the Mountains of Madness", but largely set after the original story.
+  .
+  You, as Frank Gilman, open your eyes inside a room filled with strange,
+  pulsating noises. Patterns of lights executing a Danse Macabre on the walls is
+  presented by a queer device on the table. Having recalled nothing other than
+  that you're in Upuaut, an Antarctic base located near south pole, you find the
+  place deserted and have a distinct feeling of something being terribly wrong.
+  Somehow knowing that your memories cannot guide you enforces a strange feeling
+  of vulnerability, a familiar yet alien sensation of being a part of a peculiar
+  whole... Soon you will discover that having used the device during the
+  expedition, you have died but then returned subtly changed, speaking of strange
+  memories and of strange places. You have lost something important or gained
+  something sinister...
+  .
+  Explore the antarctic base, as well as dreams and visions. Study clues, unlock
+  secrets but avoid macabre beings at all cost.
+release: 2017-06-06
+players: 1
+assets.boxfront: BoxFront/Conarium (USA).jpg
+assets.boxback: BoxBack/Conarium (USA).jpg
+assets.background: Background/Conarium (USA).jpg
+assets.screenshot: Screenshot/Conarium (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Control Ultimate Edition (USA)
 file: Computer/GOG/C/Control Ultimate Edition (USA)/Control Ultimate Edition (USA).json
 developer: Remedy Entertainment
@@ -4077,6 +4142,39 @@ assets.boxback: BoxBack/Elder Scrolls V, The - Skyrim Special Edition (USA).jpg
 assets.background: Background/Elder Scrolls V, The - Skyrim Special Edition (USA).jpg
 assets.screenshot: Screenshot/Elder Scrolls V, The - Skyrim Special Edition (USA).jpg
 assets.video: Video/Elder Scrolls V, The - Skyrim Special Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Enigmatis - The Ghosts of Maple Creek (USA)
+file: Computer/GOG/E/Enigmatis - The Ghosts of Maple Creek (USA)/Enigmatis - The Ghosts of Maple Creek (USA).json
+developer: Artifex Mundi
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Imagine: you wake up in the evening after a powerful storm on a road in a tiny
+  town in the middle of nowhere, with partial short-term memory loss. Thrilling
+  shivers down your spine remind you of dramatic events that took place just
+  before, yet which you have no memory of
+  .
+  The empty streets of the town suggest that youre alone here, but then why do you
+  feel that youre being watched? And where are all the townsfolk? Behind every
+  corner a new question is found, but there arent enough answers to go around.
+  Youll have to use your innate cunning to work out the most important thing who
+  you are and what youre doing there. And when you remember, the real adventure
+  begins!
+  .
+  Will you dare to solve the ages-old mystery of Maple Creek? What ancient evil
+  lurks there in the seemingly peaceful, picturesque rural lands of Vermont? Find
+  a kidnapped teenage girl and save yourself in a thrilling detective story.
+  Enigmatis: The Ghosts of Maple Creek is an outstanding Hidden-Object Puzzle-
+  Adventure game!
+release: 2011-09-02
+players: 1
+assets.boxfront: BoxFront/Enigmatis - The Ghosts of Maple Creek (USA).jpg
+assets.boxback: BoxBack/Enigmatis - The Ghosts of Maple Creek (USA).jpg
+assets.background: Background/Enigmatis - The Ghosts of Maple Creek (USA).jpg
+assets.screenshot: Screenshot/Enigmatis - The Ghosts of Maple Creek (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6983,6 +7081,33 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Last Door, The - Collector's Edition (USA)
+file: Computer/GOG/L/Last Door, The - Collector's Edition (USA)/Last Door, The - Collector's Edition (USA).json
+developer: The Game Kitchen
+publisher: Phoenix Online Publishing
+genre: Adventure;General
+description:
+  The Last Door is an episodic psychological horror graphic adventure video
+  game developed and published by The Game Kitchen. As of January 2016, eight
+  episodes have been released. The collector's edition of the first season was
+  released in May 2014 by Phoenix Online Publishing, featuring new content.
+  .
+  The plot revolves around four childhood friends, of which the player controls
+  Jeremiah Devitt (and later his psychiatrist, Doctor Wakefield), who attempt
+  to explore a supernatural territory/phenomenon known as the Veil. The story
+  takes place long after the friends have separated, and Devitt is summoned by
+  his old friend Anthony Beechworth's last words to investigate the mysterious
+  supernatural forces that now threaten them all.
+release: 2014-05-20
+players: 1
+assets.boxfront: BoxFront/Last Door, The - Collector's Edition (USA).jpg
+assets.boxback: BoxBack/Last Door, The - Collector's Edition (USA).jpg
+assets.background: Background/Last Door, The - Collector's Edition (USA).jpg
+assets.screenshot: Screenshot/Last Door, The - Collector's Edition (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Layers of Fear (USA)
 file: Computer/GOG/L/Layers of Fear (USA)/Layers of Fear (USA).json
 developer: Bloober Team
@@ -9467,6 +9592,66 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Remothered - Broken Porcelain (USA)
+file: Computer/GOG/R/Remothered - Broken Porcelain (USA)/Remothered - Broken Porcelain (USA).json
+developer: Stormind Games
+publisher: Modus Games
+genre: Action Adventure;Survival
+description:
+  Broken Porcelain brings an abundance of welcome changes to the series,
+  introducing new gameplay and storytelling elements that breathe new life into
+  the characters and an unprecedented level of immersion in this haunting
+  adventure perfect for both new and returning fans to the series.
+  .
+  The truths buried in the Ashmann Inn will not be discovered easily - its many
+  mysteries are intertwined and guarded by the looming threat of the stalkers,
+  powerful hunters trapped in time and the confines of its walls. Survival will
+  take more than just quick reactions as a strategic and resourceful approach will
+  quickly become critical in this haunting adventure. Be smart - knowing the best
+  time to sneak, flee or fight imminent dangers can quickly make the hunters
+  become the hunted.
+  .
+  FEATURES
+  .
+  * Thrilling Psychological Plot. The award-winning cult classic Remothered
+  returns in Broken Porcelain, the perfect entry point for new fans discovering
+  the franchise as well as series veterans craving additional lore surrounding the
+  events and characters of Tormented Fathers.
+  .
+  * Realistic Survival Horror. The Ashmann Inn is as rich in resources as it is
+  dangers. Cautiously scour the environment for items to aid your exploration of
+  unsettling locations that hide grave secrets of a terrifying past.
+  .
+  * Intense Stealth Gameplay. Roam among the shadows of Ashmann Inn and use
+  everything at your disposal to distract enemies for a resourceful escape.
+  .
+  * Investigate and Escape. Challenging puzzles, expanded lore, and a haunting
+  soundtrack by composer Luca Balboni (Remothered: Tormented Fathers, Mine, Watch
+  Them Fall) transforms the dark and gloomy atmosphere into a terrifying
+  experience that will haunt players well after the game is over.
+  .
+  * Captivating Characters. The roster of charismatic characters grows as fan
+  favorites return to meet all the new additions to the cast inspired by the
+  protagonists of horror classics.
+  .
+  * Real-Time Cinematics. In a series first, fully animated real-time cinematics
+  will breathe new life into the characters and world of Remothered for an
+  unprecedented level of immersion.
+  .
+  Directed by Chris Darril of Darril Arts. Darril Arts is a digital arts
+  entertainment company focused on stories designed with the aim of enriching the
+  game and animation industry supply by offering a range of multimedia products
+  that can be fully classified as seventh and eighth art.
+release: 2020-10-13
+players: 1
+assets.boxfront: BoxFront/Remothered - Broken Porcelain (USA).jpg
+assets.boxback: BoxBack/Remothered - Broken Porcelain (USA).jpg
+assets.background: Background/Remothered - Broken Porcelain (USA).jpg
+assets.screenshot: Screenshot/Remothered - Broken Porcelain (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Remothered - Tormented Fathers (USA)
 file: Computer/GOG/R/Remothered - Tormented Fathers (USA)/Remothered - Tormented Fathers (USA).json
 developer: Stormind Games
@@ -10594,6 +10779,35 @@ assets.boxback: BoxBack/Silent Hill 4 - The Room (USA).jpg
 assets.background: Background/Silent Hill 4 - The Room (USA).jpg
 assets.screenshot: Screenshot/Silent Hill 4 - The Room (USA).jpg
 assets.video: Video/Silent Hill 4 - The Room (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Silver Chains (USA)
+file: Computer/GOG/S/Silver Chains (USA)/Silver Chains (USA).json
+developer: Cracked Heads Games
+publisher: Headup Games
+genre: Action Adventure;Survival
+description:
+  After his car hit a tree in a stormy night, Peter wakes up in an old abandoned
+  mansion, somewhere in England. He can't remember why and how he got here, but
+  soon he realises that the house is not as abandoned as it seems. While trying to
+  find a way out of the house, Peter has to uncover the dark secrets of what has
+  happened in this place.
+  .
+  As he tries to find his way out, Peter discovers hints which indicate that he
+  has already been here before. But by the time he's starting to put the pieces of
+  the puzzle together, something evil has picked up his trail...
+  .
+  Solve puzzles to find out how you are connected to the mysteries of this place.
+  But be careful: Something evil lurks in the cold, dark masonry and it has
+  already started hunting you...
+release: 2019-08-06
+players: 1
+assets.boxfront: BoxFront/Silver Chains (USA).jpg
+assets.boxback: BoxBack/Silver Chains (USA).jpg
+assets.background: Background/Silver Chains (USA).jpg
+assets.screenshot: Screenshot/Silver Chains (USA).jpg
 x-co-op: No
 x-playable: Yes
 
