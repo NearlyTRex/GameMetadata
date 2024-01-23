@@ -1,0 +1,13 @@
+{
+    "extra": [
+        "enigmatis1_wallpaper.zip"
+    ],
+    "files": [
+        "extra/enigmatis1_wallpaper.zip",
+        "setup_enigmatis_the_ghosts_of_maple_creek_gog-1_(22616).exe"
+    ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_enigmatis_the_ghosts_of_maple_creek_gog-1_(22616).exe"
+    ],
+    "transform_file": "setup_enigmatis_the_ghosts_of_maple_creek_gog-1_(22616).exe"
+}

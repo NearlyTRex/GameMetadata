@@ -1,0 +1,11 @@
+{
+    "files": [
+        "setup_silver_chains_1.0.19_(64bit)_(33437)-1.bin",
+        "setup_silver_chains_1.0.19_(64bit)_(33437)-2.bin",
+        "setup_silver_chains_1.0.19_(64bit)_(33437).exe"
+    ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_silver_chains_1.0.19_(64bit)_(33437).exe"
+    ],
+    "transform_file": "setup_silver_chains_1.0.19_(64bit)_(33437).exe"
+}

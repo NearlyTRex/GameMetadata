@@ -1,0 +1,14 @@
+{
+    "files": [
+        "setup_amnesia_rebirth_1.4_(64bit)_(50150)-1.bin",
+        "setup_amnesia_rebirth_1.4_(64bit)_(50150)-2.bin",
+        "setup_amnesia_rebirth_1.4_(64bit)_(50150)-3.bin",
+        "setup_amnesia_rebirth_1.4_(64bit)_(50150)-4.bin",
+        "setup_amnesia_rebirth_1.4_(64bit)_(50150)-5.bin",
+        "setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
+    ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
+    ],
+    "transform_file": "setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
+}

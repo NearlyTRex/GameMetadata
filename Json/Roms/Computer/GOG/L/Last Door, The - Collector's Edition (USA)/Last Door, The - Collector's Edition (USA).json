@@ -1,0 +1,17 @@
+{
+    "extra": [
+        "last_door_wallpaper.zip",
+        "tldce_ost_flac.zip",
+        "tldce_ost_mp3.zip"
+    ],
+    "files": [
+        "extra/last_door_wallpaper.zip",
+        "extra/tldce_ost_flac.zip",
+        "extra/tldce_ost_mp3.zip",
+        "setup_the_last_door_-_collectors_edition_update_3_(12896).exe"
+    ],
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_the_last_door_-_collectors_edition_update_3_(12896).exe"
+    ],
+    "transform_file": "setup_the_last_door_-_collectors_edition_update_3_(12896).exe"
+}
