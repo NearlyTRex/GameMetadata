@@ -197,6 +197,31 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Alien - Isolation (USA)
+file: Computer/GOG/A/Alien - Isolation (USA)/Alien - Isolation (USA).json
+developer: The Creative Assembly
+publisher: Sega
+genre: Action
+description:
+  Discover the true meaning of fear in Alien: Isolation, a survival horror set in
+  an atmosphere of constant dread and mortal danger. Fifteen years after the
+  events of Alien, Ellen Ripley's daughter, Amanda enters a desperate battle for
+  survival, on a mission to unravel the truth behind her mother's disappearance.
+  As Amanda, you will navigate through an increasingly volatile world as you find
+  yourself confronted on all sides by a panicked, desperate population and an
+  unpredictable, ruthless Alien. Underpowered and underprepared, you must scavenge
+  resources, improvise solutions and use your wits, not just to succeed in your
+  mission, but to simply stay alive.
+release: 2014-10-07
+players: 1
+assets.boxfront: BoxFront/Alien - Isolation (USA).jpg
+assets.boxback: BoxBack/Alien - Isolation (USA).jpg
+assets.background: Background/Alien - Isolation (USA).jpg
+assets.screenshot: Screenshot/Alien - Isolation (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Alone in the Dark (USA)
 file: Computer/GOG/A/Alone in the Dark (USA)/Alone in the Dark (USA).json
 developer: Krisalis Software
@@ -8329,6 +8354,26 @@ assets.boxback: BoxBack/Monkey Island 5 - Tales of Monkey Island - Complete Seas
 assets.background: Background/Monkey Island 5 - Tales of Monkey Island - Complete Season (USA).jpg
 assets.screenshot: Screenshot/Monkey Island 5 - Tales of Monkey Island - Complete Season (USA).jpg
 assets.video: Video/Monkey Island 5 - Tales of Monkey Island - Complete Season (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Mordheim - City of the Damned (USA)
+file: Computer/GOG/M/Mordheim - City of the Damned (USA)/Mordheim - City of the Damned (USA).json
+developer: Rogue Factor
+publisher: Focus Home Interactive
+genre: Strategy
+description:
+  Mordheim: City of the Damned is the first video game adaptation of Games
+  Workshop's cult classic tabletop game Mordheim. Set in the Warhammer World's
+  decimated Empire city, Mordheim: City of the Damned is a turn-based tactical
+  game where you lead warbands into bloody and lethal skirmishes.
+release: 2015-11-19
+players: 2
+assets.boxfront: BoxFront/Mordheim - City of the Damned (USA).jpg
+assets.boxback: BoxBack/Mordheim - City of the Damned (USA).jpg
+assets.background: Background/Mordheim - City of the Damned (USA).jpg
+assets.screenshot: Screenshot/Mordheim - City of the Damned (USA).jpg
 x-co-op: No
 x-playable: Yes
 
