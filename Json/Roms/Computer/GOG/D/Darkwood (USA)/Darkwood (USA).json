@@ -1,10 +1,10 @@
 {
     "files": [
-        "setup_darkwood_1.4a_(64bit)_(70053)-1.bin",
-        "setup_darkwood_1.4a_(64bit)_(70053).exe"
+        "setup_darkwood_1.4.2_(64bit)_(70214)-1.bin",
+        "setup_darkwood_1.4.2_(64bit)_(70214).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_darkwood_1.4a_(64bit)_(70053).exe"
+        "$SETUP_MAIN_ROOT/setup_darkwood_1.4.2_(64bit)_(70214).exe"
     ],
-    "transform_file": "setup_darkwood_1.4a_(64bit)_(70053).exe"
+    "transform_file": "setup_darkwood_1.4.2_(64bit)_(70214).exe"
 }
