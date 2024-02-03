@@ -3103,6 +3103,54 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Jewel Labyrinth (USA)
+file: Computer/Disc/J/Jewel Labyrinth (USA)/Jewel Labyrinth (USA).json
+developer: Selectsoft
+publisher: Selectsoft
+genre: Puzzle;General
+description:
+  Never More Fun with Amazing Jewels!
+  .
+  If you enjoy challenging games, you’ll surely be hooked when you first play
+  Jewel Labyrinth! It’s a deceptively simple game of logic in which you can
+  only push jewels forward to their target destinations. Sound easy? Beware,
+  you can push a jewel into a locked or “un-push-able” position, so plan your
+  moves carefully!
+  .
+  Consider your moves in advance for each jewel you push...clever strategy
+  solves the puzzles!
+  .
+  Play in Real 3D!
+  .
+  Or in 2D—your choice! In 3D you can tilt, zoom in and zoom out at your
+  desired viewing angle, all in real time!
+  .
+  Classic Mode: Most popular jewel mazes!\n
+  Relaxed Mode: Simpler puzzles with fewer jewels!\n
+  Challenge Mode: Challenging but not quite diabolical!\n
+  Diabolical Mode: The brain teasers of brain teasers!\n
+  .
+  Features:\n
+  * 680+ Game Levels\n
+  * 4 Game Modes\n
+  * 5 Cave Textures\n
+  * 6 Wall Textures\n
+  * 3D & 2D Game Play\n
+  * 3D Lighting Options\n
+  * Mouse or Cursor Controls\n
+  * Real-Time Tilt & Zoom\n
+  * Unlimited Undo Moves\n
+  * Best Times (High Scores)
+release: 2006
+players: 1
+assets.boxfront: BoxFront/Jewel Labyrinth (USA).jpg
+assets.boxback: BoxBack/Jewel Labyrinth (USA).jpg
+assets.background: Background/Jewel Labyrinth (USA).jpg
+assets.screenshot: Screenshot/Jewel Labyrinth (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Jewel Quest V - The Sleepless Star (USA)
 file: Computer/Disc/J/Jewel Quest V - The Sleepless Star (USA)/Jewel Quest V - The Sleepless Star (USA).json
 developer: iWin
