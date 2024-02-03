@@ -59,6 +59,25 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Bootleg Sampler (USA)
+file: Other/Sega Saturn/Bootleg Sampler (USA)/Bootleg Sampler (USA).json
+developer: Sega
+publisher: Sega
+genre: Platform
+description:
+  Bootleg Sampler, despite its name, is an official Sega Saturn demo disc packaged
+  with new consoles for a period in both North America and Europe. Like later demo
+  discs, it features a number of playable demos and movie clips.
+release: 1995-05-11
+players: 1
+assets.boxfront: BoxFront/Bootleg Sampler (USA).jpg
+assets.boxback: BoxBack/Bootleg Sampler (USA).jpg
+assets.background: Background/Bootleg Sampler (USA).jpg
+assets.screenshot: Screenshot/Bootleg Sampler (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Bug! (USA)
 file: Other/Sega Saturn/Bug! (USA)/Bug! (USA).json
 developer: Realtime Associates
