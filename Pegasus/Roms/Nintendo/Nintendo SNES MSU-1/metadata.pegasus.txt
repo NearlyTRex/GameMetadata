@@ -1,0 +1,59 @@
+collection: Nintendo SNES MSU-1
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo SNES MSU-1" -n {file.basename}
+
+
+game: Legend of Zelda, The (USA) (Rev 7) (MSU-1)
+file: Nintendo/Nintendo SNES MSU-1/Legend of Zelda, The (USA) (Rev 7) (MSU-1)/Legend of Zelda, The (USA) (Rev 7) (MSU-1).json
+players: 1
+assets.boxfront: BoxFront/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
+assets.boxback: BoxBack/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
+assets.background: Background/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
+assets.screenshot: Screenshot/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Mega Man (USA) (Rev 1) (MSU-1)
+file: Nintendo/Nintendo SNES MSU-1/Mega Man (USA) (Rev 1) (MSU-1)/Mega Man (USA) (Rev 1) (MSU-1).json
+players: 1
+assets.boxfront: BoxFront/Mega Man (USA) (Rev 1) (MSU-1).jpg
+assets.boxback: BoxBack/Mega Man (USA) (Rev 1) (MSU-1).jpg
+assets.background: Background/Mega Man (USA) (Rev 1) (MSU-1).jpg
+assets.screenshot: Screenshot/Mega Man (USA) (Rev 1) (MSU-1).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Mega Man 2 (USA) (Rev 4) (MSU-1)
+file: Nintendo/Nintendo SNES MSU-1/Mega Man 2 (USA) (Rev 4) (MSU-1)/Mega Man 2 (USA) (Rev 4) (MSU-1).json
+players: 1
+assets.boxfront: BoxFront/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
+assets.boxback: BoxBack/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
+assets.background: Background/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
+assets.screenshot: Screenshot/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Mega Man 4 (USA) (Rev 6) (MSU-1)
+file: Nintendo/Nintendo SNES MSU-1/Mega Man 4 (USA) (Rev 6) (MSU-1)/Mega Man 4 (USA) (Rev 6) (MSU-1).json
+players: 1
+assets.boxfront: BoxFront/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
+assets.boxback: BoxBack/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
+assets.background: Background/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
+assets.screenshot: Screenshot/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Metroid (USA) (Rev 5) (MSU-1)
+file: Nintendo/Nintendo SNES MSU-1/Metroid (USA) (Rev 5) (MSU-1)/Metroid (USA) (Rev 5) (MSU-1).json
+players: 1
+assets.boxfront: BoxFront/Metroid (USA) (Rev 5) (MSU-1).jpg
+assets.boxback: BoxBack/Metroid (USA) (Rev 5) (MSU-1).jpg
+assets.background: Background/Metroid (USA) (Rev 5) (MSU-1).jpg
+assets.screenshot: Screenshot/Metroid (USA) (Rev 5) (MSU-1).jpg
+x-co-op: No
+x-playable: Yes
+
+

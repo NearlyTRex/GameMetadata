@@ -1634,6 +1634,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Mega Man 2 (USA) (Rev 3)
+file: Nintendo/Nintendo SNES/Mega Man 2 (USA) (Rev 3)/Mega Man 2 (USA) (Rev 3).json
+players: 1
+assets.boxfront: BoxFront/Mega Man 2 (USA) (Rev 3).jpg
+assets.boxback: BoxBack/Mega Man 2 (USA) (Rev 3).jpg
+assets.background: Background/Mega Man 2 (USA) (Rev 3).jpg
+assets.screenshot: Screenshot/Mega Man 2 (USA) (Rev 3).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Mega Man 4 (USA) (Rev 5)
+file: Nintendo/Nintendo SNES/Mega Man 4 (USA) (Rev 5)/Mega Man 4 (USA) (Rev 5).json
+players: 1
+assets.boxfront: BoxFront/Mega Man 4 (USA) (Rev 5).jpg
+assets.boxback: BoxBack/Mega Man 4 (USA) (Rev 5).jpg
+assets.background: Background/Mega Man 4 (USA) (Rev 5).jpg
+assets.screenshot: Screenshot/Mega Man 4 (USA) (Rev 5).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Mega Man 7 (USA)
 file: Nintendo/Nintendo SNES/Mega Man 7 (USA)/Mega Man 7 (USA).json
 developer: Capcom
