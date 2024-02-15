@@ -6,10 +6,10 @@
         "$SETUP_MAIN_ROOT/Axiom Verge (USA).exe"
     ],
     "main_game_exe": [
-        "Axiom Verge/AxiomVerge.exe"
+        "AxiomVerge.exe"
     ],
     "main_game_exe_cwd": {
-        "Axiom Verge/AxiomVerge.exe": "Axiom Verge"
+        "AxiomVerge.exe": "."
     },
     "transform_file": "Axiom Verge (USA).exe"
 }

@@ -5,5 +5,21 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Lethal Company (USA).exe"
     ],
+    "main_game_exe": [
+        "Lethal Company.exe"
+    ],
+    "main_game_exe_cwd": {
+        "Lethal Company.exe": "."
+    },
+    "sandbox": {
+        "wine": {
+            "overrides": {
+                "game": [
+                    "d3d9,d3d10core,d3d11,dxgi=n,b"
+                ]
+            },
+            "use_dxvk": true
+        }
+    },
     "transform_file": "Lethal Company (USA).exe"
 }

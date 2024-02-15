@@ -5,5 +5,21 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Golf With Your Friends (USA).exe"
     ],
+    "main_game_exe": [
+        "Golf With Your Friends.exe"
+    ],
+    "main_game_exe_cwd": {
+        "Golf With Your Friends.exe": "."
+    },
+    "sandbox": {
+        "wine": {
+            "overrides": {
+                "game": [
+                    "d3d9,d3d10core,d3d11,dxgi=n,b"
+                ]
+            },
+            "use_dxvk": true
+        }
+    },
     "transform_file": "Golf With Your Friends (USA).exe"
 }
