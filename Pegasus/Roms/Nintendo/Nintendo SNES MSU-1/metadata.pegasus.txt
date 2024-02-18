@@ -4,6 +4,22 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo SNES MSU-1" -n {file
 
 game: DuckTales (USA) (Rev 6) (MSU-1)
 file: Nintendo/Nintendo SNES MSU-1/DuckTales (USA) (Rev 6) (MSU-1)/DuckTales (USA) (Rev 6) (MSU-1).json
+developer: infidelity
+publisher: infidelity
+genre: Platform
+description:
+  Bless me bagpipes! When will that thrillseeker, Scrooge McDuck, ever quit? Never
+  one to turn away from adventure, Uncle Scrooge has taken on his greatest
+  challenge - to discover the legendary Five Lost Treasures and become the
+  "Richest Duck in the World!" Join Scrooge and the DUCKTALES gang: gung-ho flying
+  ace, Launchpad; the nephews, Huey, Dewey and Louie; and little Webby, on their
+  search. Together they must trek through the treacherous Amazon Jungle, down into
+  the diamond mines of Africa, and even to the moon! Are you "Duck" enough to join
+  them on their adventure? Come along to Duckburg Headquarters and see for
+  yourself!
+  .
+  Ported to SNES by infidelity with MSU-1 support.
+release: 2023-09-10
 players: 1
 assets.boxfront: BoxFront/DuckTales (USA) (Rev 6) (MSU-1).jpg
 assets.boxback: BoxBack/DuckTales (USA) (Rev 6) (MSU-1).jpg
@@ -15,6 +31,27 @@ x-playable: Yes
 
 game: Legend of Zelda, The (USA) (Rev 7) (MSU-1)
 file: Nintendo/Nintendo SNES MSU-1/Legend of Zelda, The (USA) (Rev 7) (MSU-1)/Legend of Zelda, The (USA) (Rev 7) (MSU-1).json
+developer: infidelity
+publisher: infidelity
+genre: Action;Adventure
+description:
+  Welcome to the Legend of Zelda.  Where the only sound you'll hear is your own
+  heart pounding as you race through forests, lakes, mountains and dungeonous
+  mazes in an attempt to restore peace to the land of Hyrule.  Along the way
+  you'll be challenged by Tektites, Wizzrobes and an endless array of ruthless
+  creatures who'll stop at nothing to prevent you from finding the lost fragments
+  of the Triforce of Wisdom.  But don't despair.  With a little luck and a lot of
+  courage, you'll conquer your adversaries, unite the Triforce fragments and
+  unravel the mystery of the Legend of Zelda!
+  .
+  * Explore the vast Overworld terrain of the land of Hyrule and discover hidden
+  treasures.
+  .
+  * Explore the mystical labyrinths of the Underworld and ward-off ruthless
+  enemies.
+  .
+  Ported to SNES by infidelity with MSU-1 support.
+release: 2023-07-25
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
 assets.boxback: BoxBack/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
@@ -26,6 +63,27 @@ x-playable: Yes
 
 game: Mega Man (USA) (Rev 1) (MSU-1)
 file: Nintendo/Nintendo SNES MSU-1/Mega Man (USA) (Rev 1) (MSU-1)/Mega Man (USA) (Rev 1) (MSU-1).json
+developer: infidelity
+publisher: infidelity
+genre: Action;Platform
+description:
+  It's MEGA MAN versus the powerful leaders and fighting forces of Monsteropolis -
+  that strange multi-layered land of robot-like humanoids created by the wrongly-
+  performed experiments with human beings by Dr. Wily. Mega Man - the chosen
+  defender of the human race. For he dares to single-handedly penetrate
+  Monsteropolis' seven separate societies to stop the rapid expansion of strange
+  misrepresentations of humans.
+  .
+  Mega Man's goal is monumental. He must infiltrate seven separate heavily-guarded
+  empires. By himself, he must break down and destroy the following empire
+  leaders: Cutman, Gutsman, Iceman, Bombman, Fireman, Elecman, and Dr. Wily. The
+  action involves Mega Man armed only with laser beam weapons, encountering
+  strangely-configured humanoids. They're atop, in and out of fortified prison-
+  like structures strengthened with thick walls. Hidden amid gun turrets embedded
+  in concrete uprights, even in subterranean passages below icefields. WOW!
+  .
+  Ported to SNES by infidelity with MSU-1 support.
+release: 2024-02-11
 players: 1
 assets.boxfront: BoxFront/Mega Man (USA) (Rev 1) (MSU-1).jpg
 assets.boxback: BoxBack/Mega Man (USA) (Rev 1) (MSU-1).jpg
@@ -37,6 +95,20 @@ x-playable: Yes
 
 game: Mega Man 2 (USA) (Rev 4) (MSU-1)
 file: Nintendo/Nintendo SNES MSU-1/Mega Man 2 (USA) (Rev 4) (MSU-1)/Mega Man 2 (USA) (Rev 4) (MSU-1).json
+developer: infidelity
+publisher: infidelity
+genre: Action;Platform
+description:
+  He's Back! And this time the evil Dr. Wily (once the supreme power in the
+  universe) has created even more sinister robots to mount his attack. But as
+  MegaMan, you've also grown in power and ability. Can you save mankind from the
+  evil desires of Dr. Wily? Each of the eight empires is ruled by a different
+  super-robot. You must defeat each enemy on his own turf, building up weapons as
+  you go. Only after all are destroyed will you go head-on with the mastermind
+  himself, the evil Dr. Wily.
+  .
+  Ported to SNES by infidelity with MSU-1 support.
+release: 2023-07-02
 players: 1
 assets.boxfront: BoxFront/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
 assets.boxback: BoxBack/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
@@ -48,6 +120,20 @@ x-playable: Yes
 
 game: Mega Man 4 (USA) (Rev 6) (MSU-1)
 file: Nintendo/Nintendo SNES MSU-1/Mega Man 4 (USA) (Rev 6) (MSU-1)/Mega Man 4 (USA) (Rev 6) (MSU-1).json
+developer: infidelity
+publisher: infidelity
+genre: Action;Platform
+description:
+  For a year the city has been quiet, but a new robotic terror has gripped the
+  city! That scheming scientist, Dr. Cossack has arrived in town with eight new
+  metal maniacs who are bigger and badder than anything Dr. Wily dreamed of. It's
+  going to be a cybernetic showdown as the streets of the city erupt with the
+  sizzling sounds of molten metal! Armed with the new Mega Buster, Mega Man runs,
+  jumps and dodges his way through mazes of metallic munchkins on his way to the
+  Siberian citadel of Dr. Cossack for the final cataclysmic clash!
+  .
+  Ported to SNES by infidelity with MSU-1 support.
+release: 2023-12-01
 players: 1
 assets.boxfront: BoxFront/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
 assets.boxback: BoxBack/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
@@ -59,6 +145,36 @@ x-playable: Yes
 
 game: Metroid (USA) (Rev 5) (MSU-1)
 file: Nintendo/Nintendo SNES MSU-1/Metroid (USA) (Rev 5) (MSU-1)/Metroid (USA) (Rev 5) (MSU-1).json
+developer: infidelity
+publisher: infidelity
+genre: Action;Adventure;Platform
+description:
+  It's you against the evil Mother Brain in the thrilling battle of Metroid!
+  .
+  You're inside the fortress planet Zebes.  The planet of endless secret
+  passageways where the Metroid are multiplying.  Left alone the Metroid are
+  harmless.  But in the wrong hands they could destroy the galaxy.  It's up to you
+  to prevent the Mother Brain that controls Zebes from using the Metroid for evil
+  purposes.  But that won't be easy.  You'll have to use your spacesuit to absorb
+  valuable energy for your search to gain the use of power items like the Ice
+  Beam, Wave Beam, High Jump Boots and Varia.  If you survive, it will be you and
+  your acquired powers against the Mother Brain.
+  .
+  Worth Noting:
+  .
+  Metroid introduced nonlinear, side-scroller, maze-like, gameplay, in a platform,
+  shooter. Metroid required players to discover permanent power-ups to progress
+  further along; while backtracking through previously visited areas. The style is
+  affectionately known as Metroid-vania' (Castlevania: Symphony of the Night being
+  the second half to the term, mirrored the concept).
+  .
+  Completing the game in time and with enough power-ups revealed different
+  endings. At the end Samus removes the helmet or power suit (depending) to a
+  reveal a shocking suprise that endeared the character and broke new ground in
+  gaming.
+  .
+  Ported to SNES by infidelity with MSU-1 support.
+release: 2023-12-13
 players: 1
 assets.boxfront: BoxFront/Metroid (USA) (Rev 5) (MSU-1).jpg
 assets.boxback: BoxBack/Metroid (USA) (Rev 5) (MSU-1).jpg
