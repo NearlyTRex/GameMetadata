@@ -1,16 +1,16 @@
 {
     "files": [
-        "7 Days to Die (USA) (Alpha 21.1 b16).7z.001",
-        "7 Days to Die (USA) (Alpha 21.1 b16).7z.002",
-        "7 Days to Die (USA) (Alpha 21.1 b16).7z.003",
-        "7 Days to Die (USA) (Alpha 21.1 b16).exe"
+        "7 Days to Die (USA) (Alpha 21.1).7z.001",
+        "7 Days to Die (USA) (Alpha 21.1).7z.002",
+        "7 Days to Die (USA) (Alpha 21.1).7z.003",
+        "7 Days to Die (USA) (Alpha 21.1).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/7 Days to Die (USA) (Alpha 21.1 b16).exe"
+        "$SETUP_MAIN_ROOT/7 Days to Die (USA) (Alpha 21.1).exe"
     ],
     "steam": {
         "appid": "251570",
         "branchid": "alpha21.1"
     },
-    "transform_file": "7 Days to Die (USA) (Alpha 21.1 b16).exe"
+    "transform_file": "7 Days to Die (USA) (Alpha 21.1).exe"
 }
