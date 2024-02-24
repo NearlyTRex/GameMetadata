@@ -1,10 +1,16 @@
 {
-    "appid": "1136080",
     "files": [
-        "8 Eyes (USA).exe"
+        "8 Eyes (USA).7z"
     ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/8 Eyes (USA).exe"
+    "main_game_exe": [
+        "8 eyes.exe"
     ],
-    "transform_file": "8 Eyes (USA).exe"
+    "main_game_exe_cwd": {
+        "8 eyes.exe": "."
+    },
+    "steam": {
+        "appid": "1136080",
+        "changeid": "20677318"
+    },
+    "transform_file": "8 Eyes (USA).7z"
 }
