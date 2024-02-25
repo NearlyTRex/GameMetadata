@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Simulacra (USA).exe"
     ],
+    "steam": {
+        "appid": "712730"
+    },
     "transform_file": "Simulacra (USA).exe"
 }

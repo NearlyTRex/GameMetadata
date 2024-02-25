@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Stanley Parable, The (USA).exe"
     ],
+    "steam": {
+        "appid": "221910"
+    },
     "transform_file": "Stanley Parable, The (USA).exe"
 }

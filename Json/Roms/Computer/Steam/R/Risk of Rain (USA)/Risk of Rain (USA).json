@@ -11,6 +11,9 @@
     "main_game_exe_cwd": {
         "Risk of Rain/Risk of Rain.exe": "Risk of Rain"
     },
+    "steam": {
+        "appid": "248820"
+    },
     "sync": {
         "data": [
             "*.ini",

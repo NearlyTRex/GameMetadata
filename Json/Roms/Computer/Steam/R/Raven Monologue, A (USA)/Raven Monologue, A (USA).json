@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Raven Monologue, A (USA).exe"
     ],
+    "steam": {
+        "appid": "744810"
+    },
     "transform_file": "Raven Monologue, A (USA).exe"
 }

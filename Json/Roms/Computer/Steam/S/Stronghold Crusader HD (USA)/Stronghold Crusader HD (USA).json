@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Stronghold Crusader HD (USA).exe"
     ],
+    "steam": {
+        "appid": "40970"
+    },
     "transform_file": "Stronghold Crusader HD (USA).exe"
 }

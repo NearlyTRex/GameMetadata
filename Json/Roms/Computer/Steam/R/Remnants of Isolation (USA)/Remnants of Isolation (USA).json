@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Remnants of Isolation (USA).exe"
     ],
+    "steam": {
+        "appid": "360010"
+    },
     "transform_file": "Remnants of Isolation (USA).exe"
 }

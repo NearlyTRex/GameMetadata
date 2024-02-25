@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Subnautica (USA).exe"
     ],
+    "steam": {
+        "appid": "264710"
+    },
     "transform_file": "Subnautica (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Sid Meier's Civilization III - Complete (USA).exe"
     ],
+    "steam": {
+        "appid": "3910"
+    },
     "transform_file": "Sid Meier's Civilization III - Complete (USA).exe"
 }

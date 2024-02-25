@@ -8,5 +8,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Sons Of The Forest (USA).exe"
     ],
+    "steam": {
+        "appid": "1326470"
+    },
     "transform_file": "Sons Of The Forest (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Sisyphus Reborn (USA).exe"
     ],
+    "steam": {
+        "appid": "517910"
+    },
     "transform_file": "Sisyphus Reborn (USA).exe"
 }

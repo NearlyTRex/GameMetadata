@@ -7,5 +7,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Shenmue I & II (USA).exe"
     ],
+    "steam": {
+        "appid": "758330"
+    },
     "transform_file": "Shenmue I & II (USA).exe"
 }

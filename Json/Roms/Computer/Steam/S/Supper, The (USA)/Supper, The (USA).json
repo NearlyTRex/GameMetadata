@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Supper, The (USA).exe"
     ],
+    "steam": {
+        "appid": "1171370"
+    },
     "transform_file": "Supper, The (USA).exe"
 }

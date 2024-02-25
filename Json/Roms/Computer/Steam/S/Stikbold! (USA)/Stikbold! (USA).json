@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Stikbold! (USA).exe"
     ],
+    "steam": {
+        "appid": "429330"
+    },
     "transform_file": "Stikbold! (USA).exe"
 }

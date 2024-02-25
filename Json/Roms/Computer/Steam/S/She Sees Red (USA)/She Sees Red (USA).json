@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/She Sees Red (USA).exe"
     ],
+    "steam": {
+        "appid": "1081510"
+    },
     "transform_file": "She Sees Red (USA).exe"
 }

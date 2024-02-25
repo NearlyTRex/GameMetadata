@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Super Crate Box (USA).exe"
     ],
+    "steam": {
+        "appid": "212800"
+    },
     "transform_file": "Super Crate Box (USA).exe"
 }

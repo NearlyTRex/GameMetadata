@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Sonic CD (USA).exe"
     ],
+    "steam": {
+        "appid": "200940"
+    },
     "transform_file": "Sonic CD (USA).exe"
 }

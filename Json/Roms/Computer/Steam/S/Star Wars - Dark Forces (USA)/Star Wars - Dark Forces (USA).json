@@ -20,6 +20,9 @@
     "main_game_exe_cwd": {
         "Star Wars - Dark Forces/DosBox/dosbox.exe": "Star Wars - Dark Forces"
     },
+    "steam": {
+        "appid": "32400"
+    },
     "sync": {
         "data": [
             "*.CFG"

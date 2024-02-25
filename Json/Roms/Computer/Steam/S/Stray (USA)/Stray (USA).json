@@ -7,5 +7,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Stray (USA).exe"
     ],
+    "steam": {
+        "appid": "1332010"
+    },
     "transform_file": "Stray (USA).exe"
 }
