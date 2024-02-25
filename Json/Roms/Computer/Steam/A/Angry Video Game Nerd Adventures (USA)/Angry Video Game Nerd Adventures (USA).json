@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Angry Video Game Nerd Adventures (USA).exe"
     ],
+    "steam": {
+        "appid": "237740"
+    },
     "transform_file": "Angry Video Game Nerd Adventures (USA).exe"
 }

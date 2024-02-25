@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Aegis Defenders (USA).exe"
     ],
+    "steam": {
+        "appid": "371140"
+    },
     "transform_file": "Aegis Defenders (USA).exe"
 }

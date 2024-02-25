@@ -8,5 +8,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/ARK - Survival of the Fittest (USA).exe"
     ],
+    "steam": {
+        "appid": "407530"
+    },
     "transform_file": "ARK - Survival of the Fittest (USA).exe"
 }

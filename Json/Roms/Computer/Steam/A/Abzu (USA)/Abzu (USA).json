@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Abzu (USA).exe"
     ],
+    "steam": {
+        "appid": "384190"
+    },
     "transform_file": "Abzu (USA).exe"
 }

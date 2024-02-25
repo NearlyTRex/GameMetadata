@@ -8,5 +8,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Ashes of the Singularity - Escalation (USA).exe"
     ],
+    "steam": {
+        "appid": "507490"
+    },
     "transform_file": "Ashes of the Singularity - Escalation (USA).exe"
 }

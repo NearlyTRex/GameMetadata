@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Atari Vault (USA).exe"
     ],
+    "steam": {
+        "appid": "400020"
+    },
     "transform_file": "Atari Vault (USA).exe"
 }

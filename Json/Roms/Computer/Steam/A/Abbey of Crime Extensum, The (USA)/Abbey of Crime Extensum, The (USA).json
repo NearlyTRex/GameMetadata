@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Abbey of Crime Extensum, The (USA).exe"
     ],
+    "steam": {
+        "appid": "474030"
+    },
     "transform_file": "Abbey of Crime Extensum, The (USA).exe"
 }

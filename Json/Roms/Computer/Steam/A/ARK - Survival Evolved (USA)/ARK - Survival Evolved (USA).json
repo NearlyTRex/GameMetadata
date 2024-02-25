@@ -15,5 +15,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/ARK - Survival Evolved (USA).exe"
     ],
+    "steam": {
+        "appid": "346110"
+    },
     "transform_file": "ARK - Survival Evolved (USA).exe"
 }
