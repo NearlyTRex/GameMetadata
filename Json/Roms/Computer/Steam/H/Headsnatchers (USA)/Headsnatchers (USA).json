@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Headsnatchers (USA).exe"
     ],
+    "steam": {
+        "appid": "797410"
+    },
     "transform_file": "Headsnatchers (USA).exe"
 }

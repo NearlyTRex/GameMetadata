@@ -8,5 +8,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Hijacker Jack - Arcade FMV (USA).exe"
     ],
+    "steam": {
+        "appid": "1422730"
+    },
     "transform_file": "Hijacker Jack - Arcade FMV (USA).exe"
 }

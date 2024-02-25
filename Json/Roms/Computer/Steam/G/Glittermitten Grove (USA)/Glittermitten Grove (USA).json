@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Glittermitten Grove (USA).exe"
     ],
+    "steam": {
+        "appid": "536890"
+    },
     "transform_file": "Glittermitten Grove (USA).exe"
 }

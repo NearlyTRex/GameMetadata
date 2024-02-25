@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Ghost of You, The (USA).exe"
     ],
+    "steam": {
+        "appid": "990180"
+    },
     "transform_file": "Ghost of You, The (USA).exe"
 }

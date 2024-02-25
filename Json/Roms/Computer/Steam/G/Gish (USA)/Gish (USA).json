@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Gish (USA).exe"
     ],
+    "steam": {
+        "appid": "9500"
+    },
     "transform_file": "Gish (USA).exe"
 }

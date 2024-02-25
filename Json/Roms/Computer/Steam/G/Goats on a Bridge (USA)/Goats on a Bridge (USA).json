@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Goats on a Bridge (USA).exe"
     ],
+    "steam": {
+        "appid": "335840"
+    },
     "transform_file": "Goats on a Bridge (USA).exe"
 }

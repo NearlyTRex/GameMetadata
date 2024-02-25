@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Garry's Mod (USA).exe"
     ],
+    "steam": {
+        "appid": "4000"
+    },
     "transform_file": "Garry's Mod (USA).exe"
 }
