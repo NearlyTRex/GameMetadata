@@ -10,5 +10,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Tell Me Why (USA).exe"
     ],
+    "steam": {
+        "appid": "1180660"
+    },
     "transform_file": "Tell Me Why (USA).exe"
 }

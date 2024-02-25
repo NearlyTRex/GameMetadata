@@ -8,5 +8,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/We Were Here Forever (USA).exe"
     ],
+    "steam": {
+        "appid": "1341290"
+    },
     "transform_file": "We Were Here Forever (USA).exe"
 }

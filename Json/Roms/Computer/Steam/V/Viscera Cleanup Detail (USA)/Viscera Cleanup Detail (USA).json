@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Viscera Cleanup Detail (USA).exe"
     ],
+    "steam": {
+        "appid": "246900"
+    },
     "transform_file": "Viscera Cleanup Detail (USA).exe"
 }

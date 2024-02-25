@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Toki Tori (USA).exe"
     ],
+    "steam": {
+        "appid": "38700"
+    },
     "transform_file": "Toki Tori (USA).exe"
 }

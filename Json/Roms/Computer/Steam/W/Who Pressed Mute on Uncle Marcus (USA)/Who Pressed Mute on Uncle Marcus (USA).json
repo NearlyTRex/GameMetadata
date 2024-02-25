@@ -8,5 +8,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Who Pressed Mute on Uncle Marcus (USA).exe"
     ],
+    "steam": {
+        "appid": "1628130"
+    },
     "transform_file": "Who Pressed Mute on Uncle Marcus (USA).exe"
 }

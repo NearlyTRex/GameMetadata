@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Yume Nikki (USA).exe"
     ],
+    "steam": {
+        "appid": "650700"
+    },
     "transform_file": "Yume Nikki (USA).exe"
 }

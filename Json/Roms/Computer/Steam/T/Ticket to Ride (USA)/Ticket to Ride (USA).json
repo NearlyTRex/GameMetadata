@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Ticket to Ride (USA).exe"
     ],
+    "steam": {
+        "appid": "108200"
+    },
     "transform_file": "Ticket to Ride (USA).exe"
 }

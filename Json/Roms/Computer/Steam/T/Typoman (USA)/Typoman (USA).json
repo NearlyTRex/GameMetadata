@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Typoman (USA).exe"
     ],
+    "steam": {
+        "appid": "336240"
+    },
     "transform_file": "Typoman (USA).exe"
 }

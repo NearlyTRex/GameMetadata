@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Whisper of a Rose (USA).exe"
     ],
+    "steam": {
+        "appid": "326730"
+    },
     "transform_file": "Whisper of a Rose (USA).exe"
 }
