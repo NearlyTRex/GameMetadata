@@ -7,5 +7,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO Movie, The - Videogame (USA).exe"
     ],
+    "steam": {
+        "appid": "267530"
+    },
     "transform_file": "LEGO Movie, The - Videogame (USA).exe"
 }

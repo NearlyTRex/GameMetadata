@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/MacVenture Series - The Uninvited (USA).exe"
     ],
+    "steam": {
+        "appid": "343810"
+    },
     "transform_file": "MacVenture Series - The Uninvited (USA).exe"
 }

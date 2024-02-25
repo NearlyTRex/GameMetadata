@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Monster Loves You! (USA).exe"
     ],
+    "steam": {
+        "appid": "226740"
+    },
     "transform_file": "Monster Loves You! (USA).exe"
 }

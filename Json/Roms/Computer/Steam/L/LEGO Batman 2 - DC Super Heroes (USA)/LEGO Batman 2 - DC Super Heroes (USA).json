@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO Batman 2 - DC Super Heroes (USA).exe"
     ],
+    "steam": {
+        "appid": "213330"
+    },
     "transform_file": "LEGO Batman 2 - DC Super Heroes (USA).exe"
 }

@@ -10,5 +10,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO City Undercover (USA).exe"
     ],
+    "steam": {
+        "appid": "578330"
+    },
     "transform_file": "LEGO City Undercover (USA).exe"
 }

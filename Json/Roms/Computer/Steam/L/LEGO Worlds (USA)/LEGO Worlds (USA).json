@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO Worlds (USA).exe"
     ],
+    "steam": {
+        "appid": "332310"
+    },
     "transform_file": "LEGO Worlds (USA).exe"
 }

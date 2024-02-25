@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Mega Man Legacy Collection (USA).exe"
     ],
+    "steam": {
+        "appid": "363440"
+    },
     "transform_file": "Mega Man Legacy Collection (USA).exe"
 }

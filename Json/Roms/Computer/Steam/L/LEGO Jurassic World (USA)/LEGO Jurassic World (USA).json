@@ -9,5 +9,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO Jurassic World (USA).exe"
     ],
+    "steam": {
+        "appid": "352400"
+    },
     "transform_file": "LEGO Jurassic World (USA).exe"
 }

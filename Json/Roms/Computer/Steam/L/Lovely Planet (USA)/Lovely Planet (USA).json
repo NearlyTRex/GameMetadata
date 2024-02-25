@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Lovely Planet (USA).exe"
     ],
+    "steam": {
+        "appid": "298600"
+    },
     "transform_file": "Lovely Planet (USA).exe"
 }

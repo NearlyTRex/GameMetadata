@@ -7,5 +7,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO Batman 3 - Beyond Gotham (USA).exe"
     ],
+    "steam": {
+        "appid": "313690"
+    },
     "transform_file": "LEGO Batman 3 - Beyond Gotham (USA).exe"
 }

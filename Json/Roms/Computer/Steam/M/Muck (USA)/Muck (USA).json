@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Muck (USA).exe"
     ],
+    "steam": {
+        "appid": "1625450"
+    },
     "transform_file": "Muck (USA).exe"
 }

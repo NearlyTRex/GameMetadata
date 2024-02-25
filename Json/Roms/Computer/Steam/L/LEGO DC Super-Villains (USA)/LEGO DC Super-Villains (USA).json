@@ -10,5 +10,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO DC Super-Villains (USA).exe"
     ],
+    "steam": {
+        "appid": "829110"
+    },
     "transform_file": "LEGO DC Super-Villains (USA).exe"
 }

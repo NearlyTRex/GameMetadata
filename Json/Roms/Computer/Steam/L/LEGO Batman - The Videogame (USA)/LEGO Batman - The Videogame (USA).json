@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO Batman - The Videogame (USA).exe"
     ],
+    "steam": {
+        "appid": "21000"
+    },
     "transform_file": "LEGO Batman - The Videogame (USA).exe"
 }

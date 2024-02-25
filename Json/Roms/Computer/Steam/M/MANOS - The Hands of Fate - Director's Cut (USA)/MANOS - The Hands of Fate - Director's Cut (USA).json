@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/MANOS - The Hands of Fate - Director's Cut (USA).exe"
     ],
+    "steam": {
+        "appid": "350780"
+    },
     "transform_file": "MANOS - The Hands of Fate - Director's Cut (USA).exe"
 }

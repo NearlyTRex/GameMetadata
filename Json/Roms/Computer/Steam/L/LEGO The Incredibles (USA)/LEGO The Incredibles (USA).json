@@ -9,5 +9,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/LEGO The Incredibles (USA).exe"
     ],
+    "steam": {
+        "appid": "818320"
+    },
     "transform_file": "LEGO The Incredibles (USA).exe"
 }

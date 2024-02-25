@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Legend (USA).exe"
     ],
+    "steam": {
+        "appid": "412380"
+    },
     "transform_file": "Legend (USA).exe"
 }
