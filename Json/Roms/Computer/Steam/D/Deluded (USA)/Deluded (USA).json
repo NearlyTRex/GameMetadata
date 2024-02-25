@@ -7,5 +7,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Deluded (USA).exe"
     ],
+    "steam": {
+        "appid": "1770660"
+    },
     "transform_file": "Deluded (USA).exe"
 }

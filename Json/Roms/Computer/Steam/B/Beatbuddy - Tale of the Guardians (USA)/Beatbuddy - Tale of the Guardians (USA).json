@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Beatbuddy - Tale of the Guardians (USA).exe"
     ],
+    "steam": {
+        "appid": "231040"
+    },
     "transform_file": "Beatbuddy - Tale of the Guardians (USA).exe"
 }

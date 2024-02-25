@@ -20,5 +20,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Doom (USA).exe"
     ],
+    "steam": {
+        "appid": "379720"
+    },
     "transform_file": "Doom (USA).exe"
 }

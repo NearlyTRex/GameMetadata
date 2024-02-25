@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Chex Quest HD (USA).exe"
     ],
+    "steam": {
+        "appid": "804270"
+    },
     "transform_file": "Chex Quest HD (USA).exe"
 }

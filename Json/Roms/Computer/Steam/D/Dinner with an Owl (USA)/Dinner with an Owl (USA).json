@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Dinner with an Owl (USA).exe"
     ],
+    "steam": {
+        "appid": "1567420"
+    },
     "transform_file": "Dinner with an Owl (USA).exe"
 }

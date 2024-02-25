@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Breath of Death VII (USA).exe"
     ],
+    "steam": {
+        "appid": "107300"
+    },
     "transform_file": "Breath of Death VII (USA).exe"
 }

@@ -8,5 +8,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Dark Side of the Moon, The (USA).exe"
     ],
+    "steam": {
+        "appid": "1525770"
+    },
     "transform_file": "Dark Side of the Moon, The (USA).exe"
 }

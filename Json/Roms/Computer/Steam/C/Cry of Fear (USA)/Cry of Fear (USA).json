@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Cry of Fear (USA).exe"
     ],
+    "steam": {
+        "appid": "223710"
+    },
     "transform_file": "Cry of Fear (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/ColecoVision Flashback (USA).exe"
     ],
+    "steam": {
+        "appid": "529860"
+    },
     "transform_file": "ColecoVision Flashback (USA).exe"
 }

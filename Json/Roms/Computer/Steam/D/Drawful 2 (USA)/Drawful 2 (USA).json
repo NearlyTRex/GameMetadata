@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Drawful 2 (USA).exe"
     ],
+    "steam": {
+        "appid": "442070"
+    },
     "transform_file": "Drawful 2 (USA).exe"
 }

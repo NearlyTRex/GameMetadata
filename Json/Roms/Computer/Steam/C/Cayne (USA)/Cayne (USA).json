@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Cayne (USA).exe"
     ],
+    "steam": {
+        "appid": "532840"
+    },
     "transform_file": "Cayne (USA).exe"
 }

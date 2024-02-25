@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Doodle God (USA).exe"
     ],
+    "steam": {
+        "appid": "348360"
+    },
     "transform_file": "Doodle God (USA).exe"
 }

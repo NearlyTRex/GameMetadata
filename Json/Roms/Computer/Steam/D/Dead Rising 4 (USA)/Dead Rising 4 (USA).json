@@ -19,5 +19,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Dead Rising 4 (USA).exe"
     ],
+    "steam": {
+        "appid": "543460"
+    },
     "transform_file": "Dead Rising 4 (USA).exe"
 }

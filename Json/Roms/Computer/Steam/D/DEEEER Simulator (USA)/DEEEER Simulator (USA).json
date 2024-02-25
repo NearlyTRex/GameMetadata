@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/DEEEER Simulator (USA).exe"
     ],
+    "steam": {
+        "appid": "1018800"
+    },
     "transform_file": "DEEEER Simulator (USA).exe"
 }

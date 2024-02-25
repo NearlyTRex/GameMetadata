@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Cthulhu Saves Christmas (USA).exe"
     ],
+    "steam": {
+        "appid": "1057540"
+    },
     "transform_file": "Cthulhu Saves Christmas (USA).exe"
 }

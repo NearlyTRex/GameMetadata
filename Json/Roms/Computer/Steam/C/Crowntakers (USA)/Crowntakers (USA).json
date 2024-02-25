@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Crowntakers (USA).exe"
     ],
+    "steam": {
+        "appid": "294370"
+    },
     "transform_file": "Crowntakers (USA).exe"
 }

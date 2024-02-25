@@ -15,5 +15,8 @@
     "main_game_exe_cwd": {
         "Borderlands/Binaries/Win64/BorderlandsGOTY.exe": "Borderlands/Binaries/Win64"
     },
+    "steam": {
+        "appid": "8980"
+    },
     "transform_file": "Borderlands (USA).exe"
 }

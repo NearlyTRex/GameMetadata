@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Dust - An Elysian Tail (USA).exe"
     ],
+    "steam": {
+        "appid": "236090"
+    },
     "transform_file": "Dust - An Elysian Tail (USA).exe"
 }

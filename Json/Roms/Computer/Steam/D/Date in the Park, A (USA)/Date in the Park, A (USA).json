@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Date in the Park, A (USA).exe"
     ],
+    "steam": {
+        "appid": "468530"
+    },
     "transform_file": "Date in the Park, A (USA).exe"
 }
