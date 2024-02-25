@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Pandemonium (USA).exe"
     ],
+    "steam": {
+        "appid": "243020"
+    },
     "transform_file": "Pandemonium (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Perfect Vermin (USA).exe"
     ],
+    "steam": {
+        "appid": "1416130"
+    },
     "transform_file": "Perfect Vermin (USA).exe"
 }

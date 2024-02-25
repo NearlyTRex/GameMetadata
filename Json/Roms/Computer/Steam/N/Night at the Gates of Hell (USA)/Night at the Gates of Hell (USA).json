@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Night at the Gates of Hell (USA).exe"
     ],
+    "steam": {
+        "appid": "2026870"
+    },
     "transform_file": "Night at the Gates of Hell (USA).exe"
 }

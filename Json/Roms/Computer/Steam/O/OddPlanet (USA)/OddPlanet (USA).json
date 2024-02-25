@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/OddPlanet (USA).exe"
     ],
+    "steam": {
+        "appid": "465930"
+    },
     "transform_file": "OddPlanet (USA).exe"
 }
