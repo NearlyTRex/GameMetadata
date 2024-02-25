@@ -27,5 +27,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Fallout 4 (USA).exe"
     ],
+    "steam": {
+        "appid": "377160"
+    },
     "transform_file": "Fallout 4 (USA).exe"
 }

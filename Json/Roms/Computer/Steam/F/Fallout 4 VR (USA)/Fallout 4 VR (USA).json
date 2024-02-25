@@ -11,5 +11,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Fallout 4 VR (USA).exe"
     ],
+    "steam": {
+        "appid": "611660"
+    },
     "transform_file": "Fallout 4 VR (USA).exe"
 }

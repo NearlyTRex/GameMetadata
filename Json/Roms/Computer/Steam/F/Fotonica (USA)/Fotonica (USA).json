@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Fotonica (USA).exe"
     ],
+    "steam": {
+        "appid": "253290"
+    },
     "transform_file": "Fotonica (USA).exe"
 }

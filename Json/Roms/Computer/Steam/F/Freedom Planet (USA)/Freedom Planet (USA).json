@@ -21,6 +21,9 @@
             "use_dxvk": true
         }
     },
+    "steam": {
+        "appid": "248310"
+    },
     "sync": {
         "data": [
             "file*.sav",

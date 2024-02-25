@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Expendabros, The (USA).exe"
     ],
+    "steam": {
+        "appid": "312990"
+    },
     "transform_file": "Expendabros, The (USA).exe"
 }
