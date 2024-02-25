@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Inside the Backrooms (USA).exe"
     ],
+    "steam": {
+        "appid": "1987080"
+    },
     "transform_file": "Inside the Backrooms (USA).exe"
 }

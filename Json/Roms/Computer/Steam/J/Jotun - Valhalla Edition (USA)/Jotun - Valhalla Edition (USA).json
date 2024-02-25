@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Jotun - Valhalla Edition (USA).exe"
     ],
+    "steam": {
+        "appid": "323580"
+    },
     "transform_file": "Jotun - Valhalla Edition (USA).exe"
 }

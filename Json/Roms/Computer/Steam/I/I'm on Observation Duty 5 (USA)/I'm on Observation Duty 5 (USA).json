@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/I'm on Observation Duty 5 (USA).exe"
     ],
+    "steam": {
+        "appid": "1850550"
+    },
     "transform_file": "I'm on Observation Duty 5 (USA).exe"
 }

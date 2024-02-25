@@ -5,5 +5,8 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/Iron Commando (USA).exe"
     ],
+    "steam": {
+        "appid": "418640"
+    },
     "transform_file": "Iron Commando (USA).exe"
 }
