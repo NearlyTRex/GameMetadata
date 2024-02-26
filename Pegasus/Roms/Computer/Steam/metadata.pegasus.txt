@@ -2,8 +2,8 @@ collection: Computer - Steam
 launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Steam" -n {file.basename}
 
 
-game: 7 Days to Die (USA) (Alpha 20.6 b9)
-file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.6 b9)/7 Days to Die (USA) (Alpha 20.6 b9).json
+game: 7 Days to Die (USA) (Alpha 20.6)
+file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.6)/7 Days to Die (USA) (Alpha 20.6).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -20,17 +20,17 @@ description:
   Navezgane awaits!
 release: 2013-12-13
 players: 8
-assets.boxfront: BoxFront/7 Days to Die (USA) (Alpha 20.6 b9).jpg
-assets.boxback: BoxBack/7 Days to Die (USA) (Alpha 20.6 b9).jpg
-assets.background: Background/7 Days to Die (USA) (Alpha 20.6 b9).jpg
-assets.screenshot: Screenshot/7 Days to Die (USA) (Alpha 20.6 b9).jpg
-assets.video: Video/7 Days to Die (USA) (Alpha 20.6 b9).mp4
+assets.boxfront: BoxFront/7 Days to Die (USA) (Alpha 20.6).jpg
+assets.boxback: BoxBack/7 Days to Die (USA) (Alpha 20.6).jpg
+assets.background: Background/7 Days to Die (USA) (Alpha 20.6).jpg
+assets.screenshot: Screenshot/7 Days to Die (USA) (Alpha 20.6).jpg
+assets.video: Video/7 Days to Die (USA) (Alpha 20.6).mp4
 x-co-op: Yes
 x-playable: Yes
 
 
-game: 7 Days to Die (USA) (Alpha 20.7 b1)
-file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.7 b1)/7 Days to Die (USA) (Alpha 20.7 b1).json
+game: 7 Days to Die (USA) (Alpha 20.7)
+file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 20.7)/7 Days to Die (USA) (Alpha 20.7).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -47,17 +47,17 @@ description:
   Navezgane awaits!
 release: 2013-12-13
 players: 8
-assets.boxfront: BoxFront/7 Days to Die (USA) (Alpha 20.7 b1).jpg
-assets.boxback: BoxBack/7 Days to Die (USA) (Alpha 20.7 b1).jpg
-assets.background: Background/7 Days to Die (USA) (Alpha 20.7 b1).jpg
-assets.screenshot: Screenshot/7 Days to Die (USA) (Alpha 20.7 b1).jpg
-assets.video: Video/7 Days to Die (USA) (Alpha 20.7 b1).mp4
+assets.boxfront: BoxFront/7 Days to Die (USA) (Alpha 20.7).jpg
+assets.boxback: BoxBack/7 Days to Die (USA) (Alpha 20.7).jpg
+assets.background: Background/7 Days to Die (USA) (Alpha 20.7).jpg
+assets.screenshot: Screenshot/7 Days to Die (USA) (Alpha 20.7).jpg
+assets.video: Video/7 Days to Die (USA) (Alpha 20.7).mp4
 x-co-op: Yes
 x-playable: Yes
 
 
-game: 7 Days to Die (USA) (Alpha 21.1 b16)
-file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 21.1 b16)/7 Days to Die (USA) (Alpha 21.1 b16).json
+game: 7 Days to Die (USA) (Alpha 21.1)
+file: Computer/Steam/#-0/7 Days to Die (USA) (Alpha 21.1)/7 Days to Die (USA) (Alpha 21.1).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -74,11 +74,11 @@ description:
   Navezgane awaits!
 release: 2013-12-13
 players: 1
-assets.boxfront: BoxFront/7 Days to Die (USA) (Alpha 21.1 b16).jpg
-assets.boxback: BoxBack/7 Days to Die (USA) (Alpha 21.1 b16).jpg
-assets.background: Background/7 Days to Die (USA) (Alpha 21.1 b16).jpg
-assets.screenshot: Screenshot/7 Days to Die (USA) (Alpha 21.1 b16).jpg
-assets.video: Video/7 Days to Die (USA) (Alpha 21.1 b16).mp4
+assets.boxfront: BoxFront/7 Days to Die (USA) (Alpha 21.1).jpg
+assets.boxback: BoxBack/7 Days to Die (USA) (Alpha 21.1).jpg
+assets.background: Background/7 Days to Die (USA) (Alpha 21.1).jpg
+assets.screenshot: Screenshot/7 Days to Die (USA) (Alpha 21.1).jpg
+assets.video: Video/7 Days to Die (USA) (Alpha 21.1).mp4
 x-co-op: No
 x-playable: Yes
 
