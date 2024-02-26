@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/8-bit Adventure Anthology - Volume I (USA).exe"
     ],
     "steam": {
-        "appid": "664850"
+        "appid": "664850",
+        "changeid": "22082569",
+        "controller_support": "full",
+        "name": "8-bit Adventure Anthology: Volume I"
     },
     "transform_file": "8-bit Adventure Anthology - Volume I (USA).exe"
 }
