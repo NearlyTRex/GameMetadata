@@ -1,12 +1,12 @@
 {
     "files": [
-        "Bendy and the Ink Machine (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bendy and the Ink Machine (USA).exe"
+        "Bendy and the Ink Machine (USA).7z"
     ],
     "steam": {
-        "appid": "622650"
+        "appid": "622650",
+        "changeid": "18903802",
+        "controller_support": "full",
+        "name": "Bendy and the Ink Machine"
     },
-    "transform_file": "Bendy and the Ink Machine (USA).exe"
+    "transform_file": "Bendy and the Ink Machine (USA).7z"
 }
