@@ -1615,6 +1615,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Chip's Challenge 1 (USA)
+file: Computer/Steam/C/Chip's Challenge 1 (USA)/Chip's Challenge 1 (USA).json
+developer: Epyx
+publisher: Epyx
+genre: Puzzle;Action
+description:
+  Take on the role of puzzle-obsessed Chip, who desperately wants to join Melinda
+  the Mental Marvel's computer club. His initiation test is a series of
+  increasingly difficult puzzles. Chip must collect items, slide blocks, dodge
+  hazards and more to collect the computer chips needed to pass each level.
+  .
+  Are you up to the Challenge?
+release: 1990-02-26
+players: 1
+assets.boxfront: BoxFront/Chip's Challenge 1 (USA).jpg
+assets.boxback: BoxBack/Chip's Challenge 1 (USA).jpg
+assets.background: Background/Chip's Challenge 1 (USA).jpg
+assets.screenshot: Screenshot/Chip's Challenge 1 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: ColecoVision Flashback (USA)
 file: Computer/Steam/C/ColecoVision Flashback (USA)/ColecoVision Flashback (USA).json
 developer: AtGames
@@ -3354,6 +3376,26 @@ assets.boxback: BoxBack/Dyscourse (USA).jpg
 assets.background: Background/Dyscourse (USA).jpg
 assets.screenshot: Screenshot/Dyscourse (USA).jpg
 assets.video: Video/Dyscourse (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Eastshade (USA)
+file: Computer/Steam/E/Eastshade (USA)/Eastshade (USA).json
+developer: Eastshade Studios
+publisher: Eastshade Studios
+genre: Adventure;Role-Playing
+description:
+  You are a traveling painter, exploring the island of Eastshade. Capture the
+  world on canvas using your artist's easel. Talk to the inhabitants to learn
+  about their lives. Make friends and help those in need. Visit cities, scale
+  summits, unearth mysteries, and discover forgotten places!
+release: 2019-02-13
+players: 1
+assets.boxfront: BoxFront/Eastshade (USA).jpg
+assets.boxback: BoxBack/Eastshade (USA).jpg
+assets.background: Background/Eastshade (USA).jpg
+assets.screenshot: Screenshot/Eastshade (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5542,6 +5584,40 @@ assets.background: Background/LEGO Batman 3 - Beyond Gotham (USA).jpg
 assets.screenshot: Screenshot/LEGO Batman 3 - Beyond Gotham (USA).jpg
 assets.video: Video/LEGO Batman 3 - Beyond Gotham (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: LEGO Bricktales (USA)
+file: Computer/Steam/L/LEGO Bricktales (USA)/LEGO Bricktales (USA).json
+developer: ClockStone Studio
+publisher: Thunderful
+genre: Action;Adventure;Sandbox
+description:
+  In LEGO Bricktales, discover an innovative brick-by-brick building mechanic to
+  design puzzle solutions from your own imagination. See your creations brought to
+  life in a beautiful LEGO world where every problem has a constructive
+  resolution.
+  .
+  Embark on an epic adventure across a world of beautiful LEGO diorama biomes
+  crafted brick by brick as you search for inspiration to help your grandfather
+  reinvigorate his rundown amusement park with your little robot buddy in tow.
+  Your journey will take you to the deepest jungle, sun-drenched deserts, a
+  bustling city corner, a towering medieval castle, and tropical Caribbean
+  islands. Help the minifigures of these worlds by solving puzzles and unlock new
+  skills throughout the story to further explore these worlds and uncover the many
+  secrets and mysteries they contain.
+  .
+  From purely aesthetic creations, such as a market stand or music box, up to
+  functional physics-based puzzles like building a crane or gyrocopter - each
+  diorama offers a variety of construction spots with the freedom of intuitive
+  brick-by-brick building. In
+release: 2022-10-12
+players: 1
+assets.boxfront: BoxFront/LEGO Bricktales (USA).jpg
+assets.boxback: BoxBack/LEGO Bricktales (USA).jpg
+assets.background: Background/LEGO Bricktales (USA).jpg
+assets.screenshot: Screenshot/LEGO Bricktales (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 
