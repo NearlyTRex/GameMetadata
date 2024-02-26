@@ -1,12 +1,12 @@
 {
     "files": [
-        "You Have to Win the Game (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/You Have to Win the Game (USA).exe"
+        "You Have to Win the Game (USA).7z"
     ],
     "steam": {
-        "appid": "286100"
+        "appid": "286100",
+        "changeid": "22023379",
+        "controller_support": "full",
+        "name": "You Have to Win the Game"
     },
-    "transform_file": "You Have to Win the Game (USA).exe"
+    "transform_file": "You Have to Win the Game (USA).7z"
 }

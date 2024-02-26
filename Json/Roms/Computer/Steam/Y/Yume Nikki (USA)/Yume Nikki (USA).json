@@ -1,12 +1,12 @@
 {
     "files": [
-        "Yume Nikki (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Yume Nikki (USA).exe"
+        "Yume Nikki (USA).7z"
     ],
     "steam": {
-        "appid": "650700"
+        "appid": "650700",
+        "changeid": "21811385",
+        "controller_support": "partial",
+        "name": "Yume Nikki"
     },
-    "transform_file": "Yume Nikki (USA).exe"
+    "transform_file": "Yume Nikki (USA).7z"
 }
