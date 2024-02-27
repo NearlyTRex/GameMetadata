@@ -12,7 +12,10 @@
         "The Adventures of Elena Temple/ElenaTemple.exe": "The Adventures of Elena Temple"
     },
     "steam": {
-        "appid": "800190"
+        "appid": "800190",
+        "changeid": "20445399",
+        "controller_support": "partial",
+        "name": "The Adventures of Elena Temple: Definitive Edition"
     },
     "transform_file": "Adventures of Elena Temple, The (USA).exe"
 }
