@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Abzu (USA).exe"
     ],
     "steam": {
-        "appid": "384190"
+        "appid": "384190",
+        "changeid": "19591863",
+        "controller_support": "full",
+        "name": "ABZ\u00db"
     },
     "transform_file": "Abzu (USA).exe"
 }
