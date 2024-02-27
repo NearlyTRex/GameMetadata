@@ -10,7 +10,10 @@
     ],
     "steam": {
         "appid": "251570",
-        "branchid": "alpha21.1"
+        "branchid": "alpha21.1",
+        "changeid": "22483401",
+        "controller_support": "full",
+        "name": "7 Days to Die"
     },
     "transform_file": "7 Days to Die (USA) (Alpha 21.1).exe"
 }
