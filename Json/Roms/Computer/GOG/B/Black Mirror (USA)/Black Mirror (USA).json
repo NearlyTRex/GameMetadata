@@ -26,6 +26,12 @@
         "extra/bm_special_edition_ost_mp3.zip",
         "setup_black_mirror_2.1.1.4.exe"
     ],
+    "gog": {
+        "appid": "1207664913",
+        "appname": "the_black_mirror",
+        "buildid": "1.1 (gog-14)",
+        "name": "Black Mirror 1"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_black_mirror_2.1.1.4.exe"
     ],

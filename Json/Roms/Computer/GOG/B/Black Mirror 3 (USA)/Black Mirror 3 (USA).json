@@ -11,6 +11,12 @@
         "setup_black_mirror3_2.0.0.5-1.bin",
         "setup_black_mirror3_2.0.0.5.exe"
     ],
+    "gog": {
+        "appid": "1430743890",
+        "appname": "black_mirror_3",
+        "buildid": "2.0.0.5",
+        "name": "Black Mirror 3"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_black_mirror3_2.0.0.5.exe"
     ],

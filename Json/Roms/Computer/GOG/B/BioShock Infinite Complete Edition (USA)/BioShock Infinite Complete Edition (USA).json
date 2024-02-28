@@ -12,6 +12,12 @@
         "setup_bioshock_infinite_1.0.1643565_(29748)-9.bin",
         "setup_bioshock_infinite_1.0.1643565_(29748).exe"
     ],
+    "gog": {
+        "appid": "1752654506",
+        "appname": "bioshock_infinite",
+        "buildid": "1.0.1643565",
+        "name": "BioShock Infinite Complete Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bioshock_infinite_1.0.1643565_(29748).exe"
     ],

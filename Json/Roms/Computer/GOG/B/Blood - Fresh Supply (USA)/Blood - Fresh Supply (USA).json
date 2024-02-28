@@ -10,6 +10,12 @@
         "extra/ouwb_windows_1.21.zip",
         "setup_blood_fresh_supply_1.9.10-1_(64bit)_(31506).exe"
     ],
+    "gog": {
+        "appid": "1374469660",
+        "appname": "blood_fresh_supply",
+        "buildid": "1.9.10",
+        "name": "Blood: Fresh Supply"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_blood_fresh_supply_1.9.10-1_(64bit)_(31506).exe"
     ],

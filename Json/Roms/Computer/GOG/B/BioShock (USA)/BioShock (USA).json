@@ -7,6 +7,12 @@
         "setup_bioshock_1.1_(25450)-1.bin",
         "setup_bioshock_1.1_(25450).exe"
     ],
+    "gog": {
+        "appid": "2022341186",
+        "appname": "bioshock",
+        "buildid": "1.1",
+        "name": "BioShock\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bioshock_1.1_(25450).exe"
     ],

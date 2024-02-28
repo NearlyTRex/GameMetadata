@@ -9,6 +9,12 @@
         "setup_bloodrayne_2_terminal_cut_1.04_(49566)-3.bin",
         "setup_bloodrayne_2_terminal_cut_1.04_(49566).exe"
     ],
+    "gog": {
+        "appid": "2110288694",
+        "appname": "bloodrayne_2_terminal_cut_base",
+        "buildid": "1.04",
+        "name": "BloodRayne 2: Terminal Cut"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bloodrayne_2_terminal_cut_1.04_(49566).exe"
     ],

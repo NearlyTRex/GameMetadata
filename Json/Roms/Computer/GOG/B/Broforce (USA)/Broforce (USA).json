@@ -8,6 +8,12 @@
         "extra/broforce_wallpaper.zip",
         "setup_broforce_forever_(64bit)_(66638).exe"
     ],
+    "gog": {
+        "appid": "1470490225",
+        "appname": "broforce",
+        "buildid": "Forever HF - Win",
+        "name": "Broforce"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_broforce_forever_(64bit)_(66638).exe"
     ],

@@ -3,6 +3,12 @@
         "setup_builders_of_egypt_prologue_0.15043a_(64bit)_(36623)-1.bin",
         "setup_builders_of_egypt_prologue_0.15043a_(64bit)_(36623).exe"
     ],
+    "gog": {
+        "appid": "1212177362",
+        "appname": "builders_of_egypt_prologue",
+        "buildid": "0.15043A",
+        "name": "Builders of Egypt: Prologue"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_builders_of_egypt_prologue_0.15043a_(64bit)_(36623).exe"
     ],

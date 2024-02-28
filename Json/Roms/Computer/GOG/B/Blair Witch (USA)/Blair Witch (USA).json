@@ -6,6 +6,12 @@
         "setup_blair_witch_1.04_(64bit)_(34361)-4.bin",
         "setup_blair_witch_1.04_(64bit)_(34361).exe"
     ],
+    "gog": {
+        "appid": "1823654232",
+        "appname": "blair_witch",
+        "buildid": "1.04",
+        "name": "Blair Witch"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_blair_witch_1.04_(64bit)_(34361).exe"
     ],

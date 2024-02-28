@@ -26,6 +26,12 @@
         "setup_batman_arkham_knight_1.98_(37902)-9.bin",
         "setup_batman_arkham_knight_1.98_(37902).exe"
     ],
+    "gog": {
+        "appid": "1881970704",
+        "appname": "batman_arkham_knight",
+        "buildid": "1.98",
+        "name": "Batman\u2122: Arkham Knight"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_batman_arkham_knight_1.98_(37902).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_batman_arkham_knight_-_season_pass_1.98_(37902).exe"

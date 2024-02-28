@@ -6,6 +6,12 @@
         "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312)-4.bin",
         "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312).exe"
     ],
+    "gog": {
+        "appid": "1772238447",
+        "appname": "blacksad_under_the_skin",
+        "buildid": "1.0.5_12210.2935.2020040301",
+        "name": "Blacksad: Under the Skin"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312).exe"
     ],

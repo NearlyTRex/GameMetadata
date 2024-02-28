@@ -16,6 +16,12 @@
         "setup_batman_arkham_origins_1.0_(37592)-4.bin",
         "setup_batman_arkham_origins_1.0_(37592).exe"
     ],
+    "gog": {
+        "appid": "1908486934",
+        "appname": "batman_arkham_origins",
+        "buildid": "1.0",
+        "name": "Batman\u2122: Arkham Origins"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_batman_arkham_origins_1.0_(37592).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_batman_arkham_origins_-_season_pass_1.0_(37592).exe"

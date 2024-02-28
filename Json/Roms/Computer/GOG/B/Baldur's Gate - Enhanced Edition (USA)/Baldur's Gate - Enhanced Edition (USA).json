@@ -15,6 +15,12 @@
         "setup_baldurs_gate_enhanced_edition_2.6.6.0_(64bit)_(46870)-1.bin",
         "setup_baldurs_gate_enhanced_edition_2.6.6.0_(64bit)_(46870).exe"
     ],
+    "gog": {
+        "appid": "1207666353",
+        "appname": "baldurs_gate_enhanced_edition",
+        "buildid": "2.6.6.0",
+        "name": "Baldur's Gate: Enhanced Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_baldurs_gate_enhanced_edition_2.6.6.0_(64bit)_(46870).exe"
     ],

@@ -5,6 +5,12 @@
         "setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825)-3.bin",
         "setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825).exe"
     ],
+    "gog": {
+        "appid": "1295420179",
+        "appname": "beautiful_desolation_game",
+        "buildid": "1.0.6.7 B WIN",
+        "name": "BEAUTIFUL DESOLATION"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825).exe"
     ],

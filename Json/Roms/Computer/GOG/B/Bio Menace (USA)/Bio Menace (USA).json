@@ -2,6 +2,12 @@
     "files": [
         "setup_bio_menace_1.1_(28043).exe"
     ],
+    "gog": {
+        "appid": "1449569170",
+        "appname": "bio_menace",
+        "buildid": "1.1",
+        "name": "Bio Menace"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bio_menace_1.1_(28043).exe"
     ],

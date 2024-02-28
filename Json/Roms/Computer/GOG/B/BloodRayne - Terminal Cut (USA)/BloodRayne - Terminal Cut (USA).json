@@ -9,6 +9,12 @@
         "setup_bloodrayne_terminal_cut_1.05.2_(49915)-3.bin",
         "setup_bloodrayne_terminal_cut_1.05.2_(49915).exe"
     ],
+    "gog": {
+        "appid": "1598751450",
+        "appname": "bloodrayne_terminal_cut_base",
+        "buildid": "1.05.2",
+        "name": "BloodRayne: Terminal Cut"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_bloodrayne_terminal_cut_1.05.2_(49915).exe"
     ],

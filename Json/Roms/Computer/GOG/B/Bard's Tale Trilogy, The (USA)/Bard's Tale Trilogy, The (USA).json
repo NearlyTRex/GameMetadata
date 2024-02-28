@@ -2,6 +2,12 @@
     "files": [
         "setup_the_bards_tale_trilogy_4.34_(34202).exe"
     ],
+    "gog": {
+        "appid": "2147483059",
+        "appname": "the_bards_tale_trilogy",
+        "buildid": "4.34",
+        "name": "The Bard's Tale Trilogy"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_bards_tale_trilogy_4.34_(34202).exe"
     ],
