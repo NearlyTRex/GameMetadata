@@ -15,6 +15,12 @@
         "setup_alone_in_the_dark_-_the_new_nightmare_1.0_(22762)-1.bin",
         "setup_alone_in_the_dark_-_the_new_nightmare_1.0_(22762).exe"
     ],
+    "gog": {
+        "appid": "1207658874",
+        "appname": "alone_in_the_dark_the_new_nightmare",
+        "buildid": "1.0",
+        "name": "Alone in the Dark: The New Nightmare"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_alone_in_the_dark_-_the_new_nightmare_1.0_(22762).exe"
     ],

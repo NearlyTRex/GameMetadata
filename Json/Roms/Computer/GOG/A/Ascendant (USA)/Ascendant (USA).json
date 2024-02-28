@@ -8,6 +8,12 @@
         "extra/ascendant_wallpapers.zip",
         "setup_ascendant_1.0_(64bit)_(20649).exe"
     ],
+    "gog": {
+        "appid": "1207664543",
+        "appname": "ascendant",
+        "buildid": "1.0",
+        "name": "Ascendant"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ascendant_1.0_(64bit)_(20649).exe"
     ],

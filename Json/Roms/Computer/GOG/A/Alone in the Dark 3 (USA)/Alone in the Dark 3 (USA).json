@@ -10,6 +10,12 @@
         "extra/aitd_3_newspaper.zip",
         "setup_alone_in_the_dark_3_1.0_cs_(28191).exe"
     ],
+    "gog": {
+        "appid": "1207660973",
+        "appname": "alone_in_the_dark_3",
+        "buildid": "1.0 CS",
+        "name": "Alone in the Dark 3"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_alone_in_the_dark_3_1.0_cs_(28191).exe"
     ],

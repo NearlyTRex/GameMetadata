@@ -12,6 +12,12 @@
         "extra/avernum_complete_wallpapers.zip",
         "setup_avernum_2.1.0.4.exe"
     ],
+    "gog": {
+        "appid": "1207663333",
+        "appname": "avernum",
+        "buildid": "(gog-4)",
+        "name": "Avernum"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_avernum_2.1.0.4.exe"
     ],

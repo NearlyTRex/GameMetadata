@@ -13,6 +13,12 @@
         "setup_amnesia_-_a_machine_for_pigs_1.0_(20583)-1.bin",
         "setup_amnesia_-_a_machine_for_pigs_1.0_(20583).exe"
     ],
+    "gog": {
+        "appid": "1207659443",
+        "appname": "amnesia_a_machine_for_pigs",
+        "buildid": "1.0",
+        "name": "Amnesia: A Machine For Pigs"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_amnesia_-_a_machine_for_pigs_1.0_(20583).exe"
     ],

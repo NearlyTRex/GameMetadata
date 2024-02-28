@@ -14,6 +14,12 @@
         "extra/soltys_manual_pl.zip",
         "setup_ad2044_1.0_(15637).exe"
     ],
+    "gog": {
+        "appid": "2075976504",
+        "appname": "ad_2044",
+        "buildid": "1.0",
+        "name": "A.D. 2044"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ad2044_1.0_(15637).exe"
     ],

@@ -17,6 +17,12 @@
         "setup_the_11th_hour_1.0_(22303)-1.bin",
         "setup_the_11th_hour_1.0_(22303).exe"
     ],
+    "gog": {
+        "appid": "1207659000",
+        "appname": "the_11th_hour",
+        "buildid": "1.0",
+        "name": "The 11th Hour"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_11th_hour_1.0_(22303).exe"
     ],

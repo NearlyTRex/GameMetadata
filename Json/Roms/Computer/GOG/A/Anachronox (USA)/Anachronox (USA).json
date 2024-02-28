@@ -8,6 +8,12 @@
         "extra/anachronox_manual.zip",
         "setup_anachronox_1.02_(22258).exe"
     ],
+    "gog": {
+        "appid": "1207659012",
+        "appname": "anachronox",
+        "buildid": "1.02",
+        "name": "Anachronox"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_anachronox_1.02_(22258).exe"
     ],

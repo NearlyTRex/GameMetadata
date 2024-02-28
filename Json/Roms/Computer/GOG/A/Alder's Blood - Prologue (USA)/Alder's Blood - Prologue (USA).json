@@ -2,6 +2,12 @@
     "files": [
         "setup_alders_blood_prologue_1.0.20a_(64bit)_(37554).exe"
     ],
+    "gog": {
+        "appid": "2018305509",
+        "appname": "alders_blood_prologue",
+        "buildid": "1.0.20a",
+        "name": "Alder's Blood Prologue"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_alders_blood_prologue_1.0.20a_(64bit)_(37554).exe"
     ],

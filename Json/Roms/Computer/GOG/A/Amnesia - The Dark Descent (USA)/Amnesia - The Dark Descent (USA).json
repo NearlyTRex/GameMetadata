@@ -8,6 +8,12 @@
         "extra/amnesia_tdd_short_story.zip",
         "setup_amnesia_-_the_dark_descent_1.41b_(41677).exe"
     ],
+    "gog": {
+        "appid": "1207659259",
+        "appname": "amnesia_the_dark_descent",
+        "buildid": "1.41b",
+        "name": "Amnesia: The Dark Descent"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_amnesia_-_the_dark_descent_1.41b_(41677).exe"
     ],

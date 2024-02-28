@@ -7,6 +7,12 @@
         "setup_amnesia_rebirth_1.4_(64bit)_(50150)-5.bin",
         "setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
     ],
+    "gog": {
+        "appid": "1714817458",
+        "appname": "amnesia_rebirth",
+        "buildid": "1.4",
+        "name": "Amnesia: Rebirth"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
     ],

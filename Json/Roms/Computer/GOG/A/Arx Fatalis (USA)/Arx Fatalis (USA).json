@@ -17,6 +17,12 @@
         "setup_arx_fatalis_1.22_(38577)-1.bin",
         "setup_arx_fatalis_1.22_(38577).exe"
     ],
+    "gog": {
+        "appid": "1207658680",
+        "appname": "arx_fatalis",
+        "buildid": "1.22",
+        "name": "Arx Fatalis"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_arx_fatalis_1.22_(38577).exe"
     ],

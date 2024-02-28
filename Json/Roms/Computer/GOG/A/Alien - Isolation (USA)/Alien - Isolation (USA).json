@@ -37,6 +37,12 @@
         "setup_alien_isolation_1.0.4_(56204)-5.bin",
         "setup_alien_isolation_1.0.4_(56204).exe"
     ],
+    "gog": {
+        "appid": "1744178250",
+        "appname": "alien_isolation",
+        "buildid": "1.0.4",
+        "name": "Alien: Isolation"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_alien_isolation_1.0.4_(56204).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_corporate_lockdown_1.0.4_(56204).exe",

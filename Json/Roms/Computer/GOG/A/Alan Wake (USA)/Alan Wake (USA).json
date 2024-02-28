@@ -20,6 +20,12 @@
         "setup_alan_wake_1.0_hotfix_(24778)-2.bin",
         "setup_alan_wake_1.0_hotfix_(24778).exe"
     ],
+    "gog": {
+        "appid": "1207659037",
+        "appname": "alan_wake",
+        "buildid": "1.0 Hotfix",
+        "name": "Alan Wake"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_alan_wake_1.0_hotfix_(24778).exe"
     ],

@@ -12,6 +12,12 @@
         "extra/alan_wake_night_springs.zip",
         "setup_alan_wake_american_nightmare_2.1.0.24.exe"
     ],
+    "gog": {
+        "appid": "1207659038",
+        "appname": "alan_wakes_american_nightmare",
+        "buildid": "2.1.0.24",
+        "name": "Alan Wake's American Nightmare"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_alan_wake_american_nightmare_2.1.0.24.exe"
     ],

@@ -14,6 +14,12 @@
         "extra/akalabeth_wallpaper.zip",
         "setup_akalabeth_2.0.0.1.exe"
     ],
+    "gog": {
+        "appid": "1207666073",
+        "appname": "akalabeth_world_of_doom",
+        "buildid": "2.0.0.1",
+        "name": "Akalabeth: World of Doom"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_akalabeth_2.0.0.1.exe"
     ],
