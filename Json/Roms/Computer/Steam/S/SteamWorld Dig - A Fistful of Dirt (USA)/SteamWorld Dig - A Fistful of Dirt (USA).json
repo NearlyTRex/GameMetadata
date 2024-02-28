@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "252410"
+        "appid": "252410",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "SteamWorld Dig"
     },
     "transform_file": "SteamWorld Dig - A Fistful of Dirt (USA).exe"
 }

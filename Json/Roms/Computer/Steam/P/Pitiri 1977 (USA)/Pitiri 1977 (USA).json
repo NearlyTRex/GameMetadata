@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Pitiri 1977 (USA).exe"
     ],
     "steam": {
-        "appid": "305740"
+        "appid": "305740",
+        "branchid": "public",
+        "name": "Pitiri 1977"
     },
     "transform_file": "Pitiri 1977 (USA).exe"
 }

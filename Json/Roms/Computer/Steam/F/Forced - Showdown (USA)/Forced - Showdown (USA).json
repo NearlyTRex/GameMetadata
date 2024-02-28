@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Forced - Showdown (USA).exe"
     ],
     "steam": {
-        "appid": "265000"
+        "appid": "265000",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "FORCED SHOWDOWN"
     },
     "transform_file": "Forced - Showdown (USA).exe"
 }

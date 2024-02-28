@@ -11,7 +11,10 @@
         "$SETUP_MAIN_ROOT/Resident Evil Revelations 2 (USA).exe"
     ],
     "steam": {
-        "appid": "287290"
+        "appid": "287290",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Resident Evil Revelations 2"
     },
     "transform_file": "Resident Evil Revelations 2 (USA).exe"
 }

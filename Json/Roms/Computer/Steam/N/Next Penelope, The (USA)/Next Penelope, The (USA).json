@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Next Penelope, The (USA).exe"
     ],
     "steam": {
-        "appid": "332250"
+        "appid": "332250",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Next Penelope"
     },
     "transform_file": "Next Penelope, The (USA).exe"
 }

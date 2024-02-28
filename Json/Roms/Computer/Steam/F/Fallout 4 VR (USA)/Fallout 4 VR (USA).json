@@ -12,7 +12,9 @@
         "$SETUP_MAIN_ROOT/Fallout 4 VR (USA).exe"
     ],
     "steam": {
-        "appid": "611660"
+        "appid": "611660",
+        "branchid": "public",
+        "name": "Fallout 4 VR"
     },
     "transform_file": "Fallout 4 VR (USA).exe"
 }

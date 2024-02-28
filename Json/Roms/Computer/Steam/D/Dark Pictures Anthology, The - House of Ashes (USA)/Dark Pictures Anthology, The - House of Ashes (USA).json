@@ -33,7 +33,10 @@
         }
     },
     "steam": {
-        "appid": "1281590"
+        "appid": "1281590",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Dark Pictures Anthology: House of Ashes"
     },
     "transform_file": "Dark Pictures Anthology, The - House of Ashes (USA).exe"
 }

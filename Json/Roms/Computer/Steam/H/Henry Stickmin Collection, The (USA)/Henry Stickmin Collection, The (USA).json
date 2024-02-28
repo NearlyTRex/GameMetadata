@@ -12,7 +12,9 @@
         "The Henry Stickmin Collection/HenryStickmin.exe": "The Henry Stickmin Collection"
     },
     "steam": {
-        "appid": "1089980"
+        "appid": "1089980",
+        "branchid": "public",
+        "name": "The Henry Stickmin Collection"
     },
     "transform_file": "Henry Stickmin Collection, The (USA).exe"
 }

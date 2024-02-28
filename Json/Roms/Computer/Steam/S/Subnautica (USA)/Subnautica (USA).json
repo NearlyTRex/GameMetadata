@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Subnautica (USA).exe"
     ],
     "steam": {
-        "appid": "264710"
+        "appid": "264710",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Subnautica"
     },
     "transform_file": "Subnautica (USA).exe"
 }

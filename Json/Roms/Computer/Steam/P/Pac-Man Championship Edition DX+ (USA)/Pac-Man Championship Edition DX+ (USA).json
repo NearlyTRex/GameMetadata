@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Pac-Man Championship Edition DX+ (USA).exe"
     ],
     "steam": {
-        "appid": "236450"
+        "appid": "236450",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "PAC-MAN Championship Edition DX+"
     },
     "transform_file": "Pac-Man Championship Edition DX+ (USA).exe"
 }

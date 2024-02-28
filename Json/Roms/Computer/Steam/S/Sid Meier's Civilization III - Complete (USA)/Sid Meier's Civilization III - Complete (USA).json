@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Sid Meier's Civilization III - Complete (USA).exe"
     ],
     "steam": {
-        "appid": "3910"
+        "appid": "3910",
+        "branchid": "public",
+        "name": "Sid Meier's Civilization III: Complete"
     },
     "transform_file": "Sid Meier's Civilization III - Complete (USA).exe"
 }

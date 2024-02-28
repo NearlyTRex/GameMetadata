@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Stardew Valley (USA).exe"
     ],
     "steam": {
-        "appid": "413150"
+        "appid": "413150",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Stardew Valley"
     },
     "transform_file": "Stardew Valley (USA).exe"
 }

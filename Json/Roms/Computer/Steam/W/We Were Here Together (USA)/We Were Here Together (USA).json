@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/We Were Here Together (USA).exe"
     ],
     "steam": {
-        "appid": "865360"
+        "appid": "865360",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "We Were Here Together"
     },
     "transform_file": "We Were Here Together (USA).exe"
 }

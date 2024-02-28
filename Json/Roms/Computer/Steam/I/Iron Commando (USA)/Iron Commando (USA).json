@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Iron Commando (USA).exe"
     ],
     "steam": {
-        "appid": "418640"
+        "appid": "418640",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Iron Commando"
     },
     "transform_file": "Iron Commando (USA).exe"
 }

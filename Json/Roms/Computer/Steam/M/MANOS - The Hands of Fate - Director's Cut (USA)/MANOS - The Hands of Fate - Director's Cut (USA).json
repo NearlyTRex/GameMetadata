@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/MANOS - The Hands of Fate - Director's Cut (USA).exe"
     ],
     "steam": {
-        "appid": "350780"
+        "appid": "350780",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "MANOS: The Hands of Fate ~ Director's Cut"
     },
     "transform_file": "MANOS - The Hands of Fate - Director's Cut (USA).exe"
 }

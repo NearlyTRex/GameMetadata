@@ -10,7 +10,9 @@
         "$SETUP_MAIN_ROOT/Simulacra 2 (USA).exe"
     ],
     "steam": {
-        "appid": "1011190"
+        "appid": "1011190",
+        "branchid": "public",
+        "name": "SIMULACRA 2"
     },
     "transform_file": "Simulacra 2 (USA).exe"
 }

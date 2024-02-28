@@ -22,7 +22,9 @@
         }
     },
     "steam": {
-        "appid": "365450"
+        "appid": "365450",
+        "branchid": "public",
+        "name": "Hacknet"
     },
     "transform_file": "Hacknet (USA).exe"
 }

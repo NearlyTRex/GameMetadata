@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Deathly Stillness (USA).exe"
     ],
     "steam": {
-        "appid": "1727650"
+        "appid": "1727650",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "\u6b7b\u5bc2\uff08DeathlyStillness\uff09"
     },
     "transform_file": "Deathly Stillness (USA).exe"
 }

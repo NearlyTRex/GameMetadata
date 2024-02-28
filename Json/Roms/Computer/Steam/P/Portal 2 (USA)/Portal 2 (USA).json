@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Portal 2 (USA).exe"
     ],
     "steam": {
-        "appid": "620"
+        "appid": "620",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Portal 2"
     },
     "transform_file": "Portal 2 (USA).exe"
 }

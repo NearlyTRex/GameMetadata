@@ -9,7 +9,10 @@
         "$SETUP_MAIN_ROOT/We Were Here Forever (USA).exe"
     ],
     "steam": {
-        "appid": "1341290"
+        "appid": "1341290",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "We Were Here Forever"
     },
     "transform_file": "We Were Here Forever (USA).exe"
 }

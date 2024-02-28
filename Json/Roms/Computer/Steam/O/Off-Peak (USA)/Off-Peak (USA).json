@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Off-Peak (USA).exe"
     ],
     "steam": {
-        "appid": "467360"
+        "appid": "467360",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Off-Peak"
     },
     "transform_file": "Off-Peak (USA).exe"
 }

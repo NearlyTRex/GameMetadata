@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Legacy of Kain - Soul Reaver (USA).exe"
     ],
     "steam": {
-        "appid": "224920"
+        "appid": "224920",
+        "branchid": "public",
+        "name": "Legacy of Kain: Soul Reaver"
     },
     "transform_file": "Legacy of Kain - Soul Reaver (USA).exe"
 }

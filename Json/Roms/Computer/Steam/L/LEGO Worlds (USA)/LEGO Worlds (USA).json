@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/LEGO Worlds (USA).exe"
     ],
     "steam": {
-        "appid": "332310"
+        "appid": "332310",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae Worlds"
     },
     "transform_file": "LEGO Worlds (USA).exe"
 }

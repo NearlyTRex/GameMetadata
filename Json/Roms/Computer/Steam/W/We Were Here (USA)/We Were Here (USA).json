@@ -12,7 +12,10 @@
         "We Were Here/We Were Here.exe": "We Were Here"
     },
     "steam": {
-        "appid": "582500"
+        "appid": "582500",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "We Were Here"
     },
     "sync": {
         "data": [

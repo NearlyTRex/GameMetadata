@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "275390"
+        "appid": "275390",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Guacamelee! Super Turbo Championship Edition"
     },
     "transform_file": "Guacamelee! Super Turbo Championship Edition (USA).exe"
 }

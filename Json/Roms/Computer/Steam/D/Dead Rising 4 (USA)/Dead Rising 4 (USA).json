@@ -20,7 +20,10 @@
         "$SETUP_MAIN_ROOT/Dead Rising 4 (USA).exe"
     ],
     "steam": {
-        "appid": "543460"
+        "appid": "543460",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dead Rising 4"
     },
     "transform_file": "Dead Rising 4 (USA).exe"
 }

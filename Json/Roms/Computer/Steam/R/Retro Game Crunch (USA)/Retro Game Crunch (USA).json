@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Retro Game Crunch (USA).exe"
     ],
     "steam": {
-        "appid": "290040"
+        "appid": "290040",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Retro Game Crunch"
     },
     "transform_file": "Retro Game Crunch (USA).exe"
 }

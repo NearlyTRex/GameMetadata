@@ -14,7 +14,10 @@
         "FranknJohn/FranknJohn.exe": "FranknJohn"
     },
     "steam": {
-        "appid": "305460"
+        "appid": "305460",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "FranknJohn"
     },
     "transform_file": "FranknJohn (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Screencheat (USA).exe"
     ],
     "steam": {
-        "appid": "301970"
+        "appid": "301970",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Screencheat"
     },
     "transform_file": "Screencheat (USA).exe"
 }

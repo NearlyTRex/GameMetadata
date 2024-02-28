@@ -8,7 +8,9 @@
         "$SETUP_MAIN_ROOT/Deluded (USA).exe"
     ],
     "steam": {
-        "appid": "1770660"
+        "appid": "1770660",
+        "branchid": "public",
+        "name": "Deluded"
     },
     "transform_file": "Deluded (USA).exe"
 }

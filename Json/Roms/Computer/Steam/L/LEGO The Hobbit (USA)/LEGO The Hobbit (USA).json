@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/LEGO The Hobbit (USA).exe"
     ],
     "steam": {
-        "appid": "285160"
+        "appid": "285160",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae The Hobbit\u2122"
     },
     "transform_file": "LEGO The Hobbit (USA).exe"
 }

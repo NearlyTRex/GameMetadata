@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Summer of '58 (USA).exe"
     ],
     "steam": {
-        "appid": "1609080"
+        "appid": "1609080",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Summer of '58"
     },
     "transform_file": "Summer of '58 (USA).exe"
 }

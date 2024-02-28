@@ -12,7 +12,9 @@
         "SCP - Containment Breach Remastered/SCPCBR.exe": "SCP - Containment Breach Remastered"
     },
     "steam": {
-        "appid": "2090230"
+        "appid": "2090230",
+        "branchid": "public",
+        "name": "SCP: Containment Breach Remastered"
     },
     "transform_file": "SCP - Containment Breach Remastered (USA).exe"
 }

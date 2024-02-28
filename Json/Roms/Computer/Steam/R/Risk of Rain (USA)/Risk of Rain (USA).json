@@ -12,7 +12,10 @@
         "Risk of Rain/Risk of Rain.exe": "Risk of Rain"
     },
     "steam": {
-        "appid": "248820"
+        "appid": "248820",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Risk of Rain (2013)"
     },
     "sync": {
         "data": [

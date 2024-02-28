@@ -22,7 +22,9 @@
         }
     },
     "steam": {
-        "appid": "648800"
+        "appid": "648800",
+        "branchid": "public",
+        "name": "Raft"
     },
     "transform_file": "Raft (USA).exe"
 }

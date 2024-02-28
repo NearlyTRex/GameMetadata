@@ -28,7 +28,10 @@
         }
     },
     "steam": {
-        "appid": "647830"
+        "appid": "647830",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae MARVEL Super Heroes 2"
     },
     "transform_file": "LEGO Marvel Super Heroes 2 (USA).exe"
 }

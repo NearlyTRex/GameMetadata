@@ -12,7 +12,10 @@
         "Narcosis/Narcosis.exe": "Narcosis"
     },
     "steam": {
-        "appid": "366870"
+        "appid": "366870",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Narcosis"
     },
     "transform_file": "Narcosis (USA).exe"
 }

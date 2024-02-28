@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Toki Tori (USA).exe"
     ],
     "steam": {
-        "appid": "38700"
+        "appid": "38700",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Toki Tori"
     },
     "transform_file": "Toki Tori (USA).exe"
 }

@@ -12,7 +12,10 @@
         "Press X to Not Die/Press X to Not Die.exe": "Press X to Not Die"
     },
     "steam": {
-        "appid": "402330"
+        "appid": "402330",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Press X to Not Die"
     },
     "transform_file": "Press X to Not Die (USA).exe"
 }

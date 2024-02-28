@@ -12,7 +12,10 @@
         "Nuclear Throne/nuclearthrone.exe": "Nuclear Throne"
     },
     "steam": {
-        "appid": "242680"
+        "appid": "242680",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Nuclear Throne"
     },
     "transform_file": "Nuclear Throne (USA).exe"
 }

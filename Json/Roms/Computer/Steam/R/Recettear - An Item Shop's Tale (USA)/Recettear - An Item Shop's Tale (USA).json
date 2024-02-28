@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Recettear - An Item Shop's Tale (USA).exe"
     ],
     "steam": {
-        "appid": "70400"
+        "appid": "70400",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Recettear: An Item Shop's Tale"
     },
     "transform_file": "Recettear - An Item Shop's Tale (USA).exe"
 }

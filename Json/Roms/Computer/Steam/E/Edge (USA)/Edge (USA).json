@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "38740"
+        "appid": "38740",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "EDGE"
     },
     "transform_file": "Edge (USA).exe"
 }

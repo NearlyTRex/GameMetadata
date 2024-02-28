@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Shadow Warrior Classic (USA).exe"
     ],
     "steam": {
-        "appid": "238070"
+        "appid": "238070",
+        "branchid": "public",
+        "name": "Shadow Warrior Classic (1997)"
     },
     "transform_file": "Shadow Warrior Classic (USA).exe"
 }

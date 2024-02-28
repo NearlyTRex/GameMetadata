@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Genital Jousting (USA).exe"
     ],
     "steam": {
-        "appid": "469820"
+        "appid": "469820",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Genital Jousting"
     },
     "transform_file": "Genital Jousting (USA).exe"
 }

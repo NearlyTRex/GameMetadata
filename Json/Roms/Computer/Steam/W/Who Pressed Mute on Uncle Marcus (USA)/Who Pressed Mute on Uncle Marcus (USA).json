@@ -9,7 +9,10 @@
         "$SETUP_MAIN_ROOT/Who Pressed Mute on Uncle Marcus (USA).exe"
     ],
     "steam": {
-        "appid": "1628130"
+        "appid": "1628130",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Who Pressed Mute on Uncle Marcus?"
     },
     "transform_file": "Who Pressed Mute on Uncle Marcus (USA).exe"
 }

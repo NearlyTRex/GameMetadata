@@ -9,7 +9,10 @@
         "$SETUP_MAIN_ROOT/Sons Of The Forest (USA).exe"
     ],
     "steam": {
-        "appid": "1326470"
+        "appid": "1326470",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Sons Of The Forest"
     },
     "transform_file": "Sons Of The Forest (USA).exe"
 }

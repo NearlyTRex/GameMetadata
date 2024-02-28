@@ -12,7 +12,10 @@
         "Organ Trail - Director's Cut/OrganTrail.exe": "Organ Trail - Director's Cut"
     },
     "steam": {
-        "appid": "233740"
+        "appid": "233740",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Organ Trail: Director's Cut"
     },
     "transform_file": "Organ Trail - Director's Cut (USA).exe"
 }

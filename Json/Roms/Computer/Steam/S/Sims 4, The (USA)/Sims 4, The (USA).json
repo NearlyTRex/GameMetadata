@@ -27,7 +27,9 @@
         "Game/Bin/TS4_x64.exe": "Game/Bin"
     },
     "steam": {
-        "appid": "1222670"
+        "appid": "1222670",
+        "branchid": "public",
+        "name": "The Sims\u2122 4"
     },
     "transform_file": "Sims 4, The (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Stories - The Path of Destinies (USA).exe"
     ],
     "steam": {
-        "appid": "439190"
+        "appid": "439190",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Stories: The Path of Destinies"
     },
     "transform_file": "Stories - The Path of Destinies (USA).exe"
 }

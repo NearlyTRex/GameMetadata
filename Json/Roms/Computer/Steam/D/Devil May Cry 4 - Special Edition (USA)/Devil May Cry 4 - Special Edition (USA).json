@@ -12,7 +12,10 @@
         "$SETUP_MAIN_ROOT/Devil May Cry 4 - Special Edition (USA).exe"
     ],
     "steam": {
-        "appid": "329050"
+        "appid": "329050",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Devil May Cry 4 Special Edition"
     },
     "transform_file": "Devil May Cry 4 - Special Edition (USA).exe"
 }

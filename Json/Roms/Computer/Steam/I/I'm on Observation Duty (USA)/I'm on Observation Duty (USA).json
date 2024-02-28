@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/I'm on Observation Duty (USA).exe"
     ],
     "steam": {
-        "appid": "1046820"
+        "appid": "1046820",
+        "branchid": "public",
+        "name": "I'm on Observation Duty"
     },
     "transform_file": "I'm on Observation Duty (USA).exe"
 }

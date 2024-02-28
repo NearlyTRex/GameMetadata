@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Inside the Backrooms (USA).exe"
     ],
     "steam": {
-        "appid": "1987080"
+        "appid": "1987080",
+        "branchid": "public",
+        "name": "Inside the Backrooms"
     },
     "transform_file": "Inside the Backrooms (USA).exe"
 }

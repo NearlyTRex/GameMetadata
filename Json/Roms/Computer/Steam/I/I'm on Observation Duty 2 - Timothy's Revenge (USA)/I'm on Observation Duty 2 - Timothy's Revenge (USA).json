@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/I'm on Observation Duty 2 - Timothy's Revenge (USA).exe"
     ],
     "steam": {
-        "appid": "1257810"
+        "appid": "1257810",
+        "branchid": "public",
+        "name": "I'm on Observation Duty 2"
     },
     "transform_file": "I'm on Observation Duty 2 - Timothy's Revenge (USA).exe"
 }

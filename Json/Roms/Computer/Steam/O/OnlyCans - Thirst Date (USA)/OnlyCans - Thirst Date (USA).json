@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/OnlyCans - Thirst Date (USA).exe"
     ],
     "steam": {
-        "appid": "417360"
+        "appid": "417360",
+        "branchid": "public",
+        "name": "OnlyCans: Thirst Date"
     },
     "transform_file": "OnlyCans - Thirst Date (USA).exe"
 }

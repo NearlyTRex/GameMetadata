@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Project - Snowblind (USA).exe"
     ],
     "steam": {
-        "appid": "7010"
+        "appid": "7010",
+        "branchid": "public",
+        "name": "Project: Snowblind"
     },
     "transform_file": "Project - Snowblind (USA).exe"
 }

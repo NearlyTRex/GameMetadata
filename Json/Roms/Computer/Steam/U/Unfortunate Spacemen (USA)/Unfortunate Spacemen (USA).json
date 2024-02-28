@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Unfortunate Spacemen (USA).exe"
     ],
     "steam": {
-        "appid": "408900"
+        "appid": "408900",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Unfortunate Spacemen"
     },
     "transform_file": "Unfortunate Spacemen (USA).exe"
 }

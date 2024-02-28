@@ -12,7 +12,10 @@
         "Jay and Silent Bob - Mall Brawl/Jay and Silent Bob Mall Brawl.exe": "Jay and Silent Bob - Mall Brawl"
     },
     "steam": {
-        "appid": "1087440"
+        "appid": "1087440",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Jay and Silent Bob: Mall Brawl"
     },
     "transform_file": "Jay and Silent Bob - Mall Brawl (USA).exe"
 }

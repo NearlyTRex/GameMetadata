@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Max Gentlemen (USA).exe"
     ],
     "steam": {
-        "appid": "257710"
+        "appid": "257710",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Max Gentlemen"
     },
     "transform_file": "Max Gentlemen (USA).exe"
 }

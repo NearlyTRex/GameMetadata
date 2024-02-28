@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "742300"
+        "appid": "742300",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Mega Man 11"
     },
     "transform_file": "Mega Man 11 (USA).exe"
 }

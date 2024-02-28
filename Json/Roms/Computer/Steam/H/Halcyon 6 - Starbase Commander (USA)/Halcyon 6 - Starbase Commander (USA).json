@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Halcyon 6 - Starbase Commander (USA).exe"
     ],
     "steam": {
-        "appid": "371200"
+        "appid": "371200",
+        "branchid": "public",
+        "name": "Halcyon 6: Starbase Commander (CLASSIC)"
     },
     "transform_file": "Halcyon 6 - Starbase Commander (USA).exe"
 }

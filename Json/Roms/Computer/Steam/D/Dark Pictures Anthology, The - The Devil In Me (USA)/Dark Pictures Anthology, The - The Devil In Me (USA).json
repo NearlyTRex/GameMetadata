@@ -36,7 +36,10 @@
         }
     },
     "steam": {
-        "appid": "1567020"
+        "appid": "1567020",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Dark Pictures Anthology: The Devil in Me"
     },
     "transform_file": "Dark Pictures Anthology, The - The Devil In Me (USA).exe"
 }

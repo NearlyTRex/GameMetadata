@@ -12,7 +12,10 @@
         "Grim Fandango Remastered/GrimFandango.exe": "Grim Fandango Remastered"
     },
     "steam": {
-        "appid": "316790"
+        "appid": "316790",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Grim Fandango Remastered"
     },
     "sync": {
         "data": [

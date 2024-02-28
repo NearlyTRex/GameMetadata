@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/DEEEER Simulator (USA).exe"
     ],
     "steam": {
-        "appid": "1018800"
+        "appid": "1018800",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "DEEEER Simulator: Your Average Everyday Deer Game"
     },
     "transform_file": "DEEEER Simulator (USA).exe"
 }

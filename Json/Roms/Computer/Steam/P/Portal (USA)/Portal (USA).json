@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Portal (USA).exe"
     ],
     "steam": {
-        "appid": "400"
+        "appid": "400",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Portal"
     },
     "transform_file": "Portal (USA).exe"
 }

@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/LEGO Harry Potter - Years 1-4 (USA).exe"
     ],
     "steam": {
-        "appid": "21130"
+        "appid": "21130",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae Harry Potter: Years 1-4"
     },
     "transform_file": "LEGO Harry Potter - Years 1-4 (USA).exe"
 }

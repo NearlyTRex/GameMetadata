@@ -12,7 +12,10 @@
         "Monster Prom/MonsterProm.exe": "Monster Prom"
     },
     "steam": {
-        "appid": "743450"
+        "appid": "743450",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Monster Prom"
     },
     "sync": {
         "data": [

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Pac-Man Championship Edition 2 (USA).exe"
     ],
     "steam": {
-        "appid": "441380"
+        "appid": "441380",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "PAC-MAN\u2122 CHAMPIONSHIP EDITION 2"
     },
     "transform_file": "Pac-Man Championship Edition 2 (USA).exe"
 }

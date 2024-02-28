@@ -24,7 +24,10 @@
         }
     },
     "steam": {
-        "appid": "1274570"
+        "appid": "1274570",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "DEVOUR"
     },
     "transform_file": "Devour (USA).exe"
 }

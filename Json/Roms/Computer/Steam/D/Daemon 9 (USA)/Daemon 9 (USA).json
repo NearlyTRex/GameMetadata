@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Daemon 9 (USA).exe"
     ],
     "steam": {
-        "appid": "892690"
+        "appid": "892690",
+        "branchid": "public",
+        "name": "Daemon 9"
     },
     "transform_file": "Daemon 9 (USA).exe"
 }

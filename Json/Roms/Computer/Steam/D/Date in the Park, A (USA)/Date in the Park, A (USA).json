@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Date in the Park, A (USA).exe"
     ],
     "steam": {
-        "appid": "468530"
+        "appid": "468530",
+        "branchid": "public",
+        "name": "A Date in the Park"
     },
     "transform_file": "Date in the Park, A (USA).exe"
 }

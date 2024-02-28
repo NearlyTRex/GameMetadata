@@ -32,7 +32,10 @@
         }
     },
     "steam": {
-        "appid": "534380"
+        "appid": "534380",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dying Light 2: Reloaded Edition"
     },
     "transform_file": "Dying Light 2 - Stay Human (USA).exe"
 }

@@ -21,7 +21,9 @@
         "Star Wars - Dark Forces/DosBox/dosbox.exe": "Star Wars - Dark Forces"
     },
     "steam": {
-        "appid": "32400"
+        "appid": "32400",
+        "branchid": "public",
+        "name": "STAR WARS\u2122: Dark Forces"
     },
     "sync": {
         "data": [

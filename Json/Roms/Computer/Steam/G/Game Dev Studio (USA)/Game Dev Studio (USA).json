@@ -12,7 +12,9 @@
         "Game Dev Studio/game_dev_studio.exe": "Game Dev Studio"
     },
     "steam": {
-        "appid": "773580"
+        "appid": "773580",
+        "branchid": "public",
+        "name": "Game Dev Studio"
     },
     "transform_file": "Game Dev Studio (USA).exe"
 }

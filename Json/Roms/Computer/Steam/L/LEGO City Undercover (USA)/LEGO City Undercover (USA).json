@@ -11,7 +11,10 @@
         "$SETUP_MAIN_ROOT/LEGO City Undercover (USA).exe"
     ],
     "steam": {
-        "appid": "578330"
+        "appid": "578330",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae City Undercover"
     },
     "transform_file": "LEGO City Undercover (USA).exe"
 }

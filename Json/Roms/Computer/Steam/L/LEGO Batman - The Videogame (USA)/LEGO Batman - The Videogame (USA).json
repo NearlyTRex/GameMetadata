@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/LEGO Batman - The Videogame (USA).exe"
     ],
     "steam": {
-        "appid": "21000"
+        "appid": "21000",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae Batman\u2122: The Videogame"
     },
     "transform_file": "LEGO Batman - The Videogame (USA).exe"
 }

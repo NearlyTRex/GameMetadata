@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Raven Monologue, A (USA).exe"
     ],
     "steam": {
-        "appid": "744810"
+        "appid": "744810",
+        "branchid": "public",
+        "name": "A Raven Monologue"
     },
     "transform_file": "Raven Monologue, A (USA).exe"
 }

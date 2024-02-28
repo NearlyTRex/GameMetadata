@@ -22,7 +22,9 @@
         }
     },
     "steam": {
-        "appid": "38720"
+        "appid": "38720",
+        "branchid": "public",
+        "name": "RUSH"
     },
     "transform_file": "Rush (USA).exe"
 }

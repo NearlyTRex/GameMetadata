@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Labyrinthine Dreams (USA).exe"
     ],
     "steam": {
-        "appid": "278570"
+        "appid": "278570",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Labyrinthine Dreams"
     },
     "transform_file": "Labyrinthine Dreams (USA).exe"
 }

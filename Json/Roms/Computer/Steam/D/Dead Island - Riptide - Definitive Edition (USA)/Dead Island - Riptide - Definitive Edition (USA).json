@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Dead Island - Riptide - Definitive Edition (USA).exe"
     ],
     "steam": {
-        "appid": "383180"
+        "appid": "383180",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dead Island Riptide Definitive Edition"
     },
     "transform_file": "Dead Island - Riptide - Definitive Edition (USA).exe"
 }

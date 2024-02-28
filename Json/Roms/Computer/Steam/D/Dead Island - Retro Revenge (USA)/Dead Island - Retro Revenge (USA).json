@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Dead Island - Retro Revenge (USA).exe"
     ],
     "steam": {
-        "appid": "337360"
+        "appid": "337360",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dead Island Retro Revenge"
     },
     "transform_file": "Dead Island - Retro Revenge (USA).exe"
 }

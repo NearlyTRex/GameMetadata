@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/SEGA Bass Fishing (USA).exe"
     ],
     "steam": {
-        "appid": "71240"
+        "appid": "71240",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "SEGA Bass Fishing"
     },
     "transform_file": "SEGA Bass Fishing (USA).exe"
 }

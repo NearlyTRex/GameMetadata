@@ -12,7 +12,10 @@
         "Stranger of Sword City/StrangerOfSwordCity.exe": "Stranger of Sword City"
     },
     "steam": {
-        "appid": "409890"
+        "appid": "409890",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Stranger of Sword City"
     },
     "sync": {
         "data": [

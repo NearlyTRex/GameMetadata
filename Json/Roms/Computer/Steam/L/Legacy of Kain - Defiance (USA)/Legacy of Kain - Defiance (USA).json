@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Legacy of Kain - Defiance (USA).exe"
     ],
     "steam": {
-        "appid": "224300"
+        "appid": "224300",
+        "branchid": "public",
+        "name": "Legacy of Kain: Defiance"
     },
     "transform_file": "Legacy of Kain - Defiance (USA).exe"
 }

@@ -18,7 +18,9 @@
         "Hurtworld/experimental/HurtworldClient.exe": "Hurtworld/experimental"
     },
     "steam": {
-        "appid": "393420"
+        "appid": "393420",
+        "branchid": "public",
+        "name": "Hurtworld"
     },
     "transform_file": "Hurtworld (USA).exe"
 }

@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/FrostRunner (USA).exe"
     ],
     "steam": {
-        "appid": "934840"
+        "appid": "934840",
+        "branchid": "public",
+        "name": "FrostRunner"
     },
     "transform_file": "FrostRunner (USA).exe"
 }

@@ -9,7 +9,9 @@
         "$SETUP_MAIN_ROOT/Hijacker Jack - Arcade FMV (USA).exe"
     ],
     "steam": {
-        "appid": "1422730"
+        "appid": "1422730",
+        "branchid": "public",
+        "name": "Hijacker Jack"
     },
     "transform_file": "Hijacker Jack - Arcade FMV (USA).exe"
 }

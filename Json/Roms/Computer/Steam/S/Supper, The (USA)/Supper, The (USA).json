@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Supper, The (USA).exe"
     ],
     "steam": {
-        "appid": "1171370"
+        "appid": "1171370",
+        "branchid": "public",
+        "name": "The Supper"
     },
     "transform_file": "Supper, The (USA).exe"
 }

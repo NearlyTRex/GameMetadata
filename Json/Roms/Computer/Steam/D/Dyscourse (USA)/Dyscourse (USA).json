@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Dyscourse (USA).exe"
     ],
     "steam": {
-        "appid": "234920"
+        "appid": "234920",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dyscourse"
     },
     "transform_file": "Dyscourse (USA).exe"
 }

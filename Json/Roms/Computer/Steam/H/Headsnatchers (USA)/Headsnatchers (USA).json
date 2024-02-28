@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Headsnatchers (USA).exe"
     ],
     "steam": {
-        "appid": "797410"
+        "appid": "797410",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Headsnatchers"
     },
     "transform_file": "Headsnatchers (USA).exe"
 }

@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "525040"
+        "appid": "525040",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "The Disney Afternoon Collection"
     },
     "transform_file": "Disney Afternoon Collection, The (USA).exe"
 }

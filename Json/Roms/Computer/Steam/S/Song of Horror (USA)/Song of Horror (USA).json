@@ -15,7 +15,10 @@
         "Song of Horror/SongOfHorror.exe": "Song of Horror"
     },
     "steam": {
-        "appid": "1096570"
+        "appid": "1096570",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "SONG OF HORROR"
     },
     "transform_file": "Song of Horror (USA).exe"
 }

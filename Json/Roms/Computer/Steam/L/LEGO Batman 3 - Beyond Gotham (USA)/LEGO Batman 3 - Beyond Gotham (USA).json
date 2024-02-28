@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/LEGO Batman 3 - Beyond Gotham (USA).exe"
     ],
     "steam": {
-        "appid": "313690"
+        "appid": "313690",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae Batman\u2122 3: Beyond Gotham"
     },
     "transform_file": "LEGO Batman 3 - Beyond Gotham (USA).exe"
 }

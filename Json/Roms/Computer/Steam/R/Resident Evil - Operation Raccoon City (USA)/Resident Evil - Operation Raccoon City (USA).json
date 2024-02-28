@@ -25,7 +25,10 @@
         }
     },
     "steam": {
-        "appid": "209100"
+        "appid": "209100",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Resident Evil: Operation Raccoon City"
     },
     "transform_file": "Resident Evil - Operation Raccoon City (USA).exe"
 }

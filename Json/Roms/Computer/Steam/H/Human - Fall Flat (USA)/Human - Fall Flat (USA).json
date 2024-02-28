@@ -12,7 +12,10 @@
         "Human - Fall Flat/Human.exe": "Human - Fall Flat"
     },
     "steam": {
-        "appid": "477160"
+        "appid": "477160",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Human Fall Flat"
     },
     "transform_file": "Human - Fall Flat (USA).exe"
 }

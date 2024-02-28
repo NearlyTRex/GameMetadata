@@ -14,7 +14,10 @@
         "PowerWash Simulator/PowerWashSimulator.exe": "PowerWash Simulator"
     },
     "steam": {
-        "appid": "1290000"
+        "appid": "1290000",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "PowerWash Simulator"
     },
     "transform_file": "PowerWash Simulator (USA).exe"
 }

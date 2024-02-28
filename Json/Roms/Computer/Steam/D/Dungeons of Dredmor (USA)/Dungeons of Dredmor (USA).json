@@ -12,7 +12,9 @@
         "Dungeons of Dredmor/Dungeons of Dredmor.exe": "Dungeons of Dredmor"
     },
     "steam": {
-        "appid": "98800"
+        "appid": "98800",
+        "branchid": "public",
+        "name": "Dungeons of Dredmor"
     },
     "transform_file": "Dungeons of Dredmor (USA).exe"
 }

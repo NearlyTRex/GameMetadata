@@ -25,7 +25,10 @@
         }
     },
     "steam": {
-        "appid": "1353270"
+        "appid": "1353270",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Five Dates"
     },
     "transform_file": "Five Dates (USA).exe"
 }

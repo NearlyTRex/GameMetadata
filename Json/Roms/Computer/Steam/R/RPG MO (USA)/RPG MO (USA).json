@@ -1,5 +1,8 @@
 {
     "steam": {
-        "appid": "372800"
+        "appid": "372800",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "RPG MO"
     }
 }

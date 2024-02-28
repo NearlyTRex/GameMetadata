@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Iron Snout (USA).exe"
     ],
     "steam": {
-        "appid": "424280"
+        "appid": "424280",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Iron Snout"
     },
     "transform_file": "Iron Snout (USA).exe"
 }

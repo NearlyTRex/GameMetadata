@@ -28,7 +28,10 @@
         "$SETUP_MAIN_ROOT/Fallout 4 (USA).exe"
     ],
     "steam": {
-        "appid": "377160"
+        "appid": "377160",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Fallout 4"
     },
     "transform_file": "Fallout 4 (USA).exe"
 }

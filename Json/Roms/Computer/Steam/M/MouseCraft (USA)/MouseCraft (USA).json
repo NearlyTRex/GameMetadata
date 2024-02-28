@@ -12,7 +12,10 @@
         "MouseCraft/MouseCraft.exe": "MouseCraft"
     },
     "steam": {
-        "appid": "252750"
+        "appid": "252750",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "MouseCraft"
     },
     "sync": {
         "data": [

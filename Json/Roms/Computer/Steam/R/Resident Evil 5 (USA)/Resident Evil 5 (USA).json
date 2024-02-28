@@ -23,7 +23,10 @@
         }
     },
     "steam": {
-        "appid": "21690"
+        "appid": "21690",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Resident Evil 5"
     },
     "transform_file": "Resident Evil 5 (USA).exe"
 }

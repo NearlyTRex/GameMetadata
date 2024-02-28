@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Loot Rascals (USA).exe"
     ],
     "steam": {
-        "appid": "443880"
+        "appid": "443880",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Loot Rascals"
     },
     "transform_file": "Loot Rascals (USA).exe"
 }

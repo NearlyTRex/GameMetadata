@@ -32,7 +32,10 @@
         "$SETUP_MAIN_ROOT/Grand Theft Auto V (USA).exe"
     ],
     "steam": {
-        "appid": "271590"
+        "appid": "271590",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Grand Theft Auto V"
     },
     "transform_file": "Grand Theft Auto V (USA).exe"
 }

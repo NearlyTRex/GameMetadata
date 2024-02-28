@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Frog Fractions - Game of the Decade Edition (USA).exe"
     ],
     "steam": {
-        "appid": "1194840"
+        "appid": "1194840",
+        "branchid": "public",
+        "name": "Frog Fractions: Game of the Decade Edition"
     },
     "transform_file": "Frog Fractions - Game of the Decade Edition (USA).exe"
 }

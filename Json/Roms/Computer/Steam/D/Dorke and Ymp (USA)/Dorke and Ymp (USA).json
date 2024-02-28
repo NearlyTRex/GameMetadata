@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Dorke and Ymp (USA).exe"
     ],
     "steam": {
-        "appid": "474810"
+        "appid": "474810",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Dorke and Ymp"
     },
     "transform_file": "Dorke and Ymp (USA).exe"
 }

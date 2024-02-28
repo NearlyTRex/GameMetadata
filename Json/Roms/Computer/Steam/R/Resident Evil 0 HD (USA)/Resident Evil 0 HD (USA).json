@@ -30,7 +30,10 @@
         }
     },
     "steam": {
-        "appid": "339340"
+        "appid": "339340",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Resident Evil 0"
     },
     "transform_file": "Resident Evil 0 HD (USA).exe"
 }

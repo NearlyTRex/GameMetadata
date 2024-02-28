@@ -24,7 +24,10 @@
         }
     },
     "steam": {
-        "appid": "584980"
+        "appid": "584980",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Late Shift"
     },
     "transform_file": "Late Shift (USA).exe"
 }

@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Pandemonium (USA).exe"
     ],
     "steam": {
-        "appid": "243020"
+        "appid": "243020",
+        "branchid": "public",
+        "name": "Pandemonium"
     },
     "transform_file": "Pandemonium (USA).exe"
 }

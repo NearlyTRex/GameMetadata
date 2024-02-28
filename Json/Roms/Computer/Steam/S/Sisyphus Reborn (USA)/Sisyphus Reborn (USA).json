@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Sisyphus Reborn (USA).exe"
     ],
     "steam": {
-        "appid": "517910"
+        "appid": "517910",
+        "branchid": "public",
+        "name": "Sisyphus Reborn"
     },
     "transform_file": "Sisyphus Reborn (USA).exe"
 }

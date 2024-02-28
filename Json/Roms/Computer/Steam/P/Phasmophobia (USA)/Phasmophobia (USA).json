@@ -24,7 +24,10 @@
         }
     },
     "steam": {
-        "appid": "739630"
+        "appid": "739630",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Phasmophobia"
     },
     "transform_file": "Phasmophobia (USA).exe"
 }

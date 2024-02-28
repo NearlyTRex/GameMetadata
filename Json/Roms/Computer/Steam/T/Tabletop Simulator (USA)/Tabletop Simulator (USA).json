@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Tabletop Simulator (USA).exe"
     ],
     "steam": {
-        "appid": "286160"
+        "appid": "286160",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Tabletop Simulator"
     },
     "transform_file": "Tabletop Simulator (USA).exe"
 }

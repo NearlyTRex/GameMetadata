@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/What Never Was (USA).exe"
     ],
     "steam": {
-        "appid": "866440"
+        "appid": "866440",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "What Never Was"
     },
     "transform_file": "What Never Was (USA).exe"
 }

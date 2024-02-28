@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "291860"
+        "appid": "291860",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Pit People"
     },
     "transform_file": "Pit People (USA).exe"
 }

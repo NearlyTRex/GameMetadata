@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Viscera Cleanup Detail - Shadow Warrior (USA).exe"
     ],
     "steam": {
-        "appid": "255520"
+        "appid": "255520",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Viscera Cleanup Detail: Shadow Warrior"
     },
     "transform_file": "Viscera Cleanup Detail - Shadow Warrior (USA).exe"
 }

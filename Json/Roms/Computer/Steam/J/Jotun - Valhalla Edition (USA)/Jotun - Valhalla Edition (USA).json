@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Jotun - Valhalla Edition (USA).exe"
     ],
     "steam": {
-        "appid": "323580"
+        "appid": "323580",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Jotun: Valhalla Edition"
     },
     "transform_file": "Jotun - Valhalla Edition (USA).exe"
 }

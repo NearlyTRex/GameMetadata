@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "588650"
+        "appid": "588650",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dead Cells"
     },
     "transform_file": "Dead Cells (USA).exe"
 }

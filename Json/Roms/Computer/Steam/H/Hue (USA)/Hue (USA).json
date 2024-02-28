@@ -12,7 +12,10 @@
         "Hue/Hue.exe": "Hue"
     },
     "steam": {
-        "appid": "383270"
+        "appid": "383270",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Hue"
     },
     "transform_file": "Hue (USA).exe"
 }

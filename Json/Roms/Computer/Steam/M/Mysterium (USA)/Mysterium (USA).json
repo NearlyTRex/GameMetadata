@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Mysterium (USA).exe"
     ],
     "steam": {
-        "appid": "556180"
+        "appid": "556180",
+        "branchid": "public",
+        "name": "Mysterium"
     },
     "transform_file": "Mysterium (USA).exe"
 }

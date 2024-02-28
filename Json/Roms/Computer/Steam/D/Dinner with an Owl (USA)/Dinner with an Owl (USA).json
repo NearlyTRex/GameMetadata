@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Dinner with an Owl (USA).exe"
     ],
     "steam": {
-        "appid": "1567420"
+        "appid": "1567420",
+        "branchid": "public",
+        "name": "Dinner with an Owl"
     },
     "transform_file": "Dinner with an Owl (USA).exe"
 }

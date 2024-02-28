@@ -12,7 +12,10 @@
         "The Warlock of Firetop Mountain/The Warlock of Firetop Mountain.exe": "The Warlock of Firetop Mountain"
     },
     "steam": {
-        "appid": "324740"
+        "appid": "324740",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "The Warlock of Firetop Mountain"
     },
     "transform_file": "Warlock of Firetop Mountain, The (USA).exe"
 }

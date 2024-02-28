@@ -27,7 +27,10 @@
         }
     },
     "steam": {
-        "appid": "242700"
+        "appid": "242700",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Injustice: Gods Among Us Ultimate Edition"
     },
     "transform_file": "Injustice - Gods Among Us Ultimate Edition (USA).exe"
 }

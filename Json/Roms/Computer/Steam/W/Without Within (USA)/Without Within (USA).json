@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Without Within (USA).exe"
     ],
     "steam": {
-        "appid": "345650"
+        "appid": "345650",
+        "branchid": "public",
+        "name": "Without Within"
     },
     "transform_file": "Without Within (USA).exe"
 }

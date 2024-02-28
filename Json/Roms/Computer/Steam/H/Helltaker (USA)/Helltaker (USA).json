@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Helltaker (USA).exe"
     ],
     "steam": {
-        "appid": "1289310"
+        "appid": "1289310",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Helltaker"
     },
     "transform_file": "Helltaker (USA).exe"
 }

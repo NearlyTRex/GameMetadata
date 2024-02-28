@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/LEGO The Lord of the Rings (USA).exe"
     ],
     "steam": {
-        "appid": "214510"
+        "appid": "214510",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae The Lord of the Rings\u2122"
     },
     "transform_file": "LEGO The Lord of the Rings (USA).exe"
 }

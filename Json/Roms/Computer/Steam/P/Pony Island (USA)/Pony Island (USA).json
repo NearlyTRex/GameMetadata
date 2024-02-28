@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Pony Island (USA).exe"
     ],
     "steam": {
-        "appid": "405640"
+        "appid": "405640",
+        "branchid": "public",
+        "name": "Pony Island"
     },
     "transform_file": "Pony Island (USA).exe"
 }

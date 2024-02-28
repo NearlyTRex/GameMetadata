@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Super Crate Box (USA).exe"
     ],
     "steam": {
-        "appid": "212800"
+        "appid": "212800",
+        "branchid": "public",
+        "name": "Super Crate Box"
     },
     "transform_file": "Super Crate Box (USA).exe"
 }

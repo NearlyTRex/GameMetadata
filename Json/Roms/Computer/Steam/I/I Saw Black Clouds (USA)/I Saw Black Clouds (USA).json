@@ -25,7 +25,10 @@
         }
     },
     "steam": {
-        "appid": "1346830"
+        "appid": "1346830",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "I Saw Black Clouds"
     },
     "transform_file": "I Saw Black Clouds (USA).exe"
 }

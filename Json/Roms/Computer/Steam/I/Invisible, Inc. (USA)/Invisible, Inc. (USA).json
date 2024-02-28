@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Invisible, Inc. (USA).exe"
     ],
     "steam": {
-        "appid": "243970"
+        "appid": "243970",
+        "branchid": "public",
+        "name": "Invisible, Inc."
     },
     "transform_file": "Invisible, Inc. (USA).exe"
 }

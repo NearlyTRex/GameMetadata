@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Sonic CD (USA).exe"
     ],
     "steam": {
-        "appid": "200940"
+        "appid": "200940",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Sonic CD"
     },
     "transform_file": "Sonic CD (USA).exe"
 }

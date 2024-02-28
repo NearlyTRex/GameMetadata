@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Metro - Last Light Complete Edition (USA).exe"
     ],
     "steam": {
-        "appid": "43160"
+        "appid": "43160",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Metro: Last Light Complete Edition"
     },
     "transform_file": "Metro - Last Light Complete Edition (USA).exe"
 }

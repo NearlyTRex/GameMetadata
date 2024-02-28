@@ -11,7 +11,10 @@
         "$SETUP_MAIN_ROOT/LEGO Star Wars - The Force Awakens (USA).exe"
     ],
     "steam": {
-        "appid": "438640"
+        "appid": "438640",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae STAR WARS\u2122: The Force Awakens"
     },
     "transform_file": "LEGO Star Wars - The Force Awakens (USA).exe"
 }

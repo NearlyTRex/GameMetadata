@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Super Win the Game (USA).exe"
     ],
     "steam": {
-        "appid": "310700"
+        "appid": "310700",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Super Win the Game"
     },
     "transform_file": "Super Win the Game (USA).exe"
 }

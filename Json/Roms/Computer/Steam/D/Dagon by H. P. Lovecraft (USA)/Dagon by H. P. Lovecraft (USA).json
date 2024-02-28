@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Dagon by H. P. Lovecraft (USA).exe"
     ],
     "steam": {
-        "appid": "1481400"
+        "appid": "1481400",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dagon"
     },
     "transform_file": "Dagon by H. P. Lovecraft (USA).exe"
 }

@@ -15,7 +15,9 @@
         "$SETUP_MAIN_ROOT/Sims 3, The (USA).exe"
     ],
     "steam": {
-        "appid": "47890"
+        "appid": "47890",
+        "branchid": "public",
+        "name": "The Sims\u2122 3"
     },
     "transform_file": "Sims 3, The (USA).exe"
 }

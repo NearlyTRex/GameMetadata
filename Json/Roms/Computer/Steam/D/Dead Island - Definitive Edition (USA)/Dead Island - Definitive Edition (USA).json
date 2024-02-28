@@ -24,7 +24,10 @@
         }
     },
     "steam": {
-        "appid": "383150"
+        "appid": "383150",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dead Island Definitive Edition"
     },
     "transform_file": "Dead Island - Definitive Edition (USA).exe"
 }

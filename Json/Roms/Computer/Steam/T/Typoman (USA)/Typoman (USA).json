@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Typoman (USA).exe"
     ],
     "steam": {
-        "appid": "336240"
+        "appid": "336240",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Typoman"
     },
     "transform_file": "Typoman (USA).exe"
 }

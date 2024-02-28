@@ -10,7 +10,10 @@
         "$SETUP_MAIN_ROOT/Elder Scrolls V, The - Skyrim - Special Edition (USA).exe"
     ],
     "steam": {
-        "appid": "489830"
+        "appid": "489830",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "The Elder Scrolls V: Skyrim Special Edition"
     },
     "transform_file": "Elder Scrolls V, The - Skyrim - Special Edition (USA).exe"
 }

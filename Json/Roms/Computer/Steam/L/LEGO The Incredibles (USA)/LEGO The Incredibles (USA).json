@@ -10,7 +10,10 @@
         "$SETUP_MAIN_ROOT/LEGO The Incredibles (USA).exe"
     ],
     "steam": {
-        "appid": "818320"
+        "appid": "818320",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae The Incredibles"
     },
     "transform_file": "LEGO The Incredibles (USA).exe"
 }

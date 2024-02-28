@@ -1,5 +1,8 @@
 {
     "steam": {
-        "appid": "230410"
+        "appid": "230410",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Warframe"
     }
 }

@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Stray (USA).exe"
     ],
     "steam": {
-        "appid": "1332010"
+        "appid": "1332010",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Stray"
     },
     "transform_file": "Stray (USA).exe"
 }

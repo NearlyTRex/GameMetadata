@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Serena (USA).exe"
     ],
     "steam": {
-        "appid": "272060"
+        "appid": "272060",
+        "branchid": "public",
+        "name": "Serena"
     },
     "transform_file": "Serena (USA).exe"
 }

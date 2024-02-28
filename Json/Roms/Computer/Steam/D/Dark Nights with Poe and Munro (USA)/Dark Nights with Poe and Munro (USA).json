@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Dark Nights with Poe and Munro (USA).exe"
     ],
     "steam": {
-        "appid": "1098170"
+        "appid": "1098170",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dark Nights with Poe and Munro"
     },
     "transform_file": "Dark Nights with Poe and Munro (USA).exe"
 }

@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "242760"
+        "appid": "242760",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "The Forest"
     },
     "transform_file": "Forest, The (USA).exe"
 }

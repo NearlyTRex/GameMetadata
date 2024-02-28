@@ -24,7 +24,10 @@
         }
     },
     "steam": {
-        "appid": "34270"
+        "appid": "34270",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "SEGA Mega Drive & Genesis Classics"
     },
     "transform_file": "SEGA Mega Drive & Genesis Classics (USA).exe"
 }

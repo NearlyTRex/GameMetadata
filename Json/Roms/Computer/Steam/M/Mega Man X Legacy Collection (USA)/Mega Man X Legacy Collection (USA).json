@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/Mega Man X Legacy Collection (USA).exe"
     ],
     "steam": {
-        "appid": "743890"
+        "appid": "743890",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Mega Man X Legacy Collection"
     },
     "transform_file": "Mega Man X Legacy Collection (USA).exe"
 }

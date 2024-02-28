@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Strider (USA).exe"
     ],
     "steam": {
-        "appid": "235210"
+        "appid": "235210",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Strider"
     },
     "transform_file": "Strider (USA).exe"
 }

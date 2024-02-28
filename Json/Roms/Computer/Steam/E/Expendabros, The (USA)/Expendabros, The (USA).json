@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Expendabros, The (USA).exe"
     ],
     "steam": {
-        "appid": "312990"
+        "appid": "312990",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Expendabros"
     },
     "transform_file": "Expendabros, The (USA).exe"
 }

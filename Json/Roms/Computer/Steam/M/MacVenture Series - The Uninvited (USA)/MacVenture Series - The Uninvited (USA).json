@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/MacVenture Series - The Uninvited (USA).exe"
     ],
     "steam": {
-        "appid": "343810"
+        "appid": "343810",
+        "branchid": "public",
+        "name": "The Uninvited: MacVenture Series"
     },
     "transform_file": "MacVenture Series - The Uninvited (USA).exe"
 }

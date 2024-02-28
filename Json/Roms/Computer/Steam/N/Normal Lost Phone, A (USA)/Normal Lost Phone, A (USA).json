@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Normal Lost Phone, A (USA).exe"
     ],
     "steam": {
-        "appid": "523210"
+        "appid": "523210",
+        "branchid": "public",
+        "name": "A Normal Lost Phone"
     },
     "transform_file": "Normal Lost Phone, A (USA).exe"
 }

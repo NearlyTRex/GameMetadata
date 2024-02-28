@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Whisper of a Rose (USA).exe"
     ],
     "steam": {
-        "appid": "326730"
+        "appid": "326730",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Whisper of a Rose"
     },
     "transform_file": "Whisper of a Rose (USA).exe"
 }

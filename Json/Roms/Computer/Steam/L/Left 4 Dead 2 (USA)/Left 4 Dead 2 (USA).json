@@ -14,7 +14,10 @@
         "Left 4 Dead 2/left4dead2.exe": "Left 4 Dead 2"
     },
     "steam": {
-        "appid": "550"
+        "appid": "550",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Left 4 Dead 2"
     },
     "transform_file": "Left 4 Dead 2 (USA).exe"
 }

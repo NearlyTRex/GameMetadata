@@ -8,7 +8,9 @@
         "$SETUP_MAIN_ROOT/Deathtrap Dungeon - The Interactive Video Adventure (USA).exe"
     ],
     "steam": {
-        "appid": "1191940"
+        "appid": "1191940",
+        "branchid": "public",
+        "name": "Deathtrap Dungeon: The Interactive Video Adventure"
     },
     "transform_file": "Deathtrap Dungeon - The Interactive Video Adventure (USA).exe"
 }

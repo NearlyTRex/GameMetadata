@@ -25,7 +25,10 @@
         }
     },
     "steam": {
-        "appid": "254700"
+        "appid": "254700",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Resident Evil 4 (2005)"
     },
     "transform_file": "Resident Evil 4 (USA).exe"
 }

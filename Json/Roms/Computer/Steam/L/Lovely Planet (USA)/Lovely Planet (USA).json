@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Lovely Planet (USA).exe"
     ],
     "steam": {
-        "appid": "298600"
+        "appid": "298600",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Lovely Planet"
     },
     "transform_file": "Lovely Planet (USA).exe"
 }

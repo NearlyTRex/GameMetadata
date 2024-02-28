@@ -20,7 +20,10 @@
         "Prey/Binaries/Danielle/x64/Release/Prey.exe": "Prey/Binaries/Danielle/x64/Release"
     },
     "steam": {
-        "appid": "480490"
+        "appid": "480490",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Prey"
     },
     "transform_file": "Prey (USA).exe"
 }

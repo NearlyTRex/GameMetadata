@@ -10,7 +10,10 @@
         "$SETUP_MAIN_ROOT/Dragon's Dogma - Dark Arisen (USA).exe"
     ],
     "steam": {
-        "appid": "367500"
+        "appid": "367500",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dragon's Dogma: Dark Arisen"
     },
     "transform_file": "Dragon's Dogma - Dark Arisen (USA).exe"
 }

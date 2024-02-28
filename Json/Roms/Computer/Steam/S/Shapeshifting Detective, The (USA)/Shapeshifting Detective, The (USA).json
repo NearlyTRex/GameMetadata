@@ -24,7 +24,10 @@
         }
     },
     "steam": {
-        "appid": "898650"
+        "appid": "898650",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Shapeshifting Detective"
     },
     "transform_file": "Shapeshifting Detective, The (USA).exe"
 }

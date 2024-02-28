@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Monster Loves You! (USA).exe"
     ],
     "steam": {
-        "appid": "226740"
+        "appid": "226740",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Monster Loves You!"
     },
     "transform_file": "Monster Loves You! (USA).exe"
 }

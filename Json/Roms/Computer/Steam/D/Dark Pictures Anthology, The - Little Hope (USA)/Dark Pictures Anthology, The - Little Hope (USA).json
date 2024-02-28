@@ -34,7 +34,10 @@
         }
     },
     "steam": {
-        "appid": "1194630"
+        "appid": "1194630",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Dark Pictures Anthology: Little Hope"
     },
     "transform_file": "Dark Pictures Anthology, The - Little Hope (USA).exe"
 }

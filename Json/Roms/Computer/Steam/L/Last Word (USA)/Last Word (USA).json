@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Last Word (USA).exe"
     ],
     "steam": {
-        "appid": "355530"
+        "appid": "355530",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Last Word"
     },
     "transform_file": "Last Word (USA).exe"
 }

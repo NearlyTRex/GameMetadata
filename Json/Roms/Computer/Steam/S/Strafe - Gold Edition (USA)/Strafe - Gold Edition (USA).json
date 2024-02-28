@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Strafe - Gold Edition (USA).exe"
     ],
     "steam": {
-        "appid": "442780"
+        "appid": "442780",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "STRAFE: Gold Edition"
     },
     "transform_file": "Strafe - Gold Edition (USA).exe"
 }

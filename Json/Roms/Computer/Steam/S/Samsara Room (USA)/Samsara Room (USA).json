@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Samsara Room (USA).exe"
     ],
     "steam": {
-        "appid": "1281800"
+        "appid": "1281800",
+        "branchid": "public",
+        "name": "Samsara Room"
     },
     "transform_file": "Samsara Room (USA).exe"
 }

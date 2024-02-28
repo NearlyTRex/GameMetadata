@@ -9,7 +9,10 @@
         "$SETUP_MAIN_ROOT/Night Book (USA).exe"
     ],
     "steam": {
-        "appid": "1477920"
+        "appid": "1477920",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Night Book"
     },
     "transform_file": "Night Book (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/VVVVVV (USA).exe"
     ],
     "steam": {
-        "appid": "70300"
+        "appid": "70300",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "VVVVVV"
     },
     "transform_file": "VVVVVV (USA).exe"
 }

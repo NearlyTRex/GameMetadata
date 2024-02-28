@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Night at the Gates of Hell (USA).exe"
     ],
     "steam": {
-        "appid": "2026870"
+        "appid": "2026870",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Night At the Gates of Hell"
     },
     "transform_file": "Night at the Gates of Hell (USA).exe"
 }

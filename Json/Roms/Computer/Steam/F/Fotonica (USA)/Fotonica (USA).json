@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Fotonica (USA).exe"
     ],
     "steam": {
-        "appid": "253290"
+        "appid": "253290",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "FOTONICA"
     },
     "transform_file": "Fotonica (USA).exe"
 }

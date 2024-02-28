@@ -17,7 +17,9 @@
         "The Path/PathViewer.exe": "The Path"
     },
     "steam": {
-        "appid": "27000"
+        "appid": "27000",
+        "branchid": "public",
+        "name": "The Path"
     },
     "transform_file": "Path, The (USA).exe"
 }

@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "711810"
+        "appid": "711810",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Never Split the Party"
     },
     "transform_file": "Never Split the Party (USA).exe"
 }

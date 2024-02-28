@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Flinthook (USA).exe"
     ],
     "steam": {
-        "appid": "401710"
+        "appid": "401710",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Flinthook"
     },
     "transform_file": "Flinthook (USA).exe"
 }

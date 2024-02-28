@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Drawful 2 (USA).exe"
     ],
     "steam": {
-        "appid": "442070"
+        "appid": "442070",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Drawful 2"
     },
     "transform_file": "Drawful 2 (USA).exe"
 }

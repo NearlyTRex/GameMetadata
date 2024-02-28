@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Remnants of Isolation (USA).exe"
     ],
     "steam": {
-        "appid": "360010"
+        "appid": "360010",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Remnants of Isolation"
     },
     "transform_file": "Remnants of Isolation (USA).exe"
 }

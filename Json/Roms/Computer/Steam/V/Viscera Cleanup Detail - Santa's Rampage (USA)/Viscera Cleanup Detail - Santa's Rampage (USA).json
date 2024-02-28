@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Viscera Cleanup Detail - Santa's Rampage (USA).exe"
     ],
     "steam": {
-        "appid": "265210"
+        "appid": "265210",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Viscera Cleanup Detail: Santa's Rampage"
     },
     "transform_file": "Viscera Cleanup Detail - Santa's Rampage (USA).exe"
 }

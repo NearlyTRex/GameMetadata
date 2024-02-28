@@ -12,7 +12,10 @@
         "Regular Human Basketball/RegularHumanBasketball.exe": "Regular Human Basketball"
     },
     "steam": {
-        "appid": "661940"
+        "appid": "661940",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Regular Human Basketball"
     },
     "transform_file": "Regular Human Basketball (USA).exe"
 }

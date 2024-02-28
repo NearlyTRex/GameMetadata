@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Toki Tori 2+ (USA).exe"
     ],
     "steam": {
-        "appid": "201420"
+        "appid": "201420",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Toki Tori 2+"
     },
     "transform_file": "Toki Tori 2+ (USA).exe"
 }

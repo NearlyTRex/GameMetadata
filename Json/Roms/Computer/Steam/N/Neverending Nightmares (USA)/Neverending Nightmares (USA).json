@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "253330"
+        "appid": "253330",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Neverending Nightmares"
     },
     "transform_file": "Neverending Nightmares (USA).exe"
 }

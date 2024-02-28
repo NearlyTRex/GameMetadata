@@ -14,7 +14,10 @@
         "$SETUP_MAIN_ROOT/Deus Ex - Mankind Divided (USA).exe"
     ],
     "steam": {
-        "appid": "337000"
+        "appid": "337000",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Deus Ex: Mankind Divided\u2122"
     },
     "transform_file": "Deus Ex - Mankind Divided (USA).exe"
 }

@@ -1,5 +1,8 @@
 {
     "steam": {
-        "appid": "715560"
+        "appid": "715560",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Eastshade"
     }
 }

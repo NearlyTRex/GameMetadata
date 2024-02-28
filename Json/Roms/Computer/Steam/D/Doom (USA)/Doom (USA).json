@@ -21,7 +21,10 @@
         "$SETUP_MAIN_ROOT/Doom (USA).exe"
     ],
     "steam": {
-        "appid": "379720"
+        "appid": "379720",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "DOOM"
     },
     "transform_file": "Doom (USA).exe"
 }

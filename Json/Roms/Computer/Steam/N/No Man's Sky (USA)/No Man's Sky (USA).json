@@ -25,7 +25,10 @@
         }
     },
     "steam": {
-        "appid": "275850"
+        "appid": "275850",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "No Man's Sky"
     },
     "transform_file": "No Man's Sky (USA).exe"
 }

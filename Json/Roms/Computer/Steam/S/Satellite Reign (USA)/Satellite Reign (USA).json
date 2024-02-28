@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Satellite Reign (USA).exe"
     ],
     "steam": {
-        "appid": "268870"
+        "appid": "268870",
+        "branchid": "public",
+        "name": "Satellite Reign"
     },
     "transform_file": "Satellite Reign (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/TinyKeep (USA).exe"
     ],
     "steam": {
-        "appid": "278620"
+        "appid": "278620",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "TinyKeep"
     },
     "transform_file": "TinyKeep (USA).exe"
 }

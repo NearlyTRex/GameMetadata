@@ -9,7 +9,10 @@
         "$SETUP_MAIN_ROOT/Elder Scrolls V, The - Skyrim - VR (USA).exe"
     ],
     "steam": {
-        "appid": "611670"
+        "appid": "611670",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Elder Scrolls V: Skyrim VR"
     },
     "transform_file": "Elder Scrolls V, The - Skyrim - VR (USA).exe"
 }

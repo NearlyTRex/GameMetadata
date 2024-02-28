@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Stanley Parable, The (USA).exe"
     ],
     "steam": {
-        "appid": "221910"
+        "appid": "221910",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Stanley Parable"
     },
     "transform_file": "Stanley Parable, The (USA).exe"
 }

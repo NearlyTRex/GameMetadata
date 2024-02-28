@@ -10,7 +10,10 @@
         "$SETUP_MAIN_ROOT/LEGO Jurassic World (USA).exe"
     ],
     "steam": {
-        "appid": "352400"
+        "appid": "352400",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae Jurassic World"
     },
     "transform_file": "LEGO Jurassic World (USA).exe"
 }

@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Floating Point (USA).exe"
     ],
     "steam": {
-        "appid": "302380"
+        "appid": "302380",
+        "branchid": "public",
+        "name": "Floating Point"
     },
     "transform_file": "Floating Point (USA).exe"
 }

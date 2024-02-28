@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Heaven Will Be Mine (USA).exe"
     ],
     "steam": {
-        "appid": "836450"
+        "appid": "836450",
+        "branchid": "public",
+        "name": "Heaven Will Be Mine"
     },
     "transform_file": "Heaven Will Be Mine (USA).exe"
 }

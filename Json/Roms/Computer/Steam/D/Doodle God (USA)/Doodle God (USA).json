@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Doodle God (USA).exe"
     ],
     "steam": {
-        "appid": "348360"
+        "appid": "348360",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Doodle God"
     },
     "transform_file": "Doodle God (USA).exe"
 }

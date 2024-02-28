@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Tick Tock - A Tale for Two (USA).exe"
     ],
     "steam": {
-        "appid": "790740"
+        "appid": "790740",
+        "branchid": "public",
+        "name": "Tick Tock: A Tale for Two"
     },
     "transform_file": "Tick Tock - A Tale for Two (USA).exe"
 }

@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/MacVenture Series - Deja Vu I (USA).exe"
     ],
     "steam": {
-        "appid": "343820"
+        "appid": "343820",
+        "branchid": "public",
+        "name": "Deja Vu: MacVenture Series"
     },
     "transform_file": "MacVenture Series - Deja Vu I (USA).exe"
 }

@@ -12,7 +12,10 @@
         "Rogue Legacy/RogueLegacy.exe": "Rogue Legacy"
     },
     "steam": {
-        "appid": "241600"
+        "appid": "241600",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Rogue Legacy"
     },
     "transform_file": "Rogue Legacy (USA).exe"
 }

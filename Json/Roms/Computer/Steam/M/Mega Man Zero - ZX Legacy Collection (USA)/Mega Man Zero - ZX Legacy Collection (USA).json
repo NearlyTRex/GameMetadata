@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Mega Man Zero - ZX Legacy Collection (USA).exe"
     ],
     "steam": {
-        "appid": "999020"
+        "appid": "999020",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Mega Man Zero/ZX Legacy Collection"
     },
     "transform_file": "Mega Man Zero - ZX Legacy Collection (USA).exe"
 }

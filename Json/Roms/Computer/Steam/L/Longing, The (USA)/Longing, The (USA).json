@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Longing, The (USA).exe"
     ],
     "steam": {
-        "appid": "893850"
+        "appid": "893850",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": ":THE LONGING:"
     },
     "transform_file": "Longing, The (USA).exe"
 }

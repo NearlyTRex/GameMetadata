@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/OddPlanet (USA).exe"
     ],
     "steam": {
-        "appid": "465930"
+        "appid": "465930",
+        "branchid": "public",
+        "name": "OddPlanet"
     },
     "transform_file": "OddPlanet (USA).exe"
 }

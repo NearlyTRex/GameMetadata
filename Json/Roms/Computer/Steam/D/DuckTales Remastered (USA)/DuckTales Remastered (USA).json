@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/DuckTales Remastered (USA).exe"
     ],
     "steam": {
-        "appid": "237630"
+        "appid": "237630",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "DuckTales Remastered"
     },
     "transform_file": "DuckTales Remastered (USA).exe"
 }

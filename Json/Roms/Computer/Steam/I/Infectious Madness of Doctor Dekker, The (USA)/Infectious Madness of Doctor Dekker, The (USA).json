@@ -10,7 +10,9 @@
         "$SETUP_MAIN_ROOT/Infectious Madness of Doctor Dekker, The (USA).exe"
     ],
     "steam": {
-        "appid": "545540"
+        "appid": "545540",
+        "branchid": "public",
+        "name": "The Infectious Madness of Doctor Dekker"
     },
     "transform_file": "Infectious Madness of Doctor Dekker, The (USA).exe"
 }

@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Strata (USA).exe"
     ],
     "steam": {
-        "appid": "286380"
+        "appid": "286380",
+        "branchid": "public",
+        "name": "Strata"
     },
     "transform_file": "Strata (USA).exe"
 }

@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Hellcoming (USA).exe"
     ],
     "steam": {
-        "appid": "891360"
+        "appid": "891360",
+        "branchid": "public",
+        "name": "Hellcoming"
     },
     "transform_file": "Hellcoming (USA).exe"
 }

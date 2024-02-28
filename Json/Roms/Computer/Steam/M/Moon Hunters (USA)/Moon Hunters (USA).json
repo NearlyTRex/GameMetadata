@@ -12,7 +12,10 @@
         "Moon Hunters/moonhunters.exe": "Moon Hunters"
     },
     "steam": {
-        "appid": "320040"
+        "appid": "320040",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Moon Hunters"
     },
     "transform_file": "Moon Hunters (USA).exe"
 }

@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "278100"
+        "appid": "278100",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "RIVE"
     },
     "transform_file": "Rive (USA).exe"
 }

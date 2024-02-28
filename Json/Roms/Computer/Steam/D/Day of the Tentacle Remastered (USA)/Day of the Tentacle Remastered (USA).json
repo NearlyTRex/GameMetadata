@@ -12,7 +12,10 @@
         "Day of the Tentacle Remastered/Dott.exe": "Day of the Tentacle Remastered"
     },
     "steam": {
-        "appid": "388210"
+        "appid": "388210",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Day of the Tentacle Remastered"
     },
     "sync": {
         "data": [

@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "214770"
+        "appid": "214770",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Guacamelee! Gold Edition"
     },
     "transform_file": "Guacamelee! Gold Edition (USA).exe"
 }

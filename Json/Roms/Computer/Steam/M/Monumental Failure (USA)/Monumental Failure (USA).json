@@ -12,7 +12,10 @@
         "Monumental Failure/MonumentalFailureWin32.exe": "Monumental Failure"
     },
     "steam": {
-        "appid": "573300"
+        "appid": "573300",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Monumental Failure"
     },
     "sync": {
         "data": [

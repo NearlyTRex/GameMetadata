@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Paper Sorcerer (USA).exe"
     ],
     "steam": {
-        "appid": "263560"
+        "appid": "263560",
+        "branchid": "public",
+        "name": "Paper Sorcerer"
     },
     "transform_file": "Paper Sorcerer (USA).exe"
 }

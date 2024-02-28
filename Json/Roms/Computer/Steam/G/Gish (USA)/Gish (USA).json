@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Gish (USA).exe"
     ],
     "steam": {
-        "appid": "9500"
+        "appid": "9500",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Gish"
     },
     "transform_file": "Gish (USA).exe"
 }

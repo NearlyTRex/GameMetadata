@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Viscera Cleanup Detail (USA).exe"
     ],
     "steam": {
-        "appid": "246900"
+        "appid": "246900",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Viscera Cleanup Detail"
     },
     "transform_file": "Viscera Cleanup Detail (USA).exe"
 }

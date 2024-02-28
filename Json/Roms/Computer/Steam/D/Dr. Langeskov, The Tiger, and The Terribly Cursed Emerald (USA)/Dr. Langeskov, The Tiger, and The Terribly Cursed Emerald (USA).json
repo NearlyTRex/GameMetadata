@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA).exe"
     ],
     "steam": {
-        "appid": "409160"
+        "appid": "409160",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist"
     },
     "transform_file": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA).exe"
 }

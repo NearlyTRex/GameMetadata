@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Dragon View (USA).exe"
     ],
     "steam": {
-        "appid": "784010"
+        "appid": "784010",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Dragonview"
     },
     "transform_file": "Dragon View (USA).exe"
 }

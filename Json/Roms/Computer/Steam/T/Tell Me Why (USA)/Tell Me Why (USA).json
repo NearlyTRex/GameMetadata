@@ -11,7 +11,10 @@
         "$SETUP_MAIN_ROOT/Tell Me Why (USA).exe"
     ],
     "steam": {
-        "appid": "1180660"
+        "appid": "1180660",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Tell Me Why"
     },
     "transform_file": "Tell Me Why (USA).exe"
 }

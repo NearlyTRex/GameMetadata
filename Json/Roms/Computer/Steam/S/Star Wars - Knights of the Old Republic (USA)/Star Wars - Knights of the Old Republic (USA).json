@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Star Wars - Knights of the Old Republic (USA).exe"
     ],
     "steam": {
-        "appid": "32370"
+        "appid": "32370",
+        "branchid": "public",
+        "name": "STAR WARS\u2122 Knights of the Old Republic\u2122"
     },
     "transform_file": "Star Wars - Knights of the Old Republic (USA).exe"
 }

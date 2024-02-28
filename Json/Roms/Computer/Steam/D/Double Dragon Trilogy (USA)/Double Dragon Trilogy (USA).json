@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Double Dragon Trilogy (USA).exe"
     ],
     "steam": {
-        "appid": "314150"
+        "appid": "314150",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Double Dragon Trilogy"
     },
     "transform_file": "Double Dragon Trilogy (USA).exe"
 }

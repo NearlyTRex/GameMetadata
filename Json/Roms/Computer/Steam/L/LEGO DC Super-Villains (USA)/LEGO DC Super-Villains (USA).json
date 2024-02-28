@@ -11,7 +11,10 @@
         "$SETUP_MAIN_ROOT/LEGO DC Super-Villains (USA).exe"
     ],
     "steam": {
-        "appid": "829110"
+        "appid": "829110",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "LEGO\u00ae DC Super-Villains"
     },
     "transform_file": "LEGO DC Super-Villains (USA).exe"
 }

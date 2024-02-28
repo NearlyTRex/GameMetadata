@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Death Road to Canada (USA).exe"
     ],
     "steam": {
-        "appid": "252610"
+        "appid": "252610",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Death Road to Canada"
     },
     "transform_file": "Death Road to Canada (USA).exe"
 }

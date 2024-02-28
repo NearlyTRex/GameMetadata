@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Hand of Fate (USA).exe"
     ],
     "steam": {
-        "appid": "266510"
+        "appid": "266510",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Hand of Fate"
     },
     "transform_file": "Hand of Fate (USA).exe"
 }

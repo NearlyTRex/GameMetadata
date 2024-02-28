@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/TumbleSeed (USA).exe"
     ],
     "steam": {
-        "appid": "457890"
+        "appid": "457890",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "TumbleSeed"
     },
     "transform_file": "TumbleSeed (USA).exe"
 }

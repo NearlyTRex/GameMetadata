@@ -12,7 +12,10 @@
         "Left 4 Dead/left4dead.exe": "Left 4 Dead"
     },
     "steam": {
-        "appid": "500"
+        "appid": "500",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Left 4 Dead"
     },
     "transform_file": "Left 4 Dead (USA).exe"
 }

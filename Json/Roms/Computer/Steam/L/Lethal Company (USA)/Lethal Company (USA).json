@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "1966720"
+        "appid": "1966720",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Lethal Company"
     },
     "transform_file": "Lethal Company (USA).exe"
 }

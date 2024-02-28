@@ -33,7 +33,10 @@
         }
     },
     "steam": {
-        "appid": "939850"
+        "appid": "939850",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Dark Pictures Anthology: Man of Medan"
     },
     "transform_file": "Dark Pictures Anthology, The - Man of Medan (USA).exe"
 }

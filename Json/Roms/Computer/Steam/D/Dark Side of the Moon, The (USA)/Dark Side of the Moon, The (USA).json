@@ -9,7 +9,9 @@
         "$SETUP_MAIN_ROOT/Dark Side of the Moon, The (USA).exe"
     ],
     "steam": {
-        "appid": "1525770"
+        "appid": "1525770",
+        "branchid": "public",
+        "name": "The Dark Side of the Moon"
     },
     "transform_file": "Dark Side of the Moon, The (USA).exe"
 }

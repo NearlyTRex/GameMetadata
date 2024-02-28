@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Legend (USA).exe"
     ],
     "steam": {
-        "appid": "412380"
+        "appid": "412380",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Legend"
     },
     "transform_file": "Legend (USA).exe"
 }

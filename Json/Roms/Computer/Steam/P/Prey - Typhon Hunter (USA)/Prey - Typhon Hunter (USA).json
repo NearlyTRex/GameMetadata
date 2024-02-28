@@ -1,5 +1,8 @@
 {
     "steam": {
-        "appid": "741820"
+        "appid": "741820",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Prey: Typhon Hunter"
     }
 }

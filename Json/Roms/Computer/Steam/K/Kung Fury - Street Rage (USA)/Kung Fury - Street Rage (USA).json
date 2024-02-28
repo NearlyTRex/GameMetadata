@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Kung Fury - Street Rage (USA).exe"
     ],
     "steam": {
-        "appid": "373180"
+        "appid": "373180",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Kung Fury: Street Rage - Ultimate Edition"
     },
     "transform_file": "Kung Fury - Street Rage (USA).exe"
 }

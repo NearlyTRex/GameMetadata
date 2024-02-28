@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Star Wars - Jedi Knight II - Jedi Outcast (USA).exe"
     ],
     "steam": {
-        "appid": "6030"
+        "appid": "6030",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "STAR WARS\u2122 Jedi Knight II: Jedi Outcast\u2122"
     },
     "transform_file": "Star Wars - Jedi Knight II - Jedi Outcast (USA).exe"
 }

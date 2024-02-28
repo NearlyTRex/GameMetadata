@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "431240"
+        "appid": "431240",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Golf With Your Friends"
     },
     "transform_file": "Golf With Your Friends (USA).exe"
 }

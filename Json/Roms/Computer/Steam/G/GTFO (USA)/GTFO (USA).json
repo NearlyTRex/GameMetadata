@@ -1,5 +1,8 @@
 {
     "steam": {
-        "appid": "493520"
+        "appid": "493520",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "GTFO"
     }
 }

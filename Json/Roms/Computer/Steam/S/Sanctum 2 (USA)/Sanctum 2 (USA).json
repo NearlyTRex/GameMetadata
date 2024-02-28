@@ -12,7 +12,10 @@
         "Sanctum 2/Binaries/Win32/SanctumGame-Win32-Shipping.exe": "Sanctum 2/Binaries/Win32"
     },
     "steam": {
-        "appid": "210770"
+        "appid": "210770",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Sanctum 2"
     },
     "transform_file": "Sanctum 2 (USA).exe"
 }

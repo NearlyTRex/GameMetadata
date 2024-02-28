@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).exe"
     ],
     "steam": {
-        "appid": "208580"
+        "appid": "208580",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "STAR WARS\u2122 Knights of the Old Republic\u2122 II: The Sith Lords\u2122"
     },
     "transform_file": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA).exe"
 }

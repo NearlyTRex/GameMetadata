@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Ghost of You, The (USA).exe"
     ],
     "steam": {
-        "appid": "990180"
+        "appid": "990180",
+        "branchid": "public",
+        "name": "The Ghost of You"
     },
     "transform_file": "Ghost of You, The (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Tacoma (USA).exe"
     ],
     "steam": {
-        "appid": "343860"
+        "appid": "343860",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Tacoma"
     },
     "transform_file": "Tacoma (USA).exe"
 }

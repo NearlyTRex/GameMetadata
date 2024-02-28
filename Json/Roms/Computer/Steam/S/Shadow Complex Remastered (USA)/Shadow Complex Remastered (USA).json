@@ -12,7 +12,10 @@
         "Shadow Complex Remastered/Binaries/Win32/ShadowComplexRemastered.exe": "Shadow Complex Remastered/Binaries/Win32"
     },
     "steam": {
-        "appid": "385560"
+        "appid": "385560",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Shadow Complex Remastered"
     },
     "transform_file": "Shadow Complex Remastered (USA).exe"
 }

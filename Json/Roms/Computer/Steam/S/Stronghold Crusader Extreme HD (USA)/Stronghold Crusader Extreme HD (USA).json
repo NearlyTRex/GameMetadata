@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Stronghold Crusader Extreme HD (USA).exe"
     ],
     "steam": {
-        "appid": "16700"
+        "appid": "16700",
+        "branchid": "public",
+        "name": "Stronghold Crusader Extreme HD"
     },
     "transform_file": "Stronghold Crusader Extreme HD (USA).exe"
 }

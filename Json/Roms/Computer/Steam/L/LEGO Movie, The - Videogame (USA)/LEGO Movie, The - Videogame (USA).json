@@ -8,7 +8,10 @@
         "$SETUP_MAIN_ROOT/LEGO Movie, The - Videogame (USA).exe"
     ],
     "steam": {
-        "appid": "267530"
+        "appid": "267530",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The LEGO\u00ae Movie - Videogame"
     },
     "transform_file": "LEGO Movie, The - Videogame (USA).exe"
 }

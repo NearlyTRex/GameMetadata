@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/She Sees Red (USA).exe"
     ],
     "steam": {
-        "appid": "1081510"
+        "appid": "1081510",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "She Sees Red"
     },
     "transform_file": "She Sees Red (USA).exe"
 }

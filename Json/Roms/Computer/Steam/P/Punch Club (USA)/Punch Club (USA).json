@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Punch Club (USA).exe"
     ],
     "steam": {
-        "appid": "394310"
+        "appid": "394310",
+        "branchid": "public",
+        "name": "Punch Club"
     },
     "transform_file": "Punch Club (USA).exe"
 }

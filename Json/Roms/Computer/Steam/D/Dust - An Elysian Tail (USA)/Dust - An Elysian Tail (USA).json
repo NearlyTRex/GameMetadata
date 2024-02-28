@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Dust - An Elysian Tail (USA).exe"
     ],
     "steam": {
-        "appid": "236090"
+        "appid": "236090",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Dust: An Elysian Tail"
     },
     "transform_file": "Dust - An Elysian Tail (USA).exe"
 }

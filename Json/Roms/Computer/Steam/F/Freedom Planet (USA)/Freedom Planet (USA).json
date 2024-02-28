@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "248310"
+        "appid": "248310",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Freedom Planet"
     },
     "sync": {
         "data": [

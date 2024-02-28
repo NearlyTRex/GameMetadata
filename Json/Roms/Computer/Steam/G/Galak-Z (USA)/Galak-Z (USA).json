@@ -12,7 +12,10 @@
         "Galak-Z/Galak-Z.exe": "Galak-Z"
     },
     "steam": {
-        "appid": "300580"
+        "appid": "300580",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "GALAK-Z"
     },
     "sync": {
         "data": [

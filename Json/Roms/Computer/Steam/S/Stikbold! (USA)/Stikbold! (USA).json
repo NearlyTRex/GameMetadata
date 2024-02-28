@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Stikbold! (USA).exe"
     ],
     "steam": {
-        "appid": "429330"
+        "appid": "429330",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Stikbold!"
     },
     "transform_file": "Stikbold! (USA).exe"
 }

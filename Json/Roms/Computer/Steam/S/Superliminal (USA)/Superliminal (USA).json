@@ -12,7 +12,10 @@
         "Superliminal/SuperliminalSteam.exe": "Superliminal"
     },
     "steam": {
-        "appid": "1049410"
+        "appid": "1049410",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Superliminal"
     },
     "transform_file": "Superliminal (USA).exe"
 }

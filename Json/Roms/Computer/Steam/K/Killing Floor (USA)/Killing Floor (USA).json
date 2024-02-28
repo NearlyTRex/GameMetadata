@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Killing Floor (USA).exe"
     ],
     "steam": {
-        "appid": "1250"
+        "appid": "1250",
+        "branchid": "public",
+        "name": "Killing Floor"
     },
     "transform_file": "Killing Floor (USA).exe"
 }
