@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Cthulhu Saves Christmas (USA).exe"
     ],
     "steam": {
-        "appid": "1057540"
+        "appid": "1057540",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Cthulhu Saves Christmas"
     },
     "transform_file": "Cthulhu Saves Christmas (USA).exe"
 }

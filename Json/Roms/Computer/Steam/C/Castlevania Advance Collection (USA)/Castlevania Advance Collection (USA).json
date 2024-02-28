@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "1552550"
+        "appid": "1552550",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Castlevania Advance Collection"
     },
     "transform_file": "Castlevania Advance Collection (USA).exe"
 }

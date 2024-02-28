@@ -12,7 +12,10 @@
         "Crimsonland/Crimsonland.exe": "Crimsonland"
     },
     "steam": {
-        "appid": "262830"
+        "appid": "262830",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Crimsonland"
     },
     "transform_file": "Crimsonland (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Blood Spear (USA).exe"
     ],
     "steam": {
-        "appid": "1638660"
+        "appid": "1638660",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Blood Spear"
     },
     "transform_file": "Blood Spear (USA).exe"
 }

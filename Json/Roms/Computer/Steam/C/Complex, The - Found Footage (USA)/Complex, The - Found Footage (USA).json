@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Complex, The - Found Footage (USA).exe"
     ],
     "steam": {
-        "appid": "1942120"
+        "appid": "1942120",
+        "branchid": "public",
+        "name": "The Complex: Found Footage"
     },
     "transform_file": "Complex, The - Found Footage (USA).exe"
 }

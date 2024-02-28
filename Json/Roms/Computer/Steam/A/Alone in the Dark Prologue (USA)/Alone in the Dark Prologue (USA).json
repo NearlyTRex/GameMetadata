@@ -14,7 +14,10 @@
         "Alone in the Dark Prologue/AitDPrologue.exe": "Alone in the Dark Prologue"
     },
     "steam": {
-        "appid": "1938800"
+        "appid": "1938800",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Alone in the Dark Prologue"
     },
     "transform_file": "Alone in the Dark Prologue (USA).exe"
 }

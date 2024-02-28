@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "204360"
+        "appid": "204360",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Castle Crashers"
     },
     "transform_file": "Castle Crashers (USA).exe"
 }

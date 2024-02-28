@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Crowntakers (USA).exe"
     ],
     "steam": {
-        "appid": "294370"
+        "appid": "294370",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Crowntakers"
     },
     "transform_file": "Crowntakers (USA).exe"
 }

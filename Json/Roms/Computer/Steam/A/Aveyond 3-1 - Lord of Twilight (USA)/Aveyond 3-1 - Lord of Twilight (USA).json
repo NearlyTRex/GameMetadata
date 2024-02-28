@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Aveyond 3-1 - Lord of Twilight (USA).exe"
     ],
     "steam": {
-        "appid": "272010"
+        "appid": "272010",
+        "branchid": "public",
+        "name": "Aveyond 3-1: Lord of Twilight"
     },
     "transform_file": "Aveyond 3-1 - Lord of Twilight (USA).exe"
 }

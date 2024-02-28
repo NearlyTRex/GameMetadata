@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "1018010"
+        "appid": "1018010",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Castlevania Anniversary Collection"
     },
     "transform_file": "Castlevania Anniversary Collection (USA).exe"
 }

@@ -15,7 +15,10 @@
         "Borderlands - The Pre-Sequel/Binaries/Win32/BorderlandsPreSequel.exe": "Borderlands - The Pre-Sequel/Binaries/Win32"
     },
     "steam": {
-        "appid": "261640"
+        "appid": "261640",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Borderlands: The Pre-Sequel"
     },
     "transform_file": "Borderlands - The Pre-Sequel (USA).exe"
 }

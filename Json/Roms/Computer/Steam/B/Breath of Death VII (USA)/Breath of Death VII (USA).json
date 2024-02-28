@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Breath of Death VII (USA).exe"
     ],
     "steam": {
-        "appid": "107300"
+        "appid": "107300",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Breath of Death VII "
     },
     "transform_file": "Breath of Death VII (USA).exe"
 }

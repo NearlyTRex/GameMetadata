@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Cayne (USA).exe"
     ],
     "steam": {
-        "appid": "532840"
+        "appid": "532840",
+        "branchid": "public",
+        "name": "CAYNE"
     },
     "transform_file": "Cayne (USA).exe"
 }

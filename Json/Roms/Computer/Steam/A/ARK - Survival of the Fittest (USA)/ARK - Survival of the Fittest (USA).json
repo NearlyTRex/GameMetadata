@@ -9,7 +9,10 @@
         "$SETUP_MAIN_ROOT/ARK - Survival of the Fittest (USA).exe"
     ],
     "steam": {
-        "appid": "407530"
+        "appid": "407530",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "ARK: Survival Of The Fittest"
     },
     "transform_file": "ARK - Survival of the Fittest (USA).exe"
 }

@@ -16,7 +16,10 @@
         "$SETUP_MAIN_ROOT/ARK - Survival Evolved (USA).exe"
     ],
     "steam": {
-        "appid": "346110"
+        "appid": "346110",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "ARK: Survival Evolved"
     },
     "transform_file": "ARK - Survival Evolved (USA).exe"
 }

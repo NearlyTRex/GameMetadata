@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Another Lost Phone - Laura's Story (USA).exe"
     ],
     "steam": {
-        "appid": "689910"
+        "appid": "689910",
+        "branchid": "public",
+        "name": "Another Lost Phone: Laura's Story"
     },
     "transform_file": "Another Lost Phone - Laura's Story (USA).exe"
 }

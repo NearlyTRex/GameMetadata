@@ -12,7 +12,10 @@
         "Apotheon/Apotheon.exe": "Apotheon"
     },
     "steam": {
-        "appid": "208750"
+        "appid": "208750",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Apotheon"
     },
     "transform_file": "Apotheon (USA).exe"
 }

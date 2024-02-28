@@ -16,7 +16,10 @@
         "Borderlands/Binaries/Win64/BorderlandsGOTY.exe": "Borderlands/Binaries/Win64"
     },
     "steam": {
-        "appid": "8980"
+        "appid": "8980",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Borderlands GOTY"
     },
     "transform_file": "Borderlands (USA).exe"
 }

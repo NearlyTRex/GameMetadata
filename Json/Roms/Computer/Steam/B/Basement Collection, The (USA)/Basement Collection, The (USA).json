@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Basement Collection, The (USA).exe"
     ],
     "steam": {
-        "appid": "214790"
+        "appid": "214790",
+        "branchid": "public",
+        "name": "The Basement Collection"
     },
     "transform_file": "Basement Collection, The (USA).exe"
 }

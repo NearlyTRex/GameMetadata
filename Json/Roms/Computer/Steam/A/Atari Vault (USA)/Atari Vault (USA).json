@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Atari Vault (USA).exe"
     ],
     "steam": {
-        "appid": "400020"
+        "appid": "400020",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Atari Vault"
     },
     "transform_file": "Atari Vault (USA).exe"
 }

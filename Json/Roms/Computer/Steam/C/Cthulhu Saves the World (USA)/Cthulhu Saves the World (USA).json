@@ -23,7 +23,10 @@
         }
     },
     "steam": {
-        "appid": "107310"
+        "appid": "107310",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Cthulhu Saves the World "
     },
     "transform_file": "Cthulhu Saves the World (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Beatbuddy - Tale of the Guardians (USA).exe"
     ],
     "steam": {
-        "appid": "231040"
+        "appid": "231040",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Beatbuddy: Tale of the Guardians"
     },
     "transform_file": "Beatbuddy - Tale of the Guardians (USA).exe"
 }

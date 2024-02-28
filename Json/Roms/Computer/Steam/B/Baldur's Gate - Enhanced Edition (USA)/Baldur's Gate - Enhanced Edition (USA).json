@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Baldur's Gate - Enhanced Edition (USA).exe"
     ],
     "steam": {
-        "appid": "228280"
+        "appid": "228280",
+        "branchid": "public",
+        "name": "Baldur's Gate: Enhanced Edition"
     },
     "transform_file": "Baldur's Gate - Enhanced Edition (USA).exe"
 }

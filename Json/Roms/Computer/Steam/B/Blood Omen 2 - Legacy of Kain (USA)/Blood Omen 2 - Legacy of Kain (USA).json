@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/Blood Omen 2 - Legacy of Kain (USA).exe"
     ],
     "steam": {
-        "appid": "242960"
+        "appid": "242960",
+        "branchid": "public",
+        "name": "Blood Omen 2: Legacy of Kain"
     },
     "transform_file": "Blood Omen 2 - Legacy of Kain (USA).exe"
 }

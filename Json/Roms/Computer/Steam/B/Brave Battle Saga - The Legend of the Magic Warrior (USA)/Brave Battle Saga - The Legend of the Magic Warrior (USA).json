@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Brave Battle Saga - The Legend of the Magic Warrior (USA).exe"
     ],
     "steam": {
-        "appid": "1028520"
+        "appid": "1028520",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Brave Battle Saga - The Legend of The Magic Warrior"
     },
     "transform_file": "Brave Battle Saga - The Legend of the Magic Warrior (USA).exe"
 }

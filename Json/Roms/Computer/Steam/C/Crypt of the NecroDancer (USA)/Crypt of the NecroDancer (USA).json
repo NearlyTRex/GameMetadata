@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "247080"
+        "appid": "247080",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Crypt of the NecroDancer"
     },
     "transform_file": "Crypt of the NecroDancer (USA).exe"
 }

@@ -12,7 +12,10 @@
         "Crawl/Crawl.exe": "Crawl"
     },
     "steam": {
-        "appid": "293780"
+        "appid": "293780",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Crawl"
     },
     "transform_file": "Crawl (USA).exe"
 }

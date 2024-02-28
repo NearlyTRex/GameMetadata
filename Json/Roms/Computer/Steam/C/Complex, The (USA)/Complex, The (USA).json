@@ -25,7 +25,10 @@
         }
     },
     "steam": {
-        "appid": "1107790"
+        "appid": "1107790",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Complex"
     },
     "transform_file": "Complex, The (USA).exe"
 }

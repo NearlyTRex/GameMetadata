@@ -15,7 +15,10 @@
         "Borderlands 2/Binaries/Win32/Borderlands2.exe": "Borderlands 2/Binaries/Win32"
     },
     "steam": {
-        "appid": "49520"
+        "appid": "49520",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Borderlands 2"
     },
     "transform_file": "Borderlands 2 (USA).exe"
 }

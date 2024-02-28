@@ -6,7 +6,9 @@
         "$SETUP_MAIN_ROOT/ColecoVision Flashback (USA).exe"
     ],
     "steam": {
-        "appid": "529860"
+        "appid": "529860",
+        "branchid": "public",
+        "name": "ColecoVision Flashback"
     },
     "transform_file": "ColecoVision Flashback (USA).exe"
 }

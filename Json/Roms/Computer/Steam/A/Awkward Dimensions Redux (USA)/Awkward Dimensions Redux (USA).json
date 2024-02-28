@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Awkward Dimensions Redux (USA).exe"
     ],
     "steam": {
-        "appid": "529110"
+        "appid": "529110",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Awkward Dimensions Redux"
     },
     "transform_file": "Awkward Dimensions Redux (USA).exe"
 }

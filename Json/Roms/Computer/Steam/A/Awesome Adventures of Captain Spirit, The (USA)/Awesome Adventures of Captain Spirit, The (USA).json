@@ -22,7 +22,10 @@
         }
     },
     "steam": {
-        "appid": "845070"
+        "appid": "845070",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "The Awesome Adventures of Captain Spirit"
     },
     "transform_file": "Awesome Adventures of Captain Spirit, The (USA).exe"
 }

@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Chex Quest HD (USA).exe"
     ],
     "steam": {
-        "appid": "804270"
+        "appid": "804270",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "Chex Quest HD"
     },
     "transform_file": "Chex Quest HD (USA).exe"
 }

@@ -12,7 +12,10 @@
         "Armello/armello.exe": "Armello"
     },
     "steam": {
-        "appid": "290340"
+        "appid": "290340",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Armello"
     },
     "transform_file": "Armello (USA).exe"
 }

@@ -12,7 +12,10 @@
         "AxiomVerge.exe": "."
     },
     "steam": {
-        "appid": "332200"
+        "appid": "332200",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Axiom Verge"
     },
     "transform_file": "Axiom Verge (USA).exe"
 }

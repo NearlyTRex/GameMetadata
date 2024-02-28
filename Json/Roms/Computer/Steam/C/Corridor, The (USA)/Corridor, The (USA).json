@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Corridor, The (USA).exe"
     ],
     "steam": {
-        "appid": "1347030"
+        "appid": "1347030",
+        "branchid": "public",
+        "controller_support": "partial",
+        "name": "THE CORRIDOR"
     },
     "transform_file": "Corridor, The (USA).exe"
 }

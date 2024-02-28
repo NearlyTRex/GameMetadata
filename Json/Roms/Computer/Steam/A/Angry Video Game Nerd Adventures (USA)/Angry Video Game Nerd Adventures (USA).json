@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Angry Video Game Nerd Adventures (USA).exe"
     ],
     "steam": {
-        "appid": "237740"
+        "appid": "237740",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Angry Video Game Nerd Adventures"
     },
     "transform_file": "Angry Video Game Nerd Adventures (USA).exe"
 }

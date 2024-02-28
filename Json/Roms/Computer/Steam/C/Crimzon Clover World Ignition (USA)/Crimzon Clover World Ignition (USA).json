@@ -12,7 +12,10 @@
         "Crimzon Clover World Ignition/CrimzonClover_WI.exe": "Crimzon Clover World Ignition"
     },
     "steam": {
-        "appid": "285440"
+        "appid": "285440",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Crimzon Clover  WORLD IGNITION"
     },
     "sync": {
         "data": [

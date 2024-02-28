@@ -12,7 +12,10 @@
         "Assault Android Cactus/cactus.exe": "Assault Android Cactus"
     },
     "steam": {
-        "appid": "250110"
+        "appid": "250110",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Assault Android Cactus"
     },
     "transform_file": "Assault Android Cactus (USA).exe"
 }

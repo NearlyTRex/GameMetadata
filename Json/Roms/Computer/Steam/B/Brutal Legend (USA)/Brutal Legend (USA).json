@@ -14,7 +14,10 @@
         "Brutal Legend/BrutalLegend.exe": "Brutal Legend"
     },
     "steam": {
-        "appid": "225260"
+        "appid": "225260",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Br\u00fctal Legend"
     },
     "transform_file": "Brutal Legend (USA).exe"
 }

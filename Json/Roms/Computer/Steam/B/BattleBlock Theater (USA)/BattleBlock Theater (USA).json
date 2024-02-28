@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/BattleBlock Theater (USA).exe"
     ],
     "steam": {
-        "appid": "238460"
+        "appid": "238460",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "BattleBlock Theater"
     },
     "transform_file": "BattleBlock Theater (USA).exe"
 }

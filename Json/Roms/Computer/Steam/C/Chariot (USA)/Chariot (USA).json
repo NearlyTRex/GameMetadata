@@ -6,7 +6,10 @@
         "$SETUP_MAIN_ROOT/Chariot (USA).exe"
     ],
     "steam": {
-        "appid": "319450"
+        "appid": "319450",
+        "branchid": "public",
+        "controller_support": "full",
+        "name": "Chariot"
     },
     "transform_file": "Chariot (USA).exe"
 }
