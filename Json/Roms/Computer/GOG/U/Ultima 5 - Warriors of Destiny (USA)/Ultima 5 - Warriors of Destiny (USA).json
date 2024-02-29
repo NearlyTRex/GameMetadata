@@ -18,6 +18,12 @@
         "extra/ultimat_456_spellbooks.zip",
         "setup_ultima_v_-_warriors_of_destiny_1.0_cs_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207662443",
+        "appname": "ultima_v",
+        "buildid": "1.0 CS",
+        "name": "Ultima V\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_v_-_warriors_of_destiny_1.0_cs_(28045).exe"
     ],

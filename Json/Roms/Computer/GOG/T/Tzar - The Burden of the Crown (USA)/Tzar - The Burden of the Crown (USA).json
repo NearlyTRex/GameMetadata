@@ -18,6 +18,12 @@
         "extra/tzar_botc_wallpaper.zip",
         "setup_tzar_1.01_(10554).exe"
     ],
+    "gog": {
+        "appid": "1207659252",
+        "appname": "tzar_the_burden_of_the_crown",
+        "buildid": "1.10",
+        "name": "Tzar: The Burden of the Crown"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_tzar_1.01_(10554).exe"
     ],

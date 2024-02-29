@@ -18,6 +18,12 @@
         "extra/uu_avatars.zip",
         "setup_ultima_underworld_1.0_cs_(28190).exe"
     ],
+    "gog": {
+        "appid": "1207662463",
+        "appname": "ultima_underworld_1",
+        "buildid": "1.0 CS",
+        "name": "Ultima\u2122  Underworld I"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_underworld_1.0_cs_(28190).exe"
     ],

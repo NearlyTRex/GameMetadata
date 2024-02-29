@@ -28,6 +28,12 @@
         "extra/ultimat_456_spellbooks.zip",
         "setup_ultima_iv_-_quest_of_the_avatar_1.0_cs_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207658962",
+        "appname": "ultima_4",
+        "buildid": "1.0 CS",
+        "name": "Ultima\u2122 4: Quest of the Avatar"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_iv_-_quest_of_the_avatar_1.0_cs_(28045).exe"
     ],

@@ -12,6 +12,12 @@
         "extra/Ultima_3_spellbooks.zip",
         "setup_ultima_ii_-_the_revenge_of_the_enchantress_1.0_cs_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207662603",
+        "appname": "ultima_2",
+        "buildid": "1.0 CS",
+        "name": "Ultima II\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_ii_-_the_revenge_of_the_enchantress_1.0_cs_(28045).exe"
     ],

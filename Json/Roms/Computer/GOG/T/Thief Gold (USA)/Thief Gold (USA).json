@@ -14,6 +14,12 @@
         "extra/thief_wallpaper.zip",
         "setup_thief_gold_1.26_nd_(21948).exe"
     ],
+    "gog": {
+        "appid": "1207658997",
+        "appname": "thief_gold",
+        "buildid": "1.26 ND",
+        "name": "Thief\u2122 Gold"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_thief_gold_1.26_nd_(21948).exe"
     ],

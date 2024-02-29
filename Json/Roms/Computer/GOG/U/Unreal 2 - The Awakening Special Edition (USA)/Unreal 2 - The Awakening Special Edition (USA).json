@@ -10,6 +10,12 @@
         "extra/unreal_avatars.zip",
         "setup_unreal_2_-_the_awakening_special_edition_v2001_(19575).exe"
     ],
+    "gog": {
+        "appid": "1207658677",
+        "appname": "unreal_2_the_awakening_se",
+        "buildid": "v2001",
+        "name": "Unreal 2: The Awakening Special Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_unreal_2_-_the_awakening_special_edition_v2001_(19575).exe"
     ],

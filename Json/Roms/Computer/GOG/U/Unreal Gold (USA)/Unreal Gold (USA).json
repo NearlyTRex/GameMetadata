@@ -8,6 +8,12 @@
         "extra/unreal_manual.zip",
         "setup_unreal_gold_2.0.0.6.exe"
     ],
+    "gog": {
+        "appid": "1207658679",
+        "appname": "unreal_gold",
+        "buildid": "2.0.0.6",
+        "name": "Unreal Gold"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_unreal_gold_2.0.0.6.exe"
     ],

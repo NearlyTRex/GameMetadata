@@ -16,6 +16,12 @@
         "extra/ultima_4_cassette.zip",
         "setup_ultima_vi_-_the_false_prophet_1.0_cs_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207662453",
+        "appname": "ultima_vi",
+        "buildid": "1.0 CS",
+        "name": "Ultima VI\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_vi_-_the_false_prophet_1.0_cs_(28045).exe"
     ],

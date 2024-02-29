@@ -8,6 +8,12 @@
         "extra/torchlight_ii_ost_mp3.zip",
         "setup_torchlight_2_1.25.9.5b_(23102).exe"
     ],
+    "gog": {
+        "appid": "1958228073",
+        "appname": "torchlight_ii",
+        "buildid": "1.25.9.5b",
+        "name": "Torchlight II"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_torchlight_2_1.25.9.5b_(23102).exe"
     ],

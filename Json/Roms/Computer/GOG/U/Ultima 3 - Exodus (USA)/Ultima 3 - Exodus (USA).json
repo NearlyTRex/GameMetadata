@@ -12,6 +12,12 @@
         "extra/Ultima_3_spellbooks.zip",
         "setup_ultima_iii_-_exodus_1.0_cs_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207662613",
+        "appname": "ultima_3",
+        "buildid": "1.0 CS",
+        "name": "Ultima III\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_iii_-_exodus_1.0_cs_(28045).exe"
     ],

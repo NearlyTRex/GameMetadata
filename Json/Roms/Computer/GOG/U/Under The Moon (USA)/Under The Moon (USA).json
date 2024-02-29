@@ -2,6 +2,12 @@
     "files": [
         "setup_under_the_moon_1.4_(61762).exe"
     ],
+    "gog": {
+        "appid": "1386468605",
+        "appname": "under_the_moon",
+        "buildid": "1.4",
+        "name": "Under The Moon"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_under_the_moon_1.4_(61762).exe"
     ],

@@ -6,6 +6,12 @@
         "extra/tyrian2000_ost.zip",
         "setup_tyrian_2000_3.0_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207658901",
+        "appname": "tyrian_2000",
+        "buildid": "3.0",
+        "name": "Tyrian 2000"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_tyrian_2000_3.0_(28045).exe"
     ],

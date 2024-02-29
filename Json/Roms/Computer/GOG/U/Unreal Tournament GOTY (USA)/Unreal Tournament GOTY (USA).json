@@ -10,6 +10,12 @@
         "extra/ut_manual.zip",
         "setup_ut_goty_2.0.0.5.exe"
     ],
+    "gog": {
+        "appid": "1207658692",
+        "appname": "unreal_tournament_goty",
+        "buildid": "2.0.0.5",
+        "name": "Unreal Tournament GOTY"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ut_goty_2.0.0.5.exe"
     ],

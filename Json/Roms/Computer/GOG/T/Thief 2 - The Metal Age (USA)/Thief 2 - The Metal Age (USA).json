@@ -14,6 +14,12 @@
         "extra/thief_2_soundtrack.zip",
         "setup_thief_2_-_the_metal_age_1.26_nd_(21946).exe"
     ],
+    "gog": {
+        "appid": "1207659001",
+        "appname": "thief_2_the_metal_age",
+        "buildid": "1.26 ND",
+        "name": "Thief\u2122 2: The Metal Age"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_thief_2_-_the_metal_age_1.26_nd_(21946).exe"
     ],

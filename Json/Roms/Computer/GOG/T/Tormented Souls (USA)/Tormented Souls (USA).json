@@ -4,6 +4,12 @@
         "setup_tormented_souls_1.10_(57757)-2.bin",
         "setup_tormented_souls_1.10_(57757).exe"
     ],
+    "gog": {
+        "appid": "1243021945",
+        "appname": "tormented_souls",
+        "buildid": "1.10",
+        "name": "Tormented Souls"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_tormented_souls_1.10_(57757).exe"
     ],

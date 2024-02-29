@@ -12,6 +12,12 @@
         "extra/total_annihilation_kingdoms_soundtrack.zip",
         "setup_total_annihilation_kingdoms_2.0.0.22.exe"
     ],
+    "gog": {
+        "appid": "1207658912",
+        "appname": "total_annihilation_kingdoms",
+        "buildid": "2.0.0.22",
+        "name": "Total Annihilation: Kingdoms + Iron Plague"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_total_annihilation_kingdoms_2.0.0.22.exe"
     ],

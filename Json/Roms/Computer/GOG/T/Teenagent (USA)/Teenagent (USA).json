@@ -2,6 +2,12 @@
     "files": [
         "setup_teenagent_1.0_(15595).exe"
     ],
+    "gog": {
+        "appid": "1207658753",
+        "appname": "teenagent",
+        "buildid": "1.0",
+        "name": "Teenagent"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_teenagent_1.0_(15595).exe"
     ],

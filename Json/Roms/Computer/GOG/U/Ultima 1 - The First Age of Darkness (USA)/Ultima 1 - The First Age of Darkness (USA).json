@@ -12,6 +12,12 @@
         "extra/Ultima_3_spellbooks.zip",
         "setup_ultima_1.0_cs_(28189).exe"
     ],
+    "gog": {
+        "appid": "1207662593",
+        "appname": "ultima_1",
+        "buildid": "1.0 CS",
+        "name": "Ultima I\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_1.0_cs_(28189).exe"
     ],

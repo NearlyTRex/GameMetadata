@@ -16,6 +16,12 @@
         "extra/ultima_7_reference_cards.zip",
         "setup_ultima_vii_-_serpent_isle_1.0_(22309).exe"
     ],
+    "gog": {
+        "appid": "1207662633",
+        "appname": "ultima_vii_serpent_isle",
+        "buildid": "1.0",
+        "name": "Ultima VII\u2122  - Serpent Isle + The Silver Seed"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima_vii_-_serpent_isle_1.0_(22309).exe"
     ],

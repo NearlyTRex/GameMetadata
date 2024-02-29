@@ -20,6 +20,12 @@
         "extra/ultima_ix_spellbook.zip",
         "setup_ultima9_2.0.0.14.exe"
     ],
+    "gog": {
+        "appid": "1207659093",
+        "appname": "ultima_9_ascension",
+        "buildid": "2.0.0.14",
+        "name": "Ultima\u2122 9: Ascension"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ultima9_2.0.0.14.exe"
     ],

@@ -10,6 +10,12 @@
         "extra/tag_soundtrack_demo.zip",
         "setup_treasure_adventure_game_1.0_(22308).exe"
     ],
+    "gog": {
+        "appid": "1207659013",
+        "appname": "treasure_adventure_game",
+        "buildid": "1.0",
+        "name": "Treasure Adventure Game"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_treasure_adventure_game_1.0_(22308).exe"
     ],

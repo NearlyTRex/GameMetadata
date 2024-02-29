@@ -14,6 +14,12 @@
         "setup_through_the_woods_1.2_(15132)-2.bin",
         "setup_through_the_woods_1.2_(15132).exe"
     ],
+    "gog": {
+        "appid": "1811173671",
+        "appname": "through_the_woods",
+        "buildid": "1.2",
+        "name": "Through the Woods"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_through_the_woods_1.2_(15132).exe"
     ],

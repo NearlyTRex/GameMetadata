@@ -7,6 +7,12 @@
         "setup_truberbrook_1.6_(30927)-1.bin",
         "setup_truberbrook_1.6_(30927).exe"
     ],
+    "gog": {
+        "appid": "1289701346",
+        "appname": "truberbrook",
+        "buildid": "1.6",
+        "name": "Tr\u00fcberbrook"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_truberbrook_1.6_(30927).exe"
     ],
