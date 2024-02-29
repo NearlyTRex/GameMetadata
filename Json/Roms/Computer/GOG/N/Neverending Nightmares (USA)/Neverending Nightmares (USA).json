@@ -6,11 +6,16 @@
     "files": [
         "extra/neverending_nightmares_avatars.zip",
         "extra/neverending_nightmares_wallpapers.zip",
-        "setup_neverending_nightmares_3.3.22468_(41848).exe",
         "setup_neverending_nightmares_3.3.22469_(50942).exe"
     ],
+    "gog": {
+        "appid": "1207665993",
+        "appname": "neverending_nightmares",
+        "buildid": "3.3.22469",
+        "name": "Neverending Nightmares"
+    },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_neverending_nightmares_3.3.22468_(41848).exe"
+        "$SETUP_MAIN_ROOT/setup_neverending_nightmares_3.3.22469_(50942).exe"
     ],
-    "transform_file": "setup_neverending_nightmares_3.3.22468_(41848).exe"
+    "transform_file": "setup_neverending_nightmares_3.3.22469_(50942).exe"
 }

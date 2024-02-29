@@ -2,6 +2,12 @@
     "files": [
         "setup_personal_nightmare_1.0_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207658773",
+        "appname": "personal_nightmare",
+        "buildid": "1.0",
+        "name": "Personal Nightmare"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_personal_nightmare_1.0_(28044).exe"
     ],

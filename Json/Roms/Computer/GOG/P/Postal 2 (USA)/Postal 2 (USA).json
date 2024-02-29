@@ -21,6 +21,12 @@
         "setup_postal_2_5100_(64474)-1.bin",
         "setup_postal_2_5100_(64474).exe"
     ],
+    "gog": {
+        "appid": "1207658755",
+        "appname": "postal_2",
+        "buildid": "5100",
+        "name": "POSTAL 2"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_postal_2_5100_(64474).exe"
     ],

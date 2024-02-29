@@ -12,6 +12,12 @@
         "extra/Police_Quest_reference_cards.zip",
         "setup_police_quest_3_-_the_kindred_1.00_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207661293",
+        "appname": "police_quest_3_the_kindred",
+        "buildid": "1.00",
+        "name": "Police Quest 3 - The Kindred"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_police_quest_3_-_the_kindred_1.00_(28044).exe"
     ],

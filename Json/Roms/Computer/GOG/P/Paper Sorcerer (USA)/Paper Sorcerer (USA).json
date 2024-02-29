@@ -6,6 +6,12 @@
         "extra/paper_sorcerer_avatars.zip",
         "setup_paper_sorcerer_2.5_(21323).exe"
     ],
+    "gog": {
+        "appid": "1207664363",
+        "appname": "paper_sorcerer",
+        "buildid": "2.5",
+        "name": "Paper Sorcerer"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_paper_sorcerer_2.5_(21323).exe"
     ],

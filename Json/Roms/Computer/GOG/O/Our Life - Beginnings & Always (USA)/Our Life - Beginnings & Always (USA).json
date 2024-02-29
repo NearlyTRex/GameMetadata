@@ -6,6 +6,12 @@
         "dlc/setup_our_life_beginnings__always_-_voiced_name_expansion__1.7.1.2_(65490).exe",
         "setup_our_life_beginnings__always_1.7.1.2_(64bit)_(65490).exe"
     ],
+    "gog": {
+        "appid": "1337063899",
+        "appname": "our_life_beginnings_always",
+        "buildid": "1.7.1.2",
+        "name": "Our Life: Beginnings & Always"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_our_life_beginnings__always_1.7.1.2_(64bit)_(65490).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_our_life_beginnings__always_-_voiced_name_expansion__1.7.1.2_(65490).exe"

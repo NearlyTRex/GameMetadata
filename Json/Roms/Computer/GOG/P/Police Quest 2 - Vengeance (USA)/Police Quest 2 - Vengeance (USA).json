@@ -12,6 +12,12 @@
         "extra/Police_Quest_reference_cards.zip",
         "setup_police_quest_2_-_vengeance_1._002_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207661283",
+        "appname": "police_quest_2_vengeance",
+        "buildid": "1. 002",
+        "name": "Police Quest 2 - Vengeance"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_police_quest_2_-_vengeance_1._002_(28044).exe"
     ],

@@ -3,6 +3,12 @@
         "setup_the_painscreek_killings_1.0.8_(47822)-1.bin",
         "setup_the_painscreek_killings_1.0.8_(47822).exe"
     ],
+    "gog": {
+        "appid": "1128731640",
+        "appname": "the_painscreek_killings",
+        "buildid": "1.0.8",
+        "name": "The Painscreek Killings"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_painscreek_killings_1.0.8_(47822).exe"
     ],

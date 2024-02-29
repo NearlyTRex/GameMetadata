@@ -10,6 +10,12 @@
         "extra/penumbra_collection_walkthroughs.zip",
         "setup_penumbra_-_overture_1.0_(20339).exe"
     ],
+    "gog": {
+        "appid": "1207662733",
+        "appname": "penumbra_overture",
+        "buildid": "1.0",
+        "name": "Penumbra - Overture"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_penumbra_-_overture_1.0_(20339).exe"
     ],

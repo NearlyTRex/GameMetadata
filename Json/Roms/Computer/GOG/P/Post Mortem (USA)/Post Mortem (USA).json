@@ -13,6 +13,12 @@
         "setup_post_mortem_1.0_(19454)-1.bin",
         "setup_post_mortem_1.0_(19454).exe"
     ],
+    "gog": {
+        "appid": "1207659113",
+        "appname": "post_mortem",
+        "buildid": "1.0",
+        "name": "Post Mortem"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_post_mortem_1.0_(19454).exe"
     ],

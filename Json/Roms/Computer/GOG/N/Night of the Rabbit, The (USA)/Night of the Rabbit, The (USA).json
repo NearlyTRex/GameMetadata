@@ -12,6 +12,12 @@
         "setup_the_night_of_the_rabbit_1.2.3.0389_(18473)-2.bin",
         "setup_the_night_of_the_rabbit_1.2.3.0389_(18473).exe"
     ],
+    "gog": {
+        "appid": "1207659218",
+        "appname": "the_night_of_the_rabbit",
+        "buildid": "1.2.3.0389",
+        "name": "The Night of the Rabbit"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_night_of_the_rabbit_1.2.3.0389_(18473).exe"
     ],

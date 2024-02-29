@@ -2,6 +2,12 @@
     "files": [
         "setup_puzzle_agent_1.0_(21444).exe"
     ],
+    "gog": {
+        "appid": "1441715179",
+        "appname": "puzzle_agent",
+        "buildid": "1.0",
+        "name": "Puzzle Agent"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_puzzle_agent_1.0_(21444).exe"
     ],

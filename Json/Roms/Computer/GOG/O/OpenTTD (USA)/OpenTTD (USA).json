@@ -2,6 +2,12 @@
     "files": [
         "setup_openttd_13.4_(64bit)_(66414).exe"
     ],
+    "gog": {
+        "appid": "1293297882",
+        "appname": "openttd",
+        "buildid": "13.4",
+        "name": "OpenTTD"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_openttd_13.4_(64bit)_(66414).exe"
     ],

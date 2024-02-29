@@ -8,6 +8,12 @@
         "setup_outlast_2_gog-4_(19597)-6.bin",
         "setup_outlast_2_gog-4_(19597).exe"
     ],
+    "gog": {
+        "appid": "1453301453",
+        "appname": "outlast_2",
+        "buildid": "Story Mode",
+        "name": "Outlast 2"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_outlast_2_gog-4_(19597).exe"
     ],

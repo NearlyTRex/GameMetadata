@@ -6,6 +6,12 @@
         "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499)-4.bin",
         "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499).exe"
     ],
+    "gog": {
+        "appid": "1446213994",
+        "appname": "no_mans_sky",
+        "buildid": "4.48_holiday_2023_expeditions_115196",
+        "name": "No Man's Sky"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499).exe"
     ],

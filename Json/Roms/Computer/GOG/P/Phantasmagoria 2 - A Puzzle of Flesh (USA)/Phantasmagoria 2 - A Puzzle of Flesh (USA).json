@@ -11,6 +11,12 @@
         "setup_phantasmagoria_2_-_a_puzzle_of_flesh_1.0.06_sound_fix_(41959)-1.bin",
         "setup_phantasmagoria_2_-_a_puzzle_of_flesh_1.0.06_sound_fix_(41959).exe"
     ],
+    "gog": {
+        "appid": "1207658841",
+        "appname": "phantasmagoria_2",
+        "buildid": "1.0.06 sound fix",
+        "name": "Phantasmagoria 2: A Puzzle of Flesh"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_phantasmagoria_2_-_a_puzzle_of_flesh_1.0.06_sound_fix_(41959).exe"
     ],

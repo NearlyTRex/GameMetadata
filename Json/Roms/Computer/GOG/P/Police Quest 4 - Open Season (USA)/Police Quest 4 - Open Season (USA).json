@@ -12,6 +12,12 @@
         "extra/Police_Quest_reference_cards.zip",
         "setup_police_quest_4_-_open_season_1._100_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207661303",
+        "appname": "police_quest_4_open_season",
+        "buildid": "1. 100",
+        "name": "Police Quest 4 - Open Season"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_police_quest_4_-_open_season_1._100_(28044).exe"
     ],

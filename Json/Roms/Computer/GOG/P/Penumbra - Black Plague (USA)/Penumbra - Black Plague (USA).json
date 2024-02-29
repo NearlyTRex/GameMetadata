@@ -11,6 +11,12 @@
         "setup_penumbra_-_black_plague_1.0_(20339).exe",
         "setup_penumbra_-_requiem_1.0_(20339).exe"
     ],
+    "gog": {
+        "appid": "1207662743",
+        "appname": "penumbra_black_plague",
+        "buildid": "1.0",
+        "name": "Penumbra - Black Plague"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_penumbra_-_black_plague_1.0_(20339).exe"
     ],

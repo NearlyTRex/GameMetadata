@@ -8,6 +8,12 @@
         "extra/Nox_manual.zip",
         "setup_nox_2.0.0.20.exe"
     ],
+    "gog": {
+        "appid": "1207658964",
+        "appname": "nox",
+        "buildid": "(gog-20)",
+        "name": "Nox\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_nox_2.0.0.20.exe"
     ],
