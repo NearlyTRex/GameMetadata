@@ -18,6 +18,12 @@
         "extra/older_master_of_magic_1.3.1_(28044).zip",
         "setup_master_of_magic_classic_momc_1.60.00_(67790).exe"
     ],
+    "gog": {
+        "appid": "1207658855",
+        "appname": "master_of_magic_classic",
+        "buildid": "MoMC 1.60.00",
+        "name": "Master of Magic Classic"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_master_of_magic_classic_momc_1.60.00_(67790).exe"
     ],

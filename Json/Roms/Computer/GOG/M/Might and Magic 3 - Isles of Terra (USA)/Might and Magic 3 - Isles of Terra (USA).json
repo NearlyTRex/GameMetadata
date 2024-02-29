@@ -12,6 +12,12 @@
         "extra/mm_3_map.zip",
         "setup_might_and_magic_3_-_isles_of_terra_1.0_(28046).exe"
     ],
+    "gog": {
+        "appid": "1207661223",
+        "appname": "might_and_magic_3_isles_of_terra",
+        "buildid": "1.0",
+        "name": "Might and Magic 3 - Isles of Terra"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_might_and_magic_3_-_isles_of_terra_1.0_(28046).exe"
     ],

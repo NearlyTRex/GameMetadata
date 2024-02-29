@@ -10,6 +10,12 @@
         "extra/mm_1_map.zip",
         "setup_might_and_magic_-_book_i_1.0_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207661203",
+        "appname": "might_and_magic_1_book_i",
+        "buildid": "1.0",
+        "name": "Might and Magic 1 - Book I"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_might_and_magic_-_book_i_1.0_(28044).exe"
     ],

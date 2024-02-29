@@ -2,6 +2,12 @@
     "files": [
         "setup_mainlining_demo_0.1.06_(9394).exe"
     ],
+    "gog": {
+        "appid": "1551757020",
+        "appname": "mainlining_demo",
+        "buildid": "0.1.06",
+        "name": "Mainlining Demo"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_mainlining_demo_0.1.06_(9394).exe"
     ],

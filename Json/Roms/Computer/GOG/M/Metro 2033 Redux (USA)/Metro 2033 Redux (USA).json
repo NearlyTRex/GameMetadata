@@ -4,6 +4,12 @@
         "setup_metro_2033_redux_1.03_(33180)-2.bin",
         "setup_metro_2033_redux_1.03_(33180).exe"
     ],
+    "gog": {
+        "appid": "1436434037",
+        "appname": "metro_2033_redux",
+        "buildid": "1.03",
+        "name": "Metro 2033 Redux"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_metro_2033_redux_1.03_(33180).exe"
     ],

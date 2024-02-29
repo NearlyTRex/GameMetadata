@@ -5,6 +5,12 @@
         "setup_metro_last_light_redux_1.03_(33180)-3.bin",
         "setup_metro_last_light_redux_1.03_(33180).exe"
     ],
+    "gog": {
+        "appid": "1430740172",
+        "appname": "metro_last_light_redux",
+        "buildid": "1.03",
+        "name": "Metro: Last Light Redux"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_metro_last_light_redux_1.03_(33180).exe"
     ],

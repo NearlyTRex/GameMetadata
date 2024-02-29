@@ -7,6 +7,12 @@
         "setup_the_curse_of_monkey_islandtm_1.0l_(20628)-1.bin",
         "setup_the_curse_of_monkey_islandtm_1.0l_(20628).exe"
     ],
+    "gog": {
+        "appid": "1528148981",
+        "appname": "the_curse_of_monkey_island",
+        "buildid": "1.0L",
+        "name": "The Curse of Monkey Island\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_curse_of_monkey_islandtm_1.0l_(20628).exe"
     ],

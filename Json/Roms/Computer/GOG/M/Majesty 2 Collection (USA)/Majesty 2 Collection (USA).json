@@ -21,6 +21,12 @@
         "setup_majesty_2_collection_1.5.356_(18254)-1.bin",
         "setup_majesty_2_collection_1.5.356_(18254).exe"
     ],
+    "gog": {
+        "appid": "1423826709",
+        "appname": "majesty_2_collection",
+        "buildid": "1.5.356",
+        "name": "Majesty 2 Collection"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_majesty_2_collection_1.5.356_(18254).exe"
     ],

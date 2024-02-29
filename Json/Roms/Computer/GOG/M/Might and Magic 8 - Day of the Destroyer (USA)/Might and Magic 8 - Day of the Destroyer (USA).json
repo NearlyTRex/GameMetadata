@@ -16,6 +16,12 @@
         "extra/reference_card.zip",
         "setup_might_and_magic_8_day_of_the_destroyer_1.0_(22833).exe"
     ],
+    "gog": {
+        "appid": "1207658918",
+        "appname": "might_and_magic_8_day_of_the_destroyer",
+        "buildid": "1.0",
+        "name": "Might and Magic\u00ae 8: Day of the Destroyer\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_might_and_magic_8_day_of_the_destroyer_1.0_(22833).exe"
     ],

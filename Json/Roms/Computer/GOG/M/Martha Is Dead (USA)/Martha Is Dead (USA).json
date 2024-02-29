@@ -7,6 +7,12 @@
         "setup_martha_is_dead_1.0712.00_(64bit)_(57223)-5.bin",
         "setup_martha_is_dead_1.0712.00_(64bit)_(57223).exe"
     ],
+    "gog": {
+        "appid": "2005859194",
+        "appname": "martha_is_dead_base",
+        "buildid": "1.0712.00",
+        "name": "Martha Is Dead"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_martha_is_dead_1.0712.00_(64bit)_(57223).exe"
     ],

@@ -17,6 +17,12 @@
         "setup_tales_of_monkey_island_1.0_20210623_(48006)-1.bin",
         "setup_tales_of_monkey_island_1.0_20210623_(48006).exe"
     ],
+    "gog": {
+        "appid": "1207659066",
+        "appname": "tales_of_monkey_island",
+        "buildid": "1.0 20210623",
+        "name": "Tales of Monkey Island: Complete Season"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_tales_of_monkey_island_1.0_20210623_(48006).exe"
     ],

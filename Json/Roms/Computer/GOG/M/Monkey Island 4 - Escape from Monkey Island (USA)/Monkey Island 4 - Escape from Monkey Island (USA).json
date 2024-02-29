@@ -7,6 +7,12 @@
         "setup_escape_from_monkey_islandtm_1.1_(20987)-1.bin",
         "setup_escape_from_monkey_islandtm_1.1_(20987).exe"
     ],
+    "gog": {
+        "appid": "1885026907",
+        "appname": "escape_from_monkey_island",
+        "buildid": "1.1",
+        "name": "Escape from Monkey Island\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_escape_from_monkey_islandtm_1.1_(20987).exe"
     ],

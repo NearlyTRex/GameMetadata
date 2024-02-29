@@ -6,6 +6,12 @@
         "extra/mm_swords_of_xeen_manual.zip",
         "setup_might_and_magic_-_swords_of_xeen_1.0_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207661243",
+        "appname": "might_and_magic_swords_of_xeen",
+        "buildid": "1.0",
+        "name": "Might and Magic - Swords of Xeen"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_might_and_magic_-_swords_of_xeen_1.0_(28044).exe"
     ],

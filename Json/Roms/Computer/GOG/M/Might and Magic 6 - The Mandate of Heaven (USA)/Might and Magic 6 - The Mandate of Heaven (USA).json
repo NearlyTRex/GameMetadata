@@ -14,6 +14,12 @@
         "extra/mm_6_soundtrack.zip",
         "setup_mm6_2.1.0.42.exe"
     ],
+    "gog": {
+        "appid": "1207661253",
+        "appname": "might_and_magic_6_the_mandate_of_heaven",
+        "buildid": "(gog-42)",
+        "name": "Might and Magic 6 - The Mandate of Heaven"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_mm6_2.1.0.42.exe"
     ],

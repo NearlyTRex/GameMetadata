@@ -6,6 +6,12 @@
         "extra/monkey_island_2_manual_original_ver.zip",
         "setup_monkey_island2_se_2.0.0.10.exe"
     ],
+    "gog": {
+        "appid": "1425039730",
+        "appname": "monkey_island_2_special_edition_lechucks_revenge",
+        "buildid": "2.0.0.10",
+        "name": "Monkey Island\u2122 2 Special Edition: LeChuck\u2019s Revenge\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_monkey_island2_se_2.0.0.10.exe"
     ],
