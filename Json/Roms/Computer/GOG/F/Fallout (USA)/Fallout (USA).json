@@ -22,6 +22,12 @@
         "extra/fallout_wallpaper.zip",
         "setup_fallout_2.1.0.18.exe"
     ],
+    "gog": {
+        "appid": "1",
+        "appname": "fallout_classic",
+        "buildid": "2.1.0.18",
+        "name": "Fallout Classic"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_fallout_2.1.0.18.exe"
     ],

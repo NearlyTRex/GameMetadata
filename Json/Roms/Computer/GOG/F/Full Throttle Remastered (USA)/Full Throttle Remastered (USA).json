@@ -4,6 +4,12 @@
         "setup_full_throttle_remastered_1.1.891868_(14024)-2.bin",
         "setup_full_throttle_remastered_1.1.891868_(14024).exe"
     ],
+    "gog": {
+        "appid": "1325415523",
+        "appname": "full_throttle_remastered",
+        "buildid": "1.1.891868",
+        "name": "Full Throttle Remastered"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_full_throttle_remastered_1.1.891868_(14024).exe"
     ],

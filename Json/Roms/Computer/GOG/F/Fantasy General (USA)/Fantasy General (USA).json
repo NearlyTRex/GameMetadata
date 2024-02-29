@@ -10,6 +10,12 @@
         "extra/fg_soundtrack.zip",
         "setup_fantasy_general_1.0_20211006_(50527).exe"
     ],
+    "gog": {
+        "appid": "1430136345",
+        "appname": "fantasy_general",
+        "buildid": "1.0 20211006",
+        "name": "Fantasy General"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_fantasy_general_1.0_20211006_(50527).exe"
     ],

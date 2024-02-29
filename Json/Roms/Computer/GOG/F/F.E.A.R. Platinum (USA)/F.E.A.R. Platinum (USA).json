@@ -18,6 +18,12 @@
         "setup_fear_platinum_collection_2.0.0.5-2.bin",
         "setup_fear_platinum_collection_2.0.0.5.exe"
     ],
+    "gog": {
+        "appid": "1423058413",
+        "appname": "fear_platinum",
+        "buildid": "2.0.0.5",
+        "name": "F.E.A.R. Platinum"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_fear_platinum_collection_2.0.0.5.exe"
     ],

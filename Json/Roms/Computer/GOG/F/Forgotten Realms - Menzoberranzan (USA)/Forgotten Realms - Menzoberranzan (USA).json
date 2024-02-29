@@ -8,6 +8,12 @@
         "extra/menzoberranzan_manual.zip",
         "setup_menzoberranzan_1.1_(28166).exe"
     ],
+    "gog": {
+        "appid": "1432578339",
+        "appname": "menzoberranzan",
+        "buildid": "1.1",
+        "name": "Menzoberranzan"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_menzoberranzan_1.1_(28166).exe"
     ],

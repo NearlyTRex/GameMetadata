@@ -8,6 +8,12 @@
         "extra/eob_3_manual.zip",
         "setup_eye_of_the_beholder_iii_assault_on_myth_drannor_4.1.60_(28044).exe"
     ],
+    "gog": {
+        "appid": "1432576327",
+        "appname": "eye_of_the_beholder_iii_assault_on_myth_drannor",
+        "buildid": "4.1.60",
+        "name": "Eye of the Beholder III: Assault on Myth Drannor"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_eye_of_the_beholder_iii_assault_on_myth_drannor_4.1.60_(28044).exe"
     ],

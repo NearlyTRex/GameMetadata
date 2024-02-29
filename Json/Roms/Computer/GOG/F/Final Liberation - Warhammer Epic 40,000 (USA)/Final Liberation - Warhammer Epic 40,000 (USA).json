@@ -8,6 +8,12 @@
         "extra/final_lib_ost_mp3.zip",
         "setup_wh40k_final_liberation_2.0.0.4.exe"
     ],
+    "gog": {
+        "appid": "1436454557",
+        "appname": "final_liberation_warhammer_epic_40000",
+        "buildid": "1.01 (gog-4)",
+        "name": "Final Liberation: Warhammer Epic 40,000"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wh40k_final_liberation_2.0.0.4.exe"
     ],

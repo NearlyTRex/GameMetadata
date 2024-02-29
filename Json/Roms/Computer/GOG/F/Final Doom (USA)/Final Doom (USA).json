@@ -6,6 +6,12 @@
         "extra/final_doom_manual.zip",
         "setup_final_doom_1.9_(28044).exe"
     ],
+    "gog": {
+        "appid": "1435848742",
+        "appname": "final_doom_game",
+        "buildid": "1.9",
+        "name": "Final Doom"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_final_doom_1.9_(28044).exe"
     ],

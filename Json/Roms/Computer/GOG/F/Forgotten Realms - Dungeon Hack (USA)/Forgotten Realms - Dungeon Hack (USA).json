@@ -8,6 +8,12 @@
         "extra/dungeon_hack_manual.zip",
         "setup_dungeon_hack_v1.0_(28044).exe"
     ],
+    "gog": {
+        "appid": "1432579019",
+        "appname": "dungeon_hack",
+        "buildid": "V1.0",
+        "name": "Dungeon Hack"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dungeon_hack_v1.0_(28044).exe"
     ],

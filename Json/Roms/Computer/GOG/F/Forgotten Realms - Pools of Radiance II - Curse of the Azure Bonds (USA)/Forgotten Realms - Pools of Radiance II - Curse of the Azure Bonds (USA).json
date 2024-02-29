@@ -17,6 +17,12 @@
         "setup_curse_of_the_azure_bonds_1.3_(28043).exe",
         "setup_curse_of_the_azure_bonds_v12_2.0.0.1.exe"
     ],
+    "gog": {
+        "appid": "1432642138",
+        "appname": "curse_of_the_azure_bonds",
+        "buildid": "1.3",
+        "name": "Curse of the Azure Bonds"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_curse_of_the_azure_bonds_1.3_(28043).exe"
     ],

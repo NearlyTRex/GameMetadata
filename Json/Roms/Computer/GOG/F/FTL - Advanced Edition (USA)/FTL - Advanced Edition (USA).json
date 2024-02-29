@@ -12,6 +12,12 @@
         "extra/ftl_wallpaper.zip",
         "setup_ftl_advanced_edition_1.6.13b_(36400).exe"
     ],
+    "gog": {
+        "appid": "1207659102",
+        "appname": "faster_than_light",
+        "buildid": "1.6.13b",
+        "name": "FTL: Advanced Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ftl_advanced_edition_1.6.13b_(36400).exe"
     ],

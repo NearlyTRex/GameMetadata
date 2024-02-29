@@ -12,6 +12,12 @@
         "extra/frua_referenzkarte_de.zip",
         "setup_unlimited_adventures_1.2(a)_(37257).exe"
     ],
+    "gog": {
+        "appid": "1432650732",
+        "appname": "forgotten_realms_unlimited_adventures",
+        "buildid": "1.2(a)",
+        "name": "Forgotten Realms - Unlimited Adventures"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_unlimited_adventures_1.2(a)_(37257).exe"
     ],

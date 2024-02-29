@@ -3,6 +3,12 @@
         "setup_firewatch_1.12_(64bit)_(54889)-1.bin",
         "setup_firewatch_1.12_(64bit)_(54889).exe"
     ],
+    "gog": {
+        "appid": "1459256379",
+        "appname": "firewatch",
+        "buildid": "1.12",
+        "name": "Firewatch"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_firewatch_1.12_(64bit)_(54889).exe"
     ],

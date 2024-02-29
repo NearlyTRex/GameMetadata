@@ -14,6 +14,12 @@
         "extra/pool_of_radiance_reference_card.zip",
         "setup_pool_of_radiance_1.3_(28044).exe"
     ],
+    "gog": {
+        "appid": "1432640961",
+        "appname": "pool_of_radiance",
+        "buildid": "1.3",
+        "name": "Pool of Radiance"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_pool_of_radiance_1.3_(28044).exe"
     ],

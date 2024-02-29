@@ -12,6 +12,12 @@
         "extra/treasures_of_the_savage_frontier_reference_card.zip",
         "setup_treasures_of_the_savage_frontier_1.0_(28045).exe"
     ],
+    "gog": {
+        "appid": "1432641771",
+        "appname": "treasures_of_the_savage_frontier",
+        "buildid": "1.0",
+        "name": "Treasures of the Savage Frontier"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_treasures_of_the_savage_frontier_1.0_(28045).exe"
     ],

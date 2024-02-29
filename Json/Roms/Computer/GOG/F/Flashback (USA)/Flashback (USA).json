@@ -2,6 +2,12 @@
     "files": [
         "setup_flashbacktm_1.0.0_(25550).exe"
     ],
+    "gog": {
+        "appid": "1486529526",
+        "appname": "flashback",
+        "buildid": "1.0.0",
+        "name": "Flashback\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_flashbacktm_1.0.0_(25550).exe"
     ],
