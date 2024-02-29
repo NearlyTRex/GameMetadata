@@ -10086,28 +10086,6 @@ x-co-op: Yes
 x-playable: Yes
 
 
-game: Saints Row IV - Game of the Century Edition (USA)
-file: Computer/GOG/S/Saints Row IV - Game of the Century Edition (USA)/Saints Row IV - Game of the Century Edition (USA).json
-developer: Volition Inc.
-publisher: Deep Silver
-genre: Action Adventure;Open-World
-description:
-  The United Saints of America. Experience the most insane antics of Saints Row IV
-  together in one big collection of awesomeness! Game of the century edition
-  includes the Saints' epic mission to protect Earthy from the evil alien Zin
-  invasion as well as both DLC mission packs and the entire collection of suitably
-  hilarious add on costumes and weapons. It's the American dream.
-release: 2013-08-19
-players: 4
-assets.boxfront: BoxFront/Saints Row IV - Game of the Century Edition (USA).jpg
-assets.boxback: BoxBack/Saints Row IV - Game of the Century Edition (USA).jpg
-assets.background: Background/Saints Row IV - Game of the Century Edition (USA).jpg
-assets.screenshot: Screenshot/Saints Row IV - Game of the Century Edition (USA).jpg
-assets.video: Video/Saints Row IV - Game of the Century Edition (USA).mp4
-x-co-op: Yes
-x-playable: Yes
-
-
 game: Saints Row IV - Re-Elected (USA)
 file: Computer/GOG/S/Saints Row IV - Re-Elected (USA)/Saints Row IV - Re-Elected (USA).json
 developer: Volition Inc.
@@ -11210,6 +11188,17 @@ assets.boxback: BoxBack/Star Wars - Jedi Knight - Dark Forces II (USA).jpg
 assets.background: Background/Star Wars - Jedi Knight - Dark Forces II (USA).jpg
 assets.screenshot: Screenshot/Star Wars - Jedi Knight - Dark Forces II (USA).jpg
 assets.video: Video/Star Wars - Jedi Knight - Dark Forces II (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA)
+file: Computer/GOG/S/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA)/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).json
+players: 1
+assets.boxfront: BoxFront/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).jpg
+assets.boxback: BoxBack/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).jpg
+assets.background: Background/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).jpg
+assets.screenshot: Screenshot/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -14284,67 +14273,6 @@ assets.boxback: BoxBack/Witcher 3, The - Wild Hunt - Complete Edition (USA).jpg
 assets.background: Background/Witcher 3, The - Wild Hunt - Complete Edition (USA).jpg
 assets.screenshot: Screenshot/Witcher 3, The - Wild Hunt - Complete Edition (USA).jpg
 assets.video: Video/Witcher 3, The - Wild Hunt - Complete Edition (USA).mp4
-x-co-op: No
-x-playable: Yes
-
-
-game: Witcher 3, The - Wild Hunt - Game of the Year Edition (USA)
-file: Computer/GOG/W/Witcher 3, The - Wild Hunt - Game of the Year Edition (USA)/Witcher 3, The - Wild Hunt - Game of the Year Edition (USA).json
-developer: CD Projekt RED
-publisher: CD Projekt Red
-genre: Role-Playing
-description:
-  Play the most polished and complete version of the most awarded game of 2015 -
-  The Witcher 3: Wild Hunt – Game of the Year Edition. Now available with all
-  expansions and additional content.\n
-  Become a professional monster slayer and embark on an adventure of epic
-  proportions! Upon its release, The Witcher 3: Wild Hunt became an instant
-  classic, claiming over 250 Game of the Year awards. Now you can enjoy this huge,
-  over 100-hour long, open-world adventure along with both its story-driven
-  expansions worth an extra 50 hours of gameplay. This edition includes all
-  additional content - new weapons, armor, companion outfits, new game mode and
-  side quests.\n
-  Features:\n
-  Play as a Highly Trained Monster Slayer for Hire\n
-  Trained from early childhood and mutated to have superhuman skills, strength,
-  and reflexes, witchers are a socially ostracized counterbalance to the
-  monster-infested world in which they live.\n
-  - Gruesomely destroy foes as a professional monster hunter armed with a range of
-  upgradeable weapons, mutating potions, and combat magic.\n
-  - Hunt down a wide variety of exotic monsters, from savage beasts prowling
-  mountain passes to cunning supernatural predators lurking in the shadowy back
-  alleys of densely populated cities.\n
-  - Invest your rewards to upgrade your weaponry and buy custom armor, or spend
-  them on horse races, card games, fist fighting and other pleasures life
-  brings.\n
-  Track Down the Child of Prophecy in a Morally Ambiguous Fantasy Open World\n
-  - Built for endless adventure, the massive open world of The Witcher sets new
-  standards in terms of size, depth and complexity.\n
-  - Traverse a fantastical open world: explore forgotten ruins, caves and
-  shipwrecks, trade with merchants and dwarven smiths in cities, and hunt across
-  open plains, amidst mountains and at sea.\n
-  - In a time of war, track down the child of prophecy, a living weapon of great
-  power whose coming was foretold in ancient elven legends.\n
-  Make choices that go beyond good and evil and face their far-reaching
-  consequences.\n
-  Game of the Year Edition\n
-  The Witcher 3: Wild Hunt Game of the Year Edition brings together the base game
-  and all the additional content released to date.\n
-  - Includes the Hearts of Stone and Blood & Wine expansions, which offer a
-  massive 50 hours of additional storytelling as well as new features and new
-  areas that expand the explorable world by over a third!\n
-  - Affords access to all additional content released so far, including weapons,
-  armor, side quests, game modes and new GWENT cards!\n
-  - Features all technical and visual updates as well as a new user interface
-  completely redesigned on the basis of feedback from members of the Witcher
-  Community.
-release: 2016-08-30
-players: 1
-assets.boxfront: BoxFront/Witcher 3, The - Wild Hunt - Game of the Year Edition (USA).jpg
-assets.boxback: BoxBack/Witcher 3, The - Wild Hunt - Game of the Year Edition (USA).jpg
-assets.background: Background/Witcher 3, The - Wild Hunt - Game of the Year Edition (USA).jpg
-assets.screenshot: Screenshot/Witcher 3, The - Wild Hunt - Game of the Year Edition (USA).jpg
-assets.video: Video/Witcher 3, The - Wild Hunt - Game of the Year Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
 
