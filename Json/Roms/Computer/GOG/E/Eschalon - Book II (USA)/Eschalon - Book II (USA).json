@@ -10,6 +10,12 @@
         "extra/eschalon_book_2_wallpaper.zip",
         "setup_eschalon_-_book_ii_1.05_(18471).exe"
     ],
+    "gog": {
+        "appid": "1207659220",
+        "appname": "eschalon_book_ii",
+        "buildid": "1.05",
+        "name": "Eschalon: Book II"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_eschalon_-_book_ii_1.05_(18471).exe"
     ],

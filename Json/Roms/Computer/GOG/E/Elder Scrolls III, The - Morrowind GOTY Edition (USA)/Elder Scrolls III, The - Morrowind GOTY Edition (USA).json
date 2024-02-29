@@ -8,6 +8,12 @@
         "extra/morrowind_manual.zip",
         "setup_tes_morrowind_goty_2.0.0.7.exe"
     ],
+    "gog": {
+        "appid": "1435828767",
+        "appname": "the_elder_scrolls_iii_morrowind_goty_edition_game",
+        "buildid": "1.6.1820 (gog-7)",
+        "name": "The Elder Scrolls III: Morrowind GOTY Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_tes_morrowind_goty_2.0.0.7.exe"
     ],

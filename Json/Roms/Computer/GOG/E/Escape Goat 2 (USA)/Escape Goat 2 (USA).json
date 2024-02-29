@@ -10,6 +10,12 @@
         "extra/escape_goat_2_wallapers.zip",
         "setup_escape_goat_2_1.1.0_(20747).exe"
     ],
+    "gog": {
+        "appid": "1207662523",
+        "appname": "escape_goat_2",
+        "buildid": "1.1.0",
+        "name": "Escape Goat 2"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_escape_goat_2_1.1.0_(20747).exe"
     ],

@@ -31,6 +31,12 @@
         "setup_the_evil_within_1.0_(36732)-9.bin",
         "setup_the_evil_within_1.0_(36732).exe"
     ],
+    "gog": {
+        "appid": "1171957437",
+        "appname": "the_evil_within",
+        "buildid": "1.0",
+        "name": "The Evil Within"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_evil_within_1.0_(36732).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_the_evil_within_the_assignment_1.0_(36732).exe",

@@ -10,6 +10,12 @@
         "setup_the_evil_within_2_1.04_(37471)-8.bin",
         "setup_the_evil_within_2_1.04_(37471).exe"
     ],
+    "gog": {
+        "appid": "1083619800",
+        "appname": "the_evil_within_2",
+        "buildid": "1.04",
+        "name": "The Evil Within 2"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_evil_within_2_1.04_(37471).exe"
     ],

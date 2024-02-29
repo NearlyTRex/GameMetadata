@@ -10,6 +10,12 @@
         "extra/escape_goat_powermouse_mix.zip",
         "setup_escape_goat_1.0.5_(20747).exe"
     ],
+    "gog": {
+        "appid": "1207659773",
+        "appname": "escape_goat",
+        "buildid": "1.0.5",
+        "name": "Escape Goat"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_escape_goat_1.0.5_(20747).exe"
     ],

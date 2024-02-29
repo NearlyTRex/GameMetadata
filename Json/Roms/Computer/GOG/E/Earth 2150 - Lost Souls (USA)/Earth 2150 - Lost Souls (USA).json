@@ -12,6 +12,12 @@
         "extra/earth2150_wallpaper.zip",
         "setup_earth_2150_-_lost_souls_2.1.0.1_(16404).exe"
     ],
+    "gog": {
+        "appid": "1207661863",
+        "appname": "earth_2150_lost_souls",
+        "buildid": "2.1.0.1",
+        "name": "Earth 2150 - Lost Souls"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_earth_2150_-_lost_souls_2.1.0.1_(16404).exe"
     ],

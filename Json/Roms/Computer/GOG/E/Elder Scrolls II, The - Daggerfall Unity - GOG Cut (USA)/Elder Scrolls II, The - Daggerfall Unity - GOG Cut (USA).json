@@ -4,6 +4,12 @@
         "setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627)-2.bin",
         "setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627).exe"
     ],
+    "gog": {
+        "appid": "1782995089",
+        "appname": "daggerfall_unity_gog_cut",
+        "buildid": "0.13.5B GZ 20220617",
+        "name": "Daggerfall Unity - GOG Cut"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_daggerfall_unity_-_gog_cut_0.13.5b_gz_20220617_(56627).exe"
     ],

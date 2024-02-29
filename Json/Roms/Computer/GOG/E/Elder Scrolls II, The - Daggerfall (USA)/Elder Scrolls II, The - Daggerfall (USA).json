@@ -10,6 +10,12 @@
         "extra/daggerfall_ref_card.zip",
         "setup_the_elder_scrolls_ii_daggerfall_1.07_(28043).exe"
     ],
+    "gog": {
+        "appid": "1435829353",
+        "appname": "the_elder_scrolls_chapter_ii_daggerfall",
+        "buildid": "1.07",
+        "name": "The Elder Scrolls II: Daggerfall"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_elder_scrolls_ii_daggerfall_1.07_(28043).exe"
     ],

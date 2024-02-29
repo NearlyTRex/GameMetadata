@@ -14,6 +14,12 @@
         "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094)-6.bin",
         "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094).exe"
     ],
+    "gog": {
+        "appid": "1711230643",
+        "appname": "the_elder_scrolls_v_skyrim_special_edition",
+        "buildid": "1.6.659.0.8",
+        "name": "The Elder Scrolls V: Skyrim Special Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_1.6.659.0.8_(64bit)_(59094).exe"

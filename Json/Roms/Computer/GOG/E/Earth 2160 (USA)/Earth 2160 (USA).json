@@ -18,6 +18,12 @@
         "extra/earth_2160_wallpapers.zip",
         "setup_earth_2160_2.0.0.48.exe"
     ],
+    "gog": {
+        "appid": "1207658740",
+        "appname": "earth_2160",
+        "buildid": "1.3.8 (gog-48)",
+        "name": "Earth 2160"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_earth_2160_2.0.0.48.exe"
     ],
