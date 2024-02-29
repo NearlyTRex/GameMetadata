@@ -6,6 +6,12 @@
         "extra/civ_3_complete_manuals.zip",
         "setup_civilization3_complete_2.0.0.7.exe"
     ],
+    "gog": {
+        "appid": "1471405734",
+        "appname": "sid_meiers_civilization_iii_complete",
+        "buildid": "1.22 (gog-7)",
+        "name": "Sid Meier's Civilization\u00ae III Complete"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_civilization3_complete_2.0.0.7.exe"
     ],

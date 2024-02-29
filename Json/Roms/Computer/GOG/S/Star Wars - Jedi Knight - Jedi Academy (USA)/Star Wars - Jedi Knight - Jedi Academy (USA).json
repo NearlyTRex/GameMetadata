@@ -6,6 +6,12 @@
         "extra/sw_ja_manual.zip",
         "setup_star_warstm_jedi_knighttm_jedi_academytm_1.01_(a)_(10331).exe"
     ],
+    "gog": {
+        "appid": "1428935726",
+        "appname": "star_wars_jedi_knight_jedi_academy",
+        "buildid": "1.01 (A)",
+        "name": "Star Wars\u2122: Jedi Knight\u2122 - Jedi Academy\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_warstm_jedi_knighttm_jedi_academytm_1.01_(a)_(10331).exe"
     ],

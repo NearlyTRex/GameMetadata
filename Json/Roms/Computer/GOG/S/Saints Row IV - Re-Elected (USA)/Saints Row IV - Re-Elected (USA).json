@@ -6,6 +6,12 @@
         "setup_saints_row_iv_re-elected_main_20221219_142808_(64bit)_(61069)-4.bin",
         "setup_saints_row_iv_re-elected_main_20221219_142808_(64bit)_(61069).exe"
     ],
+    "gog": {
+        "appid": "2037689757",
+        "appname": "saints_row_iv_reelected",
+        "buildid": "main_20221219_142808",
+        "name": "Saints Row IV: Re-Elected"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_saints_row_iv_re-elected_main_20221219_142808_(64bit)_(61069).exe"
     ],

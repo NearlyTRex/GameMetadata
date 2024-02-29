@@ -2,6 +2,12 @@
     "files": [
         "setup_samorost_1_1.12_(47177).exe"
     ],
+    "gog": {
+        "appid": "2006298293",
+        "appname": "samorost_1",
+        "buildid": "1.12",
+        "name": "Samorost 1"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_samorost_1_1.12_(47177).exe"
     ],

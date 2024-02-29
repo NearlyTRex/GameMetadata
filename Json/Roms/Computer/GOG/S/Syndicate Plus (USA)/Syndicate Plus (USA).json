@@ -14,6 +14,12 @@
         "extra/syndicate_plus_reference_card_fr.zip",
         "setup_syndicate_plus_2.1.0.15.exe"
     ],
+    "gog": {
+        "appid": "1207658992",
+        "appname": "syndicate",
+        "buildid": "(gog-15)",
+        "name": "Syndicate Plus\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_syndicate_plus_2.1.0.15.exe"
     ],

@@ -8,6 +8,12 @@
         "extra/soundtrack.zip",
         "setup_realms_of_the_haunting_2.0.0.12.exe"
     ],
+    "gog": {
+        "appid": "1207658921",
+        "appname": "realms_of_the_haunting",
+        "buildid": "(gog-12)",
+        "name": "Realms of the Haunting"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_realms_of_the_haunting_2.0.0.12.exe"
     ],

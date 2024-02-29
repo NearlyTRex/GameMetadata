@@ -2,6 +2,12 @@
     "files": [
         "setup_star_trektm_armada_ii_1.1_rdna_fix_(52907).exe"
     ],
+    "gog": {
+        "appid": "1174788223",
+        "appname": "star_trek_armada_ii",
+        "buildid": "1.1 RDNA fix",
+        "name": "Star Trek\u2122: Armada II"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_trektm_armada_ii_1.1_rdna_fix_(52907).exe"
     ],

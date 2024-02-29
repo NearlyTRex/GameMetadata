@@ -14,6 +14,12 @@
         "extra/stonekeep_thera_awakening_de.zip",
         "setup_stonekeep_2.1.0.13.exe"
     ],
+    "gog": {
+        "appid": "1207658671",
+        "appname": "stonekeep",
+        "buildid": "gog-13",
+        "name": "Stonekeep"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_stonekeep_2.1.0.13.exe"
     ],

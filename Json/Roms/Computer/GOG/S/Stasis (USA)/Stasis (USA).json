@@ -35,6 +35,12 @@
         "setup_stasis_1.09.1_(21441)-1.bin",
         "setup_stasis_1.09.1_(21441).exe"
     ],
+    "gog": {
+        "appid": "1439548178",
+        "appname": "stasis",
+        "buildid": "1.09.1",
+        "name": "STASIS"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_stasis_1.09.1_(21441).exe"
     ],

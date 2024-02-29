@@ -2,6 +2,12 @@
     "files": [
         "setup_symphonia_v1.0_(64bit)_(48230).exe"
     ],
+    "gog": {
+        "appid": "2069516170",
+        "appname": "symphonia_2020",
+        "buildid": "V1.0",
+        "name": "Symphonia (Student Project, 2020)"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_symphonia_v1.0_(64bit)_(48230).exe"
     ],

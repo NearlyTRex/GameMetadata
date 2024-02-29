@@ -16,6 +16,12 @@
         "setup_schizm_b744_(15806)-2.bin",
         "setup_schizm_b744_(15806).exe"
     ],
+    "gog": {
+        "appid": "1471706990",
+        "appname": "schizm",
+        "buildid": "b744",
+        "name": "Schizm: Mysterious Journey"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_schizm_b744_(15806).exe"
     ],

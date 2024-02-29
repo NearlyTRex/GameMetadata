@@ -22,6 +22,12 @@
         "extra/snm_season_1_wallpapers.zip",
         "setup_sam_and_max_save_the_world_2.0.0.25.exe"
     ],
+    "gog": {
+        "appid": "1207659065",
+        "appname": "sam_max_save_the_world",
+        "buildid": "2.0.0.25",
+        "name": "Sam & Max Save the World (2007 Original Version)"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_sam_and_max_save_the_world_2.0.0.25.exe"
     ],

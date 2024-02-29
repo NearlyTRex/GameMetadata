@@ -6,6 +6,12 @@
         "extra/ss_second_encounter_music.zip",
         "setup_serious_sam_the_second_encounter_1.07_(21759).exe"
     ],
+    "gog": {
+        "appid": "1207658877",
+        "appname": "serious_sam_the_second_encounter",
+        "buildid": "1.07",
+        "name": "Serious Sam: The Second Encounter"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_serious_sam_the_second_encounter_1.07_(21759).exe"
     ],

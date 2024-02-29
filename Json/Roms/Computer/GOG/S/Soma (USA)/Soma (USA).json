@@ -11,6 +11,12 @@
         "setup_soma_1.61_(64bit)_(50360)-3.bin",
         "setup_soma_1.61_(64bit)_(50360).exe"
     ],
+    "gog": {
+        "appid": "1439487606",
+        "appname": "soma",
+        "buildid": "1.61",
+        "name": "SOMA"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_soma_1.61_(64bit)_(50360).exe"
     ],

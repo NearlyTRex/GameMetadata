@@ -16,6 +16,12 @@
         "extra/super_castle_attack.zip",
         "setup_stronghold_crusader_extreme_hd_1.41(a)_(45299).exe"
     ],
+    "gog": {
+        "appid": "1207658713",
+        "appname": "stronghold_crusader",
+        "buildid": "1.41(a)",
+        "name": "Stronghold Crusader HD"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_stronghold_crusader_extreme_hd_1.41(a)_(45299).exe"
     ],

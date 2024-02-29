@@ -15,6 +15,12 @@
         "setup_still_life_1.0_(22140)-1.bin",
         "setup_still_life_1.0_(22140).exe"
     ],
+    "gog": {
+        "appid": "1207658882",
+        "appname": "still_life",
+        "buildid": "1.0",
+        "name": "Still Life"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_still_life_1.0_(22140).exe"
     ],

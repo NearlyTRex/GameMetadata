@@ -6,6 +6,12 @@
         "extra/sw_jo_manual.zip",
         "setup_star_wars_jedi_knight_ii_-_jedi_outcast_1.04_(17964).exe"
     ],
+    "gog": {
+        "appid": "1428935917",
+        "appname": "star_wars_jedi_knight_ii_jedi_outcast",
+        "buildid": "1.04",
+        "name": "Star Wars\u2122: Jedi Knight\u2122 II - Jedi Outcast\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_wars_jedi_knight_ii_-_jedi_outcast_1.04_(17964).exe"
     ],

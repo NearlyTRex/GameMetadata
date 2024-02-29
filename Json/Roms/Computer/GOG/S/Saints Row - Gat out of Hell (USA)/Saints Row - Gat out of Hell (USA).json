@@ -8,6 +8,12 @@
         "setup_saints_row_-_gat_out_of_hell_20170523_(12199)-2.bin",
         "setup_saints_row_-_gat_out_of_hell_20170523_(12199).exe"
     ],
+    "gog": {
+        "appid": "1978178686",
+        "appname": "saints_row_gat_out_of_hell",
+        "buildid": "20170523",
+        "name": "Saints Row: Gat out of Hell"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_saints_row_-_gat_out_of_hell_20170523_(12199).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_saints_row_-_gat_out_of_hell_devils_workshop_pack_20170523_(12199).exe"

@@ -10,6 +10,12 @@
         "extra/rott_soundtrack.zip",
         "setup_rise_of_the_triad_1.3_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207658732",
+        "appname": "rise_of_the_triad__dark_war",
+        "buildid": "1.3",
+        "name": "Rise of the Triad: Dark War"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_rise_of_the_triad_1.3_(28045).exe"
     ],

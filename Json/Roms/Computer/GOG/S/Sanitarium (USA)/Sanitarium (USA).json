@@ -9,6 +9,12 @@
         "setup_sanitarium_1.0_svm_(57892)-1.bin",
         "setup_sanitarium_1.0_svm_(57892).exe"
     ],
+    "gog": {
+        "appid": "1207658811",
+        "appname": "sanitarium",
+        "buildid": "1.0 SVM",
+        "name": "Sanitarium"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_sanitarium_1.0_svm_(57892).exe"
     ],

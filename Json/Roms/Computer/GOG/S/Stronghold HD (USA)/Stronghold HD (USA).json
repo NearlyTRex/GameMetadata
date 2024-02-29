@@ -17,6 +17,12 @@
         "setup_stronghold_hd_1.41_(20341)-1.bin",
         "setup_stronghold_hd_1.41_(20341).exe"
     ],
+    "gog": {
+        "appid": "1207658712",
+        "appname": "stronghold",
+        "buildid": "1.41",
+        "name": "Stronghold HD"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_stronghold_hd_1.41_(20341).exe"
     ],

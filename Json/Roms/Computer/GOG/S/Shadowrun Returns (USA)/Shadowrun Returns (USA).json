@@ -9,6 +9,12 @@
         "setup_shadowrun_returns_1.2.7_(a)_(10017)-1.bin",
         "setup_shadowrun_returns_1.2.7_(a)_(10017).exe"
     ],
+    "gog": {
+        "appid": "1207660413",
+        "appname": "shadowrun_returns",
+        "buildid": "1.2.7 (A)",
+        "name": "Shadowrun Returns"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shadowrun_returns_1.2.7_(a)_(10017).exe"
     ],

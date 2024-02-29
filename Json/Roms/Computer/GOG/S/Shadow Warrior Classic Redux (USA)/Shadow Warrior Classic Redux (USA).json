@@ -2,6 +2,12 @@
     "files": [
         "setup_shadow_warrior_classic_redux_1.1.7_(16473).exe"
     ],
+    "gog": {
+        "appid": "1618073558",
+        "appname": "shadow_warrior_classic_redux",
+        "buildid": "1.1.7",
+        "name": "Shadow Warrior Classic Redux"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shadow_warrior_classic_redux_1.1.7_(16473).exe"
     ],

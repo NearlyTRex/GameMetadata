@@ -12,6 +12,12 @@
         "setup_saints_row_2_gog-5_(9656)-2.bin",
         "setup_saints_row_2_gog-5_(9656).exe"
     ],
+    "gog": {
+        "appid": "1430740458",
+        "appname": "saints_row_2",
+        "buildid": "gog-5",
+        "name": "Saints Row 2"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_saints_row_2_gog-5_(9656).exe"
     ],

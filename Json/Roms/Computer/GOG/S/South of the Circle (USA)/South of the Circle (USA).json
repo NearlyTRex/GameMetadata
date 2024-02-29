@@ -2,6 +2,12 @@
     "files": [
         "setup_south_of_the_circle_1.0.3_(27)_(64bit)_(60557).exe"
     ],
+    "gog": {
+        "appid": "1787058795",
+        "appname": "south_of_the_circle_game",
+        "buildid": "1.0.3 (27)",
+        "name": "South of the Circle"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_south_of_the_circle_1.0.3_(27)_(64bit)_(60557).exe"
     ],

@@ -7,6 +7,12 @@
         "setup_song_of_horror_1.25_(64bit)_(54257)-5.bin",
         "setup_song_of_horror_1.25_(64bit)_(54257).exe"
     ],
+    "gog": {
+        "appid": "1957403324",
+        "appname": "song_of_horror",
+        "buildid": "1.0.2",
+        "name": "Song of Horror"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_song_of_horror_1.25_(64bit)_(54257).exe"
     ],

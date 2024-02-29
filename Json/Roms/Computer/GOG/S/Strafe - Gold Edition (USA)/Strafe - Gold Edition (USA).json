@@ -6,6 +6,12 @@
         "extra/strafe_millenium_edition_poster.zip",
         "setup_strafe_1.4_(38935).exe"
     ],
+    "gog": {
+        "appid": "1493047913",
+        "appname": "strafe",
+        "buildid": "1.4",
+        "name": "STRAFE: Gold Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_strafe_1.4_(38935).exe"
     ],

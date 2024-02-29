@@ -2,6 +2,12 @@
     "files": [
         "setup_sunrider_mask_of_arcadius_7.2_hotfix_(20990).exe"
     ],
+    "gog": {
+        "appid": "1748855533",
+        "appname": "sunrider_mask_of_arcadius",
+        "buildid": "7.2 Hotfix",
+        "name": "Sunrider: Mask of Arcadius"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_sunrider_mask_of_arcadius_7.2_hotfix_(20990).exe"
     ],

@@ -4,6 +4,12 @@
         "setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001)-2.bin",
         "setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001).exe"
     ],
+    "gog": {
+        "appid": "1272977612",
+        "appname": "remothered_broken_porcelain",
+        "buildid": "2.0.0",
+        "name": "Remothered: Broken Porcelain"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001).exe"
     ],

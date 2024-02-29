@@ -3,6 +3,12 @@
         "setup_stubbs_the_zombie_in_rebel_without_a_pulse_1.0_(45609)-1.bin",
         "setup_stubbs_the_zombie_in_rebel_without_a_pulse_1.0_(45609).exe"
     ],
+    "gog": {
+        "appid": "1862877679",
+        "appname": "stubbs_the_zombie_in_rebel_without_a_pulse",
+        "buildid": "1.0",
+        "name": "Stubbs the Zombie in Rebel Without a Pulse"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_stubbs_the_zombie_in_rebel_without_a_pulse_1.0_(45609).exe"
     ],

@@ -10,6 +10,12 @@
         "extra/sw_classic_ost_flac.zip",
         "setup_shadow_warrior_complete_2.0.0.7.exe"
     ],
+    "gog": {
+        "appid": "1207659142",
+        "appname": "shadow_warrior_complete",
+        "buildid": "2.0.0.7",
+        "name": "Shadow Warrior Classic Complete"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shadow_warrior_complete_2.0.0.7.exe"
     ],

@@ -8,6 +8,12 @@
         "extra/sw_xwing_alliance_strat_guide.zip",
         "setup_star_wars_-_x-wing_alliance_2.02_(18061).exe"
     ],
+    "gog": {
+        "appid": "1421404763",
+        "appname": "star_wars_xwing_alliance",
+        "buildid": "2.02",
+        "name": "STAR WARS\u2122: X-Wing Alliance\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_wars_-_x-wing_alliance_2.02_(18061).exe"
     ],

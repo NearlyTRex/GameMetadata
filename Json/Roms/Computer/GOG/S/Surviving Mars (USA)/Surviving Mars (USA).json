@@ -26,6 +26,12 @@
         "setup_surviving_mars_1.5_fuglesang_1011166_(64bit)_(55882)-2.bin",
         "setup_surviving_mars_1.5_fuglesang_1011166_(64bit)_(55882).exe"
     ],
+    "gog": {
+        "appid": "2129244347",
+        "appname": "surviving_mars",
+        "buildid": "1.5 Fuglesang 1011166",
+        "name": "Surviving Mars"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_surviving_mars_1.5_fuglesang_1011166_(64bit)_(55882).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_surviving_mars_-_colony_design_set_1.5_fuglesang_1011166_(64bit)_(55882).exe",

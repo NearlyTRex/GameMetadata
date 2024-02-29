@@ -28,6 +28,12 @@
         "extra/ss_tv_spot.zip",
         "setup_system_shock_enhanced_edition_1.2.16_(64bit)_(44378).exe"
     ],
+    "gog": {
+        "appid": "1439995156",
+        "appname": "system_shock_enhanced",
+        "buildid": "1.2.16",
+        "name": "System Shock: Enhanced Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_system_shock_enhanced_edition_1.2.16_(64bit)_(44378).exe"
     ],

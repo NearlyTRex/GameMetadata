@@ -3,6 +3,12 @@
         "setup_syberia_the_world_before_prologue_1.0_(43455)-1.bin",
         "setup_syberia_the_world_before_prologue_1.0_(43455).exe"
     ],
+    "gog": {
+        "appid": "1185739490",
+        "appname": "syberia_the_world_before_prologue",
+        "buildid": "1.0",
+        "name": "Syberia: The World Before Prologue"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_syberia_the_world_before_prologue_1.0_(43455).exe"
     ],

@@ -2,6 +2,12 @@
     "files": [
         "setup_star_trek_voyagertm_elite_force_1.2_(34378).exe"
     ],
+    "gog": {
+        "appid": "1581756945",
+        "appname": "star_trek_voyager_elite_force",
+        "buildid": "1.2",
+        "name": "Star Trek\u2122: Voyager - Elite Force"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_trek_voyagertm_elite_force_1.2_(34378).exe"
     ],

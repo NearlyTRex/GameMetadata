@@ -24,6 +24,12 @@
         "extra/system_shock_2_wallpaper.zip",
         "setup_system_shocktm_2_2.48_(31077).exe"
     ],
+    "gog": {
+        "appid": "1207659172",
+        "appname": "system_shock_2",
+        "buildid": "2.48",
+        "name": "System Shock\u2122 2"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_system_shocktm_2_2.48_(31077).exe"
     ],

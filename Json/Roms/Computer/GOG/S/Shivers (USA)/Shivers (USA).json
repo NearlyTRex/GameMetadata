@@ -6,6 +6,12 @@
         "extra/shivers_manual.zip",
         "setup_shivers_1.02_(18230).exe"
     ],
+    "gog": {
+        "appid": "2007520286",
+        "appname": "shivers",
+        "buildid": "1.02",
+        "name": "Shivers"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shivers_1.02_(18230).exe"
     ],

@@ -7,6 +7,12 @@
         "setup_scorn_1.2.2.0_(63131)-5.bin",
         "setup_scorn_1.2.2.0_(63131).exe"
     ],
+    "gog": {
+        "appid": "1620735257",
+        "appname": "scorn",
+        "buildid": "1.2.2.0",
+        "name": "Scorn"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_scorn_1.2.2.0_(63131).exe"
     ],

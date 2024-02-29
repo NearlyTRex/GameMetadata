@@ -12,6 +12,12 @@
         "extra/syndicate_wars_wallpaper.zip",
         "setup_syndicate_wars_2.1.0.23.exe"
     ],
+    "gog": {
+        "appid": "1207659193",
+        "appname": "syndicate_wars",
+        "buildid": "(gog-23)",
+        "name": "Syndicate Wars\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_syndicate_wars_2.1.0.23.exe"
     ],

@@ -19,6 +19,12 @@
         "setup_sacred_gold_2.28_(17769)-1.bin",
         "setup_sacred_gold_2.28_(17769).exe"
     ],
+    "gog": {
+        "appid": "1207658688",
+        "appname": "sacred_gold",
+        "buildid": "2.28",
+        "name": "Sacred Gold"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_sacred_gold_2.28_(17769).exe"
     ],

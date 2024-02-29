@@ -14,6 +14,12 @@
         "extra/septerra_core_wallpapers.zip",
         "setup_septerra_core_2.0.0.10.exe"
     ],
+    "gog": {
+        "appid": "1207658742",
+        "appname": "septerra_core_legacy_of_the_creator",
+        "buildid": "1.4 (gog-10)",
+        "name": "Septerra Core: Legacy of the Creator"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_septerra_core_2.0.0.10.exe"
     ],
