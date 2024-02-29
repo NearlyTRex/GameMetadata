@@ -15,6 +15,12 @@
         "setup_little_nightmares_1.0.43.1_(18471)-1.bin",
         "setup_little_nightmares_1.0.43.1_(18471).exe"
     ],
+    "gog": {
+        "appid": "1433377508",
+        "appname": "little_nightmares",
+        "buildid": "1.0.43.1",
+        "name": "Little Nightmares"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_little_nightmares_1.0.43.1_(18471).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_little_nightmares_-_hideaway_1.0.43.1_(18471).exe",

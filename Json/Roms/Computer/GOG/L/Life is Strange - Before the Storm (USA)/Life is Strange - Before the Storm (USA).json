@@ -12,6 +12,12 @@
         "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227)-4.bin",
         "setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227).exe"
     ],
+    "gog": {
+        "appid": "2131041921",
+        "appname": "life_is_strange_before_the_storm",
+        "buildid": "1.0 hotfix",
+        "name": "Life is Strange: Before the Storm"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_life_is_strange_before_the_storm_1.0_hotfix_(64bit)_(39227).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_life_is_strange_before_the_storm_-_deluxe_upgrade_1.0_hotfix_(64bit)_(39227).exe"

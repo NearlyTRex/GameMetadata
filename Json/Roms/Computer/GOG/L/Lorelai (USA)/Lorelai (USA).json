@@ -3,6 +3,12 @@
         "setup_lorelai_1.1.0a_(40070)-1.bin",
         "setup_lorelai_1.1.0a_(40070).exe"
     ],
+    "gog": {
+        "appid": "1128886553",
+        "appname": "lorelai",
+        "buildid": "1.1.0a",
+        "name": "Lorelai"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_lorelai_1.1.0a_(40070).exe"
     ],

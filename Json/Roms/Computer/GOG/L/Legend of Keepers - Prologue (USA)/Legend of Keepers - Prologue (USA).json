@@ -2,6 +2,12 @@
     "files": [
         "setup_legend_of_keepers_prologue_0.9.2.1_(44468).exe"
     ],
+    "gog": {
+        "appid": "2020648154",
+        "appname": "legend_of_keepers_prologue",
+        "buildid": "0.9.2.1",
+        "name": "Legend of Keepers: Prologue"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_legend_of_keepers_prologue_0.9.2.1_(44468).exe"
     ],

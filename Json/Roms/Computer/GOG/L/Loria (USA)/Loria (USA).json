@@ -6,6 +6,12 @@
         "extra/loria_soundtrack_mp3.zip",
         "setup_loria_1.2.0_(31745).exe"
     ],
+    "gog": {
+        "appid": "1604161214",
+        "appname": "loria",
+        "buildid": "1.2.0",
+        "name": "Loria"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_loria_1.2.0_(31745).exe"
     ],

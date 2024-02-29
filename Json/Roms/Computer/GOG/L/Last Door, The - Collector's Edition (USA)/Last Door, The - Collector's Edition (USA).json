@@ -10,6 +10,12 @@
         "extra/tldce_ost_mp3.zip",
         "setup_the_last_door_-_collectors_edition_update_3_(12896).exe"
     ],
+    "gog": {
+        "appid": "1207664553",
+        "appname": "last_door_collectors_edition_the",
+        "buildid": "Update 3",
+        "name": "The Last Door: Collector's Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_last_door_-_collectors_edition_update_3_(12896).exe"
     ],

@@ -6,6 +6,12 @@
         "extra/lure_of_the_temptress_manual.zip",
         "setup_lure_of_the_temptress_1.0_(20270).exe"
     ],
+    "gog": {
+        "appid": "1207658694",
+        "appname": "lure_of_the_temptress",
+        "buildid": "1.0",
+        "name": "Lure of the Temptress"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_lure_of_the_temptress_1.0_(20270).exe"
     ],

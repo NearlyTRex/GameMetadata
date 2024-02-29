@@ -17,6 +17,12 @@
         "setup_kholat_1.03a_(64bit)_(40572)-1.bin",
         "setup_kholat_1.03a_(64bit)_(40572).exe"
     ],
+    "gog": {
+        "appid": "1433331863",
+        "appname": "kholat",
+        "buildid": "1.03a",
+        "name": "Kholat"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_kholat_1.03a_(64bit)_(40572).exe"
     ],

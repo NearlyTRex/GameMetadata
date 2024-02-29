@@ -12,6 +12,12 @@
         "extra/kingpin_wallpaper.zip",
         "setup_kingpin_life_of_crime_1.21_(19594).exe"
     ],
+    "gog": {
+        "appid": "9",
+        "appname": "kingpin_life_of_crime",
+        "buildid": "1.21",
+        "name": "Kingpin: Life of Crime"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_kingpin_life_of_crime_1.21_(19594).exe"
     ],

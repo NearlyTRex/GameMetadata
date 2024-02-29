@@ -14,6 +14,12 @@
         "extra/lords_of_midnight_wallpapers.zip",
         "setup_lords_of_midnight_2.2.0.5.exe"
     ],
+    "gog": {
+        "appid": "1207659333",
+        "appname": "the_lords_of_midnight",
+        "buildid": "2.2.0.5",
+        "name": "The Lords of Midnight"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_lords_of_midnight_2.2.0.5.exe"
     ],

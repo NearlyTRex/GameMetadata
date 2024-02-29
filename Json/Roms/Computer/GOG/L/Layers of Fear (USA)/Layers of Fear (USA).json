@@ -13,6 +13,12 @@
         "setup_layers_of_fear_1.1.0_(16815)-1.bin",
         "setup_layers_of_fear_1.1.0_(16815).exe"
     ],
+    "gog": {
+        "appid": "1455107123",
+        "appname": "layers_of_fear",
+        "buildid": "1.1.0",
+        "name": "Layers of Fear (2016)"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_layers_of_fear_1.1.0_(16815).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_layers_of_fear_inheritance_1.1.0_(16815).exe"

@@ -3,6 +3,12 @@
         "setup_lone_survivor_-_the_directors_cut_1.0_(21178).exe",
         "setup_lone_survivor_2.0.0.2.exe"
     ],
+    "gog": {
+        "appid": "1207660084",
+        "appname": "lone_survivor_directors_cut",
+        "buildid": "1.0",
+        "name": "Lone Survivor: The Director's Cut"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_lone_survivor_-_the_directors_cut_1.0_(21178).exe"
     ],

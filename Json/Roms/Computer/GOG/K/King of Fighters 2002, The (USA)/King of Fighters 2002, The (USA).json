@@ -2,6 +2,12 @@
     "files": [
         "setup_the_king_of_fighters_2002_gog-3_(12081).exe"
     ],
+    "gog": {
+        "appid": "2114035213",
+        "appname": "the_king_of_fighters_2002",
+        "buildid": "gog-3",
+        "name": "THE KING OF FIGHTERS 2002"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_king_of_fighters_2002_gog-3_(12081).exe"
     ],

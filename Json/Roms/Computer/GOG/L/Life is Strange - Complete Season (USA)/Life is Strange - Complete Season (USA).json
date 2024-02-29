@@ -6,6 +6,12 @@
         "setup_life_is_strange_complete_season_1.0.0.397609_hotfix2_(40423)-4.bin",
         "setup_life_is_strange_complete_season_1.0.0.397609_hotfix2_(40423).exe"
     ],
+    "gog": {
+        "appid": "1931614212",
+        "appname": "life_is_strange_complete_season",
+        "buildid": "1.0.0.397609 hotfix2",
+        "name": "Life is Strange: Complete Season"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_life_is_strange_complete_season_1.0.0.397609_hotfix2_(40423).exe"
     ],

@@ -2,6 +2,12 @@
     "files": [
         "setup_kathy_rain_(demo)_1.0.4_(19094).exe"
     ],
+    "gog": {
+        "appid": "1497784911",
+        "appname": "kathy_rain_demo",
+        "buildid": "1.0.4",
+        "name": "Kathy Rain demo"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_kathy_rain_(demo)_1.0.4_(19094).exe"
     ],
