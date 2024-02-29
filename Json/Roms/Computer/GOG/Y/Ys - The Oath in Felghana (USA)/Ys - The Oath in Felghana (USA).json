@@ -8,6 +8,12 @@
         "extra/ys_felghana_wallpapers.zip",
         "setup_ys_the_oath_in_felghana_2020.03.11_(36759).exe"
     ],
+    "gog": {
+        "appid": "1422357788",
+        "appname": "ys_the_oath_in_felghana",
+        "buildid": "2020.03.11",
+        "name": "Ys: The Oath in Felghana"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ys_the_oath_in_felghana_2020.03.11_(36759).exe"
     ],

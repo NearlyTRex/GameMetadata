@@ -20,6 +20,12 @@
         "setup_wizardry7dos_2.0.0.11.exe",
         "setup_wizardry7dos_german_2.2.0.2.exe"
     ],
+    "gog": {
+        "appid": "1207662783",
+        "appname": "wizardry_7_gold",
+        "buildid": "2.2.0.17",
+        "name": "Wizardry 7 Gold"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wizardry7_2.2.0.17.exe"
     ],

@@ -12,6 +12,12 @@
         "extra/vampire_wallpapers.zip",
         "setup_vampire_the_masquerade_redemption_2.0.0.3.exe"
     ],
+    "gog": {
+        "appid": "1207658831",
+        "appname": "vampire_the_masquerade_redemption",
+        "buildid": "2.0.0.3",
+        "name": "Vampire: The Masquerade - Redemption"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_vampire_the_masquerade_redemption_2.0.0.3.exe"
     ],

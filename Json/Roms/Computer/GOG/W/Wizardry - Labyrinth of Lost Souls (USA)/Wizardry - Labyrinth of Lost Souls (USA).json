@@ -6,6 +6,12 @@
         "dlc/setup_growth_fruit_1.0.14_(35878).exe",
         "setup_wizardry_labyrinth_of_lost_souls_1.0.14_(35878).exe"
     ],
+    "gog": {
+        "appid": "1350378876",
+        "appname": "wizardry_labyrinth_of_lost_souls_game",
+        "buildid": "1.0.14",
+        "name": "Wizardry: Labyrinth of Lost Souls"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wizardry_labyrinth_of_lost_souls_1.0.14_(35878).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_growth_fruit_1.0.14_(35878).exe"

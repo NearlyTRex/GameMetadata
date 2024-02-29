@@ -14,6 +14,12 @@
         "setup_the_walking_dead_the_telltale_definitive_series_1.6_(64bit)_(43368)-9.bin",
         "setup_the_walking_dead_the_telltale_definitive_series_1.6_(64bit)_(43368).exe"
     ],
+    "gog": {
+        "appid": "1487652667",
+        "appname": "the_walking_dead_the_telltale_definitive_series",
+        "buildid": "1.6",
+        "name": "The Walking Dead: The Telltale Definitive Series"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_walking_dead_the_telltale_definitive_series_1.6_(64bit)_(43368).exe"
     ],

@@ -13,6 +13,12 @@
         "setup_wolfenstein_the_new_order_1.0.0.2_hotfix_(36443)-9.bin",
         "setup_wolfenstein_the_new_order_1.0.0.2_hotfix_(36443).exe"
     ],
+    "gog": {
+        "appid": "1943729964",
+        "appname": "wolfenstein_the_new_order",
+        "buildid": "1.0.0.2 hotfix",
+        "name": "Wolfenstein: The New Order"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wolfenstein_the_new_order_1.0.0.2_hotfix_(36443).exe"
     ],

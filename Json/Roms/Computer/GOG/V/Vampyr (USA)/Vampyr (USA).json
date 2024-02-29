@@ -14,6 +14,12 @@
         "setup_vampyr_1.1.7_(64bit)_(45305)-4.bin",
         "setup_vampyr_1.1.7_(64bit)_(45305).exe"
     ],
+    "gog": {
+        "appid": "2098644729",
+        "appname": "vampyr",
+        "buildid": "1.1.7",
+        "name": "Vampyr"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_vampyr_1.1.7_(64bit)_(45305).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_vampyr_-_the_hunters_heirlooms_dlc_1.1.7_(64bit)_(45305).exe"

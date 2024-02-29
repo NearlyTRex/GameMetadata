@@ -25,6 +25,12 @@
         "setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093)-1.bin",
         "setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe"
     ],
+    "gog": {
+        "appid": "1964276929",
+        "appname": "war_for_the_overworld",
+        "buildid": "v2.1.0f4",
+        "name": "War for the Overworld"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_crucible_v2.1.0f4_(64bit)_(55093).exe",

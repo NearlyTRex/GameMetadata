@@ -31,6 +31,12 @@
         "setup_wolfenstein_ii_the_new_colossus_6.5.0.1331_(64bit)_(42660)-9.bin",
         "setup_wolfenstein_ii_the_new_colossus_6.5.0.1331_(64bit)_(42660).exe"
     ],
+    "gog": {
+        "appid": "1847884051",
+        "appname": "wolfenstein_ii_the_new_colossus_rotw",
+        "buildid": "6.5.0.1331",
+        "name": "Wolfenstein II: The New Colossus"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wolfenstein_ii_the_new_colossus_6.5.0.1331_(64bit)_(42660).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_wolfenstein_ii_the_freedom_chronicles_-_episode_0_6.5.0.1331_(64bit)_(42660).exe",

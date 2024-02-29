@@ -53,6 +53,12 @@
         "setup_the_witcher_enhanced_edition_1.5_(a)_(10712)-3.bin",
         "setup_the_witcher_enhanced_edition_1.5_(a)_(10712).exe"
     ],
+    "gog": {
+        "appid": "1207658924",
+        "appname": "the_witcher",
+        "buildid": "1.5_(a)",
+        "name": "The Witcher: Enhanced Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_witcher_enhanced_edition_1.5_(a)_(10712).exe"
     ],

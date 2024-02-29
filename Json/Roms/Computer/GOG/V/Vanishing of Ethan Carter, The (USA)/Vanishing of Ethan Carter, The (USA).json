@@ -20,6 +20,12 @@
         "setup_the_vanishing_of_ethan_carter_1.04_(18494)-2.bin",
         "setup_the_vanishing_of_ethan_carter_1.04_(18494).exe"
     ],
+    "gog": {
+        "appid": "1207665373",
+        "appname": "the_vanishing_of_ethan_carter",
+        "buildid": "1.04",
+        "name": "The Vanishing of Ethan Carter"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_vanishing_of_ethan_carter_1.04_(18494).exe"
     ],

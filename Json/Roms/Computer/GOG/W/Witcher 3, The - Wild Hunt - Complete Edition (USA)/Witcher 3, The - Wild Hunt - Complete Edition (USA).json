@@ -82,6 +82,12 @@
         "setup_the_witcher_3_wild_hunt_-_game_of_the_year_edition_4.04a_(65527)-9.bin",
         "setup_the_witcher_3_wild_hunt_-_game_of_the_year_edition_4.04a_(65527).exe"
     ],
+    "gog": {
+        "appid": "1495134320",
+        "appname": "the_witcher_3_wild_hunt_game_of_the_year_edition_game",
+        "buildid": "4.04a",
+        "name": "The Witcher 3: Wild Hunt - Complete Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_witcher_3_wild_hunt_-_game_of_the_year_edition_4.04a_(65527).exe"
     ],

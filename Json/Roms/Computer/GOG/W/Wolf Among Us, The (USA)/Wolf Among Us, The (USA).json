@@ -4,6 +4,12 @@
         "setup_the_wolf_among_us_1.0_(17820)-2.bin",
         "setup_the_wolf_among_us_1.0_(17820).exe"
     ],
+    "gog": {
+        "appid": "1432213513",
+        "appname": "wolf_among_us_the",
+        "buildid": "1.0",
+        "name": "The Wolf Among Us"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_wolf_among_us_1.0_(17820).exe"
     ],

@@ -2,6 +2,12 @@
     "files": [
         "setup_virtuaverse_1.37_(57276).exe"
     ],
+    "gog": {
+        "appid": "2116968103",
+        "appname": "virtuaverse",
+        "buildid": "1.37",
+        "name": "VirtuaVerse"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_virtuaverse_1.37_(57276).exe"
     ],

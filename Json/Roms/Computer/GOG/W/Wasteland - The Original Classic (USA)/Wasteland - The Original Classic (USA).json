@@ -18,6 +18,12 @@
         "extra/wasteland_wasteland2_artworks.zip",
         "setup_wasteland_2.1.0.8.exe"
     ],
+    "gog": {
+        "appid": "1207660163",
+        "appname": "wasteland_the_classic_original",
+        "buildid": "2.1.0.8",
+        "name": "Wasteland 1: The Original Classic"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wasteland_2.1.0.8.exe"
     ],

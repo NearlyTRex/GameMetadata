@@ -8,6 +8,12 @@
         "extra/war_wind_manual.zip",
         "setup_war_wind_1.2_(25952).exe"
     ],
+    "gog": {
+        "appid": "1455545518",
+        "appname": "war_wind",
+        "buildid": "1.2",
+        "name": "War Wind"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_war_wind_1.2_(25952).exe"
     ],

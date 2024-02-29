@@ -6,6 +6,12 @@
         "extra/waxworks_manual.zip",
         "setup_waxworks_1.0_(28045).exe"
     ],
+    "gog": {
+        "appid": "1207658702",
+        "appname": "waxworks",
+        "buildid": "1.0",
+        "name": "Waxworks"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_waxworks_1.0_(28045).exe"
     ],

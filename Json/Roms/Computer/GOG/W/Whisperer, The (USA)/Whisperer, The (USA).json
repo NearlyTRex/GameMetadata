@@ -3,6 +3,12 @@
         "setup_the_whisperer_1.3.1_(66039)-1.bin",
         "setup_the_whisperer_1.3.1_(66039).exe"
     ],
+    "gog": {
+        "appid": "1426240474",
+        "appname": "the_whisperer",
+        "buildid": "1.3.1",
+        "name": "The Whisperer"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_whisperer_1.3.1_(66039).exe"
     ],

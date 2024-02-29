@@ -27,6 +27,12 @@
         "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579)-3.bin",
         "setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579).exe"
     ],
+    "gog": {
+        "appid": "1444386007",
+        "appname": "wasteland_2_directors_cut",
+        "buildid": "2.3.0.5(A)",
+        "name": "Wasteland 2 Director's Cut"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_wasteland_2_directors_cut_2.3.0.5(a)_(32579).exe"
     ],

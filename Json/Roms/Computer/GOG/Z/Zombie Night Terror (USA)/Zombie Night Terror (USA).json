@@ -8,6 +8,12 @@
         "extra/zombie_night_terror_cinema_poster.zip",
         "setup_zombie_night_terror_1.5.2_(36444).exe"
     ],
+    "gog": {
+        "appid": "2071628374",
+        "appname": "zombie_night_terror",
+        "buildid": "1.5.2",
+        "name": "Zombie Night Terror"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_zombie_night_terror_1.5.2_(36444).exe"
     ],
