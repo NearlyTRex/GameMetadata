@@ -10,6 +10,12 @@
         "extra/ks_darkqueen_manual_pdf.zip",
         "setup_the_dark_queen_of_krynn_1.1_(28045).exe"
     ],
+    "gog": {
+        "appid": "1432722998",
+        "appname": "dark_queen_of_krynn_the",
+        "buildid": "1.1",
+        "name": "The Dark Queen of Krynn"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_dark_queen_of_krynn_1.1_(28045).exe"
     ],

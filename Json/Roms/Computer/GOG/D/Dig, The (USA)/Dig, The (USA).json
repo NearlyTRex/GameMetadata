@@ -23,6 +23,12 @@
         "setup_the_dig_1.0_(20270)-1.bin",
         "setup_the_dig_1.0_(20270).exe"
     ],
+    "gog": {
+        "appid": "1425299904",
+        "appname": "the_dig",
+        "buildid": "1.0",
+        "name": "The Dig\u00ae"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_dig_1.0_(20270).exe"
     ],

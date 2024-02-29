@@ -12,6 +12,12 @@
         "extra/undying_wallpapers.zip",
         "setup_clive_barkers_undying_1.1_hotfix_(22471).exe"
     ],
+    "gog": {
+        "appid": "1207659191",
+        "appname": "clive_barkers_undying",
+        "buildid": "1.1 hotfix",
+        "name": "Clive Barker's Undying"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_clive_barkers_undying_1.1_hotfix_(22471).exe"
     ],

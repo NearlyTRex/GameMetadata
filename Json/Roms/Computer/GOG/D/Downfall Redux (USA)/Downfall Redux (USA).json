@@ -6,6 +6,12 @@
         "extra/downfall_redux_manual.zip",
         "setup_downfall_redux_1.1.3_(21295).exe"
     ],
+    "gog": {
+        "appid": "1455298654",
+        "appname": "downfall_redux_copy3",
+        "buildid": "1.1.3",
+        "name": "Downfall (Redux)"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_downfall_redux_1.1.3_(21295).exe"
     ],

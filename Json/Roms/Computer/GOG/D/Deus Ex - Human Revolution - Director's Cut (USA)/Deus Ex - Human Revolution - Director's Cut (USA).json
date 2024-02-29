@@ -6,6 +6,12 @@
         "setup_deus_ex_human_revolution_-_directors_cut_2.0_(37758)-4.bin",
         "setup_deus_ex_human_revolution_-_directors_cut_2.0_(37758).exe"
     ],
+    "gog": {
+        "appid": "1370227705",
+        "appname": "deus_ex_human_revolution_directors_cut",
+        "buildid": "2.0",
+        "name": "Deus Ex: Human Revolution - Director\u2019s Cut"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_deus_ex_human_revolution_-_directors_cut_2.0_(37758).exe"
     ],

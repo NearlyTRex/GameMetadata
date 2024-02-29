@@ -9,6 +9,12 @@
         "setup_control_ultimate_edition_update_2_(41492)-7.bin",
         "setup_control_ultimate_edition_update_2_(41492).exe"
     ],
+    "gog": {
+        "appid": "2049187585",
+        "appname": "control_ultimate_edition",
+        "buildid": "Update 2",
+        "name": "Control Ultimate Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_control_ultimate_edition_update_2_(41492).exe"
     ],

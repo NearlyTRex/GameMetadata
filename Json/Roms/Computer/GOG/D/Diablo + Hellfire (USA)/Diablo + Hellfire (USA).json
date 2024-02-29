@@ -14,6 +14,12 @@
         "extra/wallpaper_2560x1440_diablo.zip",
         "setup_diablo_1.09_hellfire_v2_(30038).exe"
     ],
+    "gog": {
+        "appid": "1412601690",
+        "appname": "diablo",
+        "buildid": "1.09 Hellfire v2",
+        "name": "Diablo + Hellfire"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_diablo_1.09_hellfire_v2_(30038).exe"
     ],

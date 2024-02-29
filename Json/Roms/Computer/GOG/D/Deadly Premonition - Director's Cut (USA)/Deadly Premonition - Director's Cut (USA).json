@@ -4,6 +4,12 @@
         "setup_deadly_premonition_directors_cut_2.1.0.6-2.bin",
         "setup_deadly_premonition_directors_cut_2.1.0.6.exe"
     ],
+    "gog": {
+        "appid": "1207660043",
+        "appname": "deadly_premonition_directors_cut",
+        "buildid": "2.1.0.6",
+        "name": "Deadly Premonition: Director's Cut"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_deadly_premonition_directors_cut_2.1.0.6.exe"
     ],

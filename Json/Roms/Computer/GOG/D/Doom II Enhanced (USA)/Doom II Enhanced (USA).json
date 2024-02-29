@@ -3,6 +3,12 @@
         "setup_doom_ii_enhanced_1.0_(64bit)_(58062)-1.bin",
         "setup_doom_ii_enhanced_1.0_(64bit)_(58062).exe"
     ],
+    "gog": {
+        "appid": "1426071866",
+        "appname": "doom_ii_enhanced",
+        "buildid": "1.0",
+        "name": "DOOM II Enhanced"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_doom_ii_enhanced_1.0_(64bit)_(58062).exe"
     ],

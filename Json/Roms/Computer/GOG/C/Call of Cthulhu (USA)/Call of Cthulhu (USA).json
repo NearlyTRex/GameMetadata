@@ -10,6 +10,12 @@
         "setup_call_of_cthulhu_4.15.2_(64bit)_(33442)-4.bin",
         "setup_call_of_cthulhu_4.15.2_(64bit)_(33442).exe"
     ],
+    "gog": {
+        "appid": "1522289470",
+        "appname": "call_of_cthulhu",
+        "buildid": "4.15.2",
+        "name": "Call of Cthulhu\u00ae"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_call_of_cthulhu_4.15.2_(64bit)_(33442).exe"
     ],

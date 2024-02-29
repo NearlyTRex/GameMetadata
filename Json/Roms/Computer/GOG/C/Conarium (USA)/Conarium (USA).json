@@ -3,6 +3,12 @@
         "setup_conarium_1.0.0.13_(21992)-1.bin",
         "setup_conarium_1.0.0.13_(21992).exe"
     ],
+    "gog": {
+        "appid": "1528332522",
+        "appname": "conarium",
+        "buildid": "1.0.0.13",
+        "name": "Conarium"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_conarium_1.0.0.13_(21992).exe"
     ],

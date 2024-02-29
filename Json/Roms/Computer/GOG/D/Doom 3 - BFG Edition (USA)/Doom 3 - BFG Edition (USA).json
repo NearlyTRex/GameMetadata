@@ -3,6 +3,12 @@
         "setup_doom_3_bfg_1.14_(13452)-1.bin",
         "setup_doom_3_bfg_1.14_(13452).exe"
     ],
+    "gog": {
+        "appid": "1135892318",
+        "appname": "doom_3_bfg_edition_game",
+        "buildid": "1.14",
+        "name": "DOOM 3: BFG Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_doom_3_bfg_1.14_(13452).exe"
     ],

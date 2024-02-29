@@ -10,6 +10,12 @@
         "dlc/setup_crosscode_manlea_1.4.2-3_(65218).exe",
         "setup_crosscode_1.4.2-3_(64bit)_(65218).exe"
     ],
+    "gog": {
+        "appid": "1252295864",
+        "appname": "crosscode",
+        "buildid": "1.4.2-3",
+        "name": "CrossCode"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_crosscode_1.4.2-3_(64bit)_(65218).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_crosscode_-_ninja_skin_1.4.2-3_(65218).exe",

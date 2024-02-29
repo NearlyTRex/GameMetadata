@@ -10,6 +10,12 @@
         "extra/dungeon_keeper_2_manual.zip",
         "setup_dungeon_keeper_2_1.7_(22280).exe"
     ],
+    "gog": {
+        "appid": "1207658959",
+        "appname": "dungeon_keeper_2",
+        "buildid": "1.7",
+        "name": "Dungeon Keeper\u2122 2"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dungeon_keeper_2_1.7_(22280).exe"
     ],

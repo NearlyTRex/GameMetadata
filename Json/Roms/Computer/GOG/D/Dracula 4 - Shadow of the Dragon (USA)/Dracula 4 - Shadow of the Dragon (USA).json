@@ -14,6 +14,12 @@
         "extra/dracula_4_wallpapers.zip",
         "setup_dracula4_2.1.0.4.exe"
     ],
+    "gog": {
+        "appid": "1207664273",
+        "appname": "dracula_4_game",
+        "buildid": "2.1.0.4",
+        "name": "Dracula 4: Shadow of the Dragon"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dracula4_2.1.0.4.exe"
     ],

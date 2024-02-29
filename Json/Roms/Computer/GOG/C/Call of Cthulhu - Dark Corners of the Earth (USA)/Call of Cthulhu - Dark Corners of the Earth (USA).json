@@ -2,6 +2,12 @@
     "files": [
         "setup_call_of_cthulhu_dark_corners_of_the_earth_1.0(a)_(33564).exe"
     ],
+    "gog": {
+        "appid": "1189711155",
+        "appname": "call_of_cthulhu_dark_corners_of_the_earth_game",
+        "buildid": "1.0(A)",
+        "name": "Call of Cthulhu: Dark Corners of the Earth"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_call_of_cthulhu_dark_corners_of_the_earth_1.0(a)_(33564).exe"
     ],

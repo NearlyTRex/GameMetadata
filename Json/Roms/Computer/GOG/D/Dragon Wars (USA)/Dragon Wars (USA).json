@@ -10,6 +10,12 @@
         "extra/dragonwars_reference_card.zip",
         "setup_dragon_wars_1.0_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207666713",
+        "appname": "dragon_wars",
+        "buildid": "1.0",
+        "name": "Dragon Wars"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dragon_wars_1.0_(28044).exe"
     ],

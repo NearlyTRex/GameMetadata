@@ -9,6 +9,12 @@
         "setup_day_of_the_tentacle_remastered_1.3.11_(b)_(46979)-1.bin",
         "setup_day_of_the_tentacle_remastered_1.3.11_(b)_(46979).exe"
     ],
+    "gog": {
+        "appid": "1456922969",
+        "appname": "day_of_the_tentacle_remastered",
+        "buildid": "1.3.11 (B)",
+        "name": "Day of the Tentacle Remastered"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_day_of_the_tentacle_remastered_1.3.11_(b)_(46979).exe"
     ],

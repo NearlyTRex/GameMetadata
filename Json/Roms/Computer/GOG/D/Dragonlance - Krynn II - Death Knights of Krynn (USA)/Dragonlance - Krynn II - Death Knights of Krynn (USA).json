@@ -10,6 +10,12 @@
         "extra/ks_deathknights_manual_pdf.zip",
         "setup_death_knights_of_krynn_1.10_(28043).exe"
     ],
+    "gog": {
+        "appid": "1432722599",
+        "appname": "death_knights_of_krynn",
+        "buildid": "1.10",
+        "name": "Death Knights of Krynn"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_death_knights_of_krynn_1.10_(28043).exe"
     ],

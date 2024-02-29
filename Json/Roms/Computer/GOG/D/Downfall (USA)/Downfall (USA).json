@@ -8,6 +8,12 @@
         "extra/downfall_wallpaper.zip",
         "setup_downfall_gog-7_(3705).exe"
     ],
+    "gog": {
+        "appid": "1207660723",
+        "appname": "downfall",
+        "buildid": "gog-7",
+        "name": "Downfall"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_downfall_gog-7_(3705).exe"
     ],

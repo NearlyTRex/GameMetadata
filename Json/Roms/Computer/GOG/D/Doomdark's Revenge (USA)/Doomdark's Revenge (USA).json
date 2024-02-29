@@ -10,6 +10,12 @@
         "extra/doomdarks_revenge_wallpapers.zip",
         "setup_doomdarks_revenge_1.0_(20821).exe"
     ],
+    "gog": {
+        "appid": "1207660693",
+        "appname": "doomdarks_revenge",
+        "buildid": "1.3.8",
+        "name": "Doomdark's Revenge"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_doomdarks_revenge_1.0_(20821).exe"
     ],

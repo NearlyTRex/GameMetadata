@@ -17,6 +17,12 @@
         "setup_shadow_of_the_comet_1.0_(28045).exe",
         "setup_shadow_of_the_comet_floppy_2.0.0.3.exe"
     ],
+    "gog": {
+        "appid": "1431942210",
+        "appname": "call_of_cthulhu_shadow_of_the_comet",
+        "buildid": "1.0",
+        "name": "Call of Cthulhu: Shadow of the Comet"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_shadow_of_the_comet_1.0_(28045).exe"
     ],

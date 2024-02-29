@@ -8,6 +8,12 @@
         "extra/dark_fall_soundtrack.zip",
         "setup_dark_fall_-_the_journal_6.00_(19403).exe"
     ],
+    "gog": {
+        "appid": "1207658804",
+        "appname": "dark_fall_the_journal",
+        "buildid": "6.00",
+        "name": "Dark Fall: The Journal"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dark_fall_-_the_journal_6.00_(19403).exe"
     ],

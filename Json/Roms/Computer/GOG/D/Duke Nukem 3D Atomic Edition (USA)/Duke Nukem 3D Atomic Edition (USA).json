@@ -14,6 +14,12 @@
         "extra/duke_sms_tones.zip",
         "setup_duke_nukem_3d_1.5_(28044).exe"
     ],
+    "gog": {
+        "appid": "1207658730",
+        "appname": "duke_nukem_3d_atomic_edition",
+        "buildid": "1.5",
+        "name": "Duke Nukem 3D Atomic Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_duke_nukem_3d_1.5_(28044).exe"
     ],

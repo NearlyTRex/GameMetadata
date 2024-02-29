@@ -3,6 +3,12 @@
         "setup_cayne_2.0.0.2-1.bin",
         "setup_cayne_2.0.0.2.exe"
     ],
+    "gog": {
+        "appid": "2016844216",
+        "appname": "cayne",
+        "buildid": "1.26 (gog-2)",
+        "name": "CAYNE"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_cayne_2.0.0.2.exe"
     ],

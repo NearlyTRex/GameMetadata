@@ -2,6 +2,12 @@
     "files": [
         "setup_delores_a_thimbleweed_park_mini-adventure_1.1.191_(64bit)_(38487).exe"
     ],
+    "gog": {
+        "appid": "1250071528",
+        "appname": "delores_a_thimbleweed_park_miniadventure",
+        "buildid": "1.1.191",
+        "name": "Delores: A Thimbleweed Park Mini-Adventure"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_delores_a_thimbleweed_park_mini-adventure_1.1.191_(64bit)_(38487).exe"
     ],

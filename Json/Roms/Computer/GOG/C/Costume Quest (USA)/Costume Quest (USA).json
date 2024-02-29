@@ -8,6 +8,12 @@
         "extra/costume_quest_wallpapers.zip",
         "setup_costume_quest_gog-1_(18301).exe"
     ],
+    "gog": {
+        "appid": "1207659132",
+        "appname": "costume_quest",
+        "buildid": "gog-1",
+        "name": "Costume Quest"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_costume_quest_gog-1_(18301).exe"
     ],

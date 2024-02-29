@@ -6,6 +6,12 @@
         "extra/doom_2_manual.zip",
         "setup_doom_ii_with_master_levels_1.9_(28044).exe"
     ],
+    "gog": {
+        "appid": "1435848814",
+        "appname": "doom_ii_master_levels_game",
+        "buildid": "1.9",
+        "name": "DOOM II + Master Levels"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_doom_ii_with_master_levels_1.9_(28044).exe"
     ],

@@ -8,6 +8,12 @@
         "extra/dracula_5_wallpaper.zip",
         "setup_dracula5_2.1.0.3.exe"
     ],
+    "gog": {
+        "appid": "1207664283",
+        "appname": "dracula_5_the_blood_legacy",
+        "buildid": "2.1.0.3",
+        "name": "Dracula 5: The Blood Legacy"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dracula5_2.1.0.3.exe"
     ],

@@ -3,6 +3,12 @@
         "setup_darkwood_1.4.2_(64bit)_(70214)-1.bin",
         "setup_darkwood_1.4.2_(64bit)_(70214).exe"
     ],
+    "gog": {
+        "appid": "1578751181",
+        "appname": "darkwood",
+        "buildid": "1.4.2",
+        "name": "Darkwood"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_darkwood_1.4.2_(64bit)_(70214).exe"
     ],

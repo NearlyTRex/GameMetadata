@@ -14,6 +14,12 @@
         "extra/the_cat_lady_extended_ost.zip",
         "setup_the_cat_lady_1.7_(20820).exe"
     ],
+    "gog": {
+        "appid": "1207659201",
+        "appname": "the_cat_lady",
+        "buildid": "1.7",
+        "name": "The Cat Lady"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_the_cat_lady_1.7_(20820).exe"
     ],

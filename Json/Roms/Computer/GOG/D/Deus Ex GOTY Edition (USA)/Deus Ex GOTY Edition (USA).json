@@ -24,6 +24,12 @@
         "extra/revision_full_achievements_list.zip",
         "setup_deus_ex_goty_1.112fm(revision_1.6.1.0)_(45326).exe"
     ],
+    "gog": {
+        "appid": "1207658995",
+        "appname": "deus_ex",
+        "buildid": "1.112fm(Revision 1.6.1.0)",
+        "name": "Deus Ex\u2122 GOTY Edition"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_deus_ex_goty_1.112fm(revision_1.6.1.0)_(45326).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_deus_ex_revision_1.112fm(revision_1.6.1.0)_(45326).exe"
