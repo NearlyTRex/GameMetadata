@@ -3,6 +3,12 @@
         "setup_inscryption_1.10_win_(56780)-1.bin",
         "setup_inscryption_1.10_win_(56780).exe"
     ],
+    "gog": {
+        "appid": "1224800338",
+        "appname": "inscryption",
+        "buildid": "1.10 Win",
+        "name": "Inscryption"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_inscryption_1.10_win_(56780).exe"
     ],

@@ -14,6 +14,12 @@
         "extra/ittle_dew_wallpapers.zip",
         "setup_ittle_dew_2.3.0.6.exe"
     ],
+    "gog": {
+        "appid": "1207659258",
+        "appname": "ittle_dew",
+        "buildid": "1.6 (gog-6)",
+        "name": "Ittle Dew"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ittle_dew_2.3.0.6.exe"
     ],

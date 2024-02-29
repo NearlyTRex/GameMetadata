@@ -3,6 +3,12 @@
         "setup_grim_dawn_1.2.0.3_hotfix_3_(64bit)_(69499)-1.bin",
         "setup_grim_dawn_1.2.0.3_hotfix_3_(64bit)_(69499).exe"
     ],
+    "gog": {
+        "appid": "1449651388",
+        "appname": "grim_dawn",
+        "buildid": "1.2.0.3 hotfix 3",
+        "name": "Grim Dawn"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_grim_dawn_1.2.0.3_hotfix_3_(64bit)_(69499).exe"
     ],

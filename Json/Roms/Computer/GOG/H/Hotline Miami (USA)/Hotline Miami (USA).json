@@ -10,6 +10,12 @@
         "extra/hotline_miami_wallpapers.zip",
         "setup_hotline_miami_gog-8(a)_(46452).exe"
     ],
+    "gog": {
+        "appid": "1207659118",
+        "appname": "hotline_miami",
+        "buildid": "gog-8(a)",
+        "name": "Hotline Miami"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_hotline_miami_gog-8(a)_(46452).exe"
     ],

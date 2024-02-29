@@ -6,6 +6,12 @@
         "extra/jazz_jackrabbit_manual.zip",
         "setup_jazz_jackrabbit_collection_2.0_csv2_(51327).exe"
     ],
+    "gog": {
+        "appid": "1808582759",
+        "appname": "jazz_jackrabbit_collection",
+        "buildid": "2.0 CSv2",
+        "name": "Jazz Jackrabbit Collection"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_jazz_jackrabbit_collection_2.0_csv2_(51327).exe"
     ],

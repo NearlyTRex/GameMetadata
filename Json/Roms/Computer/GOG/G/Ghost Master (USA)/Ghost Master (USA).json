@@ -18,6 +18,12 @@
         "extra/ghost_master_wallpapers.zip",
         "setup_ghost_master_20171020_(15806).exe"
     ],
+    "gog": {
+        "appid": "1207658687",
+        "appname": "ghost_master",
+        "buildid": "20171020",
+        "name": "Ghost Master"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_ghost_master_20171020_(15806).exe"
     ],

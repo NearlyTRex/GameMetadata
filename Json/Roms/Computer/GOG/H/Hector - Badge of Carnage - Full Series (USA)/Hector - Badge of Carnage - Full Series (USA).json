@@ -3,6 +3,12 @@
         "setup_hector_badge_of_carnage_1.0_(21465)-1.bin",
         "setup_hector_badge_of_carnage_1.0_(21465).exe"
     ],
+    "gog": {
+        "appid": "1441711248",
+        "appname": "hector_badge_of_carnage",
+        "buildid": "1.0",
+        "name": "Hector: Badge of Carnage - Full Series"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_hector_badge_of_carnage_1.0_(21465).exe"
     ],

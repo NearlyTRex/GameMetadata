@@ -6,6 +6,12 @@
         "extra/indiana_jones_infernal_machine_manual.zip",
         "setup_indiana_jones_and_the_infernal_machine_1.2_(23840).exe"
     ],
+    "gog": {
+        "appid": "1106707958",
+        "appname": "indiana_jones_and_the_infernal_machine",
+        "buildid": "1.2",
+        "name": "Indiana Jones\u00ae and the Infernal Machine\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_indiana_jones_and_the_infernal_machine_1.2_(23840).exe"
     ],

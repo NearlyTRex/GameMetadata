@@ -8,6 +8,12 @@
         "extra/indiana_jones_last_crusade_grail_diary.zip",
         "setup_indiana_jones_and_the_last_crusade_1.0_(20270).exe"
     ],
+    "gog": {
+        "appid": "1440410803",
+        "appname": "indiana_jones_and_the_last_crusade",
+        "buildid": "1.0",
+        "name": "Indiana Jones\u00ae and the Last Crusade\u2122"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_indiana_jones_and_the_last_crusade_1.0_(20270).exe"
     ],

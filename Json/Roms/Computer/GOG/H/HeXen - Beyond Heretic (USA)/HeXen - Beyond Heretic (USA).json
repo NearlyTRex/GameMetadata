@@ -2,6 +2,12 @@
     "files": [
         "setup_hexen_beyond_heretic_1.1_(42801).exe"
     ],
+    "gog": {
+        "appid": "1247951670",
+        "appname": "hexen_beyond_heretic",
+        "buildid": "1.1",
+        "name": "Hexen: Beyond Heretic"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_hexen_beyond_heretic_1.1_(42801).exe"
     ],

@@ -2,6 +2,12 @@
     "files": [
         "setup_jazz_jackrabbit_2_cc_1.2x_(16742).exe"
     ],
+    "gog": {
+        "appid": "1597842603",
+        "appname": "jazz_jackrabbit_2_christmas_chronicles",
+        "buildid": "1.2X",
+        "name": "Jazz Jackrabbit 2: The Christmas Chronicles"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_jazz_jackrabbit_2_cc_1.2x_(16742).exe"
     ],

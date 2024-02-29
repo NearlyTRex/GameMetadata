@@ -11,6 +11,12 @@
         "setup_gabriel_knight_2_-_the_beast_within_1.1_(20239)-1.bin",
         "setup_gabriel_knight_2_-_the_beast_within_1.1_(20239).exe"
     ],
+    "gog": {
+        "appid": "1207658837",
+        "appname": "gabriel_knight_2_the_beast_within",
+        "buildid": "1.1",
+        "name": "Gabriel Knight 2: The Beast Within"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_gabriel_knight_2_-_the_beast_within_1.1_(20239).exe"
     ],

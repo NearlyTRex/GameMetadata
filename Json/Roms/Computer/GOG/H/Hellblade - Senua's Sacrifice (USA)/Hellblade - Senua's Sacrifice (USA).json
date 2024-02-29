@@ -6,6 +6,12 @@
         "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513)-4.bin",
         "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513).exe"
     ],
+    "gog": {
+        "appid": "1573355755",
+        "appname": "hellblade_senuas_sacrifice",
+        "buildid": "1.03.1.202111032018",
+        "name": "Hellblade: Senua's Sacrifice"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513).exe"
     ],

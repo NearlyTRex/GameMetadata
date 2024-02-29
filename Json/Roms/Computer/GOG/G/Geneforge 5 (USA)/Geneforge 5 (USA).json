@@ -10,6 +10,12 @@
         "extra/geneforge_manuals.zip",
         "setup_geneforge_5_-_overthrow_1.0.1g_(21279).exe"
     ],
+    "gog": {
+        "appid": "1207662973",
+        "appname": "geneforge_5",
+        "buildid": "1.0.1g",
+        "name": "Geneforge 5"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_geneforge_5_-_overthrow_1.0.1g_(21279).exe"
     ],

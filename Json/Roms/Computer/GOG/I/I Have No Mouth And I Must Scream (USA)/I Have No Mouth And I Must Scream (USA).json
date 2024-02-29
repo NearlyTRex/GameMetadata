@@ -12,6 +12,12 @@
         "extra/ihnmaims_sountrack.zip",
         "setup_i_have_no_mouth_gog-2_(17822).exe"
     ],
+    "gog": {
+        "appid": "1207659593",
+        "appname": "i_have_no_mouth_and_i_must_scream",
+        "buildid": "gog-2",
+        "name": "I Have No Mouth And I Must Scream"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_i_have_no_mouth_gog-2_(17822).exe"
     ],

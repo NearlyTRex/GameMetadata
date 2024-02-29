@@ -12,6 +12,12 @@
         "extra/hotline_miami_2_wallpaper.zip",
         "setup_hotline_miami_2_-_wrong_number_07.12.2017_(16977).exe"
     ],
+    "gog": {
+        "appid": "1424773427",
+        "appname": "hotline_miami_2_wrong_number",
+        "buildid": "07.12.2017",
+        "name": "Hotline Miami 2: Wrong Number"
+    },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_hotline_miami_2_-_wrong_number_07.12.2017_(16977).exe"
     ],
