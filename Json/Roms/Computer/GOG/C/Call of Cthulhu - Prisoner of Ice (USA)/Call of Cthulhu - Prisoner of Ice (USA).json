@@ -3,15 +3,16 @@
         "poi_handbuch_de.zip",
         "poi_manual_eng.zip",
         "poi_manuel_fr.zip",
-        "poi_newspaper.zip"
+        "poi_newspaper.zip",
+        "setup_prisoner_of_ice_uk_2.0.0.1.exe"
     ],
     "files": [
         "extra/poi_handbuch_de.zip",
         "extra/poi_manual_eng.zip",
         "extra/poi_manuel_fr.zip",
         "extra/poi_newspaper.zip",
-        "setup_prisoner_of_ice_gog-5_(17101).exe",
-        "setup_prisoner_of_ice_uk_2.0.0.1.exe"
+        "extra/setup_prisoner_of_ice_uk_2.0.0.1.exe",
+        "setup_prisoner_of_ice_gog-5_(17101).exe"
     ],
     "gog": {
         "appid": "1432222749",

@@ -1,5 +1,6 @@
 {
     "extra": [
+        "setup_shadow_of_the_comet_floppy_2.0.0.3.exe",
         "sotc_capt_robins.zip",
         "sotc_death_certificate.zip",
         "sotc_forester_note.zip",
@@ -8,14 +9,14 @@
         "sotc_manual_eng.zip"
     ],
     "files": [
+        "extra/setup_shadow_of_the_comet_floppy_2.0.0.3.exe",
         "extra/sotc_capt_robins.zip",
         "extra/sotc_death_certificate.zip",
         "extra/sotc_forester_note.zip",
         "extra/sotc_handbuch.zip",
         "extra/sotc_jack_reeves.zip",
         "extra/sotc_manual_eng.zip",
-        "setup_shadow_of_the_comet_1.0_(28045).exe",
-        "setup_shadow_of_the_comet_floppy_2.0.0.3.exe"
+        "setup_shadow_of_the_comet_1.0_(28045).exe"
     ],
     "gog": {
         "appid": "1431942210",
