@@ -8539,6 +8539,35 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Nomads of Driftland (USA)
+file: Computer/GOG/N/Nomads of Driftland (USA)/Nomads of Driftland (USA).json
+developer: Star Drifters
+publisher: Star Drifters
+genre: Strategy;Real-Time;Command
+description:
+  Nomads of Driftland is an RTS game initially created as an add-on to Driftland:
+  The Magic Revival. Since it is significantly different from the base game, we
+  decided to release it as a standalone expansion and make it available for free.
+  .
+  Driftland: The Magic Revival is a unique fusion of RTS, 4X strategy, and Sim
+  genres in a fantasy world made up of the shattered planet. The player takes on
+  the role of a powerful mage-ruler capable of moving and reshaping parts of the
+  planet. Both game mechanics and history are based on an innovative concept of
+  dynamic topography and issuing orders to individuals with free will.
+  .
+  Nomads do not have a ruler and do not carry out orders like other races in the
+  base game. Units are managed directly, like in classic RTS games. New unit
+  types/classes affect strategy on the battlefield.
+release: 2020-12-07
+players: 1
+assets.boxfront: BoxFront/Nomads of Driftland (USA).jpg
+assets.boxback: BoxBack/Nomads of Driftland (USA).jpg
+assets.background: Background/Nomads of Driftland (USA).jpg
+assets.screenshot: Screenshot/Nomads of Driftland (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Nosferatu - Wrath of Malachi (USA)
 file: Computer/GOG/N/Nosferatu - Wrath of Malachi (USA)/Nosferatu - Wrath of Malachi (USA).json
 developer: Idol FX
@@ -14006,6 +14035,41 @@ assets.boxback: BoxBack/Wasteland - The Original Classic (USA).jpg
 assets.background: Background/Wasteland - The Original Classic (USA).jpg
 assets.screenshot: Screenshot/Wasteland - The Original Classic (USA).jpg
 assets.video: Video/Wasteland - The Original Classic (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Wasteland 2 (USA)
+file: Computer/GOG/W/Wasteland 2 (USA)/Wasteland 2 (USA).json
+developer: InXile Entertainment
+publisher: InXile Entertainment
+genre: Role-Playing;Western-Style
+description:
+  Wasteland 2 is the direct sequel to the first ever post-apocalyptic computer
+  RPG. The original Wasteland was the inspiration for the FALLOUT series of games,
+  and the first RPG to allow players to split parties for tactical considerations,
+  to face players with moral choices, and to make them deal with the consequences
+  of their actions. It was the first to provide far more than the one-key-for-one-
+  lock style of puzzle solving. It was groundbreaking, which is why IGN named it
+  one of the top 25 PC games of all time, Computer Gaming World named it the
+  Adventure Game of the year in 1988, and it was short-listed for inclusion in the
+  Smithsonian Institutions current Art of the Computer Game exhibition.
+  .
+  Wasteland was set in a dangerous, post-apocalyptic world in the American
+  Southwest. Over the course of adventures rangers would receive promotions,
+  acquire new skills and equipment, then face new challenges with outcomes that
+  changed depending on the strategy used to defeat them. The game featured a
+  strong storyline which required painful decisions by players; and a storyline
+  that allowed for maximum re-playability. Wasteland 2, with your participation
+  and insights, will recapture all that and provide more. It'll finally be the
+  game worthy to be a Wasteland sequel, as challenging and rewarding as the
+  original, with all added capacity and dazzle of games today.
+release: 2014-09-18
+players: 1
+assets.boxfront: BoxFront/Wasteland 2 (USA).jpg
+assets.boxback: BoxBack/Wasteland 2 (USA).jpg
+assets.background: Background/Wasteland 2 (USA).jpg
+assets.screenshot: Screenshot/Wasteland 2 (USA).jpg
 x-co-op: No
 x-playable: Yes
 
