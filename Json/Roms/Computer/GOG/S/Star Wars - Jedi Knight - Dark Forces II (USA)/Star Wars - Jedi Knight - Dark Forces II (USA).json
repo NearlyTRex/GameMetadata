@@ -1,6 +1,17 @@
 {
+    "extra": [
+        "sw_df_2_manual.zip"
+    ],
+    "files": [
+        "extra/sw_df_2_manual.zip",
+        "setup_star_wars_jedi_knight_-_dark_forces_2_1.01_(17966).exe"
+    ],
     "gog": {
         "appid": "1422286819",
         "appname": "star_wars_republic_commando_copy3"
-    }
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_star_wars_jedi_knight_-_dark_forces_2_1.01_(17966).exe"
+    ],
+    "transform_file": "setup_star_wars_jedi_knight_-_dark_forces_2_1.01_(17966).exe"
 }

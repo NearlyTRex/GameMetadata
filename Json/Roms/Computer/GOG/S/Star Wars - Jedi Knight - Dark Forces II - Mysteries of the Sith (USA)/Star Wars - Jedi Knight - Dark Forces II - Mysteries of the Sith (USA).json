@@ -1,6 +1,17 @@
 {
+    "extra": [
+        "sw_df_2_mots_manual.zip"
+    ],
+    "files": [
+        "extra/sw_df_2_mots_manual.zip",
+        "setup_star_wars_jedi_knight_-_mysteries_of_the_sith_1.0_(17966).exe"
+    ],
     "gog": {
         "appid": "1422285784",
         "appname": "star_wars_jedi_knight_dark_forces_ii_copy3"
-    }
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_star_wars_jedi_knight_-_mysteries_of_the_sith_1.0_(17966).exe"
+    ],
+    "transform_file": "setup_star_wars_jedi_knight_-_mysteries_of_the_sith_1.0_(17966).exe"
 }
