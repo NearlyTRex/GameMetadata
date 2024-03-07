@@ -2076,6 +2076,34 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Holiday 2004 Demo Disc (USA) (PR-Mature)
+file: Sony/Sony PlayStation 2/Holiday 2004 Demo Disc (USA) (PR-Mature)/Holiday 2004 Demo Disc (USA) (PR-Mature).json
+developer: Sony
+publisher: Sony
+genre: Action;Adventure
+description:
+  2004 holiday demo disc for PS2 from Playstation underground magazine. This disc
+  has a well known flaw that would erase all the information on the PS2 memory
+  card if you play the Viewtiful Joe 2 demo. Sony later sent out apology letters
+  to everyone who received the disc. I don't know if the ISO version is capable of
+  erasing memory card data if played on an emulator such as PCSX2, play at your
+  own risk.
+  .
+  Contains demos for:
+  .
+  Ratchet & Clank: Up Your Arsenal, Jak 3, ATV Offroad Fury 3, Star Wars
+  Battlefront, Ace Combat 5, Crash Twinsanity, Tak 2: The Staff of Dreams, The
+  Incredibles, Viewtiful Joe 2 and Spyro: A Hero's Tail
+release: 2004-12-01
+players: 1
+assets.boxfront: BoxFront/Holiday 2004 Demo Disc (USA) (PR-Mature).jpg
+assets.boxback: BoxBack/Holiday 2004 Demo Disc (USA) (PR-Mature).jpg
+assets.background: Background/Holiday 2004 Demo Disc (USA) (PR-Mature).jpg
+assets.screenshot: Screenshot/Holiday 2004 Demo Disc (USA) (PR-Mature).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Hungry Ghosts (Japan)
 file: Sony/Sony PlayStation 2/Hungry Ghosts (Japan)/Hungry Ghosts (Japan).json
 developer: Deep Space, Inc.
@@ -3078,6 +3106,30 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Network Adaptor Start-Up Disc (USA) (v1.01)
+file: Sony/Sony PlayStation 2/Network Adaptor Start-Up Disc (USA) (v1.01)/Network Adaptor Start-Up Disc (USA) (v1.01).json
+developer: Sony Computer Entertainment
+publisher: Sony Computer Entertainment
+genre: Utility
+description:
+  Bundled with the Network Adaptor (SCPH-10281 or SCPH-10350) in NTSC-U regions
+  (North America). Later rebranded to "Online Start-Up Disc" and bundled with
+  all slim PS2 consoles (SCPH-7XXXX - SCPH-9XXXX). Used to write network
+  configuration data to the memory card which can be accessed by games that
+  support online mode. Also contains some instructional videos about connecting
+  the PS2 to the internet. Many different versions exist, depending e.g. on the
+  region or whether it was sold with the modem-variant of the Network Adaptor
+  or the Ethernet-only variant etc.
+release: 2002-02-01
+players: 1
+assets.boxfront: BoxFront/Network Adaptor Start-Up Disc (USA) (v1.01).jpg
+assets.boxback: BoxBack/Network Adaptor Start-Up Disc (USA) (v1.01).jpg
+assets.background: Background/Network Adaptor Start-Up Disc (USA) (v1.01).jpg
+assets.screenshot: Screenshot/Network Adaptor Start-Up Disc (USA) (v1.01).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Nightmare of Druaga, The - Fushigino Dungeon (USA)
 file: Sony/Sony PlayStation 2/Nightmare of Druaga, The - Fushigino Dungeon (USA)/Nightmare of Druaga, The - Fushigino Dungeon (USA).json
 developer: Arika Co., Ltd., Chunsoft Co., Ltd.
@@ -3254,6 +3306,24 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Online Start-Up Disc 4.0 - Broadband Only (USA)
+file: Sony/Sony PlayStation 2/Online Start-Up Disc 4.0 - Broadband Only (USA)/Online Start-Up Disc 4.0 - Broadband Only (USA).json
+developer: Sony Computer Entertainment
+publisher: Sony Computer Entertainment
+genre: Utility
+description:
+  The PlayStation 2 Online Start-Up Disc allowed users to hook up the console
+  to the Internet... and that's it.
+release: 2005-06-22
+players: 1
+assets.boxfront: BoxFront/Online Start-Up Disc 4.0 - Broadband Only (USA).jpg
+assets.boxback: BoxBack/Online Start-Up Disc 4.0 - Broadband Only (USA).jpg
+assets.background: Background/Online Start-Up Disc 4.0 - Broadband Only (USA).jpg
+assets.screenshot: Screenshot/Online Start-Up Disc 4.0 - Broadband Only (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Operative, The - No One Lives Forever (USA)
 file: Sony/Sony PlayStation 2/Operative, The - No One Lives Forever (USA)/Operative, The - No One Lives Forever (USA).json
 developer: Monolith
@@ -3407,6 +3477,30 @@ assets.boxfront: BoxFront/PlayStation Underground Jampack - Winter 2001 (USA).jp
 assets.boxback: BoxBack/PlayStation Underground Jampack - Winter 2001 (USA).jpg
 assets.background: Background/PlayStation Underground Jampack - Winter 2001 (USA).jpg
 assets.screenshot: Screenshot/PlayStation Underground Jampack - Winter 2001 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Primal (USA) (Demo)
+file: Sony/Sony PlayStation 2/Primal (USA) (Demo)/Primal (USA) (Demo).json
+developer: SCE Studio Cambridge
+publisher: SCEA
+genre: Action Adventure;General
+description:
+  Primal follows Jennifer Tate, a modern-day girl who is ripped from her normal
+  life of being a student and thrown into an epic battle with demon forces from an
+  immortal world. As Jen, you'll assume a host of savage demon forms, each with
+  its own unique powers and abilities. With the help of your ally Scree, unleash
+  devastating combos, finishing moves, and stealth attacks upon legions of
+  enemies. With an intricate weave of plot and multiple sub-plots, Primal will
+  have you spiraling through a world driven by exploration, puzzle-solving,
+  combat, and story.
+release: 2003-03-25
+players: 1
+assets.boxfront: BoxFront/Primal (USA) (Demo).jpg
+assets.boxback: BoxBack/Primal (USA) (Demo).jpg
+assets.background: Background/Primal (USA) (Demo).jpg
+assets.screenshot: Screenshot/Primal (USA) (Demo).jpg
 x-co-op: No
 x-playable: Yes
 
