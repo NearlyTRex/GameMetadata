@@ -254,6 +254,42 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Max Payne (USA)
+file: Microsoft/Microsoft Xbox/Max Payne (USA)/Max Payne (USA).json
+developer: Remedy Entertainment
+publisher: Rockstar Games
+genre: Action;Adventure;Shooter
+description:
+  The story is told in medias res and consists of three volumes: "The American
+  Dream", "A Cold Day in Hell", and "A Bit Closer to Heaven". The game begins in
+  the winter of 2001, as New York City finishes experiencing the worst blizzard in
+  the history of the city. The intro sequence shows Max Payne, a renegade DEA
+  agent and former NYPD officer, standing at the top of a skyscraper building as
+  police units arrive. He then experiences a flashback from three years ago. Back
+  in 1998, Max returned home to find that a trio of apparent junkies had broken
+  into his house while high on a new designer drug called Valkyr. Max rushed to
+  the aid his family, but was too late and his wife and their newborn daughter had
+  already been brutally murdered. After his family's funeral, Payne transferred to
+  the DEA. Three years later, Max Payne is employed as an undercover operative
+  inside the Punchinello Mafia family responsible for the trafficking of Valkyr.
+  His DEA colleague B.B. gives Max a message asking him to meet another DEA agent,
+  who is also Max's best friend, Alex Balder, in the NYC Subway station. Max's
+  arrival at the subway results in a shoot-out after he encounters mobsters
+  working for Jack Lupino, a Mafia underboss in the Punchinello crime family,
+  attempting a bank robbery by breaking through from the station. Working his way
+  back to the surface, Max encounters Alex, who is then killed by an unknown
+  assassin and Payne becomes the prime suspect in the murder. Additionally, the
+  Mafia find out that he is a cop and now want him dead.
+release: 2001-12-12
+players: 1
+assets.boxfront: BoxFront/Max Payne (USA).jpg
+assets.boxback: BoxBack/Max Payne (USA).jpg
+assets.background: Background/Max Payne (USA).jpg
+assets.screenshot: Screenshot/Max Payne (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Mercenaries (USA, Europe)
 file: Microsoft/Microsoft Xbox/Mercenaries (USA, Europe)/Mercenaries (USA, Europe).json
 developer: Pandemic

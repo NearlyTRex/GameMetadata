@@ -2,6 +2,32 @@ collection: Nintendo DS
 launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo DS" -n {file.basename}
 
 
+game: Age of Empires - The Age of Kings (USA)
+file: Nintendo/Nintendo DS/Age of Empires - The Age of Kings (USA)/Age of Empires - The Age of Kings (USA).json
+developer: Backbone Entertainment
+publisher: Majesco Entertainment
+genre: Strategy
+description:
+  The Age of Kings allows the player to command any one of five historical
+  civilizations: the Britons, Franks, Mongols, Saracens and Japanese. It has a
+  single-player campaign and scenario mode, as well as a multiplayer wireless and
+  hotseat mode.
+  .
+  The Age of Kings is turn-based. As a derivative of the Age of Empires series,
+  other games of which are real-time strategy as opposed to turn-based strategy,
+  The Age of Kings incorporates several features and mechanics commonly associated
+  with real-time strategy, including technology advancement and resource and
+  building management.
+release: 2006-02-14
+players: 4
+assets.boxfront: BoxFront/Age of Empires - The Age of Kings (USA).jpg
+assets.boxback: BoxBack/Age of Empires - The Age of Kings (USA).jpg
+assets.background: Background/Age of Empires - The Age of Kings (USA).jpg
+assets.screenshot: Screenshot/Age of Empires - The Age of Kings (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: America's Test Kitchen - Let's Get Cooking (USA)
 file: Nintendo/Nintendo DS/America's Test Kitchen - Let's Get Cooking (USA)/America's Test Kitchen - Let's Get Cooking (USA).json
 developer: Indies Zero
@@ -2200,6 +2226,32 @@ assets.boxback: BoxBack/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).jpg
 assets.background: Background/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).jpg
 assets.screenshot: Screenshot/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Puzzle Quest 2 (USA) (En,Fr,Es)
+file: Nintendo/Nintendo DS/Puzzle Quest 2 (USA) (En,Fr,Es)/Puzzle Quest 2 (USA) (En,Fr,Es).json
+developer: Infinite Interactive
+publisher: D3 Publisher Inc.
+genre: Puzzle
+description:
+  This game features its hallmark blend of match-3 gem matching and fantasy, with
+  a simple but meaningful role playing experience where players can choose any of
+  four character classes; War Mage, Inquisitor, Barbarian or Assassin. Each
+  character class provides interesting twists during multiple play-throughs as
+  players reclaim the once peaceful village of Verloren from the evil clutch of
+  the demon Gorgon. Players will be able to level up each character to progress
+  through the adventure in Story Mode or even dive into Instant Action, Tournament
+  Mode, or Mutliplayer Mode for a rich and diverse experience. With the entire
+  Puzzle Quest world accessible on your fingertips in real-time action, players
+  will be able to get a more streamlined experience for instant gratification.
+release: 2010-06-22
+players: 4
+assets.boxfront: BoxFront/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
+assets.boxback: BoxBack/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
+assets.background: Background/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
+assets.screenshot: Screenshot/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
