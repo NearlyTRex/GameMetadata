@@ -1,7 +1,12 @@
 {
-    "files": [
-        "setup_lone_survivor_-_the_directors_cut_1.0_(21178).exe",
+    "extra": [
+        "lone_survivor_original_1.0.0.2.dmg",
         "setup_lone_survivor_2.0.0.2.exe"
+    ],
+    "files": [
+        "extra/lone_survivor_original_1.0.0.2.dmg",
+        "extra/setup_lone_survivor_2.0.0.2.exe",
+        "setup_lone_survivor_-_the_directors_cut_1.0_(21178).exe"
     ],
     "gog": {
         "appid": "1207660084",

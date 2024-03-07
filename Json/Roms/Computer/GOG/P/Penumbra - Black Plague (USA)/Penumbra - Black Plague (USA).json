@@ -1,15 +1,18 @@
 {
+    "dlc": [
+        "setup_penumbra_-_requiem_1.0_(20339).exe"
+    ],
     "extra": [
         "penumbra_collection_artworks.zip",
         "penumbra_collection_manuals.zip",
         "penumbra_collection_walkthroughs.zip"
     ],
     "files": [
+        "dlc/setup_penumbra_-_requiem_1.0_(20339).exe",
         "extra/penumbra_collection_artworks.zip",
         "extra/penumbra_collection_manuals.zip",
         "extra/penumbra_collection_walkthroughs.zip",
-        "setup_penumbra_-_black_plague_1.0_(20339).exe",
-        "setup_penumbra_-_requiem_1.0_(20339).exe"
+        "setup_penumbra_-_black_plague_1.0_(20339).exe"
     ],
     "gog": {
         "appid": "1207662743",
@@ -18,7 +21,8 @@
         "name": "Penumbra - Black Plague"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_penumbra_-_black_plague_1.0_(20339).exe"
+        "$SETUP_MAIN_ROOT/setup_penumbra_-_black_plague_1.0_(20339).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_penumbra_-_requiem_1.0_(20339).exe"
     ],
     "transform_file": "setup_penumbra_-_black_plague_1.0_(20339).exe"
 }

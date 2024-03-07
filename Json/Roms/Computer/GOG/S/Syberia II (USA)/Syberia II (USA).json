@@ -1,5 +1,6 @@
 {
     "extra": [
+        "setup_syberia2_russian_2.1.0.1.exe",
         "syberia2_Artworks.zip",
         "syberia2_Avatars.zip",
         "syberia2_Manual.zip",
@@ -7,12 +8,12 @@
         "syberia2_music.zip"
     ],
     "files": [
+        "extra/setup_syberia2_russian_2.1.0.1.exe",
         "extra/syberia2_Artworks.zip",
         "extra/syberia2_Avatars.zip",
         "extra/syberia2_Manual.zip",
         "extra/syberia2_Wallpapers.zip",
         "extra/syberia2_music.zip",
-        "setup_syberia2_russian_2.1.0.1.exe",
         "setup_syberia_2_20171109_(16283).exe"
     ],
     "gog": {
@@ -22,7 +23,7 @@
         "name": "Syberia II"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_syberia2_russian_2.1.0.1.exe"
+        "$SETUP_MAIN_ROOT/setup_syberia_2_20171109_(16283).exe"
     ],
-    "transform_file": "setup_syberia2_russian_2.1.0.1.exe"
+    "transform_file": "setup_syberia_2_20171109_(16283).exe"
 }

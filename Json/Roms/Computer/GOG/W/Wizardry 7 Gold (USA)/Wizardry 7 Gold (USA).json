@@ -1,14 +1,20 @@
 {
     "extra": [
+        "setup_wizardry7dos_2.0.0.11.exe",
+        "setup_wizardry7dos_german_2.2.0.2.exe",
         "wizardry67_cluebooks.zip",
         "wizardry67_manuals.zip",
         "wizardry67_soundtrack.zip",
         "wizardry6_character_sheet.zip",
         "wizardry6_icon_list.zip",
         "wizardry7_map.zip",
-        "wizardry7_reference_card.zip"
+        "wizardry7_reference_card.zip",
+        "wizardry_7_1.0.0.4.dmg",
+        "wizardry_7_dos_german_2.0.0.2.dmg"
     ],
     "files": [
+        "extra/setup_wizardry7dos_2.0.0.11.exe",
+        "extra/setup_wizardry7dos_german_2.2.0.2.exe",
         "extra/wizardry67_cluebooks.zip",
         "extra/wizardry67_manuals.zip",
         "extra/wizardry67_soundtrack.zip",
@@ -16,14 +22,14 @@
         "extra/wizardry6_icon_list.zip",
         "extra/wizardry7_map.zip",
         "extra/wizardry7_reference_card.zip",
-        "setup_wizardry7_2.2.0.17.exe",
-        "setup_wizardry7dos_2.0.0.11.exe",
-        "setup_wizardry7dos_german_2.2.0.2.exe"
+        "extra/wizardry_7_1.0.0.4.dmg",
+        "extra/wizardry_7_dos_german_2.0.0.2.dmg",
+        "setup_wizardry7_2.2.0.17.exe"
     ],
     "gog": {
         "appid": "1207662783",
         "appname": "wizardry_7_gold",
-        "buildid": "2.2.0.17",
+        "buildid": null,
         "name": "Wizardry 7 Gold"
     },
     "installer_exe": [
