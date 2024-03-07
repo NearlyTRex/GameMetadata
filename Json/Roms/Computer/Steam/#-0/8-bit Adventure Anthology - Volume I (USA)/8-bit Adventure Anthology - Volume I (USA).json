@@ -1,9 +1,6 @@
 {
     "files": [
-        "8-bit Adventure Anthology - Volume I (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/8-bit Adventure Anthology - Volume I (USA).exe"
+        "8-bit Adventure Anthology - Volume I (USA).7z"
     ],
     "steam": {
         "appid": "664850",
@@ -13,5 +10,5 @@
         "controller_support": "full",
         "name": "8-bit Adventure Anthology: Volume I"
     },
-    "transform_file": "8-bit Adventure Anthology - Volume I (USA).exe"
+    "transform_file": "8-bit Adventure Anthology - Volume I (USA).7z"
 }

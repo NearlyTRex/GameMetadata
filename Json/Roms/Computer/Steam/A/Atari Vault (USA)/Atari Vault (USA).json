@@ -1,9 +1,6 @@
 {
     "files": [
-        "Atari Vault (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Atari Vault (USA).exe"
+        "Atari Vault (USA).7z"
     ],
     "steam": {
         "appid": "400020",
@@ -13,5 +10,5 @@
         "controller_support": "full",
         "name": "Atari Vault"
     },
-    "transform_file": "Atari Vault (USA).exe"
+    "transform_file": "Atari Vault (USA).7z"
 }

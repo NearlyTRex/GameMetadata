@@ -1,11 +1,7 @@
 {
     "files": [
         "Bunker, The (USA).7z.001",
-        "Bunker, The (USA).7z.002",
-        "Bunker, The (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bunker, The (USA).exe"
+        "Bunker, The (USA).7z.002"
     ],
     "steam": {
         "appid": "481110",
@@ -15,5 +11,5 @@
         "controller_support": "full",
         "name": "The Bunker"
     },
-    "transform_file": "Bunker, The (USA).exe"
+    "transform_file": "Bunker, The (USA).7z.001"
 }

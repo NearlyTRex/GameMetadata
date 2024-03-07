@@ -1,9 +1,6 @@
 {
     "files": [
-        "Apotheon (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Apotheon (USA).exe"
+        "Apotheon (USA).7z"
     ],
     "main_game_exe": [
         "Apotheon/Apotheon.exe"
@@ -19,5 +16,5 @@
         "controller_support": "full",
         "name": "Apotheon"
     },
-    "transform_file": "Apotheon (USA).exe"
+    "transform_file": "Apotheon (USA).7z"
 }

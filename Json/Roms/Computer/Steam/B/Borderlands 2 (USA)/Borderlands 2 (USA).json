@@ -2,11 +2,7 @@
     "files": [
         "Borderlands 2 (USA).7z.001",
         "Borderlands 2 (USA).7z.002",
-        "Borderlands 2 (USA).7z.003",
-        "Borderlands 2 (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Borderlands 2 (USA).exe"
+        "Borderlands 2 (USA).7z.003"
     ],
     "main_game_exe": [
         "Borderlands 2/Binaries/Win32/Borderlands2.exe"
@@ -22,5 +18,5 @@
         "controller_support": "full",
         "name": "Borderlands 2"
     },
-    "transform_file": "Borderlands 2 (USA).exe"
+    "transform_file": "Borderlands 2 (USA).7z.001"
 }

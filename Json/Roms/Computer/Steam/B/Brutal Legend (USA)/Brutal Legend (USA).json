@@ -1,11 +1,7 @@
 {
     "files": [
         "Brutal Legend (USA).7z.001",
-        "Brutal Legend (USA).7z.002",
-        "Brutal Legend (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Brutal Legend (USA).exe"
+        "Brutal Legend (USA).7z.002"
     ],
     "main_game_exe": [
         "Brutal Legend/BrutalLegend.exe"
@@ -21,5 +17,5 @@
         "controller_support": "full",
         "name": "Br\u00fctal Legend"
     },
-    "transform_file": "Brutal Legend (USA).exe"
+    "transform_file": "Brutal Legend (USA).7z.001"
 }

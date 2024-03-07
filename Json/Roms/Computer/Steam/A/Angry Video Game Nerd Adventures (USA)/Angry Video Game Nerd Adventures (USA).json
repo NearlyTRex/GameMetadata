@@ -1,9 +1,6 @@
 {
     "files": [
-        "Angry Video Game Nerd Adventures (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Angry Video Game Nerd Adventures (USA).exe"
+        "Angry Video Game Nerd Adventures (USA).7z"
     ],
     "steam": {
         "appid": "237740",
@@ -13,5 +10,5 @@
         "controller_support": "full",
         "name": "Angry Video Game Nerd Adventures"
     },
-    "transform_file": "Angry Video Game Nerd Adventures (USA).exe"
+    "transform_file": "Angry Video Game Nerd Adventures (USA).7z"
 }

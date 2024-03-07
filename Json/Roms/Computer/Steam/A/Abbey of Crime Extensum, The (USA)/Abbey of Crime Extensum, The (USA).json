@@ -1,9 +1,6 @@
 {
     "files": [
-        "Abbey of Crime Extensum, The (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Abbey of Crime Extensum, The (USA).exe"
+        "Abbey of Crime Extensum, The (USA).7z"
     ],
     "steam": {
         "appid": "474030",
@@ -12,5 +9,5 @@
         "buildid": "1148769",
         "name": "The Abbey of Crime Extensum"
     },
-    "transform_file": "Abbey of Crime Extensum, The (USA).exe"
+    "transform_file": "Abbey of Crime Extensum, The (USA).7z"
 }

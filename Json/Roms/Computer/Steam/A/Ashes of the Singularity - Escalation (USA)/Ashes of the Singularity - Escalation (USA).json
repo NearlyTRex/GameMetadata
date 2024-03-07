@@ -3,10 +3,8 @@
         "Ashes of the Singularity - Escalation (USA).7z.001",
         "Ashes of the Singularity - Escalation (USA).7z.002",
         "Ashes of the Singularity - Escalation (USA).7z.003",
-        "Ashes of the Singularity - Escalation (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ashes of the Singularity - Escalation (USA).exe"
+        "Ashes of the Singularity - Escalation (USA).7z.004",
+        "Ashes of the Singularity - Escalation (USA).7z.005"
     ],
     "steam": {
         "appid": "507490",
@@ -15,5 +13,5 @@
         "buildid": "13509675",
         "name": "Ashes of the Singularity: Escalation"
     },
-    "transform_file": "Ashes of the Singularity - Escalation (USA).exe"
+    "transform_file": "Ashes of the Singularity - Escalation (USA).7z.001"
 }

@@ -1,9 +1,6 @@
 {
     "files": [
-        "Blood Spear (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Blood Spear (USA).exe"
+        "Blood Spear (USA).7z"
     ],
     "steam": {
         "appid": "1638660",
@@ -13,5 +10,5 @@
         "controller_support": "full",
         "name": "Blood Spear"
     },
-    "transform_file": "Blood Spear (USA).exe"
+    "transform_file": "Blood Spear (USA).7z"
 }

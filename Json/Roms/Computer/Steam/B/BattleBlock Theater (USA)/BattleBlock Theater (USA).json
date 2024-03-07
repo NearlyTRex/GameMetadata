@@ -1,9 +1,6 @@
 {
     "files": [
-        "BattleBlock Theater (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/BattleBlock Theater (USA).exe"
+        "BattleBlock Theater (USA).7z"
     ],
     "steam": {
         "appid": "238460",
@@ -12,5 +9,5 @@
         "controller_support": "full",
         "name": "BattleBlock Theater"
     },
-    "transform_file": "BattleBlock Theater (USA).exe"
+    "transform_file": "BattleBlock Theater (USA).7z"
 }

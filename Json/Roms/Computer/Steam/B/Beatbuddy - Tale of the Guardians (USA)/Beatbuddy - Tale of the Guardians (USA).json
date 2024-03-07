@@ -1,9 +1,6 @@
 {
     "files": [
-        "Beatbuddy - Tale of the Guardians (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Beatbuddy - Tale of the Guardians (USA).exe"
+        "Beatbuddy - Tale of the Guardians (USA).7z"
     ],
     "steam": {
         "appid": "231040",
@@ -13,5 +10,5 @@
         "controller_support": "full",
         "name": "Beatbuddy: Tale of the Guardians"
     },
-    "transform_file": "Beatbuddy - Tale of the Guardians (USA).exe"
+    "transform_file": "Beatbuddy - Tale of the Guardians (USA).7z"
 }

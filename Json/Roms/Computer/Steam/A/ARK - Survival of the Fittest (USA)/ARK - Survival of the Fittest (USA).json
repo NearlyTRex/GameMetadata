@@ -3,10 +3,8 @@
         "ARK - Survival of the Fittest (USA).7z.001",
         "ARK - Survival of the Fittest (USA).7z.002",
         "ARK - Survival of the Fittest (USA).7z.003",
-        "ARK - Survival of the Fittest (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/ARK - Survival of the Fittest (USA).exe"
+        "ARK - Survival of the Fittest (USA).7z.004",
+        "ARK - Survival of the Fittest (USA).7z.005"
     ],
     "steam": {
         "appid": "407530",
@@ -16,5 +14,5 @@
         "controller_support": "partial",
         "name": "ARK: Survival Of The Fittest"
     },
-    "transform_file": "ARK - Survival of the Fittest (USA).exe"
+    "transform_file": "ARK - Survival of the Fittest (USA).7z.001"
 }

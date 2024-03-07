@@ -1,9 +1,6 @@
 {
     "files": [
-        "Awkward Dimensions Redux (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Awkward Dimensions Redux (USA).exe"
+        "Awkward Dimensions Redux (USA).7z"
     ],
     "steam": {
         "appid": "529110",
@@ -13,5 +10,5 @@
         "controller_support": "partial",
         "name": "Awkward Dimensions Redux"
     },
-    "transform_file": "Awkward Dimensions Redux (USA).exe"
+    "transform_file": "Awkward Dimensions Redux (USA).7z"
 }

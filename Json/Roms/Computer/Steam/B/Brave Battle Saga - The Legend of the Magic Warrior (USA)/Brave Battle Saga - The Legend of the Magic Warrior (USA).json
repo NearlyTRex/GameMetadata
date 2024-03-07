@@ -1,9 +1,6 @@
 {
     "files": [
-        "Brave Battle Saga - The Legend of the Magic Warrior (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Brave Battle Saga - The Legend of the Magic Warrior (USA).exe"
+        "Brave Battle Saga - The Legend of the Magic Warrior (USA).7z"
     ],
     "steam": {
         "appid": "1028520",
@@ -13,5 +10,5 @@
         "controller_support": "partial",
         "name": "Brave Battle Saga - The Legend of The Magic Warrior"
     },
-    "transform_file": "Brave Battle Saga - The Legend of the Magic Warrior (USA).exe"
+    "transform_file": "Brave Battle Saga - The Legend of the Magic Warrior (USA).7z"
 }

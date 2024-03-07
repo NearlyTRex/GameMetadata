@@ -2,12 +2,7 @@
     "files": [
         "Borderlands (USA).7z.001",
         "Borderlands (USA).7z.002",
-        "Borderlands (USA).7z.003",
-        "Borderlands (USA).7z.004",
-        "Borderlands (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Borderlands (USA).exe"
+        "Borderlands (USA).7z.003"
     ],
     "main_game_exe": [
         "Borderlands/Binaries/Win64/BorderlandsGOTY.exe"
@@ -22,5 +17,5 @@
         "controller_support": "partial",
         "name": "Borderlands GOTY"
     },
-    "transform_file": "Borderlands (USA).exe"
+    "transform_file": "Borderlands (USA).7z.001"
 }

@@ -10,10 +10,7 @@
         "ARK - Survival Evolved (USA).7z.008",
         "ARK - Survival Evolved (USA).7z.009",
         "ARK - Survival Evolved (USA).7z.010",
-        "ARK - Survival Evolved (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/ARK - Survival Evolved (USA).exe"
+        "ARK - Survival Evolved (USA).7z.011"
     ],
     "steam": {
         "appid": "346110",
@@ -23,5 +20,5 @@
         "controller_support": "full",
         "name": "ARK: Survival Evolved"
     },
-    "transform_file": "ARK - Survival Evolved (USA).exe"
+    "transform_file": "ARK - Survival Evolved (USA).7z.001"
 }

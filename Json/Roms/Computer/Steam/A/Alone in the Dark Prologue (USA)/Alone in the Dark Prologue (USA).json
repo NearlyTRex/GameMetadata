@@ -1,11 +1,7 @@
 {
     "files": [
         "Alone in the Dark Prologue (USA).7z.001",
-        "Alone in the Dark Prologue (USA).7z.002",
-        "Alone in the Dark Prologue (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Alone in the Dark Prologue (USA).exe"
+        "Alone in the Dark Prologue (USA).7z.002"
     ],
     "main_game_exe": [
         "Alone in the Dark Prologue/AitDPrologue.exe"
@@ -21,5 +17,5 @@
         "controller_support": "full",
         "name": "Alone in the Dark Prologue"
     },
-    "transform_file": "Alone in the Dark Prologue (USA).exe"
+    "transform_file": "Alone in the Dark Prologue (USA).7z.001"
 }

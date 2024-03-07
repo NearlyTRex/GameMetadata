@@ -1,9 +1,6 @@
 {
     "files": [
-        "Armello (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Armello (USA).exe"
+        "Armello (USA).7z"
     ],
     "main_game_exe": [
         "Armello/armello.exe"
@@ -19,5 +16,5 @@
         "controller_support": "full",
         "name": "Armello"
     },
-    "transform_file": "Armello (USA).exe"
+    "transform_file": "Armello (USA).7z"
 }

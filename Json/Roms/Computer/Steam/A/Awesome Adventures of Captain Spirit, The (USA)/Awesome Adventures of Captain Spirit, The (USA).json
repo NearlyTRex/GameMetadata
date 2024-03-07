@@ -1,9 +1,6 @@
 {
     "files": [
-        "Awesome Adventures of Captain Spirit, The (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Awesome Adventures of Captain Spirit, The (USA).exe"
+        "Awesome Adventures of Captain Spirit, The (USA).7z"
     ],
     "main_game_exe": [
         "The Awesome Adventures of Captain Spirit/CaptainSpirit/Binaries/Win64/CaptainSpirit-Win64-Shipping.exe"
@@ -29,5 +26,5 @@
         "controller_support": "full",
         "name": "The Awesome Adventures of Captain Spirit"
     },
-    "transform_file": "Awesome Adventures of Captain Spirit, The (USA).exe"
+    "transform_file": "Awesome Adventures of Captain Spirit, The (USA).7z"
 }

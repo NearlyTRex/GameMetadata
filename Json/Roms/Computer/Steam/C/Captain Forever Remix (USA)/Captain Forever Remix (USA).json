@@ -1,9 +1,6 @@
 {
     "files": [
-        "Captain Forever Remix (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Captain Forever Remix (USA).exe"
+        "Captain Forever Remix (USA).7z"
     ],
     "main_game_exe": [
         "Captain Forever Remix/cap4ever.exe"
@@ -18,5 +15,5 @@
         "buildid": "1171672",
         "name": "Captain Forever Remix"
     },
-    "transform_file": "Captain Forever Remix (USA).exe"
+    "transform_file": "Captain Forever Remix (USA).7z"
 }

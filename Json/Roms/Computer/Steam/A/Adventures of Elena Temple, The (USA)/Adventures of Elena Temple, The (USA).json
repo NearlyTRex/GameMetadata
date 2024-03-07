@@ -1,9 +1,6 @@
 {
     "files": [
-        "Adventures of Elena Temple, The (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Adventures of Elena Temple, The (USA).exe"
+        "Adventures of Elena Temple, The (USA).7z"
     ],
     "main_game_exe": [
         "The Adventures of Elena Temple/ElenaTemple.exe"
@@ -19,5 +16,5 @@
         "controller_support": "partial",
         "name": "The Adventures of Elena Temple: Definitive Edition"
     },
-    "transform_file": "Adventures of Elena Temple, The (USA).exe"
+    "transform_file": "Adventures of Elena Temple, The (USA).7z"
 }

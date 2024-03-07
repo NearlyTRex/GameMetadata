@@ -1,9 +1,6 @@
 {
     "files": [
-        "Breath of Death VII (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Breath of Death VII (USA).exe"
+        "Breath of Death VII (USA).7z"
     ],
     "steam": {
         "appid": "107300",
@@ -12,5 +9,5 @@
         "controller_support": "full",
         "name": "Breath of Death VII "
     },
-    "transform_file": "Breath of Death VII (USA).exe"
+    "transform_file": "Breath of Death VII (USA).7z"
 }

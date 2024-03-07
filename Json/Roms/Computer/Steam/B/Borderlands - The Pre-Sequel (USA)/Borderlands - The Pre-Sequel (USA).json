@@ -2,11 +2,7 @@
     "files": [
         "Borderlands - The Pre-Sequel (USA).7z.001",
         "Borderlands - The Pre-Sequel (USA).7z.002",
-        "Borderlands - The Pre-Sequel (USA).7z.003",
-        "Borderlands - The Pre-Sequel (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Borderlands - The Pre-Sequel (USA).exe"
+        "Borderlands - The Pre-Sequel (USA).7z.003"
     ],
     "main_game_exe": [
         "Borderlands - The Pre-Sequel/Binaries/Win32/BorderlandsPreSequel.exe"
@@ -22,5 +18,5 @@
         "controller_support": "full",
         "name": "Borderlands: The Pre-Sequel"
     },
-    "transform_file": "Borderlands - The Pre-Sequel (USA).exe"
+    "transform_file": "Borderlands - The Pre-Sequel (USA).7z.001"
 }

@@ -1,9 +1,6 @@
 {
     "files": [
-        "Abzu (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Abzu (USA).exe"
+        "Abzu (USA).7z"
     ],
     "steam": {
         "appid": "384190",
@@ -13,5 +10,5 @@
         "controller_support": "full",
         "name": "ABZ\u00db"
     },
-    "transform_file": "Abzu (USA).exe"
+    "transform_file": "Abzu (USA).7z"
 }

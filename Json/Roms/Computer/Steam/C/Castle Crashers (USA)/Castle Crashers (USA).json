@@ -1,9 +1,6 @@
 {
     "files": [
-        "Castle Crashers (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Castle Crashers (USA).exe"
+        "Castle Crashers (USA).7z"
     ],
     "main_game_exe": [
         "Castle Crashers/castle.exe"
@@ -29,5 +26,5 @@
         "controller_support": "full",
         "name": "Castle Crashers"
     },
-    "transform_file": "Castle Crashers (USA).exe"
+    "transform_file": "Castle Crashers (USA).7z"
 }

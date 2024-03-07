@@ -1,9 +1,6 @@
 {
     "files": [
-        "Axiom Verge (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Axiom Verge (USA).exe"
+        "Axiom Verge (USA).7z"
     ],
     "main_game_exe": [
         "AxiomVerge.exe"
@@ -19,5 +16,5 @@
         "controller_support": "full",
         "name": "Axiom Verge"
     },
-    "transform_file": "Axiom Verge (USA).exe"
+    "transform_file": "Axiom Verge (USA).7z"
 }

@@ -1,9 +1,6 @@
 {
     "files": [
-        "Blood Omen 2 - Legacy of Kain (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Blood Omen 2 - Legacy of Kain (USA).exe"
+        "Blood Omen 2 - Legacy of Kain (USA).7z"
     ],
     "steam": {
         "appid": "242960",
@@ -11,5 +8,5 @@
         "buildid": "86203",
         "name": "Blood Omen 2: Legacy of Kain"
     },
-    "transform_file": "Blood Omen 2 - Legacy of Kain (USA).exe"
+    "transform_file": "Blood Omen 2 - Legacy of Kain (USA).7z"
 }

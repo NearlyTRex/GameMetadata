@@ -1,11 +1,7 @@
 {
     "files": [
         "7 Days to Die (USA) (Alpha 20.6).7z.001",
-        "7 Days to Die (USA) (Alpha 20.6).7z.002",
-        "7 Days to Die (USA) (Alpha 20.6).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/7 Days to Die (USA) (Alpha 20.6).exe"
+        "7 Days to Die (USA) (Alpha 20.6).7z.002"
     ],
     "steam": {
         "appid": "251570",
@@ -15,5 +11,5 @@
         "controller_support": "full",
         "name": "7 Days to Die"
     },
-    "transform_file": "7 Days to Die (USA) (Alpha 20.6).exe"
+    "transform_file": "7 Days to Die (USA) (Alpha 20.6).7z.001"
 }

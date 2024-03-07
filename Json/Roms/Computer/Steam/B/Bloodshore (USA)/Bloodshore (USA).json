@@ -2,11 +2,7 @@
     "files": [
         "Bloodshore (USA).7z.001",
         "Bloodshore (USA).7z.002",
-        "Bloodshore (USA).7z.003",
-        "Bloodshore (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bloodshore (USA).exe"
+        "Bloodshore (USA).7z.003"
     ],
     "main_game_exe": [
         "Bloodshore/Bloodshore.exe"
@@ -22,5 +18,5 @@
         "controller_support": "full",
         "name": "Bloodshore"
     },
-    "transform_file": "Bloodshore (USA).exe"
+    "transform_file": "Bloodshore (USA).7z.001"
 }

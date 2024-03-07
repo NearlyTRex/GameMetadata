@@ -1,9 +1,6 @@
 {
     "files": [
-        "Basement Collection, The (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Basement Collection, The (USA).exe"
+        "Basement Collection, The (USA).7z"
     ],
     "steam": {
         "appid": "214790",
@@ -11,5 +8,5 @@
         "buildid": "14072",
         "name": "The Basement Collection"
     },
-    "transform_file": "Basement Collection, The (USA).exe"
+    "transform_file": "Basement Collection, The (USA).7z"
 }

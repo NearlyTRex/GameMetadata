@@ -1,9 +1,6 @@
 {
     "files": [
-        "Assault Android Cactus (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Assault Android Cactus (USA).exe"
+        "Assault Android Cactus (USA).7z"
     ],
     "main_game_exe": [
         "Assault Android Cactus/cactus.exe"
@@ -19,5 +16,5 @@
         "controller_support": "full",
         "name": "Assault Android Cactus"
     },
-    "transform_file": "Assault Android Cactus (USA).exe"
+    "transform_file": "Assault Android Cactus (USA).7z"
 }

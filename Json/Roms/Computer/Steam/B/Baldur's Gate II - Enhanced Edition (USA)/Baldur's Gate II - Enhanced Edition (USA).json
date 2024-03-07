@@ -1,9 +1,6 @@
 {
     "files": [
-        "Baldur's Gate II - Enhanced Edition (USA).exe"
-    ],
-    "installer_exe": [
-        "$SETUP_MAIN_ROOT/Baldur's Gate II - Enhanced Edition (USA).exe"
+        "Baldur's Gate II - Enhanced Edition (USA).7z"
     ],
     "steam": {
         "appid": "257350",
@@ -12,5 +9,5 @@
         "buildid": "6660111",
         "name": "Baldur's Gate II: Enhanced Edition"
     },
-    "transform_file": "Baldur's Gate II - Enhanced Edition (USA).exe"
+    "transform_file": "Baldur's Gate II - Enhanced Edition (USA).7z"
 }
