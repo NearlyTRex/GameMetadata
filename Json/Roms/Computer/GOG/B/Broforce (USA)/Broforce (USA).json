@@ -6,7 +6,7 @@
     "files": [
         "extra/broforce_avatars.zip",
         "extra/broforce_wallpaper.zip",
-        "setup_broforce_forever_(64bit)_(66638).exe"
+        "setup_broforce_forever_hf_-_win_(71320).exe"
     ],
     "gog": {
         "appid": "1470490225",
@@ -15,7 +15,7 @@
         "name": "Broforce"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_broforce_forever_(64bit)_(66638).exe"
+        "$SETUP_MAIN_ROOT/setup_broforce_forever_hf_-_win_(71320).exe"
     ],
-    "transform_file": "setup_broforce_forever_(64bit)_(66638).exe"
+    "transform_file": "setup_broforce_forever_hf_-_win_(71320).exe"
 }

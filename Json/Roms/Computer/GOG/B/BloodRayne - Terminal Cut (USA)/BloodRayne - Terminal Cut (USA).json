@@ -4,10 +4,10 @@
     ],
     "files": [
         "extra/br_tc_wallpapers.zip",
-        "setup_bloodrayne_terminal_cut_1.05.2_(49915)-1.bin",
-        "setup_bloodrayne_terminal_cut_1.05.2_(49915)-2.bin",
-        "setup_bloodrayne_terminal_cut_1.05.2_(49915)-3.bin",
-        "setup_bloodrayne_terminal_cut_1.05.2_(49915).exe"
+        "setup_bloodrayne_terminal_cut_1.06_(59972)-1.bin",
+        "setup_bloodrayne_terminal_cut_1.06_(59972)-2.bin",
+        "setup_bloodrayne_terminal_cut_1.06_(59972)-3.bin",
+        "setup_bloodrayne_terminal_cut_1.06_(59972).exe"
     ],
     "gog": {
         "appid": "1598751450",
@@ -16,7 +16,7 @@
         "name": "BloodRayne: Terminal Cut"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_bloodrayne_terminal_cut_1.05.2_(49915).exe"
+        "$SETUP_MAIN_ROOT/setup_bloodrayne_terminal_cut_1.06_(59972).exe"
     ],
-    "transform_file": "setup_bloodrayne_terminal_cut_1.05.2_(49915).exe"
+    "transform_file": "setup_bloodrayne_terminal_cut_1.06_(59972).exe"
 }

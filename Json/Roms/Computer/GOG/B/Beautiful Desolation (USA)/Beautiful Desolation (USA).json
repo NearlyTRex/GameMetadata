@@ -1,9 +1,9 @@
 {
     "files": [
-        "setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825)-1.bin",
-        "setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825)-2.bin",
-        "setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825)-3.bin",
-        "setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825).exe"
+        "setup_beautiful_desolation_1.0.7.3_c_win_(64bit)_(60427)-1.bin",
+        "setup_beautiful_desolation_1.0.7.3_c_win_(64bit)_(60427)-2.bin",
+        "setup_beautiful_desolation_1.0.7.3_c_win_(64bit)_(60427)-3.bin",
+        "setup_beautiful_desolation_1.0.7.3_c_win_(64bit)_(60427).exe"
     ],
     "gog": {
         "appid": "1295420179",
@@ -12,7 +12,7 @@
         "name": "BEAUTIFUL DESOLATION"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825).exe"
+        "$SETUP_MAIN_ROOT/setup_beautiful_desolation_1.0.7.3_c_win_(64bit)_(60427).exe"
     ],
-    "transform_file": "setup_beautiful_desolation_1.0.6.7_b_(64bit)_(48825).exe"
+    "transform_file": "setup_beautiful_desolation_1.0.7.3_c_win_(64bit)_(60427).exe"
 }
