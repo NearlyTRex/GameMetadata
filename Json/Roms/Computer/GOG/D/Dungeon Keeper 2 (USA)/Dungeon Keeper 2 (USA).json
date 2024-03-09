@@ -19,5 +19,16 @@
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_dungeon_keeper_2_1.7_(22280).exe"
     ],
+    "main_game_exe": [
+        "GOG Games/Dungeon Keeper 2/DKII-DX.exe"
+    ],
+    "main_game_exe_cwd": {
+        "GOG Games/Dungeon Keeper 2/DKII-DX.exe": "GOG Games/Dungeon Keeper 2"
+    },
+    "registry": {
+        "game_keys": [
+            "HKEY_CURRENT_USER\\Software\\Bullfrog Productions Ltd"
+        ]
+    },
     "transform_file": "setup_dungeon_keeper_2_1.7_(22280).exe"
 }
