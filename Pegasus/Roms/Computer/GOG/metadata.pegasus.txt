@@ -6122,6 +6122,33 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Headlander (USA)
+file: Computer/GOG/H/Headlander (USA)/Headlander (USA).json
+developer: Double Fine Productions
+publisher: Adult Swim
+genre: Action;Platformer;2D
+description:
+  Headlander is a a retro-futuristic, side-scrolling, action-adventure game set in
+  a world inspired by 70s science fiction. It is a world of automation, a utopia
+  gone wrong in which all of humanity have transferred their minds into robotic
+  imposter bodies and are ruled by a deranged computer.
+  .
+  You are the last known human in the universe, and all that's left of you is a
+  disembodied head. Seeking clues to your fractured past, you must travel through
+  a hostile world of machines, using a special helmet that allows you to dock into
+  and take control of any robotic host body. As you launch from one body to the
+  next, you'll start to discover that things are not quite what they appear to be,
+  and the fate of humanity has yet to be decided...
+release: 2016-07-26
+players: 1
+assets.boxfront: BoxFront/Headlander (USA).jpg
+assets.boxback: BoxBack/Headlander (USA).jpg
+assets.background: Background/Headlander (USA).jpg
+assets.screenshot: Screenshot/Headlander (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Hector - Badge of Carnage - Full Series (USA)
 file: Computer/GOG/H/Hector - Badge of Carnage - Full Series (USA)/Hector - Badge of Carnage - Full Series (USA).json
 developer: Straandlooper
@@ -14162,6 +14189,28 @@ assets.boxback: BoxBack/Waxworks (USA).jpg
 assets.background: Background/Waxworks (USA).jpg
 assets.screenshot: Screenshot/Waxworks (USA).jpg
 assets.video: Video/Waxworks (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Westerado - Double Barreled (USA)
+file: Computer/GOG/W/Westerado - Double Barreled (USA)/Westerado - Double Barreled (USA).json
+developer: Ostrich Banditos
+publisher: Adult Swim
+genre: Action;General
+description:
+  Brought to you by the indie game developer Ostrich Banditos, Westerado takes you
+  on a pixelated journey through the Old West where you must avenge the murder of
+  your family. With a deep narrative and a new mystery every time you play,
+  Westerado presents a full experience rarely seen in free casual gaming. So strap
+  on that six shooter and get ready for some serious avenging. It's time to play
+  Westerado.
+release: 2015-04-16
+players: 1
+assets.boxfront: BoxFront/Westerado - Double Barreled (USA).jpg
+assets.boxback: BoxBack/Westerado - Double Barreled (USA).jpg
+assets.background: Background/Westerado - Double Barreled (USA).jpg
+assets.screenshot: Screenshot/Westerado - Double Barreled (USA).jpg
 x-co-op: No
 x-playable: Yes
 

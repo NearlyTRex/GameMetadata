@@ -9955,6 +9955,33 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Space Crew - Legendary Edition (USA)
+file: Computer/Steam/S/Space Crew - Legendary Edition (USA)/Space Crew - Legendary Edition (USA).json
+developer: Runner Duck
+publisher: Curve Digital
+genre: Simulation;Space;Combat
+description:
+  Captain's Log, Star Date 2152. This is Space Crew. Its continuing mission: To
+  defend Earth and humankind, to eliminate the extraterrestrial threat and to
+  boldly go where no Crew has gone before!
+  .
+  It will be your responsibility to help stop all of humankind being wiped off the
+  intergalactic stage by the mysterious extraterrestrial threat known as the
+  Phasmids.
+  .
+  The U.D.F. is doing their part, are you?
+  .
+  Join the Space Crew today!
+release: 2021-10-15
+players: 1
+assets.boxfront: BoxFront/Space Crew - Legendary Edition (USA).jpg
+assets.boxback: BoxBack/Space Crew - Legendary Edition (USA).jpg
+assets.background: Background/Space Crew - Legendary Edition (USA).jpg
+assets.screenshot: Screenshot/Space Crew - Legendary Edition (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Spooky's Jump Scare Mansion (USA)
 file: Computer/Steam/S/Spooky's Jump Scare Mansion (USA)/Spooky's Jump Scare Mansion (USA).json
 developer: Lag Studios
@@ -10683,6 +10710,50 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Super House of Dead Ninjas (USA)
+file: Computer/Steam/S/Super House of Dead Ninjas (USA)/Super House of Dead Ninjas (USA).json
+developer: Megadev
+publisher: Adult Swim
+genre: Action;Platformer;2D
+description:
+  Descend a seemingly-endless tower, wielding an arsenal of deadly ninja weapons
+  and attacks, as the fearsome Crimson Ninja. This 2D action-platformer uses ninja
+  magic to generate every tower randomly, so no two adventures are the same! Based
+  on the hit Flash game from developers Megadev and Adult Swim Games.
+release: 2013-02-18
+players: 1
+assets.boxfront: BoxFront/Super House of Dead Ninjas (USA).jpg
+assets.boxback: BoxBack/Super House of Dead Ninjas (USA).jpg
+assets.background: Background/Super House of Dead Ninjas (USA).jpg
+assets.screenshot: Screenshot/Super House of Dead Ninjas (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Super Puzzle Platformer Deluxe (USA)
+file: Computer/Steam/S/Super Puzzle Platformer Deluxe (USA)/Super Puzzle Platformer Deluxe (USA).json
+developer: Adult Swim
+publisher: Adult Swim
+genre: Puzzle;Action
+description:
+  The title says it all. Take one part falling block puzzle game, combine one part
+  old-school platformer, add a couple thousand pixels, blend and serve.
+  .
+  Why match colored blocks when you can just shoot the hell out of them?
+  .
+  Your goal is to survive as long as you can.
+  .
+  From celebrated indie developer Andrew Morrish and Adult Swim Games.
+release: 2013-05-24
+players: 1
+assets.boxfront: BoxFront/Super Puzzle Platformer Deluxe (USA).jpg
+assets.boxback: BoxBack/Super Puzzle Platformer Deluxe (USA).jpg
+assets.background: Background/Super Puzzle Platformer Deluxe (USA).jpg
+assets.screenshot: Screenshot/Super Puzzle Platformer Deluxe (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Super Win the Game (USA)
 file: Computer/Steam/S/Super Win the Game (USA)/Super Win the Game (USA).json
 developer: Minor Key Games
@@ -11339,6 +11410,42 @@ assets.boxback: BoxBack/Warlock of Firetop Mountain, The (USA).jpg
 assets.background: Background/Warlock of Firetop Mountain, The (USA).jpg
 assets.screenshot: Screenshot/Warlock of Firetop Mountain, The (USA).jpg
 assets.video: Video/Warlock of Firetop Mountain, The (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Wasted (USA)
+file: Computer/Steam/W/Wasted (USA)/Wasted (USA).json
+developer: Mr. Podunkian
+publisher: Adult Swim
+genre: Action Adventure;General
+description:
+  Kill, drink, and kill some more in WASTED, a roguelike post-apocalyptic pub
+  crawler set in a lawless wasteland that lives and dies by the rules “Get
+  wasted, or get wasted trying.”
+  .
+  When a thermonuclear blitzkrieg deprives America of its greatest minds, the
+  very hardiest specimens of humanity cling on to life. From the ashes of old
+  America, a new world emerges, and an ersatz, post-apocalyptic, stillborn 80’s
+  continues indefinitely, populated entirely by the toughest, meanest, and
+  outright dumbest of God’s creations, the Wasters.
+  .
+  Live the life of a Waster, fighting tooth and nail, bullets and baseball bats
+  over the most precious of unnatural resources, a liquid from beneath the
+  sands that fuels all of un-civilization: Booze. Gain strange mutational
+  Hangovers and explore the Coolers, mysterious underground bunkers, in search
+  of powerful weapons, impressive armor, and a nice stiff drink to top it all
+  off. Who knows, maybe you'll uncover some old world secrets while you're at
+  it.
+  .
+  Or don't, because death comes quick in the Western Wastes, and what's yours
+  today just might be picked off your pile of guts tomorrow.
+release: 2016-06-07
+players: 1
+assets.boxfront: BoxFront/Wasted (USA).jpg
+assets.boxback: BoxBack/Wasted (USA).jpg
+assets.background: Background/Wasted (USA).jpg
+assets.screenshot: Screenshot/Wasted (USA).jpg
 x-co-op: No
 x-playable: Yes
 
