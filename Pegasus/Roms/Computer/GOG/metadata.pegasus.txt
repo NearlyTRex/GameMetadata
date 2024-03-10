@@ -578,6 +578,7 @@ assets.boxfront: BoxFront/Avernum (USA).jpg
 assets.boxback: BoxBack/Avernum (USA).jpg
 assets.background: Background/Avernum (USA).jpg
 assets.screenshot: Screenshot/Avernum (USA).jpg
+assets.video: Video/Avernum (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -603,6 +604,7 @@ assets.boxfront: BoxFront/Avernum 2 (USA).jpg
 assets.boxback: BoxBack/Avernum 2 (USA).jpg
 assets.background: Background/Avernum 2 (USA).jpg
 assets.screenshot: Screenshot/Avernum 2 (USA).jpg
+assets.video: Video/Avernum 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -629,6 +631,7 @@ assets.boxfront: BoxFront/Avernum 3 (USA).jpg
 assets.boxback: BoxBack/Avernum 3 (USA).jpg
 assets.background: Background/Avernum 3 (USA).jpg
 assets.screenshot: Screenshot/Avernum 3 (USA).jpg
+assets.video: Video/Avernum 3 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3672,6 +3675,7 @@ assets.boxfront: BoxFront/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
 assets.boxback: BoxBack/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
 assets.background: Background/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
 assets.screenshot: Screenshot/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
+assets.video: Video/Dragonlance - Krynn I - Champions of Krynn (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3696,6 +3700,7 @@ assets.boxfront: BoxFront/Dragonlance - Krynn II - Death Knights of Krynn (USA).
 assets.boxback: BoxBack/Dragonlance - Krynn II - Death Knights of Krynn (USA).jpg
 assets.background: Background/Dragonlance - Krynn II - Death Knights of Krynn (USA).jpg
 assets.screenshot: Screenshot/Dragonlance - Krynn II - Death Knights of Krynn (USA).jpg
+assets.video: Video/Dragonlance - Krynn II - Death Knights of Krynn (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3717,6 +3722,7 @@ assets.boxfront: BoxFront/Dragonlance - Krynn III - Dark Queen of Krynn, The (US
 assets.boxback: BoxBack/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).jpg
 assets.background: Background/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).jpg
 assets.screenshot: Screenshot/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).jpg
+assets.video: Video/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5101,6 +5107,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Dungeon Hack (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Dungeon Hack (USA).jpg
 assets.background: Background/Forgotten Realms - Dungeon Hack (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Dungeon Hack (USA).jpg
+assets.video: Video/Forgotten Realms - Dungeon Hack (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5142,6 +5149,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Eye of the Beholder (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Eye of the Beholder (USA).jpg
 assets.background: Background/Forgotten Realms - Eye of the Beholder (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Eye of the Beholder (USA).jpg
+assets.video: Video/Forgotten Realms - Eye of the Beholder (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5166,6 +5174,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Eye of the Beholder II - The Legend
 assets.boxback: BoxBack/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).jpg
 assets.background: Background/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).jpg
+assets.video: Video/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5214,6 +5223,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Eye of the Beholder III - Assault o
 assets.boxback: BoxBack/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).jpg
 assets.background: Background/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).jpg
+assets.video: Video/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5252,6 +5262,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Hillsfar (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Hillsfar (USA).jpg
 assets.background: Background/Forgotten Realms - Hillsfar (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Hillsfar (USA).jpg
+assets.video: Video/Forgotten Realms - Hillsfar (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5303,6 +5314,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Menzoberranzan (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Menzoberranzan (USA).jpg
 assets.background: Background/Forgotten Realms - Menzoberranzan (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Menzoberranzan (USA).jpg
+assets.video: Video/Forgotten Realms - Menzoberranzan (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5324,6 +5336,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance I - Pool of Radia
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).jpg
+assets.video: Video/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5355,6 +5368,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance II - Curse of the
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).jpg
+assets.video: Video/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5379,6 +5393,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance III - Secret of t
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).jpg
+assets.video: Video/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5411,6 +5426,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance IV - Pools of Dar
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).jpg
+assets.video: Video/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5432,6 +5448,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Savage Frontier I - Gateway to the 
 assets.boxback: BoxBack/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).jpg
 assets.background: Background/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).jpg
+assets.video: Video/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5479,6 +5496,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Savage Frontier II - Treasures of t
 assets.boxback: BoxBack/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).jpg
 assets.background: Background/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).jpg
+assets.video: Video/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5522,6 +5540,7 @@ assets.boxfront: BoxFront/Forgotten Realms - Unlimited Adventures (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Unlimited Adventures (USA).jpg
 assets.background: Background/Forgotten Realms - Unlimited Adventures (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Unlimited Adventures (USA).jpg
+assets.video: Video/Forgotten Realms - Unlimited Adventures (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5670,6 +5689,7 @@ assets.boxfront: BoxFront/Geneforge 1 (USA).jpg
 assets.boxback: BoxBack/Geneforge 1 (USA).jpg
 assets.background: Background/Geneforge 1 (USA).jpg
 assets.screenshot: Screenshot/Geneforge 1 (USA).jpg
+assets.video: Video/Geneforge 1 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5694,6 +5714,7 @@ assets.boxfront: BoxFront/Geneforge 2 (USA).jpg
 assets.boxback: BoxBack/Geneforge 2 (USA).jpg
 assets.background: Background/Geneforge 2 (USA).jpg
 assets.screenshot: Screenshot/Geneforge 2 (USA).jpg
+assets.video: Video/Geneforge 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
