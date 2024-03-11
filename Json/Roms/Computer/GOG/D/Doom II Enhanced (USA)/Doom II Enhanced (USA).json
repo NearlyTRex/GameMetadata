@@ -1,7 +1,7 @@
 {
     "files": [
-        "setup_doom_ii_enhanced_1.0_(64bit)_(58062)-1.bin",
-        "setup_doom_ii_enhanced_1.0_(64bit)_(58062).exe"
+        "setup_doom_ii_enhanced_january_23_update_(64bit)_(60827)-1.bin",
+        "setup_doom_ii_enhanced_january_23_update_(64bit)_(60827).exe"
     ],
     "gog": {
         "appid": "1426071866",
@@ -10,7 +10,7 @@
         "name": "DOOM II Enhanced"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_doom_ii_enhanced_1.0_(64bit)_(58062).exe"
+        "$SETUP_MAIN_ROOT/setup_doom_ii_enhanced_january_23_update_(64bit)_(60827).exe"
     ],
-    "transform_file": "setup_doom_ii_enhanced_1.0_(64bit)_(58062).exe"
+    "transform_file": "setup_doom_ii_enhanced_january_23_update_(64bit)_(60827).exe"
 }

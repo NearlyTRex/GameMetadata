@@ -1,7 +1,7 @@
 {
     "dlc": [
-        "setup_deus_ex_revision_1.112fm(revision_1.6.1.0)_(45326)-1.bin",
-        "setup_deus_ex_revision_1.112fm(revision_1.6.1.0)_(45326).exe"
+        "setup_deus_ex_revision_1.112fm(revision_1.6.3.0)_(51757)-1.bin",
+        "setup_deus_ex_revision_1.112fm(revision_1.6.3.0)_(51757).exe"
     ],
     "extra": [
         "deus_ex_avatar.zip",
@@ -13,8 +13,8 @@
         "revision_full_achievements_list.zip"
     ],
     "files": [
-        "dlc/setup_deus_ex_revision_1.112fm(revision_1.6.1.0)_(45326)-1.bin",
-        "dlc/setup_deus_ex_revision_1.112fm(revision_1.6.1.0)_(45326).exe",
+        "dlc/setup_deus_ex_revision_1.112fm(revision_1.6.3.0)_(51757)-1.bin",
+        "dlc/setup_deus_ex_revision_1.112fm(revision_1.6.3.0)_(51757).exe",
         "extra/deus_ex_avatar.zip",
         "extra/deus_ex_manual.zip",
         "extra/deus_ex_newspaper_handout.zip",
@@ -22,7 +22,7 @@
         "extra/deus_ex_soundtrack.zip",
         "extra/deus_ex_wallpapers.zip",
         "extra/revision_full_achievements_list.zip",
-        "setup_deus_ex_goty_1.112fm(revision_1.6.1.0)_(45326).exe"
+        "setup_deus_ex_goty_1.112fm(revision_1.6.3.0)_(51757).exe"
     ],
     "gog": {
         "appid": "1207658995",
@@ -31,8 +31,8 @@
         "name": "Deus Ex\u2122 GOTY Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_deus_ex_goty_1.112fm(revision_1.6.1.0)_(45326).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_deus_ex_revision_1.112fm(revision_1.6.1.0)_(45326).exe"
+        "$SETUP_MAIN_ROOT/setup_deus_ex_goty_1.112fm(revision_1.6.3.0)_(51757).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_deus_ex_revision_1.112fm(revision_1.6.3.0)_(51757).exe"
     ],
-    "transform_file": "setup_deus_ex_goty_1.112fm(revision_1.6.1.0)_(45326).exe"
+    "transform_file": "setup_deus_ex_goty_1.112fm(revision_1.6.3.0)_(51757).exe"
 }
