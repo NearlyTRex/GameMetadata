@@ -113,6 +113,7 @@ assets.boxfront: BoxFront/Akalabeth - World of Doom (USA).jpg
 assets.boxback: BoxBack/Akalabeth - World of Doom (USA).jpg
 assets.background: Background/Akalabeth - World of Doom (USA).jpg
 assets.screenshot: Screenshot/Akalabeth - World of Doom (USA).jpg
+assets.video: Video/Akalabeth - World of Doom (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -578,7 +579,6 @@ assets.boxfront: BoxFront/Avernum (USA).jpg
 assets.boxback: BoxBack/Avernum (USA).jpg
 assets.background: Background/Avernum (USA).jpg
 assets.screenshot: Screenshot/Avernum (USA).jpg
-assets.video: Video/Avernum (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -604,7 +604,6 @@ assets.boxfront: BoxFront/Avernum 2 (USA).jpg
 assets.boxback: BoxBack/Avernum 2 (USA).jpg
 assets.background: Background/Avernum 2 (USA).jpg
 assets.screenshot: Screenshot/Avernum 2 (USA).jpg
-assets.video: Video/Avernum 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -631,7 +630,6 @@ assets.boxfront: BoxFront/Avernum 3 (USA).jpg
 assets.boxback: BoxBack/Avernum 3 (USA).jpg
 assets.background: Background/Avernum 3 (USA).jpg
 assets.screenshot: Screenshot/Avernum 3 (USA).jpg
-assets.video: Video/Avernum 3 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3675,7 +3673,6 @@ assets.boxfront: BoxFront/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
 assets.boxback: BoxBack/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
 assets.background: Background/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
 assets.screenshot: Screenshot/Dragonlance - Krynn I - Champions of Krynn (USA).jpg
-assets.video: Video/Dragonlance - Krynn I - Champions of Krynn (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3700,7 +3697,6 @@ assets.boxfront: BoxFront/Dragonlance - Krynn II - Death Knights of Krynn (USA).
 assets.boxback: BoxBack/Dragonlance - Krynn II - Death Knights of Krynn (USA).jpg
 assets.background: Background/Dragonlance - Krynn II - Death Knights of Krynn (USA).jpg
 assets.screenshot: Screenshot/Dragonlance - Krynn II - Death Knights of Krynn (USA).jpg
-assets.video: Video/Dragonlance - Krynn II - Death Knights of Krynn (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3722,7 +3718,6 @@ assets.boxfront: BoxFront/Dragonlance - Krynn III - Dark Queen of Krynn, The (US
 assets.boxback: BoxBack/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).jpg
 assets.background: Background/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).jpg
 assets.screenshot: Screenshot/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).jpg
-assets.video: Video/Dragonlance - Krynn III - Dark Queen of Krynn, The (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5107,7 +5102,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Dungeon Hack (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Dungeon Hack (USA).jpg
 assets.background: Background/Forgotten Realms - Dungeon Hack (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Dungeon Hack (USA).jpg
-assets.video: Video/Forgotten Realms - Dungeon Hack (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5149,7 +5143,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Eye of the Beholder (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Eye of the Beholder (USA).jpg
 assets.background: Background/Forgotten Realms - Eye of the Beholder (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Eye of the Beholder (USA).jpg
-assets.video: Video/Forgotten Realms - Eye of the Beholder (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5174,7 +5167,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Eye of the Beholder II - The Legend
 assets.boxback: BoxBack/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).jpg
 assets.background: Background/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).jpg
-assets.video: Video/Forgotten Realms - Eye of the Beholder II - The Legend of Darkmoon (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5223,7 +5215,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Eye of the Beholder III - Assault o
 assets.boxback: BoxBack/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).jpg
 assets.background: Background/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).jpg
-assets.video: Video/Forgotten Realms - Eye of the Beholder III - Assault on Myth Drannor (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5262,7 +5253,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Hillsfar (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Hillsfar (USA).jpg
 assets.background: Background/Forgotten Realms - Hillsfar (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Hillsfar (USA).jpg
-assets.video: Video/Forgotten Realms - Hillsfar (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5314,7 +5304,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Menzoberranzan (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Menzoberranzan (USA).jpg
 assets.background: Background/Forgotten Realms - Menzoberranzan (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Menzoberranzan (USA).jpg
-assets.video: Video/Forgotten Realms - Menzoberranzan (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5336,7 +5325,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance I - Pool of Radia
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).jpg
-assets.video: Video/Forgotten Realms - Pools of Radiance I - Pool of Radiance (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5368,7 +5356,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance II - Curse of the
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).jpg
-assets.video: Video/Forgotten Realms - Pools of Radiance II - Curse of the Azure Bonds (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5393,7 +5380,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance III - Secret of t
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).jpg
-assets.video: Video/Forgotten Realms - Pools of Radiance III - Secret of the Silver Blades (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5426,7 +5412,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Pools of Radiance IV - Pools of Dar
 assets.boxback: BoxBack/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).jpg
 assets.background: Background/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).jpg
-assets.video: Video/Forgotten Realms - Pools of Radiance IV - Pools of Darkness (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5448,7 +5433,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Savage Frontier I - Gateway to the 
 assets.boxback: BoxBack/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).jpg
 assets.background: Background/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).jpg
-assets.video: Video/Forgotten Realms - Savage Frontier I - Gateway to the Savage Frontier (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5496,7 +5480,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Savage Frontier II - Treasures of t
 assets.boxback: BoxBack/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).jpg
 assets.background: Background/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).jpg
-assets.video: Video/Forgotten Realms - Savage Frontier II - Treasures of the Savage Frontier (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5540,7 +5523,6 @@ assets.boxfront: BoxFront/Forgotten Realms - Unlimited Adventures (USA).jpg
 assets.boxback: BoxBack/Forgotten Realms - Unlimited Adventures (USA).jpg
 assets.background: Background/Forgotten Realms - Unlimited Adventures (USA).jpg
 assets.screenshot: Screenshot/Forgotten Realms - Unlimited Adventures (USA).jpg
-assets.video: Video/Forgotten Realms - Unlimited Adventures (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5689,7 +5671,6 @@ assets.boxfront: BoxFront/Geneforge 1 (USA).jpg
 assets.boxback: BoxBack/Geneforge 1 (USA).jpg
 assets.background: Background/Geneforge 1 (USA).jpg
 assets.screenshot: Screenshot/Geneforge 1 (USA).jpg
-assets.video: Video/Geneforge 1 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -5714,7 +5695,6 @@ assets.boxfront: BoxFront/Geneforge 2 (USA).jpg
 assets.boxback: BoxBack/Geneforge 2 (USA).jpg
 assets.background: Background/Geneforge 2 (USA).jpg
 assets.screenshot: Screenshot/Geneforge 2 (USA).jpg
-assets.video: Video/Geneforge 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -6083,6 +6063,7 @@ assets.boxfront: BoxFront/HeXen - Beyond Heretic (USA).jpg
 assets.boxback: BoxBack/HeXen - Beyond Heretic (USA).jpg
 assets.background: Background/HeXen - Beyond Heretic (USA).jpg
 assets.screenshot: Screenshot/HeXen - Beyond Heretic (USA).jpg
+assets.video: Video/HeXen - Beyond Heretic (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -6103,6 +6084,7 @@ assets.boxfront: BoxFront/HeXen - Deathkings of the Dark Citadel (USA).jpg
 assets.boxback: BoxBack/HeXen - Deathkings of the Dark Citadel (USA).jpg
 assets.background: Background/HeXen - Deathkings of the Dark Citadel (USA).jpg
 assets.screenshot: Screenshot/HeXen - Deathkings of the Dark Citadel (USA).jpg
+assets.video: Video/HeXen - Deathkings of the Dark Citadel (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -6139,6 +6121,7 @@ assets.boxfront: BoxFront/HeXen II (USA).jpg
 assets.boxback: BoxBack/HeXen II (USA).jpg
 assets.background: Background/HeXen II (USA).jpg
 assets.screenshot: Screenshot/HeXen II (USA).jpg
+assets.video: Video/HeXen II (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -6166,6 +6149,7 @@ assets.boxfront: BoxFront/Headlander (USA).jpg
 assets.boxback: BoxBack/Headlander (USA).jpg
 assets.background: Background/Headlander (USA).jpg
 assets.screenshot: Screenshot/Headlander (USA).jpg
+assets.video: Video/Headlander (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -6311,6 +6295,7 @@ assets.boxfront: BoxFront/Heretic - Shadow of the Serpent Riders (USA).jpg
 assets.boxback: BoxBack/Heretic - Shadow of the Serpent Riders (USA).jpg
 assets.background: Background/Heretic - Shadow of the Serpent Riders (USA).jpg
 assets.screenshot: Screenshot/Heretic - Shadow of the Serpent Riders (USA).jpg
+assets.video: Video/Heretic - Shadow of the Serpent Riders (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -7942,12 +7927,13 @@ assets.boxfront: BoxFront/Might and Magic - Swords of Xeen (USA).jpg
 assets.boxback: BoxBack/Might and Magic - Swords of Xeen (USA).jpg
 assets.background: Background/Might and Magic - Swords of Xeen (USA).jpg
 assets.screenshot: Screenshot/Might and Magic - Swords of Xeen (USA).jpg
+assets.video: Video/Might and Magic - Swords of Xeen (USA).mp4
 x-co-op: No
 x-playable: Yes
 
 
-game: Might and Magic 1 - Book I (USA)
-file: Computer/GOG/M/Might and Magic 1 - Book I (USA)/Might and Magic 1 - Book I (USA).json
+game: Might and Magic 1 - The Secret of the Inner Sanctum (USA)
+file: Computer/GOG/M/Might and Magic 1 - The Secret of the Inner Sanctum (USA)/Might and Magic 1 - The Secret of the Inner Sanctum (USA).json
 developer: New World Computing
 publisher: New World Computing
 genre: Role-Playing;Western-Style
@@ -7983,10 +7969,11 @@ description:
   mapping will display and retrace every step of your journey!
 release: 1986
 players: 1
-assets.boxfront: BoxFront/Might and Magic 1 - Book I (USA).jpg
-assets.boxback: BoxBack/Might and Magic 1 - Book I (USA).jpg
-assets.background: Background/Might and Magic 1 - Book I (USA).jpg
-assets.screenshot: Screenshot/Might and Magic 1 - Book I (USA).jpg
+assets.boxfront: BoxFront/Might and Magic 1 - The Secret of the Inner Sanctum (USA).jpg
+assets.boxback: BoxBack/Might and Magic 1 - The Secret of the Inner Sanctum (USA).jpg
+assets.background: Background/Might and Magic 1 - The Secret of the Inner Sanctum (USA).jpg
+assets.screenshot: Screenshot/Might and Magic 1 - The Secret of the Inner Sanctum (USA).jpg
+assets.video: Video/Might and Magic 1 - The Secret of the Inner Sanctum (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8035,6 +8022,7 @@ assets.boxfront: BoxFront/Might and Magic 2 - Gates to Another World (USA).jpg
 assets.boxback: BoxBack/Might and Magic 2 - Gates to Another World (USA).jpg
 assets.background: Background/Might and Magic 2 - Gates to Another World (USA).jpg
 assets.screenshot: Screenshot/Might and Magic 2 - Gates to Another World (USA).jpg
+assets.video: Video/Might and Magic 2 - Gates to Another World (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8074,6 +8062,7 @@ assets.boxfront: BoxFront/Might and Magic 3 - Isles of Terra (USA).jpg
 assets.boxback: BoxBack/Might and Magic 3 - Isles of Terra (USA).jpg
 assets.background: Background/Might and Magic 3 - Isles of Terra (USA).jpg
 assets.screenshot: Screenshot/Might and Magic 3 - Isles of Terra (USA).jpg
+assets.video: Video/Might and Magic 3 - Isles of Terra (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8113,6 +8102,7 @@ assets.boxfront: BoxFront/Might and Magic 4-5 - World of Xeen (USA).jpg
 assets.boxback: BoxBack/Might and Magic 4-5 - World of Xeen (USA).jpg
 assets.background: Background/Might and Magic 4-5 - World of Xeen (USA).jpg
 assets.screenshot: Screenshot/Might and Magic 4-5 - World of Xeen (USA).jpg
+assets.video: Video/Might and Magic 4-5 - World of Xeen (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8155,6 +8145,7 @@ assets.boxfront: BoxFront/Might and Magic 6 - The Mandate of Heaven (USA).jpg
 assets.boxback: BoxBack/Might and Magic 6 - The Mandate of Heaven (USA).jpg
 assets.background: Background/Might and Magic 6 - The Mandate of Heaven (USA).jpg
 assets.screenshot: Screenshot/Might and Magic 6 - The Mandate of Heaven (USA).jpg
+assets.video: Video/Might and Magic 6 - The Mandate of Heaven (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8199,6 +8190,7 @@ assets.boxfront: BoxFront/Might and Magic 7 - For Blood and Honor (USA).jpg
 assets.boxback: BoxBack/Might and Magic 7 - For Blood and Honor (USA).jpg
 assets.background: Background/Might and Magic 7 - For Blood and Honor (USA).jpg
 assets.screenshot: Screenshot/Might and Magic 7 - For Blood and Honor (USA).jpg
+assets.video: Video/Might and Magic 7 - For Blood and Honor (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8235,6 +8227,7 @@ assets.boxfront: BoxFront/Might and Magic 8 - Day of the Destroyer (USA).jpg
 assets.boxback: BoxBack/Might and Magic 8 - Day of the Destroyer (USA).jpg
 assets.background: Background/Might and Magic 8 - Day of the Destroyer (USA).jpg
 assets.screenshot: Screenshot/Might and Magic 8 - Day of the Destroyer (USA).jpg
+assets.video: Video/Might and Magic 8 - Day of the Destroyer (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8277,6 +8270,7 @@ assets.boxfront: BoxFront/Might and Magic 9 (USA).jpg
 assets.boxback: BoxBack/Might and Magic 9 (USA).jpg
 assets.background: Background/Might and Magic 9 (USA).jpg
 assets.screenshot: Screenshot/Might and Magic 9 (USA).jpg
+assets.video: Video/Might and Magic 9 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8612,6 +8606,7 @@ assets.boxfront: BoxFront/Nomads of Driftland (USA).jpg
 assets.boxback: BoxBack/Nomads of Driftland (USA).jpg
 assets.background: Background/Nomads of Driftland (USA).jpg
 assets.screenshot: Screenshot/Nomads of Driftland (USA).jpg
+assets.video: Video/Nomads of Driftland (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -11289,6 +11284,7 @@ assets.boxfront: BoxFront/Star Wars - Jedi Knight - Dark Forces II - Mysteries o
 assets.boxback: BoxBack/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).jpg
 assets.background: Background/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).jpg
 assets.screenshot: Screenshot/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).jpg
+assets.video: Video/Star Wars - Jedi Knight - Dark Forces II - Mysteries of the Sith (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13009,6 +13005,7 @@ assets.boxfront: BoxFront/Ultima 1 - The First Age of Darkness (USA).jpg
 assets.boxback: BoxBack/Ultima 1 - The First Age of Darkness (USA).jpg
 assets.background: Background/Ultima 1 - The First Age of Darkness (USA).jpg
 assets.screenshot: Screenshot/Ultima 1 - The First Age of Darkness (USA).jpg
+assets.video: Video/Ultima 1 - The First Age of Darkness (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13041,6 +13038,7 @@ assets.boxfront: BoxFront/Ultima 2 - The Revenge of the Enchantress (USA).jpg
 assets.boxback: BoxBack/Ultima 2 - The Revenge of the Enchantress (USA).jpg
 assets.background: Background/Ultima 2 - The Revenge of the Enchantress (USA).jpg
 assets.screenshot: Screenshot/Ultima 2 - The Revenge of the Enchantress (USA).jpg
+assets.video: Video/Ultima 2 - The Revenge of the Enchantress (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13076,6 +13074,7 @@ assets.boxfront: BoxFront/Ultima 3 - Exodus (USA).jpg
 assets.boxback: BoxBack/Ultima 3 - Exodus (USA).jpg
 assets.background: Background/Ultima 3 - Exodus (USA).jpg
 assets.screenshot: Screenshot/Ultima 3 - Exodus (USA).jpg
+assets.video: Video/Ultima 3 - Exodus (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13103,6 +13102,7 @@ assets.boxfront: BoxFront/Ultima 4 - Quest of the Avatar (USA).jpg
 assets.boxback: BoxBack/Ultima 4 - Quest of the Avatar (USA).jpg
 assets.background: Background/Ultima 4 - Quest of the Avatar (USA).jpg
 assets.screenshot: Screenshot/Ultima 4 - Quest of the Avatar (USA).jpg
+assets.video: Video/Ultima 4 - Quest of the Avatar (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13134,6 +13134,7 @@ assets.boxfront: BoxFront/Ultima 5 - Warriors of Destiny (USA).jpg
 assets.boxback: BoxBack/Ultima 5 - Warriors of Destiny (USA).jpg
 assets.background: Background/Ultima 5 - Warriors of Destiny (USA).jpg
 assets.screenshot: Screenshot/Ultima 5 - Warriors of Destiny (USA).jpg
+assets.video: Video/Ultima 5 - Warriors of Destiny (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13155,6 +13156,7 @@ assets.boxfront: BoxFront/Ultima 6 - The False Prophet (USA).jpg
 assets.boxback: BoxBack/Ultima 6 - The False Prophet (USA).jpg
 assets.background: Background/Ultima 6 - The False Prophet (USA).jpg
 assets.screenshot: Screenshot/Ultima 6 - The False Prophet (USA).jpg
+assets.video: Video/Ultima 6 - The False Prophet (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13173,6 +13175,7 @@ assets.boxfront: BoxFront/Ultima 7 - Part One - The Black Gate + The Forge of Vi
 assets.boxback: BoxBack/Ultima 7 - Part One - The Black Gate + The Forge of Virtue (USA).jpg
 assets.background: Background/Ultima 7 - Part One - The Black Gate + The Forge of Virtue (USA).jpg
 assets.screenshot: Screenshot/Ultima 7 - Part One - The Black Gate + The Forge of Virtue (USA).jpg
+assets.video: Video/Ultima 7 - Part One - The Black Gate + The Forge of Virtue (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13215,6 +13218,7 @@ assets.boxfront: BoxFront/Ultima 7 - Part Two - Serpent Isle + The Silver Seed (
 assets.boxback: BoxBack/Ultima 7 - Part Two - Serpent Isle + The Silver Seed (USA).jpg
 assets.background: Background/Ultima 7 - Part Two - Serpent Isle + The Silver Seed (USA).jpg
 assets.screenshot: Screenshot/Ultima 7 - Part Two - Serpent Isle + The Silver Seed (USA).jpg
+assets.video: Video/Ultima 7 - Part Two - Serpent Isle + The Silver Seed (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13245,6 +13249,7 @@ assets.boxfront: BoxFront/Ultima 8 - Gold Edition (USA).jpg
 assets.boxback: BoxBack/Ultima 8 - Gold Edition (USA).jpg
 assets.background: Background/Ultima 8 - Gold Edition (USA).jpg
 assets.screenshot: Screenshot/Ultima 8 - Gold Edition (USA).jpg
+assets.video: Video/Ultima 8 - Gold Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13294,6 +13299,7 @@ assets.boxfront: BoxFront/Ultima 9 - Ascension (USA).jpg
 assets.boxback: BoxBack/Ultima 9 - Ascension (USA).jpg
 assets.background: Background/Ultima 9 - Ascension (USA).jpg
 assets.screenshot: Screenshot/Ultima 9 - Ascension (USA).jpg
+assets.video: Video/Ultima 9 - Ascension (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13320,6 +13326,7 @@ assets.boxfront: BoxFront/Ultima Underworld 1 - The Stygian Abyss (USA).jpg
 assets.boxback: BoxBack/Ultima Underworld 1 - The Stygian Abyss (USA).jpg
 assets.background: Background/Ultima Underworld 1 - The Stygian Abyss (USA).jpg
 assets.screenshot: Screenshot/Ultima Underworld 1 - The Stygian Abyss (USA).jpg
+assets.video: Video/Ultima Underworld 1 - The Stygian Abyss (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13362,6 +13369,7 @@ assets.boxfront: BoxFront/Ultima Underworld 2 - Labyrinth of Worlds (USA).jpg
 assets.boxback: BoxBack/Ultima Underworld 2 - Labyrinth of Worlds (USA).jpg
 assets.background: Background/Ultima Underworld 2 - Labyrinth of Worlds (USA).jpg
 assets.screenshot: Screenshot/Ultima Underworld 2 - Labyrinth of Worlds (USA).jpg
+assets.video: Video/Ultima Underworld 2 - Labyrinth of Worlds (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13387,6 +13395,7 @@ assets.boxfront: BoxFront/Ultima Worlds of Adventure 2 - Martian Dreams (USA).jp
 assets.boxback: BoxBack/Ultima Worlds of Adventure 2 - Martian Dreams (USA).jpg
 assets.background: Background/Ultima Worlds of Adventure 2 - Martian Dreams (USA).jpg
 assets.screenshot: Screenshot/Ultima Worlds of Adventure 2 - Martian Dreams (USA).jpg
+assets.video: Video/Ultima Worlds of Adventure 2 - Martian Dreams (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13561,6 +13570,7 @@ assets.boxfront: BoxFront/Unreal Gold (USA).jpg
 assets.boxback: BoxBack/Unreal Gold (USA).jpg
 assets.background: Background/Unreal Gold (USA).jpg
 assets.screenshot: Screenshot/Unreal Gold (USA).jpg
+assets.video: Video/Unreal Gold (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -14118,6 +14128,7 @@ assets.boxfront: BoxFront/Wasteland 2 (USA).jpg
 assets.boxback: BoxBack/Wasteland 2 (USA).jpg
 assets.background: Background/Wasteland 2 (USA).jpg
 assets.screenshot: Screenshot/Wasteland 2 (USA).jpg
+assets.video: Video/Wasteland 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -14232,6 +14243,7 @@ assets.boxfront: BoxFront/Westerado - Double Barreled (USA).jpg
 assets.boxback: BoxBack/Westerado - Double Barreled (USA).jpg
 assets.background: Background/Westerado - Double Barreled (USA).jpg
 assets.screenshot: Screenshot/Westerado - Double Barreled (USA).jpg
+assets.video: Video/Westerado - Double Barreled (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -14527,6 +14539,7 @@ assets.boxfront: BoxFront/Wizardry 6 (USA).jpg
 assets.boxback: BoxBack/Wizardry 6 (USA).jpg
 assets.background: Background/Wizardry 6 (USA).jpg
 assets.screenshot: Screenshot/Wizardry 6 (USA).jpg
+assets.video: Video/Wizardry 6 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -14585,6 +14598,7 @@ assets.boxfront: BoxFront/Wizardry 7 Gold (USA).jpg
 assets.boxback: BoxBack/Wizardry 7 Gold (USA).jpg
 assets.background: Background/Wizardry 7 Gold (USA).jpg
 assets.screenshot: Screenshot/Wizardry 7 Gold (USA).jpg
+assets.video: Video/Wizardry 7 Gold (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -14835,6 +14849,7 @@ assets.boxfront: BoxFront/Worlds of Ultima - The Savage Empire (USA).jpg
 assets.boxback: BoxBack/Worlds of Ultima - The Savage Empire (USA).jpg
 assets.background: Background/Worlds of Ultima - The Savage Empire (USA).jpg
 assets.screenshot: Screenshot/Worlds of Ultima - The Savage Empire (USA).jpg
+assets.video: Video/Worlds of Ultima - The Savage Empire (USA).mp4
 x-co-op: No
 x-playable: Yes
 
