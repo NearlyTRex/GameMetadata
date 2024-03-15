@@ -1,18 +1,19 @@
 {
     "dlc": [
-        "setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_1.6.659.0.8_(64bit)_(59094)-1.bin",
-        "setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_1.6.659.0.8_(64bit)_(59094).exe"
+        "setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_0.1.3905696_(64bit)_(70738)-1.bin",
+        "setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_0.1.3905696_(64bit)_(70738).exe"
     ],
     "files": [
-        "dlc/setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_1.6.659.0.8_(64bit)_(59094)-1.bin",
-        "dlc/setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_1.6.659.0.8_(64bit)_(59094).exe",
-        "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094)-1.bin",
-        "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094)-2.bin",
-        "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094)-3.bin",
-        "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094)-4.bin",
-        "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094)-5.bin",
-        "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094)-6.bin",
-        "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094).exe"
+        "dlc/setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_0.1.3905696_(64bit)_(70738)-1.bin",
+        "dlc/setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_0.1.3905696_(64bit)_(70738).exe",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738)-1.bin",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738)-2.bin",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738)-3.bin",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738)-4.bin",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738)-5.bin",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738)-6.bin",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738)-7.bin",
+        "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738).exe"
     ],
     "gog": {
         "appid": "1711230643",
@@ -21,8 +22,8 @@
         "name": "The Elder Scrolls V: Skyrim Special Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_1.6.659.0.8_(64bit)_(59094).exe"
+        "$SETUP_MAIN_ROOT/setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_the_elder_scrolls_v_skyrim_anniversary_upgrade_0.1.3905696_(64bit)_(70738).exe"
     ],
-    "transform_file": "setup_the_elder_scrolls_v_skyrim_special_edition_1.6.659.0.8_(64bit)_(59094).exe"
+    "transform_file": "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738).exe"
 }
