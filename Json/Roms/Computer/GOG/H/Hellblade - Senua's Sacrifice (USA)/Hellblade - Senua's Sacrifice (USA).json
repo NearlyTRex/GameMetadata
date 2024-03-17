@@ -1,19 +1,19 @@
 {
     "files": [
-        "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513)-1.bin",
-        "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513)-2.bin",
-        "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513)-3.bin",
-        "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513)-4.bin",
-        "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513).exe"
+        "setup_hellblade_senuas_sacrifice_1.03.1.202112071122_(52018)-1.bin",
+        "setup_hellblade_senuas_sacrifice_1.03.1.202112071122_(52018)-2.bin",
+        "setup_hellblade_senuas_sacrifice_1.03.1.202112071122_(52018)-3.bin",
+        "setup_hellblade_senuas_sacrifice_1.03.1.202112071122_(52018)-4.bin",
+        "setup_hellblade_senuas_sacrifice_1.03.1.202112071122_(52018).exe"
     ],
     "gog": {
         "appid": "1573355755",
         "appname": "hellblade_senuas_sacrifice",
-        "buildid": "1.03.1.202111032018",
+        "buildid": "1.03.1.202112071122",
         "name": "Hellblade: Senua's Sacrifice"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513).exe"
+        "$SETUP_MAIN_ROOT/setup_hellblade_senuas_sacrifice_1.03.1.202112071122_(52018).exe"
     ],
-    "transform_file": "setup_hellblade_senuas_sacrifice_1.03.1.202111032018_(51513).exe"
+    "transform_file": "setup_hellblade_senuas_sacrifice_1.03.1.202112071122_(52018).exe"
 }

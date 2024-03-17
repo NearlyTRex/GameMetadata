@@ -1,6 +1,24 @@
 {
+    "extra": [
+        "headlander_avatars.zip",
+        "headlander_posters.zip",
+        "headlander_wallpapers.zip"
+    ],
+    "files": [
+        "extra/headlander_avatars.zip",
+        "extra/headlander_posters.zip",
+        "extra/headlander_wallpapers.zip",
+        "setup_headlander_20161205_(12563)-1.bin",
+        "setup_headlander_20161205_(12563).exe"
+    ],
     "gog": {
         "appid": "1566652906",
-        "appname": "headlander"
-    }
+        "appname": "headlander",
+        "buildid": "20161205",
+        "name": "Headlander"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_headlander_20161205_(12563).exe"
+    ],
+    "transform_file": "setup_headlander_20161205_(12563).exe"
 }
