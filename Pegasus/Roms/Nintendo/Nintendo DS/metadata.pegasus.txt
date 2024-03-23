@@ -2631,6 +2631,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Theme Park (USA) (En,Ja,Fr,De,Es,It)
+file: Nintendo/Nintendo DS/Theme Park (USA) (En,Ja,Fr,De,Es,It)/Theme Park (USA) (En,Ja,Fr,De,Es,It).json
+developer: EA Japan Studio
+publisher: EA Games
+genre: Strategy;Management;Business / Tycoon
+description:
+  Think you can design and build the greatest amusement park in the world? You
+  select the site, you layout the rides. In fact, you control every aspect of
+  running a profitable amusement park; from hiring employees, to developing new
+  rides, to maintaining an adequate supply of soft drinks. Any mistakes, and the
+  bustling hordes of fun-seekers will let you know. Oh, and that Merry-Go-Round in
+  flames is a clue too.
+release: 2007-03-20
+players: 1
+assets.boxfront: BoxFront/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
+assets.boxback: BoxBack/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
+assets.background: Background/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
+assets.screenshot: Screenshot/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Valkyrie Profile - Covenant of the Plume (USA)
 file: Nintendo/Nintendo DS/Valkyrie Profile - Covenant of the Plume (USA)/Valkyrie Profile - Covenant of the Plume (USA).json
 developer: tri-Ace
