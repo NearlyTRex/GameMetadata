@@ -1,0 +1,522 @@
+collection: Nintendo WiiWare
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo WiiWare" -n {file.basename}
+
+
+game: And Yet It Moves (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/And Yet It Moves (USA) (Demo) (WiiWare)/And Yet It Moves (USA) (Demo) (WiiWare).json
+developer: Broken Rules
+publisher: Broken Rules
+genre: Action;Platformer;2D
+description:
+  And Yet It Moves is an award-winning physics-based platform game in which
+  players rotate the game world at will to solve challenging puzzles. Tilting the
+  world turns walls into floors, slides into platforms, and stacks of rocks into
+  dangerous hazards.
+  .
+  Players navigate through a paper collage world created with colorful pieces of
+  cardboard and set to distinctive music. With four different environments and
+  unlockable modes, And Yet It Moves is a platformer that will provide gamers with
+  endless challenges.
+release: 2010-08-23
+players: 1
+assets.boxfront: BoxFront/And Yet It Moves (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/And Yet It Moves (USA) (Demo) (WiiWare).jpg
+assets.background: Background/And Yet It Moves (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/And Yet It Moves (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Art of Balance (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Art of Balance (USA) (Demo) (WiiWare)/Art of Balance (USA) (Demo) (WiiWare).json
+developer: Shin'en
+publisher: Shin'en
+genre: Puzzle;General
+description:
+  Grab your Wii Remote and build balanced stacks in this engaging and challenging
+  physics-based puzzler.
+release: 2010-02-15
+players: 2
+assets.boxfront: BoxFront/Art of Balance (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Art of Balance (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Art of Balance (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Art of Balance (USA) (Demo) (WiiWare).jpg
+x-co-op: Yes
+x-playable: Yes
+
+
+game: Bit.Trip Beat (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Bit.Trip Beat (USA) (Demo) (WiiWare)/Bit.Trip Beat (USA) (Demo) (WiiWare).json
+developer: Gaijin Games
+publisher: Aksys Games
+genre: Action;Rhythm;Music
+description:
+  Once again, its all about the high score!
+  .
+  BIT.TRIP BEAT brings retro action back as you use the Wii Remote controller's
+  motion sensor to bounce beats in this rhythm game. Retro visuals, classic game
+  play, four-player multiplayer, and an 8-bit soundtrack will get you in the zone
+  and rock your world. Pay attention, though! Like most classic games, the
+  challenges are mighty. If you can stay cool as the difficulty increases, you'll
+  discover the beginnings of the BIT.TRIP saga...
+release: 2009-03-16
+players: 4
+assets.boxfront: BoxFront/Bit.Trip Beat (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Bit.Trip Beat (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Bit.Trip Beat (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Bit.Trip Beat (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Bit.Trip Fate (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Bit.Trip Fate (USA) (Demo) (WiiWare)/Bit.Trip Fate (USA) (Demo) (WiiWare).json
+developer: Gaijin Games
+publisher: Aksys Games
+genre: Action;Rhythm;Music
+description:
+  Bit.Trip Fate takes place over three environments, each divided into two stages
+  and culminating in a boss encounter. The first environment (stages Determination
+  and Patience) resembles a crystal cavern over a space backdrop, the second
+  (stages Desperation and Frustration) a cityscape filled with skyscrapers, and
+  the third (stages Anger and Fall) an underground pit with rivers of magma.
+  .
+  The game's hybrid mechanics feature a side perspective, resembling a horizontal
+  shooter, but with Commander Video confined to a set path, called the Vibe (along
+  which he can freely move forward and backward), an element of rail shooters. In
+  addition, the player controls Commander Video's movement independently of his
+  targeting reticule, similar to the style of twin-stick games descended from
+  Robotron: 2084. The reticule is commanded by the Wii Remote's IR pointer, with
+  bullets firing radially from Commander Video's location. Movement along the rail
+  is faster while the player is not holding down the trigger button. The rail
+  takes on various shapes, usually similar to a sine wave, which are predetermined
+  by the stage, while the screen scrolls at a steady rate. Enemies advance from
+  all directions, firing targeted and patterned bullets tradition to shoot 'em
+  ups.
+  .
+  The player's performance and interaction with enemies creates musical feedback
+  which contributes to the stage's soundtrack, providing an element similar to
+  certain music games, particularly Rez. The gameplay is less rhythmically
+  constrained than previous entries in the series, providing more freedom to the
+  player, but also less dynamic feedback.
+release: 2011-09-13
+players: 1
+assets.boxfront: BoxFront/Bit.Trip Fate (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Bit.Trip Fate (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Bit.Trip Fate (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Bit.Trip Fate (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Cave Story (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Cave Story (USA) (Demo) (WiiWare)/Cave Story (USA) (Demo) (WiiWare).json
+developer: Nicalis
+publisher: Nicalis
+genre: Action;Platformer;Metroidvania
+description:
+  Cave Story takes you into a rare world where a curious race of innocent, rabbit-
+  like creatures called Mimiga run free. You wake up in a dark cave with no memory
+  of who you are, where you came from or why you're in such a place. Uncovering
+  Mimiga Village, you discover that the once-carefree Mimiga are in danger at the
+  hands of a maniacal scientist. Their only hope rests squarely on the shoulders
+  of a quiet, amnesiac boy who can't remember his own name. Take control, learn
+  the origins of this world's power, stop the delusional villain and save the
+  Mimiga.
+release: 2010-03-22
+players: 1
+assets.boxfront: BoxFront/Cave Story (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Cave Story (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Cave Story (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Cave Story (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare)/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare).json
+developer: Square Enix
+publisher: Square Enix
+genre: Strategy;Real-Time;General
+description:
+  Step into the royal shoes of the Darklord's daughter as she installs traps and
+  monsters inside her tower to fight back the endless waves of invading
+  adventurers in this world-conquest RPG. Known as Artifacts, these monsters and
+  traps are your only hope in keeping the adventurers from destroying the Dark
+  Crystal on the top floor. Fly your tower across the land and conquer every stage
+  on your way to dominating the entire world.
+release: 2009-07-20
+players: 1
+assets.boxfront: BoxFront/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Fish'em All (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Fish'em All (USA) (Demo) (WiiWare)/Fish'em All (USA) (Demo) (WiiWare).json
+developer: Abylight
+publisher: Abylight
+genre: Puzzle;Action
+description:
+  Fish'em All!, an arcade game with real coin-op flavor! Watch out for the dragon,
+  the ninja-rat and the sumo-toad!
+  .
+  An arcade game with real coin-op flavor! Jack and Walter are two old
+  fishermen in a fantasy world. They have found places where crazy fish leap
+  out of the water all day long. The perfect place for a spot of fishing. It's
+  a shame the other strange creatures aren't going to make things easy! With
+  this surreal action game, you will experience the excitement of the great
+  arcade classics on your Wii console. Hold on tight to your Wii Remote and
+  fish 'em all! Featuring nine colorful scenarios, three game modes
+  (Arcade, Challenge, Fishtris), and one or two player action.
+release: 2009-06-08
+players: 1
+assets.boxfront: BoxFront/Fish'em All (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Fish'em All (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Fish'em All (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Fish'em All (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Fluidity (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Fluidity (USA) (Demo) (WiiWare)/Fluidity (USA) (Demo) (WiiWare).json
+developer: Curve Studios
+publisher: Nintendo
+genre: Action;Platformer;2D
+description:
+  A magical illustrated encyclopedia called Aquaticus has been tainted by a vial
+  of evil ink called the Influence. As a pool of water that can take on alternate
+  forms of ice and steam, you must overcome obstacles scattered across the pages
+  of Aquaticus and save it from the corruptive Influence. Tilt and twist your Wii
+  Remote controller to use the various forms and properties of water on your free-
+  flowing journey through Aquaticus, where every page has multiple panels and
+  illustrations that come to life. Tackle problems and defeat enemies to reveal
+  magical Rainbow Drops, each of which will restore some of Aquaticus' power and
+  allow it to open more chapters and grant you new powers. These additional
+  powers, such as sticking to objects as a block of ice or shooting bolts of
+  lightning as a steam cloud, will be essential to destroying the Influence and
+  its minions. Along the way, you can also test your ingenuity and reflexes by
+  finding hidden puzzle pieces. These pieces unlock playrooms that give you the
+  opportunity to use the skills you've learned and race against the clock to
+  complete as many challenges as possible. These challenges won't affect your
+  quest to restore Aquaticus' powers, but everyone needs a break now and again,
+  right? Fluidity offers the chance to slosh and slide your way through an
+  imaginative environment filled with challenging adventures. Are you ready to
+  dive into this unique experience?
+release: 2010-12-06
+players: 1
+assets.boxfront: BoxFront/Fluidity (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Fluidity (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Fluidity (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Fluidity (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Frobot (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Frobot (USA) (Demo) (WiiWare)/Frobot (USA) (Demo) (WiiWare).json
+developer: Fugazo
+publisher: Fugazo
+genre: Action;General
+description:
+  Frobot is programmed to make love, not war. But when his five foxy girlfriends
+  get botnapped, he doesn't skip a beat in taking the fight to the streets. Blast
+  your way up from the Funkytown Slums to the BotBlocker HQ and save them. In Burn
+  Baby Burn mode, earn powerful weapons including the Robo Hustle dash and the
+  Jivestalker disco ball to help take on the Man. In The Big Payback, journey
+  through a story mode filled with action, adventure and fro-frazzling physics
+  puzzles to rescue your girlfriends. In Superfreak, find hidden power picks and
+  upgrade your style. It's a fight to the last Fro in Frobot's multiplaya arena.
+  Face off with up to three of your friends on one screen to see who will earn the
+  spotlight. In It's Raining Guns, access an expanded arsenal of funky weapons,
+  including the Bass Bomb grenade and the Heartstopper shield. And in Do the
+  Hustle, you can unlock multiplaya maps by beating single-playa levels in record
+  time.
+release: 2010-12-20
+players: 1
+assets.boxfront: BoxFront/Frobot (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Frobot (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Frobot (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Frobot (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Furry Legends (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Furry Legends (USA) (Demo) (WiiWare)/Furry Legends (USA) (Demo) (WiiWare).json
+developer: Gamelion Studios
+publisher: Gamelion Studios
+genre: Action;Platformer;3D
+description:
+  A lush and vibrant world inhabited by two major life forms Squaries and
+  Furballs, engaged in eternal struggle between each other. In Furry Legends you
+  can explore this world, learn its secrets, learn the genesis of the world and
+  the conflict. Jump, collect, solve puzzles and experience the physics governing
+  this world. Outstanding presentation, tons of humor and fantastic level designs
+  combine to make Furry Legends the game that just about anyone who loves gaming
+  should be able to appreciate. If there ever was a must-own WiiWare game, Furry
+  Legends might be just what you're looking for.
+release: 2010-07-19
+players: 1
+assets.boxfront: BoxFront/Furry Legends (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Furry Legends (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Furry Legends (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Furry Legends (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Jett Rocket (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Jett Rocket (USA) (Demo) (WiiWare)/Jett Rocket (USA) (Demo) (WiiWare).json
+developer: Shin'en
+publisher: Shin'en
+genre: Action;Platformer;3D
+description:
+  Jump and run and fly. Let Jett Rocket explore the beautiful planet of Yoroppa
+  and find out why it has been attacked by the evil Power Plant Posse. Visit
+  tropical islands, poisonous swamps and freezingly cold glaciers. Ride the ocean
+  on your Jet Boat, parachute from giant cliffs, speed through arctic regions on
+  your Jet Snowboard or skyrocket with your Jet Turbine. You will need everything
+  you've got to fight back and save Yoroppa. Just be Jett Rocket in this epic
+  futuristic full 3D action adventure.
+release: 2010-06-28
+players: 1
+assets.boxfront: BoxFront/Jett Rocket (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Jett Rocket (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Jett Rocket (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Jett Rocket (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Lilt Line (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Lilt Line (USA) (Demo) (WiiWare)/Lilt Line (USA) (Demo) (WiiWare).json
+developer: different cloth
+publisher: Gaijin Games
+genre: Action;Rhythm;Music
+description:
+  Lilt Line is an award-winning rhythm racing game with a dubstep soundtrack and a
+  visual aesthetic that will confound your senses and rock your soul. Control the
+  silky-smooth rhythm line and do your best to stay on the track as you race to
+  the finish, tapping the button to the beat of the catchy soundtrack by genre
+  superstars 16bit. With 15 levels of intense musical racing, it's a game that has
+  to be experienced to be believed.
+release: 2010-12-13
+players: 1
+assets.boxfront: BoxFront/Lilt Line (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Lilt Line (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Lilt Line (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Lilt Line (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Max & the Magic Marker (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Max & the Magic Marker (USA) (Demo) (WiiWare)/Max & the Magic Marker (USA) (Demo) (WiiWare).json
+developer: Press Play
+publisher: Press Play
+genre: Action;Platformer;2D
+description:
+  Max & the Magic Marker will be familiar to fans of platform games but provides a
+  unique twist that allows the player's imagination to literally run wild. The
+  player must use the magic marker to solve puzzles, overcome obstacles, and
+  defeat enemies. Along the way you must collect ink in order to continue drawing.
+  On the Wii, the player will use the nunchuk for player movement while the remote
+  controls your marker. At any point the player can pause the action to draw their
+  way out of sticky situations. Max, the game's hero, is a young boy who loves to
+  draw. One day he receives a mysterious orange marker in the mail. As he begins
+  drawing with the mysterious marker he quickly notices it has magical powers.
+  Anything Max draws starts moving on the paper and comes to life. The monster he
+  draws begins messing around with Max's artwork and so Max decides to draw
+  himself into his picture and that is where the adventure begins.
+release: 2010-03-08
+players: 1
+assets.boxfront: BoxFront/Max & the Magic Marker (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Max & the Magic Marker (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Max & the Magic Marker (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Max & the Magic Marker (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare)/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare).json
+developer: Over the Top Games
+publisher: Over the Top Games
+genre: Action;Platformer;2D
+description:
+  Experience the awesome story of Nyx, an enigmatic winged girl, that must descend
+  from heaven in search of her missing friend Icarus. You will need the help of
+  Zeus and other benevolent Gods from Olympus to summon their powers. They will
+  let you cast rays, modify the scenery and control winds at your wish.
+release: 2009-08-10
+players: 1
+assets.boxfront: BoxFront/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare).jpg
+assets.background: Background/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Pokemon Rumble (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Pokemon Rumble (USA) (Demo) (WiiWare)/Pokemon Rumble (USA) (Demo) (WiiWare).json
+developer: Ambrella
+publisher: Nintendo
+genre: Action;Beat-'Em-Up;3D
+description:
+  Pokemon Rumble is an action game in which you control Toy Pokemon and take on
+  wave after wave of other Pokemon in a variety of stages. You can befriend some
+  of the defeated Pokemon along the way, which lets you add them to your
+  collection and grants you the ability to use them in battle. Switch between
+  collected Pokemon at any time, taking advantage of the fact that the amount of
+  damage you deal depends on the type of move used and the type of PokAmon hit. Be
+  the last one standing to gain the right to compete in the Battle Royale and test
+  your skills against many PokAmon at once. You can also team up with three people
+  for some multiplayer action (additional Wii Remote controllers required),
+  working together to take down tough Bosses and earning points that can be used
+  toward recruiting or training Pokemon. You can even save your favorite Pokemon
+  to your Wii Remote controller for exchanges with friends. Combining beautiful
+  cel-shaded graphics and exciting game-play features, this is one rumble you
+  won't want to miss.
+release: 2009-11-16
+players: 1
+assets.boxfront: BoxFront/Pokemon Rumble (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Pokemon Rumble (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Pokemon Rumble (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Pokemon Rumble (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare)/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare).json
+developer: Artefacts Studio
+publisher: Zallag
+genre: Racing;Arcade;Other
+description:
+  Six different and unique islands (each representing a country) serve as a
+  background for the 20 tracks present in the game. Not only will the players need
+  driving skills, they should also consider precision. Indeed, the original
+  gameplay of Racers' Islands : Crazy Racers allows the player to target precisely
+  other players and adversaries with the Wii Remote while driving.
+release: 2010-10-04
+players: 1
+assets.boxfront: BoxFront/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Robox (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Robox (USA) (Demo) (WiiWare)/Robox (USA) (Demo) (WiiWare).json
+developer: DreamBox Games
+publisher: DreamBox Games
+genre: Action Adventure;General
+description:
+  An exploratory probe has been sent to a strange planet to investigate the loss
+  of several previous probes and to collect information. Following a crash landing
+  on the planet's surface, our main character loses the skills that were to enable
+  the accomplishment of the mission. Help him recover them with the help of the
+  strange creatures that have taken over his mechanical interior and discover the
+  truth behind his new mission. You can enjoy a complete adventure mode that takes
+  place in different locations around the planet, exploring different paths and
+  discovering the many secrets hidden in the planet. Inside the exploratory probe,
+  you can control tiny creatures that will help you to repair the areas damaged by
+  the crash landing, thus recovering skills and accessing memory files. If you
+  cannot move through the interior of the robot you must find amber rocks on the
+  outside in order to obtain to new creatures and progress through the internal
+  circuits.
+release: 2010-11-01
+players: 1
+assets.boxfront: BoxFront/Robox (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Robox (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Robox (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Robox (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: ThruSpace (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/ThruSpace (USA) (Demo) (WiiWare)/ThruSpace (USA) (Demo) (WiiWare).json
+developer: Keys Factory
+publisher: Nintendo
+genre: Puzzle;Action
+description:
+  ThruSpace is an exciting puzzle game in which you move and rotate an object
+  called a keydron through gaps in walls. Putting your keydron through a gap earns
+  you points, but mastering this ability allows you to perform combos (picking up
+  pairs of crystals simultaneously) and tricks (rotating the keydron so that its
+  shadow covers all of the gap before passing through it), which are key to
+  achieving high scores. Refine your skills in multiple game modes (Normal,
+  Endless and Trick Challenge), brush up on the rules in Keydron Tutorial, or
+  watch replay data in Keydron Memories. As the game progresses, the number of
+  available keydrons, backgrounds, stages and levels will increase. If you have a
+  broadband Internet connection, you can register your high scores on the
+  leaderboard via Nintendo Wi-Fi Connection and compare scores with other
+  ThruSpace players. This game is easy to play but difficult to master. Do you
+  have the skills and reflexes necessary to overcome the increasingly complex
+  challenges of ThruSpace?
+release: 2010-10-18
+players: 1
+assets.boxfront: BoxFront/ThruSpace (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/ThruSpace (USA) (Demo) (WiiWare).jpg
+assets.background: Background/ThruSpace (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/ThruSpace (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: World of Goo (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/World of Goo (USA) (Demo) (WiiWare)/World of Goo (USA) (Demo) (WiiWare).json
+developer: 2D Boy
+publisher: 2D Boy
+genre: Puzzle;Action
+description:
+  Part adventure puzzle, part physics-based construction sim, World of Goo is a
+  quirky game in which players must build geometric structures by connecting small
+  droplets of "goo." The premise is that players transport a specified number of
+  droplets from the starting point to a pipe that serves as the goal, with
+  leftover droplets automatically traveling along the completed pathway.
+  Challenges come in the form of realistic gravity and weather conditions that
+  change with each season, and as the game progresses players will encounter
+  helpful tools, level-based pitfalls, and a number of different colored droplets,
+  each offering unique levels of elasticity and a finite number of re-connections.
+release: 2008-10-13
+players: 1
+assets.boxfront: BoxFront/World of Goo (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/World of Goo (USA) (Demo) (WiiWare).jpg
+assets.background: Background/World of Goo (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/World of Goo (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Zombie Panic in Wonderland (USA) (Demo) (WiiWare)
+file: Nintendo/Nintendo WiiWare/Zombie Panic in Wonderland (USA) (Demo) (WiiWare)/Zombie Panic in Wonderland (USA) (Demo) (WiiWare).json
+developer: Akaoni Studio
+publisher: Akaoni Studio
+genre: Action;Shooter;Third-Person;Arcade
+description:
+  A sudden wave of zombies is attacking Wonderland. To save your friends from the
+  spell of the "amorous zombies," you'll have to solve the mystery of the "scented
+  dwarves" in time and put an end to the evil power hidden in the castle in the
+  northern city. Game features include cut scenes, music with lyrics, seven
+  playable characters, hidden levels, final bosses, multiple weapons, nonstop
+  zombie attacks, explosions, demolitions and fire.
+release: 2010-05-03
+players: 1
+assets.boxfront: BoxFront/Zombie Panic in Wonderland (USA) (Demo) (WiiWare).jpg
+assets.boxback: BoxBack/Zombie Panic in Wonderland (USA) (Demo) (WiiWare).jpg
+assets.background: Background/Zombie Panic in Wonderland (USA) (Demo) (WiiWare).jpg
+assets.screenshot: Screenshot/Zombie Panic in Wonderland (USA) (Demo) (WiiWare).jpg
+x-co-op: No
+x-playable: Yes
+
+
