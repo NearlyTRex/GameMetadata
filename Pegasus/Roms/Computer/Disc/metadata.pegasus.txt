@@ -5776,6 +5776,40 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Small Radios Big Televisions (USA)
+file: Computer/Disc/S/Small Radios Big Televisions (USA)/Small Radios Big Televisions (USA).json
+developer: Fire Face
+publisher: Adult Swim Games
+genre: Adventure;Puzzle
+description:
+  Explore the inner workings of deserted factories in search of data cassettes
+  that contain boundless virtual worlds. Collect more tapes and explore more
+  worlds and you'll soon discover new methods of traversal and control that will
+  take you farther than you'd ever expect.
+  .
+  Descend into abandoned factories in search of lost cassette tapes that hold
+  boundless virtual worlds. Explore, manipulate, and distort the tapes to make
+  them reveal their secrets. Solve mechanical puzzles and map the winding halls of
+  these empty monoliths. Will you be able to find the way out, or what has
+  happened?
+  .
+  Key Features
+  .
+  Collect: More than 30 different tapes and distorted versions to explore.
+  .
+  Listen: Distinctive soundtrack that changes along with each tape that is warped.
+  .
+  Search: Find items within the tapes to help you continue on your journey.
+release: 2016-11-08
+players: 1
+assets.boxfront: BoxFront/Small Radios Big Televisions (USA).jpg
+assets.boxback: BoxBack/Small Radios Big Televisions (USA).jpg
+assets.background: Background/Small Radios Big Televisions (USA).jpg
+assets.screenshot: Screenshot/Small Radios Big Televisions (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Soldier of Fortune II - Double Helix (USA)
 file: Computer/Disc/S/Soldier of Fortune II - Double Helix (USA)/Soldier of Fortune II - Double Helix (USA).json
 developer: Raven Software
@@ -6400,6 +6434,25 @@ assets.background: Background/SteamWorld Dig - A Fistful of Dirt (USA).jpg
 assets.screenshot: Screenshot/SteamWorld Dig - A Fistful of Dirt (USA).jpg
 assets.video: Video/SteamWorld Dig - A Fistful of Dirt (USA).mp4
 x-co-op: No
+x-playable: Yes
+
+
+game: StepMania (USA)
+file: Computer/Disc/S/StepMania (USA)/StepMania (USA).json
+developer: Chris Danford
+publisher: Chris Danford
+genre: Music
+description:
+  StepMania is a free dance and rhythm game for Windows, Mac, and Linux. It
+  features 3D graphics, keyboard and "dance pad" support, and an editor for
+  creating your own steps.
+release: 2005-11-01
+players: 2
+assets.boxfront: BoxFront/StepMania (USA).jpg
+assets.boxback: BoxBack/StepMania (USA).jpg
+assets.background: Background/StepMania (USA).jpg
+assets.screenshot: Screenshot/StepMania (USA).jpg
+x-co-op: Yes
 x-playable: Yes
 
 
