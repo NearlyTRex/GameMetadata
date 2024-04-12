@@ -146,6 +146,29 @@ x-co-op: No
 x-playable: Yes
 
 
+game: AI Dungeon (USA)
+file: Computer/Steam/A/AI Dungeon (USA)/AI Dungeon (USA).json
+developer: VoyageAI
+publisher: VoyageAI
+genre: Adventure;Text
+description:
+  AI Dungeon is a text-based, AI-generated fantasy simulation with infinite
+  possibilities. Unlike most games where you experience worlds created by game
+  designers, with AI Dungeon, you can direct the AI to create worlds, characters,
+  and scenarios for your character to interact with. You could lead an army
+  fighting back an alien invasion, be a mythical detective investigating the
+  attempted assassination of the fairy queen, or simply enjoy the pleasures of a
+  simple slice-of-life scenario.
+release: 2022-07-28
+players: 1
+assets.boxfront: BoxFront/AI Dungeon (USA).jpg
+assets.boxback: BoxBack/AI Dungeon (USA).jpg
+assets.background: Background/AI Dungeon (USA).jpg
+assets.screenshot: Screenshot/AI Dungeon (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: ARK - Survival Evolved (USA)
 file: Computer/Steam/A/ARK - Survival Evolved (USA)/ARK - Survival Evolved (USA).json
 developer: Studio Wildcard
@@ -1007,6 +1030,31 @@ assets.boxback: BoxBack/Bloodshore (USA).jpg
 assets.background: Background/Bloodshore (USA).jpg
 assets.screenshot: Screenshot/Bloodshore (USA).jpg
 assets.video: Video/Bloodshore (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Boomeroad (USA)
+file: Computer/Steam/B/Boomeroad (USA)/Boomeroad (USA).json
+developer: GYAAR Studio
+publisher: Phoenixx Inc.
+genre: Action Adventure;General
+description:
+  BOOMEROAD is an exhilarating action-adventure game in which players slide along
+  boomerang rails you will create.
+  .
+  The game is set in an ancient ruin floating in the sky. Boomy, a young
+  archaeologist boy, visits the ruins as he believes in the legend that there are
+  hidden treasures of an ancient civilization in the towers of the ruins.
+  .
+  Using one of the ruin's artifacts, a boomerang that can draw rails, he
+  adventures through the ruins, which are shrouded in the veil of secrecy.
+release: 2024-03-26
+players: 1
+assets.boxfront: BoxFront/Boomeroad (USA).jpg
+assets.boxback: BoxBack/Boomeroad (USA).jpg
+assets.background: Background/Boomeroad (USA).jpg
+assets.screenshot: Screenshot/Boomeroad (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3025,6 +3073,26 @@ assets.boxback: BoxBack/Dorke and Ymp (USA).jpg
 assets.background: Background/Dorke and Ymp (USA).jpg
 assets.screenshot: Screenshot/Dorke and Ymp (USA).jpg
 assets.video: Video/Dorke and Ymp (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Doronko Wanko (USA)
+file: Computer/Steam/D/Doronko Wanko (USA)/Doronko Wanko (USA).json
+developer: GYAAR Studio
+publisher: Phoenixx Inc.
+genre: Action;General
+description:
+  DORONKO WANKO is a DORONKO Action Game. In this game, you can become a cute,
+  innocent pomeranian. And you can make your master's home messy and dirty.
+  .
+  Let's explore this beautiful house and make it dirty and muddy at will!
+release: 2024-03-26
+players: 1
+assets.boxfront: BoxFront/Doronko Wanko (USA).jpg
+assets.boxback: BoxBack/Doronko Wanko (USA).jpg
+assets.background: Background/Doronko Wanko (USA).jpg
+assets.screenshot: Screenshot/Doronko Wanko (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7411,6 +7479,31 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Nottolot (USA)
+file: Computer/Steam/N/Nottolot (USA)/Nottolot (USA).json
+developer: GYAAR Studio
+publisher: Phoenixx Inc.
+genre: Action Adventure;General
+description:
+  NOTTOLOT is a free play robot hacking action game. The main character, Rolly,
+  uses his "hacking ability" to control four enemies and escape from a robot
+  production factory!
+  .
+  Fly in the sky, climb walls, and more. Manipulate enemies to break through
+  gimmicks and clear all three stages!
+  .
+  The main character "Rolly" longs for the outside world. Can he escape from the
+  robot production factory guarded by enemy robots?
+release: 2024-03-26
+players: 1
+assets.boxfront: BoxFront/Nottolot (USA).jpg
+assets.boxback: BoxBack/Nottolot (USA).jpg
+assets.background: Background/Nottolot (USA).jpg
+assets.screenshot: Screenshot/Nottolot (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Nuclear Throne (USA)
 file: Computer/Steam/N/Nuclear Throne (USA)/Nuclear Throne (USA).json
 developer: Vlambeer
@@ -9032,6 +9125,26 @@ x-co-op: No
 x-playable: Yes
 
 
+game: RimWorld (USA)
+file: Computer/Steam/R/RimWorld (USA)/RimWorld (USA).json
+developer: Ludeon Studios
+publisher: Ludeon Studios
+genre: Strategy;Real-Time;General
+description:
+  A sci-fi colony sim driven by an intelligent AI storyteller. Inspired by Dwarf
+  Fortress and Firefly. Generates stories by simulating psychology, ecology,
+  gunplay, melee combat, climate, biomes, diplomacy, interpersonal relationships,
+  art, medicine, trade, and more.
+release: 2018-10-17
+players: 1
+assets.boxfront: BoxFront/RimWorld (USA).jpg
+assets.boxback: BoxBack/RimWorld (USA).jpg
+assets.background: Background/RimWorld (USA).jpg
+assets.screenshot: Screenshot/RimWorld (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Risk of Rain (USA)
 file: Computer/Steam/R/Risk of Rain (USA)/Risk of Rain (USA).json
 developer: Hopoo Games
@@ -9570,6 +9683,56 @@ assets.boxback: BoxBack/She Sees Red (USA).jpg
 assets.background: Background/She Sees Red (USA).jpg
 assets.screenshot: Screenshot/She Sees Red (USA).jpg
 assets.video: Video/She Sees Red (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Sheepy - A Short Adventure (USA)
+file: Computer/Steam/S/Sheepy - A Short Adventure (USA)/Sheepy - A Short Adventure (USA).json
+developer: MrSuicideSheep
+publisher: MrSuicideSheep
+genre: Adventure;General
+description:
+  Sheepy: A Short Adventure is a handcrafted pixel platformer that follows
+  Sheepy, an abandoned plushy, as he is brought to life. Set in the sewers
+  beneath a city, you slowly discover that things are not quite what they seem.
+  As you travel deeper you develop skills, pick up lore and explore secrets in
+  an ever increasingly challenging world based on the music and community
+  MrSuicideSheep has curated and engaged with for more than 10 years.
+  Internally, Sheepy: A Short Adventure leans on influences from games like
+  Celeste, Little Nightmares, Inside, Uncharted, Portal 2, Shadow of the
+  Colossus and, culturally, the SCP Universe. Sheepy: A Short Adventure is the
+  first game from MrSuicideSheep and will be initially releasing on Steam and
+  Itch.io. The standard edition will be free to play with an average playtime
+  of around 45-60 minutes.
+  .
+  Sheepy: A Short Adventure is the creation of Solo-Developer Thomas Lean and
+  Producer Rob Thomas. Seeking Blue's Label Manager Lucas James leads
+  soundtrack development with label artists Yoe Mase, Hahlweg and Tal from
+  ECHOS. Sheepy remains Executive Producer (the enigmatic and mysterious
+  real-life Sheepy behind YouTube curation channel MrSuicideSheep, one of the
+  original and longest running music curation channels on YouTube). Rob
+  connected with Thomas in the early days of 2020 and an impressive crime
+  fighting duo was born. Thomas created a single short level prototype which
+  was used as the foundation for Sheepy: A Short Adventure. The game began full
+  development in November 2020, will be announced publicly on June 8th 2021,
+  and is scheduled to have a playable demo deployed in late July 2021 on Steam
+  and Itch.io.
+  .
+  Features
+  .
+  * Play as Sheepy, an abandoned plushy.\n
+  * Explore a fully original, handcrafted pixel art world.\n
+  * An original dynamic OST by Seeking Blue artists Tal Richards, Hahlweg and Yoe Mase\n
+  * Unlockable lore, secrets and bonus content to discover.\n
+  * Around 45-60 minutes of playtime.\n
+  * Sheepy: A Short Adventure is free to play.
+release: 2024-02-06
+players: 1
+assets.boxfront: BoxFront/Sheepy - A Short Adventure (USA).jpg
+assets.boxback: BoxBack/Sheepy - A Short Adventure (USA).jpg
+assets.background: Background/Sheepy - A Short Adventure (USA).jpg
+assets.screenshot: Screenshot/Sheepy - A Short Adventure (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -11207,6 +11370,45 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Untitled Ghost Game (USA)
+file: Computer/Steam/U/Untitled Ghost Game (USA)/Untitled Ghost Game (USA).json
+developer: Dubscr
+publisher: Dubscr
+genre: Action;General
+description:
+  Welcome to Untitled Ghost Game, a spine-tingling 2D ghost hunting adventure
+  brought to you by a small but dedicated team of developers.
+  .
+  Step into the shoes of a paranormal investigator armed with an arsenal of
+  ghost hunting equipment, including an EMF reader, a Luigi board, a
+  thermometer, a clock, a spirit box, a sketchbook, and a geiger counter.
+  Explore a variety of creepy locations, including Mario's Cottage, Leonardo's
+  Villa, Haunted Boardwalk, and the Spooky Mall.
+  .
+  Your objective is to use your equipment to locate the ghost and ghost room to
+  see how it interacts with the environment, items, and hiding places. Once you
+  have gathered enough information, it's up to you to make an educated guess
+  about the type of ghost you're dealing with. Once you've made your guess, the
+  exorcist can come in and take care of the ghost.
+  .
+  But beware - ghosts can be unpredictable and dangerous, so be sure to keep
+  your wits about you. With atmospheric visuals, spooky sound effects, and a
+  haunting (badass) soundtrack from the musical artist Sodaguyz, Untitled Ghost
+  Game will keep you on the edge of your seat.
+  .
+  So join us on this bone-chilling journey into the unknown, brought to you by
+  a small passionate team of indie developers who are dedicated to bringing you
+  the best in 2D ghost hunting gameplay.
+release: 2023-09-12
+players: 1
+assets.boxfront: BoxFront/Untitled Ghost Game (USA).jpg
+assets.boxback: BoxBack/Untitled Ghost Game (USA).jpg
+assets.background: Background/Untitled Ghost Game (USA).jpg
+assets.screenshot: Screenshot/Untitled Ghost Game (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: VVVVVV (USA)
 file: Computer/Steam/V/VVVVVV (USA)/VVVVVV (USA).json
 developer: Terry Cavanagh
@@ -11699,6 +11901,29 @@ assets.boxback: BoxBack/Without Within (USA).jpg
 assets.background: Background/Without Within (USA).jpg
 assets.screenshot: Screenshot/Without Within (USA).jpg
 assets.video: Video/Without Within (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Wonder Wickets (USA)
+file: Computer/Steam/W/Wonder Wickets (USA)/Wonder Wickets (USA).json
+developer: Rightstick Studios
+publisher: Artisano
+genre: Sports;Individual;Golf;Arcade
+description:
+  Deep in the heart of the cosmos, champions from every corner of the galaxy
+  gather... for a game of minigolf! Eons ago, it was but a simple sport of stick
+  and rock played in a backwater asteroid belt, but as the years went by, the game
+  was squished, squashed, stretched, squeezed, and set on fire until it became the
+  game known across the galaxy as... Wonder Wickets! Some play for leisure and
+  others play for honor, but most just play as an excuse to travel the stars! What
+  sort of wacky competitors will you meet?
+release: 2018-10-17
+players: 1
+assets.boxfront: BoxFront/Wonder Wickets (USA).jpg
+assets.boxback: BoxBack/Wonder Wickets (USA).jpg
+assets.background: Background/Wonder Wickets (USA).jpg
+assets.screenshot: Screenshot/Wonder Wickets (USA).jpg
 x-co-op: No
 x-playable: Yes
 

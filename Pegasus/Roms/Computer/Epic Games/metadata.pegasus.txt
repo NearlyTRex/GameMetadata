@@ -120,6 +120,56 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Bridge, The (USA)
+file: Computer/Epic Games/B/Bridge, The (USA)/Bridge, The (USA).json
+developer: Ty Taylor and Mar Castañeda
+publisher: The Quantum Astrophysicists Guild
+genre: Puzzle;Logic
+description:
+  The Bridge is a logic puzzle game that forces you to reevaluate your
+  preconceptions of physics and perspective. It is Isaac Newton meets M. C.
+  Escher. Manipulate gravity to redefine the ceiling as the floor while
+  venturing through impossible architectures. Explore increasingly difficult
+  worlds, each uniquely detailed and designed to leave you with a pronounced
+  sense of intellectual accomplishment. The Bridge exemplifies games as an art
+  form, with beautifully hand-drawn art in the style of a black-and-white
+  lithograph.
+  .
+  Mind-bending puzzle solving
+  .
+  48 thought-provoking puzzles, each unique from the rest, all requiring an
+  innovative solution.
+  .
+  Topsy-turvy world
+  .
+  Gravity manipulations, gravitational vortexes, parallel dimensions, and many
+  more mind-bending concepts in a world where the laws of physics are not what
+  they seem.
+  .
+  M. C. Escher comes to life
+  .
+  M. C. Escher-esque worlds with impossible architecture set in the style of
+  beautifully hand-drawn black-and-white lithographic art.
+  .
+  Alternate ending and bonus puzzles
+  .
+  An alternate version of the game unlocked after the main storyline has been
+  completed, including challenging alternate versions of each of the 24 main
+  puzzles, along with an alternate ending.
+  .
+  And you can rewind time!
+  .
+  A time-backtracking system to alleviate any fears of making a mistake.
+release: 2013-02-22
+players: 1
+assets.boxfront: BoxFront/Bridge, The (USA).jpg
+assets.boxback: BoxBack/Bridge, The (USA).jpg
+assets.background: Background/Bridge, The (USA).jpg
+assets.screenshot: Screenshot/Bridge, The (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Cave Story+ (USA)
 file: Computer/Epic Games/C/Cave Story+ (USA)/Cave Story+ (USA).json
 developer: Nicalis
@@ -200,6 +250,42 @@ assets.screenshot: Screenshot/Deliver Us Mars (USA).jpg
 assets.video: Video/Deliver Us Mars (USA).mp4
 x-co-op: No
 x-playable: No
+
+
+game: Doki Doki Literature Club Plus! (USA)
+file: Computer/Epic Games/D/Doki Doki Literature Club Plus! (USA)/Doki Doki Literature Club Plus! (USA).json
+developer: Team Salvato
+publisher: Serenity Forge
+genre: Adventure;Visual Novel
+description:
+  Hi, Monika here!
+  .
+  Welcome to the Literature Club! It's always been a dream of mine to make
+  something special out of the things I love. Now that you're a club member, you
+  can help me make that dream come true in this cute game!
+  .
+  Every day is full of chit-chat and fun activities with all of my adorable and
+  unique club members:
+  .
+  Sayori, the youthful bundle of sunshine who values happiness the most;
+  .
+  Natsuki, the deceivingly cute girl who packs an assertive punch;
+  .
+  Yuri, the timid and mysterious one who finds comfort in the world of books;
+  .
+  ...And, of course, Monika, the leader of the club! That's me!
+  .
+  I'm super excited for you to make friends with everyone and help the Literature
+  Club become a more intimate place for all my members. But I can tell already
+  that you're a sweetheart, will you promise to spend the most time with me?
+release: 2021-06-30
+players: 1
+assets.boxfront: BoxFront/Doki Doki Literature Club Plus! (USA).jpg
+assets.boxback: BoxBack/Doki Doki Literature Club Plus! (USA).jpg
+assets.background: Background/Doki Doki Literature Club Plus! (USA).jpg
+assets.screenshot: Screenshot/Doki Doki Literature Club Plus! (USA).jpg
+x-co-op: No
+x-playable: Yes
 
 
 game: Doom 64 (USA)
@@ -404,6 +490,38 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Ghostrunner (USA)
+file: Computer/Epic Games/G/Ghostrunner (USA)/Ghostrunner (USA).json
+developer: ONE MORE LEVEL
+publisher: All in! Games
+genre: Action;Platformer;3D
+description:
+  Ghostrunner is a hardcore FPP slasher packed with lightning-fast action, set in
+  a grim, cyberpunk megastructure. Climb Dharma Tower, humanity's last shelter,
+  after a world-ending cataclysm. Make your way up from the bottom to the top,
+  confront the tyrannical Keymaster, and take your revenge.
+  .
+  The streets of this tower city are full of violence. Mara the Keymaster rules
+  with an iron fist and little regard for human life.
+  .
+  As resources diminish, the strong prey on the weak and chaos threatens to
+  consume what little order remains. The decisive last stand is coming. A final
+  attempt to set things right before mankind goes over the edge of extinction.
+  .
+  As the most advanced blade fighter ever created, you're always outnumbered but
+  never outclassed. Slice your enemies with a monomolecular katana, dodge bullets
+  with your superhuman reflexes, and employ a variety of specialized techniques to
+  prevail.
+release: 2020-10-27
+players: 1
+assets.boxfront: BoxFront/Ghostrunner (USA).jpg
+assets.boxback: BoxBack/Ghostrunner (USA).jpg
+assets.background: Background/Ghostrunner (USA).jpg
+assets.screenshot: Screenshot/Ghostrunner (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Guacamelee! 2 (USA)
 file: Computer/Epic Games/G/Guacamelee! 2 (USA)/Guacamelee! 2 (USA).json
 developer: DrinkBox Studios
@@ -454,6 +572,34 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Invincible Presents - Atom Eve (USA)
+file: Computer/Epic Games/I/Invincible Presents - Atom Eve (USA)/Invincible Presents - Atom Eve (USA).json
+developer: Terrible Posture Games
+publisher: Skybound Games
+genre: Adventure;Visual Novel
+description:
+  Invincible Presents: Atom Eve is the first original Invincible game from
+  Skybound Games, the creator-led company behind Invincible and The Walking Dead.
+  .
+  Experience an original story with striking art directed by Rossi Gifford and
+  creative direction by award-winning writer Jill Murray, and explore the life of
+  Atom Eve in a world filled with beloved characters. Based on the comic book by
+  Robert Kirkman, Cory Walker, and Ryan Ottley.
+  .
+  Play as Atom Eve, the fan-favorite superhero from the Invincible universe! Get
+  to know Eve like never before as she navigates her life with the Teen Team, her
+  family, and her friends while figuring out the best way to use her incredible
+  powers as a force for good.
+release: 2023-11-14
+players: 1
+assets.boxfront: BoxFront/Invincible Presents - Atom Eve (USA).jpg
+assets.boxback: BoxBack/Invincible Presents - Atom Eve (USA).jpg
+assets.background: Background/Invincible Presents - Atom Eve (USA).jpg
+assets.screenshot: Screenshot/Invincible Presents - Atom Eve (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Iratus - Lord of the Dead (USA)
 file: Computer/Epic Games/I/Iratus - Lord of the Dead (USA)/Iratus - Lord of the Dead (USA).json
 developer: Unfrozen
@@ -484,6 +630,35 @@ assets.boxback: BoxBack/Iratus - Lord of the Dead (USA).jpg
 assets.background: Background/Iratus - Lord of the Dead (USA).jpg
 assets.screenshot: Screenshot/Iratus - Lord of the Dead (USA).jpg
 assets.video: Video/Iratus - Lord of the Dead (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Islets (USA)
+file: Computer/Epic Games/I/Islets (USA)/Islets (USA).json
+developer: Kyle Thompson
+publisher: Armor Games
+genre: Action;Platformer;Metroidvania
+description:
+  Iko is an aspiring yet hopeful warrior exploring the land and sky to reunite a
+  series of floating islands. With his rickety airship, he must travel from island
+  to island in order to reignite each one's magnetic core while fighting off the
+  many adversaries standing in his way.
+  .
+  Islets is a surprisingly wholesome metroidvania about making connections with
+  the people around you. By reuniting the islands and befriending a cast of
+  charming characters, the world expands and reveals new parts of each area for
+  Iko to explore. Scour every nook and cranny in order to collect the many
+  upgrades hidden around this world and face its numerous hidden challenges!
+  .
+  There's also a tour guide to show you around, but you should be careful. The
+  guy's got some really weird vibes...
+release: 2022-08-24
+players: 1
+assets.boxfront: BoxFront/Islets (USA).jpg
+assets.boxback: BoxBack/Islets (USA).jpg
+assets.background: Background/Islets (USA).jpg
+assets.screenshot: Screenshot/Islets (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -545,6 +720,37 @@ assets.background: Background/Killing Floor 2 (USA).jpg
 assets.screenshot: Screenshot/Killing Floor 2 (USA).jpg
 assets.video: Video/Killing Floor 2 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Lost Castle (USA)
+file: Computer/Epic Games/L/Lost Castle (USA)/Lost Castle (USA).json
+developer: Hunter Studio
+publisher: Another Indie
+genre: Role-Playing;Action RPG
+description:
+  In its glory days, Castle Harwood was the heart of a happy land governed by wise
+  and virtuous nobles. But those days are long gone now. Calamity has befallen
+  these lands, and wicked magics corrupt the castle and all that surrounds it.
+  Demons have claimed this rotten place for their domain and even the might of the
+  empire is thwarted by their dark army... and slowly, the corruption is
+  spreading. Castle Harwood is lost.
+  .
+  Yet at the heart of this nightmare, something bright glimmers and fills the
+  hearts of the mighty with the courage needed to invade the castle. The Lost
+  Castle is filled with the treasure of the defeated Earl and it is the promise of
+  riches that calls you. And maybe you can do some good, too.
+  .
+  Lost Castle is a super cute, super hard action RPG with roguelike elements and
+  randomized dungeons. Brimming with a host of hand drawn, humorous characters and
+  environments that embrace retro action with modern twists.
+release: 2016-08-31
+players: 1
+assets.boxfront: BoxFront/Lost Castle (USA).jpg
+assets.boxback: BoxBack/Lost Castle (USA).jpg
+assets.background: Background/Lost Castle (USA).jpg
+assets.screenshot: Screenshot/Lost Castle (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 
@@ -684,6 +890,59 @@ assets.boxback: BoxBack/Out of Line (USA).jpg
 assets.background: Background/Out of Line (USA).jpg
 assets.screenshot: Screenshot/Out of Line (USA).jpg
 assets.video: Video/Out of Line (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Outer Worlds, The - Spacer's Choice Edition (USA)
+file: Computer/Epic Games/O/Outer Worlds, The - Spacer's Choice Edition (USA)/Outer Worlds, The - Spacer's Choice Edition (USA).json
+developer: Obsidian Entertainment
+publisher: Private Division
+genre: Role-Playing;Western-Style
+description:
+  The Outer Worlds is a new single-player first-person sci-fi RPG from Obsidian
+  Entertainment and Private Division. Lost in transit while on a colonist ship
+  bound for the furthest edge of the galaxy, you awake decades later only to find
+  yourself in the midst of a deep conspiracy threatening to destroy the Halcyon
+  colony. As you explore the furthest reaches of space and encounter various
+  factions, all vying for power, the character you decide to become will determine
+  how this player-driven story unfolds. In the corporate equation for the colony,
+  you are the unplanned variable.
+  .
+  Key Features:
+  .
+  * The player-driven story RPG: In keeping with the Obsidian tradition, how you
+  approach The Outer Worlds is up to you. Your choices affect not only the way the
+  story develops; but your character build, companion stories, and end game
+  scenarios.
+  .
+  * You can be flawed, in a good way: New to The Outer Worlds is the idea of
+  flaws. A compelling hero is made by the flaws they carry with them. While
+  playing The Outer Worlds, the game tracks your experience to find what you
+  aren't particularly good at. Keep getting attacked by Raptidons? Taking the
+  Raptiphobia flaw gives you a debuff when confronting the vicious creatures, but
+  rewards you with an additional character perk immediately. This optional
+  approach to the game helps you build the character you want while exploring
+  Halcyon.
+  .
+  * Lead your companions: During your journey through the furthest colony, you
+  will meet a host of characters who will want to join your crew. Armed with
+  unique abilities, these companions all have their own missions, motivations, and
+  ideals. It's up to you to help them achieve their goals, or turn them to your
+  own ends.
+  .
+  * Explore the corporate colony: Halcyon is a colony at the edge of the galaxy
+  owned and operated by a corporate board. They control everything... except for
+  the alien monsters left behind when the terraforming of the colony's two planets
+  didn't exactly go according to plan. Find your ship, build your crew, and
+  explore the settlements, space stations, and other intriguing locations
+  throughout Halcyon.
+release: 2023-03-07
+players: 1
+assets.boxfront: BoxFront/Outer Worlds, The - Spacer's Choice Edition (USA).jpg
+assets.boxback: BoxBack/Outer Worlds, The - Spacer's Choice Edition (USA).jpg
+assets.background: Background/Outer Worlds, The - Spacer's Choice Edition (USA).jpg
+assets.screenshot: Screenshot/Outer Worlds, The - Spacer's Choice Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -956,6 +1215,34 @@ assets.screenshot: Screenshot/Surviving the Aftermath (USA).jpg
 assets.video: Video/Surviving the Aftermath (USA).mp4
 x-co-op: No
 x-playable: No
+
+
+game: Thief (USA)
+file: Computer/Epic Games/T/Thief (USA)/Thief (USA).json
+developer: Nixxes Software
+publisher: Square Enix
+genre: Action Adventure;General
+description:
+  Garrett, the Master Thief, steps out of the shadows into the City. In this
+  treacherous place, where the Barons Watch spreads a rising tide of fear and
+  oppression, his skills are the only things he can trust. Even the most cautious
+  citizens and their best-guarded possessions are not safe from his reach.
+  .
+  As an uprising emerges, Garrett finds himself entangled in growing layers of
+  conflict. Lead by Orion, the voice of the people, the tyrannized citizens will
+  do everything they can to claim back the City from the Barons grasp. The
+  revolution is inevitable. If Garrett doesn't get involved, the streets will run
+  red with blood and the City will tear itself apart.
+  .
+  Garrett never paid the price for anything until now.
+release: 2014-02-25
+players: 1
+assets.boxfront: BoxFront/Thief (USA).jpg
+assets.boxback: BoxBack/Thief (USA).jpg
+assets.background: Background/Thief (USA).jpg
+assets.screenshot: Screenshot/Thief (USA).jpg
+x-co-op: No
+x-playable: Yes
 
 
 game: Tomb Raider - Game of the Year Edition (USA)
