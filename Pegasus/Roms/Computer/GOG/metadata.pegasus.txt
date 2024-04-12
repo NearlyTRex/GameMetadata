@@ -1884,6 +1884,25 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Book of Demons (USA)
+file: Computer/GOG/B/Book of Demons (USA)/Book of Demons (USA).json
+developer: Thing Trunk
+publisher: Thing Trunk
+genre: Action;Role-Playing
+description:
+  Hack & slash distilled to its purest form. Devilishly charming and fun as hell.
+  Slay the armies of darkness in the dungeons below the Old Cathedral and save the
+  terror-stricken Paperverse from the clutches of the Archdemon himself.
+release: 2018-12-13
+players: 1
+assets.boxfront: BoxFront/Book of Demons (USA).jpg
+assets.boxback: BoxBack/Book of Demons (USA).jpg
+assets.background: Background/Book of Demons (USA).jpg
+assets.screenshot: Screenshot/Book of Demons (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Brigador - Up-Armored Edition (USA)
 file: Computer/GOG/B/Brigador - Up-Armored Edition (USA)/Brigador - Up-Armored Edition (USA).json
 developer: Stellar Jockeys
@@ -5986,6 +6005,29 @@ assets.boxback: BoxBack/Grim Fandango Remastered (USA).jpg
 assets.background: Background/Grim Fandango Remastered (USA).jpg
 assets.screenshot: Screenshot/Grim Fandango Remastered (USA).jpg
 assets.video: Video/Grim Fandango Remastered (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Hammerting (USA)
+file: Computer/GOG/H/Hammerting (USA)/Hammerting (USA).json
+publisher: Team17 Software Limited
+genre: Construction and Management Simulation;Strategy
+description:
+  Hammerting is a colony building mining and crafting game where you will manage a
+  clan of rambunctious dwarves in the unexplored Mountains of Mara.
+  .
+  As a terrible conflict rages on the surface, it's the dwarves of Mara's duty to
+  help their comrades by mining and crafting weapons in the depths below. Starting
+  out with a small colony, you'll steadily grow your operations by completing
+  requests and delivering powerful weapons to your allies. Establish an epic
+  mining operation and transform your colony into legendary craftspeople.
+release: 2021-11-16
+players: 6
+assets.boxfront: BoxFront/Hammerting (USA).jpg
+assets.boxback: BoxBack/Hammerting (USA).jpg
+assets.background: Background/Hammerting (USA).jpg
+assets.screenshot: Screenshot/Hammerting (USA).jpg
 x-co-op: No
 x-playable: Yes
 
