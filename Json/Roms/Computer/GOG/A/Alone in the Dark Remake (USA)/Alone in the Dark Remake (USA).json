@@ -1,0 +1,35 @@
+{
+    "dlc": [
+        "setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.2_(72022).exe",
+        "setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe",
+        "setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe"
+    ],
+    "files": [
+        "dlc/setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.2_(72022).exe",
+        "dlc/setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe",
+        "dlc/setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe",
+        "setup_alone_in_the_dark_1.0.2_(72022)-1.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-2.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-3.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-4.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-5.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-6.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-7.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-8.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022)-9.bin",
+        "setup_alone_in_the_dark_1.0.2_(72022).exe"
+    ],
+    "gog": {
+        "appid": "1177195295",
+        "appname": "alone_in_the_dark",
+        "buildid": "1.0.2",
+        "name": "Alone in the Dark"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_alone_in_the_dark_1.0.2_(72022).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.2_(72022).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe"
+    ],
+    "transform_file": "setup_alone_in_the_dark_1.0.2_(72022).exe"
+}
