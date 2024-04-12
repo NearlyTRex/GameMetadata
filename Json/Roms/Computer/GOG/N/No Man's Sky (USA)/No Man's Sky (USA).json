@@ -1,19 +1,19 @@
 {
     "files": [
-        "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499)-1.bin",
-        "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499)-2.bin",
-        "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499)-3.bin",
-        "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499)-4.bin",
-        "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499).exe"
+        "setup_no_mans_sky_4.63_orbitals_120200_(72324)-1.bin",
+        "setup_no_mans_sky_4.63_orbitals_120200_(72324)-2.bin",
+        "setup_no_mans_sky_4.63_orbitals_120200_(72324)-3.bin",
+        "setup_no_mans_sky_4.63_orbitals_120200_(72324)-4.bin",
+        "setup_no_mans_sky_4.63_orbitals_120200_(72324).exe"
     ],
     "gog": {
         "appid": "1446213994",
         "appname": "no_mans_sky",
-        "buildid": "4.48_holiday_2023_expeditions_115196",
+        "buildid": "4.63_Orbitals_120200",
         "name": "No Man's Sky"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499).exe"
+        "$SETUP_MAIN_ROOT/setup_no_mans_sky_4.63_orbitals_120200_(72324).exe"
     ],
-    "transform_file": "setup_no_mans_sky_4.48_holiday_2023_expeditions_115196_(70499).exe"
+    "transform_file": "setup_no_mans_sky_4.63_orbitals_120200_(72324).exe"
 }

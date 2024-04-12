@@ -1,11 +1,13 @@
 {
     "extra": [
         "Nox_QRC.zip",
-        "Nox_manual.zip"
+        "Nox_manual.zip",
+        "nox_sketches.zip"
     ],
     "files": [
         "extra/Nox_QRC.zip",
         "extra/Nox_manual.zip",
+        "extra/nox_sketches.zip",
         "setup_nox_2.0.0.20.exe"
     ],
     "gog": {

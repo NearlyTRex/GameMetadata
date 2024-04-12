@@ -1,6 +1,21 @@
 {
+    "dlc": [
+        "setup_nomads_of_driftland_the_forgotten_passage_nomads_1.0.48a_(64bit)_(44177).exe"
+    ],
+    "files": [
+        "dlc/setup_nomads_of_driftland_the_forgotten_passage_nomads_1.0.48a_(64bit)_(44177).exe",
+        "setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177)-1.bin",
+        "setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177).exe"
+    ],
     "gog": {
         "appid": "1433027987",
-        "appname": "nomads_of_driftland"
-    }
+        "appname": "nomads_of_driftland",
+        "buildid": "Nomads 1.0.48a",
+        "name": "Nomads of Driftland"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_nomads_of_driftland_the_forgotten_passage_nomads_1.0.48a_(64bit)_(44177).exe"
+    ],
+    "transform_file": "setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177).exe"
 }

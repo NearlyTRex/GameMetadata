@@ -4,24 +4,34 @@
         "Master_of_Magic_manual.zip",
         "Master_of_Magic_ost_new.zip",
         "Master_of_Magic_spellbook.zip",
+        "gog_master_of_magic_2.0.0.3.sh",
+        "gog_master_of_magic_french_2.0.0.3.sh",
+        "gog_master_of_magic_german_2.0.0.3.sh",
         "master_of_magic_advances_chart.zip",
         "mom_spellbook_german.zip",
-        "older_master_of_magic_1.3.1_(28044).zip"
+        "setup_master_of_magic_1.3.1_(28044).exe",
+        "setup_master_of_magic_1.3.1_(french)_(28044).exe",
+        "setup_master_of_magic_1.3.1_(german)_(28044).exe"
     ],
     "files": [
         "extra/Master_of_MagicWallpapers.zip",
         "extra/Master_of_Magic_manual.zip",
         "extra/Master_of_Magic_ost_new.zip",
         "extra/Master_of_Magic_spellbook.zip",
+        "extra/gog_master_of_magic_2.0.0.3.sh",
+        "extra/gog_master_of_magic_french_2.0.0.3.sh",
+        "extra/gog_master_of_magic_german_2.0.0.3.sh",
         "extra/master_of_magic_advances_chart.zip",
         "extra/mom_spellbook_german.zip",
-        "extra/older_master_of_magic_1.3.1_(28044).zip",
+        "extra/setup_master_of_magic_1.3.1_(28044).exe",
+        "extra/setup_master_of_magic_1.3.1_(french)_(28044).exe",
+        "extra/setup_master_of_magic_1.3.1_(german)_(28044).exe",
         "setup_master_of_magic_classic_momc_1.60.00_(67790).exe"
     ],
     "gog": {
         "appid": "1207658855",
         "appname": "master_of_magic_classic",
-        "buildid": "MoMC 1.60.00",
+        "buildid": "1.3.1",
         "name": "Master of Magic Classic"
     },
     "installer_exe": [
