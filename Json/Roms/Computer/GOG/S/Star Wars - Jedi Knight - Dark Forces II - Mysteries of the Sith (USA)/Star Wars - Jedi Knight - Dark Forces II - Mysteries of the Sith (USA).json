@@ -8,7 +8,9 @@
     ],
     "gog": {
         "appid": "1422285784",
-        "appname": "star_wars_jedi_knight_dark_forces_ii_copy3"
+        "appname": "star_wars_jedi_knight_dark_forces_ii_copy3",
+        "buildid": "1.0",
+        "name": "STAR WARS\u2122 Jedi Knight: Dark Forces II - Mysteries of the Sith"
     },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_wars_jedi_knight_-_mysteries_of_the_sith_1.0_(17966).exe"

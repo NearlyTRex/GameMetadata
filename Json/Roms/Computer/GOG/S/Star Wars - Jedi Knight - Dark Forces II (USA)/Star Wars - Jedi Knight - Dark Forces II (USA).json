@@ -8,7 +8,9 @@
     ],
     "gog": {
         "appid": "1422286819",
-        "appname": "star_wars_republic_commando_copy3"
+        "appname": "star_wars_republic_commando_copy3",
+        "buildid": "1.01",
+        "name": "STAR WARS\u2122 Jedi Knight: Dark Forces II"
     },
     "installer_exe": [
         "$SETUP_MAIN_ROOT/setup_star_wars_jedi_knight_-_dark_forces_2_1.01_(17966).exe"
