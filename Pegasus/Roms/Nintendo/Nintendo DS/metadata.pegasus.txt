@@ -2301,6 +2301,29 @@ x-co-op: No
 x-playable: Yes
 
 
+game: N+ (USA)
+file: Nintendo/Nintendo DS/N+ (USA)/N+ (USA).json
+developer: SilverBirch Studios
+publisher: Atari SA
+genre: Action;Puzzle;Platform
+description:
+  In a futuristic world of inadvertently homicidal robots, a daring ninja must use
+  deft acrobatic skill and guts of steel to survive. N+ is a peerless action-
+  puzzle platformer with more than 300 levels in which to hone your ninja
+  reflexes, plus a built-in level editor for when you're hungry for more. N+ also
+  features unique, physics-based controls, stylish graphics, unlimited lives,
+  competitive and cooperative multiplayer, plenty of gold, and several flavors of
+  sweet, sweet action.
+release: 2008-08-26
+players: 2
+assets.boxfront: BoxFront/N+ (USA).jpg
+assets.boxback: BoxBack/N+ (USA).jpg
+assets.background: Background/N+ (USA).jpg
+assets.screenshot: Screenshot/N+ (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: New Super Mario Bros. (USA)
 file: Nintendo/Nintendo DS/New Super Mario Bros. (USA)/New Super Mario Bros. (USA).json
 developer: Nintendo EAD
@@ -2846,6 +2869,27 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Puzzler World (USA)
+file: Nintendo/Nintendo DS/Puzzler World (USA)/Puzzler World (USA).json
+developer: Ubisoft
+publisher: Atari SA
+genre: Puzzle;Logic
+description:
+  Puzzler World brings over 1200 puzzles of 8 popular puzzle types to your PC.
+  Conceptis picture logic puzzle fans will be happy to know that in addition to
+  Crossword, Wordsearch, Fitword, Sudoku, Codeword, Spot the Difference and
+  Silhouette puzzles, Puzzler World also offers 83 Conceptis Link-a-Pix available
+  in sizes of 10x10, 20x20 and 25x25.
+release: 2009-12-08
+players: 1
+assets.boxfront: BoxFront/Puzzler World (USA).jpg
+assets.boxback: BoxBack/Puzzler World (USA).jpg
+assets.background: Background/Puzzler World (USA).jpg
+assets.screenshot: Screenshot/Puzzler World (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Resident Evil - Deadly Silence (USA)
 file: Nintendo/Nintendo DS/Resident Evil - Deadly Silence (USA)/Resident Evil - Deadly Silence (USA).json
 developer: Capcom
@@ -2939,6 +2983,28 @@ assets.boxback: BoxBack/Rhapsody - A Musical Adventure (USA).jpg
 assets.background: Background/Rhapsody - A Musical Adventure (USA).jpg
 assets.screenshot: Screenshot/Rhapsody - A Musical Adventure (USA).jpg
 assets.video: Video/Rhapsody - A Musical Adventure (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Rubik's World (USA) (En,Fr,Es)
+file: Nintendo/Nintendo DS/Rubik's World (USA) (En,Fr,Es)/Rubik's World (USA) (En,Fr,Es).json
+developer: Two Tribes
+publisher: The Game Factory
+genre: Puzzle;General
+description:
+  Welcome to Rubik's World- An abstract environment populated by "cubie" which
+  make up the game's DNA. Rubik's world takes the shape, functionality and concept
+  behind the famous Rubik's Cube but twists and turns the rules to transform it
+  into a unique game experience for players of all ages. Get ready for a
+  collection of games that will change your intellect while incorporating the
+  mental twists and moves that made the original Rubik's Cube such a hit!
+release: 2008-10-28
+players: 1
+assets.boxfront: BoxFront/Rubik's World (USA) (En,Fr,Es).jpg
+assets.boxback: BoxBack/Rubik's World (USA) (En,Fr,Es).jpg
+assets.background: Background/Rubik's World (USA) (En,Fr,Es).jpg
+assets.screenshot: Screenshot/Rubik's World (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
