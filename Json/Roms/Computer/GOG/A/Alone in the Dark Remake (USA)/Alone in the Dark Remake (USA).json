@@ -31,5 +31,21 @@
         "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe",
         "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe"
     ],
+    "main_game_exe": [
+        "GOG Games/Alone in the Dark/AloneInTheDark.exe"
+    ],
+    "main_game_exe_cwd": {
+        "GOG Games/Alone in the Dark/AloneInTheDark.exe": "GOG Games/Alone in the Dark"
+    },
+    "sandbox": {
+        "wine": {
+            "overrides": {
+                "game": [
+                    "d3d9,d3d10core,d3d11,dxgi=n,b"
+                ]
+            },
+            "use_dxvk": true
+        }
+    },
     "transform_file": "setup_alone_in_the_dark_1.0.2_(72022).exe"
 }
