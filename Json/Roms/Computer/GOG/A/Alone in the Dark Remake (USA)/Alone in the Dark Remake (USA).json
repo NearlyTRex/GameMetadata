@@ -1,23 +1,31 @@
 {
     "dlc": [
-        "setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.2_(72022).exe",
-        "setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe",
-        "setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe"
+        "setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.3_(72235).exe",
+        "setup_alone_in_the_dark_directors_commentary_mode_1.0.3_(72235).exe",
+        "setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.3_(72235).exe"
+    ],
+    "extra": [
+        "AitD_Digital_Artbook.zip",
+        "AitD_OST_MP3.zip",
+        "AitD_OST_WAV.zip"
     ],
     "files": [
-        "dlc/setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.2_(72022).exe",
-        "dlc/setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe",
-        "dlc/setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe",
-        "setup_alone_in_the_dark_1.0.2_(72022)-1.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-2.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-3.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-4.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-5.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-6.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-7.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-8.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022)-9.bin",
-        "setup_alone_in_the_dark_1.0.2_(72022).exe"
+        "dlc/setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.3_(72235).exe",
+        "dlc/setup_alone_in_the_dark_directors_commentary_mode_1.0.3_(72235).exe",
+        "dlc/setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.3_(72235).exe",
+        "extra/AitD_Digital_Artbook.zip",
+        "extra/AitD_OST_MP3.zip",
+        "extra/AitD_OST_WAV.zip",
+        "setup_alone_in_the_dark_1.0.3_(72235)-1.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-2.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-3.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-4.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-5.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-6.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-7.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-8.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235)-9.bin",
+        "setup_alone_in_the_dark_1.0.3_(72235).exe"
     ],
     "gog": {
         "appid": "1177195295",
@@ -26,10 +34,10 @@
         "name": "Alone in the Dark"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_alone_in_the_dark_1.0.2_(72022).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.2_(72022).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_directors_commentary_mode_1.0.2_(72022).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.2_(72022).exe"
+        "$SETUP_MAIN_ROOT/setup_alone_in_the_dark_1.0.3_(72235).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_derceto_1992_costume_pack_1.0.3_(72235).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_directors_commentary_mode_1.0.3_(72235).exe",
+        "$SETUP_MAIN_ROOT/dlc/setup_alone_in_the_dark_vintage_horror_filter_pack_1.0.3_(72235).exe"
     ],
     "main_game_exe": [
         "GOG Games/Alone in the Dark/AloneInTheDark.exe"
@@ -47,5 +55,5 @@
             "use_dxvk": true
         }
     },
-    "transform_file": "setup_alone_in_the_dark_1.0.2_(72022).exe"
+    "transform_file": "setup_alone_in_the_dark_1.0.3_(72235).exe"
 }
