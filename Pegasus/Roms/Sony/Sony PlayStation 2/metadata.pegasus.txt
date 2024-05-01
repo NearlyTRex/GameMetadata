@@ -551,6 +551,31 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Champions of Norrath (USA)
+file: Sony/Sony PlayStation 2/Champions of Norrath (USA)/Champions of Norrath (USA).json
+developer: Snowblind Studios
+publisher: Sony
+genre: Action;Role-Playing
+description:
+  Champions of Norrath is a third-person dungeon crawler based on the EverQuest
+  universe. There are five character classes to choose from (Barbarian Warrior,
+  Wood Elf Ranger, High Elf Cleric, Dark Elf Shadow Knight, Erudite Wizard), each
+  may be male or female. The game spans five acts that cover various randomly-
+  generated locations across the world of Norrath.
+  .
+  Up to four people may play on a single console offline using a multitap, and up
+  to four people online - one per console - via a broadband connection using the
+  Sony Network Adapter.
+release: 2004-02-10
+players: 4
+assets.boxfront: BoxFront/Champions of Norrath (USA).jpg
+assets.boxback: BoxBack/Champions of Norrath (USA).jpg
+assets.background: Background/Champions of Norrath (USA).jpg
+assets.screenshot: Screenshot/Champions of Norrath (USA).jpg
+x-co-op: Yes
+x-playable: Yes
+
+
 game: Chulip (USA)
 file: Sony/Sony PlayStation 2/Chulip (USA)/Chulip (USA).json
 developer: Punchline
