@@ -1,8 +1,30 @@
 {
+    "extra": [
+        "wasteland_2_manual.zip",
+        "wasteland_2_map.zip",
+        "wasteland_2_reference_card.zip",
+        "wl2_choir_songs_flac.zip",
+        "wl2_choir_songs_mp3.zip"
+    ],
+    "files": [
+        "extra/wasteland_2_manual.zip",
+        "extra/wasteland_2_map.zip",
+        "extra/wasteland_2_reference_card.zip",
+        "extra/wl2_choir_songs_flac.zip",
+        "extra/wl2_choir_songs_mp3.zip",
+        "setup_wasteland_2_patch_6_(18584)-1.bin",
+        "setup_wasteland_2_patch_6_(18584)-2.bin",
+        "setup_wasteland_2_patch_6_(18584)-3.bin",
+        "setup_wasteland_2_patch_6_(18584).exe"
+    ],
     "gog": {
         "appid": "1207665783",
         "appname": "wasteland_2_kickstarter",
         "buildid": "Patch 6",
         "name": "Wasteland 2"
-    }
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_wasteland_2_patch_6_(18584).exe"
+    ],
+    "transform_file": "setup_wasteland_2_patch_6_(18584).exe"
 }

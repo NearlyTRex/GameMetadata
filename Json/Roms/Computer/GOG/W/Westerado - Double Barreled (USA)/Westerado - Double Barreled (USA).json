@@ -1,8 +1,21 @@
 {
+    "extra": [
+        "westerado_avatar.zip",
+        "westerado_wallpaper.zip"
+    ],
+    "files": [
+        "extra/westerado_avatar.zip",
+        "extra/westerado_wallpaper.zip",
+        "setup_westerado_-_double_barreled_22082017_(14408).exe"
+    ],
     "gog": {
         "appid": "1892469133",
         "appname": "westerado_double_barreled",
         "buildid": "22082017",
         "name": "Westerado: Double Barreled"
-    }
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_westerado_-_double_barreled_22082017_(14408).exe"
+    ],
+    "transform_file": "setup_westerado_-_double_barreled_22082017_(14408).exe"
 }
