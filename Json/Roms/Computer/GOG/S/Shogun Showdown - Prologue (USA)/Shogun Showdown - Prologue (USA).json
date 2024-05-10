@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_shogun_showdown_prologue_0.8_(63661).exe"
+    ],
     "gog": {
         "appid": "1691128039",
-        "appname": "shogun_showdown_prologue"
-    }
+        "appname": "shogun_showdown_prologue",
+        "buildid": "0.8",
+        "name": "Shogun Showdown: Prologue"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_shogun_showdown_prologue_0.8_(63661).exe"
+    ],
+    "transform_file": "setup_shogun_showdown_prologue_0.8_(63661).exe"
 }

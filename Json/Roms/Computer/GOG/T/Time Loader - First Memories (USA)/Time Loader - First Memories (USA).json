@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_time_loader_prologue_v._0.7.4_(44627).exe"
+    ],
     "gog": {
         "appid": "1429223464",
-        "appname": "time_loader_prologue"
-    }
+        "appname": "time_loader_prologue",
+        "buildid": "v. 0.7.4",
+        "name": "Time Loader: First Memories"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_time_loader_prologue_v._0.7.4_(44627).exe"
+    ],
+    "transform_file": "setup_time_loader_prologue_v._0.7.4_(44627).exe"
 }

@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_cats_hidden_in_paris_1.0_gog_dlc_fix6_(69829).exe"
+    ],
     "gog": {
         "appid": "1496783574",
-        "appname": "cats_hidden_in_paris"
-    }
+        "appname": "cats_hidden_in_paris",
+        "buildid": "1.0_gog",
+        "name": "Cats Hidden in Paris"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_cats_hidden_in_paris_1.0_gog_dlc_fix6_(69829).exe"
+    ],
+    "transform_file": "setup_cats_hidden_in_paris_1.0_gog_dlc_fix6_(69829).exe"
 }

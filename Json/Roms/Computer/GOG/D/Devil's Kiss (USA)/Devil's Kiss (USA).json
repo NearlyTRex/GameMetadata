@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_devils_kiss_1.012_(36876).exe"
+    ],
     "gog": {
         "appid": "1807052519",
-        "appname": "devils_kiss"
-    }
+        "appname": "devils_kiss",
+        "buildid": "1.012",
+        "name": "Devil's Kiss"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_devils_kiss_1.012_(36876).exe"
+    ],
+    "transform_file": "setup_devils_kiss_1.012_(36876).exe"
 }

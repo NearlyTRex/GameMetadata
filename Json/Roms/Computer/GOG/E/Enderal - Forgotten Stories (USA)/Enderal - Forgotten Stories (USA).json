@@ -1,6 +1,20 @@
 {
+    "files": [
+        "setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893)-1.bin",
+        "setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893)-2.bin",
+        "setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893)-3.bin",
+        "setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893)-4.bin",
+        "setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893)-5.bin",
+        "setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893).exe"
+    ],
     "gog": {
         "appid": "1708684988",
-        "appname": "enderal_forgotten_stories"
-    }
+        "appname": "enderal_forgotten_stories",
+        "buildid": "1.0.0.5",
+        "name": "Enderal: Forgotten Stories"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893).exe"
+    ],
+    "transform_file": "setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893).exe"
 }

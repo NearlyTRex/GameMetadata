@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_the_supper_1.01_(62604).exe"
+    ],
     "gog": {
         "appid": "1481527544",
-        "appname": "the_supper"
-    }
+        "appname": "the_supper",
+        "buildid": "1.01",
+        "name": "The Supper"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_the_supper_1.01_(62604).exe"
+    ],
+    "transform_file": "setup_the_supper_1.01_(62604).exe"
 }

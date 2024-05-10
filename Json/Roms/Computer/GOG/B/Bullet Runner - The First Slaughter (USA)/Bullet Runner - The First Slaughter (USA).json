@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_bullet_runner_the_first_slaughter_prologue_-_v2.3.2_(66467).exe"
+    ],
     "gog": {
         "appid": "1619245923",
-        "appname": "bullet_runner_the_first_slaughter"
-    }
+        "appname": "bullet_runner_the_first_slaughter",
+        "buildid": "Prologue - V2.3.2",
+        "name": "Bullet Runner: The First Slaughter"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_bullet_runner_the_first_slaughter_prologue_-_v2.3.2_(66467).exe"
+    ],
+    "transform_file": "setup_bullet_runner_the_first_slaughter_prologue_-_v2.3.2_(66467).exe"
 }

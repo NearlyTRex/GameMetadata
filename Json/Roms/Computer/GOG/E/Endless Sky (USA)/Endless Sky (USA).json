@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_endless_sky_0.10.6_(64bit)_(71276).exe"
+    ],
     "gog": {
         "appid": "1829678475",
-        "appname": "endless_sky"
-    }
+        "appname": "endless_sky",
+        "buildid": "0.10.6",
+        "name": "Endless Sky"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_endless_sky_0.10.6_(64bit)_(71276).exe"
+    ],
+    "transform_file": "setup_endless_sky_0.10.6_(64bit)_(71276).exe"
 }

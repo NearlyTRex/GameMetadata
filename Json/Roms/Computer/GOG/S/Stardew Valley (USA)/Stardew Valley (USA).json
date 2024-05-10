@@ -4,16 +4,16 @@
     ],
     "files": [
         "extra/stardew_valley_enUS_compat_1_5_6_1988831614_.pkg",
-        "setup_stardew_valley_1.6.3.24087.6495347694_(72212).exe"
+        "setup_stardew_valley_1.6.8.24119.6732702600_(72962).exe"
     ],
     "gog": {
         "appid": "1453375253",
         "appname": "stardew_valley",
-        "buildid": "1.6.3.24087.6495347694",
+        "buildid": "1.6.8.24119.6732702600",
         "name": "Stardew Valley"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_stardew_valley_1.6.3.24087.6495347694_(72212).exe"
+        "$SETUP_MAIN_ROOT/setup_stardew_valley_1.6.8.24119.6732702600_(72962).exe"
     ],
-    "transform_file": "setup_stardew_valley_1.6.3.24087.6495347694_(72212).exe"
+    "transform_file": "setup_stardew_valley_1.6.8.24119.6732702600_(72962).exe"
 }

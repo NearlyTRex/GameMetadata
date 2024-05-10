@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_helium_rain_1.3.6_(64bit)_(27263).exe"
+    ],
     "gog": {
         "appid": "1807214820",
-        "appname": "helium_rain"
-    }
+        "appname": "helium_rain",
+        "buildid": "1.3.6",
+        "name": "Helium Rain"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_helium_rain_1.3.6_(64bit)_(27263).exe"
+    ],
+    "transform_file": "setup_helium_rain_1.3.6_(64bit)_(27263).exe"
 }

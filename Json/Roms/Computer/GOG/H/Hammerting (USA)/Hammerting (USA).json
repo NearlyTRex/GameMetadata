@@ -1,5 +1,16 @@
 {
+    "files": [
+        "setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933)-1.bin",
+        "setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"
+    ],
     "gog": {
-        "appid": "1444308510"
-    }
+        "appid": "1444308510",
+        "appname": "hammerting",
+        "buildid": "build3-tdtd-06964af_tdtd-release_candidate-windows-release",
+        "name": "Hammerting"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"
+    ],
+    "transform_file": "setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"
 }

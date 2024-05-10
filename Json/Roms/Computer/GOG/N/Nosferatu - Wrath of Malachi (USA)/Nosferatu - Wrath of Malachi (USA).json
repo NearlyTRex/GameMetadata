@@ -1,15 +1,15 @@
 {
     "files": [
-        "setup_nosferatu_-_wrath_of_malachi_1.0_(23172).exe"
+        "setup_nosferatu_-_wrath_of_malachi_1.0(a)_(72704).exe"
     ],
     "gog": {
         "appid": "1207666093",
         "appname": "nosferatu_wrath_of_malachi",
-        "buildid": "1.0",
+        "buildid": "1.0(a)",
         "name": "Nosferatu: Wrath of Malachi"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_nosferatu_-_wrath_of_malachi_1.0_(23172).exe"
+        "$SETUP_MAIN_ROOT/setup_nosferatu_-_wrath_of_malachi_1.0(a)_(72704).exe"
     ],
-    "transform_file": "setup_nosferatu_-_wrath_of_malachi_1.0_(23172).exe"
+    "transform_file": "setup_nosferatu_-_wrath_of_malachi_1.0(a)_(72704).exe"
 }

@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_fall_of_porcupine_prologue_1.0.5_(64bit)_(58237).exe"
+    ],
     "gog": {
         "appid": "1876546888",
-        "appname": "fall_of_porcupine_prologue"
-    }
+        "appname": "fall_of_porcupine_prologue",
+        "buildid": "1.0.5",
+        "name": "Fall of Porcupine: Prologue"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_fall_of_porcupine_prologue_1.0.5_(64bit)_(58237).exe"
+    ],
+    "transform_file": "setup_fall_of_porcupine_prologue_1.0.5_(64bit)_(58237).exe"
 }

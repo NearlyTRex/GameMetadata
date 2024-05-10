@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_drekirokr_-_dusk_of_the_dragon_1.01_(64bit)_(66411).exe"
+    ],
     "gog": {
         "appid": "1728229487",
-        "appname": "drekirokr_dusk_of_the_dragon"
-    }
+        "appname": "drekirokr_dusk_of_the_dragon",
+        "buildid": "1.01",
+        "name": "Drekir\u00f6kr - Dusk of the Dragon"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_drekirokr_-_dusk_of_the_dragon_1.01_(64bit)_(66411).exe"
+    ],
+    "transform_file": "setup_drekirokr_-_dusk_of_the_dragon_1.01_(64bit)_(66411).exe"
 }

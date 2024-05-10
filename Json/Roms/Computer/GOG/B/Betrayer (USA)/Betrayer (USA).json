@@ -1,6 +1,16 @@
 {
+    "files": [
+        "setup_betrayer_1.9.6844.2_(65784)-1.bin",
+        "setup_betrayer_1.9.6844.2_(65784).exe"
+    ],
     "gog": {
         "appid": "1090734724",
-        "appname": "betrayer"
-    }
+        "appname": "betrayer",
+        "buildid": "1.9.6844.2",
+        "name": "Betrayer"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_betrayer_1.9.6844.2_(65784).exe"
+    ],
+    "transform_file": "setup_betrayer_1.9.6844.2_(65784).exe"
 }

@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_the_feast_1.051_(60803).exe"
+    ],
     "gog": {
         "appid": "1690611606",
-        "appname": "the_feast"
-    }
+        "appname": "the_feast",
+        "buildid": "1.051",
+        "name": "The Feast"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_the_feast_1.051_(60803).exe"
+    ],
+    "transform_file": "setup_the_feast_1.051_(60803).exe"
 }

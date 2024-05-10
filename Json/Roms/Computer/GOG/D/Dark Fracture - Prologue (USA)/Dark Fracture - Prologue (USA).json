@@ -1,6 +1,16 @@
 {
+    "files": [
+        "setup_dark_fracture_prologue_2.3.2_(62006)-1.bin",
+        "setup_dark_fracture_prologue_2.3.2_(62006).exe"
+    ],
     "gog": {
         "appid": "2094284530",
-        "appname": "dark_fracture_prologue"
-    }
+        "appname": "dark_fracture_prologue",
+        "buildid": "2.3.2",
+        "name": "Dark Fracture: Prologue"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_dark_fracture_prologue_2.3.2_(62006).exe"
+    ],
+    "transform_file": "setup_dark_fracture_prologue_2.3.2_(62006).exe"
 }

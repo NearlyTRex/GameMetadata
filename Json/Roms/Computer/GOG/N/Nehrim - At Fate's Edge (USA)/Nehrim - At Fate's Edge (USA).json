@@ -1,6 +1,17 @@
 {
+    "files": [
+        "setup_nehrim_at_fates_edge_1.0.0.0_(61681)-1.bin",
+        "setup_nehrim_at_fates_edge_1.0.0.0_(61681)-2.bin",
+        "setup_nehrim_at_fates_edge_1.0.0.0_(61681).exe"
+    ],
     "gog": {
         "appid": "1497007810",
-        "appname": "nehrim_at_fates_edge"
-    }
+        "appname": "nehrim_at_fates_edge",
+        "buildid": "1.0.0.0",
+        "name": "Nehrim: At Fate's Edge"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_nehrim_at_fates_edge_1.0.0.0_(61681).exe"
+    ],
+    "transform_file": "setup_nehrim_at_fates_edge_1.0.0.0_(61681).exe"
 }

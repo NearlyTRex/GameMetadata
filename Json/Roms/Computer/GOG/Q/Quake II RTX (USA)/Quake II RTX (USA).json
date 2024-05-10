@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_quake_ii_rtx_1.7.0_(67306).exe"
+    ],
     "gog": {
         "appid": "1825786806",
-        "appname": "quake_ii_rtx"
-    }
+        "appname": "quake_ii_rtx",
+        "buildid": "1.7.0",
+        "name": "Quake II RTX"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_quake_ii_rtx_1.7.0_(67306).exe"
+    ],
+    "transform_file": "setup_quake_ii_rtx_1.7.0_(67306).exe"
 }
