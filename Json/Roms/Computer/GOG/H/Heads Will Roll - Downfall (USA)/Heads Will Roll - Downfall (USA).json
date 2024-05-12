@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_heads_will_roll_downfall_1.85b_(64bit)_(68170).exe"
+    ],
     "gog": {
         "appid": "1541870183",
-        "appname": "heads_will_roll_downfall"
-    }
+        "appname": "heads_will_roll_downfall",
+        "buildid": "1.85b",
+        "name": "Heads Will Roll: Downfall"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_heads_will_roll_downfall_1.85b_(64bit)_(68170).exe"
+    ],
+    "transform_file": "setup_heads_will_roll_downfall_1.85b_(64bit)_(68170).exe"
 }

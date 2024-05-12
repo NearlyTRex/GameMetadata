@@ -1,6 +1,15 @@
 {
+    "files": [
+        "setup_south_scrimshaw_part_one_1.0_(65998).exe"
+    ],
     "gog": {
         "appid": "1501803768",
-        "appname": "south_scrimshaw_part_one"
-    }
+        "appname": "south_scrimshaw_part_one",
+        "buildid": "1.0",
+        "name": "South Scrimshaw, Part One"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_south_scrimshaw_part_one_1.0_(65998).exe"
+    ],
+    "transform_file": "setup_south_scrimshaw_part_one_1.0_(65998).exe"
 }

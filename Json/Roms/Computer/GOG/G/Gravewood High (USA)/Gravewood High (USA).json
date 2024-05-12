@@ -1,6 +1,16 @@
 {
+    "files": [
+        "setup_gravewood_high_1.0_(64bit)_(64312)-1.bin",
+        "setup_gravewood_high_1.0_(64bit)_(64312).exe"
+    ],
     "gog": {
         "appid": "1526229423",
-        "appname": "gravewood_high"
-    }
+        "appname": "gravewood_high",
+        "buildid": "1.0",
+        "name": "Gravewood High"
+    },
+    "installer_exe": [
+        "$SETUP_MAIN_ROOT/setup_gravewood_high_1.0_(64bit)_(64312).exe"
+    ],
+    "transform_file": "setup_gravewood_high_1.0_(64bit)_(64312).exe"
 }
