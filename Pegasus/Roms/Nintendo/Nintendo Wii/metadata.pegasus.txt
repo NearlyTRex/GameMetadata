@@ -384,6 +384,88 @@ x-co-op: No
 x-playable: Yes
 
 
+game: EA Sports Active - More Workouts (USA) (En,Fr)
+file: Nintendo/Nintendo Wii/EA Sports Active - More Workouts (USA) (En,Fr)/EA Sports Active - More Workouts (USA) (En,Fr).json
+developer: Electronic Arts
+publisher: Electronic Arts
+genre: Sports;Education
+description:
+  Keep going on your journey towards better health with EA SPORTS Active More
+  Workouts, the next iteration from the EA SPORTS Active franchise, the proven
+  fitness alternative for the Nintendo Wii. Stay motivated, with over 35 all
+  new exercises and fitness activities that will challenge you and help you
+  obtain results. With all-new cool down/warm up stations, abdominal exercises
+  and a 6 Week Challenge EA SPORTS Active More Workouts is a full body,
+  complete workout experience and a great addition to the EA SPORTS Active
+  family.
+release: 2009-11-17
+players: 2
+assets.boxfront: BoxFront/EA Sports Active - More Workouts (USA) (En,Fr).jpg
+assets.boxback: BoxBack/EA Sports Active - More Workouts (USA) (En,Fr).jpg
+assets.background: Background/EA Sports Active - More Workouts (USA) (En,Fr).jpg
+assets.screenshot: Screenshot/EA Sports Active - More Workouts (USA) (En,Fr).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: EA Sports Active - Personal Trainer (USA) (En,Fr)
+file: Nintendo/Nintendo Wii/EA Sports Active - Personal Trainer (USA) (En,Fr)/EA Sports Active - Personal Trainer (USA) (En,Fr).json
+developer: Electronic Arts
+publisher: Electronic Arts
+genre: Sports;Education
+description:
+  EA SPORTS Active tracks your movements on screen to give you real time feedback
+  on your workout. Track both upper and lower body movements and experience Wii
+  controls in a whole new way with our specially designed leg strap.
+  .
+  Embark on the 30 Day Challenge and use the structure as a road map to reach your
+  goals. Your trainer will be the focal point of the experience and create a new
+  minute workout for you every day, providing clear instruction, motivation and
+  positive encouragement.
+  .
+  EA SPORTS Active features a wide variety of activities that target upper body,
+  lower body, as well as cardio. Each daily workout will feel different then the
+  last and increase in intensity as you work up a sweat towards your goals. In the
+  custom workout mode, you can cater the length of the workout to the time you
+  have available, which body areas you want to focus on and identify your favorite
+  of the over 20 exercises - and you will see how many calories you are burning in
+  real time.
+  .
+  EA SPORTS Active gives you the benefit of a personal trainer right into your
+  living room and the promise of a better you.
+release: 2009-05-19
+players: 2
+assets.boxfront: BoxFront/EA Sports Active - Personal Trainer (USA) (En,Fr).jpg
+assets.boxback: BoxBack/EA Sports Active - Personal Trainer (USA) (En,Fr).jpg
+assets.background: Background/EA Sports Active - Personal Trainer (USA) (En,Fr).jpg
+assets.screenshot: Screenshot/EA Sports Active - Personal Trainer (USA) (En,Fr).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es)
+file: Nintendo/Nintendo Wii/EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es)/EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es).json
+developer: EA Canada
+publisher: EA Sports
+genre: Sports;Education
+description:
+  Revolutionize your workout regimen with EA Sports Active, the ultimate
+  interactive fitness program that's designed for you. Get fit with a holistic
+  approach to fitness that combines nutrition and lifestyle factors, with a
+  variety of activities, all from the convenience of your living room. From
+  customized routines that target upper body, lower body and cardio to a guided
+  30-day challenge that tests muscle endurance, coordination and agility, stay in
+  shape with fitness made fun and easy.
+release: 2010-11-16
+players: 2
+assets.boxfront: BoxFront/EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es).jpg
+assets.boxback: BoxBack/EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es).jpg
+assets.background: Background/EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es).jpg
+assets.screenshot: Screenshot/EA Sports Active 2 - Personal Trainer (USA) (En,Fr,Es).jpg
+x-co-op: Yes
+x-playable: Yes
+
+
 game: Escape from Bug Island (USA)
 file: Nintendo/Nintendo Wii/Escape from Bug Island (USA)/Escape from Bug Island (USA).json
 developer: Spike Co.
@@ -647,6 +729,25 @@ assets.boxback: BoxBack/Harvest Moon - Tree of Tranquility (USA) (Rev 1).jpg
 assets.background: Background/Harvest Moon - Tree of Tranquility (USA) (Rev 1).jpg
 assets.screenshot: Screenshot/Harvest Moon - Tree of Tranquility (USA) (Rev 1).jpg
 assets.video: Video/Harvest Moon - Tree of Tranquility (USA) (Rev 1).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Hidden Mysteries - Titanic (USA)
+file: Nintendo/Nintendo Wii/Hidden Mysteries - Titanic (USA)/Hidden Mysteries - Titanic (USA).json
+developer: Gunnar Games
+publisher: Activision Value
+genre: Adventure;Point-and-Click
+description:
+  Titanic: Mysteries of the Deep places you on board the Titanic as a passenger
+  during its fateful voyage. Your character is torn between their past and present
+  life in a struggle to find out what they truly want in their heart.
+release: 2009-11-03
+players: 1
+assets.boxfront: BoxFront/Hidden Mysteries - Titanic (USA).jpg
+assets.boxback: BoxBack/Hidden Mysteries - Titanic (USA).jpg
+assets.background: Background/Hidden Mysteries - Titanic (USA).jpg
+assets.screenshot: Screenshot/Hidden Mysteries - Titanic (USA).jpg
 x-co-op: No
 x-playable: Yes
 
