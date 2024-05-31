@@ -5224,6 +5224,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Namco Demo CD (USA)
+file: Sony/Sony PlayStation/Namco Demo CD (USA)/Namco Demo CD (USA).json
+developer: Namco Hometek
+publisher: Sony Computer Entertainment
+genre: Action;Adventure;Strategy;Racing;Shooter
+description:
+  Free playable game samples. Downloadable Stuff. Cinematic Game Previews. Cool.
+  .
+  Time Crisis * Treasures of the Deep * Ace Combat 2
+  .
+  Instructions: Put this disc in your PlayStation game console to begin your
+  adventure.
+release: 1997-10-01
+players: 1
+assets.boxfront: BoxFront/Namco Demo CD (USA).jpg
+assets.boxback: BoxBack/Namco Demo CD (USA).jpg
+assets.background: Background/Namco Demo CD (USA).jpg
+assets.screenshot: Screenshot/Namco Demo CD (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Namco Museum Vol. 1 (USA)
 file: Sony/Sony PlayStation/Namco Museum Vol. 1 (USA)/Namco Museum Vol. 1 (USA).json
 developer: Tose Co., Ltd.

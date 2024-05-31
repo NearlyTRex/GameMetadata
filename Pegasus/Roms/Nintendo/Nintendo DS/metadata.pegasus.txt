@@ -2511,6 +2511,26 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Personal Trainer - Walking (USA) (En,Fr,Es)
+file: Nintendo/Nintendo DS/Personal Trainer - Walking (USA) (En,Fr,Es)/Personal Trainer - Walking (USA) (En,Fr,Es).json
+developer: Nintendo
+publisher: Nintendo
+genre: Life Simulation;Sports;Utility
+description:
+  The Wii Fit exercise craze comes to the DS, with Nintendo's latest attempt to
+  make video gaming the healthiest hobby around. This unique Touch! Generations
+  game comes bundled with two pedometers, which are able to analyse how much
+  exercise you get from walking and jogging around each day.
+release: 2009-05-26
+players: 4
+assets.boxfront: BoxFront/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
+assets.boxback: BoxBack/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
+assets.background: Background/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
+assets.screenshot: Screenshot/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
+x-co-op: Yes
+x-playable: Yes
+
+
 game: Plants vs. Zombies (USA)
 file: Nintendo/Nintendo DS/Plants vs. Zombies (USA)/Plants vs. Zombies (USA).json
 developer: PopCap Games
