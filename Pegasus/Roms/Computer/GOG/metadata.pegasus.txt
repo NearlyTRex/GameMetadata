@@ -10246,6 +10246,42 @@ x-co-op: No
 x-playable: Yes
 
 
+game: PowerSlave Exhumed (USA)
+file: Computer/GOG/P/PowerSlave Exhumed (USA)/PowerSlave Exhumed (USA).json
+developer: Nightdive Studios
+publisher: Nightdive Studios
+genre: Action;Shooter;First-Person;Arcade
+description:
+  PowerSlave: Exhumed is a KEX Engine port of the classic console game
+  perfectly blending both the PlayStation & Saturn versions.
+  .
+  Destination: The ancient Egyptian city of Karnak. Alien forces possessing
+  horrifying powers have sealed off the once thriving community from all
+  outside contact. As a covert operations specialist, you have been trained
+  for all forms of contingencies. Nothing can prepare you, however, for the
+  nightmare you are about to enter...
+  .
+  New Features:
+  .
+  * Widescreen / HD Display\n
+  * Modern gamepad support\n
+  * SMAA Antialiasing\n
+  * Anisotropic texture filtering\n
+  * Achievements\n
+  * Vulkan / DirectX 11 graphics API\n
+  * Smooth object interpolation for high refresh rate monitors\n
+  * Both versions of the original game combined to bring the best of both
+  worlds
+release: 2022-02-10
+players: 1
+assets.boxfront: BoxFront/PowerSlave Exhumed (USA).jpg
+assets.boxback: BoxBack/PowerSlave Exhumed (USA).jpg
+assets.background: Background/PowerSlave Exhumed (USA).jpg
+assets.screenshot: Screenshot/PowerSlave Exhumed (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Powers in the Basement (USA)
 file: Computer/GOG/P/Powers in the Basement (USA)/Powers in the Basement (USA).json
 developer: Illiterate Code Games
@@ -10866,6 +10902,39 @@ assets.boxback: BoxBack/Rise of the Triad - Dark War (USA).jpg
 assets.background: Background/Rise of the Triad - Dark War (USA).jpg
 assets.screenshot: Screenshot/Rise of the Triad - Dark War (USA).jpg
 assets.video: Video/Rise of the Triad - Dark War (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Rise of the Triad - Ludicrous Edition (USA)
+file: Computer/GOG/R/Rise of the Triad - Ludicrous Edition (USA)/Rise of the Triad - Ludicrous Edition (USA).json
+developer: Nightdive Studios
+publisher: Apogee Entertainment
+genre: Action;Shooter;First-Person;Arcade
+description:
+  The Remasterminds at NightDive Studios along with the madmen at New Blood
+  present Apogee Software's timeless cult classic FPS, Rise of the Triad:
+  LUDICROUS EDITION
+  .
+  Featuring:
+  .
+  * 4K and Ultrawide Resolution support Unlimited frame rates\n
+  * Five Playable Characters\n
+  * All original ROTT episodes and expansion packs\n
+  * Restored characters and game content from "lost" betas\n
+  * FULL controller support and KB/M rebinding\n
+  * Ability to play with 1994, 1995 or 2013 Soundtracks Jukebox\n
+  * New HUDs, weapon sound options and LUDICROUS LIGHTING\n
+  * Online & LAN Comm-Bat Multiplayer featuring multiple game modes\n
+  * A brand new easy-to-use Level Editor\n
+  * A NEW episode created by New Blood, Night Dive and Apogee Software Veterans\n
+  * LUDICROUS GIBS
+release: 2023-07-31
+players: 1
+assets.boxfront: BoxFront/Rise of the Triad - Ludicrous Edition (USA).jpg
+assets.boxback: BoxBack/Rise of the Triad - Ludicrous Edition (USA).jpg
+assets.background: Background/Rise of the Triad - Ludicrous Edition (USA).jpg
+assets.screenshot: Screenshot/Rise of the Triad - Ludicrous Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -13155,6 +13224,34 @@ assets.boxback: BoxBack/Syndicate Wars (USA).jpg
 assets.background: Background/Syndicate Wars (USA).jpg
 assets.screenshot: Screenshot/Syndicate Wars (USA).jpg
 assets.video: Video/Syndicate Wars (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: System Shock (USA)
+file: Computer/GOG/S/System Shock (USA)/System Shock (USA).json
+developer: Nightdive Studios
+publisher: Prime Matter
+genre: Action;Shooter;First-Person;Arcade
+description:
+  You're a renowned hacker, the most notorious cyberspace thief in the corporate
+  world. Caught during a risky break-in, you become indentured to a greedy
+  TriOptimum executive.
+  .
+  After six months in a healing coma, you awaken to the twisted aftermath of a
+  terrible disaster. Where are the surgeons? Why is the station in such disrepair?
+  .
+  > Slowly, the chilling realization that something is very wrong creeps over you.
+  Once a prime corporate research facility, Citadel Station now teems with
+  mindless cyborgs, robots and terribly mutated beings, all programmed to serve
+  SHODAN, a ruthless A.I. There's scarcely time to think before it unleashes the
+  first terror...
+release: 2023-05-30
+players: 1
+assets.boxfront: BoxFront/System Shock (USA).jpg
+assets.boxback: BoxBack/System Shock (USA).jpg
+assets.background: Background/System Shock (USA).jpg
+assets.screenshot: Screenshot/System Shock (USA).jpg
 x-co-op: No
 x-playable: Yes
 
