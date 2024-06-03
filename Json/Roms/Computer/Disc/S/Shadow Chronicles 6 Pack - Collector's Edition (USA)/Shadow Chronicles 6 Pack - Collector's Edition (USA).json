@@ -19,5 +19,16 @@
         "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shiver - Poltergeist CE/SHIVER_PoltergeistCE.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shiver - Poltergeist CE",
         "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/The Veil of Mystery/TheVailOfMystery.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/The Veil of Mystery"
     },
+    "sandbox": {
+        "wine": {
+            "overrides": {
+                "game": [
+                    "d3d9,d3d10core,d3d11,dxgi=n,b"
+                ]
+            },
+            "use_dxvk": true,
+            "use_virtual_desktop": true
+        }
+    },
     "transform_file": "Shadow Chronicles 6 Pack - Collector's Edition (USA).chd"
 }
