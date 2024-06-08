@@ -1081,6 +1081,27 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Borderlands - Game of the Year Enhanced (USA)
+file: Computer/Steam/B/Borderlands - Game of the Year Enhanced (USA)/Borderlands - Game of the Year Enhanced (USA).json
+developer: Take-Two Interactive
+publisher: 2K Games
+genre: Action;Shooter;First-Person;Arcade
+description:
+  Gearbox Software has developed revolutionary new technology to create
+  Borderlands incredible layers of gameplay depth. Borderlands features a
+  groundbreaking content generation system allowing for near-endless variety in
+  missions, environments, enemies, weapons, item drops and character
+  customization.
+release: 2019-04-03
+players: 1
+assets.boxfront: BoxFront/Borderlands - Game of the Year Enhanced (USA).jpg
+assets.boxback: BoxBack/Borderlands - Game of the Year Enhanced (USA).jpg
+assets.background: Background/Borderlands - Game of the Year Enhanced (USA).jpg
+assets.screenshot: Screenshot/Borderlands - Game of the Year Enhanced (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Borderlands - The Pre-Sequel (USA)
 file: Computer/Steam/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
 developer: 2K Australia
