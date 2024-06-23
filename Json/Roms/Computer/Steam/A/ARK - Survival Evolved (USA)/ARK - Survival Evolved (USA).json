@@ -15,10 +15,14 @@
     "steam": {
         "appid": "346110",
         "branchid": "public",
-        "builddate": "1698777157",
-        "buildid": "12577215",
+        "builddate": "1718918622",
+        "buildid": "14785396",
         "controller_support": "full",
-        "name": "ARK: Survival Evolved"
+        "name": "ARK: Survival Evolved",
+        "paths": [
+            "<base>/ShooterGame/Saved/Config",
+            "<base>/ShooterGame/Saved/SavedArksLocal"
+        ]
     },
     "transform_file": "ARK - Survival Evolved (USA).7z.001"
 }

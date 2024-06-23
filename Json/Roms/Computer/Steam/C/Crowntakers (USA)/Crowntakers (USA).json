@@ -8,8 +8,16 @@
     "steam": {
         "appid": "294370",
         "branchid": "public",
+        "buildid": "681163",
         "controller_support": "full",
-        "name": "Crowntakers"
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Bulwark Studios/Crowntakers"
+        ],
+        "name": "Crowntakers",
+        "paths": [
+            "<base>/Saves",
+            "<home>/AppData/LocalLow/Bulwark Studios/Crowntakers"
+        ]
     },
     "transform_file": "Crowntakers (USA).exe"
 }

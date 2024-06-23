@@ -14,8 +14,13 @@
     "steam": {
         "appid": "262830",
         "branchid": "public",
+        "builddate": "1669037307",
+        "buildid": "9959747",
         "controller_support": "full",
-        "name": "Crimsonland"
+        "name": "Crimsonland",
+        "paths": [
+            "<winAppData>/10tons/Crimsonland/profiles"
+        ]
     },
     "transform_file": "Crimsonland (USA).exe"
 }

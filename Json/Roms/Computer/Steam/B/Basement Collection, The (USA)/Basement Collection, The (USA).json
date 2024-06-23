@@ -6,7 +6,11 @@
         "appid": "214790",
         "branchid": "public",
         "buildid": "14072",
-        "name": "The Basement Collection"
+        "name": "The Basement Collection",
+        "paths": [
+            "<base>/META-INF/AIR",
+            "<winAppData>/collection"
+        ]
     },
     "transform_file": "Basement Collection, The (USA).7z"
 }

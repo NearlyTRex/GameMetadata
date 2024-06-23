@@ -8,7 +8,13 @@
         "builddate": "1540569712",
         "buildid": "3248927",
         "controller_support": "full",
-        "name": "Bendy and the Ink Machine"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Joey Drew Studios"
+        ],
+        "name": "Bendy and the Ink Machine",
+        "paths": [
+            "<home>/AppData/LocalLow/Joey Drew Studios/Bendy and the Ink Machine/Saves"
+        ]
     },
     "transform_file": "Bendy and the Ink Machine (USA).7z"
 }

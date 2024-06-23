@@ -7,7 +7,10 @@
         "branchid": "public",
         "buildid": "25887",
         "controller_support": "full",
-        "name": "Breath of Death VII "
+        "name": "Breath of Death VII ",
+        "paths": [
+            "<winDocuments>/SavedGames/BoDVIIPC"
+        ]
     },
     "transform_file": "Breath of Death VII (USA).7z"
 }

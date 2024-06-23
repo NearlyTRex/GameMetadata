@@ -7,7 +7,11 @@
         "branchid": "public",
         "builddate": "1621353630",
         "buildid": "6660111",
-        "name": "Baldur's Gate II: Enhanced Edition"
+        "name": "Baldur's Gate II: Enhanced Edition",
+        "paths": [
+            "<winDocuments>/Baldur's Gate II - Enhanced Edition/baldur.lua",
+            "<winDocuments>/Baldur's Gate II - Enhanced Edition/save"
+        ]
     },
     "transform_file": "Baldur's Gate II - Enhanced Edition (USA).7z"
 }

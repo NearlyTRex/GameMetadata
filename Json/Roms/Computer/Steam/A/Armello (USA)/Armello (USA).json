@@ -14,7 +14,14 @@
         "builddate": "1671142405",
         "buildid": "10109492",
         "controller_support": "full",
-        "name": "Armello"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/League of Geeks/Armello"
+        ],
+        "name": "Armello",
+        "paths": [
+            "<home>/AppData/LocalLow/League of Geeks/Armello/Profiles/<storeUserId>/Options",
+            "<home>/AppData/LocalLow/League of Geeks/Armello/Profiles/<storeUserId>/SavedGameState"
+        ]
     },
     "transform_file": "Armello (USA).7z"
 }

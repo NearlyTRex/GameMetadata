@@ -14,8 +14,18 @@
     "steam": {
         "appid": "285440",
         "branchid": "public",
+        "builddate": "1581904429",
+        "buildid": "4683028",
         "controller_support": "full",
-        "name": "Crimzon Clover  WORLD IGNITION"
+        "name": "Crimzon Clover  WORLD IGNITION",
+        "paths": [
+            "<base>/data/arcadescore000X.dat",
+            "<base>/data/bkeep0000.dat",
+            "<base>/data/config0000.dat",
+            "<base>/data/keyboardSetting.dat",
+            "<base>/data/lastEntryLocalName.dat",
+            "<base>/data/novicescore000X.dat"
+        ]
     },
     "sync": {
         "data": [

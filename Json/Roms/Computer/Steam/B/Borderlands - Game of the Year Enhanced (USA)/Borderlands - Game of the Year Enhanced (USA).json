@@ -1,6 +1,14 @@
 {
     "steam": {
         "appid": "729040",
-        "branchid": "public"
+        "branchid": "public",
+        "builddate": "1659652154",
+        "buildid": "9171464",
+        "controller_support": "partial",
+        "name": "Borderlands GOTY Enhanced",
+        "paths": [
+            "<winDocuments>/My Games/Borderlands Game of the Year/Binaries/SaveData",
+            "<winDocuments>/My Games/Borderlands Game of the Year/WillowGame/Config"
+        ]
     }
 }

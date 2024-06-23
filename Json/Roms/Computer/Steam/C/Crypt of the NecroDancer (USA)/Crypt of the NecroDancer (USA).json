@@ -24,8 +24,13 @@
     "steam": {
         "appid": "247080",
         "branchid": "public",
+        "builddate": "1715118167",
+        "buildid": "14252813",
         "controller_support": "full",
-        "name": "Crypt of the NecroDancer"
+        "name": "Crypt of the NecroDancer",
+        "paths": [
+            "<base>/data/save_data.xml"
+        ]
     },
     "transform_file": "Crypt of the NecroDancer (USA).exe"
 }

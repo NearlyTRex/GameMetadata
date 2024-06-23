@@ -8,8 +8,16 @@
     "steam": {
         "appid": "1057540",
         "branchid": "public",
+        "builddate": "1604087349",
+        "buildid": "5763333",
         "controller_support": "partial",
-        "name": "Cthulhu Saves Christmas"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Zeboyd/Cthulhu Saves Christmas"
+        ],
+        "name": "Cthulhu Saves Christmas",
+        "paths": [
+            "<home>/AppData/LocalLow/Zeboyd/Cthulhu Saves Christmas/PlayerPrefs.txt"
+        ]
     },
     "transform_file": "Cthulhu Saves Christmas (USA).exe"
 }

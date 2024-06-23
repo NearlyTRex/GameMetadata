@@ -8,7 +8,10 @@
         "builddate": "1629518525",
         "buildid": "7226449",
         "controller_support": "full",
-        "name": "Blood Spear"
+        "name": "Blood Spear",
+        "paths": [
+            "<winLocalAppData>/Blood_Spear/Saved/SaveGames"
+        ]
     },
     "transform_file": "Blood Spear (USA).7z"
 }

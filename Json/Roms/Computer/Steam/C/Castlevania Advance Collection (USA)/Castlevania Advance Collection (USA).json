@@ -24,7 +24,10 @@
         "builddate": "1626425659",
         "buildid": "7039365",
         "controller_support": "partial",
-        "name": "Castlevania Advance Collection"
+        "name": "Castlevania Advance Collection",
+        "paths": [
+            "<winAppData>/Castlevania Advance Collection/savedata"
+        ]
     },
     "transform_file": "Castlevania Advance Collection (USA).7z"
 }

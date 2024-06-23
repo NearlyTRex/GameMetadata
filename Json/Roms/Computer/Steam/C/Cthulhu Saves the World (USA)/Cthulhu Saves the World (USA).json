@@ -25,8 +25,12 @@
     "steam": {
         "appid": "107310",
         "branchid": "public",
+        "buildid": "25888",
         "controller_support": "full",
-        "name": "Cthulhu Saves the World "
+        "name": "Cthulhu Saves the World ",
+        "paths": [
+            "<winDocuments>/SavedGames/CSTW"
+        ]
     },
     "transform_file": "Cthulhu Saves the World (USA).exe"
 }

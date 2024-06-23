@@ -2,6 +2,14 @@
     "steam": {
         "appid": "346850",
         "branchid": "public",
-        "name": "Chip's Challenge 1"
+        "builddate": "1524939284",
+        "buildid": "2722355",
+        "name": "Chip's Challenge 1",
+        "paths": [
+            "<base>/data/games/save.c2l",
+            "<base>/data/options.txt",
+            "<base>/data/saves",
+            "<winDir>/entpack.ini"
+        ]
     }
 }

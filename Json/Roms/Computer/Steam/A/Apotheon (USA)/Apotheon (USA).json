@@ -14,7 +14,11 @@
         "builddate": "1609451552",
         "buildid": "6029102",
         "controller_support": "full",
-        "name": "Apotheon"
+        "name": "Apotheon",
+        "paths": [
+            "<base>/Content/Config-7.cfg",
+            "<base>/Content/SavedGames"
+        ]
     },
     "transform_file": "Apotheon (USA).7z"
 }

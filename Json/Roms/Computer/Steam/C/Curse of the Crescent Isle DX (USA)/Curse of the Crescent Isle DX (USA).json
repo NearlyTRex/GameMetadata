@@ -8,8 +8,14 @@
     "steam": {
         "appid": "365120",
         "branchid": "public",
+        "builddate": "1488774569",
+        "buildid": "1671843",
         "controller_support": "full",
-        "name": "Curse of the Crescent Isle DX"
+        "name": "Curse of the Crescent Isle DX",
+        "paths": [
+            "<base>/CurseDXSettings.sav",
+            "<base>/SaveFile.sav"
+        ]
     },
     "transform_file": "Curse of the Crescent Isle DX (USA).exe"
 }

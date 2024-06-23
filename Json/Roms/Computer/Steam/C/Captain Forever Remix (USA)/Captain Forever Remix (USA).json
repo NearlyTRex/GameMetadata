@@ -13,7 +13,11 @@
         "branchid": "public",
         "builddate": "1465439034",
         "buildid": "1171672",
-        "name": "Captain Forever Remix"
+        "name": "Captain Forever Remix",
+        "paths": [
+            "<base>/cap4ever_Data/ShipData/Favorites/*.cfs",
+            "<home>/AppData/LocalLow/Pixelsaurus Games/Captain Forever Remix"
+        ]
     },
     "transform_file": "Captain Forever Remix (USA).7z"
 }

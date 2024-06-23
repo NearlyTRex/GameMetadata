@@ -14,7 +14,13 @@
         "builddate": "1556851536",
         "buildid": "3789944",
         "controller_support": "full",
-        "name": "Assault Android Cactus"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Witch Beam/Assault Android Cactus"
+        ],
+        "name": "Assault Android Cactus",
+        "paths": [
+            "<base>/cactus_Data/game0a.sav"
+        ]
     },
     "transform_file": "Assault Android Cactus (USA).7z"
 }

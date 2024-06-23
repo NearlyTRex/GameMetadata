@@ -14,7 +14,12 @@
     "steam": {
         "appid": "293780",
         "branchid": "public",
+        "builddate": "1643677801",
+        "buildid": "8121616",
         "controller_support": "full",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Powerhoof/Crawl"
+        ],
         "name": "Crawl"
     },
     "transform_file": "Crawl (USA).exe"

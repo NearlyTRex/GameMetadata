@@ -8,7 +8,16 @@
     "steam": {
         "appid": "532840",
         "branchid": "public",
-        "name": "CAYNE"
+        "builddate": "1485279740",
+        "buildid": "1587988",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/THE BROTHERHOOD/CAYNE"
+        ],
+        "name": "CAYNE",
+        "paths": [
+            "<winLocalAppData>/The Brotherhood/CAYNE",
+            "<winLocalAppData>/The Brotherhood/CAYNE/config.ini"
+        ]
     },
     "transform_file": "Cayne (USA).exe"
 }

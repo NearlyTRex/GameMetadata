@@ -9,9 +9,13 @@
     "steam": {
         "appid": "507490",
         "branchid": "public",
-        "builddate": "1708444616",
-        "buildid": "13509675",
-        "name": "Ashes of the Singularity: Escalation"
+        "builddate": "1714570786",
+        "buildid": "14232803",
+        "name": "Ashes of the Singularity: Escalation",
+        "paths": [
+            "<winDocuments>/My Games/Ashes of the Singularity - Escalation/Saves",
+            "<winDocuments>/My Games/Ashes of the Singularity - Escalation/settings.ini"
+        ]
     },
     "transform_file": "Ashes of the Singularity - Escalation (USA).7z.001"
 }

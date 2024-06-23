@@ -15,7 +15,11 @@
         "builddate": "1596479755",
         "buildid": "5185731",
         "controller_support": "full",
-        "name": "Br\u00fctal Legend"
+        "name": "Br\u00fctal Legend",
+        "paths": [
+            "<winAppData>/Doublefine/BrutalLegend/*.sav",
+            "<winAppData>/Doublefine/BrutalLegend/screen.dat"
+        ]
     },
     "transform_file": "Brutal Legend (USA).7z.001"
 }

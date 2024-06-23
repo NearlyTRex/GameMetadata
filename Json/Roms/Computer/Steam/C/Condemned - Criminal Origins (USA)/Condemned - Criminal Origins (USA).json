@@ -8,7 +8,12 @@
     "steam": {
         "appid": "4720",
         "branchid": "public",
-        "name": "Condemned: Criminal Origins"
+        "buildid": "15838",
+        "name": "Condemned: Criminal Origins",
+        "paths": [
+            "<winPublic>/Documents/Monolith Productions/Condemned/Save",
+            "<winPublic>/Documents/Monolith Productions/Condemned/settings.cfg"
+        ]
     },
     "transform_file": "Condemned - Criminal Origins (USA).exe"
 }

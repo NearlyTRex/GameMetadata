@@ -8,8 +8,13 @@
     "steam": {
         "appid": "804270",
         "branchid": "public",
+        "builddate": "1623855378",
+        "buildid": "6873870",
         "controller_support": "partial",
-        "name": "Chex Quest HD"
+        "name": "Chex Quest HD",
+        "paths": [
+            "<winLocalAppData>/ChexHD/Saved/SaveGames"
+        ]
     },
     "transform_file": "Chex Quest HD (USA).exe"
 }

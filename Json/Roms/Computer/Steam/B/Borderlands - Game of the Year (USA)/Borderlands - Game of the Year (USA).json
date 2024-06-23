@@ -15,7 +15,11 @@
         "branchid": "public",
         "buildid": "356062",
         "controller_support": "partial",
-        "name": "Borderlands GOTY"
+        "name": "Borderlands GOTY",
+        "paths": [
+            "<winDocuments>/My Games/Borderlands/SaveData",
+            "<winDocuments>/My Games/Borderlands/WillowGame/Config"
+        ]
     },
     "transform_file": "Borderlands (USA).7z.001"
 }
