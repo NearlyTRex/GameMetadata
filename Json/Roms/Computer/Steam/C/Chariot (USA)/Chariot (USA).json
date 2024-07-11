@@ -10,12 +10,13 @@
         "branchid": "public",
         "buildid": "869796",
         "controller_support": "full",
+        "installdir": "Chariot",
         "keys": [
             "HKEY_CURRENT_USER/Software/FrimaStudio/Chariot-Steam"
         ],
         "name": "Chariot",
         "paths": [
-            "<root>/userdata/<storeUserId>/319450/remote"
+            "STEAMROOT/userdata/<storeUserId>/319450/remote"
         ]
     },
     "transform_file": "Chariot (USA).exe"

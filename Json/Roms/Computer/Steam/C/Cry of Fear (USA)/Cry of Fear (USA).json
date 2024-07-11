@@ -10,11 +10,12 @@
         "branchid": "public",
         "builddate": "1605191529",
         "buildid": "5821301",
+        "installdir": "Cry of Fear",
         "name": "Cry of Fear",
         "paths": [
-            "<base>/SAVE",
-            "<base>/cryoffear/autoexec.cfg",
-            "<base>/cryoffear/scriptsettings.dat"
+            "STEAMROOT/steamapps/common/Cry of Fear/SAVE",
+            "STEAMROOT/steamapps/common/Cry of Fear/cryoffear/autoexec.cfg",
+            "STEAMROOT/steamapps/common/Cry of Fear/cryoffear/scriptsettings.dat"
         ]
     },
     "transform_file": "Cry of Fear (USA).exe"

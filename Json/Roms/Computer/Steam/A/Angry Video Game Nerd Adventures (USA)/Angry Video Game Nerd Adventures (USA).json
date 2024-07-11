@@ -8,9 +8,10 @@
         "builddate": "1509571321",
         "buildid": "1189078",
         "controller_support": "full",
+        "installdir": "Angry Video Game Nerd Adventures",
         "name": "Angry Video Game Nerd Adventures",
         "paths": [
-            "<winAppData>/MMFApplications/avgn.ini"
+            "USERPROFILE/AppData/Roaming/MMFApplications/avgn.ini"
         ]
     },
     "transform_file": "Angry Video Game Nerd Adventures (USA).7z"

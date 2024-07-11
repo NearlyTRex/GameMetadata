@@ -11,9 +11,10 @@
         "builddate": "1623855378",
         "buildid": "6873870",
         "controller_support": "partial",
+        "installdir": "Chex Quest HD",
         "name": "Chex Quest HD",
         "paths": [
-            "<winLocalAppData>/ChexHD/Saved/SaveGames"
+            "USERPROFILE/AppData/Local/ChexHD/Saved/SaveGames"
         ]
     },
     "transform_file": "Chex Quest HD (USA).exe"

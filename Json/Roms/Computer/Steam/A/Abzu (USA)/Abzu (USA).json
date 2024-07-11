@@ -8,10 +8,11 @@
         "builddate": "1607463643",
         "buildid": "5831992",
         "controller_support": "full",
+        "installdir": "ABZU",
         "name": "ABZ\u00db",
         "paths": [
-            "<winLocalAppData>/AbzuGame/Saved/Config/WindowsNoEditor",
-            "<winLocalAppData>/AbzuGame/Saved/SaveGames"
+            "USERPROFILE/AppData/Local/AbzuGame/Saved/Config/WindowsNoEditor",
+            "USERPROFILE/AppData/Local/AbzuGame/Saved/SaveGames"
         ]
     },
     "transform_file": "Abzu (USA).7z"

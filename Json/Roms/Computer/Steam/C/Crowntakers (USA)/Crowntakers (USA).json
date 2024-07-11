@@ -10,13 +10,14 @@
         "branchid": "public",
         "buildid": "681163",
         "controller_support": "full",
+        "installdir": "Crowntakers",
         "keys": [
             "HKEY_CURRENT_USER/SOFTWARE/Bulwark Studios/Crowntakers"
         ],
         "name": "Crowntakers",
         "paths": [
-            "<base>/Saves",
-            "<home>/AppData/LocalLow/Bulwark Studios/Crowntakers"
+            "STEAMROOT/steamapps/common/Crowntakers/Saves",
+            "USERPROFILE/AppData/LocalLow/Bulwark Studios/Crowntakers"
         ]
     },
     "transform_file": "Crowntakers (USA).exe"

@@ -24,10 +24,11 @@
         "builddate": "1560826890",
         "buildid": "3872343",
         "controller_support": "partial",
+        "installdir": "Castlevania Anniversary Collection",
         "name": "Castlevania Anniversary Collection",
         "paths": [
-            "<winAppData>/Castlevania Anniversary Collection/savedata",
-            "<winAppData>/Castlevania Anniversary Collection/savedata/savecfg.txt"
+            "USERPROFILE/AppData/Roaming/Castlevania Anniversary Collection/savedata",
+            "USERPROFILE/AppData/Roaming/Castlevania Anniversary Collection/savedata/savecfg.txt"
         ]
     },
     "transform_file": "Castlevania Anniversary Collection (USA).7z"

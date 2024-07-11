@@ -11,10 +11,11 @@
         "builddate": "1488774569",
         "buildid": "1671843",
         "controller_support": "full",
+        "installdir": "Curse of the Crescent Isle DX",
         "name": "Curse of the Crescent Isle DX",
         "paths": [
-            "<base>/CurseDXSettings.sav",
-            "<base>/SaveFile.sav"
+            "STEAMROOT/steamapps/common/Curse of the Crescent Isle DX/CurseDXSettings.sav",
+            "STEAMROOT/steamapps/common/Curse of the Crescent Isle DX/SaveFile.sav"
         ]
     },
     "transform_file": "Curse of the Crescent Isle DX (USA).exe"

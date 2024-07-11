@@ -8,10 +8,11 @@
         "branchid": "public",
         "builddate": "1621353615",
         "buildid": "6660109",
+        "installdir": "Baldur's Gate Enhanced Edition",
         "name": "Baldur's Gate: Enhanced Edition",
         "paths": [
-            "<winDocuments>/Baldur's Gate - Enhanced Edition/Baldur.lua",
-            "<winDocuments>/Baldur's Gate - Enhanced Edition/save"
+            "USERPROFILE/Documents/Baldur's Gate - Enhanced Edition/Baldur.lua",
+            "USERPROFILE/Documents/Baldur's Gate - Enhanced Edition/save"
         ]
     },
     "transform_file": "Baldur's Gate - Enhanced Edition (USA).7z.001"

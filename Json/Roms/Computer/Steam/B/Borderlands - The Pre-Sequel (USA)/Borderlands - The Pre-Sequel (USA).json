@@ -16,10 +16,11 @@
         "builddate": "1659652016",
         "buildid": "9212029",
         "controller_support": "full",
+        "installdir": "BorderlandsPreSequel",
         "name": "Borderlands: The Pre-Sequel",
         "paths": [
-            "<winDocuments>/My Games/Borderlands The Pre-Sequel/WillowGame/Config",
-            "<winDocuments>/My Games/Borderlands The Pre-Sequel/WillowGame/SaveData"
+            "USERPROFILE/Documents/My Games/Borderlands The Pre-Sequel/WillowGame/Config",
+            "USERPROFILE/Documents/My Games/Borderlands The Pre-Sequel/WillowGame/SaveData"
         ]
     },
     "transform_file": "Borderlands - The Pre-Sequel (USA).7z.001"

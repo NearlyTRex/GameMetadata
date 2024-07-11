@@ -6,12 +6,13 @@
         "appid": "242960",
         "branchid": "public",
         "buildid": "86203",
+        "installdir": "Blood Omen 2 Legacy of Kain",
         "keys": [
             "HKEY_CURRENT_USER/Software/Crystal Dynamics/Blood Omen 2"
         ],
         "name": "Blood Omen 2: Legacy of Kain",
         "paths": [
-            "<winDocuments>/Blood Omen 2/Save *"
+            "USERPROFILE/Documents/Blood Omen 2/Save *"
         ]
     },
     "transform_file": "Blood Omen 2 - Legacy of Kain (USA).7z"

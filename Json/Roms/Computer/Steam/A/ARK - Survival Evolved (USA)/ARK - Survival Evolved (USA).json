@@ -18,10 +18,11 @@
         "builddate": "1718918622",
         "buildid": "14785396",
         "controller_support": "full",
+        "installdir": "ARK",
         "name": "ARK: Survival Evolved",
         "paths": [
-            "<base>/ShooterGame/Saved/Config",
-            "<base>/ShooterGame/Saved/SavedArksLocal"
+            "STEAMROOT/steamapps/common/ARK/ShooterGame/Saved/Config",
+            "STEAMROOT/steamapps/common/ARK/ShooterGame/Saved/SavedArksLocal"
         ]
     },
     "transform_file": "ARK - Survival Evolved (USA).7z.001"

@@ -11,10 +11,11 @@
         "branchid": "public",
         "builddate": "1714570786",
         "buildid": "14232803",
+        "installdir": "Ashes of the Singularity Escalation",
         "name": "Ashes of the Singularity: Escalation",
         "paths": [
-            "<winDocuments>/My Games/Ashes of the Singularity - Escalation/Saves",
-            "<winDocuments>/My Games/Ashes of the Singularity - Escalation/settings.ini"
+            "USERPROFILE/Documents/My Games/Ashes of the Singularity - Escalation/Saves",
+            "USERPROFILE/Documents/My Games/Ashes of the Singularity - Escalation/settings.ini"
         ]
     },
     "transform_file": "Ashes of the Singularity - Escalation (USA).7z.001"

@@ -17,9 +17,10 @@
         "builddate": "1669037307",
         "buildid": "9959747",
         "controller_support": "full",
+        "installdir": "Crimsonland",
         "name": "Crimsonland",
         "paths": [
-            "<winAppData>/10tons/Crimsonland/profiles"
+            "USERPROFILE/AppData/Roaming/10tons/Crimsonland/profiles"
         ]
     },
     "transform_file": "Crimsonland (USA).exe"

@@ -6,10 +6,11 @@
         "appid": "272010",
         "branchid": "public",
         "buildid": "234466",
+        "installdir": "Aveyond Lord of Twilight",
         "name": "Aveyond 3-1: Lord of Twilight",
         "paths": [
-            "<winAppData>/Aveyond 3/*.txt",
-            "<winAppData>/Aveyond 3/Chapter 1/Save*.rxdata"
+            "USERPROFILE/AppData/Roaming/Aveyond 3/*.txt",
+            "USERPROFILE/AppData/Roaming/Aveyond 3/Chapter 1/Save*.rxdata"
         ]
     },
     "transform_file": "Aveyond 3-1 - Lord of Twilight (USA).7z"

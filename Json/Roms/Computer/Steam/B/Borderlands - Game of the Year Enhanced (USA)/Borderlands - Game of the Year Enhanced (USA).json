@@ -5,10 +5,11 @@
         "builddate": "1659652154",
         "buildid": "9171464",
         "controller_support": "partial",
+        "installdir": "BorderlandsGOTYEnhanced",
         "name": "Borderlands GOTY Enhanced",
         "paths": [
-            "<winDocuments>/My Games/Borderlands Game of the Year/Binaries/SaveData",
-            "<winDocuments>/My Games/Borderlands Game of the Year/WillowGame/Config"
+            "USERPROFILE/Documents/My Games/Borderlands Game of the Year/Binaries/SaveData",
+            "USERPROFILE/Documents/My Games/Borderlands Game of the Year/WillowGame/Config"
         ]
     }
 }

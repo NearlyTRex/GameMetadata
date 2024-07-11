@@ -16,10 +16,11 @@
         "builddate": "1659651837",
         "buildid": "9218157",
         "controller_support": "full",
+        "installdir": "Borderlands 2",
         "name": "Borderlands 2",
         "paths": [
-            "<winDocuments>/My Games/Borderlands 2/WillowGame/Config",
-            "<winDocuments>/My Games/Borderlands 2/WillowGame/SaveData"
+            "USERPROFILE/Documents/My Games/Borderlands 2/WillowGame/Config",
+            "USERPROFILE/Documents/My Games/Borderlands 2/WillowGame/SaveData"
         ]
     },
     "transform_file": "Borderlands 2 (USA).7z.001"

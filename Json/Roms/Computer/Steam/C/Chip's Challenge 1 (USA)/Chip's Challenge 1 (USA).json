@@ -4,12 +4,13 @@
         "branchid": "public",
         "builddate": "1524939284",
         "buildid": "2722355",
+        "installdir": "Chip's Challenge 1",
         "name": "Chip's Challenge 1",
         "paths": [
-            "<base>/data/games/save.c2l",
-            "<base>/data/options.txt",
-            "<base>/data/saves",
-            "<winDir>/entpack.ini"
+            "STEAMROOT/steamapps/common/Chip's Challenge 1/data/games/save.c2l",
+            "STEAMROOT/steamapps/common/Chip's Challenge 1/data/options.txt",
+            "STEAMROOT/steamapps/common/Chip's Challenge 1/data/saves",
+            "USERPROFILE/AppData/Local/VirtualStore/entpack.ini"
         ]
     }
 }

@@ -8,12 +8,13 @@
         "builddate": "1513328939",
         "buildid": "2368799",
         "controller_support": "full",
+        "installdir": "Beatbuddy",
         "keys": [
             "HKEY_CURRENT_USER/Software/Threaks/Beatbuddy"
         ],
         "name": "Beatbuddy: Tale of the Guardians",
         "paths": [
-            "<home>/AppData/LocalLow/Threaks/Beatbuddy"
+            "USERPROFILE/AppData/LocalLow/Threaks/Beatbuddy"
         ]
     },
     "transform_file": "Beatbuddy - Tale of the Guardians (USA).7z"

@@ -10,13 +10,14 @@
         "branchid": "public",
         "builddate": "1485279740",
         "buildid": "1587988",
+        "installdir": "CAYNE",
         "keys": [
             "HKEY_CURRENT_USER/Software/THE BROTHERHOOD/CAYNE"
         ],
         "name": "CAYNE",
         "paths": [
-            "<winLocalAppData>/The Brotherhood/CAYNE",
-            "<winLocalAppData>/The Brotherhood/CAYNE/config.ini"
+            "USERPROFILE/AppData/Local/The Brotherhood/CAYNE",
+            "USERPROFILE/AppData/Local/The Brotherhood/CAYNE/config.ini"
         ]
     },
     "transform_file": "Cayne (USA).exe"

@@ -9,10 +9,11 @@
         "appid": "4720",
         "branchid": "public",
         "buildid": "15838",
+        "installdir": "Condemned Criminal Origins",
         "name": "Condemned: Criminal Origins",
         "paths": [
-            "<winPublic>/Documents/Monolith Productions/Condemned/Save",
-            "<winPublic>/Documents/Monolith Productions/Condemned/settings.cfg"
+            "USERPUBLIC/Documents/Monolith Productions/Condemned/Save",
+            "USERPUBLIC/Documents/Monolith Productions/Condemned/settings.cfg"
         ]
     },
     "transform_file": "Condemned - Criminal Origins (USA).exe"

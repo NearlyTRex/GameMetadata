@@ -17,14 +17,15 @@
         "builddate": "1581904429",
         "buildid": "4683028",
         "controller_support": "full",
+        "installdir": "Crimzon Clover",
         "name": "Crimzon Clover  WORLD IGNITION",
         "paths": [
-            "<base>/data/arcadescore000X.dat",
-            "<base>/data/bkeep0000.dat",
-            "<base>/data/config0000.dat",
-            "<base>/data/keyboardSetting.dat",
-            "<base>/data/lastEntryLocalName.dat",
-            "<base>/data/novicescore000X.dat"
+            "STEAMROOT/steamapps/common/Crimzon Clover/data/arcadescore000X.dat",
+            "STEAMROOT/steamapps/common/Crimzon Clover/data/bkeep0000.dat",
+            "STEAMROOT/steamapps/common/Crimzon Clover/data/config0000.dat",
+            "STEAMROOT/steamapps/common/Crimzon Clover/data/keyboardSetting.dat",
+            "STEAMROOT/steamapps/common/Crimzon Clover/data/lastEntryLocalName.dat",
+            "STEAMROOT/steamapps/common/Crimzon Clover/data/novicescore000X.dat"
         ]
     },
     "sync": {

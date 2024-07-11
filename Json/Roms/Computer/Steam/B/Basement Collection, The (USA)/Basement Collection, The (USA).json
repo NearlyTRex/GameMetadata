@@ -6,10 +6,11 @@
         "appid": "214790",
         "branchid": "public",
         "buildid": "14072",
+        "installdir": "basement",
         "name": "The Basement Collection",
         "paths": [
-            "<base>/META-INF/AIR",
-            "<winAppData>/collection"
+            "STEAMROOT/steamapps/common/basement/META-INF/AIR",
+            "USERPROFILE/AppData/Roaming/collection"
         ]
     },
     "transform_file": "Basement Collection, The (USA).7z"

@@ -13,10 +13,11 @@
         "branchid": "public",
         "builddate": "1465439034",
         "buildid": "1171672",
+        "installdir": "cap4ever",
         "name": "Captain Forever Remix",
         "paths": [
-            "<base>/cap4ever_Data/ShipData/Favorites/*.cfs",
-            "<home>/AppData/LocalLow/Pixelsaurus Games/Captain Forever Remix"
+            "STEAMROOT/steamapps/common/cap4ever/cap4ever_Data/ShipData/Favorites/*.cfs",
+            "USERPROFILE/AppData/LocalLow/Pixelsaurus Games/Captain Forever Remix"
         ]
     },
     "transform_file": "Captain Forever Remix (USA).7z"
