@@ -8,13 +8,14 @@
         "builddate": "1520641267",
         "buildid": "2592066",
         "controller_support": "full",
+        "installdir": "Aegis Defenders",
         "keys": [
             "HKEY_CURRENT_USER/Software/GUTS Department/Aegis Defenders"
         ],
         "name": "Aegis Defenders",
         "paths": [
-            "<home>/AppData/LocalLow/GUTS Department/Aegis Defenders/<storeUserId>.data",
-            "<home>/AppData/LocalLow/GUTS Department/Aegis Defenders/inputPrefs.data"
+            "USERPROFILE/AppData/LocalLow/GUTS Department/Aegis Defenders/STEAMUSERID.data",
+            "USERPROFILE/AppData/LocalLow/GUTS Department/Aegis Defenders/inputPrefs.data"
         ]
     },
     "transform_file": "Aegis Defenders (USA).7z"
