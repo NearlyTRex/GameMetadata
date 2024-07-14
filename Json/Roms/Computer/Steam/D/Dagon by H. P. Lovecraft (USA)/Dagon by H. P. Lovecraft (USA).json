@@ -8,8 +8,17 @@
     "steam": {
         "appid": "1481400",
         "branchid": "public",
+        "builddate": "1707924138",
+        "buildid": "13415657",
         "controller_support": "full",
-        "name": "Dagon"
+        "installdir": "Dagon",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/BitGolem/Dagon"
+        ],
+        "name": "Dagon",
+        "paths": [
+            "USERPROFILE/AppData/LocalLow/BitGolem/Dagon/DagonSaveFull.es3"
+        ]
     },
     "transform_file": "Dagon by H. P. Lovecraft (USA).exe"
 }

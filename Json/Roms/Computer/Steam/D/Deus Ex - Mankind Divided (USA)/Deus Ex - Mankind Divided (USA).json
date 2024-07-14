@@ -16,7 +16,13 @@
     "steam": {
         "appid": "337000",
         "branchid": "public",
+        "builddate": "1543591248",
+        "buildid": "3355064",
         "controller_support": "full",
+        "installdir": "Deus Ex Mankind Divided",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Eidos Montreal/Deus Ex: MD"
+        ],
         "name": "Deus Ex: Mankind Divided\u2122"
     },
     "transform_file": "Deus Ex - Mankind Divided (USA).exe"

@@ -14,7 +14,12 @@
     "steam": {
         "appid": "98800",
         "branchid": "public",
-        "name": "Dungeons of Dredmor"
+        "buildid": "150078",
+        "installdir": "Dungeons of Dredmor",
+        "name": "Dungeons of Dredmor",
+        "paths": [
+            "USERPROFILE/Documents/Gaslamp Games/Dungeons of Dredmor"
+        ]
     },
     "transform_file": "Dungeons of Dredmor (USA).exe"
 }

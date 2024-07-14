@@ -8,7 +8,14 @@
     "steam": {
         "appid": "468530",
         "branchid": "public",
-        "name": "A Date in the Park"
+        "builddate": "1554822777",
+        "buildid": "3722399",
+        "installdir": "A Date in the Park",
+        "name": "A Date in the Park",
+        "paths": [
+            "USERPROFILE/Saved Games/A Date in the Park/acsetup.cfg",
+            "USERPROFILE/Saved Games/A Date in the Park/agssave.*"
+        ]
     },
     "transform_file": "Date in the Park, A (USA).exe"
 }

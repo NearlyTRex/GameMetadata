@@ -12,8 +12,14 @@
     "steam": {
         "appid": "367500",
         "branchid": "public",
+        "builddate": "1513556752",
+        "buildid": "2364871",
         "controller_support": "full",
-        "name": "Dragon's Dogma: Dark Arisen"
+        "installdir": "DDDA",
+        "name": "Dragon's Dogma: Dark Arisen",
+        "paths": [
+            "USERPROFILE/AppData/Local/capcom/DRAGONS DOGMA DARK ARISEN/config.ini"
+        ]
     },
     "transform_file": "Dragon's Dogma - Dark Arisen (USA).exe"
 }

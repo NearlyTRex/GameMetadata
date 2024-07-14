@@ -23,8 +23,16 @@
     "steam": {
         "appid": "379720",
         "branchid": "public",
+        "builddate": "1712851489",
+        "buildid": "13954591",
         "controller_support": "partial",
-        "name": "DOOM"
+        "installdir": "DOOM",
+        "name": "DOOM",
+        "paths": [
+            "USERPROFILE/Saved Games/id Software/DOOM/base/DOOMConfig.cfg",
+            "USERPROFILE/Saved Games/id Software/DOOM/base/savegame",
+            "USERPROFILE/Saved Games/id Software/DOOM/base/savegame.user"
+        ]
     },
     "transform_file": "Doom (USA).exe"
 }

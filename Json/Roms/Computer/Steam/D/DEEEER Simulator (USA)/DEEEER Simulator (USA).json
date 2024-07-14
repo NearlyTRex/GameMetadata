@@ -8,8 +8,14 @@
     "steam": {
         "appid": "1018800",
         "branchid": "public",
+        "builddate": "1642141994",
+        "buildid": "8009184",
         "controller_support": "partial",
-        "name": "DEEEER Simulator: Your Average Everyday Deer Game"
+        "installdir": "DEEEER Simulator",
+        "name": "DEEEER Simulator: Your Average Everyday Deer Game",
+        "paths": [
+            "USERPROFILE/AppData/LocalLow/Naspapa Games/DEEEER Simulator/*.es3"
+        ]
     },
     "transform_file": "DEEEER Simulator (USA).exe"
 }

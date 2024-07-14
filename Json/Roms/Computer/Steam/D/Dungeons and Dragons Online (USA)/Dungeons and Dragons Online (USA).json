@@ -2,6 +2,12 @@
     "steam": {
         "appid": "206480",
         "branchid": "public",
-        "name": "Dungeons & Dragons Online\u00ae"
+        "builddate": "1652386558",
+        "buildid": "8727642",
+        "installdir": "Dungeons and Dragons Online",
+        "name": "Dungeons & Dragons Online\u00ae",
+        "paths": [
+            "USERPROFILE/Documents/Dungeons and Dragons Online"
+        ]
     }
 }

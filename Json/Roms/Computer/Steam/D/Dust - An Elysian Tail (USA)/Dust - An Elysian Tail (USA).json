@@ -8,8 +8,17 @@
     "steam": {
         "appid": "236090",
         "branchid": "public",
+        "builddate": "1609453593",
+        "buildid": "6029182",
         "controller_support": "full",
-        "name": "Dust: An Elysian Tail"
+        "installdir": "Dust An Elysian Tail",
+        "name": "Dust: An Elysian Tail",
+        "paths": [
+            "USERPROFILE/Documents/SavedGames/DustAET/Game Save *.sav",
+            "USERPROFILE/Documents/SavedGames/DustAET/Save Files/Player*/Game Save *.sav",
+            "USERPROFILE/Documents/SavedGames/DustAET/Save Files/Player*/Settings.sav",
+            "USERPROFILE/Documents/SavedGames/DustAET/Settings.sav"
+        ]
     },
     "transform_file": "Dust - An Elysian Tail (USA).exe"
 }

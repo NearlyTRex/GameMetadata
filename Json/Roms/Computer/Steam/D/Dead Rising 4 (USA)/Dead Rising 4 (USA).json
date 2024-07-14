@@ -22,8 +22,15 @@
     "steam": {
         "appid": "543460",
         "branchid": "public",
+        "builddate": "1517360113",
+        "buildid": "2483497",
         "controller_support": "full",
-        "name": "Dead Rising 4"
+        "installdir": "DeadRising4",
+        "name": "Dead Rising 4",
+        "paths": [
+            "USERPROFILE/Documents/My Games/Dead Rising 4/rendersettings.ini",
+            "USERPROFILE/Documents/My Games/Dead Rising 4/saves"
+        ]
     },
     "transform_file": "Dead Rising 4 (USA).exe"
 }

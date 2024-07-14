@@ -8,8 +8,14 @@
     "steam": {
         "appid": "784010",
         "branchid": "public",
+        "builddate": "1545610047",
+        "buildid": "3425180",
         "controller_support": "partial",
-        "name": "Dragonview"
+        "installdir": "Dragon View",
+        "name": "Dragonview",
+        "paths": [
+            "STEAMROOT/steamapps/common/Dragon View/res"
+        ]
     },
     "transform_file": "Dragon View (USA).exe"
 }

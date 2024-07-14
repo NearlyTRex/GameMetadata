@@ -8,8 +8,15 @@
     "steam": {
         "appid": "237630",
         "branchid": "public",
+        "builddate": "1481163044",
+        "buildid": "1384683",
         "controller_support": "full",
-        "name": "DuckTales Remastered"
+        "installdir": "DuckTales Remastered",
+        "name": "DuckTales Remastered",
+        "paths": [
+            "STEAMROOT/steamapps/common/DuckTales Remastered/data/engine.ini",
+            "USERPROFILE/AppData/Roaming/Wayforward Technologies/DuckTales"
+        ]
     },
     "transform_file": "DuckTales Remastered (USA).exe"
 }

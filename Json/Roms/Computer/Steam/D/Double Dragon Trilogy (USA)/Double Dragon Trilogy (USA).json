@@ -8,8 +8,13 @@
     "steam": {
         "appid": "314150",
         "branchid": "public",
+        "buildid": "525002",
         "controller_support": "full",
-        "name": "Double Dragon Trilogy"
+        "installdir": "Double Dragon Trilogy",
+        "name": "Double Dragon Trilogy",
+        "paths": [
+            "STEAMROOT/userdata/STEAMUSERID/314150/remote"
+        ]
     },
     "transform_file": "Double Dragon Trilogy (USA).exe"
 }

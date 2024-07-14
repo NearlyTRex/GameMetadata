@@ -8,8 +8,14 @@
     "steam": {
         "appid": "442070",
         "branchid": "public",
+        "builddate": "1636147860",
+        "buildid": "7666402",
         "controller_support": "full",
-        "name": "Drawful 2"
+        "installdir": "Drawful 2",
+        "name": "Drawful 2",
+        "paths": [
+            "USERPROFILE/AppData/Local/Jackbox Games/Drawful 2/UserData.sav"
+        ]
     },
     "transform_file": "Drawful 2 (USA).exe"
 }

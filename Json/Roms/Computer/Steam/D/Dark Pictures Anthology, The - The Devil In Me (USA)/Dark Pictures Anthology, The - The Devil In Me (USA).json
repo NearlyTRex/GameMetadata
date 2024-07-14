@@ -38,8 +38,15 @@
     "steam": {
         "appid": "1567020",
         "branchid": "public",
+        "builddate": "1692781125",
+        "buildid": "11855829",
         "controller_support": "full",
-        "name": "The Dark Pictures Anthology: The Devil in Me"
+        "installdir": "The Dark Pictures Anthology - The Devil In Me",
+        "name": "The Dark Pictures Anthology: The Devil in Me",
+        "paths": [
+            "USERPROFILE/AppData/Local/TheDevilInMe/Saved/Config/WindowsNoEditor",
+            "USERPROFILE/AppData/Local/TheDevilInMe/Saved/SaveGames"
+        ]
     },
     "transform_file": "Dark Pictures Anthology, The - The Devil In Me (USA).exe"
 }

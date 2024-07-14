@@ -8,8 +8,14 @@
     "steam": {
         "appid": "252610",
         "branchid": "public",
+        "builddate": "1718842040",
+        "buildid": "14772717",
         "controller_support": "full",
-        "name": "Death Road to Canada"
+        "installdir": "DeathRoadToCanada",
+        "name": "Death Road to Canada",
+        "paths": [
+            "USERPROFILE/AppData/Roaming/.madgarden/DR2C"
+        ]
     },
     "transform_file": "Death Road to Canada (USA).exe"
 }

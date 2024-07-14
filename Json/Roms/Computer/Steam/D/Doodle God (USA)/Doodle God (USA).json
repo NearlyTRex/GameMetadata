@@ -8,8 +8,18 @@
     "steam": {
         "appid": "348360",
         "branchid": "public",
+        "builddate": "1693478602",
+        "buildid": "12072214",
         "controller_support": "full",
-        "name": "Doodle God"
+        "installdir": "Doodle God",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/JoyBits/dg"
+        ],
+        "name": "Doodle God",
+        "paths": [
+            "STEAMROOT/steamapps/common/Doodle God/temp",
+            "STEAMROOT/steamapps/common/Doodle God/temp/config.txt"
+        ]
     },
     "transform_file": "Doodle God (USA).exe"
 }

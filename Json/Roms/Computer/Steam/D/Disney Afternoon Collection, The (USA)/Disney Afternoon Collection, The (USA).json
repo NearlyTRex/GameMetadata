@@ -24,8 +24,14 @@
     "steam": {
         "appid": "525040",
         "branchid": "public",
+        "builddate": "1494350400",
+        "buildid": "1807518",
         "controller_support": "partial",
-        "name": "The Disney Afternoon Collection"
+        "installdir": "DisneyAfternoon",
+        "name": "The Disney Afternoon Collection",
+        "paths": [
+            "USERPROFILE/AppData/Roaming/DisneyAfternoon/**/*.sav"
+        ]
     },
     "transform_file": "Disney Afternoon Collection, The (USA).exe"
 }

@@ -35,8 +35,15 @@
     "steam": {
         "appid": "1281590",
         "branchid": "public",
+        "builddate": "1651738084",
+        "buildid": "8603627",
         "controller_support": "full",
-        "name": "The Dark Pictures Anthology: House of Ashes"
+        "installdir": "The Dark Pictures Anthology - House of Ashes",
+        "name": "The Dark Pictures Anthology: House of Ashes",
+        "paths": [
+            "USERPROFILE/AppData/Local/HouseOfAshes/Saved/Config/WindowsNoEditor",
+            "USERPROFILE/AppData/Local/HouseOfAshes/Saved/SaveGames"
+        ]
     },
     "transform_file": "Dark Pictures Anthology, The - House of Ashes (USA).exe"
 }

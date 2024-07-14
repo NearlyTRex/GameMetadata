@@ -35,8 +35,15 @@
     "steam": {
         "appid": "939850",
         "branchid": "public",
+        "builddate": "1678783234",
+        "buildid": "10739751",
         "controller_support": "full",
-        "name": "The Dark Pictures Anthology: Man of Medan"
+        "installdir": "The Dark Pictures Anthology - Man of Medan",
+        "name": "The Dark Pictures Anthology: Man of Medan",
+        "paths": [
+            "USERPROFILE/AppData/Local/ManOfMedan/Saved/Config/WindowsNoEditor",
+            "USERPROFILE/AppData/Local/ManOfMedan/Saved/SaveGames"
+        ]
     },
     "transform_file": "Dark Pictures Anthology, The - Man of Medan (USA).exe"
 }

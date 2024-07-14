@@ -36,8 +36,15 @@
     "steam": {
         "appid": "1194630",
         "branchid": "public",
+        "builddate": "1684914785",
+        "buildid": "11200128",
         "controller_support": "full",
-        "name": "The Dark Pictures Anthology: Little Hope"
+        "installdir": "The Dark Pictures Anthology - Little Hope",
+        "name": "The Dark Pictures Anthology: Little Hope",
+        "paths": [
+            "USERPROFILE/AppData/Local/LittleHope/Saved/Config/WindowsNoEditor",
+            "USERPROFILE/AppData/Local/LittleHope/Saved/SaveGames"
+        ]
     },
     "transform_file": "Dark Pictures Anthology, The - Little Hope (USA).exe"
 }

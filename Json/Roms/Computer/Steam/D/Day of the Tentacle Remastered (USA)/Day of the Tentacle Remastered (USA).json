@@ -14,8 +14,16 @@
     "steam": {
         "appid": "388210",
         "branchid": "public",
+        "builddate": "1612767274",
+        "buildid": "6047174",
         "controller_support": "full",
-        "name": "Day of the Tentacle Remastered"
+        "installdir": "Day of the Tentacle Remastered",
+        "name": "Day of the Tentacle Remastered",
+        "paths": [
+            "STEAMROOT/steamapps/common/Day of the Tentacle Remastered/savedata",
+            "STEAMROOT/steamapps/common/Day of the Tentacle Remastered/savedata/settings.ini",
+            "USERPROFILE/AppData/Roaming/Doublefine/DayOfTheTentacle"
+        ]
     },
     "sync": {
         "data": [

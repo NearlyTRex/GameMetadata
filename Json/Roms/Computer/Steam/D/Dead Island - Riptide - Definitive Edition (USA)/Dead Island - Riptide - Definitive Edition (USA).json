@@ -10,8 +10,14 @@
     "steam": {
         "appid": "383180",
         "branchid": "public",
+        "builddate": "1495542372",
+        "buildid": "1837531",
         "controller_support": "full",
-        "name": "Dead Island Riptide Definitive Edition"
+        "installdir": "DIRDE",
+        "name": "Dead Island Riptide Definitive Edition",
+        "paths": [
+            "USERPROFILE/Documents/DeadIslandRiptideDE/out/settings"
+        ]
     },
     "transform_file": "Dead Island - Riptide - Definitive Edition (USA).exe"
 }

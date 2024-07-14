@@ -26,8 +26,14 @@
     "steam": {
         "appid": "383150",
         "branchid": "public",
+        "builddate": "1495542345",
+        "buildid": "1837542",
         "controller_support": "full",
-        "name": "Dead Island Definitive Edition"
+        "installdir": "DIDE",
+        "name": "Dead Island Definitive Edition",
+        "paths": [
+            "USERPROFILE/Documents/DeadIslandDE/out/settings"
+        ]
     },
     "transform_file": "Dead Island - Definitive Edition (USA).exe"
 }
