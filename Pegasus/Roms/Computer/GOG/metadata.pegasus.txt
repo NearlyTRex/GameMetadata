@@ -1730,6 +1730,29 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Blast Brigade vs. the Evil Legion of Dr. Cread (USA)
+file: Computer/GOG/B/Blast Brigade vs. the Evil Legion of Dr. Cread (USA)/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).json
+developer: Allods Team Arcade
+publisher: MY.GAMES
+genre: Action;Platformer;Metroidvania
+description:
+  Blast Brigade vs. The Evil Legion of Dr. Cread is an eye-popping 2D action-
+  adventure inspired by the popcorn-chomping thrills of '80s action flicks.
+  .
+  Assemble a crack team of heroes and use your platforming skills and puzzle-
+  solving wits to traverse unique biomes, meticulously designed to encourage
+  metroidvania-style exploration. Arm yourself with upgradeable weapons and perks,
+  and embark on a daring mission to save the world from a mad scientist!
+release: 2022-04-12
+players: 1
+assets.boxfront: BoxFront/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).jpg
+assets.boxback: BoxBack/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).jpg
+assets.background: Background/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).jpg
+assets.screenshot: Screenshot/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Blood - Fresh Supply (USA)
 file: Computer/GOG/B/Blood - Fresh Supply (USA)/Blood - Fresh Supply (USA).json
 developer: Monolith Productions
@@ -2195,6 +2218,52 @@ assets.boxback: BoxBack/Call of Cthulhu - Shadow of the Comet (USA).jpg
 assets.background: Background/Call of Cthulhu - Shadow of the Comet (USA).jpg
 assets.screenshot: Screenshot/Call of Cthulhu - Shadow of the Comet (USA).jpg
 assets.video: Video/Call of Cthulhu - Shadow of the Comet (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Call of Juarez (USA)
+file: Computer/GOG/C/Call of Juarez (USA)/Call of Juarez (USA).json
+developer: Techland
+publisher: Ubisoft
+genre: Action;Shooter;First-Person;Arcade
+description:
+  Call of Juarez is a unique first-person shooter set in the classic Wild West.
+  Call of Juarez features classic gunslinging action including duels, shootouts
+  and barroom brawls. Players relive the days of the Wild West in numerous
+  settings including local saloons and brothels. In the single-player campaign,
+  players enter the world of two opposing characters equipped with contrasting
+  weapons and styles. Ray is the retired gunslinger turned rough-and-tumble
+  preacher. Billy, a sneaky and elusive man befriended and trained by Native
+  Americans, is on the run. Authentic Western situations chronicle the cat-and-
+  mouse game played by Ray and Billy. Players are forced to make split-second
+  decisions to escape the grasp of Ray or get their hands on Billy, and outwit
+  secondary characters throughout this Western setting. Call of Juarez leverages
+  Techland's Chrome game engine which allows players to use objects found in the
+  world as weapons or tools to solve problems. Graphics, artificial intelligence
+  and multiplayer features will immerse players in the Wild West like never
+  before.
+release: 2007-06-12
+players: 1
+assets.boxfront: BoxFront/Call of Juarez (USA).jpg
+assets.boxback: BoxBack/Call of Juarez (USA).jpg
+assets.background: Background/Call of Juarez (USA).jpg
+assets.screenshot: Screenshot/Call of Juarez (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Call of Juarez - Bound in Blood (USA)
+file: Computer/GOG/C/Call of Juarez - Bound in Blood (USA)/Call of Juarez - Bound in Blood (USA).json
+developer: Techland
+publisher: Ubisoft
+genre: Action;Shooter;First-Person;Arcade
+release: 2009-06-30
+players: 1
+assets.boxfront: BoxFront/Call of Juarez - Bound in Blood (USA).jpg
+assets.boxback: BoxBack/Call of Juarez - Bound in Blood (USA).jpg
+assets.background: Background/Call of Juarez - Bound in Blood (USA).jpg
+assets.screenshot: Screenshot/Call of Juarez - Bound in Blood (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5482,6 +5551,25 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Forager (USA)
+file: Computer/GOG/F/Forager (USA)/Forager (USA).json
+developer: HopFrog
+publisher: Humble Games
+genre: Action Adventure;General
+description:
+  Start small, then go big! Gather and collect. Explore and expand. Discover
+  secrets. Build structures. Craft items. Manage resources. Rain dungeons. Achieve
+  Anything!
+release: 2019-04-18
+players: 1
+assets.boxfront: BoxFront/Forager (USA).jpg
+assets.boxback: BoxBack/Forager (USA).jpg
+assets.background: Background/Forager (USA).jpg
+assets.screenshot: Screenshot/Forager (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Forgotten Realms - Dungeon Hack (USA)
 file: Computer/GOG/F/Forgotten Realms - Dungeon Hack (USA)/Forgotten Realms - Dungeon Hack (USA).json
 developer: DreamForge Intertainment
@@ -8276,6 +8364,32 @@ assets.boxback: BoxBack/Lovecraft's Untold Stories (USA).jpg
 assets.background: Background/Lovecraft's Untold Stories (USA).jpg
 assets.screenshot: Screenshot/Lovecraft's Untold Stories (USA).jpg
 assets.video: Video/Lovecraft's Untold Stories (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Lullaby of Life, The (USA)
+file: Computer/GOG/L/Lullaby of Life, The (USA)/Lullaby of Life, The (USA).json
+developer: 1 Simple Game
+publisher: Midwest Games
+genre: Adventure;General
+description:
+  In The Lullaby of Life you are the catalyst for change in a universe since its
+  beginning until the origin of life.
+  .
+  Explore this amazing music-driven world that combines the sound of musical notes
+  into puzzles using timing, dexterity and agility; help it reach its maximum
+  splendor using the power of sound to make life bloom.
+  .
+  You will encounter challenges in the form of musical puzzles and characters that
+  will help you in your journey accompanied by cinematic moments full of color and
+  music. Discover new ways to change the world in every level.
+release: 2024-04-30
+players: 1
+assets.boxfront: BoxFront/Lullaby of Life, The (USA).jpg
+assets.boxback: BoxBack/Lullaby of Life, The (USA).jpg
+assets.background: Background/Lullaby of Life, The (USA).jpg
+assets.screenshot: Screenshot/Lullaby of Life, The (USA).jpg
 x-co-op: No
 x-playable: Yes
 

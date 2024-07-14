@@ -1281,6 +1281,21 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Cakey's Twisted Bakery (USA)
+file: Computer/Steam/C/Cakey's Twisted Bakery (USA)/Cakey's Twisted Bakery (USA).json
+developer: TinyMindz
+publisher: TinyMindz
+genre: Adventure;3D;First-Person
+release: 2024-07-05
+players: 1
+assets.boxfront: BoxFront/Cakey's Twisted Bakery (USA).jpg
+assets.boxback: BoxBack/Cakey's Twisted Bakery (USA).jpg
+assets.background: Background/Cakey's Twisted Bakery (USA).jpg
+assets.screenshot: Screenshot/Cakey's Twisted Bakery (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Captain Forever Remix (USA)
 file: Computer/Steam/C/Captain Forever Remix (USA)/Captain Forever Remix (USA).json
 developer: Pixelsaurus Games
@@ -7232,6 +7247,21 @@ assets.background: Background/Mysterium (USA).jpg
 assets.screenshot: Screenshot/Mysterium (USA).jpg
 assets.video: Video/Mysterium (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Mystery Stories - Mountains of Madness (USA)
+file: Computer/Steam/M/Mystery Stories - Mountains of Madness (USA)/Mystery Stories - Mountains of Madness (USA).json
+developer: Big Fish Games
+publisher: Big Fish Games
+genre: Puzzle;General
+release: 2011-11-20
+players: 1
+assets.boxfront: BoxFront/Mystery Stories - Mountains of Madness (USA).jpg
+assets.boxback: BoxBack/Mystery Stories - Mountains of Madness (USA).jpg
+assets.background: Background/Mystery Stories - Mountains of Madness (USA).jpg
+assets.screenshot: Screenshot/Mystery Stories - Mountains of Madness (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 

@@ -49,6 +49,32 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Alex Kidd in Miracle World DX (USA)
+file: Computer/Epic Games/A/Alex Kidd in Miracle World DX (USA)/Alex Kidd in Miracle World DX (USA).json
+developer: Jankenteam
+publisher: Merge Games
+genre: Action;Platformer;2D
+description:
+  Since his first appearance in 1986 with Alex Kidd in Miracle World, the iconic
+  Alex Kidd makes his return to smash rocks, collect coins and tackle bosses once
+  again in Alex Kidd in Miracle World DX!
+  .
+  Return The Kingdom of Radaxian to its former glory and destroy the evil Janken
+  the Great!
+  .
+  Comprising of all levels from the original title as well as brand new levels
+  which expand the lore of Alex Kidd, experience Miracle World like you've never
+  seen it before with new animations, graphical detail and gameplay improvements.
+release: 2021-06-22
+players: 1
+assets.boxfront: BoxFront/Alex Kidd in Miracle World DX (USA).jpg
+assets.boxback: BoxBack/Alex Kidd in Miracle World DX (USA).jpg
+assets.background: Background/Alex Kidd in Miracle World DX (USA).jpg
+assets.screenshot: Screenshot/Alex Kidd in Miracle World DX (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Ancient Enemy (USA)
 file: Computer/Epic Games/A/Ancient Enemy (USA)/Ancient Enemy (USA).json
 developer: Grey Alien Games
@@ -120,6 +146,34 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Bramble - The Mountain King (USA)
+file: Computer/Epic Games/B/Bramble - The Mountain King (USA)/Bramble - The Mountain King (USA).json
+developer: Dimfrost
+publisher: Merge Games
+genre: Action Adventure;Linear
+description:
+  Bramble The Mountain King takes you on a gripping and unsettling journey through
+  stunning environments. Take on the role of Olle, a young boy setting off to
+  rescue his sister, kidnapped by a dreaded troll.
+  .
+  Not everything in Bramble is exactly how it seems - in this strange land with
+  creatures big and small, you must be careful when to approach and when to hide.
+  Many hungry and spiteful beasts lurk in these forests and caves.
+  .
+  Call upon the Spark of Courage, an enchanted fragment granting the gifts you
+  need to endure the pitfalls and trials in your path. Defeat the horrid creatures
+  you encounter in different and unique ways. Be warned, courage without kindness
+  can take you down a dark path.
+release: 2023-04-27
+players: 1
+assets.boxfront: BoxFront/Bramble - The Mountain King (USA).jpg
+assets.boxback: BoxBack/Bramble - The Mountain King (USA).jpg
+assets.background: Background/Bramble - The Mountain King (USA).jpg
+assets.screenshot: Screenshot/Bramble - The Mountain King (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Bridge, The (USA)
 file: Computer/Epic Games/B/Bridge, The (USA)/Bridge, The (USA).json
 developer: Ty Taylor and Mar Castañeda
@@ -170,6 +224,33 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Card Shark (USA)
+file: Computer/Epic Games/C/Card Shark (USA)/Card Shark (USA).json
+developer: Nerial
+publisher: Devolver Digital
+genre: Adventure;General
+description:
+  Card Shark is an adventure game full of cunning, intrigue, and delectable
+  deceit.
+  .
+  Cheat your way to the top of 18th-century French society. Master deceptions
+  using card marking, false shuffles, deck switching, false deals, and more! Use
+  your ill-gotten gains to buy your way into the closed world of high-stakes
+  tables.
+  .
+  Uncover a conspiracy as you climb from local card parlors to the King's table. A
+  word of advice: Don't get caught. Your fellow gamblers do not take kindly to
+  cheats...
+release: 2022-06-02
+players: 1
+assets.boxfront: BoxFront/Card Shark (USA).jpg
+assets.boxback: BoxBack/Card Shark (USA).jpg
+assets.background: Background/Card Shark (USA).jpg
+assets.screenshot: Screenshot/Card Shark (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Cave Story+ (USA)
 file: Computer/Epic Games/C/Cave Story+ (USA)/Cave Story+ (USA).json
 developer: Nicalis
@@ -215,6 +296,32 @@ assets.boxback: BoxBack/Death Stranding - Director's Cut (USA).jpg
 assets.background: Background/Death Stranding - Director's Cut (USA).jpg
 assets.screenshot: Screenshot/Death Stranding - Director's Cut (USA).jpg
 assets.video: Video/Death Stranding - Director's Cut (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Deceive Inc. (USA)
+file: Computer/Epic Games/D/Deceive Inc. (USA)/Deceive Inc. (USA).json
+developer: Sweet Bandits Studios
+publisher: Tripwire Presents
+genre: Action;Shooter;First-Person;Tactical
+description:
+  Welcome to DECEIVE INC. , a private corporation with complete monopoly over the
+  international espionage market. You can disguise yourself as anyone you meet in
+  an instant, have access to state-of-the-art gadgets the rest of the world can
+  only dream of and possess skills that would make Hollywood super spies jealous.
+  .
+  But you are not alone. Rival spies are after the same objective and every single
+  one of them is as skilled, cunning and well-equipped as you are.
+  .
+  Blend in, grab the objective and break out. In the end, only one spy can
+  complete the mission and get the paycheck. Company policy.
+release: 2023-03-21
+players: 1
+assets.boxfront: BoxFront/Deceive Inc. (USA).jpg
+assets.boxback: BoxBack/Deceive Inc. (USA).jpg
+assets.background: Background/Deceive Inc. (USA).jpg
+assets.screenshot: Screenshot/Deceive Inc. (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -443,6 +550,49 @@ x-co-op: No
 x-playable: Yes
 
 
+game: First Class Trouble (USA)
+file: Computer/Epic Games/F/First Class Trouble (USA)/First Class Trouble (USA).json
+developer: Invisible Walls ApS
+publisher: Versus Evil
+genre: Action Adventure;Survival
+release: 2021-04-08
+players: 1
+assets.boxfront: BoxFront/First Class Trouble (USA).jpg
+assets.boxback: BoxBack/First Class Trouble (USA).jpg
+assets.background: Background/First Class Trouble (USA).jpg
+assets.screenshot: Screenshot/First Class Trouble (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Floppy Knights (USA)
+file: Computer/Epic Games/F/Floppy Knights (USA)/Floppy Knights (USA).json
+developer: Rose City Games
+publisher: Rose City Games
+genre: Strategy;Turn-Based;Card Battle
+description:
+  Hello there, humans. It is me, Carlton! Phoebe's most trusted friend and super
+  cool robot arm. I am here to tell you just a little bit more about Phoebe and
+  her latest invention: Floppy Knights!
+  .
+  Who is Phoebe, you ask? She is a talented inventor with a mission: save up
+  enough cash to finally move out of her parents' place. There are plenty of odd
+  jobs all over town but only one Phoebe - and that is where the Floppy Knights
+  come in!
+  .
+  Tactics fuse with card game mechanics as Phoebe and Carlton, a brilliant young
+  inventor & her robot-arm bestie, square off in turn-based battles. Select your
+  Knights, hone your deck, and execute your strategy for victory!
+release: 2022-05-24
+players: 1
+assets.boxfront: BoxFront/Floppy Knights (USA).jpg
+assets.boxback: BoxBack/Floppy Knights (USA).jpg
+assets.background: Background/Floppy Knights (USA).jpg
+assets.screenshot: Screenshot/Floppy Knights (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Forest Quartet, The (USA)
 file: Computer/Epic Games/F/Forest Quartet, The (USA)/Forest Quartet, The (USA).json
 developer: Mads & Friends
@@ -460,6 +610,35 @@ assets.boxback: BoxBack/Forest Quartet, The (USA).jpg
 assets.background: Background/Forest Quartet, The (USA).jpg
 assets.screenshot: Screenshot/Forest Quartet, The (USA).jpg
 assets.video: Video/Forest Quartet, The (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Freshly Frosted (USA)
+file: Computer/Epic Games/F/Freshly Frosted (USA)/Freshly Frosted (USA).json
+developer: The Quantum Astrophysicists Guild
+publisher: The Quantum Astrophysicists Guild
+genre: Puzzle;General
+description:
+  Solve puzzles in the world's most adorable donut factory!
+  .
+  A dozen dozen dazzling donut dilemmas await you, that's 144 puzzles to please
+  your particular puzzley passions. To excite and delight there are mechanics
+  galore; from splitters to pushers, mergers and cloners, randomizers,
+  teleporters, and more!
+  .
+  With pleasant pastels and mesmerizing machines the satisfying scenes will catch
+  your eyes and mesmerize! Each of a dozen donut boxes brings its own fetching
+  flavor; a taste of autumn, a sip of summer, a whisper of winter. Days in the
+  sun. Nights under the moon. And each world with its own special tune. The
+  lullabies of these pastel skies are all unique and each reaches its peak when
+  you find your way and set your factory to play!
+release: 2022-06-10
+players: 1
+assets.boxfront: BoxFront/Freshly Frosted (USA).jpg
+assets.boxback: BoxBack/Freshly Frosted (USA).jpg
+assets.background: Background/Freshly Frosted (USA).jpg
+assets.screenshot: Screenshot/Freshly Frosted (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -806,6 +985,53 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Marvel's Guardians of the Galaxy (USA)
+file: Computer/Epic Games/M/Marvel's Guardians of the Galaxy (USA)/Marvel's Guardians of the Galaxy (USA).json
+developer: Eidos Montreal
+publisher: Square Enix
+genre: Action Adventure;Linear
+release: 2021-10-26
+players: 1
+assets.boxfront: BoxFront/Marvel's Guardians of the Galaxy (USA).jpg
+assets.boxback: BoxBack/Marvel's Guardians of the Galaxy (USA).jpg
+assets.background: Background/Marvel's Guardians of the Galaxy (USA).jpg
+assets.screenshot: Screenshot/Marvel's Guardians of the Galaxy (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Marvel's Midnight Suns (USA)
+file: Computer/Epic Games/M/Marvel's Midnight Suns (USA)/Marvel's Midnight Suns (USA).json
+developer: Firaxis Games
+publisher: 2K Games
+genre: Strategy;Turn-Based;Tactics
+description:
+  After centuries of sleep, Lilith, Mother of Demons, has been revived by Hydra
+  through a twist of dark magic and science. Lilith stops at nothing to complete
+  an ancient prophecy and bring back her evil master, Chthon.
+  .
+  Pushed to the brink, the Avengers desperately look to fight fire with hellfire
+  and enlist the help of the Midnight Suns - Nico Minoru, Blade, Magik and Ghost
+  Rider - young heroes with powers deeply rooted in the supernatural, formed to
+  prevent the very prophecy Lilith aims to fulfill.
+  .
+  In the face of fallen allies and the fate of the world at stake, it will be up
+  to you to rise up against the darkness!
+  .
+  Marvel's Midnight Suns is a new tactical RPG set in the darker side of the
+  Marvel Universe, putting you face-to-face against demonic forces of the
+  underworld as you team up with and live among the Midnight Suns, Earth's last
+  line of defense.
+release: 2022-12-02
+players: 1
+assets.boxfront: BoxFront/Marvel's Midnight Suns (USA).jpg
+assets.boxback: BoxBack/Marvel's Midnight Suns (USA).jpg
+assets.background: Background/Marvel's Midnight Suns (USA).jpg
+assets.screenshot: Screenshot/Marvel's Midnight Suns (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Model Builder (USA)
 file: Computer/Epic Games/M/Model Builder (USA)/Model Builder (USA).json
 developer: Moonlit
@@ -829,6 +1055,36 @@ assets.boxback: BoxBack/Model Builder (USA).jpg
 assets.background: Background/Model Builder (USA).jpg
 assets.screenshot: Screenshot/Model Builder (USA).jpg
 assets.video: Video/Model Builder (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: MythForce (USA)
+file: Computer/Epic Games/M/MythForce (USA)/MythForce (USA).json
+developer: Beamdog
+publisher: Aspyr
+genre: Role-Playing;Action RPG
+description:
+  Inspired by beloved Saturday morning cartoons, MythForce unites swords & sorcery
+  with gripping 1st-person combat in a new roguelike adventure.
+  .
+  Brave the dungeon alone or join forces with friends to take on an ever-changing
+  Castle of Evil!
+  .
+  Become a cartoon hero in a bodacious 80s fantasy world. Scratch that nostalgic
+  itch with wholesome fun that's easy to pick up and play (but tough to master).
+  .
+  In true rogue-lite fashion, each time you're defeated, you'll have to start over
+  at the beginning - but every playthrough makes you a little stronger.
+  .
+  Level up as you explore the dungeon, uncovering magical artifacts and upgrades
+  to make you say "I HAVE THE POWER!"
+release: 2023-09-12
+players: 1
+assets.boxfront: BoxFront/MythForce (USA).jpg
+assets.boxback: BoxBack/MythForce (USA).jpg
+assets.background: Background/MythForce (USA).jpg
+assets.screenshot: Screenshot/MythForce (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1217,6 +1473,21 @@ x-co-op: No
 x-playable: No
 
 
+game: Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)
+file: Computer/Epic Games/T/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).json
+developer: Tribute Games
+publisher: DotEmu
+genre: Action;Beat-'Em-Up;2D
+release: 2022-06-16
+players: 1
+assets.boxfront: BoxFront/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).jpg
+assets.boxback: BoxBack/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).jpg
+assets.background: Background/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).jpg
+assets.screenshot: Screenshot/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Thief (USA)
 file: Computer/Epic Games/T/Thief (USA)/Thief (USA).json
 developer: Nixxes Software
@@ -1263,6 +1534,34 @@ assets.boxback: BoxBack/Tomb Raider - Game of the Year Edition (USA).jpg
 assets.background: Background/Tomb Raider - Game of the Year Edition (USA).jpg
 assets.screenshot: Screenshot/Tomb Raider - Game of the Year Edition (USA).jpg
 assets.video: Video/Tomb Raider - Game of the Year Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Weird West - Definitive Edition (USA)
+file: Computer/Epic Games/W/Weird West - Definitive Edition (USA)/Weird West - Definitive Edition (USA).json
+developer: Wolfeye Studios
+publisher: Devolver Digital
+genre: Role-Playing;Action RPG
+description:
+  Survive and unveil the mysteries of the Weird West through the intertwined
+  destinies of its unusual heroes in an immersive sim from the co-creators of
+  Dishonored and Prey.
+  .
+  Discover a dark fantasy reimagining of the Wild West where lawmen and
+  gunslingers share the frontier with fantastical creatures. Journey through the
+  origin stories of a group of atypical heroes, written into legend by the
+  decisions you make in an unforgiving land. Each journey is unique and tailored
+  to the actions taken - a series of high stakes stories where everything counts
+  and the world reacts to the choices you make. Form a posse or venture forth
+  alone into an otherworldly confines of the Weird West and make each legend your
+  own.
+release: 2023-05-08
+players: 1
+assets.boxfront: BoxFront/Weird West - Definitive Edition (USA).jpg
+assets.boxback: BoxBack/Weird West - Definitive Edition (USA).jpg
+assets.background: Background/Weird West - Definitive Edition (USA).jpg
+assets.screenshot: Screenshot/Weird West - Definitive Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
