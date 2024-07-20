@@ -1,0 +1,507 @@
+collection: NEC PC-Engine
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC PC-Engine" -n {file.basename}
+
+
+game: Appare Gateball (Japan)
+file: Other/NEC PC-Engine/Appare Gateball (Japan)/Appare Gateball (Japan).json
+developer: Escape
+publisher: Hudson Soft
+genre: Sports
+description:
+  Appare! Gateball is a virtual approximation of gateball, a lawn game inspired by
+  croquet. The object of the game is to hit the ball through the small gates on
+  the ground in a certain order in the least amount of hits possible.
+  .
+  To hit the ball the shot must first be lined up and then set. Once the shot has
+  been set then the power of the shot must also be set. To set the power the
+  player must stop a cursor that is traveling left and right continuously.
+release: 1988-12-22
+players: 1
+assets.boxfront: BoxFront/Appare Gateball (Japan).jpg
+assets.boxback: BoxBack/Appare Gateball (Japan).jpg
+assets.background: Background/Appare Gateball (Japan).jpg
+assets.screenshot: Screenshot/Appare Gateball (Japan).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Battle Lode Runner (Japan)
+file: Other/NEC PC-Engine/Battle Lode Runner (Japan)/Battle Lode Runner (Japan).json
+developer: Hudson Soft
+publisher: Hudson Soft
+genre: Action;Puzzle
+description:
+  Originally released only in Japan on the PC Engine (TurboGrafx-16), Battle Lode
+  Runner is a sequel to Lode Runner and its major draw is a 5 player mode. Players
+  move around several platforms collecting gold. Various enemies inhabit the
+  levels, and the player, armed with a drill, attempts to drill holes to capture
+  the enemies. Unfortunately, this does not defeat the enemies, only disables them
+  for a short time. After a few seconds, the enemies respawn and resume their
+  chase of the player.
+  .
+  The five-player option was new to any incarnation of Lode Runner, and operates
+  in a very similar manner to Bomberman, except with hole drilling instead of
+  bombing.
+release: 1993-02-10
+players: 1
+assets.boxfront: BoxFront/Battle Lode Runner (Japan).jpg
+assets.boxback: BoxBack/Battle Lode Runner (Japan).jpg
+assets.background: Background/Battle Lode Runner (Japan).jpg
+assets.screenshot: Screenshot/Battle Lode Runner (Japan).jpg
+assets.video: Video/Battle Lode Runner (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Bomberman '94 (Japan)
+file: Other/NEC PC-Engine/Bomberman '94 (Japan)/Bomberman '94 (Japan).json
+developer: Hudson Soft
+publisher: Hudson Soft
+genre: Action
+description:
+  The inhabitants of Planet Bomber lived in peace, protected by five spirits,
+  until the evil Bagulaa and his Robot Army approached via an artificial comet.
+  The Spirit Pictures, the source of the spirits' magical power, were destroyed,
+  splitting Planet Bomber into five pieces.
+  .
+  Bomberman must reassemble the Spirit Pictures in each area in order to restore
+  Planet Bomber to the way it was, all the while defeating the Robot Army. This
+  time, Bomberman's companion Louie can provide a helping hand.
+release: 1993-12-10
+players: 5
+assets.boxfront: BoxFront/Bomberman '94 (Japan).jpg
+assets.boxback: BoxBack/Bomberman '94 (Japan).jpg
+assets.background: Background/Bomberman '94 (Japan).jpg
+assets.screenshot: Screenshot/Bomberman '94 (Japan).jpg
+assets.video: Video/Bomberman '94 (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Darius Alpha (Japan)
+file: Other/NEC PC-Engine/Darius Alpha (Japan)/Darius Alpha (Japan).json
+developer: Bits Laboratory
+publisher: NEC Avenue, Ltd.
+genre: Shooter
+description:
+  One of the rarest games for the PC Engine, Darius Alpha was only offered to
+  those who bought both the CD and HuCard versions of Darius Plus (Which doesn't
+  make much sense, considering how similar the two versions are). People who just
+  couldn't get enough of Darius could now play another variation on the same
+  theme. Darius Alpha is built on the same codebase as Darius Plus, but has been
+  remodeled into a so-called "boss-fight" game, e.g. a game where you only fight
+  the bosses of a game or game series. You start out with an unequipped ship and
+  must take down the boss of the first level, King Fossil. Upon defeating King
+  Fossil, you are granted some slight upgrades and proceed directly to the boss of
+  the next level.
+release: 1990-01-01
+players: 1
+assets.boxfront: BoxFront/Darius Alpha (Japan).jpg
+assets.boxback: BoxBack/Darius Alpha (Japan).jpg
+assets.background: Background/Darius Alpha (Japan).jpg
+assets.screenshot: Screenshot/Darius Alpha (Japan).jpg
+assets.video: Video/Darius Alpha (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Darius Plus (Japan)
+file: Other/NEC PC-Engine/Darius Plus (Japan)/Darius Plus (Japan).json
+developer: Bits Laboratory
+publisher: NEC Avenue, Ltd.
+genre: Shooter
+description:
+  Darius Plus was released in Japan on September 21, 1990 for the PC Engine, and
+  was developed by Bits Laboratory and published by NEC Avenue. The Darius series
+  went up against the big guns of R-Type and Gradius as another side-scrolling
+  shoot 'em up with a player-directed power-up system.
+  .
+  Darius Plus is essentially Super Darius, the TurboGrafx-CD version which is the
+  closest to Arcade perfect, but with fewer bosses. The same version could also be
+  played on the SuperGrafx and had special features that would enhance the
+  experience when played on that system in particular - similar to how certain
+  Game Boy games would be enhanced when used with the Super Game Boy peripheral.
+  Darius Plus shares this bonus aspect with its much rarer sister product Darius
+  Alpha.
+release: 1990-09-21
+players: 1
+assets.boxfront: BoxFront/Darius Plus (Japan).jpg
+assets.boxback: BoxBack/Darius Plus (Japan).jpg
+assets.background: Background/Darius Plus (Japan).jpg
+assets.screenshot: Screenshot/Darius Plus (Japan).jpg
+assets.video: Video/Darius Plus (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Dragon Spirit (Japan)
+file: Other/NEC PC-Engine/Dragon Spirit (Japan)/Dragon Spirit (Japan).json
+developer: Namco
+publisher: NEC
+genre: Shooter
+description:
+  Amur, the spirit of the dragon, lives within you. As the winged creature that
+  breathes mega-tons of fire, your mission is revealed. Rescue Princess Alicia
+  from Zowel, Demon of Darkness. So take to the skies and destroy enemy creatures
+  with breath and fireballs. Add dragon heads and incredible power-ups. Confront
+  Zowel in a Super Battle of Beasts! (Careful not to breathe on Alicia).
+release: 1988-12-16
+players: 1
+assets.boxfront: BoxFront/Dragon Spirit (Japan).jpg
+assets.boxback: BoxBack/Dragon Spirit (Japan).jpg
+assets.background: Background/Dragon Spirit (Japan).jpg
+assets.screenshot: Screenshot/Dragon Spirit (Japan).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Dungeon Explorer (Japan)
+file: Other/NEC PC-Engine/Dungeon Explorer (Japan)/Dungeon Explorer (Japan).json
+developer: Atlus
+publisher: NEC
+genre: Role-Playing
+description:
+  You, brave soldier, are the last hope of a once-peaceful Oddesia. Yours is a
+  strange world full of magic, hidden dangers and potions. But you have powerful
+  friends. Use them to recover the ORA Stone which was hidden from the conquering
+  evil king, Natas. Deep within the ancient dungeons lies the Stone with powers of
+  life, light, happiness. But where?
+release: 1989-03-04
+players: 4
+assets.boxfront: BoxFront/Dungeon Explorer (Japan).jpg
+assets.boxback: BoxBack/Dungeon Explorer (Japan).jpg
+assets.background: Background/Dungeon Explorer (Japan).jpg
+assets.screenshot: Screenshot/Dungeon Explorer (Japan).jpg
+x-co-op: Yes
+x-playable: Yes
+
+
+game: Fantasy Zone (Japan)
+file: Other/NEC PC-Engine/Fantasy Zone (Japan)/Fantasy Zone (Japan).json
+developer: Bits Laboratory
+publisher: NEC
+genre: Shooter
+description:
+  An evil force has overcome this beautiful land of awesome colors and peaceful
+  people. Plundering Golden Rubicom coins, your enemy is an intergalactic band of
+  thieves. Armed with cannon and bombs, you must recover the stolen coins to buy
+  expanded powers. But be careful! The alien Super Boss waits in ambush. Restore
+  order for the Federation or kiss the galaxy's favorite vacation place good-bye!
+release: 1988-10-14
+players: 2
+assets.boxfront: BoxFront/Fantasy Zone (Japan).jpg
+assets.boxback: BoxBack/Fantasy Zone (Japan).jpg
+assets.background: Background/Fantasy Zone (Japan).jpg
+assets.screenshot: Screenshot/Fantasy Zone (Japan).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Final Soldier (Japan) (En)
+file: Other/NEC PC-Engine/Final Soldier (Japan) (En)/Final Soldier (Japan) (En).json
+developer: Hudson Soft
+publisher: Hudson Soft
+genre: Shooter
+description:
+  On Earth in the 23rd century, a space time warp opens up over the Atlantic
+  Ocean. From it comes an enormous invasion force analyzed to come from the 25th
+  century. As Earth is attacked by the alien war machines, it is revealed that the
+  culprits are identified as the Gader'el, a race of large bio-mechanic creatures,
+  who have the ability to freely manipulate space and time; after conquering the
+  future Earth in the 25th century, the Gader'el decided to ensure their influence
+  on mankind by traveling back in time to the 23rd century, conquering that time
+  and then going further into Earth's past.\n
+  As the armed forces of every country on Earth combats the Gader'el, each
+  scientific academy collaborates on making a weapon capable of destroying the
+  Gader'el's strongest weapons. The result is the Dryad, a single-fighter
+  spaceship capable of wielding several types of futuristic weapons. The Dryad's
+  flight path and mission is to warp into the Future Zone in order to reach the
+  Gader'el headquarters and destroy their leader.
+release: 1991-07-05
+players: 1
+assets.boxfront: BoxFront/Final Soldier (Japan) (En).jpg
+assets.boxback: BoxBack/Final Soldier (Japan) (En).jpg
+assets.background: Background/Final Soldier (Japan) (En).jpg
+assets.screenshot: Screenshot/Final Soldier (Japan) (En).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Galaga '88 (Japan)
+file: Other/NEC PC-Engine/Galaga '88 (Japan)/Galaga '88 (Japan).json
+developer: Namco
+publisher: NEC
+genre: Shooter
+description:
+  Galaga is a smouldering planet that often erupts with angry mutants and misfits.
+  As Galactic commander of the Federal Army, you have the job of making them dead.
+  Not easy! Because they come at you in clusters like swarms of killer bees. This
+  time, you will be flying the awesome Triple Proton Fighter that warps to new
+  dimensions and increased firepower. Galaga goons, your graveyard awaits.
+release: 1988-07-15
+players: 2
+assets.boxfront: BoxFront/Galaga '88 (Japan).jpg
+assets.boxback: BoxBack/Galaga '88 (Japan).jpg
+assets.background: Background/Galaga '88 (Japan).jpg
+assets.screenshot: Screenshot/Galaga '88 (Japan).jpg
+assets.video: Video/Galaga '88 (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Genpei Toumaden (Japan)
+file: Other/NEC PC-Engine/Genpei Toumaden (Japan)/Genpei Toumaden (Japan).json
+developer: Now Production
+publisher: Namco
+genre: Action
+description:
+  Multi-style game in which you play a Japanese demon warrior with flowing red
+  hair. It is divided into overhead areas, platform areas with small sprites and
+  walk along hack ‘n’ slash bits with much larger characters.
+release: 1990-03-16
+players: 1
+assets.boxfront: BoxFront/Genpei Toumaden (Japan).jpg
+assets.boxback: BoxBack/Genpei Toumaden (Japan).jpg
+assets.background: Background/Genpei Toumaden (Japan).jpg
+assets.screenshot: Screenshot/Genpei Toumaden (Japan).jpg
+assets.video: Video/Genpei Toumaden (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Gradius (Japan)
+file: Other/NEC PC-Engine/Gradius (Japan)/Gradius (Japan).json
+developer: Konami Industry Co. Ltd.
+publisher: Konami Industry Co. Ltd.
+genre: Shooter
+description:
+  The people of Gradius are in trouble. The ameoboid Bacterions have launched an
+  all out attack against the planet, and it's up to you to fly into battle and
+  save them. Along the way you'll be able to power up your ship with hyper speed,
+  force fields, lasers, missiles, double beam cannons and more to help you battle.
+  .
+  Gradius is a side-scrolling shooter. Shooting certain enemies will leave a power
+  up pod behind which can be collected to add more power to your ship. Each level
+  features a wide variety of enemies trying to stop you, with a large boss at the
+  end. Gameplay is for one player or two players alternating.
+release: 1991-11-15
+players: 2
+assets.boxfront: BoxFront/Gradius (Japan).jpg
+assets.boxback: BoxBack/Gradius (Japan).jpg
+assets.background: Background/Gradius (Japan).jpg
+assets.screenshot: Screenshot/Gradius (Japan).jpg
+assets.video: Video/Gradius (Japan).mp4
+x-co-op: Yes
+x-playable: Yes
+
+
+game: Jaseiken Necromancer (Japan)
+file: Other/NEC PC-Engine/Jaseiken Necromancer (Japan)/Jaseiken Necromancer (Japan).json
+developer: Hudson Soft
+publisher: Hudson Soft
+genre: Role-Playing
+description:
+  Long time ago, the Gods fought the Demons in a cosmic battle. To ensure victory,
+  the Gods had to sacrifice part of their divine nature, and forge a weapon that
+  had both good and bad in it - the "Evil Holy Sword" Necromancer. The demons were
+  forced to dwell in the lower world, while the Gods remained in the heaven.
+  Between these two worlds lies the world of humans. But the demons did not accept
+  this plan for co-existence. They have murdered the king of the human continent
+  Ishumeria, and it's time for the nameless hero of this story to seek out the
+  legendary sword Necromancer, and restore balance in the world.
+  .
+  Jaseiken Necromancer plays like a traditional Japanese-style role-playing game:
+  top-down navigation, linear story progression, turn-based battles against
+  randomly appearing enemies, automatic leveling up, etc. A somewhat unusual (for
+  the time) feature is the player's ability to choose two companions for the hero
+  among six possible ones. These warriors are introduced to the hero after he
+  accepts his quest, and the player can build a party of three, trying to balance
+  between physical and magical skills they possess.
+  .
+  The game is also notable for its rather dark themes, uncommon for the
+  representatives of its genre at that time. Enemies mostly include demonic
+  creatures, and their death animation contains graphical gore.
+release: 1988-01-22
+players: 1
+assets.boxfront: BoxFront/Jaseiken Necromancer (Japan).jpg
+assets.boxback: BoxBack/Jaseiken Necromancer (Japan).jpg
+assets.background: Background/Jaseiken Necromancer (Japan).jpg
+assets.screenshot: Screenshot/Jaseiken Necromancer (Japan).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Neutopia (Japan)
+file: Other/NEC PC-Engine/Neutopia (Japan)/Neutopia (Japan).json
+developer: Hudson Soft
+publisher: NEC
+genre: Action;Adventure
+description:
+  You are Jazeta, a berserker warrior, fearless in combat. Now you face your
+  greatest quest: to rescue Princess Aurora from the evil Boss Dirth. Conquer a
+  dangerous land of dungeons and demons, magic and monks. Choose which armor, what
+  spell, which weapon you will use to capture each of the 8 medallions that bring
+  you closer and closer to your final battle with demonic Dirth.
+release: 1989-11-17
+players: 1
+assets.boxfront: BoxFront/Neutopia (Japan).jpg
+assets.boxback: BoxBack/Neutopia (Japan).jpg
+assets.background: Background/Neutopia (Japan).jpg
+assets.screenshot: Screenshot/Neutopia (Japan).jpg
+assets.video: Video/Neutopia (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Neutopia II (Japan)
+file: Other/NEC PC-Engine/Neutopia II (Japan)/Neutopia II (Japan).json
+developer: Hudson Soft
+publisher: Hudson Soft
+genre: Role-Playing
+description:
+  In the previous edition of Neutopia, Jazeta brought peace back to the land. But
+  as long as evil and fear live in the human heart, the dreaded Dirth, Emperor of
+  Darkness, will be plotting his return. The Emperor is stirring under the
+  peaceful surface of Neutopia, bringing suffering to its people. Who will save
+  them? Jazeta, the hero, is lost in a labyrinth in a foreign land. Can his son
+  withstand the powers of the Emperor of Darkness to rescue the good people of
+  Neutopia from fear and despair?
+release: 1991-09-27
+players: 1
+assets.boxfront: BoxFront/Neutopia II (Japan).jpg
+assets.boxback: BoxBack/Neutopia II (Japan).jpg
+assets.background: Background/Neutopia II (Japan).jpg
+assets.screenshot: Screenshot/Neutopia II (Japan).jpg
+assets.video: Video/Neutopia II (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Ninja Ryuuken Den (Japan) (En,Ja,Zh)
+file: Other/NEC PC-Engine/Ninja Ryuuken Den (Japan) (En,Ja,Zh)/Ninja Ryuuken Den (Japan) (En,Ja,Zh).json
+developer: Hudson Soft
+publisher: Hudson Soft
+genre: Action
+description:
+  Ninja Action! The stage is set for conspiracy, mystery and evil in America. Come
+  with Ninja Ryu as he takes you on his fateful journey. Tecmo's unique cinema
+  display system develops the story stage by stage. You piece together the puzzle,
+  while watching the movie-like graphics. Decide what action to take. Use the
+  secret sword and items collected during the action scenes to fight your way to
+  the goal!
+release: 1992-01-24
+players: 1
+assets.boxfront: BoxFront/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
+assets.boxback: BoxBack/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
+assets.background: Background/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
+assets.screenshot: Screenshot/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
+assets.video: Video/Ninja Ryuuken Den (Japan) (En,Ja,Zh).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Splatterhouse (Japan) (En)
+file: Other/NEC PC-Engine/Splatterhouse (Japan) (En)/Splatterhouse (Japan) (En).json
+developer: Namco
+publisher: NEC
+genre: Action;Beat 'em Up
+description:
+  Rick and his girlfriend Jennifer enter West Mansion (known as Splatterhouse) to
+  study Dr. West's parapsychology teachings for a school project. After a flash of
+  lightning and a scream, Jennifer is gone, and Rick is left wearing the Terror
+  Mask, which gives the wearer great strength.\n
+  Rick must survive seven blood-soaked levels full of corpses, demons, and other
+  disturbing creatures in this arcade side-scrolling beat-em-up. Several weapons
+  are at Rick's disposal throughout the house, such as a meat cleaver, a two by
+  four, and a shotgun. If Rick wants to find Jennifer alive, he must move quickly
+  through the floors of the mansion.... as a happy reunion is not always
+  guaranteed.
+release: 1990-04-03
+players: 1
+assets.boxfront: BoxFront/Splatterhouse (Japan) (En).jpg
+assets.boxback: BoxBack/Splatterhouse (Japan) (En).jpg
+assets.background: Background/Splatterhouse (Japan) (En).jpg
+assets.screenshot: Screenshot/Splatterhouse (Japan) (En).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Super Momotarou Dentetsu II (Japan)
+file: Other/NEC PC-Engine/Super Momotarou Dentetsu II (Japan)/Super Momotarou Dentetsu II (Japan).json
+developer: Hudson Soft
+publisher: Hudson Soft
+genre: Board Game
+description:
+  Super Momotarou Dentetsu II is a financial board game featuring Hudson Soft's
+  interpretation of the folklore hero Momotarou. It is the second game in the
+  series to feature the Super moniker, given to the 16-bit iterations of the
+  series (even if this version also was ported to the Game Boy).
+  .
+  Each player plays a real estate corporation with the aim to earn as much money
+  from property as possible while avoiding visiting other players property. The
+  game can be played with 5 players with computers filling any missing spots, in a
+  turn-based fashion. Each player starts a turn by either rolling a dice or using
+  a card picked up during the game.
+release: 1991-12-20
+players: 2
+assets.boxfront: BoxFront/Super Momotarou Dentetsu II (Japan).jpg
+assets.boxback: BoxBack/Super Momotarou Dentetsu II (Japan).jpg
+assets.background: Background/Super Momotarou Dentetsu II (Japan).jpg
+assets.screenshot: Screenshot/Super Momotarou Dentetsu II (Japan).jpg
+assets.video: Video/Super Momotarou Dentetsu II (Japan).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Super Star Soldier (Japan)
+file: Other/NEC PC-Engine/Super Star Soldier (Japan)/Super Star Soldier (Japan).json
+developer: Inter State
+publisher: NEC
+genre: Shooter
+description:
+  The special attack squad, lead by the Mother Brain, has launched an all out
+  invasion on Earth. Take your small-scale fighter, the Neo Caesar, with its
+  arsenal of 4 regular weapons and 2 special weapons, and send them back where
+  they belong! In addition to the Normal Game mode in this vertical-scrolling
+  shooting game, there are 2-minute and 5-minute Time Attack modes and a mode
+  where high-scores can be checked. Normal Game is made up of 8 different stages,
+  and in each stage (except Stage 7), a boss awaits you at the end.
+release: 1990-07-06
+players: 1
+assets.boxfront: BoxFront/Super Star Soldier (Japan).jpg
+assets.boxback: BoxBack/Super Star Soldier (Japan).jpg
+assets.background: Background/Super Star Soldier (Japan).jpg
+assets.screenshot: Screenshot/Super Star Soldier (Japan).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Valkyrie no Densetsu (Japan)
+file: Other/NEC PC-Engine/Valkyrie no Densetsu (Japan)/Valkyrie no Densetsu (Japan).json
+developer: Namco
+publisher: Namco
+genre: Action
+description:
+  Overhead action game. Traverse swamps, canyons, castles and caves armed with
+  your sword that fires upgrade able bolts of energy from its tip. The action also
+  includes a few puzzles and there are some original ideas (like the level where
+  you have to catapult yourself from one place to another).
+  .
+  The PC Engine version of the game sports a big number of differences that almost
+  make it a new game; the stage design has been changed, new stages have been
+  added, the players are given passwords to save their progress, there is a new
+  extra boss battle before the players fight the last boss (Kamuzu), and the
+  ending is completely different from that of the arcade version (however, like
+  many other Namco PC Engine conversions, the graphics and sound are inferior to
+  that of the arcade version due to the fact that it is an 8-bit console).
+release: 1990-08-09
+players: 2
+assets.boxfront: BoxFront/Valkyrie no Densetsu (Japan).jpg
+assets.boxback: BoxBack/Valkyrie no Densetsu (Japan).jpg
+assets.background: Background/Valkyrie no Densetsu (Japan).jpg
+assets.screenshot: Screenshot/Valkyrie no Densetsu (Japan).jpg
+assets.video: Video/Valkyrie no Densetsu (Japan).mp4
+x-co-op: Yes
+x-playable: Yes
+
+

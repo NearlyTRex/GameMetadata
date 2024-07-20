@@ -1,0 +1,127 @@
+collection: NEC TurboGrafx CD
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC TurboGrafx CD" -n {file.basename}
+
+
+game: Cosmic Fantasy II (USA)
+file: Other/NEC TurboGrafx CD/Cosmic Fantasy II (USA)/Cosmic Fantasy II (USA).json
+developer: Telenet Japan
+publisher: Working Designs
+genre: Role-Playing
+description:
+  Van is a young boy who lives on the planet Idea, a place where technology has
+  not yet reached a high level. One day his sweetheart Laura gets kidnapped by an
+  unknown villain. Van soon discovers that Laura possesses mysterious powers that
+  may grant immortality to the one who marries her. That is exactly what the evil
+  wizard Galam has in mind. Van sets off to rescue Laura, on a quest that involves
+  intergalactic journeys and travel through time.
+  .
+  Cosmic Fantasy 2 is a sequel to Cosmic Fantasy: Bōken Shōnen Yuu, and the only
+  installment in the series to have been released in the West. Though initially
+  not directly related to its predecessor story-wise, the game features several
+  common characters and themes.
+  .
+  Like the previous game, it is a Japanese-style RPG set in a mixed sci-fi and
+  medieval world. The game has random enemy encounters and simple turn-based
+  combat mechanics. Player-controlled characters can learn and use various
+  offensive and healing spells; however, enemies are restricted to physical
+  attacks. Characters join and leave the party frequently, as dictated by the
+  plot; the party may contain up to four active combatants. Story progression and
+  overworld exploration is linear; dungeons are usually fairly complex and
+  maze-like. Full-screen anime-style cutscenes with voice-overs advance the story
+  of the game.
+release: 1991-04-05
+players: 1
+assets.boxfront: BoxFront/Cosmic Fantasy II (USA).jpg
+assets.boxback: BoxBack/Cosmic Fantasy II (USA).jpg
+assets.background: Background/Cosmic Fantasy II (USA).jpg
+assets.screenshot: Screenshot/Cosmic Fantasy II (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Lords of Thunder (USA)
+file: Other/NEC TurboGrafx CD/Lords of Thunder (USA)/Lords of Thunder (USA).json
+developer: Red Entertainment
+publisher: Turbo Technologies, Inc.
+genre: Shooter
+description:
+  Lords of Thunder is a side-scrolling shooter that has you take on the role of a
+  legendary warrior, blasting enemies to heavy-metal tunes. Your enemies are
+  plotting to revive Zaggart, "The Dark One," who was sealed beneath the six
+  continents of Mistral. It's up to Landis, descendant of the heroic Dyu, to stop
+  them.
+release: 1993-04-23
+players: 1
+assets.boxfront: BoxFront/Lords of Thunder (USA).jpg
+assets.boxback: BoxBack/Lords of Thunder (USA).jpg
+assets.background: Background/Lords of Thunder (USA).jpg
+assets.screenshot: Screenshot/Lords of Thunder (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Valis II (USA)
+file: Other/NEC TurboGrafx CD/Valis II (USA)/Valis II (USA).json
+developer: Telenet Japan
+publisher: NEC Home Electronics, Ltd.
+genre: Action;Platform
+description:
+  Time passes, and Vecanti is set to rule under its next emperor after Rogles, his
+  brother Megas, who wishes to stamp out any trace of the former tyrant, to the
+  point of murdering any supporters Rogles might have had. Furthermore, his
+  bloodthirsty tendencies recognize Yuko and the Valis sword as viable threats to
+  his claim of the throne, and he orders his minions to eliminate her first before
+  she has the chance to thwart him.
+release: 1989-06-23
+players: 1
+assets.boxfront: BoxFront/Valis II (USA).jpg
+assets.boxback: BoxBack/Valis II (USA).jpg
+assets.background: Background/Valis II (USA).jpg
+assets.screenshot: Screenshot/Valis II (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Valis III (USA)
+file: Other/NEC TurboGrafx CD/Valis III (USA)/Valis III (USA).json
+developer: Laser Soft
+publisher: Telenet Japan Co., Ltd.
+genre: Action;Platform
+description:
+  King Glames leads denizens of the Dark World to destroy both Earth and Vecanti.
+  Against this common foe, Yuko Asou finds help in her new girlfriend, a Vecanti
+  warrior-maiden named Cham, who was born in the Dark World and uses a deadly
+  whip, and her own sister Valna Asou, who grew up within Vecanti and became
+  strong in the ways of magic. Furthermore, the Valis sword is shown to be capable
+  of more than what Yuko has accomplished with it thus far.
+release: 1990-09-07
+players: 1
+assets.boxfront: BoxFront/Valis III (USA).jpg
+assets.boxback: BoxBack/Valis III (USA).jpg
+assets.background: Background/Valis III (USA).jpg
+assets.screenshot: Screenshot/Valis III (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Ys Book I & II (USA) (Rev 2)
+file: Other/NEC TurboGrafx CD/Ys Book I & II (USA) (Rev 2)/Ys Book I & II (USA) (Rev 2).json
+developer: Nihon Falcom
+publisher: Hudson Soft
+genre: Role-Playing
+description:
+  Journey through the Ancient Land of Ys, a once peaceful and prosperous country
+  suddenly thrust deep into an empty abyss of isolation. The secret to restoring
+  peace rests in the six books of the wise priests. 700 years have passed, and now
+  you have a chance to unlock the mystery. Stunning graphics, intense stereo sound
+  and profound gameplay make this a CD adventure you'll never forget ... and may
+  never return from.
+release: 1989-01-01
+players: 1
+assets.boxfront: BoxFront/Ys Book I & II (USA) (Rev 2).jpg
+assets.boxback: BoxBack/Ys Book I & II (USA) (Rev 2).jpg
+assets.background: Background/Ys Book I & II (USA) (Rev 2).jpg
+assets.screenshot: Screenshot/Ys Book I & II (USA) (Rev 2).jpg
+x-co-op: No
+x-playable: Yes
+
