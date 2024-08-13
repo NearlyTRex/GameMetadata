@@ -3,7 +3,7 @@
         "Rogue Legacy (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rogue Legacy (USA).exe"
+        "SETUP_MAIN_ROOT/Rogue Legacy (USA).exe"
     ],
     "main_game_exe": [
         "Rogue Legacy/RogueLegacy.exe"

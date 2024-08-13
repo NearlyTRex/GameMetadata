@@ -3,7 +3,7 @@
         "Organ Trail - Director's Cut (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Organ Trail - Director's Cut (USA).exe"
+        "SETUP_MAIN_ROOT/Organ Trail - Director's Cut (USA).exe"
     ],
     "main_game_exe": [
         "Organ Trail - Director's Cut/OrganTrail.exe"

@@ -3,7 +3,7 @@
         "DEEEER Simulator (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/DEEEER Simulator (USA).exe"
+        "SETUP_MAIN_ROOT/DEEEER Simulator (USA).exe"
     ],
     "steam": {
         "appid": "1018800",
@@ -14,7 +14,7 @@
         "installdir": "DEEEER Simulator",
         "name": "DEEEER Simulator: Your Average Everyday Deer Game",
         "paths": [
-            "USERPROFILE/AppData/LocalLow/Naspapa Games/DEEEER Simulator/*.es3"
+            "USER_PROFILE_DIR/AppData/LocalLow/Naspapa Games/DEEEER Simulator/*.es3"
         ]
     },
     "transform_file": "DEEEER Simulator (USA).exe"

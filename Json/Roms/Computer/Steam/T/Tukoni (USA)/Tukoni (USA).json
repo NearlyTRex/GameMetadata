@@ -3,7 +3,7 @@
         "Tukoni (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tukoni (USA).exe"
+        "SETUP_MAIN_ROOT/Tukoni (USA).exe"
     ],
     "steam": {
         "appid": "1419860",

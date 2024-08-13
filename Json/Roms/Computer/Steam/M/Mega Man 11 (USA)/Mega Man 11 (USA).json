@@ -3,7 +3,7 @@
         "Mega Man 11 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Mega Man 11 (USA).exe"
+        "SETUP_MAIN_ROOT/Mega Man 11 (USA).exe"
     ],
     "main_game_exe": [
         "Mega Man 11/game.exe"

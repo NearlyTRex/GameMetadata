@@ -6,7 +6,7 @@
         "Five Dates (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Five Dates (USA).exe"
+        "SETUP_MAIN_ROOT/Five Dates (USA).exe"
     ],
     "main_game_exe": [
         "Five Dates/FiveDates.exe"

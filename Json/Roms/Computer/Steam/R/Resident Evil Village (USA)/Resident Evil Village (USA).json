@@ -12,7 +12,7 @@
         "Resident Evil Village (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil Village (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil Village (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil Village/re8.exe"

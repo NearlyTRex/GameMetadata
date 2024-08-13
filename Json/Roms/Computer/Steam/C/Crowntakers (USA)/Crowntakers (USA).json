@@ -3,7 +3,7 @@
         "Crowntakers (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Crowntakers (USA).exe"
+        "SETUP_MAIN_ROOT/Crowntakers (USA).exe"
     ],
     "steam": {
         "appid": "294370",
@@ -16,8 +16,8 @@
         ],
         "name": "Crowntakers",
         "paths": [
-            "STEAMROOT/steamapps/common/Crowntakers/Saves",
-            "USERPROFILE/AppData/LocalLow/Bulwark Studios/Crowntakers"
+            "STORE_INSTALL_DIR/steamapps/common/Crowntakers/Saves",
+            "USER_PROFILE_DIR/AppData/LocalLow/Bulwark Studios/Crowntakers"
         ]
     },
     "transform_file": "Crowntakers (USA).exe"

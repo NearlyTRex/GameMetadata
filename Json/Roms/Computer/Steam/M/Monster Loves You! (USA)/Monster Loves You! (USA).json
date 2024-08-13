@@ -3,7 +3,7 @@
         "Monster Loves You! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Monster Loves You! (USA).exe"
+        "SETUP_MAIN_ROOT/Monster Loves You! (USA).exe"
     ],
     "steam": {
         "appid": "226740",

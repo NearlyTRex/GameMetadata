@@ -5,7 +5,7 @@
         "Late Shift (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Late Shift (USA).exe"
+        "SETUP_MAIN_ROOT/Late Shift (USA).exe"
     ],
     "main_game_exe": [
         "Late Shift/LateShift.exe"

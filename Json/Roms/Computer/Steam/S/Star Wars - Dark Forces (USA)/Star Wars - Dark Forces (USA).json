@@ -3,7 +3,7 @@
         "Star Wars - Dark Forces (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Star Wars - Dark Forces (USA).exe"
+        "SETUP_MAIN_ROOT/Star Wars - Dark Forces (USA).exe"
     ],
     "main_game_exe": [
         "Star Wars - Dark Forces/DosBox/dosbox.exe"

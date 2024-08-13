@@ -8,7 +8,7 @@
         "Resident Evil Revelations 2 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil Revelations 2 (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil Revelations 2 (USA).exe"
     ],
     "steam": {
         "appid": "287290",

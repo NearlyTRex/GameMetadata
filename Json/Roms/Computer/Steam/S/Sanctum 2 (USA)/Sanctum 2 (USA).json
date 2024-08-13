@@ -3,7 +3,7 @@
         "Sanctum 2 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sanctum 2 (USA).exe"
+        "SETUP_MAIN_ROOT/Sanctum 2 (USA).exe"
     ],
     "main_game_exe": [
         "Sanctum 2/Binaries/Win32/SanctumGame-Win32-Shipping.exe"

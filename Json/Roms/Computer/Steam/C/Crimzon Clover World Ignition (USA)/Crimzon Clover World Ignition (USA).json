@@ -3,7 +3,7 @@
         "Crimzon Clover World Ignition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Crimzon Clover World Ignition (USA).exe"
+        "SETUP_MAIN_ROOT/Crimzon Clover World Ignition (USA).exe"
     ],
     "main_game_exe": [
         "Crimzon Clover World Ignition/CrimzonClover_WI.exe"
@@ -20,12 +20,12 @@
         "installdir": "Crimzon Clover",
         "name": "Crimzon Clover  WORLD IGNITION",
         "paths": [
-            "STEAMROOT/steamapps/common/Crimzon Clover/data/arcadescore000X.dat",
-            "STEAMROOT/steamapps/common/Crimzon Clover/data/bkeep0000.dat",
-            "STEAMROOT/steamapps/common/Crimzon Clover/data/config0000.dat",
-            "STEAMROOT/steamapps/common/Crimzon Clover/data/keyboardSetting.dat",
-            "STEAMROOT/steamapps/common/Crimzon Clover/data/lastEntryLocalName.dat",
-            "STEAMROOT/steamapps/common/Crimzon Clover/data/novicescore000X.dat"
+            "STORE_INSTALL_DIR/steamapps/common/Crimzon Clover/data/arcadescore000X.dat",
+            "STORE_INSTALL_DIR/steamapps/common/Crimzon Clover/data/bkeep0000.dat",
+            "STORE_INSTALL_DIR/steamapps/common/Crimzon Clover/data/config0000.dat",
+            "STORE_INSTALL_DIR/steamapps/common/Crimzon Clover/data/keyboardSetting.dat",
+            "STORE_INSTALL_DIR/steamapps/common/Crimzon Clover/data/lastEntryLocalName.dat",
+            "STORE_INSTALL_DIR/steamapps/common/Crimzon Clover/data/novicescore000X.dat"
         ]
     },
     "sync": {

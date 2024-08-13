@@ -11,7 +11,7 @@
         "Prey (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Prey (USA).exe"
+        "SETUP_MAIN_ROOT/Prey (USA).exe"
     ],
     "main_game_exe": [
         "Prey/Binaries/Danielle/x64/Release/Prey.exe"

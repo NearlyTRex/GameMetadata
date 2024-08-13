@@ -3,7 +3,7 @@
         "Halcyon 6 - Lightspeed Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Halcyon 6 - Lightspeed Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Halcyon 6 - Lightspeed Edition (USA).exe"
     ],
     "main_game_exe": [
         "Halcyon 6 - Lightspeed Edition/H6.exe"

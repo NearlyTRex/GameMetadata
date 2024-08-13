@@ -3,7 +3,7 @@
         "Chex Quest HD (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Chex Quest HD (USA).exe"
+        "SETUP_MAIN_ROOT/Chex Quest HD (USA).exe"
     ],
     "steam": {
         "appid": "804270",
@@ -14,7 +14,7 @@
         "installdir": "Chex Quest HD",
         "name": "Chex Quest HD",
         "paths": [
-            "USERPROFILE/AppData/Local/ChexHD/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/ChexHD/Saved/SaveGames"
         ]
     },
     "transform_file": "Chex Quest HD (USA).exe"

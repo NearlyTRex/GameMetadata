@@ -3,7 +3,7 @@
         "Simulacra (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Simulacra (USA).exe"
+        "SETUP_MAIN_ROOT/Simulacra (USA).exe"
     ],
     "steam": {
         "appid": "712730",

@@ -3,7 +3,7 @@
         "Keep Talking and Nobody Explodes (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Keep Talking and Nobody Explodes (USA).exe"
+        "SETUP_MAIN_ROOT/Keep Talking and Nobody Explodes (USA).exe"
     ],
     "steam": {
         "appid": "341800",

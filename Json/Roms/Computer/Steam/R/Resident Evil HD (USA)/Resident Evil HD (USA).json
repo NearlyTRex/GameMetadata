@@ -8,7 +8,7 @@
         "Resident Evil HD (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil HD (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil HD (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil HD/bhd.exe"

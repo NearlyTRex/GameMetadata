@@ -21,8 +21,8 @@
         "installdir": "ARK",
         "name": "ARK: Survival Evolved",
         "paths": [
-            "STEAMROOT/steamapps/common/ARK/ShooterGame/Saved/Config",
-            "STEAMROOT/steamapps/common/ARK/ShooterGame/Saved/SavedArksLocal"
+            "STORE_INSTALL_DIR/steamapps/common/ARK/ShooterGame/Saved/Config",
+            "STORE_INSTALL_DIR/steamapps/common/ARK/ShooterGame/Saved/SavedArksLocal"
         ]
     },
     "transform_file": "ARK - Survival Evolved (USA).7z.001"

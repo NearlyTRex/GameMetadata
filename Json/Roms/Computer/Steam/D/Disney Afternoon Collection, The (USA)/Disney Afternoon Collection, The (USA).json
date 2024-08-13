@@ -3,7 +3,7 @@
         "Disney Afternoon Collection, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Disney Afternoon Collection, The (USA).exe"
+        "SETUP_MAIN_ROOT/Disney Afternoon Collection, The (USA).exe"
     ],
     "main_game_exe": [
         "The Disney Afternoon Collection/capcom_disney_afternoon.exe"
@@ -30,7 +30,7 @@
         "installdir": "DisneyAfternoon",
         "name": "The Disney Afternoon Collection",
         "paths": [
-            "USERPROFILE/AppData/Roaming/DisneyAfternoon/**/*.sav"
+            "USER_PROFILE_DIR/AppData/Roaming/DisneyAfternoon/**/*.sav"
         ]
     },
     "transform_file": "Disney Afternoon Collection, The (USA).exe"

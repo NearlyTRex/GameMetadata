@@ -3,7 +3,7 @@
         "Chariot (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Chariot (USA).exe"
+        "SETUP_MAIN_ROOT/Chariot (USA).exe"
     ],
     "steam": {
         "appid": "319450",
@@ -16,7 +16,7 @@
         ],
         "name": "Chariot",
         "paths": [
-            "STEAMROOT/userdata/<storeUserId>/319450/remote"
+            "STORE_INSTALL_DIR/userdata/<storeUserId>/319450/remote"
         ]
     },
     "transform_file": "Chariot (USA).exe"

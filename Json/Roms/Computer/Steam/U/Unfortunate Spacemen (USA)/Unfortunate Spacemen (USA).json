@@ -5,7 +5,7 @@
         "Unfortunate Spacemen (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Unfortunate Spacemen (USA).exe"
+        "SETUP_MAIN_ROOT/Unfortunate Spacemen (USA).exe"
     ],
     "steam": {
         "appid": "408900",

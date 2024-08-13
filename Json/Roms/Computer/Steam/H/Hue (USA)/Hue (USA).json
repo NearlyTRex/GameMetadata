@@ -3,7 +3,7 @@
         "Hue (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hue (USA).exe"
+        "SETUP_MAIN_ROOT/Hue (USA).exe"
     ],
     "main_game_exe": [
         "Hue/Hue.exe"

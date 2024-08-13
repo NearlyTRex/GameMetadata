@@ -7,7 +7,7 @@
         "Elder Scrolls V, The - Skyrim - Special Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Elder Scrolls V, The - Skyrim - Special Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Elder Scrolls V, The - Skyrim - Special Edition (USA).exe"
     ],
     "steam": {
         "appid": "489830",

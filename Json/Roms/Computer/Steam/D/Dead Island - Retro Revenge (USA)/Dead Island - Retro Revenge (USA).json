@@ -3,7 +3,7 @@
         "Dead Island - Retro Revenge (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dead Island - Retro Revenge (USA).exe"
+        "SETUP_MAIN_ROOT/Dead Island - Retro Revenge (USA).exe"
     ],
     "steam": {
         "appid": "337360",

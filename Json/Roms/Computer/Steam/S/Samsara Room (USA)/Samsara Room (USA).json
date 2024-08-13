@@ -3,7 +3,7 @@
         "Samsara Room (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Samsara Room (USA).exe"
+        "SETUP_MAIN_ROOT/Samsara Room (USA).exe"
     ],
     "steam": {
         "appid": "1281800",

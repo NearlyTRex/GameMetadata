@@ -5,7 +5,7 @@
         "Resident Evil 5 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil 5 (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil 5 (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil 5/ResidentEvil5.exe"

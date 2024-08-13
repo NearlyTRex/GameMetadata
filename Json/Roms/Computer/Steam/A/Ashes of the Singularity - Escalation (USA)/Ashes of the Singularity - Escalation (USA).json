@@ -14,8 +14,8 @@
         "installdir": "Ashes of the Singularity Escalation",
         "name": "Ashes of the Singularity: Escalation",
         "paths": [
-            "USERPROFILE/Documents/My Games/Ashes of the Singularity - Escalation/Saves",
-            "USERPROFILE/Documents/My Games/Ashes of the Singularity - Escalation/settings.ini"
+            "USER_PROFILE_DIR/Documents/My Games/Ashes of the Singularity - Escalation/Saves",
+            "USER_PROFILE_DIR/Documents/My Games/Ashes of the Singularity - Escalation/settings.ini"
         ]
     },
     "transform_file": "Ashes of the Singularity - Escalation (USA).7z.001"

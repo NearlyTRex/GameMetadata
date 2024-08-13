@@ -3,7 +3,7 @@
         "Without Within (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Without Within (USA).exe"
+        "SETUP_MAIN_ROOT/Without Within (USA).exe"
     ],
     "steam": {
         "appid": "345650",

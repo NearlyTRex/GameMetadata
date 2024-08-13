@@ -3,7 +3,7 @@
         "Contra Anniversary Collection (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Contra Anniversary Collection (USA).exe"
+        "SETUP_MAIN_ROOT/Contra Anniversary Collection (USA).exe"
     ],
     "main_game_exe": [
         "Contra Anniversary Collection/game.exe"

@@ -3,7 +3,7 @@
         "Stories - The Path of Destinies (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stories - The Path of Destinies (USA).exe"
+        "SETUP_MAIN_ROOT/Stories - The Path of Destinies (USA).exe"
     ],
     "steam": {
         "appid": "439190",

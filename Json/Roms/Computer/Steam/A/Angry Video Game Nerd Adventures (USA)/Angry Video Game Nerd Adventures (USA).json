@@ -11,7 +11,7 @@
         "installdir": "Angry Video Game Nerd Adventures",
         "name": "Angry Video Game Nerd Adventures",
         "paths": [
-            "USERPROFILE/AppData/Roaming/MMFApplications/avgn.ini"
+            "USER_PROFILE_DIR/AppData/Roaming/MMFApplications/avgn.ini"
         ]
     },
     "transform_file": "Angry Video Game Nerd Adventures (USA).7z"

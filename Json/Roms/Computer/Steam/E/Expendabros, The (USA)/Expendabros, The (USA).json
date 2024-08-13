@@ -3,7 +3,7 @@
         "Expendabros, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Expendabros, The (USA).exe"
+        "SETUP_MAIN_ROOT/Expendabros, The (USA).exe"
     ],
     "steam": {
         "appid": "312990",

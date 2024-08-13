@@ -3,7 +3,7 @@
         "Floating Point (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Floating Point (USA).exe"
+        "SETUP_MAIN_ROOT/Floating Point (USA).exe"
     ],
     "steam": {
         "appid": "302380",

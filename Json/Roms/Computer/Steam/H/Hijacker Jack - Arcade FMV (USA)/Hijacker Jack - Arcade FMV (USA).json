@@ -6,7 +6,7 @@
         "Hijacker Jack - Arcade FMV (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hijacker Jack - Arcade FMV (USA).exe"
+        "SETUP_MAIN_ROOT/Hijacker Jack - Arcade FMV (USA).exe"
     ],
     "steam": {
         "appid": "1422730",

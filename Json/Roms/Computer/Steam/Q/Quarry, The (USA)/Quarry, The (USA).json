@@ -15,7 +15,7 @@
         "Quarry, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Quarry, The (USA).exe"
+        "SETUP_MAIN_ROOT/Quarry, The (USA).exe"
     ],
     "steam": {
         "appid": "1577120",

@@ -3,7 +3,7 @@
         "How do you Do It (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/How do you Do It (USA).exe"
+        "SETUP_MAIN_ROOT/How do you Do It (USA).exe"
     ],
     "main_game_exe": [
         "How do you Do It/how_do_you_Do_It/how do you Do It.exe"

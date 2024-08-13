@@ -3,7 +3,7 @@
         "Sisyphus Reborn (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sisyphus Reborn (USA).exe"
+        "SETUP_MAIN_ROOT/Sisyphus Reborn (USA).exe"
     ],
     "steam": {
         "appid": "517910",

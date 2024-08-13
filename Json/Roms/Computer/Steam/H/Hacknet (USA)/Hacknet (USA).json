@@ -3,7 +3,7 @@
         "Hacknet (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hacknet (USA).exe"
+        "SETUP_MAIN_ROOT/Hacknet (USA).exe"
     ],
     "main_game_exe": [
         "Hacknet/Hacknet.exe"

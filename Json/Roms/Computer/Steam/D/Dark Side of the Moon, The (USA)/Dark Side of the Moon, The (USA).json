@@ -6,7 +6,7 @@
         "Dark Side of the Moon, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dark Side of the Moon, The (USA).exe"
+        "SETUP_MAIN_ROOT/Dark Side of the Moon, The (USA).exe"
     ],
     "steam": {
         "appid": "1525770",

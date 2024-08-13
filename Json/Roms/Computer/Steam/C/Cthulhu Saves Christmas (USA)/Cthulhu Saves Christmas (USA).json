@@ -3,7 +3,7 @@
         "Cthulhu Saves Christmas (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cthulhu Saves Christmas (USA).exe"
+        "SETUP_MAIN_ROOT/Cthulhu Saves Christmas (USA).exe"
     ],
     "steam": {
         "appid": "1057540",
@@ -17,7 +17,7 @@
         ],
         "name": "Cthulhu Saves Christmas",
         "paths": [
-            "USERPROFILE/AppData/LocalLow/Zeboyd/Cthulhu Saves Christmas/PlayerPrefs.txt"
+            "USER_PROFILE_DIR/AppData/LocalLow/Zeboyd/Cthulhu Saves Christmas/PlayerPrefs.txt"
         ]
     },
     "transform_file": "Cthulhu Saves Christmas (USA).exe"

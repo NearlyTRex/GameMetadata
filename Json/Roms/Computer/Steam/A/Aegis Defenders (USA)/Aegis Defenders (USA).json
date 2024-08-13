@@ -14,8 +14,8 @@
         ],
         "name": "Aegis Defenders",
         "paths": [
-            "USERPROFILE/AppData/LocalLow/GUTS Department/Aegis Defenders/STEAMUSERID.data",
-            "USERPROFILE/AppData/LocalLow/GUTS Department/Aegis Defenders/inputPrefs.data"
+            "USER_PROFILE_DIR/AppData/LocalLow/GUTS Department/Aegis Defenders/STORE_USER_ID.data",
+            "USER_PROFILE_DIR/AppData/LocalLow/GUTS Department/Aegis Defenders/inputPrefs.data"
         ]
     },
     "transform_file": "Aegis Defenders (USA).7z"

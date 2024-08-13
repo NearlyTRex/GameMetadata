@@ -13,7 +13,7 @@
         "Dying Light 2 - Stay Human (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dying Light 2 - Stay Human (USA).exe"
+        "SETUP_MAIN_ROOT/Dying Light 2 - Stay Human (USA).exe"
     ],
     "main_game_exe": [
         "Dying Light 2 - Stay Human/Launcher.exe"
@@ -35,7 +35,11 @@
         "appid": "534380",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Dying Light 2: Reloaded Edition"
+        "name": "Dying Light 2: Reloaded Edition",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Dying Light 2/out/settings",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/534380/remote/out/save"
+        ]
     },
     "transform_file": "Dying Light 2 - Stay Human (USA).exe"
 }

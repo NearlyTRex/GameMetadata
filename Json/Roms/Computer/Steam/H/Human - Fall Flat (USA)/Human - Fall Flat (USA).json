@@ -3,7 +3,7 @@
         "Human - Fall Flat (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Human - Fall Flat (USA).exe"
+        "SETUP_MAIN_ROOT/Human - Fall Flat (USA).exe"
     ],
     "main_game_exe": [
         "Human - Fall Flat/Human.exe"

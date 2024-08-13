@@ -3,7 +3,7 @@
         "Daemon 9 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Daemon 9 (USA).exe"
+        "SETUP_MAIN_ROOT/Daemon 9 (USA).exe"
     ],
     "steam": {
         "appid": "892690",

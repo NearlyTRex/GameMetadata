@@ -3,7 +3,7 @@
         "Pac-Man Championship Edition 2 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pac-Man Championship Edition 2 (USA).exe"
+        "SETUP_MAIN_ROOT/Pac-Man Championship Edition 2 (USA).exe"
     ],
     "steam": {
         "appid": "441380",

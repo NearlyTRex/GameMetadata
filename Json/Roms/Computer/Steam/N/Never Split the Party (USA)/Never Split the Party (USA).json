@@ -3,7 +3,7 @@
         "Never Split the Party (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Never Split the Party (USA).exe"
+        "SETUP_MAIN_ROOT/Never Split the Party (USA).exe"
     ],
     "main_game_exe": [
         "Never Split the Party/Never Split the Party.exe"

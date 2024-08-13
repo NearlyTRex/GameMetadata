@@ -3,7 +3,7 @@
         "Legend (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Legend (USA).exe"
+        "SETUP_MAIN_ROOT/Legend (USA).exe"
     ],
     "steam": {
         "appid": "412380",

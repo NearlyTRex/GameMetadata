@@ -18,8 +18,8 @@
         "installdir": "Borderlands",
         "name": "Borderlands GOTY",
         "paths": [
-            "USERPROFILE/Documents/My Games/Borderlands/SaveData",
-            "USERPROFILE/Documents/My Games/Borderlands/WillowGame/Config"
+            "USER_PROFILE_DIR/Documents/My Games/Borderlands/SaveData",
+            "USER_PROFILE_DIR/Documents/My Games/Borderlands/WillowGame/Config"
         ]
     },
     "transform_file": "Borderlands (USA).7z.001"

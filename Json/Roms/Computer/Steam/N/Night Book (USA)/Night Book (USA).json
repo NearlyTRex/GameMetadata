@@ -6,7 +6,7 @@
         "Night Book (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Night Book (USA).exe"
+        "SETUP_MAIN_ROOT/Night Book (USA).exe"
     ],
     "steam": {
         "appid": "1477920",

@@ -3,7 +3,7 @@
         "Galak-Z (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Galak-Z (USA).exe"
+        "SETUP_MAIN_ROOT/Galak-Z (USA).exe"
     ],
     "main_game_exe": [
         "Galak-Z/Galak-Z.exe"

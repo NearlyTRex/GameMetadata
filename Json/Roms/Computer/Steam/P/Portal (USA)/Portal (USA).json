@@ -3,7 +3,7 @@
         "Portal (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Portal (USA).exe"
+        "SETUP_MAIN_ROOT/Portal (USA).exe"
     ],
     "steam": {
         "appid": "400",

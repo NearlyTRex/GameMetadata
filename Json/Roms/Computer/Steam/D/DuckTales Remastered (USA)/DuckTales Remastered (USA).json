@@ -3,7 +3,7 @@
         "DuckTales Remastered (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/DuckTales Remastered (USA).exe"
+        "SETUP_MAIN_ROOT/DuckTales Remastered (USA).exe"
     ],
     "steam": {
         "appid": "237630",
@@ -14,8 +14,8 @@
         "installdir": "DuckTales Remastered",
         "name": "DuckTales Remastered",
         "paths": [
-            "STEAMROOT/steamapps/common/DuckTales Remastered/data/engine.ini",
-            "USERPROFILE/AppData/Roaming/Wayforward Technologies/DuckTales"
+            "STORE_INSTALL_DIR/steamapps/common/DuckTales Remastered/data/engine.ini",
+            "USER_PROFILE_DIR/AppData/Roaming/Wayforward Technologies/DuckTales"
         ]
     },
     "transform_file": "DuckTales Remastered (USA).exe"

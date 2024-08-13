@@ -3,7 +3,7 @@
         "Max Gentlemen (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Max Gentlemen (USA).exe"
+        "SETUP_MAIN_ROOT/Max Gentlemen (USA).exe"
     ],
     "steam": {
         "appid": "257710",

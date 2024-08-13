@@ -5,7 +5,7 @@
         "Dead Island - Riptide - Definitive Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dead Island - Riptide - Definitive Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Dead Island - Riptide - Definitive Edition (USA).exe"
     ],
     "steam": {
         "appid": "383180",
@@ -16,7 +16,7 @@
         "installdir": "DIRDE",
         "name": "Dead Island Riptide Definitive Edition",
         "paths": [
-            "USERPROFILE/Documents/DeadIslandRiptideDE/out/settings"
+            "USER_PROFILE_DIR/Documents/DeadIslandRiptideDE/out/settings"
         ]
     },
     "transform_file": "Dead Island - Riptide - Definitive Edition (USA).exe"

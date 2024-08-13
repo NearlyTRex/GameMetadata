@@ -3,7 +3,7 @@
         "Helltaker (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Helltaker (USA).exe"
+        "SETUP_MAIN_ROOT/Helltaker (USA).exe"
     ],
     "steam": {
         "appid": "1289310",

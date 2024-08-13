@@ -3,7 +3,7 @@
         "Perfect Vermin (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Perfect Vermin (USA).exe"
+        "SETUP_MAIN_ROOT/Perfect Vermin (USA).exe"
     ],
     "steam": {
         "appid": "1416130",

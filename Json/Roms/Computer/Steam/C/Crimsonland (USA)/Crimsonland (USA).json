@@ -3,7 +3,7 @@
         "Crimsonland (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Crimsonland (USA).exe"
+        "SETUP_MAIN_ROOT/Crimsonland (USA).exe"
     ],
     "main_game_exe": [
         "Crimsonland/Crimsonland.exe"
@@ -20,7 +20,7 @@
         "installdir": "Crimsonland",
         "name": "Crimsonland",
         "paths": [
-            "USERPROFILE/AppData/Roaming/10tons/Crimsonland/profiles"
+            "USER_PROFILE_DIR/AppData/Roaming/10tons/Crimsonland/profiles"
         ]
     },
     "transform_file": "Crimsonland (USA).exe"

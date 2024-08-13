@@ -3,7 +3,7 @@
         "Sonic CD (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sonic CD (USA).exe"
+        "SETUP_MAIN_ROOT/Sonic CD (USA).exe"
     ],
     "steam": {
         "appid": "200940",

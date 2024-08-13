@@ -3,7 +3,7 @@
         "Garry's Mod (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Garry's Mod (USA).exe"
+        "SETUP_MAIN_ROOT/Garry's Mod (USA).exe"
     ],
     "steam": {
         "appid": "4000",

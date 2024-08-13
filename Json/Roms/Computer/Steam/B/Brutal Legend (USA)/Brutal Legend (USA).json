@@ -18,8 +18,8 @@
         "installdir": "BrutalLegend",
         "name": "Br\u00fctal Legend",
         "paths": [
-            "USERPROFILE/AppData/Roaming/Doublefine/BrutalLegend/*.sav",
-            "USERPROFILE/AppData/Roaming/Doublefine/BrutalLegend/screen.dat"
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/BrutalLegend/*.sav",
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/BrutalLegend/screen.dat"
         ]
     },
     "transform_file": "Brutal Legend (USA).7z.001"

@@ -3,7 +3,7 @@
         "Doodle God (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Doodle God (USA).exe"
+        "SETUP_MAIN_ROOT/Doodle God (USA).exe"
     ],
     "steam": {
         "appid": "348360",
@@ -17,8 +17,8 @@
         ],
         "name": "Doodle God",
         "paths": [
-            "STEAMROOT/steamapps/common/Doodle God/temp",
-            "STEAMROOT/steamapps/common/Doodle God/temp/config.txt"
+            "STORE_INSTALL_DIR/steamapps/common/Doodle God/temp",
+            "STORE_INSTALL_DIR/steamapps/common/Doodle God/temp/config.txt"
         ]
     },
     "transform_file": "Doodle God (USA).exe"

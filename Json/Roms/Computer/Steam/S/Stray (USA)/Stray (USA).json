@@ -5,7 +5,7 @@
         "Stray (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stray (USA).exe"
+        "SETUP_MAIN_ROOT/Stray (USA).exe"
     ],
     "steam": {
         "appid": "1332010",

@@ -5,7 +5,7 @@
         "Dead Island - Definitive Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dead Island - Definitive Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Dead Island - Definitive Edition (USA).exe"
     ],
     "main_game_exe": [
         "Dead Island - Definitive Edition/DeadIslandGame.exe"
@@ -32,7 +32,7 @@
         "installdir": "DIDE",
         "name": "Dead Island Definitive Edition",
         "paths": [
-            "USERPROFILE/Documents/DeadIslandDE/out/settings"
+            "USER_PROFILE_DIR/Documents/DeadIslandDE/out/settings"
         ]
     },
     "transform_file": "Dead Island - Definitive Edition (USA).exe"

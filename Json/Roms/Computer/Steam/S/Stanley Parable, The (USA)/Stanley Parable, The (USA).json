@@ -3,7 +3,7 @@
         "Stanley Parable, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stanley Parable, The (USA).exe"
+        "SETUP_MAIN_ROOT/Stanley Parable, The (USA).exe"
     ],
     "steam": {
         "appid": "221910",

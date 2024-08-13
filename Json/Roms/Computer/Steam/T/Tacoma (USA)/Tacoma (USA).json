@@ -3,7 +3,7 @@
         "Tacoma (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tacoma (USA).exe"
+        "SETUP_MAIN_ROOT/Tacoma (USA).exe"
     ],
     "steam": {
         "appid": "343860",

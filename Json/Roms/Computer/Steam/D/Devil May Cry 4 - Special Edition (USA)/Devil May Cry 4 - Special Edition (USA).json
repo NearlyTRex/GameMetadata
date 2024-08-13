@@ -9,7 +9,7 @@
         "Devil May Cry 4 - Special Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Devil May Cry 4 - Special Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Devil May Cry 4 - Special Edition (USA).exe"
     ],
     "steam": {
         "appid": "329050",
@@ -20,8 +20,8 @@
         "installdir": "Special Edition",
         "name": "Devil May Cry 4 Special Edition",
         "paths": [
-            "USERPROFILE/Documents/CAPCOM/DEVILMAYCRY4SPECIALEDITION",
-            "USERPROFILE/AppData/Local/CAPCOM/DEVILMAYCRY4SPECIALEDITION"
+            "USER_PROFILE_DIR/Documents/CAPCOM/DEVILMAYCRY4SPECIALEDITION",
+            "USER_PROFILE_DIR/AppData/Local/CAPCOM/DEVILMAYCRY4SPECIALEDITION"
         ]
     },
     "transform_file": "Devil May Cry 4 - Special Edition (USA).exe"

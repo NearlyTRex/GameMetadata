@@ -27,8 +27,8 @@
         "installdir": "Castlevania Anniversary Collection",
         "name": "Castlevania Anniversary Collection",
         "paths": [
-            "USERPROFILE/AppData/Roaming/Castlevania Anniversary Collection/savedata",
-            "USERPROFILE/AppData/Roaming/Castlevania Anniversary Collection/savedata/savecfg.txt"
+            "USER_PROFILE_DIR/AppData/Roaming/Castlevania Anniversary Collection/savedata",
+            "USER_PROFILE_DIR/AppData/Roaming/Castlevania Anniversary Collection/savedata/savecfg.txt"
         ]
     },
     "transform_file": "Castlevania Anniversary Collection (USA).7z"

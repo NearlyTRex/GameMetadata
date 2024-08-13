@@ -3,7 +3,7 @@
         "Game Dev Studio (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Game Dev Studio (USA).exe"
+        "SETUP_MAIN_ROOT/Game Dev Studio (USA).exe"
     ],
     "main_game_exe": [
         "Game Dev Studio/game_dev_studio.exe"

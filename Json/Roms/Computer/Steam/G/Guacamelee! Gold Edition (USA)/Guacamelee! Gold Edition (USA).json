@@ -3,7 +3,7 @@
         "Guacamelee! Gold Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Guacamelee! Gold Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Guacamelee! Gold Edition (USA).exe"
     ],
     "main_game_exe": [
         "Guacamelee! Gold Edition/Guac.exe"

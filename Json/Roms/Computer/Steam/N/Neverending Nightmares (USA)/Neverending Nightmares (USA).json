@@ -3,7 +3,7 @@
         "Neverending Nightmares (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Neverending Nightmares (USA).exe"
+        "SETUP_MAIN_ROOT/Neverending Nightmares (USA).exe"
     ],
     "main_game_exe": [
         "Neverending Nightmares/nightmare.exe"

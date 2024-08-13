@@ -12,7 +12,7 @@
         "Sims 3, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sims 3, The (USA).exe"
+        "SETUP_MAIN_ROOT/Sims 3, The (USA).exe"
     ],
     "steam": {
         "appid": "47890",

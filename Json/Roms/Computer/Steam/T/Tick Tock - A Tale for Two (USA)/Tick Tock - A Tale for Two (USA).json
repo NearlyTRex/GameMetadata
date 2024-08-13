@@ -3,7 +3,7 @@
         "Tick Tock - A Tale for Two (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tick Tock - A Tale for Two (USA).exe"
+        "SETUP_MAIN_ROOT/Tick Tock - A Tale for Two (USA).exe"
     ],
     "steam": {
         "appid": "790740",

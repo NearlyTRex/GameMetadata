@@ -3,7 +3,7 @@
         "Dead Cells (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dead Cells (USA).exe"
+        "SETUP_MAIN_ROOT/Dead Cells (USA).exe"
     ],
     "main_game_exe": [
         "Dead Cells/deadcells.exe"
@@ -30,9 +30,9 @@
         "installdir": "Dead Cells",
         "name": "Dead Cells",
         "paths": [
-            "STEAMROOT/steamapps/common/Dead Cells/save/customGameData_*.json",
-            "STEAMROOT/steamapps/common/Dead Cells/save/dc_options.json",
-            "STEAMROOT/steamapps/common/Dead Cells/save/user_*.dat"
+            "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save/customGameData_*.json",
+            "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save/dc_options.json",
+            "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save/user_*.dat"
         ]
     },
     "transform_file": "Dead Cells (USA).exe"

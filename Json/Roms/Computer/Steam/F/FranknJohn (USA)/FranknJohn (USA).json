@@ -3,7 +3,7 @@
         "FranknJohn (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/FranknJohn (USA).exe"
+        "SETUP_MAIN_ROOT/FranknJohn (USA).exe"
     ],
     "main_game_exe": [
         "FranknJohn/FnJ_Arena_1.1/FNJArenaDemo.exe",

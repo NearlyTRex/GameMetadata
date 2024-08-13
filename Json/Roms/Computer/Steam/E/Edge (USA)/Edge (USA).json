@@ -3,7 +3,7 @@
         "Edge (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Edge (USA).exe"
+        "SETUP_MAIN_ROOT/Edge (USA).exe"
     ],
     "main_game_exe": [
         "Edge/edge.exe"

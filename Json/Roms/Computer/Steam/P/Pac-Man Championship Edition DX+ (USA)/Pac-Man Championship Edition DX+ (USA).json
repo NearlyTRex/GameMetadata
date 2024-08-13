@@ -3,7 +3,7 @@
         "Pac-Man Championship Edition DX+ (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pac-Man Championship Edition DX+ (USA).exe"
+        "SETUP_MAIN_ROOT/Pac-Man Championship Edition DX+ (USA).exe"
     ],
     "steam": {
         "appid": "236450",

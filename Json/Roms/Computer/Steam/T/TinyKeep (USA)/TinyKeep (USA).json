@@ -3,7 +3,7 @@
         "TinyKeep (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/TinyKeep (USA).exe"
+        "SETUP_MAIN_ROOT/TinyKeep (USA).exe"
     ],
     "steam": {
         "appid": "278620",

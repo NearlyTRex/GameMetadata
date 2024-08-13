@@ -3,7 +3,7 @@
         "Crypt of the NecroDancer (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Crypt of the NecroDancer (USA).exe"
+        "SETUP_MAIN_ROOT/Crypt of the NecroDancer (USA).exe"
     ],
     "main_game_exe": [
         "Crypt of the NecroDancer/Necrodancer64/Necrodancer.exe"
@@ -30,7 +30,7 @@
         "installdir": "Crypt of the NecroDancer",
         "name": "Crypt of the NecroDancer",
         "paths": [
-            "STEAMROOT/steamapps/common/Crypt of the NecroDancer/data/save_data.xml"
+            "STORE_INSTALL_DIR/steamapps/common/Crypt of the NecroDancer/data/save_data.xml"
         ]
     },
     "transform_file": "Crypt of the NecroDancer (USA).exe"

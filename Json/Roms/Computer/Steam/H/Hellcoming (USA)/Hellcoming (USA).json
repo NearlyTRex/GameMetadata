@@ -3,7 +3,7 @@
         "Hellcoming (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hellcoming (USA).exe"
+        "SETUP_MAIN_ROOT/Hellcoming (USA).exe"
     ],
     "steam": {
         "appid": "891360",

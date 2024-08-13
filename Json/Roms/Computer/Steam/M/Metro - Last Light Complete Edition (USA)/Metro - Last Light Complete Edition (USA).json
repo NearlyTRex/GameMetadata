@@ -5,7 +5,7 @@
         "Metro - Last Light Complete Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Metro - Last Light Complete Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Metro - Last Light Complete Edition (USA).exe"
     ],
     "steam": {
         "appid": "43160",

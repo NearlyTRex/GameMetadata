@@ -5,7 +5,7 @@
         "LEGO The Lord of the Rings (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/LEGO The Lord of the Rings (USA).exe"
+        "SETUP_MAIN_ROOT/LEGO The Lord of the Rings (USA).exe"
     ],
     "steam": {
         "appid": "214510",

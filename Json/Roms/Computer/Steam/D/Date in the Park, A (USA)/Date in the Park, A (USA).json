@@ -3,7 +3,7 @@
         "Date in the Park, A (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Date in the Park, A (USA).exe"
+        "SETUP_MAIN_ROOT/Date in the Park, A (USA).exe"
     ],
     "steam": {
         "appid": "468530",
@@ -13,8 +13,8 @@
         "installdir": "A Date in the Park",
         "name": "A Date in the Park",
         "paths": [
-            "USERPROFILE/Saved Games/A Date in the Park/acsetup.cfg",
-            "USERPROFILE/Saved Games/A Date in the Park/agssave.*"
+            "USER_PROFILE_DIR/Saved Games/A Date in the Park/acsetup.cfg",
+            "USER_PROFILE_DIR/Saved Games/A Date in the Park/agssave.*"
         ]
     },
     "transform_file": "Date in the Park, A (USA).exe"

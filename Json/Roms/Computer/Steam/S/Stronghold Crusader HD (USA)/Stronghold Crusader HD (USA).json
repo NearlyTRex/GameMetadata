@@ -3,7 +3,7 @@
         "Stronghold Crusader HD (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stronghold Crusader HD (USA).exe"
+        "SETUP_MAIN_ROOT/Stronghold Crusader HD (USA).exe"
     ],
     "steam": {
         "appid": "40970",

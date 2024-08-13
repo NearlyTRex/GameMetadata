@@ -3,7 +3,7 @@
         "Legacy of Kain - Defiance (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Legacy of Kain - Defiance (USA).exe"
+        "SETUP_MAIN_ROOT/Legacy of Kain - Defiance (USA).exe"
     ],
     "steam": {
         "appid": "224300",

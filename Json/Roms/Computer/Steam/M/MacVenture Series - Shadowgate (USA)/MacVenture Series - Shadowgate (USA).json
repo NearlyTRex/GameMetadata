@@ -3,7 +3,7 @@
         "MacVenture Series - Shadowgate (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/MacVenture Series - Shadowgate (USA).exe"
+        "SETUP_MAIN_ROOT/MacVenture Series - Shadowgate (USA).exe"
     ],
     "steam": {
         "appid": "343800",

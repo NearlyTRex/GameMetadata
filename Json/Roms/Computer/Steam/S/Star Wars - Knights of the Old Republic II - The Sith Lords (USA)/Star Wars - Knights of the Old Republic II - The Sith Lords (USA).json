@@ -3,7 +3,7 @@
         "Star Wars - Knights of the Old Republic II - The Sith Lords (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).exe"
+        "SETUP_MAIN_ROOT/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).exe"
     ],
     "steam": {
         "appid": "208580",

@@ -6,7 +6,7 @@
         "I Saw Black Clouds (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/I Saw Black Clouds (USA).exe"
+        "SETUP_MAIN_ROOT/I Saw Black Clouds (USA).exe"
     ],
     "main_game_exe": [
         "I Saw Black Clouds/ISawBlackClouds.exe"

@@ -3,7 +3,7 @@
         "Flinthook (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Flinthook (USA).exe"
+        "SETUP_MAIN_ROOT/Flinthook (USA).exe"
     ],
     "steam": {
         "appid": "401710",

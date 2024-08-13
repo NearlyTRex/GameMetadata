@@ -5,7 +5,7 @@
         "Deluded (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Deluded (USA).exe"
+        "SETUP_MAIN_ROOT/Deluded (USA).exe"
     ],
     "steam": {
         "appid": "1770660",

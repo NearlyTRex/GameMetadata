@@ -3,7 +3,7 @@
         "Headsnatchers (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Headsnatchers (USA).exe"
+        "SETUP_MAIN_ROOT/Headsnatchers (USA).exe"
     ],
     "steam": {
         "appid": "797410",

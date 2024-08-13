@@ -3,7 +3,7 @@
         "Heaven Will Be Mine (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Heaven Will Be Mine (USA).exe"
+        "SETUP_MAIN_ROOT/Heaven Will Be Mine (USA).exe"
     ],
     "steam": {
         "appid": "836450",

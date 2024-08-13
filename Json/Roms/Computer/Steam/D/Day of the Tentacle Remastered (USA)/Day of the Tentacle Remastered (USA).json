@@ -3,7 +3,7 @@
         "Day of the Tentacle Remastered (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Day of the Tentacle Remastered (USA).exe"
+        "SETUP_MAIN_ROOT/Day of the Tentacle Remastered (USA).exe"
     ],
     "main_game_exe": [
         "Day of the Tentacle Remastered/Dott.exe"
@@ -20,9 +20,9 @@
         "installdir": "Day of the Tentacle Remastered",
         "name": "Day of the Tentacle Remastered",
         "paths": [
-            "STEAMROOT/steamapps/common/Day of the Tentacle Remastered/savedata",
-            "STEAMROOT/steamapps/common/Day of the Tentacle Remastered/savedata/settings.ini",
-            "USERPROFILE/AppData/Roaming/Doublefine/DayOfTheTentacle"
+            "STORE_INSTALL_DIR/steamapps/common/Day of the Tentacle Remastered/savedata",
+            "STORE_INSTALL_DIR/steamapps/common/Day of the Tentacle Remastered/savedata/settings.ini",
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/DayOfTheTentacle"
         ]
     },
     "sync": {

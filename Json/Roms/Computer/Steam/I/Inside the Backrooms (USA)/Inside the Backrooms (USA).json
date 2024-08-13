@@ -3,7 +3,7 @@
         "Inside the Backrooms (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Inside the Backrooms (USA).exe"
+        "SETUP_MAIN_ROOT/Inside the Backrooms (USA).exe"
     ],
     "steam": {
         "appid": "1987080",

@@ -3,7 +3,7 @@
         "Stikbold! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stikbold! (USA).exe"
+        "SETUP_MAIN_ROOT/Stikbold! (USA).exe"
     ],
     "steam": {
         "appid": "429330",

@@ -3,7 +3,7 @@
         "Double Dragon Trilogy (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Double Dragon Trilogy (USA).exe"
+        "SETUP_MAIN_ROOT/Double Dragon Trilogy (USA).exe"
     ],
     "steam": {
         "appid": "314150",
@@ -13,7 +13,7 @@
         "installdir": "Double Dragon Trilogy",
         "name": "Double Dragon Trilogy",
         "paths": [
-            "STEAMROOT/userdata/STEAMUSERID/314150/remote"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/314150/remote"
         ]
     },
     "transform_file": "Double Dragon Trilogy (USA).exe"

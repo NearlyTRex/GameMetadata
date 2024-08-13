@@ -11,8 +11,8 @@
         "installdir": "Baldur's Gate Enhanced Edition",
         "name": "Baldur's Gate: Enhanced Edition",
         "paths": [
-            "USERPROFILE/Documents/Baldur's Gate - Enhanced Edition/Baldur.lua",
-            "USERPROFILE/Documents/Baldur's Gate - Enhanced Edition/save"
+            "USER_PROFILE_DIR/Documents/Baldur's Gate - Enhanced Edition/Baldur.lua",
+            "USER_PROFILE_DIR/Documents/Baldur's Gate - Enhanced Edition/save"
         ]
     },
     "transform_file": "Baldur's Gate - Enhanced Edition (USA).7z.001"

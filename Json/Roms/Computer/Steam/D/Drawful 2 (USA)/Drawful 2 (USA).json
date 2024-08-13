@@ -3,7 +3,7 @@
         "Drawful 2 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Drawful 2 (USA).exe"
+        "SETUP_MAIN_ROOT/Drawful 2 (USA).exe"
     ],
     "steam": {
         "appid": "442070",
@@ -14,7 +14,7 @@
         "installdir": "Drawful 2",
         "name": "Drawful 2",
         "paths": [
-            "USERPROFILE/AppData/Local/Jackbox Games/Drawful 2/UserData.sav"
+            "USER_PROFILE_DIR/AppData/Local/Jackbox Games/Drawful 2/UserData.sav"
         ]
     },
     "transform_file": "Drawful 2 (USA).exe"

@@ -12,7 +12,7 @@
         "Dark Pictures Anthology, The - The Devil In Me (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dark Pictures Anthology, The - The Devil In Me (USA).exe"
+        "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - The Devil In Me (USA).exe"
     ],
     "main_game_exe": [
         "The Dark Pictures Anthology - The Devil In Me/TheDevilInMe.exe"
@@ -44,8 +44,8 @@
         "installdir": "The Dark Pictures Anthology - The Devil In Me",
         "name": "The Dark Pictures Anthology: The Devil in Me",
         "paths": [
-            "USERPROFILE/AppData/Local/TheDevilInMe/Saved/Config/WindowsNoEditor",
-            "USERPROFILE/AppData/Local/TheDevilInMe/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/TheDevilInMe/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/TheDevilInMe/Saved/SaveGames"
         ]
     },
     "transform_file": "Dark Pictures Anthology, The - The Devil In Me (USA).exe"

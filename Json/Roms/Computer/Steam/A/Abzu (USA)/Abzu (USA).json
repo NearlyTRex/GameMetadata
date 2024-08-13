@@ -11,8 +11,8 @@
         "installdir": "ABZU",
         "name": "ABZ\u00db",
         "paths": [
-            "USERPROFILE/AppData/Local/AbzuGame/Saved/Config/WindowsNoEditor",
-            "USERPROFILE/AppData/Local/AbzuGame/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/AbzuGame/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/AbzuGame/Saved/SaveGames"
         ]
     },
     "transform_file": "Abzu (USA).7z"

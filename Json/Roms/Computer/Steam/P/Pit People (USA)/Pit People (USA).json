@@ -3,7 +3,7 @@
         "Pit People (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pit People (USA).exe"
+        "SETUP_MAIN_ROOT/Pit People (USA).exe"
     ],
     "main_game_exe": [
         "Pit People/pitpeople.exe"

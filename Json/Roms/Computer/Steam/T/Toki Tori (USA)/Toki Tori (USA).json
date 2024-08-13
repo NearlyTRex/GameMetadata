@@ -3,7 +3,7 @@
         "Toki Tori (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Toki Tori (USA).exe"
+        "SETUP_MAIN_ROOT/Toki Tori (USA).exe"
     ],
     "steam": {
         "appid": "38700",

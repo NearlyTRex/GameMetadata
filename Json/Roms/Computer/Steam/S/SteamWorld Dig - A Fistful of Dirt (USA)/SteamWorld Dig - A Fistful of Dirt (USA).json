@@ -3,7 +3,7 @@
         "SteamWorld Dig - A Fistful of Dirt (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/SteamWorld Dig - A Fistful of Dirt (USA).exe"
+        "SETUP_MAIN_ROOT/SteamWorld Dig - A Fistful of Dirt (USA).exe"
     ],
     "main_game_exe": [
         "SteamWorld Dig - A Fistful of Dirt/SteamWorldDig.exe"

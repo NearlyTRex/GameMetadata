@@ -3,7 +3,7 @@
         "She Sees Red (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/She Sees Red (USA).exe"
+        "SETUP_MAIN_ROOT/She Sees Red (USA).exe"
     ],
     "steam": {
         "appid": "1081510",

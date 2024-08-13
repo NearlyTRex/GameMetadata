@@ -6,7 +6,7 @@
         "Sons Of The Forest (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sons Of The Forest (USA).exe"
+        "SETUP_MAIN_ROOT/Sons Of The Forest (USA).exe"
     ],
     "steam": {
         "appid": "1326470",

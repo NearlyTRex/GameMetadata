@@ -3,7 +3,7 @@
         "Super Win the Game (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Super Win the Game (USA).exe"
+        "SETUP_MAIN_ROOT/Super Win the Game (USA).exe"
     ],
     "steam": {
         "appid": "310700",

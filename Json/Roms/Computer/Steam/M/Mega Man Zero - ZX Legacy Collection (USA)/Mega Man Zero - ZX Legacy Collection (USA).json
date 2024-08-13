@@ -3,7 +3,7 @@
         "Mega Man Zero - ZX Legacy Collection (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Mega Man Zero - ZX Legacy Collection (USA).exe"
+        "SETUP_MAIN_ROOT/Mega Man Zero - ZX Legacy Collection (USA).exe"
     ],
     "steam": {
         "appid": "999020",

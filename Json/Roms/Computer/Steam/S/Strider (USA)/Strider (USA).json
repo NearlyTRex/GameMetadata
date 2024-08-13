@@ -3,7 +3,7 @@
         "Strider (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Strider (USA).exe"
+        "SETUP_MAIN_ROOT/Strider (USA).exe"
     ],
     "steam": {
         "appid": "235210",

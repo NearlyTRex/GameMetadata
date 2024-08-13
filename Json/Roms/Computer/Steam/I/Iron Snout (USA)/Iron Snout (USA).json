@@ -3,7 +3,7 @@
         "Iron Snout (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Iron Snout (USA).exe"
+        "SETUP_MAIN_ROOT/Iron Snout (USA).exe"
     ],
     "steam": {
         "appid": "424280",

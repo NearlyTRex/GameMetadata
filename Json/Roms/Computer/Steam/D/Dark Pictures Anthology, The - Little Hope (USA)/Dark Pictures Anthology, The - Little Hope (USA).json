@@ -10,7 +10,7 @@
         "Dark Pictures Anthology, The - Little Hope (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dark Pictures Anthology, The - Little Hope (USA).exe"
+        "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - Little Hope (USA).exe"
     ],
     "main_game_exe": [
         "The Dark Pictures Anthology - Little Hope/LittleHope.exe"
@@ -42,8 +42,8 @@
         "installdir": "The Dark Pictures Anthology - Little Hope",
         "name": "The Dark Pictures Anthology: Little Hope",
         "paths": [
-            "USERPROFILE/AppData/Local/LittleHope/Saved/Config/WindowsNoEditor",
-            "USERPROFILE/AppData/Local/LittleHope/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/LittleHope/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/LittleHope/Saved/SaveGames"
         ]
     },
     "transform_file": "Dark Pictures Anthology, The - Little Hope (USA).exe"

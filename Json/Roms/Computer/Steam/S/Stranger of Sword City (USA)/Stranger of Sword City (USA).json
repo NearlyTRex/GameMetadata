@@ -3,7 +3,7 @@
         "Stranger of Sword City (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stranger of Sword City (USA).exe"
+        "SETUP_MAIN_ROOT/Stranger of Sword City (USA).exe"
     ],
     "main_game_exe": [
         "Stranger of Sword City/StrangerOfSwordCity.exe"

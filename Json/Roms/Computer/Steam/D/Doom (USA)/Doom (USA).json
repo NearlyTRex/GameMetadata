@@ -18,7 +18,7 @@
         "Doom (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Doom (USA).exe"
+        "SETUP_MAIN_ROOT/Doom (USA).exe"
     ],
     "steam": {
         "appid": "379720",
@@ -29,9 +29,9 @@
         "installdir": "DOOM",
         "name": "DOOM",
         "paths": [
-            "USERPROFILE/Saved Games/id Software/DOOM/base/DOOMConfig.cfg",
-            "USERPROFILE/Saved Games/id Software/DOOM/base/savegame",
-            "USERPROFILE/Saved Games/id Software/DOOM/base/savegame.user"
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM/base/DOOMConfig.cfg",
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM/base/savegame",
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM/base/savegame.user"
         ]
     },
     "transform_file": "Doom (USA).exe"

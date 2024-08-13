@@ -3,7 +3,7 @@
         "Monster Prom (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Monster Prom (USA).exe"
+        "SETUP_MAIN_ROOT/Monster Prom (USA).exe"
     ],
     "main_game_exe": [
         "Monster Prom/MonsterProm.exe"

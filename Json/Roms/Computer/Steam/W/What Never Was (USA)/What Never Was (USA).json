@@ -3,7 +3,7 @@
         "What Never Was (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/What Never Was (USA).exe"
+        "SETUP_MAIN_ROOT/What Never Was (USA).exe"
     ],
     "steam": {
         "appid": "866440",

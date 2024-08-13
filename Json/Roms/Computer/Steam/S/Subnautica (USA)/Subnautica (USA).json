@@ -3,7 +3,7 @@
         "Subnautica (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Subnautica (USA).exe"
+        "SETUP_MAIN_ROOT/Subnautica (USA).exe"
     ],
     "steam": {
         "appid": "264710",

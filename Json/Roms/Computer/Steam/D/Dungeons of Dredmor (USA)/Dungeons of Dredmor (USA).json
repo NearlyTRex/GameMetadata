@@ -3,7 +3,7 @@
         "Dungeons of Dredmor (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dungeons of Dredmor (USA).exe"
+        "SETUP_MAIN_ROOT/Dungeons of Dredmor (USA).exe"
     ],
     "main_game_exe": [
         "Dungeons of Dredmor/Dungeons of Dredmor.exe"
@@ -18,7 +18,7 @@
         "installdir": "Dungeons of Dredmor",
         "name": "Dungeons of Dredmor",
         "paths": [
-            "USERPROFILE/Documents/Gaslamp Games/Dungeons of Dredmor"
+            "USER_PROFILE_DIR/Documents/Gaslamp Games/Dungeons of Dredmor"
         ]
     },
     "transform_file": "Dungeons of Dredmor (USA).exe"

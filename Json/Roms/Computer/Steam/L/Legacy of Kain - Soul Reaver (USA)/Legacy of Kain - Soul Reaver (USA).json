@@ -3,7 +3,7 @@
         "Legacy of Kain - Soul Reaver (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Legacy of Kain - Soul Reaver (USA).exe"
+        "SETUP_MAIN_ROOT/Legacy of Kain - Soul Reaver (USA).exe"
     ],
     "steam": {
         "appid": "224920",

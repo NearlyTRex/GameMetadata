@@ -3,7 +3,7 @@
         "We Were Here (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/We Were Here (USA).exe"
+        "SETUP_MAIN_ROOT/We Were Here (USA).exe"
     ],
     "main_game_exe": [
         "We Were Here/We Were Here.exe"

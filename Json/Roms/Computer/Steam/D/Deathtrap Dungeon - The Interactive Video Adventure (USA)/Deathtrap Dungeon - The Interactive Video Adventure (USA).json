@@ -5,7 +5,7 @@
         "Deathtrap Dungeon - The Interactive Video Adventure (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Deathtrap Dungeon - The Interactive Video Adventure (USA).exe"
+        "SETUP_MAIN_ROOT/Deathtrap Dungeon - The Interactive Video Adventure (USA).exe"
     ],
     "steam": {
         "appid": "1191940",

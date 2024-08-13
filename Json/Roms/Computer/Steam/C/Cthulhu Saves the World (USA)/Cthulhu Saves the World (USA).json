@@ -3,7 +3,7 @@
         "Cthulhu Saves the World (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cthulhu Saves the World (USA).exe"
+        "SETUP_MAIN_ROOT/Cthulhu Saves the World (USA).exe"
     ],
     "main_game_exe": [
         "Cthulhu Saves the World/CSTW.exe"
@@ -30,7 +30,7 @@
         "installdir": "Cthulhu Saves the World",
         "name": "Cthulhu Saves the World ",
         "paths": [
-            "USERPROFILE/Documents/SavedGames/CSTW"
+            "USER_PROFILE_DIR/Documents/SavedGames/CSTW"
         ]
     },
     "transform_file": "Cthulhu Saves the World (USA).exe"

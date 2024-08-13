@@ -6,7 +6,7 @@
         "Song of Horror (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Song of Horror (USA).exe"
+        "SETUP_MAIN_ROOT/Song of Horror (USA).exe"
     ],
     "main_game_exe": [
         "Song of Horror/SongOfHorror.exe"

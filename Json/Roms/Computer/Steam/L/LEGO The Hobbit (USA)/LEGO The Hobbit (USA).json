@@ -5,7 +5,7 @@
         "LEGO The Hobbit (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/LEGO The Hobbit (USA).exe"
+        "SETUP_MAIN_ROOT/LEGO The Hobbit (USA).exe"
     ],
     "steam": {
         "appid": "285160",

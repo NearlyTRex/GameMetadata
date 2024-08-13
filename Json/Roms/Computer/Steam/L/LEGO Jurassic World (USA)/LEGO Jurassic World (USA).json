@@ -7,7 +7,7 @@
         "LEGO Jurassic World (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/LEGO Jurassic World (USA).exe"
+        "SETUP_MAIN_ROOT/LEGO Jurassic World (USA).exe"
     ],
     "steam": {
         "appid": "352400",

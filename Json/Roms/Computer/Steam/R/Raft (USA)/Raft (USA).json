@@ -3,7 +3,7 @@
         "Raft (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Raft (USA).exe"
+        "SETUP_MAIN_ROOT/Raft (USA).exe"
     ],
     "main_game_exe": [
         "Raft/Raft.exe"

@@ -18,7 +18,7 @@
         "Sims 4, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sims 4, The (USA).exe"
+        "SETUP_MAIN_ROOT/Sims 4, The (USA).exe"
     ],
     "main_game_exe": [
         "Game/Bin/TS4_x64.exe"

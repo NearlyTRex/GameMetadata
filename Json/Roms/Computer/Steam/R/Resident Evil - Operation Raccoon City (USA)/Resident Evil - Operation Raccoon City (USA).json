@@ -6,7 +6,7 @@
         "Resident Evil - Operation Raccoon City (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil - Operation Raccoon City (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil - Operation Raccoon City (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil - Operation Raccoon City/RaccoonCity.exe"

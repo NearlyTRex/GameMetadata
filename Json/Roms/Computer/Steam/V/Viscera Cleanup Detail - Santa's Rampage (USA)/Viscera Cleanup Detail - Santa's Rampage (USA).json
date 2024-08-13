@@ -3,7 +3,7 @@
         "Viscera Cleanup Detail - Santa's Rampage (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Viscera Cleanup Detail - Santa's Rampage (USA).exe"
+        "SETUP_MAIN_ROOT/Viscera Cleanup Detail - Santa's Rampage (USA).exe"
     ],
     "steam": {
         "appid": "265210",

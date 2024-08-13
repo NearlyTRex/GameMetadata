@@ -3,7 +3,7 @@
         "Grim Fandango Remastered (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Grim Fandango Remastered (USA).exe"
+        "SETUP_MAIN_ROOT/Grim Fandango Remastered (USA).exe"
     ],
     "main_game_exe": [
         "Grim Fandango Remastered/GrimFandango.exe"

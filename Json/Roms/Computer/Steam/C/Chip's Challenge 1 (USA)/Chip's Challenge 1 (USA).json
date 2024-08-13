@@ -7,10 +7,10 @@
         "installdir": "Chip's Challenge 1",
         "name": "Chip's Challenge 1",
         "paths": [
-            "STEAMROOT/steamapps/common/Chip's Challenge 1/data/games/save.c2l",
-            "STEAMROOT/steamapps/common/Chip's Challenge 1/data/options.txt",
-            "STEAMROOT/steamapps/common/Chip's Challenge 1/data/saves",
-            "USERPROFILE/AppData/Local/VirtualStore/entpack.ini"
+            "STORE_INSTALL_DIR/steamapps/common/Chip's Challenge 1/data/games/save.c2l",
+            "STORE_INSTALL_DIR/steamapps/common/Chip's Challenge 1/data/options.txt",
+            "STORE_INSTALL_DIR/steamapps/common/Chip's Challenge 1/data/saves",
+            "USER_PROFILE_DIR/AppData/Local/VirtualStore/entpack.ini"
         ]
     }
 }

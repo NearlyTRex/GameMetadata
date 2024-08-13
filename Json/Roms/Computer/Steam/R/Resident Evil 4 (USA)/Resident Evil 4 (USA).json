@@ -6,7 +6,7 @@
         "Resident Evil 4 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil 4 (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil 4 (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil 4/Bin32/bio4.exe"

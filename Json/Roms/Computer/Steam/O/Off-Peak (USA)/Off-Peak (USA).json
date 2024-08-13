@@ -3,7 +3,7 @@
         "Off-Peak (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Off-Peak (USA).exe"
+        "SETUP_MAIN_ROOT/Off-Peak (USA).exe"
     ],
     "steam": {
         "appid": "467360",

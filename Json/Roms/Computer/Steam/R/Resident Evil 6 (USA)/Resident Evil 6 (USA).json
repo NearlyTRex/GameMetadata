@@ -7,7 +7,7 @@
         "Resident Evil 6 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil 6 (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil 6 (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil 6/BH6.exe"

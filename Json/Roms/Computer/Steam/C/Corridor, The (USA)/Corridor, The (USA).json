@@ -3,7 +3,7 @@
         "Corridor, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Corridor, The (USA).exe"
+        "SETUP_MAIN_ROOT/Corridor, The (USA).exe"
     ],
     "steam": {
         "appid": "1347030",

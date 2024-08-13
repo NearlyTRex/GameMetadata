@@ -3,7 +3,7 @@
         "Halcyon 6 - Starbase Commander (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Halcyon 6 - Starbase Commander (USA).exe"
+        "SETUP_MAIN_ROOT/Halcyon 6 - Starbase Commander (USA).exe"
     ],
     "steam": {
         "appid": "371200",

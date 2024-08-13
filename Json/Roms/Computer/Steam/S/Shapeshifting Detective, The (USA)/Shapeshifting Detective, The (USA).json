@@ -5,7 +5,7 @@
         "Shapeshifting Detective, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Shapeshifting Detective, The (USA).exe"
+        "SETUP_MAIN_ROOT/Shapeshifting Detective, The (USA).exe"
     ],
     "main_game_exe": [
         "The Shapeshifting Detective/ShapeshiftingDetective.exe"

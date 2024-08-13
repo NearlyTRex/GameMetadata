@@ -3,7 +3,7 @@
         "Longing, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Longing, The (USA).exe"
+        "SETUP_MAIN_ROOT/Longing, The (USA).exe"
     ],
     "steam": {
         "appid": "893850",

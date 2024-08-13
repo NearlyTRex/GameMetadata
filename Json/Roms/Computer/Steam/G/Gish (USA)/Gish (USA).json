@@ -3,7 +3,7 @@
         "Gish (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Gish (USA).exe"
+        "SETUP_MAIN_ROOT/Gish (USA).exe"
     ],
     "steam": {
         "appid": "9500",

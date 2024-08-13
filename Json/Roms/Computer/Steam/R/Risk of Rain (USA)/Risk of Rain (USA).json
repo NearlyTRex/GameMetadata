@@ -3,7 +3,7 @@
         "Risk of Rain (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Risk of Rain (USA).exe"
+        "SETUP_MAIN_ROOT/Risk of Rain (USA).exe"
     ],
     "main_game_exe": [
         "Risk of Rain/Risk of Rain.exe"

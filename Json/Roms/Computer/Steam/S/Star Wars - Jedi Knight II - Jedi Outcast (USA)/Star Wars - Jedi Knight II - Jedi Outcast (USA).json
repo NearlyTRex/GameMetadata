@@ -3,7 +3,7 @@
         "Star Wars - Jedi Knight II - Jedi Outcast (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Star Wars - Jedi Knight II - Jedi Outcast (USA).exe"
+        "SETUP_MAIN_ROOT/Star Wars - Jedi Knight II - Jedi Outcast (USA).exe"
     ],
     "steam": {
         "appid": "6030",

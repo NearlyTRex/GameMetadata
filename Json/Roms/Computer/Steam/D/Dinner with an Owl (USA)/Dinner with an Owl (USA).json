@@ -3,7 +3,7 @@
         "Dinner with an Owl (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dinner with an Owl (USA).exe"
+        "SETUP_MAIN_ROOT/Dinner with an Owl (USA).exe"
     ],
     "steam": {
         "appid": "1567420",

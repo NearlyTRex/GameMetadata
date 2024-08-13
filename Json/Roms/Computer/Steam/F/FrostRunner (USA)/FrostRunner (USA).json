@@ -3,7 +3,7 @@
         "FrostRunner (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/FrostRunner (USA).exe"
+        "SETUP_MAIN_ROOT/FrostRunner (USA).exe"
     ],
     "steam": {
         "appid": "934840",

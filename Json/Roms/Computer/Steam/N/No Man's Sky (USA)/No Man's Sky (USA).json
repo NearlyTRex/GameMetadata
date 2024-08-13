@@ -6,7 +6,7 @@
         "No Man's Sky (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/No Man's Sky (USA).exe"
+        "SETUP_MAIN_ROOT/No Man's Sky (USA).exe"
     ],
     "main_game_exe": [
         "No Man's Sky/Binaries/NMS.exe"

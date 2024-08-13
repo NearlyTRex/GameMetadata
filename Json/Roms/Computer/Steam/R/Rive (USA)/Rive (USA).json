@@ -3,7 +3,7 @@
         "Rive (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rive (USA).exe"
+        "SETUP_MAIN_ROOT/Rive (USA).exe"
     ],
     "main_game_exe": [
         "Rive/rive.exe"

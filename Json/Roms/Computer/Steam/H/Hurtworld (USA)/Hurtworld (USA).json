@@ -3,7 +3,7 @@
         "Hurtworld (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hurtworld (USA).exe"
+        "SETUP_MAIN_ROOT/Hurtworld (USA).exe"
     ],
     "main_game_exe": [
         "Hurtworld/Hurtworld.exe",

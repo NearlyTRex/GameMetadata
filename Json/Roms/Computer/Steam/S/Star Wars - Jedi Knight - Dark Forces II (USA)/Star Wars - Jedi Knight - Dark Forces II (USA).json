@@ -3,7 +3,7 @@
         "Star Wars - Jedi Knight - Dark Forces II (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Star Wars - Jedi Knight - Dark Forces II (USA).exe"
+        "SETUP_MAIN_ROOT/Star Wars - Jedi Knight - Dark Forces II (USA).exe"
     ],
     "steam": {
         "appid": "32380",

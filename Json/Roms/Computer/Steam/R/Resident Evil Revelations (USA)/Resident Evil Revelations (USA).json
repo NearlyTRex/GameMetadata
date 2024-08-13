@@ -5,7 +5,7 @@
         "Resident Evil Revelations (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil Revelations (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil Revelations (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil Revelations/rerev.exe"

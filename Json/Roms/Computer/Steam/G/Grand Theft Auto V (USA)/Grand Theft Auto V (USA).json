@@ -29,7 +29,7 @@
         "Grand Theft Auto V (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Grand Theft Auto V (USA).exe"
+        "SETUP_MAIN_ROOT/Grand Theft Auto V (USA).exe"
     ],
     "steam": {
         "appid": "271590",

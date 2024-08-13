@@ -3,7 +3,7 @@
         "We Were Here Too (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/We Were Here Too (USA).exe"
+        "SETUP_MAIN_ROOT/We Were Here Too (USA).exe"
     ],
     "steam": {
         "appid": "677160",

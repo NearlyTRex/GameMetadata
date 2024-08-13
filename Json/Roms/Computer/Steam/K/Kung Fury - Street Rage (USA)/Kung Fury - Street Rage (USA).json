@@ -3,7 +3,7 @@
         "Kung Fury - Street Rage (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Kung Fury - Street Rage (USA).exe"
+        "SETUP_MAIN_ROOT/Kung Fury - Street Rage (USA).exe"
     ],
     "steam": {
         "appid": "373180",

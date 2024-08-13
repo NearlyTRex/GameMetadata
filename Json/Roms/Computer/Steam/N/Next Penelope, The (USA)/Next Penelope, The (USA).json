@@ -3,7 +3,7 @@
         "Next Penelope, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Next Penelope, The (USA).exe"
+        "SETUP_MAIN_ROOT/Next Penelope, The (USA).exe"
     ],
     "steam": {
         "appid": "332250",

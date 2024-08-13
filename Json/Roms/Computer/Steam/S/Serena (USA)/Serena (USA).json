@@ -3,7 +3,7 @@
         "Serena (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Serena (USA).exe"
+        "SETUP_MAIN_ROOT/Serena (USA).exe"
     ],
     "steam": {
         "appid": "272060",

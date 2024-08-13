@@ -3,7 +3,7 @@
         "Regular Human Basketball (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Regular Human Basketball (USA).exe"
+        "SETUP_MAIN_ROOT/Regular Human Basketball (USA).exe"
     ],
     "main_game_exe": [
         "Regular Human Basketball/RegularHumanBasketball.exe"

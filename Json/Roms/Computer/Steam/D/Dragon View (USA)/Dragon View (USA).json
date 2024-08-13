@@ -3,7 +3,7 @@
         "Dragon View (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dragon View (USA).exe"
+        "SETUP_MAIN_ROOT/Dragon View (USA).exe"
     ],
     "steam": {
         "appid": "784010",
@@ -14,7 +14,7 @@
         "installdir": "Dragon View",
         "name": "Dragonview",
         "paths": [
-            "STEAMROOT/steamapps/common/Dragon View/res"
+            "STORE_INSTALL_DIR/steamapps/common/Dragon View/res"
         ]
     },
     "transform_file": "Dragon View (USA).exe"

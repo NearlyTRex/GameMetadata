@@ -3,7 +3,7 @@
         "Rush (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rush (USA).exe"
+        "SETUP_MAIN_ROOT/Rush (USA).exe"
     ],
     "main_game_exe": [
         "Rush/rush.exe"

@@ -5,7 +5,7 @@
         "Street Fighter 30th Anniversary Collection (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Street Fighter 30th Anniversary Collection (USA).exe"
+        "SETUP_MAIN_ROOT/Street Fighter 30th Anniversary Collection (USA).exe"
     ],
     "steam": {
         "appid": "586200",

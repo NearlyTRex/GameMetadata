@@ -3,13 +3,20 @@
         "Dyscourse (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dyscourse (USA).exe"
+        "SETUP_MAIN_ROOT/Dyscourse (USA).exe"
     ],
     "steam": {
         "appid": "234920",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Dyscourse"
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Owlchemy Labs/Dyscourse"
+        ],
+        "name": "Dyscourse",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Owlchemy Labs/Dyscourse/DyscourseSettings.xml",
+            "USER_PROFILE_DIR/AppData/LocalLow/Owlchemy Labs/Dyscourse/User/*.save"
+        ]
     },
     "transform_file": "Dyscourse (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Press X to Not Die (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Press X to Not Die (USA).exe"
+        "SETUP_MAIN_ROOT/Press X to Not Die (USA).exe"
     ],
     "main_game_exe": [
         "Press X to Not Die/Press X to Not Die.exe"

@@ -17,8 +17,9 @@
         "installdir": "Apotheon",
         "name": "Apotheon",
         "paths": [
-            "STEAMROOT/steamapps/common/Apotheon/Content/Config-7.cfg",
-            "STEAMROOT/steamapps/common/Apotheon/Content/SavedGames"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/208750/remote",
+            "STORE_INSTALL_DIR/steamapps/common/Apotheon/Content/Config-7.cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Apotheon/Content/SavedGames"
         ]
     },
     "transform_file": "Apotheon (USA).7z"

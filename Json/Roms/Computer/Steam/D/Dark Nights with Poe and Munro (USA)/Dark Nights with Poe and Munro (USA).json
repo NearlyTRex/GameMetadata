@@ -5,7 +5,7 @@
         "Dark Nights with Poe and Munro (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dark Nights with Poe and Munro (USA).exe"
+        "SETUP_MAIN_ROOT/Dark Nights with Poe and Munro (USA).exe"
     ],
     "steam": {
         "appid": "1098170",
@@ -16,7 +16,7 @@
         "installdir": "Dark Nights with Poe and Munro",
         "name": "Dark Nights with Poe and Munro",
         "paths": [
-            "USERPROFILE/AppData/LocalLow/DAvekki/DarkNights/save.json"
+            "USER_PROFILE_DIR/AppData/LocalLow/DAvekki/DarkNights/save.json"
         ]
     },
     "transform_file": "Dark Nights with Poe and Munro (USA).exe"

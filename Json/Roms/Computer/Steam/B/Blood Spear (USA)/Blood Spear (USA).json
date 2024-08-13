@@ -11,7 +11,7 @@
         "installdir": "Blood Spear",
         "name": "Blood Spear",
         "paths": [
-            "USERPROFILE/AppData/Local/Blood_Spear/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/Blood_Spear/Saved/SaveGames"
         ]
     },
     "transform_file": "Blood Spear (USA).7z"

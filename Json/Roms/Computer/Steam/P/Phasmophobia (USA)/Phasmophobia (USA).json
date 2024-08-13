@@ -5,7 +5,7 @@
         "Phasmophobia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Phasmophobia (USA).exe"
+        "SETUP_MAIN_ROOT/Phasmophobia (USA).exe"
     ],
     "main_game_exe": [
         "Phasmophobia/Phasmophobia.exe"

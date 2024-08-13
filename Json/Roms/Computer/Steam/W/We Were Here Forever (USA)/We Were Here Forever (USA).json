@@ -6,7 +6,7 @@
         "We Were Here Forever (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/We Were Here Forever (USA).exe"
+        "SETUP_MAIN_ROOT/We Were Here Forever (USA).exe"
     ],
     "steam": {
         "appid": "1341290",

@@ -27,7 +27,7 @@
         "installdir": "Castlevania Advance Collection",
         "name": "Castlevania Advance Collection",
         "paths": [
-            "USERPROFILE/AppData/Roaming/Castlevania Advance Collection/savedata"
+            "USER_PROFILE_DIR/AppData/Roaming/Castlevania Advance Collection/savedata"
         ]
     },
     "transform_file": "Castlevania Advance Collection (USA).7z"

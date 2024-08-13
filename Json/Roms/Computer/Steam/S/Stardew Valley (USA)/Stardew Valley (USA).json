@@ -3,7 +3,7 @@
         "Stardew Valley (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stardew Valley (USA).exe"
+        "SETUP_MAIN_ROOT/Stardew Valley (USA).exe"
     ],
     "steam": {
         "appid": "413150",

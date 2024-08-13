@@ -3,7 +3,7 @@
         "Cry of Fear (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cry of Fear (USA).exe"
+        "SETUP_MAIN_ROOT/Cry of Fear (USA).exe"
     ],
     "steam": {
         "appid": "223710",
@@ -13,9 +13,9 @@
         "installdir": "Cry of Fear",
         "name": "Cry of Fear",
         "paths": [
-            "STEAMROOT/steamapps/common/Cry of Fear/SAVE",
-            "STEAMROOT/steamapps/common/Cry of Fear/cryoffear/autoexec.cfg",
-            "STEAMROOT/steamapps/common/Cry of Fear/cryoffear/scriptsettings.dat"
+            "STORE_INSTALL_DIR/steamapps/common/Cry of Fear/SAVE",
+            "STORE_INSTALL_DIR/steamapps/common/Cry of Fear/cryoffear/autoexec.cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Cry of Fear/cryoffear/scriptsettings.dat"
         ]
     },
     "transform_file": "Cry of Fear (USA).exe"

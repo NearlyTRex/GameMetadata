@@ -9,8 +9,8 @@
         "installdir": "basement",
         "name": "The Basement Collection",
         "paths": [
-            "STEAMROOT/steamapps/common/basement/META-INF/AIR",
-            "USERPROFILE/AppData/Roaming/collection"
+            "STORE_INSTALL_DIR/steamapps/common/basement/META-INF/AIR",
+            "USER_PROFILE_DIR/AppData/Roaming/collection"
         ]
     },
     "transform_file": "Basement Collection, The (USA).7z"

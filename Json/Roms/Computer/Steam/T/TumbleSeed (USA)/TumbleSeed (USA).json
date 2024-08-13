@@ -3,7 +3,7 @@
         "TumbleSeed (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/TumbleSeed (USA).exe"
+        "SETUP_MAIN_ROOT/TumbleSeed (USA).exe"
     ],
     "steam": {
         "appid": "457890",

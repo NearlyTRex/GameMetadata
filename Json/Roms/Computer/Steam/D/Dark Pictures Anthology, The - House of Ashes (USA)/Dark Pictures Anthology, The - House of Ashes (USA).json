@@ -9,7 +9,7 @@
         "Dark Pictures Anthology, The - House of Ashes (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dark Pictures Anthology, The - House of Ashes (USA).exe"
+        "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - House of Ashes (USA).exe"
     ],
     "main_game_exe": [
         "The Dark Pictures Anthology - House of Ashes/HouseOfAshes.exe"
@@ -41,8 +41,8 @@
         "installdir": "The Dark Pictures Anthology - House of Ashes",
         "name": "The Dark Pictures Anthology: House of Ashes",
         "paths": [
-            "USERPROFILE/AppData/Local/HouseOfAshes/Saved/Config/WindowsNoEditor",
-            "USERPROFILE/AppData/Local/HouseOfAshes/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/HouseOfAshes/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/HouseOfAshes/Saved/SaveGames"
         ]
     },
     "transform_file": "Dark Pictures Anthology, The - House of Ashes (USA).exe"

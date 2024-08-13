@@ -3,7 +3,7 @@
         "Freedom Planet (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Freedom Planet (USA).exe"
+        "SETUP_MAIN_ROOT/Freedom Planet (USA).exe"
     ],
     "main_game_exe": [
         "Freedom Planet/FP.exe"

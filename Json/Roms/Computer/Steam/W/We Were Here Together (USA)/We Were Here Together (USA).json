@@ -3,7 +3,7 @@
         "We Were Here Together (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/We Were Here Together (USA).exe"
+        "SETUP_MAIN_ROOT/We Were Here Together (USA).exe"
     ],
     "steam": {
         "appid": "865360",

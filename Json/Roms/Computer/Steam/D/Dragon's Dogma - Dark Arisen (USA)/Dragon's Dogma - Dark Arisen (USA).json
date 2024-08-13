@@ -7,7 +7,7 @@
         "Dragon's Dogma - Dark Arisen (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dragon's Dogma - Dark Arisen (USA).exe"
+        "SETUP_MAIN_ROOT/Dragon's Dogma - Dark Arisen (USA).exe"
     ],
     "steam": {
         "appid": "367500",
@@ -18,7 +18,7 @@
         "installdir": "DDDA",
         "name": "Dragon's Dogma: Dark Arisen",
         "paths": [
-            "USERPROFILE/AppData/Local/capcom/DRAGONS DOGMA DARK ARISEN/config.ini"
+            "USER_PROFILE_DIR/AppData/Local/capcom/DRAGONS DOGMA DARK ARISEN/config.ini"
         ]
     },
     "transform_file": "Dragon's Dogma - Dark Arisen (USA).exe"

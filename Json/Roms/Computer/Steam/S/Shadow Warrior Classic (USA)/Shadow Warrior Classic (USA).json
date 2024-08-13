@@ -3,7 +3,7 @@
         "Shadow Warrior Classic (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Shadow Warrior Classic (USA).exe"
+        "SETUP_MAIN_ROOT/Shadow Warrior Classic (USA).exe"
     ],
     "steam": {
         "appid": "238070",

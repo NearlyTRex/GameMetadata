@@ -3,7 +3,7 @@
         "Cayne (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cayne (USA).exe"
+        "SETUP_MAIN_ROOT/Cayne (USA).exe"
     ],
     "steam": {
         "appid": "532840",
@@ -16,8 +16,8 @@
         ],
         "name": "CAYNE",
         "paths": [
-            "USERPROFILE/AppData/Local/The Brotherhood/CAYNE",
-            "USERPROFILE/AppData/Local/The Brotherhood/CAYNE/config.ini"
+            "USER_PROFILE_DIR/AppData/Local/The Brotherhood/CAYNE",
+            "USER_PROFILE_DIR/AppData/Local/The Brotherhood/CAYNE/config.ini"
         ]
     },
     "transform_file": "Cayne (USA).exe"

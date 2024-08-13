@@ -3,7 +3,7 @@
         "Curse of the Crescent Isle DX (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Curse of the Crescent Isle DX (USA).exe"
+        "SETUP_MAIN_ROOT/Curse of the Crescent Isle DX (USA).exe"
     ],
     "steam": {
         "appid": "365120",
@@ -14,8 +14,8 @@
         "installdir": "Curse of the Crescent Isle DX",
         "name": "Curse of the Crescent Isle DX",
         "paths": [
-            "STEAMROOT/steamapps/common/Curse of the Crescent Isle DX/CurseDXSettings.sav",
-            "STEAMROOT/steamapps/common/Curse of the Crescent Isle DX/SaveFile.sav"
+            "STORE_INSTALL_DIR/steamapps/common/Curse of the Crescent Isle DX/CurseDXSettings.sav",
+            "STORE_INSTALL_DIR/steamapps/common/Curse of the Crescent Isle DX/SaveFile.sav"
         ]
     },
     "transform_file": "Curse of the Crescent Isle DX (USA).exe"

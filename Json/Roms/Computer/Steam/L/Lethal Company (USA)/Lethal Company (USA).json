@@ -3,7 +3,7 @@
         "Lethal Company (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lethal Company (USA).exe"
+        "SETUP_MAIN_ROOT/Lethal Company (USA).exe"
     ],
     "main_game_exe": [
         "Lethal Company.exe"

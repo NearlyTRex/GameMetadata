@@ -3,7 +3,7 @@
         "Golf With Your Friends (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Golf With Your Friends (USA).exe"
+        "SETUP_MAIN_ROOT/Golf With Your Friends (USA).exe"
     ],
     "main_game_exe": [
         "Golf With Your Friends.exe"

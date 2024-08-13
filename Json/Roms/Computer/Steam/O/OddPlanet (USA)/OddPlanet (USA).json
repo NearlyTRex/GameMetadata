@@ -3,7 +3,7 @@
         "OddPlanet (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/OddPlanet (USA).exe"
+        "SETUP_MAIN_ROOT/OddPlanet (USA).exe"
     ],
     "steam": {
         "appid": "465930",

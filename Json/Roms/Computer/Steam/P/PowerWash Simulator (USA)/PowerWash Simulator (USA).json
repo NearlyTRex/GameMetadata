@@ -5,7 +5,7 @@
         "PowerWash Simulator (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/PowerWash Simulator (USA).exe"
+        "SETUP_MAIN_ROOT/PowerWash Simulator (USA).exe"
     ],
     "main_game_exe": [
         "PowerWash Simulator/PowerWashSimulator.exe"

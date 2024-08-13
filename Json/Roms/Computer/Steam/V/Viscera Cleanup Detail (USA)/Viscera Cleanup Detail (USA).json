@@ -3,7 +3,7 @@
         "Viscera Cleanup Detail (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Viscera Cleanup Detail (USA).exe"
+        "SETUP_MAIN_ROOT/Viscera Cleanup Detail (USA).exe"
     ],
     "steam": {
         "appid": "246900",

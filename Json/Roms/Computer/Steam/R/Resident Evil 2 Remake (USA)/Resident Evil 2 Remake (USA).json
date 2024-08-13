@@ -9,7 +9,7 @@
         "Resident Evil 2 Remake (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resident Evil 2 Remake (USA).exe"
+        "SETUP_MAIN_ROOT/Resident Evil 2 Remake (USA).exe"
     ],
     "main_game_exe": [
         "Resident Evil 2 Remake/re2.exe"

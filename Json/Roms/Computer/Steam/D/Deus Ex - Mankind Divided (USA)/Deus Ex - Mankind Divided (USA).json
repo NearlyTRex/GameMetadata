@@ -11,7 +11,7 @@
         "Deus Ex - Mankind Divided (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Deus Ex - Mankind Divided (USA).exe"
+        "SETUP_MAIN_ROOT/Deus Ex - Mankind Divided (USA).exe"
     ],
     "steam": {
         "appid": "337000",

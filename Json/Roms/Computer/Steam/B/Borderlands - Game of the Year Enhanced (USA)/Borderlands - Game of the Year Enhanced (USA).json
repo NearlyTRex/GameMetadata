@@ -8,8 +8,8 @@
         "installdir": "BorderlandsGOTYEnhanced",
         "name": "Borderlands GOTY Enhanced",
         "paths": [
-            "USERPROFILE/Documents/My Games/Borderlands Game of the Year/Binaries/SaveData",
-            "USERPROFILE/Documents/My Games/Borderlands Game of the Year/WillowGame/Config"
+            "USER_PROFILE_DIR/Documents/My Games/Borderlands Game of the Year/Binaries/SaveData",
+            "USER_PROFILE_DIR/Documents/My Games/Borderlands Game of the Year/WillowGame/Config"
         ]
     }
 }

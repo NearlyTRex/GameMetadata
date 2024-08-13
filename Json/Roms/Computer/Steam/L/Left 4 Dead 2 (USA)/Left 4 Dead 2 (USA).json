@@ -5,7 +5,7 @@
         "Left 4 Dead 2 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Left 4 Dead 2 (USA).exe"
+        "SETUP_MAIN_ROOT/Left 4 Dead 2 (USA).exe"
     ],
     "main_game_exe": [
         "Left 4 Dead 2/left4dead2.exe"

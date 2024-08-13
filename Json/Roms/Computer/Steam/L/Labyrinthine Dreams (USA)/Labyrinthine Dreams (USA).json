@@ -3,7 +3,7 @@
         "Labyrinthine Dreams (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Labyrinthine Dreams (USA).exe"
+        "SETUP_MAIN_ROOT/Labyrinthine Dreams (USA).exe"
     ],
     "steam": {
         "appid": "278570",

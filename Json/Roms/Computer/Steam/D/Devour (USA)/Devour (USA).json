@@ -5,7 +5,7 @@
         "Devour (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Devour (USA).exe"
+        "SETUP_MAIN_ROOT/Devour (USA).exe"
     ],
     "main_game_exe": [
         "Devour/DEVOUR.exe"

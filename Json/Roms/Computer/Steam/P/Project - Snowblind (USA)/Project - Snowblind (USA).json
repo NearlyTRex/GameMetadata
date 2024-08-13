@@ -3,7 +3,7 @@
         "Project - Snowblind (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Project - Snowblind (USA).exe"
+        "SETUP_MAIN_ROOT/Project - Snowblind (USA).exe"
     ],
     "steam": {
         "appid": "7010",

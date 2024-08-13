@@ -3,7 +3,7 @@
         "Strata (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Strata (USA).exe"
+        "SETUP_MAIN_ROOT/Strata (USA).exe"
     ],
     "steam": {
         "appid": "286380",

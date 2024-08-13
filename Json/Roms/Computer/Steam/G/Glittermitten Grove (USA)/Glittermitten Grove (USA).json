@@ -3,7 +3,7 @@
         "Glittermitten Grove (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Glittermitten Grove (USA).exe"
+        "SETUP_MAIN_ROOT/Glittermitten Grove (USA).exe"
     ],
     "steam": {
         "appid": "536890",

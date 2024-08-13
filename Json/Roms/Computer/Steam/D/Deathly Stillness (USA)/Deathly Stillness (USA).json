@@ -5,7 +5,7 @@
         "Deathly Stillness (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Deathly Stillness (USA).exe"
+        "SETUP_MAIN_ROOT/Deathly Stillness (USA).exe"
     ],
     "steam": {
         "appid": "1727650",

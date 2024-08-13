@@ -3,7 +3,7 @@
         "Dagon by H. P. Lovecraft (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dagon by H. P. Lovecraft (USA).exe"
+        "SETUP_MAIN_ROOT/Dagon by H. P. Lovecraft (USA).exe"
     ],
     "steam": {
         "appid": "1481400",
@@ -17,7 +17,7 @@
         ],
         "name": "Dagon",
         "paths": [
-            "USERPROFILE/AppData/LocalLow/BitGolem/Dagon/DagonSaveFull.es3"
+            "USER_PROFILE_DIR/AppData/LocalLow/BitGolem/Dagon/DagonSaveFull.es3"
         ]
     },
     "transform_file": "Dagon by H. P. Lovecraft (USA).exe"

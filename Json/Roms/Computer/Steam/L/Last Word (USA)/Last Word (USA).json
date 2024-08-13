@@ -3,7 +3,7 @@
         "Last Word (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Last Word (USA).exe"
+        "SETUP_MAIN_ROOT/Last Word (USA).exe"
     ],
     "steam": {
         "appid": "355530",

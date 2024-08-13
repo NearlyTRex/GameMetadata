@@ -3,7 +3,7 @@
         "Satellite Reign (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Satellite Reign (USA).exe"
+        "SETUP_MAIN_ROOT/Satellite Reign (USA).exe"
     ],
     "steam": {
         "appid": "268870",

@@ -20,8 +20,8 @@
         ],
         "name": "Armello",
         "paths": [
-            "USERPROFILE/AppData/LocalLow/League of Geeks/Armello/Profiles/STEAMUSERID/Options",
-            "USERPROFILE/AppData/LocalLow/League of Geeks/Armello/Profiles/STEAMUSERID/SavedGameState"
+            "USER_PROFILE_DIR/AppData/LocalLow/League of Geeks/Armello/Profiles/STORE_USER_ID/Options",
+            "USER_PROFILE_DIR/AppData/LocalLow/League of Geeks/Armello/Profiles/STORE_USER_ID/SavedGameState"
         ]
     },
     "transform_file": "Armello (USA).7z"
