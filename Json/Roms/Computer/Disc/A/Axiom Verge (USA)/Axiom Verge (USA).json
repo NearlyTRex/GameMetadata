@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Axiom Verge - Windows.zip",
-                "to": "$HDD_MAIN_ROOT/Axiom Verge - Windows",
+                "from": "DISC_MAIN_ROOT/Axiom Verge - Windows.zip",
+                "to": "HDD_MAIN_ROOT/Axiom Verge - Windows",
                 "type": "extract"
             }
         ]

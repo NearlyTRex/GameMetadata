@@ -21,8 +21,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Zelda Faces of Evil",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Zelda Faces of Evil",
                 "type": "copy"
             }
         ]

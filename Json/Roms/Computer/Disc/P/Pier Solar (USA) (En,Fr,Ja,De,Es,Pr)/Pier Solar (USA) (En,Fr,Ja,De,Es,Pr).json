@@ -2,6 +2,6 @@
     "files": [
         "Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Install.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Install.exe",
     "transform_file": "Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).chd"
 }

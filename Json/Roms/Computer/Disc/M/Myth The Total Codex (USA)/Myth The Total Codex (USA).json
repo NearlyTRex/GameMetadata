@@ -8,8 +8,8 @@
         "update/Myth2_184.exe"
     ],
     "installer_exe": [
-        "$DISC_THREE_ROOT/Autoplay.exe",
-        "$SETUP_MAIN_ROOT/update/Myth2_184.exe"
+        "DISC_THREE_ROOT/Autoplay.exe",
+        "SETUP_MAIN_ROOT/update/Myth2_184.exe"
     ],
     "main_game_exe": [
         "Program Files (x86)/Myth II/Myth II.exe"
@@ -20,45 +20,45 @@
     "steps": {
         "postinstall": [
             {
-                "from": "$DISC_ONE_ROOT/Chimera/*",
+                "from": "DISC_ONE_ROOT/Chimera/*",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
                 "type": "copy"
             },
             {
-                "from": "$DISC_ONE_ROOT/Chimera/*.smk",
+                "from": "DISC_ONE_ROOT/Chimera/*.smk",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
                 "type": "copy"
             },
             {
-                "from": "$DISC_ONE_ROOT/Myth II Plugins",
+                "from": "DISC_ONE_ROOT/Myth II Plugins",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth II Plugins",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth II Plugins",
                 "type": "copy"
             },
             {
-                "from": "$DISC_ONE_ROOT/Myth Total Codex",
+                "from": "DISC_ONE_ROOT/Myth Total Codex",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth Total Codex",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth Total Codex",
                 "type": "copy"
             },
             {
-                "from": "$DISC_THREE_ROOT/cutscenes/*.smk",
+                "from": "DISC_THREE_ROOT/cutscenes/*.smk",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
                 "type": "copy"
             },
             {
-                "from": "$DISC_FOUR_ROOT/fix/cutscenes/*.mov",
+                "from": "DISC_FOUR_ROOT/fix/cutscenes/*.mov",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
                 "type": "copy"
             },
             {
-                "from": "$DISC_FOUR_ROOT/fix/plugins/*",
+                "from": "DISC_FOUR_ROOT/fix/plugins/*",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
                 "type": "copy"
             }
         ]

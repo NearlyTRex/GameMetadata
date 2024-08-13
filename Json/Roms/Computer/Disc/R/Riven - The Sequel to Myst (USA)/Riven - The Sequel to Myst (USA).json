@@ -7,15 +7,15 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Data",
+                "from": "DISC_MAIN_ROOT/Data",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT",
+                "to": "SCUMM_MAIN_ROOT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/program",
+                "from": "DISC_MAIN_ROOT/program",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT",
+                "to": "SCUMM_MAIN_ROOT",
                 "type": "copy"
             }
         ]

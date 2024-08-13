@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Windows",
-                "to": "$HDD_MAIN_ROOT/MoonHunters",
+                "from": "DISC_MAIN_ROOT/Windows",
+                "to": "HDD_MAIN_ROOT/MoonHunters",
                 "type": "copy"
             }
         ]

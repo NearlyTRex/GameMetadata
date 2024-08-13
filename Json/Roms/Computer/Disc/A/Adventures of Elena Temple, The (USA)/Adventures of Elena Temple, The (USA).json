@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Elena Temple v1.2.0 Windows.zip",
-                "to": "$HDD_MAIN_ROOT/Elena Temple v1.2.0 Windows",
+                "from": "DISC_MAIN_ROOT/Elena Temple v1.2.0 Windows.zip",
+                "to": "HDD_MAIN_ROOT/Elena Temple v1.2.0 Windows",
                 "type": "extract"
             }
         ]

@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/SCP_087_B",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/SCP_087_B",
                 "type": "copy"
             }
         ]

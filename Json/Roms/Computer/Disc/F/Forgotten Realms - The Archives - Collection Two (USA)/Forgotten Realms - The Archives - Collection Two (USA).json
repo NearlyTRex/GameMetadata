@@ -24,8 +24,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$DOS_MAIN_ROOT/C/FORC2",
+                "from": "DISC_MAIN_ROOT",
+                "to": "DOS_MAIN_ROOT/C/FORC2",
                 "type": "copy"
             }
         ]

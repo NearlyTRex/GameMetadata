@@ -16,8 +16,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_THREE_ROOT",
-                "to": "$DOS_MAIN_ROOT/C",
+                "from": "DISC_THREE_ROOT",
+                "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }
         ]

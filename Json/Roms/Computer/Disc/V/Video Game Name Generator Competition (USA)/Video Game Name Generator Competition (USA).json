@@ -59,8 +59,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/VGNGC",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/VGNGC",
                 "type": "copy"
             }
         ]

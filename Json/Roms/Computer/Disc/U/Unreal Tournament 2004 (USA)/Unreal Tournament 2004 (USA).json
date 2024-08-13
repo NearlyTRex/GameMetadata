@@ -9,37 +9,37 @@
         "Unreal Tournament 2004 (USA).m3u",
         "Unreal Tournament 2004 (USA).txt"
     ],
-    "installer_exe": "$DISC_ONE_ROOT/Setup.exe",
+    "installer_exe": "DISC_ONE_ROOT/Setup.exe",
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_TWO_ROOT",
+                "from": "DISC_TWO_ROOT",
                 "skip_existing": true,
-                "to": "$DISC_ONE_ROOT",
+                "to": "DISC_ONE_ROOT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_THREE_ROOT",
+                "from": "DISC_THREE_ROOT",
                 "skip_existing": true,
-                "to": "$DISC_ONE_ROOT",
+                "to": "DISC_ONE_ROOT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_FOUR_ROOT",
+                "from": "DISC_FOUR_ROOT",
                 "skip_existing": true,
-                "to": "$DISC_ONE_ROOT",
+                "to": "DISC_ONE_ROOT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_FIVE_ROOT",
+                "from": "DISC_FIVE_ROOT",
                 "skip_existing": true,
-                "to": "$DISC_ONE_ROOT",
+                "to": "DISC_ONE_ROOT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_SIX_ROOT",
+                "from": "DISC_SIX_ROOT",
                 "skip_existing": true,
-                "to": "$DISC_ONE_ROOT",
+                "to": "DISC_ONE_ROOT",
                 "type": "copy"
             }
         ]

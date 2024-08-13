@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/SYSTEM SHOCK ENHANCED EDITION - PROGRAM FILES",
-                "to": "$HDD_MAIN_ROOT/System Shock Enhanced Edition",
+                "from": "DISC_MAIN_ROOT/SYSTEM SHOCK ENHANCED EDITION - PROGRAM FILES",
+                "to": "HDD_MAIN_ROOT/System Shock Enhanced Edition",
                 "type": "copy"
             }
         ]

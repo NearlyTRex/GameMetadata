@@ -6,8 +6,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$SCUMM_MAIN_ROOT",
+                "from": "DISC_MAIN_ROOT",
+                "to": "SCUMM_MAIN_ROOT",
                 "type": "move"
             }
         ]

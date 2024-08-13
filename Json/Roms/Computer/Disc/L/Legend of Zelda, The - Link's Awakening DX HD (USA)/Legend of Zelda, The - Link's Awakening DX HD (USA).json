@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Links Awakening DX HD",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Links Awakening DX HD",
                 "type": "copy"
             }
         ]

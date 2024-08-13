@@ -12,15 +12,15 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/CHEX QUEST/CHEX QUEST/CHEX.WAD",
+                "from": "DISC_MAIN_ROOT/CHEX QUEST/CHEX QUEST/CHEX.WAD",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/ChexQuest/CHEX.WAD",
+                "to": "HDD_MAIN_ROOT/ChexQuest/CHEX.WAD",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/gzdoom-4-10-0-Windows-64bit.zip",
+                "from": "SETUP_MAIN_ROOT/fix/gzdoom-4-10-0-Windows-64bit.zip",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/ChexQuest",
+                "to": "HDD_MAIN_ROOT/ChexQuest",
                 "type": "extract"
             }
         ]

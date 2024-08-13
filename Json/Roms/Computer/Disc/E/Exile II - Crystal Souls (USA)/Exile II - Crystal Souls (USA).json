@@ -14,13 +14,13 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_ONE_ROOT",
-                "to": "$DOS_MAIN_ROOT/C/EXILE2",
+                "from": "DISC_ONE_ROOT",
+                "to": "DOS_MAIN_ROOT/C/EXILE2",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT",
-                "to": "$DOS_MAIN_ROOT/C",
+                "from": "DISC_TWO_ROOT",
+                "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }
         ]

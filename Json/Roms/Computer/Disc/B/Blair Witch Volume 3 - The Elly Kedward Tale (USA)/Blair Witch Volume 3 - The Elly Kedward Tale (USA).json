@@ -2,7 +2,7 @@
     "files": [
         "Blair Witch Volume 3 - The Elly Kedward Tale (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Install/Setup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Install/Setup.exe",
     "sync": {
         "data": [
             "save",

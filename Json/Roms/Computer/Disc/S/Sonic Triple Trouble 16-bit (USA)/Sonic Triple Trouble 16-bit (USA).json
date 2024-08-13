@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Sonic Triple Trouble",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Sonic Triple Trouble",
                 "type": "copy"
             }
         ]

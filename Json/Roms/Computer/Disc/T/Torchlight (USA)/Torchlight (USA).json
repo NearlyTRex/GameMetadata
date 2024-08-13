@@ -2,6 +2,6 @@
     "files": [
         "Torchlight (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Torchlight.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Torchlight.exe",
     "transform_file": "Torchlight (USA).chd"
 }

@@ -20,8 +20,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Bad Milk",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Bad Milk",
                 "type": "copy"
             }
         ]

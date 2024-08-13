@@ -2,7 +2,7 @@
     "files": [
         "Shadow Chronicles 6 Pack - Collector's Edition (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/SC6PackSetup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/SC6PackSetup.exe",
     "main_game_exe": [
         "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Ghost Encounters - Deadwood/GhostEncounters.exe",
         "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Mystery of the Crystal Portal/Portal.exe",

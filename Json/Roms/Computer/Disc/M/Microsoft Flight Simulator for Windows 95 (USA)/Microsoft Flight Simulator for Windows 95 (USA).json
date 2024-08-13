@@ -2,6 +2,6 @@
     "files": [
         "Microsoft Flight Simulator for Windows 95 (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/setup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Microsoft Flight Simulator for Windows 95 (USA).chd"
 }

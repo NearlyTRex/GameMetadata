@@ -8,8 +8,8 @@
         "Ultimate RPG Archives, The (USA).m3u"
     ],
     "installer_dos_exe": [
-        "$DISC_ONE_ROOT/INSTALL.EXE",
-        "$DISC_THREE_ROOT/INSTALL.EXE"
+        "DISC_ONE_ROOT/INSTALL.EXE",
+        "DISC_THREE_ROOT/INSTALL.EXE"
     ],
     "is_dos": true,
     "main_game_dos_exe": [
@@ -37,33 +37,33 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_TWO_ROOT/BARDTALE",
-                "to": "$DOS_MAIN_ROOT/C/BARDTALE",
+                "from": "DISC_TWO_ROOT/BARDTALE",
+                "to": "DOS_MAIN_ROOT/C/BARDTALE",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/DRAGON",
-                "to": "$DOS_MAIN_ROOT/C/DRAGON",
+                "from": "DISC_TWO_ROOT/DRAGON",
+                "to": "DOS_MAIN_ROOT/C/DRAGON",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/UNDERWRD",
-                "to": "$DOS_MAIN_ROOT/C/UNDERWRD",
+                "from": "DISC_TWO_ROOT/UNDERWRD",
+                "to": "DOS_MAIN_ROOT/C/UNDERWRD",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/WASTELND",
-                "to": "$DOS_MAIN_ROOT/C/WASTELND",
+                "from": "DISC_TWO_ROOT/WASTELND",
+                "to": "DOS_MAIN_ROOT/C/WASTELND",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/MANUALS",
-                "to": "$DOS_MAIN_ROOT/C/MANUALS",
+                "from": "DISC_TWO_ROOT/MANUALS",
+                "to": "DOS_MAIN_ROOT/C/MANUALS",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/MAPS",
-                "to": "$DOS_MAIN_ROOT/C/MAPS",
+                "from": "DISC_TWO_ROOT/MAPS",
+                "to": "DOS_MAIN_ROOT/C/MAPS",
                 "type": "copy"
             }
         ]

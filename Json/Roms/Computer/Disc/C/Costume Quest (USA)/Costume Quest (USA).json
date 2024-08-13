@@ -2,6 +2,6 @@
     "files": [
         "Costume Quest (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/setup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Costume Quest (USA).chd"
 }

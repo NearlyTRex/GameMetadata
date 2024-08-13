@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/EV",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/EV",
                 "type": "copy"
             }
         ]

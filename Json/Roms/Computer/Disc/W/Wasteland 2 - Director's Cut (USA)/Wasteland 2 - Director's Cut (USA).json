@@ -2,6 +2,6 @@
     "files": [
         "Wasteland 2 - Director's Cut (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/install.windows.bat",
+    "installer_exe": "DISC_MAIN_ROOT/install.windows.bat",
     "transform_file": "Wasteland 2 - Director's Cut (USA).chd"
 }

@@ -21,8 +21,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Mega Man 2.5D",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Mega Man 2.5D",
                 "type": "copy"
             }
         ]

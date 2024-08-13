@@ -12,15 +12,15 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/DOOM2CD/DOOM2.WAD",
+                "from": "DISC_MAIN_ROOT/DOOM2CD/DOOM2.WAD",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/DoomII/DOOM2.WAD",
+                "to": "HDD_MAIN_ROOT/DoomII/DOOM2.WAD",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/gzdoom-4-10-0-Windows-64bit.zip",
+                "from": "SETUP_MAIN_ROOT/fix/gzdoom-4-10-0-Windows-64bit.zip",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/DoomII",
+                "to": "HDD_MAIN_ROOT/DoomII",
                 "type": "extract"
             }
         ]

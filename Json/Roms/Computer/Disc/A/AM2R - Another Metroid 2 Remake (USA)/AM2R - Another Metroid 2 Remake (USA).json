@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/AM2R",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/AM2R",
                 "type": "copy"
             }
         ]

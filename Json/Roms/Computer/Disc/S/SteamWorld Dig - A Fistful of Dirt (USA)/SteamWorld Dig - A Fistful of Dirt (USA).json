@@ -2,6 +2,6 @@
     "files": [
         "SteamWorld Dig - A Fistful of Dirt (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/SteamWorld Dig/Win/InstallDig.msi",
+    "installer_exe": "DISC_MAIN_ROOT/SteamWorld Dig/Win/InstallDig.msi",
     "transform_file": "SteamWorld Dig - A Fistful of Dirt (USA).chd"
 }

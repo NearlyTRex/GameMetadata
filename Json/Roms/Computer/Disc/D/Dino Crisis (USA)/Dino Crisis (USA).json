@@ -25,33 +25,33 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_TWO_ROOT/Data",
-                "to": "$HDD_MAIN_ROOT/DinoCrisis/Data",
+                "from": "DISC_TWO_ROOT/Data",
+                "to": "HDD_MAIN_ROOT/DinoCrisis/Data",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/Movie",
-                "to": "$HDD_MAIN_ROOT/DinoCrisis/Movie",
+                "from": "DISC_TWO_ROOT/Movie",
+                "to": "HDD_MAIN_ROOT/DinoCrisis/Movie",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/SOUND",
-                "to": "$HDD_MAIN_ROOT/DinoCrisis/SOUND",
+                "from": "DISC_TWO_ROOT/SOUND",
+                "to": "HDD_MAIN_ROOT/DinoCrisis/SOUND",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/DINO.exe",
-                "to": "$HDD_MAIN_ROOT/DinoCrisis/DINO.exe",
+                "from": "DISC_TWO_ROOT/DINO.exe",
+                "to": "HDD_MAIN_ROOT/DinoCrisis/DINO.exe",
                 "type": "copy"
             },
             {
-                "from": "$DISC_THREE_ROOT/*",
-                "to": "$HDD_MAIN_ROOT/DinoCrisis",
+                "from": "DISC_THREE_ROOT/*",
+                "to": "HDD_MAIN_ROOT/DinoCrisis",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/*",
-                "to": "$HDD_MAIN_ROOT/DinoCrisis",
+                "from": "SETUP_MAIN_ROOT/fix/*",
+                "to": "HDD_MAIN_ROOT/DinoCrisis",
                 "type": "copy"
             }
         ]

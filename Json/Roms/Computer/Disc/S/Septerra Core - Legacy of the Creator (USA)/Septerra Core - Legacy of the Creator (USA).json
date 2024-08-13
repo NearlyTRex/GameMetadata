@@ -2,6 +2,6 @@
     "files": [
         "Septerra Core - Legacy of the Creator (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/LAUNCH.EXE",
+    "installer_exe": "DISC_MAIN_ROOT/LAUNCH.EXE",
     "transform_file": "Septerra Core - Legacy of the Creator (USA).chd"
 }

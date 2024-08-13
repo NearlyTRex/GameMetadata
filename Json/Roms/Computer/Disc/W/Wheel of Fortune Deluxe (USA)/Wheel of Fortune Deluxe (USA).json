@@ -3,6 +3,6 @@
     "files": [
         "Wheel of Fortune Deluxe (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Wheel_of_Fortune_Deluxe_Setup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Wheel_of_Fortune_Deluxe_Setup.exe",
     "transform_file": "Wheel of Fortune Deluxe (USA).chd"
 }

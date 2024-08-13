@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Owlboy.zip",
-                "to": "$HDD_MAIN_ROOT/Owlboy",
+                "from": "DISC_MAIN_ROOT/Owlboy.zip",
+                "to": "HDD_MAIN_ROOT/Owlboy",
                 "type": "extract"
             }
         ]

@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Street Fighter X Mega Man",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Street Fighter X Mega Man",
                 "type": "copy"
             }
         ]

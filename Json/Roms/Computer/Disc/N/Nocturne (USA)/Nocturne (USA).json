@@ -6,8 +6,8 @@
         "update/nocpatch2.exe"
     ],
     "installer_exe": [
-        "$DISC_ONE_ROOT/SETUP.EXE",
-        "$SETUP_MAIN_ROOT/update/nocpatch2.exe"
+        "DISC_ONE_ROOT/SETUP.EXE",
+        "SETUP_MAIN_ROOT/update/nocpatch2.exe"
     ],
     "main_game_exe": [
         "Program Files (x86)/Terminal Reality/Nocturne/nocturne.exe"
@@ -18,17 +18,17 @@
     "steps": {
         "postinstall": [
             {
-                "from": "$DISC_ONE_ROOT/AVI",
+                "from": "DISC_ONE_ROOT/AVI",
                 "skip_existing": true,
-                "to": "$HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/AVI",
+                "to": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/AVI",
                 "type": "copy"
             }
         ],
         "preinstall": [
             {
-                "from": "$DISC_TWO_ROOT",
+                "from": "DISC_TWO_ROOT",
                 "skip_existing": true,
-                "to": "$DISC_ONE_ROOT",
+                "to": "DISC_ONE_ROOT",
                 "type": "copy"
             }
         ]

@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Stories - Install.zip",
-                "to": "$HDD_MAIN_ROOT/Stories - Install",
+                "from": "DISC_MAIN_ROOT/Stories - Install.zip",
+                "to": "HDD_MAIN_ROOT/Stories - Install",
                 "type": "extract"
             }
         ]

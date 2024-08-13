@@ -12,13 +12,13 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Keeper",
-                "to": "$HDD_MAIN_ROOT/DungeonKeeper",
+                "from": "DISC_MAIN_ROOT/Keeper",
+                "to": "HDD_MAIN_ROOT/DungeonKeeper",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/keeperfx_0_5_0b_complete.7z",
-                "to": "$HDD_MAIN_ROOT/DungeonKeeper",
+                "from": "SETUP_MAIN_ROOT/fix/keeperfx_0_5_0b_complete.7z",
+                "to": "HDD_MAIN_ROOT/DungeonKeeper",
                 "type": "extract"
             }
         ]

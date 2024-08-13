@@ -30,8 +30,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$DOS_MAIN_ROOT/C/ULTIMA",
+                "from": "DISC_MAIN_ROOT",
+                "to": "DOS_MAIN_ROOT/C/ULTIMA",
                 "type": "copy"
             }
         ]

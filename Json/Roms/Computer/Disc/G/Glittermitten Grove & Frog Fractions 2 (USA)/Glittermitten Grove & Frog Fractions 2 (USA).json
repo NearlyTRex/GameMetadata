@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/GlittermittenGrove_windows_v131.zip",
-                "to": "$HDD_MAIN_ROOT/GlittermittenGrove_windows_v131",
+                "from": "DISC_MAIN_ROOT/GlittermittenGrove_windows_v131.zip",
+                "to": "HDD_MAIN_ROOT/GlittermittenGrove_windows_v131",
                 "type": "extract"
             }
         ]

@@ -2,6 +2,6 @@
     "files": [
         "Sega Genesis Classic Collection - Gold Edition (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Setup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Sega Genesis Classic Collection - Gold Edition (USA).chd"
 }

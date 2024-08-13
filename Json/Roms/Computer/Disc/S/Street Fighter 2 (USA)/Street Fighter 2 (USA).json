@@ -2,7 +2,7 @@
     "files": [
         "Street Fighter 2 (USA).chd"
     ],
-    "installer_dos_exe": "$DISC_MAIN_ROOT/SELECT.EXE",
+    "installer_dos_exe": "DISC_MAIN_ROOT/SELECT.EXE",
     "is_dos": true,
     "main_game_dos_exe": [
         "STI/SFII/SF2.EXE"

@@ -3,6 +3,6 @@
         "Tribes 2 (USA).chd",
         "Tribes 2 (USA).sbi"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Autorun.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Tribes 2 (USA).chd"
 }

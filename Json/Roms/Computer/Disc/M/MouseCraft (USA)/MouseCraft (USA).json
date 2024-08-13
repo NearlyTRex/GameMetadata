@@ -2,6 +2,6 @@
     "files": [
         "MouseCraft (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/MouseCraft/Windows/MouseCraft.exe",
+    "installer_exe": "DISC_MAIN_ROOT/MouseCraft/Windows/MouseCraft.exe",
     "transform_file": "MouseCraft (USA).chd"
 }

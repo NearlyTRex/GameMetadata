@@ -71,8 +71,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Action 52 Owns",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Action 52 Owns",
                 "type": "copy"
             }
         ]

@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Lovely Planet/Windows",
-                "to": "$HDD_MAIN_ROOT/Lovely Planet",
+                "from": "DISC_MAIN_ROOT/Lovely Planet/Windows",
+                "to": "HDD_MAIN_ROOT/Lovely Planet",
                 "type": "copy"
             }
         ]

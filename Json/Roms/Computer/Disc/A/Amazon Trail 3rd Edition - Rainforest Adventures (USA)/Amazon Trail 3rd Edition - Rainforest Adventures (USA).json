@@ -2,6 +2,6 @@
     "files": [
         "Amazon Trail 3rd Edition - Rainforest Adventures (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/SETUP.EXE",
+    "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Amazon Trail 3rd Edition - Rainforest Adventures (USA).chd"
 }

@@ -2,6 +2,6 @@
     "files": [
         "Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Autorun.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).chd"
 }

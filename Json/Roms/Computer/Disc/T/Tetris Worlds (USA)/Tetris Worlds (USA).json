@@ -2,6 +2,6 @@
     "files": [
         "Tetris Worlds (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/TWLaunch.exe",
+    "installer_exe": "DISC_MAIN_ROOT/TWLaunch.exe",
     "transform_file": "Tetris Worlds (USA).chd"
 }

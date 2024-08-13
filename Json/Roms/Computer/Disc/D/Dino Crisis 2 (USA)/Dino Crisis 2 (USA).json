@@ -6,13 +6,13 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Dino2",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Dino2",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/*",
-                "to": "$HDD_MAIN_ROOT/Dino2",
+                "from": "SETUP_MAIN_ROOT/fix/*",
+                "to": "HDD_MAIN_ROOT/Dino2",
                 "type": "copy"
             }
         ]

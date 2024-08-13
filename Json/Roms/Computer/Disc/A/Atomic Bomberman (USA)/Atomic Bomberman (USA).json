@@ -2,6 +2,6 @@
     "files": [
         "Atomic Bomberman (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/SETUP.EXE",
+    "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Atomic Bomberman (USA).chd"
 }

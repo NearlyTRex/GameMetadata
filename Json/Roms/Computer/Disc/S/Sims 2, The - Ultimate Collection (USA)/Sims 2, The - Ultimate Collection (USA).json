@@ -2,6 +2,6 @@
     "files": [
         "Sims 2, The - Ultimate Collection (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Setup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Sims 2, The - Ultimate Collection (USA).chd"
 }

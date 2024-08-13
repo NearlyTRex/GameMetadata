@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Sonic3",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Sonic3",
                 "type": "copy"
             }
         ]

@@ -5,6 +5,6 @@
         "Age of Mythology (USA, Europe).m3u",
         "Age of Mythology (USA, Europe).txt"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/SETUP.EXE",
+    "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Age of Mythology (USA, Europe).m3u"
 }

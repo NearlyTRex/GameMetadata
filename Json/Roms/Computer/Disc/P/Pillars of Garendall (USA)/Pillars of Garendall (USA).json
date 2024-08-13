@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT",
-                "to": "$HDD_MAIN_ROOT/Pillars",
+                "from": "DISC_MAIN_ROOT",
+                "to": "HDD_MAIN_ROOT/Pillars",
                 "type": "copy"
             }
         ]

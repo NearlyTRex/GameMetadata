@@ -4,8 +4,8 @@
         "update/Majesty2_patch_1.5.355_en.exe"
     ],
     "installer_exe": [
-        "$DISC_MAIN_ROOT/autorun.exe",
-        "$SETUP_MAIN_ROOT/update/Majesty2_patch_1.5.355_en.exe"
+        "DISC_MAIN_ROOT/autorun.exe",
+        "SETUP_MAIN_ROOT/update/Majesty2_patch_1.5.355_en.exe"
     ],
     "main_game_exe": [
         "Program Files (x86)/Paradox Interactive/Majesty 2/Majesty2.exe"

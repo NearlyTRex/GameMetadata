@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Apotheon_Windows.zip",
-                "to": "$HDD_MAIN_ROOT/Apotheon_Windows",
+                "from": "DISC_MAIN_ROOT/Apotheon_Windows.zip",
+                "to": "HDD_MAIN_ROOT/Apotheon_Windows",
                 "type": "extract"
             }
         ]

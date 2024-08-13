@@ -2,6 +2,6 @@
     "files": [
         "Invisible, Inc (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/Invisible Inc (Windows).exe",
+    "installer_exe": "DISC_MAIN_ROOT/Invisible Inc (Windows).exe",
     "transform_file": "Invisible, Inc (USA).chd"
 }

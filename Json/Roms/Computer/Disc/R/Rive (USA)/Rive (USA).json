@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/RIVE (Windows).zip",
-                "to": "$HDD_MAIN_ROOT/RIVE (Windows)",
+                "from": "DISC_MAIN_ROOT/RIVE (Windows).zip",
+                "to": "HDD_MAIN_ROOT/RIVE (Windows)",
                 "type": "extract"
             }
         ]

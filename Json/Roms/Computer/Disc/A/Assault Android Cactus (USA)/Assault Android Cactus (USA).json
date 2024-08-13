@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/AAC Windows",
-                "to": "$HDD_MAIN_ROOT/AAC Windows",
+                "from": "DISC_MAIN_ROOT/AAC Windows",
+                "to": "HDD_MAIN_ROOT/AAC Windows",
                 "type": "copy"
             }
         ]

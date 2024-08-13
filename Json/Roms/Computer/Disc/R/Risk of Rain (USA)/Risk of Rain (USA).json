@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Windows",
-                "to": "$HDD_MAIN_ROOT/RiskOfRain",
+                "from": "DISC_MAIN_ROOT/Windows",
+                "to": "HDD_MAIN_ROOT/RiskOfRain",
                 "type": "copy"
             }
         ]

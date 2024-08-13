@@ -4,8 +4,8 @@
         "update/DKII_173.exe"
     ],
     "installer_exe": [
-        "$DISC_MAIN_ROOT/Autorun.exe",
-        "$SETUP_MAIN_ROOT/update/DKII_173.exe"
+        "DISC_MAIN_ROOT/Autorun.exe",
+        "SETUP_MAIN_ROOT/update/DKII_173.exe"
     ],
     "sync": {
         "data": [

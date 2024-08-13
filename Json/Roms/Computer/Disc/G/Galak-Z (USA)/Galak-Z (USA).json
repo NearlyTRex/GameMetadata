@@ -5,8 +5,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Galak-Z/Windows",
-                "to": "$HDD_MAIN_ROOT/Galak-Z",
+                "from": "DISC_MAIN_ROOT/Galak-Z/Windows",
+                "to": "HDD_MAIN_ROOT/Galak-Z",
                 "type": "copy"
             }
         ]

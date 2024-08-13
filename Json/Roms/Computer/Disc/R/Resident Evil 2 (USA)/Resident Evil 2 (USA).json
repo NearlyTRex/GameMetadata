@@ -27,18 +27,18 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_THREE_ROOT/data",
-                "to": "$HDD_MAIN_ROOT/ResidentEvil2",
+                "from": "DISC_THREE_ROOT/data",
+                "to": "HDD_MAIN_ROOT/ResidentEvil2",
                 "type": "copy"
             },
             {
-                "from": "$DISC_FOUR_ROOT/*",
-                "to": "$HDD_MAIN_ROOT/ResidentEvil2",
+                "from": "DISC_FOUR_ROOT/*",
+                "to": "HDD_MAIN_ROOT/ResidentEvil2",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/*",
-                "to": "$HDD_MAIN_ROOT/ResidentEvil2",
+                "from": "SETUP_MAIN_ROOT/fix/*",
+                "to": "HDD_MAIN_ROOT/ResidentEvil2",
                 "type": "copy"
             }
         ]

@@ -7,63 +7,63 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/QTW",
+                "from": "DISC_MAIN_ROOT/QTW",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/QTW",
+                "to": "SCUMM_MAIN_ROOT/QTW",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/CHANNEL.DAT",
+                "from": "DISC_MAIN_ROOT/CHANNEL.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/CHANNEL.DAT",
+                "to": "SCUMM_MAIN_ROOT/CHANNEL.DAT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/CREDITS.DAT",
+                "from": "DISC_MAIN_ROOT/CREDITS.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/CREDITS.DAT",
+                "to": "SCUMM_MAIN_ROOT/CREDITS.DAT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/DUNNY.DAT",
+                "from": "DISC_MAIN_ROOT/DUNNY.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/DUNNY.DAT",
+                "to": "SCUMM_MAIN_ROOT/DUNNY.DAT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/Help.dat",
+                "from": "DISC_MAIN_ROOT/Help.dat",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT//Help.dat",
+                "to": "SCUMM_MAIN_ROOT//Help.dat",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/INTRO.DAT",
+                "from": "DISC_MAIN_ROOT/INTRO.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/INTRO.DAT",
+                "to": "SCUMM_MAIN_ROOT/INTRO.DAT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/MECHAN.DAT",
+                "from": "DISC_MAIN_ROOT/MECHAN.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/MECHAN.DAT",
+                "to": "SCUMM_MAIN_ROOT/MECHAN.DAT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/MYST.DAT",
+                "from": "DISC_MAIN_ROOT/MYST.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/MYST.DAT",
+                "to": "SCUMM_MAIN_ROOT/MYST.DAT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/SELEN.DAT",
+                "from": "DISC_MAIN_ROOT/SELEN.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/SELEN.DAT",
+                "to": "SCUMM_MAIN_ROOT/SELEN.DAT",
                 "type": "copy"
             },
             {
-                "from": "$DISC_MAIN_ROOT/STONE.DAT",
+                "from": "DISC_MAIN_ROOT/STONE.DAT",
                 "skip_existing": true,
-                "to": "$SCUMM_MAIN_ROOT/STONE.DAT",
+                "to": "SCUMM_MAIN_ROOT/STONE.DAT",
                 "type": "copy"
             }
         ]

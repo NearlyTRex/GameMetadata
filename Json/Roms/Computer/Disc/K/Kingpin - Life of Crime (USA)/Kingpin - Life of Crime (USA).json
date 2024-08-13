@@ -2,6 +2,6 @@
     "files": [
         "Kingpin - Life of Crime (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/setup.exe",
+    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Kingpin - Life of Crime (USA).chd"
 }

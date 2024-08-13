@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Punch Club v1.1 - Windows.zip",
-                "to": "$HDD_MAIN_ROOT/Punch Club v1.1 - Windows",
+                "from": "DISC_MAIN_ROOT/Punch Club v1.1 - Windows.zip",
+                "to": "HDD_MAIN_ROOT/Punch Club v1.1 - Windows",
                 "type": "extract"
             }
         ]

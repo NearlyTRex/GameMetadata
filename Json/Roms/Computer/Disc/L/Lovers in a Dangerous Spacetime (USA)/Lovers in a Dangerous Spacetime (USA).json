@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Windows.zip",
-                "to": "$HDD_MAIN_ROOT/Lovers",
+                "from": "DISC_MAIN_ROOT/Windows.zip",
+                "to": "HDD_MAIN_ROOT/Lovers",
                 "type": "extract"
             }
         ]

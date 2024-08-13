@@ -2,7 +2,7 @@
     "files": [
         "Mega Man X3 (USA).chd"
     ],
-    "installer_exe": "$DISC_MAIN_ROOT/AUTORUN.EXE",
+    "installer_exe": "DISC_MAIN_ROOT/AUTORUN.EXE",
     "main_game_exe": [
         "CAPCOM/MEGAMANX3/MMX3.EXE"
     ],

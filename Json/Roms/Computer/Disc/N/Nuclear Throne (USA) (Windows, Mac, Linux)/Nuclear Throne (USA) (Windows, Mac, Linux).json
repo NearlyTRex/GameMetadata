@@ -11,8 +11,8 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/win.zip",
-                "to": "$HDD_MAIN_ROOT/Nuclear Throne",
+                "from": "DISC_MAIN_ROOT/win.zip",
+                "to": "HDD_MAIN_ROOT/Nuclear Throne",
                 "type": "extract"
             }
         ]

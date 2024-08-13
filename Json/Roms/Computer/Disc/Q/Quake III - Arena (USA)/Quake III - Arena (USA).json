@@ -14,18 +14,18 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_MAIN_ROOT/Quake3/baseq3",
-                "to": "$HDD_MAIN_ROOT/Quake3/baseq3",
+                "from": "DISC_MAIN_ROOT/Quake3/baseq3",
+                "to": "HDD_MAIN_ROOT/Quake3/baseq3",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/release-mingw64-x86_64.zip",
-                "to": "$HDD_MAIN_ROOT/Quake3",
+                "from": "SETUP_MAIN_ROOT/fix/release-mingw64-x86_64.zip",
+                "to": "HDD_MAIN_ROOT/Quake3",
                 "type": "extract"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/Point-Release-1.32-PAK.zip",
-                "to": "$HDD_MAIN_ROOT/Quake3/baseq3",
+                "from": "SETUP_MAIN_ROOT/fix/Point-Release-1.32-PAK.zip",
+                "to": "HDD_MAIN_ROOT/Quake3/baseq3",
                 "type": "extract"
             }
         ]

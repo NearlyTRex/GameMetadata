@@ -28,23 +28,23 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_TWO_ROOT/horr/JPN",
-                "to": "$HDD_MAIN_ROOT/ResidentEvil/JPN",
+                "from": "DISC_TWO_ROOT/horr/JPN",
+                "to": "HDD_MAIN_ROOT/ResidentEvil/JPN",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT/OMAKE",
-                "to": "$HDD_MAIN_ROOT/ResidentEvil/OMAKE",
+                "from": "DISC_TWO_ROOT/OMAKE",
+                "to": "HDD_MAIN_ROOT/ResidentEvil/OMAKE",
                 "type": "copy"
             },
             {
-                "from": "$DISC_THREE_ROOT/*",
-                "to": "$HDD_MAIN_ROOT/ResidentEvil",
+                "from": "DISC_THREE_ROOT/*",
+                "to": "HDD_MAIN_ROOT/ResidentEvil",
                 "type": "copy"
             },
             {
-                "from": "$SETUP_MAIN_ROOT/fix/*",
-                "to": "$HDD_MAIN_ROOT/ResidentEvil",
+                "from": "SETUP_MAIN_ROOT/fix/*",
+                "to": "HDD_MAIN_ROOT/ResidentEvil",
                 "type": "copy"
             }
         ]

@@ -13,10 +13,10 @@
         "SimCity Box, The (USA).m3u"
     ],
     "installer_exe": [
-        "$DISC_ONE_ROOT/setup.exe",
-        "$DISC_THREE_ROOT/AutoRun.exe",
-        "$DISC_FOUR_ROOT/AutoRun.exe",
-        "$DISC_FIVE_ROOT/AutoRun.exe"
+        "DISC_ONE_ROOT/setup.exe",
+        "DISC_THREE_ROOT/AutoRun.exe",
+        "DISC_FOUR_ROOT/AutoRun.exe",
+        "DISC_FIVE_ROOT/AutoRun.exe"
     ],
     "transform_file": "SimCity Box, The (USA).m3u"
 }

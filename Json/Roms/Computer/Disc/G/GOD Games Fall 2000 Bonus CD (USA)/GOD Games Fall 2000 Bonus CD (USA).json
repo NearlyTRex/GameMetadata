@@ -7,13 +7,13 @@
     "steps": {
         "preinstall": [
             {
-                "from": "$DISC_ONE_ROOT",
-                "to": "$HDD_MAIN_ROOT/God Games Fall 2000/D1",
+                "from": "DISC_ONE_ROOT",
+                "to": "HDD_MAIN_ROOT/God Games Fall 2000/D1",
                 "type": "copy"
             },
             {
-                "from": "$DISC_TWO_ROOT",
-                "to": "$HDD_MAIN_ROOT/God Games Fall 2000/D2",
+                "from": "DISC_TWO_ROOT",
+                "to": "HDD_MAIN_ROOT/God Games Fall 2000/D2",
                 "type": "copy"
             }
         ]
