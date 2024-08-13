@@ -7,7 +7,7 @@
         "ACA Neo Geo - Crossed Swords (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/ACA Neo Geo - Crossed Swords (USA).exe"
+        "SETUP_MAIN_ROOT/ACA Neo Geo - Crossed Swords (USA).exe"
     ],
     "transform_file": "ACA Neo Geo - Crossed Swords (USA).exe"
 }

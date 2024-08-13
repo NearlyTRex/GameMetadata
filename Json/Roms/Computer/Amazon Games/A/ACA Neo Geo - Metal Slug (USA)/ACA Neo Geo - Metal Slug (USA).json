@@ -7,7 +7,7 @@
         "ACA Neo Geo - Metal Slug (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/ACA Neo Geo - Metal Slug (USA).exe"
+        "SETUP_MAIN_ROOT/ACA Neo Geo - Metal Slug (USA).exe"
     ],
     "transform_file": "ACA Neo Geo - Metal Slug (USA).exe"
 }

@@ -7,7 +7,7 @@
         "Cook, Serve, Delicious! 3! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cook, Serve, Delicious! 3! (USA).exe"
+        "SETUP_MAIN_ROOT/Cook, Serve, Delicious! 3! (USA).exe"
     ],
     "transform_file": "Cook, Serve, Delicious! 3! (USA).exe"
 }

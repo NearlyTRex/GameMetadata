@@ -7,7 +7,7 @@
         "ACA Neo Geo - Ninja Masters (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/ACA Neo Geo - Ninja Masters (USA).exe"
+        "SETUP_MAIN_ROOT/ACA Neo Geo - Ninja Masters (USA).exe"
     ],
     "transform_file": "ACA Neo Geo - Ninja Masters (USA).exe"
 }

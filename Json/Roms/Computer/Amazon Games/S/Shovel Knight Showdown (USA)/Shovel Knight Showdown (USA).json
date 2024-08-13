@@ -7,7 +7,7 @@
         "Shovel Knight Showdown (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Shovel Knight Showdown (USA).exe"
+        "SETUP_MAIN_ROOT/Shovel Knight Showdown (USA).exe"
     ],
     "transform_file": "Shovel Knight Showdown (USA).exe"
 }

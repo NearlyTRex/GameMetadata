@@ -7,7 +7,7 @@
         "ACA Neo Geo - Alpha Mission II (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/ACA Neo Geo - Alpha Mission II (USA).exe"
+        "SETUP_MAIN_ROOT/ACA Neo Geo - Alpha Mission II (USA).exe"
     ],
     "transform_file": "ACA Neo Geo - Alpha Mission II (USA).exe"
 }

@@ -7,7 +7,7 @@
         "Roguebook (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Roguebook (USA).exe"
+        "SETUP_MAIN_ROOT/Roguebook (USA).exe"
     ],
     "transform_file": "Roguebook (USA).exe"
 }

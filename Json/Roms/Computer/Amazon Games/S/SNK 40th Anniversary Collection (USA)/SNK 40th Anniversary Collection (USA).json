@@ -7,7 +7,7 @@
         "SNK 40th Anniversary Collection (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/SNK 40th Anniversary Collection (USA).exe"
+        "SETUP_MAIN_ROOT/SNK 40th Anniversary Collection (USA).exe"
     ],
     "transform_file": "SNK 40th Anniversary Collection (USA).exe"
 }

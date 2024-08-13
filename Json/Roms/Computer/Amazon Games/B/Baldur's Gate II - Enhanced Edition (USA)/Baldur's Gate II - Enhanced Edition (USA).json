@@ -7,7 +7,7 @@
         "Baldur's Gate II - Enhanced Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Baldur's Gate II - Enhanced Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Baldur's Gate II - Enhanced Edition (USA).exe"
     ],
     "transform_file": "Baldur's Gate II - Enhanced Edition (USA).exe"
 }

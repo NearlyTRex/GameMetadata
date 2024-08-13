@@ -7,7 +7,7 @@
         "Foretales (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Foretales (USA).exe"
+        "SETUP_MAIN_ROOT/Foretales (USA).exe"
     ],
     "transform_file": "Foretales (USA).exe"
 }

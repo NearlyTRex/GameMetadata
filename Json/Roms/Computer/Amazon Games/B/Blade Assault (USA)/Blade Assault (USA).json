@@ -7,7 +7,7 @@
         "Blade Assault (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Blade Assault (USA).exe"
+        "SETUP_MAIN_ROOT/Blade Assault (USA).exe"
     ],
     "transform_file": "Blade Assault (USA).exe"
 }
