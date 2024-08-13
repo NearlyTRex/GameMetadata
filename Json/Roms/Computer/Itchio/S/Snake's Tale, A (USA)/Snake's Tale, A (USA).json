@@ -3,7 +3,7 @@
         "Snake's Tale, A (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Snake's Tale, A (USA).exe"
+        "SETUP_MAIN_ROOT/Snake's Tale, A (USA).exe"
     ],
     "transform_file": "Snake's Tale, A (USA).exe"
 }

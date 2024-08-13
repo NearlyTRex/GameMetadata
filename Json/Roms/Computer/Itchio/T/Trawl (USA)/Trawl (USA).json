@@ -3,7 +3,7 @@
         "Trawl (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Trawl (USA).exe"
+        "SETUP_MAIN_ROOT/Trawl (USA).exe"
     ],
     "transform_file": "Trawl (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Spooky Waltz (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Spooky Waltz (USA).exe"
+        "SETUP_MAIN_ROOT/Spooky Waltz (USA).exe"
     ],
     "transform_file": "Spooky Waltz (USA).exe"
 }

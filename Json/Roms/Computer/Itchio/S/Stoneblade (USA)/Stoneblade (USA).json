@@ -3,7 +3,7 @@
         "Stoneblade (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stoneblade (USA).exe"
+        "SETUP_MAIN_ROOT/Stoneblade (USA).exe"
     ],
     "transform_file": "Stoneblade (USA).exe"
 }

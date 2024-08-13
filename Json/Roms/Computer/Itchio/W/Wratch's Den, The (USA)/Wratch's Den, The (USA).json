@@ -3,7 +3,7 @@
         "Wratch's Den, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Wratch's Den, The (USA).exe"
+        "SETUP_MAIN_ROOT/Wratch's Den, The (USA).exe"
     ],
     "transform_file": "Wratch's Den, The (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Quench (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Quench (USA).exe"
+        "SETUP_MAIN_ROOT/Quench (USA).exe"
     ],
     "transform_file": "Quench (USA).exe"
 }

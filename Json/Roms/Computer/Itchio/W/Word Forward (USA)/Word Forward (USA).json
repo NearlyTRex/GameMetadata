@@ -3,7 +3,7 @@
         "Word Forward (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Word Forward (USA).exe"
+        "SETUP_MAIN_ROOT/Word Forward (USA).exe"
     ],
     "transform_file": "Word Forward (USA).exe"
 }

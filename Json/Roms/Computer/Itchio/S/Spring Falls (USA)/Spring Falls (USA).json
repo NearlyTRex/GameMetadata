@@ -3,7 +3,7 @@
         "Spring Falls (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Spring Falls (USA).exe"
+        "SETUP_MAIN_ROOT/Spring Falls (USA).exe"
     ],
     "transform_file": "Spring Falls (USA).exe"
 }

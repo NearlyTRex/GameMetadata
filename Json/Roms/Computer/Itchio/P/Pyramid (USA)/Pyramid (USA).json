@@ -3,7 +3,7 @@
         "Pyramid (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pyramid (USA).exe"
+        "SETUP_MAIN_ROOT/Pyramid (USA).exe"
     ],
     "transform_file": "Pyramid (USA).exe"
 }

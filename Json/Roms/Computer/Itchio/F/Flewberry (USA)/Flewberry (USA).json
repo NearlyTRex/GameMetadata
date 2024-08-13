@@ -3,7 +3,7 @@
         "Flewberry (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Flewberry (USA).exe"
+        "SETUP_MAIN_ROOT/Flewberry (USA).exe"
     ],
     "transform_file": "Flewberry (USA).exe"
 }

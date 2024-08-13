@@ -3,7 +3,7 @@
         "Missing Locksmith, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Missing Locksmith, The (USA).exe"
+        "SETUP_MAIN_ROOT/Missing Locksmith, The (USA).exe"
     ],
     "transform_file": "Missing Locksmith, The (USA).exe"
 }

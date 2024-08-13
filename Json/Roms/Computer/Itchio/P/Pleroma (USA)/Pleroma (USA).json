@@ -3,7 +3,7 @@
         "Pleroma (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pleroma (USA).exe"
+        "SETUP_MAIN_ROOT/Pleroma (USA).exe"
     ],
     "transform_file": "Pleroma (USA).exe"
 }

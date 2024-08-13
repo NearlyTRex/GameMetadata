@@ -3,7 +3,7 @@
         "10 Flights of Ballooning (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/10 Flights of Ballooning (USA).exe"
+        "SETUP_MAIN_ROOT/10 Flights of Ballooning (USA).exe"
     ],
     "transform_file": "10 Flights of Ballooning (USA).exe"
 }

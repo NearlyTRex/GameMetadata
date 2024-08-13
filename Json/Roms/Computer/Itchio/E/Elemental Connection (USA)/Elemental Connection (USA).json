@@ -3,7 +3,7 @@
         "Elemental Connection (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Elemental Connection (USA).exe"
+        "SETUP_MAIN_ROOT/Elemental Connection (USA).exe"
     ],
     "transform_file": "Elemental Connection (USA).exe"
 }

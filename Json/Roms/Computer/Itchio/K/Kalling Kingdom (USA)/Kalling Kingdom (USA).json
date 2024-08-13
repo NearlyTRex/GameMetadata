@@ -3,7 +3,7 @@
         "Kalling Kingdom (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Kalling Kingdom (USA).exe"
+        "SETUP_MAIN_ROOT/Kalling Kingdom (USA).exe"
     ],
     "transform_file": "Kalling Kingdom (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Evangeline (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Evangeline (USA).exe"
+        "SETUP_MAIN_ROOT/Evangeline (USA).exe"
     ],
     "transform_file": "Evangeline (USA).exe"
 }

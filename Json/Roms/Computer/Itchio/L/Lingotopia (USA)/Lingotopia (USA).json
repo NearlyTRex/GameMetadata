@@ -3,7 +3,7 @@
         "Lingotopia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lingotopia (USA).exe"
+        "SETUP_MAIN_ROOT/Lingotopia (USA).exe"
     ],
     "transform_file": "Lingotopia (USA).exe"
 }

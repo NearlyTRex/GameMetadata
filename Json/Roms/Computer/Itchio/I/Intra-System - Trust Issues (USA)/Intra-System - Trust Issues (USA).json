@@ -3,7 +3,7 @@
         "Intra-System - Trust Issues (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Intra-System - Trust Issues (USA).exe"
+        "SETUP_MAIN_ROOT/Intra-System - Trust Issues (USA).exe"
     ],
     "transform_file": "Intra-System - Trust Issues (USA).exe"
 }

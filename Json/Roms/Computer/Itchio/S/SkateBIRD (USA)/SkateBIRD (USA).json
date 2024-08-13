@@ -3,7 +3,7 @@
         "SkateBIRD (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/SkateBIRD (USA).exe"
+        "SETUP_MAIN_ROOT/SkateBIRD (USA).exe"
     ],
     "transform_file": "SkateBIRD (USA).exe"
 }

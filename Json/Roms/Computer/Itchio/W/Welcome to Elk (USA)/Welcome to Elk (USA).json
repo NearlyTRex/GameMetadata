@@ -3,7 +3,7 @@
         "Welcome to Elk (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Welcome to Elk (USA).exe"
+        "SETUP_MAIN_ROOT/Welcome to Elk (USA).exe"
     ],
     "transform_file": "Welcome to Elk (USA).exe"
 }

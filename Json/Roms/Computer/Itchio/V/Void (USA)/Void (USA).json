@@ -3,7 +3,7 @@
         "Void (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Void (USA).exe"
+        "SETUP_MAIN_ROOT/Void (USA).exe"
     ],
     "transform_file": "Void (USA).exe"
 }

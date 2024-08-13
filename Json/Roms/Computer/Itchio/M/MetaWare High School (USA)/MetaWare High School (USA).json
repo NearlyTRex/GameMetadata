@@ -3,7 +3,7 @@
         "MetaWare High School (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/MetaWare High School (USA).exe"
+        "SETUP_MAIN_ROOT/MetaWare High School (USA).exe"
     ],
     "transform_file": "MetaWare High School (USA).exe"
 }

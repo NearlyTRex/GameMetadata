@@ -3,7 +3,7 @@
         "Sarawak (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sarawak (USA).exe"
+        "SETUP_MAIN_ROOT/Sarawak (USA).exe"
     ],
     "transform_file": "Sarawak (USA).exe"
 }

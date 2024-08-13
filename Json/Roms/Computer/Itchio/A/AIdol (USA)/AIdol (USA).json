@@ -3,7 +3,7 @@
         "AIdol (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/AIdol (USA).exe"
+        "SETUP_MAIN_ROOT/AIdol (USA).exe"
     ],
     "transform_file": "AIdol (USA).exe"
 }

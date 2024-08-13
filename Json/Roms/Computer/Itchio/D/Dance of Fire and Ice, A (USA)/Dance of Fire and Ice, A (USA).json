@@ -3,7 +3,7 @@
         "Dance of Fire and Ice, A (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dance of Fire and Ice, A (USA).exe"
+        "SETUP_MAIN_ROOT/Dance of Fire and Ice, A (USA).exe"
     ],
     "transform_file": "Dance of Fire and Ice, A (USA).exe"
 }

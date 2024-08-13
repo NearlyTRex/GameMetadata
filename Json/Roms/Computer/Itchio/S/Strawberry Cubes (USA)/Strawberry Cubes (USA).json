@@ -3,7 +3,7 @@
         "Strawberry Cubes (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Strawberry Cubes (USA).exe"
+        "SETUP_MAIN_ROOT/Strawberry Cubes (USA).exe"
     ],
     "transform_file": "Strawberry Cubes (USA).exe"
 }

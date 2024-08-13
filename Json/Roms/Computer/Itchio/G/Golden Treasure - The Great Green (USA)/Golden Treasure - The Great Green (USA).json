@@ -3,7 +3,7 @@
         "Golden Treasure - The Great Green (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Golden Treasure - The Great Green (USA).exe"
+        "SETUP_MAIN_ROOT/Golden Treasure - The Great Green (USA).exe"
     ],
     "transform_file": "Golden Treasure - The Great Green (USA).exe"
 }

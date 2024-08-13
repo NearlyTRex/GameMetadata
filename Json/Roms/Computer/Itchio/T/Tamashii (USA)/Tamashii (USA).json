@@ -3,7 +3,7 @@
         "Tamashii (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tamashii (USA).exe"
+        "SETUP_MAIN_ROOT/Tamashii (USA).exe"
     ],
     "transform_file": "Tamashii (USA).exe"
 }

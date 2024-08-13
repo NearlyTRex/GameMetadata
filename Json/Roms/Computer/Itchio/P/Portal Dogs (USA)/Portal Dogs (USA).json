@@ -3,7 +3,7 @@
         "Portal Dogs (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Portal Dogs (USA).exe"
+        "SETUP_MAIN_ROOT/Portal Dogs (USA).exe"
     ],
     "transform_file": "Portal Dogs (USA).exe"
 }

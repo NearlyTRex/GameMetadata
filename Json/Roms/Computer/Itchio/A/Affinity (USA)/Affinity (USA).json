@@ -3,7 +3,7 @@
         "Affinity (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Affinity (USA).exe"
+        "SETUP_MAIN_ROOT/Affinity (USA).exe"
     ],
     "transform_file": "Affinity (USA).exe"
 }

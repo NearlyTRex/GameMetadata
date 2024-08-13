@@ -3,7 +3,7 @@
         "Dangerous Roads Ahead (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dangerous Roads Ahead (USA).exe"
+        "SETUP_MAIN_ROOT/Dangerous Roads Ahead (USA).exe"
     ],
     "transform_file": "Dangerous Roads Ahead (USA).exe"
 }

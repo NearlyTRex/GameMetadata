@@ -3,7 +3,7 @@
         "Tennnes (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tennnes (USA).exe"
+        "SETUP_MAIN_ROOT/Tennnes (USA).exe"
     ],
     "transform_file": "Tennnes (USA).exe"
 }

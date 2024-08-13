@@ -3,7 +3,7 @@
         "Sanguine Sanctum (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sanguine Sanctum (USA).exe"
+        "SETUP_MAIN_ROOT/Sanguine Sanctum (USA).exe"
     ],
     "transform_file": "Sanguine Sanctum (USA).exe"
 }

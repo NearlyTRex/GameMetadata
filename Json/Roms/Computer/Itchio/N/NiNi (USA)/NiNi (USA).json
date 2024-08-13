@@ -3,7 +3,7 @@
         "NiNi (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/NiNi (USA).exe"
+        "SETUP_MAIN_ROOT/NiNi (USA).exe"
     ],
     "transform_file": "NiNi (USA).exe"
 }

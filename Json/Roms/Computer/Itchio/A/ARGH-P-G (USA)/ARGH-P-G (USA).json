@@ -3,7 +3,7 @@
         "ARGH-P-G (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/ARGH-P-G (USA).exe"
+        "SETUP_MAIN_ROOT/ARGH-P-G (USA).exe"
     ],
     "transform_file": "ARGH-P-G (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Erth (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Erth (USA).exe"
+        "SETUP_MAIN_ROOT/Erth (USA).exe"
     ],
     "transform_file": "Erth (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Turn-Based Champion (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Turn-Based Champion (USA).exe"
+        "SETUP_MAIN_ROOT/Turn-Based Champion (USA).exe"
     ],
     "transform_file": "Turn-Based Champion (USA).exe"
 }

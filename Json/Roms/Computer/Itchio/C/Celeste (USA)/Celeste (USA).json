@@ -3,7 +3,7 @@
         "Celeste (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Celeste (USA).exe"
+        "SETUP_MAIN_ROOT/Celeste (USA).exe"
     ],
     "transform_file": "Celeste (USA).exe"
 }

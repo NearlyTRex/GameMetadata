@@ -3,7 +3,7 @@
         "Carbage (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Carbage (USA).exe"
+        "SETUP_MAIN_ROOT/Carbage (USA).exe"
     ],
     "transform_file": "Carbage (USA).exe"
 }

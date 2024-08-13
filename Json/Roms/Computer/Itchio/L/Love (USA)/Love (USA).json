@@ -3,7 +3,7 @@
         "Love (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Love (USA).exe"
+        "SETUP_MAIN_ROOT/Love (USA).exe"
     ],
     "transform_file": "Love (USA).exe"
 }

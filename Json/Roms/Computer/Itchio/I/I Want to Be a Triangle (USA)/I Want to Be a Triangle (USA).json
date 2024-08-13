@@ -3,7 +3,7 @@
         "I Want to Be a Triangle (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/I Want to Be a Triangle (USA).exe"
+        "SETUP_MAIN_ROOT/I Want to Be a Triangle (USA).exe"
     ],
     "transform_file": "I Want to Be a Triangle (USA).exe"
 }

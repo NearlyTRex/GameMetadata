@@ -3,7 +3,7 @@
         "Monster Jaunt (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Monster Jaunt (USA).exe"
+        "SETUP_MAIN_ROOT/Monster Jaunt (USA).exe"
     ],
     "transform_file": "Monster Jaunt (USA).exe"
 }

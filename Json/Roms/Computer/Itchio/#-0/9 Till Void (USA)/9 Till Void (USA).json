@@ -3,7 +3,7 @@
         "9 Till Void (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/9 Till Void (USA).exe"
+        "SETUP_MAIN_ROOT/9 Till Void (USA).exe"
     ],
     "transform_file": "9 Till Void (USA).exe"
 }

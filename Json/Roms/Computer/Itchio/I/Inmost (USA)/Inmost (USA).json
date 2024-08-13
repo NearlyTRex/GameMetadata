@@ -3,7 +3,7 @@
         "Inmost (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Inmost (USA).exe"
+        "SETUP_MAIN_ROOT/Inmost (USA).exe"
     ],
     "transform_file": "Inmost (USA).exe"
 }

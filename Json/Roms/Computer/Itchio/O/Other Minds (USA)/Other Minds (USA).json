@@ -3,7 +3,7 @@
         "Other Minds (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Other Minds (USA).exe"
+        "SETUP_MAIN_ROOT/Other Minds (USA).exe"
     ],
     "transform_file": "Other Minds (USA).exe"
 }

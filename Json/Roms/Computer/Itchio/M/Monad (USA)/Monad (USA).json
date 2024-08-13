@@ -3,7 +3,7 @@
         "Monad (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Monad (USA).exe"
+        "SETUP_MAIN_ROOT/Monad (USA).exe"
     ],
     "transform_file": "Monad (USA).exe"
 }

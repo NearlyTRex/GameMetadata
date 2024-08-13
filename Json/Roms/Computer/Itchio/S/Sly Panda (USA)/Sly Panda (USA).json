@@ -3,7 +3,7 @@
         "Sly Panda (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sly Panda (USA).exe"
+        "SETUP_MAIN_ROOT/Sly Panda (USA).exe"
     ],
     "transform_file": "Sly Panda (USA).exe"
 }

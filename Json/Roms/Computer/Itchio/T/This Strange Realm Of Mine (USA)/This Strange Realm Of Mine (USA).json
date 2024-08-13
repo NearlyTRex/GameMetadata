@@ -3,7 +3,7 @@
         "This Strange Realm Of Mine (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/This Strange Realm Of Mine (USA).exe"
+        "SETUP_MAIN_ROOT/This Strange Realm Of Mine (USA).exe"
     ],
     "transform_file": "This Strange Realm Of Mine (USA).exe"
 }

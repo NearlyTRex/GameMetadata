@@ -3,7 +3,7 @@
         "Multipuck (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Multipuck (USA).exe"
+        "SETUP_MAIN_ROOT/Multipuck (USA).exe"
     ],
     "transform_file": "Multipuck (USA).exe"
 }

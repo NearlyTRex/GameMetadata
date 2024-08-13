@@ -3,7 +3,7 @@
         "Beacon (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Beacon (USA).exe"
+        "SETUP_MAIN_ROOT/Beacon (USA).exe"
     ],
     "transform_file": "Beacon (USA).exe"
 }

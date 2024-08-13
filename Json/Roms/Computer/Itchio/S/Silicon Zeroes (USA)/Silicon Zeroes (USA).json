@@ -3,7 +3,7 @@
         "Silicon Zeroes (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Silicon Zeroes (USA).exe"
+        "SETUP_MAIN_ROOT/Silicon Zeroes (USA).exe"
     ],
     "transform_file": "Silicon Zeroes (USA).exe"
 }

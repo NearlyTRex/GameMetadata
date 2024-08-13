@@ -3,7 +3,7 @@
         "Pichon! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pichon! (USA).exe"
+        "SETUP_MAIN_ROOT/Pichon! (USA).exe"
     ],
     "transform_file": "Pichon! (USA).exe"
 }

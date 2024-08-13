@@ -3,7 +3,7 @@
         "Sword and the Slime, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sword and the Slime, The (USA).exe"
+        "SETUP_MAIN_ROOT/Sword and the Slime, The (USA).exe"
     ],
     "transform_file": "Sword and the Slime, The (USA).exe"
 }

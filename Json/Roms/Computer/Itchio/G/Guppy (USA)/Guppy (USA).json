@@ -3,7 +3,7 @@
         "Guppy (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Guppy (USA).exe"
+        "SETUP_MAIN_ROOT/Guppy (USA).exe"
     ],
     "transform_file": "Guppy (USA).exe"
 }

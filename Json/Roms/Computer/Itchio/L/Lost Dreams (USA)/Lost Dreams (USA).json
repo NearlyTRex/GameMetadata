@@ -3,7 +3,7 @@
         "Lost Dreams (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lost Dreams (USA).exe"
+        "SETUP_MAIN_ROOT/Lost Dreams (USA).exe"
     ],
     "transform_file": "Lost Dreams (USA).exe"
 }

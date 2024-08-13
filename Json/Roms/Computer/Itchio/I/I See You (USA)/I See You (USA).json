@@ -3,7 +3,7 @@
         "I See You (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/I See You (USA).exe"
+        "SETUP_MAIN_ROOT/I See You (USA).exe"
     ],
     "transform_file": "I See You (USA).exe"
 }

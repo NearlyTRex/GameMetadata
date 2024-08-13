@@ -3,7 +3,7 @@
         "Immure (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Immure (USA).exe"
+        "SETUP_MAIN_ROOT/Immure (USA).exe"
     ],
     "transform_file": "Immure (USA).exe"
 }

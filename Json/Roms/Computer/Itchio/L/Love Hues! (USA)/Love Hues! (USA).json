@@ -3,7 +3,7 @@
         "Love Hues! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Love Hues! (USA).exe"
+        "SETUP_MAIN_ROOT/Love Hues! (USA).exe"
     ],
     "transform_file": "Love Hues! (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Escape from Life Inc (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Escape from Life Inc (USA).exe"
+        "SETUP_MAIN_ROOT/Escape from Life Inc (USA).exe"
     ],
     "transform_file": "Escape from Life Inc (USA).exe"
 }

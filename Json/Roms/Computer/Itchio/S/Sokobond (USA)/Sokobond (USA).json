@@ -3,7 +3,7 @@
         "Sokobond (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sokobond (USA).exe"
+        "SETUP_MAIN_ROOT/Sokobond (USA).exe"
     ],
     "transform_file": "Sokobond (USA).exe"
 }

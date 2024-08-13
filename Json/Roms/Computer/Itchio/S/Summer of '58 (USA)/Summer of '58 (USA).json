@@ -5,7 +5,7 @@
         "Summer of '58 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Summer of '58 (USA).exe"
+        "SETUP_MAIN_ROOT/Summer of '58 (USA).exe"
     ],
     "transform_file": "Summer of '58 (USA).exe"
 }

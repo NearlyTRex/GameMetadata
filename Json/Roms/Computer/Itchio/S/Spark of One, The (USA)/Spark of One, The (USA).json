@@ -3,7 +3,7 @@
         "Spark of One, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Spark of One, The (USA).exe"
+        "SETUP_MAIN_ROOT/Spark of One, The (USA).exe"
     ],
     "transform_file": "Spark of One, The (USA).exe"
 }

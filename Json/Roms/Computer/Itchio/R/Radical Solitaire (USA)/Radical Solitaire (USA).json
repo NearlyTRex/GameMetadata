@@ -3,7 +3,7 @@
         "Radical Solitaire (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Radical Solitaire (USA).exe"
+        "SETUP_MAIN_ROOT/Radical Solitaire (USA).exe"
     ],
     "transform_file": "Radical Solitaire (USA).exe"
 }

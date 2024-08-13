@@ -3,7 +3,7 @@
         "Tic Tac Together (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tic Tac Together (USA).exe"
+        "SETUP_MAIN_ROOT/Tic Tac Together (USA).exe"
     ],
     "transform_file": "Tic Tac Together (USA).exe"
 }

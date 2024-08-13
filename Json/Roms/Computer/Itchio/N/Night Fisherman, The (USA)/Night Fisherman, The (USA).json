@@ -3,7 +3,7 @@
         "Night Fisherman, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Night Fisherman, The (USA).exe"
+        "SETUP_MAIN_ROOT/Night Fisherman, The (USA).exe"
     ],
     "transform_file": "Night Fisherman, The (USA).exe"
 }

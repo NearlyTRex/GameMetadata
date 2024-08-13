@@ -3,7 +3,7 @@
         "BoomTown (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/BoomTown (USA).exe"
+        "SETUP_MAIN_ROOT/BoomTown (USA).exe"
     ],
     "transform_file": "BoomTown (USA).exe"
 }

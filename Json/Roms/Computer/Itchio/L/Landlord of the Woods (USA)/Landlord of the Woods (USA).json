@@ -3,7 +3,7 @@
         "Landlord of the Woods (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Landlord of the Woods (USA).exe"
+        "SETUP_MAIN_ROOT/Landlord of the Woods (USA).exe"
     ],
     "transform_file": "Landlord of the Woods (USA).exe"
 }

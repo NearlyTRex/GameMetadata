@@ -3,7 +3,7 @@
         "Quadrilateral Cowboy (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Quadrilateral Cowboy (USA).exe"
+        "SETUP_MAIN_ROOT/Quadrilateral Cowboy (USA).exe"
     ],
     "transform_file": "Quadrilateral Cowboy (USA).exe"
 }

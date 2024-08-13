@@ -3,7 +3,7 @@
         "Swim Out (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Swim Out (USA).exe"
+        "SETUP_MAIN_ROOT/Swim Out (USA).exe"
     ],
     "transform_file": "Swim Out (USA).exe"
 }

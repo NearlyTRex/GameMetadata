@@ -3,7 +3,7 @@
         "Millikan's Reach (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Millikan's Reach (USA).exe"
+        "SETUP_MAIN_ROOT/Millikan's Reach (USA).exe"
     ],
     "transform_file": "Millikan's Reach (USA).exe"
 }

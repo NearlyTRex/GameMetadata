@@ -3,7 +3,7 @@
         "Lydia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lydia (USA).exe"
+        "SETUP_MAIN_ROOT/Lydia (USA).exe"
     ],
     "transform_file": "Lydia (USA).exe"
 }

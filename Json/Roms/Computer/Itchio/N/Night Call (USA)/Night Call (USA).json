@@ -3,7 +3,7 @@
         "Night Call (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Night Call (USA).exe"
+        "SETUP_MAIN_ROOT/Night Call (USA).exe"
     ],
     "transform_file": "Night Call (USA).exe"
 }

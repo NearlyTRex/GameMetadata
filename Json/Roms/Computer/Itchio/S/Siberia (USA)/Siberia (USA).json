@@ -3,7 +3,7 @@
         "Siberia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Siberia (USA).exe"
+        "SETUP_MAIN_ROOT/Siberia (USA).exe"
     ],
     "transform_file": "Siberia (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Rulent Tower VR (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rulent Tower VR (USA).exe"
+        "SETUP_MAIN_ROOT/Rulent Tower VR (USA).exe"
     ],
     "transform_file": "Rulent Tower VR (USA).exe"
 }

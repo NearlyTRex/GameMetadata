@@ -3,7 +3,7 @@
         "Sewer Rave (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sewer Rave (USA).exe"
+        "SETUP_MAIN_ROOT/Sewer Rave (USA).exe"
     ],
     "transform_file": "Sewer Rave (USA).exe"
 }

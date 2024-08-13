@@ -3,7 +3,7 @@
         "Viral Reload (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Viral Reload (USA).exe"
+        "SETUP_MAIN_ROOT/Viral Reload (USA).exe"
     ],
     "transform_file": "Viral Reload (USA).exe"
 }

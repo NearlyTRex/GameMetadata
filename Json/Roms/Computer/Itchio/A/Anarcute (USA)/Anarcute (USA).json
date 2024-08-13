@@ -3,7 +3,7 @@
         "Anarcute (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Anarcute (USA).exe"
+        "SETUP_MAIN_ROOT/Anarcute (USA).exe"
     ],
     "transform_file": "Anarcute (USA).exe"
 }

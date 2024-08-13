@@ -3,7 +3,7 @@
         "MiTOS (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/MiTOS (USA).exe"
+        "SETUP_MAIN_ROOT/MiTOS (USA).exe"
     ],
     "transform_file": "MiTOS (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Firemakaf (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Firemakaf (USA).exe"
+        "SETUP_MAIN_ROOT/Firemakaf (USA).exe"
     ],
     "transform_file": "Firemakaf (USA).exe"
 }

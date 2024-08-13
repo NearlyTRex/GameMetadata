@@ -3,7 +3,7 @@
         "Speed Farmers (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Speed Farmers (USA).exe"
+        "SETUP_MAIN_ROOT/Speed Farmers (USA).exe"
     ],
     "transform_file": "Speed Farmers (USA).exe"
 }

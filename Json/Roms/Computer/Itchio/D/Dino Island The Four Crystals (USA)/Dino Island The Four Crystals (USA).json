@@ -3,7 +3,7 @@
         "Dino Island The Four Crystals (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dino Island The Four Crystals (USA).exe"
+        "SETUP_MAIN_ROOT/Dino Island The Four Crystals (USA).exe"
     ],
     "transform_file": "Dino Island The Four Crystals (USA).exe"
 }

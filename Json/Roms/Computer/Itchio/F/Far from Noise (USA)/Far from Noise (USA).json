@@ -3,7 +3,7 @@
         "Far from Noise (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Far from Noise (USA).exe"
+        "SETUP_MAIN_ROOT/Far from Noise (USA).exe"
     ],
     "transform_file": "Far from Noise (USA).exe"
 }

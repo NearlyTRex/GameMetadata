@@ -3,7 +3,7 @@
         "My Haunted Doll (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/My Haunted Doll (USA).exe"
+        "SETUP_MAIN_ROOT/My Haunted Doll (USA).exe"
     ],
     "transform_file": "My Haunted Doll (USA).exe"
 }

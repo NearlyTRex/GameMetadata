@@ -3,7 +3,7 @@
         "What Happened to Survey Team 4 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/What Happened to Survey Team 4 (USA).exe"
+        "SETUP_MAIN_ROOT/What Happened to Survey Team 4 (USA).exe"
     ],
     "transform_file": "What Happened to Survey Team 4 (USA).exe"
 }

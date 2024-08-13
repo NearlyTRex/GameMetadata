@@ -3,7 +3,7 @@
         "Ghost Story (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ghost Story (USA).exe"
+        "SETUP_MAIN_ROOT/Ghost Story (USA).exe"
     ],
     "transform_file": "Ghost Story (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Lazy Galaxy - Rebel Story (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lazy Galaxy - Rebel Story (USA).exe"
+        "SETUP_MAIN_ROOT/Lazy Galaxy - Rebel Story (USA).exe"
     ],
     "transform_file": "Lazy Galaxy - Rebel Story (USA).exe"
 }

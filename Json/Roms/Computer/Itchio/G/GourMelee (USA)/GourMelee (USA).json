@@ -3,7 +3,7 @@
         "GourMelee (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/GourMelee (USA).exe"
+        "SETUP_MAIN_ROOT/GourMelee (USA).exe"
     ],
     "transform_file": "GourMelee (USA).exe"
 }

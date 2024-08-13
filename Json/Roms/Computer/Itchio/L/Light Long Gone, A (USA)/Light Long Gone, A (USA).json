@@ -3,7 +3,7 @@
         "Light Long Gone, A (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Light Long Gone, A (USA).exe"
+        "SETUP_MAIN_ROOT/Light Long Gone, A (USA).exe"
     ],
     "transform_file": "Light Long Gone, A (USA).exe"
 }

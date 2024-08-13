@@ -3,7 +3,7 @@
         "Stowaway (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stowaway (USA).exe"
+        "SETUP_MAIN_ROOT/Stowaway (USA).exe"
     ],
     "transform_file": "Stowaway (USA).exe"
 }

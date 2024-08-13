@@ -3,7 +3,7 @@
         "Bitcoin Miner - Remastered (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bitcoin Miner - Remastered (USA).exe"
+        "SETUP_MAIN_ROOT/Bitcoin Miner - Remastered (USA).exe"
     ],
     "transform_file": "Bitcoin Miner - Remastered (USA).exe"
 }

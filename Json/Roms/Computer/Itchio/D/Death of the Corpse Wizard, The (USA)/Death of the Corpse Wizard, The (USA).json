@@ -3,7 +3,7 @@
         "Death of the Corpse Wizard, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Death of the Corpse Wizard, The (USA).exe"
+        "SETUP_MAIN_ROOT/Death of the Corpse Wizard, The (USA).exe"
     ],
     "transform_file": "Death of the Corpse Wizard, The (USA).exe"
 }

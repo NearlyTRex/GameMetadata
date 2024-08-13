@@ -3,7 +3,7 @@
         "Nonsense Soccer (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Nonsense Soccer (USA).exe"
+        "SETUP_MAIN_ROOT/Nonsense Soccer (USA).exe"
     ],
     "transform_file": "Nonsense Soccer (USA).exe"
 }

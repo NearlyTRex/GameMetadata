@@ -3,7 +3,7 @@
         "Lizzi Crossing (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lizzi Crossing (USA).exe"
+        "SETUP_MAIN_ROOT/Lizzi Crossing (USA).exe"
     ],
     "transform_file": "Lizzi Crossing (USA).exe"
 }

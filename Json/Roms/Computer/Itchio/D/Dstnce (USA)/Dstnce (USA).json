@@ -3,7 +3,7 @@
         "Dstnce (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dstnce (USA).exe"
+        "SETUP_MAIN_ROOT/Dstnce (USA).exe"
     ],
     "transform_file": "Dstnce (USA).exe"
 }

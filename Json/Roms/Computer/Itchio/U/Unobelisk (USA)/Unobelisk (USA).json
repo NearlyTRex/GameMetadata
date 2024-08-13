@@ -3,7 +3,7 @@
         "Unobelisk (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Unobelisk (USA).exe"
+        "SETUP_MAIN_ROOT/Unobelisk (USA).exe"
     ],
     "transform_file": "Unobelisk (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Sundered - Eldritch Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sundered - Eldritch Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Sundered - Eldritch Edition (USA).exe"
     ],
     "transform_file": "Sundered - Eldritch Edition (USA).exe"
 }

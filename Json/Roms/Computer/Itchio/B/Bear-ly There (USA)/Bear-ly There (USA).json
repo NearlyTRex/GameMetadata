@@ -3,7 +3,7 @@
         "Bear-ly There (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bear-ly There (USA).exe"
+        "SETUP_MAIN_ROOT/Bear-ly There (USA).exe"
     ],
     "transform_file": "Bear-ly There (USA).exe"
 }

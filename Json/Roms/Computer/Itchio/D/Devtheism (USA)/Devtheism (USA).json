@@ -3,7 +3,7 @@
         "Devtheism (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Devtheism (USA).exe"
+        "SETUP_MAIN_ROOT/Devtheism (USA).exe"
     ],
     "transform_file": "Devtheism (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Rasternauts (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rasternauts (USA).exe"
+        "SETUP_MAIN_ROOT/Rasternauts (USA).exe"
     ],
     "transform_file": "Rasternauts (USA).exe"
 }

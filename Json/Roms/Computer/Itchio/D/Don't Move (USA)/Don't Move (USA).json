@@ -3,7 +3,7 @@
         "Don't Move (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Don't Move (USA).exe"
+        "SETUP_MAIN_ROOT/Don't Move (USA).exe"
     ],
     "transform_file": "Don't Move (USA).exe"
 }

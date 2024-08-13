@@ -3,7 +3,7 @@
         "Splinter Zone (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Splinter Zone (USA).exe"
+        "SETUP_MAIN_ROOT/Splinter Zone (USA).exe"
     ],
     "transform_file": "Splinter Zone (USA).exe"
 }

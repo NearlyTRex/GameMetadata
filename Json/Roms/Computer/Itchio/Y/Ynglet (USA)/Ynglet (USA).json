@@ -3,7 +3,7 @@
         "Ynglet (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ynglet (USA).exe"
+        "SETUP_MAIN_ROOT/Ynglet (USA).exe"
     ],
     "transform_file": "Ynglet (USA).exe"
 }

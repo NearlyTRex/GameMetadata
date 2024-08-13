@@ -3,7 +3,7 @@
         "Wiloo (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Wiloo (USA).exe"
+        "SETUP_MAIN_ROOT/Wiloo (USA).exe"
     ],
     "transform_file": "Wiloo (USA).exe"
 }

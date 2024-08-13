@@ -3,7 +3,7 @@
         "Pumpking (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pumpking (USA).exe"
+        "SETUP_MAIN_ROOT/Pumpking (USA).exe"
     ],
     "transform_file": "Pumpking (USA).exe"
 }

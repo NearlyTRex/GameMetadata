@@ -3,7 +3,7 @@
         "JRNL (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/JRNL (USA).exe"
+        "SETUP_MAIN_ROOT/JRNL (USA).exe"
     ],
     "transform_file": "JRNL (USA).exe"
 }

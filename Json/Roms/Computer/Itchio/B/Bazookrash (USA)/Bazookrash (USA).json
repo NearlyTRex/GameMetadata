@@ -3,7 +3,7 @@
         "Bazookrash (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bazookrash (USA).exe"
+        "SETUP_MAIN_ROOT/Bazookrash (USA).exe"
     ],
     "transform_file": "Bazookrash (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Cat Ace (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cat Ace (USA).exe"
+        "SETUP_MAIN_ROOT/Cat Ace (USA).exe"
     ],
     "transform_file": "Cat Ace (USA).exe"
 }

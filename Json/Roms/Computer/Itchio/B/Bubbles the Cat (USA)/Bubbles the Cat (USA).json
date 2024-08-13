@@ -3,7 +3,7 @@
         "Bubbles the Cat (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bubbles the Cat (USA).exe"
+        "SETUP_MAIN_ROOT/Bubbles the Cat (USA).exe"
     ],
     "transform_file": "Bubbles the Cat (USA).exe"
 }

@@ -3,7 +3,7 @@
         "No Thing (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/No Thing (USA).exe"
+        "SETUP_MAIN_ROOT/No Thing (USA).exe"
     ],
     "transform_file": "No Thing (USA).exe"
 }

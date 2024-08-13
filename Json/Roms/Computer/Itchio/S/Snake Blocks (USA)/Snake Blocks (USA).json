@@ -3,7 +3,7 @@
         "Snake Blocks (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Snake Blocks (USA).exe"
+        "SETUP_MAIN_ROOT/Snake Blocks (USA).exe"
     ],
     "transform_file": "Snake Blocks (USA).exe"
 }

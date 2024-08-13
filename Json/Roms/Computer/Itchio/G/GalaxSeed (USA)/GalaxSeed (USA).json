@@ -3,7 +3,7 @@
         "GalaxSeed (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/GalaxSeed (USA).exe"
+        "SETUP_MAIN_ROOT/GalaxSeed (USA).exe"
     ],
     "transform_file": "GalaxSeed (USA).exe"
 }

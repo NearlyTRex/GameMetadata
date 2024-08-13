@@ -3,7 +3,7 @@
         "Midnight Ultra (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Midnight Ultra (USA).exe"
+        "SETUP_MAIN_ROOT/Midnight Ultra (USA).exe"
     ],
     "transform_file": "Midnight Ultra (USA).exe"
 }

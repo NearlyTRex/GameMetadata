@@ -3,7 +3,7 @@
         "Perspectrum (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Perspectrum (USA).exe"
+        "SETUP_MAIN_ROOT/Perspectrum (USA).exe"
     ],
     "transform_file": "Perspectrum (USA).exe"
 }

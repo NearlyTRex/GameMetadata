@@ -3,7 +3,7 @@
         "Down (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Down (USA).exe"
+        "SETUP_MAIN_ROOT/Down (USA).exe"
     ],
     "transform_file": "Down (USA).exe"
 }

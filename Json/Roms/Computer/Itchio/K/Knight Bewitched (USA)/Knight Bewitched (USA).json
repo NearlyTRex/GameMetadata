@@ -3,7 +3,7 @@
         "Knight Bewitched (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Knight Bewitched (USA).exe"
+        "SETUP_MAIN_ROOT/Knight Bewitched (USA).exe"
     ],
     "transform_file": "Knight Bewitched (USA).exe"
 }

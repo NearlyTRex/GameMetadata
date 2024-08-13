@@ -3,7 +3,7 @@
         "C.H.A.I.N. (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/C.H.A.I.N. (USA).exe"
+        "SETUP_MAIN_ROOT/C.H.A.I.N. (USA).exe"
     ],
     "transform_file": "C.H.A.I.N. (USA).exe"
 }

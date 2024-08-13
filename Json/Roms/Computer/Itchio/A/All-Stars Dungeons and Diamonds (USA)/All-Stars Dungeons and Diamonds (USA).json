@@ -3,7 +3,7 @@
         "All-Stars Dungeons and Diamonds (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/All-Stars Dungeons and Diamonds (USA).exe"
+        "SETUP_MAIN_ROOT/All-Stars Dungeons and Diamonds (USA).exe"
     ],
     "transform_file": "All-Stars Dungeons and Diamonds (USA).exe"
 }

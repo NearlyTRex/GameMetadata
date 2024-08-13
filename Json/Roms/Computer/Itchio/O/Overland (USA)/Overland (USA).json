@@ -3,7 +3,7 @@
         "Overland (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Overland (USA).exe"
+        "SETUP_MAIN_ROOT/Overland (USA).exe"
     ],
     "transform_file": "Overland (USA).exe"
 }

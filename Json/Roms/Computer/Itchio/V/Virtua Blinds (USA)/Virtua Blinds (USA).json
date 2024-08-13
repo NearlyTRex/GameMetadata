@@ -3,7 +3,7 @@
         "Virtua Blinds (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Virtua Blinds (USA).exe"
+        "SETUP_MAIN_ROOT/Virtua Blinds (USA).exe"
     ],
     "transform_file": "Virtua Blinds (USA).exe"
 }

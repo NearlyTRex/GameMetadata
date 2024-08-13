@@ -3,7 +3,7 @@
         "Hope's Peak (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hope's Peak (USA).exe"
+        "SETUP_MAIN_ROOT/Hope's Peak (USA).exe"
     ],
     "transform_file": "Hope's Peak (USA).exe"
 }

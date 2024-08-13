@@ -3,7 +3,7 @@
         "String Tyrant (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/String Tyrant (USA).exe"
+        "SETUP_MAIN_ROOT/String Tyrant (USA).exe"
     ],
     "transform_file": "String Tyrant (USA).exe"
 }

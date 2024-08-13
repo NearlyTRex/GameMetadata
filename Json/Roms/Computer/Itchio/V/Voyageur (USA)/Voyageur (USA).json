@@ -3,7 +3,7 @@
         "Voyageur (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Voyageur (USA).exe"
+        "SETUP_MAIN_ROOT/Voyageur (USA).exe"
     ],
     "transform_file": "Voyageur (USA).exe"
 }

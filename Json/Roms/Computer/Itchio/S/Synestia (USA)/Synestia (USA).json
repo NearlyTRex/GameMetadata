@@ -3,7 +3,7 @@
         "Synestia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Synestia (USA).exe"
+        "SETUP_MAIN_ROOT/Synestia (USA).exe"
     ],
     "transform_file": "Synestia (USA).exe"
 }

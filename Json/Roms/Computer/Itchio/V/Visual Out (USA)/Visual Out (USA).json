@@ -3,7 +3,7 @@
         "Visual Out (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Visual Out (USA).exe"
+        "SETUP_MAIN_ROOT/Visual Out (USA).exe"
     ],
     "transform_file": "Visual Out (USA).exe"
 }

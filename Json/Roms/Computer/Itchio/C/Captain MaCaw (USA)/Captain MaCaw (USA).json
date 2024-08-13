@@ -3,7 +3,7 @@
         "Captain MaCaw (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Captain MaCaw (USA).exe"
+        "SETUP_MAIN_ROOT/Captain MaCaw (USA).exe"
     ],
     "transform_file": "Captain MaCaw (USA).exe"
 }

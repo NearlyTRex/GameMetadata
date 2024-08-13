@@ -3,7 +3,7 @@
         "Honor Cry - Aftermath (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Honor Cry - Aftermath (USA).exe"
+        "SETUP_MAIN_ROOT/Honor Cry - Aftermath (USA).exe"
     ],
     "transform_file": "Honor Cry - Aftermath (USA).exe"
 }

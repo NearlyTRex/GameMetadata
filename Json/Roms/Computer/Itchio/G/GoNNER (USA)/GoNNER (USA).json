@@ -3,7 +3,7 @@
         "GoNNER (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/GoNNER (USA).exe"
+        "SETUP_MAIN_ROOT/GoNNER (USA).exe"
     ],
     "transform_file": "GoNNER (USA).exe"
 }

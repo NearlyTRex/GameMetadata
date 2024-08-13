@@ -3,7 +3,7 @@
         "Super Cube Attack (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Super Cube Attack (USA).exe"
+        "SETUP_MAIN_ROOT/Super Cube Attack (USA).exe"
     ],
     "transform_file": "Super Cube Attack (USA).exe"
 }

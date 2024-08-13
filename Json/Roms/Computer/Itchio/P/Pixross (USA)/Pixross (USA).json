@@ -3,7 +3,7 @@
         "Pixross (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pixross (USA).exe"
+        "SETUP_MAIN_ROOT/Pixross (USA).exe"
     ],
     "transform_file": "Pixross (USA).exe"
 }

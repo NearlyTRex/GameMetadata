@@ -3,7 +3,7 @@
         "Manual Intervention (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Manual Intervention (USA).exe"
+        "SETUP_MAIN_ROOT/Manual Intervention (USA).exe"
     ],
     "transform_file": "Manual Intervention (USA).exe"
 }

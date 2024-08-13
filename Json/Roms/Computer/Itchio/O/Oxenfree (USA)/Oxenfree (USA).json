@@ -3,7 +3,7 @@
         "Oxenfree (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Oxenfree (USA).exe"
+        "SETUP_MAIN_ROOT/Oxenfree (USA).exe"
     ],
     "transform_file": "Oxenfree (USA).exe"
 }

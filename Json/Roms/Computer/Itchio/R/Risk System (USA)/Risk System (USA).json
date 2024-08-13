@@ -3,7 +3,7 @@
         "Risk System (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Risk System (USA).exe"
+        "SETUP_MAIN_ROOT/Risk System (USA).exe"
     ],
     "transform_file": "Risk System (USA).exe"
 }

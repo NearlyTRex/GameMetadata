@@ -3,7 +3,7 @@
         "Changes (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Changes (USA).exe"
+        "SETUP_MAIN_ROOT/Changes (USA).exe"
     ],
     "transform_file": "Changes (USA).exe"
 }

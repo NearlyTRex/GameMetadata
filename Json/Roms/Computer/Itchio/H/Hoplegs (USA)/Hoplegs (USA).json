@@ -3,7 +3,7 @@
         "Hoplegs (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hoplegs (USA).exe"
+        "SETUP_MAIN_ROOT/Hoplegs (USA).exe"
     ],
     "transform_file": "Hoplegs (USA).exe"
 }

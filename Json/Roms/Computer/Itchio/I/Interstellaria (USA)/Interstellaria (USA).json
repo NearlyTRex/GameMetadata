@@ -3,7 +3,7 @@
         "Interstellaria (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Interstellaria (USA).exe"
+        "SETUP_MAIN_ROOT/Interstellaria (USA).exe"
     ],
     "transform_file": "Interstellaria (USA).exe"
 }

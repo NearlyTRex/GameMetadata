@@ -3,7 +3,7 @@
         "Engineer Arena (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Engineer Arena (USA).exe"
+        "SETUP_MAIN_ROOT/Engineer Arena (USA).exe"
     ],
     "transform_file": "Engineer Arena (USA).exe"
 }

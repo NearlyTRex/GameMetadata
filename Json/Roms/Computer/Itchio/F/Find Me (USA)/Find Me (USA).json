@@ -3,7 +3,7 @@
         "Find Me (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Find Me (USA).exe"
+        "SETUP_MAIN_ROOT/Find Me (USA).exe"
     ],
     "transform_file": "Find Me (USA).exe"
 }

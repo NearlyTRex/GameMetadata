@@ -3,7 +3,7 @@
         "Feyna's Quest (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Feyna's Quest (USA).exe"
+        "SETUP_MAIN_ROOT/Feyna's Quest (USA).exe"
     ],
     "transform_file": "Feyna's Quest (USA).exe"
 }

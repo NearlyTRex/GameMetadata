@@ -3,7 +3,7 @@
         "Find Yourself (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Find Yourself (USA).exe"
+        "SETUP_MAIN_ROOT/Find Yourself (USA).exe"
     ],
     "transform_file": "Find Yourself (USA).exe"
 }

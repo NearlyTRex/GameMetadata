@@ -3,7 +3,7 @@
         "Cardinal Chains (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cardinal Chains (USA).exe"
+        "SETUP_MAIN_ROOT/Cardinal Chains (USA).exe"
     ],
     "transform_file": "Cardinal Chains (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Psychoballs (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Psychoballs (USA).exe"
+        "SETUP_MAIN_ROOT/Psychoballs (USA).exe"
     ],
     "transform_file": "Psychoballs (USA).exe"
 }

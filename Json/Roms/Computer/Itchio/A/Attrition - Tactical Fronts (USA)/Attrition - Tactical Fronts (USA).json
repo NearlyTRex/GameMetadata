@@ -3,7 +3,7 @@
         "Attrition - Tactical Fronts (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Attrition - Tactical Fronts (USA).exe"
+        "SETUP_MAIN_ROOT/Attrition - Tactical Fronts (USA).exe"
     ],
     "transform_file": "Attrition - Tactical Fronts (USA).exe"
 }

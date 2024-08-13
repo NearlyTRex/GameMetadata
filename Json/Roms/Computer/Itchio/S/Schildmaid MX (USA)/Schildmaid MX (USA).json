@@ -3,7 +3,7 @@
         "Schildmaid MX (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Schildmaid MX (USA).exe"
+        "SETUP_MAIN_ROOT/Schildmaid MX (USA).exe"
     ],
     "transform_file": "Schildmaid MX (USA).exe"
 }

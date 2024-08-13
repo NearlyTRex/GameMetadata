@@ -3,7 +3,7 @@
         "Wrapped With A Kiss (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Wrapped With A Kiss (USA).exe"
+        "SETUP_MAIN_ROOT/Wrapped With A Kiss (USA).exe"
     ],
     "transform_file": "Wrapped With A Kiss (USA).exe"
 }

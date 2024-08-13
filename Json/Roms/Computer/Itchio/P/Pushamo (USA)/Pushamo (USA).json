@@ -3,7 +3,7 @@
         "Pushamo (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pushamo (USA).exe"
+        "SETUP_MAIN_ROOT/Pushamo (USA).exe"
     ],
     "transform_file": "Pushamo (USA).exe"
 }

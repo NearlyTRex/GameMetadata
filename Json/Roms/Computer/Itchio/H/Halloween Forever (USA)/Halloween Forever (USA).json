@@ -3,7 +3,7 @@
         "Halloween Forever (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Halloween Forever (USA).exe"
+        "SETUP_MAIN_ROOT/Halloween Forever (USA).exe"
     ],
     "transform_file": "Halloween Forever (USA).exe"
 }

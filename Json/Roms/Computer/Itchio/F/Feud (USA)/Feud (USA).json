@@ -3,7 +3,7 @@
         "Feud (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Feud (USA).exe"
+        "SETUP_MAIN_ROOT/Feud (USA).exe"
     ],
     "transform_file": "Feud (USA).exe"
 }

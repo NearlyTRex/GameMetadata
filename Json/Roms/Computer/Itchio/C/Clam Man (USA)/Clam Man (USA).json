@@ -3,7 +3,7 @@
         "Clam Man (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Clam Man (USA).exe"
+        "SETUP_MAIN_ROOT/Clam Man (USA).exe"
     ],
     "transform_file": "Clam Man (USA).exe"
 }

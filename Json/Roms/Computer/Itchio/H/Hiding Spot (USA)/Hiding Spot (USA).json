@@ -3,7 +3,7 @@
         "Hiding Spot (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hiding Spot (USA).exe"
+        "SETUP_MAIN_ROOT/Hiding Spot (USA).exe"
     ],
     "transform_file": "Hiding Spot (USA).exe"
 }

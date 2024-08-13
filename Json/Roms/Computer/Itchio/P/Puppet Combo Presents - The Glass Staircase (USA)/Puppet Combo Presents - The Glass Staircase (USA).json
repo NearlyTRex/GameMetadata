@@ -3,7 +3,7 @@
         "Puppet Combo Presents - The Glass Staircase (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Puppet Combo Presents - The Glass Staircase (USA).exe"
+        "SETUP_MAIN_ROOT/Puppet Combo Presents - The Glass Staircase (USA).exe"
     ],
     "transform_file": "Puppet Combo Presents - The Glass Staircase (USA).exe"
 }

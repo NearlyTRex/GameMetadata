@@ -3,7 +3,7 @@
         "Laza Knitez!! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Laza Knitez!! (USA).exe"
+        "SETUP_MAIN_ROOT/Laza Knitez!! (USA).exe"
     ],
     "transform_file": "Laza Knitez!! (USA).exe"
 }

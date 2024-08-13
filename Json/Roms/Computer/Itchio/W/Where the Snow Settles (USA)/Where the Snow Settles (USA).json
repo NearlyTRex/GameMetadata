@@ -3,7 +3,7 @@
         "Where the Snow Settles (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Where the Snow Settles (USA).exe"
+        "SETUP_MAIN_ROOT/Where the Snow Settles (USA).exe"
     ],
     "transform_file": "Where the Snow Settles (USA).exe"
 }

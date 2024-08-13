@@ -3,7 +3,7 @@
         "Nauticrawl (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Nauticrawl (USA).exe"
+        "SETUP_MAIN_ROOT/Nauticrawl (USA).exe"
     ],
     "transform_file": "Nauticrawl (USA).exe"
 }

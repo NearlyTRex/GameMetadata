@@ -3,7 +3,7 @@
         "World Begins With You, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/World Begins With You, The (USA).exe"
+        "SETUP_MAIN_ROOT/World Begins With You, The (USA).exe"
     ],
     "transform_file": "World Begins With You, The (USA).exe"
 }

@@ -3,7 +3,7 @@
         "PADager (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/PADager (USA).exe"
+        "SETUP_MAIN_ROOT/PADager (USA).exe"
     ],
     "transform_file": "PADager (USA).exe"
 }

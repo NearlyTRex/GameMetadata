@@ -3,7 +3,7 @@
         "Discsphere (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Discsphere (USA).exe"
+        "SETUP_MAIN_ROOT/Discsphere (USA).exe"
     ],
     "transform_file": "Discsphere (USA).exe"
 }

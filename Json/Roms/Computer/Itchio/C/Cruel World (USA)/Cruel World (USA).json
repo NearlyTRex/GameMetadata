@@ -3,7 +3,7 @@
         "Cruel World (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cruel World (USA).exe"
+        "SETUP_MAIN_ROOT/Cruel World (USA).exe"
     ],
     "transform_file": "Cruel World (USA).exe"
 }

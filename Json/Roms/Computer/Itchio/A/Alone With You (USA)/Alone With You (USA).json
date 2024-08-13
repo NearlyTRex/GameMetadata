@@ -3,7 +3,7 @@
         "Alone With You (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Alone With You (USA).exe"
+        "SETUP_MAIN_ROOT/Alone With You (USA).exe"
     ],
     "transform_file": "Alone With You (USA).exe"
 }

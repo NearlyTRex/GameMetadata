@@ -3,7 +3,7 @@
         "Stophat (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stophat (USA).exe"
+        "SETUP_MAIN_ROOT/Stophat (USA).exe"
     ],
     "transform_file": "Stophat (USA).exe"
 }

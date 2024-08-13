@@ -3,7 +3,7 @@
         "Drake (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Drake (USA).exe"
+        "SETUP_MAIN_ROOT/Drake (USA).exe"
     ],
     "transform_file": "Drake (USA).exe"
 }

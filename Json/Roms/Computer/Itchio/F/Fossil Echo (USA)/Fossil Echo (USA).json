@@ -3,7 +3,7 @@
         "Fossil Echo (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Fossil Echo (USA).exe"
+        "SETUP_MAIN_ROOT/Fossil Echo (USA).exe"
     ],
     "transform_file": "Fossil Echo (USA).exe"
 }

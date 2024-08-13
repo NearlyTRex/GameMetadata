@@ -3,7 +3,7 @@
         "10S (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/10S (USA).exe"
+        "SETUP_MAIN_ROOT/10S (USA).exe"
     ],
     "transform_file": "10S (USA).exe"
 }

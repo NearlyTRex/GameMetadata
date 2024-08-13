@@ -3,7 +3,7 @@
         "Cloud Gardens (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cloud Gardens (USA).exe"
+        "SETUP_MAIN_ROOT/Cloud Gardens (USA).exe"
     ],
     "transform_file": "Cloud Gardens (USA).exe"
 }

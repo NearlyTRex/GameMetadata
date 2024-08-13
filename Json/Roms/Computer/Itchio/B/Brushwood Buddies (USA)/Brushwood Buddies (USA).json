@@ -3,7 +3,7 @@
         "Brushwood Buddies (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Brushwood Buddies (USA).exe"
+        "SETUP_MAIN_ROOT/Brushwood Buddies (USA).exe"
     ],
     "transform_file": "Brushwood Buddies (USA).exe"
 }

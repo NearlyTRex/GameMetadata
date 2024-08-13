@@ -3,7 +3,7 @@
         "Fate Tectonics (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Fate Tectonics (USA).exe"
+        "SETUP_MAIN_ROOT/Fate Tectonics (USA).exe"
     ],
     "transform_file": "Fate Tectonics (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Gravity Pilot! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Gravity Pilot! (USA).exe"
+        "SETUP_MAIN_ROOT/Gravity Pilot! (USA).exe"
     ],
     "transform_file": "Gravity Pilot! (USA).exe"
 }

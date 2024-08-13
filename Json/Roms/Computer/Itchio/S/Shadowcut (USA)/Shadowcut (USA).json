@@ -3,7 +3,7 @@
         "Shadowcut (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Shadowcut (USA).exe"
+        "SETUP_MAIN_ROOT/Shadowcut (USA).exe"
     ],
     "transform_file": "Shadowcut (USA).exe"
 }

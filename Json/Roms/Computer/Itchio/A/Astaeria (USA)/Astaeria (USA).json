@@ -3,7 +3,7 @@
         "Astaeria (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Astaeria (USA).exe"
+        "SETUP_MAIN_ROOT/Astaeria (USA).exe"
     ],
     "transform_file": "Astaeria (USA).exe"
 }

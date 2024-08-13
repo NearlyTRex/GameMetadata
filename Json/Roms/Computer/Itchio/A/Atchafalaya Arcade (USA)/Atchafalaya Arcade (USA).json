@@ -3,7 +3,7 @@
         "Atchafalaya Arcade (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Atchafalaya Arcade (USA).exe"
+        "SETUP_MAIN_ROOT/Atchafalaya Arcade (USA).exe"
     ],
     "transform_file": "Atchafalaya Arcade (USA).exe"
 }

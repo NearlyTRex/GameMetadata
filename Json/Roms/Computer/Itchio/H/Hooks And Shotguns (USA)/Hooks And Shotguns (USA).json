@@ -3,7 +3,7 @@
         "Hooks And Shotguns (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hooks And Shotguns (USA).exe"
+        "SETUP_MAIN_ROOT/Hooks And Shotguns (USA).exe"
     ],
     "transform_file": "Hooks And Shotguns (USA).exe"
 }

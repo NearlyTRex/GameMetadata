@@ -3,7 +3,7 @@
         "Tap Strike BOOM! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tap Strike BOOM! (USA).exe"
+        "SETUP_MAIN_ROOT/Tap Strike BOOM! (USA).exe"
     ],
     "transform_file": "Tap Strike BOOM! (USA).exe"
 }

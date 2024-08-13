@@ -3,7 +3,7 @@
         "Daemon Detective Gaiden II (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Daemon Detective Gaiden II (USA).exe"
+        "SETUP_MAIN_ROOT/Daemon Detective Gaiden II (USA).exe"
     ],
     "transform_file": "Daemon Detective Gaiden II (USA).exe"
 }

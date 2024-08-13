@@ -3,7 +3,7 @@
         "Cluster Gun (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cluster Gun (USA).exe"
+        "SETUP_MAIN_ROOT/Cluster Gun (USA).exe"
     ],
     "transform_file": "Cluster Gun (USA).exe"
 }

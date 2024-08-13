@@ -3,7 +3,7 @@
         "Minit Fun Racer (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Minit Fun Racer (USA).exe"
+        "SETUP_MAIN_ROOT/Minit Fun Racer (USA).exe"
     ],
     "transform_file": "Minit Fun Racer (USA).exe"
 }

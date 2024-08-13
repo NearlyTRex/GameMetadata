@@ -3,7 +3,7 @@
         "Germination (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Germination (USA).exe"
+        "SETUP_MAIN_ROOT/Germination (USA).exe"
     ],
     "transform_file": "Germination (USA).exe"
 }

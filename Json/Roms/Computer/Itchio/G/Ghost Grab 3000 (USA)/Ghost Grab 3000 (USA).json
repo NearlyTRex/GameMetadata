@@ -3,7 +3,7 @@
         "Ghost Grab 3000 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ghost Grab 3000 (USA).exe"
+        "SETUP_MAIN_ROOT/Ghost Grab 3000 (USA).exe"
     ],
     "transform_file": "Ghost Grab 3000 (USA).exe"
 }

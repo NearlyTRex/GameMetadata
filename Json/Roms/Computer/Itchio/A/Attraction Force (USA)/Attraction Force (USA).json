@@ -3,7 +3,7 @@
         "Attraction Force (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Attraction Force (USA).exe"
+        "SETUP_MAIN_ROOT/Attraction Force (USA).exe"
     ],
     "transform_file": "Attraction Force (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Mini's Magic World (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Mini's Magic World (USA).exe"
+        "SETUP_MAIN_ROOT/Mini's Magic World (USA).exe"
     ],
     "transform_file": "Mini's Magic World (USA).exe"
 }

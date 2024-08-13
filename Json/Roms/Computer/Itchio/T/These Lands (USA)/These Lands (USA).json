@@ -3,7 +3,7 @@
         "These Lands (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/These Lands (USA).exe"
+        "SETUP_MAIN_ROOT/These Lands (USA).exe"
     ],
     "transform_file": "These Lands (USA).exe"
 }

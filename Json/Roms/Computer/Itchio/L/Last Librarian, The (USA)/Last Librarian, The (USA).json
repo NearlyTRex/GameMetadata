@@ -3,7 +3,7 @@
         "Last Librarian, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Last Librarian, The (USA).exe"
+        "SETUP_MAIN_ROOT/Last Librarian, The (USA).exe"
     ],
     "transform_file": "Last Librarian, The (USA).exe"
 }

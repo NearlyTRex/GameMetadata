@@ -3,7 +3,7 @@
         "Binky's Trash Service (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Binky's Trash Service (USA).exe"
+        "SETUP_MAIN_ROOT/Binky's Trash Service (USA).exe"
     ],
     "transform_file": "Binky's Trash Service (USA).exe"
 }

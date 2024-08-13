@@ -3,7 +3,7 @@
         "PhasR (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/PhasR (USA).exe"
+        "SETUP_MAIN_ROOT/PhasR (USA).exe"
     ],
     "transform_file": "PhasR (USA).exe"
 }

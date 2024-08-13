@@ -3,7 +3,7 @@
         "Cardinal Cross (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cardinal Cross (USA).exe"
+        "SETUP_MAIN_ROOT/Cardinal Cross (USA).exe"
     ],
     "transform_file": "Cardinal Cross (USA).exe"
 }

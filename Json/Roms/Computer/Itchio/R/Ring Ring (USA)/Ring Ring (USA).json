@@ -3,7 +3,7 @@
         "Ring Ring (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ring Ring (USA).exe"
+        "SETUP_MAIN_ROOT/Ring Ring (USA).exe"
     ],
     "transform_file": "Ring Ring (USA).exe"
 }

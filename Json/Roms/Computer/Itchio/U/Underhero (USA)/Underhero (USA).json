@@ -3,7 +3,7 @@
         "Underhero (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Underhero (USA).exe"
+        "SETUP_MAIN_ROOT/Underhero (USA).exe"
     ],
     "transform_file": "Underhero (USA).exe"
 }

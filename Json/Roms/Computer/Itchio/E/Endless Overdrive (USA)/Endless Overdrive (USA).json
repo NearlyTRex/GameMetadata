@@ -3,7 +3,7 @@
         "Endless Overdrive (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Endless Overdrive (USA).exe"
+        "SETUP_MAIN_ROOT/Endless Overdrive (USA).exe"
     ],
     "transform_file": "Endless Overdrive (USA).exe"
 }

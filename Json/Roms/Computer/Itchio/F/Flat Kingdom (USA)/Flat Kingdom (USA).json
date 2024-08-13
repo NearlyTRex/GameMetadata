@@ -3,7 +3,7 @@
         "Flat Kingdom (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Flat Kingdom (USA).exe"
+        "SETUP_MAIN_ROOT/Flat Kingdom (USA).exe"
     ],
     "transform_file": "Flat Kingdom (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Distortion Nation (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Distortion Nation (USA).exe"
+        "SETUP_MAIN_ROOT/Distortion Nation (USA).exe"
     ],
     "transform_file": "Distortion Nation (USA).exe"
 }

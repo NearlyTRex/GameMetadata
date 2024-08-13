@@ -3,7 +3,7 @@
         "Out the Window - A Car Trip Sim (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Out the Window - A Car Trip Sim (USA).exe"
+        "SETUP_MAIN_ROOT/Out the Window - A Car Trip Sim (USA).exe"
     ],
     "transform_file": "Out the Window - A Car Trip Sim (USA).exe"
 }

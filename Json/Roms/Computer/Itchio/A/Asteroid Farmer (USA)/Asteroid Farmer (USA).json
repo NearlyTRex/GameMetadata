@@ -3,7 +3,7 @@
         "Asteroid Farmer (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Asteroid Farmer (USA).exe"
+        "SETUP_MAIN_ROOT/Asteroid Farmer (USA).exe"
     ],
     "transform_file": "Asteroid Farmer (USA).exe"
 }

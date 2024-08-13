@@ -3,7 +3,7 @@
         "Orion Trail (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Orion Trail (USA).exe"
+        "SETUP_MAIN_ROOT/Orion Trail (USA).exe"
     ],
     "transform_file": "Orion Trail (USA).exe"
 }

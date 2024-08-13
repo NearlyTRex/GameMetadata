@@ -3,7 +3,7 @@
         "Micro Mages (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Micro Mages (USA).exe"
+        "SETUP_MAIN_ROOT/Micro Mages (USA).exe"
     ],
     "transform_file": "Micro Mages (USA).exe"
 }

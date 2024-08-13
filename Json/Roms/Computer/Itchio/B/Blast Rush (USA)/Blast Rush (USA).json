@@ -3,7 +3,7 @@
         "Blast Rush (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Blast Rush (USA).exe"
+        "SETUP_MAIN_ROOT/Blast Rush (USA).exe"
     ],
     "transform_file": "Blast Rush (USA).exe"
 }

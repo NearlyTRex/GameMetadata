@@ -3,7 +3,7 @@
         "HubWorld (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/HubWorld (USA).exe"
+        "SETUP_MAIN_ROOT/HubWorld (USA).exe"
     ],
     "transform_file": "HubWorld (USA).exe"
 }

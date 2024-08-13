@@ -3,7 +3,7 @@
         "Candylight (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Candylight (USA).exe"
+        "SETUP_MAIN_ROOT/Candylight (USA).exe"
     ],
     "transform_file": "Candylight (USA).exe"
 }

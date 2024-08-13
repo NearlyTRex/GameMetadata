@@ -3,7 +3,7 @@
         "MMM - Murder Most Misfortunate (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/MMM - Murder Most Misfortunate (USA).exe"
+        "SETUP_MAIN_ROOT/MMM - Murder Most Misfortunate (USA).exe"
     ],
     "transform_file": "MMM - Murder Most Misfortunate (USA).exe"
 }

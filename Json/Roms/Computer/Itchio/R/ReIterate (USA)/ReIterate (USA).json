@@ -3,7 +3,7 @@
         "ReIterate (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/ReIterate (USA).exe"
+        "SETUP_MAIN_ROOT/ReIterate (USA).exe"
     ],
     "transform_file": "ReIterate (USA).exe"
 }

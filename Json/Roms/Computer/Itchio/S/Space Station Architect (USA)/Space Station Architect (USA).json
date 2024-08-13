@@ -3,7 +3,7 @@
         "Space Station Architect (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Space Station Architect (USA).exe"
+        "SETUP_MAIN_ROOT/Space Station Architect (USA).exe"
     ],
     "transform_file": "Space Station Architect (USA).exe"
 }

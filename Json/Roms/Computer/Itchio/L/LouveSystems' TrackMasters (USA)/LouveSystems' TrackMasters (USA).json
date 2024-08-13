@@ -3,7 +3,7 @@
         "LouveSystems' TrackMasters (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/LouveSystems' TrackMasters (USA).exe"
+        "SETUP_MAIN_ROOT/LouveSystems' TrackMasters (USA).exe"
     ],
     "transform_file": "LouveSystems' TrackMasters (USA).exe"
 }

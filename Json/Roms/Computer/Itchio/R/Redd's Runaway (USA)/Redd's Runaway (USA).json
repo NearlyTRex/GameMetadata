@@ -3,7 +3,7 @@
         "Redd's Runaway (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Redd's Runaway (USA).exe"
+        "SETUP_MAIN_ROOT/Redd's Runaway (USA).exe"
     ],
     "transform_file": "Redd's Runaway (USA).exe"
 }

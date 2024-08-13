@@ -3,7 +3,7 @@
         "Choice Chamber (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Choice Chamber (USA).exe"
+        "SETUP_MAIN_ROOT/Choice Chamber (USA).exe"
     ],
     "transform_file": "Choice Chamber (USA).exe"
 }

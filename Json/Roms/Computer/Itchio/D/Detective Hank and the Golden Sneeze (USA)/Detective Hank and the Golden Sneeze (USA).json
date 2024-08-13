@@ -3,7 +3,7 @@
         "Detective Hank and the Golden Sneeze (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Detective Hank and the Golden Sneeze (USA).exe"
+        "SETUP_MAIN_ROOT/Detective Hank and the Golden Sneeze (USA).exe"
     ],
     "transform_file": "Detective Hank and the Golden Sneeze (USA).exe"
 }

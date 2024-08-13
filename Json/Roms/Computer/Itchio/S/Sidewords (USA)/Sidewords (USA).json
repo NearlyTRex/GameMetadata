@@ -3,7 +3,7 @@
         "Sidewords (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sidewords (USA).exe"
+        "SETUP_MAIN_ROOT/Sidewords (USA).exe"
     ],
     "transform_file": "Sidewords (USA).exe"
 }

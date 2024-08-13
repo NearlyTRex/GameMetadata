@@ -3,7 +3,7 @@
         "Respite 2.0 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Respite 2.0 (USA).exe"
+        "SETUP_MAIN_ROOT/Respite 2.0 (USA).exe"
     ],
     "transform_file": "Respite 2.0 (USA).exe"
 }

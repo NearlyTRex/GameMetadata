@@ -3,7 +3,7 @@
         "Knightmare Tower (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Knightmare Tower (USA).exe"
+        "SETUP_MAIN_ROOT/Knightmare Tower (USA).exe"
     ],
     "transform_file": "Knightmare Tower (USA).exe"
 }

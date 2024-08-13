@@ -3,7 +3,7 @@
         "Lonely Wolf Treat (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lonely Wolf Treat (USA).exe"
+        "SETUP_MAIN_ROOT/Lonely Wolf Treat (USA).exe"
     ],
     "transform_file": "Lonely Wolf Treat (USA).exe"
 }

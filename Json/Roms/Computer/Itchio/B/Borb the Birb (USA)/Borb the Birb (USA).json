@@ -3,7 +3,7 @@
         "Borb the Birb (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Borb the Birb (USA).exe"
+        "SETUP_MAIN_ROOT/Borb the Birb (USA).exe"
     ],
     "transform_file": "Borb the Birb (USA).exe"
 }

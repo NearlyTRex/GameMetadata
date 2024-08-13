@@ -3,7 +3,7 @@
         "Retrace (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Retrace (USA).exe"
+        "SETUP_MAIN_ROOT/Retrace (USA).exe"
     ],
     "transform_file": "Retrace (USA).exe"
 }

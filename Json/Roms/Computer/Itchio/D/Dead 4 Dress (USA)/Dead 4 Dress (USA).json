@@ -3,7 +3,7 @@
         "Dead 4 Dress (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dead 4 Dress (USA).exe"
+        "SETUP_MAIN_ROOT/Dead 4 Dress (USA).exe"
     ],
     "transform_file": "Dead 4 Dress (USA).exe"
 }

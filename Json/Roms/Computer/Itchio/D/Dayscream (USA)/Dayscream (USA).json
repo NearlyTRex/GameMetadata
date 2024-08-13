@@ -3,7 +3,7 @@
         "Dayscream (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dayscream (USA).exe"
+        "SETUP_MAIN_ROOT/Dayscream (USA).exe"
     ],
     "transform_file": "Dayscream (USA).exe"
 }

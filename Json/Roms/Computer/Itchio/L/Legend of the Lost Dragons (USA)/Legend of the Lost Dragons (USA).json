@@ -3,7 +3,7 @@
         "Legend of the Lost Dragons (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Legend of the Lost Dragons (USA).exe"
+        "SETUP_MAIN_ROOT/Legend of the Lost Dragons (USA).exe"
     ],
     "transform_file": "Legend of the Lost Dragons (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Cromwell (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cromwell (USA).exe"
+        "SETUP_MAIN_ROOT/Cromwell (USA).exe"
     ],
     "transform_file": "Cromwell (USA).exe"
 }

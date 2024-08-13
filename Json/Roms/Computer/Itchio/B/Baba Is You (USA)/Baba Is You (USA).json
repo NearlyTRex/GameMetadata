@@ -3,7 +3,7 @@
         "Baba Is You (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Baba Is You (USA).exe"
+        "SETUP_MAIN_ROOT/Baba Is You (USA).exe"
     ],
     "transform_file": "Baba Is You (USA).exe"
 }

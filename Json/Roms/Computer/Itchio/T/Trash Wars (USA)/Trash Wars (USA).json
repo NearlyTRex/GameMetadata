@@ -3,7 +3,7 @@
         "Trash Wars (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Trash Wars (USA).exe"
+        "SETUP_MAIN_ROOT/Trash Wars (USA).exe"
     ],
     "transform_file": "Trash Wars (USA).exe"
 }

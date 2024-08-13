@@ -3,7 +3,7 @@
         "Hellcraze (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hellcraze (USA).exe"
+        "SETUP_MAIN_ROOT/Hellcraze (USA).exe"
     ],
     "transform_file": "Hellcraze (USA).exe"
 }

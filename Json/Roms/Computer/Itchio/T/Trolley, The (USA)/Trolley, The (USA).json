@@ -3,7 +3,7 @@
         "Trolley, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Trolley, The (USA).exe"
+        "SETUP_MAIN_ROOT/Trolley, The (USA).exe"
     ],
     "transform_file": "Trolley, The (USA).exe"
 }

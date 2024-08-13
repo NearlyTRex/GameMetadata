@@ -3,7 +3,7 @@
         "Plant Daddy (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Plant Daddy (USA).exe"
+        "SETUP_MAIN_ROOT/Plant Daddy (USA).exe"
     ],
     "transform_file": "Plant Daddy (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Space Between, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Space Between, The (USA).exe"
+        "SETUP_MAIN_ROOT/Space Between, The (USA).exe"
     ],
     "transform_file": "Space Between, The (USA).exe"
 }

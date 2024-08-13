@@ -3,7 +3,7 @@
         "Gravity Typist (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Gravity Typist (USA).exe"
+        "SETUP_MAIN_ROOT/Gravity Typist (USA).exe"
     ],
     "transform_file": "Gravity Typist (USA).exe"
 }

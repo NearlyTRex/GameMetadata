@@ -3,7 +3,7 @@
         "Path Out (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Path Out (USA).exe"
+        "SETUP_MAIN_ROOT/Path Out (USA).exe"
     ],
     "transform_file": "Path Out (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Binaries (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Binaries (USA).exe"
+        "SETUP_MAIN_ROOT/Binaries (USA).exe"
     ],
     "transform_file": "Binaries (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Rusty Lake Hotel (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rusty Lake Hotel (USA).exe"
+        "SETUP_MAIN_ROOT/Rusty Lake Hotel (USA).exe"
     ],
     "transform_file": "Rusty Lake Hotel (USA).exe"
 }

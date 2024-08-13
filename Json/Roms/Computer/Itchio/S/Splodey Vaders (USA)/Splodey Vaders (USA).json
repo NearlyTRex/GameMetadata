@@ -3,7 +3,7 @@
         "Splodey Vaders (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Splodey Vaders (USA).exe"
+        "SETUP_MAIN_ROOT/Splodey Vaders (USA).exe"
     ],
     "transform_file": "Splodey Vaders (USA).exe"
 }

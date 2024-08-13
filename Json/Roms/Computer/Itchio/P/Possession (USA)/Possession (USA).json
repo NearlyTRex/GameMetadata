@@ -3,7 +3,7 @@
         "Possession (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Possession (USA).exe"
+        "SETUP_MAIN_ROOT/Possession (USA).exe"
     ],
     "transform_file": "Possession (USA).exe"
 }

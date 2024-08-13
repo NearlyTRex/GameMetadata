@@ -3,7 +3,7 @@
         "SoundStrider (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/SoundStrider (USA).exe"
+        "SETUP_MAIN_ROOT/SoundStrider (USA).exe"
     ],
     "transform_file": "SoundStrider (USA).exe"
 }

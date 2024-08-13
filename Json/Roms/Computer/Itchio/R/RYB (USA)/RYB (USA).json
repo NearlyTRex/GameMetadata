@@ -3,7 +3,7 @@
         "RYB (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/RYB (USA).exe"
+        "SETUP_MAIN_ROOT/RYB (USA).exe"
     ],
     "transform_file": "RYB (USA).exe"
 }

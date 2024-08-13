@@ -3,7 +3,7 @@
         "Reproduction Man (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Reproduction Man (USA).exe"
+        "SETUP_MAIN_ROOT/Reproduction Man (USA).exe"
     ],
     "transform_file": "Reproduction Man (USA).exe"
 }

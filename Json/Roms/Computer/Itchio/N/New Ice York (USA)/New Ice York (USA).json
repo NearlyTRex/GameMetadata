@@ -3,7 +3,7 @@
         "New Ice York (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/New Ice York (USA).exe"
+        "SETUP_MAIN_ROOT/New Ice York (USA).exe"
     ],
     "transform_file": "New Ice York (USA).exe"
 }

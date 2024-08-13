@@ -3,7 +3,7 @@
         "Pawndemonium (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pawndemonium (USA).exe"
+        "SETUP_MAIN_ROOT/Pawndemonium (USA).exe"
     ],
     "transform_file": "Pawndemonium (USA).exe"
 }

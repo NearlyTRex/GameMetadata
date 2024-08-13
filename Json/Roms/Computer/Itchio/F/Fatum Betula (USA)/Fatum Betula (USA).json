@@ -3,7 +3,7 @@
         "Fatum Betula (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Fatum Betula (USA).exe"
+        "SETUP_MAIN_ROOT/Fatum Betula (USA).exe"
     ],
     "transform_file": "Fatum Betula (USA).exe"
 }

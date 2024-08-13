@@ -3,7 +3,7 @@
         "Recipe Of Madness, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Recipe Of Madness, The (USA).exe"
+        "SETUP_MAIN_ROOT/Recipe Of Madness, The (USA).exe"
     ],
     "transform_file": "Recipe Of Madness, The (USA).exe"
 }

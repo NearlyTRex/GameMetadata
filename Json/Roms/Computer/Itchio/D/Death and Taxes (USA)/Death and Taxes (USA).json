@@ -3,7 +3,7 @@
         "Death and Taxes (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Death and Taxes (USA).exe"
+        "SETUP_MAIN_ROOT/Death and Taxes (USA).exe"
     ],
     "transform_file": "Death and Taxes (USA).exe"
 }

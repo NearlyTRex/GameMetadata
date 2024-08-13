@@ -3,7 +3,7 @@
         "Asterism (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Asterism (USA).exe"
+        "SETUP_MAIN_ROOT/Asterism (USA).exe"
     ],
     "transform_file": "Asterism (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Resynth (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resynth (USA).exe"
+        "SETUP_MAIN_ROOT/Resynth (USA).exe"
     ],
     "transform_file": "Resynth (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Cityglitch (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cityglitch (USA).exe"
+        "SETUP_MAIN_ROOT/Cityglitch (USA).exe"
     ],
     "transform_file": "Cityglitch (USA).exe"
 }

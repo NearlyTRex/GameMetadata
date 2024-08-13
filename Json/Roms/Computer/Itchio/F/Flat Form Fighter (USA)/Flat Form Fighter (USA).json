@@ -3,7 +3,7 @@
         "Flat Form Fighter (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Flat Form Fighter (USA).exe"
+        "SETUP_MAIN_ROOT/Flat Form Fighter (USA).exe"
     ],
     "transform_file": "Flat Form Fighter (USA).exe"
 }

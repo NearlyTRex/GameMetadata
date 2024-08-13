@@ -3,7 +3,7 @@
         "Normal Lost Phone, A (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Normal Lost Phone, A (USA).exe"
+        "SETUP_MAIN_ROOT/Normal Lost Phone, A (USA).exe"
     ],
     "transform_file": "Normal Lost Phone, A (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Soft Body (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Soft Body (USA).exe"
+        "SETUP_MAIN_ROOT/Soft Body (USA).exe"
     ],
     "transform_file": "Soft Body (USA).exe"
 }

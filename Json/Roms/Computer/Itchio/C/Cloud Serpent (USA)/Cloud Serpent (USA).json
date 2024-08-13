@@ -3,7 +3,7 @@
         "Cloud Serpent (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cloud Serpent (USA).exe"
+        "SETUP_MAIN_ROOT/Cloud Serpent (USA).exe"
     ],
     "transform_file": "Cloud Serpent (USA).exe"
 }

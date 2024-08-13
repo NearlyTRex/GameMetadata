@@ -3,7 +3,7 @@
         "This World Unknown (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/This World Unknown (USA).exe"
+        "SETUP_MAIN_ROOT/This World Unknown (USA).exe"
     ],
     "transform_file": "This World Unknown (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Trainbow (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Trainbow (USA).exe"
+        "SETUP_MAIN_ROOT/Trainbow (USA).exe"
     ],
     "transform_file": "Trainbow (USA).exe"
 }

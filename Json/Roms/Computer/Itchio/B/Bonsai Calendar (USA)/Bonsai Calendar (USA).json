@@ -3,7 +3,7 @@
         "Bonsai Calendar (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bonsai Calendar (USA).exe"
+        "SETUP_MAIN_ROOT/Bonsai Calendar (USA).exe"
     ],
     "transform_file": "Bonsai Calendar (USA).exe"
 }

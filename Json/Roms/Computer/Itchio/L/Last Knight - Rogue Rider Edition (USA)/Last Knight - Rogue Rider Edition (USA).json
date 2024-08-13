@@ -3,7 +3,7 @@
         "Last Knight - Rogue Rider Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Last Knight - Rogue Rider Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Last Knight - Rogue Rider Edition (USA).exe"
     ],
     "transform_file": "Last Knight - Rogue Rider Edition (USA).exe"
 }

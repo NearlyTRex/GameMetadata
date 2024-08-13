@@ -3,7 +3,7 @@
         "Desert Mothers (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Desert Mothers (USA).exe"
+        "SETUP_MAIN_ROOT/Desert Mothers (USA).exe"
     ],
     "transform_file": "Desert Mothers (USA).exe"
 }

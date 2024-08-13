@@ -3,7 +3,7 @@
         "Zepball Deluxe (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Zepball Deluxe (USA).exe"
+        "SETUP_MAIN_ROOT/Zepball Deluxe (USA).exe"
     ],
     "transform_file": "Zepball Deluxe (USA).exe"
 }

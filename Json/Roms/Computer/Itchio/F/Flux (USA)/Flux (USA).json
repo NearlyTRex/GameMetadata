@@ -3,7 +3,7 @@
         "Flux (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Flux (USA).exe"
+        "SETUP_MAIN_ROOT/Flux (USA).exe"
     ],
     "transform_file": "Flux (USA).exe"
 }

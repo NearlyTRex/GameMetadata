@@ -3,7 +3,7 @@
         "Lyne (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lyne (USA).exe"
+        "SETUP_MAIN_ROOT/Lyne (USA).exe"
     ],
     "transform_file": "Lyne (USA).exe"
 }

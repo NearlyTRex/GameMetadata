@@ -3,7 +3,7 @@
         "Raik (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Raik (USA).exe"
+        "SETUP_MAIN_ROOT/Raik (USA).exe"
     ],
     "transform_file": "Raik (USA).exe"
 }

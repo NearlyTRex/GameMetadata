@@ -3,7 +3,7 @@
         "Spooky Station (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Spooky Station (USA).exe"
+        "SETUP_MAIN_ROOT/Spooky Station (USA).exe"
     ],
     "transform_file": "Spooky Station (USA).exe"
 }

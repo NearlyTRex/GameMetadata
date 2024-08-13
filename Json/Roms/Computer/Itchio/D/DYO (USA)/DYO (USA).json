@@ -3,7 +3,7 @@
         "DYO (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/DYO (USA).exe"
+        "SETUP_MAIN_ROOT/DYO (USA).exe"
     ],
     "transform_file": "DYO (USA).exe"
 }

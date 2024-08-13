@@ -3,7 +3,7 @@
         "Tangrams Deluxe (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Tangrams Deluxe (USA).exe"
+        "SETUP_MAIN_ROOT/Tangrams Deluxe (USA).exe"
     ],
     "transform_file": "Tangrams Deluxe (USA).exe"
 }

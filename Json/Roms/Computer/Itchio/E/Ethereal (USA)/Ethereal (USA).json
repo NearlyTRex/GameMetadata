@@ -3,7 +3,7 @@
         "Ethereal (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ethereal (USA).exe"
+        "SETUP_MAIN_ROOT/Ethereal (USA).exe"
     ],
     "transform_file": "Ethereal (USA).exe"
 }

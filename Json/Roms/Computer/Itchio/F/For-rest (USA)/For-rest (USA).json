@@ -3,7 +3,7 @@
         "For-rest (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/For-rest (USA).exe"
+        "SETUP_MAIN_ROOT/For-rest (USA).exe"
     ],
     "transform_file": "For-rest (USA).exe"
 }

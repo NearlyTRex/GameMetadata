@@ -3,7 +3,7 @@
         "Supper, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Supper, The (USA).exe"
+        "SETUP_MAIN_ROOT/Supper, The (USA).exe"
     ],
     "transform_file": "Supper, The (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Ripped Pants at Work (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ripped Pants at Work (USA).exe"
+        "SETUP_MAIN_ROOT/Ripped Pants at Work (USA).exe"
     ],
     "transform_file": "Ripped Pants at Work (USA).exe"
 }

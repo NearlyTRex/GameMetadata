@@ -3,7 +3,7 @@
         "Otherside (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Otherside (USA).exe"
+        "SETUP_MAIN_ROOT/Otherside (USA).exe"
     ],
     "transform_file": "Otherside (USA).exe"
 }

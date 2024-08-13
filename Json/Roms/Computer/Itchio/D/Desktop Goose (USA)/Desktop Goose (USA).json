@@ -3,7 +3,7 @@
         "Desktop Goose (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Desktop Goose (USA).exe"
+        "SETUP_MAIN_ROOT/Desktop Goose (USA).exe"
     ],
     "transform_file": "Desktop Goose (USA).exe"
 }

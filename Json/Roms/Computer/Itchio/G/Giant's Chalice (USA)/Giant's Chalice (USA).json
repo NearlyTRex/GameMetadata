@@ -3,7 +3,7 @@
         "Giant's Chalice (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Giant's Chalice (USA).exe"
+        "SETUP_MAIN_ROOT/Giant's Chalice (USA).exe"
     ],
     "transform_file": "Giant's Chalice (USA).exe"
 }

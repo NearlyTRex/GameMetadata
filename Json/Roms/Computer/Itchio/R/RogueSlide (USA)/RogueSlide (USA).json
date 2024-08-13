@@ -3,7 +3,7 @@
         "RogueSlide (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/RogueSlide (USA).exe"
+        "SETUP_MAIN_ROOT/RogueSlide (USA).exe"
     ],
     "transform_file": "RogueSlide (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Wild Woods (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Wild Woods (USA).exe"
+        "SETUP_MAIN_ROOT/Wild Woods (USA).exe"
     ],
     "transform_file": "Wild Woods (USA).exe"
 }

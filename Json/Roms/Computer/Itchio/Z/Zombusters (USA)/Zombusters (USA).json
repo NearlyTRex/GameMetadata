@@ -3,7 +3,7 @@
         "Zombusters (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Zombusters (USA).exe"
+        "SETUP_MAIN_ROOT/Zombusters (USA).exe"
     ],
     "transform_file": "Zombusters (USA).exe"
 }

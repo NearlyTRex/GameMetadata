@@ -3,7 +3,7 @@
         "Speed Dating for Ghosts (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Speed Dating for Ghosts (USA).exe"
+        "SETUP_MAIN_ROOT/Speed Dating for Ghosts (USA).exe"
     ],
     "transform_file": "Speed Dating for Ghosts (USA).exe"
 }

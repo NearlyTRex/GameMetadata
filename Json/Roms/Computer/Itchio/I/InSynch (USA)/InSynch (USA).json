@@ -3,7 +3,7 @@
         "InSynch (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/InSynch (USA).exe"
+        "SETUP_MAIN_ROOT/InSynch (USA).exe"
     ],
     "transform_file": "InSynch (USA).exe"
 }

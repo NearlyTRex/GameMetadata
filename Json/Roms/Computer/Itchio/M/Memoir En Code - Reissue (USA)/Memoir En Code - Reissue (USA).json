@@ -3,7 +3,7 @@
         "Memoir En Code - Reissue (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Memoir En Code - Reissue (USA).exe"
+        "SETUP_MAIN_ROOT/Memoir En Code - Reissue (USA).exe"
     ],
     "transform_file": "Memoir En Code - Reissue (USA).exe"
 }

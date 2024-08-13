@@ -3,7 +3,7 @@
         "Quack Attack 1985 - Turbo DX Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Quack Attack 1985 - Turbo DX Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Quack Attack 1985 - Turbo DX Edition (USA).exe"
     ],
     "transform_file": "Quack Attack 1985 - Turbo DX Edition (USA).exe"
 }

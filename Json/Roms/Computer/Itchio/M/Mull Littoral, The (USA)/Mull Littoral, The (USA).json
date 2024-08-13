@@ -3,7 +3,7 @@
         "Mull Littoral, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Mull Littoral, The (USA).exe"
+        "SETUP_MAIN_ROOT/Mull Littoral, The (USA).exe"
     ],
     "transform_file": "Mull Littoral, The (USA).exe"
 }

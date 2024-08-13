@@ -3,7 +3,7 @@
         "Old Man's Journey (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Old Man's Journey (USA).exe"
+        "SETUP_MAIN_ROOT/Old Man's Journey (USA).exe"
     ],
     "transform_file": "Old Man's Journey (USA).exe"
 }

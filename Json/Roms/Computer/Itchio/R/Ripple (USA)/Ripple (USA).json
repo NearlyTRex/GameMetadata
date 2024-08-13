@@ -3,7 +3,7 @@
         "Ripple (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ripple (USA).exe"
+        "SETUP_MAIN_ROOT/Ripple (USA).exe"
     ],
     "transform_file": "Ripple (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Izbot (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Izbot (USA).exe"
+        "SETUP_MAIN_ROOT/Izbot (USA).exe"
     ],
     "transform_file": "Izbot (USA).exe"
 }

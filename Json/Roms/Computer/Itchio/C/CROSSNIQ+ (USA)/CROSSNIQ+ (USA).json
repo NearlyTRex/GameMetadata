@@ -3,7 +3,7 @@
         "CROSSNIQ+ (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/CROSSNIQ+ (USA).exe"
+        "SETUP_MAIN_ROOT/CROSSNIQ+ (USA).exe"
     ],
     "transform_file": "CROSSNIQ+ (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Sonny (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sonny (USA).exe"
+        "SETUP_MAIN_ROOT/Sonny (USA).exe"
     ],
     "transform_file": "Sonny (USA).exe"
 }

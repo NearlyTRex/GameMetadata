@@ -3,7 +3,7 @@
         "Grey Man, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Grey Man, The (USA).exe"
+        "SETUP_MAIN_ROOT/Grey Man, The (USA).exe"
     ],
     "transform_file": "Grey Man, The (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Flowerdrops (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Flowerdrops (USA).exe"
+        "SETUP_MAIN_ROOT/Flowerdrops (USA).exe"
     ],
     "transform_file": "Flowerdrops (USA).exe"
 }

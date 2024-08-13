@@ -3,7 +3,7 @@
         "Homing (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Homing (USA).exe"
+        "SETUP_MAIN_ROOT/Homing (USA).exe"
     ],
     "transform_file": "Homing (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Project SNAQE (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Project SNAQE (USA).exe"
+        "SETUP_MAIN_ROOT/Project SNAQE (USA).exe"
     ],
     "transform_file": "Project SNAQE (USA).exe"
 }

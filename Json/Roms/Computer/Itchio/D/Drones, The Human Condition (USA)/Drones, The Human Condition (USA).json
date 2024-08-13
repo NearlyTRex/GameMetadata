@@ -3,7 +3,7 @@
         "Drones, The Human Condition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Drones, The Human Condition (USA).exe"
+        "SETUP_MAIN_ROOT/Drones, The Human Condition (USA).exe"
     ],
     "transform_file": "Drones, The Human Condition (USA).exe"
 }

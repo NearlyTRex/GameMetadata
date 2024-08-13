@@ -3,7 +3,7 @@
         "Receiver (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Receiver (USA).exe"
+        "SETUP_MAIN_ROOT/Receiver (USA).exe"
     ],
     "transform_file": "Receiver (USA).exe"
 }

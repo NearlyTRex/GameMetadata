@@ -3,7 +3,7 @@
         "Cuckoo Castle (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cuckoo Castle (USA).exe"
+        "SETUP_MAIN_ROOT/Cuckoo Castle (USA).exe"
     ],
     "transform_file": "Cuckoo Castle (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Haque (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Haque (USA).exe"
+        "SETUP_MAIN_ROOT/Haque (USA).exe"
     ],
     "transform_file": "Haque (USA).exe"
 }

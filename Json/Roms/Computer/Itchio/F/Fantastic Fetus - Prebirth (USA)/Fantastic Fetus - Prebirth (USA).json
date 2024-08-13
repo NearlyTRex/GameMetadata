@@ -3,7 +3,7 @@
         "Fantastic Fetus - Prebirth (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Fantastic Fetus - Prebirth (USA).exe"
+        "SETUP_MAIN_ROOT/Fantastic Fetus - Prebirth (USA).exe"
     ],
     "transform_file": "Fantastic Fetus - Prebirth (USA).exe"
 }

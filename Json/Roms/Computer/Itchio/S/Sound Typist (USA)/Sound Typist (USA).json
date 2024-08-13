@@ -3,7 +3,7 @@
         "Sound Typist (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sound Typist (USA).exe"
+        "SETUP_MAIN_ROOT/Sound Typist (USA).exe"
     ],
     "transform_file": "Sound Typist (USA).exe"
 }

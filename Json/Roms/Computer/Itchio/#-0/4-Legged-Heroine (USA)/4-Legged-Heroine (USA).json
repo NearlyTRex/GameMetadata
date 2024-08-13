@@ -3,7 +3,7 @@
         "4-Legged-Heroine (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/4-Legged-Heroine (USA).exe"
+        "SETUP_MAIN_ROOT/4-Legged-Heroine (USA).exe"
     ],
     "transform_file": "4-Legged-Heroine (USA).exe"
 }

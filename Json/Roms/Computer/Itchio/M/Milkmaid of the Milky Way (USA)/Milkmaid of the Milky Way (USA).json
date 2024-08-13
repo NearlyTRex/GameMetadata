@@ -3,7 +3,7 @@
         "Milkmaid of the Milky Way (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Milkmaid of the Milky Way (USA).exe"
+        "SETUP_MAIN_ROOT/Milkmaid of the Milky Way (USA).exe"
     ],
     "transform_file": "Milkmaid of the Milky Way (USA).exe"
 }

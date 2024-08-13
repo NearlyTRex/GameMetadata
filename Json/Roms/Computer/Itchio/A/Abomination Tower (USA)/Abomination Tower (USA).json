@@ -3,7 +3,7 @@
         "Abomination Tower (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Abomination Tower (USA).exe"
+        "SETUP_MAIN_ROOT/Abomination Tower (USA).exe"
     ],
     "transform_file": "Abomination Tower (USA).exe"
 }

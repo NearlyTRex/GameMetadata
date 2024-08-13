@@ -3,7 +3,7 @@
         "Super Snake 3D (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Super Snake 3D (USA).exe"
+        "SETUP_MAIN_ROOT/Super Snake 3D (USA).exe"
     ],
     "transform_file": "Super Snake 3D (USA).exe"
 }

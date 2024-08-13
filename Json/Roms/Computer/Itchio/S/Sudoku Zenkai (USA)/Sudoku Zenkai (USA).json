@@ -3,7 +3,7 @@
         "Sudoku Zenkai (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sudoku Zenkai (USA).exe"
+        "SETUP_MAIN_ROOT/Sudoku Zenkai (USA).exe"
     ],
     "transform_file": "Sudoku Zenkai (USA).exe"
 }

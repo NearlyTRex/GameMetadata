@@ -3,7 +3,7 @@
         "Dialogue - A Writer's Story (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dialogue - A Writer's Story (USA).exe"
+        "SETUP_MAIN_ROOT/Dialogue - A Writer's Story (USA).exe"
     ],
     "transform_file": "Dialogue - A Writer's Story (USA).exe"
 }

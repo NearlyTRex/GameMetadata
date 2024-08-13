@@ -3,7 +3,7 @@
         "WaveCrash!! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/WaveCrash!! (USA).exe"
+        "SETUP_MAIN_ROOT/WaveCrash!! (USA).exe"
     ],
     "transform_file": "WaveCrash!! (USA).exe"
 }

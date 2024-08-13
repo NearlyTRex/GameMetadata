@@ -3,7 +3,7 @@
         "Glitch Strike (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Glitch Strike (USA).exe"
+        "SETUP_MAIN_ROOT/Glitch Strike (USA).exe"
     ],
     "transform_file": "Glitch Strike (USA).exe"
 }

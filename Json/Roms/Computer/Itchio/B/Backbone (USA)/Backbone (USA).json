@@ -3,7 +3,7 @@
         "Backbone (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Backbone (USA).exe"
+        "SETUP_MAIN_ROOT/Backbone (USA).exe"
     ],
     "transform_file": "Backbone (USA).exe"
 }

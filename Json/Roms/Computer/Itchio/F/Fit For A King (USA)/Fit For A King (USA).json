@@ -3,7 +3,7 @@
         "Fit For A King (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Fit For A King (USA).exe"
+        "SETUP_MAIN_ROOT/Fit For A King (USA).exe"
     ],
     "transform_file": "Fit For A King (USA).exe"
 }

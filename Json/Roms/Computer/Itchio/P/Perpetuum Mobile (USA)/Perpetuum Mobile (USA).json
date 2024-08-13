@@ -3,7 +3,7 @@
         "Perpetuum Mobile (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Perpetuum Mobile (USA).exe"
+        "SETUP_MAIN_ROOT/Perpetuum Mobile (USA).exe"
     ],
     "transform_file": "Perpetuum Mobile (USA).exe"
 }

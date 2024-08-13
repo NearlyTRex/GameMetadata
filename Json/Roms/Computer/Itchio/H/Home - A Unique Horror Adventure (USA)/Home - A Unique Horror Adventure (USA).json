@@ -3,7 +3,7 @@
         "Home - A Unique Horror Adventure (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Home - A Unique Horror Adventure (USA).exe"
+        "SETUP_MAIN_ROOT/Home - A Unique Horror Adventure (USA).exe"
     ],
     "transform_file": "Home - A Unique Horror Adventure (USA).exe"
 }

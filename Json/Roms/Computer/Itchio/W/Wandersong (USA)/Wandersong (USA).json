@@ -3,7 +3,7 @@
         "Wandersong (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Wandersong (USA).exe"
+        "SETUP_MAIN_ROOT/Wandersong (USA).exe"
     ],
     "transform_file": "Wandersong (USA).exe"
 }

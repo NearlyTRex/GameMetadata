@@ -3,7 +3,7 @@
         "Vision Soft Reset (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Vision Soft Reset (USA).exe"
+        "SETUP_MAIN_ROOT/Vision Soft Reset (USA).exe"
     ],
     "transform_file": "Vision Soft Reset (USA).exe"
 }

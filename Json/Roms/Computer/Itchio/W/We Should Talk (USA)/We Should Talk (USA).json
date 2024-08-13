@@ -3,7 +3,7 @@
         "We Should Talk (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/We Should Talk (USA).exe"
+        "SETUP_MAIN_ROOT/We Should Talk (USA).exe"
     ],
     "transform_file": "We Should Talk (USA).exe"
 }

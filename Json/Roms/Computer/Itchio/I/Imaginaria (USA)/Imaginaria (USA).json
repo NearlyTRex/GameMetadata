@@ -3,7 +3,7 @@
         "Imaginaria (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Imaginaria (USA).exe"
+        "SETUP_MAIN_ROOT/Imaginaria (USA).exe"
     ],
     "transform_file": "Imaginaria (USA).exe"
 }

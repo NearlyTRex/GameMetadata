@@ -3,7 +3,7 @@
         "Gumgem (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Gumgem (USA).exe"
+        "SETUP_MAIN_ROOT/Gumgem (USA).exe"
     ],
     "transform_file": "Gumgem (USA).exe"
 }

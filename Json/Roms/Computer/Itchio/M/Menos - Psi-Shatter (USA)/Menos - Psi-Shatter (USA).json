@@ -3,7 +3,7 @@
         "Menos - Psi-Shatter (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Menos - Psi-Shatter (USA).exe"
+        "SETUP_MAIN_ROOT/Menos - Psi-Shatter (USA).exe"
     ],
     "transform_file": "Menos - Psi-Shatter (USA).exe"
 }

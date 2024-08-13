@@ -3,7 +3,7 @@
         "Benjamin of Blackstone Edge (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Benjamin of Blackstone Edge (USA).exe"
+        "SETUP_MAIN_ROOT/Benjamin of Blackstone Edge (USA).exe"
     ],
     "transform_file": "Benjamin of Blackstone Edge (USA).exe"
 }

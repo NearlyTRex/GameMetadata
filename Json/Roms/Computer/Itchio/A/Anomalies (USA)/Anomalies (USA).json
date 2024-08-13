@@ -3,7 +3,7 @@
         "Anomalies (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Anomalies (USA).exe"
+        "SETUP_MAIN_ROOT/Anomalies (USA).exe"
     ],
     "transform_file": "Anomalies (USA).exe"
 }

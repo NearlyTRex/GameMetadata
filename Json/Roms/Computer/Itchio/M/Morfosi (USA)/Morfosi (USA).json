@@ -3,7 +3,7 @@
         "Morfosi (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Morfosi (USA).exe"
+        "SETUP_MAIN_ROOT/Morfosi (USA).exe"
     ],
     "transform_file": "Morfosi (USA).exe"
 }

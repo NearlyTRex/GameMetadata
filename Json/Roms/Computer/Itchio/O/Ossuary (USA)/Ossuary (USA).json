@@ -3,7 +3,7 @@
         "Ossuary (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ossuary (USA).exe"
+        "SETUP_MAIN_ROOT/Ossuary (USA).exe"
     ],
     "transform_file": "Ossuary (USA).exe"
 }

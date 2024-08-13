@@ -3,7 +3,7 @@
         "Aerocraft (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Aerocraft (USA).exe"
+        "SETUP_MAIN_ROOT/Aerocraft (USA).exe"
     ],
     "transform_file": "Aerocraft (USA).exe"
 }

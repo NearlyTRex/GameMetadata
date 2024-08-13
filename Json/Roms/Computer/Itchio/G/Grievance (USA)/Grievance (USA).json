@@ -3,7 +3,7 @@
         "Grievance (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Grievance (USA).exe"
+        "SETUP_MAIN_ROOT/Grievance (USA).exe"
     ],
     "transform_file": "Grievance (USA).exe"
 }

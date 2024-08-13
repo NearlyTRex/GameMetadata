@@ -3,7 +3,7 @@
         "Hollow Head (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hollow Head (USA).exe"
+        "SETUP_MAIN_ROOT/Hollow Head (USA).exe"
     ],
     "transform_file": "Hollow Head (USA).exe"
 }

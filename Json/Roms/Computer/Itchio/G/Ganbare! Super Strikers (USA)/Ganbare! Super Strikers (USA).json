@@ -3,7 +3,7 @@
         "Ganbare! Super Strikers (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ganbare! Super Strikers (USA).exe"
+        "SETUP_MAIN_ROOT/Ganbare! Super Strikers (USA).exe"
     ],
     "transform_file": "Ganbare! Super Strikers (USA).exe"
 }

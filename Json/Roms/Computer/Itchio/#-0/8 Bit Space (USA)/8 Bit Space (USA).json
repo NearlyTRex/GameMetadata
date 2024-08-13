@@ -3,7 +3,7 @@
         "8 Bit Space (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/8 Bit Space (USA).exe"
+        "SETUP_MAIN_ROOT/8 Bit Space (USA).exe"
     ],
     "transform_file": "8 Bit Space (USA).exe"
 }

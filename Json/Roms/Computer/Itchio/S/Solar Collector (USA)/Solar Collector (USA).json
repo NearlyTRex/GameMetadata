@@ -3,7 +3,7 @@
         "Solar Collector (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Solar Collector (USA).exe"
+        "SETUP_MAIN_ROOT/Solar Collector (USA).exe"
     ],
     "transform_file": "Solar Collector (USA).exe"
 }

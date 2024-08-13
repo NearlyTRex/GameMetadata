@@ -3,7 +3,7 @@
         "Crashed Lander (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Crashed Lander (USA).exe"
+        "SETUP_MAIN_ROOT/Crashed Lander (USA).exe"
     ],
     "transform_file": "Crashed Lander (USA).exe"
 }

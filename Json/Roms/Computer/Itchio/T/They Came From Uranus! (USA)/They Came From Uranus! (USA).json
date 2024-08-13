@@ -3,7 +3,7 @@
         "They Came From Uranus! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/They Came From Uranus! (USA).exe"
+        "SETUP_MAIN_ROOT/They Came From Uranus! (USA).exe"
     ],
     "transform_file": "They Came From Uranus! (USA).exe"
 }

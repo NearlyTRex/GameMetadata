@@ -3,7 +3,7 @@
         "Toto Temple Deluxe (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Toto Temple Deluxe (USA).exe"
+        "SETUP_MAIN_ROOT/Toto Temple Deluxe (USA).exe"
     ],
     "transform_file": "Toto Temple Deluxe (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Even in Arcadia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Even in Arcadia (USA).exe"
+        "SETUP_MAIN_ROOT/Even in Arcadia (USA).exe"
     ],
     "transform_file": "Even in Arcadia (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Deliver Us From Evil - Masquerade (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Deliver Us From Evil - Masquerade (USA).exe"
+        "SETUP_MAIN_ROOT/Deliver Us From Evil - Masquerade (USA).exe"
     ],
     "transform_file": "Deliver Us From Evil - Masquerade (USA).exe"
 }

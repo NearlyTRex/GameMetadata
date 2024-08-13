@@ -3,7 +3,7 @@
         "Whirlibird (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Whirlibird (USA).exe"
+        "SETUP_MAIN_ROOT/Whirlibird (USA).exe"
     ],
     "transform_file": "Whirlibird (USA).exe"
 }

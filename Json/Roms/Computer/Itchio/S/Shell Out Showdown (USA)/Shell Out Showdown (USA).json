@@ -3,7 +3,7 @@
         "Shell Out Showdown (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Shell Out Showdown (USA).exe"
+        "SETUP_MAIN_ROOT/Shell Out Showdown (USA).exe"
     ],
     "transform_file": "Shell Out Showdown (USA).exe"
 }

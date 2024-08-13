@@ -3,7 +3,7 @@
         "Reality (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Reality (USA).exe"
+        "SETUP_MAIN_ROOT/Reality (USA).exe"
     ],
     "transform_file": "Reality (USA).exe"
 }

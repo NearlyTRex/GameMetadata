@@ -3,7 +3,7 @@
         "Couch Goblins (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Couch Goblins (USA).exe"
+        "SETUP_MAIN_ROOT/Couch Goblins (USA).exe"
     ],
     "transform_file": "Couch Goblins (USA).exe"
 }

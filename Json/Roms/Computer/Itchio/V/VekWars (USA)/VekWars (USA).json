@@ -3,7 +3,7 @@
         "VekWars (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/VekWars (USA).exe"
+        "SETUP_MAIN_ROOT/VekWars (USA).exe"
     ],
     "transform_file": "VekWars (USA).exe"
 }

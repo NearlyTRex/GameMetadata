@@ -3,7 +3,7 @@
         "Please (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Please (USA).exe"
+        "SETUP_MAIN_ROOT/Please (USA).exe"
     ],
     "transform_file": "Please (USA).exe"
 }

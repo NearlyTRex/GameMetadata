@@ -3,7 +3,7 @@
         "Ominous! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ominous! (USA).exe"
+        "SETUP_MAIN_ROOT/Ominous! (USA).exe"
     ],
     "transform_file": "Ominous! (USA).exe"
 }

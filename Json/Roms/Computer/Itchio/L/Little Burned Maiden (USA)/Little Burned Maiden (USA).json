@@ -3,7 +3,7 @@
         "Little Burned Maiden (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Little Burned Maiden (USA).exe"
+        "SETUP_MAIN_ROOT/Little Burned Maiden (USA).exe"
     ],
     "transform_file": "Little Burned Maiden (USA).exe"
 }

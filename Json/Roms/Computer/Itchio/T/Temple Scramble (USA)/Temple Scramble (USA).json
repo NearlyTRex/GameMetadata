@@ -3,7 +3,7 @@
         "Temple Scramble (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Temple Scramble (USA).exe"
+        "SETUP_MAIN_ROOT/Temple Scramble (USA).exe"
     ],
     "transform_file": "Temple Scramble (USA).exe"
 }

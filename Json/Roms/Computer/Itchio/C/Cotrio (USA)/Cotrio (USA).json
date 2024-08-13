@@ -3,7 +3,7 @@
         "Cotrio (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cotrio (USA).exe"
+        "SETUP_MAIN_ROOT/Cotrio (USA).exe"
     ],
     "transform_file": "Cotrio (USA).exe"
 }

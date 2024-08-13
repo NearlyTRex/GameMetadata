@@ -3,7 +3,7 @@
         "Forget the Brakes! (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Forget the Brakes! (USA).exe"
+        "SETUP_MAIN_ROOT/Forget the Brakes! (USA).exe"
     ],
     "transform_file": "Forget the Brakes! (USA).exe"
 }

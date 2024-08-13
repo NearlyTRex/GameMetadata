@@ -3,7 +3,7 @@
         "Soma Spirits - Rebalance (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Soma Spirits - Rebalance (USA).exe"
+        "SETUP_MAIN_ROOT/Soma Spirits - Rebalance (USA).exe"
     ],
     "transform_file": "Soma Spirits - Rebalance (USA).exe"
 }

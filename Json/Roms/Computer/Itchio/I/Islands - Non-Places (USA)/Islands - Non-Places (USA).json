@@ -3,7 +3,7 @@
         "Islands - Non-Places (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Islands - Non-Places (USA).exe"
+        "SETUP_MAIN_ROOT/Islands - Non-Places (USA).exe"
     ],
     "transform_file": "Islands - Non-Places (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Hexed (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hexed (USA).exe"
+        "SETUP_MAIN_ROOT/Hexed (USA).exe"
     ],
     "transform_file": "Hexed (USA).exe"
 }

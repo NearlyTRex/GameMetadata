@@ -3,7 +3,7 @@
         "Nightmare's Trip, A (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Nightmare's Trip, A (USA).exe"
+        "SETUP_MAIN_ROOT/Nightmare's Trip, A (USA).exe"
     ],
     "transform_file": "Nightmare's Trip, A (USA).exe"
 }

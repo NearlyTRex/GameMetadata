@@ -3,7 +3,7 @@
         "Hooklings (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hooklings (USA).exe"
+        "SETUP_MAIN_ROOT/Hooklings (USA).exe"
     ],
     "transform_file": "Hooklings (USA).exe"
 }

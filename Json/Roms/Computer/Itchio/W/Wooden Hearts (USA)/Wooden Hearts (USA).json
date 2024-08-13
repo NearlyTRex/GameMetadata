@@ -3,7 +3,7 @@
         "Wooden Hearts (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Wooden Hearts (USA).exe"
+        "SETUP_MAIN_ROOT/Wooden Hearts (USA).exe"
     ],
     "transform_file": "Wooden Hearts (USA).exe"
 }

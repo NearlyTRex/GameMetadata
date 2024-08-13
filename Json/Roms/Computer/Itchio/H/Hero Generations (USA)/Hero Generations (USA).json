@@ -3,7 +3,7 @@
         "Hero Generations (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hero Generations (USA).exe"
+        "SETUP_MAIN_ROOT/Hero Generations (USA).exe"
     ],
     "transform_file": "Hero Generations (USA).exe"
 }

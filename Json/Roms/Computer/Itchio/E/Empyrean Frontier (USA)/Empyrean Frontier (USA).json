@@ -3,7 +3,7 @@
         "Empyrean Frontier (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Empyrean Frontier (USA).exe"
+        "SETUP_MAIN_ROOT/Empyrean Frontier (USA).exe"
     ],
     "transform_file": "Empyrean Frontier (USA).exe"
 }

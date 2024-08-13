@@ -3,7 +3,7 @@
         "Zenohell (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Zenohell (USA).exe"
+        "SETUP_MAIN_ROOT/Zenohell (USA).exe"
     ],
     "transform_file": "Zenohell (USA).exe"
 }

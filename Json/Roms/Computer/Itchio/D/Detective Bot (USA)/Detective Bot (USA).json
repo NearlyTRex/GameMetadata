@@ -3,7 +3,7 @@
         "Detective Bot (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Detective Bot (USA).exe"
+        "SETUP_MAIN_ROOT/Detective Bot (USA).exe"
     ],
     "transform_file": "Detective Bot (USA).exe"
 }

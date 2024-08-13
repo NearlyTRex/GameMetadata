@@ -3,7 +3,7 @@
         "TowerFall Ascension (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/TowerFall Ascension (USA).exe"
+        "SETUP_MAIN_ROOT/TowerFall Ascension (USA).exe"
     ],
     "transform_file": "TowerFall Ascension (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Luminous Labyrinth (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Luminous Labyrinth (USA).exe"
+        "SETUP_MAIN_ROOT/Luminous Labyrinth (USA).exe"
     ],
     "transform_file": "Luminous Labyrinth (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Just One, Must Choose (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Just One, Must Choose (USA).exe"
+        "SETUP_MAIN_ROOT/Just One, Must Choose (USA).exe"
     ],
     "transform_file": "Just One, Must Choose (USA).exe"
 }

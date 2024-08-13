@@ -3,7 +3,7 @@
         "Sushi Master VR (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sushi Master VR (USA).exe"
+        "SETUP_MAIN_ROOT/Sushi Master VR (USA).exe"
     ],
     "transform_file": "Sushi Master VR (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Emuurom (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Emuurom (USA).exe"
+        "SETUP_MAIN_ROOT/Emuurom (USA).exe"
     ],
     "transform_file": "Emuurom (USA).exe"
 }

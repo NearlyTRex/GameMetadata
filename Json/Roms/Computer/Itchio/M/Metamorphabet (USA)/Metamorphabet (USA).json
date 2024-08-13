@@ -3,7 +3,7 @@
         "Metamorphabet (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Metamorphabet (USA).exe"
+        "SETUP_MAIN_ROOT/Metamorphabet (USA).exe"
     ],
     "transform_file": "Metamorphabet (USA).exe"
 }

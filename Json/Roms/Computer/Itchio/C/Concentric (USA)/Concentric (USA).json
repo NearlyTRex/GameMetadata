@@ -3,7 +3,7 @@
         "Concentric (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Concentric (USA).exe"
+        "SETUP_MAIN_ROOT/Concentric (USA).exe"
     ],
     "transform_file": "Concentric (USA).exe"
 }

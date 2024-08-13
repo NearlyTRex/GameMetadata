@@ -3,7 +3,7 @@
         "Thermo Puzzle (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Thermo Puzzle (USA).exe"
+        "SETUP_MAIN_ROOT/Thermo Puzzle (USA).exe"
     ],
     "transform_file": "Thermo Puzzle (USA).exe"
 }

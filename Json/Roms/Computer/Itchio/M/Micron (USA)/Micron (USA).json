@@ -3,7 +3,7 @@
         "Micron (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Micron (USA).exe"
+        "SETUP_MAIN_ROOT/Micron (USA).exe"
     ],
     "transform_file": "Micron (USA).exe"
 }

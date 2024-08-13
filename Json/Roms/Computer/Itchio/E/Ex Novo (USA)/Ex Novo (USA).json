@@ -3,7 +3,7 @@
         "Ex Novo (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ex Novo (USA).exe"
+        "SETUP_MAIN_ROOT/Ex Novo (USA).exe"
     ],
     "transform_file": "Ex Novo (USA).exe"
 }

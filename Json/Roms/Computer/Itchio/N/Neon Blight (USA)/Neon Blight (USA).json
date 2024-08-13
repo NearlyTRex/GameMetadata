@@ -3,7 +3,7 @@
         "Neon Blight (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Neon Blight (USA).exe"
+        "SETUP_MAIN_ROOT/Neon Blight (USA).exe"
     ],
     "transform_file": "Neon Blight (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Micro Dash (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Micro Dash (USA).exe"
+        "SETUP_MAIN_ROOT/Micro Dash (USA).exe"
     ],
     "transform_file": "Micro Dash (USA).exe"
 }

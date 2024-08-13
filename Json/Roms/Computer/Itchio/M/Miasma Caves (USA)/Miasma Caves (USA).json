@@ -3,7 +3,7 @@
         "Miasma Caves (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Miasma Caves (USA).exe"
+        "SETUP_MAIN_ROOT/Miasma Caves (USA).exe"
     ],
     "transform_file": "Miasma Caves (USA).exe"
 }

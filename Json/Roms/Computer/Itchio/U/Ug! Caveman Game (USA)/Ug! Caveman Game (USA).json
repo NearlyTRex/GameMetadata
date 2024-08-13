@@ -3,7 +3,7 @@
         "Ug! Caveman Game (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ug! Caveman Game (USA).exe"
+        "SETUP_MAIN_ROOT/Ug! Caveman Game (USA).exe"
     ],
     "transform_file": "Ug! Caveman Game (USA).exe"
 }

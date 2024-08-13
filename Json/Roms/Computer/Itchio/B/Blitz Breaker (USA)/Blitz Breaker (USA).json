@@ -3,7 +3,7 @@
         "Blitz Breaker (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Blitz Breaker (USA).exe"
+        "SETUP_MAIN_ROOT/Blitz Breaker (USA).exe"
     ],
     "transform_file": "Blitz Breaker (USA).exe"
 }

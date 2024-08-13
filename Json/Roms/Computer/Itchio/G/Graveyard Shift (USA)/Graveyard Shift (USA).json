@@ -3,7 +3,7 @@
         "Graveyard Shift (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Graveyard Shift (USA).exe"
+        "SETUP_MAIN_ROOT/Graveyard Shift (USA).exe"
     ],
     "transform_file": "Graveyard Shift (USA).exe"
 }

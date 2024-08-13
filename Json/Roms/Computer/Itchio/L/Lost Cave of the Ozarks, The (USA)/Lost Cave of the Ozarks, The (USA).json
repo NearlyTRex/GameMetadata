@@ -3,7 +3,7 @@
         "Lost Cave of the Ozarks, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Lost Cave of the Ozarks, The (USA).exe"
+        "SETUP_MAIN_ROOT/Lost Cave of the Ozarks, The (USA).exe"
     ],
     "transform_file": "Lost Cave of the Ozarks, The (USA).exe"
 }

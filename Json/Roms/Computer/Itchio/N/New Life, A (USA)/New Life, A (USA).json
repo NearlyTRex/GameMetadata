@@ -3,7 +3,7 @@
         "New Life, A (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/New Life, A (USA).exe"
+        "SETUP_MAIN_ROOT/New Life, A (USA).exe"
     ],
     "transform_file": "New Life, A (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Particle Mace (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Particle Mace (USA).exe"
+        "SETUP_MAIN_ROOT/Particle Mace (USA).exe"
     ],
     "transform_file": "Particle Mace (USA).exe"
 }

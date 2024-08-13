@@ -3,7 +3,7 @@
         "Odd Realm (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Odd Realm (USA).exe"
+        "SETUP_MAIN_ROOT/Odd Realm (USA).exe"
     ],
     "transform_file": "Odd Realm (USA).exe"
 }

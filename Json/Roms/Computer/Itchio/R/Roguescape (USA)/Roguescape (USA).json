@@ -3,7 +3,7 @@
         "Roguescape (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Roguescape (USA).exe"
+        "SETUP_MAIN_ROOT/Roguescape (USA).exe"
     ],
     "transform_file": "Roguescape (USA).exe"
 }

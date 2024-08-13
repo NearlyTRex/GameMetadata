@@ -3,7 +3,7 @@
         "Mole (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Mole (USA).exe"
+        "SETUP_MAIN_ROOT/Mole (USA).exe"
     ],
     "transform_file": "Mole (USA).exe"
 }

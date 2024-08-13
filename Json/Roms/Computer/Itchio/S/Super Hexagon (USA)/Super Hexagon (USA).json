@@ -3,7 +3,7 @@
         "Super Hexagon (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Super Hexagon (USA).exe"
+        "SETUP_MAIN_ROOT/Super Hexagon (USA).exe"
     ],
     "transform_file": "Super Hexagon (USA).exe"
 }

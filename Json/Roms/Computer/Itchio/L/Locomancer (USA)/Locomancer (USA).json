@@ -3,7 +3,7 @@
         "Locomancer (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Locomancer (USA).exe"
+        "SETUP_MAIN_ROOT/Locomancer (USA).exe"
     ],
     "transform_file": "Locomancer (USA).exe"
 }

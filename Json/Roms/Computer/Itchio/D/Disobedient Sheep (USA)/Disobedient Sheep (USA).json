@@ -3,7 +3,7 @@
         "Disobedient Sheep (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Disobedient Sheep (USA).exe"
+        "SETUP_MAIN_ROOT/Disobedient Sheep (USA).exe"
     ],
     "transform_file": "Disobedient Sheep (USA).exe"
 }

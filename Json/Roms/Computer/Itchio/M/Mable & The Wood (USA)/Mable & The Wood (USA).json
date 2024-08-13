@@ -3,7 +3,7 @@
         "Mable & The Wood (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Mable & The Wood (USA).exe"
+        "SETUP_MAIN_ROOT/Mable & The Wood (USA).exe"
     ],
     "transform_file": "Mable & The Wood (USA).exe"
 }

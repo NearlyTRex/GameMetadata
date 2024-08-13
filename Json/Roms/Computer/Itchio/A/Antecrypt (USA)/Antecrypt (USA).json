@@ -3,7 +3,7 @@
         "Antecrypt (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Antecrypt (USA).exe"
+        "SETUP_MAIN_ROOT/Antecrypt (USA).exe"
     ],
     "transform_file": "Antecrypt (USA).exe"
 }

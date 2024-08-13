@@ -3,7 +3,7 @@
         "Binary Heresy (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Binary Heresy (USA).exe"
+        "SETUP_MAIN_ROOT/Binary Heresy (USA).exe"
     ],
     "transform_file": "Binary Heresy (USA).exe"
 }

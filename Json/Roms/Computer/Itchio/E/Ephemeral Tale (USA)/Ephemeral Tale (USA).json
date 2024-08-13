@@ -3,7 +3,7 @@
         "Ephemeral Tale (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ephemeral Tale (USA).exe"
+        "SETUP_MAIN_ROOT/Ephemeral Tale (USA).exe"
     ],
     "transform_file": "Ephemeral Tale (USA).exe"
 }

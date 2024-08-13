@@ -5,7 +5,7 @@
         "Stardrop (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Stardrop (USA).exe"
+        "SETUP_MAIN_ROOT/Stardrop (USA).exe"
     ],
     "transform_file": "Stardrop (USA).exe"
 }

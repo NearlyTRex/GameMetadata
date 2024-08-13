@@ -3,7 +3,7 @@
         "Marginalia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Marginalia (USA).exe"
+        "SETUP_MAIN_ROOT/Marginalia (USA).exe"
     ],
     "transform_file": "Marginalia (USA).exe"
 }

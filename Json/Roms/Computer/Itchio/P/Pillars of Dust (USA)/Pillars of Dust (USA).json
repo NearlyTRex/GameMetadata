@@ -3,7 +3,7 @@
         "Pillars of Dust (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pillars of Dust (USA).exe"
+        "SETUP_MAIN_ROOT/Pillars of Dust (USA).exe"
     ],
     "transform_file": "Pillars of Dust (USA).exe"
 }

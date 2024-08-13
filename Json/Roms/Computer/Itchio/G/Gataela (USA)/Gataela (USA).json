@@ -3,7 +3,7 @@
         "Gataela (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Gataela (USA).exe"
+        "SETUP_MAIN_ROOT/Gataela (USA).exe"
     ],
     "transform_file": "Gataela (USA).exe"
 }

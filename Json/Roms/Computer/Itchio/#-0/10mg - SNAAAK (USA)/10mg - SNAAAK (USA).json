@@ -3,7 +3,7 @@
         "10mg - SNAAAK (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/10mg - SNAAAK (USA).exe"
+        "SETUP_MAIN_ROOT/10mg - SNAAAK (USA).exe"
     ],
     "transform_file": "10mg - SNAAAK (USA).exe"
 }

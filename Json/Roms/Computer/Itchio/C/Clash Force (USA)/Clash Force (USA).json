@@ -3,7 +3,7 @@
         "Clash Force (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Clash Force (USA).exe"
+        "SETUP_MAIN_ROOT/Clash Force (USA).exe"
     ],
     "transform_file": "Clash Force (USA).exe"
 }

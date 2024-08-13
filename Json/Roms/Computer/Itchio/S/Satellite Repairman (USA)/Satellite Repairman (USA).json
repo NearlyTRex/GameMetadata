@@ -3,7 +3,7 @@
         "Satellite Repairman (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Satellite Repairman (USA).exe"
+        "SETUP_MAIN_ROOT/Satellite Repairman (USA).exe"
     ],
     "transform_file": "Satellite Repairman (USA).exe"
 }

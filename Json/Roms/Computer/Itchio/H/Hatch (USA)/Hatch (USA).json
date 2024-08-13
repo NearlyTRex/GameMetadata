@@ -3,7 +3,7 @@
         "Hatch (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hatch (USA).exe"
+        "SETUP_MAIN_ROOT/Hatch (USA).exe"
     ],
     "transform_file": "Hatch (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Image of Perfection (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Image of Perfection (USA).exe"
+        "SETUP_MAIN_ROOT/Image of Perfection (USA).exe"
     ],
     "transform_file": "Image of Perfection (USA).exe"
 }

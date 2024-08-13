@@ -3,7 +3,7 @@
         "Homunculus Hotel (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Homunculus Hotel (USA).exe"
+        "SETUP_MAIN_ROOT/Homunculus Hotel (USA).exe"
     ],
     "transform_file": "Homunculus Hotel (USA).exe"
 }

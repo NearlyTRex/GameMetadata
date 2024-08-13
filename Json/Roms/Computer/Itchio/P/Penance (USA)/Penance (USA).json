@@ -3,7 +3,7 @@
         "Penance (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Penance (USA).exe"
+        "SETUP_MAIN_ROOT/Penance (USA).exe"
     ],
     "transform_file": "Penance (USA).exe"
 }

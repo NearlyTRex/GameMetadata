@@ -3,7 +3,7 @@
         "Promesa (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Promesa (USA).exe"
+        "SETUP_MAIN_ROOT/Promesa (USA).exe"
     ],
     "transform_file": "Promesa (USA).exe"
 }

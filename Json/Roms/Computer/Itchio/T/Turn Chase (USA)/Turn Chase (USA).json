@@ -3,7 +3,7 @@
         "Turn Chase (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Turn Chase (USA).exe"
+        "SETUP_MAIN_ROOT/Turn Chase (USA).exe"
     ],
     "transform_file": "Turn Chase (USA).exe"
 }

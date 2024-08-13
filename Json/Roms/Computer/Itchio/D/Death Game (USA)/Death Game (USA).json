@@ -3,7 +3,7 @@
         "Death Game (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Death Game (USA).exe"
+        "SETUP_MAIN_ROOT/Death Game (USA).exe"
     ],
     "transform_file": "Death Game (USA).exe"
 }

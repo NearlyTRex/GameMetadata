@@ -3,7 +3,7 @@
         "Alt-Frequencies (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Alt-Frequencies (USA).exe"
+        "SETUP_MAIN_ROOT/Alt-Frequencies (USA).exe"
     ],
     "transform_file": "Alt-Frequencies (USA).exe"
 }

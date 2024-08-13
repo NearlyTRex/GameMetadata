@@ -3,7 +3,7 @@
         "Bold Blade (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bold Blade (USA).exe"
+        "SETUP_MAIN_ROOT/Bold Blade (USA).exe"
     ],
     "transform_file": "Bold Blade (USA).exe"
 }

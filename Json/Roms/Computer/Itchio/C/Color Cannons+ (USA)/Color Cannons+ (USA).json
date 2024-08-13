@@ -3,7 +3,7 @@
         "Color Cannons+ (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Color Cannons+ (USA).exe"
+        "SETUP_MAIN_ROOT/Color Cannons+ (USA).exe"
     ],
     "transform_file": "Color Cannons+ (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Slam Fighter II (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Slam Fighter II (USA).exe"
+        "SETUP_MAIN_ROOT/Slam Fighter II (USA).exe"
     ],
     "transform_file": "Slam Fighter II (USA).exe"
 }

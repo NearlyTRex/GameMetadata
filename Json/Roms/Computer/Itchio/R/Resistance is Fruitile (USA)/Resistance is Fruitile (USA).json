@@ -3,7 +3,7 @@
         "Resistance is Fruitile (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Resistance is Fruitile (USA).exe"
+        "SETUP_MAIN_ROOT/Resistance is Fruitile (USA).exe"
     ],
     "transform_file": "Resistance is Fruitile (USA).exe"
 }

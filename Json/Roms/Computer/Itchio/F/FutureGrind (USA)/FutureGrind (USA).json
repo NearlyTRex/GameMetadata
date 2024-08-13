@@ -3,7 +3,7 @@
         "FutureGrind (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/FutureGrind (USA).exe"
+        "SETUP_MAIN_ROOT/FutureGrind (USA).exe"
     ],
     "transform_file": "FutureGrind (USA).exe"
 }

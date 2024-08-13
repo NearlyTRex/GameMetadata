@@ -3,7 +3,7 @@
         "Spooky Ghosts Dot Com (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Spooky Ghosts Dot Com (USA).exe"
+        "SETUP_MAIN_ROOT/Spooky Ghosts Dot Com (USA).exe"
     ],
     "transform_file": "Spooky Ghosts Dot Com (USA).exe"
 }

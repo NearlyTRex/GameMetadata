@@ -3,7 +3,7 @@
         "Imperishable Memories (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Imperishable Memories (USA).exe"
+        "SETUP_MAIN_ROOT/Imperishable Memories (USA).exe"
     ],
     "transform_file": "Imperishable Memories (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Four Horsemen (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Four Horsemen (USA).exe"
+        "SETUP_MAIN_ROOT/Four Horsemen (USA).exe"
     ],
     "transform_file": "Four Horsemen (USA).exe"
 }

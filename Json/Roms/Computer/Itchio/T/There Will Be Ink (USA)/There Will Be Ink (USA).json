@@ -3,7 +3,7 @@
         "There Will Be Ink (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/There Will Be Ink (USA).exe"
+        "SETUP_MAIN_ROOT/There Will Be Ink (USA).exe"
     ],
     "transform_file": "There Will Be Ink (USA).exe"
 }

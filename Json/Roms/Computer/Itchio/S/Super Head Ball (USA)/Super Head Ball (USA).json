@@ -3,7 +3,7 @@
         "Super Head Ball (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Super Head Ball (USA).exe"
+        "SETUP_MAIN_ROOT/Super Head Ball (USA).exe"
     ],
     "transform_file": "Super Head Ball (USA).exe"
 }

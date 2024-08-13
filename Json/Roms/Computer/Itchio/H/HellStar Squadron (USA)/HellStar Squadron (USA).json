@@ -3,7 +3,7 @@
         "HellStar Squadron (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/HellStar Squadron (USA).exe"
+        "SETUP_MAIN_ROOT/HellStar Squadron (USA).exe"
     ],
     "transform_file": "HellStar Squadron (USA).exe"
 }

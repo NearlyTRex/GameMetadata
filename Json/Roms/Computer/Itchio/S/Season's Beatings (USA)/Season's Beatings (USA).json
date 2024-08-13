@@ -3,7 +3,7 @@
         "Season's Beatings (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Season's Beatings (USA).exe"
+        "SETUP_MAIN_ROOT/Season's Beatings (USA).exe"
     ],
     "transform_file": "Season's Beatings (USA).exe"
 }

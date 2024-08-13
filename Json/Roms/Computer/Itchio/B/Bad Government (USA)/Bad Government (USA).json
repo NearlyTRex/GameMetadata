@@ -3,7 +3,7 @@
         "Bad Government (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bad Government (USA).exe"
+        "SETUP_MAIN_ROOT/Bad Government (USA).exe"
     ],
     "transform_file": "Bad Government (USA).exe"
 }

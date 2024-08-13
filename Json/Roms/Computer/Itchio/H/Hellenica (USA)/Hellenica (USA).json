@@ -3,7 +3,7 @@
         "Hellenica (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hellenica (USA).exe"
+        "SETUP_MAIN_ROOT/Hellenica (USA).exe"
     ],
     "transform_file": "Hellenica (USA).exe"
 }

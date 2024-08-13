@@ -3,7 +3,7 @@
         "Pumpkin Eater (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Pumpkin Eater (USA).exe"
+        "SETUP_MAIN_ROOT/Pumpkin Eater (USA).exe"
     ],
     "transform_file": "Pumpkin Eater (USA).exe"
 }

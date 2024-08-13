@@ -3,7 +3,7 @@
         "Mysteries Under Lake Ophelia (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Mysteries Under Lake Ophelia (USA).exe"
+        "SETUP_MAIN_ROOT/Mysteries Under Lake Ophelia (USA).exe"
     ],
     "transform_file": "Mysteries Under Lake Ophelia (USA).exe"
 }

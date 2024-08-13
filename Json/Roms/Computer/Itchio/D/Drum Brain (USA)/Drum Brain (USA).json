@@ -3,7 +3,7 @@
         "Drum Brain (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Drum Brain (USA).exe"
+        "SETUP_MAIN_ROOT/Drum Brain (USA).exe"
     ],
     "transform_file": "Drum Brain (USA).exe"
 }

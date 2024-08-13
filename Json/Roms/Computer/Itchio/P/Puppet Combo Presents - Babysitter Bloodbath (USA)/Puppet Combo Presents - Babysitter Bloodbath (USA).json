@@ -3,7 +3,7 @@
         "Puppet Combo Presents - Babysitter Bloodbath (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Puppet Combo Presents - Babysitter Bloodbath (USA).exe"
+        "SETUP_MAIN_ROOT/Puppet Combo Presents - Babysitter Bloodbath (USA).exe"
     ],
     "transform_file": "Puppet Combo Presents - Babysitter Bloodbath (USA).exe"
 }

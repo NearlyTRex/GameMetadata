@@ -3,7 +3,7 @@
         "BackFire (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/BackFire (USA).exe"
+        "SETUP_MAIN_ROOT/BackFire (USA).exe"
     ],
     "transform_file": "BackFire (USA).exe"
 }

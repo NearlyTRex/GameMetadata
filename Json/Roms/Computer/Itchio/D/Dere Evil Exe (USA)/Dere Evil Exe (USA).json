@@ -3,7 +3,7 @@
         "Dere Evil Exe (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Dere Evil Exe (USA).exe"
+        "SETUP_MAIN_ROOT/Dere Evil Exe (USA).exe"
     ],
     "transform_file": "Dere Evil Exe (USA).exe"
 }

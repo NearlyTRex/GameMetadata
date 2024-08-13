@@ -3,7 +3,7 @@
         "Peckin' Pixels (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Peckin' Pixels (USA).exe"
+        "SETUP_MAIN_ROOT/Peckin' Pixels (USA).exe"
     ],
     "transform_file": "Peckin' Pixels (USA).exe"
 }

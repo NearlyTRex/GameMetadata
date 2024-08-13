@@ -3,7 +3,7 @@
         "Kids (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Kids (USA).exe"
+        "SETUP_MAIN_ROOT/Kids (USA).exe"
     ],
     "transform_file": "Kids (USA).exe"
 }

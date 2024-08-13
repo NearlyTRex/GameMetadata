@@ -3,7 +3,7 @@
         "Archives of Evil Dr BA, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Archives of Evil Dr BA, The (USA).exe"
+        "SETUP_MAIN_ROOT/Archives of Evil Dr BA, The (USA).exe"
     ],
     "transform_file": "Archives of Evil Dr BA, The (USA).exe"
 }

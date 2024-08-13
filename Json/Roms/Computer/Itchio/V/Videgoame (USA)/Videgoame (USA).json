@@ -3,7 +3,7 @@
         "Videgoame (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Videgoame (USA).exe"
+        "SETUP_MAIN_ROOT/Videgoame (USA).exe"
     ],
     "transform_file": "Videgoame (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Wakamarina Valley, New Zealand (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Wakamarina Valley, New Zealand (USA).exe"
+        "SETUP_MAIN_ROOT/Wakamarina Valley, New Zealand (USA).exe"
     ],
     "transform_file": "Wakamarina Valley, New Zealand (USA).exe"
 }

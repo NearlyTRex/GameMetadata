@@ -3,7 +3,7 @@
         "Inbento (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Inbento (USA).exe"
+        "SETUP_MAIN_ROOT/Inbento (USA).exe"
     ],
     "transform_file": "Inbento (USA).exe"
 }

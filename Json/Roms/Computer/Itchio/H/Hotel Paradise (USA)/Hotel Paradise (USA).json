@@ -3,7 +3,7 @@
         "Hotel Paradise (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Hotel Paradise (USA).exe"
+        "SETUP_MAIN_ROOT/Hotel Paradise (USA).exe"
     ],
     "transform_file": "Hotel Paradise (USA).exe"
 }

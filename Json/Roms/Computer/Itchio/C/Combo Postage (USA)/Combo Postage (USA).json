@@ -3,7 +3,7 @@
         "Combo Postage (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Combo Postage (USA).exe"
+        "SETUP_MAIN_ROOT/Combo Postage (USA).exe"
     ],
     "transform_file": "Combo Postage (USA).exe"
 }

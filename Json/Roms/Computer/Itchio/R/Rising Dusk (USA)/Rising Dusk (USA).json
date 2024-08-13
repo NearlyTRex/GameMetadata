@@ -3,7 +3,7 @@
         "Rising Dusk (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rising Dusk (USA).exe"
+        "SETUP_MAIN_ROOT/Rising Dusk (USA).exe"
     ],
     "transform_file": "Rising Dusk (USA).exe"
 }

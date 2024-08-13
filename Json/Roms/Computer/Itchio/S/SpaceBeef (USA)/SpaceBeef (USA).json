@@ -3,7 +3,7 @@
         "SpaceBeef (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/SpaceBeef (USA).exe"
+        "SETUP_MAIN_ROOT/SpaceBeef (USA).exe"
     ],
     "transform_file": "SpaceBeef (USA).exe"
 }

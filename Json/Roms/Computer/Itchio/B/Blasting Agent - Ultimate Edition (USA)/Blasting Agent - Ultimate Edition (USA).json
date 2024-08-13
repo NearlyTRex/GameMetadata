@@ -3,7 +3,7 @@
         "Blasting Agent - Ultimate Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Blasting Agent - Ultimate Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Blasting Agent - Ultimate Edition (USA).exe"
     ],
     "transform_file": "Blasting Agent - Ultimate Edition (USA).exe"
 }

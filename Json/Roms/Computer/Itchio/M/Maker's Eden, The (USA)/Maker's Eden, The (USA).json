@@ -3,7 +3,7 @@
         "Maker's Eden, The (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Maker's Eden, The (USA).exe"
+        "SETUP_MAIN_ROOT/Maker's Eden, The (USA).exe"
     ],
     "transform_file": "Maker's Eden, The (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Sudd City Adventures (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Sudd City Adventures (USA).exe"
+        "SETUP_MAIN_ROOT/Sudd City Adventures (USA).exe"
     ],
     "transform_file": "Sudd City Adventures (USA).exe"
 }

@@ -3,7 +3,7 @@
         "Luminous (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Luminous (USA).exe"
+        "SETUP_MAIN_ROOT/Luminous (USA).exe"
     ],
     "transform_file": "Luminous (USA).exe"
 }
