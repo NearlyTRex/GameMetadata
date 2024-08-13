@@ -21,7 +21,7 @@
         "name": "Pool of Radiance"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_pool_of_radiance_1.3_(28044).exe"
+        "SETUP_MAIN_ROOT/setup_pool_of_radiance_1.3_(28044).exe"
     ],
     "transform_file": "setup_pool_of_radiance_1.3_(28044).exe"
 }

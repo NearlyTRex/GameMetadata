@@ -17,7 +17,7 @@
         "name": "STAR WARS\u2122 Dark Forces (Classic, 1995)"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_star_warstm_dark_forces_1.0.2_(20338).exe"
+        "SETUP_MAIN_ROOT/setup_star_warstm_dark_forces_1.0.2_(20338).exe"
     ],
     "transform_file": "setup_star_warstm_dark_forces_1.0.2_(20338).exe"
 }

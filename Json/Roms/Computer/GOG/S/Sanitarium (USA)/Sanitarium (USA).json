@@ -16,7 +16,7 @@
         "name": "Sanitarium"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_sanitarium_1.0_svm_(57892).exe"
+        "SETUP_MAIN_ROOT/setup_sanitarium_1.0_svm_(57892).exe"
     ],
     "transform_file": "setup_sanitarium_1.0_svm_(57892).exe"
 }

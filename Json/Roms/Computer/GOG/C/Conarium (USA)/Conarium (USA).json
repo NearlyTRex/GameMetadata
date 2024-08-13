@@ -10,7 +10,7 @@
         "name": "Conarium"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_conarium_1.0.0.13_(21992).exe"
+        "SETUP_MAIN_ROOT/setup_conarium_1.0.0.13_(21992).exe"
     ],
     "transform_file": "setup_conarium_1.0.0.13_(21992).exe"
 }

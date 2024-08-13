@@ -33,7 +33,7 @@
         "name": "Wizardry 7 Gold"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_wizardry7_2.2.0.17.exe"
+        "SETUP_MAIN_ROOT/setup_wizardry7_2.2.0.17.exe"
     ],
     "transform_file": "setup_wizardry7_2.2.0.17.exe"
 }

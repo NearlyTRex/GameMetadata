@@ -30,7 +30,7 @@
         "name": "The Dig\u00ae"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_dig_1.0_(20270).exe"
+        "SETUP_MAIN_ROOT/setup_the_dig_1.0_(20270).exe"
     ],
     "transform_file": "setup_the_dig_1.0_(20270).exe"
 }

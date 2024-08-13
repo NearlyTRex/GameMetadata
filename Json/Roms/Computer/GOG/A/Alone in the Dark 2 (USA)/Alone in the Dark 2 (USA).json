@@ -19,7 +19,7 @@
         "name": "Alone in the Dark 2"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_alone_in_the_dark_2_1.0_cs_(28191).exe"
+        "SETUP_MAIN_ROOT/setup_alone_in_the_dark_2_1.0_cs_(28191).exe"
     ],
     "transform_file": "setup_alone_in_the_dark_2_1.0_cs_(28191).exe"
 }

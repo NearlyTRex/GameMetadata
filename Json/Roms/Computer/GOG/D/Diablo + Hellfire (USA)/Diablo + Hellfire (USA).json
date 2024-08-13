@@ -21,7 +21,7 @@
         "name": "Diablo + Hellfire"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_diablo_1.09_hellfire_v2_(30038).exe"
+        "SETUP_MAIN_ROOT/setup_diablo_1.09_hellfire_v2_(30038).exe"
     ],
     "transform_file": "setup_diablo_1.09_hellfire_v2_(30038).exe"
 }

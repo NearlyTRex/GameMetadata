@@ -15,7 +15,7 @@
         "name": "Zombie Night Terror"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_zombie_night_terror_1.5.2_(36444).exe"
+        "SETUP_MAIN_ROOT/setup_zombie_night_terror_1.5.2_(36444).exe"
     ],
     "transform_file": "setup_zombie_night_terror_1.5.2_(36444).exe"
 }

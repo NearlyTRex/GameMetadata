@@ -15,7 +15,7 @@
         "name": "Final Liberation: Warhammer Epic 40,000"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_wh40k_final_liberation_2.0.0.4.exe"
+        "SETUP_MAIN_ROOT/setup_wh40k_final_liberation_2.0.0.4.exe"
     ],
     "transform_file": "setup_wh40k_final_liberation_2.0.0.4.exe"
 }

@@ -44,14 +44,14 @@
         "name": "Alien: Isolation"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_alien_isolation_1.0.4_(56204).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_corporate_lockdown_1.0.4_(56204).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_crew_expendable_1.0.4_(56204).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_last_survivor_1.0.4_(56204).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_lost_contact_1.0.4_(56204).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_save_haven_1.0.4_(56204).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_the_trigger_1.0.4_(56204).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_trauma_1.0.4_(56204).exe"
+        "SETUP_MAIN_ROOT/setup_alien_isolation_1.0.4_(56204).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_corporate_lockdown_1.0.4_(56204).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_crew_expendable_1.0.4_(56204).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_last_survivor_1.0.4_(56204).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_lost_contact_1.0.4_(56204).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_save_haven_1.0.4_(56204).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_the_trigger_1.0.4_(56204).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_alien_isolation_-_trauma_1.0.4_(56204).exe"
     ],
     "transform_file": "setup_alien_isolation_1.0.4_(56204).exe"
 }

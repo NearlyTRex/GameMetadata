@@ -15,7 +15,7 @@
         "name": "Torchlight II"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_torchlight_2_1.25.9.5b_(23102).exe"
+        "SETUP_MAIN_ROOT/setup_torchlight_2_1.25.9.5b_(23102).exe"
     ],
     "transform_file": "setup_torchlight_2_1.25.9.5b_(23102).exe"
 }

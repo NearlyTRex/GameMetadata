@@ -13,7 +13,7 @@
         "name": "Crusader Kings II"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_crusader_kings_ii_3.3.5.1_(64bit)_(63440).exe"
+        "SETUP_MAIN_ROOT/setup_crusader_kings_ii_3.3.5.1_(64bit)_(63440).exe"
     ],
     "transform_file": "setup_crusader_kings_ii_3.3.5.1_(64bit)_(63440).exe"
 }

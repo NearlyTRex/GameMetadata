@@ -13,7 +13,7 @@
         "name": "Paper Sorcerer"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_paper_sorcerer_2.5_(21323).exe"
+        "SETUP_MAIN_ROOT/setup_paper_sorcerer_2.5_(21323).exe"
     ],
     "transform_file": "setup_paper_sorcerer_2.5_(21323).exe"
 }

@@ -25,7 +25,7 @@
         "name": "Pathologic"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_pathologic_2.0.0.3.exe"
+        "SETUP_MAIN_ROOT/setup_pathologic_2.0.0.3.exe"
     ],
     "transform_file": "setup_pathologic_2.0.0.3.exe"
 }

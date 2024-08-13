@@ -17,7 +17,7 @@
         "name": "Doomdark's Revenge"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_doomdarks_revenge_2.0.8_50_(72083).exe"
+        "SETUP_MAIN_ROOT/setup_doomdarks_revenge_2.0.8_50_(72083).exe"
     ],
     "transform_file": "setup_doomdarks_revenge_2.0.8_50_(72083).exe"
 }

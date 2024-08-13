@@ -25,7 +25,7 @@
         "name": "Wasteland 1: The Original Classic"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_wasteland_2.1.0.8.exe"
+        "SETUP_MAIN_ROOT/setup_wasteland_2.1.0.8.exe"
     ],
     "transform_file": "setup_wasteland_2.1.0.8.exe"
 }

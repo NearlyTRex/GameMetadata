@@ -23,7 +23,7 @@
         "name": "Thief\u2122 Gold"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_thief_gold_1.26_nd_(21948).exe"
+        "SETUP_MAIN_ROOT/setup_thief_gold_1.26_nd_(21948).exe"
     ],
     "transform_file": "setup_thief_gold_1.26_nd_(21948).exe"
 }

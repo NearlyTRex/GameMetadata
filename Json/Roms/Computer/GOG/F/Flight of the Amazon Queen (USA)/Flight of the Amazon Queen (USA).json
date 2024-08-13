@@ -17,7 +17,7 @@
         "name": "Flight of the Amazon Queen"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_flight_of_the_amazon_queen_1.0_(20270).exe"
+        "SETUP_MAIN_ROOT/setup_flight_of_the_amazon_queen_1.0_(20270).exe"
     ],
     "transform_file": "setup_flight_of_the_amazon_queen_1.0_(20270).exe"
 }

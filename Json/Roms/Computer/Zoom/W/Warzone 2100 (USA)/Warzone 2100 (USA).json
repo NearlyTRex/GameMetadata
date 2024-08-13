@@ -7,7 +7,7 @@
         "warzone2100_win_x64_installer.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/warzone2100_win_x64_installer.exe"
+        "SETUP_MAIN_ROOT/warzone2100_win_x64_installer.exe"
     ],
     "transform_file": "warzone2100_win_x64_installer.exe"
 }

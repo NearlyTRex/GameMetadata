@@ -7,7 +7,7 @@
         "extra/Major-Stryker-English-Manual-1.0.pdf"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Major-Stryker-English-Setup-1.0.exe"
+        "SETUP_MAIN_ROOT/Major-Stryker-English-Setup-1.0.exe"
     ],
     "transform_file": "Major-Stryker-English-Setup-1.0.exe"
 }

@@ -21,7 +21,7 @@
         "name": "Akalabeth: World of Doom"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_akalabeth_2.0.0.1.exe"
+        "SETUP_MAIN_ROOT/setup_akalabeth_2.0.0.1.exe"
     ],
     "transform_file": "setup_akalabeth_2.0.0.1.exe"
 }

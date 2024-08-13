@@ -9,7 +9,7 @@
         "Soulstice (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Soulstice (USA).exe"
+        "SETUP_MAIN_ROOT/Soulstice (USA).exe"
     ],
     "transform_file": "Soulstice (USA).exe"
 }

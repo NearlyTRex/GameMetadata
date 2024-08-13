@@ -21,7 +21,7 @@
         "name": "Syndicate Plus\u2122"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_syndicate_plus_2.1.0.15.exe"
+        "SETUP_MAIN_ROOT/setup_syndicate_plus_2.1.0.15.exe"
     ],
     "transform_file": "setup_syndicate_plus_2.1.0.15.exe"
 }

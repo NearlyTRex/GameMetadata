@@ -9,7 +9,7 @@
         "name": "The Feast"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_feast_1.051_(60803).exe"
+        "SETUP_MAIN_ROOT/setup_the_feast_1.051_(60803).exe"
     ],
     "transform_file": "setup_the_feast_1.051_(60803).exe"
 }

@@ -20,7 +20,7 @@
         "name": "Saints Row: The Third - The Full Package"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_saints_row_3_1.05_(18826).exe"
+        "SETUP_MAIN_ROOT/setup_saints_row_3_1.05_(18826).exe"
     ],
     "transform_file": "setup_saints_row_3_1.05_(18826).exe"
 }

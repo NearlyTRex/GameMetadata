@@ -17,7 +17,7 @@
         "name": "Gabriel Knight: Sins of the Fathers"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_gabriel_knight_-_sins_of_the_fathers_1.1_(20239).exe"
+        "SETUP_MAIN_ROOT/setup_gabriel_knight_-_sins_of_the_fathers_1.1_(20239).exe"
     ],
     "transform_file": "setup_gabriel_knight_-_sins_of_the_fathers_1.1_(20239).exe"
 }

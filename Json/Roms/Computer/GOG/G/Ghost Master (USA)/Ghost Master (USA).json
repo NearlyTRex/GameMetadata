@@ -25,7 +25,7 @@
         "name": "Ghost Master"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_ghost_master_20171020_(15806).exe"
+        "SETUP_MAIN_ROOT/setup_ghost_master_20171020_(15806).exe"
     ],
     "transform_file": "setup_ghost_master_20171020_(15806).exe"
 }

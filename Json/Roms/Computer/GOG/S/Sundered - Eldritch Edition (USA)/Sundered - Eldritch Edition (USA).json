@@ -9,7 +9,7 @@
         "name": "Sundered\u00ae: Eldritch Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_sundered_29-04-2019_(64bit)_(29152).exe"
+        "SETUP_MAIN_ROOT/setup_sundered_29-04-2019_(64bit)_(29152).exe"
     ],
     "transform_file": "setup_sundered_29-04-2019_(64bit)_(29152).exe"
 }

@@ -9,7 +9,7 @@
         "extra/amongthesleep_ost_mp3_1436320022.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Among_the_Sleep_Windows.exe"
+        "SETUP_MAIN_ROOT/Among_the_Sleep_Windows.exe"
     ],
     "transform_file": "Among_the_Sleep_Windows.exe"
 }

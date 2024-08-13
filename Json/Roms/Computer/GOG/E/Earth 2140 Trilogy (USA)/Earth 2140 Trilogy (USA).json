@@ -23,7 +23,7 @@
         "name": "Earth 2140 Trilogy"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_earth_2140_1.0_(19593).exe"
+        "SETUP_MAIN_ROOT/setup_earth_2140_1.0_(19593).exe"
     ],
     "transform_file": "setup_earth_2140_1.0_(19593).exe"
 }

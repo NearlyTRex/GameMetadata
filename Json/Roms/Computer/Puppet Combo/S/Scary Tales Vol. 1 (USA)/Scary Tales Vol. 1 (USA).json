@@ -3,7 +3,7 @@
         "Scary Tales Vol. 1 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Scary Tales Vol. 1 (USA).exe"
+        "SETUP_MAIN_ROOT/Scary Tales Vol. 1 (USA).exe"
     ],
     "transform_file": "Scary Tales Vol. 1 (USA).exe"
 }

@@ -9,7 +9,7 @@
         "name": "OpenTTD"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_openttd_14.1_(64bit)_(73101).exe"
+        "SETUP_MAIN_ROOT/setup_openttd_14.1_(64bit)_(73101).exe"
     ],
     "transform_file": "setup_openttd_14.1_(64bit)_(73101).exe"
 }

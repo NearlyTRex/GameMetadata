@@ -21,7 +21,7 @@
         "name": "Duke Nukem 3D Atomic Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_duke_nukem_3d_1.5_(28044).exe"
+        "SETUP_MAIN_ROOT/setup_duke_nukem_3d_1.5_(28044).exe"
     ],
     "transform_file": "setup_duke_nukem_3d_1.5_(28044).exe"
 }

@@ -9,7 +9,7 @@
         "extra/Shadow-Warrior-Classic-Complete-Manual-1.0.pdf"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Shadow-Warrior-Classic-Complete-English-Setup-1.1.exe"
+        "SETUP_MAIN_ROOT/Shadow-Warrior-Classic-Complete-English-Setup-1.1.exe"
     ],
     "transform_file": "Shadow-Warrior-Classic-Complete-English-Setup-1.1.exe"
 }

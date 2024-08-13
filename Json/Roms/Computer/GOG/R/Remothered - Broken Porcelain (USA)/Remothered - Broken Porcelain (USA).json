@@ -11,7 +11,7 @@
         "name": "Remothered: Broken Porcelain"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001).exe"
+        "SETUP_MAIN_ROOT/setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001).exe"
     ],
     "transform_file": "setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001).exe"
 }

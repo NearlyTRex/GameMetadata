@@ -13,7 +13,7 @@
         "name": "DOOM II + Master Levels"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_doom_ii_with_master_levels_1.9_(28044).exe"
+        "SETUP_MAIN_ROOT/setup_doom_ii_with_master_levels_1.9_(28044).exe"
     ],
     "transform_file": "setup_doom_ii_with_master_levels_1.9_(28044).exe"
 }

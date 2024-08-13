@@ -21,8 +21,8 @@
         "name": "Penumbra - Black Plague"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_penumbra_-_black_plague_1.0_(20339).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_penumbra_-_requiem_1.0_(20339).exe"
+        "SETUP_MAIN_ROOT/setup_penumbra_-_black_plague_1.0_(20339).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_penumbra_-_requiem_1.0_(20339).exe"
     ],
     "transform_file": "setup_penumbra_-_black_plague_1.0_(20339).exe"
 }

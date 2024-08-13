@@ -21,7 +21,7 @@
         "name": "Beneath a Steel Sky"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_beneath_a_steel_sky_1.0_(20270).exe"
+        "SETUP_MAIN_ROOT/setup_beneath_a_steel_sky_1.0_(20270).exe"
     ],
     "transform_file": "setup_beneath_a_steel_sky_1.0_(20270).exe"
 }

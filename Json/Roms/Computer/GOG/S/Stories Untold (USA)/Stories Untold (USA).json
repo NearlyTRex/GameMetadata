@@ -13,7 +13,7 @@
         "name": "Stories Untold"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_stories_untold_64_1.3_(16262).exe"
+        "SETUP_MAIN_ROOT/setup_stories_untold_64_1.3_(16262).exe"
     ],
     "transform_file": "setup_stories_untold_64_1.3_(16262).exe"
 }

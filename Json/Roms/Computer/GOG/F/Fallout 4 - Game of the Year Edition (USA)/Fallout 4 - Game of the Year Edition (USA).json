@@ -18,7 +18,7 @@
         "name": "Fallout 4: Game of the Year Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_fallout_4_game_of_the_year_edition_1.10.163.0_(64bit)_(66700).exe"
+        "SETUP_MAIN_ROOT/setup_fallout_4_game_of_the_year_edition_1.10.163.0_(64bit)_(66700).exe"
     ],
     "main_game_exe": [
         "GOG Games/Fallout 4 GOTY/Fallout4.exe"

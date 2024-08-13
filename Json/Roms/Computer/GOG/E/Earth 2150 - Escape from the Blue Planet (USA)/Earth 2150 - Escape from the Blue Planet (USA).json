@@ -19,7 +19,7 @@
         "name": "Earth 2150 - Escape from the Blue Planet"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_earth_2150_2.8.7.1_(16406).exe"
+        "SETUP_MAIN_ROOT/setup_earth_2150_2.8.7.1_(16406).exe"
     ],
     "transform_file": "setup_earth_2150_2.8.7.1_(16406).exe"
 }

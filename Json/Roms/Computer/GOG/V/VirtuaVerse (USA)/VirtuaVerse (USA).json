@@ -9,7 +9,7 @@
         "name": "VirtuaVerse"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_virtuaverse_1.37_(57276).exe"
+        "SETUP_MAIN_ROOT/setup_virtuaverse_1.37_(57276).exe"
     ],
     "transform_file": "setup_virtuaverse_1.37_(57276).exe"
 }

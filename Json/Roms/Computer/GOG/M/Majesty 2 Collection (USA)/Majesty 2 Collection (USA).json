@@ -28,7 +28,7 @@
         "name": "Majesty 2 Collection"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_majesty_2_collection_1.5.356_(18254).exe"
+        "SETUP_MAIN_ROOT/setup_majesty_2_collection_1.5.356_(18254).exe"
     ],
     "transform_file": "setup_majesty_2_collection_1.5.356_(18254).exe"
 }

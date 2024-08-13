@@ -23,7 +23,7 @@
         "name": "Torchlight"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_torchlight_1.15(a)_(23675).exe"
+        "SETUP_MAIN_ROOT/setup_torchlight_1.15(a)_(23675).exe"
     ],
     "transform_file": "setup_torchlight_1.15(a)_(23675).exe"
 }

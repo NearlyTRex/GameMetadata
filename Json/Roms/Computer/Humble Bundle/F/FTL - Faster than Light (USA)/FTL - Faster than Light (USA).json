@@ -9,7 +9,7 @@
         "extra/ftl_ost_mp3_1378496815.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/FTL_v1.6.12_Install.exe"
+        "SETUP_MAIN_ROOT/FTL_v1.6.12_Install.exe"
     ],
     "transform_file": "FTL_v1.6.12_Install.exe"
 }

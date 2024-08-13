@@ -11,7 +11,7 @@
         "name": "Deadly Premonition: Director's Cut"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_deadly_premonition_directors_cut_2.1.0.6.exe"
+        "SETUP_MAIN_ROOT/setup_deadly_premonition_directors_cut_2.1.0.6.exe"
     ],
     "transform_file": "setup_deadly_premonition_directors_cut_2.1.0.6.exe"
 }

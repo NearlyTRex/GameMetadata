@@ -10,7 +10,7 @@
         "name": "Inscryption"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_inscryption_1.10_win_(56780).exe"
+        "SETUP_MAIN_ROOT/setup_inscryption_1.10_win_(56780).exe"
     ],
     "transform_file": "setup_inscryption_1.10_win_(56780).exe"
 }

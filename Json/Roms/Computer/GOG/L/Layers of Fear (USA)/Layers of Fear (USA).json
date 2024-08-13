@@ -20,8 +20,8 @@
         "name": "Layers of Fear (2016)"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_layers_of_fear_1.1.0_(16815).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_layers_of_fear_inheritance_1.1.0_(16815).exe"
+        "SETUP_MAIN_ROOT/setup_layers_of_fear_1.1.0_(16815).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_layers_of_fear_inheritance_1.1.0_(16815).exe"
     ],
     "transform_file": "setup_layers_of_fear_1.1.0_(16815).exe"
 }

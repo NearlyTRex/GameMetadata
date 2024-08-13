@@ -21,7 +21,7 @@
         "name": "Call of Cthulhu: Prisoner of Ice"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_prisoner_of_ice_gog-5_(17101).exe"
+        "SETUP_MAIN_ROOT/setup_prisoner_of_ice_gog-5_(17101).exe"
     ],
     "sync": {
         "data": [

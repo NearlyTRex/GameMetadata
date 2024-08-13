@@ -19,7 +19,7 @@
         "name": "Vampire: The Masquerade - Redemption"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_vampire_the_masquerade_redemption_2.0.0.3.exe"
+        "SETUP_MAIN_ROOT/setup_vampire_the_masquerade_redemption_2.0.0.3.exe"
     ],
     "transform_file": "setup_vampire_the_masquerade_redemption_2.0.0.3.exe"
 }

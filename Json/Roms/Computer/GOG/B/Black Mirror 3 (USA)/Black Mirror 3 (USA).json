@@ -18,7 +18,7 @@
         "name": "Black Mirror 3"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_black_mirror3_2.0.0.5.exe"
+        "SETUP_MAIN_ROOT/setup_black_mirror3_2.0.0.5.exe"
     ],
     "transform_file": "setup_black_mirror3_2.0.0.5.exe"
 }

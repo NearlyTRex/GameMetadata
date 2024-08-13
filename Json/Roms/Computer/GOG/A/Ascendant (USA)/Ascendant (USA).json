@@ -15,7 +15,7 @@
         "name": "Ascendant"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_ascendant_1.0_(64bit)_(20649).exe"
+        "SETUP_MAIN_ROOT/setup_ascendant_1.0_(64bit)_(20649).exe"
     ],
     "transform_file": "setup_ascendant_1.0_(64bit)_(20649).exe"
 }

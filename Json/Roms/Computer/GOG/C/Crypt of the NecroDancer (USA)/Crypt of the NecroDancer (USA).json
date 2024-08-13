@@ -9,7 +9,7 @@
         "name": "Crypt of the NecroDancer"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_crypt_of_the_necrodancer_4.1.0-b5142_(64bit)_(72378).exe"
+        "SETUP_MAIN_ROOT/setup_crypt_of_the_necrodancer_4.1.0-b5142_(64bit)_(72378).exe"
     ],
     "transform_file": "setup_crypt_of_the_necrodancer_4.1.0-b5142_(64bit)_(72378).exe"
 }

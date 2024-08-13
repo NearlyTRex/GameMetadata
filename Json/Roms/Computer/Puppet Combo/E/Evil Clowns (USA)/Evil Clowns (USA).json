@@ -3,7 +3,7 @@
         "Evil Clowns (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Evil Clowns (USA).exe"
+        "SETUP_MAIN_ROOT/Evil Clowns (USA).exe"
     ],
     "transform_file": "Evil Clowns (USA).exe"
 }

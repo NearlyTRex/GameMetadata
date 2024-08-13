@@ -17,7 +17,7 @@
         "name": "Alone in the Dark 1"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_alone_in_the_dark_1.0_cs_(28043).exe"
+        "SETUP_MAIN_ROOT/setup_alone_in_the_dark_1.0_cs_(28043).exe"
     ],
     "transform_file": "setup_alone_in_the_dark_1.0_cs_(28043).exe"
 }

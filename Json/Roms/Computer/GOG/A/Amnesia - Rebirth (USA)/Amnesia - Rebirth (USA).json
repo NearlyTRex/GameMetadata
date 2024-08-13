@@ -14,7 +14,7 @@
         "name": "Amnesia: Rebirth"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
+        "SETUP_MAIN_ROOT/setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
     ],
     "transform_file": "setup_amnesia_rebirth_1.4_(64bit)_(50150).exe"
 }

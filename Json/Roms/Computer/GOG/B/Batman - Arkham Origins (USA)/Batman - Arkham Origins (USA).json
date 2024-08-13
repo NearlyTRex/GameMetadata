@@ -23,8 +23,8 @@
         "name": "Batman\u2122: Arkham Origins"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_batman_arkham_origins_1.0_(37592).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_batman_arkham_origins_-_season_pass_1.0_(37592).exe"
+        "SETUP_MAIN_ROOT/setup_batman_arkham_origins_1.0_(37592).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_batman_arkham_origins_-_season_pass_1.0_(37592).exe"
     ],
     "transform_file": "setup_batman_arkham_origins_1.0_(37592).exe"
 }

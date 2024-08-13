@@ -41,7 +41,7 @@
         "name": "Baldur's Gate 3"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479).exe"
+        "SETUP_MAIN_ROOT/setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479).exe"
     ],
     "transform_file": "setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479).exe"
 }

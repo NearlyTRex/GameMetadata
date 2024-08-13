@@ -9,7 +9,7 @@
         "extra/StarGunner-Manual-1.0.pdf"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/StarGunner-English-Setup-1.2.exe"
+        "SETUP_MAIN_ROOT/StarGunner-English-Setup-1.2.exe"
     ],
     "transform_file": "StarGunner-English-Setup-1.2.exe"
 }

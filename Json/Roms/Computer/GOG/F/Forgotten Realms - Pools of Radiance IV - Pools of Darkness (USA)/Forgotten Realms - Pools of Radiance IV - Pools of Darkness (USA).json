@@ -19,7 +19,7 @@
         "name": "Pools of Darkness"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_pools_of_darkness_1.10_(28044).exe"
+        "SETUP_MAIN_ROOT/setup_pools_of_darkness_1.10_(28044).exe"
     ],
     "transform_file": "setup_pools_of_darkness_1.10_(28044).exe"
 }

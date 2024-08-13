@@ -23,7 +23,7 @@
         "name": "Might and Magic\u00ae 7: For Blood and Honor\u00ae"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_might_and_magic_7_1.1_(hotfix)_(10933).exe"
+        "SETUP_MAIN_ROOT/setup_might_and_magic_7_1.1_(hotfix)_(10933).exe"
     ],
     "transform_file": "setup_might_and_magic_7_1.1_(hotfix)_(10933).exe"
 }

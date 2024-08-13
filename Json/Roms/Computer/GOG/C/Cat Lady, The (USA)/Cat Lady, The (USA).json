@@ -21,7 +21,7 @@
         "name": "The Cat Lady"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_cat_lady_1.7_(20820).exe"
+        "SETUP_MAIN_ROOT/setup_the_cat_lady_1.7_(20820).exe"
     ],
     "transform_file": "setup_the_cat_lady_1.7_(20820).exe"
 }

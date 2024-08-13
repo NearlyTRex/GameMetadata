@@ -3,7 +3,7 @@
         "Day 7 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Day 7 (USA).exe"
+        "SETUP_MAIN_ROOT/Day 7 (USA).exe"
     ],
     "transform_file": "Day 7 (USA).exe"
 }

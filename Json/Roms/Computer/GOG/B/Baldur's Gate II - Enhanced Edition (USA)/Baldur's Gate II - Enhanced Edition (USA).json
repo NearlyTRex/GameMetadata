@@ -22,7 +22,7 @@
         "name": "Baldur's Gate II: Enhanced Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_baldurs_gate_ii_enhanced_edition_2.6.6.0_(64bit)_(46870).exe"
+        "SETUP_MAIN_ROOT/setup_baldurs_gate_ii_enhanced_edition_2.6.6.0_(64bit)_(46870).exe"
     ],
     "transform_file": "setup_baldurs_gate_ii_enhanced_edition_2.6.6.0_(64bit)_(46870).exe"
 }

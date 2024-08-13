@@ -11,7 +11,7 @@
         "name": "Fallout: New Vegas Ultimate Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_fallout_new_vegas_1.4.0.525(a)_(55068).exe"
+        "SETUP_MAIN_ROOT/setup_fallout_new_vegas_1.4.0.525(a)_(55068).exe"
     ],
     "transform_file": "setup_fallout_new_vegas_1.4.0.525(a)_(55068).exe"
 }

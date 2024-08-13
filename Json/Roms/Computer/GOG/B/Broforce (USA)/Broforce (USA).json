@@ -15,7 +15,7 @@
         "name": "Broforce"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_broforce_forever_hf_-_win_(71320).exe"
+        "SETUP_MAIN_ROOT/setup_broforce_forever_hf_-_win_(71320).exe"
     ],
     "transform_file": "setup_broforce_forever_hf_-_win_(71320).exe"
 }

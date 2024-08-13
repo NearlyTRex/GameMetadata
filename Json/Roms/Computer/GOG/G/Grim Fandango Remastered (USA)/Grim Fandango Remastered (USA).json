@@ -22,7 +22,7 @@
         "name": "Grim Fandango Remastered"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_grim_fandango_remastererd_1.4.0_(17097).exe"
+        "SETUP_MAIN_ROOT/setup_grim_fandango_remastererd_1.4.0_(17097).exe"
     ],
     "transform_file": "setup_grim_fandango_remastererd_1.4.0_(17097).exe"
 }

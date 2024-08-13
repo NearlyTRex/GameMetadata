@@ -25,7 +25,7 @@
         "name": "Earth 2160"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_earth_2160_2.0.0.48.exe"
+        "SETUP_MAIN_ROOT/setup_earth_2160_2.0.0.48.exe"
     ],
     "transform_file": "setup_earth_2160_2.0.0.48.exe"
 }

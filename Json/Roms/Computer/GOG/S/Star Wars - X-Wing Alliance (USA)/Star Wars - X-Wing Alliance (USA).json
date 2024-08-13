@@ -15,7 +15,7 @@
         "name": "STAR WARS\u2122: X-Wing Alliance\u2122"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_star_wars_-_x-wing_alliance_2.02_(18061).exe"
+        "SETUP_MAIN_ROOT/setup_star_wars_-_x-wing_alliance_2.02_(18061).exe"
     ],
     "transform_file": "setup_star_wars_-_x-wing_alliance_2.02_(18061).exe"
 }

@@ -18,7 +18,7 @@
         "name": "SOMA"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_soma_1.61_(64bit)_(50360).exe"
+        "SETUP_MAIN_ROOT/setup_soma_1.61_(64bit)_(50360).exe"
     ],
     "main_game_exe": [
         "GOG Games/SOMA/Soma.exe"

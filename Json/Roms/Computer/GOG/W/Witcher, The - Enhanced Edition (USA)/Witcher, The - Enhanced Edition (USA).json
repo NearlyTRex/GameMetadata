@@ -60,7 +60,7 @@
         "name": "The Witcher: Enhanced Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_witcher_enhanced_edition_1.5_(a)_(10712).exe"
+        "SETUP_MAIN_ROOT/setup_the_witcher_enhanced_edition_1.5_(a)_(10712).exe"
     ],
     "transform_file": "setup_the_witcher_enhanced_edition_1.5_(a)_(10712).exe"
 }

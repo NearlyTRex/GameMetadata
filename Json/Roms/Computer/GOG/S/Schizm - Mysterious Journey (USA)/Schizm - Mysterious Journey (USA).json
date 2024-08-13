@@ -23,7 +23,7 @@
         "name": "Schizm: Mysterious Journey"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_schizm_b744_(15806).exe"
+        "SETUP_MAIN_ROOT/setup_schizm_b744_(15806).exe"
     ],
     "transform_file": "setup_schizm_b744_(15806).exe"
 }

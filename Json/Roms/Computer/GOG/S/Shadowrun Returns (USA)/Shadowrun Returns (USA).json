@@ -16,7 +16,7 @@
         "name": "Shadowrun Returns"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_shadowrun_returns_1.2.7_(a)_(10017).exe"
+        "SETUP_MAIN_ROOT/setup_shadowrun_returns_1.2.7_(a)_(10017).exe"
     ],
     "transform_file": "setup_shadowrun_returns_1.2.7_(a)_(10017).exe"
 }

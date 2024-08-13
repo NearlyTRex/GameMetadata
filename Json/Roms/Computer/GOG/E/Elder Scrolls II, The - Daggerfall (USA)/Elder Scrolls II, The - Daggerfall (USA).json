@@ -17,7 +17,7 @@
         "name": "The Elder Scrolls II: Daggerfall"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_elder_scrolls_ii_daggerfall_1.07_(28043).exe"
+        "SETUP_MAIN_ROOT/setup_the_elder_scrolls_ii_daggerfall_1.07_(28043).exe"
     ],
     "transform_file": "setup_the_elder_scrolls_ii_daggerfall_1.07_(28043).exe"
 }

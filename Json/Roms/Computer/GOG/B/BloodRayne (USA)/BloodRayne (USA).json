@@ -21,7 +21,7 @@
         "name": "BloodRayne (Legacy)"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_bloodrayne_gog-1_(17893).exe"
+        "SETUP_MAIN_ROOT/setup_bloodrayne_gog-1_(17893).exe"
     ],
     "transform_file": "setup_bloodrayne_gog-1_(17893).exe"
 }

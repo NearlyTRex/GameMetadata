@@ -9,7 +9,7 @@
         "name": "Mainlining Demo"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_mainlining_demo_0.1.06_(9394).exe"
+        "SETUP_MAIN_ROOT/setup_mainlining_demo_0.1.06_(9394).exe"
     ],
     "transform_file": "setup_mainlining_demo_0.1.06_(9394).exe"
 }

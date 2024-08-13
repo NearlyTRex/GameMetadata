@@ -3,7 +3,7 @@
         "Monuments-of-Mars-English-Setup-1.1.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Monuments-of-Mars-English-Setup-1.1.exe"
+        "SETUP_MAIN_ROOT/Monuments-of-Mars-English-Setup-1.1.exe"
     ],
     "transform_file": "Monuments-of-Mars-English-Setup-1.1.exe"
 }

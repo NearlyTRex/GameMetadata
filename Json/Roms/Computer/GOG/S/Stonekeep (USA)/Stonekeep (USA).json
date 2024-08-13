@@ -21,7 +21,7 @@
         "name": "Stonekeep"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_stonekeep_2.1.0.13.exe"
+        "SETUP_MAIN_ROOT/setup_stonekeep_2.1.0.13.exe"
     ],
     "transform_file": "setup_stonekeep_2.1.0.13.exe"
 }

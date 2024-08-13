@@ -23,7 +23,7 @@
         "name": "The 7th Guest"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_7th_guest_1.30_(17746).exe"
+        "SETUP_MAIN_ROOT/setup_the_7th_guest_1.30_(17746).exe"
     ],
     "transform_file": "setup_the_7th_guest_1.30_(17746).exe"
 }

@@ -21,7 +21,7 @@
         "name": "Knock-Knock"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_knock-knock_2.0.0.4.exe"
+        "SETUP_MAIN_ROOT/setup_knock-knock_2.0.0.4.exe"
     ],
     "transform_file": "setup_knock-knock_2.0.0.4.exe"
 }

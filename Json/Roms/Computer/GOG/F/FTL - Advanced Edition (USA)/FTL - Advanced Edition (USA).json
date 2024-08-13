@@ -19,7 +19,7 @@
         "name": "FTL: Advanced Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_ftl_advanced_edition_1.6.13b_(36400).exe"
+        "SETUP_MAIN_ROOT/setup_ftl_advanced_edition_1.6.13b_(36400).exe"
     ],
     "transform_file": "setup_ftl_advanced_edition_1.6.13b_(36400).exe"
 }

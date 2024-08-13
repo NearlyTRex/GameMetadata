@@ -15,7 +15,7 @@
         "name": "Crusader Kings Complete"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_crusader_kings_complete_2.1.0.2.exe"
+        "SETUP_MAIN_ROOT/setup_crusader_kings_complete_2.1.0.2.exe"
     ],
     "transform_file": "setup_crusader_kings_complete_2.1.0.2.exe"
 }

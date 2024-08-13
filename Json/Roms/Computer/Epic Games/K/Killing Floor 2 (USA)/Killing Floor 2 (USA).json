@@ -12,7 +12,7 @@
         "Killing Floor 2 (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Killing Floor 2 (USA).exe"
+        "SETUP_MAIN_ROOT/Killing Floor 2 (USA).exe"
     ],
     "transform_file": "Killing Floor 2 (USA).exe"
 }

@@ -3,7 +3,7 @@
         "BeatbuddyWindows.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/BeatbuddyWindows.exe"
+        "SETUP_MAIN_ROOT/BeatbuddyWindows.exe"
     ],
     "transform_file": "BeatbuddyWindows.exe"
 }

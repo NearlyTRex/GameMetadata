@@ -3,7 +3,7 @@
         "LoneSurvivor-PC.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/LoneSurvivor-PC.exe"
+        "SETUP_MAIN_ROOT/LoneSurvivor-PC.exe"
     ],
     "transform_file": "LoneSurvivor-PC.exe"
 }

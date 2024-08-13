@@ -25,7 +25,7 @@
         "name": "Call of Cthulhu: Shadow of the Comet"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_shadow_of_the_comet_1.0_(28045).exe"
+        "SETUP_MAIN_ROOT/setup_shadow_of_the_comet_1.0_(28045).exe"
     ],
     "sync": {
         "data": [

@@ -3,7 +3,7 @@
         "Rewind or Die (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Rewind or Die (USA).exe"
+        "SETUP_MAIN_ROOT/Rewind or Die (USA).exe"
     ],
     "transform_file": "Rewind or Die (USA).exe"
 }

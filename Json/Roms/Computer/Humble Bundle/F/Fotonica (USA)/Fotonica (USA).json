@@ -9,7 +9,7 @@
         "extra/fotonica_ost_mp3_1439329672.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/FOTONICA_WIN.exe"
+        "SETUP_MAIN_ROOT/FOTONICA_WIN.exe"
     ],
     "transform_file": "FOTONICA_WIN.exe"
 }

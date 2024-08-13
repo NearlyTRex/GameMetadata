@@ -3,7 +3,7 @@
         "Ring of Pain (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Ring of Pain (USA).exe"
+        "SETUP_MAIN_ROOT/Ring of Pain (USA).exe"
     ],
     "transform_file": "Ring of Pain (USA).exe"
 }

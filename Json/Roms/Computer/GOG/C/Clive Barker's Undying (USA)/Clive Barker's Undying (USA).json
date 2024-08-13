@@ -19,7 +19,7 @@
         "name": "Clive Barker's Undying"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_clive_barkers_undying_1.1_hotfix_(22471).exe"
+        "SETUP_MAIN_ROOT/setup_clive_barkers_undying_1.1_hotfix_(22471).exe"
     ],
     "transform_file": "setup_clive_barkers_undying_1.1_hotfix_(22471).exe"
 }

@@ -18,7 +18,7 @@
         "name": "Unreal Tournament 2004 Editor's Choice Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_unreal_tournament_2004_1.0_(18947).exe"
+        "SETUP_MAIN_ROOT/setup_unreal_tournament_2004_1.0_(18947).exe"
     ],
     "transform_file": "setup_unreal_tournament_2004_1.0_(18947).exe"
 }

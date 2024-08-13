@@ -26,7 +26,7 @@
         "name": "Kholat"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_kholat_1.03a_(64bit)_(40572).exe"
+        "SETUP_MAIN_ROOT/setup_kholat_1.03a_(64bit)_(40572).exe"
     ],
     "main_game_exe": [
         "GOG Games/Kholat/Kholat/Binaries/Win64/Kholat-Win64-Shipping.exe"

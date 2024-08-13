@@ -23,7 +23,7 @@
         "name": "Ultima VII\u2122  - Serpent Isle + The Silver Seed"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_ultima_vii_-_serpent_isle_1.0_(22309).exe"
+        "SETUP_MAIN_ROOT/setup_ultima_vii_-_serpent_isle_1.0_(22309).exe"
     ],
     "transform_file": "setup_ultima_vii_-_serpent_isle_1.0_(22309).exe"
 }

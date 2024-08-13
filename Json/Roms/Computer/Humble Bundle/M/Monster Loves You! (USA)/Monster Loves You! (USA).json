@@ -3,7 +3,7 @@
         "Monster_Loves_You_Windows.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Monster_Loves_You_Windows.exe"
+        "SETUP_MAIN_ROOT/Monster_Loves_You_Windows.exe"
     ],
     "transform_file": "Monster_Loves_You_Windows.exe"
 }

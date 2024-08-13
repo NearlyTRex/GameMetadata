@@ -13,7 +13,7 @@
         "name": "Serious Sam: The First Encounter"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_serious_sam_the_first_encounter_1.05_(21759).exe"
+        "SETUP_MAIN_ROOT/setup_serious_sam_the_first_encounter_1.05_(21759).exe"
     ],
     "transform_file": "setup_serious_sam_the_first_encounter_1.05_(21759).exe"
 }

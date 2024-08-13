@@ -17,7 +17,7 @@
         "name": "Pathologic Classic HD"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_pathologic_classic_hd_1.0.3_(16813).exe"
+        "SETUP_MAIN_ROOT/setup_pathologic_classic_hd_1.0.3_(16813).exe"
     ],
     "transform_file": "setup_pathologic_classic_hd_1.0.3_(16813).exe"
 }

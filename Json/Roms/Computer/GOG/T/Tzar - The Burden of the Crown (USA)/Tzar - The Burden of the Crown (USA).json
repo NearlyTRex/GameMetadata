@@ -25,7 +25,7 @@
         "name": "Tzar: The Burden of the Crown"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_tzar_1.01_(10554).exe"
+        "SETUP_MAIN_ROOT/setup_tzar_1.01_(10554).exe"
     ],
     "transform_file": "setup_tzar_1.01_(10554).exe"
 }

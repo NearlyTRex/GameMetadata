@@ -9,7 +9,7 @@
         "name": "Hexen II"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_hexen_ii_1.11_music_fix_(45370).exe"
+        "SETUP_MAIN_ROOT/setup_hexen_ii_1.11_music_fix_(45370).exe"
     ],
     "transform_file": "setup_hexen_ii_1.11_music_fix_(45370).exe"
 }

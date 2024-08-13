@@ -14,7 +14,7 @@
         "name": "Myst Masterpiece Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_myst_masterpiece_edition_1.0_svm_update_4_(22598).exe"
+        "SETUP_MAIN_ROOT/setup_myst_masterpiece_edition_1.0_svm_update_4_(22598).exe"
     ],
     "transform_file": "setup_myst_masterpiece_edition_1.0_svm_update_4_(22598).exe"
 }

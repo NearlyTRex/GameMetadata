@@ -23,7 +23,7 @@
         "name": "F.E.A.R. 2: Project Origin + Reborn"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_fear_2_1.05_(18567).exe"
+        "SETUP_MAIN_ROOT/setup_fear_2_1.05_(18567).exe"
     ],
     "transform_file": "setup_fear_2_1.05_(18567).exe"
 }

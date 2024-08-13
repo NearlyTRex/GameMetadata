@@ -9,7 +9,7 @@
         "super_hexagon-windows.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/super_hexagon-windows.exe"
+        "SETUP_MAIN_ROOT/super_hexagon-windows.exe"
     ],
     "transform_file": "super_hexagon-windows.exe"
 }

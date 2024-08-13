@@ -22,8 +22,8 @@
         "name": "Outlast"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_outlast_1.0(a)_(47147).exe",
-        "$SETUP_MAIN_ROOT/dlc/setup_outlast_whistleblower_1.0(a)_(47147).exe"
+        "SETUP_MAIN_ROOT/setup_outlast_1.0(a)_(47147).exe",
+        "SETUP_MAIN_ROOT/dlc/setup_outlast_whistleblower_1.0(a)_(47147).exe"
     ],
     "transform_file": "setup_outlast_1.0(a)_(47147).exe"
 }

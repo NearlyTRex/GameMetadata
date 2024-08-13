@@ -14,7 +14,7 @@
         "name": "Batman: Arkham City - Game of the Year Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_batman_arkham_city_goty_1.1_(38264).exe"
+        "SETUP_MAIN_ROOT/setup_batman_arkham_city_goty_1.1_(38264).exe"
     ],
     "transform_file": "setup_batman_arkham_city_goty_1.1_(38264).exe"
 }

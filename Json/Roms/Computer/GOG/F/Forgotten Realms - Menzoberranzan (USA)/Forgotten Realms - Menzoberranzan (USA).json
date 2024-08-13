@@ -15,7 +15,7 @@
         "name": "Menzoberranzan"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_menzoberranzan_1.1_(28166).exe"
+        "SETUP_MAIN_ROOT/setup_menzoberranzan_1.1_(28166).exe"
     ],
     "transform_file": "setup_menzoberranzan_1.1_(28166).exe"
 }

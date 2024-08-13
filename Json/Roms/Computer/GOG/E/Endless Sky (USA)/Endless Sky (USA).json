@@ -9,7 +9,7 @@
         "name": "Endless Sky"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_endless_sky_0.10.6_(64bit)_(71276).exe"
+        "SETUP_MAIN_ROOT/setup_endless_sky_0.10.6_(64bit)_(71276).exe"
     ],
     "transform_file": "setup_endless_sky_0.10.6_(64bit)_(71276).exe"
 }

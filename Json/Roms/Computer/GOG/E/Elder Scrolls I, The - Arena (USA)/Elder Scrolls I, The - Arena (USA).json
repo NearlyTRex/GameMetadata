@@ -19,7 +19,7 @@
         "name": "The Elder Scrolls: Arena"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_the_elder_scrolls_arena_1.07_(28043).exe"
+        "SETUP_MAIN_ROOT/setup_the_elder_scrolls_arena_1.07_(28043).exe"
     ],
     "transform_file": "setup_the_elder_scrolls_arena_1.07_(28043).exe"
 }

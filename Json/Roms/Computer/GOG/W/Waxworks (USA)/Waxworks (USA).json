@@ -13,7 +13,7 @@
         "name": "Waxworks"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_waxworks_1.0_(28045).exe"
+        "SETUP_MAIN_ROOT/setup_waxworks_1.0_(28045).exe"
     ],
     "transform_file": "setup_waxworks_1.0_(28045).exe"
 }

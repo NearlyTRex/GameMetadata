@@ -19,7 +19,7 @@
         "name": "Ultima I\u2122"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_ultima_1.0_cs_(28189).exe"
+        "SETUP_MAIN_ROOT/setup_ultima_1.0_cs_(28189).exe"
     ],
     "transform_file": "setup_ultima_1.0_cs_(28189).exe"
 }

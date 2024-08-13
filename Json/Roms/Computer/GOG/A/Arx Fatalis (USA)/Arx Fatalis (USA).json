@@ -24,7 +24,7 @@
         "name": "Arx Fatalis"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_arx_fatalis_1.22_(38577).exe"
+        "SETUP_MAIN_ROOT/setup_arx_fatalis_1.22_(38577).exe"
     ],
     "transform_file": "setup_arx_fatalis_1.22_(38577).exe"
 }

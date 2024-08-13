@@ -19,7 +19,7 @@
         "name": "Avernum 4"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_avernum4_2.1.0.5.exe"
+        "SETUP_MAIN_ROOT/setup_avernum4_2.1.0.5.exe"
     ],
     "transform_file": "setup_avernum4_2.1.0.5.exe"
 }

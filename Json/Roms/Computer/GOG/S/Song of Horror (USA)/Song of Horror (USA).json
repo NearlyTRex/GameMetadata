@@ -14,7 +14,7 @@
         "name": "Song of Horror"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_song_of_horror_1.25_(64bit)_(54257).exe"
+        "SETUP_MAIN_ROOT/setup_song_of_horror_1.25_(64bit)_(54257).exe"
     ],
     "main_game_exe": [
         "GOG Games/Song of Horror/SongOfHorror.exe"

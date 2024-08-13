@@ -21,7 +21,7 @@
         "name": "Septerra Core: Legacy of the Creator"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_septerra_core_2.0.0.10.exe"
+        "SETUP_MAIN_ROOT/setup_septerra_core_2.0.0.10.exe"
     ],
     "transform_file": "setup_septerra_core_2.0.0.10.exe"
 }

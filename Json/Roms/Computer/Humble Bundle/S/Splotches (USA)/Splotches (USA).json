@@ -9,7 +9,7 @@
         "splotches_windows_v2.0.4.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/splotches_windows_v2.0.4.exe"
+        "SETUP_MAIN_ROOT/splotches_windows_v2.0.4.exe"
     ],
     "transform_file": "splotches_windows_v2.0.4.exe"
 }

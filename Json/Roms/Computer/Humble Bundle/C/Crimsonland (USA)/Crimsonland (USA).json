@@ -3,7 +3,7 @@
         "Crimsonland-Windows-1.3.5.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Crimsonland-Windows-1.3.5.exe"
+        "SETUP_MAIN_ROOT/Crimsonland-Windows-1.3.5.exe"
     ],
     "transform_file": "Crimsonland-Windows-1.3.5.exe"
 }

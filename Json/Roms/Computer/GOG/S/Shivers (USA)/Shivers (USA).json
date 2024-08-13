@@ -13,7 +13,7 @@
         "name": "Shivers"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_shivers_1.02_(18230).exe"
+        "SETUP_MAIN_ROOT/setup_shivers_1.02_(18230).exe"
     ],
     "transform_file": "setup_shivers_1.02_(18230).exe"
 }

@@ -3,7 +3,7 @@
         "Murder House (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Murder House (USA).exe"
+        "SETUP_MAIN_ROOT/Murder House (USA).exe"
     ],
     "transform_file": "Murder House (USA).exe"
 }

@@ -15,7 +15,7 @@
         "name": "Indiana Jones\u00ae and the Last Crusade\u2122"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_indiana_jones_and_the_last_crusade_1.0_(20270).exe"
+        "SETUP_MAIN_ROOT/setup_indiana_jones_and_the_last_crusade_1.0_(20270).exe"
     ],
     "transform_file": "setup_indiana_jones_and_the_last_crusade_1.0_(20270).exe"
 }

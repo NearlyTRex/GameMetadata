@@ -19,7 +19,7 @@
         "name": "Alan Wake's American Nightmare"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_alan_wake_american_nightmare_2.1.0.24.exe"
+        "SETUP_MAIN_ROOT/setup_alan_wake_american_nightmare_2.1.0.24.exe"
     ],
     "transform_file": "setup_alan_wake_american_nightmare_2.1.0.24.exe"
 }

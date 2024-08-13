@@ -35,7 +35,7 @@
         "name": "Master of Magic Classic"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_master_of_magic_classic_momc_1.60.00_(67790).exe"
+        "SETUP_MAIN_ROOT/setup_master_of_magic_classic_momc_1.60.00_(67790).exe"
     ],
     "transform_file": "setup_master_of_magic_classic_momc_1.60.00_(67790).exe"
 }

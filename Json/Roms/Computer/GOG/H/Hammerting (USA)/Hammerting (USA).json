@@ -10,7 +10,7 @@
         "name": "Hammerting"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"
+        "SETUP_MAIN_ROOT/setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"
     ],
     "transform_file": "setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"
 }

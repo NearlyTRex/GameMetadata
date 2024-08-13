@@ -3,7 +3,7 @@
         "Babysitter Bloodbath (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Babysitter Bloodbath (USA).exe"
+        "SETUP_MAIN_ROOT/Babysitter Bloodbath (USA).exe"
     ],
     "transform_file": "Babysitter Bloodbath (USA).exe"
 }

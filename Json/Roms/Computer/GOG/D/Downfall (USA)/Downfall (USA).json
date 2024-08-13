@@ -15,7 +15,7 @@
         "name": "Downfall"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_downfall_gog-7_(3705).exe"
+        "SETUP_MAIN_ROOT/setup_downfall_gog-7_(3705).exe"
     ],
     "transform_file": "setup_downfall_gog-7_(3705).exe"
 }

@@ -11,7 +11,7 @@
         "extra/Aliens-versus-Predator-Gold-Manual-1.0.pdf"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Aliens-Versus-Predator-Gold-Edition-Setup-1.1.exe"
+        "SETUP_MAIN_ROOT/Aliens-Versus-Predator-Gold-Edition-Setup-1.1.exe"
     ],
     "main_game_exe": [
         "ZOOM PLATFORM/Rebellion/Aliens Versus Predator - Gold Edition/AvP.exe"

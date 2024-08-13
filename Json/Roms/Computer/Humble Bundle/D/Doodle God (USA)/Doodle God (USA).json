@@ -7,7 +7,7 @@
         "extra/doodlegod_ost_mp3_1411516234.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/DoodleGodSetup_fixed.exe"
+        "SETUP_MAIN_ROOT/DoodleGodSetup_fixed.exe"
     ],
     "transform_file": "DoodleGodSetup_fixed.exe"
 }

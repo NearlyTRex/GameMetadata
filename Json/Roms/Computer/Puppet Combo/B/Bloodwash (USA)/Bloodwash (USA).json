@@ -3,7 +3,7 @@
         "Bloodwash (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Bloodwash (USA).exe"
+        "SETUP_MAIN_ROOT/Bloodwash (USA).exe"
     ],
     "transform_file": "Bloodwash (USA).exe"
 }

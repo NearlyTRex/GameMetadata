@@ -3,7 +3,7 @@
         "Night Shift (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Night Shift (USA).exe"
+        "SETUP_MAIN_ROOT/Night Shift (USA).exe"
     ],
     "transform_file": "Night Shift (USA).exe"
 }

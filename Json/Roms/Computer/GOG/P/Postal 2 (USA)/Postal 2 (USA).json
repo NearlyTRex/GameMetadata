@@ -28,7 +28,7 @@
         "name": "POSTAL 2"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_postal_2_5100_(64474).exe"
+        "SETUP_MAIN_ROOT/setup_postal_2_5100_(64474).exe"
     ],
     "transform_file": "setup_postal_2_5100_(64474).exe"
 }

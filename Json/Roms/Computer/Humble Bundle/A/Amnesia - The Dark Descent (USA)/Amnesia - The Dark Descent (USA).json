@@ -9,7 +9,7 @@
         "extra/AmnesiaOST_MP3.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Amnesia_The_Dark_Decent.exe"
+        "SETUP_MAIN_ROOT/Amnesia_The_Dark_Decent.exe"
     ],
     "transform_file": "Amnesia_The_Dark_Decent.exe"
 }

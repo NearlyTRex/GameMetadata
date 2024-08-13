@@ -3,7 +3,7 @@
         "Curse-The-Eye-of-Isis-English-Setup-1.1.exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Curse-The-Eye-of-Isis-English-Setup-1.1.exe"
+        "SETUP_MAIN_ROOT/Curse-The-Eye-of-Isis-English-Setup-1.1.exe"
     ],
     "transform_file": "Curse-The-Eye-of-Isis-English-Setup-1.1.exe"
 }

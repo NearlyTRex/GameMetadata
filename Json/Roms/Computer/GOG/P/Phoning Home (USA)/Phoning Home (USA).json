@@ -10,7 +10,7 @@
         "name": "Phoning Home"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_phoning_home_1.4.1_(21995).exe"
+        "SETUP_MAIN_ROOT/setup_phoning_home_1.4.1_(21995).exe"
     ],
     "transform_file": "setup_phoning_home_1.4.1_(21995).exe"
 }

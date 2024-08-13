@@ -19,7 +19,7 @@
         "name": "Pharaoh + Cleopatra"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_pharaoh_gold_2.1.0.15.exe"
+        "SETUP_MAIN_ROOT/setup_pharaoh_gold_2.1.0.15.exe"
     ],
     "transform_file": "setup_pharaoh_gold_2.1.0.15.exe"
 }

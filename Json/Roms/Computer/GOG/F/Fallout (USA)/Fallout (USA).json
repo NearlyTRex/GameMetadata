@@ -29,7 +29,7 @@
         "name": "Fallout Classic"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_fallout_2.1.0.18.exe"
+        "SETUP_MAIN_ROOT/setup_fallout_2.1.0.18.exe"
     ],
     "transform_file": "setup_fallout_2.1.0.18.exe"
 }

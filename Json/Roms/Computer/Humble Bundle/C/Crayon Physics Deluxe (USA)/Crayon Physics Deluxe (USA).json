@@ -7,7 +7,7 @@
         "extra/crayon_soundtrack.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/crayon_release55_2.exe"
+        "SETUP_MAIN_ROOT/crayon_release55_2.exe"
     ],
     "transform_file": "crayon_release55_2.exe"
 }

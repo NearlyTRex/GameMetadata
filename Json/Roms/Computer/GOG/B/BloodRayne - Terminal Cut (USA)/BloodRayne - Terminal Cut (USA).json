@@ -16,7 +16,7 @@
         "name": "BloodRayne: Terminal Cut"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_bloodrayne_terminal_cut_1.06_(59972).exe"
+        "SETUP_MAIN_ROOT/setup_bloodrayne_terminal_cut_1.06_(59972).exe"
     ],
     "transform_file": "setup_bloodrayne_terminal_cut_1.06_(59972).exe"
 }

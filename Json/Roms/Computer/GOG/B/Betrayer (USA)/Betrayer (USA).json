@@ -10,7 +10,7 @@
         "name": "Betrayer"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_betrayer_1.9.6844.2_(65784).exe"
+        "SETUP_MAIN_ROOT/setup_betrayer_1.9.6844.2_(65784).exe"
     ],
     "transform_file": "setup_betrayer_1.9.6844.2_(65784).exe"
 }

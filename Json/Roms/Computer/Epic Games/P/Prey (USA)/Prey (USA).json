@@ -13,7 +13,7 @@
         "Prey (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Prey (USA).exe"
+        "SETUP_MAIN_ROOT/Prey (USA).exe"
     ],
     "transform_file": "Prey (USA).exe"
 }

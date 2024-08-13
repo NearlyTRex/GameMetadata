@@ -3,7 +3,7 @@
         "Cave Story+ (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Cave Story+ (USA).exe"
+        "SETUP_MAIN_ROOT/Cave Story+ (USA).exe"
     ],
     "transform_file": "Cave Story+ (USA).exe"
 }

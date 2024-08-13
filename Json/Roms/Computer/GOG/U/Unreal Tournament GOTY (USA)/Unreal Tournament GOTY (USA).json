@@ -17,7 +17,7 @@
         "name": "Unreal Tournament GOTY"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_ut_goty_2.0.0.5.exe"
+        "SETUP_MAIN_ROOT/setup_ut_goty_2.0.0.5.exe"
     ],
     "transform_file": "setup_ut_goty_2.0.0.5.exe"
 }

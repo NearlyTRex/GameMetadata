@@ -11,7 +11,7 @@
         "name": "Fallout 3: Game of the Year Edition"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_fallout_3_1.7.0.3_(12034).exe"
+        "SETUP_MAIN_ROOT/setup_fallout_3_1.7.0.3_(12034).exe"
     ],
     "transform_file": "setup_fallout_3_1.7.0.3_(12034).exe"
 }

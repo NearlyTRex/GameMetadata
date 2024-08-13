@@ -17,7 +17,7 @@
         "name": "Blood: Fresh Supply"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_blood_fresh_supply_1.9.10-1_(64bit)_(31506).exe"
+        "SETUP_MAIN_ROOT/setup_blood_fresh_supply_1.9.10-1_(64bit)_(31506).exe"
     ],
     "transform_file": "setup_blood_fresh_supply_1.9.10-1_(64bit)_(31506).exe"
 }

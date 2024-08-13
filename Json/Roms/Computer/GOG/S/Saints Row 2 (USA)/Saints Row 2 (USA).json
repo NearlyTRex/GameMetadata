@@ -19,7 +19,7 @@
         "name": "Saints Row 2"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_saints_row_2_gog-5_(9656).exe"
+        "SETUP_MAIN_ROOT/setup_saints_row_2_gog-5_(9656).exe"
     ],
     "transform_file": "setup_saints_row_2_gog-5_(9656).exe"
 }

@@ -27,7 +27,7 @@
         "name": "Carmageddon Max Pack"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_carmageddon_2.0.0.63.exe"
+        "SETUP_MAIN_ROOT/setup_carmageddon_2.0.0.63.exe"
     ],
     "transform_file": "setup_carmageddon_2.0.0.63.exe"
 }

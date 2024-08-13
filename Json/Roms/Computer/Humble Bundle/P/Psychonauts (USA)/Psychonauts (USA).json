@@ -13,7 +13,7 @@
         "extra/psychonauts_soundtrack_mp3.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Psychonauts_Win.exe"
+        "SETUP_MAIN_ROOT/Psychonauts_Win.exe"
     ],
     "transform_file": "Psychonauts_Win.exe"
 }

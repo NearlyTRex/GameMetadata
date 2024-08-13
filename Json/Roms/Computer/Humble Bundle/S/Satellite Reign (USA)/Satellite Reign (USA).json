@@ -9,7 +9,7 @@
         "extra/satellitereign_soundtrack_mp3.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/SatelliteReignWindows0113_06.exe"
+        "SETUP_MAIN_ROOT/SatelliteReignWindows0113_06.exe"
     ],
     "transform_file": "SatelliteReignWindows0113_06.exe"
 }

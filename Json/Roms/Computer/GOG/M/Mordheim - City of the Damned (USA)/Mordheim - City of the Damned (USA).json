@@ -11,7 +11,7 @@
         "name": "Mordheim: City of the Damned"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_mordheim_city_of_the_damned_1.4.4.4_(64bit)_(36463).exe"
+        "SETUP_MAIN_ROOT/setup_mordheim_city_of_the_damned_1.4.4.4_(64bit)_(36463).exe"
     ],
     "transform_file": "setup_mordheim_city_of_the_damned_1.4.4.4_(64bit)_(36463).exe"
 }

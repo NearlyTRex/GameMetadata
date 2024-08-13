@@ -28,7 +28,7 @@
         "name": "Harvester"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_harvester_1.0_(28235).exe"
+        "SETUP_MAIN_ROOT/setup_harvester_1.0_(28235).exe"
     ],
     "transform_file": "setup_harvester_1.0_(28235).exe"
 }

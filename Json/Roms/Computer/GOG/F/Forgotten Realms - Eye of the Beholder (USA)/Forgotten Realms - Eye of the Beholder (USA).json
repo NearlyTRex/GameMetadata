@@ -15,7 +15,7 @@
         "name": "Eye of the Beholder"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_eye_of_the_beholder_1.7_(28044).exe"
+        "SETUP_MAIN_ROOT/setup_eye_of_the_beholder_1.7_(28044).exe"
     ],
     "transform_file": "setup_eye_of_the_beholder_1.7_(28044).exe"
 }

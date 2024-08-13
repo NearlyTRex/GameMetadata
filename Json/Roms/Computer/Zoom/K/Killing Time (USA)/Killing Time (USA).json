@@ -19,7 +19,7 @@
         "extra/The-Spriter's-Resource-Killing-Time-PC-Weapons-Sprite-Sheet.zip"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Killing-Time-English-Setup-1.3.exe"
+        "SETUP_MAIN_ROOT/Killing-Time-English-Setup-1.3.exe"
     ],
     "transform_file": "Killing-Time-English-Setup-1.3.exe"
 }

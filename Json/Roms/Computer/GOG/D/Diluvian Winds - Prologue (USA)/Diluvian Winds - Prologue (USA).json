@@ -9,7 +9,7 @@
         "name": "Diluvian Winds: Prologue"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_diluvian_winds_prologue_release_(58934).exe"
+        "SETUP_MAIN_ROOT/setup_diluvian_winds_prologue_release_(58934).exe"
     ],
     "transform_file": "setup_diluvian_winds_prologue_release_(58934).exe"
 }

@@ -16,7 +16,7 @@
         "name": "Immortal Redneck"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_immortal_redneck_64_1.3.3_(15760).exe"
+        "SETUP_MAIN_ROOT/setup_immortal_redneck_64_1.3.3_(15760).exe"
     ],
     "transform_file": "setup_immortal_redneck_64_1.3.3_(15760).exe"
 }

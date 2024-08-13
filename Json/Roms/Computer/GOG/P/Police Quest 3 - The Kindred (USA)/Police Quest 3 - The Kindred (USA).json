@@ -19,7 +19,7 @@
         "name": "Police Quest 3 - The Kindred"
     },
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/setup_police_quest_3_-_the_kindred_1.00_(28044).exe"
+        "SETUP_MAIN_ROOT/setup_police_quest_3_-_the_kindred_1.00_(28044).exe"
     ],
     "transform_file": "setup_police_quest_3_-_the_kindred_1.00_(28044).exe"
 }

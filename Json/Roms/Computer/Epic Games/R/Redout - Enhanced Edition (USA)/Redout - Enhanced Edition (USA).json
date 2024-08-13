@@ -5,7 +5,7 @@
         "Redout - Enhanced Edition (USA).exe"
     ],
     "installer_exe": [
-        "$SETUP_MAIN_ROOT/Redout - Enhanced Edition (USA).exe"
+        "SETUP_MAIN_ROOT/Redout - Enhanced Edition (USA).exe"
     ],
     "transform_file": "Redout - Enhanced Edition (USA).exe"
 }
