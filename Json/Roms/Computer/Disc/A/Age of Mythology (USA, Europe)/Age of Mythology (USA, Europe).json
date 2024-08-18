@@ -2,9 +2,11 @@
     "files": [
         "Age of Mythology (USA, Europe) (Disc 1).chd",
         "Age of Mythology (USA, Europe) (Disc 2).chd",
-        "Age of Mythology (USA, Europe).m3u",
-        "Age of Mythology (USA, Europe).txt"
+        "Age of Mythology (USA, Europe).m3u"
     ],
     "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
+    "serials": {
+        "Age of Mythology (USA, Europe) (Disc 1).chd": "J76QG-9GYXM-6YH9W-MTGM7-44JH8"
+    },
     "transform_file": "Age of Mythology (USA, Europe).m3u"
 }

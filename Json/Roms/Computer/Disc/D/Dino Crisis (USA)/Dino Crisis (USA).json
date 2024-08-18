@@ -2,10 +2,8 @@
     "files": [
         "Dino Crisis (USA) (Disc 1).chd",
         "Dino Crisis (USA) (Disc 2).chd",
-        "Dino Crisis (USA) (Disc 3).chd",
-        "Dino Crisis (USA).m3u",
-        "fix/config.ini",
-        "fix/ddraw.dll"
+        "Dino Crisis (USA) (Update).chd",
+        "Dino Crisis (USA).m3u"
     ],
     "main_game_exe": [
         "DinoCrisis/DINO.exe"
@@ -45,12 +43,7 @@
                 "type": "copy"
             },
             {
-                "from": "DISC_THREE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/DinoCrisis",
-                "type": "copy"
-            },
-            {
-                "from": "SETUP_MAIN_ROOT/fix/*",
+                "from": "DISC_UPDATE_ROOT/*",
                 "to": "HDD_MAIN_ROOT/DinoCrisis",
                 "type": "copy"
             }

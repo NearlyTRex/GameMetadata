@@ -1,7 +1,7 @@
 {
     "files": [
-        "Exile III - Ruined World (USA) (Disc 1).chd",
-        "Exile III - Ruined World (USA) (Disc 2).chd",
+        "Exile III - Ruined World (USA) (Update).chd",
+        "Exile III - Ruined World (USA).chd",
         "Exile III - Ruined World (USA).m3u"
     ],
     "is_win31": true,
@@ -14,12 +14,12 @@
     "steps": {
         "preinstall": [
             {
-                "from": "DISC_ONE_ROOT",
+                "from": "DISC_MAIN_ROOT",
                 "to": "DOS_MAIN_ROOT/C/EXILE3",
                 "type": "copy"
             },
             {
-                "from": "DISC_TWO_ROOT",
+                "from": "DISC_UPDATE_ROOT",
                 "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }

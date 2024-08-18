@@ -1,19 +1,19 @@
 {
     "files": [
+        "Age of Empires Gold Edition (USA) (Update).chd",
         "Age of Empires Gold Edition (USA).chd",
-        "fix/EMPIRES.EXE",
-        "fix/EMPIRESX.EXE"
+        "Age of Empires Gold Edition (USA).m3u"
     ],
     "installer_exe": "DISC_MAIN_ROOT/AOESETUP.EXE",
     "steps": {
         "postinstall": [
             {
-                "from": "SETUP_MAIN_ROOT/fix/*",
+                "from": "DISC_UPDATE_ROOT/*",
                 "to": "HDD_MAIN_ROOT/Program Files (x86)/Microsoft Games/Age of Empires",
                 "type": "copy"
             }
         ]
     },
-    "transform_file": "Age of Empires Gold Edition (USA).chd",
+    "transform_file": "Age of Empires Gold Edition (USA).m3u",
     "winver": "winxp"
 }

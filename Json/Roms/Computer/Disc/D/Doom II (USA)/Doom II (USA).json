@@ -1,7 +1,8 @@
 {
     "files": [
+        "Doom II (USA) (Update).chd",
         "Doom II (USA).chd",
-        "fix/gzdoom-4-10-0-Windows-64bit.zip"
+        "Doom II (USA).m3u"
     ],
     "main_game_exe": [
         "DoomII/gzdoom.exe"
@@ -18,12 +19,12 @@
                 "type": "copy"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/gzdoom-4-10-0-Windows-64bit.zip",
+                "from": "DISC_UPDATE_ROOT/*.zip",
                 "skip_existing": true,
                 "to": "HDD_MAIN_ROOT/DoomII",
                 "type": "extract"
             }
         ]
     },
-    "transform_file": "Doom II (USA).chd"
+    "transform_file": "Doom II (USA).m3u"
 }

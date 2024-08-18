@@ -1,9 +1,9 @@
 {
     "disc_type": "macwin",
     "files": [
-        "Carmen Sandiego - Word Detective (USA) (Disc 1).chd",
-        "Carmen Sandiego - Word Detective (USA) (Disc 2).chd",
-        "Carmen Sandiego - Word Detective (USA) (Disc 3).chd",
+        "Carmen Sandiego - Word Detective (USA) (Disc 1) (Hybrid).chd",
+        "Carmen Sandiego - Word Detective (USA) (Disc 2) (Windows).chd",
+        "Carmen Sandiego - Word Detective (USA) (Update).chd",
         "Carmen Sandiego - Word Detective (USA).m3u"
     ],
     "is_win31": true,
@@ -16,7 +16,7 @@
     "steps": {
         "preinstall": [
             {
-                "from": "DISC_THREE_ROOT",
+                "from": "DISC_UPDATE_ROOT",
                 "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }

@@ -1,22 +1,18 @@
 {
     "files": [
+        "Konami Collector's Series - Castlevania and Contra (USA) (Update).chd",
         "Konami Collector's Series - Castlevania and Contra (USA).chd",
-        "fix/cc.exe",
-        "fix/ddraw.dll",
-        "fix/dinput8.dll",
-        "fix/dixi.ini",
-        "fix/dxcfg.exe",
-        "fix/dxcfg.ini"
+        "Konami Collector's Series - Castlevania and Contra (USA).m3u"
     ],
     "installer_exe": "DISC_MAIN_ROOT/STARTUP.EXE",
     "steps": {
         "postinstall": [
             {
-                "from": "SETUP_MAIN_ROOT/fix/*",
+                "from": "DISC_UPDATE_ROOT/*",
                 "to": "HDD_MAIN_ROOT/Program Files (x86)/KONAMI Software/Castlevania & Contra",
                 "type": "copy"
             }
         ]
     },
-    "transform_file": "Konami Collector's Series - Castlevania and Contra (USA).chd"
+    "transform_file": "Konami Collector's Series - Castlevania and Contra (USA).m3u"
 }

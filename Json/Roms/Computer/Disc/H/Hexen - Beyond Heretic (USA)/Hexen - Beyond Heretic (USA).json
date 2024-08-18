@@ -1,7 +1,8 @@
 {
     "files": [
+        "Hexen - Beyond Heretic (USA) (Update).chd",
         "Hexen - Beyond Heretic (USA).chd",
-        "fix/gzdoom-4-11-1-Windows-64bit.zip"
+        "Hexen - Beyond Heretic (USA).m3u"
     ],
     "main_game_exe": [
         "Hexen/gzdoom.exe"
@@ -18,12 +19,12 @@
                 "type": "copy"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/gzdoom-4-11-1-Windows-64bit.zip",
+                "from": "DISC_UPDATE_ROOT/*.zip",
                 "skip_existing": true,
                 "to": "HDD_MAIN_ROOT/Hexen",
                 "type": "extract"
             }
         ]
     },
-    "transform_file": "Hexen - Beyond Heretic (USA).chd"
+    "transform_file": "Hexen - Beyond Heretic (USA).m3u"
 }

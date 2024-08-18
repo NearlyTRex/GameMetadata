@@ -1,17 +1,13 @@
 {
     "files": [
+        "Arx Fatalis (USA) (Update).chd",
         "Arx Fatalis (USA).chd",
-        "update/ArxFatalis_1.21_MULTILANG.exe",
-        "update/arx-libertatis-1.2.1-windows.exe"
+        "Arx Fatalis (USA).m3u"
     ],
     "installer_exe": [
         "DISC_MAIN_ROOT/setup.exe",
-        "SETUP_MAIN_ROOT/update/ArxFatalis_1.21_MULTILANG.exe",
-        "SETUP_MAIN_ROOT/update/arx-libertatis-1.2.1-windows.exe"
+        "DISC_UPDATE_ROOT/ArxFatalis_1.21_MULTILANG.exe",
+        "DISC_UPDATE_ROOT/arx-libertatis-1.2.1-windows.exe"
     ],
-    "transform_file": "Arx Fatalis (USA).chd",
-    "update": [
-        "ArxFatalis_1.21_MULTILANG.exe",
-        "arx-libertatis-1.2.1-windows.exe"
-    ]
+    "transform_file": "Arx Fatalis (USA).m3u"
 }

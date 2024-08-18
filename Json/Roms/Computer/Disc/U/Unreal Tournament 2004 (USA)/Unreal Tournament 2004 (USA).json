@@ -6,10 +6,12 @@
         "Unreal Tournament 2004 (USA) (Disc 4).chd",
         "Unreal Tournament 2004 (USA) (Disc 5).chd",
         "Unreal Tournament 2004 (USA) (Disc 6).chd",
-        "Unreal Tournament 2004 (USA).m3u",
-        "Unreal Tournament 2004 (USA).txt"
+        "Unreal Tournament 2004 (USA).m3u"
     ],
     "installer_exe": "DISC_ONE_ROOT/Setup.exe",
+    "serials": {
+        "Unreal Tournament 2004 (USA) (Disc 1).chd": "3A7XM-F7G2P-ABT6J-HD9DB"
+    },
     "steps": {
         "preinstall": [
             {

@@ -1,7 +1,7 @@
 {
     "files": [
-        "Exile IV - Blades of Exile (USA) (Disc 1).chd",
-        "Exile IV - Blades of Exile (USA) (Disc 2).chd",
+        "Exile IV - Blades of Exile (USA) (Update).chd",
+        "Exile IV - Blades of Exile (USA).chd",
         "Exile IV - Blades of Exile (USA).m3u"
     ],
     "is_win31": true,
@@ -14,12 +14,12 @@
     "steps": {
         "preinstall": [
             {
-                "from": "DISC_ONE_ROOT",
+                "from": "DISC_MAIN_ROOT",
                 "to": "DOS_MAIN_ROOT/C/EXILE4",
                 "type": "copy"
             },
             {
-                "from": "DISC_TWO_ROOT",
+                "from": "DISC_UPDATE_ROOT",
                 "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }

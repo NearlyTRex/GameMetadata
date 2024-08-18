@@ -1,7 +1,7 @@
 {
     "files": [
-        "Dark Eye, The (USA) (Disc 1).chd",
-        "Dark Eye, The (USA) (Disc 2).chd",
+        "Dark Eye, The (USA) (Update).chd",
+        "Dark Eye, The (USA).chd",
         "Dark Eye, The (USA).m3u"
     ],
     "is_win31": true,
@@ -14,7 +14,7 @@
     "steps": {
         "preinstall": [
             {
-                "from": "DISC_TWO_ROOT",
+                "from": "DISC_UPDATE_ROOT",
                 "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }

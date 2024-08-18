@@ -2,8 +2,8 @@
     "files": [
         "Necronomicon (USA) (Disc 1).chd",
         "Necronomicon (USA) (Disc 2).chd",
-        "Necronomicon (USA).m3u",
-        "fix/Necrono.exe"
+        "Necronomicon (USA) (Update).chd",
+        "Necronomicon (USA).m3u"
     ],
     "installer_exe": "DISC_ONE_ROOT/Install.EXE",
     "main_game_exe": [
@@ -27,7 +27,7 @@
                 "type": "copy"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/*",
+                "from": "DISC_UPDATE_ROOT/*",
                 "to": "HDD_MAIN_ROOT/Program Files/Necronomicon",
                 "type": "copy"
             }

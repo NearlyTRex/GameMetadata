@@ -1,10 +1,11 @@
 {
     "files": [
+        "Nox (USA) (Update).chd",
         "Nox (USA).chd",
-        "update/OpenNox-v1.8.11.exe"
+        "Nox (USA).m3u"
     ],
     "installer_exe": [
-        "SETUP_MAIN_ROOT/update/OpenNox-v1.8.11.exe"
+        "DISC_UPDATE_ROOT/OpenNox-v1.8.11.exe"
     ],
     "steps": {
         "postinstall": [
@@ -36,8 +37,5 @@
         ],
         "search": "NOX.EXE"
     },
-    "transform_file": "Nox (USA).chd",
-    "update": [
-        "OpenNox-v1.8.11.exe"
-    ]
+    "transform_file": "Nox (USA).m3u"
 }

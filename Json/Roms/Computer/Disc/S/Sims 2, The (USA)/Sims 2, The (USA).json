@@ -4,8 +4,10 @@
         "Sims 2, The (USA) (Disc 2).chd",
         "Sims 2, The (USA) (Disc 3).chd",
         "Sims 2, The (USA) (Disc 4).chd",
-        "Sims 2, The (USA).m3u",
-        "Sims 2, The (USA).txt"
+        "Sims 2, The (USA).m3u"
     ],
+    "serials": {
+        "Sims 2, The (USA) (Disc 1).chd": "CMHR-XJX6-U4YC-DFYV-XR8C"
+    },
     "transform_file": "Sims 2, The (USA).m3u"
 }

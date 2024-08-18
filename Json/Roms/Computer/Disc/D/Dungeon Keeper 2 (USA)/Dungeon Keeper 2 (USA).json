@@ -1,11 +1,12 @@
 {
     "files": [
+        "Dungeon Keeper 2 (USA) (Update).chd",
         "Dungeon Keeper 2 (USA).chd",
-        "update/DKII_173.exe"
+        "Dungeon Keeper 2 (USA).m3u"
     ],
     "installer_exe": [
         "DISC_MAIN_ROOT/Autorun.exe",
-        "SETUP_MAIN_ROOT/update/DKII_173.exe"
+        "DISC_UPDATE_ROOT/DKII_173.exe"
     ],
     "sync": {
         "data": [
@@ -14,8 +15,5 @@
         ],
         "search": "DKII.exe"
     },
-    "transform_file": "Dungeon Keeper 2 (USA).chd",
-    "update": [
-        "DKII_173.exe"
-    ]
+    "transform_file": "Dungeon Keeper 2 (USA).m3u"
 }

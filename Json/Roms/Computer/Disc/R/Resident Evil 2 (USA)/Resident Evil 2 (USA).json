@@ -3,11 +3,8 @@
         "Resident Evil 2 (USA) (Disc 1).chd",
         "Resident Evil 2 (USA) (Disc 2).chd",
         "Resident Evil 2 (USA) (Disc 3).chd",
-        "Resident Evil 2 (USA) (Disc 4).chd",
-        "Resident Evil 2 (USA).m3u",
-        "fix/bio2 1.10.exe",
-        "fix/config.ini",
-        "fix/ddraw.dll"
+        "Resident Evil 2 (USA) (Update).chd",
+        "Resident Evil 2 (USA).m3u"
     ],
     "main_game_exe": [
         "ResidentEvil2/bio2 1.10.exe"
@@ -32,12 +29,7 @@
                 "type": "copy"
             },
             {
-                "from": "DISC_FOUR_ROOT/*",
-                "to": "HDD_MAIN_ROOT/ResidentEvil2",
-                "type": "copy"
-            },
-            {
-                "from": "SETUP_MAIN_ROOT/fix/*",
+                "from": "DISC_UPDATE_ROOT/*",
                 "to": "HDD_MAIN_ROOT/ResidentEvil2",
                 "type": "copy"
             }

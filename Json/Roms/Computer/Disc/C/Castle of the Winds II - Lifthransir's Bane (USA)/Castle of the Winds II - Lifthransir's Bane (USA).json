@@ -1,7 +1,7 @@
 {
     "files": [
-        "Castle of the Winds II - Lifthransir's Bane (USA) (Disc 1).chd",
-        "Castle of the Winds II - Lifthransir's Bane (USA) (Disc 2).chd",
+        "Castle of the Winds II - Lifthransir's Bane (USA) (Update).chd",
+        "Castle of the Winds II - Lifthransir's Bane (USA).chd",
         "Castle of the Winds II - Lifthransir's Bane (USA).m3u"
     ],
     "is_win31": true,
@@ -14,12 +14,12 @@
     "steps": {
         "preinstall": [
             {
-                "from": "DISC_ONE_ROOT",
+                "from": "DISC_MAIN_ROOT",
                 "to": "DOS_MAIN_ROOT/C/CASTLE2",
                 "type": "copy"
             },
             {
-                "from": "DISC_TWO_ROOT",
+                "from": "DISC_UPDATE_ROOT",
                 "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }

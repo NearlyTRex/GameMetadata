@@ -4,10 +4,12 @@
         "Sims, The - Complete Collection (USA) (Disc 2).chd",
         "Sims, The - Complete Collection (USA) (Disc 3).chd",
         "Sims, The - Complete Collection (USA) (Disc 4).chd",
-        "Sims, The - Complete Collection (USA).m3u",
-        "Sims, The - Complete Collection (USA).txt"
+        "Sims, The - Complete Collection (USA).m3u"
     ],
     "installer_exe": "DISC_ONE_ROOT/start.exe",
+    "serials": {
+        "Sims, The - Complete Collection (USA) (Disc 1).chd": "2WYG-B559-HY2B-LJKG-A6VE"
+    },
     "steps": {
         "preinstall": [
             {

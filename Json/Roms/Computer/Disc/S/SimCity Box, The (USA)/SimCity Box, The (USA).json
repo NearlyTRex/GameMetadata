@@ -2,14 +2,10 @@
     "disc_type": "macwin",
     "files": [
         "SimCity Box, The (USA) (Disc 1) (SimCity 4 Deluxe Edition, Disc 1).chd",
-        "SimCity Box, The (USA) (Disc 1) (SimCity 4 Deluxe Edition, Disc 1).txt",
         "SimCity Box, The (USA) (Disc 2) (SimCity 4 Deluxe Edition, Disc 2).chd",
         "SimCity Box, The (USA) (Disc 3) (SnapCity).chd",
-        "SimCity Box, The (USA) (Disc 3) (SnapCity).txt",
         "SimCity Box, The (USA) (Disc 4) (SimCity Societies).chd",
-        "SimCity Box, The (USA) (Disc 4) (SimCity Societies).txt",
         "SimCity Box, The (USA) (Disc 5) (SimCity Societies Destinations).chd",
-        "SimCity Box, The (USA) (Disc 5) (SimCity Societies Destinations).txt",
         "SimCity Box, The (USA).m3u"
     ],
     "installer_exe": [
@@ -18,5 +14,11 @@
         "DISC_FOUR_ROOT/AutoRun.exe",
         "DISC_FIVE_ROOT/AutoRun.exe"
     ],
+    "serials": {
+        "SimCity Box, The (USA) (Disc 1) (SimCity 4 Deluxe Edition, Disc 1).chd": "CSTT-5SUQ-V8YF-9GLF-GBE5",
+        "SimCity Box, The (USA) (Disc 3) (SnapCity).chd": "5NM5-LBJC-32DN-PJD7-9B8Y",
+        "SimCity Box, The (USA) (Disc 4) (SimCity Societies).chd": "5NLC-926W-5JJ8-95J6-ARLD",
+        "SimCity Box, The (USA) (Disc 5) (SimCity Societies Destinations).chd": "G8BB-4HRA-LHWV-AY6Q-48NC"
+    },
     "transform_file": "SimCity Box, The (USA).m3u"
 }

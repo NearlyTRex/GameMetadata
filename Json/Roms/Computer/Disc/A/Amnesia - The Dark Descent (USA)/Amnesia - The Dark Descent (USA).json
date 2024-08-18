@@ -1,7 +1,6 @@
 {
     "files": [
-        "Amnesia - The Dark Descent (USA).chd",
-        "Amnesia - The Dark Descent (USA).txt"
+        "Amnesia - The Dark Descent (USA).chd"
     ],
     "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "main_game_exe": [
@@ -9,6 +8,9 @@
     ],
     "main_game_exe_cwd": {
         "Program Files (x86)/Amnesia - The Dark Descent/redist/Amnesia.exe": "Program Files (x86)/Amnesia - The Dark Descent/redist"
+    },
+    "serials": {
+        "Amnesia - The Dark Descent (USA).chd": "11111111111111"
     },
     "transform_file": "Amnesia - The Dark Descent (USA).chd"
 }

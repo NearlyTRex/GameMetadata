@@ -1,7 +1,8 @@
 {
     "files": [
+        "Dino Crisis 2 (USA) (Update).chd",
         "Dino Crisis 2 (USA).chd",
-        "fix/dino2.exe"
+        "Dino Crisis 2 (USA).m3u"
     ],
     "steps": {
         "preinstall": [
@@ -11,11 +12,11 @@
                 "type": "copy"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/*",
+                "from": "DISC_UPDATE_ROOT/*",
                 "to": "HDD_MAIN_ROOT/Dino2",
                 "type": "copy"
             }
         ]
     },
-    "transform_file": "Dino Crisis 2 (USA).chd"
+    "transform_file": "Dino Crisis 2 (USA).m3u"
 }

@@ -1,15 +1,17 @@
 {
     "files": [
+        "Quake III - Arena (USA) (Update).chd",
         "Quake III - Arena (USA).chd",
-        "Quake III - Arena (USA).txt",
-        "fix/Point-Release-1.32-PAK.zip",
-        "fix/release-mingw64-x86_64.zip"
+        "Quake III - Arena (USA).m3u"
     ],
     "main_game_exe": [
         "Quake3/ioquake3.x86_64.exe"
     ],
     "main_game_exe_cwd": {
         "Quake3/ioquake3.x86_64.exe": "Quake3"
+    },
+    "serials": {
+        "Quake III - Arena (USA).chd": "2222222222222222"
     },
     "steps": {
         "preinstall": [
@@ -19,16 +21,16 @@
                 "type": "copy"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/release-mingw64-x86_64.zip",
+                "from": "DISC_UPDATE_ROOT/release-mingw64-x86_64.zip",
                 "to": "HDD_MAIN_ROOT/Quake3",
                 "type": "extract"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/Point-Release-1.32-PAK.zip",
+                "from": "DISC_UPDATE_ROOT/Point-Release-1.32-PAK.zip",
                 "to": "HDD_MAIN_ROOT/Quake3/baseq3",
                 "type": "extract"
             }
         ]
     },
-    "transform_file": "Quake III - Arena (USA).chd"
+    "transform_file": "Quake III - Arena (USA).m3u"
 }

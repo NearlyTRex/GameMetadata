@@ -1,8 +1,8 @@
 {
     "files": [
+        "Resident Evil 4 (USA) (Update).chd",
         "Resident Evil 4 (USA).chd",
-        "Resident Evil 4 (USA).txt",
-        "fix/game.exe"
+        "Resident Evil 4 (USA).m3u"
     ],
     "installer_exe": "DISC_MAIN_ROOT/launcher.exe",
     "main_game_exe": [
@@ -11,10 +11,13 @@
     "main_game_exe_cwd": {
         "Program Files (x86)/CAPCOM/resident evil 4/game.exe": "Program Files (x86)/CAPCOM/resident evil 4"
     },
+    "serials": {
+        "Resident Evil 4 (USA).chd": "re15120671562455"
+    },
     "steps": {
         "postinstall": [
             {
-                "from": "SETUP_MAIN_ROOT/fix/*",
+                "from": "DISC_UPDATE_ROOT/*",
                 "to": "HDD_MAIN_ROOT/Program Files (x86)/CAPCOM/resident evil 4",
                 "type": "copy"
             }
@@ -26,5 +29,5 @@
         ],
         "search": "CAPCOM/resident evil 4/game.exe"
     },
-    "transform_file": "Resident Evil 4 (USA).chd"
+    "transform_file": "Resident Evil 4 (USA).m3u"
 }

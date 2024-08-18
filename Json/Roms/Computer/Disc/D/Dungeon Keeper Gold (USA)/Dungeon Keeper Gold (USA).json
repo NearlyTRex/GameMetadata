@@ -1,7 +1,8 @@
 {
     "files": [
+        "Dungeon Keeper Gold (USA) (Update).chd",
         "Dungeon Keeper Gold (USA).chd",
-        "fix/keeperfx_0_5_0b_complete.7z"
+        "Dungeon Keeper Gold (USA).m3u"
     ],
     "main_game_exe": [
         "DungeonKeeper/launcher.exe"
@@ -17,11 +18,11 @@
                 "type": "copy"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/keeperfx_0_5_0b_complete.7z",
+                "from": "DISC_UPDATE_ROOT/*.7z",
                 "to": "HDD_MAIN_ROOT/DungeonKeeper",
                 "type": "extract"
             }
         ]
     },
-    "transform_file": "Dungeon Keeper Gold (USA).chd"
+    "transform_file": "Dungeon Keeper Gold (USA).m3u"
 }

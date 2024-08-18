@@ -1,8 +1,10 @@
 {
     "files": [
-        "Tribes - Vengeance (USA).chd",
-        "Tribes - Vengeance (USA).txt"
+        "Tribes - Vengeance (USA).chd"
     ],
     "installer_exe": "DISC_ONE_ROOT/Autorun.exe",
+    "serials": {
+        "Tribes - Vengeance (USA).chd": "GUP5-XAB6-RYD7-NEZ2-3426"
+    },
     "transform_file": "Tribes - Vengeance (USA).chd"
 }

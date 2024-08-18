@@ -2,10 +2,12 @@
     "files": [
         "StarCraft & Brood War (USA) (Disc 1).chd",
         "StarCraft & Brood War (USA) (Disc 2).chd",
-        "StarCraft & Brood War (USA).m3u",
-        "StarCraft & Brood War (USA).txt"
+        "StarCraft & Brood War (USA).m3u"
     ],
     "installer_exe": "DISC_ONE_ROOT/StarCraft (Windows).exe",
+    "serials": {
+        "StarCraft & Brood War (USA) (Disc 1).chd": "26887CX6HTXXVXNY76JXRDCE2X"
+    },
     "steps": {
         "preinstall": [
             {

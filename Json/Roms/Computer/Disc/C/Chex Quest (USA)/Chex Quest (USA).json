@@ -1,7 +1,8 @@
 {
     "files": [
+        "Chex Quest (USA) (Update).chd",
         "Chex Quest (USA).chd",
-        "fix/gzdoom-4-10-0-Windows-64bit.zip"
+        "Chex Quest (USA).m3u"
     ],
     "main_game_exe": [
         "ChexQuest/gzdoom.exe"
@@ -18,12 +19,12 @@
                 "type": "copy"
             },
             {
-                "from": "SETUP_MAIN_ROOT/fix/gzdoom-4-10-0-Windows-64bit.zip",
+                "from": "DISC_UPDATE_ROOT/*.zip",
                 "skip_existing": true,
                 "to": "HDD_MAIN_ROOT/ChexQuest",
                 "type": "extract"
             }
         ]
     },
-    "transform_file": "Chex Quest (USA).chd"
+    "transform_file": "Chex Quest (USA).m3u"
 }

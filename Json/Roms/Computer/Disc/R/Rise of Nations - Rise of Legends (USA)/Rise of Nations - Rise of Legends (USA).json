@@ -1,7 +1,6 @@
 {
     "files": [
-        "Rise of Nations - Rise of Legends (USA).chd",
-        "Rise of Nations - Rise of Legends (USA).txt"
+        "Rise of Nations - Rise of Legends (USA).chd"
     ],
     "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "sandbox": {
@@ -15,6 +14,9 @@
                 ]
             }
         }
+    },
+    "serials": {
+        "Rise of Nations - Rise of Legends (USA).chd": "RFFTP-FV7HC-4H6KM-XY8PM-XFQHB"
     },
     "transform_file": "Rise of Nations - Rise of Legends (USA).chd"
 }

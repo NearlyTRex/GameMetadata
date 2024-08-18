@@ -1,7 +1,7 @@
 {
     "files": [
-        "Exile I - Escape From the Pit (USA) (Disc 1).chd",
-        "Exile I - Escape From the Pit (USA) (Disc 2).chd",
+        "Exile I - Escape From the Pit (USA) (Update).chd",
+        "Exile I - Escape From the Pit (USA).chd",
         "Exile I - Escape From the Pit (USA).m3u"
     ],
     "is_win31": true,
@@ -14,12 +14,12 @@
     "steps": {
         "preinstall": [
             {
-                "from": "DISC_ONE_ROOT",
+                "from": "DISC_MAIN_ROOT",
                 "to": "DOS_MAIN_ROOT/C/EXILE",
                 "type": "copy"
             },
             {
-                "from": "DISC_TWO_ROOT",
+                "from": "DISC_UPDATE_ROOT",
                 "to": "DOS_MAIN_ROOT/C",
                 "type": "copy"
             }

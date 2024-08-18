@@ -1,24 +1,24 @@
 {
     "files": [
         "Black & White + Creature Isle (USA) (Disc 1).chd",
-        "Black & White + Creature Isle (USA) (Disc 1).txt",
         "Black & White + Creature Isle (USA) (Disc 2).chd",
-        "Black & White + Creature Isle (USA) (Disc 2).txt",
         "Black & White + Creature Isle (USA) (Disc 3).chd",
-        "Black & White + Creature Isle (USA).m3u",
-        "update/BWCIFanPatchInstaller.exe",
-        "update/BWFanPatchInstaller.exe",
-        "update/black_white_patch_v1_20.exe"
+        "Black & White + Creature Isle (USA) (Update).chd",
+        "Black & White + Creature Isle (USA).m3u"
     ],
     "installer_exe": [
         "DISC_ONE_ROOT/Autorun.exe",
         "DISC_TWO_ROOT/Autorun.exe",
         "DISC_THREE_ROOT/Horse/Setup.exe",
         "DISC_THREE_ROOT/Leopard/Setup.exe",
-        "SETUP_MAIN_ROOT/update/black_white_patch_v1_20.exe",
-        "SETUP_MAIN_ROOT/update/BWFanPatchInstaller.exe",
-        "SETUP_MAIN_ROOT/update/BWCIFanPatchInstaller.exe"
+        "DISC_UPDATE_ROOT/black_white_patch_v1_20.exe",
+        "DISC_UPDATE_ROOT/BWFanPatchInstaller.exe",
+        "DISC_UPDATE_ROOT/BWCIFanPatchInstaller.exe"
     ],
+    "serials": {
+        "Black & White + Creature Isle (USA) (Disc 1).chd": "1507-4189594-1785394-6679",
+        "Black & White + Creature Isle (USA) (Disc 2).chd": "1503-8802855-2137767-5845"
+    },
     "steps": {
         "postinstall": [
             {
@@ -93,10 +93,5 @@
             }
         ]
     },
-    "transform_file": "Black & White + Creature Isle (USA).m3u",
-    "update": [
-        "BWCIFanPatchInstaller.exe",
-        "BWFanPatchInstaller.exe",
-        "black_white_patch_v1_20.exe"
-    ]
+    "transform_file": "Black & White + Creature Isle (USA).m3u"
 }
