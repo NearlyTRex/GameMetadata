@@ -11,7 +11,12 @@
         "appid": "881320",
         "branchid": "public",
         "controller_support": "full",
-        "name": "The LEGO\u00ae Movie 2 - Videogame"
+        "installdir": "The LEGO Movie 2 Videogame",
+        "name": "The LEGO\u00ae Movie 2 - Videogame",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO The LEGO Movie 2/PCCONFIG.TXT",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO The LEGO Movie 2/SAVEDGAMES"
+        ]
     },
     "transform_file": "LEGO Movie 2, The - Videogame (USA).exe"
 }

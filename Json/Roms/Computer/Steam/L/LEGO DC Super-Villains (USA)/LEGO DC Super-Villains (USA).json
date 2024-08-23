@@ -14,7 +14,12 @@
         "appid": "829110",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae DC Super-Villains"
+        "installdir": "LEGO DC Super-Villains",
+        "name": "LEGO\u00ae DC Super-Villains",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO DC Super-villains/PCCONFIG.TXT",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO DC Super-villains/SAVEDGAMES"
+        ]
     },
     "transform_file": "LEGO DC Super-Villains (USA).exe"
 }

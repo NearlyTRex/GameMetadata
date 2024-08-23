@@ -15,7 +15,11 @@
         "appid": "320040",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Moon Hunters"
+        "installdir": "Moon Hunters",
+        "name": "Moon Hunters",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/MoonHunters/SaveData"
+        ]
     },
     "transform_file": "Moon Hunters (USA).exe"
 }

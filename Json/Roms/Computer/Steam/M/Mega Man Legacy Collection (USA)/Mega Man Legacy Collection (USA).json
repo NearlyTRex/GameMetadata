@@ -9,7 +9,11 @@
         "appid": "363440",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Mega Man Legacy Collection"
+        "installdir": "Suzy",
+        "name": "Mega Man Legacy Collection",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/MegaMan"
+        ]
     },
     "transform_file": "Mega Man Legacy Collection (USA).exe"
 }

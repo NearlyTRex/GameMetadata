@@ -9,7 +9,12 @@
         "appid": "999020",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Mega Man Zero/ZX Legacy Collection"
+        "installdir": "MZZXLC",
+        "name": "Mega Man Zero/ZX Legacy Collection",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/MZZXLC/config.ini",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/999020/remote/RZZC/savedata.dat"
+        ]
     },
     "transform_file": "Mega Man Zero - ZX Legacy Collection (USA).exe"
 }

@@ -3,6 +3,10 @@
         "appid": "493520",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "GTFO"
+        "installdir": "GTFO",
+        "name": "GTFO",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/10 Chambers Collective/GTFO"
+        ]
     }
 }

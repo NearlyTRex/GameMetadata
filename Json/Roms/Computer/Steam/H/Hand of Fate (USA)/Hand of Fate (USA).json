@@ -9,7 +9,15 @@
         "appid": "266510",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Hand of Fate"
+        "installdir": "Hand of Fate",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Defiant Development/Hand of Fate"
+        ],
+        "name": "Hand of Fate",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Defiant Development/Hand of Fate/player.profile",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/266510/remote/HandOfFate/player.profile"
+        ]
     },
     "transform_file": "Hand of Fate (USA).exe"
 }

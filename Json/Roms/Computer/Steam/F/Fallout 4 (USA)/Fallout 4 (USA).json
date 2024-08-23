@@ -31,7 +31,12 @@
         "appid": "377160",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Fallout 4"
+        "installdir": "Fallout 4",
+        "name": "Fallout 4",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Fallout4",
+            "USER_PROFILE_DIR/Documents/My Games/Fallout4/Saves"
+        ]
     },
     "transform_file": "Fallout 4 (USA).exe"
 }

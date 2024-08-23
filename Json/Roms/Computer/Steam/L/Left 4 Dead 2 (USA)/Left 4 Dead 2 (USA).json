@@ -17,7 +17,12 @@
         "appid": "550",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Left 4 Dead 2"
+        "installdir": "Left 4 Dead 2",
+        "name": "Left 4 Dead 2",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Left 4 Dead 2/left4dead2/cfg",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/550/remote"
+        ]
     },
     "transform_file": "Left 4 Dead 2 (USA).exe"
 }

@@ -24,7 +24,13 @@
     "steam": {
         "appid": "365450",
         "branchid": "public",
-        "name": "Hacknet"
+        "installdir": "Hacknet",
+        "name": "Hacknet",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Hacknet/Settings.txt",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/365450/remote",
+            "USER_PROFILE_DIR/Documents/My Games/Hacknet/Accounts"
+        ]
     },
     "transform_file": "Hacknet (USA).exe"
 }

@@ -25,7 +25,12 @@
         "appid": "431240",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Golf With Your Friends"
+        "installdir": "Golf With Your Friends",
+        "name": "Golf With Your Friends",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Team17 Digital Ltd/Golf With Your Friends",
+            "USER_PROFILE_DIR/AppData/LocalLow/Team17 Digital Ltd/Golf With Your Friends/gwyf.sav"
+        ]
     },
     "transform_file": "Golf With Your Friends (USA).exe"
 }

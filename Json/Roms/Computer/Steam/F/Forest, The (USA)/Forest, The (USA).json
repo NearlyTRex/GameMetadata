@@ -25,7 +25,14 @@
         "appid": "242760",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "The Forest"
+        "installdir": "The Forest",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/SKS/TheForest"
+        ],
+        "name": "The Forest",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/SKS/TheForest"
+        ]
     },
     "transform_file": "Forest, The (USA).exe"
 }

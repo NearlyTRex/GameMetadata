@@ -14,7 +14,13 @@
         "appid": "438640",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae STAR WARS\u2122: The Force Awakens"
+        "installdir": "LEGO STAR WARS The Force Awakens",
+        "name": "LEGO\u00ae STAR WARS\u2122: The Force Awakens",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/438640/remote/savedgames",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO STAR WARS The Force Awakens/Mappings.dat",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO STAR WARS The Force Awakens/PCCONFIG.TXT"
+        ]
     },
     "transform_file": "LEGO Star Wars - The Force Awakens (USA).exe"
 }

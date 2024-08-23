@@ -12,7 +12,7 @@
         "name": "ABZ\u00db",
         "paths": [
             "USER_PROFILE_DIR/AppData/Local/AbzuGame/Saved/Config/WindowsNoEditor",
-            "USER_PROFILE_DIR/AppData/Local/AbzuGame/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/AbzuGame/Saved/SaveGames/*.sav"
         ]
     },
     "transform_file": "Abzu (USA).7z"

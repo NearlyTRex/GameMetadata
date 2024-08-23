@@ -9,7 +9,12 @@
         "appid": "469820",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Genital Jousting"
+        "installdir": "GenitalJousting",
+        "name": "Genital Jousting",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Free Lives/Genital Jousting/Config.butthole",
+            "USER_PROFILE_DIR/AppData/LocalLow/Free Lives/Genital Jousting/Profile.penis"
+        ]
     },
     "transform_file": "Genital Jousting (USA).exe"
 }

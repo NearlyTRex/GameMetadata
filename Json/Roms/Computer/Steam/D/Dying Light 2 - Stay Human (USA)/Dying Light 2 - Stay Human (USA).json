@@ -35,10 +35,11 @@
         "appid": "534380",
         "branchid": "public",
         "controller_support": "full",
+        "installdir": "Dying Light 2",
         "name": "Dying Light 2: Reloaded Edition",
         "paths": [
-            "USER_PROFILE_DIR/Documents/Dying Light 2/out/settings",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/534380/remote/out/save"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/534380/remote/out/save",
+            "USER_PROFILE_DIR/Documents/Dying Light 2/out/settings"
         ]
     },
     "transform_file": "Dying Light 2 - Stay Human (USA).exe"

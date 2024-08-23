@@ -32,7 +32,10 @@
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save/customGameData_*.json",
             "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save/dc_options.json",
-            "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save/user_*.dat"
+            "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save/user_*.dat",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/588650/remote/customGameData_*.json",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/588650/remote/dc_options.json",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/588650/remote/user_*.dat"
         ]
     },
     "transform_file": "Dead Cells (USA).exe"

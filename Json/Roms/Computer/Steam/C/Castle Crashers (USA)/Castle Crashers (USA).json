@@ -25,7 +25,11 @@
         "buildid": "14175591",
         "controller_support": "full",
         "installdir": "CastleCrashers",
-        "name": "Castle Crashers"
+        "name": "Castle Crashers",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/204360",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/204360/Remote"
+        ]
     },
     "transform_file": "Castle Crashers (USA).7z"
 }

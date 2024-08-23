@@ -18,7 +18,8 @@
         "name": "Doodle God",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Doodle God/temp",
-            "STORE_INSTALL_DIR/steamapps/common/Doodle God/temp/config.txt"
+            "STORE_INSTALL_DIR/steamapps/common/Doodle God/temp/config.txt",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/348360/remote/savedata.dat"
         ]
     },
     "transform_file": "Doodle God (USA).exe"

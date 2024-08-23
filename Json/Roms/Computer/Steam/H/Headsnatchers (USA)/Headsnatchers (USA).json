@@ -9,7 +9,12 @@
         "appid": "797410",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Headsnatchers"
+        "installdir": "HeadSnatchers",
+        "name": "Headsnatchers",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved/Config/WindowsNoEditor/Engine.ini",
+            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved/SaveGames"
+        ]
     },
     "transform_file": "Headsnatchers (USA).exe"
 }

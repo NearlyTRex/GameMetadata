@@ -9,7 +9,12 @@
         "appid": "443880",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Loot Rascals"
+        "installdir": "lootrascals",
+        "name": "Loot Rascals",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/LootRascals",
+            "USER_PROFILE_DIR/AppData/Roaming/LootRascals/*.json"
+        ]
     },
     "transform_file": "Loot Rascals (USA).exe"
 }

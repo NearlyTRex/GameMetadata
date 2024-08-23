@@ -31,7 +31,12 @@
         "appid": "647830",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae MARVEL Super Heroes 2"
+        "installdir": "LEGO Marvel Super Heroes 2",
+        "name": "LEGO\u00ae MARVEL Super Heroes 2",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO Marvel Super Heroes 2",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO Marvel Super Heroes 2/SAVEDGAMES"
+        ]
     },
     "transform_file": "LEGO Marvel Super Heroes 2 (USA).exe"
 }

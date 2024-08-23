@@ -3,6 +3,10 @@
         "appid": "1898290",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae Bricktales"
+        "installdir": "LEGO Bricktales",
+        "name": "LEGO\u00ae Bricktales",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/ClockStone Software GmbH/LEGO Bricktales"
+        ]
     }
 }

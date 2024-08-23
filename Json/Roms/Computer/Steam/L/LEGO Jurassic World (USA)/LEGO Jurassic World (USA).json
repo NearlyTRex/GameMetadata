@@ -13,7 +13,12 @@
         "appid": "352400",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae Jurassic World"
+        "installdir": "LEGO Jurassic World",
+        "name": "LEGO\u00ae Jurassic World",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/352400",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO Jurassic World/pcconfig.txt"
+        ]
     },
     "transform_file": "LEGO Jurassic World (USA).exe"
 }

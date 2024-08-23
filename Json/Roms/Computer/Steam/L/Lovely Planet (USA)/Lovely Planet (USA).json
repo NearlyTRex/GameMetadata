@@ -9,7 +9,14 @@
         "appid": "298600",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Lovely Planet"
+        "installdir": "Lovely Planet",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/QUICKTEQUILA/Lovely Planet"
+        ],
+        "name": "Lovely Planet",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/298600/remote/savefile.dat"
+        ]
     },
     "transform_file": "Lovely Planet (USA).exe"
 }

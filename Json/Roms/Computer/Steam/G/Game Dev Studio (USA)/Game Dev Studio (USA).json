@@ -14,7 +14,12 @@
     "steam": {
         "appid": "773580",
         "branchid": "public",
-        "name": "Game Dev Studio"
+        "installdir": "Game Dev Studio",
+        "name": "Game Dev Studio",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/game_dev_studio/savegames/**/*.gds",
+            "USER_PROFILE_DIR/AppData/Roaming/game_dev_studio/savegames/**/*.gds_preview"
+        ]
     },
     "transform_file": "Game Dev Studio (USA).exe"
 }

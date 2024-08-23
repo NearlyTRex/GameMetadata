@@ -8,7 +8,14 @@
     "steam": {
         "appid": "536890",
         "branchid": "public",
-        "name": "Glittermitten Grove"
+        "installdir": "Glittermitten Grove",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Mostly Tigerproof/Glittermitten Grove"
+        ],
+        "name": "Glittermitten Grove",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Mostly Tigerproof/Glittermitten Grove"
+        ]
     },
     "transform_file": "Glittermitten Grove (USA).exe"
 }

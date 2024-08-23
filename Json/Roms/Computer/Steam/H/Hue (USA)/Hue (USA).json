@@ -15,7 +15,14 @@
         "appid": "383270",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Hue"
+        "installdir": "Hue",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Fiddlesticks/Hue"
+        ],
+        "name": "Hue",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/383270/remote/cloudsave.bin"
+        ]
     },
     "transform_file": "Hue (USA).exe"
 }

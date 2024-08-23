@@ -9,7 +9,11 @@
         "appid": "341800",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Keep Talking and Nobody Explodes"
+        "installdir": "Keep Talking and Nobody Explodes",
+        "name": "Keep Talking and Nobody Explodes",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Steel Crate Games/Keep Talking and Nobody Explodes"
+        ]
     },
     "transform_file": "Keep Talking and Nobody Explodes (USA).exe"
 }

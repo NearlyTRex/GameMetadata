@@ -11,7 +11,12 @@
         "appid": "267530",
         "branchid": "public",
         "controller_support": "full",
-        "name": "The LEGO\u00ae Movie - Videogame"
+        "installdir": "The LEGO Movie - Videogame",
+        "name": "The LEGO\u00ae Movie - Videogame",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/267530/savedgames",
+            "USER_PROFILE_DIR/AppData/Roaming/ttales/The LEGO Movie - Videogame"
+        ]
     },
     "transform_file": "LEGO Movie, The - Videogame (USA).exe"
 }

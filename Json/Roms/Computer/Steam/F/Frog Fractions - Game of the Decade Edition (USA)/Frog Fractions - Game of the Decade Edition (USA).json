@@ -8,7 +8,14 @@
     "steam": {
         "appid": "1194840",
         "branchid": "public",
-        "name": "Frog Fractions: Game of the Decade Edition"
+        "installdir": "Frog Fractions Game of the Decade Edition",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Twinbeard/Frog Fractions Game of the Decade Edition"
+        ],
+        "name": "Frog Fractions: Game of the Decade Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Twinbeard/Frog Fractions Game of the Decade Edition/saved.!!!"
+        ]
     },
     "transform_file": "Frog Fractions - Game of the Decade Edition (USA).exe"
 }

@@ -8,7 +8,11 @@
     "steam": {
         "appid": "836450",
         "branchid": "public",
-        "name": "Heaven Will Be Mine"
+        "installdir": "Heaven Will Be Mine",
+        "name": "Heaven Will Be Mine",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/PillowFightIo/HeavenWillBeMine"
+        ]
     },
     "transform_file": "Heaven Will Be Mine (USA).exe"
 }

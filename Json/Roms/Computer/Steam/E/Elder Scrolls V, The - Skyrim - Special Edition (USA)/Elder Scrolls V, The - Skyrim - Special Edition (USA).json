@@ -13,7 +13,12 @@
         "appid": "489830",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "The Elder Scrolls V: Skyrim Special Edition"
+        "installdir": "Skyrim Special Edition",
+        "name": "The Elder Scrolls V: Skyrim Special Edition",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Skyrim Special Edition",
+            "USER_PROFILE_DIR/Documents/My Games/Skyrim Special Edition/Saves"
+        ]
     },
     "transform_file": "Elder Scrolls V, The - Skyrim - Special Edition (USA).exe"
 }

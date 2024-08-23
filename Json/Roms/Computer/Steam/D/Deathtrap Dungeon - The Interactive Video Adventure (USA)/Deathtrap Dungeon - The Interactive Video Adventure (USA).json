@@ -13,7 +13,10 @@
         "builddate": "1598275829",
         "buildid": "5317821",
         "installdir": "Deathtrap Dungeon The Interactive Video Adventure",
-        "name": "Deathtrap Dungeon: The Interactive Video Adventure"
+        "name": "Deathtrap Dungeon: The Interactive Video Adventure",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Deathtrap Dungeon The Interactive Video Adventure/SavesDir/*.sav"
+        ]
     },
     "transform_file": "Deathtrap Dungeon - The Interactive Video Adventure (USA).exe"
 }

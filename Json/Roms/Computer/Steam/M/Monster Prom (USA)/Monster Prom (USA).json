@@ -15,7 +15,14 @@
         "appid": "743450",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Monster Prom"
+        "installdir": "Monster Prom",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Beautiful Glitch/Monster Prom"
+        ],
+        "name": "Monster Prom",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Monster Prom/UserData"
+        ]
     },
     "sync": {
         "data": [

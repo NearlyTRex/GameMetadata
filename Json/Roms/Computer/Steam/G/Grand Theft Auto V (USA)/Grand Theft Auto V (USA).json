@@ -35,7 +35,13 @@
         "appid": "271590",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Grand Theft Auto V"
+        "installdir": "Grand Theft Auto V",
+        "name": "Grand Theft Auto V",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/VirtualStore/Socialclub/Player",
+            "USER_PROFILE_DIR/Documents/Rockstar Games/GTA V",
+            "USER_PROFILE_DIR/Documents/Rockstar Games/GTA V/Profiles/STORE_USER_ID"
+        ]
     },
     "transform_file": "Grand Theft Auto V (USA).exe"
 }

@@ -15,7 +15,11 @@
         "appid": "573300",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Monumental Failure"
+        "installdir": "Monumental Failure",
+        "name": "Monumental Failure",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Monumental Failure/saves/*.adat"
+        ]
     },
     "sync": {
         "data": [

@@ -30,7 +30,12 @@
         "appid": "242700",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Injustice: Gods Among Us Ultimate Edition"
+        "installdir": "InjusticeGodsAmongUs_UltimateEdition",
+        "name": "Injustice: Gods Among Us Ultimate Edition",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/242700/remote/user",
+            "USER_PROFILE_DIR/AppData/Roaming/Injustice"
+        ]
     },
     "transform_file": "Injustice - Gods Among Us Ultimate Edition (USA).exe"
 }

@@ -10,7 +10,10 @@
         "buildid": "12295224",
         "controller_support": "full",
         "installdir": "The Bunker",
-        "name": "The Bunker"
+        "name": "The Bunker",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/481110/remote"
+        ]
     },
     "transform_file": "Bunker, The (USA).7z.001"
 }

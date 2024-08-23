@@ -25,7 +25,14 @@
         "appid": "1966720",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Lethal Company"
+        "installdir": "Lethal Company",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/ZeekerssRBLX/Lethal Company"
+        ],
+        "name": "Lethal Company",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/ZeekerssRBLX/Lethal Company"
+        ]
     },
     "transform_file": "Lethal Company (USA).exe"
 }

@@ -9,7 +9,12 @@
         "appid": "312990",
         "branchid": "public",
         "controller_support": "full",
-        "name": "The Expendabros"
+        "installdir": "Broforce The Expendables Missions",
+        "name": "The Expendabros",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Broforce The Expendables Missions/Saves/STORE_USER_ID.sav",
+            "STORE_INSTALL_DIR/steamapps/common/Broforce The Expendables Missions/Saves/Options.xml"
+        ]
     },
     "transform_file": "Expendabros, The (USA).exe"
 }

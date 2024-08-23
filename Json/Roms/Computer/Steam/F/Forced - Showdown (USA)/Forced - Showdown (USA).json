@@ -9,7 +9,14 @@
         "appid": "265000",
         "branchid": "public",
         "controller_support": "full",
-        "name": "FORCED SHOWDOWN"
+        "installdir": "FORCED SHOWDOWN",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/BetaDwarf/FORCED SHOWDOWN"
+        ],
+        "name": "FORCED SHOWDOWN",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/FORCED Showdown/profile"
+        ]
     },
     "transform_file": "Forced - Showdown (USA).exe"
 }

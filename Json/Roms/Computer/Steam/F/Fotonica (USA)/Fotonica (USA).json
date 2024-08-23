@@ -9,6 +9,10 @@
         "appid": "253290",
         "branchid": "public",
         "controller_support": "partial",
+        "installdir": "Fotonica",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Santa Ragione/FOTONICA"
+        ],
         "name": "FOTONICA"
     },
     "transform_file": "Fotonica (USA).exe"

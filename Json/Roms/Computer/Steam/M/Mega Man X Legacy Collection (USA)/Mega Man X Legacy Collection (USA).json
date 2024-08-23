@@ -11,7 +11,12 @@
         "appid": "743890",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Mega Man X Legacy Collection"
+        "installdir": "Mega Man X Legacy Collection",
+        "name": "Mega Man X Legacy Collection",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Mega Man X Legacy Collection/config.ini",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/743890/remote/RXC1/savedata.dat"
+        ]
     },
     "transform_file": "Mega Man X Legacy Collection (USA).exe"
 }

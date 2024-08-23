@@ -27,7 +27,16 @@
         "appid": "584980",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Late Shift"
+        "installdir": "Late Shift",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Wales Interactive/Late Shift"
+        ],
+        "name": "Late Shift",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Wales Interactive/Late Shift/Unity",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/584980/remote/GameData",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/584980/remote/OptionsData"
+        ]
     },
     "transform_file": "Late Shift (USA).exe"
 }

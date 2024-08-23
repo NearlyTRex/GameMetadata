@@ -11,7 +11,13 @@
         "appid": "43160",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Metro: Last Light Complete Edition"
+        "installdir": "Metro Last Light",
+        "name": "Metro: Last Light Complete Edition",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/43160",
+            "USER_PROFILE_DIR/Documents/4A Games/Metro LL",
+            "USER_PROFILE_DIR/AppData/Local/4A Games/Metro LL/STORE_USER_ID/user.cfg"
+        ]
     },
     "transform_file": "Metro - Last Light Complete Edition (USA).exe"
 }

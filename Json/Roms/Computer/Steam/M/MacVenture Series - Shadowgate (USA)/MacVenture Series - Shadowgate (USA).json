@@ -8,7 +8,11 @@
     "steam": {
         "appid": "343800",
         "branchid": "public",
-        "name": "Shadowgate: MacVenture Series"
+        "installdir": "Shadowgate MacVenture Series",
+        "name": "Shadowgate: MacVenture Series",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/zojoi"
+        ]
     },
     "transform_file": "MacVenture Series - Shadowgate (USA).exe"
 }

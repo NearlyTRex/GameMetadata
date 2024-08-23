@@ -15,7 +15,12 @@
         "appid": "500",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Left 4 Dead"
+        "installdir": "left 4 dead",
+        "name": "Left 4 Dead",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/left 4 dead/left4dead/cfg/config.cfg",
+            "STORE_INSTALL_DIR/steamapps/common/left 4 dead/left4dead/cfg/video.txt"
+        ]
     },
     "transform_file": "Left 4 Dead (USA).exe"
 }

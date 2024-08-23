@@ -9,7 +9,11 @@
         "appid": "495050",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Mega Man Legacy Collection 2"
+        "installdir": "MegaMan2",
+        "name": "Mega Man Legacy Collection 2",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/MegaMan2"
+        ]
     },
     "transform_file": "Mega Man Legacy Collection 2 (USA).exe"
 }

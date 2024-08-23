@@ -9,7 +9,14 @@
         "builddate": "1660670158",
         "buildid": "9269705",
         "controller_support": "full",
-        "name": "7 Days to Die"
+        "installdir": "7 Days To Die",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/The Fun Pimps/7 Days To Die"
+        ],
+        "name": "7 Days to Die",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/7DaysToDie/Saves"
+        ]
     },
     "transform_file": "7 Days to Die (USA) (Alpha 20.6).7z.001"
 }

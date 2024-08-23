@@ -8,7 +8,12 @@
     "steam": {
         "appid": "934840",
         "branchid": "public",
-        "name": "FrostRunner"
+        "installdir": "FrostRunner",
+        "name": "FrostRunner",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/FrostRunner/FrostRunner/Data/Saved/Levels",
+            "USER_PROFILE_DIR/AppData/Local/FrostRunner/Saved/SaveGames"
+        ]
     },
     "transform_file": "FrostRunner (USA).exe"
 }

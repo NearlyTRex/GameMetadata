@@ -20,6 +20,10 @@
     "steam": {
         "appid": "393420",
         "branchid": "public",
+        "installdir": "Hurtworld",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Bankroll Studios/Hurtworld"
+        ],
         "name": "Hurtworld"
     },
     "transform_file": "Hurtworld (USA).exe"

@@ -9,6 +9,10 @@
         "appid": "1289310",
         "branchid": "public",
         "controller_support": "partial",
+        "installdir": "Helltaker",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/vanripper/Helltaker"
+        ],
         "name": "Helltaker"
     },
     "transform_file": "Helltaker (USA).exe"

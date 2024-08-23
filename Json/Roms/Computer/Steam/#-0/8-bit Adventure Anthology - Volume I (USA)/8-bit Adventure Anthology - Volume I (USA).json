@@ -8,7 +8,14 @@
         "builddate": "1513264207",
         "buildid": "2299351",
         "controller_support": "full",
-        "name": "8-bit Adventure Anthology: Volume I"
+        "installdir": "8-bit Adventure Anthology Volume I",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Abstraction Games/8-bit Adventure Anthology: Volume I"
+        ],
+        "name": "8-bit Adventure Anthology: Volume I",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Abstraction Games/8-bit Adventure Anthology_ Volume I/STORE_USER_ID"
+        ]
     },
     "transform_file": "8-bit Adventure Anthology - Volume I (USA).7z"
 }

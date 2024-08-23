@@ -9,6 +9,10 @@
         "appid": "257710",
         "branchid": "public",
         "controller_support": "full",
+        "installdir": "MaxGentlemen",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/The Men Who Wear Many Hats LLC/Max Gentlemen"
+        ],
         "name": "Max Gentlemen"
     },
     "transform_file": "Max Gentlemen (USA).exe"

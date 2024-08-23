@@ -9,7 +9,11 @@
         "appid": "401710",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Flinthook"
+        "installdir": "Flinthook",
+        "name": "Flinthook",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Tribute Games/Flinthook"
+        ]
     },
     "transform_file": "Flinthook (USA).exe"
 }

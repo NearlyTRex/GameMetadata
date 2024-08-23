@@ -14,7 +14,14 @@
     "steam": {
         "appid": "651660",
         "branchid": "public",
-        "name": "Halcyon 6: Lightspeed Edition"
+        "installdir": "Halcyon 6 Lightspeed Edition",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/MASSDMG/Halcyon6LSE"
+        ],
+        "name": "Halcyon 6: Lightspeed Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/MASSDMG/Halcyon6LSE"
+        ]
     },
     "transform_file": "Halcyon 6 - Lightspeed Edition (USA).exe"
 }

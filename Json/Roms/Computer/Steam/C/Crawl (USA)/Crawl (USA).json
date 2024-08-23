@@ -21,7 +21,10 @@
         "keys": [
             "HKEY_CURRENT_USER/Software/Powerhoof/Crawl"
         ],
-        "name": "Crawl"
+        "name": "Crawl",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Crawl/Crawl.sav"
+        ]
     },
     "transform_file": "Crawl (USA).exe"
 }

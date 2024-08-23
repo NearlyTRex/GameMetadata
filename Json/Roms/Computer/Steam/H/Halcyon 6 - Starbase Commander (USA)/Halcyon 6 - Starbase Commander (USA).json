@@ -8,7 +8,14 @@
     "steam": {
         "appid": "371200",
         "branchid": "public",
-        "name": "Halcyon 6: Starbase Commander (CLASSIC)"
+        "installdir": "Halcyon 6 Starbase Commander",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/MASSDMG/Halcyon6"
+        ],
+        "name": "Halcyon 6: Starbase Commander (CLASSIC)",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/MASSDMG/Halcyon6"
+        ]
     },
     "transform_file": "Halcyon 6 - Starbase Commander (USA).exe"
 }

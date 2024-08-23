@@ -25,7 +25,13 @@
         "appid": "38740",
         "branchid": "public",
         "controller_support": "full",
-        "name": "EDGE"
+        "installdir": "EDGE",
+        "name": "EDGE",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/EDGE/edge",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/38740/remote",
+            "USER_PROFILE_DIR/AppData/Local/Two Tribes/EDGE"
+        ]
     },
     "transform_file": "Edge (USA).exe"
 }

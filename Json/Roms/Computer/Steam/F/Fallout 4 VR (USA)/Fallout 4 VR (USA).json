@@ -14,7 +14,12 @@
     "steam": {
         "appid": "611660",
         "branchid": "public",
-        "name": "Fallout 4 VR"
+        "installdir": "Fallout 4 VR",
+        "name": "Fallout 4 VR",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Fallout4VR",
+            "USER_PROFILE_DIR/Documents/My Games/Fallout4VR/Saves"
+        ]
     },
     "transform_file": "Fallout 4 VR (USA).exe"
 }

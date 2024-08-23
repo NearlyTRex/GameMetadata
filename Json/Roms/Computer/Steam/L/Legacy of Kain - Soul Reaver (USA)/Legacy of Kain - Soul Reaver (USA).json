@@ -8,7 +8,14 @@
     "steam": {
         "appid": "224920",
         "branchid": "public",
-        "name": "Legacy of Kain: Soul Reaver"
+        "installdir": "Legacy of Kain Soul Reaver",
+        "keys": [
+            "HKEY_LOCAL_MACHINE/Software/Crystal Dynamics/Legacy of Kain: Soul Reaver/1.00.000"
+        ],
+        "name": "Legacy of Kain: Soul Reaver",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Legacy of Kain Soul Reaver/savegame.her"
+        ]
     },
     "transform_file": "Legacy of Kain - Soul Reaver (USA).exe"
 }

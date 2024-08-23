@@ -9,7 +9,14 @@
         "appid": "323580",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Jotun: Valhalla Edition"
+        "installdir": "Jotun",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Thunder Lotus Games/Jotun"
+        ],
+        "name": "Jotun: Valhalla Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Thunder Lotus Games/Jotun"
+        ]
     },
     "transform_file": "Jotun - Valhalla Edition (USA).exe"
 }

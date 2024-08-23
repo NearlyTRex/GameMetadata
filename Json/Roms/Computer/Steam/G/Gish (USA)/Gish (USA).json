@@ -9,7 +9,11 @@
         "appid": "9500",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Gish"
+        "installdir": "Gish",
+        "name": "Gish",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Gish"
+        ]
     },
     "transform_file": "Gish (USA).exe"
 }

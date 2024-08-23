@@ -9,7 +9,12 @@
         "appid": "21000",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae Batman\u2122: The Videogame"
+        "installdir": "Lego Batman",
+        "name": "LEGO\u00ae Batman\u2122: The Videogame",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Warner Bros. Interactive Entertainment/LEGO Batman",
+            "USER_PROFILE_DIR/AppData/Local/Warner Bros. Interactive Entertainment/LEGO Batman/Saved Games"
+        ]
     },
     "transform_file": "LEGO Batman - The Videogame (USA).exe"
 }

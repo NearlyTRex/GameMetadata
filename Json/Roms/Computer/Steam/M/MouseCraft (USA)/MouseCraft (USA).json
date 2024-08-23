@@ -15,7 +15,14 @@
         "appid": "252750",
         "branchid": "public",
         "controller_support": "full",
-        "name": "MouseCraft"
+        "installdir": "MouseCraft",
+        "name": "MouseCraft",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/MouseCraft/User Data/save.xml",
+            "STORE_INSTALL_DIR/steamapps/common/MouseCraft/User Data/settings.xml",
+            "USER_PROFILE_DIR/Documents/Crunching Koalas/MouseCraft/save.xml",
+            "USER_PROFILE_DIR/Documents/Crunching Koalas/MouseCraft/settings.xml"
+        ]
     },
     "sync": {
         "data": [

@@ -15,6 +15,10 @@
         "appid": "477160",
         "branchid": "public",
         "controller_support": "full",
+        "installdir": "Human Fall Flat",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/NoBrakesGames/Human"
+        ],
         "name": "Human Fall Flat"
     },
     "transform_file": "Human - Fall Flat (USA).exe"

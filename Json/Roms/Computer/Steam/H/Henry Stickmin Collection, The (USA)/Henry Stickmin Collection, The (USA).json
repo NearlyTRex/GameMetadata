@@ -14,7 +14,11 @@
     "steam": {
         "appid": "1089980",
         "branchid": "public",
-        "name": "The Henry Stickmin Collection"
+        "installdir": "HenryStickmin",
+        "name": "The Henry Stickmin Collection",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/com.innersloth.henry.HenryFlash/Local Store"
+        ]
     },
     "transform_file": "Henry Stickmin Collection, The (USA).exe"
 }

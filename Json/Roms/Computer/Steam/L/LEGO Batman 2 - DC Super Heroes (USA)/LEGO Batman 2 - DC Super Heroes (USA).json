@@ -9,7 +9,12 @@
         "appid": "213330",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes"
+        "installdir": "LEGO Batman 2",
+        "name": "LEGO\u00ae Batman\u2122 2: DC Super Heroes",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO Batman 2",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO Batman 2/SavedGames"
+        ]
     },
     "transform_file": "LEGO Batman 2 - DC Super Heroes (USA).exe"
 }

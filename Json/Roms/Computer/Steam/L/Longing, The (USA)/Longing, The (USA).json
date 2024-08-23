@@ -9,7 +9,14 @@
         "appid": "893850",
         "branchid": "public",
         "controller_support": "full",
-        "name": ":THE LONGING:"
+        "installdir": "The Longing",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Studio Seufz/The Longing"
+        ],
+        "name": ":THE LONGING:",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Studio Seufz/The Longing/saveData.txt"
+        ]
     },
     "transform_file": "Longing, The (USA).exe"
 }

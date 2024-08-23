@@ -9,7 +9,12 @@
         "appid": "278570",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Labyrinthine Dreams"
+        "installdir": "Labyrinthine Dreams",
+        "name": "Labyrinthine Dreams",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Labyrinthine Dreams/AutoSave.rvdata2",
+            "STORE_INSTALL_DIR/steamapps/common/Labyrinthine Dreams/Game.ini"
+        ]
     },
     "transform_file": "Labyrinthine Dreams (USA).exe"
 }

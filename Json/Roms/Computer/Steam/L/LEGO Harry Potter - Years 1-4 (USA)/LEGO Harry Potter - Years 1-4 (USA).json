@@ -11,7 +11,12 @@
         "appid": "21130",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae Harry Potter: Years 1-4"
+        "installdir": "LEGO Harry Potter",
+        "name": "LEGO\u00ae Harry Potter: Years 1-4",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/WB Games/LEGO\u00ae Harry Potter\u2122/SavedGames",
+            "USER_PROFILE_DIR/AppData/Roaming/WB Games/LEGO\u00ae Harry Potter\u2122/pcconfig.txt"
+        ]
     },
     "transform_file": "LEGO Harry Potter - Years 1-4 (USA).exe"
 }

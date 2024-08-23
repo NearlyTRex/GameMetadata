@@ -8,7 +8,11 @@
     "steam": {
         "appid": "343820",
         "branchid": "public",
-        "name": "Deja Vu: MacVenture Series"
+        "installdir": "Deja Vu MacVenture Series",
+        "name": "Deja Vu: MacVenture Series",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/zojoi"
+        ]
     },
     "transform_file": "MacVenture Series - Deja Vu I (USA).exe"
 }

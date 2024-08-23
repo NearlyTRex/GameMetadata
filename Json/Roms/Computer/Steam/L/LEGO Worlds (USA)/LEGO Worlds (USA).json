@@ -9,7 +9,12 @@
         "appid": "332310",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae Worlds"
+        "installdir": "LEGO Worlds",
+        "name": "LEGO\u00ae Worlds",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGOWorlds",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGOWorlds/SavedGames"
+        ]
     },
     "transform_file": "LEGO Worlds (USA).exe"
 }

@@ -13,7 +13,12 @@
         "appid": "405310",
         "branchid": "public",
         "controller_support": "full",
-        "name": "LEGO\u00ae MARVEL's Avengers"
+        "installdir": "LEGO Marvel's Avengers",
+        "name": "LEGO\u00ae MARVEL's Avengers",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/405310/remote/savedgames",
+            "USER_PROFILE_DIR/AppData/Roaming/Warner Bros. Interactive Entertainment/LEGO MARVEL's Avengers"
+        ]
     },
     "transform_file": "LEGO Marvel's Avengers (USA).exe"
 }

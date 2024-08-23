@@ -3,6 +3,14 @@
         "appid": "715560",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Eastshade"
+        "installdir": "Eastshade",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Eastshade Studios/Eastshade"
+        ],
+        "name": "Eastshade",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Eastshade Studios/Eastshade/*.BIN",
+            "USER_PROFILE_DIR/AppData/LocalLow/Eastshade Studios/Eastshade/GraphicsSettings.txt"
+        ]
     }
 }

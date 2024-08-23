@@ -12,7 +12,12 @@
         "appid": "611670",
         "branchid": "public",
         "controller_support": "full",
-        "name": "The Elder Scrolls V: Skyrim VR"
+        "installdir": "SkyrimVR",
+        "name": "The Elder Scrolls V: Skyrim VR",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Skyrim VR",
+            "USER_PROFILE_DIR/Documents/My Games/Skyrim VR/Saves"
+        ]
     },
     "transform_file": "Elder Scrolls V, The - Skyrim - VR (USA).exe"
 }

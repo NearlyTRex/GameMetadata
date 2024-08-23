@@ -15,7 +15,11 @@
         "appid": "1087440",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Jay and Silent Bob: Mall Brawl"
+        "installdir": "Jay and Silent Bob Mall Brawl",
+        "name": "Jay and Silent Bob: Mall Brawl",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Interabang Entertainment/Jay and Silent Bob_ Mall Brawl/jasb_SRAM.bin"
+        ]
     },
     "transform_file": "Jay and Silent Bob - Mall Brawl (USA).exe"
 }
