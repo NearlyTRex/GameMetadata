@@ -26,6 +26,8 @@
     "steam": {
         "appid": "34270",
         "branchid": "public",
+        "builddate": "1591104562",
+        "buildid": "5109841",
         "controller_support": "full",
         "installdir": "Sega Classics",
         "keys": [
@@ -34,6 +36,7 @@
         "name": "SEGA Mega Drive & Genesis Classics",
         "paths": [
             "USER_PROFILE_DIR/Documents/SEGA Genesis Classics",
+            "USER_PROFILE_DIR/Documents/SEGA Genesis Classics Collection/setup.dat",
             "USER_PROFILE_DIR/Documents/SEGA Mega Drive Classics"
         ]
     },

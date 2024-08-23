@@ -8,11 +8,13 @@
     "steam": {
         "appid": "235210",
         "branchid": "public",
+        "builddate": "1701651959",
+        "buildid": "12707329",
         "controller_support": "full",
         "installdir": "Strider",
         "name": "Strider",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/Strider/*.cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Strider",
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/235210/local/vars_pc.cfg",
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/235210/remote"
         ]

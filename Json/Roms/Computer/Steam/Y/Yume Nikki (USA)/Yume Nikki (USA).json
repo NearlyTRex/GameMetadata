@@ -5,11 +5,13 @@
     "steam": {
         "appid": "650700",
         "branchid": "public",
+        "builddate": "1522829979",
+        "buildid": "2658293",
         "controller_support": "partial",
         "installdir": "Yume Nikki",
         "name": "Yume Nikki",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/Yume Nikki/yumenikki/Save*.lsd"
+            "STORE_INSTALL_DIR/steamapps/common/Yume Nikki/yumenikki"
         ]
     },
     "transform_file": "Yume Nikki (USA).7z"

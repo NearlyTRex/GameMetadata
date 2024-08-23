@@ -8,6 +8,7 @@
     "steam": {
         "appid": "234920",
         "branchid": "public",
+        "buildid": "658946",
         "controller_support": "full",
         "installdir": "Dyscourse",
         "keys": [
@@ -16,7 +17,7 @@
         "name": "Dyscourse",
         "paths": [
             "USER_PROFILE_DIR/AppData/LocalLow/Owlchemy Labs/Dyscourse/DyscourseSettings.xml",
-            "USER_PROFILE_DIR/AppData/LocalLow/Owlchemy Labs/Dyscourse/User/*.save"
+            "USER_PROFILE_DIR/AppData/LocalLow/Owlchemy Labs/Dyscourse/User"
         ]
     },
     "transform_file": "Dyscourse (USA).exe"

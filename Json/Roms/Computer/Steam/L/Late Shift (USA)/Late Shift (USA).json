@@ -26,6 +26,8 @@
     "steam": {
         "appid": "584980",
         "branchid": "public",
+        "builddate": "1695813119",
+        "buildid": "12295368",
         "controller_support": "full",
         "installdir": "Late Shift",
         "keys": [
@@ -33,9 +35,9 @@
         ],
         "name": "Late Shift",
         "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Wales Interactive/Late Shift/Unity",
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/584980/remote/GameData",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/584980/remote/OptionsData"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/584980/remote/OptionsData",
+            "USER_PROFILE_DIR/AppData/LocalLow/Wales Interactive/Late Shift/Unity"
         ]
     },
     "transform_file": "Late Shift (USA).exe"

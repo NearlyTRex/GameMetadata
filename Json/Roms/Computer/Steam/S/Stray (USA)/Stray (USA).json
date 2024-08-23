@@ -10,11 +10,14 @@
     "steam": {
         "appid": "1332010",
         "branchid": "public",
+        "builddate": "1701794357",
+        "buildid": "12863654",
         "controller_support": "full",
         "installdir": "Stray",
         "name": "Stray",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Hk_project/Saved"
+            "USER_PROFILE_DIR/AppData/Local/Hk_project/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/Hk_project/Saved/SaveGames"
         ]
     },
     "transform_file": "Stray (USA).exe"

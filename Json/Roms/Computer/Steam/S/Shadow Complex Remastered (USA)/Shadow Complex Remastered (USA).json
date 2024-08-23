@@ -14,13 +14,15 @@
     "steam": {
         "appid": "385560",
         "branchid": "public",
+        "builddate": "1470279673",
+        "buildid": "1261634",
         "controller_support": "full",
         "installdir": "Shadow Complex Remastered",
         "name": "Shadow Complex Remastered",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/385560/remote",
-            "USER_PROFILE_DIR/Documents/My Games/Shadow Complex/EmpireGame/STORE_USER_ID",
-            "USER_PROFILE_DIR/Documents/My Games/Shadow Complex/EmpireGame/Config"
+            "USER_PROFILE_DIR/Documents/My Games/Shadow Complex/EmpireGame/Config",
+            "USER_PROFILE_DIR/Documents/My Games/Shadow Complex/EmpireGame/STORE_USER_ID"
         ]
     },
     "transform_file": "Shadow Complex Remastered (USA).exe"

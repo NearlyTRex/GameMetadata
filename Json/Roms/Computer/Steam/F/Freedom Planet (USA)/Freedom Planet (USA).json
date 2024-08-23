@@ -24,16 +24,14 @@
     "steam": {
         "appid": "248310",
         "branchid": "public",
+        "builddate": "1535650945",
+        "buildid": "3078878",
         "controller_support": "full",
         "installdir": "Freedom Planet",
         "name": "Freedom Planet",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/Freedom Planet/*.cfg",
-            "STORE_INSTALL_DIR/steamapps/common/Freedom Planet/file*.sav",
-            "STORE_INSTALL_DIR/steamapps/common/Freedom Planet/records.dat",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/248310/remote/*.cfg",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/248310/remote/file*.sav",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/248310/remote/records.dat"
+            "STORE_INSTALL_DIR/steamapps/common/Freedom Planet",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/248310/remote"
         ]
     },
     "sync": {

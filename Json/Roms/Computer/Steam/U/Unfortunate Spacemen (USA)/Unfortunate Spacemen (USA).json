@@ -10,11 +10,14 @@
     "steam": {
         "appid": "408900",
         "branchid": "public",
+        "builddate": "1710021486",
+        "buildid": "13643430",
         "controller_support": "partial",
         "installdir": "Unfortunate Spacemen",
         "name": "Unfortunate Spacemen",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/UnfortunateSpacemen/Saved"
+            "USER_PROFILE_DIR/AppData/Local/UnfortunateSpacemen/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/UnfortunateSpacemen/Saved/SaveGames"
         ]
     },
     "transform_file": "Unfortunate Spacemen (USA).exe"

@@ -24,12 +24,16 @@
     "steam": {
         "appid": "275390",
         "branchid": "public",
+        "builddate": "1460470759",
+        "buildid": "1065187",
         "controller_support": "full",
         "installdir": "DrinkBox_Game4",
         "name": "Guacamelee! Super Turbo Championship Edition",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/275390/remote/SAVE.DAT",
-            "USER_PROFILE_DIR/Documents/GuacameleeSTCE/LOCALSETTINGS.DAT"
+            "USER_PROFILE_DIR/Documents/GuacameleeSTCE/LOCALSETTINGS.DAT",
+            "USER_PROFILE_DIR/Documents/GuacameleeSTCE_EGS/LOCALSETTINGS.DAT",
+            "USER_PROFILE_DIR/Documents/GuacameleeSTCE_EGS/SAVE.DAT"
         ]
     },
     "transform_file": "Guacamelee! Super Turbo Championship Edition (USA).exe"

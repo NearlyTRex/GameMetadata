@@ -20,11 +20,14 @@
     "steam": {
         "appid": "1577120",
         "branchid": "public",
+        "builddate": "1684425898",
+        "buildid": "11105655",
         "controller_support": "full",
         "installdir": "The Quarry",
         "name": "The Quarry",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/TheQuarry/Saved"
+            "USER_PROFILE_DIR/AppData/Local/TheQuarry/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/TheQuarry/Saved/SaveGames"
         ]
     },
     "transform_file": "Quarry, The (USA).exe"

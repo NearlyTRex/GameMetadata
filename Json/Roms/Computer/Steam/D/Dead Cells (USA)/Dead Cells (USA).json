@@ -24,16 +24,14 @@
     "steam": {
         "appid": "588650",
         "branchid": "public",
-        "builddate": "1687274871",
-        "buildid": "11516441",
+        "builddate": "1724047461",
+        "buildid": "12584094",
         "controller_support": "full",
         "installdir": "Dead Cells",
         "name": "Dead Cells",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Dead Cells/save",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/588650/remote/customGameData_*.json",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/588650/remote/dc_options.json",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/588650/remote/user_*.dat"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/588650/remote"
         ]
     },
     "transform_file": "Dead Cells (USA).exe"

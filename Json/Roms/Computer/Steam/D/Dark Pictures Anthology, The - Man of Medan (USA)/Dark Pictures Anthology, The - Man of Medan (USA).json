@@ -41,7 +41,8 @@
         "installdir": "The Dark Pictures Anthology - Man of Medan",
         "name": "The Dark Pictures Anthology: Man of Medan",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/ManOfMedan/Saved"
+            "USER_PROFILE_DIR/AppData/Local/ManOfMedan/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/ManOfMedan/Saved/SaveGames"
         ]
     },
     "transform_file": "Dark Pictures Anthology, The - Man of Medan (USA).exe"

@@ -8,11 +8,12 @@
     "steam": {
         "appid": "238070",
         "branchid": "public",
+        "builddate": "1501052046",
+        "buildid": "1987572",
         "installdir": "Shadow Warrior Original",
         "name": "Shadow Warrior Classic (1997)",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/Shadow Warrior Original/GAME*.SAV",
-            "STORE_INSTALL_DIR/steamapps/common/Shadow Warrior Original/SW.CFG"
+            "STORE_INSTALL_DIR/steamapps/common/Shadow Warrior Original"
         ]
     },
     "transform_file": "Shadow Warrior Classic (USA).exe"

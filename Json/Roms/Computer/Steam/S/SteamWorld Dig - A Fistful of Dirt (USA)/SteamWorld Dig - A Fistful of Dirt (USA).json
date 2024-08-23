@@ -24,14 +24,12 @@
     "steam": {
         "appid": "252410",
         "branchid": "public",
+        "buildid": "382752",
         "controller_support": "full",
         "installdir": "SteamWorld Dig",
         "name": "SteamWorld Dig",
         "paths": [
-            "USER_PROFILE_DIR/Documents/My Games/SteamWorld Dig/*.cfg",
-            "USER_PROFILE_DIR/Documents/My Games/SteamWorld Dig/*.xml",
-            "USER_PROFILE_DIR/Documents/My Games/SteamWorld Dig/savegame_*.dat",
-            "USER_PROFILE_DIR/Documents/My Games/SteamWorld Dig/settings.xml"
+            "USER_PROFILE_DIR/Documents/My Games/SteamWorld Dig"
         ]
     },
     "transform_file": "SteamWorld Dig - A Fistful of Dirt (USA).exe"

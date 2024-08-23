@@ -8,11 +8,12 @@
     "steam": {
         "appid": "71240",
         "branchid": "public",
+        "buildid": "403155",
         "controller_support": "partial",
         "installdir": "SEGA Bass Fishing",
         "name": "SEGA Bass Fishing",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/SEGA Bass Fishing/*.xml",
+            "STORE_INSTALL_DIR/steamapps/common/SEGA Bass Fishing",
             "USER_PROFILE_DIR/Documents/SEGA/Dreamcast Collection/SEGA Bass Fishing"
         ]
     },

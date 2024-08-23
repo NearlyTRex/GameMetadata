@@ -17,11 +17,14 @@
     "steam": {
         "appid": "1096570",
         "branchid": "public",
+        "builddate": "1646933824",
+        "buildid": "8260563",
         "controller_support": "full",
         "installdir": "SongOfHorror",
         "name": "SONG OF HORROR",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/SongOfHorror/Saved"
+            "USER_PROFILE_DIR/AppData/Local/SongOfHorror/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/SongOfHorror/Saved/SaveGames"
         ]
     },
     "transform_file": "Song of Horror (USA).exe"

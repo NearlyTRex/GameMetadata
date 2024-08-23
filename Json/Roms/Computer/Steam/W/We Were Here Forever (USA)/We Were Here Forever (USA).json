@@ -11,12 +11,14 @@
     "steam": {
         "appid": "1341290",
         "branchid": "public",
+        "builddate": "1705058979",
+        "buildid": "13135378",
         "controller_support": "partial",
         "installdir": "We Were Here Forever",
         "name": "We Were Here Forever",
         "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Total Mayhem Games/We Were Here Forever/Data",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1341290"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1341290",
+            "USER_PROFILE_DIR/AppData/LocalLow/Total Mayhem Games/We Were Here Forever/Data"
         ]
     },
     "transform_file": "We Were Here Forever (USA).exe"

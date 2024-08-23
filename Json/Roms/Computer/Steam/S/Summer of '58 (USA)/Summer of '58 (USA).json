@@ -10,11 +10,14 @@
     "steam": {
         "appid": "1609080",
         "branchid": "public",
+        "builddate": "1677136640",
+        "buildid": "8084293",
         "controller_support": "partial",
         "installdir": "Summer of '58",
         "name": "Summer of '58",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Summer_of_58/Saved"
+            "USER_PROFILE_DIR/AppData/Local/Summer_of_58/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/Summer_of_58/Saved/SaveGames"
         ]
     },
     "transform_file": "Summer of '58 (USA).exe"

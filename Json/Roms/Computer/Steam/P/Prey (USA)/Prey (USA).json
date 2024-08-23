@@ -22,11 +22,14 @@
     "steam": {
         "appid": "480490",
         "branchid": "public",
+        "builddate": "1595512832",
+        "buildid": "5297220",
         "controller_support": "full",
         "installdir": "Prey",
         "name": "Prey",
         "paths": [
-            "USER_PROFILE_DIR/Saved Games/Arkane Studios/Prey"
+            "USER_PROFILE_DIR/Saved Games/Arkane Studios/Prey",
+            "USER_PROFILE_DIR/Saved Games/Arkane Studios/Prey_Epic"
         ]
     },
     "transform_file": "Prey (USA).exe"

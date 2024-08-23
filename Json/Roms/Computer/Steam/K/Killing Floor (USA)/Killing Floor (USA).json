@@ -8,10 +8,12 @@
     "steam": {
         "appid": "1250",
         "branchid": "public",
+        "builddate": "1461081424",
+        "buildid": "1074376",
         "installdir": "KillingFloor",
         "name": "Killing Floor",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/KillingFloor/System/*.ini"
+            "STORE_INSTALL_DIR/steamapps/common/KillingFloor/System"
         ]
     },
     "transform_file": "Killing Floor (USA).exe"

@@ -41,7 +41,8 @@
         "installdir": "The Dark Pictures Anthology - House of Ashes",
         "name": "The Dark Pictures Anthology: House of Ashes",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/HouseOfAshes/Saved"
+            "USER_PROFILE_DIR/AppData/Local/HouseOfAshes/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/HouseOfAshes/Saved/SaveGames"
         ]
     },
     "transform_file": "Dark Pictures Anthology, The - House of Ashes (USA).exe"

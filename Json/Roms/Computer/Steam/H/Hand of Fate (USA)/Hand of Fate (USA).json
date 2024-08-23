@@ -8,6 +8,8 @@
     "steam": {
         "appid": "266510",
         "branchid": "public",
+        "builddate": "1540861304",
+        "buildid": "3255833",
         "controller_support": "full",
         "installdir": "Hand of Fate",
         "keys": [
@@ -15,8 +17,8 @@
         ],
         "name": "Hand of Fate",
         "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Defiant Development/Hand of Fate/player.profile",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/266510/remote/HandOfFate/player.profile"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/266510/remote/HandOfFate/player.profile",
+            "USER_PROFILE_DIR/AppData/LocalLow/Defiant Development/Hand of Fate/player.profile"
         ]
     },
     "transform_file": "Hand of Fate (USA).exe"

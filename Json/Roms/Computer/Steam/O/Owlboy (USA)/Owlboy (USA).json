@@ -8,11 +8,14 @@
     "steam": {
         "appid": "115800",
         "branchid": "public",
+        "builddate": "1653491910",
+        "buildid": "8807665",
         "controller_support": "full",
         "installdir": "Owlboy",
         "name": "Owlboy",
         "paths": [
-            "USER_PROFILE_DIR/Saved Games/Owlboy"
+            "USER_PROFILE_DIR/Saved Games/Owlboy/Config",
+            "USER_PROFILE_DIR/Saved Games/Owlboy/Saves"
         ]
     },
     "transform_file": "Owlboy (USA).exe"

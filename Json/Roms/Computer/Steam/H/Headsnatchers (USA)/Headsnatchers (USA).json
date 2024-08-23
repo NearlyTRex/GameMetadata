@@ -8,11 +8,14 @@
     "steam": {
         "appid": "797410",
         "branchid": "public",
+        "builddate": "1573146507",
+        "buildid": "4170654",
         "controller_support": "full",
         "installdir": "HeadSnatchers",
         "name": "Headsnatchers",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved"
+            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved/Config/WindowsNoEditor/Engine.ini",
+            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved/SaveGames"
         ]
     },
     "transform_file": "Headsnatchers (USA).exe"

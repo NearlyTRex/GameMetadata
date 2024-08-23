@@ -8,11 +8,14 @@
     "steam": {
         "appid": "439190",
         "branchid": "public",
+        "builddate": "1538764826",
+        "buildid": "3032916",
         "controller_support": "full",
         "installdir": "Stories Path of Destinies",
         "name": "Stories: The Path of Destinies",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Stories/Saved"
+            "USER_PROFILE_DIR/AppData/Local/Stories/Saved/Config/WindowsNoEditor",
+            "USER_PROFILE_DIR/AppData/Local/Stories/Saved/SaveGames"
         ]
     },
     "transform_file": "Stories - The Path of Destinies (USA).exe"

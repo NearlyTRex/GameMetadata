@@ -8,11 +8,13 @@
     "steam": {
         "appid": "290040",
         "branchid": "public",
+        "builddate": "1528261417",
+        "buildid": "2837456",
         "controller_support": "partial",
         "installdir": "Retro Game Crunch",
         "name": "Retro Game Crunch",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Roaming/com.retrogamecrunch.*"
+            "USER_PROFILE_DIR/AppData/Roaming"
         ]
     },
     "transform_file": "Retro Game Crunch (USA).exe"

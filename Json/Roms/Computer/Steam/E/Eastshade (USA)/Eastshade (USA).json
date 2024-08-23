@@ -2,6 +2,8 @@
     "steam": {
         "appid": "715560",
         "branchid": "public",
+        "builddate": "1687845856",
+        "buildid": "11566145",
         "controller_support": "full",
         "installdir": "Eastshade",
         "keys": [
@@ -9,8 +11,7 @@
         ],
         "name": "Eastshade",
         "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Eastshade Studios/Eastshade/*.BIN",
-            "USER_PROFILE_DIR/AppData/LocalLow/Eastshade Studios/Eastshade/GraphicsSettings.txt"
+            "USER_PROFILE_DIR/AppData/LocalLow/Eastshade Studios/Eastshade"
         ]
     }
 }
