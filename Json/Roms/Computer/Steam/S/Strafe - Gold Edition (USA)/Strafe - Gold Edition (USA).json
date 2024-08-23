@@ -9,7 +9,11 @@
         "appid": "442780",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "STRAFE: Gold Edition"
+        "installdir": "STRAFE",
+        "name": "STRAFE: Gold Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Pixel Titans/Strafe"
+        ]
     },
     "transform_file": "Strafe - Gold Edition (USA).exe"
 }

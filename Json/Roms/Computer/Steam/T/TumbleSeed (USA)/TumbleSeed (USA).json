@@ -9,7 +9,14 @@
         "appid": "457890",
         "branchid": "public",
         "controller_support": "full",
-        "name": "TumbleSeed"
+        "installdir": "TumbleSeed",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/StaticOceans/TumbleSeed"
+        ],
+        "name": "TumbleSeed",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/457890/remote/playersavedata.tumbleseed"
+        ]
     },
     "transform_file": "TumbleSeed (USA).exe"
 }

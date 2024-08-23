@@ -26,7 +26,12 @@
         "appid": "21690",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Resident Evil 5"
+        "installdir": "Resident Evil 5",
+        "name": "Resident Evil 5",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/21690/remote",
+            "USER_PROFILE_DIR/Documents/capcom/RESIDENT EVIL 5"
+        ]
     },
     "transform_file": "Resident Evil 5 (USA).exe"
 }

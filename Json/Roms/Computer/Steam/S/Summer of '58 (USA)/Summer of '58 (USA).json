@@ -11,7 +11,11 @@
         "appid": "1609080",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Summer of '58"
+        "installdir": "Summer of '58",
+        "name": "Summer of '58",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Summer_of_58/Saved"
+        ]
     },
     "transform_file": "Summer of '58 (USA).exe"
 }

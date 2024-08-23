@@ -15,7 +15,16 @@
         "appid": "1049410",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Superliminal"
+        "installdir": "Superliminal",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/PillowCastle/Superliminal",
+            "HKEY_CURRENT_USER/Software/PillowCastle/SuperliminalSteam"
+        ],
+        "name": "Superliminal",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/PillowCastle/Superliminal",
+            "USER_PROFILE_DIR/AppData/LocalLow/PillowCastle/SuperliminalSteam"
+        ]
     },
     "transform_file": "Superliminal (USA).exe"
 }

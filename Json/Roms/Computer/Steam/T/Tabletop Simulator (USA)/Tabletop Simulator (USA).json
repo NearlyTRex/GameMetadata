@@ -9,7 +9,14 @@
         "appid": "286160",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Tabletop Simulator"
+        "installdir": "Tabletop Simulator",
+        "name": "Tabletop Simulator",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Tabletop Simulator/Tabletop Simulator_Data/Mods",
+            "USER_PROFILE_DIR/Documents/My Games/Tabletop Simulator/Graphics.json",
+            "USER_PROFILE_DIR/Documents/My Games/Tabletop Simulator/Mods",
+            "USER_PROFILE_DIR/Documents/My Games/Tabletop Simulator/Saves"
+        ]
     },
     "transform_file": "Tabletop Simulator (USA).exe"
 }

@@ -29,7 +29,11 @@
     "steam": {
         "appid": "1222670",
         "branchid": "public",
-        "name": "The Sims\u2122 4"
+        "installdir": "The Sims 4",
+        "name": "The Sims\u2122 4",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Electronic Arts/The Sims 4"
+        ]
     },
     "transform_file": "Sims 4, The (USA).exe"
 }

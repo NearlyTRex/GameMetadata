@@ -11,7 +11,12 @@
         "appid": "758330",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Shenmue I & II"
+        "installdir": "SMLaunch",
+        "name": "Shenmue I & II",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/758330/remote/sm1saves",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/758330/remote/sm2saves"
+        ]
     },
     "transform_file": "Shenmue I & II (USA).exe"
 }

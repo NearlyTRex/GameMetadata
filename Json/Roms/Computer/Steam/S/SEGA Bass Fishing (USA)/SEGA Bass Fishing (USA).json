@@ -9,7 +9,12 @@
         "appid": "71240",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "SEGA Bass Fishing"
+        "installdir": "SEGA Bass Fishing",
+        "name": "SEGA Bass Fishing",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/SEGA Bass Fishing/*.xml",
+            "USER_PROFILE_DIR/Documents/SEGA/Dreamcast Collection/SEGA Bass Fishing"
+        ]
     },
     "transform_file": "SEGA Bass Fishing (USA).exe"
 }

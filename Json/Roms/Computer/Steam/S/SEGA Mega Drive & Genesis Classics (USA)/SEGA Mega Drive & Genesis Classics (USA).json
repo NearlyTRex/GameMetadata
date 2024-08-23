@@ -27,7 +27,15 @@
         "appid": "34270",
         "branchid": "public",
         "controller_support": "full",
-        "name": "SEGA Mega Drive & Genesis Classics"
+        "installdir": "Sega Classics",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Sega/SEGA Genesis & Mega Drive Classics"
+        ],
+        "name": "SEGA Mega Drive & Genesis Classics",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/SEGA Genesis Classics",
+            "USER_PROFILE_DIR/Documents/SEGA Mega Drive Classics"
+        ]
     },
     "transform_file": "SEGA Mega Drive & Genesis Classics (USA).exe"
 }

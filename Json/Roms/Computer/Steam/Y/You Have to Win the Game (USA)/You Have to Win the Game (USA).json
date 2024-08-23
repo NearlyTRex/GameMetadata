@@ -6,7 +6,12 @@
         "appid": "286100",
         "branchid": "public",
         "controller_support": "full",
-        "name": "You Have to Win the Game"
+        "installdir": "You Have to Win the Game",
+        "name": "You Have to Win the Game",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/You Have to Win the Game/Config",
+            "USER_PROFILE_DIR/Documents/My Games/You Have to Win the Game/Saves"
+        ]
     },
     "transform_file": "You Have to Win the Game (USA).7z"
 }

@@ -9,7 +9,12 @@
         "appid": "221910",
         "branchid": "public",
         "controller_support": "full",
-        "name": "The Stanley Parable"
+        "installdir": "The Stanley Parable",
+        "name": "The Stanley Parable",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/The Stanley Parable/thestanleyparable/cfg",
+            "STORE_INSTALL_DIR/steamapps/common/The Stanley Parable/thestanleyparable/save"
+        ]
     },
     "transform_file": "Stanley Parable, The (USA).exe"
 }

@@ -9,7 +9,11 @@
         "appid": "200940",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Sonic CD"
+        "installdir": "Sonic CD",
+        "name": "Sonic CD",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/200940"
+        ]
     },
     "transform_file": "Sonic CD (USA).exe"
 }

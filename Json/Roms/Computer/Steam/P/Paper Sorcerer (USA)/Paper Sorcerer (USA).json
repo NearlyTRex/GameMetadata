@@ -8,7 +8,14 @@
     "steam": {
         "appid": "263560",
         "branchid": "public",
-        "name": "Paper Sorcerer"
+        "installdir": "PaperSorcerer",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/UltraRunaway/Paper Sorcerer"
+        ],
+        "name": "Paper Sorcerer",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/UltraRunaway/Paper Sorcerer"
+        ]
     },
     "transform_file": "Paper Sorcerer (USA).exe"
 }

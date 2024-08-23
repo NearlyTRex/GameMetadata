@@ -9,7 +9,15 @@
         "appid": "301970",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Screencheat"
+        "installdir": "Screencheat",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Samurai Punk/SCREENCHEAT"
+        ],
+        "name": "Screencheat",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Screencheat/profiles/profiles.dat",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/301970/remote/profiles/profiles.dat"
+        ]
     },
     "transform_file": "Screencheat (USA).exe"
 }

@@ -8,7 +8,14 @@
     "steam": {
         "appid": "523210",
         "branchid": "public",
-        "name": "A Normal Lost Phone"
+        "installdir": "A Normal Lost Phone",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Accidental Queens/A Normal Lost Phone"
+        ],
+        "name": "A Normal Lost Phone",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Accidental Queens/A Normal Lost Phone/save"
+        ]
     },
     "transform_file": "Normal Lost Phone, A (USA).exe"
 }

@@ -8,7 +8,14 @@
     "steam": {
         "appid": "286380",
         "branchid": "public",
-        "name": "Strata"
+        "installdir": "Strata",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Graveck/Strata"
+        ],
+        "name": "Strata",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/286380/remote/strata.prefs"
+        ]
     },
     "transform_file": "Strata (USA).exe"
 }

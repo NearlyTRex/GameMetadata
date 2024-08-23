@@ -11,7 +11,11 @@
         "appid": "1332010",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Stray"
+        "installdir": "Stray",
+        "name": "Stray",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Hk_project/Saved"
+        ]
     },
     "transform_file": "Stray (USA).exe"
 }

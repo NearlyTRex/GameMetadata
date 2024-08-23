@@ -3,6 +3,10 @@
         "appid": "238960",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Path of Exile"
+        "installdir": "Path of Exile",
+        "name": "Path of Exile",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Path of Exile"
+        ]
     }
 }

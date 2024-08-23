@@ -24,7 +24,12 @@
     "steam": {
         "appid": "648800",
         "branchid": "public",
-        "name": "Raft"
+        "installdir": "Raft",
+        "name": "Raft",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Redbeet Interactive/Raft/User/STORE_USER_ID/Player/Settings.rgd",
+            "USER_PROFILE_DIR/AppData/LocalLow/Redbeet Interactive/Raft/User/STORE_USER_ID/World"
+        ]
     },
     "transform_file": "Raft (USA).exe"
 }

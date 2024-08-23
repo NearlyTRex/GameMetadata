@@ -9,7 +9,11 @@
         "appid": "866440",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "What Never Was"
+        "installdir": "What Never Was",
+        "name": "What Never Was",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/WhatNeverWas/Saved"
+        ]
     },
     "transform_file": "What Never Was (USA).exe"
 }

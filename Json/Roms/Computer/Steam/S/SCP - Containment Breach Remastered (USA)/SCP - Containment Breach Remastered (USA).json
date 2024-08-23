@@ -14,7 +14,11 @@
     "steam": {
         "appid": "2090230",
         "branchid": "public",
-        "name": "SCP: Containment Breach Remastered"
+        "installdir": "SCPCBR",
+        "name": "SCP: Containment Breach Remastered",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/SCPCBR/Saves"
+        ]
     },
     "transform_file": "SCP - Containment Breach Remastered (USA).exe"
 }

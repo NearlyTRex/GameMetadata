@@ -17,7 +17,11 @@
         "appid": "1290000",
         "branchid": "public",
         "controller_support": "full",
-        "name": "PowerWash Simulator"
+        "installdir": "PowerWash Simulator",
+        "name": "PowerWash Simulator",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/FuturLab/PowerWash Simulator/SaveData"
+        ]
     },
     "transform_file": "PowerWash Simulator (USA).exe"
 }

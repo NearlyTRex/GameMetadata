@@ -9,6 +9,10 @@
         "appid": "336240",
         "branchid": "public",
         "controller_support": "full",
+        "installdir": "Typoman",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Brainseed Factory/Typoman"
+        ],
         "name": "Typoman"
     },
     "transform_file": "Typoman (USA).exe"

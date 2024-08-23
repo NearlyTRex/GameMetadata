@@ -23,7 +23,12 @@
     "steam": {
         "appid": "32400",
         "branchid": "public",
-        "name": "STAR WARS\u2122: Dark Forces"
+        "installdir": "Dark Forces",
+        "name": "STAR WARS\u2122: Dark Forces",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Dark Forces/DARKPILO.CFG",
+            "STORE_INSTALL_DIR/steamapps/common/Dark Forces/JEDI.CFG"
+        ]
     },
     "sync": {
         "data": [

@@ -17,7 +17,14 @@
     "steam": {
         "appid": "47890",
         "branchid": "public",
-        "name": "The Sims\u2122 3"
+        "installdir": "The Sims 3",
+        "name": "The Sims\u2122 3",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/The Sims 3/Game/Bin/Default.ini",
+            "STORE_INSTALL_DIR/steamapps/common/The Sims 3/Game/Bin/GraphicsRules.sgr",
+            "STORE_INSTALL_DIR/steamapps/common/The Sims 3/Game/Bin/Sims3.ini",
+            "USER_PROFILE_DIR/Documents/Electronic Arts/The Sims 3/Saves"
+        ]
     },
     "transform_file": "Sims 3, The (USA).exe"
 }

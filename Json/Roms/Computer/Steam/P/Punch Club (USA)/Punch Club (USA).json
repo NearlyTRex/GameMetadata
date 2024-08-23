@@ -8,7 +8,14 @@
     "steam": {
         "appid": "394310",
         "branchid": "public",
-        "name": "Punch Club"
+        "installdir": "Punch Club",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Lazy Bear Games/Punch Club"
+        ],
+        "name": "Punch Club",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Lazy Bear Games/Punch Club"
+        ]
     },
     "transform_file": "Punch Club (USA).exe"
 }

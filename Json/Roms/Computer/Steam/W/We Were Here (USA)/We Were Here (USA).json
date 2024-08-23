@@ -15,7 +15,14 @@
         "appid": "582500",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "We Were Here"
+        "installdir": "We Were Here",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Total Mayhem Games/We Were Here"
+        ],
+        "name": "We Were Here",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/We Were Here/Saves"
+        ]
     },
     "sync": {
         "data": [

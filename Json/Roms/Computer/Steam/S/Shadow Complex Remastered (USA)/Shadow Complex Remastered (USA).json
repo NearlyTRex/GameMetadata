@@ -15,7 +15,13 @@
         "appid": "385560",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Shadow Complex Remastered"
+        "installdir": "Shadow Complex Remastered",
+        "name": "Shadow Complex Remastered",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/385560/remote",
+            "USER_PROFILE_DIR/Documents/My Games/Shadow Complex/EmpireGame/STORE_USER_ID",
+            "USER_PROFILE_DIR/Documents/My Games/Shadow Complex/EmpireGame/Config"
+        ]
     },
     "transform_file": "Shadow Complex Remastered (USA).exe"
 }

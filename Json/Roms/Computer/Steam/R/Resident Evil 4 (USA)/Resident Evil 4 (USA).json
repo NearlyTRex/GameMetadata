@@ -28,7 +28,13 @@
         "appid": "254700",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Resident Evil 4 (2005)"
+        "installdir": "Resident Evil 4",
+        "name": "Resident Evil 4 (2005)",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Resident Evil 4/BIO4/input.ini",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/254700/remote",
+            "USER_PROFILE_DIR/Documents/My Games/Capcom/RE4"
+        ]
     },
     "transform_file": "Resident Evil 4 (USA).exe"
 }

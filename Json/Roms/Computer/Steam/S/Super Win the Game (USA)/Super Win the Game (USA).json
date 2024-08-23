@@ -9,7 +9,12 @@
         "appid": "310700",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Super Win the Game"
+        "installdir": "Super Win the Game",
+        "name": "Super Win the Game",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Super Win the Game/Config",
+            "USER_PROFILE_DIR/Documents/My Games/Super Win the Game/Saves"
+        ]
     },
     "transform_file": "Super Win the Game (USA).exe"
 }

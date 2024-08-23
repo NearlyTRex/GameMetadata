@@ -30,7 +30,7 @@
         "installdir": "DisneyAfternoon",
         "name": "The Disney Afternoon Collection",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Roaming/DisneyAfternoon/**/*.sav"
+            "USER_PROFILE_DIR/AppData/Roaming/DisneyAfternoon"
         ]
     },
     "transform_file": "Disney Afternoon Collection, The (USA).exe"

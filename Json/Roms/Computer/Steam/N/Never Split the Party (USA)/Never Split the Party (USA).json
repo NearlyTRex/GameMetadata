@@ -25,7 +25,11 @@
         "appid": "711810",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Never Split the Party"
+        "installdir": "Never Split the Party",
+        "name": "Never Split the Party",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Never Split the Party"
+        ]
     },
     "transform_file": "Never Split the Party (USA).exe"
 }

@@ -9,7 +9,12 @@
         "appid": "201420",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Toki Tori 2+"
+        "installdir": "Toki Tori 2",
+        "name": "Toki Tori 2+",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/201420",
+            "USER_PROFILE_DIR/AppData/Local/Two Tribes/Toki Tori 2+"
+        ]
     },
     "transform_file": "Toki Tori 2+ (USA).exe"
 }

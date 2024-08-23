@@ -14,10 +14,7 @@
         "installdir": "Dust An Elysian Tail",
         "name": "Dust: An Elysian Tail",
         "paths": [
-            "USER_PROFILE_DIR/Documents/SavedGames/DustAET/Game Save *.sav",
-            "USER_PROFILE_DIR/Documents/SavedGames/DustAET/Save Files/Player*/Game Save *.sav",
-            "USER_PROFILE_DIR/Documents/SavedGames/DustAET/Save Files/Player*/Settings.sav",
-            "USER_PROFILE_DIR/Documents/SavedGames/DustAET/Settings.sav"
+            "USER_PROFILE_DIR/Documents/SavedGames/DustAET"
         ]
     },
     "transform_file": "Dust - An Elysian Tail (USA).exe"

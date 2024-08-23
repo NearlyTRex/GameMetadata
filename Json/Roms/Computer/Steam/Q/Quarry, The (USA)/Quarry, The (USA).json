@@ -21,7 +21,11 @@
         "appid": "1577120",
         "branchid": "public",
         "controller_support": "full",
-        "name": "The Quarry"
+        "installdir": "The Quarry",
+        "name": "The Quarry",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/TheQuarry/Saved"
+        ]
     },
     "transform_file": "Quarry, The (USA).exe"
 }

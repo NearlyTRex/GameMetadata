@@ -28,7 +28,12 @@
         "appid": "275850",
         "branchid": "public",
         "controller_support": "full",
-        "name": "No Man's Sky"
+        "installdir": "No Man's Sky",
+        "name": "No Man's Sky",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/No Man's Sky/Binaries/SETTINGS",
+            "USER_PROFILE_DIR/AppData/Roaming/HelloGames/NMS"
+        ]
     },
     "transform_file": "No Man's Sky (USA).exe"
 }

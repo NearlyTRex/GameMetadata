@@ -18,7 +18,11 @@
         "appid": "1096570",
         "branchid": "public",
         "controller_support": "full",
-        "name": "SONG OF HORROR"
+        "installdir": "SongOfHorror",
+        "name": "SONG OF HORROR",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/SongOfHorror/Saved"
+        ]
     },
     "transform_file": "Song of Horror (USA).exe"
 }

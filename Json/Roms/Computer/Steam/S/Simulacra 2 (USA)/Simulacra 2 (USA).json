@@ -12,7 +12,14 @@
     "steam": {
         "appid": "1011190",
         "branchid": "public",
-        "name": "SIMULACRA 2"
+        "installdir": "SIMULACRA 2",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Kaigan Games/SIMULACRA 2"
+        ],
+        "name": "SIMULACRA 2",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Kaigan Games/SIMULACRA 2"
+        ]
     },
     "transform_file": "Simulacra 2 (USA).exe"
 }

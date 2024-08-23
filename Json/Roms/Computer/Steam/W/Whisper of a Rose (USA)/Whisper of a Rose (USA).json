@@ -9,7 +9,11 @@
         "appid": "326730",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Whisper of a Rose"
+        "installdir": "Whisper of a Rose",
+        "name": "Whisper of a Rose",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Whisper of a Rose Saves"
+        ]
     },
     "transform_file": "Whisper of a Rose (USA).exe"
 }

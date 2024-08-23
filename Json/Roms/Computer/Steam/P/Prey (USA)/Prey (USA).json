@@ -23,7 +23,11 @@
         "appid": "480490",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Prey"
+        "installdir": "Prey",
+        "name": "Prey",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Arkane Studios/Prey"
+        ]
     },
     "transform_file": "Prey (USA).exe"
 }

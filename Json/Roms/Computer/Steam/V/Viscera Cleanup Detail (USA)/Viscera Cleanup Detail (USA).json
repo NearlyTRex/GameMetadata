@@ -9,7 +9,12 @@
         "appid": "246900",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Viscera Cleanup Detail"
+        "installdir": "Viscera",
+        "name": "Viscera Cleanup Detail",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Viscera/Saves",
+            "STORE_INSTALL_DIR/steamapps/common/Viscera/UDKGame/Config"
+        ]
     },
     "transform_file": "Viscera Cleanup Detail (USA).exe"
 }

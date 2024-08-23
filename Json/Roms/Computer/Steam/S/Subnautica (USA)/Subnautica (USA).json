@@ -9,7 +9,12 @@
         "appid": "264710",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Subnautica"
+        "installdir": "Subnautica",
+        "name": "Subnautica",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Subnautica/SNAppData/SavedGames",
+            "USER_PROFILE_DIR/AppData/LocalLow/Unknown Worlds/Subnautica/Subnautica/SavedGames"
+        ]
     },
     "transform_file": "Subnautica (USA).exe"
 }

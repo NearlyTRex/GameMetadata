@@ -9,6 +9,10 @@
         "appid": "278620",
         "branchid": "public",
         "controller_support": "full",
+        "installdir": "TinyKeep",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Phigames/TinyKeep_"
+        ],
         "name": "TinyKeep"
     },
     "transform_file": "TinyKeep (USA).exe"

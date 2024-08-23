@@ -1,6 +1,14 @@
 {
     "steam": {
         "appid": "294100",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "partial",
+        "installdir": "RimWorld",
+        "name": "RimWorld",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Ludeon Studios/RimWorld",
+            "USER_PROFILE_DIR/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/Config",
+            "USER_PROFILE_DIR/AppData/LocalLow/Ludeon Studios/RimWorld by Ludeon Studios/Saves"
+        ]
     }
 }

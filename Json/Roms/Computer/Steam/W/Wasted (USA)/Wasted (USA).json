@@ -1,6 +1,13 @@
 {
     "steam": {
         "appid": "327510",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "full",
+        "installdir": "Wasted",
+        "name": "WASTED",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Wasted/config.sav",
+            "STORE_INSTALL_DIR/steamapps/common/Wasted/save.sav"
+        ]
     }
 }

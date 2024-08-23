@@ -28,7 +28,11 @@
         "appid": "209100",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Resident Evil: Operation Raccoon City"
+        "installdir": "Resident Evil Operation Raccoon City",
+        "name": "Resident Evil: Operation Raccoon City",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/CAPCOM/RERC"
+        ]
     },
     "transform_file": "Resident Evil - Operation Raccoon City (USA).exe"
 }

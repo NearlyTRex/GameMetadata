@@ -9,7 +9,11 @@
         "appid": "1081510",
         "branchid": "public",
         "controller_support": "full",
-        "name": "She Sees Red"
+        "installdir": "She Sees Red",
+        "name": "She Sees Red",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/She Sees Red/SavesDir"
+        ]
     },
     "transform_file": "She Sees Red (USA).exe"
 }

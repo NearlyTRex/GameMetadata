@@ -1,6 +1,9 @@
 {
     "steam": {
         "appid": "2512830",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "partial",
+        "installdir": "NOTTOLOT",
+        "name": "NOTTOLOT"
     }
 }

@@ -9,7 +9,14 @@
         "appid": "236450",
         "branchid": "public",
         "controller_support": "full",
-        "name": "PAC-MAN Championship Edition DX+"
+        "installdir": "PAC-MAN Championship Edition DX+",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Namco Bandai Games/PAC-MAN Championship Edition DX+"
+        ],
+        "name": "PAC-MAN Championship Edition DX+",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/236450"
+        ]
     },
     "transform_file": "Pac-Man Championship Edition DX+ (USA).exe"
 }

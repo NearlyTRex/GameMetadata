@@ -14,7 +14,11 @@
     "steam": {
         "appid": "356670",
         "branchid": "public",
-        "name": "Spooky's Jump Scare Mansion"
+        "installdir": "Spooky's House of Jump Scares",
+        "name": "Spooky's Jump Scare Mansion",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Spooky's House of Jump Scares/save_data_main.ini"
+        ]
     },
     "sync": {
         "data": [

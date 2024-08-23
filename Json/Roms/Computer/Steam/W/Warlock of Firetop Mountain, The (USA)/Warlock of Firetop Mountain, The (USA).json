@@ -15,7 +15,14 @@
         "appid": "324740",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "The Warlock of Firetop Mountain"
+        "installdir": "The Warlock of Firetop Mountain",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Tin Man Games/The Warlock of Firetop Mountain"
+        ],
+        "name": "The Warlock of Firetop Mountain",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/The Warlock of Firetop Mountain/Documents"
+        ]
     },
     "transform_file": "Warlock of Firetop Mountain, The (USA).exe"
 }

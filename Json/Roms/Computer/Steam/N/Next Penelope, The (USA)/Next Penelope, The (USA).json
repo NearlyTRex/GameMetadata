@@ -9,7 +9,11 @@
         "appid": "332250",
         "branchid": "public",
         "controller_support": "full",
-        "name": "The Next Penelope"
+        "installdir": "The Next Penelope",
+        "name": "The Next Penelope",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/nw"
+        ]
     },
     "transform_file": "Next Penelope, The (USA).exe"
 }

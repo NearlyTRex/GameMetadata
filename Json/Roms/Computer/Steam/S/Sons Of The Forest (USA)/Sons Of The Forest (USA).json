@@ -12,7 +12,12 @@
         "appid": "1326470",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Sons Of The Forest"
+        "installdir": "Sons Of The Forest",
+        "name": "Sons Of The Forest",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Endnight/SonsOfTheForest/Saves",
+            "USER_PROFILE_DIR/AppData/LocalLow/Endnight/SonsOfTheForest/SonsGameSettings.cfg"
+        ]
     },
     "transform_file": "Sons Of The Forest (USA).exe"
 }

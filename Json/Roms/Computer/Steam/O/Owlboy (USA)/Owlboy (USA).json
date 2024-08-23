@@ -9,7 +9,11 @@
         "appid": "115800",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Owlboy"
+        "installdir": "Owlboy",
+        "name": "Owlboy",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Owlboy"
+        ]
     },
     "transform_file": "Owlboy (USA).exe"
 }

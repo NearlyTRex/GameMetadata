@@ -1,6 +1,15 @@
 {
     "steam": {
         "appid": "1176710",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "partial",
+        "installdir": "SpaceCrew",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Runner Duck/Space Crew"
+        ],
+        "name": "Space Crew: Legendary Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Runner Duck/Space Crew"
+        ]
     }
 }

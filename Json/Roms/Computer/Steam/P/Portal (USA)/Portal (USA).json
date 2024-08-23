@@ -9,7 +9,15 @@
         "appid": "400",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Portal"
+        "installdir": "Portal",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Valve/Source/portal/Settings"
+        ],
+        "name": "Portal",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Portal/portal/cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Portal/portal/save"
+        ]
     },
     "transform_file": "Portal (USA).exe"
 }

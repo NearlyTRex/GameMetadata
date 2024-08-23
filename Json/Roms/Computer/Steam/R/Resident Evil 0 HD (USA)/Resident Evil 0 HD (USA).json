@@ -33,7 +33,12 @@
         "appid": "339340",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Resident Evil 0"
+        "installdir": "Resident Evil 0",
+        "name": "Resident Evil 0",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/339340/remote",
+            "USER_PROFILE_DIR/AppData/Local/CAPCOM/RESIDENT EVIL 0 HD REMASTER/config.ini"
+        ]
     },
     "transform_file": "Resident Evil 0 HD (USA).exe"
 }

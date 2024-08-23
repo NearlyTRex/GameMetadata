@@ -27,7 +27,14 @@
         "appid": "739630",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Phasmophobia"
+        "installdir": "Phasmophobia",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Kinetic Games/Phasmophobia"
+        ],
+        "name": "Phasmophobia",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Kinetic Games/Phasmophobia/saveData.txt"
+        ]
     },
     "transform_file": "Phasmophobia (USA).exe"
 }

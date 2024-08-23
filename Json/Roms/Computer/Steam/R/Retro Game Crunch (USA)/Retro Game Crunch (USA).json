@@ -9,7 +9,11 @@
         "appid": "290040",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Retro Game Crunch"
+        "installdir": "Retro Game Crunch",
+        "name": "Retro Game Crunch",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/com.retrogamecrunch.*"
+        ]
     },
     "transform_file": "Retro Game Crunch (USA).exe"
 }

@@ -8,7 +8,13 @@
     "steam": {
         "appid": "345650",
         "branchid": "public",
-        "name": "Without Within"
+        "installdir": "Without Within",
+        "name": "Without Within",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Without Within/game/saves",
+            "STORE_INSTALL_DIR/steamapps/common/Without Within/renpy/config.py",
+            "USER_PROFILE_DIR/AppData/Roaming/RenPy/without-within-1409958485"
+        ]
     },
     "transform_file": "Without Within (USA).exe"
 }

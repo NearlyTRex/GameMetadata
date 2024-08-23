@@ -3,6 +3,10 @@
         "appid": "952070",
         "branchid": "public",
         "controller_support": "full",
-        "name": "RESIDENT EVIL RESISTANCE"
+        "installdir": "RESIDENT EVIL RESISTANCE",
+        "name": "RESIDENT EVIL RESISTANCE",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/952070/remote"
+        ]
     }
 }

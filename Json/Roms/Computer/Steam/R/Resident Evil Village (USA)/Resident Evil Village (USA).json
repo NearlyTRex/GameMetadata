@@ -36,7 +36,12 @@
         "appid": "1196590",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Resident Evil Village"
+        "installdir": "Resident Evil Village BIOHAZARD VILLAGE",
+        "name": "Resident Evil Village",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Resident Evil Village BIOHAZARD VILLAGE/config.ini",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1196590/remote/win64_save"
+        ]
     },
     "transform_file": "Resident Evil Village (USA).exe"
 }

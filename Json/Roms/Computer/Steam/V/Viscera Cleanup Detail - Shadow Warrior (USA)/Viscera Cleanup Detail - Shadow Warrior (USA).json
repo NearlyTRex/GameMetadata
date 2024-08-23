@@ -9,7 +9,12 @@
         "appid": "255520",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Viscera Cleanup Detail: Shadow Warrior"
+        "installdir": "Viscera Cleanup Detail Shadow Warrior",
+        "name": "Viscera Cleanup Detail: Shadow Warrior",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Viscera Cleanup Detail Shadow Warrior/Saves",
+            "STORE_INSTALL_DIR/steamapps/common/Viscera Cleanup Detail Shadow Warrior/UDKGame/Config"
+        ]
     },
     "transform_file": "Viscera Cleanup Detail - Shadow Warrior (USA).exe"
 }

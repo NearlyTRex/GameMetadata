@@ -8,7 +8,11 @@
     "steam": {
         "appid": "1281800",
         "branchid": "public",
-        "name": "Samsara Room"
+        "installdir": "Samsara Room",
+        "name": "Samsara Room",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Rusty Lake/SamsaraRoom/saveGame.sav"
+        ]
     },
     "transform_file": "Samsara Room (USA).exe"
 }

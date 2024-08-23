@@ -1,6 +1,9 @@
 {
     "steam": {
         "appid": "598640",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "partial",
+        "installdir": "wonderwickets",
+        "name": "Wonder Wickets"
     }
 }

@@ -15,7 +15,11 @@
         "appid": "242680",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Nuclear Throne"
+        "installdir": "Nuclear Throne",
+        "name": "Nuclear Throne",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/nuclearthrone"
+        ]
     },
     "transform_file": "Nuclear Throne (USA).exe"
 }

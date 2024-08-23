@@ -12,7 +12,12 @@
         "appid": "1341290",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "We Were Here Forever"
+        "installdir": "We Were Here Forever",
+        "name": "We Were Here Forever",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Total Mayhem Games/We Were Here Forever/Data",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1341290"
+        ]
     },
     "transform_file": "We Were Here Forever (USA).exe"
 }

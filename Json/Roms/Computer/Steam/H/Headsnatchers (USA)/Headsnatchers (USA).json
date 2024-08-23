@@ -12,8 +12,7 @@
         "installdir": "HeadSnatchers",
         "name": "Headsnatchers",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved/Config/WindowsNoEditor/Engine.ini",
-            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved/SaveGames"
+            "USER_PROFILE_DIR/AppData/Local/Headsnatchers/Saved"
         ]
     },
     "transform_file": "Headsnatchers (USA).exe"

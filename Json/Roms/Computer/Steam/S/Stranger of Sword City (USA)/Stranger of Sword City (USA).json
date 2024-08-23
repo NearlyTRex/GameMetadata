@@ -15,7 +15,11 @@
         "appid": "409890",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Stranger of Sword City"
+        "installdir": "Stranger of Sword City",
+        "name": "Stranger of Sword City",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Stranger of Sword City/SAVEDATA"
+        ]
     },
     "sync": {
         "data": [

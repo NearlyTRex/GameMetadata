@@ -25,7 +25,13 @@
         "appid": "253330",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Neverending Nightmares"
+        "installdir": "Neverending Nightmares",
+        "name": "Neverending Nightmares",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/253330/remote/savegame",
+            "USER_PROFILE_DIR/AppData/Local/Infinitap Games/Neverending Nightmares/settings.config",
+            "USER_PROFILE_DIR/Saved Games/Neverending Nightmares/savegame.sav"
+        ]
     },
     "transform_file": "Neverending Nightmares (USA).exe"
 }

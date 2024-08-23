@@ -8,7 +8,11 @@
     "steam": {
         "appid": "305740",
         "branchid": "public",
-        "name": "Pitiri 1977"
+        "installdir": "Pitiri1977",
+        "name": "Pitiri 1977",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Pitiri1977/save_pitiri.sav"
+        ]
     },
     "transform_file": "Pitiri 1977 (USA).exe"
 }

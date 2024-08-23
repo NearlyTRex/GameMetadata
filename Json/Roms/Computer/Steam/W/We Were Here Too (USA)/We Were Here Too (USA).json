@@ -9,7 +9,11 @@
         "appid": "677160",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "We Were Here Too"
+        "installdir": "We Were Here Too",
+        "name": "We Were Here Too",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Total Mayhem Games/We Were Here Too/Config/config.cfg"
+        ]
     },
     "transform_file": "We Were Here Too (USA).exe"
 }

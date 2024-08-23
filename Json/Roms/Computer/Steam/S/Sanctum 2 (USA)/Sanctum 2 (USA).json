@@ -15,7 +15,13 @@
         "appid": "210770",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Sanctum 2"
+        "installdir": "Sanctum2",
+        "name": "Sanctum 2",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/210770",
+            "USER_PROFILE_DIR/Documents/My Games/Sanctum2/SanctumGame/Config",
+            "USER_PROFILE_DIR/Documents/My Games/Sanctum2/SanctumGame/SaveData"
+        ]
     },
     "transform_file": "Sanctum 2 (USA).exe"
 }

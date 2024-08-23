@@ -9,7 +9,11 @@
         "appid": "439190",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Stories: The Path of Destinies"
+        "installdir": "Stories Path of Destinies",
+        "name": "Stories: The Path of Destinies",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Stories/Saved"
+        ]
     },
     "transform_file": "Stories - The Path of Destinies (USA).exe"
 }

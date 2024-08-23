@@ -15,7 +15,11 @@
         "appid": "366870",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Narcosis"
+        "installdir": "Narcosis",
+        "name": "Narcosis",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Honor Code/Narcosis/Resources/Data/Datas"
+        ]
     },
     "transform_file": "Narcosis (USA).exe"
 }

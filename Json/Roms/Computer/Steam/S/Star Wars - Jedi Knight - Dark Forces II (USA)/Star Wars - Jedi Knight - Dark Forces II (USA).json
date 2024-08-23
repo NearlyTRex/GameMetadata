@@ -9,7 +9,15 @@
         "appid": "32380",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "STAR WARS\u2122 Jedi Knight: Dark Forces II"
+        "installdir": "Star Wars Jedi Knight",
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/LucasArts Entertainment Company/JediKnight/v1.0"
+        ],
+        "name": "STAR WARS\u2122 Jedi Knight: Dark Forces II",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Star Wars Jedi Knight/Controls",
+            "STORE_INSTALL_DIR/steamapps/common/Star Wars Jedi Knight/player"
+        ]
     },
     "transform_file": "Star Wars - Jedi Knight - Dark Forces II (USA).exe"
 }

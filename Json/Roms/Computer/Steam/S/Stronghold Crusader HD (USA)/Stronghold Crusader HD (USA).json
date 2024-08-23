@@ -8,7 +8,14 @@
     "steam": {
         "appid": "40970",
         "branchid": "public",
-        "name": "Stronghold Crusader HD"
+        "installdir": "Stronghold Crusader Extreme",
+        "name": "Stronghold Crusader HD",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Stronghold Crusader Extreme/Saves",
+            "USER_PROFILE_DIR/Documents/Stronghold Crusader Extreme/crusader.cfg",
+            "USER_PROFILE_DIR/Documents/Stronghold Crusader/Saves",
+            "USER_PROFILE_DIR/Documents/Stronghold Crusader/crusader.cfg"
+        ]
     },
     "transform_file": "Stronghold Crusader HD (USA).exe"
 }

@@ -8,7 +8,11 @@
     "steam": {
         "appid": "268870",
         "branchid": "public",
-        "name": "Satellite Reign"
+        "installdir": "SatelliteReign",
+        "name": "Satellite Reign",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/SatelliteReign"
+        ]
     },
     "transform_file": "Satellite Reign (USA).exe"
 }

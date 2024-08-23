@@ -8,6 +8,10 @@
     "steam": {
         "appid": "405640",
         "branchid": "public",
+        "installdir": "Pony Island",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Daniel Mullins Games/Pony Island"
+        ],
         "name": "Pony Island"
     },
     "transform_file": "Pony Island (USA).exe"

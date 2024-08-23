@@ -8,7 +8,14 @@
     "steam": {
         "appid": "7010",
         "branchid": "public",
-        "name": "Project: Snowblind"
+        "installdir": "Project Snowblind",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Crystal Dynamics/Project: SnowBlind"
+        ],
+        "name": "Project: Snowblind",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Project Snowblind"
+        ]
     },
     "transform_file": "Project - Snowblind (USA).exe"
 }

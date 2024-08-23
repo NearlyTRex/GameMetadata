@@ -15,7 +15,13 @@
         "appid": "248820",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Risk of Rain (2013)"
+        "installdir": "Risk of Rain",
+        "name": "Risk of Rain (2013)",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Risk of Rain/Prefs.ini",
+            "STORE_INSTALL_DIR/steamapps/common/Risk of Rain/Save.ini",
+            "STORE_INSTALL_DIR/steamapps/common/Risk of Rain/Save_backup.ini"
+        ]
     },
     "sync": {
         "data": [

@@ -25,7 +25,12 @@
         "appid": "291860",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Pit People"
+        "installdir": "Pit People",
+        "name": "Pit People",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/291860/local/save/preferences.xml",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/291860/remote/save"
+        ]
     },
     "transform_file": "Pit People (USA).exe"
 }

@@ -9,7 +9,14 @@
         "appid": "343860",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Tacoma"
+        "installdir": "Tacoma",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Fullbright/Tacoma"
+        ],
+        "name": "Tacoma",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Fullbright/Tacoma"
+        ]
     },
     "transform_file": "Tacoma (USA).exe"
 }

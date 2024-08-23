@@ -12,8 +12,7 @@
         "installdir": "lootrascals",
         "name": "Loot Rascals",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Roaming/LootRascals",
-            "USER_PROFILE_DIR/AppData/Roaming/LootRascals/*.json"
+            "USER_PROFILE_DIR/AppData/Roaming/LootRascals"
         ]
     },
     "transform_file": "Loot Rascals (USA).exe"

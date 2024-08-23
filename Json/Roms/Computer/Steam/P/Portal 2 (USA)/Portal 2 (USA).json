@@ -11,7 +11,15 @@
         "appid": "620",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Portal 2"
+        "installdir": "Portal 2",
+        "name": "Portal 2",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Portal 2/portal2/SAVE",
+            "STORE_INSTALL_DIR/steamapps/common/Portal 2/portal2/cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Portal 2/portal2_dlc2/cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Portal 2/update/cfg",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/620/remote/cfg/config.cfg"
+        ]
     },
     "transform_file": "Portal 2 (USA).exe"
 }

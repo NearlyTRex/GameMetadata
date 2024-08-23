@@ -15,7 +15,12 @@
         "appid": "241600",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Rogue Legacy"
+        "installdir": "Rogue Legacy",
+        "name": "Rogue Legacy",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Rogue Legacy",
+            "USER_PROFILE_DIR/Documents/SavedGames/RogueLegacy"
+        ]
     },
     "transform_file": "Rogue Legacy (USA).exe"
 }

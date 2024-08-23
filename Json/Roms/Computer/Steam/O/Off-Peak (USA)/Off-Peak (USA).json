@@ -9,6 +9,10 @@
         "appid": "467360",
         "branchid": "public",
         "controller_support": "partial",
+        "installdir": "Off-Peak",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Cosmo D/Off-Peak"
+        ],
         "name": "Off-Peak"
     },
     "transform_file": "Off-Peak (USA).exe"

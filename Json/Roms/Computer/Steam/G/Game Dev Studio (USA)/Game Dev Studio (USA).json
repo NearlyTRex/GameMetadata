@@ -17,8 +17,7 @@
         "installdir": "Game Dev Studio",
         "name": "Game Dev Studio",
         "paths": [
-            "USER_PROFILE_DIR/AppData/Roaming/game_dev_studio/savegames/**/*.gds",
-            "USER_PROFILE_DIR/AppData/Roaming/game_dev_studio/savegames/**/*.gds_preview"
+            "USER_PROFILE_DIR/AppData/Roaming/game_dev_studio/savegames"
         ]
     },
     "transform_file": "Game Dev Studio (USA).exe"

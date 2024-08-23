@@ -11,7 +11,11 @@
         "appid": "408900",
         "branchid": "public",
         "controller_support": "partial",
-        "name": "Unfortunate Spacemen"
+        "installdir": "Unfortunate Spacemen",
+        "name": "Unfortunate Spacemen",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/UnfortunateSpacemen/Saved"
+        ]
     },
     "transform_file": "Unfortunate Spacemen (USA).exe"
 }

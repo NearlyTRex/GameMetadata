@@ -9,7 +9,11 @@
         "appid": "441380",
         "branchid": "public",
         "controller_support": "full",
-        "name": "PAC-MAN\u2122 CHAMPIONSHIP EDITION 2"
+        "installdir": "FLUID",
+        "name": "PAC-MAN\u2122 CHAMPIONSHIP EDITION 2",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Pac-man CE2/STORE_USER_ID/AutoSave"
+        ]
     },
     "transform_file": "Pac-Man Championship Edition 2 (USA).exe"
 }

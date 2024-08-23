@@ -19,7 +19,11 @@
     "steam": {
         "appid": "27000",
         "branchid": "public",
-        "name": "The Path"
+        "installdir": "The Path",
+        "name": "The Path",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/The Path"
+        ]
     },
     "transform_file": "Path, The (USA).exe"
 }

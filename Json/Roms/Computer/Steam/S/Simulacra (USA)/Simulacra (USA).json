@@ -8,7 +8,12 @@
     "steam": {
         "appid": "712730",
         "branchid": "public",
-        "name": "SIMULACRA"
+        "installdir": "SIMULACRA",
+        "name": "SIMULACRA",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Kaigan Games/SIMULACRA",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/712730/remote"
+        ]
     },
     "transform_file": "Simulacra (USA).exe"
 }

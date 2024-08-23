@@ -29,7 +29,12 @@
         "appid": "418370",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Resident Evil 7 Biohazard"
+        "installdir": "RESIDENT EVIL 7 biohazard",
+        "name": "Resident Evil 7 Biohazard",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/RESIDENT EVIL 7 biohazard/re7_config.ini",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/418370/remote"
+        ]
     },
     "transform_file": "Resident Evil 7 - Biohazard (USA).exe"
 }

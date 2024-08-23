@@ -1,6 +1,12 @@
 {
     "steam": {
         "appid": "238530",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "full",
+        "installdir": "Super Puzzle Platformer Deluxe",
+        "name": "Super Puzzle Platformer Deluxe",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/238530/remote/savegame.sav"
+        ]
     }
 }

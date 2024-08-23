@@ -1,6 +1,9 @@
 {
     "steam": {
         "appid": "1568400",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "full",
+        "installdir": "Sheepy A Short Adventure",
+        "name": "Sheepy: A Short Adventure"
     }
 }

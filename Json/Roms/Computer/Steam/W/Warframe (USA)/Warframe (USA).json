@@ -3,6 +3,10 @@
         "appid": "230410",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Warframe"
+        "installdir": "Warframe",
+        "name": "Warframe",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Warframe"
+        ]
     }
 }

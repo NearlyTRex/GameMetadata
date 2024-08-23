@@ -8,7 +8,11 @@
     "steam": {
         "appid": "108200",
         "branchid": "public",
-        "name": "Ticket to Ride"
+        "installdir": "Ticket to Ride",
+        "name": "Ticket to Ride",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Days of Wonder/Ticket to Ride"
+        ]
     },
     "transform_file": "Ticket to Ride (USA).exe"
 }

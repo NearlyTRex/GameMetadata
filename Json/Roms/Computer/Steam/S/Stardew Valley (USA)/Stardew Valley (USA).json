@@ -9,7 +9,11 @@
         "appid": "413150",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Stardew Valley"
+        "installdir": "Stardew Valley",
+        "name": "Stardew Valley",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/StardewValley"
+        ]
     },
     "transform_file": "Stardew Valley (USA).exe"
 }

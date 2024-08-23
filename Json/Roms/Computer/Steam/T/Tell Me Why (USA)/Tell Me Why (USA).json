@@ -14,7 +14,12 @@
         "appid": "1180660",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Tell Me Why"
+        "installdir": "TellMeWhy",
+        "name": "Tell Me Why",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1180660/remote",
+            "USER_PROFILE_DIR/AppData/Local/Dontnod/STORE_USER_ID/TME/Saved/Config/WindowsNoEditor"
+        ]
     },
     "transform_file": "Tell Me Why (USA).exe"
 }

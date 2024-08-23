@@ -9,7 +9,11 @@
         "appid": "38700",
         "branchid": "public",
         "controller_support": "full",
-        "name": "Toki Tori"
+        "installdir": "Toki Tori",
+        "name": "Toki Tori",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/38700/remote"
+        ]
     },
     "transform_file": "Toki Tori (USA).exe"
 }

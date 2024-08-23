@@ -1,6 +1,9 @@
 {
     "steam": {
         "appid": "2356460",
-        "branchid": "public"
+        "branchid": "public",
+        "controller_support": "partial",
+        "installdir": "Untitled Ghost Game",
+        "name": "Untitled Ghost Game"
     }
 }

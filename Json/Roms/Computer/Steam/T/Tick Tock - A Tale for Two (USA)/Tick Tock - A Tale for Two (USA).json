@@ -8,7 +8,11 @@
     "steam": {
         "appid": "790740",
         "branchid": "public",
-        "name": "Tick Tock: A Tale for Two"
+        "installdir": "TickTock",
+        "name": "Tick Tock: A Tale for Two",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/OtherTales/Tick Tock"
+        ]
     },
     "transform_file": "Tick Tock - A Tale for Two (USA).exe"
 }
