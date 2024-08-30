@@ -14,7 +14,10 @@
         "builddate": "1721228442",
         "buildid": "14933362",
         "installdir": "Across the Obelisk",
-        "name": "Across the Obelisk"
+        "name": "Across the Obelisk",
+        "paths": [
+            "USERPROFILE/AppData/LocalLow/Dreamsite Games/AcrossTheObelisk/STORE_USER_ID"
+        ]
     },
     "transform_file": "Across the Obelisk (USA).7z"
 }
