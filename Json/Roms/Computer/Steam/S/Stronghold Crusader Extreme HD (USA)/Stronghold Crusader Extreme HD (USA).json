@@ -11,7 +11,11 @@
         "builddate": "1599583726",
         "buildid": "5516769",
         "installdir": "Stronghold Crusader Extreme",
-        "name": "Stronghold Crusader Extreme HD"
+        "keys": [],
+        "name": "Stronghold Crusader Extreme HD",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/16700"
+        ]
     },
     "transform_file": "Stronghold Crusader Extreme HD (USA).exe"
 }

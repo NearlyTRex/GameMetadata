@@ -12,7 +12,11 @@
         "buildid": "10249949",
         "controller_support": "full",
         "installdir": "Night At the Gates of Hell",
-        "name": "Night At the Gates of Hell"
+        "keys": [],
+        "name": "Night At the Gates of Hell",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2026870"
+        ]
     },
     "transform_file": "Night at the Gates of Hell (USA).exe"
 }

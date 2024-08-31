@@ -12,7 +12,11 @@
         "buildid": "12956089",
         "controller_support": "partial",
         "installdir": "THE CORRIDOR",
-        "name": "THE CORRIDOR"
+        "keys": [],
+        "name": "THE CORRIDOR",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1347030"
+        ]
     },
     "transform_file": "Corridor, The (USA).exe"
 }

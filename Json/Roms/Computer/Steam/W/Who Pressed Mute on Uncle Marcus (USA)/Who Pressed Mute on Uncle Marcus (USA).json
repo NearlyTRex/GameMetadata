@@ -15,7 +15,11 @@
         "buildid": "14387276",
         "controller_support": "full",
         "installdir": "Who Pressed Mute on Uncle Marcus",
-        "name": "Who Pressed Mute on Uncle Marcus?"
+        "keys": [],
+        "name": "Who Pressed Mute on Uncle Marcus?",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1628130"
+        ]
     },
     "transform_file": "Who Pressed Mute on Uncle Marcus (USA).exe"
 }

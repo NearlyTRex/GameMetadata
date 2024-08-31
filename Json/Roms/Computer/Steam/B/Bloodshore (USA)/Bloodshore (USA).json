@@ -17,7 +17,11 @@
         "buildid": "14387429",
         "controller_support": "full",
         "installdir": "Bloodshore",
-        "name": "Bloodshore"
+        "keys": [],
+        "name": "Bloodshore",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1490840"
+        ]
     },
     "transform_file": "Bloodshore (USA).7z.001"
 }

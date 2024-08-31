@@ -12,7 +12,11 @@
         "buildid": "9622132",
         "controller_support": "partial",
         "installdir": "Perfect Vermin",
-        "name": "Perfect Vermin"
+        "keys": [],
+        "name": "Perfect Vermin",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1416130"
+        ]
     },
     "transform_file": "Perfect Vermin (USA).exe"
 }

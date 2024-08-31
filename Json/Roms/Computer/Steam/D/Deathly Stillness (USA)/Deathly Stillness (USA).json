@@ -14,7 +14,11 @@
         "buildid": "15475150",
         "controller_support": "partial",
         "installdir": "DeathlyStillnessGame",
-        "name": "\u6b7b\u5bc2\uff08DeathlyStillness\uff09"
+        "keys": [],
+        "name": "\u6b7b\u5bc2\uff08DeathlyStillness\uff09",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1727650"
+        ]
     },
     "transform_file": "Deathly Stillness (USA).exe"
 }

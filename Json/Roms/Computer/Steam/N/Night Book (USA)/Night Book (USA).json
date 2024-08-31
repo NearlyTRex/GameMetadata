@@ -15,7 +15,11 @@
         "buildid": "14387132",
         "controller_support": "full",
         "installdir": "Night Book",
-        "name": "Night Book"
+        "keys": [],
+        "name": "Night Book",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1477920"
+        ]
     },
     "transform_file": "Night Book (USA).exe"
 }

@@ -14,7 +14,11 @@
         "builddate": "1633851294",
         "buildid": "7507845",
         "installdir": "Hijacker Jack",
-        "name": "Hijacker Jack"
+        "keys": [],
+        "name": "Hijacker Jack",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1422730"
+        ]
     },
     "transform_file": "Hijacker Jack - Arcade FMV (USA).exe"
 }

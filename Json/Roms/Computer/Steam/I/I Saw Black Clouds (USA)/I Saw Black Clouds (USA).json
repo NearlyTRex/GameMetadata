@@ -31,7 +31,11 @@
         "buildid": "12294672",
         "controller_support": "full",
         "installdir": "I Saw Black Clouds",
-        "name": "I Saw Black Clouds"
+        "keys": [],
+        "name": "I Saw Black Clouds",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1346830"
+        ]
     },
     "transform_file": "I Saw Black Clouds (USA).exe"
 }

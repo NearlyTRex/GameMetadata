@@ -6,10 +6,12 @@
         "buildid": "15116374",
         "controller_support": "full",
         "installdir": "Wasted",
+        "keys": [],
         "name": "WASTED",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Wasted/config.sav",
-            "STORE_INSTALL_DIR/steamapps/common/Wasted/save.sav"
+            "STORE_INSTALL_DIR/steamapps/common/Wasted/save.sav",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/327510"
         ]
     }
 }

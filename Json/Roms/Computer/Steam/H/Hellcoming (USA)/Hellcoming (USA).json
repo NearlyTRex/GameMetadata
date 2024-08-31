@@ -11,7 +11,11 @@
         "builddate": "1639955322",
         "buildid": "7910891",
         "installdir": "Hellcoming",
-        "name": "Hellcoming"
+        "keys": [],
+        "name": "Hellcoming",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/891360"
+        ]
     },
     "transform_file": "Hellcoming (USA).exe"
 }

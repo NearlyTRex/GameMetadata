@@ -11,7 +11,11 @@
         "builddate": "1721403671",
         "buildid": "14828544",
         "installdir": "Tukoni",
-        "name": "Tukoni: Prologue"
+        "keys": [],
+        "name": "Tukoni: Prologue",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1419860"
+        ]
     },
     "transform_file": "Tukoni (USA).exe"
 }

@@ -30,7 +30,11 @@
         "buildid": "14860997",
         "controller_support": "full",
         "installdir": "Labyrinthine",
-        "name": "Labyrinthine"
+        "keys": [],
+        "name": "Labyrinthine",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1302240"
+        ]
     },
     "transform_file": "Labyrinthine (USA).exe"
 }

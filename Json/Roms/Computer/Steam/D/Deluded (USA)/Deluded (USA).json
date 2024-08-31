@@ -13,7 +13,11 @@
         "builddate": "1640474812",
         "buildid": "7940658",
         "installdir": "Deluded",
-        "name": "Deluded"
+        "keys": [],
+        "name": "Deluded",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1770660"
+        ]
     },
     "transform_file": "Deluded (USA).exe"
 }

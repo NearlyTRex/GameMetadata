@@ -14,7 +14,11 @@
         "builddate": "1676039895",
         "buildid": "10524753",
         "installdir": "The Dark Side of the Moon",
-        "name": "The Dark Side of the Moon"
+        "keys": [],
+        "name": "The Dark Side of the Moon",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1525770"
+        ]
     },
     "transform_file": "Dark Side of the Moon, The (USA).exe"
 }

@@ -16,7 +16,11 @@
         "buildid": "11380347",
         "controller_support": "full",
         "installdir": "AitD Prologue",
-        "name": "Alone in the Dark Prologue"
+        "keys": [],
+        "name": "Alone in the Dark Prologue",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1938800"
+        ]
     },
     "transform_file": "Alone in the Dark Prologue (USA).7z.001"
 }
