@@ -18,7 +18,10 @@
         "buildid": "4379445",
         "controller_support": "full",
         "installdir": "Regular Human Basketball",
-        "name": "Regular Human Basketball"
+        "name": "Regular Human Basketball",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/661940"
+        ]
     },
     "transform_file": "Regular Human Basketball (USA).exe"
 }

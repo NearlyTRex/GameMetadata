@@ -11,7 +11,10 @@
         "builddate": "1580285123",
         "buildid": "4618774",
         "installdir": "The Supper",
-        "name": "The Supper"
+        "name": "The Supper",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1171370"
+        ]
     },
     "transform_file": "Supper, The (USA).exe"
 }

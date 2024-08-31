@@ -11,7 +11,10 @@
         "builddate": "1519193115",
         "buildid": "2543574",
         "installdir": "A Raven Monologue",
-        "name": "A Raven Monologue"
+        "name": "A Raven Monologue",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/744810"
+        ]
     },
     "transform_file": "Raven Monologue, A (USA).exe"
 }

@@ -11,7 +11,10 @@
         "builddate": "1550480791",
         "buildid": "3541029",
         "installdir": "Mysterium",
-        "name": "Mysterium"
+        "name": "Mysterium",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/556180"
+        ]
     },
     "transform_file": "Mysterium (USA).exe"
 }

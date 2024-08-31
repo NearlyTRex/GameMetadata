@@ -14,7 +14,10 @@
         "keys": [
             "HKEY_CURRENT_USER/SOFTWARE/Santa Ragione/FOTONICA"
         ],
-        "name": "FOTONICA"
+        "name": "FOTONICA",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/253290"
+        ]
     },
     "transform_file": "Fotonica (USA).exe"
 }

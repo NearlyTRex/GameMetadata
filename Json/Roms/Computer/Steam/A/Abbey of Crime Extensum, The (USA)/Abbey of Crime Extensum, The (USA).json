@@ -8,7 +8,10 @@
         "builddate": "1464299598",
         "buildid": "1148769",
         "installdir": "The Abbey of Crime Extensum",
-        "name": "The Abbey of Crime Extensum"
+        "name": "The Abbey of Crime Extensum",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/474030"
+        ]
     },
     "transform_file": "Abbey of Crime Extensum, The (USA).7z"
 }

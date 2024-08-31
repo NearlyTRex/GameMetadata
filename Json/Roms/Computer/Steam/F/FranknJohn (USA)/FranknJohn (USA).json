@@ -20,7 +20,10 @@
         "buildid": "1240055",
         "controller_support": "full",
         "installdir": "FranknJohn",
-        "name": "FranknJohn"
+        "name": "FranknJohn",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/305460"
+        ]
     },
     "transform_file": "FranknJohn (USA).exe"
 }

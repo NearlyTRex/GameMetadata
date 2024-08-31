@@ -15,7 +15,8 @@
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/swkotor/saves",
             "STORE_INSTALL_DIR/steamapps/common/swkotor/swconfig.ini",
-            "STORE_INSTALL_DIR/steamapps/common/swkotor/swkotor.ini"
+            "STORE_INSTALL_DIR/steamapps/common/swkotor/swkotor.ini",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/32370"
         ]
     },
     "transform_file": "Star Wars - Knights of the Old Republic (USA).exe"

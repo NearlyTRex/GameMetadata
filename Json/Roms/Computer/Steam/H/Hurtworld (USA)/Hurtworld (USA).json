@@ -26,7 +26,10 @@
         "keys": [
             "HKEY_CURRENT_USER/Software/Bankroll Studios/Hurtworld"
         ],
-        "name": "Hurtworld"
+        "name": "Hurtworld",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/393420"
+        ]
     },
     "transform_file": "Hurtworld (USA).exe"
 }

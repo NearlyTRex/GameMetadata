@@ -11,7 +11,10 @@
         "builddate": "1543403474",
         "buildid": "3346675",
         "installdir": "The Ghost of You",
-        "name": "The Ghost of You"
+        "name": "The Ghost of You",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/990180"
+        ]
     },
     "transform_file": "Ghost of You, The (USA).exe"
 }

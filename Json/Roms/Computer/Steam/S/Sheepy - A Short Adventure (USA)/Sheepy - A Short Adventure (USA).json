@@ -6,6 +6,9 @@
         "buildid": "13496280",
         "controller_support": "full",
         "installdir": "Sheepy A Short Adventure",
-        "name": "Sheepy: A Short Adventure"
+        "name": "Sheepy: A Short Adventure",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1568400"
+        ]
     }
 }

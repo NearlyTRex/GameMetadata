@@ -21,7 +21,8 @@
         "name": "Left 4 Dead",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/left 4 dead/left4dead/cfg/config.cfg",
-            "STORE_INSTALL_DIR/steamapps/common/left 4 dead/left4dead/cfg/video.txt"
+            "STORE_INSTALL_DIR/steamapps/common/left 4 dead/left4dead/cfg/video.txt",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/500"
         ]
     },
     "transform_file": "Left 4 Dead (USA).exe"

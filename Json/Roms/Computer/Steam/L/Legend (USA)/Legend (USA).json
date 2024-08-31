@@ -12,7 +12,10 @@
         "buildid": "8219218",
         "controller_support": "partial",
         "installdir": "Legend",
-        "name": "Legend"
+        "name": "Legend",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/412380"
+        ]
     },
     "transform_file": "Legend (USA).exe"
 }

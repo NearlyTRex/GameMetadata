@@ -19,7 +19,8 @@
         "installdir": "SCPCBR",
         "name": "SCP: Containment Breach Remastered",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/SCPCBR/Saves"
+            "STORE_INSTALL_DIR/steamapps/common/SCPCBR/Saves",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2090230"
         ]
     },
     "transform_file": "SCP - Containment Breach Remastered (USA).exe"

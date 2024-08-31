@@ -13,7 +13,10 @@
         "keys": [
             "HKEY_CURRENT_USER/SOFTWARE/Crystal Dynamics/Pandemonium"
         ],
-        "name": "Pandemonium"
+        "name": "Pandemonium",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/243020"
+        ]
     },
     "transform_file": "Pandemonium (USA).exe"
 }

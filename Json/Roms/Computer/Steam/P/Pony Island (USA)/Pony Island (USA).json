@@ -14,7 +14,10 @@
         "keys": [
             "HKEY_CURRENT_USER/SOFTWARE/Daniel Mullins Games/Pony Island"
         ],
-        "name": "Pony Island"
+        "name": "Pony Island",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/405640"
+        ]
     },
     "transform_file": "Pony Island (USA).exe"
 }

@@ -11,7 +11,10 @@
         "builddate": "1623590084",
         "buildid": "6860831",
         "installdir": "OnlyCans",
-        "name": "OnlyCans: Thirst Date"
+        "name": "OnlyCans: Thirst Date",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/417360"
+        ]
     },
     "transform_file": "OnlyCans - Thirst Date (USA).exe"
 }

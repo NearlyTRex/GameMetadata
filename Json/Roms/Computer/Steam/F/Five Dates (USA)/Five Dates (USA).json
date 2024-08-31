@@ -31,7 +31,10 @@
         "buildid": "12294917",
         "controller_support": "full",
         "installdir": "Five Dates",
-        "name": "Five Dates"
+        "name": "Five Dates",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1353270"
+        ]
     },
     "transform_file": "Five Dates (USA).exe"
 }

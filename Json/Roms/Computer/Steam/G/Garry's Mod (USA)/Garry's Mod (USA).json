@@ -14,7 +14,8 @@
         "name": "Garry's Mod",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/GarrysMod/garrysmod/cfg",
-            "STORE_INSTALL_DIR/steamapps/common/GarrysMod/garrysmod/saves"
+            "STORE_INSTALL_DIR/steamapps/common/GarrysMod/garrysmod/saves",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/4000"
         ]
     },
     "transform_file": "Garry's Mod (USA).exe"

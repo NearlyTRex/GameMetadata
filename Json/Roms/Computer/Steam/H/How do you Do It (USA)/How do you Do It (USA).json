@@ -16,7 +16,10 @@
         "branchid": "public",
         "buildid": "539313",
         "installdir": "how do you Do It",
-        "name": "how do you Do It?"
+        "name": "how do you Do It?",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/353360"
+        ]
     },
     "transform_file": "How do you Do It (USA).exe"
 }

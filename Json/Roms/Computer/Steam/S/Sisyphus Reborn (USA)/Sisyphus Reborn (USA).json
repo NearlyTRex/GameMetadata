@@ -11,7 +11,10 @@
         "builddate": "1524715770",
         "buildid": "2722482",
         "installdir": "Sisyphus Reborn",
-        "name": "Sisyphus Reborn"
+        "name": "Sisyphus Reborn",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/517910"
+        ]
     },
     "transform_file": "Sisyphus Reborn (USA).exe"
 }

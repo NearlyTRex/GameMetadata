@@ -31,7 +31,9 @@
         "name": "Crypt of the NecroDancer",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Crypt of the NecroDancer/data/save_data.xml",
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/247080/remote/save_data.xml"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/247080",
+            "USER_PROFILE_DIR/AppData/Roaming/NecroDancer/SynchronyOptions.lua",
+            "USER_PROFILE_DIR/AppData/Roaming/NecroDancer/SynchronyUser_STORE_USER_ID.lua"
         ]
     },
     "transform_file": "Crypt of the NecroDancer (USA).exe"

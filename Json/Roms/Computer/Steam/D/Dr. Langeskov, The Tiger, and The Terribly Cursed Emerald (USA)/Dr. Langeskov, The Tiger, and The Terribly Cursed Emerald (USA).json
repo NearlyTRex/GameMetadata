@@ -14,7 +14,10 @@
         "keys": [
             "HKEY_CURRENT_USER/SOFTWARE/CrowsCrowsCrows/Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald"
         ],
-        "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist"
+        "name": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/409160"
+        ]
     },
     "transform_file": "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald (USA).exe"
 }

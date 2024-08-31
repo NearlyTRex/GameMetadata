@@ -14,7 +14,8 @@
         "name": "Recettear: An Item Shop's Tale",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Recettear/recet.ini",
-            "STORE_INSTALL_DIR/steamapps/common/Recettear/save.dat"
+            "STORE_INSTALL_DIR/steamapps/common/Recettear/save.dat",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/70400"
         ]
     },
     "transform_file": "Recettear - An Item Shop's Tale (USA).exe"

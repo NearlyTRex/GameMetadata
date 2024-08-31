@@ -12,7 +12,10 @@
         "buildid": "1148741",
         "controller_support": "full",
         "installdir": "MANOS Director's Cut",
-        "name": "MANOS: The Hands of Fate ~ Director's Cut"
+        "name": "MANOS: The Hands of Fate ~ Director's Cut",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/350780"
+        ]
     },
     "transform_file": "MANOS - The Hands of Fate - Director's Cut (USA).exe"
 }

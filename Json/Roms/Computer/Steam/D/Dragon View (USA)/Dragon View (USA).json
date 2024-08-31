@@ -14,7 +14,8 @@
         "installdir": "Dragon View",
         "name": "Dragonview",
         "paths": [
-            "STORE_INSTALL_DIR/steamapps/common/Dragon View/res"
+            "STORE_INSTALL_DIR/steamapps/common/Dragon View/res",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/784010"
         ]
     },
     "transform_file": "Dragon View (USA).exe"

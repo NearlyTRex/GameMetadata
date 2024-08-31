@@ -14,7 +14,8 @@
         "name": "Floating Point",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Floating Point/Floating Point_Data/Scores.txt",
-            "STORE_INSTALL_DIR/steamapps/common/Floating Point/Floating Point_Data/Tweaks.txt"
+            "STORE_INSTALL_DIR/steamapps/common/Floating Point/Floating Point_Data/Tweaks.txt",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/302380"
         ]
     },
     "transform_file": "Floating Point (USA).exe"

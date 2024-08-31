@@ -18,7 +18,8 @@
         "name": "Portal",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Portal/portal/cfg",
-            "STORE_INSTALL_DIR/steamapps/common/Portal/portal/save"
+            "STORE_INSTALL_DIR/steamapps/common/Portal/portal/save",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/400"
         ]
     },
     "transform_file": "Portal (USA).exe"

@@ -11,7 +11,10 @@
         "builddate": "1719860768",
         "buildid": "14898147",
         "installdir": "The Complex Found Footage",
-        "name": "The Complex: Found Footage"
+        "name": "The Complex: Found Footage",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1942120"
+        ]
     },
     "transform_file": "Complex, The - Found Footage (USA).exe"
 }

@@ -14,7 +14,10 @@
         "keys": [
             "HKEY_CURRENT_USER/Software/The Men Who Wear Many Hats LLC/Max Gentlemen"
         ],
-        "name": "Max Gentlemen"
+        "name": "Max Gentlemen",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/257710"
+        ]
     },
     "transform_file": "Max Gentlemen (USA).exe"
 }

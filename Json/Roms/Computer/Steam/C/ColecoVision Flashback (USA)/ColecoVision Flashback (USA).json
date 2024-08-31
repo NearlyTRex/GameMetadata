@@ -11,7 +11,10 @@
         "builddate": "1475261296",
         "buildid": "1367707",
         "installdir": "ColecoVision Flashback",
-        "name": "ColecoVision Flashback"
+        "name": "ColecoVision Flashback",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/529860"
+        ]
     },
     "transform_file": "ColecoVision Flashback (USA).exe"
 }

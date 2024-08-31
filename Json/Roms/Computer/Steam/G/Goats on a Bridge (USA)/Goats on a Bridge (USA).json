@@ -12,7 +12,10 @@
         "buildid": "1269470",
         "controller_support": "full",
         "installdir": "Goats on a Bridge",
-        "name": "Goats on a Bridge"
+        "name": "Goats on a Bridge",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/335840"
+        ]
     },
     "transform_file": "Goats on a Bridge (USA).exe"
 }

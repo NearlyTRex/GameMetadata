@@ -15,7 +15,10 @@
         "buildid": "4070551",
         "controller_support": "partial",
         "installdir": "8 Eyes",
-        "name": "8 Eyes"
+        "name": "8 Eyes",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1136080"
+        ]
     },
     "transform_file": "8 Eyes (USA).7z"
 }

@@ -12,7 +12,10 @@
         "buildid": "8219216",
         "controller_support": "partial",
         "installdir": "Iron Commando",
-        "name": "Iron Commando"
+        "name": "Iron Commando",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/418640"
+        ]
     },
     "transform_file": "Iron Commando (USA).exe"
 }

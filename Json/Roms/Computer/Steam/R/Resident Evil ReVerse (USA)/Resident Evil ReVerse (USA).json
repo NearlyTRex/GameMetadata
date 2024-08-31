@@ -6,6 +6,9 @@
         "buildid": "11027038",
         "controller_support": "full",
         "installdir": "Resident Evil ReVerse",
-        "name": "Resident Evil Re:Verse"
+        "name": "Resident Evil Re:Verse",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1236300"
+        ]
     }
 }

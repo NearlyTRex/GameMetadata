@@ -12,7 +12,10 @@
         "buildid": "3425183",
         "controller_support": "partial",
         "installdir": "Dorke and Ymp",
-        "name": "Dorke and Ymp"
+        "name": "Dorke and Ymp",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/474810"
+        ]
     },
     "transform_file": "Dorke and Ymp (USA).exe"
 }

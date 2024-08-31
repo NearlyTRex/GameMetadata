@@ -15,7 +15,8 @@
         "name": "Viscera Cleanup Detail",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Viscera/Saves",
-            "STORE_INSTALL_DIR/steamapps/common/Viscera/UDKGame/Config"
+            "STORE_INSTALL_DIR/steamapps/common/Viscera/UDKGame/Config",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/246900"
         ]
     },
     "transform_file": "Viscera Cleanup Detail (USA).exe"

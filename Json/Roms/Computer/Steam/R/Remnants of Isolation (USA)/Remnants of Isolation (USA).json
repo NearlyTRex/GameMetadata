@@ -12,7 +12,10 @@
         "buildid": "1244678",
         "controller_support": "full",
         "installdir": "Remnants Of Isolation",
-        "name": "Remnants of Isolation"
+        "name": "Remnants of Isolation",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/360010"
+        ]
     },
     "transform_file": "Remnants of Isolation (USA).exe"
 }

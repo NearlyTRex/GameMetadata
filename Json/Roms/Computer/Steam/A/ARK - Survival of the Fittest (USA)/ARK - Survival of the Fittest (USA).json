@@ -13,7 +13,10 @@
         "buildid": "10837797",
         "controller_support": "partial",
         "installdir": "ARK SOTF",
-        "name": "ARK: Survival Of The Fittest"
+        "name": "ARK: Survival Of The Fittest",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/407530"
+        ]
     },
     "transform_file": "ARK - Survival of the Fittest (USA).7z.001"
 }

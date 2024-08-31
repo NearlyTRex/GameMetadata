@@ -21,7 +21,10 @@
         "keys": [
             "HKEY_CURRENT_USER/Software/NoBrakesGames/Human"
         ],
-        "name": "Human Fall Flat"
+        "name": "Human Fall Flat",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/477160"
+        ]
     },
     "transform_file": "Human - Fall Flat (USA).exe"
 }

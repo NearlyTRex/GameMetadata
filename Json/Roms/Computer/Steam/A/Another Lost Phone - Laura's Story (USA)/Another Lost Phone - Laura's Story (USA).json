@@ -8,7 +8,10 @@
         "builddate": "1527610304",
         "buildid": "2774874",
         "installdir": "Another Lost Phone Laura's Story",
-        "name": "Another Lost Phone: Laura's Story"
+        "name": "Another Lost Phone: Laura's Story",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/689910"
+        ]
     },
     "transform_file": "Another Lost Phone - Laura's Story (USA).7z"
 }

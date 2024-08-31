@@ -9,7 +9,10 @@
         "buildid": "4553289",
         "controller_support": "full",
         "installdir": "Atari Vault",
-        "name": "Atari Vault"
+        "name": "Atari Vault",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/400020"
+        ]
     },
     "transform_file": "Atari Vault (USA).7z"
 }

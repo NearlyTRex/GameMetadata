@@ -9,7 +9,10 @@
         "buildid": "3532056",
         "controller_support": "partial",
         "installdir": "Brave Battle Saga - The Legend of The Magic Warrior",
-        "name": "Brave Battle Saga - The Legend of The Magic Warrior"
+        "name": "Brave Battle Saga - The Legend of The Magic Warrior",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1028520"
+        ]
     },
     "transform_file": "Brave Battle Saga - The Legend of the Magic Warrior (USA).7z"
 }

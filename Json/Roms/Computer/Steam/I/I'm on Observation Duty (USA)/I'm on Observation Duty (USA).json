@@ -11,7 +11,10 @@
         "builddate": "1676104966",
         "buildid": "10530261",
         "installdir": "I'm on Observation Duty",
-        "name": "I'm on Observation Duty"
+        "name": "I'm on Observation Duty",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1046820"
+        ]
     },
     "transform_file": "I'm on Observation Duty (USA).exe"
 }

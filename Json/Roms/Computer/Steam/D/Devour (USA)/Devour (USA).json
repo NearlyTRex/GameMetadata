@@ -26,11 +26,14 @@
     "steam": {
         "appid": "1274570",
         "branchid": "public",
-        "builddate": "1716309616",
-        "buildid": "14444349",
+        "builddate": "1724974436",
+        "buildid": "15537845",
         "controller_support": "full",
         "installdir": "Devour",
-        "name": "DEVOUR"
+        "name": "DEVOUR",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1274570"
+        ]
     },
     "transform_file": "Devour (USA).exe"
 }

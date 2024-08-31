@@ -18,7 +18,8 @@
         "name": "STAR WARS\u2122 Jedi Knight: Dark Forces II",
         "paths": [
             "STORE_INSTALL_DIR/steamapps/common/Star Wars Jedi Knight/Controls",
-            "STORE_INSTALL_DIR/steamapps/common/Star Wars Jedi Knight/player"
+            "STORE_INSTALL_DIR/steamapps/common/Star Wars Jedi Knight/player",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/32380"
         ]
     },
     "transform_file": "Star Wars - Jedi Knight - Dark Forces II (USA).exe"

@@ -15,7 +15,10 @@
         "keys": [
             "HKEY_CURRENT_USER/Software/Radial Games Corp./Monster Loves You!"
         ],
-        "name": "Monster Loves You!"
+        "name": "Monster Loves You!",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/226740"
+        ]
     },
     "transform_file": "Monster Loves You! (USA).exe"
 }

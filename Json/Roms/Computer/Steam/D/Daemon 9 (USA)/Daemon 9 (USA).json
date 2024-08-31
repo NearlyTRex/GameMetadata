@@ -11,7 +11,10 @@
         "builddate": "1563475914",
         "buildid": "4024225",
         "installdir": "Daemon 9",
-        "name": "Daemon 9"
+        "name": "Daemon 9",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/892690"
+        ]
     },
     "transform_file": "Daemon 9 (USA).exe"
 }
