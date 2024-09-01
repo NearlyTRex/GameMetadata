@@ -432,6 +432,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Alien Swarm (USA)
+file: Computer/Steam/A/Alien Swarm (USA)/Alien Swarm (USA).json
+players: 1
+assets.boxfront: BoxFront/Alien Swarm (USA).jpg
+assets.boxback: BoxBack/Alien Swarm (USA).jpg
+assets.background: Background/Alien Swarm (USA).jpg
+assets.screenshot: Screenshot/Alien Swarm (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Alone in the Dark Prologue (USA)
 file: Computer/Steam/A/Alone in the Dark Prologue (USA)/Alone in the Dark Prologue (USA).json
 developer: Pieces Interactive
@@ -520,6 +531,28 @@ assets.boxback: BoxBack/Another Lost Phone - Laura's Story (USA).jpg
 assets.background: Background/Another Lost Phone - Laura's Story (USA).jpg
 assets.screenshot: Screenshot/Another Lost Phone - Laura's Story (USA).jpg
 assets.video: Video/Another Lost Phone - Laura's Story (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Aperture Desk Job (USA)
+file: Computer/Steam/A/Aperture Desk Job (USA)/Aperture Desk Job (USA).json
+players: 1
+assets.boxfront: BoxFront/Aperture Desk Job (USA).jpg
+assets.boxback: BoxBack/Aperture Desk Job (USA).jpg
+assets.background: Background/Aperture Desk Job (USA).jpg
+assets.screenshot: Screenshot/Aperture Desk Job (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Aperture Hand Lab (USA)
+file: Computer/Steam/A/Aperture Hand Lab (USA)/Aperture Hand Lab (USA).json
+players: 1
+assets.boxfront: BoxFront/Aperture Hand Lab (USA).jpg
+assets.boxback: BoxBack/Aperture Hand Lab (USA).jpg
+assets.background: Background/Aperture Hand Lab (USA).jpg
+assets.screenshot: Screenshot/Aperture Hand Lab (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -801,6 +834,17 @@ assets.boxback: BoxBack/Axiom Verge (USA).jpg
 assets.background: Background/Axiom Verge (USA).jpg
 assets.screenshot: Screenshot/Axiom Verge (USA).jpg
 assets.video: Video/Axiom Verge (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Bad Dream - Fever (USA)
+file: Computer/Steam/B/Bad Dream - Fever (USA)/Bad Dream - Fever (USA).json
+players: 1
+assets.boxfront: BoxFront/Bad Dream - Fever (USA).jpg
+assets.boxback: BoxBack/Bad Dream - Fever (USA).jpg
+assets.background: Background/Bad Dream - Fever (USA).jpg
+assets.screenshot: Screenshot/Bad Dream - Fever (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3888,6 +3932,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Frame Breaker (USA)
+file: Computer/Steam/F/Frame Breaker (USA)/Frame Breaker (USA).json
+players: 1
+assets.boxfront: BoxFront/Frame Breaker (USA).jpg
+assets.boxback: BoxBack/Frame Breaker (USA).jpg
+assets.background: Background/Frame Breaker (USA).jpg
+assets.screenshot: Screenshot/Frame Breaker (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: FranknJohn (USA)
 file: Computer/Steam/F/FranknJohn (USA)/FranknJohn (USA).json
 developer: bitSmith Games
@@ -6126,6 +6181,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Lab, The (USA)
+file: Computer/Steam/L/Lab, The (USA)/Lab, The (USA).json
+players: 1
+assets.boxfront: BoxFront/Lab, The (USA).jpg
+assets.boxback: BoxBack/Lab, The (USA).jpg
+assets.background: Background/Lab, The (USA).jpg
+assets.screenshot: Screenshot/Lab, The (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Labyrinthine (USA)
 file: Computer/Steam/L/Labyrinthine (USA)/Labyrinthine (USA).json
 developer: Valko Game Studios
@@ -7264,6 +7330,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Mystery Case Files - Ravenhearst (USA)
+file: Computer/Steam/M/Mystery Case Files - Ravenhearst (USA)/Mystery Case Files - Ravenhearst (USA).json
+players: 1
+assets.boxfront: BoxFront/Mystery Case Files - Ravenhearst (USA).jpg
+assets.boxback: BoxBack/Mystery Case Files - Ravenhearst (USA).jpg
+assets.background: Background/Mystery Case Files - Ravenhearst (USA).jpg
+assets.screenshot: Screenshot/Mystery Case Files - Ravenhearst (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Mystery Stories - Mountains of Madness (USA)
 file: Computer/Steam/M/Mystery Stories - Mountains of Madness (USA)/Mystery Stories - Mountains of Madness (USA).json
 developer: Big Fish Games
@@ -7501,6 +7578,17 @@ assets.boxback: BoxBack/No Man's Sky (USA).jpg
 assets.background: Background/No Man's Sky (USA).jpg
 assets.screenshot: Screenshot/No Man's Sky (USA).jpg
 assets.video: Video/No Man's Sky (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Nordhold - Origins (USA)
+file: Computer/Steam/N/Nordhold - Origins (USA)/Nordhold - Origins (USA).json
+players: 1
+assets.boxfront: BoxFront/Nordhold - Origins (USA).jpg
+assets.boxback: BoxBack/Nordhold - Origins (USA).jpg
+assets.background: Background/Nordhold - Origins (USA).jpg
+assets.screenshot: Screenshot/Nordhold - Origins (USA).jpg
 x-co-op: No
 x-playable: Yes
 

@@ -537,6 +537,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Arcade Paradise (USA)
+file: Computer/GOG/A/Arcade Paradise (USA)/Arcade Paradise (USA).json
+players: 1
+assets.boxfront: BoxFront/Arcade Paradise (USA).jpg
+assets.boxback: BoxBack/Arcade Paradise (USA).jpg
+assets.background: Background/Arcade Paradise (USA).jpg
+assets.screenshot: Screenshot/Arcade Paradise (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Arx Fatalis (USA)
 file: Computer/GOG/A/Arx Fatalis (USA)/Arx Fatalis (USA).json
 developer: Arkane Studios
@@ -2349,6 +2360,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Cat Quest II (USA)
+file: Computer/GOG/C/Cat Quest II (USA)/Cat Quest II (USA).json
+players: 1
+assets.boxfront: BoxFront/Cat Quest II (USA).jpg
+assets.boxback: BoxBack/Cat Quest II (USA).jpg
+assets.background: Background/Cat Quest II (USA).jpg
+assets.screenshot: Screenshot/Cat Quest II (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Cats Hidden in Paris (USA)
 file: Computer/GOG/C/Cats Hidden in Paris (USA)/Cats Hidden in Paris (USA).json
 developer: Travellin Cats
@@ -2733,6 +2755,28 @@ assets.background: Background/Crypt of the NecroDancer (USA).jpg
 assets.screenshot: Screenshot/Crypt of the NecroDancer (USA).jpg
 assets.video: Video/Crypt of the NecroDancer (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Crystal Caves HD (USA)
+file: Computer/GOG/C/Crystal Caves HD (USA)/Crystal Caves HD (USA).json
+players: 1
+assets.boxfront: BoxFront/Crystal Caves HD (USA).jpg
+assets.boxback: BoxBack/Crystal Caves HD (USA).jpg
+assets.background: Background/Crystal Caves HD (USA).jpg
+assets.screenshot: Screenshot/Crystal Caves HD (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: DOOM + DOOM II (USA)
+file: Computer/GOG/D/DOOM + DOOM II (USA)/DOOM + DOOM II (USA).json
+players: 1
+assets.boxfront: BoxFront/DOOM + DOOM II (USA).jpg
+assets.boxback: BoxBack/DOOM + DOOM II (USA).jpg
+assets.background: Background/DOOM + DOOM II (USA).jpg
+assets.screenshot: Screenshot/DOOM + DOOM II (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 
@@ -4557,6 +4601,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Empires - Dawn of the Modern World (USA)
+file: Computer/GOG/E/Empires - Dawn of the Modern World (USA)/Empires - Dawn of the Modern World (USA).json
+players: 1
+assets.boxfront: BoxFront/Empires - Dawn of the Modern World (USA).jpg
+assets.boxback: BoxBack/Empires - Dawn of the Modern World (USA).jpg
+assets.background: Background/Empires - Dawn of the Modern World (USA).jpg
+assets.screenshot: Screenshot/Empires - Dawn of the Modern World (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: En Garde! (USA)
+file: Computer/GOG/E/En Garde! (USA)/En Garde! (USA).json
+players: 1
+assets.boxfront: BoxFront/En Garde! (USA).jpg
+assets.boxback: BoxBack/En Garde! (USA).jpg
+assets.background: Background/En Garde! (USA).jpg
+assets.screenshot: Screenshot/En Garde! (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Enderal - Forgotten Stories (USA)
 file: Computer/GOG/E/Enderal - Forgotten Stories (USA)/Enderal - Forgotten Stories (USA).json
 developer: SureAI
@@ -5055,6 +5121,17 @@ assets.boxback: BoxBack/Fallout (USA).jpg
 assets.background: Background/Fallout (USA).jpg
 assets.screenshot: Screenshot/Fallout (USA).jpg
 assets.video: Video/Fallout (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Fallout - London (USA)
+file: Computer/GOG/F/Fallout - London (USA)/Fallout - London (USA).json
+players: 1
+assets.boxfront: BoxFront/Fallout - London (USA).jpg
+assets.boxback: BoxBack/Fallout - London (USA).jpg
+assets.background: Background/Fallout - London (USA).jpg
+assets.screenshot: Screenshot/Fallout - London (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6582,6 +6659,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Hard West 2 (USA)
+file: Computer/GOG/H/Hard West 2 (USA)/Hard West 2 (USA).json
+players: 1
+assets.boxfront: BoxFront/Hard West 2 (USA).jpg
+assets.boxback: BoxBack/Hard West 2 (USA).jpg
+assets.background: Background/Hard West 2 (USA).jpg
+assets.screenshot: Screenshot/Hard West 2 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Harvester (USA)
 file: Computer/GOG/H/Harvester (USA)/Harvester (USA).json
 developer: DigiFX Interactive
@@ -7428,6 +7516,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Industria (USA)
+file: Computer/GOG/I/Industria (USA)/Industria (USA).json
+players: 1
+assets.boxfront: BoxFront/Industria (USA).jpg
+assets.boxback: BoxBack/Industria (USA).jpg
+assets.background: Background/Industria (USA).jpg
+assets.screenshot: Screenshot/Industria (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Inscryption (USA)
 file: Computer/GOG/I/Inscryption (USA)/Inscryption (USA).json
 developer: Daniel Mullins Games
@@ -7897,6 +7996,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: LEGO The Lord of the Rings (USA)
+file: Computer/GOG/L/LEGO The Lord of the Rings (USA)/LEGO The Lord of the Rings (USA).json
+players: 1
+assets.boxfront: BoxFront/LEGO The Lord of the Rings (USA).jpg
+assets.boxback: BoxBack/LEGO The Lord of the Rings (USA).jpg
+assets.background: Background/LEGO The Lord of the Rings (USA).jpg
+assets.screenshot: Screenshot/LEGO The Lord of the Rings (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Last Door, The - Collector's Edition (USA)
 file: Computer/GOG/L/Last Door, The - Collector's Edition (USA)/Last Door, The - Collector's Edition (USA).json
 developer: The Game Kitchen
@@ -8067,6 +8177,17 @@ assets.boxback: BoxBack/Legend of Keepers - Prologue (USA).jpg
 assets.background: Background/Legend of Keepers - Prologue (USA).jpg
 assets.screenshot: Screenshot/Legend of Keepers - Prologue (USA).jpg
 assets.video: Video/Legend of Keepers - Prologue (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Lesson Learned - Cult of the Elizabeth (USA)
+file: Computer/GOG/L/Lesson Learned - Cult of the Elizabeth (USA)/Lesson Learned - Cult of the Elizabeth (USA).json
+players: 1
+assets.boxfront: BoxFront/Lesson Learned - Cult of the Elizabeth (USA).jpg
+assets.boxback: BoxBack/Lesson Learned - Cult of the Elizabeth (USA).jpg
+assets.background: Background/Lesson Learned - Cult of the Elizabeth (USA).jpg
+assets.screenshot: Screenshot/Lesson Learned - Cult of the Elizabeth (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -8724,6 +8845,28 @@ assets.boxback: BoxBack/Metro 2033 Redux (USA).jpg
 assets.background: Background/Metro 2033 Redux (USA).jpg
 assets.screenshot: Screenshot/Metro 2033 Redux (USA).jpg
 assets.video: Video/Metro 2033 Redux (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Middle-earth - Shadow of Mordor - Game of the Year Edition (USA)
+file: Computer/GOG/M/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA)/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).json
+players: 1
+assets.boxfront: BoxFront/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).jpg
+assets.boxback: BoxBack/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).jpg
+assets.background: Background/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).jpg
+assets.screenshot: Screenshot/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Midnight Fight Express (USA)
+file: Computer/GOG/M/Midnight Fight Express (USA)/Midnight Fight Express (USA).json
+players: 1
+assets.boxfront: BoxFront/Midnight Fight Express (USA).jpg
+assets.boxback: BoxBack/Midnight Fight Express (USA).jpg
+assets.background: Background/Midnight Fight Express (USA).jpg
+assets.screenshot: Screenshot/Midnight Fight Express (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -12233,6 +12376,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Spells and Secrets (USA)
+file: Computer/GOG/S/Spells and Secrets (USA)/Spells and Secrets (USA).json
+players: 1
+assets.boxfront: BoxFront/Spells and Secrets (USA).jpg
+assets.boxback: BoxBack/Spells and Secrets (USA).jpg
+assets.background: Background/Spells and Secrets (USA).jpg
+assets.screenshot: Screenshot/Spells and Secrets (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Star Trek - Armada (USA)
 file: Computer/GOG/S/Star Trek - Armada (USA)/Star Trek - Armada (USA).json
 developer: Mad Doc Software
@@ -12763,6 +12917,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: SteamWorld Heist (USA)
+file: Computer/GOG/S/SteamWorld Heist (USA)/SteamWorld Heist (USA).json
+players: 1
+assets.boxfront: BoxFront/SteamWorld Heist (USA).jpg
+assets.boxback: BoxBack/SteamWorld Heist (USA).jpg
+assets.background: Background/SteamWorld Heist (USA).jpg
+assets.screenshot: Screenshot/SteamWorld Heist (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Still Life (USA)
 file: Computer/GOG/S/Still Life (USA)/Still Life (USA).json
 developer: Microids
@@ -12927,6 +13092,17 @@ assets.boxback: BoxBack/Strafe - Gold Edition (USA).jpg
 assets.background: Background/Strafe - Gold Edition (USA).jpg
 assets.screenshot: Screenshot/Strafe - Gold Edition (USA).jpg
 assets.video: Video/Strafe - Gold Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Stray Gods - The Roleplaying Musical (USA)
+file: Computer/GOG/S/Stray Gods - The Roleplaying Musical (USA)/Stray Gods - The Roleplaying Musical (USA).json
+players: 1
+assets.boxfront: BoxFront/Stray Gods - The Roleplaying Musical (USA).jpg
+assets.boxback: BoxBack/Stray Gods - The Roleplaying Musical (USA).jpg
+assets.background: Background/Stray Gods - The Roleplaying Musical (USA).jpg
+assets.screenshot: Screenshot/Stray Gods - The Roleplaying Musical (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -13813,6 +13989,39 @@ assets.boxfront: BoxFront/Time Loader - First Memories (USA).jpg
 assets.boxback: BoxBack/Time Loader - First Memories (USA).jpg
 assets.background: Background/Time Loader - First Memories (USA).jpg
 assets.screenshot: Screenshot/Time Loader - First Memories (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Tomb Raider - The Angel of Darkness (USA)
+file: Computer/GOG/T/Tomb Raider - The Angel of Darkness (USA)/Tomb Raider - The Angel of Darkness (USA).json
+players: 1
+assets.boxfront: BoxFront/Tomb Raider - The Angel of Darkness (USA).jpg
+assets.boxback: BoxBack/Tomb Raider - The Angel of Darkness (USA).jpg
+assets.background: Background/Tomb Raider - The Angel of Darkness (USA).jpg
+assets.screenshot: Screenshot/Tomb Raider - The Angel of Darkness (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Tomb Raider - The Last Revelation (USA)
+file: Computer/GOG/T/Tomb Raider - The Last Revelation (USA)/Tomb Raider - The Last Revelation (USA).json
+players: 1
+assets.boxfront: BoxFront/Tomb Raider - The Last Revelation (USA).jpg
+assets.boxback: BoxBack/Tomb Raider - The Last Revelation (USA).jpg
+assets.background: Background/Tomb Raider - The Last Revelation (USA).jpg
+assets.screenshot: Screenshot/Tomb Raider - The Last Revelation (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Tomb Raider Chronicles (USA)
+file: Computer/GOG/T/Tomb Raider Chronicles (USA)/Tomb Raider Chronicles (USA).json
+players: 1
+assets.boxfront: BoxFront/Tomb Raider Chronicles (USA).jpg
+assets.boxback: BoxBack/Tomb Raider Chronicles (USA).jpg
+assets.background: Background/Tomb Raider Chronicles (USA).jpg
+assets.screenshot: Screenshot/Tomb Raider Chronicles (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -14728,6 +14937,17 @@ assets.boxback: BoxBack/Under The Moon (USA).jpg
 assets.background: Background/Under The Moon (USA).jpg
 assets.screenshot: Screenshot/Under The Moon (USA).jpg
 assets.video: Video/Under The Moon (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Unepic (USA)
+file: Computer/GOG/U/Unepic (USA)/Unepic (USA).json
+players: 1
+assets.boxfront: BoxFront/Unepic (USA).jpg
+assets.boxback: BoxBack/Unepic (USA).jpg
+assets.background: Background/Unepic (USA).jpg
+assets.screenshot: Screenshot/Unepic (USA).jpg
 x-co-op: No
 x-playable: Yes
 

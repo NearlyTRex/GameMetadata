@@ -944,6 +944,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Baldur's Gate - Enhanced Edition (USA)
+file: Computer/Amazon Games/B/Baldur's Gate - Enhanced Edition (USA)/Baldur's Gate - Enhanced Edition (USA).json
+players: 1
+assets.boxfront: BoxFront/Baldur's Gate - Enhanced Edition (USA).jpg
+assets.boxback: BoxBack/Baldur's Gate - Enhanced Edition (USA).jpg
+assets.background: Background/Baldur's Gate - Enhanced Edition (USA).jpg
+assets.screenshot: Screenshot/Baldur's Gate - Enhanced Edition (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Baldur's Gate II - Enhanced Edition (USA)
 file: Computer/Amazon Games/B/Baldur's Gate II - Enhanced Edition (USA)/Baldur's Gate II - Enhanced Edition (USA).json
 developer: Beamdog
@@ -991,6 +1002,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Beholder 3 (USA)
+file: Computer/Amazon Games/B/Beholder 3 (USA)/Beholder 3 (USA).json
+players: 1
+assets.boxfront: BoxFront/Beholder 3 (USA).jpg
+assets.boxback: BoxBack/Beholder 3 (USA).jpg
+assets.background: Background/Beholder 3 (USA).jpg
+assets.screenshot: Screenshot/Beholder 3 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Blade Assault (USA)
 file: Computer/Amazon Games/B/Blade Assault (USA)/Blade Assault (USA).json
 developer: TeamSuneat
@@ -1008,6 +1030,17 @@ assets.boxback: BoxBack/Blade Assault (USA).jpg
 assets.background: Background/Blade Assault (USA).jpg
 assets.screenshot: Screenshot/Blade Assault (USA).jpg
 assets.video: Video/Blade Assault (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Collage Atlas, The (USA)
+file: Computer/Amazon Games/C/Collage Atlas, The (USA)/Collage Atlas, The (USA).json
+players: 1
+assets.boxfront: BoxFront/Collage Atlas, The (USA).jpg
+assets.boxback: BoxBack/Collage Atlas, The (USA).jpg
+assets.background: Background/Collage Atlas, The (USA).jpg
+assets.screenshot: Screenshot/Collage Atlas, The (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1181,6 +1214,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Figment 2 - Creed Valley (USA)
+file: Computer/Amazon Games/F/Figment 2 - Creed Valley (USA)/Figment 2 - Creed Valley (USA).json
+players: 1
+assets.boxfront: BoxFront/Figment 2 - Creed Valley (USA).jpg
+assets.boxback: BoxBack/Figment 2 - Creed Valley (USA).jpg
+assets.background: Background/Figment 2 - Creed Valley (USA).jpg
+assets.screenshot: Screenshot/Figment 2 - Creed Valley (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Foretales (USA)
 file: Computer/Amazon Games/F/Foretales (USA)/Foretales (USA).json
 developer: Alkemi Games
@@ -1275,6 +1319,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Gravity Circuit (USA)
+file: Computer/Amazon Games/G/Gravity Circuit (USA)/Gravity Circuit (USA).json
+players: 1
+assets.boxfront: BoxFront/Gravity Circuit (USA).jpg
+assets.boxback: BoxBack/Gravity Circuit (USA).jpg
+assets.background: Background/Gravity Circuit (USA).jpg
+assets.screenshot: Screenshot/Gravity Circuit (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Grime - Definitive Edition (USA)
+file: Computer/Amazon Games/G/Grime - Definitive Edition (USA)/Grime - Definitive Edition (USA).json
+players: 1
+assets.boxfront: BoxFront/Grime - Definitive Edition (USA).jpg
+assets.boxback: BoxBack/Grime - Definitive Edition (USA).jpg
+assets.background: Background/Grime - Definitive Edition (USA).jpg
+assets.screenshot: Screenshot/Grime - Definitive Edition (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Heaven Dust 2 (USA)
 file: Computer/Amazon Games/H/Heaven Dust 2 (USA)/Heaven Dust 2 (USA).json
 developer: One Gruel Studio
@@ -1351,6 +1417,28 @@ assets.boxfront: BoxFront/Invisible Hand, The (USA).jpg
 assets.boxback: BoxBack/Invisible Hand, The (USA).jpg
 assets.background: Background/Invisible Hand, The (USA).jpg
 assets.screenshot: Screenshot/Invisible Hand, The (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Kraken Academy!! (USA)
+file: Computer/Amazon Games/K/Kraken Academy!! (USA)/Kraken Academy!! (USA).json
+players: 1
+assets.boxfront: BoxFront/Kraken Academy!! (USA).jpg
+assets.boxback: BoxBack/Kraken Academy!! (USA).jpg
+assets.background: Background/Kraken Academy!! (USA).jpg
+assets.screenshot: Screenshot/Kraken Academy!! (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Masterplan Tycoon (USA)
+file: Computer/Amazon Games/M/Masterplan Tycoon (USA)/Masterplan Tycoon (USA).json
+players: 1
+assets.boxfront: BoxFront/Masterplan Tycoon (USA).jpg
+assets.boxback: BoxBack/Masterplan Tycoon (USA).jpg
+assets.background: Background/Masterplan Tycoon (USA).jpg
+assets.screenshot: Screenshot/Masterplan Tycoon (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1540,6 +1628,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Samurai Bringer (USA)
+file: Computer/Amazon Games/S/Samurai Bringer (USA)/Samurai Bringer (USA).json
+players: 1
+assets.boxfront: BoxFront/Samurai Bringer (USA).jpg
+assets.boxback: BoxBack/Samurai Bringer (USA).jpg
+assets.background: Background/Samurai Bringer (USA).jpg
+assets.screenshot: Screenshot/Samurai Bringer (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Shovel Knight Showdown (USA)
 file: Computer/Amazon Games/S/Shovel Knight Showdown (USA)/Shovel Knight Showdown (USA).json
 developer: Yacht Club Games
@@ -1568,6 +1667,17 @@ assets.boxback: BoxBack/Shovel Knight Showdown (USA).jpg
 assets.background: Background/Shovel Knight Showdown (USA).jpg
 assets.screenshot: Screenshot/Shovel Knight Showdown (USA).jpg
 assets.video: Video/Shovel Knight Showdown (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Star Wars - Knights of the Old Republic II - The Sith Lords (USA)
+file: Computer/Amazon Games/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
+players: 1
+assets.boxfront: BoxFront/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
+assets.boxback: BoxBack/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
+assets.background: Background/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
+assets.screenshot: Screenshot/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1714,6 +1824,28 @@ assets.boxback: BoxBack/Wytchwood (USA).jpg
 assets.background: Background/Wytchwood (USA).jpg
 assets.screenshot: Screenshot/Wytchwood (USA).jpg
 assets.video: Video/Wytchwood (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Young Souls (USA)
+file: Computer/Amazon Games/Y/Young Souls (USA)/Young Souls (USA).json
+players: 1
+assets.boxfront: BoxFront/Young Souls (USA).jpg
+assets.boxback: BoxBack/Young Souls (USA).jpg
+assets.background: Background/Young Souls (USA).jpg
+assets.screenshot: Screenshot/Young Souls (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Youtubers Life 2 (USA)
+file: Computer/Amazon Games/Y/Youtubers Life 2 (USA)/Youtubers Life 2 (USA).json
+players: 1
+assets.boxfront: BoxFront/Youtubers Life 2 (USA).jpg
+assets.boxback: BoxBack/Youtubers Life 2 (USA).jpg
+assets.background: Background/Youtubers Life 2 (USA).jpg
+assets.screenshot: Screenshot/Youtubers Life 2 (USA).jpg
 x-co-op: No
 x-playable: Yes
 

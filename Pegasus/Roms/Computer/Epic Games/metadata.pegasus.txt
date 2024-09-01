@@ -101,6 +101,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Borderlands 2 (USA)
+file: Computer/Epic Games/B/Borderlands 2 (USA)/Borderlands 2 (USA).json
+players: 1
+assets.boxfront: BoxFront/Borderlands 2 (USA).jpg
+assets.boxback: BoxBack/Borderlands 2 (USA).jpg
+assets.background: Background/Borderlands 2 (USA).jpg
+assets.screenshot: Screenshot/Borderlands 2 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Borderlands 3 (USA)
 file: Computer/Epic Games/B/Borderlands 3 (USA)/Borderlands 3 (USA).json
 developer: Gearbox Software
@@ -224,6 +235,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Callisto Protocol, The (USA)
+file: Computer/Epic Games/C/Callisto Protocol, The (USA)/Callisto Protocol, The (USA).json
+players: 1
+assets.boxfront: BoxFront/Callisto Protocol, The (USA).jpg
+assets.boxback: BoxBack/Callisto Protocol, The (USA).jpg
+assets.background: Background/Callisto Protocol, The (USA).jpg
+assets.screenshot: Screenshot/Callisto Protocol, The (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Card Shark (USA)
 file: Computer/Epic Games/C/Card Shark (USA)/Card Shark (USA).json
 developer: Nerial
@@ -296,6 +318,17 @@ assets.boxback: BoxBack/Death Stranding - Director's Cut (USA).jpg
 assets.background: Background/Death Stranding - Director's Cut (USA).jpg
 assets.screenshot: Screenshot/Death Stranding - Director's Cut (USA).jpg
 assets.video: Video/Death Stranding - Director's Cut (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Death's Gambit - Afterlife (USA)
+file: Computer/Epic Games/D/Death's Gambit - Afterlife (USA)/Death's Gambit - Afterlife (USA).json
+players: 1
+assets.boxfront: BoxFront/Death's Gambit - Afterlife (USA).jpg
+assets.boxback: BoxBack/Death's Gambit - Afterlife (USA).jpg
+assets.background: Background/Death's Gambit - Afterlife (USA).jpg
+assets.screenshot: Screenshot/Death's Gambit - Afterlife (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -883,6 +916,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: KeyWe (USA)
+file: Computer/Epic Games/K/KeyWe (USA)/KeyWe (USA).json
+players: 1
+assets.boxfront: BoxFront/KeyWe (USA).jpg
+assets.boxback: BoxBack/KeyWe (USA).jpg
+assets.background: Background/KeyWe (USA).jpg
+assets.screenshot: Screenshot/KeyWe (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Killing Floor 2 (USA)
 file: Computer/Epic Games/K/Killing Floor 2 (USA)/Killing Floor 2 (USA).json
 developer: Tripwire Interactive
@@ -914,6 +958,17 @@ assets.background: Background/Killing Floor 2 (USA).jpg
 assets.screenshot: Screenshot/Killing Floor 2 (USA).jpg
 assets.video: Video/Killing Floor 2 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Loop Hero (USA)
+file: Computer/Epic Games/L/Loop Hero (USA)/Loop Hero (USA).json
+players: 1
+assets.boxfront: BoxFront/Loop Hero (USA).jpg
+assets.boxback: BoxBack/Loop Hero (USA).jpg
+assets.background: Background/Loop Hero (USA).jpg
+assets.screenshot: Screenshot/Loop Hero (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 
@@ -1579,6 +1634,17 @@ assets.boxback: BoxBack/Tomb Raider - Game of the Year Edition (USA).jpg
 assets.background: Background/Tomb Raider - Game of the Year Edition (USA).jpg
 assets.screenshot: Screenshot/Tomb Raider - Game of the Year Edition (USA).jpg
 assets.video: Video/Tomb Raider - Game of the Year Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Trek to Yomi (USA)
+file: Computer/Epic Games/T/Trek to Yomi (USA)/Trek to Yomi (USA).json
+players: 1
+assets.boxfront: BoxFront/Trek to Yomi (USA).jpg
+assets.boxback: BoxBack/Trek to Yomi (USA).jpg
+assets.background: Background/Trek to Yomi (USA).jpg
+assets.screenshot: Screenshot/Trek to Yomi (USA).jpg
 x-co-op: No
 x-playable: Yes
 
