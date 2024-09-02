@@ -7918,6 +7918,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Knights and Merchants (USA)
+file: Computer/GOG/K/Knights and Merchants (USA)/Knights and Merchants (USA).json
+players: 1
+assets.boxfront: BoxFront/Knights and Merchants (USA).jpg
+assets.boxback: BoxBack/Knights and Merchants (USA).jpg
+assets.background: Background/Knights and Merchants (USA).jpg
+assets.screenshot: Screenshot/Knights and Merchants (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Knock-Knock (USA)
 file: Computer/GOG/K/Knock-Knock (USA)/Knock-Knock (USA).json
 developer: Ice-pick Lodge
