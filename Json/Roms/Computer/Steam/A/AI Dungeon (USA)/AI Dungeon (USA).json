@@ -1,4 +1,7 @@
 {
+    "files": [
+        "AI Dungeon (USA) (9263510).7z"
+    ],
     "steam": {
         "appid": "1519310",
         "branchid": "public",
@@ -10,5 +13,6 @@
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1519310"
         ]
-    }
+    },
+    "transform_file": "AI Dungeon (USA) (9263510).7z"
 }
