@@ -1,0 +1,17 @@
+{
+    "steam": {
+        "appid": "868020",
+        "branchid": "public",
+        "builddate": "1561488919",
+        "buildid": "3953934",
+        "installdir": "Knux",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Cloudhead Games, Ltd./Knux"
+        ],
+        "name": "Aperture Hand Lab",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Knux/Knux_Data/settings.json",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/868020"
+        ]
+    }
+}
