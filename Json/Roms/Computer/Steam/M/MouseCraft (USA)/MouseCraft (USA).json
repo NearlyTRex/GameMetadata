@@ -23,15 +23,8 @@
             "STORE_INSTALL_DIR/steamapps/common/MouseCraft/User Data/save.xml",
             "STORE_INSTALL_DIR/steamapps/common/MouseCraft/User Data/settings.xml",
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/252750",
-            "USER_PROFILE_DIR/Documents/Crunching Koalas/MouseCraft/save.xml",
-            "USER_PROFILE_DIR/Documents/Crunching Koalas/MouseCraft/settings.xml"
+            "USER_PROFILE_DIR/Documents/Crunching Koalas/MouseCraft"
         ]
-    },
-    "sync": {
-        "data": [
-            "User Data"
-        ],
-        "search": "MouseCraft/MouseCraft.exe"
     },
     "transform_file": "MouseCraft (USA).exe"
 }

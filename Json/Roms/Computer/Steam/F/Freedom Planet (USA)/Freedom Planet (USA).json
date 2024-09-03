@@ -35,13 +35,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/248310"
         ]
     },
-    "sync": {
-        "data": [
-            "file*.sav",
-            "records.dat",
-            "*.cfg"
-        ],
-        "search": "Freedom Planet/FP.exe"
-    },
     "transform_file": "Freedom Planet (USA).exe"
 }

@@ -31,9 +31,7 @@
         "name": "DOOM",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/379720",
-            "USER_PROFILE_DIR/Saved Games/id Software/DOOM/base/DOOMConfig.cfg",
-            "USER_PROFILE_DIR/Saved Games/id Software/DOOM/base/savegame",
-            "USER_PROFILE_DIR/Saved Games/id Software/DOOM/base/savegame.user"
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM"
         ]
     },
     "transform_file": "Doom (USA).exe"

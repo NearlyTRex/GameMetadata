@@ -34,11 +34,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/32400"
         ]
     },
-    "sync": {
-        "data": [
-            "*.CFG"
-        ],
-        "search": "Star Wars - Dark Forces/Game/DARK.EXE"
-    },
     "transform_file": "Star Wars - Dark Forces (USA).exe"
 }
