@@ -101,6 +101,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Borderlands - The Pre-Sequel (USA)
+file: Computer/Epic Games/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
+players: 1
+assets.boxfront: BoxFront/Borderlands - The Pre-Sequel (USA).jpg
+assets.boxback: BoxBack/Borderlands - The Pre-Sequel (USA).jpg
+assets.background: Background/Borderlands - The Pre-Sequel (USA).jpg
+assets.screenshot: Screenshot/Borderlands - The Pre-Sequel (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Borderlands 2 (USA)
 file: Computer/Epic Games/B/Borderlands 2 (USA)/Borderlands 2 (USA).json
 players: 1
@@ -294,6 +305,17 @@ assets.boxback: BoxBack/Cave Story+ (USA).jpg
 assets.background: Background/Cave Story+ (USA).jpg
 assets.screenshot: Screenshot/Cave Story+ (USA).jpg
 assets.video: Video/Cave Story+ (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Death Stranding (USA)
+file: Computer/Epic Games/D/Death Stranding (USA)/Death Stranding (USA).json
+players: 1
+assets.boxfront: BoxFront/Death Stranding (USA).jpg
+assets.boxback: BoxBack/Death Stranding (USA).jpg
+assets.background: Background/Death Stranding (USA).jpg
+assets.screenshot: Screenshot/Death Stranding (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -533,6 +555,17 @@ assets.screenshot: Screenshot/Eternal Threads (USA).jpg
 assets.video: Video/Eternal Threads (USA).mp4
 x-co-op: No
 x-playable: No
+
+
+game: Eternights (USA)
+file: Computer/Epic Games/E/Eternights (USA)/Eternights (USA).json
+players: 1
+assets.boxfront: BoxFront/Eternights (USA).jpg
+assets.boxback: BoxBack/Eternights (USA).jpg
+assets.background: Background/Eternights (USA).jpg
+assets.screenshot: Screenshot/Eternights (USA).jpg
+x-co-op: No
+x-playable: Yes
 
 
 game: Evil Dead - The Game (USA)

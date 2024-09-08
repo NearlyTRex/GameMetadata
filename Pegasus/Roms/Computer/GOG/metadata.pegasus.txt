@@ -6523,6 +6523,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: GreedFall (USA)
+file: Computer/GOG/G/GreedFall (USA)/GreedFall (USA).json
+players: 1
+assets.boxfront: BoxFront/GreedFall (USA).jpg
+assets.boxback: BoxBack/GreedFall (USA).jpg
+assets.background: Background/GreedFall (USA).jpg
+assets.screenshot: Screenshot/GreedFall (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Grim Dawn (USA)
 file: Computer/GOG/G/Grim Dawn (USA)/Grim Dawn (USA).json
 developer: Crate Entertainment
@@ -9769,6 +9780,17 @@ assets.boxback: BoxBack/Observer - System Redux (USA).jpg
 assets.background: Background/Observer - System Redux (USA).jpg
 assets.screenshot: Screenshot/Observer - System Redux (USA).jpg
 assets.video: Video/Observer - System Redux (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Once Upon a Jester (USA)
+file: Computer/GOG/O/Once Upon a Jester (USA)/Once Upon a Jester (USA).json
+players: 1
+assets.boxfront: BoxFront/Once Upon a Jester (USA).jpg
+assets.boxback: BoxBack/Once Upon a Jester (USA).jpg
+assets.background: Background/Once Upon a Jester (USA).jpg
+assets.screenshot: Screenshot/Once Upon a Jester (USA).jpg
 x-co-op: No
 x-playable: Yes
 
