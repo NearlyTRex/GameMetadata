@@ -593,6 +593,17 @@ x-co-op: Yes
 x-playable: No
 
 
+game: Fallout - Classic Collection (USA)
+file: Computer/Epic Games/F/Fallout - Classic Collection (USA)/Fallout - Classic Collection (USA).json
+players: 1
+assets.boxfront: BoxFront/Fallout - Classic Collection (USA).jpg
+assets.boxback: BoxBack/Fallout - Classic Collection (USA).jpg
+assets.background: Background/Fallout - Classic Collection (USA).jpg
+assets.screenshot: Screenshot/Fallout - Classic Collection (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Fallout - New Vegas - Ultimate Edition (USA)
 file: Computer/Epic Games/F/Fallout - New Vegas - Ultimate Edition (USA)/Fallout - New Vegas - Ultimate Edition (USA).json
 developer: Obsidian Entertainment
