@@ -3756,6 +3756,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Fields of Mistria (USA)
+file: Computer/Steam/F/Fields of Mistria (USA)/Fields of Mistria (USA).json
+players: 1
+assets.boxfront: BoxFront/Fields of Mistria (USA).jpg
+assets.boxback: BoxBack/Fields of Mistria (USA).jpg
+assets.background: Background/Fields of Mistria (USA).jpg
+assets.screenshot: Screenshot/Fields of Mistria (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Five Dates (USA)
 file: Computer/Steam/F/Five Dates (USA)/Five Dates (USA).json
 developer: Good Gate Media
