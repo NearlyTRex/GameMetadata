@@ -1,16 +1,12 @@
 {
     "files": [
-        "Dark Pictures Anthology, The - Little Hope (USA).7z.001",
-        "Dark Pictures Anthology, The - Little Hope (USA).7z.002",
-        "Dark Pictures Anthology, The - Little Hope (USA).7z.003",
-        "Dark Pictures Anthology, The - Little Hope (USA).7z.004",
-        "Dark Pictures Anthology, The - Little Hope (USA).7z.005",
-        "Dark Pictures Anthology, The - Little Hope (USA).7z.006",
-        "Dark Pictures Anthology, The - Little Hope (USA).7z.007",
-        "Dark Pictures Anthology, The - Little Hope (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - Little Hope (USA).exe"
+        "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.001",
+        "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.002",
+        "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.003",
+        "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.004",
+        "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.005",
+        "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.006",
+        "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.007"
     ],
     "main_game_exe": [
         "The Dark Pictures Anthology - Little Hope/LittleHope.exe"
@@ -47,5 +43,5 @@
             "USER_PROFILE_DIR/AppData/Local/LittleHope"
         ]
     },
-    "transform_file": "Dark Pictures Anthology, The - Little Hope (USA).exe"
+    "transform_file": "Dark Pictures Anthology, The - Little Hope (USA) (11200128).7z.001"
 }

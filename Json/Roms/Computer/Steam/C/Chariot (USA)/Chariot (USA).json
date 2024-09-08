@@ -1,9 +1,6 @@
 {
     "files": [
-        "Chariot (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Chariot (USA).exe"
+        "Chariot (USA) (869796).7z"
     ],
     "steam": {
         "appid": "319450",
@@ -19,5 +16,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/319450"
         ]
     },
-    "transform_file": "Chariot (USA).exe"
+    "transform_file": "Chariot (USA) (869796).7z"
 }

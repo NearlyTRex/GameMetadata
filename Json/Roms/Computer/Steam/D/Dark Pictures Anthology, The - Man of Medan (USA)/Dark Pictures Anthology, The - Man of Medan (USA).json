@@ -1,15 +1,11 @@
 {
     "files": [
-        "Dark Pictures Anthology, The - Man of Medan (USA).7z.001",
-        "Dark Pictures Anthology, The - Man of Medan (USA).7z.002",
-        "Dark Pictures Anthology, The - Man of Medan (USA).7z.003",
-        "Dark Pictures Anthology, The - Man of Medan (USA).7z.004",
-        "Dark Pictures Anthology, The - Man of Medan (USA).7z.005",
-        "Dark Pictures Anthology, The - Man of Medan (USA).7z.006",
-        "Dark Pictures Anthology, The - Man of Medan (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - Man of Medan (USA).exe"
+        "Dark Pictures Anthology, The - Man of Medan (USA) (10739751).7z.001",
+        "Dark Pictures Anthology, The - Man of Medan (USA) (10739751).7z.002",
+        "Dark Pictures Anthology, The - Man of Medan (USA) (10739751).7z.003",
+        "Dark Pictures Anthology, The - Man of Medan (USA) (10739751).7z.004",
+        "Dark Pictures Anthology, The - Man of Medan (USA) (10739751).7z.005",
+        "Dark Pictures Anthology, The - Man of Medan (USA) (10739751).7z.006"
     ],
     "main_game_exe": [
         "The Dark Pictures Anthology - Man of Medan/ManOfMedan.exe"
@@ -46,5 +42,5 @@
             "USER_PROFILE_DIR/AppData/Local/ManOfMedan"
         ]
     },
-    "transform_file": "Dark Pictures Anthology, The - Man of Medan (USA).exe"
+    "transform_file": "Dark Pictures Anthology, The - Man of Medan (USA) (10739751).7z.001"
 }

@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Boomeroad (USA) (12876510).7z"
+    ],
     "steam": {
         "appid": "2512820",
         "branchid": "public",
@@ -11,5 +14,6 @@
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2512820"
         ]
-    }
+    },
+    "transform_file": "Boomeroad (USA) (12876510).7z"
 }

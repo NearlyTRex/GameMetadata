@@ -1,9 +1,6 @@
 {
     "files": [
-        "Daemon 9 (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Daemon 9 (USA).exe"
+        "Daemon 9 (USA) (4024225).7z"
     ],
     "steam": {
         "appid": "892690",
@@ -17,5 +14,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/892690"
         ]
     },
-    "transform_file": "Daemon 9 (USA).exe"
+    "transform_file": "Daemon 9 (USA) (4024225).7z"
 }

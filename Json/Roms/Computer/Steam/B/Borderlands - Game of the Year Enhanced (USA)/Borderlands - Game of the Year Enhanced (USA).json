@@ -1,4 +1,10 @@
 {
+    "files": [
+        "Borderlands - Game of the Year Enhanced (USA) (9171464).7z.001",
+        "Borderlands - Game of the Year Enhanced (USA) (9171464).7z.002",
+        "Borderlands - Game of the Year Enhanced (USA) (9171464).7z.003",
+        "Borderlands - Game of the Year Enhanced (USA) (9171464).7z.004"
+    ],
     "steam": {
         "appid": "729040",
         "branchid": "public",
@@ -12,5 +18,6 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/729040",
             "USER_PROFILE_DIR/Documents/My Games/Borderlands Game of the Year"
         ]
-    }
+    },
+    "transform_file": "Borderlands - Game of the Year Enhanced (USA) (9171464).7z.001"
 }

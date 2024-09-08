@@ -1,9 +1,6 @@
 {
     "files": [
-        "Crypt of the NecroDancer (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Crypt of the NecroDancer (USA).exe"
+        "Crypt of the NecroDancer (USA) (15383827).7z"
     ],
     "main_game_exe": [
         "Crypt of the NecroDancer/Necrodancer64/Necrodancer.exe"
@@ -36,5 +33,5 @@
             "USER_PROFILE_DIR/AppData/Roaming/NecroDancer"
         ]
     },
-    "transform_file": "Crypt of the NecroDancer (USA).exe"
+    "transform_file": "Crypt of the NecroDancer (USA) (15383827).7z"
 }

@@ -1,9 +1,6 @@
 {
     "files": [
-        "Contra Anniversary Collection (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Contra Anniversary Collection (USA).exe"
+        "Contra Anniversary Collection (USA) (3875530).7z"
     ],
     "main_game_exe": [
         "Contra Anniversary Collection/game.exe"
@@ -34,5 +31,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1018020"
         ]
     },
-    "transform_file": "Contra Anniversary Collection (USA).exe"
+    "transform_file": "Contra Anniversary Collection (USA) (3875530).7z"
 }

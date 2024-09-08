@@ -1,9 +1,6 @@
 {
     "files": [
-        "Condemned - Criminal Origins (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Condemned - Criminal Origins (USA).exe"
+        "Condemned - Criminal Origins (USA) (15838).7z"
     ],
     "steam": {
         "appid": "4720",
@@ -17,5 +14,5 @@
             "USER_PUBLIC_DIR/Documents/Monolith Productions/Condemned"
         ]
     },
-    "transform_file": "Condemned - Criminal Origins (USA).exe"
+    "transform_file": "Condemned - Criminal Origins (USA) (15838).7z"
 }

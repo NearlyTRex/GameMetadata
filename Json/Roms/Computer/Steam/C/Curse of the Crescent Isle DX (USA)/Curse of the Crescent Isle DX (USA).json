@@ -1,9 +1,6 @@
 {
     "files": [
-        "Curse of the Crescent Isle DX (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Curse of the Crescent Isle DX (USA).exe"
+        "Curse of the Crescent Isle DX (USA) (1671843).7z"
     ],
     "steam": {
         "appid": "365120",
@@ -20,5 +17,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/365120"
         ]
     },
-    "transform_file": "Curse of the Crescent Isle DX (USA).exe"
+    "transform_file": "Curse of the Crescent Isle DX (USA) (1671843).7z"
 }

@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Cakey's Twisted Bakery (USA) (15095248).7z"
+    ],
     "steam": {
         "appid": "3028500",
         "branchid": "public",
@@ -10,5 +13,6 @@
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/3028500"
         ]
-    }
+    },
+    "transform_file": "Cakey's Twisted Bakery (USA) (15095248).7z"
 }

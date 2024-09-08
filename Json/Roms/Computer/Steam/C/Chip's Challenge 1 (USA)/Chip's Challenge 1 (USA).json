@@ -1,4 +1,7 @@
 {
+    "files": [
+        "Chip's Challenge 1 (USA) (2722355).7z"
+    ],
     "steam": {
         "appid": "346850",
         "branchid": "public",
@@ -14,5 +17,6 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/346850",
             "USER_PROFILE_DIR/AppData/Local/VirtualStore/entpack.ini"
         ]
-    }
+    },
+    "transform_file": "Chip's Challenge 1 (USA) (2722355).7z"
 }

@@ -1,9 +1,6 @@
 {
     "files": [
-        "Corridor, The (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Corridor, The (USA).exe"
+        "Corridor, The (USA) (12956089).7z"
     ],
     "steam": {
         "appid": "1347030",
@@ -18,5 +15,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1347030"
         ]
     },
-    "transform_file": "Corridor, The (USA).exe"
+    "transform_file": "Corridor, The (USA) (12956089).7z"
 }

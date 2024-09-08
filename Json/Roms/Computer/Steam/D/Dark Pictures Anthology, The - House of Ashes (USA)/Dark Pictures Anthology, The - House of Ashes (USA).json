@@ -1,15 +1,11 @@
 {
     "files": [
-        "Dark Pictures Anthology, The - House of Ashes (USA).7z.001",
-        "Dark Pictures Anthology, The - House of Ashes (USA).7z.002",
-        "Dark Pictures Anthology, The - House of Ashes (USA).7z.003",
-        "Dark Pictures Anthology, The - House of Ashes (USA).7z.004",
-        "Dark Pictures Anthology, The - House of Ashes (USA).7z.005",
-        "Dark Pictures Anthology, The - House of Ashes (USA).7z.006",
-        "Dark Pictures Anthology, The - House of Ashes (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - House of Ashes (USA).exe"
+        "Dark Pictures Anthology, The - House of Ashes (USA) (8603627).7z.001",
+        "Dark Pictures Anthology, The - House of Ashes (USA) (8603627).7z.002",
+        "Dark Pictures Anthology, The - House of Ashes (USA) (8603627).7z.003",
+        "Dark Pictures Anthology, The - House of Ashes (USA) (8603627).7z.004",
+        "Dark Pictures Anthology, The - House of Ashes (USA) (8603627).7z.005",
+        "Dark Pictures Anthology, The - House of Ashes (USA) (8603627).7z.006"
     ],
     "main_game_exe": [
         "The Dark Pictures Anthology - House of Ashes/HouseOfAshes.exe"
@@ -46,5 +42,5 @@
             "USER_PROFILE_DIR/AppData/Local/HouseOfAshes"
         ]
     },
-    "transform_file": "Dark Pictures Anthology, The - House of Ashes (USA).exe"
+    "transform_file": "Dark Pictures Anthology, The - House of Ashes (USA) (8603627).7z.001"
 }

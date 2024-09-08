@@ -1,12 +1,8 @@
 {
     "files": [
-        "Complex, The (USA).7z.001",
-        "Complex, The (USA).7z.002",
-        "Complex, The (USA).7z.003",
-        "Complex, The (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Complex, The (USA).exe"
+        "Complex, The (USA) (12294997).7z.001",
+        "Complex, The (USA) (12294997).7z.002",
+        "Complex, The (USA) (12294997).7z.003"
     ],
     "main_game_exe": [
         "The Complex/TheComplex.exe"
@@ -37,5 +33,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1107790"
         ]
     },
-    "transform_file": "Complex, The (USA).exe"
+    "transform_file": "Complex, The (USA) (12294997).7z.001"
 }

@@ -1,9 +1,6 @@
 {
     "files": [
-        "Crimzon Clover World Ignition (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Crimzon Clover World Ignition (USA).exe"
+        "Crimzon Clover World Ignition (USA) (4683028).7z"
     ],
     "main_game_exe": [
         "Crimzon Clover World Ignition/CrimzonClover_WI.exe"
@@ -30,5 +27,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/285440"
         ]
     },
-    "transform_file": "Crimzon Clover World Ignition (USA).exe"
+    "transform_file": "Crimzon Clover World Ignition (USA) (4683028).7z"
 }

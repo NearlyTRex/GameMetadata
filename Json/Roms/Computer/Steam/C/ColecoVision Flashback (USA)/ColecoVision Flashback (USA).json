@@ -1,9 +1,6 @@
 {
     "files": [
-        "ColecoVision Flashback (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/ColecoVision Flashback (USA).exe"
+        "ColecoVision Flashback (USA) (1367707).7z"
     ],
     "steam": {
         "appid": "529860",
@@ -17,5 +14,5 @@
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/529860"
         ]
     },
-    "transform_file": "ColecoVision Flashback (USA).exe"
+    "transform_file": "ColecoVision Flashback (USA) (1367707).7z"
 }

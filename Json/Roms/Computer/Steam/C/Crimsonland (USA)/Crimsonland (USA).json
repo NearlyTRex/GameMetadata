@@ -1,9 +1,6 @@
 {
     "files": [
-        "Crimsonland (USA).exe"
-    ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Crimsonland (USA).exe"
+        "Crimsonland (USA) (9959747).7z"
     ],
     "main_game_exe": [
         "Crimsonland/Crimsonland.exe"
@@ -25,5 +22,5 @@
             "USER_PROFILE_DIR/AppData/Roaming/10tons/Crimsonland"
         ]
     },
-    "transform_file": "Crimsonland (USA).exe"
+    "transform_file": "Crimsonland (USA) (9959747).7z"
 }
