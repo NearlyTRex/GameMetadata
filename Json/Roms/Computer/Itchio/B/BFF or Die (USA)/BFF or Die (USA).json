@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/BFF or Die (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://asa-studio.itch.io/bff-or-die"
+    },
     "transform_file": "BFF or Die (USA).exe"
 }

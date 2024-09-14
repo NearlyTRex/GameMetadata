@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/BackFire (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://nebulaprojects.itch.io/backfire"
+    },
     "transform_file": "BackFire (USA).exe"
 }

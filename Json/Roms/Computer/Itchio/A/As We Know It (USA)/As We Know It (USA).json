@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/As We Know It (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://scribbles.itch.io/as-we-know-it"
+    },
     "transform_file": "As We Know It (USA).exe"
 }
