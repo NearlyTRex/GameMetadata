@@ -1,5 +1,10 @@
 {
     "epic": {
-        "appname": "908f75e7f1624819a70c27f543741dcd"
+        "appname": "908f75e7f1624819a70c27f543741dcd",
+        "buildid": "1.4",
+        "name": "Fallout Tactics: Brotherhood of Steel",
+        "paths": [
+            "STORE_INSTALL_DIR/Fallout Tactics/core/user/save"
+        ]
     }
 }

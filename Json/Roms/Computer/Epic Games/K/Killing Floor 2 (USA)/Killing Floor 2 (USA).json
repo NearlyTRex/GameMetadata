@@ -1,6 +1,12 @@
 {
     "epic": {
-        "appname": "Finch"
+        "appname": "Finch",
+        "buildid": "537162-2024_01_30_21h15m50s",
+        "name": "Killing Floor 2",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/KF2",
+            "USER_PROFILE_DIR/Documents/My Games/KillingFloor2"
+        ]
     },
     "files": [
         "Killing Floor 2 (USA).7z.001",

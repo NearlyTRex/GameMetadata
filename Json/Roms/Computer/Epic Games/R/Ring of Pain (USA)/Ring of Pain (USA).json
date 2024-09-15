@@ -1,6 +1,11 @@
 {
     "epic": {
-        "appname": "130285de16cc429abc603eaf95b8787b"
+        "appname": "130285de16cc429abc603eaf95b8787b",
+        "buildid": "1.6.02",
+        "name": "Ring of Pain",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Twice Different/Ring Of Pain"
+        ]
     },
     "files": [
         "Ring of Pain (USA).exe"

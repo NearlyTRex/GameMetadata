@@ -1,6 +1,11 @@
 {
     "epic": {
-        "appname": "Catnip"
+        "appname": "Catnip",
+        "buildid": "1.0.26_CL_3758051_Borderlands_3",
+        "name": "Borderlands 3",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Borderlands 3"
+        ]
     },
     "files": [
         "Borderlands 3 (USA).7z.001",

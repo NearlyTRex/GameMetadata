@@ -1,5 +1,10 @@
 {
     "epic": {
-        "appname": "ef50503adc284a8ba65d4dea1ecce91a"
+        "appname": "ef50503adc284a8ba65d4dea1ecce91a",
+        "buildid": "1.0.25523",
+        "name": "Invincible Presents: Atom Eve",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Skybound/atom-eve-game-client"
+        ]
     }
 }

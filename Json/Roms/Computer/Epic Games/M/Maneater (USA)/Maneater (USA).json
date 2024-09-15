@@ -1,6 +1,11 @@
 {
     "epic": {
-        "appname": "Turtle"
+        "appname": "Turtle",
+        "buildid": "43151315",
+        "name": "Maneater",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Maneater"
+        ]
     },
     "files": [
         "Maneater (USA).7z.001",

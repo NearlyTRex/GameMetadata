@@ -1,5 +1,10 @@
 {
     "epic": {
-        "appname": "7d5ec41fb5ae49c5beca9360034fd57e"
+        "appname": "7d5ec41fb5ae49c5beca9360034fd57e",
+        "buildid": "2.08.1",
+        "name": "Lost Castle",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Hunter Studio/Lost_Castle"
+        ]
     }
 }

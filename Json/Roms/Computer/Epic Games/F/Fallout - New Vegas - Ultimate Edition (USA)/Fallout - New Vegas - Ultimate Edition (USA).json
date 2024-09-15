@@ -1,6 +1,11 @@
 {
     "epic": {
-        "appname": "5daeb974a22a435988892319b3a4f476"
+        "appname": "5daeb974a22a435988892319b3a4f476",
+        "buildid": "0.0.0.15",
+        "name": "Fallout: New Vegas",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/FalloutNV_Epic"
+        ]
     },
     "files": [
         "Fallout - New Vegas - Ultimate Edition (USA).7z.001",

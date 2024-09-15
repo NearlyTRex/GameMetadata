@@ -1,5 +1,11 @@
 {
     "epic": {
-        "appname": "4123bcce398b4b1d8b9ef878f81055d1"
+        "appname": "4123bcce398b4b1d8b9ef878f81055d1",
+        "buildid": "TH4_EPIC_1.7.0.5",
+        "name": "Thief",
+        "paths": [
+            "STORE_INSTALL_DIR/ThiefGame/SaveData",
+            "USER_PROFILE_DIR/Documents/My Games/Thief"
+        ]
     }
 }

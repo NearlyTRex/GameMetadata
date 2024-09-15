@@ -1,5 +1,10 @@
 {
     "epic": {
-        "appname": "331b6a9944d9475dadac1469dc4390de"
+        "appname": "331b6a9944d9475dadac1469dc4390de",
+        "buildid": "1.0.5.1-release-pc-28-g7e052a5",
+        "name": "MythForce",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/MythForce"
+        ]
     }
 }

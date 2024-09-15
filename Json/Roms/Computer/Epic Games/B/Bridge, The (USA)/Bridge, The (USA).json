@@ -1,5 +1,10 @@
 {
     "epic": {
-        "appname": "Sunbird"
+        "appname": "Sunbird",
+        "buildid": "Win_2024-04-25_12-21-21",
+        "name": "The Bridge",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/The Quantum Astrophysicists Guild/The Bridge"
+        ]
     }
 }

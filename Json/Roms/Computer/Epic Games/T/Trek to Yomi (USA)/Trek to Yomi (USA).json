@@ -1,5 +1,10 @@
 {
     "epic": {
-        "appname": "4dfe86c3ca4541edb53d47f6e2e47d30"
+        "appname": "4dfe86c3ca4541edb53d47f6e2e47d30",
+        "buildid": "1.007",
+        "name": "Trek to Yomi",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Trek to Yomi/Ronin"
+        ]
     }
 }

@@ -1,6 +1,11 @@
 {
     "epic": {
-        "appname": "6b994d7f4f2a4e85a54d5c2ede6d2fed"
+        "appname": "6b994d7f4f2a4e85a54d5c2ede6d2fed",
+        "buildid": "1.0.5",
+        "name": "Out of Line",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Nerd Monkeys/Out of Line"
+        ]
     },
     "files": [
         "Out of Line (USA).exe"

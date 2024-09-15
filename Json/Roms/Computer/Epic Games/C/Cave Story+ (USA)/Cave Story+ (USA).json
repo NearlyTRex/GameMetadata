@@ -1,6 +1,11 @@
 {
     "epic": {
-        "appname": "1dea8a6ddb544842a58e4b5c8675ff58"
+        "appname": "1dea8a6ddb544842a58e4b5c8675ff58",
+        "buildid": "1.1",
+        "name": "Cave Story+",
+        "paths": [
+            "STORE_INSTALL_DIR/CaveStoryPlus/Profile.dat"
+        ]
     },
     "files": [
         "Cave Story+ (USA).exe"
