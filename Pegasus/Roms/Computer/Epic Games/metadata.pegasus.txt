@@ -2,24 +2,57 @@ collection: Computer - Epic Games
 launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Epic Games" -n {file.basename}
 
 
-game: 3 out of 10 - Season One (USA)
-file: Computer/Epic Games/#-0/3 out of 10 - Season One (USA)/3 out of 10 - Season One (USA).json
-developer: Terrible Posture Games
-publisher: Terrible Posture Games
-genre: Adventure;General
-description:
-  Will Shovelworks Studios ever make a game that scores better than a 3/10?
-  Experience the world's first Playable Sitcom to find out.
-  .
-  Join the ongoing adventures of developers at the world's worst video game studio
-  as they endure antics both absurd and topical.
-release: 2020-08-06
+game: 3 out of 10 - Episode 1 (USA)
+file: Computer/Epic Games/#-0/3 out of 10 - Episode 1 (USA)/3 out of 10 - Episode 1 (USA).json
 players: 1
-assets.boxfront: BoxFront/3 out of 10 - Season One (USA).jpg
-assets.boxback: BoxBack/3 out of 10 - Season One (USA).jpg
-assets.background: Background/3 out of 10 - Season One (USA).jpg
-assets.screenshot: Screenshot/3 out of 10 - Season One (USA).jpg
-assets.video: Video/3 out of 10 - Season One (USA).mp4
+assets.boxfront: BoxFront/3 out of 10 - Episode 1 (USA).jpg
+assets.boxback: BoxBack/3 out of 10 - Episode 1 (USA).jpg
+assets.background: Background/3 out of 10 - Episode 1 (USA).jpg
+assets.screenshot: Screenshot/3 out of 10 - Episode 1 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: 3 out of 10 - Episode 2 (USA)
+file: Computer/Epic Games/#-0/3 out of 10 - Episode 2 (USA)/3 out of 10 - Episode 2 (USA).json
+players: 1
+assets.boxfront: BoxFront/3 out of 10 - Episode 2 (USA).jpg
+assets.boxback: BoxBack/3 out of 10 - Episode 2 (USA).jpg
+assets.background: Background/3 out of 10 - Episode 2 (USA).jpg
+assets.screenshot: Screenshot/3 out of 10 - Episode 2 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: 3 out of 10 - Episode 3 (USA)
+file: Computer/Epic Games/#-0/3 out of 10 - Episode 3 (USA)/3 out of 10 - Episode 3 (USA).json
+players: 1
+assets.boxfront: BoxFront/3 out of 10 - Episode 3 (USA).jpg
+assets.boxback: BoxBack/3 out of 10 - Episode 3 (USA).jpg
+assets.background: Background/3 out of 10 - Episode 3 (USA).jpg
+assets.screenshot: Screenshot/3 out of 10 - Episode 3 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: 3 out of 10 - Episode 4 (USA)
+file: Computer/Epic Games/#-0/3 out of 10 - Episode 4 (USA)/3 out of 10 - Episode 4 (USA).json
+players: 1
+assets.boxfront: BoxFront/3 out of 10 - Episode 4 (USA).jpg
+assets.boxback: BoxBack/3 out of 10 - Episode 4 (USA).jpg
+assets.background: Background/3 out of 10 - Episode 4 (USA).jpg
+assets.screenshot: Screenshot/3 out of 10 - Episode 4 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: 3 out of 10 - Episode 5 (USA)
+file: Computer/Epic Games/#-0/3 out of 10 - Episode 5 (USA)/3 out of 10 - Episode 5 (USA).json
+players: 1
+assets.boxfront: BoxFront/3 out of 10 - Episode 5 (USA).jpg
+assets.boxback: BoxBack/3 out of 10 - Episode 5 (USA).jpg
+assets.background: Background/3 out of 10 - Episode 5 (USA).jpg
+assets.screenshot: Screenshot/3 out of 10 - Episode 5 (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -593,13 +626,13 @@ x-co-op: Yes
 x-playable: No
 
 
-game: Fallout - Classic Collection (USA)
-file: Computer/Epic Games/F/Fallout - Classic Collection (USA)/Fallout - Classic Collection (USA).json
+game: Fallout - A Post Nuclear Role Playing Game (USA)
+file: Computer/Epic Games/F/Fallout - A Post Nuclear Role Playing Game (USA)/Fallout - A Post Nuclear Role Playing Game (USA).json
 players: 1
-assets.boxfront: BoxFront/Fallout - Classic Collection (USA).jpg
-assets.boxback: BoxBack/Fallout - Classic Collection (USA).jpg
-assets.background: Background/Fallout - Classic Collection (USA).jpg
-assets.screenshot: Screenshot/Fallout - Classic Collection (USA).jpg
+assets.boxfront: BoxFront/Fallout - A Post Nuclear Role Playing Game (USA).jpg
+assets.boxback: BoxBack/Fallout - A Post Nuclear Role Playing Game (USA).jpg
+assets.background: Background/Fallout - A Post Nuclear Role Playing Game (USA).jpg
+assets.screenshot: Screenshot/Fallout - A Post Nuclear Role Playing Game (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -623,6 +656,28 @@ assets.boxback: BoxBack/Fallout - New Vegas - Ultimate Edition (USA).jpg
 assets.background: Background/Fallout - New Vegas - Ultimate Edition (USA).jpg
 assets.screenshot: Screenshot/Fallout - New Vegas - Ultimate Edition (USA).jpg
 assets.video: Video/Fallout - New Vegas - Ultimate Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Fallout 2 - A Post Nuclear Role Playing Game (USA)
+file: Computer/Epic Games/F/Fallout 2 - A Post Nuclear Role Playing Game (USA)/Fallout 2 - A Post Nuclear Role Playing Game (USA).json
+players: 1
+assets.boxfront: BoxFront/Fallout 2 - A Post Nuclear Role Playing Game (USA).jpg
+assets.boxback: BoxBack/Fallout 2 - A Post Nuclear Role Playing Game (USA).jpg
+assets.background: Background/Fallout 2 - A Post Nuclear Role Playing Game (USA).jpg
+assets.screenshot: Screenshot/Fallout 2 - A Post Nuclear Role Playing Game (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Fallout Tactics - Brotherhood of Steel (USA)
+file: Computer/Epic Games/F/Fallout Tactics - Brotherhood of Steel (USA)/Fallout Tactics - Brotherhood of Steel (USA).json
+players: 1
+assets.boxfront: BoxFront/Fallout Tactics - Brotherhood of Steel (USA).jpg
+assets.boxback: BoxBack/Fallout Tactics - Brotherhood of Steel (USA).jpg
+assets.background: Background/Fallout Tactics - Brotherhood of Steel (USA).jpg
+assets.screenshot: Screenshot/Fallout Tactics - Brotherhood of Steel (USA).jpg
 x-co-op: No
 x-playable: Yes
 
