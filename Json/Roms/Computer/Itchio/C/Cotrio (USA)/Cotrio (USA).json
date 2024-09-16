@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Cotrio (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://bialek.itch.io/cotrio"
+    },
     "transform_file": "Cotrio (USA).exe"
 }

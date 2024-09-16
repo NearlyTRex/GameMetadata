@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Croissants (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://questionable.itch.io/croissants"
+    },
     "transform_file": "Croissants (USA).exe"
 }

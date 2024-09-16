@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Combo Postage (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://kirklindsay.itch.io/combo-postage"
+    },
     "transform_file": "Combo Postage (USA).exe"
 }

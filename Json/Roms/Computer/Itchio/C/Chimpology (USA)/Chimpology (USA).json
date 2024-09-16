@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Chimpology (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://themorfeus.itch.io/chimpology"
+    },
     "transform_file": "Chimpology (USA).exe"
 }
