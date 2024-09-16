@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Don't Move (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://stvr.itch.io/dont-move"
+    },
     "transform_file": "Don't Move (USA).exe"
 }

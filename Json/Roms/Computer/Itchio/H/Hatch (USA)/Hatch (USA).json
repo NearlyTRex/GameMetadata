@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Hatch (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://rubeki.itch.io/hatch"
+    },
     "transform_file": "Hatch (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Hack Grid (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://daisy-games.itch.io/hackgrid"
+    },
     "transform_file": "Hack Grid (USA).exe"
 }

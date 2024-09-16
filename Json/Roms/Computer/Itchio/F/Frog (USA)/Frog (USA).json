@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Frog (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://jamespoole.itch.io/frog"
+    },
     "transform_file": "Frog (USA).exe"
 }

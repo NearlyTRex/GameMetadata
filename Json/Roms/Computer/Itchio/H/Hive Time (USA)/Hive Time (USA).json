@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Hive Time (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://cheeseness.itch.io/hive-time"
+    },
     "transform_file": "Hive Time (USA).exe"
 }
