@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Dear Mariko (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://coren.itch.io/dear-mariko"
+    },
     "transform_file": "Dear Mariko (USA).exe"
 }

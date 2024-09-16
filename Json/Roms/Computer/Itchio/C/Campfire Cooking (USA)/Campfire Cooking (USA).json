@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Campfire Cooking (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://hawkes.itch.io/campfire"
+    },
     "transform_file": "Campfire Cooking (USA).exe"
 }

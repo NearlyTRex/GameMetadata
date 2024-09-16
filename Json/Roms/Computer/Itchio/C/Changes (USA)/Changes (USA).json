@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Changes (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://etalgames.itch.io/changes"
+    },
     "transform_file": "Changes (USA).exe"
 }
