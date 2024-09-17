@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Paint Game (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://mjm.itch.io/paintgame"
+    },
     "transform_file": "Paint Game (USA).exe"
 }

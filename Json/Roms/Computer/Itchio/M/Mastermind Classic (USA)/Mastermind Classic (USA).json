@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Mastermind Classic (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://criacuervos.itch.io/mastermind-classic"
+    },
     "transform_file": "Mastermind Classic (USA).exe"
 }

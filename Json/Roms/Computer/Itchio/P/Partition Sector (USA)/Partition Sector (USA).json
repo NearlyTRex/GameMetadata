@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Partition Sector (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://arganoid.itch.io/partition-sector"
+    },
     "transform_file": "Partition Sector (USA).exe"
 }

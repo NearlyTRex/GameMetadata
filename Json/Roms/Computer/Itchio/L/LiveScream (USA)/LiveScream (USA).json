@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/LiveScream (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://lightningrodgames.itch.io/livescream"
+    },
     "transform_file": "LiveScream (USA).exe"
 }

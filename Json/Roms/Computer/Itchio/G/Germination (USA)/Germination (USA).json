@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Germination (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://dotoperator.itch.io/germination"
+    },
     "transform_file": "Germination (USA).exe"
 }

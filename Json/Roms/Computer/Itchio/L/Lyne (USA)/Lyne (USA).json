@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Lyne (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://thomasbowker.itch.io/lyne"
+    },
     "transform_file": "Lyne (USA).exe"
 }

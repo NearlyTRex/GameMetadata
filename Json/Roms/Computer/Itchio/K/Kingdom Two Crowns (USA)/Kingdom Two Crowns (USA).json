@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Kingdom Two Crowns (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://rawfury.itch.io/kingdom-two-crowns"
+    },
     "transform_file": "Kingdom Two Crowns (USA).exe"
 }

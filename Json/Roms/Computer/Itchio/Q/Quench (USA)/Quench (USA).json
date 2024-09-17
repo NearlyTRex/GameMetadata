@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Quench (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://axoninteractive.itch.io/quench"
+    },
     "transform_file": "Quench (USA).exe"
 }

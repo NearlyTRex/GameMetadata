@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Perpetuum Mobile (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://petrus.itch.io/perpetuum-mobile"
+    },
     "transform_file": "Perpetuum Mobile (USA).exe"
 }

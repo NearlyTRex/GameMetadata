@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Ghost Story (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://okboy.itch.io/ghost-story"
+    },
     "transform_file": "Ghost Story (USA).exe"
 }

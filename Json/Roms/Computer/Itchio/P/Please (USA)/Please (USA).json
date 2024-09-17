@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Please (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://somewhat.itch.io/please"
+    },
     "transform_file": "Please (USA).exe"
 }

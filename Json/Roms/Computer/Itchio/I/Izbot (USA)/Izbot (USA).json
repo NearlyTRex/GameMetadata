@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Izbot (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://ruxar.itch.io/izbot"
+    },
     "transform_file": "Izbot (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Kids (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://playables.itch.io/kids"
+    },
     "transform_file": "Kids (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Inmost (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://chucklefish.itch.io/inmost"
+    },
     "transform_file": "Inmost (USA).exe"
 }

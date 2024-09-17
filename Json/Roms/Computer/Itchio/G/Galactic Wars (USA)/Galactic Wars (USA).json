@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Galactic Wars (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://volcanobytes.itch.io/galactic-wars"
+    },
     "transform_file": "Galactic Wars (USA).exe"
 }

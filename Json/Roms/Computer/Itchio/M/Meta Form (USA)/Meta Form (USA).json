@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Meta Form (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://boz-float.itch.io/meta-form"
+    },
     "transform_file": "Meta Form (USA).exe"
 }

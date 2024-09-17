@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Pico-8 (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://lexaloffle.itch.io/pico-8"
+    },
     "transform_file": "Pico-8 (USA).exe"
 }

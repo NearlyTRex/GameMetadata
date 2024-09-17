@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Monster Match (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://axolstudio.itch.io/monster-match"
+    },
     "transform_file": "Monster Match (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Provider (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://cakeneq.itch.io/provider"
+    },
     "transform_file": "Provider (USA).exe"
 }

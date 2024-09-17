@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/MidBoss (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://eniko.itch.io/midboss"
+    },
     "transform_file": "MidBoss (USA).exe"
 }
