@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Risk System (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://risksystem.itch.io/rs"
+    },
     "transform_file": "Risk System (USA).exe"
 }

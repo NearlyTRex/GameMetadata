@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Revolver and Co (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://ci.itch.io/revolver-and-co"
+    },
     "transform_file": "Revolver and Co (USA).exe"
 }

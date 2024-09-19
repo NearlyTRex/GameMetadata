@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/SilverQuest Gaiden (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://wolfgame.itch.io/silverquest-gaiden"
+    },
     "transform_file": "SilverQuest Gaiden (USA).exe"
 }

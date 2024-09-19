@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/These Lands (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://jestyjam.itch.io/these-lands"
+    },
     "transform_file": "These Lands (USA).exe"
 }

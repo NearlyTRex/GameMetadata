@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/SubDivide (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://sockman.itch.io/subdivide"
+    },
     "transform_file": "SubDivide (USA).exe"
 }

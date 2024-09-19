@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Space Duet (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://mattyalanestock.itch.io/spaceduet"
+    },
     "transform_file": "Space Duet (USA).exe"
 }

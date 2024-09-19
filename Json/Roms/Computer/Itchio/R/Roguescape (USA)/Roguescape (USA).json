@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Roguescape (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://mssng.itch.io/roguescape"
+    },
     "transform_file": "Roguescape (USA).exe"
 }

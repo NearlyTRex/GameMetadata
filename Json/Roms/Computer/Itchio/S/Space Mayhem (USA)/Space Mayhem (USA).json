@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Space Mayhem (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://chronic-vagrant.itch.io/space-mayhem"
+    },
     "transform_file": "Space Mayhem (USA).exe"
 }

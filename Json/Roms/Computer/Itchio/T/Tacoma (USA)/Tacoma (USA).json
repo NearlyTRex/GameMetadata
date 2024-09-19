@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Tacoma (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://tacoma.itch.io/tacoma"
+    },
     "transform_file": "Tacoma (USA).exe"
 }

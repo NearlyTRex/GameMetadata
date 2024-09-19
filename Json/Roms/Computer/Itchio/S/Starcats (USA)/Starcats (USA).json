@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Starcats (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://symptomatic.itch.io/starcats"
+    },
     "transform_file": "Starcats (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Sonar Smash (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://pixelpajamastudios.itch.io/sonarsmash"
+    },
     "transform_file": "Sonar Smash (USA).exe"
 }

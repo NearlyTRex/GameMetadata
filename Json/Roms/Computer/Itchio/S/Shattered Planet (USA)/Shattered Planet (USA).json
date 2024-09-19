@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Shattered Planet (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://kitfoxgames.itch.io/shattered-planet"
+    },
     "transform_file": "Shattered Planet (USA).exe"
 }

@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Self-Checkout Unlimited (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://argent-games.itch.io/self-checkout-unlimited"
+    },
     "transform_file": "Self-Checkout Unlimited (USA).exe"
 }

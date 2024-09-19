@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Scrapper (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://ghostboltgames.itch.io/scrapper"
+    },
     "transform_file": "Scrapper (USA).exe"
 }

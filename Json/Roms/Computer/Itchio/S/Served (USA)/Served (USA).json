@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Served (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://tippedchair.itch.io/served"
+    },
     "transform_file": "Served (USA).exe"
 }

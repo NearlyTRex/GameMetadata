@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Space Station Architect (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://wyvernindustries.itch.io/stationgen"
+    },
     "transform_file": "Space Station Architect (USA).exe"
 }
