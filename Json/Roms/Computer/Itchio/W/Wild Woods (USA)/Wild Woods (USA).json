@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Wild Woods (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://wildwoods.itch.io/wildwoods"
+    },
     "transform_file": "Wild Woods (USA).exe"
 }

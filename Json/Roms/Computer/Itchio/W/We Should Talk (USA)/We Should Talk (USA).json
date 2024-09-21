@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/We Should Talk (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://weshouldtalk.itch.io/we-should-talk"
+    },
     "transform_file": "We Should Talk (USA).exe"
 }

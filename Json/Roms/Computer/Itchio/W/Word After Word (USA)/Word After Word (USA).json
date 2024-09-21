@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Word After Word (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://playfulsystems.itch.io/word-after-word"
+    },
     "transform_file": "Word After Word (USA).exe"
 }

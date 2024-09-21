@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Void (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://kentr.itch.io/void"
+    },
     "transform_file": "Void (USA).exe"
 }

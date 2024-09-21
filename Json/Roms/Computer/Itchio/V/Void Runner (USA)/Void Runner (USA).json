@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Void Runner (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://vixmix.itch.io/void-runner"
+    },
     "transform_file": "Void Runner (USA).exe"
 }

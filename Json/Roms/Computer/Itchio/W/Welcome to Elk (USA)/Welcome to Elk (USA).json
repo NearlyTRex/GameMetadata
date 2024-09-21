@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Welcome to Elk (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://triple-topping.itch.io/welcome-to-elk"
+    },
     "transform_file": "Welcome to Elk (USA).exe"
 }

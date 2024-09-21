@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Zeph (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://prongt.itch.io/zeph"
+    },
     "transform_file": "Zeph (USA).exe"
 }

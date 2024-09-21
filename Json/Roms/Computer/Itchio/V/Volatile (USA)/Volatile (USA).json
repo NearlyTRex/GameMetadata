@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Volatile (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://boaan.itch.io/volatile"
+    },
     "transform_file": "Volatile (USA).exe"
 }

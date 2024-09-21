@@ -5,5 +5,8 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Where is Cat (USA).exe"
     ],
+    "itchio": {
+        "appurl": "https://bartbonte.itch.io/where-is-cat"
+    },
     "transform_file": "Where is Cat (USA).exe"
 }
