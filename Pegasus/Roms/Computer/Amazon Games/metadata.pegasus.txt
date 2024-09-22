@@ -1319,6 +1319,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Giana Sisters - Twisted Dreams (USA)
+file: Computer/Amazon Games/G/Giana Sisters - Twisted Dreams (USA)/Giana Sisters - Twisted Dreams (USA).json
+players: 1
+assets.boxfront: BoxFront/Giana Sisters - Twisted Dreams (USA).jpg
+assets.boxback: BoxBack/Giana Sisters - Twisted Dreams (USA).jpg
+assets.background: Background/Giana Sisters - Twisted Dreams (USA).jpg
+assets.screenshot: Screenshot/Giana Sisters - Twisted Dreams (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Golfie (USA)
+file: Computer/Amazon Games/G/Golfie (USA)/Golfie (USA).json
+players: 1
+assets.boxfront: BoxFront/Golfie (USA).jpg
+assets.boxback: BoxBack/Golfie (USA).jpg
+assets.background: Background/Golfie (USA).jpg
+assets.screenshot: Screenshot/Golfie (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Gravity Circuit (USA)
 file: Computer/Amazon Games/G/Gravity Circuit (USA)/Gravity Circuit (USA).json
 players: 1

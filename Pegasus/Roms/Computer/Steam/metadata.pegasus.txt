@@ -7593,6 +7593,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: No Players Online (USA)
+file: Computer/Steam/N/No Players Online (USA)/No Players Online (USA).json
+players: 1
+assets.boxfront: BoxFront/No Players Online (USA).jpg
+assets.boxback: BoxBack/No Players Online (USA).jpg
+assets.background: Background/No Players Online (USA).jpg
+assets.screenshot: Screenshot/No Players Online (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Nordhold - Origins (USA)
 file: Computer/Steam/N/Nordhold - Origins (USA)/Nordhold - Origins (USA).json
 players: 1
@@ -8716,6 +8727,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Rental (USA)
+file: Computer/Steam/R/Rental (USA)/Rental (USA).json
+players: 1
+assets.boxfront: BoxFront/Rental (USA).jpg
+assets.boxback: BoxBack/Rental (USA).jpg
+assets.background: Background/Rental (USA).jpg
+assets.screenshot: Screenshot/Rental (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Resident Evil - Operation Raccoon City (USA)
 file: Computer/Steam/R/Resident Evil - Operation Raccoon City (USA)/Resident Evil - Operation Raccoon City (USA).json
 developer: Slant Six
@@ -9568,6 +9590,17 @@ assets.boxback: BoxBack/Satellite Reign (USA).jpg
 assets.background: Background/Satellite Reign (USA).jpg
 assets.screenshot: Screenshot/Satellite Reign (USA).jpg
 assets.video: Video/Satellite Reign (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Satisfactory (USA)
+file: Computer/Steam/S/Satisfactory (USA)/Satisfactory (USA).json
+players: 1
+assets.boxfront: BoxFront/Satisfactory (USA).jpg
+assets.boxback: BoxBack/Satisfactory (USA).jpg
+assets.background: Background/Satisfactory (USA).jpg
+assets.screenshot: Screenshot/Satisfactory (USA).jpg
 x-co-op: No
 x-playable: Yes
 

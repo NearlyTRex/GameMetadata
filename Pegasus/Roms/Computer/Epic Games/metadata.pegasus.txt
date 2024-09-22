@@ -134,6 +134,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Arcadegeddon (USA)
+file: Computer/Epic Games/A/Arcadegeddon (USA)/Arcadegeddon (USA).json
+players: 1
+assets.boxfront: BoxFront/Arcadegeddon (USA).jpg
+assets.boxback: BoxBack/Arcadegeddon (USA).jpg
+assets.background: Background/Arcadegeddon (USA).jpg
+assets.screenshot: Screenshot/Arcadegeddon (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Borderlands - The Pre-Sequel (USA)
 file: Computer/Epic Games/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
 players: 1
@@ -1657,6 +1668,17 @@ assets.screenshot: Screenshot/Surviving the Aftermath (USA).jpg
 assets.video: Video/Surviving the Aftermath (USA).mp4
 x-co-op: No
 x-playable: No
+
+
+game: Tales from the Borderlands (USA)
+file: Computer/Epic Games/T/Tales from the Borderlands (USA)/Tales from the Borderlands (USA).json
+players: 1
+assets.boxfront: BoxFront/Tales from the Borderlands (USA).jpg
+assets.boxback: BoxBack/Tales from the Borderlands (USA).jpg
+assets.background: Background/Tales from the Borderlands (USA).jpg
+assets.screenshot: Screenshot/Tales from the Borderlands (USA).jpg
+x-co-op: No
+x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)
