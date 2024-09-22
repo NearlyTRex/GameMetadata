@@ -6,7 +6,9 @@
         "SETUP_MAIN_ROOT/This World Unknown (USA).exe"
     ],
     "itchio": {
-        "appurl": "https://ebihime.itch.io/this-world-unknown"
+        "appid": "80001",
+        "appurl": "https://ebihime.itch.io/this-world-unknown",
+        "name": "This World Unknown"
     },
     "transform_file": "This World Unknown (USA).exe"
 }

@@ -6,7 +6,9 @@
         "SETUP_MAIN_ROOT/Space Mayhem (USA).exe"
     ],
     "itchio": {
-        "appurl": "https://chronic-vagrant.itch.io/space-mayhem"
+        "appid": "160816",
+        "appurl": "https://chronic-vagrant.itch.io/space-mayhem",
+        "name": "Space Mayhem"
     },
     "transform_file": "Space Mayhem (USA).exe"
 }

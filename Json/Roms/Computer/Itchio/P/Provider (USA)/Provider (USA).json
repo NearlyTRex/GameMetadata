@@ -6,7 +6,9 @@
         "SETUP_MAIN_ROOT/Provider (USA).exe"
     ],
     "itchio": {
-        "appurl": "https://cakeneq.itch.io/provider"
+        "appid": "1280938",
+        "appurl": "https://cakeneq.itch.io/provider",
+        "name": "PROVIDER"
     },
     "transform_file": "Provider (USA).exe"
 }

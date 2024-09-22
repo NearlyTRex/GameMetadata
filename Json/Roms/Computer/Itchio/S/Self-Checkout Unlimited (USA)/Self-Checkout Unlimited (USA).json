@@ -6,7 +6,9 @@
         "SETUP_MAIN_ROOT/Self-Checkout Unlimited (USA).exe"
     ],
     "itchio": {
-        "appurl": "https://argent-games.itch.io/self-checkout-unlimited"
+        "appid": "546140",
+        "appurl": "https://argent-games.itch.io/self-checkout-unlimited",
+        "name": "Self-Checkout Unlimited"
     },
     "transform_file": "Self-Checkout Unlimited (USA).exe"
 }

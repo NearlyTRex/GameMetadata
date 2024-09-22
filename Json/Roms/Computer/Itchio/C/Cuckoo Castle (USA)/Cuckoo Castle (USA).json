@@ -6,7 +6,9 @@
         "SETUP_MAIN_ROOT/Cuckoo Castle (USA).exe"
     ],
     "itchio": {
-        "appurl": "https://rilem.itch.io/cuckoo-castle"
+        "appid": "33700",
+        "appurl": "https://rilem.itch.io/cuckoo-castle",
+        "name": "Cuckoo Castle"
     },
     "transform_file": "Cuckoo Castle (USA).exe"
 }
