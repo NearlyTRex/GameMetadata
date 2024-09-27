@@ -1,6 +1,16 @@
 {
     "steam": {
         "appid": "2142790",
-        "branchid": "public"
+        "branchid": "public",
+        "builddate": "1726086925",
+        "buildid": "15668736",
+        "controller_support": "full",
+        "installdir": "Fields of Mistria",
+        "keys": [],
+        "name": "Fields of Mistria",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2142790",
+            "USER_PROFILE_DIR/AppData/Local/FieldsOfMistria"
+        ]
     }
 }
