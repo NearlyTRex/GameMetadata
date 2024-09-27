@@ -1071,6 +1071,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Last Stand, The - Aftermath (USA)
+file: /home/aryie/Repositories/GameMetadata/Json/Roms/Computer/Epic Games/L/Last Stand, The - Aftermath (USA)/Last Stand, The - Aftermath (USA).json
+players: 1
+assets.boxfront: BoxFront/Last Stand, The - Aftermath (USA).jpg
+assets.boxback: BoxBack/Last Stand, The - Aftermath (USA).jpg
+assets.background: Background/Last Stand, The - Aftermath (USA).jpg
+assets.screenshot: Screenshot/Last Stand, The - Aftermath (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Loop Hero (USA)
 file: Computer/Epic Games/L/Loop Hero (USA)/Loop Hero (USA).json
 players: 1
@@ -1668,6 +1679,17 @@ assets.screenshot: Screenshot/Surviving the Aftermath (USA).jpg
 assets.video: Video/Surviving the Aftermath (USA).mp4
 x-co-op: No
 x-playable: No
+
+
+game: TOEM (USA)
+file: /home/aryie/Repositories/GameMetadata/Json/Roms/Computer/Epic Games/T/TOEM (USA)/TOEM (USA).json
+players: 1
+assets.boxfront: BoxFront/TOEM (USA).jpg
+assets.boxback: BoxBack/TOEM (USA).jpg
+assets.background: Background/TOEM (USA).jpg
+assets.screenshot: Screenshot/TOEM (USA).jpg
+x-co-op: No
+x-playable: Yes
 
 
 game: Tales from the Borderlands (USA)
