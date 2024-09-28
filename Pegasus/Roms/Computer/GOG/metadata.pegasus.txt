@@ -6522,6 +6522,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Ghost Song (USA)
+file: /home/aryie/Repositories/GameMetadata/Json/Roms/Computer/GOG/G/Ghost Song (USA)/Ghost Song (USA).json
+players: 1
+assets.boxfront: BoxFront/Ghost Song (USA).jpg
+assets.boxback: BoxBack/Ghost Song (USA).jpg
+assets.background: Background/Ghost Song (USA).jpg
+assets.screenshot: Screenshot/Ghost Song (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Gravewood High (USA)
 file: Computer/GOG/G/Gravewood High (USA)/Gravewood High (USA).json
 developer: HeroCraft PC
