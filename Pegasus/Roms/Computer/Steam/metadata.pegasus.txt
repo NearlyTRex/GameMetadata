@@ -577,6 +577,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: AppGameKit Classic (USA)
+file: Computer/Steam/A/AppGameKit Classic (USA)/AppGameKit Classic (USA).json
+players: 1
+assets.boxfront: BoxFront/AppGameKit Classic (USA).jpg
+assets.boxback: BoxBack/AppGameKit Classic (USA).jpg
+assets.background: Background/AppGameKit Classic (USA).jpg
+assets.screenshot: Screenshot/AppGameKit Classic (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Armello (USA)
 file: Computer/Steam/A/Armello (USA)/Armello (USA).json
 developer: League of Geeks
@@ -834,6 +845,17 @@ assets.boxback: BoxBack/Axiom Verge (USA).jpg
 assets.background: Background/Axiom Verge (USA).jpg
 assets.screenshot: Screenshot/Axiom Verge (USA).jpg
 assets.video: Video/Axiom Verge (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Axis Game Factory's AGFPRO 3.0 (USA)
+file: Computer/Steam/A/Axis Game Factory's AGFPRO 3.0 (USA)/Axis Game Factory's AGFPRO 3.0 (USA).json
+players: 1
+assets.boxfront: BoxFront/Axis Game Factory's AGFPRO 3.0 (USA).jpg
+assets.boxback: BoxBack/Axis Game Factory's AGFPRO 3.0 (USA).jpg
+assets.background: Background/Axis Game Factory's AGFPRO 3.0 (USA).jpg
+assets.screenshot: Screenshot/Axis Game Factory's AGFPRO 3.0 (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1964,6 +1986,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Controller Companion (USA)
+file: Computer/Steam/C/Controller Companion (USA)/Controller Companion (USA).json
+players: 1
+assets.boxfront: BoxFront/Controller Companion (USA).jpg
+assets.boxback: BoxBack/Controller Companion (USA).jpg
+assets.background: Background/Controller Companion (USA).jpg
+assets.screenshot: Screenshot/Controller Companion (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Corridor, The (USA)
 file: Computer/Steam/C/Corridor, The (USA)/Corridor, The (USA).json
 developer: Thomas Mackinnon
@@ -2422,6 +2455,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA)
+file: Computer/Steam/D/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA)/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).json
+players: 1
+assets.boxfront: BoxFront/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).jpg
+assets.boxback: BoxBack/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).jpg
+assets.background: Background/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).jpg
+assets.screenshot: Screenshot/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Dark Pictures Anthology, The - Little Hope (USA)
 file: Computer/Steam/D/Dark Pictures Anthology, The - Little Hope (USA)/Dark Pictures Anthology, The - Little Hope (USA).json
 developer: Supermassive Games
@@ -2463,6 +2507,17 @@ assets.background: Background/Dark Pictures Anthology, The - Little Hope (USA).j
 assets.screenshot: Screenshot/Dark Pictures Anthology, The - Little Hope (USA).jpg
 assets.video: Video/Dark Pictures Anthology, The - Little Hope (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Dark Pictures Anthology, The - Little Hope - Friend's Pass (USA)
+file: Computer/Steam/D/Dark Pictures Anthology, The - Little Hope - Friend's Pass (USA)/Dark Pictures Anthology, The - Little Hope - Friend's Pass (USA).json
+players: 1
+assets.boxfront: BoxFront/Dark Pictures Anthology, The - Little Hope - Friend's Pass (USA).jpg
+assets.boxback: BoxBack/Dark Pictures Anthology, The - Little Hope - Friend's Pass (USA).jpg
+assets.background: Background/Dark Pictures Anthology, The - Little Hope - Friend's Pass (USA).jpg
+assets.screenshot: Screenshot/Dark Pictures Anthology, The - Little Hope - Friend's Pass (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 
@@ -2522,6 +2577,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Dark Pictures Anthology, The - Man of Medan - Friend's Pass (USA)
+file: Computer/Steam/D/Dark Pictures Anthology, The - Man of Medan - Friend's Pass (USA)/Dark Pictures Anthology, The - Man of Medan - Friend's Pass (USA).json
+players: 1
+assets.boxfront: BoxFront/Dark Pictures Anthology, The - Man of Medan - Friend's Pass (USA).jpg
+assets.boxback: BoxBack/Dark Pictures Anthology, The - Man of Medan - Friend's Pass (USA).jpg
+assets.background: Background/Dark Pictures Anthology, The - Man of Medan - Friend's Pass (USA).jpg
+assets.screenshot: Screenshot/Dark Pictures Anthology, The - Man of Medan - Friend's Pass (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Dark Pictures Anthology, The - The Devil In Me (USA)
 file: Computer/Steam/D/Dark Pictures Anthology, The - The Devil In Me (USA)/Dark Pictures Anthology, The - The Devil In Me (USA).json
 developer: Supermassive Games
@@ -2548,6 +2614,17 @@ assets.background: Background/Dark Pictures Anthology, The - The Devil In Me (US
 assets.screenshot: Screenshot/Dark Pictures Anthology, The - The Devil In Me (USA).jpg
 assets.video: Video/Dark Pictures Anthology, The - The Devil In Me (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA)
+file: Computer/Steam/D/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA)/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).json
+players: 1
+assets.boxfront: BoxFront/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).jpg
+assets.boxback: BoxBack/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).jpg
+assets.background: Background/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).jpg
+assets.screenshot: Screenshot/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 
@@ -3346,6 +3423,17 @@ assets.boxback: BoxBack/Drawful 2 (USA).jpg
 assets.background: Background/Drawful 2 (USA).jpg
 assets.screenshot: Screenshot/Drawful 2 (USA).jpg
 assets.video: Video/Drawful 2 (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Driver4VR (USA)
+file: Computer/Steam/D/Driver4VR (USA)/Driver4VR (USA).json
+players: 1
+assets.boxfront: BoxFront/Driver4VR (USA).jpg
+assets.boxback: BoxBack/Driver4VR (USA).jpg
+assets.background: Background/Driver4VR (USA).jpg
+assets.screenshot: Screenshot/Driver4VR (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4172,6 +4260,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Game Character Hub (USA)
+file: Computer/Steam/G/Game Character Hub (USA)/Game Character Hub (USA).json
+players: 1
+assets.boxfront: BoxFront/Game Character Hub (USA).jpg
+assets.boxback: BoxBack/Game Character Hub (USA).jpg
+assets.background: Background/Game Character Hub (USA).jpg
+assets.screenshot: Screenshot/Game Character Hub (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Game Dev Studio (USA)
 file: Computer/Steam/G/Game Dev Studio (USA)/Game Dev Studio (USA).json
 developer: Roman Glebenkov
@@ -4227,6 +4326,17 @@ assets.boxback: BoxBack/Game Dev Studio (USA).jpg
 assets.background: Background/Game Dev Studio (USA).jpg
 assets.screenshot: Screenshot/Game Dev Studio (USA).jpg
 assets.video: Video/Game Dev Studio (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: GameGuru Classic (USA)
+file: Computer/Steam/G/GameGuru Classic (USA)/GameGuru Classic (USA).json
+players: 1
+assets.boxfront: BoxFront/GameGuru Classic (USA).jpg
+assets.boxback: BoxBack/GameGuru Classic (USA).jpg
+assets.background: Background/GameGuru Classic (USA).jpg
+assets.screenshot: Screenshot/GameGuru Classic (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5649,6 +5759,17 @@ assets.background: Background/Killing Floor (USA).jpg
 assets.screenshot: Screenshot/Killing Floor (USA).jpg
 assets.video: Video/Killing Floor (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Killing Floor Mod - Defence Alliance 2 (USA)
+file: Computer/Steam/K/Killing Floor Mod - Defence Alliance 2 (USA)/Killing Floor Mod - Defence Alliance 2 (USA).json
+players: 1
+assets.boxfront: BoxFront/Killing Floor Mod - Defence Alliance 2 (USA).jpg
+assets.boxback: BoxBack/Killing Floor Mod - Defence Alliance 2 (USA).jpg
+assets.background: Background/Killing Floor Mod - Defence Alliance 2 (USA).jpg
+assets.screenshot: Screenshot/Killing Floor Mod - Defence Alliance 2 (USA).jpg
+x-co-op: No
 x-playable: Yes
 
 
@@ -7785,6 +7906,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Once Human (USA)
+file: Computer/Steam/O/Once Human (USA)/Once Human (USA).json
+players: 1
+assets.boxfront: BoxFront/Once Human (USA).jpg
+assets.boxback: BoxBack/Once Human (USA).jpg
+assets.background: Background/Once Human (USA).jpg
+assets.screenshot: Screenshot/Once Human (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: OnlyCans - Thirst Date (USA)
 file: Computer/Steam/O/OnlyCans - Thirst Date (USA)/OnlyCans - Thirst Date (USA).json
 developer: OnlyCans Team
@@ -8499,6 +8631,28 @@ x-co-op: No
 x-playable: No
 
 
+game: RPG Maker VX Ace (USA)
+file: Computer/Steam/R/RPG Maker VX Ace (USA)/RPG Maker VX Ace (USA).json
+players: 1
+assets.boxfront: BoxFront/RPG Maker VX Ace (USA).jpg
+assets.boxback: BoxBack/RPG Maker VX Ace (USA).jpg
+assets.background: Background/RPG Maker VX Ace (USA).jpg
+assets.screenshot: Screenshot/RPG Maker VX Ace (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: RPG Maker XP (USA)
+file: Computer/Steam/R/RPG Maker XP (USA)/RPG Maker XP (USA).json
+players: 1
+assets.boxfront: BoxFront/RPG Maker XP (USA).jpg
+assets.boxback: BoxBack/RPG Maker XP (USA).jpg
+assets.background: Background/RPG Maker XP (USA).jpg
+assets.screenshot: Screenshot/RPG Maker XP (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Raft (USA)
 file: Computer/Steam/R/Raft (USA)/Raft (USA).json
 developer: Redbeet Interactive
@@ -8842,6 +8996,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Resident Evil 2 Remake - R.P.D. Demo (USA)
+file: Computer/Steam/R/Resident Evil 2 Remake - R.P.D. Demo (USA)/Resident Evil 2 Remake - R.P.D. Demo (USA).json
+players: 1
+assets.boxfront: BoxFront/Resident Evil 2 Remake - R.P.D. Demo (USA).jpg
+assets.boxback: BoxBack/Resident Evil 2 Remake - R.P.D. Demo (USA).jpg
+assets.background: Background/Resident Evil 2 Remake - R.P.D. Demo (USA).jpg
+assets.screenshot: Screenshot/Resident Evil 2 Remake - R.P.D. Demo (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Resident Evil 3 Remake (USA)
 file: Computer/Steam/R/Resident Evil 3 Remake (USA)/Resident Evil 3 Remake (USA).json
 developer: M-Two
@@ -9073,6 +9238,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Resident Evil 7 Teaser - Beginning Hour (USA)
+file: Computer/Steam/R/Resident Evil 7 Teaser - Beginning Hour (USA)/Resident Evil 7 Teaser - Beginning Hour (USA).json
+players: 1
+assets.boxfront: BoxFront/Resident Evil 7 Teaser - Beginning Hour (USA).jpg
+assets.boxback: BoxBack/Resident Evil 7 Teaser - Beginning Hour (USA).jpg
+assets.background: Background/Resident Evil 7 Teaser - Beginning Hour (USA).jpg
+assets.screenshot: Screenshot/Resident Evil 7 Teaser - Beginning Hour (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Resident Evil HD (USA)
 file: Computer/Steam/R/Resident Evil HD (USA)/Resident Evil HD (USA).json
 developer: Capcom
@@ -9297,6 +9473,17 @@ assets.boxback: BoxBack/Resident Evil Village (USA).jpg
 assets.background: Background/Resident Evil Village (USA).jpg
 assets.screenshot: Screenshot/Resident Evil Village (USA).jpg
 assets.video: Video/Resident Evil Village (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Resident Evil Village - Gold Edition Gameplay Demo (USA)
+file: Computer/Steam/R/Resident Evil Village - Gold Edition Gameplay Demo (USA)/Resident Evil Village - Gold Edition Gameplay Demo (USA).json
+players: 1
+assets.boxfront: BoxFront/Resident Evil Village - Gold Edition Gameplay Demo (USA).jpg
+assets.boxback: BoxBack/Resident Evil Village - Gold Edition Gameplay Demo (USA).jpg
+assets.background: Background/Resident Evil Village - Gold Edition Gameplay Demo (USA).jpg
+assets.screenshot: Screenshot/Resident Evil Village - Gold Edition Gameplay Demo (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -10403,6 +10590,28 @@ assets.boxback: BoxBack/Spooky's Jump Scare Mansion (USA).jpg
 assets.background: Background/Spooky's Jump Scare Mansion (USA).jpg
 assets.screenshot: Screenshot/Spooky's Jump Scare Mansion (USA).jpg
 assets.video: Video/Spooky's Jump Scare Mansion (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Sprite Lamp (USA)
+file: Computer/Steam/S/Sprite Lamp (USA)/Sprite Lamp (USA).json
+players: 1
+assets.boxfront: BoxFront/Sprite Lamp (USA).jpg
+assets.boxback: BoxBack/Sprite Lamp (USA).jpg
+assets.background: Background/Sprite Lamp (USA).jpg
+assets.screenshot: Screenshot/Sprite Lamp (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Spriter Pro (USA)
+file: Computer/Steam/S/Spriter Pro (USA)/Spriter Pro (USA).json
+players: 1
+assets.boxfront: BoxFront/Spriter Pro (USA).jpg
+assets.boxback: BoxBack/Spriter Pro (USA).jpg
+assets.background: Background/Spriter Pro (USA).jpg
+assets.screenshot: Screenshot/Spriter Pro (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -11644,6 +11853,17 @@ assets.boxfront: BoxFront/Untitled Ghost Game (USA).jpg
 assets.boxback: BoxBack/Untitled Ghost Game (USA).jpg
 assets.background: Background/Untitled Ghost Game (USA).jpg
 assets.screenshot: Screenshot/Untitled Ghost Game (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: VRChat (USA)
+file: Computer/Steam/V/VRChat (USA)/VRChat (USA).json
+players: 1
+assets.boxfront: BoxFront/VRChat (USA).jpg
+assets.boxback: BoxBack/VRChat (USA).jpg
+assets.background: Background/VRChat (USA).jpg
+assets.screenshot: Screenshot/VRChat (USA).jpg
 x-co-op: No
 x-playable: Yes
 
