@@ -13209,6 +13209,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Stories Untold Demo (USA)
+file: Computer/GOG/S/Stories Untold Demo (USA)/Stories Untold Demo (USA).json
+players: 1
+assets.boxfront: BoxFront/Stories Untold Demo (USA).jpg
+assets.boxback: BoxBack/Stories Untold Demo (USA).jpg
+assets.background: Background/Stories Untold Demo (USA).jpg
+assets.screenshot: Screenshot/Stories Untold Demo (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Strafe - Gold Edition (USA)
 file: Computer/GOG/S/Strafe - Gold Edition (USA)/Strafe - Gold Edition (USA).json
 developer: Pixel Titans
@@ -14923,6 +14934,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Ultima IV (USA)
+file: Computer/GOG/U/Ultima IV (USA)/Ultima IV (USA).json
+players: 1
+assets.boxfront: BoxFront/Ultima IV (USA).jpg
+assets.boxback: BoxBack/Ultima IV (USA).jpg
+assets.background: Background/Ultima IV (USA).jpg
+assets.screenshot: Screenshot/Ultima IV (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Ultima Underworld 1 - The Stygian Abyss (USA)
 file: Computer/GOG/U/Ultima Underworld 1 - The Stygian Abyss (USA)/Ultima Underworld 1 - The Stygian Abyss (USA).json
 developer: Blue Sky Productions
@@ -16481,6 +16503,17 @@ assets.boxback: BoxBack/Wolfenstein II - The New Colossus (USA).jpg
 assets.background: Background/Wolfenstein II - The New Colossus (USA).jpg
 assets.screenshot: Screenshot/Wolfenstein II - The New Colossus (USA).jpg
 assets.video: Video/Wolfenstein II - The New Colossus (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Wolfenstein II - The New Colossus - German Edition (USA)
+file: Computer/GOG/W/Wolfenstein II - The New Colossus - German Edition (USA)/Wolfenstein II - The New Colossus - German Edition (USA).json
+players: 1
+assets.boxfront: BoxFront/Wolfenstein II - The New Colossus - German Edition (USA).jpg
+assets.boxback: BoxBack/Wolfenstein II - The New Colossus - German Edition (USA).jpg
+assets.background: Background/Wolfenstein II - The New Colossus - German Edition (USA).jpg
+assets.screenshot: Screenshot/Wolfenstein II - The New Colossus - German Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 

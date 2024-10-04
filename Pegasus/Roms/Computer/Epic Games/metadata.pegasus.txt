@@ -1071,6 +1071,17 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Killing Floor 2 - Beta (USA)
+file: Computer/Epic Games/K/Killing Floor 2 - Beta (USA)/Killing Floor 2 - Beta (USA).json
+players: 1
+assets.boxfront: BoxFront/Killing Floor 2 - Beta (USA).jpg
+assets.boxback: BoxBack/Killing Floor 2 - Beta (USA).jpg
+assets.background: Background/Killing Floor 2 - Beta (USA).jpg
+assets.screenshot: Screenshot/Killing Floor 2 - Beta (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Last Stand, The - Aftermath (USA)
 file: Computer/Epic Games/L/Last Stand, The - Aftermath (USA)/Last Stand, The - Aftermath (USA).json
 players: 1
@@ -1293,6 +1304,17 @@ assets.boxfront: BoxFront/MythForce (USA).jpg
 assets.boxback: BoxBack/MythForce (USA).jpg
 assets.background: Background/MythForce (USA).jpg
 assets.screenshot: Screenshot/MythForce (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: MythForce PTR (USA)
+file: Computer/Epic Games/M/MythForce PTR (USA)/MythForce PTR (USA).json
+players: 1
+assets.boxfront: BoxFront/MythForce PTR (USA).jpg
+assets.boxback: BoxBack/MythForce PTR (USA).jpg
+assets.background: Background/MythForce PTR (USA).jpg
+assets.screenshot: Screenshot/MythForce PTR (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1655,6 +1677,17 @@ assets.boxback: BoxBack/Spelldrifter (USA).jpg
 assets.background: Background/Spelldrifter (USA).jpg
 assets.screenshot: Screenshot/Spelldrifter (USA).jpg
 assets.video: Video/Spelldrifter (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Spirit and the Mouse, The (USA)
+file: Computer/Epic Games/S/Spirit and the Mouse, The (USA)/Spirit and the Mouse, The (USA).json
+players: 1
+assets.boxfront: BoxFront/Spirit and the Mouse, The (USA).jpg
+assets.boxback: BoxBack/Spirit and the Mouse, The (USA).jpg
+assets.background: Background/Spirit and the Mouse, The (USA).jpg
+assets.screenshot: Screenshot/Spirit and the Mouse, The (USA).jpg
 x-co-op: No
 x-playable: Yes
 
