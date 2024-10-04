@@ -145,6 +145,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Bear and Breakfast (USA)
+file: Computer/Epic Games/B/Bear and Breakfast (USA)/Bear and Breakfast (USA).json
+players: 1
+assets.boxfront: BoxFront/Bear and Breakfast (USA).jpg
+assets.boxback: BoxBack/Bear and Breakfast (USA).jpg
+assets.background: Background/Bear and Breakfast (USA).jpg
+assets.screenshot: Screenshot/Bear and Breakfast (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Borderlands - The Pre-Sequel (USA)
 file: Computer/Epic Games/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
 players: 1
@@ -567,6 +578,17 @@ assets.screenshot: Screenshot/Earthlock (USA).jpg
 assets.video: Video/Earthlock (USA).mp4
 x-co-op: No
 x-playable: No
+
+
+game: Eternal Cylinder, The (USA)
+file: Computer/Epic Games/E/Eternal Cylinder, The (USA)/Eternal Cylinder, The (USA).json
+players: 1
+assets.boxfront: BoxFront/Eternal Cylinder, The (USA).jpg
+assets.boxback: BoxBack/Eternal Cylinder, The (USA).jpg
+assets.background: Background/Eternal Cylinder, The (USA).jpg
+assets.screenshot: Screenshot/Eternal Cylinder, The (USA).jpg
+x-co-op: No
+x-playable: Yes
 
 
 game: Eternal Threads (USA)
@@ -1319,6 +1341,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: No Straight Roads (USA)
+file: Computer/Epic Games/N/No Straight Roads (USA)/No Straight Roads (USA).json
+players: 1
+assets.boxfront: BoxFront/No Straight Roads (USA).jpg
+assets.boxback: BoxBack/No Straight Roads (USA).jpg
+assets.background: Background/No Straight Roads (USA).jpg
+assets.screenshot: Screenshot/No Straight Roads (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Orwell - Keeping An Eye On You (USA)
 file: Computer/Epic Games/O/Orwell - Keeping An Eye On You (USA)/Orwell - Keeping An Eye On You (USA).json
 developer: Osmotic Studios
@@ -1688,6 +1721,17 @@ assets.boxfront: BoxFront/Spirit and the Mouse, The (USA).jpg
 assets.boxback: BoxBack/Spirit and the Mouse, The (USA).jpg
 assets.background: Background/Spirit and the Mouse, The (USA).jpg
 assets.screenshot: Screenshot/Spirit and the Mouse, The (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Spirit of the North (USA)
+file: Computer/Epic Games/S/Spirit of the North (USA)/Spirit of the North (USA).json
+players: 1
+assets.boxfront: BoxFront/Spirit of the North (USA).jpg
+assets.boxback: BoxBack/Spirit of the North (USA).jpg
+assets.background: Background/Spirit of the North (USA).jpg
+assets.screenshot: Screenshot/Spirit of the North (USA).jpg
 x-co-op: No
 x-playable: Yes
 

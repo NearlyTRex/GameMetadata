@@ -1487,6 +1487,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Mystery Case Files - Black Crown (USA)
+file: Computer/Amazon Games/M/Mystery Case Files - Black Crown (USA)/Mystery Case Files - Black Crown (USA).json
+players: 1
+assets.boxfront: BoxFront/Mystery Case Files - Black Crown (USA).jpg
+assets.boxback: BoxBack/Mystery Case Files - Black Crown (USA).jpg
+assets.background: Background/Mystery Case Files - Black Crown (USA).jpg
+assets.screenshot: Screenshot/Mystery Case Files - Black Crown (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: NAIRI - Tower of Shirin (USA)
 file: Computer/Amazon Games/N/NAIRI - Tower of Shirin (USA)/NAIRI - Tower of Shirin (USA).json
 developer: HomeBearStudio
@@ -1679,6 +1690,17 @@ assets.boxfront: BoxFront/Samurai Bringer (USA).jpg
 assets.boxback: BoxBack/Samurai Bringer (USA).jpg
 assets.background: Background/Samurai Bringer (USA).jpg
 assets.screenshot: Screenshot/Samurai Bringer (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Scarf (USA)
+file: Computer/Amazon Games/S/Scarf (USA)/Scarf (USA).json
+players: 1
+assets.boxfront: BoxFront/Scarf (USA).jpg
+assets.boxback: BoxBack/Scarf (USA).jpg
+assets.background: Background/Scarf (USA).jpg
+assets.screenshot: Screenshot/Scarf (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1879,6 +1901,17 @@ assets.boxback: BoxBack/Wytchwood (USA).jpg
 assets.background: Background/Wytchwood (USA).jpg
 assets.screenshot: Screenshot/Wytchwood (USA).jpg
 assets.video: Video/Wytchwood (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Ynglet (USA)
+file: Computer/Amazon Games/Y/Ynglet (USA)/Ynglet (USA).json
+players: 1
+assets.boxfront: BoxFront/Ynglet (USA).jpg
+assets.boxback: BoxBack/Ynglet (USA).jpg
+assets.background: Background/Ynglet (USA).jpg
+assets.screenshot: Screenshot/Ynglet (USA).jpg
 x-co-op: No
 x-playable: Yes
 
