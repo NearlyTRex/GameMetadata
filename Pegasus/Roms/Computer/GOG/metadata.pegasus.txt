@@ -7206,6 +7206,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Hive Jump 2 - Survivors (USA)
+file: Computer/GOG/H/Hive Jump 2 - Survivors (USA)/Hive Jump 2 - Survivors (USA).json
+players: 1
+assets.boxfront: BoxFront/Hive Jump 2 - Survivors (USA).jpg
+assets.boxback: BoxBack/Hive Jump 2 - Survivors (USA).jpg
+assets.background: Background/Hive Jump 2 - Survivors (USA).jpg
+assets.screenshot: Screenshot/Hive Jump 2 - Survivors (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Horizon Zero Dawn - Complete Edition (USA)
 file: Computer/GOG/H/Horizon Zero Dawn - Complete Edition (USA)/Horizon Zero Dawn - Complete Edition (USA).json
 developer: Guerrilla
@@ -14147,6 +14158,17 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Tomb Raider - Legend (USA)
+file: Computer/GOG/T/Tomb Raider - Legend (USA)/Tomb Raider - Legend (USA).json
+players: 1
+assets.boxfront: BoxFront/Tomb Raider - Legend (USA).jpg
+assets.boxback: BoxBack/Tomb Raider - Legend (USA).jpg
+assets.background: Background/Tomb Raider - Legend (USA).jpg
+assets.screenshot: Screenshot/Tomb Raider - Legend (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Tomb Raider - The Angel of Darkness (USA)
 file: Computer/GOG/T/Tomb Raider - The Angel of Darkness (USA)/Tomb Raider - The Angel of Darkness (USA).json
 players: 1
@@ -15952,6 +15974,17 @@ assets.boxback: BoxBack/Whisperer, The (USA).jpg
 assets.background: Background/Whisperer, The (USA).jpg
 assets.screenshot: Screenshot/Whisperer, The (USA).jpg
 assets.video: Video/Whisperer, The (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Whispering Willows (USA)
+file: Computer/GOG/W/Whispering Willows (USA)/Whispering Willows (USA).json
+players: 1
+assets.boxfront: BoxFront/Whispering Willows (USA).jpg
+assets.boxback: BoxBack/Whispering Willows (USA).jpg
+assets.background: Background/Whispering Willows (USA).jpg
+assets.screenshot: Screenshot/Whispering Willows (USA).jpg
 x-co-op: No
 x-playable: Yes
 
