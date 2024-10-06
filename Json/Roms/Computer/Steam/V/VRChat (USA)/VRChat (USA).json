@@ -2,6 +2,17 @@
     "steam": {
         "appid": "438100",
         "branchid": "public",
-        "name": "VRChat"
+        "builddate": "1727998729",
+        "buildid": "15922379",
+        "controller_support": "full",
+        "installdir": "VRChat",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/VRChat/VRChat"
+        ],
+        "name": "VRChat",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/438100",
+            "USER_PROFILE_DIR/AppData/LocalLow/VRChat"
+        ]
     }
 }

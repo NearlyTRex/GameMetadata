@@ -1,6 +1,15 @@
 {
     "steam": {
         "appid": "526870",
-        "branchid": "public"
+        "branchid": "public",
+        "builddate": "1727257991",
+        "buildid": "15811143",
+        "installdir": "Satisfactory",
+        "keys": [],
+        "name": "Satisfactory",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/526870",
+            "USER_PROFILE_DIR/AppData/Local/FactoryGame"
+        ]
     }
 }

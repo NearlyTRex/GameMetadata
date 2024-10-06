@@ -2,6 +2,9 @@
     "epic": {
         "appname": "b0b94ccc68564c729568cd07f9cfb812",
         "buildid": "rel_1.6.3_B41409_CL360563_Shipping_Client",
-        "name": "Arcadegeddon"
+        "name": "Arcadegeddon",
+        "paths": [
+            "STORE_INSTALL_DIR/Arcade/Saved/SaveGames"
+        ]
     }
 }

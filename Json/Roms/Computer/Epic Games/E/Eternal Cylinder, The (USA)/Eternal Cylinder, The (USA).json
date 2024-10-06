@@ -2,6 +2,9 @@
     "epic": {
         "appname": "Oriole",
         "buildid": "1.0.3.3-Windows",
-        "name": "The Eternal Cylinder"
+        "name": "The Eternal Cylinder",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/TheEternalCylinder"
+        ]
     }
 }
