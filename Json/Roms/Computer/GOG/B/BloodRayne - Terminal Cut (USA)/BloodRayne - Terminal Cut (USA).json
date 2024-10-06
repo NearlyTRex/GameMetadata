@@ -13,7 +13,11 @@
         "appid": "1598751450",
         "appname": "bloodrayne_terminal_cut_base",
         "buildid": "1.06",
-        "name": "BloodRayne: Terminal Cut"
+        "keys": [],
+        "name": "BloodRayne: Terminal Cut",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/BloodRayne1"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_bloodrayne_terminal_cut_1.06_(59972).exe"

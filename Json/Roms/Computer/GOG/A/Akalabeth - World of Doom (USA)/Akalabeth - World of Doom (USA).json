@@ -18,7 +18,9 @@
         "appid": "1207666073",
         "appname": "akalabeth_world_of_doom",
         "buildid": "original_release",
-        "name": "Akalabeth: World of Doom"
+        "keys": [],
+        "name": "Akalabeth: World of Doom",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_akalabeth_2.0.0.1.exe"

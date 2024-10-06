@@ -10,7 +10,11 @@
         "appid": "1137712636",
         "appname": "crusader_kings_ii",
         "buildid": "3.3.5.1",
-        "name": "Crusader Kings II"
+        "keys": [],
+        "name": "Crusader Kings II",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Paradox Interactive/Crusader Kings II"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_crusader_kings_ii_3.3.5.1_(64bit)_(63440).exe"

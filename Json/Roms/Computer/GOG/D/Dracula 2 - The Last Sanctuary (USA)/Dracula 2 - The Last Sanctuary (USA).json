@@ -14,7 +14,11 @@
         "appid": "1207661563",
         "appname": "dracula_2_the_last_sanctuary",
         "buildid": "original_release",
-        "name": "Dracula 2 - The Last Sanctuary"
+        "keys": [],
+        "name": "Dracula 2 - The Last Sanctuary",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Dracula The Last Sanctuary"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dracula2_2.1.0.6.exe"

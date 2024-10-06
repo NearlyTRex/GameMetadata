@@ -14,7 +14,9 @@
         "appid": "1207658927",
         "appname": "dragonsphere",
         "buildid": "1.0",
-        "name": "Dragonsphere"
+        "keys": [],
+        "name": "Dragonsphere",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dragonsphere_1.0_(28044).exe"

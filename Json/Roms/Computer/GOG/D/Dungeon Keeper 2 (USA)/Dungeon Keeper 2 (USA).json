@@ -14,7 +14,11 @@
         "appid": "1207658959",
         "appname": "dungeon_keeper_2",
         "buildid": "1.7",
-        "name": "Dungeon Keeper\u2122 2"
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Bullfrog Productions Ltd/Dungeon Keeper II/Configuration/Player"
+        ],
+        "name": "Dungeon Keeper\u2122 2",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dungeon_keeper_2_1.7_(22280).exe"

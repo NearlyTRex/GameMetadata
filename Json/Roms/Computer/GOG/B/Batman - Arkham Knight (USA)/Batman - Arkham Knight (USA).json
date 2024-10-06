@@ -29,8 +29,10 @@
     "gog": {
         "appid": "1881970704",
         "appname": "batman_arkham_knight",
-        "buildid": "1.98",
-        "name": "Batman\u2122: Arkham Knight"
+        "buildid": "1.999",
+        "keys": [],
+        "name": "Batman\u2122: Arkham Knight",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_batman_arkham_knight_1.98_(37902).exe",

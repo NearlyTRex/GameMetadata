@@ -14,7 +14,11 @@
         "appid": "1207659773",
         "appname": "escape_goat",
         "buildid": "1.0.5",
-        "name": "Escape Goat"
+        "keys": [],
+        "name": "Escape Goat",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Escape Goat"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_escape_goat_1.0.5_(20747).exe"

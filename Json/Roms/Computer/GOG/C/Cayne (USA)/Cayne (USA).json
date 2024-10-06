@@ -7,7 +7,13 @@
         "appid": "2016844216",
         "appname": "cayne",
         "buildid": "1.26 (gog-2)",
-        "name": "CAYNE"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/THE BROTHERHOOD/CAYNE"
+        ],
+        "name": "CAYNE",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/The Brotherhood/CAYNE"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_cayne_2.0.0.2.exe"

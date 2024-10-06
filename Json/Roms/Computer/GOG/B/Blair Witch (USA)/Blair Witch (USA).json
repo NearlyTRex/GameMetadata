@@ -10,7 +10,11 @@
         "appid": "1823654232",
         "appname": "blair_witch",
         "buildid": "1.04",
-        "name": "Blair Witch"
+        "keys": [],
+        "name": "Blair Witch",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Blairwitch"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_blair_witch_1.04_(64bit)_(34361).exe"

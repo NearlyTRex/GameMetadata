@@ -88,8 +88,12 @@
     "gog": {
         "appid": "1448452156",
         "appname": "dying_light_the_following_enhanced_edition",
-        "buildid": "1.49.8",
-        "name": "Dying Light: The Following \u2013 Enhanced Edition"
+        "buildid": "1.49.9",
+        "keys": [],
+        "name": "Dying Light: The Following \u2013 Enhanced Edition",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/DyingLight"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352).exe",

@@ -2,6 +2,11 @@
     "gog": {
         "appid": "1669042393",
         "appname": "empires_dawn_of_the_modern_world",
-        "name": "Empires: Dawn of the Modern World"
+        "buildid": "1.3.6.6437",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/SSSI/Empires"
+        ],
+        "name": "Empires: Dawn of the Modern World",
+        "paths": []
     }
 }

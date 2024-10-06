@@ -16,7 +16,12 @@
         "appid": "1207659102",
         "appname": "faster_than_light",
         "buildid": "1.6.13b",
-        "name": "FTL: Advanced Edition"
+        "keys": [],
+        "name": "FTL: Advanced Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/FasterThanLight",
+            "USER_PROFILE_DIR/Documents/My Games/FasterThanLight"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_ftl_advanced_edition_1.6.13b_(36400).exe"

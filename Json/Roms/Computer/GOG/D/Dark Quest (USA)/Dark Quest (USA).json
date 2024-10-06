@@ -6,7 +6,9 @@
         "appid": "1338517502",
         "appname": "dark_quest",
         "buildid": "1.0.2",
-        "name": "Dark Quest"
+        "keys": [],
+        "name": "Dark Quest",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dark_quest_1.0.2_(36275).exe"

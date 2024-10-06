@@ -11,7 +11,11 @@
         "appid": "1708684988",
         "appname": "enderal_forgotten_stories",
         "buildid": "1.0.0.5",
-        "name": "Enderal: Forgotten Stories"
+        "keys": [],
+        "name": "Enderal: Forgotten Stories",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Enderal Special Edition"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_enderal_forgotten_stories_1.0.0.5_(64bit)_(60893).exe"

@@ -16,7 +16,11 @@
         "appid": "1752654506",
         "appname": "bioshock_infinite",
         "buildid": "1.0.1643565",
-        "name": "BioShock Infinite Complete Edition"
+        "keys": [],
+        "name": "BioShock Infinite Complete Edition",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/BioShock Infinite"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_bioshock_infinite_1.0.1643565_(29748).exe"

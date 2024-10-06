@@ -17,7 +17,11 @@
         "appid": "1207665043",
         "appname": "black_mirror_ii",
         "buildid": "1.0",
-        "name": "Black Mirror 2"
+        "keys": [],
+        "name": "Black Mirror 2",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/BlackMirror2"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_black_mirror_2_1.0_(25641).exe"

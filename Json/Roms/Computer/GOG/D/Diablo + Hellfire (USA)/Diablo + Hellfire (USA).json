@@ -18,7 +18,11 @@
         "appid": "1412601690",
         "appname": "diablo",
         "buildid": "1.09 Hellfire v2",
-        "name": "Diablo + Hellfire"
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Blizzard Entertainment/Diablo"
+        ],
+        "name": "Diablo + Hellfire",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_diablo_1.09_hellfire_v2_(30038).exe"

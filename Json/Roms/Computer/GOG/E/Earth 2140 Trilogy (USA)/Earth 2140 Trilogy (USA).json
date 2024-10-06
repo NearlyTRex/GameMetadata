@@ -20,7 +20,11 @@
         "appid": "1207658738",
         "appname": "earth_2140_trilogy",
         "buildid": "1.0",
-        "name": "Earth 2140 Trilogy"
+        "keys": [],
+        "name": "Earth 2140 Trilogy",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Earth 2140"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_earth_2140_1.0_(19593).exe"

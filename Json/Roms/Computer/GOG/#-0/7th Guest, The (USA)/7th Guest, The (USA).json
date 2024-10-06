@@ -20,7 +20,9 @@
         "appid": "1207658999",
         "appname": "the_7th_guest",
         "buildid": "1.30",
-        "name": "The 7th Guest"
+        "keys": [],
+        "name": "The 7th Guest",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_7th_guest_1.30_(17746).exe"

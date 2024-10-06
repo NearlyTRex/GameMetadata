@@ -20,7 +20,11 @@
         "appid": "1908486934",
         "appname": "batman_arkham_origins",
         "buildid": "1.0",
-        "name": "Batman\u2122: Arkham Origins"
+        "keys": [],
+        "name": "Batman\u2122: Arkham Origins",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/WB Games/Batman Arkham Origins"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_batman_arkham_origins_1.0_(37592).exe",

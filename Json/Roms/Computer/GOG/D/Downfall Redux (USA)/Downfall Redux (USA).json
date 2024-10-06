@@ -10,7 +10,11 @@
         "appid": "1455298654",
         "appname": "downfall_redux_copy3",
         "buildid": "1.1.3",
-        "name": "Downfall (Redux)"
+        "keys": [],
+        "name": "Downfall (Redux)",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Downfall (2016)"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_downfall_redux_1.1.3_(21295).exe"

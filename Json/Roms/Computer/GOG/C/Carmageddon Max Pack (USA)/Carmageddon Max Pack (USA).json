@@ -24,7 +24,9 @@
         "appid": "1207659047",
         "appname": "carmageddon_max_pack",
         "buildid": "original_release",
-        "name": "Carmageddon Max Pack"
+        "keys": [],
+        "name": "Carmageddon Max Pack",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_carmageddon_2.0.0.63.exe"

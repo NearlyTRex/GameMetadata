@@ -19,7 +19,11 @@
         "appid": "1207658874",
         "appname": "alone_in_the_dark_the_new_nightmare",
         "buildid": "1.0",
-        "name": "Alone in the Dark: The New Nightmare"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Spiral House/launch/Data"
+        ],
+        "name": "Alone in the Dark: The New Nightmare",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_alone_in_the_dark_-_the_new_nightmare_1.0_(22762).exe"

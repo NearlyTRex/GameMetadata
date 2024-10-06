@@ -8,7 +8,11 @@
         "appid": "1513949567",
         "appname": "everspace",
         "buildid": "1.3.5.36556",
-        "name": "EVERSPACE\u2122"
+        "keys": [],
+        "name": "EVERSPACE\u2122",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/RSG"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_everspace_1.3.5.36556_(64bit)_(32841).exe"

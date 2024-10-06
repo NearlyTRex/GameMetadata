@@ -6,7 +6,11 @@
         "appid": "1751965389",
         "appname": "ancient_enemy",
         "buildid": "V1.03",
-        "name": "Ancient Enemy"
+        "keys": [],
+        "name": "Ancient Enemy",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Grey Alien Games/Ancient Enemy"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_ancient_enemy_v1.03_(48157).exe"

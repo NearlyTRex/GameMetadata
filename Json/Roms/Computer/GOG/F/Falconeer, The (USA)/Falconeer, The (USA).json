@@ -1,6 +1,12 @@
 {
     "gog": {
         "appid": "2147483137",
-        "appname": "the_falconeer"
+        "appname": "the_falconeer",
+        "buildid": "1.4.29.1",
+        "keys": [],
+        "name": "The Falconeer",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/WiredProductions/TheFalconeer"
+        ]
     }
 }

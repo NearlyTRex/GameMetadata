@@ -12,7 +12,11 @@
         "appid": "1207659259",
         "appname": "amnesia_the_dark_descent",
         "buildid": "1.41b",
-        "name": "Amnesia: The Dark Descent"
+        "keys": [],
+        "name": "Amnesia: The Dark Descent",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Amnesia"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_amnesia_-_the_dark_descent_1.41b_(41677).exe"

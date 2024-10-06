@@ -6,7 +6,11 @@
         "appid": "1305464490",
         "appname": "dear_esther_landmark_edition",
         "buildid": "gog-1",
-        "name": "Dear Esther: Landmark Edition"
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/The Chinese Room & Robert Briscoe @ LittleLostPoly.co.uk/DearEsther"
+        ],
+        "name": "Dear Esther: Landmark Edition",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dear_esther_-_landmark_edition_gog-1_(9712).exe"

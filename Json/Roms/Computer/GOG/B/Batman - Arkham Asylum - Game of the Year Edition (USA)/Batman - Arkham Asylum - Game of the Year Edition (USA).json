@@ -8,7 +8,11 @@
         "appid": "1482504285",
         "appname": "batman_arkham_asylum_goty",
         "buildid": "1.1",
-        "name": "Batman: Arkham Asylum Game of the Year Edition"
+        "keys": [],
+        "name": "Batman: Arkham Asylum Game of the Year Edition",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Square Enix/Batman Arkham Asylum GOTY"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_batman_arkham_asylum_goty_1.1_(38915).exe"

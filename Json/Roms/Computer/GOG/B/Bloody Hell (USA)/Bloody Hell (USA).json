@@ -6,7 +6,11 @@
         "appid": "1542190742",
         "appname": "bloody_hell",
         "buildid": "1.7",
-        "name": "Bloody Hell"
+        "keys": [],
+        "name": "Bloody Hell",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Pun Intended/Bloody Hell"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_bloody_hell_1.7_(65246).exe"

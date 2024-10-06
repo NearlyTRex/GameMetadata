@@ -26,7 +26,11 @@
         "appid": "1163487128",
         "appname": "the_coma_recut",
         "buildid": "2.1.5_GoG",
-        "name": "The Coma: Recut"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/DevespressoGames/TheComaRecut"
+        ],
+        "name": "The Coma: Recut",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_coma_recut_2.1.5_gog_(64bit)_(40595).exe"

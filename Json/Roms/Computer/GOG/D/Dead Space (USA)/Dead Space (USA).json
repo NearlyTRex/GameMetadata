@@ -17,7 +17,12 @@
         "appid": "1312818781",
         "appname": "dead_space",
         "buildid": "1.0.0.222 (gog-2)",
-        "name": "Dead Space\u2122"
+        "keys": [],
+        "name": "Dead Space\u2122",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Electronic Arts/Dead Space",
+            "USER_PROFILE_DIR/Documents/Electronic Arts/Dead Space"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dead_space_2.0.0.2.exe"

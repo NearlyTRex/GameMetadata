@@ -7,7 +7,13 @@
         "appid": "1426071866",
         "appname": "doom_ii_enhanced",
         "buildid": "January_23_update",
-        "name": "DOOM II Enhanced"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Bethesda Softworks/DOOM 2"
+        ],
+        "name": "DOOM II Enhanced",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM 2"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_doom_ii_enhanced_january_23_update_(64bit)_(60827).exe"

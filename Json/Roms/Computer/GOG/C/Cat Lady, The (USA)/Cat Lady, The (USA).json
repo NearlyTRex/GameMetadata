@@ -18,7 +18,12 @@
         "appid": "1207659201",
         "appname": "the_cat_lady",
         "buildid": "1.7",
-        "name": "The Cat Lady"
+        "keys": [],
+        "name": "The Cat Lady",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Cat Lady",
+            "USER_PROFILE_DIR/Saved Games/The Cat Lady"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_cat_lady_1.7_(20820).exe"

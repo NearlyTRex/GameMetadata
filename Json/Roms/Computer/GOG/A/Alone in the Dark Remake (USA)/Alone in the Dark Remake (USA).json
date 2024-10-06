@@ -30,8 +30,12 @@
     "gog": {
         "appid": "1177195295",
         "appname": "alone_in_the_dark",
-        "buildid": "1.0.3",
-        "name": "Alone in the Dark"
+        "buildid": "1.0.5b",
+        "keys": [],
+        "name": "Alone in the Dark",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/AloneInTheDark"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_alone_in_the_dark_1.0.3_(72235).exe",

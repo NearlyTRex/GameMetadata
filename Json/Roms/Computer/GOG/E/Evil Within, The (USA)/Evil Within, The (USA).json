@@ -35,7 +35,11 @@
         "appid": "1171957437",
         "appname": "the_evil_within",
         "buildid": "1.0",
-        "name": "The Evil Within"
+        "keys": [],
+        "name": "The Evil Within",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/TangoGameworks/The Evil Within"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_evil_within_1.0_(36732).exe",

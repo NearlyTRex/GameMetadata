@@ -30,7 +30,9 @@
         "appid": "1207664913",
         "appname": "the_black_mirror",
         "buildid": "original_release",
-        "name": "Black Mirror 1"
+        "keys": [],
+        "name": "Black Mirror 1",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_black_mirror_2.1.1.4.exe"

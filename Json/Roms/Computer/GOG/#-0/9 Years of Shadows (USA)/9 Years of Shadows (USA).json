@@ -1,6 +1,12 @@
 {
     "gog": {
         "appid": "2099051765",
-        "appname": "9_years_of_shadows"
+        "appname": "9_years_of_shadows",
+        "buildid": "1.0.98",
+        "keys": [],
+        "name": "9 Years of Shadows",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Halberd Studios/9 Years of Shadows"
+        ]
     }
 }

@@ -6,7 +6,12 @@
         "appid": "1580300418",
         "appname": "book_of_demons",
         "buildid": "1.05.240321",
-        "name": "Book of Demons"
+        "keys": [],
+        "name": "Book of Demons",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/R2G_Common_WIP1",
+            "USER_PROFILE_DIR/AppData/Roaming/Return2Games_WIP21"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_book_of_demons_1.05.240321_(72057).exe"

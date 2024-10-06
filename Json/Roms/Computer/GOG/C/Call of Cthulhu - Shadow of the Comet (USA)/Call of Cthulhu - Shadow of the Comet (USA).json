@@ -22,7 +22,9 @@
         "appid": "1431942210",
         "appname": "call_of_cthulhu_shadow_of_the_comet",
         "buildid": "1.0",
-        "name": "Call of Cthulhu: Shadow of the Comet"
+        "keys": [],
+        "name": "Call of Cthulhu: Shadow of the Comet",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_shadow_of_the_comet_1.0_(28045).exe"

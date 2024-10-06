@@ -12,7 +12,11 @@
         "appid": "1207664543",
         "appname": "ascendant",
         "buildid": "1.0",
-        "name": "Ascendant"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Hapa Games/Ascendant"
+        ],
+        "name": "Ascendant",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_ascendant_1.0_(64bit)_(20649).exe"

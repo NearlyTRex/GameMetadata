@@ -16,7 +16,11 @@
         "appid": "1207659038",
         "appname": "alan_wakes_american_nightmare",
         "buildid": "original_release",
-        "name": "Alan Wake's American Nightmare"
+        "keys": [],
+        "name": "Alan Wake's American Nightmare",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Remedy/AmericanNightmare_GOG_Version"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_alan_wake_american_nightmare_2.1.0.24.exe"

@@ -12,7 +12,9 @@
         "appid": "1207664283",
         "appname": "dracula_5_the_blood_legacy",
         "buildid": "original_release",
-        "name": "Dracula 5: The Blood Legacy"
+        "keys": [],
+        "name": "Dracula 5: The Blood Legacy",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dracula5_2.1.0.3.exe"

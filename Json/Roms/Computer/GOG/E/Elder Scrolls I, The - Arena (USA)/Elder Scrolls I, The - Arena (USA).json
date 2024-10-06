@@ -16,7 +16,9 @@
         "appid": "1435828982",
         "appname": "the_elder_scrolls_arena",
         "buildid": "1.07",
-        "name": "The Elder Scrolls: Arena"
+        "keys": [],
+        "name": "The Elder Scrolls: Arena",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_elder_scrolls_arena_1.07_(28043).exe"

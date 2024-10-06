@@ -2,6 +2,11 @@
     "gog": {
         "appid": "1909524379",
         "appname": "call_of_juarez",
-        "name": "Call of Juarez"
+        "buildid": "1.1.1.0",
+        "keys": [],
+        "name": "Call of Juarez",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/call of juarez"
+        ]
     }
 }

@@ -1,6 +1,14 @@
 {
     "gog": {
         "appid": "1930721905",
-        "appname": "cursed_to_golf"
+        "appname": "cursed_to_golf",
+        "buildid": "2.0.1",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Chuhai Labs/Cursed to Golf"
+        ],
+        "name": "Cursed to Golf",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Chuhai Labs/Cursed to Golf"
+        ]
     }
 }

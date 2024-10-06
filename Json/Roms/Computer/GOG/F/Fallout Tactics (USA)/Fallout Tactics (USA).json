@@ -34,7 +34,9 @@
         "appid": "3",
         "appname": "fallout_tactics_classic",
         "buildid": "original_release",
-        "name": "Fallout Tactics Classic"
+        "keys": [],
+        "name": "Fallout Tactics Classic",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_fallout_tactics_2.1.0.12.exe"

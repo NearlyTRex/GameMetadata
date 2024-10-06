@@ -7,7 +7,11 @@
         "appid": "1528332522",
         "appname": "conarium",
         "buildid": "1.0.0.13",
-        "name": "Conarium"
+        "keys": [],
+        "name": "Conarium",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Conarium"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_conarium_1.0.0.13_(21992).exe"

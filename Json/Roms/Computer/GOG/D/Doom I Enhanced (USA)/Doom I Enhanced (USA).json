@@ -7,7 +7,13 @@
         "appid": "2015545325",
         "appname": "doom_i_enhanced",
         "buildid": "January_23_update",
-        "name": "DOOM I Enhanced"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Bethesda Softworks/DOOM"
+        ],
+        "name": "DOOM I Enhanced",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM Classic"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_doom_i_enhanced_january_23_update_(64bit)_(60827).exe"

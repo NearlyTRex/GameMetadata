@@ -16,7 +16,11 @@
         "appid": "1207663423",
         "appname": "avernum_5",
         "buildid": "(gog-4)",
-        "name": "Avernum 5"
+        "keys": [],
+        "name": "Avernum 5",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Spiderweb Software/Avernum 5 Saved Games"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_avernum5_2.1.0.4.exe"

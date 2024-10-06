@@ -8,8 +8,12 @@
     "gog": {
         "appid": "1133514031",
         "appname": "bloodstained_ritual_of_the_night",
-        "buildid": "1.40.0.65432",
-        "name": "Bloodstained: Ritual of the Night"
+        "buildid": "1.50.0.67117",
+        "keys": [],
+        "name": "Bloodstained: Ritual of the Night",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/BloodstainedRotN"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_bloodstained_ritual_of_the_night_1.40.0.65432_(64bit)_(57256).exe"

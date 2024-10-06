@@ -18,7 +18,9 @@
         "appid": "1207664273",
         "appname": "dracula_4_game",
         "buildid": "original_release",
-        "name": "Dracula 4: Shadow of the Dragon"
+        "keys": [],
+        "name": "Dracula 4: Shadow of the Dragon",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dracula4_2.1.0.4.exe"

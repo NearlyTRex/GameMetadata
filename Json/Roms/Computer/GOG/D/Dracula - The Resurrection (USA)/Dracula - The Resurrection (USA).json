@@ -15,7 +15,11 @@
         "appid": "1207661553",
         "appname": "dracula_the_resurrection",
         "buildid": "original_release",
-        "name": "Dracula - The Resurrection"
+        "keys": [],
+        "name": "Dracula - The Resurrection",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Dracula Resurrection"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dracula_the_resurrection_2.1.0.5.exe"

@@ -21,7 +21,9 @@
         "appid": "1207658809",
         "appname": "bloodrayne_2",
         "buildid": "1.0",
-        "name": "BloodRayne 2 (Legacy)"
+        "keys": [],
+        "name": "BloodRayne 2 (Legacy)",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_bloodrayne_2_1.0_(19403).exe"

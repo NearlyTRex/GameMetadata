@@ -20,7 +20,11 @@
         "appid": "1425479123",
         "appname": "fear_2_project_origin_reborn",
         "buildid": "1.05",
-        "name": "F.E.A.R. 2: Project Origin + Reborn"
+        "keys": [],
+        "name": "F.E.A.R. 2: Project Origin + Reborn",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/WBGames/FEAR2"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_fear_2_1.05_(18567).exe"

@@ -9,8 +9,14 @@
     "gog": {
         "appid": "1772238447",
         "appname": "blacksad_under_the_skin",
-        "buildid": "1.0.5_12210.2935.2020040301",
-        "name": "Blacksad: Under the Skin"
+        "buildid": "20270705_Blacksad_Patch",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/PenduloStudios/Blacksad"
+        ],
+        "name": "Blacksad: Under the Skin",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/PenduloStudios/Blacksad"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312).exe"

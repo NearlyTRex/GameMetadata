@@ -26,7 +26,9 @@
         "appid": "2",
         "appname": "fallout_2_classic",
         "buildid": "original_release",
-        "name": "Fallout 2 Classic"
+        "keys": [],
+        "name": "Fallout 2 Classic",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_fallout2_2.1.0.17.exe"

@@ -16,7 +16,9 @@
         "appid": "1207663333",
         "appname": "avernum",
         "buildid": "(gog-4)",
-        "name": "Avernum"
+        "keys": [],
+        "name": "Avernum",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_avernum_2.1.0.4.exe"

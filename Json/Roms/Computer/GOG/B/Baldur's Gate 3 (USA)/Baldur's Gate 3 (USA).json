@@ -37,8 +37,12 @@
     "gog": {
         "appid": "1456460669",
         "appname": "baldurs_gate_iii",
-        "buildid": "Release - v4.1.1.5022896 - Patch Patch6_Hotfix9 ",
-        "name": "Baldur's Gate 3"
+        "buildid": "Release - v4.1.1.5970269 - Patch Patch7_Hotfix2",
+        "keys": [],
+        "name": "Baldur's Gate 3",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Larian Studios/Baldur's Gate 3"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_baldurs_gate_3_release_-_v4.1.1.5022896_-_patch_patch6_hotfix9__(64bit)_(72479).exe"

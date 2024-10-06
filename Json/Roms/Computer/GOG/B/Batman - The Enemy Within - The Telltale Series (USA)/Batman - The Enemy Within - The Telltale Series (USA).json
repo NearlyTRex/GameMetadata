@@ -12,7 +12,11 @@
         "appid": "2135854393",
         "appname": "batman_the_enemy_within_the_telltale_series",
         "buildid": "Noir-gog",
-        "name": "Batman: The Enemy Within - The Telltale Series"
+        "keys": [],
+        "name": "Batman: The Enemy Within - The Telltale Series",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/Batman The Enemy Within - The Telltale Series"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_batman_the_enemy_within_-_the_telltale_series_noir-gog_(64bit)_(37813).exe"

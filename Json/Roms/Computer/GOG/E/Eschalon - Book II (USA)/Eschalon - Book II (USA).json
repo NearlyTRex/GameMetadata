@@ -14,7 +14,11 @@
         "appid": "1207659220",
         "appname": "eschalon_book_ii",
         "buildid": "1.05",
-        "name": "Eschalon: Book II"
+        "keys": [],
+        "name": "Eschalon: Book II",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Basilisk Games/Book 2 Saved Games"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_eschalon_-_book_ii_1.05_(18471).exe"

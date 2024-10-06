@@ -12,7 +12,11 @@
         "appid": "1207659132",
         "appname": "costume_quest",
         "buildid": "gog-1",
-        "name": "Costume Quest"
+        "keys": [],
+        "name": "Costume Quest",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/CostumeQuest"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_costume_quest_gog-1_(18301).exe"

@@ -18,7 +18,9 @@
         "appid": "1432222749",
         "appname": "call_of_cthulhu_prisoner_of_ice",
         "buildid": "gog-5",
-        "name": "Call of Cthulhu: Prisoner of Ice"
+        "keys": [],
+        "name": "Call of Cthulhu: Prisoner of Ice",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_prisoner_of_ice_gog-5_(17101).exe"

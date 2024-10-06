@@ -27,7 +27,11 @@
         "appid": "1425299904",
         "appname": "the_dig",
         "buildid": "1.0",
-        "name": "The Dig\u00ae"
+        "keys": [],
+        "name": "The Dig\u00ae",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/LucasArts/The Dig"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_dig_1.0_(20270).exe"

@@ -16,7 +16,11 @@
         "appid": "1207663443",
         "appname": "avernum_6",
         "buildid": "1.1",
-        "name": "Avernum 6"
+        "keys": [],
+        "name": "Avernum 6",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Spiderweb Software/Avernum 6 Saved Games"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_avernum6_2.1.0.4.exe"

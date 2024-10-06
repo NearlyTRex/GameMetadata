@@ -15,7 +15,11 @@
         "appid": "1207661573",
         "appname": "dracula_3_the_path_of_the_dragon",
         "buildid": "original_release",
-        "name": "Dracula 3 - The Path of the Dragon"
+        "keys": [],
+        "name": "Dracula 3 - The Path of the Dragon",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Dracula 3"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dracula3_2.1.0.5.exe"
