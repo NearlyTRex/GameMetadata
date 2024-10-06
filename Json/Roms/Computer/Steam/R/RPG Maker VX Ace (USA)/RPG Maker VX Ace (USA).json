@@ -2,6 +2,13 @@
     "steam": {
         "appid": "220700",
         "branchid": "public",
-        "name": "RPG Maker VX Ace"
+        "builddate": "1727196997",
+        "buildid": "15811568",
+        "installdir": "RPGVXAce",
+        "keys": [],
+        "name": "RPG Maker VX Ace",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/220700"
+        ]
     }
 }

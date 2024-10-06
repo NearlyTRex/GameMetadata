@@ -2,6 +2,16 @@
     "steam": {
         "appid": "474010",
         "branchid": "public",
-        "name": "The NADI Project"
+        "builddate": "1505164460",
+        "buildid": "2110493",
+        "installdir": "The NADI Project",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Monkeys Tales Studio/The Nadi Project"
+        ],
+        "name": "The NADI Project",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/474010",
+            "USER_PROFILE_DIR/AppData/LocalLow/Monkeys Tales Studio/The Nadi Project"
+        ]
     }
 }

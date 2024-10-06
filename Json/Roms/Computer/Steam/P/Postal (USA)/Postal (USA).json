@@ -2,6 +2,18 @@
     "steam": {
         "appid": "232770",
         "branchid": "public",
-        "name": "POSTAL"
+        "builddate": "1511821755",
+        "buildid": "2320223",
+        "controller_support": "full",
+        "installdir": "POSTAL1",
+        "keys": [],
+        "name": "POSTAL",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/POSTAL1/POSTAL.INI",
+            "STORE_INSTALL_DIR/steamapps/common/POSTAL1/Postal Plus.ini",
+            "STORE_INSTALL_DIR/steamapps/common/POSTAL1/savegame",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/232770",
+            "USER_PROFILE_DIR/AppData/Roaming/RunningWithScissors/Postal Plus"
+        ]
     }
 }

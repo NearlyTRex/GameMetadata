@@ -1,6 +1,11 @@
 {
     "steam": {
         "appid": "2701800",
-        "branchid": "public"
+        "branchid": "public",
+        "keys": [],
+        "name": "No Players Online",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2701800"
+        ]
     }
 }

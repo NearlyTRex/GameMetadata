@@ -2,6 +2,14 @@
     "steam": {
         "appid": "2062120",
         "branchid": "public",
-        "name": "Resident Evil Village Gold Edition Gameplay Demo"
+        "builddate": "1681110059",
+        "buildid": "10439795",
+        "controller_support": "full",
+        "installdir": "Resident Evil Village BIOHAZARD VILLAGE Gold Edition Gameplay Demo",
+        "keys": [],
+        "name": "Resident Evil Village Gold Edition Gameplay Demo",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2062120"
+        ]
     }
 }

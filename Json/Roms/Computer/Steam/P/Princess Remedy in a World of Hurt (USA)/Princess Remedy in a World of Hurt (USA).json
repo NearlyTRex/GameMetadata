@@ -2,6 +2,16 @@
     "steam": {
         "appid": "407900",
         "branchid": "public",
-        "name": "Princess Remedy in a World of Hurt"
+        "builddate": "1664804701",
+        "buildid": "9642794",
+        "controller_support": "full",
+        "installdir": "Princess Remedy",
+        "keys": [],
+        "name": "Princess Remedy in a World of Hurt",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Princess Remedy",
+            "STORE_INSTALL_DIR/steamapps/common/Princess Remedy/options.sav",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/407900"
+        ]
     }
 }

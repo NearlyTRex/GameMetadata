@@ -2,6 +2,14 @@
     "steam": {
         "appid": "2139460",
         "branchid": "public",
-        "name": "Once Human"
+        "builddate": "1727970220",
+        "buildid": "15918247",
+        "installdir": "Once Human",
+        "keys": [],
+        "name": "Once Human",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Once Human/Documents/GraphicConfig.xml",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2139460"
+        ]
     }
 }
