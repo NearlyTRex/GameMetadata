@@ -2,6 +2,13 @@
     "steam": {
         "appid": "292230",
         "branchid": "public",
-        "name": "Game Character Hub"
+        "builddate": "1511163179",
+        "buildid": "2282332",
+        "installdir": "Game Character Hub",
+        "keys": [],
+        "name": "Game Character Hub",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/292230"
+        ]
     }
 }

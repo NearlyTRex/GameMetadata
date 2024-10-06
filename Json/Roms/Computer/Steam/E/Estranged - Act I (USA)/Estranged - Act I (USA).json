@@ -2,6 +2,16 @@
     "steam": {
         "appid": "261820",
         "branchid": "public",
-        "name": "Estranged: Act I"
+        "builddate": "1700783178",
+        "buildid": "12785715",
+        "controller_support": "partial",
+        "installdir": "Estranged Act I",
+        "keys": [],
+        "name": "Estranged: Act I",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Estranged Act I/estrangedact1/cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Estranged Act I/estrangedact1/save",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/261820"
+        ]
     }
 }

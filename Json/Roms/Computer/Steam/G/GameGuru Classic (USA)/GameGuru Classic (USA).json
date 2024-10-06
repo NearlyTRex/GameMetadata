@@ -2,6 +2,13 @@
     "steam": {
         "appid": "266310",
         "branchid": "public",
-        "name": "GameGuru Classic"
+        "builddate": "1725969153",
+        "buildid": "15639661",
+        "installdir": "Game Guru",
+        "keys": [],
+        "name": "GameGuru Classic",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/266310"
+        ]
     }
 }

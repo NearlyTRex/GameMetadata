@@ -2,6 +2,14 @@
     "steam": {
         "appid": "698780",
         "branchid": "public",
-        "name": "Doki Doki Literature Club"
+        "builddate": "1523833189",
+        "buildid": "2691100",
+        "installdir": "Doki Doki Literature Club",
+        "keys": [],
+        "name": "Doki Doki Literature Club",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/698780",
+            "USER_PROFILE_DIR/AppData/Roaming/RenPy/DDLC-1454445547"
+        ]
     }
 }

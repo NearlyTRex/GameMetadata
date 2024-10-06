@@ -2,6 +2,15 @@
     "steam": {
         "appid": "339120",
         "branchid": "public",
-        "name": "Fork Parker's Holiday Profit Hike"
+        "buildid": "483692",
+        "controller_support": "partial",
+        "installdir": "Fork Parker's Holiday Profit Hike",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Dodge Roll/Fork Parker's Holiday Profit Hike"
+        ],
+        "name": "Fork Parker's Holiday Profit Hike",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/339120"
+        ]
     }
 }

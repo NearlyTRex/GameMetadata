@@ -2,6 +2,14 @@
     "steam": {
         "appid": "367670",
         "branchid": "public",
-        "name": "Controller Companion"
+        "builddate": "1608562323",
+        "buildid": "5997869",
+        "controller_support": "full",
+        "installdir": "Controller Companion",
+        "keys": [],
+        "name": "Controller Companion",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/367670"
+        ]
     }
 }

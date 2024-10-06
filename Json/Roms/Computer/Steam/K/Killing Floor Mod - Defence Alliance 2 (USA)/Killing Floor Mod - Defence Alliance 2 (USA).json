@@ -2,6 +2,12 @@
     "steam": {
         "appid": "35420",
         "branchid": "public",
-        "name": "Killing Floor Mod: Defence Alliance 2"
+        "buildid": "52293",
+        "installdir": "killingfloor",
+        "keys": [],
+        "name": "Killing Floor Mod: Defence Alliance 2",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/35420"
+        ]
     }
 }

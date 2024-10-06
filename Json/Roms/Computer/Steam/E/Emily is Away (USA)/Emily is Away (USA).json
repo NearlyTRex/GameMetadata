@@ -2,6 +2,15 @@
     "steam": {
         "appid": "417860",
         "branchid": "public",
-        "name": "Emily is Away"
+        "builddate": "1619106454",
+        "buildid": "6565354",
+        "installdir": "Emily is Away",
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Kyle Seeley/Emily Is Away"
+        ],
+        "name": "Emily is Away",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/417860"
+        ]
     }
 }

@@ -2,6 +2,14 @@
     "steam": {
         "appid": "2285890",
         "branchid": "public",
-        "name": "The Dark Pictures Anthology: The Devil in Me - Friend's Pass"
+        "builddate": "1675970344",
+        "buildid": "10502279",
+        "controller_support": "full",
+        "installdir": "The Dark Pictures Anthology - The Devil In Me",
+        "keys": [],
+        "name": "The Dark Pictures Anthology: The Devil in Me - Friend's Pass",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/2285890"
+        ]
     }
 }

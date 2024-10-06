@@ -2,6 +2,14 @@
     "steam": {
         "appid": "1775270",
         "branchid": "public",
-        "name": "The Dark Pictures Anthology: House of Ashes - Friend's Pass"
+        "builddate": "1643366623",
+        "buildid": "8099365",
+        "controller_support": "full",
+        "installdir": "The Dark Pictures Anthology - House of Ashes",
+        "keys": [],
+        "name": "The Dark Pictures Anthology: House of Ashes - Friend's Pass",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1775270"
+        ]
     }
 }

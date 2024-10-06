@@ -2,6 +2,15 @@
     "steam": {
         "appid": "95700",
         "branchid": "public",
-        "name": "The Cat and the Coup"
+        "builddate": "1553475354",
+        "buildid": "3675997",
+        "controller_support": "partial",
+        "installdir": "The Cat and the Coup",
+        "keys": [],
+        "name": "The Cat and the Coup",
+        "paths": [
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/95700",
+            "USER_PROFILE_DIR/AppData/Roaming/Peter Brinson and Kurosh ValaNejad/The Cat and the Coup (Beta)"
+        ]
     }
 }

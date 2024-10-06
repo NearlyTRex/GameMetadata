@@ -2,6 +2,16 @@
     "steam": {
         "appid": "530330",
         "branchid": "public",
-        "name": "Blameless"
+        "builddate": "1507905135",
+        "buildid": "2190428",
+        "installdir": "Blameless",
+        "keys": [],
+        "name": "Blameless",
+        "paths": [
+            "STORE_INSTALL_DIR/steamapps/common/Blameless/Blameless_Data/mappings.cfg",
+            "STORE_INSTALL_DIR/steamapps/common/Blameless/Blameless_Data/player.cfg",
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/530330",
+            "USER_PROFILE_DIR/AppData/Roaming/Blameless"
+        ]
     }
 }
