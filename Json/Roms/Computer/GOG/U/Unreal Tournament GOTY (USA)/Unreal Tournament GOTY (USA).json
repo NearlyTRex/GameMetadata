@@ -14,7 +14,9 @@
         "appid": "1207658692",
         "appname": "unreal_tournament_goty",
         "buildid": "original_release",
-        "name": "Unreal Tournament GOTY"
+        "keys": [],
+        "name": "Unreal Tournament GOTY",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_ut_goty_2.0.0.5.exe"

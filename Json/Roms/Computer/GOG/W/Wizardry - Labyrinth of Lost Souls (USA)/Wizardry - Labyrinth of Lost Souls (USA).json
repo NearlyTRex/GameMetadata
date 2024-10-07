@@ -10,7 +10,11 @@
         "appid": "1350378876",
         "appname": "wizardry_labyrinth_of_lost_souls_game",
         "buildid": "1.0.14",
-        "name": "Wizardry: Labyrinth of Lost Souls"
+        "keys": [],
+        "name": "Wizardry: Labyrinth of Lost Souls",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Wizardry_LoLS"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_wizardry_labyrinth_of_lost_souls_1.0.14_(35878).exe",

@@ -6,7 +6,13 @@
         "appid": "1986246769",
         "appname": "sigma_theory_global_cold_war",
         "buildid": "1.2.1.2",
-        "name": "Sigma Theory: Global Cold War"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/MiClosStudio/sigma"
+        ],
+        "name": "Sigma Theory: Global Cold War",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/MiClosStudio/sigma"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_sigma_theory_global_cold_war_1.2.1.2_(39590).exe"

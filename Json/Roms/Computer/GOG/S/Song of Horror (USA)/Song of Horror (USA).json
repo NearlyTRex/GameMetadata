@@ -11,7 +11,11 @@
         "appid": "1957403324",
         "appname": "song_of_horror",
         "buildid": "1.0.2",
-        "name": "Song of Horror"
+        "keys": [],
+        "name": "Song of Horror",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/SongOfHorror"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_song_of_horror_1.25_(64bit)_(54257).exe"

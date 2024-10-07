@@ -20,7 +20,11 @@
         "appid": "1207658849",
         "appname": "syberia_2",
         "buildid": "1.0.0",
-        "name": "Syberia II"
+        "keys": [],
+        "name": "Syberia II",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Syberia 2 Saves"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_syberia_2_20171109_(16283).exe"

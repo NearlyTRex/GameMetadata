@@ -6,7 +6,11 @@
         "appid": "1674669448",
         "appname": "lovecrafts_untold_stories",
         "buildid": "1.35",
-        "name": "Lovecraft's Untold Stories"
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/BliniGames/LovecraftsUntoldStories"
+        ],
+        "name": "Lovecraft's Untold Stories",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_lovecrafts_untold_stories_1.35_(67308).exe"

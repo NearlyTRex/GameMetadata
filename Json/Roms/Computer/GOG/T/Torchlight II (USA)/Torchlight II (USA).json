@@ -12,7 +12,11 @@
         "appid": "1958228073",
         "appname": "torchlight_ii",
         "buildid": "1.25.9.5b",
-        "name": "Torchlight II"
+        "keys": [],
+        "name": "Torchlight II",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Runic Games/Torchlight 2"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_torchlight_2_1.25.9.5b_(23102).exe"

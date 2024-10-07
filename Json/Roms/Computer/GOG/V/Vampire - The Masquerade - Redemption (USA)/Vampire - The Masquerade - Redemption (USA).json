@@ -16,7 +16,9 @@
         "appid": "1207658831",
         "appname": "vampire_the_masquerade_redemption",
         "buildid": "original_release",
-        "name": "Vampire: The Masquerade - Redemption"
+        "keys": [],
+        "name": "Vampire: The Masquerade - Redemption",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_vampire_the_masquerade_redemption_2.0.0.3.exe"

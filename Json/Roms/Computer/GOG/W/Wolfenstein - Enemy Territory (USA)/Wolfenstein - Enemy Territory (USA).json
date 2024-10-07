@@ -6,7 +6,11 @@
         "appid": "1126166849",
         "appname": "wolfenstein_enemy_territory",
         "buildid": "RC1",
-        "name": "Wolfenstein: Enemy Territory"
+        "keys": [],
+        "name": "Wolfenstein: Enemy Territory",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/PunkBuster/ET"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_wolfenstein_enemy_territory_1.0_(58735).exe"

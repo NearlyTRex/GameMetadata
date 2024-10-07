@@ -12,7 +12,11 @@
         "appid": "1408897127",
         "appname": "remothered_tormented_fathers",
         "buildid": "1.5.1",
-        "name": "Remothered: Tormented Fathers"
+        "keys": [],
+        "name": "Remothered: Tormented Fathers",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Remothered"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_remothered_tormented_fathers_1.5.1_(64bit)_(22016).exe"

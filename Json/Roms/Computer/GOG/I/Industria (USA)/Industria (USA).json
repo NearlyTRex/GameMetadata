@@ -2,6 +2,11 @@
     "gog": {
         "appid": "1804122723",
         "appname": "industria",
-        "name": "INDUSTRIA"
+        "buildid": "1.3.2",
+        "keys": [],
+        "name": "INDUSTRIA",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Industria"
+        ]
     }
 }

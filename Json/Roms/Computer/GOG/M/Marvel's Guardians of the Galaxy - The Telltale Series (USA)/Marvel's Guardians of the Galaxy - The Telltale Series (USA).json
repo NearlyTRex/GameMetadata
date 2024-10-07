@@ -11,7 +11,11 @@
         "appid": "1253505782",
         "appname": "guardians_of_the_galaxy",
         "buildid": "Episode 5",
-        "name": "Marvel\u2019s Guardians of the Galaxy: The Telltale Series"
+        "keys": [],
+        "name": "Marvel\u2019s Guardians of the Galaxy: The Telltale Series",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/Guardians of the Galaxy"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_guardians_of_the_galaxy_episode_5_(16140).exe"

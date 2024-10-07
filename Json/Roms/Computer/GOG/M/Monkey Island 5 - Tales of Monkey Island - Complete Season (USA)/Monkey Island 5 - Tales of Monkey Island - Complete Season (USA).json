@@ -21,7 +21,11 @@
         "appid": "1207659066",
         "appname": "tales_of_monkey_island",
         "buildid": "1.0 20210623",
-        "name": "Tales of Monkey Island: Complete Season"
+        "keys": [],
+        "name": "Tales of Monkey Island: Complete Season",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_tales_of_monkey_island_1.0_20210623_(48006).exe"

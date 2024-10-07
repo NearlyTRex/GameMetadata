@@ -6,7 +6,11 @@
         "appid": "2114035213",
         "appname": "the_king_of_fighters_2002",
         "buildid": "gog-3",
-        "name": "THE KING OF FIGHTERS 2002"
+        "keys": [],
+        "name": "THE KING OF FIGHTERS 2002",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/SNK/kof2k2nd"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_king_of_fighters_2002_gog-3_(12081).exe"

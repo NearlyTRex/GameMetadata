@@ -13,7 +13,11 @@
         "appid": "1207658811",
         "appname": "sanitarium",
         "buildid": "1.0 SVM",
-        "name": "Sanitarium"
+        "keys": [
+            "HKEY_LOCAL_MACHINE/Software/WOW6432Node/DreamForge/Sanitarium"
+        ],
+        "name": "Sanitarium",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_sanitarium_1.0_svm_(57892).exe"

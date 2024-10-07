@@ -10,7 +10,11 @@
         "appid": "1425039730",
         "appname": "monkey_island_2_special_edition_lechucks_revenge",
         "buildid": "original_release",
-        "name": "Monkey Island\u2122 2 Special Edition: LeChuck\u2019s Revenge\u2122"
+        "keys": [],
+        "name": "Monkey Island\u2122 2 Special Edition: LeChuck\u2019s Revenge\u2122",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/LucasArts/Monkey Island 2 Special Edition"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_monkey_island2_se_2.0.0.10.exe"

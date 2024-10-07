@@ -18,7 +18,9 @@
         "appid": "1207662763",
         "appname": "wizardry_6",
         "buildid": "2.2.0.18",
-        "name": "Wizardry 6"
+        "keys": [],
+        "name": "Wizardry 6",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_wizardry6_2.2.0.18.exe"

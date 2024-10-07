@@ -6,7 +6,11 @@
         "appid": "1116941879",
         "appname": "sundered",
         "buildid": "29-04-2019",
-        "name": "Sundered\u00ae: Eldritch Edition"
+        "keys": [],
+        "name": "Sundered\u00ae: Eldritch Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Thunder Lotus Games/Sundered"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_sundered_29-04-2019_(64bit)_(29152).exe"

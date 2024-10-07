@@ -28,8 +28,12 @@
     "gog": {
         "appid": "1964276929",
         "appname": "war_for_the_overworld",
-        "buildid": "v2.1.0f4",
-        "name": "War for the Overworld"
+        "buildid": "v2.1.2",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Subterranean Games/War For The Overworld"
+        ],
+        "name": "War for the Overworld",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe",

@@ -6,7 +6,13 @@
         "appid": "1458127099",
         "appname": "jotun",
         "buildid": "11-09-2019",
-        "name": "Jotun: Valhalla Edition"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Thunder Lotus Games/Jotun"
+        ],
+        "name": "Jotun: Valhalla Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Thunder Lotus Games/Jotun"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_jotun_valhalla_edition_11-09-2019_(64bit)_(32396).exe"

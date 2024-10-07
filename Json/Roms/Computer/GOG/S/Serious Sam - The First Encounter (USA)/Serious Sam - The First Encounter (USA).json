@@ -10,7 +10,9 @@
         "appid": "1207658876",
         "appname": "serious_sam_the_first_encounter",
         "buildid": "1.05",
-        "name": "Serious Sam: The First Encounter"
+        "keys": [],
+        "name": "Serious Sam: The First Encounter",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_serious_sam_the_first_encounter_1.05_(21759).exe"

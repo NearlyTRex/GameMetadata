@@ -2,6 +2,11 @@
     "gog": {
         "appid": "1432253578",
         "appname": "powerslave_exhumed",
-        "name": "PowerSlave Exhumed"
+        "buildid": "1.0.1651",
+        "keys": [],
+        "name": "PowerSlave Exhumed",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Nightdive Studios/Powerslave EX"
+        ]
     }
 }

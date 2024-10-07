@@ -15,7 +15,11 @@
         "appid": "1439487606",
         "appname": "soma",
         "buildid": "1.61",
-        "name": "SOMA"
+        "keys": [],
+        "name": "SOMA",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Soma"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_soma_1.61_(64bit)_(50360).exe"

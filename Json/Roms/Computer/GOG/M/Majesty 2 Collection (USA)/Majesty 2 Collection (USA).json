@@ -25,7 +25,11 @@
         "appid": "1423826709",
         "appname": "majesty_2_collection",
         "buildid": "1.5.356",
-        "name": "Majesty 2 Collection"
+        "keys": [],
+        "name": "Majesty 2 Collection",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/majesty2"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_majesty_2_collection_1.5.356_(18254).exe"

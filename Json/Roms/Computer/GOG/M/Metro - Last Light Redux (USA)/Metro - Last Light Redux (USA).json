@@ -9,7 +9,12 @@
         "appid": "1430740172",
         "appname": "metro_last_light_redux",
         "buildid": "original_release",
-        "name": "Metro: Last Light Redux"
+        "keys": [],
+        "name": "Metro: Last Light Redux",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/4A Games/Metro Last Light",
+            "USER_PROFILE_DIR/Documents/4A Games/Metro Last Light"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_metro_last_light_redux_1.03_(33180).exe"

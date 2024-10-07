@@ -13,7 +13,9 @@
         "appid": "1207658834",
         "appname": "phantasmagoria",
         "buildid": "1.0",
-        "name": "Phantasmagoria"
+        "keys": [],
+        "name": "Phantasmagoria",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_phantasmagoria_1.0_(20239).exe"

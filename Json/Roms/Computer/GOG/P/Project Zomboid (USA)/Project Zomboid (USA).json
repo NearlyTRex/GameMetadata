@@ -7,7 +7,11 @@
         "appid": "1453298883",
         "appname": "project_zomboid",
         "buildid": "41.78.16",
-        "name": "Project Zomboid"
+        "keys": [],
+        "name": "Project Zomboid",
+        "paths": [
+            "USER_PROFILE_DIR/Zomboid"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_project_zomboid_41.78.16_(64bit)_(60900).exe"

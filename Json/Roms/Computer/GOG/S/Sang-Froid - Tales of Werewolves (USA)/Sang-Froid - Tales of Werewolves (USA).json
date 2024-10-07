@@ -13,7 +13,11 @@
         "appid": "1207660203",
         "appname": "sangfroid_tales_of_werewolves",
         "buildid": "1.13",
-        "name": "Sang-Froid: Tales of Werewolves"
+        "keys": [],
+        "name": "Sang-Froid: Tales of Werewolves",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/VirtualStore/sangFroidData"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_sang_froid_-_tales_of_werewolves_1.13_(21492).exe"

@@ -2,6 +2,11 @@
     "gog": {
         "appid": "1207659227",
         "appname": "unepic",
-        "name": "Unepic"
+        "buildid": "1.51.1",
+        "keys": [],
+        "name": "Unepic",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/unepic"
+        ]
     }
 }

@@ -18,7 +18,9 @@
         "appid": "1207658671",
         "appname": "stonekeep",
         "buildid": "gog-13",
-        "name": "Stonekeep"
+        "keys": [],
+        "name": "Stonekeep",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_stonekeep_2.1.0.13.exe"

@@ -6,7 +6,11 @@
         "appid": "1205909172",
         "appname": "relic_hunters_zero_remix",
         "buildid": "1.0.22",
-        "name": "Relic Hunters Zero: Remix"
+        "keys": [],
+        "name": "Relic Hunters Zero: Remix",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/RelicHuntersZero"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_relic_hunters_zero_remix_1.0.22_(65539).exe"

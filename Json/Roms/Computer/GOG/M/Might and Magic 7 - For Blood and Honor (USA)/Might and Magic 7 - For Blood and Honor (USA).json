@@ -20,7 +20,11 @@
         "appid": "1207658916",
         "appname": "might_and_magic_7_for_blood_and_honor",
         "buildid": "1.1 (hotfix)",
-        "name": "Might and Magic\u00ae 7: For Blood and Honor\u00ae"
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/New World Computing/Might and Magic VII/1.0"
+        ],
+        "name": "Might and Magic\u00ae 7: For Blood and Honor\u00ae",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_might_and_magic_7_1.1_(hotfix)_(10933).exe"

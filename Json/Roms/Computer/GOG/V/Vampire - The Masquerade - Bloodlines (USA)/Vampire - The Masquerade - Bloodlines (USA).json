@@ -11,7 +11,11 @@
         "appid": "1207659240",
         "appname": "vampire_the_masquerade_bloodlines",
         "buildid": "1.2 (UP 11.5/11.4/10.2)",
-        "name": "Vampire\u00ae: The Masquerade - Bloodlines\u2122"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Troika/Vampire"
+        ],
+        "name": "Vampire\u00ae: The Masquerade - Bloodlines\u2122",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_vampire_the_masquerade_-_bloodlines_1.2_(up_11.511.410.2)_(68368).exe"

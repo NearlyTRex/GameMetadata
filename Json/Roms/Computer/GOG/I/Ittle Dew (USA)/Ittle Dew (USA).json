@@ -18,7 +18,13 @@
         "appid": "1207659258",
         "appname": "ittle_dew",
         "buildid": "1.6 (gog-6)",
-        "name": "Ittle Dew"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Ludosity/IttleDew"
+        ],
+        "name": "Ittle Dew",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Ludosity/IttleDew"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_ittle_dew_2.3.0.6.exe"

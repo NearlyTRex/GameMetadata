@@ -8,7 +8,13 @@
         "appid": "1436434037",
         "appname": "metro_2033_redux",
         "buildid": "(gog-2)",
-        "name": "Metro 2033 Redux"
+        "keys": [],
+        "name": "Metro 2033 Redux",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/4A Games/Metro 2033",
+            "USER_PROFILE_DIR/Documents/4A Games/Metro 2033",
+            "USER_PROFILE_DIR/Documents/4A Games/Metro Redux"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_metro_2033_redux_1.03_(33180).exe"

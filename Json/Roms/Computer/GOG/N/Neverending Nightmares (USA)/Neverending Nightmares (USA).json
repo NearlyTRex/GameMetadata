@@ -12,7 +12,12 @@
         "appid": "1207665993",
         "appname": "neverending_nightmares",
         "buildid": "3.3.22469",
-        "name": "Neverending Nightmares"
+        "keys": [],
+        "name": "Neverending Nightmares",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Infinitap Games/Neverending Nightmares",
+            "USER_PROFILE_DIR/Saved Games/Neverending Nightmares"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_neverending_nightmares_3.3.22469_(50942).exe"

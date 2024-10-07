@@ -17,7 +17,11 @@
         "appid": "1207658867",
         "appname": "kings_bounty_the_legend",
         "buildid": "1.7.35.398",
-        "name": "King's Bounty: The Legend"
+        "keys": [],
+        "name": "King's Bounty: The Legend",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Kings Bounty"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_kings_bounty_the_legend_1.7.35.398_(39945).exe"

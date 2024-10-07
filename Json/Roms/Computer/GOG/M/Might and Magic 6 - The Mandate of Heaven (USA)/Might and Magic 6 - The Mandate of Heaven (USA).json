@@ -18,7 +18,11 @@
         "appid": "1207661253",
         "appname": "might_and_magic_6_the_mandate_of_heaven",
         "buildid": "(gog-42)",
-        "name": "Might and Magic 6 - The Mandate of Heaven"
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/New World Computing/Might and Magic\u00ae VI/1.0"
+        ],
+        "name": "Might and Magic 6 - The Mandate of Heaven",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_mm6_2.1.0.42.exe"

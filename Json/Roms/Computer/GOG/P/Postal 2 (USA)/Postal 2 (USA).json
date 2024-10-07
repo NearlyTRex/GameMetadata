@@ -25,7 +25,9 @@
         "appid": "1207658755",
         "appname": "postal_2",
         "buildid": "5100",
-        "name": "POSTAL 2"
+        "keys": [],
+        "name": "POSTAL 2",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_postal_2_5100_(64474).exe"

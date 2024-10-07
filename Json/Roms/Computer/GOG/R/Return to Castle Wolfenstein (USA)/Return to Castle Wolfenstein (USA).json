@@ -6,7 +6,9 @@
         "appid": "1441704976",
         "appname": "return_to_castle_wolfenstein_game",
         "buildid": "1.41 (gog-2)",
-        "name": "Return to Castle Wolfenstein"
+        "keys": [],
+        "name": "Return to Castle Wolfenstein",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_return_to_castle_wolfenstein_2.0.0.2.exe"

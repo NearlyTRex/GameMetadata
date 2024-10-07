@@ -2,6 +2,13 @@
     "gog": {
         "appid": "1810841502",
         "appname": "tomb_raider_legend",
-        "name": "Tomb Raider: Legend"
+        "buildid": "1.2",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Crystal Dynamics/Tomb Raider: Legend"
+        ],
+        "name": "Tomb Raider: Legend",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Tomb Raider - Legend"
+        ]
     }
 }

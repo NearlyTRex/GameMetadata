@@ -6,7 +6,9 @@
         "appid": "1497784911",
         "appname": "kathy_rain_demo",
         "buildid": "1.0.4",
-        "name": "Kathy Rain demo"
+        "keys": [],
+        "name": "Kathy Rain demo",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_kathy_rain_(demo)_1.0.4_(19094).exe"

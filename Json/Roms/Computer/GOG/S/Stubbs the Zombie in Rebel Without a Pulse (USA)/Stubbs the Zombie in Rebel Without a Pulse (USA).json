@@ -7,7 +7,11 @@
         "appid": "1862877679",
         "appname": "stubbs_the_zombie_in_rebel_without_a_pulse",
         "buildid": "1.0",
-        "name": "Stubbs the Zombie in Rebel Without a Pulse"
+        "keys": [],
+        "name": "Stubbs the Zombie in Rebel Without a Pulse",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Stubbs the Zombie"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_stubbs_the_zombie_in_rebel_without_a_pulse_1.0_(45609).exe"

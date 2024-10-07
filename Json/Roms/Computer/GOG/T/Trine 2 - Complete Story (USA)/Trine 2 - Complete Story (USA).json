@@ -19,7 +19,11 @@
         "appid": "1207660353",
         "appname": "trine_2_complete_story",
         "buildid": "original_release",
-        "name": "Trine 2: Complete Story"
+        "keys": [],
+        "name": "Trine 2: Complete Story",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Trine2"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_trine_2_-_complete_story_2.01_build_447_(15973).exe"

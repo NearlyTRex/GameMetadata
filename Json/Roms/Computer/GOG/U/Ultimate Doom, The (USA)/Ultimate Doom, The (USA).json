@@ -12,7 +12,9 @@
         "appid": "1435827232",
         "appname": "the_ultimate_doom_game",
         "buildid": "1.9",
-        "name": "The Ultimate Doom"
+        "keys": [],
+        "name": "The Ultimate Doom",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_ultimate_doom_1.9_(28044).exe"

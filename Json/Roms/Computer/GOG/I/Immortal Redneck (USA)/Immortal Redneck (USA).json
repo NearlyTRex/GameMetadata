@@ -13,7 +13,11 @@
         "appid": "2089001920",
         "appname": "immortal_redneck",
         "buildid": "1.3.3",
-        "name": "Immortal Redneck"
+        "keys": [],
+        "name": "Immortal Redneck",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/CremaGames/Immortal Redneck"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_immortal_redneck_64_1.3.3_(15760).exe"

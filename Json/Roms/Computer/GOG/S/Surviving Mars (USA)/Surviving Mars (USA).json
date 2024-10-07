@@ -30,7 +30,9 @@
         "appid": "2129244347",
         "appname": "surviving_mars",
         "buildid": "1.5 Fuglesang 1011166",
-        "name": "Surviving Mars"
+        "keys": [],
+        "name": "Surviving Mars",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_surviving_mars_1.5_fuglesang_1011166_(64bit)_(55882).exe",

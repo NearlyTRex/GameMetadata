@@ -10,7 +10,11 @@
         "appid": "1207659121",
         "appname": "warsow",
         "buildid": "2.1 (gog-18)",
-        "name": "Warsow"
+        "keys": [],
+        "name": "Warsow",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Warsow"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_warsow_2.4.0.18.exe"

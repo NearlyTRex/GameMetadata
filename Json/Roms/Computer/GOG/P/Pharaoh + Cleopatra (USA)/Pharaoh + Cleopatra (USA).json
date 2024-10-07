@@ -16,7 +16,9 @@
         "appid": "1207659046",
         "appname": "pharaoh_cleopatra",
         "buildid": "(gog-15)",
-        "name": "Pharaoh + Cleopatra"
+        "keys": [],
+        "name": "Pharaoh + Cleopatra",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_pharaoh_gold_2.1.0.15.exe"

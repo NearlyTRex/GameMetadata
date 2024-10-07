@@ -10,7 +10,13 @@
         "appid": "1207664363",
         "appname": "paper_sorcerer",
         "buildid": "2.5",
-        "name": "Paper Sorcerer"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/UltraRunaway/Paper Sorcerer"
+        ],
+        "name": "Paper Sorcerer",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/UltraRunaway/Paper Sorcerer"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_paper_sorcerer_2.5_(21323).exe"

@@ -22,7 +22,12 @@
         "appid": "1207658713",
         "appname": "stronghold_crusader",
         "buildid": "1.41(a)",
-        "name": "Stronghold Crusader HD"
+        "keys": [],
+        "name": "Stronghold Crusader HD",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Stronghold Crusader Extreme",
+            "USER_PROFILE_DIR/Documents/Stronghold Crusader"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_stronghold_crusader_extreme_hd_1.41(a)_(45299).exe"

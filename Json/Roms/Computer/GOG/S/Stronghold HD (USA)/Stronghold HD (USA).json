@@ -23,7 +23,11 @@
         "appid": "1207658712",
         "appname": "stronghold",
         "buildid": "1.41",
-        "name": "Stronghold HD"
+        "keys": [],
+        "name": "Stronghold HD",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Stronghold"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_stronghold_hd_1.41_(20341).exe"

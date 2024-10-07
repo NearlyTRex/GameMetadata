@@ -6,7 +6,11 @@
         "appid": "1441715179",
         "appname": "puzzle_agent",
         "buildid": "1.0",
-        "name": "Puzzle Agent"
+        "keys": [],
+        "name": "Puzzle Agent",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/The Mystery of Scoggins"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_puzzle_agent_1.0_(21444).exe"

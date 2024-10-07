@@ -8,7 +8,11 @@
         "appid": "1848744423",
         "appname": "mordheim_city_of_the_damned",
         "buildid": "1.4.4.4",
-        "name": "Mordheim: City of the Damned"
+        "keys": [],
+        "name": "Mordheim: City of the Damned",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Mordheim"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_mordheim_city_of_the_damned_1.4.4.4_(64bit)_(36463).exe"

@@ -10,7 +10,11 @@
         "appid": "1493047913",
         "appname": "strafe",
         "buildid": "1.4",
-        "name": "STRAFE: Gold Edition"
+        "keys": [],
+        "name": "STRAFE: Gold Edition",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Pixel Titans/Strafe"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_strafe_1.4_(38935).exe"

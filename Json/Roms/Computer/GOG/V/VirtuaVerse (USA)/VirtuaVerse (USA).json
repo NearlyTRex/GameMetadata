@@ -6,7 +6,13 @@
         "appid": "2116968103",
         "appname": "virtuaverse",
         "buildid": "1.37",
-        "name": "VirtuaVerse"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Theta Division Games/VirtuaVerse"
+        ],
+        "name": "VirtuaVerse",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Theta Division Games/VirtuaVerse"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_virtuaverse_1.37_(57276).exe"

@@ -14,7 +14,11 @@
         "appid": "1207659118",
         "appname": "hotline_miami",
         "buildid": "gog-8(a)",
-        "name": "Hotline Miami"
+        "keys": [],
+        "name": "Hotline Miami",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/HotlineMiami"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_hotline_miami_gog-8(a)_(46452).exe"

@@ -1,6 +1,12 @@
 {
     "gog": {
         "appid": "1511366207",
-        "appname": "showgunners"
+        "appname": "showgunners",
+        "buildid": "1.1.1",
+        "keys": [],
+        "name": "Showgunners",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Showgunners"
+        ]
     }
 }

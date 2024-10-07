@@ -10,7 +10,9 @@
         "appid": "1207658901",
         "appname": "tyrian_2000",
         "buildid": "3.0",
-        "name": "Tyrian 2000"
+        "keys": [],
+        "name": "Tyrian 2000",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_tyrian_2000_3.0_(28045).exe"

@@ -7,7 +7,11 @@
         "appid": "1432213513",
         "appname": "wolf_among_us_the",
         "buildid": "1.0",
-        "name": "The Wolf Among Us"
+        "keys": [],
+        "name": "The Wolf Among Us",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/TheWolfAmongUs"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_wolf_among_us_1.0_(17820).exe"

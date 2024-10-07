@@ -12,7 +12,11 @@
         "appid": "2071628374",
         "appname": "zombie_night_terror",
         "buildid": "1.5.2",
-        "name": "Zombie Night Terror"
+        "keys": [],
+        "name": "Zombie Night Terror",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/NoClip/Zombie Night Terror",
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_zombie_night_terror_1.5.2_(36444).exe"

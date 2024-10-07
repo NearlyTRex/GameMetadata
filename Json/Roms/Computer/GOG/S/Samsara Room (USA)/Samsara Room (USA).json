@@ -6,7 +6,9 @@
         "appid": "1772252890",
         "appname": "samsara_room",
         "buildid": "1.2",
-        "name": "Samsara Room"
+        "keys": [],
+        "name": "Samsara Room",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_samsara_room_1.2_(62508).exe"

@@ -12,7 +12,9 @@
         "appid": "1207659693",
         "appname": "stargunner",
         "buildid": "1.0b",
-        "name": "Stargunner"
+        "keys": [],
+        "name": "Stargunner",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_stargunner_1.0b_(28045).exe"

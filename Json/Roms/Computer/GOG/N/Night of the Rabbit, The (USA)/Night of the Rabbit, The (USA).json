@@ -16,7 +16,11 @@
         "appid": "1207659218",
         "appname": "the_night_of_the_rabbit",
         "buildid": "1.2.3.0389",
-        "name": "The Night of the Rabbit"
+        "keys": [],
+        "name": "The Night of the Rabbit",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Daedalic Entertainment/The Night of the Rabbit"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_night_of_the_rabbit_1.2.3.0389_(18473).exe"

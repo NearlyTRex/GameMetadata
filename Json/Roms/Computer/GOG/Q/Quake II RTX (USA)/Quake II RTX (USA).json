@@ -6,7 +6,9 @@
         "appid": "1825786806",
         "appname": "quake_ii_rtx",
         "buildid": "1.7.0",
-        "name": "Quake II RTX"
+        "keys": [],
+        "name": "Quake II RTX",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_quake_ii_rtx_1.7.0_(67306).exe"

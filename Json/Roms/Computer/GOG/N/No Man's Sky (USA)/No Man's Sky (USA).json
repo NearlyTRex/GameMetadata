@@ -9,8 +9,12 @@
     "gog": {
         "appid": "1446213994",
         "appname": "no_mans_sky",
-        "buildid": "4.65_Orbitals_121808",
-        "name": "No Man's Sky"
+        "buildid": "5.12_Aquarius_129192",
+        "keys": [],
+        "name": "No Man's Sky",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/HelloGames/NMS"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_no_mans_sky_4.65_orbitals_121808_(72994).exe"

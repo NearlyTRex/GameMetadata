@@ -17,7 +17,11 @@
         "appid": "1207659113",
         "appname": "post_mortem",
         "buildid": "1.0",
-        "name": "Post Mortem"
+        "keys": [],
+        "name": "Post Mortem",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Post_Mortem Saves"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_post_mortem_1.0_(19454).exe"

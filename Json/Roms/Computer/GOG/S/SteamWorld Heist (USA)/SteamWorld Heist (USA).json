@@ -2,6 +2,11 @@
     "gog": {
         "appid": "1668986402",
         "appname": "steamworld_heist",
-        "name": "SteamWorld Heist"
+        "buildid": "2.1",
+        "keys": [],
+        "name": "SteamWorld Heist",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/SteamWorld Heist"
+        ]
     }
 }

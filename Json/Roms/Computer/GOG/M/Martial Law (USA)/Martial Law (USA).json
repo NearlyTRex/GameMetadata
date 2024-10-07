@@ -6,7 +6,11 @@
         "appid": "1692939089",
         "appname": "martial_law",
         "buildid": "1.1.0",
-        "name": "Martial Law"
+        "keys": [],
+        "name": "Martial Law",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Godot/app_userdata/Martial Law"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_martial_law_1.1.0_(64bit)_(55044).exe"

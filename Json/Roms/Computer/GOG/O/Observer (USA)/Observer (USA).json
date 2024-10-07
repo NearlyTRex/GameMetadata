@@ -8,7 +8,11 @@
         "appid": "1449856523",
         "appname": "observer",
         "buildid": "02.07.2018",
-        "name": ">observer_"
+        "keys": [],
+        "name": ">observer_",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/TheObserver"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_observer_02.07.2018_(21921).exe"

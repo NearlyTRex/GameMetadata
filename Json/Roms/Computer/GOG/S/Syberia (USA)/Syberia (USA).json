@@ -17,7 +17,11 @@
         "appid": "1207658848",
         "appname": "syberia",
         "buildid": "1.0.0 Hotfix4",
-        "name": "Syberia"
+        "keys": [],
+        "name": "Syberia",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Syberia Saves"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_syberia_1.0.0_hotfix4_(53936).exe"

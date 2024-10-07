@@ -7,7 +7,9 @@
         "appid": "1224800338",
         "appname": "inscryption",
         "buildid": "1.10 Win",
-        "name": "Inscryption"
+        "keys": [],
+        "name": "Inscryption",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_inscryption_1.10_win_(56780).exe"

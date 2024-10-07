@@ -17,7 +17,9 @@
         "appid": "1207666633",
         "appname": "toonstruck",
         "buildid": "1.0",
-        "name": "Toonstruck"
+        "keys": [],
+        "name": "Toonstruck",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_toonstruck_1.0_(20270).exe"

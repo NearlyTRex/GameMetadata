@@ -18,7 +18,11 @@
         "appid": "1207662743",
         "appname": "penumbra_black_plague",
         "buildid": "1.0",
-        "name": "Penumbra - Black Plague"
+        "keys": [],
+        "name": "Penumbra - Black Plague",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Penumbra"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_penumbra_-_black_plague_1.0_(20339).exe",

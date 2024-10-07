@@ -18,7 +18,11 @@
         "appid": "2098644729",
         "appname": "vampyr",
         "buildid": "1.1.7",
-        "name": "Vampyr"
+        "keys": [],
+        "name": "Vampyr",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/AVGame"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_vampyr_1.1.7_(64bit)_(45305).exe",

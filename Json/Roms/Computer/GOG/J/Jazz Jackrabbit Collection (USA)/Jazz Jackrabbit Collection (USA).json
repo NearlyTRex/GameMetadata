@@ -10,7 +10,9 @@
         "appid": "1808582759",
         "appname": "jazz_jackrabbit_collection",
         "buildid": "2.0 CSv2 Patch 2",
-        "name": "Jazz Jackrabbit Collection"
+        "keys": [],
+        "name": "Jazz Jackrabbit Collection",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_jazz_jackrabbit_collection_2.0_csv2_patch_2_(72509).exe"

@@ -12,7 +12,11 @@
         "appid": "1207660084",
         "appname": "lone_survivor_directors_cut",
         "buildid": "1.0",
-        "name": "Lone Survivor: The Director's Cut"
+        "keys": [],
+        "name": "Lone Survivor: The Director's Cut",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/LoneSurvivor/Local Store/Lone Survivor Saved Game"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_lone_survivor_-_the_directors_cut_1.0_(21178).exe"

@@ -1,6 +1,14 @@
 {
     "gog": {
         "appid": "2147483047",
-        "appname": "moonlighter"
+        "appname": "moonlighter",
+        "buildid": "1.14.37",
+        "keys": [
+            "HKEY_CURRENT_USER/11BitStudios/Moonlighter"
+        ],
+        "name": "Moonlighter",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/11BitStudios/Moonlighter"
+        ]
     }
 }

@@ -22,7 +22,9 @@
         "appid": "1207659713",
         "appname": "shadow_man",
         "buildid": "1.0",
-        "name": "Shadow Man"
+        "keys": [],
+        "name": "Shadow Man",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_shadow_man_1.0_(22189).exe"

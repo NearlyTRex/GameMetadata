@@ -11,7 +11,11 @@
         "appid": "1289701346",
         "appname": "truberbrook",
         "buildid": "1.6",
-        "name": "Tr\u00fcberbrook"
+        "keys": [],
+        "name": "Tr\u00fcberbrook",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/BTF/Truberbrook"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_truberbrook_1.6_(30927).exe"

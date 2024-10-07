@@ -31,7 +31,11 @@
         "appid": "1158493447",
         "appname": "prey",
         "buildid": "12742273",
-        "name": "Prey"
+        "keys": [],
+        "name": "Prey",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Arkane Studios/Prey"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_prey_12742273_(64bit)_(65935).exe",

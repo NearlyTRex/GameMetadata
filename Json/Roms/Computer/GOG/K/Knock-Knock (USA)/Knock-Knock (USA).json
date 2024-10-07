@@ -18,7 +18,11 @@
         "appid": "1207659923",
         "appname": "knock_knock",
         "buildid": "(gog-4)",
-        "name": "Knock-Knock"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Ice-Pick Lodge/Knock-knock"
+        ],
+        "name": "Knock-Knock",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_knock-knock_2.0.0.4.exe"

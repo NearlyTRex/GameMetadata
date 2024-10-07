@@ -18,7 +18,11 @@
         "appid": "1811173671",
         "appname": "through_the_woods",
         "buildid": "1.2",
-        "name": "Through the Woods"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Antagonist/ThroughTheWoods"
+        ],
+        "name": "Through the Woods",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_through_the_woods_1.2_(15132).exe"

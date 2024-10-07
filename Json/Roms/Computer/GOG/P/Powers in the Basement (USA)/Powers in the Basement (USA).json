@@ -5,8 +5,14 @@
     "gog": {
         "appid": "1985215349",
         "appname": "powers_in_the_basement",
-        "buildid": "1.2.2",
-        "name": "Powers in the Basement"
+        "buildid": "1.2.3",
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Illiterate Code Games/Powers in the Basement"
+        ],
+        "name": "Powers in the Basement",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Illiterate Code Games/Powers in the Basement"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_powers_in_the_basement_1.2.2_(64bit)_(70653).exe"

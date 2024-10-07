@@ -22,7 +22,11 @@
         "appid": "1207660163",
         "appname": "wasteland_the_classic_original",
         "buildid": "original_release",
-        "name": "Wasteland 1: The Original Classic"
+        "keys": [],
+        "name": "Wasteland 1: The Original Classic",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/inXile entertainment/Wasteland"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_wasteland_2.1.0.8.exe"

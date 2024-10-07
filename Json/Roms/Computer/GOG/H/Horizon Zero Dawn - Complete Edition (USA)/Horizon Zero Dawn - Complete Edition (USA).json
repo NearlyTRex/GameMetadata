@@ -28,7 +28,11 @@
         "appid": "1209025141",
         "appname": "horizon_zero_dawn_complete_edition",
         "buildid": "7517962",
-        "name": "Horizon Zero Dawn\u2122 Complete Edition"
+        "keys": [],
+        "name": "Horizon Zero Dawn\u2122 Complete Edition",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Horizon Zero Dawn"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_horizon_zero_dawntm_complete_edition_7517962_(64bit)_(53037).exe"

@@ -20,7 +20,11 @@
         "appid": "1207659069",
         "appname": "torchlight",
         "buildid": "1.15(A)",
-        "name": "Torchlight"
+        "keys": [],
+        "name": "Torchlight",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/runic games/torchlight"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_torchlight_1.15(a)_(23675).exe"

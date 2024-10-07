@@ -39,7 +39,11 @@
         "appid": "1439548178",
         "appname": "stasis",
         "buildid": "1.09.1",
-        "name": "STASIS"
+        "keys": [],
+        "name": "STASIS",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/The Brotherhood/Stasis"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_stasis_1.09.1_(21441).exe"

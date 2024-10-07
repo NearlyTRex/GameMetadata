@@ -11,7 +11,11 @@
         "appid": "2005859194",
         "appname": "martha_is_dead_base",
         "buildid": "1.0719.01",
-        "name": "Martha Is Dead"
+        "keys": [],
+        "name": "Martha Is Dead",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/MID"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_martha_is_dead_1.0719.01_(64bit)_(66176).exe"

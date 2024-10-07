@@ -6,7 +6,11 @@
         "appid": "2006298293",
         "appname": "samorost_1",
         "buildid": "1.12",
-        "name": "Samorost 1"
+        "keys": [],
+        "name": "Samorost 1",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/amanitadesign.samorost1"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_samorost_1_1.12_(47177).exe"

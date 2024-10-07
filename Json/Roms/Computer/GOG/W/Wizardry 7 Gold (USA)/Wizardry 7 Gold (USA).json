@@ -30,7 +30,9 @@
         "appid": "1207662783",
         "appname": "wizardry_7_gold",
         "buildid": "original_release",
-        "name": "Wizardry 7 Gold"
+        "keys": [],
+        "name": "Wizardry 7 Gold",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_wizardry7_2.2.0.17.exe"
