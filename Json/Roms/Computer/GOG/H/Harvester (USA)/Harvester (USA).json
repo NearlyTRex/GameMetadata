@@ -25,7 +25,9 @@
         "appid": "1207661373",
         "appname": "harvester",
         "buildid": "1.0",
-        "name": "Harvester"
+        "keys": [],
+        "name": "Harvester",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_harvester_1.0_(28235).exe"

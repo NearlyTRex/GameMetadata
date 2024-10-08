@@ -6,13 +6,9 @@
         "appid": "2147483059",
         "appname": "the_bards_tale_trilogy",
         "buildid": "4.34",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/InXile Entertainment/The Bard's Tale Trilogy"
-        ],
+        "keys": [],
         "name": "The Bard's Tale Trilogy",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/InXile Entertainment/The Bard's Tale Trilogy"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_bards_tale_trilogy_4.34_(34202).exe"

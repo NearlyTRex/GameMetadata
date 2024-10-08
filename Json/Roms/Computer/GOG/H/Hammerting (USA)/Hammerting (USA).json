@@ -7,7 +7,9 @@
         "appid": "1444308510",
         "appname": "hammerting",
         "buildid": "build3-tdtd-06964af_tdtd-release_candidate-windows-release",
-        "name": "Hammerting"
+        "keys": [],
+        "name": "Hammerting",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"

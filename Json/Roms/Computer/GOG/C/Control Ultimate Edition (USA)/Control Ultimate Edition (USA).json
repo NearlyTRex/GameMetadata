@@ -15,10 +15,7 @@
         "buildid": "Update 2",
         "keys": [],
         "name": "Control Ultimate Edition",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Remedy/Control",
-            "USER_PROFILE_DIR/Documents/My Games/Control"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_control_ultimate_edition_update_2_(41492).exe"

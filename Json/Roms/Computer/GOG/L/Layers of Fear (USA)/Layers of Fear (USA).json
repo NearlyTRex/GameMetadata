@@ -17,13 +17,9 @@
         "appid": "1455107123",
         "appname": "layers_of_fear",
         "buildid": "1.1.0",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/Bloober Team/Layers of Fear"
-        ],
+        "keys": [],
         "name": "Layers of Fear (2016)",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Bloober Team/Layers of Fear"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_layers_of_fear_1.1.0_(16815).exe",

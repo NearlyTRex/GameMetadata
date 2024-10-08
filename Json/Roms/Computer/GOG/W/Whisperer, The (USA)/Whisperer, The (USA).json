@@ -7,13 +7,9 @@
         "appid": "1426240474",
         "appname": "the_whisperer",
         "buildid": "1.3.1",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/Studio Chien d'Or/The Whisperer"
-        ],
+        "keys": [],
         "name": "The Whisperer",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Studio Chien d'Or/The Whisperer"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_whisperer_1.3.1_(66039).exe"

@@ -25,15 +25,9 @@
         "appid": "1296690054",
         "appname": "deus_ex_mankind_divided",
         "buildid": "1.19 hotfix",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/Eidos Montreal/Deus Ex: MD"
-        ],
+        "keys": [],
         "name": "Deus Ex: Mankind Divided",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Roaming/Eidos Montreal/DXNG",
-            "USER_PROFILE_DIR/AppData/Roaming/Eidos Montreal/Deus Ex Mankind Divided",
-            "USER_PROFILE_DIR/Documents/My Games/Deus Ex Mankind Divided"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_deus_ex_mankind_divided_1.19_hotfix_(38078).exe",

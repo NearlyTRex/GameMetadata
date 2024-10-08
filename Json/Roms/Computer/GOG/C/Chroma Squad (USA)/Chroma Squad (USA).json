@@ -6,13 +6,9 @@
         "appid": "1430123043",
         "appname": "chroma_squad",
         "buildid": "1.12b",
-        "keys": [
-            "HKEY_CURRENT_USER/SOFTWARE/Behold Studios/Chroma Squad"
-        ],
+        "keys": [],
         "name": "Chroma Squad",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Behold Studios/Chroma Squad"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_chroma_squad_1.12b_(15290).exe"

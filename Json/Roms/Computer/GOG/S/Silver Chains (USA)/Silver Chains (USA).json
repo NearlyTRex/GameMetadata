@@ -10,9 +10,7 @@
         "buildid": "1.0.19",
         "keys": [],
         "name": "Silver Chains",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Local/SilverChains"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_silver_chains_1.0.19_(64bit)_(33437).exe"

@@ -22,7 +22,9 @@
         "appid": "1207658687",
         "appname": "ghost_master",
         "buildid": "20171020",
-        "name": "Ghost Master"
+        "keys": [],
+        "name": "Ghost Master",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_ghost_master_20171020_(15806).exe"

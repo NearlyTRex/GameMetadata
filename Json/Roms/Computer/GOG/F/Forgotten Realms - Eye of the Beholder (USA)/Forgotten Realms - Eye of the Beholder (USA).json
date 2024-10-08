@@ -12,7 +12,9 @@
         "appid": "1432575012",
         "appname": "eye_of_the_beholder",
         "buildid": "1.7",
-        "name": "Eye of the Beholder"
+        "keys": [],
+        "name": "Eye of the Beholder",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_eye_of_the_beholder_1.7_(28044).exe"

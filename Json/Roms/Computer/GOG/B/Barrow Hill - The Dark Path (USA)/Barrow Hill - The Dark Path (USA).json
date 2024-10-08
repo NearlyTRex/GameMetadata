@@ -13,13 +13,9 @@
         "appid": "1840673966",
         "appname": "barrow_hill_the_dark_path",
         "buildid": "BH2-GOG1",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/ShadowTorStudios/TheDarkPath"
-        ],
+        "keys": [],
         "name": "Barrow Hill: The Dark Path",
-        "paths": [
-            "USER_PROFILE_DIR/Saved Games/The Dark Path"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_barrow_hill_the_dark_path_bh2-gog1_(36924).exe"

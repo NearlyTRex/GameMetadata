@@ -7,7 +7,9 @@
         "appid": "1526229423",
         "appname": "gravewood_high",
         "buildid": "1.0",
-        "name": "Gravewood High"
+        "keys": [],
+        "name": "Gravewood High",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_gravewood_high_1.0_(64bit)_(64312).exe"

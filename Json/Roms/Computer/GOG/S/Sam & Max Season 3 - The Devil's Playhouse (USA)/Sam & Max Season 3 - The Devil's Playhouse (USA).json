@@ -26,13 +26,7 @@
         "buildid": "original_release",
         "keys": [],
         "name": "Sam & Max: The Devil\u2019s Playhouse",
-        "paths": [
-            "USER_PROFILE_DIR/Documents/Telltale Games/Beyond the Alley of the Dolls",
-            "USER_PROFILE_DIR/Documents/Telltale Games/The City That Dares Not Sleep",
-            "USER_PROFILE_DIR/Documents/Telltale Games/The Penal Zone",
-            "USER_PROFILE_DIR/Documents/Telltale Games/The Tomb of Sammun-Mak",
-            "USER_PROFILE_DIR/Documents/Telltale Games/They Stole Maxs Brain"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_sam_and_max_the_devils_playhouse_2.0.0.9.exe"

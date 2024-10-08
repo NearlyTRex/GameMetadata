@@ -7,13 +7,9 @@
         "appid": "1578751181",
         "appname": "darkwood",
         "buildid": "1.4.2",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/Acid Wizard Studio/Darkwood"
-        ],
+        "keys": [],
         "name": "Darkwood",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Acid Wizard Studio/DARKWOOD"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_darkwood_1.4.2_(64bit)_(70214).exe"

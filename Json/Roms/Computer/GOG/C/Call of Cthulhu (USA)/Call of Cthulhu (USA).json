@@ -16,9 +16,7 @@
         "buildid": "4.15.2",
         "keys": [],
         "name": "Call of Cthulhu\u00ae",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Local/CallOfCthulhu"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_call_of_cthulhu_4.15.2_(64bit)_(33442).exe"

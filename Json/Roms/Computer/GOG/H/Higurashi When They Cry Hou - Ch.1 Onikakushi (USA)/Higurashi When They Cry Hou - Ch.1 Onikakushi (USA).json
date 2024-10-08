@@ -6,13 +6,9 @@
         "appid": "1532671653",
         "appname": "higurashi_when_they_cry_hou_ch1_onikakushi",
         "buildid": "1.0 BGM & SFX update",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/Mangagamer/Higurashi When They Cry - Ch.1 Onikakushi"
-        ],
+        "keys": [],
         "name": "Higurashi When They Cry Hou - Ch.1 Onikakushi",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Roaming/Mangagamer/higurashi01"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_higurashi_when_they_cry_hou_-_ch.1_onikakushi_1.0_bgm__sfx_update_(28574).exe"

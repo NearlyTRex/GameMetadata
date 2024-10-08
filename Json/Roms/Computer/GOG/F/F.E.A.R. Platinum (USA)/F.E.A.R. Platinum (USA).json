@@ -24,11 +24,7 @@
         "buildid": "original_release",
         "keys": [],
         "name": "F.E.A.R. Platinum",
-        "paths": [
-            "USER_PUBLIC_DIR/Documents/Monolith Productions/FEAR",
-            "USER_PUBLIC_DIR/Documents/TimeGate Studios/FEARXP",
-            "USER_PUBLIC_DIR/Documents/TimeGate Studios/FEARXP2"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_fear_platinum_collection_2.0.0.5.exe"

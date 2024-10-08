@@ -24,9 +24,7 @@
         "buildid": "original_release",
         "keys": [],
         "name": "Wasteland 1: The Original Classic",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Local/inXile entertainment/Wasteland"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_wasteland_2.1.0.8.exe"

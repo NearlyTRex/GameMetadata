@@ -6,7 +6,9 @@
         "appid": "1807214820",
         "appname": "helium_rain",
         "buildid": "1.3.6",
-        "name": "Helium Rain"
+        "keys": [],
+        "name": "Helium Rain",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_helium_rain_1.3.6_(64bit)_(27263).exe"

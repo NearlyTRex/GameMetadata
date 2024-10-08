@@ -6,13 +6,9 @@
         "appid": "1719675091",
         "appname": "true_fear_forsaken_souls",
         "buildid": "2.0.9",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/Goblinz Enterprises Limited/True Fear"
-        ],
+        "keys": [],
         "name": "True Fear: Forsaken Souls Part 1",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Goblinz/TrueFear_ForsakenSouls"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_true_fear_forsaken_souls_part_1_2.0.9_(49454).exe"

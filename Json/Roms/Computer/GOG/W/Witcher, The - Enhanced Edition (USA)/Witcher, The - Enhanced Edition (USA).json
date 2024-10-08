@@ -57,13 +57,9 @@
         "appid": "1207658924",
         "appname": "the_witcher",
         "buildid": "original_release",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/CD Projekt RED/Witcher/Settings"
-        ],
+        "keys": [],
         "name": "The Witcher: Enhanced Edition",
-        "paths": [
-            "USER_PROFILE_DIR/Documents/The Witcher"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_witcher_enhanced_edition_1.5_(a)_(10712).exe"

@@ -6,13 +6,9 @@
         "appid": "1132748633",
         "appname": "dagon_by_h_p_lovecraft",
         "buildid": "Dagon_2023-10-03",
-        "keys": [
-            "HKEY_CURRENT_USER/SOFTWARE/BitGolem/Dagon"
-        ],
+        "keys": [],
         "name": "Dagon: by H. P. Lovecraft",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/BitGolem/Dagon"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_dagon_by_h._p._lovecraft_dagon_2023-10-03_(64bit)_(67975).exe"

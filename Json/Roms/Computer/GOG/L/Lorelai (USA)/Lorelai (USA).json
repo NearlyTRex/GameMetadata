@@ -7,13 +7,9 @@
         "appid": "1128886553",
         "appname": "lorelai",
         "buildid": "1.1.0a",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/Harvester Games/Lorelai"
-        ],
+        "keys": [],
         "name": "Lorelai",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Harvester Games/Lorelai"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_lorelai_1.1.0a_(40070).exe"

@@ -7,13 +7,9 @@
         "appid": "1128731640",
         "appname": "the_painscreek_killings",
         "buildid": "1.0.8",
-        "keys": [
-            "HKEY_CURRENT_USER/Software/EQ Studios/The Painscreek Killings"
-        ],
+        "keys": [],
         "name": "The Painscreek Killings",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/EQ Studios/The Painscreek Killings"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_the_painscreek_killings_1.0.8_(47822).exe"

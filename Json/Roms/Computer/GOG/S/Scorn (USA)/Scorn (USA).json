@@ -13,9 +13,7 @@
         "buildid": "1.2.2.0",
         "keys": [],
         "name": "Scorn",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Local/Scorn"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_scorn_1.2.2.0_(63131).exe"

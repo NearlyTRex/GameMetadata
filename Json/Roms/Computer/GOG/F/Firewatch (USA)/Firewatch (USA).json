@@ -7,7 +7,9 @@
         "appid": "1459256379",
         "appname": "firewatch",
         "buildid": "1.12",
-        "name": "Firewatch"
+        "keys": [],
+        "name": "Firewatch",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_firewatch_1.12_(64bit)_(54889).exe"

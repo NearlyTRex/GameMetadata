@@ -10,13 +10,9 @@
         "appid": "1604161214",
         "appname": "loria",
         "buildid": "1.2.0",
-        "keys": [
-            "HKEY_CURRENT_USER/SOFTWARE/Loria/Loria"
-        ],
+        "keys": [],
         "name": "Loria",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/LocalLow/Loria"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_loria_1.2.0_(31745).exe"

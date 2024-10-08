@@ -43,10 +43,7 @@
         "buildid": "1.0.4",
         "keys": [],
         "name": "Alien: Isolation",
-        "paths": [
-            "USER_PROFILE_DIR/AppData/Local/The Creative Assembly/Alien Isolation",
-            "USER_PROFILE_DIR/Documents/My Games/Alien Isolation"
-        ]
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_alien_isolation_1.0.4_(56204).exe",

@@ -14,7 +14,9 @@
         "appid": "1207662923",
         "appname": "geneforge_1",
         "buildid": "1.0.1g",
-        "name": "Geneforge 1"
+        "keys": [],
+        "name": "Geneforge 1",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_geneforge_1.0.1g_(21278).exe"

@@ -6,7 +6,9 @@
         "appid": "1906330252",
         "appname": "haven_park",
         "buildid": "1.2.3",
-        "name": "Haven Park"
+        "keys": [],
+        "name": "Haven Park",
+        "paths": []
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_haven_park_1.2.3_(61844).exe"
