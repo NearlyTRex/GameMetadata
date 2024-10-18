@@ -654,6 +654,7 @@ game: 18XX Dreams (USA)
 file: Computer/Itchio/#-0/18XX Dreams (USA)/18XX Dreams (USA).json
 developer: Deep Light Games
 publisher: Deep Light Games
+genre: Role Playing
 description:
   THE DREAM REALM WELCOMES YOU: This land has always been here, visited by some,
   forgotten by many. Something changed. An increasing number of people have been
@@ -1450,6 +1451,7 @@ game: 99 Cent Chamber of Death (USA)
 file: Computer/Itchio/#-0/99 Cent Chamber of Death (USA)/99 Cent Chamber of Death (USA).json
 developer: GUANZ
 publisher: GUANZ
+genre: Role Playing
 description:
   The 99 Chamber of Death is a role playing game for two or more people. You'll
   assume the role of Warriors bent on stopping the Big Boss from obtaining the
@@ -3092,6 +3094,7 @@ game: All Hands on Deck (USA)
 file: Computer/Itchio/A/All Hands on Deck (USA)/All Hands on Deck (USA).json
 developer: Alice V.
 publisher: Alice V.
+genre: Role Playing
 description:
   A gm-less, storytelling, Descended From the Queen game for three to six people
   about  a ship, its crew, and the sea they sail on. It is a game about the
@@ -3386,6 +3389,7 @@ game: Alone in Cyberspace (USA)
 file: Computer/Itchio/A/Alone in Cyberspace (USA)/Alone in Cyberspace (USA).json
 developer: Michael Klamerus
 publisher: Michael Klamerus
+genre: Role Playing
 description:
   A tabletop game about exploring the archive of a defunct network of webpages
   from decades ago.
@@ -3959,6 +3963,7 @@ game: Anaseidos (USA)
 file: Computer/Itchio/A/Anaseidos (USA)/Anaseidos (USA).json
 developer: C. A. Berlitz
 publisher: C. A. Berlitz
+genre: Role Playing
 description:
   A new Anthropomorphic Duck-Race for the world's most known RPG
   .
@@ -3991,6 +3996,7 @@ game: Anatomy of A Song, The (USA)
 file: Computer/Itchio/A/Anatomy of A Song, The (USA)/Anatomy of A Song, The (USA).json
 developer: yanahn
 publisher: yanahn
+genre: Role Playing
 description:
   If Music be the food of love, play on - Twelfth Night (William Shakespeare)
   .
@@ -4725,6 +4731,7 @@ game: Anti-Gorgias 2 (USA)
 file: Computer/Itchio/A/Anti-Gorgias 2 (USA)/Anti-Gorgias 2 (USA).json
 developer: Spear Witch
 publisher: Spear Witch
+genre: Role Playing
 description:
   A practical guide for game designers in the OSR tradition.
   .
@@ -5435,6 +5442,7 @@ game: Art Telephone (USA)
 file: Computer/Itchio/A/Art Telephone (USA)/Art Telephone (USA).json
 developer: 925 Games
 publisher: 925 Games
+genre: Role Playing
 description:
   This is Art Telephone.  A game in which you will create a piece of art and send
   it to a friend.  They will receive that piece of art and create their own piece
@@ -5572,6 +5580,7 @@ game: As The World Ends (USA)
 file: Computer/Itchio/A/As The World Ends (USA)/As The World Ends (USA).json
 developer: Allie Bustion/Mad Pierrot Games
 publisher: Allie Bustion/Mad Pierrot Games
+genre: Role Playing
 description:
   The world is ending around you and you're trying to make your way to some place
   you consider safe. You're not sure if it is safe but you've heard rumors.
@@ -5768,6 +5777,7 @@ game: As the Crow Flies (USA)
 file: Computer/Itchio/A/As the Crow Flies (USA)/As the Crow Flies (USA).json
 developer: Chubby Crow Games
 publisher: Chubby Crow Games
+genre: Role Playing
 description:
   A Magical World
   .
@@ -6211,6 +6221,7 @@ game: At Least You're Not Alone (USA)
 file: Computer/Itchio/A/At Least You're Not Alone (USA)/At Least You're Not Alone (USA).json
 developer: Bee Scerri, Red World Press
 publisher: Bee Scerri, Red World Press
+genre: Role Playing
 description:
   Content Warnings: This is a game about unavoidable death, dying side-by-side
   with loved ones. Please read it in its entirety before playing.
@@ -6252,6 +6263,7 @@ game: At the Monarch's Gate (USA)
 file: Computer/Itchio/A/At the Monarch's Gate (USA)/At the Monarch's Gate (USA).json
 developer: Nyessa
 publisher: Nyessa
+genre: Role Playing
 description:
   You and your companions have traveled across long distances and faced many
   trials to come to this point, in the hope that you will be heard by the one
@@ -6975,6 +6987,7 @@ game: BALIKBAYAN - Returning Home (USA)
 file: Computer/Itchio/B/BALIKBAYAN - Returning Home (USA)/BALIKBAYAN - Returning Home (USA).json
 developer: Rae Nedjadi
 publisher: Rae Nedjadi
+genre: Role Playing
 description:
   INITIATE PROTOCOL REVIEW///ACCESSING ACCESSING
   .
@@ -7463,6 +7476,7 @@ game: Bad Moon (USA)
 file: Computer/Itchio/B/Bad Moon (USA)/Bad Moon (USA).json
 developer: Adira Slattery
 publisher: Adira Slattery
+genre: Role Playing
 description:
   A game for two players, one of which is The Moon
   .
@@ -8581,6 +8595,7 @@ game: Bear Acquaintances (USA)
 file: Computer/Itchio/B/Bear Acquaintances (USA)/Bear Acquaintances (USA).json
 developer: Havocfett
 publisher: Havocfett
+genre: Role Playing
 description:
   Look, it happens. Periodically, a bear murders someone and takes over their
   online identity in the search for snacks, companionship, and remote networking
@@ -8900,6 +8915,7 @@ game: Believe (USA)
 file: Computer/Itchio/B/Believe (USA)/Believe (USA).json
 developer: breathingstories
 publisher: breathingstories
+genre: Role Playing
 description:
   This game is inspired by #YourMoveJam and by @jdragsky's submission in
   particular. In my typical fashion, I had an idea for this jam long after it
@@ -9006,6 +9022,7 @@ game: Beloved (USA)
 file: Computer/Itchio/B/Beloved (USA)/Beloved (USA).json
 developer: Urania Games
 publisher: Urania Games
+genre: Role Playing
 description:
   You were loved.
   .
@@ -53010,6 +53027,13 @@ x-playable: Yes
 
 game: Intrepid (USA)
 file: Computer/Itchio/I/Intrepid (USA)/Intrepid (USA).json
+developer: Jambudd
+publisher: Jambudd
+genre: Adventure
+description:
+  You are an intrepid explorer hunting for artifacts. Can you survive? A
+  little game for the archaeology bitsy jam.
+release: 2018-03-30
 players: 1
 assets.boxfront: BoxFront/Intrepid (USA).jpg
 assets.boxback: BoxBack/Intrepid (USA).jpg
