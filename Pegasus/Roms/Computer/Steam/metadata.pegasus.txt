@@ -447,6 +447,44 @@ x-playable: Yes
 
 game: Alien Swarm (USA)
 file: Computer/Steam/A/Alien Swarm (USA)/Alien Swarm (USA).json
+developer: Valve
+publisher: Valve
+genre: Action
+description:
+  Alien Swarm is a game and Source SDK release from a group of talented designers
+  at Valve who were hired from the Mod community.
+  .
+  Available free of charge, the game thrusts players into an epic bug hunt
+  featuring a unique blend of co-op play and squad-level tactics. With your
+  friends, form a squad of four distinct IAF Marine classes. Plan your attack
+  using an unlockable arsenal of weapons with countless loadout configurations
+  against a wide variety of aliens. Blaze your way through an overrun, off-world
+  colony, eradicating the alien infestation in environments ranging from the icy
+  planet's surface, to a subterranean lava-flooded mining facility.
+  .
+  Along with the game get the complete code base for Alien Swarm that features
+  updates to the Source engine as well as the SDK. Alien Swarm adds 3rd person
+  camera, depth of field, improved dynamic shadows and a wide variety of gameplay
+  additions to the Source engine.
+  .
+  Tactical, 4 player co-op action game with a top-down perspective
+  .
+  Complete game code and mod tools
+  .
+  Unlock persistent items by gaining levels
+  .
+  Over 40 weapons and equipment with countless loadout configurations
+  .
+  4 unique classes and 8 unique characters
+  .
+  Matchmaking, Steam Cloud, Steam Stats
+  .
+  64 achievements
+  .
+  Tile-based map generation tool
+  .
+  Powered by Source and Steam
+release: 2010-07-19
 players: 1
 assets.boxfront: BoxFront/Alien Swarm (USA).jpg
 assets.boxback: BoxBack/Alien Swarm (USA).jpg
@@ -554,6 +592,48 @@ x-playable: Yes
 
 game: Aperture Desk Job (USA)
 file: Computer/Steam/A/Aperture Desk Job (USA)/Aperture Desk Job (USA).json
+developer: Valve
+publisher: Valve
+genre: Action;Adventure;Casual;Free To Play
+description:
+  Aperture Desk Job reimagines the been-there-done-that genre of walking
+  simulators and puts them in the lightning-spanked, endorphin-gorged world of
+  sitting still behind things.
+  .
+  You play as an entry-level nobody on their first day at work - your heart full
+  of hope and your legs full of dreams, eager to climb that corporate ladder. But
+  life's got other plans, and they all involve chairs.
+  .
+  Designed as a free playable short for Valve's new Steam Deck, Desk Job walks you
+  through the handheld's controls and features, while not being nearly as boring
+  as that sounds.
+  .
+  Not Portal 3!
+  .
+  Lower your expectations: This is not a sequel to Portal. Now get ready to raise
+  them slightly, because it is in the expanded universe of those games. Desk Job
+  puts you squarely in the driver's seat at Aperture Science. Then quickly removes
+  the driving part and adds a desk in front of the seat.
+  .
+  Steam Deck: A Desk For Your Hands
+  .
+  Up until now, real life mostly involved sitting, and video games were the
+  virtual fantasy world you could escape to. With the portable Steam Deck, we
+  flipped that, freeing your body to run marathons and jump out of planes while
+  your brain and hands simulate all the sitting you used to do.
+  .
+  It's F-R-E-E (Free)!
+  .
+  Put that wallet away, gaming fan! Your money's no good here. For this particular
+  product. If your money stops working while trying to buy groceries, though, you
+  should contact your bank immediately, because the cashier just stole your entire
+  identity? You'd better go talk to her again, because what do you mean she never
+  worked here?! Now you'll have to go undercover as a dark web hacker to track her
+  down! Only to find out it was a different timeline you?!! From the future?!?!
+  And also if anyone from Hollywood is reading this bullet point, take your wallet
+  back out, because this great idea is not free (but is for sale at
+  buyagreatscreenplay@valvesoftware.com)
+release: 2022-03-01
 players: 1
 assets.boxfront: BoxFront/Aperture Desk Job (USA).jpg
 assets.boxback: BoxBack/Aperture Desk Job (USA).jpg
@@ -566,6 +646,35 @@ x-playable: Yes
 
 game: Aperture Hand Lab (USA)
 file: Computer/Steam/A/Aperture Hand Lab (USA)/Aperture Hand Lab (USA).json
+developer: Cloudhead Games Ltd.
+publisher: Valve
+genre: Adventure
+description:
+  These Aren't Your Daddy's Hands.
+  .
+  These aren't even your hands. These are precision-tuned sensor-rich re-
+  imaginings of your hands, presented in high-fidelity simulated reality.
+  .
+  Main Features:
+  .
+  Grabbing
+  .
+  Shaking
+  .
+  Waving
+  .
+  If you've always longed to try these exciting edge-of-your-wrist hand maneuvers,
+  but wanted the chance to practice first in the safety of a non-judgmental
+  virtual world, Aperture Hand Lab is easily in the top three options currently
+  available to you in VR.
+  .
+  Presented in the World of Aperture.
+  .
+  You didn't read that wrong! This game is present in the bowl of ape nature! Hold
+  on, we did read that wrong! But you didn't, Reading Champ! This game takes place
+  in Aperture Science, home to the modestly popular Portal games your daddy used
+  to play! But this isn't your daddy's game! (Return to top.)
+release: 2019-06-25
 players: 1
 assets.boxfront: BoxFront/Aperture Hand Lab (USA).jpg
 assets.boxback: BoxBack/Aperture Hand Lab (USA).jpg
@@ -599,6 +708,220 @@ x-playable: Yes
 
 game: AppGameKit Classic (USA)
 file: Computer/Steam/A/AppGameKit Classic (USA)/AppGameKit Classic (USA).json
+developer: TheGameCreators
+publisher: TheGameCreators
+genre: Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Web Publishing
+description:
+  AppGameKit Classic is a powerful game development engine, ideal for Beginners,
+  Hobbyists & Indie developers. Now anyone can quickly code and build apps for
+  multiple platforms using AppGameKit's BASIC scripting system. With just a few
+  commands you can have demos/games up and running on mobile devices. Bob Duffy,
+  Developer Relations Intel Corporation, said "AppGameKit is a great cross
+  platform development tool. It allows developers to quickly optimize and compile
+  apps."
+  .
+  Games can be developed and deployed to your chosen mobile devices for rapid
+  prototyping. AppGameKit Classic does all the heavy lifting for you - making it
+  easy to code, compile and then export apps to each platform. All you need to
+  focus on is your game/app idea. It's that simple!
+  .
+  NEW!
+  .
+  The Visual Editor is the perfect DLC to accompany AppGameKit
+  .
+  AppGameKit Classic also caters for more seasoned developers, allowing you to use
+  the AppGameKit C++ libraries and benefit from all the features of AppGameKit's
+  core game engine. Two great examples of this are the games 1982 and Echoes+
+  developed by Binary Zoo and both are FREE to download on STEAM;
+  .
+  Features
+  .
+  Platforms
+  .
+  You can create games with AppGameKit Classic on Windows, Mac or Linux devices.
+  The games you make with it can then be exported to run on;
+  .
+  Windows
+  .
+  Mac
+  .
+  Linux
+  .
+  iOS
+  .
+  Android (inc Google, Amazon & Ouya)
+  .
+  HTML5
+  .
+  Raspberry Pi (free from TGC website)
+  .
+  AppGameKit Classic IDE
+  .
+  Cross platform Geany editor
+  .
+  IntelliSense
+  .
+  Code folding
+  .
+  Colour schemes
+  .
+  Edit multiple projects
+  .
+  Fast Compiler
+  .
+  Full de-bugger
+  .
+  Broadcast direct to device
+  .
+  Export to exe, app, ipa, apk
+  .
+  Commands
+  .
+  AppGameKit Classic has commands for all the important areas of game creation.
+  These can all be called as BASIC commands or as library calls in C++ and XCode.
+  .
+  3D Graphics
+  .
+  3D Primitives
+  .
+  3D Bone Animations
+  .
+  Shaders
+  .
+  Lighting
+  .
+  Ray Casting
+  .
+  Camera controls
+  .
+  Meshes
+  .
+  Formats supported: .x .fbx .dae .3ds .obj .b3d .3d
+  .
+  3D Physics
+  .
+  Character controller
+  .
+  Ragdoll
+  .
+  Joints
+  .
+  Rigid Bodies
+  .
+  Contact reports
+  .
+  Raycasts
+  .
+  Physics world commands
+  .
+  Compound collision shapes
+  .
+  2D Graphics
+  .
+  Sprites
+  .
+  Particles
+  .
+  Shapes
+  .
+  Text
+  .
+  Fonts
+  .
+  Tweening
+  .
+  Spine support
+  .
+  Blend modes
+  .
+  Image formats: jpeg, png
+  .
+  Physics
+  .
+  Box 2D collision
+  .
+  Rendering Control
+  .
+  Shaders
+  .
+  Render to Image
+  .
+  Sounds & Music
+  .
+  Play sound files
+  .
+  Play music files
+  .
+  Sound formats: Wav
+  .
+  Music formats: Mp3, Ogg, M4a
+  .
+  Blending Sounds
+  .
+  Change sound pitch and balance
+  .
+  User Input
+  .
+  Mouse
+  .
+  Multi Touch
+  .
+  Controller support
+  .
+  Joystick/Virtual Joystick
+  .
+  Keyboard
+  .
+  Edit box
+  .
+  Buttons
+  .
+  Misc
+  .
+  Video playback
+  .
+  Screen Video Recording (iOS & Android)
+  .
+  Network (broadcasting, messages, shared variables)
+  .
+  File I/O
+  .
+  Shared variables
+  .
+  HTTP
+  .
+  Memblocks
+  .
+  Sensors
+  .
+  GPS
+  .
+  Social feeds - Facebook & Twitter (iOS & Android)
+  .
+  Adverts
+  .
+  Firebase support
+  .
+  JSON support
+  .
+  In-app purchase (iOS & Android)
+  .
+  Game Centre (iOS & Android)
+  .
+  Notifications (iOS)
+  .
+  Rate this app (iOS)
+  .
+  Time & Date
+  .
+  Camera access
+  .
+  QR codes
+  .
+  Zip archiving
+  .
+  Extensive Help & tutorials
+release: 2014-11-21
 players: 1
 assets.boxfront: BoxFront/AppGameKit Classic (USA).jpg
 assets.boxback: BoxBack/AppGameKit Classic (USA).jpg
@@ -880,6 +1203,423 @@ x-playable: Yes
 
 game: Axis Game Factory's AGFPRO 3.0 (USA)
 file: Computer/Steam/A/Axis Game Factory's AGFPRO 3.0 (USA)/Axis Game Factory's AGFPRO 3.0 (USA).json
+developer: Axis Game Factory LLC
+publisher: Axis Game Factory LLC
+genre: Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Game Development
+description:
+  Axis Game Factory's AGFPRO v3.0 - for PC, MAC and LINUX
+  .
+  We just released version 3.0 of AGFPRO & Premium - there are a TON of new
+  features, assets and functionality that have been added, giving users the
+  ability to create amazing game levels and maps like NEVER BEFORE!!
+  .
+  Major features to AGFPRO 3.0 include compatibility with Unity 5 for AGFPRO,
+  Premium, Zombie FPS, Fantasy Side-Scroller, Drone Kombat, BattleMat Multiplayer,
+  and Voxel Sculpt! We have also added new character controls and characters in
+  both the ARPG and Platformer Players! What you will really see is the POWER and
+  SPEED that comes with this update, allowing users to create lush scenes, filled
+  with assets, foliage and other features and functionality.
+  .
+  AGFPRO v3.0 is a comprehensive toolset designed to provide game developers and
+  enthusiasts with a powerful and rapid level creation, terrain/vegetation
+  editing, lighting and atmosphere system.
+  .
+  AGF is an independent product that empowers users to create game levels and
+  environments for many types of game genres, and the AGFPRO v3.0 PREMIUM version
+  is also designed to work in concert with the Free and Pro versions of the Unity
+  5 game engine to allow further customization and game publishing. AGF runs on
+  the PC, MAC and LINUX systems.
+  .
+  AGF allows developers to rapidly create game maps, sculpt terrain and design
+  levels quickly and easily. With over 1000+ assets pre-stocked in the warehouse,
+  along with 48 pre-set themes and 8 sample maps, developers and enthusiasts can
+  begin creating levels in minutes. AGFPRO v3.0 includes all of the necessary
+  tools to allow users the ability to import AGF scenes into Unity3d Free and Pro
+  5.
+  .
+  Please note that due to Unity's change in business model from free and paid
+  versions to a subscription model, we have been unable to maintain updates to
+  align with our development pipeline and business model. AGFPRO works as a
+  standalone product for hobbyists as well as for developers who work from Unity 5
+  through January 2018. Be advised that if you plan to use AGFPRO for professional
+  game development, there may be certain features in recent Unity updates that do
+  not work.
+  .
+  Creating game levels and maps in AGFPRO is easy and fun - now ANYONE can create
+  their own quality game maps without having to program, model or animate!
+  .
+  In order to use AGFPRO Premium (DLC), you must first purchase AGFPRO.
+  .
+  KEY FEATURES:
+  .
+  AGFPRO v3.0 now Features Nine (9) Key Areas or Apps for Development that
+  Include:
+  .
+  AGF Launch Pad
+  .
+  AGF World Editor
+  .
+  AGF Construct App
+  .
+  AGF Browser
+  .
+  AGF Packager
+  .
+  AGF Scene Loader
+  .
+  ARPG Player (Internal & External)
+  .
+  Platform Player (Internal & External)
+  .
+  FPS Player (External)
+  .
+  New v3.0 AGF Launch Pad:
+  .
+  This App replaces the AGF editor from the AGF icon in Steam
+  .
+  Launches all AGF Apps including the Editor from one toolbar
+  .
+  No need to go through the Editor to launch the Players
+  .
+  New v3.0 AGF World Editor Features:
+  .
+  Redesigned GUI in the Editor
+  .
+  Dropdown menu system
+  .
+  Collapsing, drag-able windows with easy to see icons
+  .
+  3x Speed increase for terrain sculpting
+  .
+  New Smoothing feature for the terrain sculpting has been added to give the user
+  the ability to smooth and soften terrain on their maps
+  .
+  New X, Y, Z directional compass added to the Editor
+  .
+  Camera automatically changes the atmosphere when users are underwater vs. above
+  water
+  .
+  Addition of "Build Time Clock" that is saved with each scene file every time
+  users work, creating a standing time on how long each level takes to create
+  .
+  User-Friendly Project Creation Wizard
+  .
+  o Extensive library of pre-set themes for immediate level design
+  .
+  o Themes include lighting, atmosphere, terrain, vegetation, & water pre-defined
+  .
+  Intuitive User Interface with "Radial Menu" to expedite workflow
+  .
+  Drag and reorganize windows to customize UI
+  .
+  On & Off feature quickly hide menus
+  .
+  Advanced Terrain Creation System
+  .
+  Adjustable: terrain size, splat map & vegetation detail resolution
+  .
+  Supports terrains from 200 meters up to 200 meters down max
+  .
+  Terrains are now expanded to a maximum terrain of 4,000 meters square
+  .
+  3x Speed increase for terrain sculpting
+  .
+  10 levels of undo for terrain editing
+  .
+  Undo Vegetation, Painting and Sculpting independent of each other
+  .
+  Paint, Sculpt and Plant vegetation individually or simultaneously
+  .
+  Toggle: terrain visibility, painting, sculpting, planting
+  .
+  Sophisticated Brush Support
+  .
+  Extensive brush library with adjustable brush size, rotation, power, blend
+  .
+  Edit the entire Default Brush library for users preference
+  .
+  Project specific and default brushes independent of each other
+  .
+  Via the new integrated AGF Browser, users can now import their own original:
+  Brushes, Terrain Textures, Terrain Vegetation Textures in PNG. Format
+  .
+  Newly added: Custom Images can be both loaded and removed for the Brushes -
+  Terrain and Vegetation
+  .
+  Real Time Terrain Deformation and Painting System with Tri-Planar Texturing with
+  Normal Maps
+  .
+  Toggle between tri-planar shader & simple
+  .
+  Intuitive Terrain "Snap to Grid Height" to set terrain
+  .
+  Numeric input and readout of terrain height at specific locations
+  .
+  Tri-Planar Shaders and Texturing
+  .
+  Shader automatically maps terrain inclines with user defined texture
+  .
+  Over 40 textures included with Normal Maps
+  .
+  Terrain Texture Color Tinting Feature
+  .
+  Change individual textures or batch
+  .
+  Change terrain textures quickly and update in real-time
+  .
+  Advanced Vegetation System
+  .
+  Adjustable vegetation density & distance, unlimited layers
+  .
+  Set vegetation min. width, height & color spectrum
+  .
+  Advanced Global Vegetation Editor
+  .
+  Globally change vegetation color saturation, value, size, minimum width &
+  height, color spectrums
+  .
+  Fully featured lighting and atmosphere configuration allows quick real time and
+  run-time customization
+  .
+  Customized Lighting System
+  .
+  Key, Fill, Back, and Ambient light sources
+  .
+  Set light colors, flares & shadow configurations
+  .
+  Extensive Lens Flares to "main" light in lighting rig (over 15)
+  .
+  Newly added Underwater Lighting system
+  .
+  Fog System
+  .
+  Global and simple fog with a variety of parameters: density, falloff, color and
+  distance
+  .
+  Set fog haze, density, distance, color, height and falloff
+  .
+  Newly added Fog System
+  .
+  Skyboxes - Select skybox cube maps with the ability to apply rotation & tint
+  .
+  Beautiful water system with sliders for wave direction, speed, intensity,
+  refraction/reflection color and foam properties
+  .
+  Geometry Brush System
+  .
+  Create unlimited sets of geometry brushes
+  .
+  Brushes function as an independent layer to edit
+  .
+  Set min/max scale range
+  .
+  Randomly rotate X, Y, Z coordinates
+  .
+  Align to Normal
+  .
+  Spray geometry from camera view direction
+  .
+  User-friendly file saving thumbnail generation for scenes when saved
+  .
+  Extensive Presets to quickly start scenes (48 included)
+  .
+  Create custom presets and share with friends
+  .
+  Independent Pre-Fab Mode to create complex collections of assets outside of your
+  scene
+  .
+  Fully featured transformation tools include:
+  .
+  Select, Multiple-Select, Copy/Paste, Duplicate, Translate, Rotate & Scale
+  .
+  Intuitive Grid-Snapping and Collision Detection easily place objects in scene
+  with new enhanced features that include:
+  .
+  On screen display of Grid Size
+  .
+  On screen display of Grid-Snap Setting
+  .
+  There are now reference numbers for both the X or Z Axis, the numbers change
+  dynamically with the scale of the grid
+  .
+  Grid Reference Number Scaling and Display Settings can be defined by the user
+  .
+  New Construct App Feature:
+  .
+  Gone is the old prefab workspace and it has been moved into its very own App
+  .
+  Construct is where you go to create your own prefab assets from the always-
+  expanding library of textures and assets (over 1,000+) that are available in the
+  AGFPRO Warehouse
+  .
+  Users can launch Construct from the Launchpad or from the Editor
+  .
+  Use the "refresh assets" button to load prefabs into the Warehouse library
+  .
+  Construct allows users to import their own .OBJ files (objects or assets) as
+  well as .PNG texture files
+  .
+  Load your own models, .OBJ files, directly into Construct - USERS NO LONGER HAVE
+  TO IMPORT THEIR OWN ASSETS THROUGH UNITY PRO!!!!! This feature is included in
+  AGFPRO and Premium.
+  .
+  Combine several .OBJ files and save them as a Prefab to be used in the World
+  Editor
+  .
+  New AGF Browser (file browser)
+  .
+  This is a standalone browser that connects the AGF Apps together!
+  .
+  The new AGF Browser is designed to be the glue that is used to bring in users
+  custom content. Now users are able to bring in their own Textures and Objects
+  files into AGF creations without the necessity of using Unity Free or Unity
+  Pro... This feature is HUGE as it empowers users the flexibility to create their
+  own custom levels with any supported asset types they choose to bring in with
+  the ability to take their scene files back into Unity to publish their own work
+  .
+  New AGF Packager
+  .
+  By popular demand - we have added this great feature... AGF DLC users are able
+  to package their games easily and share with anyone! Just do the following:
+  .
+  1) Select the Game Type
+  .
+  2) Select the Project Folder
+  .
+  3) Select the Destination of the New Game onto User's Machine
+  .
+  4) Give a Name to the Game
+  .
+  ... And the AGF Packager does the rest... it's really that easy! Best of all,
+  friends do not need to own AGF to run the packaged game, nor do they need to
+  have a Steam account. The Packaged Game is completely stand-alone, DRM FREE, and
+  redistribution of users game(s) is encouraged. AGF Packager will make a game for
+  the OS that it was packaged on. The AGF packaged games are NOT intended for
+  resale. It's about creating and sharing with all.
+  .
+  As an option, the Packager will automatically zip the game(s) package for easy
+  distribution and no installation is required for the end user to play - no
+  installers are necessary for friends to play - just unzip and have fun!
+  .
+  New AGF Scene Loader Features:
+  .
+  The AGF Scene Loader loads the AGF Scene Format into Unity Free and Unity Pro
+  .
+  Custom Images that are used on terrains now load into Unity with scene(s)
+  created in AGF
+  .
+  Any locked assets in an AGF scene are no longer an issue... The AGF/Unity Scene
+  Loader skips any assets that are not supposed to load automatically
+  .
+  Any OBJ files that are loaded into AGF will also be loaded into Unity Free and
+  Pro
+  .
+  Action Role-Playing Game Player:
+  .
+  The ARGP Player provides users with player and camera controls that are genre
+  specific for ARPG game creation
+  .
+  Using the Internal Player, creations can be played in real-time to play test map
+  creations
+  .
+  The External Player allows users the ability to package and send their levels to
+  others to play
+  .
+  Platform Player:
+  .
+  The Platform Player provides users with player and camera controls that are
+  genre specific for Platform game level creation
+  .
+  The Internal Player allows users to immediately play and test their game maps in
+  real-time
+  .
+  The External Player allows users the ability to package and send their levels to
+  others to play
+  .
+  First-Person Shooter Player:
+  .
+  This Player provides the user with an FPS camera and controller, specific for
+  FPS game level creation and play testing
+  .
+  The FPS Player can be used with the AGF Packager to package their game levels to
+  share with others
+  .
+  This Player also supports Scene-Linking and allows users to share their AGF FPS
+  game level creations with friends and link their maps together for endless
+  gameplay!
+  .
+  FPS Weapon asset packs are also included
+  .
+  AGFPRO v3.0 PREMIUM
+  .
+  AGFPRO + PREMIUM ASSET Packager - users are able to package their assets in
+  Unity Pro and use in the AGF tool-set
+  .
+  Batch Asset Processing
+  .
+  Automatic Icon Creation
+  .
+  Over 500 Source Art Assets and Samples are included for Premium users
+  .
+  More Information on what AGFPRO is and what you can do with AGFPRO
+  .
+  Users are able to create game levels and maps using the software and also place
+  characters (provided with the software) to play and explore their levels with
+  multiple player style options (Action Role Playing, Platformer, FPS)
+  .
+  Just to be CLEAR - AGFPRO is NOT a game engine. It is literally made using the
+  Unity game engine. AGFPRO is a real-time, RAPID Game Environment Development
+  Toolkit and is made to be used in concert with Unity Free and Pro for level/map
+  creation. - However, AGFPRO does NOT need Unity to run or create levels/maps.
+  .
+  The scene files that users create in AGFPRO "Basic" and "Premium" can be
+  imported into Unity5 Free and Pro using our AGF/Unity tools.
+  .
+  By using the DLC we have already released for AGFPRO (Fantasy Side-Scroller,
+  Zombie FPS, Drone Kombat, BattleMat Multiplayer & Voxel Sculp), users are able
+  to create playable levels with AGFPRO (only - not viable with Unity) with a
+  variety of characters, assets, gameplay mechanics and special feature, "Scene-
+  Linking" to connect game levels
+  .
+  There are limitations to some asset packs "locked (L)" that limit the users from
+  loading these assets into Unity. All unlocked asset packs are free of copyright
+  and can be used via Unity for redistribution per the terms of the EULA
+  .
+  The redistribution or "sharing" of the games users are able to make using AGF
+  and DLC "Players" is a feature we are working on at this time and will be made
+  available to users at no additional fee
+  .
+  Users are also able to create and place specific game play mechanics that are
+  provided in the software
+  .
+  Full customization of your levels and maps is possible with AGFPRO Premium and
+  Unity Pro, whereby users are able to bring in their own assets and models to
+  make their games unique and further commercialize, making a complete Stand-Alone
+  game
+  .
+  Additional Questions RE: AGFPRO?
+  .
+  If you are interested in making a complete Stand-Alone game with unique
+  characters, models, assets and game play mechanics not provided in AGFPRO and
+  commercialize it for sale, you will need AGFPRO Premium and either Unity Free or
+  Pro software
+  .
+  If you are a development team using AGFPRO + Premium, you will need one seat per
+  team member using the software, but we do offer studio discounts, so be sure to
+  contact us for special pricing
+  .
+  We have many schools all over the globe using AGFPRO to teach game development
+  and design in the classroom, from middle schools to elite Colleges and
+  Universities. We have a basic curriculum available that instructors are able to
+  include in their course curriculum and we provide additional support that
+  includes software updates, access to DLC, non-Steam versions of the software if
+  necessary, user support and special feature integration upon request and based
+  on the terms of the agreement. We offer special pricing for schools and we find
+  that schools love using the software as it allows students the ability to create
+  complete games within the limitation of a semester and is a great introduction
+  to begin to interface with Unity3d, without users having to program, model,
+  animate or script.
+release: 2013-11-19
 players: 1
 assets.boxfront: BoxFront/Axis Game Factory's AGFPRO 3.0 (USA).jpg
 assets.boxback: BoxBack/Axis Game Factory's AGFPRO 3.0 (USA).jpg
@@ -892,6 +1632,40 @@ x-playable: Yes
 
 game: Bad Dream - Fever (USA)
 file: Computer/Steam/B/Bad Dream - Fever (USA)/Bad Dream - Fever (USA).json
+developer: Desert Fox
+publisher: Desert Fox
+genre: Adventure;Indie;Free To Play
+description:
+  The world is covered in strange ink, an unknown plague has gathered its cruel
+  harvest. The city seems to be completely empty and dead, but in its every corner
+  there are manifestations of fear, sorrow, frustration, misunderstanding,
+  loneliness, and suffering. The situation looks hopelessly, but not everything is
+  lost yet...
+  .
+  Enter the feverish dream and experience its abstract world. Recognize the
+  degradation of your environment and adapt to it. Act with caution. There is a
+  malicious virus waiting for you at each step. Avoid the ink and everything
+  should be alright.
+  .
+  Keep an open mind and be prepared for anything. Expect an enemy in the person
+  who you would least expect it. If you feel betrayed, remember that a fever can
+  change a strong, healthy person into a complete wreck. An infected mind loses
+  common sense.
+  .
+  Attempt to save at least one person. Remember, sometimes 100% effort is still
+  not enough. Don't let the fever infect your mind. Don't let the ink to change
+  you...
+  .
+  Game features:
+  .
+  - The climate of a world resembling sleep during a fever.
+  .
+  - Creative riddles requiring an unconventional approach.
+  .
+  - Refined locations, full of intense, suggestive climate.
+  .
+  - A sincere and complex story told from the depth of the author's heart.
+release: 2018-11-15
 players: 1
 assets.boxfront: BoxFront/Bad Dream - Fever (USA).jpg
 assets.boxback: BoxBack/Bad Dream - Fever (USA).jpg
@@ -1069,6 +1843,39 @@ x-playable: Yes
 
 game: Blameless (USA)
 file: Computer/Steam/B/Blameless (USA)/Blameless (USA).json
+developer: Vaclav Hudec
+publisher: Blameless Games
+genre: Adventure;Free To Play;Indie
+description:
+  Blameless is a 3D adventure focused on puzzle solving and story. Set in an
+  unfinished house, the player is trying to escape a mysterious man. While you
+  know how and why you got there, you could not foresee you were invited for a
+  twisted purpose and it's upto you to investigate what happened and how to get
+  out.
+  .
+  This is a short, yet full title with an open ending. Take around 20 to 60
+  minutes to complete.
+  .
+  Blameless Is Free
+  .
+  Blameless is dedicated to the community!
+  .
+  Gameplay Features
+  .
+  Realistic puzzle solving
+  .
+  Investigative approach
+  .
+  Mysterious atmosphere
+  .
+  Alternative puzzle solutions
+  .
+  Story progression via exploration
+  .
+  Character voice over
+  .
+  Element of tension
+release: 2016-10-13
 players: 1
 assets.boxfront: BoxFront/Blameless (USA).jpg
 assets.boxback: BoxBack/Blameless (USA).jpg
@@ -1745,6 +2552,23 @@ x-playable: Yes
 
 game: Cat and the Coup, The (USA)
 file: Computer/Steam/C/Cat and the Coup, The (USA)/Cat and the Coup, The (USA).json
+developer: Peter Brinson and Kurosh ValaNejad
+publisher: Peter Brinson and Kurosh ValaNejad, USC Games
+genre: Free To Play;Indie
+description:
+  In The Cat and the Coup, you play the cat of Dr. Mohammed Mossadegh, the first
+  democratically elected Prime Minister of Iran. During the summer of 1953, the
+  CIA engineered a coup to bring about his downfall. As a player, you coax
+  Mossadegh back through significant events of his life by knocking objects off
+  shelves, scattering his papers, and scratching him.
+  .
+  The game, situated within the traditions of Persian miniature art form and cold
+  war foreign policy, asks players to consider their connection to Iranian
+  history. The Cat and the Coup is both about the relationship between the Western
+  video game player and Mossadegh and, by extension, the United States and Iran.
+  It lays a foundation for today's critical question -- how do the people know
+  when their democracy is threatened?
+release: 2011-06-15
 players: 1
 assets.boxfront: BoxFront/Cat and the Coup, The (USA).jpg
 assets.boxback: BoxBack/Cat and the Coup, The (USA).jpg
@@ -2075,6 +2899,92 @@ x-playable: Yes
 
 game: Controller Companion (USA)
 file: Computer/Steam/C/Controller Companion (USA)/Controller Companion (USA).json
+developer: Koga Tech Limited
+publisher: Koga Tech Limited
+genre: Utilities
+description:
+  Use your controller even when you're not in-game or in Big Picture.
+  .
+  Never leave the couch when using a controller with PC. Control mouse, keyboard
+  and media player. No more getting up to muck about with mouse and keyboard to
+  launch the game you wanted to play.
+  .
+  Mouse and Keyboard Control on the Desktop
+  .
+  When Big-Picture is not running, you can control the mouse with the left
+  thumbstick and scroll with the right thumbstick.
+  .
+  Click the left thumbstick and you get keyboard input directly on the desktop
+  with a nice arcade-style keyboard spiral.
+  .
+  Turns off your wireless controller when you turn off your PC
+  .
+  Never again will you have to pop out the battery to turn off the controller when
+  you turn off the PC. (Only Xbox 360 Controllers)
+  .
+  Very Low CPU usage
+  .
+  Controller Companion makes sure to stay in the background and use as few
+  resources as possible. It will also disable itself as soon as Big Picture is
+  running.
+  .
+  Switch between PC and TV displays
+  .
+  Switch between your connected monitors or TV screens with the controller.
+  .
+  Use Controller as a Media Remote
+  .
+  Control your music player with the controller using Y for Play/Pause and the
+  shoulder buttons for Previous and Next track.
+  .
+  Customization
+  .
+  You can remap the buttons.
+  .
+  Xbox 360 Chatpad Support
+  .
+  You can finally put the Xbox 360 Chatpad to use on PC. A custom experimental
+  driver will allow you to use the Chatpad whenever you are not playing any games.
+  .
+  Freqently Asked Questions:
+  .
+  Does it work with Xbox One and Wired Xbox 360 Controllers?
+  .
+  Yes, it works with any controller that is supports XInput.
+  .
+  Why did it stop working when playing fullscreen video?
+  .
+  Controller Companion auto-disables for fullscreen programs, you can override it
+  by holding back and start. See the video above about Auto-Disable.
+  .
+  Will running this app show me as "Playing Controller Companion"?
+  .
+  No! Controller Companion will launch through Steam and then run in the
+  background.
+  .
+  Do I need to have Steam running to use Controller Companion
+  .
+  No, you can even set Controller Companion to automatically start when you start
+  your PC.
+  .
+  Is there any kind of DRM in Controller Companion?
+  .
+  No.
+  .
+  Can I use my PlayStation controllers?
+  .
+  No, not without installing an XInput wrapper.
+  .
+  Is the Xbox One Chatpad supported?
+  .
+  The Xbox One Chatpad is supported by Windows 10 natively. You will not need to
+  install Controller Companions chatpad driver do use the Xbox One chatpad
+  .
+  Can I remap the Xbox One Elite paddles?
+  .
+  No, the paddles always have the same functionality as the buttons they have been
+  mapped to. This is a limitation of Windows 10.
+release: 2015-05-04
 players: 1
 assets.boxfront: BoxFront/Controller Companion (USA).jpg
 assets.boxback: BoxBack/Controller Companion (USA).jpg
@@ -2560,6 +3470,31 @@ x-playable: Yes
 
 game: Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA)
 file: Computer/Steam/D/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA)/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).json
+developer: Supermassive Games
+publisher: BANDAI NAMCO Entertainment Europe
+genre: Action;Adventure
+description:
+  The Dark Pictures Anthology is a series of standalone, cinematic branching
+  horror games where the decisions you make in the game determine the story you
+  receive. House of Ashes is the third game.
+  .
+  In House of Ashes, at the close of the Iraq War, Special Forces hunting for
+  weapons of mass destruction unearth something far deadlier - a buried Sumerian
+  temple containing a nest of unearthly creatures. To survive the night below,
+  they must forge a brotherhood with their enemies from the world above.
+  .
+  Don't play alone - invite a friend and share your House of Ashes experience. The
+  Friends Pass works on a single save game and allows you and a friend one full
+  playthrough of House of Ashes.
+  .
+  A Friend's Pass allows anyone who has purchased a copy of House of Ashes to
+  invite a friend to complete a playthrough of the Shared Story mode for free.
+  Your Friend's Pass is a one-time-use key per game, so be sure to invite a friend
+  that you can count on in those life and death moments. This new Friends Pass
+  application will allow you to easily grab your Friend's Pass Invite Key and will
+  also be used to play with the invitee of your choice if you haven't used a
+  Friends Pass previously.
+release: 2022-01-28
 players: 1
 assets.boxfront: BoxFront/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).jpg
 assets.boxback: BoxBack/Dark Pictures Anthology, The - House of Ashes - Friend's Pass (USA).jpg
@@ -2728,6 +3663,29 @@ x-playable: Yes
 
 game: Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA)
 file: Computer/Steam/D/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA)/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).json
+developer: Supermassive Games
+publisher: BANDAI NAMCO Entertainment Europe
+genre: Adventure
+description:
+  A series of stand-alone branching cinematic horror games from the studio behind
+  Until Dawn. Easy to pick-up and play in short sessions, alone or with friends.
+  The Devil in Me is the fourth game in the series and the Season One finale.
+  .
+  A group of documentary film makers receive a mysterious call inviting them to a
+  modern-day replica of H.H. Holmes 'Murder Castle' America's first serial killer.
+  But on arrival they soon discover they're being watched, and even manipulated,
+  and suddenly there is much more at stake than just their ratings...
+  .
+  Don't play alone - invite a friend and double the scares during your time in The
+  Devil In Me. The Friend's Pass works on a single save game and allows you and a
+  friend one full playthrough of The Devil In Me with only one of you needing to
+  own the full version.
+  .
+  A Friend's Pass allows anyone who has purchased a copy of The Devil in Me to
+  invite a friend to complete a playthrough of the Shared Story mode for free.
+  Your Friend's Pass is a one-time-use key, so be sure to invite a friend that you
+  can count on in those life and death moments.
+release: 2023-02-15
 players: 1
 assets.boxfront: BoxFront/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).jpg
 assets.boxback: BoxBack/Dark Pictures Anthology, The - The Devil In Me - Friend's Pass (USA).jpg
@@ -3256,6 +4214,35 @@ x-playable: Yes
 
 game: Doki Doki Literature Club (USA)
 file: Computer/Steam/D/Doki Doki Literature Club (USA)/Doki Doki Literature Club (USA).json
+developer: Team Salvato
+publisher: Team Salvato
+genre: Casual;Free To Play;Indie
+description:
+  Hi, Monika here!
+  .
+  Welcome to the Literature Club! It's always been a dream of mine to make
+  something special out of the things I love. Now that you're a club member, you
+  can help me make that dream come true in this cute game!
+  .
+  Every day is full of chit-chat and fun activities with all of my adorable and
+  unique club members:
+  .
+  Sayori, the youthful bundle of sunshine who values happiness the most;
+  .
+  Natsuki, the deceivingly cute girl who packs an assertive punch;
+  .
+  Yuri, the timid and mysterious one who finds comfort in the world of books;
+  .
+  ...And, of course, Monika, the leader of the club! That's me!
+  .
+  I'm super excited for you to make friends with everyone and help the Literature
+  Club become a more intimate place for all my members. But I can tell already
+  that you're a sweetheart-will you promise to spend the most time with me?
+  .
+  This game is not suitable for children
+  .
+  or those who are easily disturbed.
+release: 2017-09-22
 players: 1
 assets.boxfront: BoxFront/Doki Doki Literature Club (USA).jpg
 assets.boxback: BoxBack/Doki Doki Literature Club (USA).jpg
@@ -3577,6 +4564,136 @@ x-playable: Yes
 
 game: Driver4VR (USA)
 file: Computer/Steam/D/Driver4VR (USA)/Driver4VR (USA).json
+developer: Frankly Dog
+publisher: Frankly Dog
+genre: Utilities;Early Access
+description:
+  VERSATILE VR SOLUTION
+  .
+  Unlock the hidden potential of virtual reality with Driver4VR! It will help you
+  in enhancing your experience with many useful features, including:
+  .
+  Body tracking
+  .
+  Head & hand tracking
+  .
+  Controller emulation
+  .
+  tVR (virtual reality on monitor or TV)
+  .
+  Utilities
+  .
+  WHAT MAKES DRIVER4VR STAND OUT?
+  .
+  Simple & powerful VR features
+  .
+  Years of experience & ongoing development
+  .
+  Lots of usage options (body tracking, controller emulation & more)
+  .
+  Global Discord community
+  .
+  Easy setup & helpful tutorials
+  .
+  Affordable price for a convenient VR tool
+  .
+  Driver4VR is also the main source of funding for WalkinVR, the first software
+  that allows people with disabilities to play VR games.
+  .
+  MANY WAYS OF BODY TRACKING
+  .
+  This VR solution allows adding body tracking for existing VR setups like Oculus,
+  HTC Vive or Valve Index. It can emulate body tracking with:
+  .
+  Puppeteer - actually emulation with hand controllers :)
+  .
+  Kinect
+  .
+  Web Camera
+  .
+  Oculus CV1 Touch Controllers
+  .
+  Nolo VR
+  .
+  PS Controllers with PS Eye cameras via PSMoveServiceEx
+  .
+  Camera Markers with PS Eye Camera
+  .
+  VR ON MONITOR OR TV
+  .
+  Driver4VR allows users to play some VR games on TV (this solution is called
+  tVR). It's an alternative way to use VR content for people who for some reason
+  can't do it in a classic way (with headset and controllers).
+  .
+  3DOF and 6DOF TRACKING POSSIBILITIES
+  .
+  For 3DoF Headsets like phone-vr, PSVR or VRTek, Driver4VR can add position
+  tracking and controller emulation. It also uses alternative devices (previous
+  generation consoles, mice, keyboard) to emulate virtual reality controllers and
+  input.
+  .
+  Additionally, it can add positional tracking (6DoF) in case you have a headset
+  that just supports the rotation like phone-based VR, VR Tek, Pimax, etc. It uses
+  Kinect to emulate positional tracking.
+  .
+  Please note that we are using alternative tracking methods to approximate a true
+  6DOF experience. You may want to look into Oculus Quest or similar devices at a
+  cheap price for the head and hands tracking and use Driver4VR for only the body
+  tracking - feet and waist.
+  .
+  SMART CONTROLLER EMULATION
+  .
+  Controllers can be emulated with devices like PS Move, Joy-Con, Wii Remote, VR
+  Gamepad, Mouse, Xbox Controller, Keyboard. Combined with positional tracking, it
+  makes a complete virtual reality setup with hand tracking and input.
+  .
+  Without Kinect you can use those devices alone to emulate position a'la Oculus
+  Go which is called Virtual Tracking.
+  .
+  USEFUL VR UTILITIES
+  .
+  Driver4VR is also a set of useful virtual reality utilities like e.g. Virtual
+  Move, Input Emulation, fix floor position, emulation of broken Index thumbstick
+  with touchpad and many others.
+  .
+  REQUIREMENTS
+  .
+  Bluetooth devices (Bluetooth connection required):
+  .
+  Nintendo Switch JoyCon
+  .
+  Nintendo Wii Remote
+  .
+  PS3 Move / PS4 Move
+  .
+  VR Gamepad
+  .
+  Web Camera:
+  .
+  Any PC Compatible Web Camera
+  .
+  Kinect:
+  .
+  Kinect 360 - Kinect 360 adapter and standard USB 2.0
+  .
+  Kinect 2.0 - Kinect 2.0 adapter and USB 3.0
+  .
+  IMPORTANT UPDATES & SUPPORT
+  .
+  PSVR Display Driver and PS4 Camera tracking goes out of support by end of June
+  2024.
+  .
+  Wii Remote model RVL-CNT-01-TR is not yet supported at the moment but working on
+  it.
+  .
+  When using the Driver4VR for the first time, it MUST be started from the
+  "Launch" button, to ensure any additional services and drivers it requires get
+  installed.
+  .
+  Got questions or installation issues? Ask away at for technical answers & great
+  solutions to use Driver4VR. You can also join our thriving Discord community &
+  share thoughts with other users.
+release: 2021-04-05
 players: 1
 assets.boxfront: BoxFront/Driver4VR (USA).jpg
 assets.boxback: BoxBack/Driver4VR (USA).jpg
@@ -3890,6 +5007,61 @@ x-playable: Yes
 
 game: Electronic Super Joy 2 (USA)
 file: Computer/Steam/E/Electronic Super Joy 2 (USA)/Electronic Super Joy 2 (USA).json
+developer: Michael Todd Games
+publisher: 2&30 Software
+genre: Indie
+description:
+  Electronic Super Joy 2 is a brutally hard platformer, set in a world of brain-
+  smashing electronic music. Run, jump, smash, & slice your way through 55+ weird
+  & different levels, with giant monsters, swarming missiles & secret areas.
+  .
+  Enjoy 4 brutally difficult Boss Fights, including stealing Mega-Satan's Butt,
+  earning Slime-Daddy's love & murdering Santa Claus (he's gone insane & is eating
+  all the reindeer).
+  .
+  Praise for Electronic Super Joy 2:
+  .
+  "Your next ultra-hard platformer" - PC Gamer
+  .
+  "Ooo la la" - Destructoid
+  .
+  "A great time from start to finish" - Happy Gamer
+  .
+  "The soundtrack is straight fire " - AirAngel
+  .
+  Praise for the first game in the series, Electronic Super Joy:
+  .
+  "Oh dude, I'm FEELING Electronic Super Joy" - Game Grumps
+  .
+  "This is probably the best story I've ever seen in an indie game" - RageQuit,
+  Rooster Teeth
+  .
+  "An epic sexy soundtrack to this epic sexy game" - Markiplier
+  .
+  "Visually Stunning" - Destructoid
+  .
+  Plot
+  .
+  They say Mega-Satan has a butt made of Pure Gold... that grants wishes. This is
+  the story of your quest, for the Devil's Golden Butt.
+  .
+  Key Features
+  .
+  Play through 55+ pulse-pounding levels!
+  .
+  Groove to 38 tracks of amazing music!
+  .
+  Load your shotgun & fight through a DOOM-style FPS!
+  .
+  Twist your way across the World Map, with 55+ levels, plus side challenges,
+  secret levels, alternative pathways & collectibles.
+  .
+  8+ hours of gameplay!
+  .
+  4 HUGE Boss fights!
+  .
+  Far too many dad jokes & bad puns!
+release: 2019-08-09
 players: 1
 assets.boxfront: BoxFront/Electronic Super Joy 2 (USA).jpg
 assets.boxback: BoxBack/Electronic Super Joy 2 (USA).jpg
@@ -3902,6 +5074,31 @@ x-playable: Yes
 
 game: Emily is Away (USA)
 file: Computer/Steam/E/Emily is Away (USA)/Emily is Away (USA).json
+developer: Kyle Seeley
+publisher: Kyle Seeley
+genre: Adventure;Casual;Free To Play;Indie;Simulation
+description:
+  Sign In again.
+  .
+  Remember a time before Facebook and Skype? When Windows XP was the next big
+  thing and AIM was king. Relive that era with Emily is Away. Create a screenname
+  and browse buddy infos in this chat-bot meets adventure game. Explore your
+  relationship with Emily, a fellow high school student, in a branching narrative
+  where you choose the outcome. And most importantly, change your text color to
+  lime green so people know you're the coolest kid in school.
+  .
+  Features
+  .
+  Buddy icons, profiles and away messages.
+  .
+  A dialogue decision-based branching narrative.
+  .
+  Over an hour of nostalgia-inducing gameplay.
+  .
+  Five chapters spanning five years of the main characters life.
+  .
+  Computer sounds you hoped to never hear again!
+release: 2015-11-20
 players: 1
 assets.boxfront: BoxFront/Emily is Away (USA).jpg
 assets.boxback: BoxBack/Emily is Away (USA).jpg
@@ -3914,6 +5111,37 @@ x-playable: Yes
 
 game: Estranged - Act I (USA)
 file: Computer/Steam/E/Estranged - Act I (USA)/Estranged - Act I (USA).json
+developer: Alan Edwardes
+publisher: Alan Edwardes
+genre: Action;Adventure;Free To Play;Indie
+description:
+  Estranged tells the story of a lone fisherman, whose ship is stranded on a
+  mysterious island during a violent storm.
+  .
+  Explore the rich environments and meet the curious inhabitants of the island as
+  you find a way back to the mainland. Face both danger and intrigue in this
+  perilous adventure, where you will soon find that not everything is as normal as
+  it seems.
+  .
+  Features
+  .
+  Original Gameplay and Story - The game features around an hour of story driven
+  gameplay. It includes a completely original cast, with a carefully crafted
+  script to bring the Estranged world to life.
+  .
+  Amazing Graphics - Estranged is built on the same engine Half-Life 2 runs, with
+  some additional features. We have extended the dynamic lighting system to allow
+  us to illuminate our levels in a realistic manner, and have included effects
+  such as film grain and lens flare to help create the atmosphere for the game.
+  .
+  Original Soundtrack - The soundtrack was written especially for Estranged, and
+  was designed alongside the game's levels. The music matches gameplay, and helps
+  to bring together the atmosphere in Estranged to bring the story to life.
+  .
+  Please note: This game uses some assets from Half-Life: 2. The two worlds are
+  unrelated, and Estranged is not associated with the Half-Life franchise or Valve
+  Corporation.
+release: 2014-01-16
 players: 1
 assets.boxfront: BoxFront/Estranged - Act I (USA).jpg
 assets.boxback: BoxBack/Estranged - Act I (USA).jpg
@@ -4044,6 +5272,43 @@ x-playable: Yes
 
 game: Fields of Mistria (USA)
 file: Computer/Steam/F/Fields of Mistria (USA)/Fields of Mistria (USA).json
+developer: NPC Studio
+publisher: NPC Studio
+genre: Indie;RPG;Simulation;Early Access
+description:
+  Get ready to begin a brand-new life in a world that's brimming with
+  possibilities!
+  .
+  Mistria, an idyllic village tucked between forest and sea, has offered you an
+  overgrown but full-of-potential homestead in exchange for your assistance.
+  Restore the town to its former glory after an earthquake wreaks havoc and
+  strange magic begins to flow through the land.
+  .
+  In this spiritual successor to the Farm-Sim RPGs of the late 90s & onward, build
+  the farm of your dreams as you discover magic, romance, and adventure!
+  .
+  Customize your character , home and farm to suit your style!
+  .
+  Farm, Fish, Mine & Craft your way to a revitalized town
+  .
+  Find your ideal match with one of 12 marriage candidates
+  .
+  Note: Heart progression past 4 hearts and Marriage itself will be added via
+  future updates.
+  .
+  Raise adorable animals & breed rare color variants
+  .
+  Unlock magic that will aid you during farming & adventuring
+  .
+  Enjoy the changing seasons with new quests, festivals, and even villager
+  outfits!
+  .
+  Get to know 30+ villagers and follow their stories
+  .
+  Battle foes and discover treasures as you explore ancient ruins
+  .
+  And so much more!
+release: 2024-08-05
 players: 1
 assets.boxfront: BoxFront/Fields of Mistria (USA).jpg
 assets.boxback: BoxBack/Fields of Mistria (USA).jpg
@@ -4206,6 +5471,26 @@ x-playable: Yes
 
 game: Fork Parker's Holiday Profit Hike (USA)
 file: Computer/Steam/F/Fork Parker's Holiday Profit Hike (USA)/Fork Parker's Holiday Profit Hike (USA).json
+developer: Dodge Roll
+publisher: Devolver Digital
+genre: Action;Adventure;Free To Play;Indie
+description:
+  The fiscal year is coming to a close and poor Fork Parker has lost all his
+  wonderful profit to greedy developers and their endless thirst for royalties!
+  Grab a martini and ride your private helicopter to the snow capped mountains and
+  hunt down the riches you so rightly deserve. Jump, dash, and rappel your way up
+  the sheer mountainside to scratch out a little profit and meet the demands of an
+  increasingly angry board of directors!
+  .
+  Fork Parker's Holiday Profit Hike features snow, helicopters, ugly holiday
+  sweaters, non-denominational penguins, a title screen, dope beats, ethics,
+  torches, reverse monetization, hot tubs, non-candied canes, falling, ropes, and
+  non-refundable holiday cheer.
+  .
+  Follow @DevolverDigital on Twitter and join the Devolver Digital Super Fun Club
+  on Steam for more fun and games. Sometimes free games. But not all the time, it
+  would make Fork Parker sad.
+release: 2014-12-18
 players: 1
 assets.boxfront: BoxFront/Fork Parker's Holiday Profit Hike (USA).jpg
 assets.boxback: BoxBack/Fork Parker's Holiday Profit Hike (USA).jpg
@@ -4250,6 +5535,18 @@ x-playable: Yes
 
 game: Frame Breaker (USA)
 file: Computer/Steam/F/Frame Breaker (USA)/Frame Breaker (USA).json
+developer: Shenghao
+publisher: Shenghao
+genre: Action;Indie
+description:
+  Frame Breaker is a top-down 2D precision platformer
+  developed independently by a 19-year-old high school
+  student. With fast-paced gameplay, players will face
+  over 60 meticulously designed levels that test their
+  skills and reflexes. Each failure brings the sense of
+  "just one more try," creating an intense yet engaging
+  experience.
+release: 2024-06-18
 players: 1
 assets.boxfront: BoxFront/Frame Breaker (USA).jpg
 assets.boxback: BoxBack/Frame Breaker (USA).jpg
@@ -4486,6 +5783,52 @@ x-playable: Yes
 
 game: Game Character Hub (USA)
 file: Computer/Steam/G/Game Character Hub (USA)/Game Character Hub (USA).json
+developer: Sebastien Bini
+publisher: KOMODO
+genre: Design & Illustration;Utilities
+description:
+  Game Character Hub is the ultimate program for creating and editing 2D game
+  assets. It provides a built-in generator for character and tileset creation.
+  While the program was made to be compatible with RPG Maker XP, VX and VX Ace,
+  the elements found in the program should work with other 2D game engines as
+  well. RPG Maker assets are for RPG Maker use only.
+  .
+  Key Features
+  .
+  With Game Character Hub, you can easily create characters by choosing generator
+  parts provided in the program. Simply select a template, add items and you're
+  done! You can also create your own custom templates and parts. Note that almost
+  the same logic applies to tilesets, so it doesn't necessarily need to be
+  characters!
+  .
+  With Game Character Hub's flexible layering, you can easily customize parts
+  according to your needs; such as changing the opacity, renaming, merging and
+  deleting parts to name a few.
+  .
+  Game Character Hub's Preview window lets you see whats going on without having
+  to stop what you're doing! You can pause the animation and change different
+  settings such as the animation speed, background color and even zoom! You can
+  also set custom animation previews with the Animation Management feature. Useful
+  if you want to see if your Autotiles or Behaviour poses seamlessly transition to
+  one another!
+  .
+  With Game Character Hub's palette editor, it's easier for you to create your own
+  palettes and change values. What's more is that you can generate palette colors
+  from all visible layers or specific ones. Great for finding the colors you need!
+  .
+  Tired of manually merging tile sheets on your own? Game Character Hub has a
+  built in tileset merger to save you the work!
+  .
+  Game Character Hub allows you to easily convert your character assets for
+  different RPG Maker engines.
+  .
+  Other Features Include...
+  .
+  Flexible GUI Layout - Change the layout of the program to your liking!
+  .
+  Expansive History Window - Easily undo and redo artwork at any point in time
+  during development.
+release: 2014-05-23
 players: 1
 assets.boxfront: BoxFront/Game Character Hub (USA).jpg
 assets.boxback: BoxBack/Game Character Hub (USA).jpg
@@ -4558,6 +5901,137 @@ x-playable: Yes
 
 game: GameGuru Classic (USA)
 file: Computer/Steam/G/GameGuru Classic (USA)/GameGuru Classic (USA).json
+developer: TheGameCreators
+publisher: TheGameCreators
+genre: Animation & Modeling;Design & Illustration;Education;Software Training;Utilities;Game Development
+description:
+  Welcome to GameGuru Classic, game making for everyone. We've created an easy to
+  use and most enjoyable game creator. Join us and our great and enthusiastic
+  game-making community on your journey to make fun games! Imagine creating a
+  world that you and your friends come together and play... and creating it can be
+  a matter of minutes with no technical jiggery-pokery needed at all :-) Of
+  course, you can happily spend hours, days..even weeks creating your masterpiece,
+  the great thing about GameGuru is, you won't be held up by learning strange
+  alien languages or using complex modelling tools. The time you spend with
+  GameGuru Classic is all about creating and having fun whilst doing it.
+  .
+  When you first launch GameGuru Classic, it may appear to be a simple level
+  editor, but it's actually crammed with lots of useful tools you will need to
+  make your own game, including a character creator, model importer, building
+  maker, complete scripting language and of course, over 6GB of complimentary game
+  assets to get you started. The fact it's as easy as any in-game level editor is
+  a plus, and unlike level editors, you get to save out what you've made and even
+  sell your game!
+  .
+  We've created a small game level for you to play and enjoy, which shows you how
+  you might lay out your level, and balance the combat to give the player a
+  challenging experience. You can, of course, edit this level any way you wish and
+  learn from an existing demo level rather than start completely from scratch. We
+  believe there is nothing on the market which enables you to create and share a
+  3D game as quickly as GameGuru Classic, thanks to a massive starter collection
+  of assets, our easy drag and drop approach and built-in game logic so you don't
+  need to code it yourself (unless you want to).
+  .
+  As a welcome bonus, we have also included an expansion pack with over 2.8 GB of
+  additional game assets for you to get started, completely free! In fact, all the
+  art you see in the screenshots above are included in GameGuru Classic and you
+  are free to include them in your games, no strings attached. We do sell
+  additional content DLCs, but with over 6,000 megabytes of game assets already
+  crammed into GameGuru Classic, the DLCs are entirely optional.
+  .
+  GameGuru Classic and its creators
+  .
+  GameGuru Classic has been developed by TheGameCreators. We're a UK-based Indie
+  development team with years of experience. GameGuru Classic has been designed by
+  gamers for gamers and we want to build and design it along with our enthusiastic
+  community.
+  .
+  The Technical Stuff
+  .
+  For those who want to learn more - here are the main elements of GameGuru
+  Classic:
+  .
+  3D Game Engine & Editor
+  .
+  Easy to use, drag & drop style
+  .
+  Birds eye view & 3D fly editing systems
+  .
+  Game world - Construct levels for your games
+  .
+  Terrain editor - With easy to use controls you can create unique environments
+  .
+  Infinite vegetation system - Vegetation is auto-generated, just paint it on the
+  map
+  .
+  Level of detail - The game engine supports Level Of Detail technology (LOD)
+  .
+  Cascade shadow mapping - Real-time dynamic sun shadow
+  .
+  Lightmapping - Add fast shadows to your levels with the shadow baking system
+  .
+  Sky maps - Choose from a wide range of high-resolution sky maps
+  .
+  Occlusion Culling System - Fast rendering from a special object culling system
+  .
+  Light Rays - Let the light flood your game scenes with cool god rays
+  .
+  Connect to the Asset Store to extend your library of game assets
+  .
+  Physics
+  .
+  GameGuru Classic uses the Bullet Physics engine to create realistic physics
+  events
+  .
+  Rag-doll deaths of characters
+  .
+  Game Characters & Weapons
+  .
+  Customize character in-game properties
+  .
+  Simple Character Creator
+  .
+  A.I scripts control characters - Scripts are coded using the LUA language
+  .
+  GameGuru Classic comes equipped with a range of stock weapons and ammo packs
+  .
+  Explosive Munitions - RPGs, grenades, and landmines
+  .
+  Ammo pick-ups - Reload weapons during game-play with ammo pickups
+  .
+  Jet-pack - A special Jet-pack object lets you fly around your game world
+  .
+  Multiplayer on Steam (GameGuru Classic is required by all users to play
+  multiplayer games)
+  .
+  Build games with multiplayer features
+  .
+  Create death-match levels
+  .
+  Make Team death-match levels
+  .
+  Build Co-op Multiplayer games
+  .
+  Up to 8 players can play your game
+  .
+  Play with friends
+  .
+  Build Games
+  .
+  Save standalone single player games as executable files
+  .
+  Distribute your games royalty free
+  .
+  Choosing Your Game Engine
+  .
+  GameGuru Classic is not designed to compete with professional development tools
+  such as Unity, Unreal and Cry-engine which are ideally suited to producing
+  commercial apps and games. GameGuru Classic is a recreational game maker, not a
+  professional tool, and is still very much in development. GameGuru Classic is
+  unsuitable for serious game development projects at this time, and we highly
+  recommend you visit the forums and ask many questions before you make a decision
+  on the game making tool for you.
+release: 2015-05-19
 players: 1
 assets.boxfront: BoxFront/GameGuru Classic (USA).jpg
 assets.boxback: BoxBack/GameGuru Classic (USA).jpg
@@ -5169,6 +6643,35 @@ x-playable: Yes
 
 game: Haunted Hotel - The Axiom Butcher Collector's Edition (USA)
 file: Computer/Steam/H/Haunted Hotel - The Axiom Butcher Collector's Edition (USA)/Haunted Hotel - The Axiom Butcher Collector's Edition (USA).json
+developer: Elephant Games
+publisher: Big Fish Games
+genre: Adventure;Casual
+description:
+  Elephant Games proudly presents the next installment of the Haunted Hotel
+  series! Welcome to the Axiom Hotel. If you're lucky, you may just get out alive.
+  Eleven years after the Axiom Butcher's reign of terror in the hotel, the murders
+  have resumed. It's up to you to uncover the mystery behind this madman and help
+  the hotel guests. Will you figure it out in time, or will you be next? Find out
+  in this haunting hidden-object puzzle adventure!
+  .
+  This is a special Collector's Edition release full of exclusive extras you won't
+  find in the standard version. The Collector's Edition includes:
+  .
+  - Dig deeper into the Axiom's past in the Bonus Chapter!
+  .
+  - Peruse the helpful Strategy Guide
+  .
+  - Test your skills with achievements and replayable HOPs & mini-games
+  .
+  - Explore the Secret Room, wallpapers, and concept art
+  .
+  - Discover collectible Tarot Cards, Crystal Balls, and more!
+  .
+  This is a Hidden Object Puzzle Adventure game, meaning a specific genre of
+  story-driven, point & click adventures. Throughout the game, players are tasked
+  to find a list of objects hidden within a particular scene, and to occasionally
+  complete various mini-games/puzzles.
+release: 2016-04-30
 players: 1
 assets.boxfront: BoxFront/Haunted Hotel - The Axiom Butcher Collector's Edition (USA).jpg
 assets.boxback: BoxBack/Haunted Hotel - The Axiom Butcher Collector's Edition (USA).jpg
@@ -6045,6 +7548,27 @@ x-playable: Yes
 
 game: Killing Floor Mod - Defence Alliance 2 (USA)
 file: Computer/Steam/K/Killing Floor Mod - Defence Alliance 2 (USA)/Killing Floor Mod - Defence Alliance 2 (USA).json
+developer: Defence Alliance Team
+publisher: Tripwire Interactive
+genre: Action
+description:
+  Defence Alliance 2 is a total conversion mod for Killing Floor featuring team
+  based futuristic FPS game play. DA2 blends fast paced action with class based
+  tactics to create an experience that is instantly enjoyable while still offering
+  very deep gameplay. Two teams face off in attack/defend scenarios where the
+  attackers must complete their objectives before time runs out. The mod features
+  six different classes: Medic, Mechanic, Rocketeer, Machine Gunner, Sniper and
+  the Rifleman, each with their own special abilities. Players can set up their
+  own turrets such as cannons, miniguns, and rocket turrets, place ammo boxes,
+  heal other players, use EMP grenades and rocket launchers against turrets, and
+  more.
+  .
+  In addition to the regular DA2 gameplay mode, Defence Alliance 2 for Killing
+  Floor now features a new gameplay mod called Co-op Specimen Survival. A small
+  group of players are set against waves of specimens. Players can use turrets and
+  mines to build up their defense then have a limited amount of respawns with
+  which to defeat the waves of incoming specimens.
+release: 2009-10-22
 players: 1
 assets.boxfront: BoxFront/Killing Floor Mod - Defence Alliance 2 (USA).jpg
 assets.boxback: BoxBack/Killing Floor Mod - Defence Alliance 2 (USA).jpg
@@ -6617,6 +8141,54 @@ x-playable: Yes
 
 game: Lab, The (USA)
 file: Computer/Steam/L/Lab, The (USA)/Lab, The (USA).json
+developer: Valve
+publisher: Valve
+genre: Free To Play
+description:
+  Set in a pocket universe of Aperture Science, The Lab offers a wide range of
+  ways to enjoy VR, all in one application.
+  .
+  Slingshot
+  .
+  Begin your career as a Calibration Trainee by recklessly destroying everything
+  in the Aperture Storage Annex using the Core Calibration slingshot.
+  .
+  Longbow
+  .
+  Use your archery skills to defend your noble castle gate from a rampaging but
+  adorable and equally noble horde of attackers.
+  .
+  Xortex
+  .
+  Are you a bad enough dude to become a Xortex ace? Relive the golden era of
+  gaming -- only this time, it's all around you.
+  .
+  Postcards
+  .
+  Visit exotic, far-off locales from the comfort of your own head.
+  .
+  Human Medical Scan
+  .
+  Explore the intricate beauty of the human body through a highly detailed model
+  created from a series of CT medical scans.
+  .
+  Solar System
+  .
+  Why watch shows about the vast majesty of space when you can jump in and see it
+  for yourself? Have educational space-fun while putting Neil Degrasse-Tyson out
+  of business.
+  .
+  Robot Repair
+  .
+  Can you repair a robot? Good, because Aperture Science's Human Diversity
+  Outreach Program is now hiring.
+  .
+  Secret Shop
+  .
+  The fantasy equivalent of a twenty-four-hour convenience store is now open for
+  business! Peruse artifacts, shop for familiars and cast a spell or two at Dota's
+  Secret Shop!
+release: 2016-04-05
 players: 1
 assets.boxfront: BoxFront/Lab, The (USA).jpg
 assets.boxback: BoxBack/Lab, The (USA).jpg
@@ -7260,6 +8832,60 @@ x-playable: Yes
 
 game: Marie's Room (USA)
 file: Computer/Steam/M/Marie's Room (USA)/Marie's Room (USA).json
+developer: like Charlie
+publisher: like Charlie
+genre: Adventure;Casual;Free To Play;Indie
+description:
+  Marie's Room is a short story exploration game about an unconventional
+  friendship between two classmates. You play as Kelsey, remembering Marie's room
+  as it was twenty years ago. But something's off. What happened to Marie?
+  .
+  "There was nothing I could do about the past. It was definite as hell." - Kelsey
+  .
+  Kelsey has come back to a room packed up in boxes. She has one goal - get
+  Marie's journal. When she picks it up, the memories come back. Because twenty
+  years ago Kelsey and Marie shared this room. They spent days in it working on
+  projects, nights talking about boys, pizza and sparkly shoes. Dreaming about the
+  future, planning their life. Until that ghastly night. When it was all shattered
+  to pieces.
+  .
+  What happened to Marie and Kelsey twenty years ago?
+  .
+  Search Marie's room and join Kelsey in her trip down memory lane. Open drawers,
+  pick up objects. Learn what Kelsey remembers, read what Marie thought about it.
+  As you puzzle the pieces together, you uncover the secrets of their friendship.
+  .
+  "She asked me why I was so angry all the time. And I told her -- because it's a
+  dirty deal. It's Russian roulette and utterly unfair. The cards I'd been dealt,
+  any player would have passed. I chose to be angry instead. But Marie, my friend
+  Marie, she got me a new deck. And suggested that I deal again." - Kelsey
+  .
+  The team behind the game
+  .
+  Creative Direction - Art & Programming
+  .
+  Kenny Guillaume
+  .
+  Writing - Dialogue - Story
+  .
+  Dagmar Blommaert
+  .
+  Voice acting
+  .
+  Lauren Hendler
+  .
+  Lauren Ann Higgins
+  .
+  Music
+  .
+  Dries Vienne
+  .
+  Simon Alexander
+  .
+  Audio Mastering
+  .
+  Ward Snauwaert
+release: 2018-04-13
 players: 1
 assets.boxfront: BoxFront/Marie's Room (USA).jpg
 assets.boxback: BoxBack/Marie's Room (USA).jpg
@@ -7518,6 +9144,37 @@ x-playable: Yes
 
 game: Meteor 60 Seconds! (USA)
 file: Computer/Steam/M/Meteor 60 Seconds! (USA)/Meteor 60 Seconds! (USA).json
+developer: AvoCavo
+publisher: AvoCavo
+genre: Action;Casual;Free To Play;Indie;Simulation
+description:
+  Meteor 60 seconds! is a simple, fun, comic-like action game that simulates your
+  life if there were a meteor heading towards Earth and you had 60 seconds to
+  live. Do anything you want to do with your last 60 seconds, even if it's
+  illegal! What about planting an apple tree?
+  .
+  Story
+  .
+  NASA recently stated that a massive meteorite will collide with Earth soon and
+  that Earth will be destroyed!
+  .
+  Surprisingly, we all only have 60 seconds left to live before the earth is
+  destroyed!
+  .
+  Which means YOU ONLY HAVE 60 SECONDS LEFT TO LIVE!!
+  .
+  What will your choice be...?
+  .
+  Features
+  .
+  Simple, fun side-scrolling action game
+  .
+  Comic-like story
+  .
+  Multi Ending
+  .
+  Game by Avocavo
+release: 2018-02-26
 players: 1
 assets.boxfront: BoxFront/Meteor 60 Seconds! (USA).jpg
 assets.boxback: BoxBack/Meteor 60 Seconds! (USA).jpg
@@ -7825,6 +9482,24 @@ x-playable: Yes
 
 game: Mystery Case Files - Ravenhearst (USA)
 file: Computer/Steam/M/Mystery Case Files - Ravenhearst (USA)/Mystery Case Files - Ravenhearst (USA).json
+developer: Big Fish Games
+publisher: Big Fish Games
+genre: Adventure;Casual
+description:
+  Rumors surrounding the history of stately Ravenhearst Manor have circulated for
+  decades. The recently acquired diary of Emma Ravenhearst may hold the key to
+  unraveling the tale behind this unsettling place, yet the pages are missing.
+  Players assume the role of Master Detective to unlock secrets held within
+  Ravenhearst, scouring a myriad of enchanting rooms in the manor for cleverly
+  hidden clues. Locating and assembling diary pages helps tell the story of the
+  house and, ultimately, unlock the mystery.
+  .
+  Dozens of puzzles to solve.
+  .
+  32 beautifully new, unique rooms.
+  .
+  Thousands of unique items to find
+release: 2006-12-15
 players: 1
 assets.boxfront: BoxFront/Mystery Case Files - Ravenhearst (USA).jpg
 assets.boxback: BoxBack/Mystery Case Files - Ravenhearst (USA).jpg
@@ -7864,6 +9539,35 @@ x-playable: Yes
 
 game: NADI Project, The (USA)
 file: Computer/Steam/N/NADI Project, The (USA)/NADI Project, The (USA).json
+developer: Monkeys Tales Studio
+publisher: Monkeys Tales Studio
+genre: Adventure;Free To Play;Indie
+description:
+  The NADI Project it is a graphic adventure, inspired by the already best-known
+  successes of "The Vanishing of Ethan Carter" and of "Ether One", in which you
+  will face various obstacles.
+  .
+  In this adventure, you will be catapulted into a reality set in a future not too
+  far away.
+  .
+  You will play Jeremy Parker, a famous businessman in his field, but forced by
+  misfortune to go where money has no value.
+  .
+  You will face the difficulties of a shipwreck, in an anonymous island, forgotten
+  by every nautical map. You can't count on anyone, just on your intuition.
+  .
+  Bur nothing is like it seems, even the desert islands do not escape out of this
+  law.
+  .
+  And so you'll find yourself on a journey through ancient ruins, traces left by
+  one of the biggest electronic company in the world, the "Ceberus Electronics"
+  .
+  This giant business made this atoll one of his research bases and your destiny
+  has made it your struggle for existence. You will be forced to explore
+  thoroughly everything that surrounds you, without forgetting your main goal.
+  .
+  RUN AWAY !
+release: 2016-06-01
 players: 1
 assets.boxfront: BoxFront/NADI Project, The (USA).jpg
 assets.boxback: BoxBack/NADI Project, The (USA).jpg
