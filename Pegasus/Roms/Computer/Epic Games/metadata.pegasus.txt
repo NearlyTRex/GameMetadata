@@ -781,6 +781,46 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Death's Door (USA)
+file: Computer/Epic Games/D/Death's Door (USA)/Death's Door (USA).json
+developer: Acid Nerve
+publisher: Devolver Digital
+genre: Action;Adventure;RPG
+description:
+  Reaping souls of the dead and punching a clock might get monotonous but it's
+  honest work for a Crow. The job gets lively when your assigned soul is stolen
+  and you must track down a desperate thief to a realm untouched by death - where
+  creatures grow far past their expiry and overflow with greed and power.
+  .
+  Talon Sharp Combat:
+  .
+  Utilize melee weapons, arrows and magic to overcome a fantastic array of beasts
+  and demigods. Mistakes are punished and victory is rewarded. Gain an edge by
+  customizing your character stats and mastering the abilities and upgrades you
+  obtain.
+  .
+  A Beautifully Bleak World:
+  .
+  Venture beyond the Doors and explore a land full of twisted inhabitants and
+  countless secrets, bringing hope to the weird and wonderful characters you'll
+  meet along the way.
+  .
+  A Dark Mystery to Unravel:
+  .
+  Track down and defeat colossal tyrants with stories and motivations of their
+  own. Experience a somber yet darkly comedic tale, uncovering the truths behind
+  the flow of souls, the role of the Crows and the origin of the Doors.
+release: 2021-07-21
+players: 1
+assets.boxfront: BoxFront/Death's Door (USA).jpg
+assets.boxback: BoxBack/Death's Door (USA).jpg
+assets.background: Background/Death's Door (USA).jpg
+assets.screenshot: Screenshot/Death's Door (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/deaths-door
+x-co-op: No
+x-playable: Yes
+
+
 game: Death's Gambit - Afterlife (USA)
 file: Computer/Epic Games/D/Death's Gambit - Afterlife (USA)/Death's Gambit - Afterlife (USA).json
 developer: White Rabbit
@@ -1471,6 +1511,32 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Ghostbusters - Spirits Unleashed (USA)
+file: Computer/Epic Games/G/Ghostbusters - Spirits Unleashed (USA)/Ghostbusters - Spirits Unleashed (USA).json
+developer: IllFonic
+publisher: IllFonic Publishing
+genre: Horror;Shooter
+description:
+  Ghostbusters: Spirits Unleashed Ecto Edition will include the game and all four
+  of the DLC Drops from 2023. This is a fun, multiplayer game perfect for all
+  skill levels. Four proton pack wielding Ghostbusters attempt to catch a Ghost
+  haunting unique locations in asymmetrical multiplayer battles (online or
+  offline). As players progress, they will unlock cosmetics and upgrades for both
+  Ghostbusters and Ghosts to evolve their gameplay experiences. The look and feel
+  will deliver to fans an immersive experience in the universe, allowing them to
+  play out their Ghostbusting fantasies. Whether hunting or haunting, the game is
+  easy to learn and fun to master!
+release: 2022-10-18
+players: 1
+assets.boxfront: BoxFront/Ghostbusters - Spirits Unleashed (USA).jpg
+assets.boxback: BoxBack/Ghostbusters - Spirits Unleashed (USA).jpg
+assets.background: Background/Ghostbusters - Spirits Unleashed (USA).jpg
+assets.screenshot: Screenshot/Ghostbusters - Spirits Unleashed (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed
+x-co-op: No
+x-playable: Yes
+
+
 game: Ghostrunner (USA)
 file: Computer/Epic Games/G/Ghostrunner (USA)/Ghostrunner (USA).json
 developer: ONE MORE LEVEL
@@ -1500,6 +1566,55 @@ assets.boxback: BoxBack/Ghostrunner (USA).jpg
 assets.background: Background/Ghostrunner (USA).jpg
 assets.screenshot: Screenshot/Ghostrunner (USA).jpg
 x-url: https://store.epicgames.com/en-US/p/ghostrunner
+x-co-op: No
+x-playable: Yes
+
+
+game: Ghostwire Tokyo (USA)
+file: Computer/Epic Games/G/Ghostwire Tokyo (USA)/Ghostwire Tokyo (USA).json
+developer: Tango Gameworks
+publisher: Bethesda Softworks
+genre: Action;Action-Adventure;Adventure
+description:
+  Face the unknown, uncover the truth and save the city
+  .
+  Tokyo is overrun by deadly supernatural forces, perpetrated by a dangerous
+  occultist, causing Tokyo's population to vanish in an instant. Ally with a
+  powerful spectral entity on their quest for vengeance and master a powerful
+  arsenal of abilities to unravel the dark truth behind the disappearance as you
+  FACE THE UNKNOWN in Ghostwire: Tokyo.
+  .
+  A beautifully haunted Tokyo
+  .
+  Explore a unique vision of Tokyo twisted by a supernatural presence. From its
+  ultra-modern cityscape to its traditional temples and narrow alleyways, discover
+  a hauntingly beautiful city teeming with Yokai - vengeful spirts spirits that
+  prowl the streets. Discover iconic landmarks like Shibuya Crossing and Tokyo
+  Tower, stunningly rendered with incredible detail and built to take advantage of
+  next-generation technology. Experience the city frozen in time when the city's
+  population disappeared, and travel to the surreal underworld on your quest to
+  save your family.
+  .
+  Devastating Elemental Abilities
+  .
+  Wield a combination of upgradeable elemental powers and ghost-hunting skills to
+  combat the supernatural threat. Use your ethereal abilities to ascend to the to
+  the top of Tokyo's skyline and soar over the streets to discover new missions or
+  even get the drop on your enemies.
+  .
+  Explore all-new content with the Ghostwire: Tokyo Spider's Thread Update
+  .
+  Free for all players, the Spider's Thread update contains several additions to
+  the base game, including a new area to explore, extended cutscenes, new side-
+  missions, all-new enemies, added quality of life improvements, extra combat
+  skills and a new roguelite "The Spider's Thread" game mode!
+release: 2022-03-25
+players: 1
+assets.boxfront: BoxFront/Ghostwire Tokyo (USA).jpg
+assets.boxback: BoxBack/Ghostwire Tokyo (USA).jpg
+assets.background: Background/Ghostwire Tokyo (USA).jpg
+assets.screenshot: Screenshot/Ghostwire Tokyo (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/ghostwire-tokyo
 x-co-op: No
 x-playable: Yes
 
@@ -1673,6 +1788,71 @@ assets.background: Background/Jotun - Valhalla Edition (USA).jpg
 assets.screenshot: Screenshot/Jotun - Valhalla Edition (USA).jpg
 assets.video: Video/Jotun - Valhalla Edition (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/jotun
+x-co-op: No
+x-playable: Yes
+
+
+game: Kardboard Kings (USA)
+file: Computer/Epic Games/K/Kardboard Kings (USA)/Kardboard Kings (USA).json
+developer: Henry's House, Oscar Brittan & Rob Gross
+publisher: Akupara Games
+genre: Casual;Simulation;Strategy
+description:
+  You are Harry Hsu, a young man who recently inherited his father's seaside card
+  shop. Left with just a bit of cash and a tiny inventory, it's up to you to
+  restore the shop's reputation as the center for the most popular trading card
+  game in the world: "Warlock." With the shop's reputation on the line, you start
+  working behind the counter, juggling the locals' requests while trying to
+  familiarize yourself with the peculiar market of selling Warlock cards.
+  .
+  Your guide, Giuseppe, a fast-talking Cockatoo, helps you in your buying and
+  selling journey - picking up a foil Startled Banana on the cheap and turning it
+  around for a power rare performing great at tournaments. Host booster drafts,
+  clearance sales, in-house tournaments, and release parties for new sets in the
+  game, making sure that your customers have every card they need to be the best
+  duelist in town.
+  .
+  But if you want to be the best duelist Warlock has ever seen, you'll get your
+  opportunity when you travel to Card Game Island! A veritable tropical paradise
+  featuring sandy beaches, sunny skies and the best, toughest Warlock duelists out
+  there. Master your deck, find the legendary cards, and you might just have the
+  chance to outplay the very best duelist in the world. Be careful, though. A
+  single loss sends you home, so only the very best duelists will prevail!
+  .
+  Features
+  .
+  Buy, Sell, or Flex - Buy low, sell high, or just add Cards to your showcase for
+  all to see!
+  .
+  Collect Over 100 Unique Cards - From ripping open booster packs, to buying
+  singles, you'll uncover dozens of vibey Cards featuring illustrations from
+  stacks of talented artists! (Plus their rare, shiny variants!)
+  .
+  Master An Ever-Changing Market - Reprints, rumours, rule changes, kids' meal
+  promos, thieves, and church condemnations (the usual suspects) will all affect
+  the price of your treasured cards. Think fast!
+  .
+  Win the Hearts of Customers - Befriend regulars by tracking down their requests,
+  help build their decks, and become a part of a sleepy seaside town! Or just rip
+  them off and feel their wrath!
+  .
+  Build The Perfect Shop - New management means new branding - create your dream
+  shop with a catalogue of walls, flooring, furniture, and knickknacks; everyone
+  loves a good chia pet, right?
+  .
+  Solve The Mystery - All is not what it seems on the seaside! The appearance of a
+  mysterious masked thief leaves locals wondering who to trust with their precious
+  Cards! Who is this shadowy character?
+  .
+  Card Game Island - Buy a ticket to card game island, testing your wits and wiles
+  against the most formidable duelists in a roguelite deckbuilding game mode.
+release: 2022-02-10
+players: 1
+assets.boxfront: BoxFront/Kardboard Kings (USA).jpg
+assets.boxback: BoxBack/Kardboard Kings (USA).jpg
+assets.background: Background/Kardboard Kings (USA).jpg
+assets.screenshot: Screenshot/Kardboard Kings (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/kardboard-kings-0962f8
 x-co-op: No
 x-playable: Yes
 
@@ -2070,6 +2250,124 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Morbid - The Seven Acolytes (USA)
+file: Computer/Epic Games/M/Morbid - The Seven Acolytes (USA)/Morbid - The Seven Acolytes (USA).json
+developer: Still Running
+publisher: Merge Games Ltd.
+genre: Action-Adventure;Fantasy;Indie
+description:
+  Morbid: The Seven Acolytes is a Horrorpunk Action RPG filled with Lovecraftian
+  horrors and Cronenbergian gore.
+  .
+  You are the last surviving Striver of Dibrom. Your duty, for which you have
+  trained your whole life, is to defeat the Seven Acolytes, accursed and powerful
+  beings, possessed by malevolent deities called Gahars.
+  .
+  Experience epic bosses and a multitude of bloodthirsty encounters as you build
+  your character
+  .
+  Challenging foes, mini-bosses, and memorable large-scale boss fights with fully
+  orchestrated music, are central to the world of Morbid. To overcome these
+  obstacles you must master the combat, as well as improve your character and gear
+  through a wealth of elements such as Quests, Perks, Runes, Upgrades, and
+  Looting.
+  .
+  Explore the diverse fantasy world of Mornia abundant with deep and immersive
+  lore
+  .
+  The Gahars have bound their twisted minds to the flesh of the Seven Acolytes,
+  for without hosts they cannot survive. You must slay the Acolytes, thus ridding
+  the Gahars of their flesh. Succeed, and you'll free the kingdom from the heavy
+  yoke of their terror. Fail, and the malicious gods rule on, as the Acolytes rise
+  anew, and madness prevails.
+  .
+  Features Overview
+  .
+  Experience epic, brutal boss encounters and explore a diverse array of
+  environments
+  .
+  Perk levelling system with multiple ways to build your character
+  .
+  Deep, immersive lore with NPC's to meet throughout the world
+  .
+  Over 25 Unique Melee Weapons, such as Swords, Axes, Maces, Spears, Two-Handers,
+  as well several guns ranging from Pistols, Shotguns and Rifles
+  .
+  Epic fully orchestrated soundtrack comprising of 18 tracks
+  .
+  Health, Stamina and Sanity management is important as you traverse the world
+release: 2024-09-19
+players: 1
+assets.boxfront: BoxFront/Morbid - The Seven Acolytes (USA).jpg
+assets.boxback: BoxBack/Morbid - The Seven Acolytes (USA).jpg
+assets.background: Background/Morbid - The Seven Acolytes (USA).jpg
+assets.screenshot: Screenshot/Morbid - The Seven Acolytes (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/morbid-the-seven-acolytes-7c5303
+x-co-op: No
+x-playable: Yes
+
+
+game: Moving Out (USA)
+file: Computer/Epic Games/M/Moving Out (USA)/Moving Out (USA).json
+developer: SMG Studio & Devm Games
+publisher: Team17
+genre: Casual;Party
+description:
+  Moving Out is a ridiculous physics-based moving simulator that brings new
+  meaning to "couch co-op"!
+  .
+  Are you ready for an exciting career in furniture? As a newly certified
+  Furniture Arrangement & Relocation Technician, you'll take on moving jobs all
+  across the busy town of Packmore. Smooth Moves may not be the biggest moving
+  company, but there's no task too dangerous or strange for this busy team of go-
+  getters. Grow your business to brave new heights, recruit colourful customizable
+  characters, and save your town from furniture peril!
+  .
+  Co-op!
+  .
+  Enjoy the story mode solo as an independent contractor or team up with some
+  friends. Up to four players can cozy up on the couch to argue over the best way
+  to move a couch. Test your skills AND your friendship!
+  .
+  Physics!
+  .
+  Are pesky doors and windows standing in your furniture's way? Just blast through
+  them with physics! Lift, toss and smash your way to the fastest times!
+  .
+  Action!
+  .
+  Learn the ropes in a series of increasingly precarious and fantastical moving
+  jobs. How a bed gets from point A to point B is never a straight line, so throw
+  out the training manual and get creative!
+  .
+  Adventure!
+  .
+  Every moving company starts small, but as your reputation ranks up, so do your
+  destinations. Move through sleepy suburbs, frenzied farms, haunted houses,
+  virtual reality and lands beyond!
+  .
+  Characters!
+  .
+  Recruit a unique cast of colorful characters, each packed with a passion for
+  manual labor!
+  .
+  Assist Mode!
+  .
+  Are you a rookie? No problem! Adjust the game's difficulty so anyone can play!
+  .
+  Don't wait! Grab your friends and become a certified moving master in Moving
+  Out!
+release: 2021-12-28
+players: 1
+assets.boxfront: BoxFront/Moving Out (USA).jpg
+assets.boxback: BoxBack/Moving Out (USA).jpg
+assets.background: Background/Moving Out (USA).jpg
+assets.screenshot: Screenshot/Moving Out (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/moving-out
+x-co-op: No
+x-playable: Yes
+
+
 game: MythForce (USA)
 file: Computer/Epic Games/M/MythForce (USA)/MythForce (USA).json
 developer: Beamdog
@@ -2346,6 +2644,44 @@ assets.background: Background/Prey (USA).jpg
 assets.screenshot: Screenshot/Prey (USA).jpg
 assets.video: Video/Prey (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/prey
+x-co-op: No
+x-playable: Yes
+
+
+game: Priest Simulator - Vampire Show (USA)
+file: Computer/Epic Games/P/Priest Simulator - Vampire Show (USA)/Priest Simulator - Vampire Show (USA).json
+developer: Asmodev
+publisher: Ultimate Games S.A.
+genre: Action;First Person;Indie
+description:
+  Divine arms at your disposal
+  .
+  Use your divine arsenal of 8 unique weapons. You've got two hands. That means
+  two weapons at once! Defend San de Ville from shatanists and Hell's envoys using
+  a combination of your choosing. Use black metal to craft upgrades and adapt them
+  to your play style.
+  .
+  Renovate the church
+  .
+  The church is in shambles. It's more of a dump than a weekly rendezvous spot for
+  christianists. Buy church restoration blueprints, use modern technology to
+  renovate the temple, increase the faith level, and unlock new attractions such
+  as confession and sermons.
+  .
+  Deliver the villagers from damnation
+  .
+  Shatanists are not the greatest evil you will encounter in San de Ville. The
+  pastor sold the villagers some totems imbued with demonic powers. Possessions
+  have broken out, and it's your responsibility to rescue the peasants. Performing
+  exorcisms and sorting out the mess your colleague left behind is quite
+  degrading. Feel right at home.
+release: 2024-09-25
+players: 1
+assets.boxfront: BoxFront/Priest Simulator - Vampire Show (USA).jpg
+assets.boxback: BoxBack/Priest Simulator - Vampire Show (USA).jpg
+assets.background: Background/Priest Simulator - Vampire Show (USA).jpg
+assets.screenshot: Screenshot/Priest Simulator - Vampire Show (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/priest-simulator-vampire-show-71f336
 x-co-op: No
 x-playable: Yes
 
@@ -2636,6 +2972,52 @@ assets.boxback: BoxBack/Spirit of the North (USA).jpg
 assets.background: Background/Spirit of the North (USA).jpg
 assets.screenshot: Screenshot/Spirit of the North (USA).jpg
 x-url: https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66
+x-co-op: No
+x-playable: Yes
+
+
+game: Stasis - Bone Totem (USA)
+file: Computer/Epic Games/S/Stasis - Bone Totem (USA)/Stasis - Bone Totem (USA).json
+developer: THE BROTHERHOOD
+publisher: THE BROTHERHOOD
+genre: Adventure;Horror;Indie
+description:
+  Plunge into the depths of Stasis: Bone Totem, the latest installment in the
+  Stasis anthology.
+  .
+  A new story, new characters, and a new underwater environment to explore.
+  .
+  Follow Mac and Charlie, a husband and wife duo who make their living scouring
+  the ocean for salvage. But, when they stumble upon an abandoned oil rig in the
+  Pacific Ocean, they uncover a horrific secret that Cayne Corporation will do
+  anything to keep hidden.
+  .
+  As you embark on your adventure playing Mac, Charlie, and their trusty Super-
+  Toy, Moses, you'll encounter an immersive narrative filled with spine-tingling
+  horror and unexpected twists. Combining the thrilling storytelling of Stasis in
+  a tense underwater setting, Stasis: Bone Totem offers a personal story that will
+  test the limits of family resilience.
+  .
+  Navigate through a massive underwater base, complete intricate puzzles, and
+  solve a two-thousand-year-old secret concealed at the bottom of the ocean. Bone
+  Totem features the same isometric, point-and-click gameplay that made Stasis a
+  classic fan favorite but with a new cast and a unique setting that will leave
+  you gasping for breath.
+  .
+  With stunning visuals, a music score by Mark Morgan, a screenplay written by a
+  Hollywood ace, voice acting by veteran actors, and a gripping storyline that
+  will keep you on the edge of your seat, Stasis: Bone Totem is a must-play game
+  for horror and sci-fi adventure fans.
+  .
+  So what are you waiting for? Dive into the unknown and uncover the Bone Totem
+  beneath the waves.
+release: 2023-06-20
+players: 1
+assets.boxfront: BoxFront/Stasis - Bone Totem (USA).jpg
+assets.boxback: BoxBack/Stasis - Bone Totem (USA).jpg
+assets.background: Background/Stasis - Bone Totem (USA).jpg
+assets.screenshot: Screenshot/Stasis - Bone Totem (USA).jpg
+x-url: https://store.epicgames.com/en-US/p/stasis-bone-totem-ca8320
 x-co-op: No
 x-playable: Yes
 
