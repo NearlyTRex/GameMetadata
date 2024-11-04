@@ -1100,6 +1100,42 @@ x-co-op: No
 x-playable: Yes
 
 
+game: DreadOut 2 (USA)
+file: Computer/Amazon Games/D/DreadOut 2 (USA)/DreadOut 2 (USA).json
+developer: Digital Happiness
+publisher: Digital Happiness
+genre: Horror
+description:
+  DreadOut 2 is a third-person horror adventure that draws inspiration from
+  Indonesian folklore and urban legend. Play as Linda Meillinda, a high school
+  student with supernatural power - the ability to sense and see ghosts.
+  .
+  With the aid of her trusty smartphone, Linda must hunt the nightmarish spirits
+  and dark forces that threaten not only her hometown, but all of mankind. This
+  spine-chilling sequel expands on the cult hit original with all-new melee combat
+  and a greater emphasis on exploration, making DreadOut 2 another compelling and
+  terrifying addition to the horror genre.
+  .
+  FEATURES:
+  .
+  SURVIVAL ACTION-HORROR
+  .
+  DreadOut 2 will be utilizing a mixed improved mechanic of our previous DreadOut
+  along with a new combat-oriented mechanic.
+  .
+  Banish them all! DreadOut-style smartphone ghost hunting is back. Hunt and
+  defeat intangible ghosts with Linda's smartphone camera, or use melee weapons
+  and projectiles against physical ghosts
+release: 2020-02-21
+players: 1
+assets.boxfront: BoxFront/DreadOut 2 (USA).jpg
+assets.boxback: BoxBack/DreadOut 2 (USA).jpg
+assets.background: Background/DreadOut 2 (USA).jpg
+assets.screenshot: Screenshot/DreadOut 2 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Driftland - The Magic Revival (USA)
 file: Computer/Amazon Games/D/Driftland - The Magic Revival (USA)/Driftland - The Magic Revival (USA).json
 developer: Star Drifters
@@ -1285,6 +1321,61 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Gap, The (USA)
+file: Computer/Amazon Games/G/Gap, The (USA)/Gap, The (USA).json
+developer: Label This
+publisher: Label This
+genre: Adventure
+description:
+  The Gap tells a story of one man's struggle to find a cure for his family's
+  illness through the exploration of parallel realities which include memories
+  dear to his heart, forcing him to dive deeper into his psyche.
+  .
+  Joshua Hayes is a neuroscientist, whose family is affected by a rare
+  neurological disorder that slowly eats away at one's capability and mental well-
+  being. The struggle and fight of the family is witnessed through the lens of his
+  highest and lowest moments. While exploring the raw, minimalist spaces, he comes
+  across items that act as gateways to his past.
+  .
+  Moreover, while taking part in an experimental neuroscientific program, led by a
+  biotech giant - Neuraxis, Joshua unknowingly finds himself entangled in a
+  corporate intrigue.
+  .
+  In hopes of unraveling the web of memories, he'll need to face a distressing
+  question - can he really trust himself?
+release: 2023-10-19
+players: 1
+assets.boxfront: BoxFront/Gap, The (USA).jpg
+assets.boxback: BoxBack/Gap, The (USA).jpg
+assets.background: Background/Gap, The (USA).jpg
+assets.screenshot: Screenshot/Gap, The (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Gargoyles Remastered (USA)
+file: Computer/Amazon Games/G/Gargoyles Remastered (USA)/Gargoyles Remastered (USA).json
+developer: Empty Clip Studios
+publisher: Disney Interactive
+genre: Action;Adventure;Platform
+description:
+  Gargoyles Remastered is an artfully crafted revival of the '90s classic 16-bit
+  side-scrolling platform adventure. Relive the epic journey of Goliath and the
+  Gargoyles featuring enhanced visuals, animations, and SFX, all inspired by the
+  acclaimed animated series. The world of Gargoyles comes to life with a level of
+  detail that will thrill fans of the animated series and retro gaming enthusiasts
+  alike. Experience classic gameplay that stays authentic to its predecessor while
+  including new features such as achievements, gameplay rewind, and more!
+release: 2023-10-18
+players: 1
+assets.boxfront: BoxFront/Gargoyles Remastered (USA).jpg
+assets.boxback: BoxBack/Gargoyles Remastered (USA).jpg
+assets.background: Background/Gargoyles Remastered (USA).jpg
+assets.screenshot: Screenshot/Gargoyles Remastered (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Genesis Noir (USA)
 file: Computer/Amazon Games/G/Genesis Noir (USA)/Genesis Noir (USA).json
 developer: Feral Cat Den
@@ -1359,6 +1450,28 @@ assets.boxfront: BoxFront/Grime - Definitive Edition (USA).jpg
 assets.boxback: BoxBack/Grime - Definitive Edition (USA).jpg
 assets.background: Background/Grime - Definitive Edition (USA).jpg
 assets.screenshot: Screenshot/Grime - Definitive Edition (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Haunted Hotel - Personal Nightmare Collector's Edition (USA)
+file: Computer/Amazon Games/H/Haunted Hotel - Personal Nightmare Collector's Edition (USA)/Haunted Hotel - Personal Nightmare Collector's Edition (USA).json
+developer: Elephant Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  After 20 years, you receive a letter about your missing mom and sister. Answers
+  are waiting at the Freedom Hotel. When you arrive, you quickly find that nothing
+  at the hotel is as it seems as your fears spring to life!
+  .
+  Can you overcome them to save your family in time? Find out in this spine-
+  tingling hidden-object puzzle adventure!
+release: 2017-05-25
+players: 1
+assets.boxfront: BoxFront/Haunted Hotel - Personal Nightmare Collector's Edition (USA).jpg
+assets.boxback: BoxBack/Haunted Hotel - Personal Nightmare Collector's Edition (USA).jpg
+assets.background: Background/Haunted Hotel - Personal Nightmare Collector's Edition (USA).jpg
+assets.screenshot: Screenshot/Haunted Hotel - Personal Nightmare Collector's Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1797,6 +1910,57 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Through the Darkest of Times (USA)
+file: Computer/Amazon Games/T/Through the Darkest of Times (USA)/Through the Darkest of Times (USA).json
+developer: Paintbucket Games
+publisher: HandyGames
+genre: Adventure;Strategy
+description:
+  Dark times mean fear and risks. The risk to be caught by patrolling National
+  Socialists, looking for people who publicly stand against their point of view.
+  The risk of being beaten up or even killed by the German military because we're
+  opposing the regime. The risk of losing everything, including our loved ones.
+  This is how we live. This is how we try to survive. Through the darkest of
+  times.
+  .
+  You are the leader of a small resistance group in 1933's Berlin, of ordinary
+  people, from Jews to Catholics and Communists to Patriots who simply can't stand
+  aside. Your goal is to deal with small blows to the regime - dropping leaflets
+  to spread awareness about what the Nazis are really up to among the people,
+  painting messages on walls, sabotaging, gathering information and recruiting
+  more followers. And all of that while staying undercover - if the regime's
+  forces learn about your group, the life of each member is in grave danger.
+  .
+  Through the Darkest of Times is a historical resistance strategy game, focusing
+  on conveying the somber mood of the period and the very real struggles of
+  average people living in the 3rd Reich. Historical accuracy means that your
+  small group of resistance fighters will not change the outcome of the war, nor
+  will you prevent all of the Nazi's atrocities, but you can certainly do
+  everything in your power to save as many lives as you can and oppose the fascist
+  system wherever possible.
+  .
+  Features:
+  .
+  Experience the Darkest of Times in 4 chapters
+  .
+  Fight for freedom, weaken the regime and lead your resistance group
+  .
+  Plan activities, find collaborators and try not to get caught
+  .
+  Feel the weight of responsibility as you make difficult decisions and face the
+  dire consequences
+  .
+  Beautifully illustrated expressionistic scenes and events
+release: 2020-01-30
+players: 1
+assets.boxfront: BoxFront/Through the Darkest of Times (USA).jpg
+assets.boxback: BoxBack/Through the Darkest of Times (USA).jpg
+assets.background: Background/Through the Darkest of Times (USA).jpg
+assets.screenshot: Screenshot/Through the Darkest of Times (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Tiny Robots Recharged (USA)
 file: Computer/Amazon Games/T/Tiny Robots Recharged (USA)/Tiny Robots Recharged (USA).json
 developer: Big Loop Studios
@@ -1934,6 +2098,84 @@ assets.boxfront: BoxFront/Youtubers Life 2 (USA).jpg
 assets.boxback: BoxBack/Youtubers Life 2 (USA).jpg
 assets.background: Background/Youtubers Life 2 (USA).jpg
 assets.screenshot: Screenshot/Youtubers Life 2 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Zombies Ate My Neighbors and Ghoul Patrol (USA)
+file: Computer/Amazon Games/Z/Zombies Ate My Neighbors and Ghoul Patrol (USA)/Zombies Ate My Neighbors and Ghoul Patrol (USA).json
+developer: DotEmu
+publisher: Disney Software | LucasFilm Games
+genre: Action;Adventure;Shooter
+description:
+  The cult classic Zombies Ate My Neighbors and its sequel make their long awaited
+  return in Zombies Ate My Neighbors and Ghoul Patrol! Play these classics from
+  the golden age of 16-bit gaming with new enhancements and never before seen
+  museum features.
+  .
+  Zombies Ate My Neighbors
+  .
+  Hey, where's that scary music coming from? Yikes! It's Zombies Ate My Neighbors,
+  where you appear in every demented horror flick ever to make you hurl ju-jubes.
+  .
+  What are Zeke and Julie, our two wholesome teenage stars doing in a 16-bit game
+  like this?! Trying to save the nice neighbors, cheerleaders and babies from a
+  fate worse than polyester!
+  .
+  Who could put this SLICE of suburbia in such goose-pimply hysteria? Zombies,
+  relentless Chainsaw Maniacs, Mummies, Evil Dolls that just won't die, Lizard
+  Men, Blobs, Vampires, Giant Ants, Martians and more.
+  .
+  Will these crazy kids survive the night? Find your way through 55 horror-filled
+  levels like a grocery store gone bad, a shopping mall awry, a mysterious island
+  and your own back yard. Don't miss "Weird Kids on the Block", "Mars Needs
+  Cheerleaders" and "Dances With Werewolves".
+  .
+  You can fend off the freaks with a virtual candy counter of weapons like uzi
+  squirt guns, exploding soda pop, bazookas, weed wackers and ancient artifacts.
+  Also grab power ups-o-rama like secret potions and bobo clown decoys. Does this
+  game ever end?!
+  .
+  Ghoul Patrol
+  .
+  Zeke and Julie, our intrepid teenagers, visit the Ghosts and Ghouls exhibit at
+  the city library, where they find an old treasure chest containing an ancient
+  spirit book. Naturally, they cannot resist reading it. Suddenly, a horrific
+  snaggle-toothed spirit emerges.
+  .
+  Now, this snarling phantom and his dastardly minions are infesting Metropolis
+  and slithering their way into the history books, where they plan to rewrite
+  history with their spooky ways. Only you have the power to go back in time to
+  de-spook an encyclopedia of zombified historic dudes.
+  .
+  Terminate, with prejudice, using crossbows, ping-pong ball machine guns, Martian
+  "Heatseeker" guns, and more.
+  .
+  Vaporize garbage can ghosts and ninja spirits, rescue bug-eyed librarians and
+  wigged-out pirates, dodge flying books and adolescent-eating plants!
+  .
+  Only our two heroes have the power to get the mighty beastly spirit back into
+  his book and stop the madness. Ghoul Patrol to the rescue!
+  .
+  NEW FEATURES
+  .
+  * Save Feature: Quickly save your progress in either game and continue your
+  adventure wherever and whenever you want
+  .
+  * Museum Features: Watch a video interview with one of the original Zombies'
+  developers or explore numerous galleries containing game art, previously
+  unreleased concept images and marketing assets
+  .
+  * 2 Player Mode: Play the game with two player local co-op
+  .
+  * Achievements: Track your game progress with a set of achievements covering
+  both games
+release: 2021-06-29
+players: 1
+assets.boxfront: BoxFront/Zombies Ate My Neighbors and Ghoul Patrol (USA).jpg
+assets.boxback: BoxBack/Zombies Ate My Neighbors and Ghoul Patrol (USA).jpg
+assets.background: Background/Zombies Ate My Neighbors and Ghoul Patrol (USA).jpg
+assets.screenshot: Screenshot/Zombies Ate My Neighbors and Ghoul Patrol (USA).jpg
 x-co-op: No
 x-playable: Yes
 
