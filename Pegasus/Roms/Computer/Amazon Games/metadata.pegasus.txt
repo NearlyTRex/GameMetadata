@@ -1040,6 +1040,30 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Bang Bang Racing (USA)
+file: Computer/Amazon Games/B/Bang Bang Racing (USA)/Bang Bang Racing (USA).json
+developer: Digital Reality
+publisher: Digital Reality
+genre: Racing;Arcade;Automobile
+description:
+  Bang Bang Racing is the complete racing experience - speed your way along every
+  course while fine-tuning your technical driving skills. The intuitive control
+  system and the exciting tracks provide endless fun for every member of the
+  family.
+  .
+  Be fast, be furious and be one step ahead of your competitors by finding
+  shortcuts, repairing your car in the pit lane, dominating your opponents from
+  the top-down view and more!
+release: 2012-06-08
+players: 1
+assets.boxfront: BoxFront/Bang Bang Racing (USA).jpg
+assets.boxback: BoxBack/Bang Bang Racing (USA).jpg
+assets.background: Background/Bang Bang Racing (USA).jpg
+assets.screenshot: Screenshot/Bang Bang Racing (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Beholder 3 (USA)
 file: Computer/Amazon Games/B/Beholder 3 (USA)/Beholder 3 (USA).json
 developer: Paintbucket Games
@@ -1195,6 +1219,27 @@ assets.boxfront: BoxFront/Dexter Stardust - Adventures in Outer Space (USA).jpg
 assets.boxback: BoxBack/Dexter Stardust - Adventures in Outer Space (USA).jpg
 assets.background: Background/Dexter Stardust - Adventures in Outer Space (USA).jpg
 assets.screenshot: Screenshot/Dexter Stardust - Adventures in Outer Space (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Disney-Pixar Cars (USA)
+file: Computer/Amazon Games/D/Disney-Pixar Cars (USA)/Disney-Pixar Cars (USA).json
+developer: Beenox Studios
+publisher: THQ
+genre: Racing
+description:
+  The official game of the Disney/Pixar movie! Go beyond the limited exploration
+  of the activity center program with totally free-wheelin' TOTAL exploration of
+  the vast world of 'Radiator Springs'! 10 characters straight from the movie with
+  an all-new plot will keep you delighted for many hours! Rated 'E' entertainment
+  that's wonderful fun for the whole family!
+release: 2006-07-06
+players: 1
+assets.boxfront: BoxFront/Disney-Pixar Cars (USA).jpg
+assets.boxback: BoxBack/Disney-Pixar Cars (USA).jpg
+assets.background: Background/Disney-Pixar Cars (USA).jpg
+assets.screenshot: Screenshot/Disney-Pixar Cars (USA).jpg
 x-co-op: No
 x-playable: Yes
 
