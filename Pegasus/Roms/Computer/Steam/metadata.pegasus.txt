@@ -3094,6 +3094,7 @@ assets.boxfront: BoxFront/Crazy Taxi (USA).jpg
 assets.boxback: BoxBack/Crazy Taxi (USA).jpg
 assets.background: Background/Crazy Taxi (USA).jpg
 assets.screenshot: Screenshot/Crazy Taxi (USA).jpg
+assets.video: Video/Crazy Taxi (USA).mp4
 x-url: https://store.steampowered.com/app/71230
 x-co-op: No
 x-playable: Yes
@@ -6987,6 +6988,7 @@ assets.boxfront: BoxFront/Haunted Hotel - Phoenix (USA).jpg
 assets.boxback: BoxBack/Haunted Hotel - Phoenix (USA).jpg
 assets.background: Background/Haunted Hotel - Phoenix (USA).jpg
 assets.screenshot: Screenshot/Haunted Hotel - Phoenix (USA).jpg
+assets.video: Video/Haunted Hotel - Phoenix (USA).mp4
 x-url: https://store.steampowered.com/app/2563430
 x-co-op: No
 x-playable: Yes
@@ -7614,6 +7616,7 @@ assets.boxfront: BoxFront/Indiana Jones and the Emperor's Tomb (USA).jpg
 assets.boxback: BoxBack/Indiana Jones and the Emperor's Tomb (USA).jpg
 assets.background: Background/Indiana Jones and the Emperor's Tomb (USA).jpg
 assets.screenshot: Screenshot/Indiana Jones and the Emperor's Tomb (USA).jpg
+assets.video: Video/Indiana Jones and the Emperor's Tomb (USA).mp4
 x-url: https://store.steampowered.com/app/560430
 x-co-op: No
 x-playable: Yes
@@ -7646,6 +7649,7 @@ assets.boxfront: BoxFront/Indiana Jones and the Fate of Atlantis (USA).jpg
 assets.boxback: BoxBack/Indiana Jones and the Fate of Atlantis (USA).jpg
 assets.background: Background/Indiana Jones and the Fate of Atlantis (USA).jpg
 assets.screenshot: Screenshot/Indiana Jones and the Fate of Atlantis (USA).jpg
+assets.video: Video/Indiana Jones and the Fate of Atlantis (USA).mp4
 x-url: https://store.steampowered.com/app/6010
 x-co-op: No
 x-playable: Yes
@@ -7684,6 +7688,7 @@ assets.boxfront: BoxFront/Indiana Jones and the Infernal Machine (USA).jpg
 assets.boxback: BoxBack/Indiana Jones and the Infernal Machine (USA).jpg
 assets.background: Background/Indiana Jones and the Infernal Machine (USA).jpg
 assets.screenshot: Screenshot/Indiana Jones and the Infernal Machine (USA).jpg
+assets.video: Video/Indiana Jones and the Infernal Machine (USA).mp4
 x-url: https://store.steampowered.com/app/904540
 x-co-op: No
 x-playable: Yes
@@ -7720,6 +7725,7 @@ assets.boxfront: BoxFront/Indiana Jones and the Last Crusade (USA).jpg
 assets.boxback: BoxBack/Indiana Jones and the Last Crusade (USA).jpg
 assets.background: Background/Indiana Jones and the Last Crusade (USA).jpg
 assets.screenshot: Screenshot/Indiana Jones and the Last Crusade (USA).jpg
+assets.video: Video/Indiana Jones and the Last Crusade (USA).mp4
 x-url: https://store.steampowered.com/app/32310
 x-co-op: No
 x-playable: Yes
@@ -9317,6 +9323,38 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Luma Island (USA)
+file: Computer/Steam/L/Luma Island (USA)/Luma Island (USA).json
+developer: Feel Free Games
+publisher: Feel Free Games
+genre: Adventure;Casual;Indie;RPG;Simulation
+description:
+  Go solo or play with up to 4 friends and family members, this island is yours to
+  discover!
+  .
+  Begin your extraordinary journey in a humble old caravan and rise to the grand
+  achievement of building a majestic manor that you can proudly call your home.
+  .
+  Traverse the island solving quests and helping the locals through their
+  struggles. Dangerous spider caves, ancient temples, mind-bending puzzles and
+  hidden treasures await you!
+  .
+  Pick from seven unique in-depth professions each with its own progression path.
+  .
+  Upgrade your tools to gather rare materials and collaborate with your teammates
+  to become the masters of your crafts.
+release: 2024-11-20
+players: 1
+assets.boxfront: BoxFront/Luma Island (USA).jpg
+assets.boxback: BoxBack/Luma Island (USA).jpg
+assets.background: Background/Luma Island (USA).jpg
+assets.screenshot: Screenshot/Luma Island (USA).jpg
+assets.video: Video/Luma Island (USA).mp4
+x-url: https://store.steampowered.com/app/2408820
+x-co-op: No
+x-playable: Yes
+
+
 game: MANOS - The Hands of Fate - Director's Cut (USA)
 file: Computer/Steam/M/MANOS - The Hands of Fate - Director's Cut (USA)/MANOS - The Hands of Fate - Director's Cut (USA).json
 developer: FreakZone
@@ -10176,6 +10214,7 @@ assets.boxfront: BoxFront/Murder of Sonic the Hedgehog, The (USA).jpg
 assets.boxback: BoxBack/Murder of Sonic the Hedgehog, The (USA).jpg
 assets.background: Background/Murder of Sonic the Hedgehog, The (USA).jpg
 assets.screenshot: Screenshot/Murder of Sonic the Hedgehog, The (USA).jpg
+assets.video: Video/Murder of Sonic the Hedgehog, The (USA).mp4
 x-url: https://store.steampowered.com/app/2324650
 x-co-op: No
 x-playable: Yes
@@ -10474,6 +10513,7 @@ assets.boxfront: BoxFront/NiGHTS into Dreams (USA).jpg
 assets.boxback: BoxBack/NiGHTS into Dreams (USA).jpg
 assets.background: Background/NiGHTS into Dreams (USA).jpg
 assets.screenshot: Screenshot/NiGHTS into Dreams (USA).jpg
+assets.video: Video/NiGHTS into Dreams (USA).mp4
 x-url: https://store.steampowered.com/app/219950
 x-co-op: No
 x-playable: Yes
@@ -13992,6 +14032,7 @@ assets.boxfront: BoxFront/Sonic Adventure DX (USA).jpg
 assets.boxback: BoxBack/Sonic Adventure DX (USA).jpg
 assets.background: Background/Sonic Adventure DX (USA).jpg
 assets.screenshot: Screenshot/Sonic Adventure DX (USA).jpg
+assets.video: Video/Sonic Adventure DX (USA).mp4
 x-url: https://store.steampowered.com/app/71250
 x-co-op: No
 x-playable: Yes
@@ -14071,6 +14112,7 @@ assets.boxfront: BoxFront/Space Channel 5 - Part 2 (USA).jpg
 assets.boxback: BoxBack/Space Channel 5 - Part 2 (USA).jpg
 assets.background: Background/Space Channel 5 - Part 2 (USA).jpg
 assets.screenshot: Screenshot/Space Channel 5 - Part 2 (USA).jpg
+assets.video: Video/Space Channel 5 - Part 2 (USA).mp4
 x-url: https://store.steampowered.com/app/71260
 x-co-op: No
 x-playable: Yes
