@@ -110,6 +110,7 @@ assets.boxfront: BoxFront/9 Years of Shadows (USA).jpg
 assets.boxback: BoxBack/9 Years of Shadows (USA).jpg
 assets.background: Background/9 Years of Shadows (USA).jpg
 assets.screenshot: Screenshot/9 Years of Shadows (USA).jpg
+assets.video: Video/9 Years of Shadows (USA).mp4
 x-url: https://www.gog.com/en/game/9_years_of_shadows
 x-co-op: No
 x-playable: Yes
@@ -413,6 +414,7 @@ assets.boxfront: BoxFront/Alone in the Dark Remake (USA).jpg
 assets.boxback: BoxBack/Alone in the Dark Remake (USA).jpg
 assets.background: Background/Alone in the Dark Remake (USA).jpg
 assets.screenshot: Screenshot/Alone in the Dark Remake (USA).jpg
+assets.video: Video/Alone in the Dark Remake (USA).mp4
 x-url: https://www.gog.com/en/game/alone_in_the_dark
 x-co-op: No
 x-playable: Yes
@@ -676,6 +678,7 @@ assets.boxfront: BoxFront/Arcade Paradise (USA).jpg
 assets.boxback: BoxBack/Arcade Paradise (USA).jpg
 assets.background: Background/Arcade Paradise (USA).jpg
 assets.screenshot: Screenshot/Arcade Paradise (USA).jpg
+assets.video: Video/Arcade Paradise (USA).mp4
 x-url: https://www.gog.com/en/game/arcade_paradise
 x-co-op: No
 x-playable: Yes
@@ -1416,6 +1419,7 @@ assets.boxfront: BoxFront/Betrayer (USA).jpg
 assets.boxback: BoxBack/Betrayer (USA).jpg
 assets.background: Background/Betrayer (USA).jpg
 assets.screenshot: Screenshot/Betrayer (USA).jpg
+assets.video: Video/Betrayer (USA).mp4
 x-url: https://www.gog.com/en/game/betrayer
 x-co-op: No
 x-playable: Yes
@@ -1848,6 +1852,80 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Blade of Darkness (USA)
+file: Computer/GOG/B/Blade of Darkness (USA)/Blade of Darkness (USA).json
+developer: Rebel Act Studios, Fire Falcom, General Arcade
+publisher: SNEG
+genre: Role-playing;Action;Fantasy
+description:
+  A grim new threat looms over The Central Kingdoms. The borders protected by the
+  fierce King's Knights are no longer secure. The fearsome orc clans, more
+  numerous than ever, lurk on all roads. The proud nomadic peoples of the steppes
+  are on the alert, for strange beasts prowl the darkness. Not even the stout
+  dwarves, hidden in their underground palaces, seem safe from threat - from the
+  unknown tunnels of its mines, a foul army of hideous creatures advances
+  inexorably.
+  .
+  Chaos seizes the World. Only the memory of the oldest recalls the exploits of a
+  hero and a few warriors, who in other times fought against the forces of Chaos.
+  Ianna, the mother of all living beings, gave the hero a powerful sword to enter
+  the abyss and defeat evil. But that happened a long time ago. A new hero is
+  needed, a chosen one who is worthy to wield the Sword and destroy the enemy...
+  this time forever.
+  .
+  FOUR PLAYABLE CHARACTERS
+  .
+  Pick your Champion of Ianna - Tukaram, the Barbarian; Naglfar, the Dwarf;
+  Sargon, the Knight; or Zoe, the Amazon - each with unique strengths, weaknesses,
+  and fighting skills, as you hack 'n slash your way through a blood-drenched
+  quest to save the world from the forces of Chaos.
+  .
+  BLOODY & GORY COMBAT
+  .
+  Learn devastating combo attacks and use them to slice your opponents into
+  pieces. Hack off your foes' limbs, then use them as weapons!
+  .
+  A DETAILED & DARK FANTASY WORLD
+  .
+  Battle orcs, trolls, golems, demons, skeletons, and scores of malevolent enemy
+  creatures as you explore treacherous tombs, frozen fortresses, demon spires,
+  deserts, temples, and palaces.
+  .
+  INTERACTIVE ENVIRONMENTS
+  .
+  Destroy in-game objects with fire or your fists as you solve puzzles and disarm
+  traps that combine physics, hydraulic systems, and lethal traps!
+  .
+  NEW HD GRAPHICS FOR A GENRE-DEFINING GAME
+  .
+  We are happy to bring Blade of Darkness back to life, now in full HD. It's an
+  enduring classic that, at the time of its release, inspired many games in the
+  action-adventure genre through its approach to combat. With this edition we've
+  re-engineered the game to work on modern PC hardware, upscaled the textures,
+  added widescreen support up to 4K resolution, improved anti-aliasing, HDR,
+  bloom, motion blur, reworked camera, added gamepad support and improved its
+  overall stability. At the same time, the gameplay, content, and the story are
+  untouched - featuring all the game's quirks and charm.
+  .
+  Includes original Legacy version of the game with partial Windows 10
+  compatibility.
+  .
+  You can access the Legacy Build through Additional Executables section in GOG
+  GALAXY or find it in the game folder.
+  .
+  SNEG Ltd. All rights reserved.
+release: 2021-10-07
+players: 1
+assets.boxfront: BoxFront/Blade of Darkness (USA).jpg
+assets.boxback: BoxBack/Blade of Darkness (USA).jpg
+assets.background: Background/Blade of Darkness (USA).jpg
+assets.screenshot: Screenshot/Blade of Darkness (USA).jpg
+assets.video: Video/Blade of Darkness (USA).mp4
+x-url: https://www.gog.com/en/game/blade_of_darkness_base
+x-co-op: No
+x-playable: Yes
+
+
 game: Blades of Avernum (USA)
 file: Computer/GOG/B/Blades of Avernum (USA)/Blades of Avernum (USA).json
 developer: Spiderweb Software
@@ -1928,6 +2006,7 @@ assets.boxfront: BoxFront/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).j
 assets.boxback: BoxBack/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).jpg
 assets.background: Background/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).jpg
 assets.screenshot: Screenshot/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).jpg
+assets.video: Video/Blast Brigade vs. the Evil Legion of Dr. Cread (USA).mp4
 x-url: https://www.gog.com/en/game/blast_brigade_vs_the_evil_legion_of_dr_cread
 x-co-op: No
 x-playable: Yes
@@ -2163,6 +2242,7 @@ assets.boxfront: BoxFront/Book of Demons (USA).jpg
 assets.boxback: BoxBack/Book of Demons (USA).jpg
 assets.background: Background/Book of Demons (USA).jpg
 assets.screenshot: Screenshot/Book of Demons (USA).jpg
+assets.video: Video/Book of Demons (USA).mp4
 x-url: https://www.gog.com/en/game/book_of_demons
 x-co-op: No
 x-playable: Yes
@@ -2270,6 +2350,7 @@ assets.boxfront: BoxFront/Bullet Runner - The First Slaughter (USA).jpg
 assets.boxback: BoxBack/Bullet Runner - The First Slaughter (USA).jpg
 assets.background: Background/Bullet Runner - The First Slaughter (USA).jpg
 assets.screenshot: Screenshot/Bullet Runner - The First Slaughter (USA).jpg
+assets.video: Video/Bullet Runner - The First Slaughter (USA).mp4
 x-url: https://www.gog.com/en/game/bullet_runner_the_first_slaughter
 x-co-op: No
 x-playable: Yes
@@ -2445,6 +2526,7 @@ assets.boxfront: BoxFront/Call of Juarez (USA).jpg
 assets.boxback: BoxBack/Call of Juarez (USA).jpg
 assets.background: Background/Call of Juarez (USA).jpg
 assets.screenshot: Screenshot/Call of Juarez (USA).jpg
+assets.video: Video/Call of Juarez (USA).mp4
 x-url: https://www.gog.com/en/game/call_of_juarez
 x-co-op: No
 x-playable: Yes
@@ -2487,6 +2569,7 @@ assets.boxfront: BoxFront/Call of Juarez - Bound in Blood (USA).jpg
 assets.boxback: BoxBack/Call of Juarez - Bound in Blood (USA).jpg
 assets.background: Background/Call of Juarez - Bound in Blood (USA).jpg
 assets.screenshot: Screenshot/Call of Juarez - Bound in Blood (USA).jpg
+assets.video: Video/Call of Juarez - Bound in Blood (USA).mp4
 x-url: https://www.gog.com/en/game/call_of_juarez_bound_in_blood
 x-co-op: No
 x-playable: Yes
@@ -2605,6 +2688,7 @@ assets.boxfront: BoxFront/Cat Quest II (USA).jpg
 assets.boxback: BoxBack/Cat Quest II (USA).jpg
 assets.background: Background/Cat Quest II (USA).jpg
 assets.screenshot: Screenshot/Cat Quest II (USA).jpg
+assets.video: Video/Cat Quest II (USA).mp4
 x-url: https://www.gog.com/en/game/cat_quest_ii
 x-co-op: No
 x-playable: Yes
@@ -2629,6 +2713,7 @@ assets.boxfront: BoxFront/Cats Hidden in Paris (USA).jpg
 assets.boxback: BoxBack/Cats Hidden in Paris (USA).jpg
 assets.background: Background/Cats Hidden in Paris (USA).jpg
 assets.screenshot: Screenshot/Cats Hidden in Paris (USA).jpg
+assets.video: Video/Cats Hidden in Paris (USA).mp4
 x-url: https://www.gog.com/en/game/cats_hidden_in_paris
 x-co-op: No
 x-playable: Yes
@@ -2699,6 +2784,69 @@ assets.background: Background/Cayne (USA).jpg
 assets.screenshot: Screenshot/Cayne (USA).jpg
 assets.video: Video/Cayne (USA).mp4
 x-url: https://www.gog.com/en/game/cayne
+x-co-op: No
+x-playable: Yes
+
+
+game: Chasm - The Rift (USA)
+file: Computer/GOG/C/Chasm - The Rift (USA)/Chasm - The Rift (USA).json
+developer: Action Forms, General Arcade
+publisher: SNEG
+genre: Shooter;FPP;Fantasy
+description:
+  Having its roots in 1997 and developed in Ukraine, Chasm: The Rift is one of the
+  most thrilling and innovative FPS from this era and the first Eastern European
+  boomer shooter ever made.
+  .
+  THE STORY
+  .
+  Feeling you are no longer alone, you turn, with just enough time to shoot,
+  killing the mutation charging mercilessly toward you. You begin to sense an
+  eerie feeling of fear in the air, but your skin crawls as you realize it's your
+  own...What was that thing?
+  .
+  Again and again you shoot, battling more strange beasts; all grotesque mutations
+  of creatures you once knew. Suddenly the inexplicable becomes clear. Time
+  channels have formed in the Earth's atmosphere, turning once normal life forms
+  into something they were never meant to be. As part of a special commando unit,
+  you must not only ward off and eradicate the beasts, but destroy the time
+  channels to finally rid the Earth of these deadly mutations.
+  .
+  GAMEPLAY
+  .
+  Along with a heart-pounding adventure through the Corridors of Time and the
+  satisfaction of ripping limbs from hideous monsters with the iconic BladeGun,
+  and an innovative weather system, the player will now be able to enjoy this late
+  90's FPS classic with the comfort of modern PCs, now with full 4K support,
+  improved sound design, achievements, and localised into twelve languages.
+  .
+  GAME FEATURES
+  .
+  - Blow off monsters' limbs even as they continue to attack with remaining
+  appendages
+  .
+  - Different effects including water, rain, snow, wind, smoke, dust, sparks,
+  explosions and distant fades
+  .
+  - Awesome array of weapons, including unique Blade Gun
+  .
+  - Enhanced graphics with full 4K support
+  .
+  - Improved sound design
+  .
+  BONUS
+  .
+  The original Chasm: The Rift version powered by DOSBox is included as a bonus.
+  .
+  SNEG Ltd. All rights reserved.
+release: 2022-10-10
+players: 1
+assets.boxfront: BoxFront/Chasm - The Rift (USA).jpg
+assets.boxback: BoxBack/Chasm - The Rift (USA).jpg
+assets.background: Background/Chasm - The Rift (USA).jpg
+assets.screenshot: Screenshot/Chasm - The Rift (USA).jpg
+assets.video: Video/Chasm - The Rift (USA).mp4
+x-url: https://www.gog.com/en/game/chasmtherift
 x-co-op: No
 x-playable: Yes
 
@@ -2828,6 +2976,7 @@ assets.boxfront: BoxFront/Close To The Sun (USA).jpg
 assets.boxback: BoxBack/Close To The Sun (USA).jpg
 assets.background: Background/Close To The Sun (USA).jpg
 assets.screenshot: Screenshot/Close To The Sun (USA).jpg
+assets.video: Video/Close To The Sun (USA).mp4
 x-url: https://www.gog.com/en/game/close_to_the_sun
 x-co-op: No
 x-playable: Yes
@@ -3009,6 +3158,7 @@ assets.boxfront: BoxFront/Coromon (USA).jpg
 assets.boxback: BoxBack/Coromon (USA).jpg
 assets.background: Background/Coromon (USA).jpg
 assets.screenshot: Screenshot/Coromon (USA).jpg
+assets.video: Video/Coromon (USA).mp4
 x-url: https://www.gog.com/en/game/coromon
 x-co-op: No
 x-playable: Yes
@@ -3102,6 +3252,7 @@ assets.boxfront: BoxFront/Crusader Kings II (USA).jpg
 assets.boxback: BoxBack/Crusader Kings II (USA).jpg
 assets.background: Background/Crusader Kings II (USA).jpg
 assets.screenshot: Screenshot/Crusader Kings II (USA).jpg
+assets.video: Video/Crusader Kings II (USA).mp4
 x-url: https://www.gog.com/en/game/crusader_kings_ii
 x-co-op: No
 x-playable: Yes
@@ -3192,6 +3343,7 @@ assets.boxfront: BoxFront/Crystal Caves HD (USA).jpg
 assets.boxback: BoxBack/Crystal Caves HD (USA).jpg
 assets.background: Background/Crystal Caves HD (USA).jpg
 assets.screenshot: Screenshot/Crystal Caves HD (USA).jpg
+assets.video: Video/Crystal Caves HD (USA).mp4
 x-url: https://www.gog.com/en/game/crystal_caves_hd
 x-co-op: No
 x-playable: Yes
@@ -3203,26 +3355,6 @@ developer: Chuhai Labs
 publisher: Thunderful Publishing
 genre: Sports;Adventure;Roguelike
 description:
-  THE PRESS ABOUT CURSED TO GOLF:
-  .
-  "The Dark Souls of side-scrolling golf roguelikes is quite the pitch, but Cursed
-  to Golf looks like it'll pull that premise off."
-  .
-  Polygon - 50 most anticipated games of 2022
-  .
-  "Golf in a series of platforming dungeons? As you battle to escape the
-  underworld? (Or Golf Purgatory, which sounds just as bad.) Power-ups and weird
-  obstacles and a never-ending series of neat gimmicks? Lovely pixelart? Cursed to
-  Golf sounds absolutely wonderful."
-  .
-  Eurogamer - The games we're looking forward to in 2022
-  .
-  "In Cursed to Golf you take on the role of a Golf Champion, trapped in Golf
-  Purgatory after a lightning strike stops you dead in your tracks. To ascend back
-  to the land of the living, you'll need to play through 18 dungeon-like holes."
-  .
-  Nintendo Life - 33 Indie Games We're Excited About On Switch In 2022
-  .
   Play as The Cursed Golfer, trapped in Golf Purgatory after a freak accident
   takes you out as you're about to take the winning shot of an international
   tournament! Legend says that playing through the devious courses across Golf
@@ -3270,6 +3402,7 @@ assets.boxfront: BoxFront/Cursed to Golf (USA).jpg
 assets.boxback: BoxBack/Cursed to Golf (USA).jpg
 assets.background: Background/Cursed to Golf (USA).jpg
 assets.screenshot: Screenshot/Cursed to Golf (USA).jpg
+assets.video: Video/Cursed to Golf (USA).mp4
 x-url: https://www.gog.com/en/game/cursed_to_golf
 x-co-op: No
 x-playable: Yes
@@ -3355,6 +3488,7 @@ assets.boxfront: BoxFront/DOOM + DOOM II (USA).jpg
 assets.boxback: BoxBack/DOOM + DOOM II (USA).jpg
 assets.background: Background/DOOM + DOOM II (USA).jpg
 assets.screenshot: Screenshot/DOOM + DOOM II (USA).jpg
+assets.video: Video/DOOM + DOOM II (USA).mp4
 x-url: https://www.gog.com/en/game/doom_1993_doom_ii
 x-co-op: No
 x-playable: Yes
@@ -3495,6 +3629,7 @@ assets.boxfront: BoxFront/Dark Fall - Ghost Vigil (USA).jpg
 assets.boxback: BoxBack/Dark Fall - Ghost Vigil (USA).jpg
 assets.background: Background/Dark Fall - Ghost Vigil (USA).jpg
 assets.screenshot: Screenshot/Dark Fall - Ghost Vigil (USA).jpg
+assets.video: Video/Dark Fall - Ghost Vigil (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3603,6 +3738,7 @@ assets.boxfront: BoxFront/Dark Fall 3 - Lost Souls (USA).jpg
 assets.boxback: BoxBack/Dark Fall 3 - Lost Souls (USA).jpg
 assets.background: Background/Dark Fall 3 - Lost Souls (USA).jpg
 assets.screenshot: Screenshot/Dark Fall 3 - Lost Souls (USA).jpg
+assets.video: Video/Dark Fall 3 - Lost Souls (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -3636,6 +3772,7 @@ assets.boxfront: BoxFront/Dark Fracture - Prologue (USA).jpg
 assets.boxback: BoxBack/Dark Fracture - Prologue (USA).jpg
 assets.background: Background/Dark Fracture - Prologue (USA).jpg
 assets.screenshot: Screenshot/Dark Fracture - Prologue (USA).jpg
+assets.video: Video/Dark Fracture - Prologue (USA).mp4
 x-url: https://www.gog.com/en/game/dark_fracture_prologue
 x-co-op: No
 x-playable: Yes
@@ -3712,6 +3849,7 @@ assets.boxfront: BoxFront/Darkest Tales, The - Into the Nightmare (USA).jpg
 assets.boxback: BoxBack/Darkest Tales, The - Into the Nightmare (USA).jpg
 assets.background: Background/Darkest Tales, The - Into the Nightmare (USA).jpg
 assets.screenshot: Screenshot/Darkest Tales, The - Into the Nightmare (USA).jpg
+assets.video: Video/Darkest Tales, The - Into the Nightmare (USA).mp4
 x-url: https://www.gog.com/en/game/the_darkest_tales_into_the_nightmare
 x-co-op: No
 x-playable: Yes
@@ -4128,6 +4266,7 @@ assets.boxfront: BoxFront/Devil's Kiss (USA).jpg
 assets.boxback: BoxBack/Devil's Kiss (USA).jpg
 assets.background: Background/Devil's Kiss (USA).jpg
 assets.screenshot: Screenshot/Devil's Kiss (USA).jpg
+assets.video: Video/Devil's Kiss (USA).mp4
 x-url: https://www.gog.com/en/game/devils_kiss
 x-co-op: No
 x-playable: Yes
@@ -4259,6 +4398,7 @@ assets.boxfront: BoxFront/Diluvian Winds - Prologue (USA).jpg
 assets.boxback: BoxBack/Diluvian Winds - Prologue (USA).jpg
 assets.background: Background/Diluvian Winds - Prologue (USA).jpg
 assets.screenshot: Screenshot/Diluvian Winds - Prologue (USA).jpg
+assets.video: Video/Diluvian Winds - Prologue (USA).mp4
 x-url: https://www.gog.com/en/game/diluvian_winds_prologue
 x-co-op: No
 x-playable: Yes
@@ -4352,6 +4492,7 @@ assets.boxfront: BoxFront/Dishonored - Definitive Edition (USA).jpg
 assets.boxback: BoxBack/Dishonored - Definitive Edition (USA).jpg
 assets.background: Background/Dishonored - Definitive Edition (USA).jpg
 assets.screenshot: Screenshot/Dishonored - Definitive Edition (USA).jpg
+assets.video: Video/Dishonored - Definitive Edition (USA).mp4
 x-url: https://www.gog.com/en/game/dishonored_definitive_edition
 x-co-op: No
 x-playable: Yes
@@ -4437,22 +4578,18 @@ developer: id Software
 publisher: NVIDIA SHIELD Partners
 genre: Action;Shooter;First-Person;Arcade
 description:
-  Doom 3 BFG Edition (stylized as D00M 3 BFG EDITION) is a re-release of Doom 3,
-  which was released on October 15, 2012, in Australia, October 16, 2012 in North
-  America, October 19, 2012 in Europe, and November 22, 2012 in Japan for the
-  PC, PlayStation 3, and Xbox 360. The BFG Edition features enhanced graphics,
-  better audio with more horror effects, a checkpoint save system, and support for
-  3D displays and HMDs. The game also includes the previous expansion Resurrection
-  of Evil and a new single-player expansion pack called The Lost Mission.
-  Additionally, it includes copies of the original Doom (the Ultimate Doom edition
-  with the add-on fourth episode, "Thy Flesh Consumed"), and Doom II with the
-  expansion No Rest for the Living, previously available for the Xbox 360. The BFG
-  Edition also features the ability to use the flashlight while holding a weapon,
-  in the form of the so-called armor-mounted flashlight. The PC version of Doom
-  3: BFG Edition requires the Steam client and a valid Steam account for
-  installation, play, and achievements. The source code of Doom 3 BFG Edition '​s
-  engine was released under the GNU General Public License in November 2012. Id
-  Tech has announced that DOOM 3 BFG Edition will be coming for Nvidia's Shield
+  Doom 3 BFG Edition (stylized as D00M 3 BFG EDITION) is a re-release of Doom 3.
+  The BFG Edition features enhanced graphics, better audio with more horror
+  effects, a checkpoint save system, and support for 3D displays and HMDs. The
+  game also includes the previous expansion Resurrection of Evil and a new
+  single-player expansion pack called The Lost Mission. Additionally, it
+  includes copies of the original Doom (the Ultimate Doom edition with the add-on
+  fourth episode, "Thy Flesh Consumed"), and Doom II with the expansion No Rest
+  for the Living, previously available for the Xbox 360. The BFG Edition also
+  features the ability to use the flashlight while holding a weapon, in the
+  form of the so-called armor-mounted flashlight. The source code of Doom 3 BFG
+  Edition'​s engine was released under the GNU General Public License in November
+  2012. Id Tech has announced that DOOM 3 BFG Edition will be coming for Nvidia's Shield
   Console and will be released along with the console. It will be running at 1080p
   60FPS.
 release: 2004-08-03
@@ -4572,6 +4709,7 @@ assets.boxfront: BoxFront/Doom II Enhanced (USA).jpg
 assets.boxback: BoxBack/Doom II Enhanced (USA).jpg
 assets.background: Background/Doom II Enhanced (USA).jpg
 assets.screenshot: Screenshot/Doom II Enhanced (USA).jpg
+assets.video: Video/Doom II Enhanced (USA).mp4
 x-url: https://www.gog.com/en/game/doom_ii_enhanced
 x-co-op: No
 x-playable: Yes
@@ -4793,8 +4931,7 @@ description:
   game developed by Koalabs Studio for Microsoft Windows, OS X, iOS, and
   Android. It was published on all systems by Anuman under their Microïds
   brand. In 2013 the game was released on GOG.com, and in 2014 was bundled with
-  its sequel, Dracula 5: The Blood Legacy. Later in 2014, the bundle was
-  released on Steam.
+  its sequel, Dracula 5: The Blood Legacy.
   .
   The game follows 2000's Dracula: Resurrection and Dracula: The Last
   Sanctuary, and 2008's Dracula 3: The Path of the Dragon. The plot is
@@ -4834,8 +4971,8 @@ description:
   Dracula 5: The Blood Legacy is a 2013 point-and-click adventure video game
   developed by Koalabs Studio for Microsoft Windows, iOS, Android and OS X. It
   was published on all systems by Anuman under their Microïds brand. In 2014,
-  the game was released on GOG.com and Steam, bundled with its prequel, Dracula
-  4: The Shadow of the Dragon.
+  the game was released on GOG.com, bundled with its prequel, Dracula 4: The
+  Shadow of the Dragon.
   .
   The game follows 2000's Dracula: Resurrection and Dracula: The Last
   Sanctuary, 2008's Dracula 3: The Path of the Dragon and 2013's Dracula 4: The
@@ -5014,6 +5151,7 @@ assets.boxfront: BoxFront/Drekirokr - Dusk of the Dragon (USA).jpg
 assets.boxback: BoxBack/Drekirokr - Dusk of the Dragon (USA).jpg
 assets.background: Background/Drekirokr - Dusk of the Dragon (USA).jpg
 assets.screenshot: Screenshot/Drekirokr - Dusk of the Dragon (USA).jpg
+assets.video: Video/Drekirokr - Dusk of the Dragon (USA).mp4
 x-url: https://www.gog.com/en/game/drekirokr_dusk_of_the_dragon
 x-co-op: No
 x-playable: Yes
@@ -5025,8 +5163,6 @@ developer: Magic Games
 publisher: Midwest Games
 genre: Action;Adventure;Roguelike
 description:
-  Duck Paradox Demo is available here.
-  .
   ENTER THE PARADOX
   .
   Navigate the infinite domains of the multiverse as savvy scientist Dr. Paraducks
@@ -5080,6 +5216,7 @@ assets.boxfront: BoxFront/Duck Paradox (USA).jpg
 assets.boxback: BoxBack/Duck Paradox (USA).jpg
 assets.background: Background/Duck Paradox (USA).jpg
 assets.screenshot: Screenshot/Duck Paradox (USA).jpg
+assets.video: Video/Duck Paradox (USA).mp4
 x-url: https://www.gog.com/en/game/duck_paradox
 x-co-op: No
 x-playable: Yes
@@ -5622,6 +5759,7 @@ assets.boxfront: BoxFront/Empires - Dawn of the Modern World (USA).jpg
 assets.boxback: BoxBack/Empires - Dawn of the Modern World (USA).jpg
 assets.background: Background/Empires - Dawn of the Modern World (USA).jpg
 assets.screenshot: Screenshot/Empires - Dawn of the Modern World (USA).jpg
+assets.video: Video/Empires - Dawn of the Modern World (USA).mp4
 x-url: https://www.gog.com/en/game/empires_dawn_of_the_modern_world
 x-co-op: No
 x-playable: Yes
@@ -5694,6 +5832,7 @@ assets.boxfront: BoxFront/En Garde! (USA).jpg
 assets.boxback: BoxBack/En Garde! (USA).jpg
 assets.background: Background/En Garde! (USA).jpg
 assets.screenshot: Screenshot/En Garde! (USA).jpg
+assets.video: Video/En Garde! (USA).mp4
 x-url: https://www.gog.com/en/game/en_garde
 x-co-op: No
 x-playable: Yes
@@ -5721,6 +5860,7 @@ assets.boxfront: BoxFront/Enderal - Forgotten Stories (USA).jpg
 assets.boxback: BoxBack/Enderal - Forgotten Stories (USA).jpg
 assets.background: Background/Enderal - Forgotten Stories (USA).jpg
 assets.screenshot: Screenshot/Enderal - Forgotten Stories (USA).jpg
+assets.video: Video/Enderal - Forgotten Stories (USA).mp4
 x-url: https://www.gog.com/en/game/enderal_forgotten_stories
 x-co-op: No
 x-playable: Yes
@@ -5745,6 +5885,7 @@ assets.boxfront: BoxFront/Endless Sky (USA).jpg
 assets.boxback: BoxBack/Endless Sky (USA).jpg
 assets.background: Background/Endless Sky (USA).jpg
 assets.screenshot: Screenshot/Endless Sky (USA).jpg
+assets.video: Video/Endless Sky (USA).mp4
 x-url: https://www.gog.com/en/game/endless_sky
 x-co-op: No
 x-playable: Yes
@@ -6217,6 +6358,7 @@ assets.boxfront: BoxFront/Falconeer, The (USA).jpg
 assets.boxback: BoxBack/Falconeer, The (USA).jpg
 assets.background: Background/Falconeer, The (USA).jpg
 assets.screenshot: Screenshot/Falconeer, The (USA).jpg
+assets.video: Video/Falconeer, The (USA).mp4
 x-url: https://www.gog.com/en/game/the_falconeer
 x-co-op: No
 x-playable: Yes
@@ -6242,6 +6384,7 @@ assets.boxfront: BoxFront/Fall of Porcupine - Prologue (USA).jpg
 assets.boxback: BoxBack/Fall of Porcupine - Prologue (USA).jpg
 assets.background: Background/Fall of Porcupine - Prologue (USA).jpg
 assets.screenshot: Screenshot/Fall of Porcupine - Prologue (USA).jpg
+assets.video: Video/Fall of Porcupine - Prologue (USA).mp4
 x-url: https://www.gog.com/en/game/fall_of_porcupine_prologue
 x-co-op: No
 x-playable: Yes
@@ -6423,6 +6566,7 @@ assets.boxfront: BoxFront/Fallout - London (USA).jpg
 assets.boxback: BoxBack/Fallout - London (USA).jpg
 assets.background: Background/Fallout - London (USA).jpg
 assets.screenshot: Screenshot/Fallout - London (USA).jpg
+assets.video: Video/Fallout - London (USA).mp4
 x-url: https://www.gog.com/en/game/fallout_london
 x-co-op: No
 x-playable: Yes
@@ -6749,6 +6893,7 @@ assets.boxfront: BoxFront/Feast, The (USA).jpg
 assets.boxback: BoxBack/Feast, The (USA).jpg
 assets.background: Background/Feast, The (USA).jpg
 assets.screenshot: Screenshot/Feast, The (USA).jpg
+assets.video: Video/Feast, The (USA).mp4
 x-url: https://www.gog.com/en/game/the_feast
 x-co-op: No
 x-playable: Yes
@@ -6931,6 +7076,7 @@ assets.boxfront: BoxFront/Flashout 3D - Enhanced Edition (USA).jpg
 assets.boxback: BoxBack/Flashout 3D - Enhanced Edition (USA).jpg
 assets.background: Background/Flashout 3D - Enhanced Edition (USA).jpg
 assets.screenshot: Screenshot/Flashout 3D - Enhanced Edition (USA).jpg
+assets.video: Video/Flashout 3D - Enhanced Edition (USA).mp4
 x-url: https://www.gog.com/en/game/flashout_3d_enhanced_edition
 x-co-op: No
 x-playable: Yes
@@ -6975,6 +7121,7 @@ assets.boxfront: BoxFront/Forager (USA).jpg
 assets.boxback: BoxBack/Forager (USA).jpg
 assets.background: Background/Forager (USA).jpg
 assets.screenshot: Screenshot/Forager (USA).jpg
+assets.video: Video/Forager (USA).mp4
 x-url: https://www.gog.com/en/game/forager
 x-co-op: No
 x-playable: Yes
@@ -7519,6 +7666,7 @@ assets.boxfront: BoxFront/Furi Demake - The Chain (USA).jpg
 assets.boxback: BoxBack/Furi Demake - The Chain (USA).jpg
 assets.background: Background/Furi Demake - The Chain (USA).jpg
 assets.screenshot: Screenshot/Furi Demake - The Chain (USA).jpg
+assets.video: Video/Furi Demake - The Chain (USA).mp4
 x-url: https://www.gog.com/en/game/furi_demake_the_chain
 x-co-op: No
 x-playable: Yes
@@ -7878,6 +8026,7 @@ assets.boxfront: BoxFront/Ghost Song (USA).jpg
 assets.boxback: BoxBack/Ghost Song (USA).jpg
 assets.background: Background/Ghost Song (USA).jpg
 assets.screenshot: Screenshot/Ghost Song (USA).jpg
+assets.video: Video/Ghost Song (USA).mp4
 x-url: https://www.gog.com/en/game/ghost_song
 x-co-op: No
 x-playable: Yes
@@ -7913,6 +8062,7 @@ assets.boxfront: BoxFront/Gravewood High (USA).jpg
 assets.boxback: BoxBack/Gravewood High (USA).jpg
 assets.background: Background/Gravewood High (USA).jpg
 assets.screenshot: Screenshot/Gravewood High (USA).jpg
+assets.video: Video/Gravewood High (USA).mp4
 x-url: https://www.gog.com/en/game/gravewood_high
 x-co-op: No
 x-playable: Yes
@@ -7950,6 +8100,7 @@ assets.boxfront: BoxFront/GreedFall (USA).jpg
 assets.boxback: BoxBack/GreedFall (USA).jpg
 assets.background: Background/GreedFall (USA).jpg
 assets.screenshot: Screenshot/GreedFall (USA).jpg
+assets.video: Video/GreedFall (USA).mp4
 x-url: https://www.gog.com/en/game/greedfall_game
 x-co-op: No
 x-playable: Yes
@@ -8119,6 +8270,7 @@ assets.boxfront: BoxFront/Gunk, The (USA).jpg
 assets.boxback: BoxBack/Gunk, The (USA).jpg
 assets.background: Background/Gunk, The (USA).jpg
 assets.screenshot: Screenshot/Gunk, The (USA).jpg
+assets.video: Video/Gunk, The (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -8143,6 +8295,7 @@ assets.boxfront: BoxFront/Hammerting (USA).jpg
 assets.boxback: BoxBack/Hammerting (USA).jpg
 assets.background: Background/Hammerting (USA).jpg
 assets.screenshot: Screenshot/Hammerting (USA).jpg
+assets.video: Video/Hammerting (USA).mp4
 x-url: https://www.gog.com/en/game/hammerting
 x-co-op: No
 x-playable: Yes
@@ -8215,6 +8368,7 @@ assets.boxfront: BoxFront/Hard West 2 (USA).jpg
 assets.boxback: BoxBack/Hard West 2 (USA).jpg
 assets.background: Background/Hard West 2 (USA).jpg
 assets.screenshot: Screenshot/Hard West 2 (USA).jpg
+assets.video: Video/Hard West 2 (USA).mp4
 x-url: https://www.gog.com/en/game/hard_west_2
 x-co-op: No
 x-playable: Yes
@@ -8226,23 +8380,24 @@ developer: DigiFX Interactive
 publisher: Night Dive Studios
 genre: Adventure;Horror
 description:
-  The most violent adventure game of all time comes to Steam!\n
-  You wake up one morning to a town full of strangers and inexplicable sights. You
-  share your home with your not so perfect family and your supposed fiancée lives
-  next door. Then you are plunged into a nightmare! Your fiancée is missing and
-  you find a hideous bloody skull and spinal chord draped across her bed! Is it
-  hers? What is going on? The only clue left behind is an engraved invitation for
-  you to enter...
+  The most violent adventure game of all time comes to GOG!
+  .
+  You wake up one morning to a town full of strangers and inexplicable sights.
+  You share your home with your not so perfect family and your supposed fiancée
+  lives next door. Then you are plunged into a nightmare! Your fiancée is
+  missing and you find a hideous bloody skull and spinal chord draped across
+  her bed! Is it hers? What is going on? The only clue left behind is an
+  engraved invitation for you to enter...
   .
   THE ORDER OF THE HARVEST MOON
   .
-  ...a mysterious organization that controls the town in way you don't (or can't)
-  understand.
+  ...a mysterious organization that controls the town in way you don't (or
+  can't) understand.
   .
   Is the order behind this gruesome execution? What are their motives?
   .
-  One thing is certain, you're going to get to the bottom of this killing, or die
-  trying.
+  One thing is certain, you're going to get to the bottom of this killing,
+  or die trying.
 release: 1996-09-25
 players: 1
 assets.boxfront: BoxFront/Harvester (USA).jpg
@@ -8446,6 +8601,7 @@ assets.boxfront: BoxFront/Heads Will Roll - Downfall (USA).jpg
 assets.boxback: BoxBack/Heads Will Roll - Downfall (USA).jpg
 assets.background: Background/Heads Will Roll - Downfall (USA).jpg
 assets.screenshot: Screenshot/Heads Will Roll - Downfall (USA).jpg
+assets.video: Video/Heads Will Roll - Downfall (USA).mp4
 x-url: https://www.gog.com/en/game/heads_will_roll_downfall
 x-co-op: No
 x-playable: Yes
@@ -8486,6 +8642,7 @@ assets.boxfront: BoxFront/Helium Rain (USA).jpg
 assets.boxback: BoxBack/Helium Rain (USA).jpg
 assets.background: Background/Helium Rain (USA).jpg
 assets.screenshot: Screenshot/Helium Rain (USA).jpg
+assets.video: Video/Helium Rain (USA).mp4
 x-url: https://www.gog.com/en/game/helium_rain
 x-co-op: No
 x-playable: Yes
@@ -8545,6 +8702,7 @@ assets.boxfront: BoxFront/Hell Pie (USA).jpg
 assets.boxback: BoxBack/Hell Pie (USA).jpg
 assets.background: Background/Hell Pie (USA).jpg
 assets.screenshot: Screenshot/Hell Pie (USA).jpg
+assets.video: Video/Hell Pie (USA).mp4
 x-url: https://www.gog.com/en/game/hell_pie
 x-co-op: No
 x-playable: Yes
@@ -8668,6 +8826,7 @@ assets.boxfront: BoxFront/Hellpoint - The Thespian Feast (USA).jpg
 assets.boxback: BoxBack/Hellpoint - The Thespian Feast (USA).jpg
 assets.background: Background/Hellpoint - The Thespian Feast (USA).jpg
 assets.screenshot: Screenshot/Hellpoint - The Thespian Feast (USA).jpg
+assets.video: Video/Hellpoint - The Thespian Feast (USA).mp4
 x-url: https://www.gog.com/en/game/hellpoint_the_thespian_feast
 x-co-op: No
 x-playable: Yes
@@ -8739,6 +8898,7 @@ assets.boxfront: BoxFront/Heroine's Quest - The Herald of Ragnarok (USA).jpg
 assets.boxback: BoxBack/Heroine's Quest - The Herald of Ragnarok (USA).jpg
 assets.background: Background/Heroine's Quest - The Herald of Ragnarok (USA).jpg
 assets.screenshot: Screenshot/Heroine's Quest - The Herald of Ragnarok (USA).jpg
+assets.video: Video/Heroine's Quest - The Herald of Ragnarok (USA).mp4
 x-url: https://www.gog.com/en/game/heroines_quest_the_herald_of_ragnarok
 x-co-op: No
 x-playable: Yes
@@ -8760,6 +8920,7 @@ assets.boxfront: BoxFront/Higurashi When They Cry Hou - Ch.1 Onikakushi (USA).jp
 assets.boxback: BoxBack/Higurashi When They Cry Hou - Ch.1 Onikakushi (USA).jpg
 assets.background: Background/Higurashi When They Cry Hou - Ch.1 Onikakushi (USA).jpg
 assets.screenshot: Screenshot/Higurashi When They Cry Hou - Ch.1 Onikakushi (USA).jpg
+assets.video: Video/Higurashi When They Cry Hou - Ch.1 Onikakushi (USA).mp4
 x-url: https://www.gog.com/en/game/higurashi_when_they_cry_hou_ch1_onikakushi
 x-co-op: No
 x-playable: Yes
@@ -8816,6 +8977,7 @@ assets.boxfront: BoxFront/Hive Jump 2 - Survivors (USA).jpg
 assets.boxback: BoxBack/Hive Jump 2 - Survivors (USA).jpg
 assets.background: Background/Hive Jump 2 - Survivors (USA).jpg
 assets.screenshot: Screenshot/Hive Jump 2 - Survivors (USA).jpg
+assets.video: Video/Hive Jump 2 - Survivors (USA).mp4
 x-url: https://www.gog.com/en/game/hive_jump_2_survivors
 x-co-op: No
 x-playable: Yes
@@ -9256,6 +9418,7 @@ assets.boxfront: BoxFront/Industria (USA).jpg
 assets.boxback: BoxBack/Industria (USA).jpg
 assets.background: Background/Industria (USA).jpg
 assets.screenshot: Screenshot/Industria (USA).jpg
+assets.video: Video/Industria (USA).mp4
 x-url: https://www.gog.com/en/game/industria
 x-co-op: No
 x-playable: Yes
@@ -9583,6 +9746,7 @@ assets.boxfront: BoxFront/Kerbal Space Program (USA).jpg
 assets.boxback: BoxBack/Kerbal Space Program (USA).jpg
 assets.background: Background/Kerbal Space Program (USA).jpg
 assets.screenshot: Screenshot/Kerbal Space Program (USA).jpg
+assets.video: Video/Kerbal Space Program (USA).mp4
 x-url: https://www.gog.com/en/game/kerbal_space_program
 x-co-op: No
 x-playable: Yes
@@ -9762,6 +9926,7 @@ assets.boxfront: BoxFront/Knights and Merchants (USA).jpg
 assets.boxback: BoxBack/Knights and Merchants (USA).jpg
 assets.background: Background/Knights and Merchants (USA).jpg
 assets.screenshot: Screenshot/Knights and Merchants (USA).jpg
+assets.video: Video/Knights and Merchants (USA).mp4
 x-url: https://www.gog.com/en/game/knights_and_merchants_the_peasants_rebellion
 x-co-op: No
 x-playable: Yes
@@ -9883,6 +10048,7 @@ assets.boxfront: BoxFront/LEGO The Hobbit (USA).jpg
 assets.boxback: BoxBack/LEGO The Hobbit (USA).jpg
 assets.background: Background/LEGO The Hobbit (USA).jpg
 assets.screenshot: Screenshot/LEGO The Hobbit (USA).jpg
+assets.video: Video/LEGO The Hobbit (USA).mp4
 x-url: https://www.gog.com/en/game/lego_the_hobbit
 x-co-op: No
 x-playable: Yes
@@ -9952,6 +10118,7 @@ assets.boxfront: BoxFront/LEGO The Lord of the Rings (USA).jpg
 assets.boxback: BoxBack/LEGO The Lord of the Rings (USA).jpg
 assets.background: Background/LEGO The Lord of the Rings (USA).jpg
 assets.screenshot: Screenshot/LEGO The Lord of the Rings (USA).jpg
+assets.video: Video/LEGO The Lord of the Rings (USA).mp4
 x-url: https://www.gog.com/en/game/lego_the_lord_of_the_rings
 x-co-op: No
 x-playable: Yes
@@ -10174,6 +10341,7 @@ assets.boxfront: BoxFront/Lesson Learned - Cult of the Elizabeth (USA).jpg
 assets.boxback: BoxBack/Lesson Learned - Cult of the Elizabeth (USA).jpg
 assets.background: Background/Lesson Learned - Cult of the Elizabeth (USA).jpg
 assets.screenshot: Screenshot/Lesson Learned - Cult of the Elizabeth (USA).jpg
+assets.video: Video/Lesson Learned - Cult of the Elizabeth (USA).mp4
 x-url: https://www.gog.com/en/game/lesson_learned_cult_of_the_elizabeth
 x-co-op: No
 x-playable: Yes
@@ -10206,6 +10374,7 @@ assets.boxfront: BoxFront/Life and Suffering of Sir Brante, The (USA).jpg
 assets.boxback: BoxBack/Life and Suffering of Sir Brante, The (USA).jpg
 assets.background: Background/Life and Suffering of Sir Brante, The (USA).jpg
 assets.screenshot: Screenshot/Life and Suffering of Sir Brante, The (USA).jpg
+assets.video: Video/Life and Suffering of Sir Brante, The (USA).mp4
 x-url: https://www.gog.com/en/game/the_life_and_suffering_of_sir_brante_chapter_12
 x-co-op: No
 x-playable: Yes
@@ -10285,6 +10454,7 @@ assets.boxfront: BoxFront/Life of a Magical Circle, The (USA).jpg
 assets.boxback: BoxBack/Life of a Magical Circle, The (USA).jpg
 assets.background: Background/Life of a Magical Circle, The (USA).jpg
 assets.screenshot: Screenshot/Life of a Magical Circle, The (USA).jpg
+assets.video: Video/Life of a Magical Circle, The (USA).mp4
 x-url: https://www.gog.com/en/game/the_life_of_a_magical_circle
 x-co-op: No
 x-playable: Yes
@@ -10535,6 +10705,7 @@ assets.boxfront: BoxFront/Lullaby of Life, The (USA).jpg
 assets.boxback: BoxBack/Lullaby of Life, The (USA).jpg
 assets.background: Background/Lullaby of Life, The (USA).jpg
 assets.screenshot: Screenshot/Lullaby of Life, The (USA).jpg
+assets.video: Video/Lullaby of Life, The (USA).mp4
 x-url: https://www.gog.com/en/game/the_lullaby_of_life
 x-co-op: No
 x-playable: Yes
@@ -10618,6 +10789,7 @@ assets.boxfront: BoxFront/Mafia - Definitive Edition (USA).jpg
 assets.boxback: BoxBack/Mafia - Definitive Edition (USA).jpg
 assets.background: Background/Mafia - Definitive Edition (USA).jpg
 assets.screenshot: Screenshot/Mafia - Definitive Edition (USA).jpg
+assets.video: Video/Mafia - Definitive Edition (USA).mp4
 x-url: https://www.gog.com/en/game/mafia_definitive_edition
 x-co-op: No
 x-playable: Yes
@@ -10973,6 +11145,7 @@ assets.boxfront: BoxFront/Middle-earth - Shadow of Mordor - Game of the Year Edi
 assets.boxback: BoxBack/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).jpg
 assets.background: Background/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).jpg
 assets.screenshot: Screenshot/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).jpg
+assets.video: Video/Middle-earth - Shadow of Mordor - Game of the Year Edition (USA).mp4
 x-url: https://www.gog.com/en/game/middleearth_shadow_of_mordor
 x-co-op: No
 x-playable: Yes
@@ -11043,6 +11216,7 @@ assets.boxfront: BoxFront/Midnight Fight Express (USA).jpg
 assets.boxback: BoxBack/Midnight Fight Express (USA).jpg
 assets.background: Background/Midnight Fight Express (USA).jpg
 assets.screenshot: Screenshot/Midnight Fight Express (USA).jpg
+assets.video: Video/Midnight Fight Express (USA).mp4
 x-url: https://www.gog.com/en/game/midnight_fight_express
 x-co-op: No
 x-playable: Yes
@@ -11661,6 +11835,7 @@ assets.boxfront: BoxFront/Monster Train (USA).jpg
 assets.boxback: BoxBack/Monster Train (USA).jpg
 assets.background: Background/Monster Train (USA).jpg
 assets.screenshot: Screenshot/Monster Train (USA).jpg
+assets.video: Video/Monster Train (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -11720,6 +11895,7 @@ assets.boxfront: BoxFront/Moonlighter (USA).jpg
 assets.boxback: BoxBack/Moonlighter (USA).jpg
 assets.background: Background/Moonlighter (USA).jpg
 assets.screenshot: Screenshot/Moonlighter (USA).jpg
+assets.video: Video/Moonlighter (USA).mp4
 x-url: https://www.gog.com/en/game/moonlighter
 x-co-op: No
 x-playable: Yes
@@ -11821,6 +11997,7 @@ assets.boxfront: BoxFront/NecroBouncer - Prologue (USA).jpg
 assets.boxback: BoxBack/NecroBouncer - Prologue (USA).jpg
 assets.background: Background/NecroBouncer - Prologue (USA).jpg
 assets.screenshot: Screenshot/NecroBouncer - Prologue (USA).jpg
+assets.video: Video/NecroBouncer - Prologue (USA).mp4
 x-url: https://www.gog.com/en/game/necrobouncer_prologue
 x-co-op: No
 x-playable: Yes
@@ -11843,6 +12020,7 @@ assets.boxfront: BoxFront/Nehrim - At Fate's Edge (USA).jpg
 assets.boxback: BoxBack/Nehrim - At Fate's Edge (USA).jpg
 assets.background: Background/Nehrim - At Fate's Edge (USA).jpg
 assets.screenshot: Screenshot/Nehrim - At Fate's Edge (USA).jpg
+assets.video: Video/Nehrim - At Fate's Edge (USA).mp4
 x-url: https://www.gog.com/en/game/nehrim_at_fates_edge
 x-co-op: No
 x-playable: Yes
@@ -12162,6 +12340,7 @@ assets.boxfront: BoxFront/Once Upon a Jester (USA).jpg
 assets.boxback: BoxBack/Once Upon a Jester (USA).jpg
 assets.background: Background/Once Upon a Jester (USA).jpg
 assets.screenshot: Screenshot/Once Upon a Jester (USA).jpg
+assets.video: Video/Once Upon a Jester (USA).mp4
 x-url: https://www.gog.com/en/game/once_upon_a_jester
 x-co-op: No
 x-playable: Yes
@@ -12261,36 +12440,36 @@ developer: Red Barrels
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Adventure;Horror;Stealth
 description:
-  Outlast 2 (stylized as OU?LASTII) is a first-person survival horror video game
-  developed and published by Red Barrels for Microsoft Windows, PlayStation 4 and
-  Xbox One on April 25, 2017. It is the sequel to the 2013 video game Outlast, and
-  features a journalist named Blake Langermann, along with his wife Lynn, roaming
-  the Arizona desert to explore the murder of a pregnant woman, Jane Doe.
-  Unfortunately, Blake and Lynn get separated in a helicopter crash, and Blake has
-  to find his wife while traveling through a village inhabited by a sect that
-  believes the end of days is upon them.
+  Outlast 2 is a first-person survival horror video game developed and
+  published by Red Barrels. It is the sequel to the 2013 video game Outlast,
+  and features a journalist named Blake Langermann, along with his wife Lynn,
+  roaming the Arizona desert to explore the murder of a pregnant woman, Jane
+  Doe. Unfortunately, Blake and Lynn get separated in a helicopter crash, and
+  Blake has to find his wife while traveling through a village inhabited by a
+  sect that believes the end of days is upon them.
   .
   Outlast 2 is a first-person survival horror game that, like its predecessors
   Outlast and Outlast: Whistleblower, is a single-player campaign. It is set in
   the Sonoran desert. The game is also carrying over the found footage
   characteristics from the first game. The player controls the investigative
-  journalist Blake Langermann, who investigates a dilapidated rural area in Supai,
-  near the Sonoran Desert.
+  journalist Blake Langermann, who investigates a dilapidated rural area in
+  Supai, near the Sonoran Desert.
   .
-  Langermann is completely unable to fight and can only defend in scripted scenes
-  similar to the original Outlast, and can hide in lockers, crouch, run, jump,
-  walk, vault, slide and climb much like the first game but the player has a much
-  more limited stamina meter and must manage how long they run or else they will
-  become slower and exhausted causing their pursuer to catch up to them. He only
-  possesses a camcorder, which has night vision enabled, though the camcorder's
-  batteries are also drained when night vision is used. Unlike the first game,
-  Langermann's status as a cameraman means he has a much more advanced camera in
-  his possession, one with clearer footage, zoom, and an audio detection system
-  built into each speaker that can be used to detect distant footsteps and other
-  noises but the camera is also equipped with an inventory system displaying the
-  amount of footage they recorded. Spare batteries suitable for the camcorder are
-  spread throughout the locations. Langermann also wears glasses, which limits the
-  player's vision if they fall off.
+  Langermann is completely unable to fight and can only defend in scripted
+  scenes similar to the original Outlast, and can hide in lockers, crouch,
+  run, jump, walk, vault, slide and climb much like the first game but the
+  player has a much more limited stamina meter and must manage how long they
+  run or else they will become slower and exhausted causing their pursuer to
+  catch up to them. He only possesses a camcorder, which has night vision
+  enabled, though the camcorder's batteries are also drained when night
+  vision is used. Unlike the first game, Langermann's status as a cameraman
+  means he has a much more advanced camera in his possession, one with clearer
+  footage, zoom, and an audio detection system built into each speaker that can
+  be used to detect distant footsteps and other noises but the camera is also
+  equipped with an inventory system displaying the amount of footage they
+  recorded. Spare batteries suitable for the camcorder are spread throughout
+  the locations. Langermann also wears glasses, which limits the player's
+  vision if they fall off.
 release: 2017-04-25
 players: 1
 assets.boxfront: BoxFront/Outlast 2 (USA).jpg
@@ -12757,6 +12936,7 @@ assets.boxfront: BoxFront/Phoning Home (USA).jpg
 assets.boxback: BoxBack/Phoning Home (USA).jpg
 assets.background: Background/Phoning Home (USA).jpg
 assets.screenshot: Screenshot/Phoning Home (USA).jpg
+assets.video: Video/Phoning Home (USA).mp4
 x-url: https://www.gog.com/en/game/phoning_home
 x-co-op: No
 x-playable: Yes
@@ -12793,6 +12973,7 @@ assets.boxfront: BoxFront/Plague Tale, A - Innocence (USA).jpg
 assets.boxback: BoxBack/Plague Tale, A - Innocence (USA).jpg
 assets.background: Background/Plague Tale, A - Innocence (USA).jpg
 assets.screenshot: Screenshot/Plague Tale, A - Innocence (USA).jpg
+assets.video: Video/Plague Tale, A - Innocence (USA).mp4
 x-url: https://www.gog.com/en/game/a_plague_tale_innocence
 x-co-op: No
 x-playable: Yes
@@ -13025,6 +13206,7 @@ assets.boxfront: BoxFront/PowerSlave Exhumed (USA).jpg
 assets.boxback: BoxBack/PowerSlave Exhumed (USA).jpg
 assets.background: Background/PowerSlave Exhumed (USA).jpg
 assets.screenshot: Screenshot/PowerSlave Exhumed (USA).jpg
+assets.video: Video/PowerSlave Exhumed (USA).mp4
 x-url: https://www.gog.com/en/game/powerslave_exhumed
 x-co-op: No
 x-playable: Yes
@@ -13052,6 +13234,7 @@ assets.boxfront: BoxFront/Powers in the Basement (USA).jpg
 assets.boxback: BoxBack/Powers in the Basement (USA).jpg
 assets.background: Background/Powers in the Basement (USA).jpg
 assets.screenshot: Screenshot/Powers in the Basement (USA).jpg
+assets.video: Video/Powers in the Basement (USA).mp4
 x-url: https://www.gog.com/en/game/powers_in_the_basement
 x-co-op: No
 x-playable: Yes
@@ -13288,6 +13471,7 @@ assets.boxfront: BoxFront/Pumpkin Jack (USA).jpg
 assets.boxback: BoxBack/Pumpkin Jack (USA).jpg
 assets.background: Background/Pumpkin Jack (USA).jpg
 assets.screenshot: Screenshot/Pumpkin Jack (USA).jpg
+assets.video: Video/Pumpkin Jack (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -13388,6 +13572,7 @@ assets.boxfront: BoxFront/Quake II RTX (USA).jpg
 assets.boxback: BoxBack/Quake II RTX (USA).jpg
 assets.background: Background/Quake II RTX (USA).jpg
 assets.screenshot: Screenshot/Quake II RTX (USA).jpg
+assets.video: Video/Quake II RTX (USA).mp4
 x-url: https://www.gog.com/en/game/quake_ii_rtx
 x-co-op: No
 x-playable: Yes
@@ -13456,6 +13641,7 @@ assets.boxfront: BoxFront/Relic Hunters Zero - Remix (USA).jpg
 assets.boxback: BoxBack/Relic Hunters Zero - Remix (USA).jpg
 assets.background: Background/Relic Hunters Zero - Remix (USA).jpg
 assets.screenshot: Screenshot/Relic Hunters Zero - Remix (USA).jpg
+assets.video: Video/Relic Hunters Zero - Remix (USA).mp4
 x-url: https://www.gog.com/en/game/relic_hunters_zero_remix
 x-co-op: No
 x-playable: Yes
@@ -13665,6 +13851,7 @@ assets.boxfront: BoxFront/Return of the Phantom (USA).jpg
 assets.boxback: BoxBack/Return of the Phantom (USA).jpg
 assets.background: Background/Return of the Phantom (USA).jpg
 assets.screenshot: Screenshot/Return of the Phantom (USA).jpg
+assets.video: Video/Return of the Phantom (USA).mp4
 x-url: https://www.gog.com/en/game/return_of_the_phantom
 x-co-op: No
 x-playable: Yes
@@ -13800,6 +13987,7 @@ assets.boxfront: BoxFront/Rise of the Triad - Ludicrous Edition (USA).jpg
 assets.boxback: BoxBack/Rise of the Triad - Ludicrous Edition (USA).jpg
 assets.background: Background/Rise of the Triad - Ludicrous Edition (USA).jpg
 assets.screenshot: Screenshot/Rise of the Triad - Ludicrous Edition (USA).jpg
+assets.video: Video/Rise of the Triad - Ludicrous Edition (USA).mp4
 x-url: https://www.gog.com/en/game/rise_of_the_triad_ludicrous_edition
 x-co-op: No
 x-playable: Yes
@@ -14142,6 +14330,7 @@ assets.boxfront: BoxFront/Samsara Room (USA).jpg
 assets.boxback: BoxBack/Samsara Room (USA).jpg
 assets.background: Background/Samsara Room (USA).jpg
 assets.screenshot: Screenshot/Samsara Room (USA).jpg
+assets.video: Video/Samsara Room (USA).mp4
 x-url: https://www.gog.com/en/game/samsara_room
 x-co-op: No
 x-playable: Yes
@@ -14419,7 +14608,7 @@ genre: Action;Shooter
 description:
   Shadow Warrior Classic Complete is the PC version of Shadow Warrior that was
   released onto GOG.com and includes the main game and both expansion packs,
-  Wanton Destruction and Twin Dragon. While the Steam version is free [ . . . ],
+  Wanton Destruction and Twin Dragon. While the Steam version was free,
   the GOG.com version used to be paid, and has a digital copy of the game's
   soundtrack in MP3 and FLAC and the game's manual delivered with the game.
   Published by Devolver Digital, it was released on November 15, 2012, using
@@ -14675,6 +14864,7 @@ assets.boxfront: BoxFront/Shogun Showdown - Prologue (USA).jpg
 assets.boxback: BoxBack/Shogun Showdown - Prologue (USA).jpg
 assets.background: Background/Shogun Showdown - Prologue (USA).jpg
 assets.screenshot: Screenshot/Shogun Showdown - Prologue (USA).jpg
+assets.video: Video/Shogun Showdown - Prologue (USA).mp4
 x-url: https://www.gog.com/en/game/shogun_showdown_prologue
 x-co-op: No
 x-playable: Yes
@@ -14730,6 +14920,7 @@ assets.boxfront: BoxFront/Showgunners (USA).jpg
 assets.boxback: BoxBack/Showgunners (USA).jpg
 assets.background: Background/Showgunners (USA).jpg
 assets.screenshot: Screenshot/Showgunners (USA).jpg
+assets.video: Video/Showgunners (USA).mp4
 x-url: https://www.gog.com/en/game/showgunners
 x-co-op: No
 x-playable: Yes
@@ -14891,6 +15082,7 @@ assets.boxfront: BoxFront/Sin Slayers - The First Sin (USA).jpg
 assets.boxback: BoxBack/Sin Slayers - The First Sin (USA).jpg
 assets.background: Background/Sin Slayers - The First Sin (USA).jpg
 assets.screenshot: Screenshot/Sin Slayers - The First Sin (USA).jpg
+assets.video: Video/Sin Slayers - The First Sin (USA).mp4
 x-url: https://www.gog.com/en/game/sin_slayers_the_first_sin
 x-co-op: No
 x-playable: Yes
@@ -14989,6 +15181,7 @@ assets.boxfront: BoxFront/South Scrimshaw, Part One (USA).jpg
 assets.boxback: BoxBack/South Scrimshaw, Part One (USA).jpg
 assets.background: Background/South Scrimshaw, Part One (USA).jpg
 assets.screenshot: Screenshot/South Scrimshaw, Part One (USA).jpg
+assets.video: Video/South Scrimshaw, Part One (USA).mp4
 x-url: https://www.gog.com/en/game/south_scrimshaw_part_one
 x-co-op: No
 x-playable: Yes
@@ -15229,6 +15422,7 @@ assets.boxfront: BoxFront/Spells and Secrets (USA).jpg
 assets.boxback: BoxBack/Spells and Secrets (USA).jpg
 assets.background: Background/Spells and Secrets (USA).jpg
 assets.screenshot: Screenshot/Spells and Secrets (USA).jpg
+assets.video: Video/Spells and Secrets (USA).mp4
 x-url: https://www.gog.com/en/game/spells_secrets
 x-co-op: No
 x-playable: Yes
@@ -15811,6 +16005,7 @@ assets.boxfront: BoxFront/SteamWorld Heist (USA).jpg
 assets.boxback: BoxBack/SteamWorld Heist (USA).jpg
 assets.background: Background/SteamWorld Heist (USA).jpg
 assets.screenshot: Screenshot/SteamWorld Heist (USA).jpg
+assets.video: Video/SteamWorld Heist (USA).mp4
 x-url: https://www.gog.com/en/game/steamworld_heist
 x-co-op: No
 x-playable: Yes
@@ -15969,42 +16164,6 @@ x-co-op: No
 x-playable: Yes
 
 
-game: Stories Untold Demo (USA)
-file: Computer/GOG/S/Stories Untold Demo (USA)/Stories Untold Demo (USA).json
-developer: No Code
-publisher: Devolver Digital
-genre: Adventure;Simulation;Horror
-description:
-  Full version of Stories Untold is available here
-  .
-  Stories Untold is a compilation tape of four episodes from the now cancelled
-  series of the same name, including a remaster of the original pilot episode "The
-  House Abandon".
-  .
-  ABOUT NO CODE
-  .
-  No Code is an independent developer based on Glasgow, Scotland comprised of Jon
-  McKellan, Omar Khan, Geoff Angus, and Graeme McKellan with help from Lee
-  McKellan and Jack Perry. Jon and Graeme are brothers, Lee is married to Jon,
-  Omar and Jon have been friends since age 3, and Omar rides a motorcycle each
-  morning much to Jon's dismay. The team's previous experience includes work on
-  notable games including Lead UI Designer on Alien: Isolation.
-  .
-  The Stories Untold poster was created by Kyle Lambert who also designed the same
-  for the Netflix series Stranger Things.
-  .
-  Copyright 2017 No Code. All Rights Reserved.
-release: 2017-02-27
-players: 1
-assets.boxfront: BoxFront/Stories Untold Demo (USA).jpg
-assets.boxback: BoxBack/Stories Untold Demo (USA).jpg
-assets.background: Background/Stories Untold Demo (USA).jpg
-assets.screenshot: Screenshot/Stories Untold Demo (USA).jpg
-x-url: https://www.gog.com/en/game/stories_untold_demo
-x-co-op: No
-x-playable: Yes
-
-
 game: Strafe - Gold Edition (USA)
 file: Computer/GOG/S/Strafe - Gold Edition (USA)/Strafe - Gold Edition (USA).json
 developer: Pixel Titans
@@ -16084,6 +16243,7 @@ assets.boxfront: BoxFront/Stray Gods - The Roleplaying Musical (USA).jpg
 assets.boxback: BoxBack/Stray Gods - The Roleplaying Musical (USA).jpg
 assets.background: Background/Stray Gods - The Roleplaying Musical (USA).jpg
 assets.screenshot: Screenshot/Stray Gods - The Roleplaying Musical (USA).jpg
+assets.video: Video/Stray Gods - The Roleplaying Musical (USA).mp4
 x-url: https://www.gog.com/en/game/stray_gods_the_roleplaying_musical
 x-co-op: No
 x-playable: Yes
@@ -16309,6 +16469,7 @@ assets.boxfront: BoxFront/Supper, The (USA).jpg
 assets.boxback: BoxBack/Supper, The (USA).jpg
 assets.background: Background/Supper, The (USA).jpg
 assets.screenshot: Screenshot/Supper, The (USA).jpg
+assets.video: Video/Supper, The (USA).mp4
 x-url: https://www.gog.com/en/game/the_supper
 x-co-op: No
 x-playable: Yes
@@ -16564,6 +16725,7 @@ assets.boxfront: BoxFront/System Shock (USA).jpg
 assets.boxback: BoxBack/System Shock (USA).jpg
 assets.background: Background/System Shock (USA).jpg
 assets.screenshot: Screenshot/System Shock (USA).jpg
+assets.video: Video/System Shock (USA).mp4
 x-url: https://www.gog.com/en/game/system_shock
 x-co-op: No
 x-playable: Yes
@@ -17046,6 +17208,7 @@ assets.boxfront: BoxFront/Thronebreaker - The Witcher Tales (USA).jpg
 assets.boxback: BoxBack/Thronebreaker - The Witcher Tales (USA).jpg
 assets.background: Background/Thronebreaker - The Witcher Tales (USA).jpg
 assets.screenshot: Screenshot/Thronebreaker - The Witcher Tales (USA).jpg
+assets.video: Video/Thronebreaker - The Witcher Tales (USA).mp4
 x-url: https://www.gog.com/en/game/thronebreaker_the_witcher_tales
 x-co-op: No
 x-playable: Yes
@@ -17103,6 +17266,7 @@ assets.boxfront: BoxFront/Time Loader - First Memories (USA).jpg
 assets.boxback: BoxBack/Time Loader - First Memories (USA).jpg
 assets.background: Background/Time Loader - First Memories (USA).jpg
 assets.screenshot: Screenshot/Time Loader - First Memories (USA).jpg
+assets.video: Video/Time Loader - First Memories (USA).mp4
 x-url: https://www.gog.com/en/game/time_loader_prologue
 x-co-op: No
 x-playable: Yes
@@ -17150,6 +17314,7 @@ assets.boxfront: BoxFront/Tomb Raider - Legend (USA).jpg
 assets.boxback: BoxBack/Tomb Raider - Legend (USA).jpg
 assets.background: Background/Tomb Raider - Legend (USA).jpg
 assets.screenshot: Screenshot/Tomb Raider - Legend (USA).jpg
+assets.video: Video/Tomb Raider - Legend (USA).mp4
 x-url: https://www.gog.com/en/game/tomb_raider_legend
 x-co-op: No
 x-playable: Yes
@@ -17193,6 +17358,7 @@ assets.boxfront: BoxFront/Tomb Raider - The Angel of Darkness (USA).jpg
 assets.boxback: BoxBack/Tomb Raider - The Angel of Darkness (USA).jpg
 assets.background: Background/Tomb Raider - The Angel of Darkness (USA).jpg
 assets.screenshot: Screenshot/Tomb Raider - The Angel of Darkness (USA).jpg
+assets.video: Video/Tomb Raider - The Angel of Darkness (USA).mp4
 x-url: https://www.gog.com/en/game/tomb_raider_the_angel_of_darkness
 x-co-op: No
 x-playable: Yes
@@ -17234,6 +17400,7 @@ assets.boxfront: BoxFront/Tomb Raider - The Last Revelation (USA).jpg
 assets.boxback: BoxBack/Tomb Raider - The Last Revelation (USA).jpg
 assets.background: Background/Tomb Raider - The Last Revelation (USA).jpg
 assets.screenshot: Screenshot/Tomb Raider - The Last Revelation (USA).jpg
+assets.video: Video/Tomb Raider - The Last Revelation (USA).mp4
 x-url: https://www.gog.com/en/game/tomb_raider_the_last_revelation
 x-co-op: No
 x-playable: Yes
@@ -17288,6 +17455,7 @@ assets.boxfront: BoxFront/Tomb Raider Chronicles (USA).jpg
 assets.boxback: BoxBack/Tomb Raider Chronicles (USA).jpg
 assets.background: Background/Tomb Raider Chronicles (USA).jpg
 assets.screenshot: Screenshot/Tomb Raider Chronicles (USA).jpg
+assets.video: Video/Tomb Raider Chronicles (USA).mp4
 x-url: https://www.gog.com/en/game/tomb_raider_chronicles
 x-co-op: No
 x-playable: Yes
@@ -18094,6 +18262,7 @@ assets.boxfront: BoxFront/Ultima IV (USA).jpg
 assets.boxback: BoxBack/Ultima IV (USA).jpg
 assets.background: Background/Ultima IV (USA).jpg
 assets.screenshot: Screenshot/Ultima IV (USA).jpg
+assets.video: Video/Ultima IV (USA).mp4
 x-url: https://www.gog.com/en/game/ultima_iv
 x-co-op: No
 x-playable: Yes
@@ -18307,6 +18476,7 @@ assets.boxfront: BoxFront/Unepic (USA).jpg
 assets.boxback: BoxBack/Unepic (USA).jpg
 assets.background: Background/Unepic (USA).jpg
 assets.screenshot: Screenshot/Unepic (USA).jpg
+assets.video: Video/Unepic (USA).mp4
 x-url: https://www.gog.com/en/game/unepic
 x-co-op: No
 x-playable: Yes
@@ -18551,6 +18721,7 @@ assets.boxfront: BoxFront/Urbek City Builder - Prologue (USA).jpg
 assets.boxback: BoxBack/Urbek City Builder - Prologue (USA).jpg
 assets.background: Background/Urbek City Builder - Prologue (USA).jpg
 assets.screenshot: Screenshot/Urbek City Builder - Prologue (USA).jpg
+assets.video: Video/Urbek City Builder - Prologue (USA).mp4
 x-url: https://www.gog.com/en/game/urbek_city_builder_prologue
 x-co-op: No
 x-playable: Yes
@@ -19206,6 +19377,7 @@ assets.boxfront: BoxFront/Whispering Willows (USA).jpg
 assets.boxback: BoxBack/Whispering Willows (USA).jpg
 assets.background: Background/Whispering Willows (USA).jpg
 assets.screenshot: Screenshot/Whispering Willows (USA).jpg
+assets.video: Video/Whispering Willows (USA).mp4
 x-url: https://www.gog.com/en/game/whispering_willows
 x-co-op: No
 x-playable: Yes
@@ -19808,6 +19980,7 @@ assets.boxfront: BoxFront/Wolfenstein II - The New Colossus - German Edition (US
 assets.boxback: BoxBack/Wolfenstein II - The New Colossus - German Edition (USA).jpg
 assets.background: Background/Wolfenstein II - The New Colossus - German Edition (USA).jpg
 assets.screenshot: Screenshot/Wolfenstein II - The New Colossus - German Edition (USA).jpg
+assets.video: Video/Wolfenstein II - The New Colossus - German Edition (USA).mp4
 x-url: https://www.gog.com/en/game/wolfenstein_ii_the_new_colossus_german
 x-co-op: No
 x-playable: Yes
