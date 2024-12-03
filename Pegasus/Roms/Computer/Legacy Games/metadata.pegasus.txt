@@ -1,0 +1,35 @@
+collection: Computer - Legacy Games
+launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Legacy Games" -n {file.basename}
+
+
+game: Connected Hearts - Fortune Play CE (USA)
+file: Computer/Legacy Games/C/Connected Hearts - Fortune Play CE (USA)/Connected Hearts - Fortune Play CE (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Dark Strokes - The Legend of The Snow Kingdom CE (USA)
+file: Computer/Legacy Games/D/Dark Strokes - The Legend of The Snow Kingdom CE (USA)/Dark Strokes - The Legend of The Snow Kingdom CE (USA).json
+players: 1
+assets.boxfront: BoxFront/Dark Strokes - The Legend of The Snow Kingdom CE (USA).jpg
+assets.boxback: BoxBack/Dark Strokes - The Legend of The Snow Kingdom CE (USA).jpg
+assets.background: Background/Dark Strokes - The Legend of The Snow Kingdom CE (USA).jpg
+assets.screenshot: Screenshot/Dark Strokes - The Legend of The Snow Kingdom CE (USA).jpg
+assets.video: Video/Dark Strokes - The Legend of The Snow Kingdom CE (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Forest Legends - The Call of Love CE (USA)
+file: Computer/Legacy Games/F/Forest Legends - The Call of Love CE (USA)/Forest Legends - The Call of Love CE (USA).json
+players: 1
+assets.boxfront: BoxFront/Forest Legends - The Call of Love CE (USA).jpg
+assets.boxback: BoxBack/Forest Legends - The Call of Love CE (USA).jpg
+assets.background: Background/Forest Legends - The Call of Love CE (USA).jpg
+assets.screenshot: Screenshot/Forest Legends - The Call of Love CE (USA).jpg
+assets.video: Video/Forest Legends - The Call of Love CE (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
