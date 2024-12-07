@@ -27,9 +27,6 @@ description:
 release: 2015-11-13
 players: 4
 assets.boxfront: BoxFront/Animal Crossing - Amiibo Festival (USA).jpg
-assets.boxback: BoxBack/Animal Crossing - Amiibo Festival (USA).jpg
-assets.background: Background/Animal Crossing - Amiibo Festival (USA).jpg
-assets.screenshot: Screenshot/Animal Crossing - Amiibo Festival (USA).jpg
 assets.video: Video/Animal Crossing - Amiibo Festival (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -51,8 +48,6 @@ release: 2016-09-01
 players: 1
 assets.boxfront: BoxFront/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).jpg
 assets.boxback: BoxBack/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.background: Background/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.screenshot: Screenshot/Axiom Verge (USA) (En,Fr,De,Es,It,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -73,9 +68,6 @@ description:
 release: 2014-10-24
 players: 2
 assets.boxfront: BoxFront/Bayonetta (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Bayonetta (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Bayonetta (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Bayonetta (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Bayonetta (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -102,9 +94,6 @@ description:
 release: 2014-10-24
 players: 2
 assets.boxfront: BoxFront/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Bayonetta 2 (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -122,9 +111,6 @@ description:
 release: 2014-12-05
 players: 1
 assets.boxfront: BoxFront/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).jpg
-assets.boxback: BoxBack/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).jpg
-assets.background: Background/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).jpg
-assets.screenshot: Screenshot/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).jpg
 assets.video: Video/Captain Toad - Treasure Tracker (USA) (En,Fr,Es) (v1.00).mp4
 x-co-op: No
 x-playable: Yes
@@ -149,9 +135,6 @@ description:
 release: 2015-12-11
 players: 1
 assets.boxfront: BoxFront/Devil's Third (USA) (En,Fr).jpg
-assets.boxback: BoxBack/Devil's Third (USA) (En,Fr).jpg
-assets.background: Background/Devil's Third (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/Devil's Third (USA) (En,Fr).jpg
 assets.video: Video/Devil's Third (USA) (En,Fr).mp4
 x-co-op: No
 x-playable: Yes
@@ -179,9 +162,6 @@ description:
 release: 2013-08-13
 players: 1
 assets.boxfront: BoxFront/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/Disney DuckTales - Remastered (USA) (En,Fr,Es,Pt).mp4
 x-co-op: No
 x-playable: Yes
@@ -204,9 +184,6 @@ description:
 release: 2012-11-18
 players: 2
 assets.boxfront: BoxFront/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).jpg
-assets.background: Background/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).jpg
 assets.video: Video/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -238,9 +215,6 @@ description:
 release: 2014-02-21
 players: 2
 assets.boxfront: BoxFront/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).jpg
-assets.boxback: BoxBack/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).jpg
-assets.background: Background/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).jpg
-assets.screenshot: Screenshot/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).jpg
 assets.video: Video/Donkey Kong Country - Tropical Freeze (USA) (En,Fr,Es) (v1.01).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -280,9 +254,6 @@ description:
 release: 2020-01-01
 players: 1
 assets.boxfront: BoxFront/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).jpg
-assets.boxback: BoxBack/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).jpg
-assets.background: Background/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).jpg
-assets.screenshot: Screenshot/Finding Teddy II - Definitive Edition (Europe) (En,De,Fr,Es,Pt,It,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -301,9 +272,6 @@ description:
 release: 2013-06-23
 players: 5
 assets.boxfront: BoxFront/Game & Wario (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Game & Wario (USA) (En,Fr,Es).jpg
-assets.background: Background/Game & Wario (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Game & Wario (USA) (En,Fr,Es).jpg
 assets.video: Video/Game & Wario (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -335,9 +303,6 @@ description:
 release: 2014-09-26
 players: 2
 assets.boxfront: BoxFront/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).jpg
-assets.boxback: BoxBack/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).jpg
-assets.background: Background/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).jpg
-assets.screenshot: Screenshot/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).jpg
 assets.video: Video/Hyrule Warriors (USA) (En,Fr,Es) (v1.01).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -364,9 +329,6 @@ description:
 release: 2013-10-01
 players: 2
 assets.boxfront: BoxFront/Just Dance 2014 (USA).jpg
-assets.boxback: BoxBack/Just Dance 2014 (USA).jpg
-assets.background: Background/Just Dance 2014 (USA).jpg
-assets.screenshot: Screenshot/Just Dance 2014 (USA).jpg
 assets.video: Video/Just Dance 2014 (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -401,9 +363,6 @@ description:
 release: 2014-10-21
 players: 2
 assets.boxfront: BoxFront/Just Dance 2015 (USA).jpg
-assets.boxback: BoxBack/Just Dance 2015 (USA).jpg
-assets.background: Background/Just Dance 2015 (USA).jpg
-assets.screenshot: Screenshot/Just Dance 2015 (USA).jpg
 assets.video: Video/Just Dance 2015 (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -427,9 +386,6 @@ description:
 release: 2015-10-20
 players: 4
 assets.boxfront: BoxFront/Just Dance 2016 (USA).jpg
-assets.boxback: BoxBack/Just Dance 2016 (USA).jpg
-assets.background: Background/Just Dance 2016 (USA).jpg
-assets.screenshot: Screenshot/Just Dance 2016 (USA).jpg
 assets.video: Video/Just Dance 2016 (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -449,8 +405,6 @@ release: 2016-10-25
 players: 6
 assets.boxfront: BoxFront/Just Dance 2017 (USA) (En,Fr,Es,Pt).jpg
 assets.boxback: BoxBack/Just Dance 2017 (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Just Dance 2017 (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Just Dance 2017 (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/Just Dance 2017 (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -479,8 +433,6 @@ release: 2017-10-24
 players: 6
 assets.boxfront: BoxFront/Just Dance 2018 (USA) (En,Fr,Es,Pt).jpg
 assets.boxback: BoxBack/Just Dance 2018 (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Just Dance 2018 (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Just Dance 2018 (USA) (En,Fr,Es,Pt).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -497,9 +449,6 @@ description:
 release: 2012-11-13
 players: 4
 assets.boxfront: BoxFront/Just Dance 4 (USA).jpg
-assets.boxback: BoxBack/Just Dance 4 (USA).jpg
-assets.background: Background/Just Dance 4 (USA).jpg
-assets.screenshot: Screenshot/Just Dance 4 (USA).jpg
 assets.video: Video/Just Dance 4 (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -520,9 +469,6 @@ description:
 release: 2015-01-22
 players: 4
 assets.boxfront: BoxFront/Kirby and the Rainbow Curse (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Kirby and the Rainbow Curse (USA) (En,Fr,Es).jpg
-assets.background: Background/Kirby and the Rainbow Curse (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Kirby and the Rainbow Curse (USA) (En,Fr,Es).jpg
 assets.video: Video/Kirby and the Rainbow Curse (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -543,9 +489,6 @@ description:
 release: 2013-05-21
 players: 2
 assets.boxfront: BoxFront/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Batman 2 - DC Super Heroes (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -572,9 +515,6 @@ description:
 release: 2015-09-27
 players: 2
 assets.boxfront: BoxFront/LEGO Dimensions (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/LEGO Dimensions (USA) (En,Fr,Es).jpg
-assets.background: Background/LEGO Dimensions (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/LEGO Dimensions (USA) (En,Fr,Es).jpg
 assets.video: Video/LEGO Dimensions (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -594,9 +534,6 @@ description:
 release: 2015-06-12
 players: 2
 assets.boxfront: BoxFront/LEGO Jurassic World (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/LEGO Jurassic World (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/LEGO Jurassic World (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/LEGO Jurassic World (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Jurassic World (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -619,9 +556,6 @@ description:
 release: 2013-10-22
 players: 2
 assets.boxfront: BoxFront/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Marvel Super Heroes (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -664,9 +598,6 @@ description:
 release: 2016-06-28
 players: 2
 assets.boxfront: BoxFront/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/LEGO Star Wars - The Force Awakens (USA) (En,Fr,Es,Pt).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -710,9 +641,6 @@ description:
 release: 2017-03-03
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).jpg
-assets.background: Background/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - Breath of the Wild (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -738,9 +666,6 @@ description:
 release: 2013-09-20
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).jpg
-assets.background: Background/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - The Wind Waker HD (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -762,9 +687,6 @@ description:
 release: 2016-03-04
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).jpg
-assets.background: Background/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - Twilight Princess HD (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -783,9 +705,6 @@ description:
 release: 2015-03-20
 players: 5
 assets.boxfront: BoxFront/Mario Party 10 (USA).jpg
-assets.boxback: BoxBack/Mario Party 10 (USA).jpg
-assets.background: Background/Mario Party 10 (USA).jpg
-assets.screenshot: Screenshot/Mario Party 10 (USA).jpg
 assets.video: Video/Mario Party 10 (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -809,9 +728,6 @@ description:
 release: 2016-06-21
 players: 4
 assets.boxfront: BoxFront/Mighty No. 9 (USA).jpg
-assets.boxback: BoxBack/Mighty No. 9 (USA).jpg
-assets.background: Background/Mighty No. 9 (USA).jpg
-assets.screenshot: Screenshot/Mighty No. 9 (USA).jpg
 assets.video: Video/Mighty No. 9 (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -832,9 +748,6 @@ description:
 release: 2013-03-19
 players: 1
 assets.boxfront: BoxFront/Monster Hunter 3 Ultimate (USA).jpg
-assets.boxback: BoxBack/Monster Hunter 3 Ultimate (USA).jpg
-assets.background: Background/Monster Hunter 3 Ultimate (USA).jpg
-assets.screenshot: Screenshot/Monster Hunter 3 Ultimate (USA).jpg
 assets.video: Video/Monster Hunter 3 Ultimate (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -864,9 +777,6 @@ description:
 release: 2014-12-05
 players: 2
 assets.boxfront: BoxFront/NES Remix Pack (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/NES Remix Pack (USA) (En,Fr,Es).jpg
-assets.background: Background/NES Remix Pack (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/NES Remix Pack (USA) (En,Fr,Es).jpg
 assets.video: Video/NES Remix Pack (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -884,9 +794,6 @@ description:
 release: 2013-11-01
 players: 4
 assets.boxfront: BoxFront/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).jpg
-assets.background: Background/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).jpg
 assets.video: Video/New Super Mario Bros. U + New Super Luigi U (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -909,9 +816,6 @@ description:
 release: 2012-11-18
 players: 5
 assets.boxfront: BoxFront/Nintendo Land (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Nintendo Land (USA) (En,Fr,Es).jpg
-assets.background: Background/Nintendo Land (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Nintendo Land (USA) (En,Fr,Es).jpg
 assets.video: Video/Nintendo Land (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -931,9 +835,6 @@ description:
 release: 2016-10-07
 players: 1
 assets.boxfront: BoxFront/Paper Mario - Color Splash (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Paper Mario - Color Splash (USA) (En,Fr,Es).jpg
-assets.background: Background/Paper Mario - Color Splash (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Paper Mario - Color Splash (USA) (En,Fr,Es).jpg
 assets.video: Video/Paper Mario - Color Splash (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -954,9 +855,6 @@ description:
 release: 2013-08-04
 players: 2
 assets.boxfront: BoxFront/Pikmin 3 (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Pikmin 3 (USA) (En,Fr,Es).jpg
-assets.background: Background/Pikmin 3 (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Pikmin 3 (USA) (En,Fr,Es).jpg
 assets.video: Video/Pikmin 3 (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -986,9 +884,6 @@ description:
 release: 2016-03-18
 players: 2
 assets.boxfront: BoxFront/Pokken Tournament (USA).jpg
-assets.boxback: BoxBack/Pokken Tournament (USA).jpg
-assets.background: Background/Pokken Tournament (USA).jpg
-assets.screenshot: Screenshot/Pokken Tournament (USA).jpg
 assets.video: Video/Pokken Tournament (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1010,9 +905,6 @@ description:
 release: 2013-05-21
 players: 1
 assets.boxfront: BoxFront/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
-assets.boxback: BoxBack/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
-assets.background: Background/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
-assets.screenshot: Screenshot/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
 assets.video: Video/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).mp4
 x-co-op: No
 x-playable: Yes
@@ -1039,9 +931,6 @@ description:
 release: 2015-11-10
 players: 1
 assets.boxfront: BoxFront/Rodea the Sky Soldier (USA).jpg
-assets.boxback: BoxBack/Rodea the Sky Soldier (USA).jpg
-assets.background: Background/Rodea the Sky Soldier (USA).jpg
-assets.screenshot: Screenshot/Rodea the Sky Soldier (USA).jpg
 assets.video: Video/Rodea the Sky Soldier (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1064,9 +953,6 @@ description:
 release: 2016-11-01
 players: 9
 assets.boxfront: BoxFront/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Runbow - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1086,9 +972,6 @@ description:
 release: 2012-11-18
 players: 4
 assets.boxfront: BoxFront/Scribblenauts Unlimited (USA).jpg
-assets.boxback: BoxBack/Scribblenauts Unlimited (USA).jpg
-assets.background: Background/Scribblenauts Unlimited (USA).jpg
-assets.screenshot: Screenshot/Scribblenauts Unlimited (USA).jpg
 assets.video: Video/Scribblenauts Unlimited (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1113,9 +996,6 @@ description:
 release: 2013-09-24
 players: 4
 assets.boxfront: BoxFront/Scribblenauts Unmasked - A DC Comics Adventure (USA).jpg
-assets.boxback: BoxBack/Scribblenauts Unmasked - A DC Comics Adventure (USA).jpg
-assets.background: Background/Scribblenauts Unmasked - A DC Comics Adventure (USA).jpg
-assets.screenshot: Screenshot/Scribblenauts Unmasked - A DC Comics Adventure (USA).jpg
 assets.video: Video/Scribblenauts Unmasked - A DC Comics Adventure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1148,8 +1028,6 @@ release: 2020-08-20
 players: 1
 assets.boxfront: BoxFront/Shakedown - Hawaii (USA).jpg
 assets.boxback: BoxBack/Shakedown - Hawaii (USA).jpg
-assets.background: Background/Shakedown - Hawaii (USA).jpg
-assets.screenshot: Screenshot/Shakedown - Hawaii (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1178,9 +1056,6 @@ description:
 release: 2014-06-26
 players: 1
 assets.boxfront: BoxFront/Shovel Knight (USA).jpg
-assets.boxback: BoxBack/Shovel Knight (USA).jpg
-assets.background: Background/Shovel Knight (USA).jpg
-assets.screenshot: Screenshot/Shovel Knight (USA).jpg
 assets.video: Video/Shovel Knight (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1206,9 +1081,6 @@ description:
 release: 2012-11-18
 players: 1
 assets.boxfront: BoxFront/Sonic & All-Stars Racing Transformed (USA).jpg
-assets.boxback: BoxBack/Sonic & All-Stars Racing Transformed (USA).jpg
-assets.background: Background/Sonic & All-Stars Racing Transformed (USA).jpg
-assets.screenshot: Screenshot/Sonic & All-Stars Racing Transformed (USA).jpg
 assets.video: Video/Sonic & All-Stars Racing Transformed (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1242,9 +1114,6 @@ description:
 release: 2014-11-11
 players: 4
 assets.boxfront: BoxFront/Sonic Boom - Rise of Lyric (USA).jpg
-assets.boxback: BoxBack/Sonic Boom - Rise of Lyric (USA).jpg
-assets.background: Background/Sonic Boom - Rise of Lyric (USA).jpg
-assets.screenshot: Screenshot/Sonic Boom - Rise of Lyric (USA).jpg
 assets.video: Video/Sonic Boom - Rise of Lyric (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1270,9 +1139,6 @@ description:
 release: 2016-04-22
 players: 2
 assets.boxfront: BoxFront/Star Fox Guard (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Star Fox Guard (USA) (En,Fr,Es).jpg
-assets.background: Background/Star Fox Guard (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Star Fox Guard (USA) (En,Fr,Es).jpg
 assets.video: Video/Star Fox Guard (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1304,9 +1170,6 @@ description:
 release: 2016-04-22
 players: 2
 assets.boxfront: BoxFront/Star Fox Zero (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Star Fox Zero (USA) (En,Fr,Es).jpg
-assets.background: Background/Star Fox Zero (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Star Fox Zero (USA) (En,Fr,Es).jpg
 assets.video: Video/Star Fox Zero (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1338,9 +1201,6 @@ description:
 release: 2013-11-21
 players: 4
 assets.boxfront: BoxFront/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).jpg
-assets.boxback: BoxBack/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).jpg
-assets.background: Background/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).jpg
-assets.screenshot: Screenshot/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).jpg
 assets.video: Video/Super Mario 3D World (USA) (En,Fr,Es) (v1.00).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1360,9 +1220,6 @@ description:
 release: 2015-09-11
 players: 1
 assets.boxfront: BoxFront/Super Mario Maker (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Super Mario Maker (USA) (En,Fr,Es).jpg
-assets.background: Background/Super Mario Maker (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Super Mario Maker (USA) (En,Fr,Es).jpg
 assets.video: Video/Super Mario Maker (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1385,9 +1242,6 @@ description:
 release: 2014-11-21
 players: 8
 assets.boxfront: BoxFront/Super Smash Bros. for Wii U (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Super Smash Bros. for Wii U (USA) (En,Fr,Es).jpg
-assets.background: Background/Super Smash Bros. for Wii U (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Super Smash Bros. for Wii U (USA) (En,Fr,Es).jpg
 assets.video: Video/Super Smash Bros. for Wii U (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1411,9 +1265,6 @@ description:
 release: 2012-11-18
 players: 4
 assets.boxfront: BoxFront/Tank! Tank! Tank! (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Tank! Tank! Tank! (USA) (En,Fr,Es).jpg
-assets.background: Background/Tank! Tank! Tank! (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Tank! Tank! Tank! (USA) (En,Fr,Es).jpg
 assets.video: Video/Tank! Tank! Tank! (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1433,9 +1284,6 @@ description:
 release: 2016-06-24
 players: 1
 assets.boxfront: BoxFront/Tokyo Mirage Sessions FE (USA).jpg
-assets.boxback: BoxBack/Tokyo Mirage Sessions FE (USA).jpg
-assets.background: Background/Tokyo Mirage Sessions FE (USA).jpg
-assets.screenshot: Screenshot/Tokyo Mirage Sessions FE (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1457,9 +1305,6 @@ description:
 release: 2013-10-31
 players: 1
 assets.boxfront: BoxFront/Wii Fit U (USA).jpg
-assets.boxback: BoxBack/Wii Fit U (USA).jpg
-assets.background: Background/Wii Fit U (USA).jpg
-assets.screenshot: Screenshot/Wii Fit U (USA).jpg
 assets.video: Video/Wii Fit U (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1481,9 +1326,6 @@ description:
 release: 2013-09-15
 players: 5
 assets.boxfront: BoxFront/Wonderful 101, The (USA) (En,Ja).jpg
-assets.boxback: BoxBack/Wonderful 101, The (USA) (En,Ja).jpg
-assets.background: Background/Wonderful 101, The (USA) (En,Ja).jpg
-assets.screenshot: Screenshot/Wonderful 101, The (USA) (En,Ja).jpg
 assets.video: Video/Wonderful 101, The (USA) (En,Ja).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1517,9 +1359,6 @@ description:
 release: 2015-04-29
 players: 4
 assets.boxfront: BoxFront/Xenoblade Chronicles X (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Xenoblade Chronicles X (USA) (En,Fr,Es).jpg
-assets.background: Background/Xenoblade Chronicles X (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Xenoblade Chronicles X (USA) (En,Fr,Es).jpg
 assets.video: Video/Xenoblade Chronicles X (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1551,9 +1390,6 @@ description:
 release: 2015-06-26
 players: 2
 assets.boxfront: BoxFront/Yoshi's Woolly World (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Yoshi's Woolly World (USA) (En,Fr,Es).jpg
-assets.background: Background/Yoshi's Woolly World (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Yoshi's Woolly World (USA) (En,Fr,Es).jpg
 assets.video: Video/Yoshi's Woolly World (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1575,9 +1411,6 @@ description:
 release: 2012-11-18
 players: 4
 assets.boxfront: BoxFront/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).jpg
-assets.background: Background/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).jpg
 assets.video: Video/Your Shape - Fitness Evolved 2013 (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1603,9 +1436,6 @@ description:
 release: 2012-11-18
 players: 2
 assets.boxfront: BoxFront/ZombiU (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/ZombiU (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/ZombiU (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/ZombiU (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/ZombiU (USA) (En,Fr,Es,Pt).mp4
 x-co-op: No
 x-playable: Yes

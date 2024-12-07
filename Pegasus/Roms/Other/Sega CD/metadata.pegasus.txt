@@ -24,8 +24,6 @@ release: 1993-11-01
 players: 1
 assets.boxfront: BoxFront/Bram Stoker's Dracula (USA).jpg
 assets.boxback: BoxBack/Bram Stoker's Dracula (USA).jpg
-assets.background: Background/Bram Stoker's Dracula (USA).jpg
-assets.screenshot: Screenshot/Bram Stoker's Dracula (USA).jpg
 assets.video: Video/Bram Stoker's Dracula (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -46,8 +44,6 @@ release: 1993-12-04
 players: 1
 assets.boxfront: BoxFront/Cliffhanger (USA).jpg
 assets.boxback: BoxBack/Cliffhanger (USA).jpg
-assets.background: Background/Cliffhanger (USA).jpg
-assets.screenshot: Screenshot/Cliffhanger (USA).jpg
 assets.video: Video/Cliffhanger (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -73,8 +69,6 @@ release: 1995-05-01
 players: 4
 assets.boxfront: BoxFront/Dungeon Explorer (USA).jpg
 assets.boxback: BoxBack/Dungeon Explorer (USA).jpg
-assets.background: Background/Dungeon Explorer (USA).jpg
-assets.screenshot: Screenshot/Dungeon Explorer (USA).jpg
 assets.video: Video/Dungeon Explorer (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -94,8 +88,6 @@ release: 1994-03-25
 players: 1
 assets.boxfront: BoxFront/Dungeon Master II - Skullkeep (USA).jpg
 assets.boxback: BoxBack/Dungeon Master II - Skullkeep (USA).jpg
-assets.background: Background/Dungeon Master II - Skullkeep (USA).jpg
-assets.screenshot: Screenshot/Dungeon Master II - Skullkeep (USA).jpg
 assets.video: Video/Dungeon Master II - Skullkeep (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -118,9 +110,6 @@ description:
 release: 1994-08-25
 players: 1
 assets.boxfront: BoxFront/Ecco - The Tides of Time (USA).jpg
-assets.boxback: BoxBack/Ecco - The Tides of Time (USA).jpg
-assets.background: Background/Ecco - The Tides of Time (USA).jpg
-assets.screenshot: Screenshot/Ecco - The Tides of Time (USA).jpg
 assets.video: Video/Ecco - The Tides of Time (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -145,9 +134,6 @@ description:
 release: 1993-07-29
 players: 1
 assets.boxfront: BoxFront/Ecco the Dolphin (USA).jpg
-assets.boxback: BoxBack/Ecco the Dolphin (USA).jpg
-assets.background: Background/Ecco the Dolphin (USA).jpg
-assets.screenshot: Screenshot/Ecco the Dolphin (USA).jpg
 assets.video: Video/Ecco the Dolphin (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -169,8 +155,6 @@ release: 1994-04-22
 players: 1
 assets.boxfront: BoxFront/Eye of the Beholder (USA).jpg
 assets.boxback: BoxBack/Eye of the Beholder (USA).jpg
-assets.background: Background/Eye of the Beholder (USA).jpg
-assets.screenshot: Screenshot/Eye of the Beholder (USA).jpg
 assets.video: Video/Eye of the Beholder (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -189,9 +173,6 @@ description:
 release: 1989-12-01
 players: 2
 assets.boxfront: BoxFront/Final Fight CD (USA).jpg
-assets.boxback: BoxBack/Final Fight CD (USA).jpg
-assets.background: Background/Final Fight CD (USA).jpg
-assets.screenshot: Screenshot/Final Fight CD (USA).jpg
 assets.video: Video/Final Fight CD (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -215,8 +196,6 @@ release: 1994-06-01
 players: 1
 assets.boxfront: BoxFront/Heart of the Alien - Out of This World Parts I and II (USA) (RE).jpg
 assets.boxback: BoxBack/Heart of the Alien - Out of This World Parts I and II (USA) (RE).jpg
-assets.background: Background/Heart of the Alien - Out of This World Parts I and II (USA) (RE).jpg
-assets.screenshot: Screenshot/Heart of the Alien - Out of This World Parts I and II (USA) (RE).jpg
 assets.video: Video/Heart of the Alien - Out of This World Parts I and II (USA) (RE).mp4
 x-co-op: No
 x-playable: Yes
@@ -245,8 +224,6 @@ release: 1994-03-18
 players: 1
 assets.boxfront: BoxFront/Heimdall (USA).jpg
 assets.boxback: BoxBack/Heimdall (USA).jpg
-assets.background: Background/Heimdall (USA).jpg
-assets.screenshot: Screenshot/Heimdall (USA).jpg
 assets.video: Video/Heimdall (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -271,8 +248,6 @@ release: 1993-12-10
 players: 1
 assets.boxfront: BoxFront/Mansion of Hidden Souls (USA).jpg
 assets.boxback: BoxBack/Mansion of Hidden Souls (USA).jpg
-assets.background: Background/Mansion of Hidden Souls (USA).jpg
-assets.screenshot: Screenshot/Mansion of Hidden Souls (USA).jpg
 assets.video: Video/Mansion of Hidden Souls (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -302,9 +277,6 @@ description:
 release: 1993-05-28
 players: 1
 assets.boxfront: BoxFront/Night Striker (Japan, Korea).jpg
-assets.boxback: BoxBack/Night Striker (Japan, Korea).jpg
-assets.background: Background/Night Striker (Japan, Korea).jpg
-assets.screenshot: Screenshot/Night Striker (Japan, Korea).jpg
 assets.video: Video/Night Striker (Japan, Korea).mp4
 x-co-op: No
 x-playable: Yes
@@ -324,9 +296,6 @@ description:
 release: 1992-10-15
 players: 1
 assets.boxfront: BoxFront/Night Trap (USA).jpg
-assets.boxback: BoxBack/Night Trap (USA).jpg
-assets.background: Background/Night Trap (USA).jpg
-assets.screenshot: Screenshot/Night Trap (USA).jpg
 assets.video: Video/Night Trap (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -348,9 +317,6 @@ description:
 release: 1988-02-01
 players: 2
 assets.boxfront: BoxFront/Ninja Warriors, The (Japan).jpg
-assets.boxback: BoxBack/Ninja Warriors, The (Japan).jpg
-assets.background: Background/Ninja Warriors, The (Japan).jpg
-assets.screenshot: Screenshot/Ninja Warriors, The (Japan).jpg
 assets.video: Video/Ninja Warriors, The (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -374,8 +340,6 @@ release: 1992-09-25
 players: 1
 assets.boxfront: BoxFront/Rise of the Dragon (USA).jpg
 assets.boxback: BoxBack/Rise of the Dragon (USA).jpg
-assets.background: Background/Rise of the Dragon (USA).jpg
-assets.screenshot: Screenshot/Rise of the Dragon (USA).jpg
 assets.video: Video/Rise of the Dragon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -395,9 +359,6 @@ description:
 release: 1992-11-27
 players: 1
 assets.boxfront: BoxFront/Robo Aleste (USA).jpg
-assets.boxback: BoxBack/Robo Aleste (USA).jpg
-assets.background: Background/Robo Aleste (USA).jpg
-assets.screenshot: Screenshot/Robo Aleste (USA).jpg
 assets.video: Video/Robo Aleste (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -436,9 +397,6 @@ description:
 release: 1992-11-01
 players: 1
 assets.boxfront: BoxFront/Sega Classics Arcade Collection (USA) (RE) (4-in-1).jpg
-assets.boxback: BoxBack/Sega Classics Arcade Collection (USA) (RE) (4-in-1).jpg
-assets.background: Background/Sega Classics Arcade Collection (USA) (RE) (4-in-1).jpg
-assets.screenshot: Screenshot/Sega Classics Arcade Collection (USA) (RE) (4-in-1).jpg
 assets.video: Video/Sega Classics Arcade Collection (USA) (RE) (4-in-1).mp4
 x-co-op: No
 x-playable: Yes
@@ -464,9 +422,6 @@ description:
 release: 1992-12-01
 players: 1
 assets.boxfront: BoxFront/Sewer Shark (USA).jpg
-assets.boxback: BoxBack/Sewer Shark (USA).jpg
-assets.background: Background/Sewer Shark (USA).jpg
-assets.screenshot: Screenshot/Sewer Shark (USA).jpg
 assets.video: Video/Sewer Shark (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -490,9 +445,6 @@ description:
 release: 1992-11-01
 players: 1
 assets.boxfront: BoxFront/Sherlock Holmes - Consulting Detective (USA).jpg
-assets.boxback: BoxBack/Sherlock Holmes - Consulting Detective (USA).jpg
-assets.background: Background/Sherlock Holmes - Consulting Detective (USA).jpg
-assets.screenshot: Screenshot/Sherlock Holmes - Consulting Detective (USA).jpg
 assets.video: Video/Sherlock Holmes - Consulting Detective (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -511,9 +463,6 @@ description:
 release: 1994-07-21
 players: 1
 assets.boxfront: BoxFront/Shining Force CD (USA) (5R, 6R).jpg
-assets.boxback: BoxBack/Shining Force CD (USA) (5R, 6R).jpg
-assets.background: Background/Shining Force CD (USA) (5R, 6R).jpg
-assets.screenshot: Screenshot/Shining Force CD (USA) (5R, 6R).jpg
 assets.video: Video/Shining Force CD (USA) (5R, 6R).mp4
 x-co-op: No
 x-playable: Yes
@@ -535,9 +484,6 @@ description:
 release: 1987-12-01
 players: 1
 assets.boxfront: BoxFront/Silpheed (USA).jpg
-assets.boxback: BoxBack/Silpheed (USA).jpg
-assets.background: Background/Silpheed (USA).jpg
-assets.screenshot: Screenshot/Silpheed (USA).jpg
 assets.video: Video/Silpheed (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -556,8 +502,6 @@ release: 1994-05-01
 players: 2
 assets.boxfront: BoxFront/Software Toolworks' Star Wars Chess, The (USA).jpg
 assets.boxback: BoxBack/Software Toolworks' Star Wars Chess, The (USA).jpg
-assets.background: Background/Software Toolworks' Star Wars Chess, The (USA).jpg
-assets.screenshot: Screenshot/Software Toolworks' Star Wars Chess, The (USA).jpg
 assets.video: Video/Software Toolworks' Star Wars Chess, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -585,8 +529,6 @@ release: 1993-09-23
 players: 1
 assets.boxfront: BoxFront/Sonic CD (USA).jpg
 assets.boxback: BoxBack/Sonic CD (USA).jpg
-assets.background: Background/Sonic CD (USA).jpg
-assets.screenshot: Screenshot/Sonic CD (USA).jpg
 assets.video: Video/Sonic CD (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -612,8 +554,6 @@ release: 1994-03-01
 players: 1
 assets.boxfront: BoxFront/Star Wars - Rebel Assault (USA).jpg
 assets.boxback: BoxBack/Star Wars - Rebel Assault (USA).jpg
-assets.background: Background/Star Wars - Rebel Assault (USA).jpg
-assets.screenshot: Screenshot/Star Wars - Rebel Assault (USA).jpg
 assets.video: Video/Star Wars - Rebel Assault (USA).mp4
 x-co-op: No
 x-playable: Yes

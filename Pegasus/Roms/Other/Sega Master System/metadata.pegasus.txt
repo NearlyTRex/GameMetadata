@@ -27,9 +27,6 @@ description:
 release: 1987-10-18
 players: 2
 assets.boxfront: BoxFront/Alien Syndrome (USA, Europe).jpg
-assets.boxback: BoxBack/Alien Syndrome (USA, Europe).jpg
-assets.background: Background/Alien Syndrome (USA, Europe).jpg
-assets.screenshot: Screenshot/Alien Syndrome (USA, Europe).jpg
 assets.video: Video/Alien Syndrome (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -57,9 +54,6 @@ description:
 release: 1987-09-20
 players: 1
 assets.boxfront: BoxFront/Aztec Adventure - The Golden Road to Paradise (World).jpg
-assets.boxback: BoxBack/Aztec Adventure - The Golden Road to Paradise (World).jpg
-assets.background: Background/Aztec Adventure - The Golden Road to Paradise (World).jpg
-assets.screenshot: Screenshot/Aztec Adventure - The Golden Road to Paradise (World).jpg
 assets.video: Video/Aztec Adventure - The Golden Road to Paradise (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -89,9 +83,6 @@ description:
 release: 1989-01-01
 players: 2
 assets.boxfront: BoxFront/Cloud Master (USA, Europe).jpg
-assets.boxback: BoxBack/Cloud Master (USA, Europe).jpg
-assets.background: Background/Cloud Master (USA, Europe).jpg
-assets.screenshot: Screenshot/Cloud Master (USA, Europe).jpg
 assets.video: Video/Cloud Master (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -114,9 +105,6 @@ description:
 release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Dynamite Headdy (Brazil).jpg
-assets.boxback: BoxBack/Dynamite Headdy (Brazil).jpg
-assets.background: Background/Dynamite Headdy (Brazil).jpg
-assets.screenshot: Screenshot/Dynamite Headdy (Brazil).jpg
 assets.video: Video/Dynamite Headdy (Brazil).mp4
 x-co-op: No
 x-playable: Yes
@@ -138,9 +126,6 @@ description:
 release: 1986-06-15
 players: 2
 assets.boxfront: BoxFront/Fantasy Zone (Japan).jpg
-assets.boxback: BoxBack/Fantasy Zone (Japan).jpg
-assets.background: Background/Fantasy Zone (Japan).jpg
-assets.screenshot: Screenshot/Fantasy Zone (Japan).jpg
 assets.video: Video/Fantasy Zone (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -167,9 +152,6 @@ description:
 release: 1987-12-20
 players: 2
 assets.boxfront: BoxFront/Fantasy Zone - The Maze (USA, Europe, Brazil).jpg
-assets.boxback: BoxBack/Fantasy Zone - The Maze (USA, Europe, Brazil).jpg
-assets.background: Background/Fantasy Zone - The Maze (USA, Europe, Brazil).jpg
-assets.screenshot: Screenshot/Fantasy Zone - The Maze (USA, Europe, Brazil).jpg
 assets.video: Video/Fantasy Zone - The Maze (USA, Europe, Brazil).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -194,9 +176,6 @@ description:
 release: 1987-10-17
 players: 1
 assets.boxfront: BoxFront/Fantasy Zone II (USA, Europe, Brazil).jpg
-assets.boxback: BoxBack/Fantasy Zone II (USA, Europe, Brazil).jpg
-assets.background: Background/Fantasy Zone II (USA, Europe, Brazil).jpg
-assets.screenshot: Screenshot/Fantasy Zone II (USA, Europe, Brazil).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -220,9 +199,6 @@ description:
 release: 1987-10-17
 players: 1
 assets.boxfront: BoxFront/Fantasy Zone II - Opa-Opa no Namida (Japan).jpg
-assets.boxback: BoxBack/Fantasy Zone II - Opa-Opa no Namida (Japan).jpg
-assets.background: Background/Fantasy Zone II - Opa-Opa no Namida (Japan).jpg
-assets.screenshot: Screenshot/Fantasy Zone II - Opa-Opa no Namida (Japan).jpg
 assets.video: Video/Fantasy Zone II - Opa-Opa no Namida (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -248,9 +224,6 @@ description:
 release: 1988-02-21
 players: 2
 assets.boxfront: BoxFront/Galactic Protector (Japan).jpg
-assets.boxback: BoxBack/Galactic Protector (Japan).jpg
-assets.background: Background/Galactic Protector (Japan).jpg
-assets.screenshot: Screenshot/Galactic Protector (Japan).jpg
 assets.video: Video/Galactic Protector (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -277,9 +250,6 @@ description:
 release: 1986-04-21
 players: 1
 assets.boxfront: BoxFront/Ghost House (USA, Europe).jpg
-assets.boxback: BoxBack/Ghost House (USA, Europe).jpg
-assets.background: Background/Ghost House (USA, Europe).jpg
-assets.screenshot: Screenshot/Ghost House (USA, Europe).jpg
 assets.video: Video/Ghost House (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -307,9 +277,6 @@ description:
 release: 1991-01-01
 players: 1
 assets.boxfront: BoxFront/Golden Axe Warrior (USA, Europe, Brazil).jpg
-assets.boxback: BoxBack/Golden Axe Warrior (USA, Europe, Brazil).jpg
-assets.background: Background/Golden Axe Warrior (USA, Europe, Brazil).jpg
-assets.screenshot: Screenshot/Golden Axe Warrior (USA, Europe, Brazil).jpg
 assets.video: Video/Golden Axe Warrior (USA, Europe, Brazil).mp4
 x-co-op: No
 x-playable: Yes
@@ -332,9 +299,6 @@ description:
 release: 1987-01-31
 players: 1
 assets.boxfront: BoxFront/Maze Hunter 3-D (USA, Europe).jpg
-assets.boxback: BoxBack/Maze Hunter 3-D (USA, Europe).jpg
-assets.background: Background/Maze Hunter 3-D (USA, Europe).jpg
-assets.screenshot: Screenshot/Maze Hunter 3-D (USA, Europe).jpg
 assets.video: Video/Maze Hunter 3-D (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -361,9 +325,6 @@ description:
 release: 1987-10-18
 players: 1
 assets.boxfront: BoxFront/Miracle Warriors - Seal of the Dark Lord (USA, Europe).jpg
-assets.boxback: BoxBack/Miracle Warriors - Seal of the Dark Lord (USA, Europe).jpg
-assets.background: Background/Miracle Warriors - Seal of the Dark Lord (USA, Europe).jpg
-assets.screenshot: Screenshot/Miracle Warriors - Seal of the Dark Lord (USA, Europe).jpg
 assets.video: Video/Miracle Warriors - Seal of the Dark Lord (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -390,9 +351,6 @@ description:
 release: 1987-12-20
 players: 1
 assets.boxfront: BoxFront/Phantasy Star (USA, Europe) (Rev 3).jpg
-assets.boxback: BoxBack/Phantasy Star (USA, Europe) (Rev 3).jpg
-assets.background: Background/Phantasy Star (USA, Europe) (Rev 3).jpg
-assets.screenshot: Screenshot/Phantasy Star (USA, Europe) (Rev 3).jpg
 assets.video: Video/Phantasy Star (USA, Europe) (Rev 3).mp4
 x-co-op: No
 x-playable: Yes
@@ -411,9 +369,6 @@ description:
 release: 1992-01-01
 players: 1
 assets.boxfront: BoxFront/Sagaia (Europe, Brazil).jpg
-assets.boxback: BoxBack/Sagaia (Europe, Brazil).jpg
-assets.background: Background/Sagaia (Europe, Brazil).jpg
-assets.screenshot: Screenshot/Sagaia (Europe, Brazil).jpg
 assets.video: Video/Sagaia (Europe, Brazil).mp4
 x-co-op: No
 x-playable: Yes
@@ -432,9 +387,6 @@ description:
 release: 1992-10-16
 players: 1
 assets.boxfront: BoxFront/Sonic The Hedgehog 2 (Europe, Brazil).jpg
-assets.boxback: BoxBack/Sonic The Hedgehog 2 (Europe, Brazil).jpg
-assets.background: Background/Sonic The Hedgehog 2 (Europe, Brazil).jpg
-assets.screenshot: Screenshot/Sonic The Hedgehog 2 (Europe, Brazil).jpg
 assets.video: Video/Sonic The Hedgehog 2 (Europe, Brazil).mp4
 x-co-op: No
 x-playable: Yes
@@ -464,9 +416,6 @@ description:
 release: 1987-05-24
 players: 1
 assets.boxfront: BoxFront/Zillion (USA) (Rev 1).jpg
-assets.boxback: BoxBack/Zillion (USA) (Rev 1).jpg
-assets.background: Background/Zillion (USA) (Rev 1).jpg
-assets.screenshot: Screenshot/Zillion (USA) (Rev 1).jpg
 assets.video: Video/Zillion (USA) (Rev 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -493,9 +442,6 @@ description:
 release: 1987-12-13
 players: 1
 assets.boxfront: BoxFront/Zillion II - The Tri Formation (World).jpg
-assets.boxback: BoxBack/Zillion II - The Tri Formation (World).jpg
-assets.background: Background/Zillion II - The Tri Formation (World).jpg
-assets.screenshot: Screenshot/Zillion II - The Tri Formation (World).jpg
 assets.video: Video/Zillion II - The Tri Formation (World).mp4
 x-co-op: No
 x-playable: Yes

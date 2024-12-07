@@ -17,9 +17,6 @@ description:
 release: 2015-01-15
 players: 1
 assets.boxfront: BoxFront/3D After Burner II (USA) (eShop).jpg
-assets.boxback: BoxBack/3D After Burner II (USA) (eShop).jpg
-assets.background: Background/3D After Burner II (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D After Burner II (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -42,9 +39,6 @@ description:
 release: 2011-06-06
 players: 1
 assets.boxfront: BoxFront/3D Classics Excitebike (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Classics Excitebike (USA) (eShop).jpg
-assets.background: Background/3D Classics Excitebike (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Classics Excitebike (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -67,9 +61,6 @@ description:
 release: 2011-12-19
 players: 1
 assets.boxfront: BoxFront/3D Classics Kid Icarus (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Classics Kid Icarus (USA) (eShop).jpg
-assets.background: Background/3D Classics Kid Icarus (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Classics Kid Icarus (USA) (eShop).jpg
 assets.video: Video/3D Classics Kid Icarus (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -99,9 +90,6 @@ description:
 release: 2011-11-17
 players: 1
 assets.boxfront: BoxFront/3D Classics Kirby's Adventure (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Classics Kirby's Adventure (USA) (eShop).jpg
-assets.background: Background/3D Classics Kirby's Adventure (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Classics Kirby's Adventure (USA) (eShop).jpg
 assets.video: Video/3D Classics Kirby's Adventure (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -130,9 +118,6 @@ description:
 release: 2013-06-26
 players: 1
 assets.boxfront: BoxFront/3D Ecco the Dolphin (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Ecco the Dolphin (USA) (eShop).jpg
-assets.background: Background/3D Ecco the Dolphin (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Ecco the Dolphin (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -162,9 +147,6 @@ description:
 release: 1986-03-01
 players: 1
 assets.boxfront: BoxFront/3D Fantasy Zone (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Fantasy Zone (USA) (eShop).jpg
-assets.background: Background/3D Fantasy Zone (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Fantasy Zone (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -190,9 +172,6 @@ description:
 release: 2013-12-12
 players: 1
 assets.boxfront: BoxFront/3D Galaxy Force II (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Galaxy Force II (USA) (eShop).jpg
-assets.background: Background/3D Galaxy Force II (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Galaxy Force II (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -213,9 +192,6 @@ description:
 release: 2015-08-20
 players: 2
 assets.boxfront: BoxFront/3D Gunstar Heroes (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Gunstar Heroes (USA) (eShop).jpg
-assets.background: Background/3D Gunstar Heroes (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Gunstar Heroes (USA) (eShop).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -246,9 +222,6 @@ description:
 release: 2015-03-12
 players: 1
 assets.boxfront: BoxFront/3D Out Run (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Out Run (USA) (eShop).jpg
-assets.background: Background/3D Out Run (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Out Run (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -270,9 +243,6 @@ description:
 release: 2013-12-19
 players: 1
 assets.boxfront: BoxFront/3D Shinobi III (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Shinobi III (USA) (eShop).jpg
-assets.background: Background/3D Shinobi III (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Shinobi III (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -320,9 +290,6 @@ description:
 release: 1992-10-16
 players: 2
 assets.boxfront: BoxFront/3D Sonic The Hedgehog 2 (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Sonic The Hedgehog 2 (USA) (eShop).jpg
-assets.background: Background/3D Sonic The Hedgehog 2 (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Sonic The Hedgehog 2 (USA) (eShop).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -346,9 +313,6 @@ description:
 release: 2013-11-28
 players: 1
 assets.boxfront: BoxFront/3D Space Harrier (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Space Harrier (USA) (eShop).jpg
-assets.background: Background/3D Space Harrier (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Space Harrier (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -374,9 +338,6 @@ description:
 release: 2013-12-19
 players: 2
 assets.boxfront: BoxFront/3D Streets of Rage (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Streets of Rage (USA) (eShop).jpg
-assets.background: Background/3D Streets of Rage (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Streets of Rage (USA) (eShop).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -398,9 +359,6 @@ description:
 release: 2015-07-23
 players: 2
 assets.boxfront: BoxFront/3D Streets of Rage 2 (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Streets of Rage 2 (USA) (eShop).jpg
-assets.background: Background/3D Streets of Rage 2 (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Streets of Rage 2 (USA) (eShop).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -423,9 +381,6 @@ description:
 release: 2013-11-28
 players: 1
 assets.boxfront: BoxFront/3D Super Hang-On (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Super Hang-On (USA) (eShop).jpg
-assets.background: Background/3D Super Hang-On (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Super Hang-On (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -450,9 +405,6 @@ description:
 release: 2015-05-14
 players: 1
 assets.boxfront: BoxFront/3D Thunder Blade (USA) (eShop).jpg
-assets.boxback: BoxBack/3D Thunder Blade (USA) (eShop).jpg
-assets.background: Background/3D Thunder Blade (USA) (eShop).jpg
-assets.screenshot: Screenshot/3D Thunder Blade (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -484,9 +436,6 @@ description:
 release: 2017-12-07
 players: 1
 assets.boxfront: BoxFront/80's Overdrive (USA) (eShop).jpg
-assets.boxback: BoxBack/80's Overdrive (USA) (eShop).jpg
-assets.background: Background/80's Overdrive (USA) (eShop).jpg
-assets.screenshot: Screenshot/80's Overdrive (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -523,9 +472,6 @@ description:
 release: 2013-09-13
 players: 1
 assets.boxfront: BoxFront/AiRace Speed (USA) (eShop).jpg
-assets.boxback: BoxBack/AiRace Speed (USA) (eShop).jpg
-assets.background: Background/AiRace Speed (USA) (eShop).jpg
-assets.screenshot: Screenshot/AiRace Speed (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -562,9 +508,6 @@ description:
 release: 2014-06-12
 players: 1
 assets.boxfront: BoxFront/AiRace Xeno (USA) (eShop).jpg
-assets.boxback: BoxBack/AiRace Xeno (USA) (eShop).jpg
-assets.background: Background/AiRace Xeno (USA) (eShop).jpg
-assets.screenshot: Screenshot/AiRace Xeno (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -593,9 +536,6 @@ description:
 release: 2014-04-30
 players: 1
 assets.boxfront: BoxFront/Alien on the Run (USA) (eShop).jpg
-assets.boxback: BoxBack/Alien on the Run (USA) (eShop).jpg
-assets.background: Background/Alien on the Run (USA) (eShop).jpg
-assets.screenshot: Screenshot/Alien on the Run (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -629,9 +569,6 @@ description:
 release: 2017-11-21
 players: 1
 assets.boxfront: BoxFront/Apollo Justice - Ace Attorney (USA) (eShop).jpg
-assets.boxback: BoxBack/Apollo Justice - Ace Attorney (USA) (eShop).jpg
-assets.background: Background/Apollo Justice - Ace Attorney (USA) (eShop).jpg
-assets.screenshot: Screenshot/Apollo Justice - Ace Attorney (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -661,9 +598,6 @@ description:
 release: 2013-07-18
 players: 1
 assets.boxfront: BoxFront/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop).jpg
-assets.boxback: BoxBack/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop).jpg
-assets.background: Background/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop).jpg
-assets.screenshot: Screenshot/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -686,9 +620,6 @@ description:
 release: 2022-12-16
 players: 1
 assets.boxfront: BoxFront/Automaton Lung (USA) (eShop).jpg
-assets.boxback: BoxBack/Automaton Lung (USA) (eShop).jpg
-assets.background: Background/Automaton Lung (USA) (eShop).jpg
-assets.screenshot: Screenshot/Automaton Lung (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -720,9 +651,6 @@ description:
 release: 2018-05-17
 players: 1
 assets.boxfront: BoxFront/Block-a-Pix Color (USA) (eShop).jpg
-assets.boxback: BoxBack/Block-a-Pix Color (USA) (eShop).jpg
-assets.background: Background/Block-a-Pix Color (USA) (eShop).jpg
-assets.screenshot: Screenshot/Block-a-Pix Color (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -748,9 +676,6 @@ description:
 release: 2016-06-30
 players: 1
 assets.boxfront: BoxFront/BoxBoxBoy! (USA) (eShop).jpg
-assets.boxback: BoxBack/BoxBoxBoy! (USA) (eShop).jpg
-assets.background: Background/BoxBoxBoy! (USA) (eShop).jpg
-assets.screenshot: Screenshot/BoxBoxBoy! (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -773,9 +698,6 @@ description:
 release: 2015-01-14
 players: 1
 assets.boxfront: BoxFront/BoxBoy! (USA) (eShop).jpg
-assets.boxback: BoxBack/BoxBoy! (USA) (eShop).jpg
-assets.background: Background/BoxBoy! (USA) (eShop).jpg
-assets.screenshot: Screenshot/BoxBoy! (USA) (eShop).jpg
 assets.video: Video/BoxBoy! (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -807,9 +729,6 @@ description:
 release: 2016-11-30
 players: 1
 assets.boxfront: BoxFront/Brave Dungeon (USA) (eShop).jpg
-assets.boxback: BoxBack/Brave Dungeon (USA) (eShop).jpg
-assets.background: Background/Brave Dungeon (USA) (eShop).jpg
-assets.screenshot: Screenshot/Brave Dungeon (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -837,9 +756,6 @@ description:
 release: 2017-02-02
 players: 1
 assets.boxfront: BoxFront/Bye-Bye BoxBoy! (USA) (eShop).jpg
-assets.boxback: BoxBack/Bye-Bye BoxBoy! (USA) (eShop).jpg
-assets.background: Background/Bye-Bye BoxBoy! (USA) (eShop).jpg
-assets.screenshot: Screenshot/Bye-Bye BoxBoy! (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -873,9 +789,6 @@ description:
 release: 2012-10-04
 players: 1
 assets.boxfront: BoxFront/Cave Story (USA) (eShop).jpg
-assets.boxback: BoxBack/Cave Story (USA) (eShop).jpg
-assets.background: Background/Cave Story (USA) (eShop).jpg
-assets.screenshot: Screenshot/Cave Story (USA) (eShop).jpg
 assets.video: Video/Cave Story (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -902,9 +815,6 @@ description:
 release: 2013-06-12
 players: 1
 assets.boxfront: BoxFront/Chain Blaster (USA) (eShop).jpg
-assets.boxback: BoxBack/Chain Blaster (USA) (eShop).jpg
-assets.background: Background/Chain Blaster (USA) (eShop).jpg
-assets.screenshot: Screenshot/Chain Blaster (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -937,9 +847,6 @@ description:
 release: 2014-01-09
 players: 1
 assets.boxfront: BoxFront/Chibi-Robo! Photo Finder (USA) (eShop).jpg
-assets.boxback: BoxBack/Chibi-Robo! Photo Finder (USA) (eShop).jpg
-assets.background: Background/Chibi-Robo! Photo Finder (USA) (eShop).jpg
-assets.screenshot: Screenshot/Chibi-Robo! Photo Finder (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -969,9 +876,6 @@ description:
 release: 2016-10-25
 players: 1
 assets.boxfront: BoxFront/Corpse Party (USA) (eShop).jpg
-assets.boxback: BoxBack/Corpse Party (USA) (eShop).jpg
-assets.background: Background/Corpse Party (USA) (eShop).jpg
-assets.screenshot: Screenshot/Corpse Party (USA) (eShop).jpg
 assets.video: Video/Corpse Party (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -995,9 +899,6 @@ description:
 release: 2012-10-31
 players: 1
 assets.boxfront: BoxFront/Crashmo (USA) (eShop).jpg
-assets.boxback: BoxBack/Crashmo (USA) (eShop).jpg
-assets.background: Background/Crashmo (USA) (eShop).jpg
-assets.screenshot: Screenshot/Crashmo (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1023,9 +924,6 @@ description:
 release: 2012-12-13
 players: 1
 assets.boxfront: BoxFront/Crimson Shroud (USA) (eShop).jpg
-assets.boxback: BoxBack/Crimson Shroud (USA) (eShop).jpg
-assets.background: Background/Crimson Shroud (USA) (eShop).jpg
-assets.screenshot: Screenshot/Crimson Shroud (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1044,9 +942,6 @@ description:
 release: 2014-07-23
 players: 1
 assets.boxfront: BoxFront/Dedede's Drum Dash Deluxe (USA) (eShop).jpg
-assets.boxback: BoxBack/Dedede's Drum Dash Deluxe (USA) (eShop).jpg
-assets.background: Background/Dedede's Drum Dash Deluxe (USA) (eShop).jpg
-assets.screenshot: Screenshot/Dedede's Drum Dash Deluxe (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1074,9 +969,6 @@ description:
 release: 2016-02-11
 players: 1
 assets.boxfront: BoxFront/Dementium Remastered (USA) (eShop).jpg
-assets.boxback: BoxBack/Dementium Remastered (USA) (eShop).jpg
-assets.background: Background/Dementium Remastered (USA) (eShop).jpg
-assets.screenshot: Screenshot/Dementium Remastered (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1109,9 +1001,6 @@ description:
 release: 2013-05-30
 players: 1
 assets.boxfront: BoxFront/Denpa Men 2, The - Beyond the Waves (USA) (eShop).jpg
-assets.boxback: BoxBack/Denpa Men 2, The - Beyond the Waves (USA) (eShop).jpg
-assets.background: Background/Denpa Men 2, The - Beyond the Waves (USA) (eShop).jpg
-assets.screenshot: Screenshot/Denpa Men 2, The - Beyond the Waves (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1138,9 +1027,6 @@ description:
 release: 2014-05-08
 players: 1
 assets.boxfront: BoxFront/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop).jpg
-assets.boxback: BoxBack/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop).jpg
-assets.background: Background/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop).jpg
-assets.screenshot: Screenshot/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1182,9 +1068,6 @@ description:
 release: 2012-09-27
 players: 1
 assets.boxfront: BoxFront/Denpa Men, The - They Came By Wave (USA) (eShop).jpg
-assets.boxback: BoxBack/Denpa Men, The - They Came By Wave (USA) (eShop).jpg
-assets.background: Background/Denpa Men, The - They Came By Wave (USA) (eShop).jpg
-assets.screenshot: Screenshot/Denpa Men, The - They Came By Wave (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1216,9 +1099,6 @@ description:
 release: 2012-02-22
 players: 1
 assets.boxfront: BoxFront/Dillon's Rolling Western (USA) (eShop).jpg
-assets.boxback: BoxBack/Dillon's Rolling Western (USA) (eShop).jpg
-assets.background: Background/Dillon's Rolling Western (USA) (eShop).jpg
-assets.screenshot: Screenshot/Dillon's Rolling Western (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1242,9 +1122,6 @@ description:
 release: 2013-04-11
 players: 1
 assets.boxfront: BoxFront/Dillon's Rolling Western - The Last Ranger (USA) (eShop).jpg
-assets.boxback: BoxBack/Dillon's Rolling Western - The Last Ranger (USA) (eShop).jpg
-assets.background: Background/Dillon's Rolling Western - The Last Ranger (USA) (eShop).jpg
-assets.screenshot: Screenshot/Dillon's Rolling Western - The Last Ranger (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1272,9 +1149,6 @@ description:
 release: 2015-06-11
 players: 2
 assets.boxfront: BoxFront/Dr. Mario Miracle Cure (World) (eShop).jpg
-assets.boxback: BoxBack/Dr. Mario Miracle Cure (World) (eShop).jpg
-assets.background: Background/Dr. Mario Miracle Cure (World) (eShop).jpg
-assets.screenshot: Screenshot/Dr. Mario Miracle Cure (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1315,9 +1189,6 @@ description:
 release: 2013-11-27
 players: 1
 assets.boxfront: BoxFront/Excave (USA) (eShop).jpg
-assets.boxback: BoxBack/Excave (USA) (eShop).jpg
-assets.background: Background/Excave (USA) (eShop).jpg
-assets.screenshot: Screenshot/Excave (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1355,9 +1226,6 @@ description:
 release: 2014-07-16
 players: 1
 assets.boxfront: BoxFront/Excave II - Wizard of the Underworld (USA) (eShop).jpg
-assets.boxback: BoxBack/Excave II - Wizard of the Underworld (USA) (eShop).jpg
-assets.background: Background/Excave II - Wizard of the Underworld (USA) (eShop).jpg
-assets.screenshot: Screenshot/Excave II - Wizard of the Underworld (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1381,9 +1249,6 @@ description:
 release: 2015-01-28
 players: 1
 assets.boxfront: BoxFront/Excave III - Tower of Destiny (USA) (eShop).jpg
-assets.boxback: BoxBack/Excave III - Tower of Destiny (USA) (eShop).jpg
-assets.background: Background/Excave III - Tower of Destiny (USA) (eShop).jpg
-assets.screenshot: Screenshot/Excave III - Tower of Destiny (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1403,9 +1268,6 @@ description:
 release: 2015-02-10
 players: 1
 assets.boxfront: BoxFront/Flipnote Studio 3D (USA) (eShop).jpg
-assets.boxback: BoxBack/Flipnote Studio 3D (USA) (eShop).jpg
-assets.background: Background/Flipnote Studio 3D (USA) (eShop).jpg
-assets.screenshot: Screenshot/Flipnote Studio 3D (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1431,9 +1293,6 @@ description:
 release: 2012-12-27
 players: 1
 assets.boxfront: BoxFront/Fluidity - Spin Cycle (USA) (eShop).jpg
-assets.boxback: BoxBack/Fluidity - Spin Cycle (USA) (eShop).jpg
-assets.background: Background/Fluidity - Spin Cycle (USA) (eShop).jpg
-assets.screenshot: Screenshot/Fluidity - Spin Cycle (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1460,9 +1319,6 @@ description:
 release: 2012-09-13
 players: 1
 assets.boxfront: BoxFront/Fractured Soul (USA) (eshop).jpg
-assets.boxback: BoxBack/Fractured Soul (USA) (eshop).jpg
-assets.background: Background/Fractured Soul (USA) (eshop).jpg
-assets.screenshot: Screenshot/Fractured Soul (USA) (eshop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1485,9 +1341,6 @@ description:
 release: 2022-04-21
 players: 1
 assets.boxfront: BoxFront/Fragrant Story (USA) (eShop).jpg
-assets.boxback: BoxBack/Fragrant Story (USA) (eShop).jpg
-assets.background: Background/Fragrant Story (USA) (eShop).jpg
-assets.screenshot: Screenshot/Fragrant Story (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1525,9 +1378,6 @@ description:
 release: 2022-09-16
 players: 1
 assets.boxfront: BoxFront/Go! Go! Kokopolo (USA) (eShop).jpg
-assets.boxback: BoxBack/Go! Go! Kokopolo (USA) (eShop).jpg
-assets.background: Background/Go! Go! Kokopolo (USA) (eShop).jpg
-assets.screenshot: Screenshot/Go! Go! Kokopolo (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1548,9 +1398,6 @@ description:
 release: 2016-07-28
 players: 4
 assets.boxfront: BoxFront/Gotta Protectors (USA) (eShop).jpg
-assets.boxback: BoxBack/Gotta Protectors (USA) (eShop).jpg
-assets.background: Background/Gotta Protectors (USA) (eShop).jpg
-assets.screenshot: Screenshot/Gotta Protectors (USA) (eShop).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1569,9 +1416,6 @@ description:
 release: 2012-12-20
 players: 1
 assets.boxfront: BoxFront/Gunman Clive (USA) (eShop).jpg
-assets.boxback: BoxBack/Gunman Clive (USA) (eShop).jpg
-assets.background: Background/Gunman Clive (USA) (eShop).jpg
-assets.screenshot: Screenshot/Gunman Clive (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1591,9 +1435,6 @@ description:
 release: 2015-01-29
 players: 1
 assets.boxfront: BoxFront/Gunman Clive 2 (USA) (eShop).jpg
-assets.boxback: BoxBack/Gunman Clive 2 (USA) (eShop).jpg
-assets.background: Background/Gunman Clive 2 (USA) (eShop).jpg
-assets.screenshot: Screenshot/Gunman Clive 2 (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1623,9 +1464,6 @@ description:
 release: 2016-10-13
 players: 1
 assets.boxfront: BoxFront/Gurumin 3D - A Monstrous Adventure (USA) (eShop).jpg
-assets.boxback: BoxBack/Gurumin 3D - A Monstrous Adventure (USA) (eShop).jpg
-assets.background: Background/Gurumin 3D - A Monstrous Adventure (USA) (eShop).jpg
-assets.screenshot: Screenshot/Gurumin 3D - A Monstrous Adventure (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1647,9 +1485,6 @@ description:
 release: 2012-03-28
 players: 1
 assets.boxfront: BoxFront/HarmoKnight (USA) (eShop).jpg
-assets.boxback: BoxBack/HarmoKnight (USA) (eShop).jpg
-assets.background: Background/HarmoKnight (USA) (eShop).jpg
-assets.screenshot: Screenshot/HarmoKnight (USA) (eShop).jpg
 assets.video: Video/HarmoKnight (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -1675,9 +1510,6 @@ description:
 release: 2021-05-13
 players: 1
 assets.boxfront: BoxFront/Harold Reborn (USA) (eShop).jpg
-assets.boxback: BoxBack/Harold Reborn (USA) (eShop).jpg
-assets.background: Background/Harold Reborn (USA) (eShop).jpg
-assets.screenshot: Screenshot/Harold Reborn (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1693,9 +1525,6 @@ description:
 release: 2020-12-28
 players: 1
 assets.boxfront: BoxFront/Harold's Walk (USA) (eShop).jpg
-assets.boxback: BoxBack/Harold's Walk (USA) (eShop).jpg
-assets.background: Background/Harold's Walk (USA) (eShop).jpg
-assets.screenshot: Screenshot/Harold's Walk (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1725,9 +1554,6 @@ description:
 release: 2016-11-03
 players: 1
 assets.boxfront: BoxFront/Ice Station Z (USA) (eShop).jpg
-assets.boxback: BoxBack/Ice Station Z (USA) (eShop).jpg
-assets.background: Background/Ice Station Z (USA) (eShop).jpg
-assets.screenshot: Screenshot/Ice Station Z (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1752,9 +1578,6 @@ description:
 release: 2015-02-13
 players: 4
 assets.boxfront: BoxFront/Ironfall Invasion (USA) (eShop).jpg
-assets.boxback: BoxBack/Ironfall Invasion (USA) (eShop).jpg
-assets.background: Background/Ironfall Invasion (USA) (eShop).jpg
-assets.screenshot: Screenshot/Ironfall Invasion (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1794,9 +1617,6 @@ description:
 release: 2013-11-13
 players: 1
 assets.boxfront: BoxFront/Jett Rocket II - The Wrath of Taikai (USA) (eShop).jpg
-assets.boxback: BoxBack/Jett Rocket II - The Wrath of Taikai (USA) (eShop).jpg
-assets.background: Background/Jett Rocket II - The Wrath of Taikai (USA) (eShop).jpg
-assets.screenshot: Screenshot/Jett Rocket II - The Wrath of Taikai (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1827,9 +1647,6 @@ description:
 release: 2011-06-07
 players: 1
 assets.boxfront: BoxFront/Kersploosh! (USA) (eShop).jpg
-assets.boxback: BoxBack/Kersploosh! (USA) (eShop).jpg
-assets.background: Background/Kersploosh! (USA) (eShop).jpg
-assets.screenshot: Screenshot/Kersploosh! (USA) (eShop).jpg
 assets.video: Video/Kersploosh! (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -1855,9 +1672,6 @@ description:
 release: 2011-10-21
 players: 2
 assets.boxfront: BoxFront/Ketzal's Corridors (USA) (eShop).jpg
-assets.boxback: BoxBack/Ketzal's Corridors (USA) (eShop).jpg
-assets.background: Background/Ketzal's Corridors (USA) (eShop).jpg
-assets.screenshot: Screenshot/Ketzal's Corridors (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1883,9 +1697,6 @@ description:
 release: 2014-07-23
 players: 4
 assets.boxfront: BoxFront/Kirby Fighters Deluxe (USA) (eShop).jpg
-assets.boxback: BoxBack/Kirby Fighters Deluxe (USA) (eShop).jpg
-assets.background: Background/Kirby Fighters Deluxe (USA) (eShop).jpg
-assets.screenshot: Screenshot/Kirby Fighters Deluxe (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1944,9 +1755,6 @@ description:
 release: 2017-07-04
 players: 1
 assets.boxfront: BoxFront/Kirby's Blowout Blast (World) (eShop).jpg
-assets.boxback: BoxBack/Kirby's Blowout Blast (World) (eShop).jpg
-assets.background: Background/Kirby's Blowout Blast (World) (eShop).jpg
-assets.screenshot: Screenshot/Kirby's Blowout Blast (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1981,9 +1789,6 @@ description:
 release: 2013-06-27
 players: 4
 assets.boxfront: BoxFront/Kokuga (USA) (eShop).jpg
-assets.boxback: BoxBack/Kokuga (USA) (eShop).jpg
-assets.background: Background/Kokuga (USA) (eShop).jpg
-assets.screenshot: Screenshot/Kokuga (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2022,9 +1827,6 @@ description:
 release: 2015-11-04
 players: 1
 assets.boxfront: BoxFront/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop).jpg
-assets.boxback: BoxBack/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop).jpg
-assets.background: Background/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop).jpg
-assets.screenshot: Screenshot/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2053,9 +1855,6 @@ description:
 release: 2017-12-21
 players: 1
 assets.boxfront: BoxFront/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop).jpg
-assets.boxback: BoxBack/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop).jpg
-assets.background: Background/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop).jpg
-assets.screenshot: Screenshot/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2094,9 +1893,6 @@ description:
 release: 2014-08-06
 players: 1
 assets.boxfront: BoxFront/Legend of Dark Witch, The (USA) (eShop).jpg
-assets.boxback: BoxBack/Legend of Dark Witch, The (USA) (eShop).jpg
-assets.background: Background/Legend of Dark Witch, The (USA) (eShop).jpg
-assets.screenshot: Screenshot/Legend of Dark Witch, The (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2122,9 +1918,6 @@ description:
 release: 2016-08-25
 players: 1
 assets.boxfront: BoxFront/Legend of Kusakari, The (USA) (eShop).jpg
-assets.boxback: BoxBack/Legend of Kusakari, The (USA) (eShop).jpg
-assets.background: Background/Legend of Kusakari, The (USA) (eShop).jpg
-assets.screenshot: Screenshot/Legend of Kusakari, The (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2149,9 +1942,6 @@ description:
 release: 2012-10-04
 players: 1
 assets.boxfront: BoxFront/Liberation Maiden (USA) (eShop).jpg
-assets.boxback: BoxBack/Liberation Maiden (USA) (eShop).jpg
-assets.background: Background/Liberation Maiden (USA) (eShop).jpg
-assets.screenshot: Screenshot/Liberation Maiden (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2180,9 +1970,6 @@ description:
 release: 2018-01-18
 players: 1
 assets.boxfront: BoxFront/Link-a-Pix Color (USA) (eShop).jpg
-assets.boxback: BoxBack/Link-a-Pix Color (USA) (eShop).jpg
-assets.background: Background/Link-a-Pix Color (USA) (eShop).jpg
-assets.screenshot: Screenshot/Link-a-Pix Color (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2210,9 +1997,6 @@ description:
 release: 2016-10-07
 players: 1
 assets.boxfront: BoxFront/Mario Party - Star Rush - Party Guest (USA) (eShop).jpg
-assets.boxback: BoxBack/Mario Party - Star Rush - Party Guest (USA) (eShop).jpg
-assets.background: Background/Mario Party - Star Rush - Party Guest (USA) (eShop).jpg
-assets.screenshot: Screenshot/Mario Party - Star Rush - Party Guest (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2235,9 +2019,6 @@ description:
 release: 2013-05-09
 players: 1
 assets.boxfront: BoxFront/Mario and Donkey Kong - Minis on the Move (USA) (eShop).jpg
-assets.boxback: BoxBack/Mario and Donkey Kong - Minis on the Move (USA) (eShop).jpg
-assets.background: Background/Mario and Donkey Kong - Minis on the Move (USA) (eShop).jpg
-assets.screenshot: Screenshot/Mario and Donkey Kong - Minis on the Move (USA) (eShop).jpg
 assets.video: Video/Mario and Donkey Kong - Minis on the Move (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -2264,9 +2045,6 @@ description:
 release: 2015-03-05
 players: 1
 assets.boxfront: BoxFront/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).jpg
-assets.boxback: BoxBack/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).jpg
-assets.background: Background/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).jpg
-assets.screenshot: Screenshot/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2292,9 +2070,6 @@ description:
 release: 2016-01-01
 players: 1
 assets.boxfront: BoxFront/Mini Mario & Friends (USA) (eShop).jpg
-assets.boxback: BoxBack/Mini Mario & Friends (USA) (eShop).jpg
-assets.background: Background/Mini Mario & Friends (USA) (eShop).jpg
-assets.screenshot: Screenshot/Mini Mario & Friends (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2346,9 +2121,6 @@ description:
 release: 2013-03-19
 players: 1
 assets.boxfront: BoxFront/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop).jpg
-assets.boxback: BoxBack/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop).jpg
-assets.background: Background/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop).jpg
-assets.screenshot: Screenshot/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2369,9 +2141,6 @@ description:
 release: 2018-08-12
 players: 1
 assets.boxfront: BoxFront/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop).jpg
-assets.boxback: BoxBack/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop).jpg
-assets.background: Background/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop).jpg
-assets.screenshot: Screenshot/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2398,9 +2167,6 @@ description:
 release: 2014-05-15
 players: 1
 assets.boxfront: BoxFront/Moon Chronicles (USA) (eShop).jpg
-assets.boxback: BoxBack/Moon Chronicles (USA) (eShop).jpg
-assets.background: Background/Moon Chronicles (USA) (eShop).jpg
-assets.screenshot: Screenshot/Moon Chronicles (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2424,9 +2190,6 @@ description:
 release: 2013-03-07
 players: 1
 assets.boxfront: BoxFront/Nano Assault EX (USA) (eShop).jpg
-assets.boxback: BoxBack/Nano Assault EX (USA) (eShop).jpg
-assets.background: Background/Nano Assault EX (USA) (eShop).jpg
-assets.screenshot: Screenshot/Nano Assault EX (USA) (eShop).jpg
 assets.video: Video/Nano Assault EX (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -2458,9 +2221,6 @@ description:
 release: 2014-10-09
 players: 1
 assets.boxfront: BoxFront/Ninja Battle Heroes (USA) (eShop).jpg
-assets.boxback: BoxBack/Ninja Battle Heroes (USA) (eShop).jpg
-assets.background: Background/Ninja Battle Heroes (USA) (eShop).jpg
-assets.screenshot: Screenshot/Ninja Battle Heroes (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2484,9 +2244,6 @@ description:
 release: 2014-12-17
 players: 1
 assets.boxfront: BoxFront/Nintendo Badge Arcade (USA) (eShop).jpg
-assets.boxback: BoxBack/Nintendo Badge Arcade (USA) (eShop).jpg
-assets.background: Background/Nintendo Badge Arcade (USA) (eShop).jpg
-assets.screenshot: Screenshot/Nintendo Badge Arcade (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2531,9 +2288,6 @@ description:
 release: 2008-04-18
 players: 1
 assets.boxfront: BoxFront/Noitu Love Devolution (USA) (eShop).jpg
-assets.boxback: BoxBack/Noitu Love Devolution (USA) (eShop).jpg
-assets.background: Background/Noitu Love Devolution (USA) (eShop).jpg
-assets.screenshot: Screenshot/Noitu Love Devolution (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2548,9 +2302,6 @@ description:
 release: 2023-03-08
 players: 1
 assets.boxfront: BoxFront/Otosan - Nintendo 3DS Edition (USA) (eShop).jpg
-assets.boxback: BoxBack/Otosan - Nintendo 3DS Edition (USA) (eShop).jpg
-assets.background: Background/Otosan - Nintendo 3DS Edition (USA) (eShop).jpg
-assets.screenshot: Screenshot/Otosan - Nintendo 3DS Edition (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2566,9 +2317,6 @@ description:
 release: 2013-10-24
 players: 1
 assets.boxfront: BoxFront/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop).jpg
-assets.boxback: BoxBack/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop).jpg
-assets.background: Background/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop).jpg
-assets.screenshot: Screenshot/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2593,9 +2341,6 @@ description:
 release: 2016-09-08
 players: 1
 assets.boxfront: BoxFront/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop).jpg
-assets.boxback: BoxBack/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop).jpg
-assets.background: Background/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop).jpg
-assets.screenshot: Screenshot/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2648,9 +2393,6 @@ description:
 release: 2014-12-09
 players: 1
 assets.boxfront: BoxFront/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop).jpg
-assets.boxback: BoxBack/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop).jpg
-assets.background: Background/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop).jpg
-assets.screenshot: Screenshot/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2688,9 +2430,6 @@ description:
 release: 2014-04-23
 players: 1
 assets.boxfront: BoxFront/Photos with Mario (USA) (eShop).jpg
-assets.boxback: BoxBack/Photos with Mario (USA) (eShop).jpg
-assets.background: Background/Photos with Mario (USA) (eShop).jpg
-assets.screenshot: Screenshot/Photos with Mario (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2731,9 +2470,6 @@ description:
 release: 2017-03-30
 players: 1
 assets.boxfront: BoxFront/Pic-a-Pix Color (USA) (eShop).jpg
-assets.boxback: BoxBack/Pic-a-Pix Color (USA) (eShop).jpg
-assets.background: Background/Pic-a-Pix Color (USA) (eShop).jpg
-assets.screenshot: Screenshot/Pic-a-Pix Color (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2759,9 +2495,6 @@ description:
 release: 2011-07-27
 players: 1
 assets.boxfront: BoxFront/Picross e (USA) (eShop).jpg
-assets.boxback: BoxBack/Picross e (USA) (eShop).jpg
-assets.background: Background/Picross e (USA) (eShop).jpg
-assets.screenshot: Screenshot/Picross e (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2782,9 +2515,6 @@ description:
 release: 2013-07-25
 players: 1
 assets.boxfront: BoxFront/Picross e2 (USA) (eShop).jpg
-assets.boxback: BoxBack/Picross e2 (USA) (eShop).jpg
-assets.background: Background/Picross e2 (USA) (eShop).jpg
-assets.screenshot: Screenshot/Picross e2 (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2818,9 +2548,6 @@ description:
 release: 2013-10-03
 players: 1
 assets.boxfront: BoxFront/Picross e3 (USA) (eShop).jpg
-assets.boxback: BoxBack/Picross e3 (USA) (eShop).jpg
-assets.background: Background/Picross e3 (USA) (eShop).jpg
-assets.screenshot: Screenshot/Picross e3 (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2844,9 +2571,6 @@ description:
 release: 2014-05-01
 players: 1
 assets.boxfront: BoxFront/Picross e4 (USA) (eShop).jpg
-assets.boxback: BoxBack/Picross e4 (USA) (eShop).jpg
-assets.background: Background/Picross e4 (USA) (eShop).jpg
-assets.screenshot: Screenshot/Picross e4 (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2873,9 +2597,6 @@ description:
 release: 2014-11-13
 players: 1
 assets.boxfront: BoxFront/Picross e5 (USA) (eShop).jpg
-assets.boxback: BoxBack/Picross e5 (USA) (eShop).jpg
-assets.background: Background/Picross e5 (USA) (eShop).jpg
-assets.screenshot: Screenshot/Picross e5 (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2904,9 +2625,6 @@ description:
 release: 2015-08-06
 players: 1
 assets.boxfront: BoxFront/Picross e6 (USA) (eShop).jpg
-assets.boxback: BoxBack/Picross e6 (USA) (eShop).jpg
-assets.background: Background/Picross e6 (USA) (eShop).jpg
-assets.screenshot: Screenshot/Picross e6 (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2934,9 +2652,6 @@ description:
 release: 2016-12-15
 players: 1
 assets.boxfront: BoxFront/Picross e7 (USA) (eShop).jpg
-assets.boxback: BoxBack/Picross e7 (USA) (eShop).jpg
-assets.background: Background/Picross e7 (USA) (eShop).jpg
-assets.screenshot: Screenshot/Picross e7 (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2971,9 +2686,6 @@ description:
 release: 2014-10-30
 players: 1
 assets.boxfront: BoxFront/Pixel Paint (USA) (eShop).jpg
-assets.boxback: BoxBack/Pixel Paint (USA) (eShop).jpg
-assets.background: Background/Pixel Paint (USA) (eShop).jpg
-assets.screenshot: Screenshot/Pixel Paint (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2997,9 +2709,6 @@ description:
 release: 2018-11-29
 players: 1
 assets.boxfront: BoxFront/PixelMaker Studio (USA) (eShop).jpg
-assets.boxback: BoxBack/PixelMaker Studio (USA) (eShop).jpg
-assets.background: Background/PixelMaker Studio (USA) (eShop).jpg
-assets.screenshot: Screenshot/PixelMaker Studio (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3019,9 +2728,6 @@ description:
 release: 2013-07-31
 players: 1
 assets.boxfront: BoxFront/Pocket Card Jockey (USA) (eShop).jpg
-assets.boxback: BoxBack/Pocket Card Jockey (USA) (eShop).jpg
-assets.background: Background/Pocket Card Jockey (USA) (eShop).jpg
-assets.screenshot: Screenshot/Pocket Card Jockey (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3045,9 +2751,6 @@ description:
 release: 2014-02-04
 players: 1
 assets.boxfront: BoxFront/Pokemon Bank (World) (eShop).jpg
-assets.boxback: BoxBack/Pokemon Bank (World) (eShop).jpg
-assets.background: Background/Pokemon Bank (World) (eShop).jpg
-assets.screenshot: Screenshot/Pokemon Bank (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3076,9 +2779,6 @@ description:
 release: 2014-03-12
 players: 4
 assets.boxfront: BoxFront/Pokemon Battle Trozei (World) (eShop).jpg
-assets.boxback: BoxBack/Pokemon Battle Trozei (World) (eShop).jpg
-assets.background: Background/Pokemon Battle Trozei (World) (eShop).jpg
-assets.screenshot: Screenshot/Pokemon Battle Trozei (World) (eShop).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3098,9 +2798,6 @@ description:
 release: 2012-10-07
 players: 1
 assets.boxfront: BoxFront/Pokemon Dream Radar (World) (eShop).jpg
-assets.boxback: BoxBack/Pokemon Dream Radar (World) (eShop).jpg
-assets.background: Background/Pokemon Dream Radar (World) (eShop).jpg
-assets.screenshot: Screenshot/Pokemon Dream Radar (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3143,9 +2840,6 @@ description:
 release: 2015-12-03
 players: 1
 assets.boxfront: BoxFront/Pokemon Picross (World) (eShop).jpg
-assets.boxback: BoxBack/Pokemon Picross (World) (eShop).jpg
-assets.background: Background/Pokemon Picross (World) (eShop).jpg
-assets.screenshot: Screenshot/Pokemon Picross (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3208,9 +2902,6 @@ description:
 release: 2015-04-08
 players: 1
 assets.boxfront: BoxFront/Pokemon Rumble World (World) (eShop).jpg
-assets.boxback: BoxBack/Pokemon Rumble World (World) (eShop).jpg
-assets.background: Background/Pokemon Rumble World (World) (eShop).jpg
-assets.screenshot: Screenshot/Pokemon Rumble World (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3230,9 +2921,6 @@ description:
 release: 2015-02-18
 players: 1
 assets.boxfront: BoxFront/Pokemon Shuffle (World) (eShop).jpg
-assets.boxback: BoxBack/Pokemon Shuffle (World) (eShop).jpg
-assets.background: Background/Pokemon Shuffle (World) (eShop).jpg
-assets.screenshot: Screenshot/Pokemon Shuffle (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3256,9 +2944,6 @@ description:
 release: 2011-10-05
 players: 1
 assets.boxfront: BoxFront/Pushmo (USA) (eShop).jpg
-assets.boxback: BoxBack/Pushmo (USA) (eShop).jpg
-assets.background: Background/Pushmo (USA) (eShop).jpg
-assets.screenshot: Screenshot/Pushmo (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3274,9 +2959,6 @@ description:
 release: 2016-11-24
 players: 1
 assets.boxfront: BoxFront/RPGMaker Fes Player (USA) (eShop).jpg
-assets.boxback: BoxBack/RPGMaker Fes Player (USA) (eShop).jpg
-assets.background: Background/RPGMaker Fes Player (USA) (eShop).jpg
-assets.screenshot: Screenshot/RPGMaker Fes Player (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3313,9 +2995,6 @@ description:
 release: 2014-04-30
 players: 1
 assets.boxfront: BoxFront/River City - Knights of Justice (USA) (eShop).jpg
-assets.boxback: BoxBack/River City - Knights of Justice (USA) (eShop).jpg
-assets.background: Background/River City - Knights of Justice (USA) (eShop).jpg
-assets.screenshot: Screenshot/River City - Knights of Justice (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3348,9 +3027,6 @@ description:
 release: 2015-04-09
 players: 1
 assets.boxfront: BoxFront/Runny Egg (USA) (eShop).jpg
-assets.boxback: BoxBack/Runny Egg (USA) (eShop).jpg
-assets.background: Background/Runny Egg (USA) (eShop).jpg
-assets.screenshot: Screenshot/Runny Egg (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3385,9 +3061,6 @@ description:
 release: 2014-04-03
 players: 1
 assets.boxfront: BoxFront/Rusty's Real Deal Baseball (USA) (eShop).jpg
-assets.boxback: BoxBack/Rusty's Real Deal Baseball (USA) (eShop).jpg
-assets.background: Background/Rusty's Real Deal Baseball (USA) (eShop).jpg
-assets.screenshot: Screenshot/Rusty's Real Deal Baseball (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3417,9 +3090,6 @@ description:
 release: 2014-12-17
 players: 1
 assets.boxfront: BoxFront/Sadame (USA) (eShop).jpg
-assets.boxback: BoxBack/Sadame (USA) (eShop).jpg
-assets.background: Background/Sadame (USA) (eShop).jpg
-assets.screenshot: Screenshot/Sadame (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3450,9 +3120,6 @@ description:
 release: 2012-02-02
 players: 1
 assets.boxfront: BoxFront/Sakura Samurai - Art of the Sword (USA) (eShop).jpg
-assets.boxback: BoxBack/Sakura Samurai - Art of the Sword (USA) (eShop).jpg
-assets.background: Background/Sakura Samurai - Art of the Sword (USA) (eShop).jpg
-assets.screenshot: Screenshot/Sakura Samurai - Art of the Sword (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3473,9 +3140,6 @@ description:
 release: 2013-03-26
 players: 1
 assets.boxfront: BoxFront/Save Data Transfer Tool (World) (eShop).jpg
-assets.boxback: BoxBack/Save Data Transfer Tool (World) (eShop).jpg
-assets.background: Background/Save Data Transfer Tool (World) (eShop).jpg
-assets.screenshot: Screenshot/Save Data Transfer Tool (World) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3508,9 +3172,6 @@ description:
 release: 2013-11-14
 players: 1
 assets.boxfront: BoxFront/Senran Kagura Burst (USA) (eShop).jpg
-assets.boxback: BoxBack/Senran Kagura Burst (USA) (eShop).jpg
-assets.background: Background/Senran Kagura Burst (USA) (eShop).jpg
-assets.screenshot: Screenshot/Senran Kagura Burst (USA) (eShop).jpg
 assets.video: Video/Senran Kagura Burst (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -3532,9 +3193,6 @@ description:
 release: 2016-10-13
 players: 1
 assets.boxfront: BoxFront/Severed (USA) (eShop).jpg
-assets.boxback: BoxBack/Severed (USA) (eShop).jpg
-assets.background: Background/Severed (USA) (eShop).jpg
-assets.screenshot: Screenshot/Severed (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3572,9 +3230,6 @@ description:
 release: 2020-01-02
 players: 1
 assets.boxfront: BoxFront/Silver Falls - 3 Down Stars (USA) (eShop).jpg
-assets.boxback: BoxBack/Silver Falls - 3 Down Stars (USA) (eShop).jpg
-assets.background: Background/Silver Falls - 3 Down Stars (USA) (eShop).jpg
-assets.screenshot: Screenshot/Silver Falls - 3 Down Stars (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3603,9 +3258,6 @@ description:
 release: 2023-03-09
 players: 1
 assets.boxfront: BoxFront/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop).jpg
-assets.boxback: BoxBack/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop).jpg
-assets.background: Background/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop).jpg
-assets.screenshot: Screenshot/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3642,9 +3294,6 @@ description:
 release: 2022-09-15
 players: 1
 assets.boxfront: BoxFront/Silver Falls - Guardians and Metal Exterminators (USA) (eShop).jpg
-assets.boxback: BoxBack/Silver Falls - Guardians and Metal Exterminators (USA) (eShop).jpg
-assets.background: Background/Silver Falls - Guardians and Metal Exterminators (USA) (eShop).jpg
-assets.screenshot: Screenshot/Silver Falls - Guardians and Metal Exterminators (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3688,9 +3337,6 @@ description:
 release: 2021-01-14
 players: 1
 assets.boxfront: BoxFront/Silver Falls - Undertakers (USA) (eShop).jpg
-assets.boxback: BoxBack/Silver Falls - Undertakers (USA) (eShop).jpg
-assets.background: Background/Silver Falls - Undertakers (USA) (eShop).jpg
-assets.screenshot: Screenshot/Silver Falls - Undertakers (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3711,9 +3357,6 @@ description:
 release: 2015-06-14
 players: 1
 assets.boxfront: BoxFront/Smash Controller (USA) (eShop).jpg
-assets.boxback: BoxBack/Smash Controller (USA) (eShop).jpg
-assets.background: Background/Smash Controller (USA) (eShop).jpg
-assets.screenshot: Screenshot/Smash Controller (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3781,9 +3424,6 @@ description:
 release: 2014-11-19
 players: 4
 assets.boxfront: BoxFront/SmileBASIC (USA) (eShop).jpg
-assets.boxback: BoxBack/SmileBASIC (USA) (eShop).jpg
-assets.background: Background/SmileBASIC (USA) (eShop).jpg
-assets.screenshot: Screenshot/SmileBASIC (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3807,9 +3447,6 @@ description:
 release: 2013-05-16
 players: 1
 assets.boxfront: BoxFront/Starship Damrey, The (USA) (eShop).jpg
-assets.boxback: BoxBack/Starship Damrey, The (USA) (eShop).jpg
-assets.background: Background/Starship Damrey, The (USA) (eShop).jpg
-assets.screenshot: Screenshot/Starship Damrey, The (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3837,9 +3474,6 @@ description:
 release: 2014-02-13
 players: 1
 assets.boxfront: BoxFront/Steel Diver Sub Wars (USA) (eShop).jpg
-assets.boxback: BoxBack/Steel Diver Sub Wars (USA) (eShop).jpg
-assets.background: Background/Steel Diver Sub Wars (USA) (eShop).jpg
-assets.screenshot: Screenshot/Steel Diver Sub Wars (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3866,9 +3500,6 @@ description:
 release: 2015-05-12
 players: 1
 assets.boxfront: BoxFront/Stretchmo (USA) (eShop).jpg
-assets.boxback: BoxBack/Stretchmo (USA) (eShop).jpg
-assets.background: Background/Stretchmo (USA) (eShop).jpg
-assets.screenshot: Screenshot/Stretchmo (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3915,9 +3546,6 @@ description:
 release: 2016-11-17
 players: 1
 assets.boxfront: BoxFront/Swapdoodle (USA) (eShop).jpg
-assets.boxback: BoxBack/Swapdoodle (USA) (eShop).jpg
-assets.background: Background/Swapdoodle (USA) (eShop).jpg
-assets.screenshot: Screenshot/Swapdoodle (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3942,9 +3570,6 @@ description:
 release: 2011-12-21
 players: 1
 assets.boxfront: BoxFront/Swapnote (USA) (eShop).jpg
-assets.boxback: BoxBack/Swapnote (USA) (eShop).jpg
-assets.background: Background/Swapnote (USA) (eShop).jpg
-assets.screenshot: Screenshot/Swapnote (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3981,9 +3606,6 @@ description:
 release: 2017-04-13
 players: 1
 assets.boxfront: BoxFront/Team Kirby Clash Deluxe (USA) (eShop).jpg
-assets.boxback: BoxBack/Team Kirby Clash Deluxe (USA) (eShop).jpg
-assets.background: Background/Team Kirby Clash Deluxe (USA) (eShop).jpg
-assets.screenshot: Screenshot/Team Kirby Clash Deluxe (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4010,9 +3632,6 @@ description:
 release: 2012-08-08
 players: 1
 assets.boxfront: BoxFront/Tokyo Crash Mobs (USA) (eShop).jpg
-assets.boxback: BoxBack/Tokyo Crash Mobs (USA) (eShop).jpg
-assets.background: Background/Tokyo Crash Mobs (USA) (eShop).jpg
-assets.screenshot: Screenshot/Tokyo Crash Mobs (USA) (eShop).jpg
 assets.video: Video/Tokyo Crash Mobs (USA) (eShop).mp4
 x-co-op: No
 x-playable: Yes
@@ -4031,9 +3650,6 @@ description:
 release: 2013-11-14
 players: 1
 assets.boxfront: BoxFront/Wakedas (USA) (eShop).jpg
-assets.boxback: BoxBack/Wakedas (USA) (eShop).jpg
-assets.background: Background/Wakedas (USA) (eShop).jpg
-assets.screenshot: Screenshot/Wakedas (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4068,9 +3684,6 @@ description:
 release: 2014-02-20
 players: 1
 assets.boxfront: BoxFront/Weapon Shop de Omasse (USA) (eShop).jpg
-assets.boxback: BoxBack/Weapon Shop de Omasse (USA) (eShop).jpg
-assets.background: Background/Weapon Shop de Omasse (USA) (eShop).jpg
-assets.screenshot: Screenshot/Weapon Shop de Omasse (USA) (eShop).jpg
 x-co-op: No
 x-playable: Yes
 

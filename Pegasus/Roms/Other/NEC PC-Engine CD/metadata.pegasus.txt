@@ -42,9 +42,6 @@ description:
 release: 1993-10-29
 players: 1
 assets.boxfront: BoxFront/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).jpg
-assets.boxback: BoxBack/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).jpg
-assets.background: Background/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).jpg
-assets.screenshot: Screenshot/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).jpg
 assets.video: Video/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).mp4
 x-co-op: No
 x-playable: Yes
@@ -72,9 +69,6 @@ description:
 release: 1994-12-22
 players: 2
 assets.boxfront: BoxFront/Bomberman - Panic Bomber (Japan) (FABT).jpg
-assets.boxback: BoxBack/Bomberman - Panic Bomber (Japan) (FABT).jpg
-assets.background: Background/Bomberman - Panic Bomber (Japan) (FABT).jpg
-assets.screenshot: Screenshot/Bomberman - Panic Bomber (Japan) (FABT).jpg
 assets.video: Video/Bomberman - Panic Bomber (Japan) (FABT).mp4
 x-co-op: No
 x-playable: Yes
@@ -98,9 +92,6 @@ description:
 release: 1992-12-25
 players: 1
 assets.boxfront: BoxFront/Chou Aniki (Japan) (FAAT, FACT).jpg
-assets.boxback: BoxBack/Chou Aniki (Japan) (FAAT, FACT).jpg
-assets.background: Background/Chou Aniki (Japan) (FAAT, FACT).jpg
-assets.screenshot: Screenshot/Chou Aniki (Japan) (FAAT, FACT).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -116,9 +107,6 @@ description:
 release: 1992-03-26
 players: 1
 assets.boxfront: BoxFront/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1).jpg
-assets.boxback: BoxBack/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1).jpg
-assets.background: Background/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1).jpg
-assets.screenshot: Screenshot/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1).jpg
 assets.video: Video/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -144,9 +132,6 @@ description:
 release: 1995-11-24
 players: 2
 assets.boxfront: BoxFront/Ginga Fukei Densetsu Sapphire (Japan).jpg
-assets.boxback: BoxBack/Ginga Fukei Densetsu Sapphire (Japan).jpg
-assets.background: Background/Ginga Fukei Densetsu Sapphire (Japan).jpg
-assets.screenshot: Screenshot/Ginga Fukei Densetsu Sapphire (Japan).jpg
 assets.video: Video/Ginga Fukei Densetsu Sapphire (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -170,9 +155,6 @@ description:
 release: 1992-12-18
 players: 2
 assets.boxfront: BoxFront/Gradius II - Gofer no Yabou (Japan).jpg
-assets.boxback: BoxBack/Gradius II - Gofer no Yabou (Japan).jpg
-assets.background: Background/Gradius II - Gofer no Yabou (Japan).jpg
-assets.screenshot: Screenshot/Gradius II - Gofer no Yabou (Japan).jpg
 assets.video: Video/Gradius II - Gofer no Yabou (Japan).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -211,9 +193,6 @@ description:
 release: 1992-03-19
 players: 1
 assets.boxfront: BoxFront/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).jpg
-assets.boxback: BoxBack/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).jpg
-assets.background: Background/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).jpg
-assets.screenshot: Screenshot/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).jpg
 assets.video: Video/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -234,9 +213,6 @@ description:
 release: 1991-07-12
 players: 1
 assets.boxfront: BoxFront/Seirei Senshi Spriggan (Japan).jpg
-assets.boxback: BoxBack/Seirei Senshi Spriggan (Japan).jpg
-assets.background: Background/Seirei Senshi Spriggan (Japan).jpg
-assets.screenshot: Screenshot/Seirei Senshi Spriggan (Japan).jpg
 assets.video: Video/Seirei Senshi Spriggan (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -253,9 +229,6 @@ description:
 release: 1992-10-23
 players: 1
 assets.boxfront: BoxFront/Snatcher CD-ROMantic (Japan).jpg
-assets.boxback: BoxBack/Snatcher CD-ROMantic (Japan).jpg
-assets.background: Background/Snatcher CD-ROMantic (Japan).jpg
-assets.screenshot: Screenshot/Snatcher CD-ROMantic (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -271,9 +244,6 @@ description:
 release: 1992-05-01
 players: 1
 assets.boxfront: BoxFront/Spriggan Mark 2 - Re Terraform Project (Japan).jpg
-assets.boxback: BoxBack/Spriggan Mark 2 - Re Terraform Project (Japan).jpg
-assets.background: Background/Spriggan Mark 2 - Re Terraform Project (Japan).jpg
-assets.screenshot: Screenshot/Spriggan Mark 2 - Re Terraform Project (Japan).jpg
 assets.video: Video/Spriggan Mark 2 - Re Terraform Project (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -303,9 +273,6 @@ description:
 release: 1992-04-24
 players: 1
 assets.boxfront: BoxFront/Star Parodier (Japan) (Rev 2).jpg
-assets.boxback: BoxBack/Star Parodier (Japan) (Rev 2).jpg
-assets.background: Background/Star Parodier (Japan) (Rev 2).jpg
-assets.screenshot: Screenshot/Star Parodier (Japan) (Rev 2).jpg
 assets.video: Video/Star Parodier (Japan) (Rev 2).mp4
 x-co-op: No
 x-playable: Yes
@@ -330,9 +297,6 @@ description:
 release: 1990-03-16
 players: 1
 assets.boxfront: BoxFront/Super Darius (Japan).jpg
-assets.boxback: BoxBack/Super Darius (Japan).jpg
-assets.background: Background/Super Darius (Japan).jpg
-assets.screenshot: Screenshot/Super Darius (Japan).jpg
 assets.video: Video/Super Darius (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -360,9 +324,6 @@ description:
 release: 1994-05-27
 players: 1
 assets.boxfront: BoxFront/Tokimeki Memorial (Japan) (Rev 3).jpg
-assets.boxback: BoxBack/Tokimeki Memorial (Japan) (Rev 3).jpg
-assets.background: Background/Tokimeki Memorial (Japan) (Rev 3).jpg
-assets.screenshot: Screenshot/Tokimeki Memorial (Japan) (Rev 3).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -413,9 +374,6 @@ description:
 release: 1989-06-23
 players: 1
 assets.boxfront: BoxFront/Valis II (Japan).jpg
-assets.boxback: BoxBack/Valis II (Japan).jpg
-assets.background: Background/Valis II (Japan).jpg
-assets.screenshot: Screenshot/Valis II (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -468,9 +426,6 @@ description:
 release: 1990-09-07
 players: 1
 assets.boxfront: BoxFront/Valis III (Japan).jpg
-assets.boxback: BoxBack/Valis III (Japan).jpg
-assets.background: Background/Valis III (Japan).jpg
-assets.screenshot: Screenshot/Valis III (Japan).jpg
 assets.video: Video/Valis III (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -496,9 +451,6 @@ description:
 release: 1991-08-23
 players: 1
 assets.boxfront: BoxFront/Valis IV (Japan).jpg
-assets.boxback: BoxBack/Valis IV (Japan).jpg
-assets.background: Background/Valis IV (Japan).jpg
-assets.screenshot: Screenshot/Valis IV (Japan).jpg
 assets.video: Video/Valis IV (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -519,9 +471,6 @@ description:
 release: 1989-12-21
 players: 1
 assets.boxfront: BoxFront/Ys I & II (Japan).jpg
-assets.boxback: BoxBack/Ys I & II (Japan).jpg
-assets.background: Background/Ys I & II (Japan).jpg
-assets.screenshot: Screenshot/Ys I & II (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -542,9 +491,6 @@ description:
 release: 1991-03-22
 players: 1
 assets.boxfront: BoxFront/Ys III (Japan).jpg
-assets.boxback: BoxBack/Ys III (Japan).jpg
-assets.background: Background/Ys III (Japan).jpg
-assets.screenshot: Screenshot/Ys III (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -583,9 +529,6 @@ description:
 release: 1993-12-22
 players: 1
 assets.boxfront: BoxFront/Ys IV - The Dawn of Ys (Japan) (Rev 3).jpg
-assets.boxback: BoxBack/Ys IV - The Dawn of Ys (Japan) (Rev 3).jpg
-assets.background: Background/Ys IV - The Dawn of Ys (Japan) (Rev 3).jpg
-assets.screenshot: Screenshot/Ys IV - The Dawn of Ys (Japan) (Rev 3).jpg
 assets.video: Video/Ys IV - The Dawn of Ys (Japan) (Rev 3).mp4
 x-co-op: No
 x-playable: Yes

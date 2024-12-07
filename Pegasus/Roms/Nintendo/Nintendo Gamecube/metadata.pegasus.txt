@@ -31,8 +31,6 @@ release: 2002-03-13
 players: 4
 assets.boxfront: BoxFront/007 - Agent Under Fire (USA).jpg
 assets.boxback: BoxBack/007 - Agent Under Fire (USA).jpg
-assets.background: Background/007 - Agent Under Fire (USA).jpg
-assets.screenshot: Screenshot/007 - Agent Under Fire (USA).jpg
 assets.video: Video/007 - Agent Under Fire (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -52,8 +50,6 @@ release: 2006-02-26
 players: 1
 assets.boxfront: BoxFront/Chibi-Robo! Plug into Adventure! (USA).jpg
 assets.boxback: BoxBack/Chibi-Robo! Plug into Adventure! (USA).jpg
-assets.background: Background/Chibi-Robo! Plug into Adventure! (USA).jpg
-assets.screenshot: Screenshot/Chibi-Robo! Plug into Adventure! (USA).jpg
 assets.video: Video/Chibi-Robo! Plug into Adventure! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -85,8 +81,6 @@ release: 2002-11-16
 players: 1
 assets.boxfront: BoxFront/Darkened Skye (USA).jpg
 assets.boxback: BoxBack/Darkened Skye (USA).jpg
-assets.background: Background/Darkened Skye (USA).jpg
-assets.screenshot: Screenshot/Darkened Skye (USA).jpg
 assets.video: Video/Darkened Skye (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -112,8 +106,6 @@ release: 2005-03-14
 players: 1
 assets.boxfront: BoxFront/Donkey Kong Jungle Beat (USA).jpg
 assets.boxback: BoxBack/Donkey Kong Jungle Beat (USA).jpg
-assets.background: Background/Donkey Kong Jungle Beat (USA).jpg
-assets.screenshot: Screenshot/Donkey Kong Jungle Beat (USA).jpg
 assets.video: Video/Donkey Kong Jungle Beat (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -147,8 +139,6 @@ release: 2002-06-24
 players: 1
 assets.boxfront: BoxFront/Eternal Darkness - Sanity's Requiem (USA).jpg
 assets.boxback: BoxBack/Eternal Darkness - Sanity's Requiem (USA).jpg
-assets.background: Background/Eternal Darkness - Sanity's Requiem (USA).jpg
-assets.screenshot: Screenshot/Eternal Darkness - Sanity's Requiem (USA).jpg
 assets.video: Video/Eternal Darkness - Sanity's Requiem (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -168,8 +158,6 @@ release: 2004-02-09
 players: 4
 assets.boxfront: BoxFront/Final Fantasy - Crystal Chronicles (USA).jpg
 assets.boxback: BoxBack/Final Fantasy - Crystal Chronicles (USA).jpg
-assets.background: Background/Final Fantasy - Crystal Chronicles (USA).jpg
-assets.screenshot: Screenshot/Final Fantasy - Crystal Chronicles (USA).jpg
 assets.video: Video/Final Fantasy - Crystal Chronicles (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -193,8 +181,6 @@ release: 2005-08-15
 players: 1
 assets.boxfront: BoxFront/Geist (USA).jpg
 assets.boxback: BoxBack/Geist (USA).jpg
-assets.background: Background/Geist (USA).jpg
-assets.screenshot: Screenshot/Geist (USA).jpg
 assets.video: Video/Geist (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -215,8 +201,6 @@ release: 2003-11-17
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Collector's Edition (USA).jpg
 assets.boxback: BoxBack/Legend of Zelda, The - Collector's Edition (USA).jpg
-assets.background: Background/Legend of Zelda, The - Collector's Edition (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Collector's Edition (USA).jpg
 assets.video: Video/Legend of Zelda, The - Collector's Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -243,8 +227,6 @@ release: 2004-06-07
 players: 4
 assets.boxfront: BoxFront/Legend of Zelda, The - Four Swords Adventures (USA).jpg
 assets.boxback: BoxBack/Legend of Zelda, The - Four Swords Adventures (USA).jpg
-assets.background: Background/Legend of Zelda, The - Four Swords Adventures (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Four Swords Adventures (USA).jpg
 assets.video: Video/Legend of Zelda, The - Four Swords Adventures (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -271,8 +253,6 @@ release: 2003-02-17
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Ocarina of Time & Master Quest (USA).jpg
 assets.boxback: BoxBack/Legend of Zelda, The - Ocarina of Time & Master Quest (USA).jpg
-assets.background: Background/Legend of Zelda, The - Ocarina of Time & Master Quest (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Ocarina of Time & Master Quest (USA).jpg
 assets.video: Video/Legend of Zelda, The - Ocarina of Time & Master Quest (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -301,8 +281,6 @@ release: 2003-03-24
 players: 2
 assets.boxfront: BoxFront/Legend of Zelda, The - The Wind Waker (USA).jpg
 assets.boxback: BoxBack/Legend of Zelda, The - The Wind Waker (USA).jpg
-assets.background: Background/Legend of Zelda, The - The Wind Waker (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - The Wind Waker (USA).jpg
 assets.video: Video/Legend of Zelda, The - The Wind Waker (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -324,8 +302,6 @@ release: 2006-12-11
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Twilight Princess (USA).jpg
 assets.boxback: BoxBack/Legend of Zelda, The - Twilight Princess (USA).jpg
-assets.background: Background/Legend of Zelda, The - Twilight Princess (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Twilight Princess (USA).jpg
 assets.video: Video/Legend of Zelda, The - Twilight Princess (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -353,8 +329,6 @@ release: 2003-06-17
 players: 1
 assets.boxfront: BoxFront/Mega Man - Network Transmission (USA).jpg
 assets.boxback: BoxBack/Mega Man - Network Transmission (USA).jpg
-assets.background: Background/Mega Man - Network Transmission (USA).jpg
-assets.screenshot: Screenshot/Mega Man - Network Transmission (USA).jpg
 assets.video: Video/Mega Man - Network Transmission (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -378,8 +352,6 @@ release: 2003-09-09
 players: 1
 assets.boxfront: BoxFront/P.N. 03 (USA).jpg
 assets.boxback: BoxBack/P.N. 03 (USA).jpg
-assets.background: Background/P.N. 03 (USA).jpg
-assets.screenshot: Screenshot/P.N. 03 (USA).jpg
 assets.video: Video/P.N. 03 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -397,9 +369,6 @@ description:
 release: 2003-11-27
 players: 4
 assets.boxfront: BoxFront/Pac-Man Vs. (USA).jpg
-assets.boxback: BoxBack/Pac-Man Vs. (USA).jpg
-assets.background: Background/Pac-Man Vs. (USA).jpg
-assets.screenshot: Screenshot/Pac-Man Vs. (USA).jpg
 assets.video: Video/Pac-Man Vs. (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -421,8 +390,6 @@ release: 2004-10-11
 players: 1
 assets.boxfront: BoxFront/Paper Mario - The Thousand-Year Door (USA).jpg
 assets.boxback: BoxBack/Paper Mario - The Thousand-Year Door (USA).jpg
-assets.background: Background/Paper Mario - The Thousand-Year Door (USA).jpg
-assets.screenshot: Screenshot/Paper Mario - The Thousand-Year Door (USA).jpg
 assets.video: Video/Paper Mario - The Thousand-Year Door (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -445,8 +412,6 @@ release: 2002-10-24
 players: 4
 assets.boxfront: BoxFront/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).jpg
 assets.boxback: BoxBack/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).jpg
-assets.background: Background/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).jpg
-assets.screenshot: Screenshot/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).jpg
 assets.video: Video/Phantasy Star Online Episode I & II (USA) (En,Ja,Fr,De,Es) (Rev 1).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -470,8 +435,6 @@ release: 2004-03-02
 players: 4
 assets.boxfront: BoxFront/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).jpg
 assets.boxback: BoxBack/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).jpg
-assets.background: Background/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).jpg
-assets.screenshot: Screenshot/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).jpg
 assets.video: Video/Phantasy Star Online Episode III - C.A.R.D. Revolution (USA) (En,Ja).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -495,8 +458,6 @@ release: 2002-04-30
 players: 1
 assets.boxfront: BoxFront/Resident Evil (USA).jpg
 assets.boxback: BoxBack/Resident Evil (USA).jpg
-assets.background: Background/Resident Evil (USA).jpg
-assets.screenshot: Screenshot/Resident Evil (USA).jpg
 assets.video: Video/Resident Evil (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -519,8 +480,6 @@ release: 2003-08-07
 players: 1
 assets.boxfront: BoxFront/Resident Evil - Code - Veronica X (USA).jpg
 assets.boxback: BoxBack/Resident Evil - Code - Veronica X (USA).jpg
-assets.background: Background/Resident Evil - Code - Veronica X (USA).jpg
-assets.screenshot: Screenshot/Resident Evil - Code - Veronica X (USA).jpg
 assets.video: Video/Resident Evil - Code - Veronica X (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -548,8 +507,6 @@ release: 2003-01-15
 players: 1
 assets.boxfront: BoxFront/Resident Evil 2 (USA).jpg
 assets.boxback: BoxBack/Resident Evil 2 (USA).jpg
-assets.background: Background/Resident Evil 2 (USA).jpg
-assets.screenshot: Screenshot/Resident Evil 2 (USA).jpg
 assets.video: Video/Resident Evil 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -569,8 +526,6 @@ release: 2003-01-23
 players: 1
 assets.boxfront: BoxFront/Resident Evil 3 - Nemesis (USA).jpg
 assets.boxback: BoxBack/Resident Evil 3 - Nemesis (USA).jpg
-assets.background: Background/Resident Evil 3 - Nemesis (USA).jpg
-assets.screenshot: Screenshot/Resident Evil 3 - Nemesis (USA).jpg
 assets.video: Video/Resident Evil 3 - Nemesis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -590,8 +545,6 @@ release: 2005-01-11
 players: 1
 assets.boxfront: BoxFront/Resident Evil 4 (USA).jpg
 assets.boxback: BoxBack/Resident Evil 4 (USA).jpg
-assets.background: Background/Resident Evil 4 (USA).jpg
-assets.screenshot: Screenshot/Resident Evil 4 (USA).jpg
 assets.video: Video/Resident Evil 4 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -619,8 +572,6 @@ release: 2002-11-12
 players: 1
 assets.boxfront: BoxFront/Resident Evil Zero (USA).jpg
 assets.boxback: BoxBack/Resident Evil Zero (USA).jpg
-assets.background: Background/Resident Evil Zero (USA).jpg
-assets.screenshot: Screenshot/Resident Evil Zero (USA).jpg
 assets.video: Video/Resident Evil Zero (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -641,8 +592,6 @@ release: 2005-11-15
 players: 1
 assets.boxfront: BoxFront/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.boxback: BoxBack/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Shadow The Hedgehog (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -666,8 +615,6 @@ release: 2003-01-27
 players: 1
 assets.boxfront: BoxFront/Skies of Arcadia Legends (USA).jpg
 assets.boxback: BoxBack/Skies of Arcadia Legends (USA).jpg
-assets.background: Background/Skies of Arcadia Legends (USA).jpg
-assets.screenshot: Screenshot/Skies of Arcadia Legends (USA).jpg
 assets.video: Video/Skies of Arcadia Legends (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -696,8 +643,6 @@ release: 2001-12-20
 players: 2
 assets.boxfront: BoxFront/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).jpg
 assets.boxback: BoxBack/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).jpg
-assets.background: Background/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).jpg
-assets.screenshot: Screenshot/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).jpg
 assets.video: Video/Sonic Adventure 2 - Battle (USA) (En,Ja,Fr,De,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -720,8 +665,6 @@ release: 2003-06-17
 players: 1
 assets.boxfront: BoxFront/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).jpg
 assets.boxback: BoxBack/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).jpg
-assets.background: Background/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).jpg
-assets.screenshot: Screenshot/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).jpg
 assets.video: Video/Sonic Adventure DX - Director's Cut (USA) (En,Ja,Fr,De,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -747,8 +690,6 @@ release: 2005-08-16
 players: 2
 assets.boxfront: BoxFront/Sonic Gems Collection (USA).jpg
 assets.boxback: BoxBack/Sonic Gems Collection (USA).jpg
-assets.background: Background/Sonic Gems Collection (USA).jpg
-assets.screenshot: Screenshot/Sonic Gems Collection (USA).jpg
 assets.video: Video/Sonic Gems Collection (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -773,8 +714,6 @@ release: 2004-01-05
 players: 2
 assets.boxfront: BoxFront/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.boxback: BoxBack/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Sonic Heroes (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -797,8 +736,6 @@ release: 2006-02-21
 players: 4
 assets.boxfront: BoxFront/Sonic Riders (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.boxback: BoxBack/Sonic Riders (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Sonic Riders (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Sonic Riders (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Sonic Riders (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -824,8 +761,6 @@ release: 2003-08-27
 players: 2
 assets.boxfront: BoxFront/Soulcalibur II (USA).jpg
 assets.boxback: BoxBack/Soulcalibur II (USA).jpg
-assets.background: Background/Soulcalibur II (USA).jpg
-assets.screenshot: Screenshot/Soulcalibur II (USA).jpg
 assets.video: Video/Soulcalibur II (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -849,8 +784,6 @@ release: 2002-08-26
 players: 1
 assets.boxfront: BoxFront/Super Mario Sunshine (USA).jpg
 assets.boxback: BoxBack/Super Mario Sunshine (USA).jpg
-assets.background: Background/Super Mario Sunshine (USA).jpg
-assets.screenshot: Screenshot/Super Mario Sunshine (USA).jpg
 assets.video: Video/Super Mario Sunshine (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -876,8 +809,6 @@ release: 2001-12-03
 players: 4
 assets.boxfront: BoxFront/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1).jpg
 assets.boxback: BoxBack/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1).jpg
-assets.background: Background/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1).jpg
-assets.screenshot: Screenshot/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1).jpg
 assets.video: Video/Super Smash Bros. Melee (USA) (En,Ja) (Rev 1).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -909,8 +840,6 @@ release: 2004-04-06
 players: 4
 assets.boxfront: BoxFront/WarioWare, Inc. - Mega Party Games! (USA).jpg
 assets.boxback: BoxBack/WarioWare, Inc. - Mega Party Games! (USA).jpg
-assets.background: Background/WarioWare, Inc. - Mega Party Games! (USA).jpg
-assets.screenshot: Screenshot/WarioWare, Inc. - Mega Party Games! (USA).jpg
 x-co-op: No
 x-playable: Yes
 

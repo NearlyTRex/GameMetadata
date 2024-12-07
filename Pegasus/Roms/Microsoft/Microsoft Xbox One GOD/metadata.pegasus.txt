@@ -20,9 +20,6 @@ description:
 release: 2013-12-13
 players: 4
 assets.boxfront: BoxFront/7 Days to Die (USA).jpg
-assets.boxback: BoxBack/7 Days to Die (USA).jpg
-assets.background: Background/7 Days to Die (USA).jpg
-assets.screenshot: Screenshot/7 Days to Die (USA).jpg
 assets.video: Video/7 Days to Die (USA).mp4
 x-co-op: Yes
 x-playable: No
@@ -42,9 +39,6 @@ description:
 release: 2016-09-20
 players: 1
 assets.boxfront: BoxFront/Bunker, The (USA).jpg
-assets.boxback: BoxBack/Bunker, The (USA).jpg
-assets.background: Background/Bunker, The (USA).jpg
-assets.screenshot: Screenshot/Bunker, The (USA).jpg
 assets.video: Video/Bunker, The (USA).mp4
 x-co-op: No
 x-playable: No
@@ -65,9 +59,6 @@ description:
 release: 2014-01-22
 players: 1
 assets.boxfront: BoxFront/Claire - Extended Cut (USA).jpg
-assets.boxback: BoxBack/Claire - Extended Cut (USA).jpg
-assets.background: Background/Claire - Extended Cut (USA).jpg
-assets.screenshot: Screenshot/Claire - Extended Cut (USA).jpg
 assets.video: Video/Claire - Extended Cut (USA).mp4
 x-co-op: No
 x-playable: No
@@ -118,9 +109,6 @@ description:
 release: 2014-09-18
 players: 1
 assets.boxfront: BoxFront/D4 - Dark Dreams Don't Die (USA) (Demo).jpg
-assets.boxback: BoxBack/D4 - Dark Dreams Don't Die (USA) (Demo).jpg
-assets.background: Background/D4 - Dark Dreams Don't Die (USA) (Demo).jpg
-assets.screenshot: Screenshot/D4 - Dark Dreams Don't Die (USA) (Demo).jpg
 assets.video: Video/D4 - Dark Dreams Don't Die (USA) (Demo).mp4
 x-co-op: No
 x-playable: No
@@ -147,9 +135,6 @@ description:
 release: 2014-01-17
 players: 2
 assets.boxfront: BoxFront/Divinity - Original Sin - Enhanced Edition (USA).jpg
-assets.boxback: BoxBack/Divinity - Original Sin - Enhanced Edition (USA).jpg
-assets.background: Background/Divinity - Original Sin - Enhanced Edition (USA).jpg
-assets.screenshot: Screenshot/Divinity - Original Sin - Enhanced Edition (USA).jpg
 assets.video: Video/Divinity - Original Sin - Enhanced Edition (USA).mp4
 x-co-op: Yes
 x-playable: No
@@ -190,9 +175,6 @@ description:
 release: 2015-12-10
 players: 1
 assets.boxfront: BoxFront/Emily Wants to Play (USA).jpg
-assets.boxback: BoxBack/Emily Wants to Play (USA).jpg
-assets.background: Background/Emily Wants to Play (USA).jpg
-assets.screenshot: Screenshot/Emily Wants to Play (USA).jpg
 assets.video: Video/Emily Wants to Play (USA).mp4
 x-co-op: No
 x-playable: No
@@ -229,9 +211,6 @@ description:
 release: 2015-08-27
 players: 1
 assets.boxfront: BoxFront/Layers of Fear (USA).jpg
-assets.boxback: BoxBack/Layers of Fear (USA).jpg
-assets.background: Background/Layers of Fear (USA).jpg
-assets.screenshot: Screenshot/Layers of Fear (USA).jpg
 assets.video: Video/Layers of Fear (USA).mp4
 x-co-op: No
 x-playable: No
@@ -259,9 +238,6 @@ description:
 release: 2013-01-08
 players: 1
 assets.boxfront: BoxFront/Soda Drinker Pro (USA).jpg
-assets.boxback: BoxBack/Soda Drinker Pro (USA).jpg
-assets.background: Background/Soda Drinker Pro (USA).jpg
-assets.screenshot: Screenshot/Soda Drinker Pro (USA).jpg
 assets.video: Video/Soda Drinker Pro (USA).mp4
 x-co-op: No
 x-playable: No
@@ -290,9 +266,6 @@ description:
 release: 2013-11-22
 players: 4
 assets.boxfront: BoxFront/Zoo Tycoon (USA).jpg
-assets.boxback: BoxBack/Zoo Tycoon (USA).jpg
-assets.background: Background/Zoo Tycoon (USA).jpg
-assets.screenshot: Screenshot/Zoo Tycoon (USA).jpg
 assets.video: Video/Zoo Tycoon (USA).mp4
 x-co-op: No
 x-playable: No

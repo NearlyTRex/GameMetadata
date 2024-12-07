@@ -27,9 +27,6 @@ description:
 release: 2006-11-19
 players: 4
 assets.boxfront: BoxFront/Big Bumpin' (USA).jpg
-assets.boxback: BoxBack/Big Bumpin' (USA).jpg
-assets.background: Background/Big Bumpin' (USA).jpg
-assets.screenshot: Screenshot/Big Bumpin' (USA).jpg
 assets.video: Video/Big Bumpin' (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -51,9 +48,6 @@ description:
 release: 2002-08-18
 players: 1
 assets.boxfront: BoxFront/Buffy the Vampire Slayer (USA).jpg
-assets.boxback: BoxBack/Buffy the Vampire Slayer (USA).jpg
-assets.background: Background/Buffy the Vampire Slayer (USA).jpg
-assets.screenshot: Screenshot/Buffy the Vampire Slayer (USA).jpg
 assets.video: Video/Buffy the Vampire Slayer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -75,9 +69,6 @@ description:
 release: 2002-12-16
 players: 1
 assets.boxfront: BoxFront/Crimson Sea (USA).jpg
-assets.boxback: BoxBack/Crimson Sea (USA).jpg
-assets.background: Background/Crimson Sea (USA).jpg
-assets.screenshot: Screenshot/Crimson Sea (USA).jpg
 assets.video: Video/Crimson Sea (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -108,9 +99,6 @@ description:
 release: 2003-09-16
 players: 1
 assets.boxfront: BoxFront/Dino Crisis 3 (USA, Asia).jpg
-assets.boxback: BoxBack/Dino Crisis 3 (USA, Asia).jpg
-assets.background: Background/Dino Crisis 3 (USA, Asia).jpg
-assets.screenshot: Screenshot/Dino Crisis 3 (USA, Asia).jpg
 assets.video: Video/Dino Crisis 3 (USA, Asia).mp4
 x-co-op: No
 x-playable: Yes
@@ -133,9 +121,6 @@ description:
 release: 2003-09-07
 players: 4
 assets.boxfront: BoxFront/Dungeons & Dragons - Heroes (USA).jpg
-assets.boxback: BoxBack/Dungeons & Dragons - Heroes (USA).jpg
-assets.background: Background/Dungeons & Dragons - Heroes (USA).jpg
-assets.screenshot: Screenshot/Dungeons & Dragons - Heroes (USA).jpg
 assets.video: Video/Dungeons & Dragons - Heroes (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -158,9 +143,6 @@ description:
 release: 2003-10-27
 players: 1
 assets.boxfront: BoxFront/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).jpg
-assets.boxback: BoxBack/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).jpg
-assets.background: Background/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).jpg
-assets.screenshot: Screenshot/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).jpg
 assets.video: Video/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -184,9 +166,6 @@ description:
 release: 2005-10-18
 players: 1
 assets.boxfront: BoxFront/Fable - The Lost Chapters (USA) (En,Es).jpg
-assets.boxback: BoxBack/Fable - The Lost Chapters (USA) (En,Es).jpg
-assets.background: Background/Fable - The Lost Chapters (USA) (En,Es).jpg
-assets.screenshot: Screenshot/Fable - The Lost Chapters (USA) (En,Es).jpg
 assets.video: Video/Fable - The Lost Chapters (USA) (En,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -209,9 +188,6 @@ description:
 release: 2001-11-15
 players: 4
 assets.boxfront: BoxFront/Fuzion Frenzy (USA).jpg
-assets.boxback: BoxBack/Fuzion Frenzy (USA).jpg
-assets.background: Background/Fuzion Frenzy (USA).jpg
-assets.screenshot: Screenshot/Fuzion Frenzy (USA).jpg
 assets.video: Video/Fuzion Frenzy (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -230,9 +206,6 @@ description:
 release: 2003-10-15
 players: 1
 assets.boxfront: BoxFront/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -255,9 +228,6 @@ description:
 release: 2005-04-12
 players: 1
 assets.boxfront: BoxFront/Jade Empire (USA, Europe) (En,Es,It).jpg
-assets.boxback: BoxBack/Jade Empire (USA, Europe) (En,Es,It).jpg
-assets.background: Background/Jade Empire (USA, Europe) (En,Es,It).jpg
-assets.screenshot: Screenshot/Jade Empire (USA, Europe) (En,Es,It).jpg
 assets.video: Video/Jade Empire (USA, Europe) (En,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -293,8 +263,6 @@ release: 2001-12-12
 players: 1
 assets.boxfront: BoxFront/Max Payne (USA).jpg
 assets.boxback: BoxBack/Max Payne (USA).jpg
-assets.background: Background/Max Payne (USA).jpg
-assets.screenshot: Screenshot/Max Payne (USA).jpg
 assets.video: Video/Max Payne (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -343,9 +311,6 @@ description:
 release: 2006-06-15
 players: 1
 assets.boxfront: BoxFront/Mercenaries (USA, Europe).jpg
-assets.boxback: BoxBack/Mercenaries (USA, Europe).jpg
-assets.background: Background/Mercenaries (USA, Europe).jpg
-assets.screenshot: Screenshot/Mercenaries (USA, Europe).jpg
 assets.video: Video/Mercenaries (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -379,9 +344,6 @@ description:
 release: 2001-12-26
 players: 1
 assets.boxfront: BoxFront/Night Caster - Defeat the Darkness (USA).jpg
-assets.boxback: BoxBack/Night Caster - Defeat the Darkness (USA).jpg
-assets.background: Background/Night Caster - Defeat the Darkness (USA).jpg
-assets.screenshot: Screenshot/Night Caster - Defeat the Darkness (USA).jpg
 assets.video: Video/Night Caster - Defeat the Darkness (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -404,8 +366,6 @@ release: 2004-04-01
 players: 1
 assets.boxfront: BoxFront/Official Xbox Magazine Game Disc 30 (USA).jpg
 assets.boxback: BoxBack/Official Xbox Magazine Game Disc 30 (USA).jpg
-assets.background: Background/Official Xbox Magazine Game Disc 30 (USA).jpg
-assets.screenshot: Screenshot/Official Xbox Magazine Game Disc 30 (USA).jpg
 assets.video: Video/Official Xbox Magazine Game Disc 30 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -436,8 +396,6 @@ release: 2004-08-01
 players: 1
 assets.boxfront: BoxFront/Official Xbox Magazine Game Disc 34 (USA).jpg
 assets.boxback: BoxBack/Official Xbox Magazine Game Disc 34 (USA).jpg
-assets.background: Background/Official Xbox Magazine Game Disc 34 (USA).jpg
-assets.screenshot: Screenshot/Official Xbox Magazine Game Disc 34 (USA).jpg
 assets.video: Video/Official Xbox Magazine Game Disc 34 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -464,8 +422,6 @@ release: 2005-05-01
 players: 1
 assets.boxfront: BoxFront/Official Xbox Magazine Game Disc 44 (USA).jpg
 assets.boxback: BoxBack/Official Xbox Magazine Game Disc 44 (USA).jpg
-assets.background: Background/Official Xbox Magazine Game Disc 44 (USA).jpg
-assets.screenshot: Screenshot/Official Xbox Magazine Game Disc 44 (USA).jpg
 assets.video: Video/Official Xbox Magazine Game Disc 44 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -491,9 +447,6 @@ description:
 release: 2003-08-27
 players: 1
 assets.boxfront: BoxFront/Otogi - Myth of Demons (USA).jpg
-assets.boxback: BoxBack/Otogi - Myth of Demons (USA).jpg
-assets.background: Background/Otogi - Myth of Demons (USA).jpg
-assets.screenshot: Screenshot/Otogi - Myth of Demons (USA).jpg
 assets.video: Video/Otogi - Myth of Demons (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -523,9 +476,6 @@ description:
 release: 2004-10-19
 players: 1
 assets.boxfront: BoxFront/Otogi 2 - Immortal Warriors (USA).jpg
-assets.boxback: BoxBack/Otogi 2 - Immortal Warriors (USA).jpg
-assets.background: Background/Otogi 2 - Immortal Warriors (USA).jpg
-assets.screenshot: Screenshot/Otogi 2 - Immortal Warriors (USA).jpg
 assets.video: Video/Otogi 2 - Immortal Warriors (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -557,9 +507,6 @@ description:
 release: 2002-12-19
 players: 1
 assets.boxfront: BoxFront/Panzer Dragoon Orta (USA).jpg
-assets.boxback: BoxBack/Panzer Dragoon Orta (USA).jpg
-assets.background: Background/Panzer Dragoon Orta (USA).jpg
-assets.screenshot: Screenshot/Panzer Dragoon Orta (USA).jpg
 assets.video: Video/Panzer Dragoon Orta (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -596,9 +543,6 @@ description:
 release: 2006-11-19
 players: 4
 assets.boxfront: BoxFront/PocketBike Racer (USA).jpg
-assets.boxback: BoxBack/PocketBike Racer (USA).jpg
-assets.background: Background/PocketBike Racer (USA).jpg
-assets.screenshot: Screenshot/PocketBike Racer (USA).jpg
 assets.video: Video/PocketBike Racer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -622,9 +566,6 @@ description:
 release: 2001-11-15
 players: 1
 assets.boxfront: BoxFront/Project Gotham Racing (USA).jpg
-assets.boxback: BoxBack/Project Gotham Racing (USA).jpg
-assets.background: Background/Project Gotham Racing (USA).jpg
-assets.screenshot: Screenshot/Project Gotham Racing (USA).jpg
 assets.video: Video/Project Gotham Racing (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -652,9 +593,6 @@ description:
 release: 2005-04-19
 players: 1
 assets.boxfront: BoxFront/Psychonauts (USA).jpg
-assets.boxback: BoxBack/Psychonauts (USA).jpg
-assets.background: Background/Psychonauts (USA).jpg
-assets.screenshot: Screenshot/Psychonauts (USA).jpg
 assets.video: Video/Psychonauts (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -674,9 +612,6 @@ description:
 release: 2005-04-21
 players: 1
 assets.boxfront: BoxFront/Raze's Hell (USA).jpg
-assets.boxback: BoxBack/Raze's Hell (USA).jpg
-assets.background: Background/Raze's Hell (USA).jpg
-assets.screenshot: Screenshot/Raze's Hell (USA).jpg
 assets.video: Video/Raze's Hell (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -701,9 +636,6 @@ description:
 release: 2006-11-19
 players: 1
 assets.boxfront: BoxFront/Sneak King (USA).jpg
-assets.boxback: BoxBack/Sneak King (USA).jpg
-assets.background: Background/Sneak King (USA).jpg
-assets.screenshot: Screenshot/Sneak King (USA).jpg
 assets.video: Video/Sneak King (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -728,8 +660,6 @@ release: 2003-06-18
 players: 12
 assets.boxfront: BoxFront/Soldier of Fortune II - Double Helix (USA).jpg
 assets.boxback: BoxBack/Soldier of Fortune II - Double Helix (USA).jpg
-assets.background: Background/Soldier of Fortune II - Double Helix (USA).jpg
-assets.screenshot: Screenshot/Soldier of Fortune II - Double Helix (USA).jpg
 assets.video: Video/Soldier of Fortune II - Double Helix (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -752,9 +682,6 @@ description:
 release: 2003-07-17
 players: 1
 assets.boxfront: BoxFront/Star Wars - Knights of the Old Republic (USA) (v1.10).jpg
-assets.boxback: BoxBack/Star Wars - Knights of the Old Republic (USA) (v1.10).jpg
-assets.background: Background/Star Wars - Knights of the Old Republic (USA) (v1.10).jpg
-assets.screenshot: Screenshot/Star Wars - Knights of the Old Republic (USA) (v1.10).jpg
 assets.video: Video/Star Wars - Knights of the Old Republic (USA) (v1.10).mp4
 x-co-op: No
 x-playable: Yes
@@ -779,9 +706,6 @@ description:
 release: 2004-12-06
 players: 1
 assets.boxfront: BoxFront/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
-assets.boxback: BoxBack/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
-assets.background: Background/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
-assets.screenshot: Screenshot/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
 assets.video: Video/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -801,9 +725,6 @@ description:
 release: 2005-09-14
 players: 4
 assets.boxfront: BoxFront/Tecmo Classic Arcade (USA, Japan).jpg
-assets.boxback: BoxBack/Tecmo Classic Arcade (USA, Japan).jpg
-assets.background: Background/Tecmo Classic Arcade (USA, Japan).jpg
-assets.screenshot: Screenshot/Tecmo Classic Arcade (USA, Japan).jpg
 assets.video: Video/Tecmo Classic Arcade (USA, Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -834,9 +755,6 @@ description:
 release: 2002-11-15
 players: 1
 assets.boxfront: BoxFront/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.background: Background/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).jpg
 assets.video: Video/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -860,9 +778,6 @@ description:
 release: 2005-04-18
 players: 8
 assets.boxfront: BoxFront/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.background: Background/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).jpg
 assets.video: Video/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -902,9 +817,6 @@ description:
 release: 2002
 players: 1
 assets.boxfront: BoxFront/Xbox Exhibition (USA).jpg
-assets.boxback: BoxBack/Xbox Exhibition (USA).jpg
-assets.background: Background/Xbox Exhibition (USA).jpg
-assets.screenshot: Screenshot/Xbox Exhibition (USA).jpg
 assets.video: Video/Xbox Exhibition (USA).mp4
 x-co-op: No
 x-playable: Yes

@@ -21,9 +21,6 @@ description:
 release: 2016-08-02
 players: 1
 assets.boxfront: BoxFront/Abzu (USA).jpg
-assets.boxback: BoxBack/Abzu (USA).jpg
-assets.background: Background/Abzu (USA).jpg
-assets.screenshot: Screenshot/Abzu (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -43,9 +40,6 @@ description:
 release: 2016-10-13
 players: 1
 assets.boxfront: BoxFront/Allumette (USA).jpg
-assets.boxback: BoxBack/Allumette (USA).jpg
-assets.background: Background/Allumette (USA).jpg
-assets.screenshot: Screenshot/Allumette (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -71,9 +65,6 @@ description:
 release: 2018-10-02
 players: 1
 assets.boxfront: BoxFront/Astro Bot - Rescue Mission (USA).jpg
-assets.boxback: BoxBack/Astro Bot - Rescue Mission (USA).jpg
-assets.background: Background/Astro Bot - Rescue Mission (USA).jpg
-assets.screenshot: Screenshot/Astro Bot - Rescue Mission (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -94,9 +85,6 @@ description:
 release: 2016-09-13
 players: 1
 assets.boxfront: BoxFront/Dead Rising (USA).jpg
-assets.boxback: BoxBack/Dead Rising (USA).jpg
-assets.background: Background/Dead Rising (USA).jpg
-assets.screenshot: Screenshot/Dead Rising (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -120,9 +108,6 @@ description:
 release: 2016-09-13
 players: 1
 assets.boxfront: BoxFront/Dead Rising 2 (USA).jpg
-assets.boxback: BoxBack/Dead Rising 2 (USA).jpg
-assets.background: Background/Dead Rising 2 (USA).jpg
-assets.screenshot: Screenshot/Dead Rising 2 (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -168,9 +153,6 @@ description:
 release: 2016-04-05
 players: 2
 assets.boxfront: BoxFront/Enter the Gungeon (USA).jpg
-assets.boxback: BoxBack/Enter the Gungeon (USA).jpg
-assets.background: Background/Enter the Gungeon (USA).jpg
-assets.screenshot: Screenshot/Enter the Gungeon (USA).jpg
 x-co-op: Yes
 x-playable: No
 
@@ -215,9 +197,6 @@ description:
 release: 2015-06-14
 players: 1
 assets.boxfront: BoxFront/Fallout Shelter (USA).jpg
-assets.boxback: BoxBack/Fallout Shelter (USA).jpg
-assets.background: Background/Fallout Shelter (USA).jpg
-assets.screenshot: Screenshot/Fallout Shelter (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -241,9 +220,6 @@ description:
 release: 2017-05-25
 players: 4
 assets.boxfront: BoxFront/Friday the 13th - The Game (USA).jpg
-assets.boxback: BoxBack/Friday the 13th - The Game (USA).jpg
-assets.background: Background/Friday the 13th - The Game (USA).jpg
-assets.screenshot: Screenshot/Friday the 13th - The Game (USA).jpg
 x-co-op: Yes
 x-playable: No
 
@@ -259,9 +235,6 @@ description:
 release: 2016-11-22
 players: 1
 assets.boxfront: BoxFront/Gary the Gull (USA).jpg
-assets.boxback: BoxBack/Gary the Gull (USA).jpg
-assets.background: Background/Gary the Gull (USA).jpg
-assets.screenshot: Screenshot/Gary the Gull (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -289,9 +262,6 @@ description:
 release: 2015-01-27
 players: 1
 assets.boxfront: BoxFront/Grim Fandango Remastered (USA).jpg
-assets.boxback: BoxBack/Grim Fandango Remastered (USA).jpg
-assets.background: Background/Grim Fandango Remastered (USA).jpg
-assets.screenshot: Screenshot/Grim Fandango Remastered (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -316,9 +286,6 @@ description:
 release: 2017-12-05
 players: 1
 assets.boxfront: BoxFront/Horizon Zero Dawn - Complete Edition (USA).jpg
-assets.boxback: BoxBack/Horizon Zero Dawn - Complete Edition (USA).jpg
-assets.background: Background/Horizon Zero Dawn - Complete Edition (USA).jpg
-assets.screenshot: Screenshot/Horizon Zero Dawn - Complete Edition (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -337,9 +304,6 @@ description:
 release: 2014-11-18
 players: 1
 assets.boxfront: BoxFront/Invasion! (USA).jpg
-assets.boxback: BoxBack/Invasion! (USA).jpg
-assets.background: Background/Invasion! (USA).jpg
-assets.screenshot: Screenshot/Invasion! (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -358,9 +322,6 @@ description:
 release: 2015-07-16
 players: 4
 assets.boxfront: BoxFront/Keep Talking and Nobody Explodes (USA).jpg
-assets.boxback: BoxBack/Keep Talking and Nobody Explodes (USA).jpg
-assets.background: Background/Keep Talking and Nobody Explodes (USA).jpg
-assets.screenshot: Screenshot/Keep Talking and Nobody Explodes (USA).jpg
 x-co-op: Yes
 x-playable: No
 
@@ -388,9 +349,6 @@ description:
 release: 2017-03-01
 players: 1
 assets.boxfront: BoxFront/King's Tale - Final Fantasy XV, A (USA).jpg
-assets.boxback: BoxBack/King's Tale - Final Fantasy XV, A (USA).jpg
-assets.background: Background/King's Tale - Final Fantasy XV, A (USA).jpg
-assets.screenshot: Screenshot/King's Tale - Final Fantasy XV, A (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -417,9 +375,6 @@ description:
 release: 2015-08-25
 players: 1
 assets.boxfront: BoxFront/Mega Man Legacy Collection (USA).jpg
-assets.boxback: BoxBack/Mega Man Legacy Collection (USA).jpg
-assets.background: Background/Mega Man Legacy Collection (USA).jpg
-assets.screenshot: Screenshot/Mega Man Legacy Collection (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -446,9 +401,6 @@ description:
 release: 2018-02-27
 players: 1
 assets.boxfront: BoxFront/Moss (USA).jpg
-assets.boxback: BoxBack/Moss (USA).jpg
-assets.background: Background/Moss (USA).jpg
-assets.screenshot: Screenshot/Moss (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -494,9 +446,6 @@ description:
 release: 2013-10-11
 players: 2
 assets.boxfront: BoxFront/Nuclear Throne (USA).jpg
-assets.boxback: BoxBack/Nuclear Throne (USA).jpg
-assets.background: Background/Nuclear Throne (USA).jpg
-assets.screenshot: Screenshot/Nuclear Throne (USA).jpg
 x-co-op: Yes
 x-playable: No
 
@@ -512,9 +461,6 @@ description:
 release: 2014-08-12
 players: 1
 assets.boxfront: BoxFront/P.T. - Silent Hills (Europe).jpg
-assets.boxback: BoxBack/P.T. - Silent Hills (Europe).jpg
-assets.background: Background/P.T. - Silent Hills (Europe).jpg
-assets.screenshot: Screenshot/P.T. - Silent Hills (Europe).jpg
 x-co-op: No
 x-playable: No
 
@@ -536,9 +482,6 @@ description:
 release: 2014-08-12
 players: 1
 assets.boxfront: BoxFront/P.T. - Silent Hills (USA).jpg
-assets.boxback: BoxBack/P.T. - Silent Hills (USA).jpg
-assets.background: Background/P.T. - Silent Hills (USA).jpg
-assets.screenshot: Screenshot/P.T. - Silent Hills (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -557,9 +500,6 @@ description:
 release: 2020-03-24
 players: 1
 assets.boxfront: BoxFront/Paper Beast (USA).jpg
-assets.boxback: BoxBack/Paper Beast (USA).jpg
-assets.background: Background/Paper Beast (USA).jpg
-assets.screenshot: Screenshot/Paper Beast (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -575,9 +515,6 @@ description:
 release: 2017-11-08
 players: 1
 assets.boxfront: BoxFront/PlayStation VR Demo Disc 2 (USA).jpg
-assets.boxback: BoxBack/PlayStation VR Demo Disc 2 (USA).jpg
-assets.background: Background/PlayStation VR Demo Disc 2 (USA).jpg
-assets.screenshot: Screenshot/PlayStation VR Demo Disc 2 (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -604,9 +541,6 @@ description:
 release: 2016-10-10
 players: 5
 assets.boxfront: BoxFront/Playroom VR, The (USA).jpg
-assets.boxback: BoxBack/Playroom VR, The (USA).jpg
-assets.background: Background/Playroom VR, The (USA).jpg
-assets.screenshot: Screenshot/Playroom VR, The (USA).jpg
 x-co-op: Yes
 x-playable: No
 
@@ -622,9 +556,6 @@ description:
 release: 2019-01-10
 players: 1
 assets.boxfront: BoxFront/RPG Maker MV Player (USA).jpg
-assets.boxback: BoxBack/RPG Maker MV Player (USA).jpg
-assets.background: Background/RPG Maker MV Player (USA).jpg
-assets.screenshot: Screenshot/RPG Maker MV Player (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -657,9 +588,6 @@ description:
 release: 2016-04-12
 players: 1
 assets.boxfront: BoxFront/Ratchet & Clank (USA).jpg
-assets.boxback: BoxBack/Ratchet & Clank (USA).jpg
-assets.background: Background/Ratchet & Clank (USA).jpg
-assets.screenshot: Screenshot/Ratchet & Clank (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -681,9 +609,6 @@ description:
 release: 2019-01-25
 players: 1
 assets.boxfront: BoxFront/Resident Evil (USA).jpg
-assets.boxback: BoxBack/Resident Evil (USA).jpg
-assets.background: Background/Resident Evil (USA).jpg
-assets.screenshot: Screenshot/Resident Evil (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -705,9 +630,6 @@ description:
 release: 2017-05-10
 players: 1
 assets.boxfront: BoxFront/Resident Evil - Code - Veronica X (USA).jpg
-assets.boxback: BoxBack/Resident Evil - Code - Veronica X (USA).jpg
-assets.background: Background/Resident Evil - Code - Veronica X (USA).jpg
-assets.screenshot: Screenshot/Resident Evil - Code - Veronica X (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -733,9 +655,6 @@ description:
 release: 2016-10-13
 players: 1
 assets.boxfront: BoxFront/Rez Infinite (USA).jpg
-assets.boxback: BoxBack/Rez Infinite (USA).jpg
-assets.background: Background/Rez Infinite (USA).jpg
-assets.screenshot: Screenshot/Rez Infinite (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -759,9 +678,6 @@ description:
 release: 2016-12-20
 players: 1
 assets.boxfront: BoxFront/Rollercoaster Dreams (USA).jpg
-assets.boxback: BoxBack/Rollercoaster Dreams (USA).jpg
-assets.background: Background/Rollercoaster Dreams (USA).jpg
-assets.screenshot: Screenshot/Rollercoaster Dreams (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -786,9 +702,6 @@ description:
 release: 2019-06-25
 players: 1
 assets.boxfront: BoxFront/Spider-Man - Far From Home VR (USA).jpg
-assets.boxback: BoxBack/Spider-Man - Far From Home VR (USA).jpg
-assets.background: Background/Spider-Man - Far From Home VR (USA).jpg
-assets.screenshot: Screenshot/Spider-Man - Far From Home VR (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -812,9 +725,6 @@ description:
 release: 2017-06-30
 players: 1
 assets.boxfront: BoxFront/Spider-Man - Homecoming VR (USA).jpg
-assets.boxback: BoxBack/Spider-Man - Homecoming VR (USA).jpg
-assets.background: Background/Spider-Man - Homecoming VR (USA).jpg
-assets.screenshot: Screenshot/Spider-Man - Homecoming VR (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -836,9 +746,6 @@ description:
 release: 2017-04-24
 players: 1
 assets.boxfront: BoxFront/Statik (USA).jpg
-assets.boxback: BoxBack/Statik (USA).jpg
-assets.background: Background/Statik (USA).jpg
-assets.screenshot: Screenshot/Statik (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -855,9 +762,6 @@ description:
 release: 2014-12-16
 players: 1
 assets.boxfront: BoxFront/Subnautica (USA).jpg
-assets.boxback: BoxBack/Subnautica (USA).jpg
-assets.background: Background/Subnautica (USA).jpg
-assets.screenshot: Screenshot/Subnautica (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -873,9 +777,6 @@ description:
 release: 2016-10-10
 players: 1
 assets.boxfront: BoxFront/SuperHyperCube (USA).jpg
-assets.boxback: BoxBack/SuperHyperCube (USA).jpg
-assets.background: Background/SuperHyperCube (USA).jpg
-assets.screenshot: Screenshot/SuperHyperCube (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -892,9 +793,6 @@ description:
 release: 2013-11-20
 players: 1
 assets.boxfront: BoxFront/Tearaway Unfolded Soundtrack (USA).jpg
-assets.boxback: BoxBack/Tearaway Unfolded Soundtrack (USA).jpg
-assets.background: Background/Tearaway Unfolded Soundtrack (USA).jpg
-assets.screenshot: Screenshot/Tearaway Unfolded Soundtrack (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -917,9 +815,6 @@ description:
 release: 2016-10-10
 players: 1
 assets.boxfront: BoxFront/Thumper (USA).jpg
-assets.boxback: BoxBack/Thumper (USA).jpg
-assets.background: Background/Thumper (USA).jpg
-assets.screenshot: Screenshot/Thumper (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -948,9 +843,6 @@ description:
 release: 2016-10-12
 players: 1
 assets.boxfront: BoxFront/Tumble VR (USA).jpg
-assets.boxback: BoxBack/Tumble VR (USA).jpg
-assets.background: Background/Tumble VR (USA).jpg
-assets.screenshot: Screenshot/Tumble VR (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -978,9 +870,6 @@ description:
 release: 2016-05-17
 players: 1
 assets.boxfront: BoxFront/Valkyria Chronicles Remastered (USA).jpg
-assets.boxback: BoxBack/Valkyria Chronicles Remastered (USA).jpg
-assets.background: Background/Valkyria Chronicles Remastered (USA).jpg
-assets.screenshot: Screenshot/Valkyria Chronicles Remastered (USA).jpg
 x-co-op: No
 x-playable: No
 
@@ -1020,9 +909,6 @@ description:
 release: 2016-01-26
 players: 1
 assets.boxfront: BoxFront/Witness, The (USA).jpg
-assets.boxback: BoxBack/Witness, The (USA).jpg
-assets.background: Background/Witness, The (USA).jpg
-assets.screenshot: Screenshot/Witness, The (USA).jpg
 x-co-op: No
 x-playable: No
 

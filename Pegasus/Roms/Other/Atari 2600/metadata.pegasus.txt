@@ -21,9 +21,6 @@ description:
 release: 1980-06-01
 players: 2
 assets.boxfront: BoxFront/3-D Tic-Tac-Toe (USA).jpg
-assets.boxback: BoxBack/3-D Tic-Tac-Toe (USA).jpg
-assets.background: Background/3-D Tic-Tac-Toe (USA).jpg
-assets.screenshot: Screenshot/3-D Tic-Tac-Toe (USA).jpg
 assets.video: Video/3-D Tic-Tac-Toe (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -46,9 +43,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Activision Decathlon, The (Europe).jpg
-assets.boxback: BoxBack/Activision Decathlon, The (Europe).jpg
-assets.background: Background/Activision Decathlon, The (Europe).jpg
-assets.screenshot: Screenshot/Activision Decathlon, The (Europe).jpg
 assets.video: Video/Activision Decathlon, The (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -90,9 +84,6 @@ description:
 release: 1980-07-01
 players: 1
 assets.boxfront: BoxFront/Adventure (USA).jpg
-assets.boxback: BoxBack/Adventure (USA).jpg
-assets.background: Background/Adventure (USA).jpg
-assets.screenshot: Screenshot/Adventure (USA).jpg
 assets.video: Video/Adventure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -110,9 +101,6 @@ description:
 release: 2005-01-01
 players: 1
 assets.boxfront: BoxFront/Adventure II (USA) (Proto).jpg
-assets.boxback: BoxBack/Adventure II (USA) (Proto).jpg
-assets.background: Background/Adventure II (USA) (Proto).jpg
-assets.screenshot: Screenshot/Adventure II (USA) (Proto).jpg
 assets.video: Video/Adventure II (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -132,9 +120,6 @@ description:
 release: 1982-12-31
 players: 1
 assets.boxfront: BoxFront/Air Raiders (USA).jpg
-assets.boxback: BoxBack/Air Raiders (USA).jpg
-assets.background: Background/Air Raiders (USA).jpg
-assets.screenshot: Screenshot/Air Raiders (USA).jpg
 assets.video: Video/Air Raiders (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -184,9 +169,6 @@ description:
 release: 1977-09-11
 players: 2
 assets.boxfront: BoxFront/Air-Sea Battle ~ Target Fun (Japan, USA) (En).jpg
-assets.boxback: BoxBack/Air-Sea Battle ~ Target Fun (Japan, USA) (En).jpg
-assets.background: Background/Air-Sea Battle ~ Target Fun (Japan, USA) (En).jpg
-assets.screenshot: Screenshot/Air-Sea Battle ~ Target Fun (Japan, USA) (En).jpg
 assets.video: Video/Air-Sea Battle ~ Target Fun (Japan, USA) (En).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -207,9 +189,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Aquaventure (USA) (Proto) (1983-08-12).jpg
-assets.boxback: BoxBack/Aquaventure (USA) (Proto) (1983-08-12).jpg
-assets.background: Background/Aquaventure (USA) (Proto) (1983-08-12).jpg
-assets.screenshot: Screenshot/Aquaventure (USA) (Proto) (1983-08-12).jpg
 assets.video: Video/Aquaventure (USA) (Proto) (1983-08-12).mp4
 x-co-op: No
 x-playable: Yes
@@ -234,9 +213,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Armor Ambush (USA).jpg
-assets.boxback: BoxBack/Armor Ambush (USA).jpg
-assets.background: Background/Armor Ambush (USA).jpg
-assets.screenshot: Screenshot/Armor Ambush (USA).jpg
 assets.video: Video/Armor Ambush (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -304,9 +280,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Asteroids (Japan, USA).jpg
-assets.boxback: BoxBack/Asteroids (Japan, USA).jpg
-assets.background: Background/Asteroids (Japan, USA).jpg
-assets.screenshot: Screenshot/Asteroids (Japan, USA).jpg
 assets.video: Video/Asteroids (Japan, USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -328,9 +301,6 @@ description:
 release: 1981-07-01
 players: 2
 assets.boxfront: BoxFront/Asteroids (USA) (Atari Anthology).jpg
-assets.boxback: BoxBack/Asteroids (USA) (Atari Anthology).jpg
-assets.background: Background/Asteroids (USA) (Atari Anthology).jpg
-assets.screenshot: Screenshot/Asteroids (USA) (Atari Anthology).jpg
 assets.video: Video/Asteroids (USA) (Atari Anthology).mp4
 x-co-op: No
 x-playable: Yes
@@ -362,9 +332,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Astroblast (USA) (v1.1).jpg
-assets.boxback: BoxBack/Astroblast (USA) (v1.1).jpg
-assets.background: Background/Astroblast (USA) (v1.1).jpg
-assets.screenshot: Screenshot/Astroblast (USA) (v1.1).jpg
 assets.video: Video/Astroblast (USA) (v1.1).mp4
 x-co-op: No
 x-playable: Yes
@@ -403,9 +370,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Atari Video Cube (USA).jpg
-assets.boxback: BoxBack/Atari Video Cube (USA).jpg
-assets.background: Background/Atari Video Cube (USA).jpg
-assets.screenshot: Screenshot/Atari Video Cube (USA).jpg
 assets.video: Video/Atari Video Cube (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -430,9 +394,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Atlantis (USA).jpg
-assets.boxback: BoxBack/Atlantis (USA).jpg
-assets.background: Background/Atlantis (USA).jpg
-assets.screenshot: Screenshot/Atlantis (USA).jpg
 assets.video: Video/Atlantis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -459,9 +420,6 @@ description:
 release: 1979-01-01
 players: 1
 assets.boxfront: BoxFront/BASIC Programming (USA).jpg
-assets.boxback: BoxBack/BASIC Programming (USA).jpg
-assets.background: Background/BASIC Programming (USA).jpg
-assets.screenshot: Screenshot/BASIC Programming (USA).jpg
 assets.video: Video/BASIC Programming (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -509,9 +467,6 @@ description:
 release: 1979-06-01
 players: 2
 assets.boxfront: BoxFront/Backgammon (USA).jpg
-assets.boxback: BoxBack/Backgammon (USA).jpg
-assets.background: Background/Backgammon (USA).jpg
-assets.screenshot: Screenshot/Backgammon (USA).jpg
 assets.video: Video/Backgammon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -533,9 +488,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Barnstorming (USA).jpg
-assets.boxback: BoxBack/Barnstorming (USA).jpg
-assets.background: Background/Barnstorming (USA).jpg
-assets.screenshot: Screenshot/Barnstorming (USA).jpg
 assets.video: Video/Barnstorming (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -559,9 +511,6 @@ description:
 release: 1977-09-11
 players: 1
 assets.boxfront: BoxFront/Basic Math (USA).jpg
-assets.boxback: BoxBack/Basic Math (USA).jpg
-assets.background: Background/Basic Math (USA).jpg
-assets.screenshot: Screenshot/Basic Math (USA).jpg
 assets.video: Video/Basic Math (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -595,9 +544,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Battlezone (Japan, USA).jpg
-assets.boxback: BoxBack/Battlezone (Japan, USA).jpg
-assets.background: Background/Battlezone (Japan, USA).jpg
-assets.screenshot: Screenshot/Battlezone (Japan, USA).jpg
 assets.video: Video/Battlezone (Japan, USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -625,9 +571,6 @@ description:
 release: 1984-01-24
 players: 1
 assets.boxfront: BoxFront/Beamrider (USA).jpg
-assets.boxback: BoxBack/Beamrider (USA).jpg
-assets.background: Background/Beamrider (USA).jpg
-assets.screenshot: Screenshot/Beamrider (USA).jpg
 assets.video: Video/Beamrider (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -653,9 +596,6 @@ description:
 release: 1977-09-11
 players: 3
 assets.boxfront: BoxFront/Black Jack (USA).jpg
-assets.boxback: BoxBack/Black Jack (USA).jpg
-assets.background: Background/Black Jack (USA).jpg
-assets.screenshot: Screenshot/Black Jack (USA).jpg
 assets.video: Video/Black Jack (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -686,9 +626,6 @@ description:
 release: 1979-04-01
 players: 2
 assets.boxfront: BoxFront/Bowling (USA).jpg
-assets.boxback: BoxBack/Bowling (USA).jpg
-assets.background: Background/Bowling (USA).jpg
-assets.screenshot: Screenshot/Bowling (USA).jpg
 assets.video: Video/Bowling (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -713,9 +650,6 @@ description:
 release: 1980-01-01
 players: 2
 assets.boxfront: BoxFront/Boxing (USA).jpg
-assets.boxback: BoxBack/Boxing (USA).jpg
-assets.background: Background/Boxing (USA).jpg
-assets.screenshot: Screenshot/Boxing (USA).jpg
 assets.video: Video/Boxing (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -750,9 +684,6 @@ description:
 release: 1978-08-01
 players: 2
 assets.boxfront: BoxFront/Brain Games (USA).jpg
-assets.boxback: BoxBack/Brain Games (USA).jpg
-assets.background: Background/Brain Games (USA).jpg
-assets.screenshot: Screenshot/Brain Games (USA).jpg
 assets.video: Video/Brain Games (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -773,9 +704,6 @@ description:
 release: 1978-01-01
 players: 4
 assets.boxfront: BoxFront/Breakout ~ Breakaway IV (Japan, USA) (En).jpg
-assets.boxback: BoxBack/Breakout ~ Breakaway IV (Japan, USA) (En).jpg
-assets.background: Background/Breakout ~ Breakaway IV (Japan, USA) (En).jpg
-assets.screenshot: Screenshot/Breakout ~ Breakaway IV (Japan, USA) (En).jpg
 assets.video: Video/Breakout ~ Breakaway IV (Japan, USA) (En).mp4
 x-co-op: No
 x-playable: Yes
@@ -804,9 +732,6 @@ description:
 release: 1980-12-01
 players: 1
 assets.boxfront: BoxFront/Bridge (USA).jpg
-assets.boxback: BoxBack/Bridge (USA).jpg
-assets.background: Background/Bridge (USA).jpg
-assets.screenshot: Screenshot/Bridge (USA).jpg
 assets.video: Video/Bridge (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -891,9 +816,6 @@ description:
 release: 1979-04-01
 players: 2
 assets.boxfront: BoxFront/Canyon Bomber (USA).jpg
-assets.boxback: BoxBack/Canyon Bomber (USA).jpg
-assets.background: Background/Canyon Bomber (USA).jpg
-assets.screenshot: Screenshot/Canyon Bomber (USA).jpg
 assets.video: Video/Canyon Bomber (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -963,9 +885,6 @@ description:
 release: 1979-10-01
 players: 4
 assets.boxfront: BoxFront/Casino ~ Poker Plus (USA).jpg
-assets.boxback: BoxBack/Casino ~ Poker Plus (USA).jpg
-assets.background: Background/Casino ~ Poker Plus (USA).jpg
-assets.screenshot: Screenshot/Casino ~ Poker Plus (USA).jpg
 assets.video: Video/Casino ~ Poker Plus (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1065,9 +984,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Centipede (Japan, USA) (En).jpg
-assets.boxback: BoxBack/Centipede (Japan, USA) (En).jpg
-assets.background: Background/Centipede (Japan, USA) (En).jpg
-assets.screenshot: Screenshot/Centipede (Japan, USA) (En).jpg
 assets.video: Video/Centipede (Japan, USA) (En).mp4
 x-co-op: No
 x-playable: Yes
@@ -1128,9 +1044,6 @@ description:
 release: 1980-09-01
 players: 2
 assets.boxfront: BoxFront/Championship Soccer ~ Soccer (USA).jpg
-assets.boxback: BoxBack/Championship Soccer ~ Soccer (USA).jpg
-assets.background: Background/Championship Soccer ~ Soccer (USA).jpg
-assets.screenshot: Screenshot/Championship Soccer ~ Soccer (USA).jpg
 assets.video: Video/Championship Soccer ~ Soccer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1158,9 +1071,6 @@ description:
 release: 1980-01-01
 players: 1
 assets.boxfront: BoxFront/Checkers (USA).jpg
-assets.boxback: BoxBack/Checkers (USA).jpg
-assets.background: Background/Checkers (USA).jpg
-assets.screenshot: Screenshot/Checkers (USA).jpg
 assets.video: Video/Checkers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1187,9 +1097,6 @@ description:
 release: 1982-06-01
 players: 1
 assets.boxfront: BoxFront/Chopper Command (USA).jpg
-assets.boxback: BoxBack/Chopper Command (USA).jpg
-assets.background: Background/Chopper Command (USA).jpg
-assets.screenshot: Screenshot/Chopper Command (USA).jpg
 assets.video: Video/Chopper Command (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1215,9 +1122,6 @@ description:
 release: 1980-06-01
 players: 2
 assets.boxfront: BoxFront/Circus Atari (Japan, USA).jpg
-assets.boxback: BoxBack/Circus Atari (Japan, USA).jpg
-assets.background: Background/Circus Atari (Japan, USA).jpg
-assets.screenshot: Screenshot/Circus Atari (Japan, USA).jpg
 assets.video: Video/Circus Atari (Japan, USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1239,9 +1143,6 @@ description:
 release: 1978-06-01
 players: 1
 assets.boxfront: BoxFront/Codebreaker (USA).jpg
-assets.boxback: BoxBack/Codebreaker (USA).jpg
-assets.background: Background/Codebreaker (USA).jpg
-assets.screenshot: Screenshot/Codebreaker (USA).jpg
 assets.video: Video/Codebreaker (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1262,9 +1163,6 @@ description:
 release: 1977-10-14
 players: 2
 assets.boxfront: BoxFront/Combat (USA, Europe) (Atari Anthology).jpg
-assets.boxback: BoxBack/Combat (USA, Europe) (Atari Anthology).jpg
-assets.background: Background/Combat (USA, Europe) (Atari Anthology).jpg
-assets.screenshot: Screenshot/Combat (USA, Europe) (Atari Anthology).jpg
 assets.video: Video/Combat (USA, Europe) (Atari Anthology).mp4
 x-co-op: No
 x-playable: Yes
@@ -1303,9 +1201,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Combat Two (USA) (Proto).jpg
-assets.boxback: BoxBack/Combat Two (USA) (Proto).jpg
-assets.background: Background/Combat Two (USA) (Proto).jpg
-assets.screenshot: Screenshot/Combat Two (USA) (Proto).jpg
 assets.video: Video/Combat Two (USA) (Proto).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1361,9 +1256,6 @@ description:
 release: 1977-09-11
 players: 2
 assets.boxfront: BoxFront/Combat ~ Tank-Plus (USA).jpg
-assets.boxback: BoxBack/Combat ~ Tank-Plus (USA).jpg
-assets.background: Background/Combat ~ Tank-Plus (USA).jpg
-assets.screenshot: Screenshot/Combat ~ Tank-Plus (USA).jpg
 assets.video: Video/Combat ~ Tank-Plus (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1384,9 +1276,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/Commando (USA).jpg
-assets.boxback: BoxBack/Commando (USA).jpg
-assets.background: Background/Commando (USA).jpg
-assets.screenshot: Screenshot/Commando (USA).jpg
 assets.video: Video/Commando (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1438,9 +1327,6 @@ description:
 release: 1979-01-01
 players: 1
 assets.boxfront: BoxFront/Computer Chess (USA) (Proto).jpg
-assets.boxback: BoxBack/Computer Chess (USA) (Proto).jpg
-assets.background: Background/Computer Chess (USA) (Proto).jpg
-assets.screenshot: Screenshot/Computer Chess (USA) (Proto).jpg
 assets.video: Video/Computer Chess (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -1469,9 +1355,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Cosmic Commuter (USA).jpg
-assets.boxback: BoxBack/Cosmic Commuter (USA).jpg
-assets.background: Background/Cosmic Commuter (USA).jpg
-assets.screenshot: Screenshot/Cosmic Commuter (USA).jpg
 assets.video: Video/Cosmic Commuter (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1500,9 +1383,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Crackpots (USA).jpg
-assets.boxback: BoxBack/Crackpots (USA).jpg
-assets.background: Background/Crackpots (USA).jpg
-assets.screenshot: Screenshot/Crackpots (USA).jpg
 assets.video: Video/Crackpots (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1525,9 +1405,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Crystal Castles (USA).jpg
-assets.boxback: BoxBack/Crystal Castles (USA).jpg
-assets.background: Background/Crystal Castles (USA).jpg
-assets.screenshot: Screenshot/Crystal Castles (USA).jpg
 assets.video: Video/Crystal Castles (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1552,9 +1429,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Dark Cavern (USA).jpg
-assets.boxback: BoxBack/Dark Cavern (USA).jpg
-assets.background: Background/Dark Cavern (USA).jpg
-assets.screenshot: Screenshot/Dark Cavern (USA).jpg
 assets.video: Video/Dark Cavern (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1582,9 +1456,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Dark Chambers (USA).jpg
-assets.boxback: BoxBack/Dark Chambers (USA).jpg
-assets.background: Background/Dark Chambers (USA).jpg
-assets.screenshot: Screenshot/Dark Chambers (USA).jpg
 assets.video: Video/Dark Chambers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1607,9 +1478,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Demon Attack (USA) (Rev 1).jpg
-assets.boxback: BoxBack/Demon Attack (USA) (Rev 1).jpg
-assets.background: Background/Demon Attack (USA) (Rev 1).jpg
-assets.screenshot: Screenshot/Demon Attack (USA) (Rev 1).jpg
 assets.video: Video/Demon Attack (USA) (Rev 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -1635,9 +1503,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Demons to Diamonds (USA).jpg
-assets.boxback: BoxBack/Demons to Diamonds (USA).jpg
-assets.background: Background/Demons to Diamonds (USA).jpg
-assets.screenshot: Screenshot/Demons to Diamonds (USA).jpg
 assets.video: Video/Demons to Diamonds (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1667,9 +1532,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/Desert Falcon (USA).jpg
-assets.boxback: BoxBack/Desert Falcon (USA).jpg
-assets.background: Background/Desert Falcon (USA).jpg
-assets.screenshot: Screenshot/Desert Falcon (USA).jpg
 assets.video: Video/Desert Falcon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1696,9 +1558,6 @@ description:
 release: 1980-01-01
 players: 2
 assets.boxfront: BoxFront/Dodge 'Em ~ Dodger Cars (USA).jpg
-assets.boxback: BoxBack/Dodge 'Em ~ Dodger Cars (USA).jpg
-assets.background: Background/Dodge 'Em ~ Dodger Cars (USA).jpg
-assets.screenshot: Screenshot/Dodge 'Em ~ Dodger Cars (USA).jpg
 assets.video: Video/Dodge 'Em ~ Dodger Cars (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1746,9 +1605,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Dolphin (USA).jpg
-assets.boxback: BoxBack/Dolphin (USA).jpg
-assets.background: Background/Dolphin (USA).jpg
-assets.screenshot: Screenshot/Dolphin (USA).jpg
 assets.video: Video/Dolphin (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1774,9 +1630,6 @@ description:
 release: 1989-08-15
 players: 2
 assets.boxfront: BoxFront/Double Dunk (USA).jpg
-assets.boxback: BoxBack/Double Dunk (USA).jpg
-assets.background: Background/Double Dunk (USA).jpg
-assets.screenshot: Screenshot/Double Dunk (USA).jpg
 assets.video: Video/Double Dunk (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1816,9 +1669,6 @@ description:
 release: 1980-01-01
 players: 2
 assets.boxfront: BoxFront/Dragster (USA).jpg
-assets.boxback: BoxBack/Dragster (USA).jpg
-assets.background: Background/Dragster (USA).jpg
-assets.screenshot: Screenshot/Dragster (USA).jpg
 assets.video: Video/Dragster (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1843,9 +1693,6 @@ description:
 release: 1983-02-01
 players: 1
 assets.boxfront: BoxFront/Enduro (USA).jpg
-assets.boxback: BoxBack/Enduro (USA).jpg
-assets.background: Background/Enduro (USA).jpg
-assets.screenshot: Screenshot/Enduro (USA).jpg
 assets.video: Video/Enduro (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1868,9 +1715,6 @@ description:
 release: 1990-01-01
 players: 1
 assets.boxfront: BoxFront/Fatal Run (USA).jpg
-assets.boxback: BoxBack/Fatal Run (USA).jpg
-assets.background: Background/Fatal Run (USA).jpg
-assets.screenshot: Screenshot/Fatal Run (USA).jpg
 assets.video: Video/Fatal Run (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1894,9 +1738,6 @@ description:
 release: 1980-07-01
 players: 2
 assets.boxfront: BoxFront/Fishing Derby (USA).jpg
-assets.boxback: BoxBack/Fishing Derby (USA).jpg
-assets.background: Background/Fishing Derby (USA).jpg
-assets.screenshot: Screenshot/Fishing Derby (USA).jpg
 assets.video: Video/Fishing Derby (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1929,9 +1770,6 @@ description:
 release: 1978-01-01
 players: 2
 assets.boxfront: BoxFront/Flag Capture ~ Capture (USA).jpg
-assets.boxback: BoxBack/Flag Capture ~ Capture (USA).jpg
-assets.background: Background/Flag Capture ~ Capture (USA).jpg
-assets.screenshot: Screenshot/Flag Capture ~ Capture (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1976,9 +1814,6 @@ description:
 release: 1979-04-01
 players: 2
 assets.boxfront: BoxFront/Football (USA).jpg
-assets.boxback: BoxBack/Football (USA).jpg
-assets.background: Background/Football (USA).jpg
-assets.screenshot: Screenshot/Football (USA).jpg
 assets.video: Video/Football (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2015,9 +1850,6 @@ description:
 release: 1981-07-15
 players: 1
 assets.boxfront: BoxFront/Freeway (USA).jpg
-assets.boxback: BoxBack/Freeway (USA).jpg
-assets.background: Background/Freeway (USA).jpg
-assets.screenshot: Screenshot/Freeway (USA).jpg
 assets.video: Video/Freeway (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2055,9 +1887,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Frog Pond (USA) (Proto).jpg
-assets.boxback: BoxBack/Frog Pond (USA) (Proto).jpg
-assets.background: Background/Frog Pond (USA) (Proto).jpg
-assets.screenshot: Screenshot/Frog Pond (USA) (Proto).jpg
 assets.video: Video/Frog Pond (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -2083,9 +1912,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Frogs and Flies (USA).jpg
-assets.boxback: BoxBack/Frogs and Flies (USA).jpg
-assets.background: Background/Frogs and Flies (USA).jpg
-assets.screenshot: Screenshot/Frogs and Flies (USA).jpg
 assets.video: Video/Frogs and Flies (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2106,9 +1932,6 @@ description:
 release: 1983-08-14
 players: 1
 assets.boxfront: BoxFront/Frostbite (USA).jpg
-assets.boxback: BoxBack/Frostbite (USA).jpg
-assets.background: Background/Frostbite (USA).jpg
-assets.screenshot: Screenshot/Frostbite (USA).jpg
 assets.video: Video/Frostbite (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2132,9 +1955,6 @@ description:
 release: 1980-01-01
 players: 2
 assets.boxfront: BoxFront/Golf (USA).jpg
-assets.boxback: BoxBack/Golf (USA).jpg
-assets.background: Background/Golf (USA).jpg
-assets.screenshot: Screenshot/Golf (USA).jpg
 assets.video: Video/Golf (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2159,9 +1979,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Grand Prix (USA).jpg
-assets.boxback: BoxBack/Grand Prix (USA).jpg
-assets.background: Background/Grand Prix (USA).jpg
-assets.screenshot: Screenshot/Grand Prix (USA).jpg
 assets.video: Video/Grand Prix (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2190,9 +2007,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Gravitar (USA).jpg
-assets.boxback: BoxBack/Gravitar (USA).jpg
-assets.background: Background/Gravitar (USA).jpg
-assets.screenshot: Screenshot/Gravitar (USA).jpg
 assets.video: Video/Gravitar (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2230,9 +2044,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/H.E.R.O. (USA).jpg
-assets.boxback: BoxBack/H.E.R.O. (USA).jpg
-assets.background: Background/H.E.R.O. (USA).jpg
-assets.screenshot: Screenshot/H.E.R.O. (USA).jpg
 assets.video: Video/H.E.R.O. (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2301,9 +2112,6 @@ description:
 release: 1978-05-01
 players: 2
 assets.boxfront: BoxFront/Hangman ~ Spelling (USA).jpg
-assets.boxback: BoxBack/Hangman ~ Spelling (USA).jpg
-assets.background: Background/Hangman ~ Spelling (USA).jpg
-assets.screenshot: Screenshot/Hangman ~ Spelling (USA).jpg
 assets.video: Video/Hangman ~ Spelling (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2347,9 +2155,6 @@ description:
 release: 1981-01-01
 players: 1
 assets.boxfront: BoxFront/Haunted House (USA).jpg
-assets.boxback: BoxBack/Haunted House (USA).jpg
-assets.background: Background/Haunted House (USA).jpg
-assets.screenshot: Screenshot/Haunted House (USA).jpg
 assets.video: Video/Haunted House (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2388,9 +2193,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Holey Moley (USA) (Proto).jpg
-assets.boxback: BoxBack/Holey Moley (USA) (Proto).jpg
-assets.background: Background/Holey Moley (USA) (Proto).jpg
-assets.screenshot: Screenshot/Holey Moley (USA) (Proto).jpg
 assets.video: Video/Holey Moley (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -2419,9 +2221,6 @@ description:
 release: 1978-01-01
 players: 1
 assets.boxfront: BoxFront/Home Run ~ Baseball (USA).jpg
-assets.boxback: BoxBack/Home Run ~ Baseball (USA).jpg
-assets.background: Background/Home Run ~ Baseball (USA).jpg
-assets.screenshot: Screenshot/Home Run ~ Baseball (USA).jpg
 assets.video: Video/Home Run ~ Baseball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2453,9 +2252,6 @@ description:
 release: 1979-04-01
 players: 1
 assets.boxfront: BoxFront/Human Cannonball ~ Cannon Man (USA).jpg
-assets.boxback: BoxBack/Human Cannonball ~ Cannon Man (USA).jpg
-assets.background: Background/Human Cannonball ~ Cannon Man (USA).jpg
-assets.screenshot: Screenshot/Human Cannonball ~ Cannon Man (USA).jpg
 assets.video: Video/Human Cannonball ~ Cannon Man (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2477,9 +2273,6 @@ description:
 release: 1978-01-01
 players: 2
 assets.boxfront: BoxFront/Hunt & Score ~ Memory Match (USA).jpg
-assets.boxback: BoxBack/Hunt & Score ~ Memory Match (USA).jpg
-assets.background: Background/Hunt & Score ~ Memory Match (USA).jpg
-assets.screenshot: Screenshot/Hunt & Score ~ Memory Match (USA).jpg
 assets.video: Video/Hunt & Score ~ Memory Match (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2504,9 +2297,6 @@ description:
 release: 1981-01-01
 players: 1
 assets.boxfront: BoxFront/Ice Hockey (USA).jpg
-assets.boxback: BoxBack/Ice Hockey (USA).jpg
-assets.background: Background/Ice Hockey (USA).jpg
-assets.screenshot: Screenshot/Ice Hockey (USA).jpg
 assets.video: Video/Ice Hockey (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2532,9 +2322,6 @@ description:
 release: 1977-09-11
 players: 2
 assets.boxfront: BoxFront/Indy 500 ~ Race (USA).jpg
-assets.boxback: BoxBack/Indy 500 ~ Race (USA).jpg
-assets.background: Background/Indy 500 ~ Race (USA).jpg
-assets.screenshot: Screenshot/Indy 500 ~ Race (USA).jpg
 assets.video: Video/Indy 500 ~ Race (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2560,9 +2347,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/International Soccer (USA).jpg
-assets.boxback: BoxBack/International Soccer (USA).jpg
-assets.background: Background/International Soccer (USA).jpg
-assets.screenshot: Screenshot/International Soccer (USA).jpg
 assets.video: Video/International Soccer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2601,9 +2385,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Kabobber (USA) (Proto).jpg
-assets.boxback: BoxBack/Kabobber (USA) (Proto).jpg
-assets.background: Background/Kabobber (USA) (Proto).jpg
-assets.screenshot: Screenshot/Kabobber (USA) (Proto).jpg
 assets.video: Video/Kabobber (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -2624,9 +2405,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Kaboom! (USA).jpg
-assets.boxback: BoxBack/Kaboom! (USA).jpg
-assets.background: Background/Kaboom! (USA).jpg
-assets.screenshot: Screenshot/Kaboom! (USA).jpg
 assets.video: Video/Kaboom! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2655,9 +2433,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Keystone Kapers (USA).jpg
-assets.boxback: BoxBack/Keystone Kapers (USA).jpg
-assets.background: Background/Keystone Kapers (USA).jpg
-assets.screenshot: Screenshot/Keystone Kapers (USA).jpg
 assets.video: Video/Keystone Kapers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2694,9 +2469,6 @@ description:
 release: 1981-01-01
 players: 1
 assets.boxfront: BoxFront/Laser Blast (USA).jpg
-assets.boxback: BoxBack/Laser Blast (USA).jpg
-assets.background: Background/Laser Blast (USA).jpg
-assets.screenshot: Screenshot/Laser Blast (USA).jpg
 assets.video: Video/Laser Blast (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2739,9 +2511,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Math Gran Prix (USA).jpg
-assets.boxback: BoxBack/Math Gran Prix (USA).jpg
-assets.background: Background/Math Gran Prix (USA).jpg
-assets.screenshot: Screenshot/Math Gran Prix (USA).jpg
 assets.video: Video/Math Gran Prix (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2780,9 +2549,6 @@ description:
 release: 1980-01-01
 players: 2
 assets.boxfront: BoxFront/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).jpg
-assets.boxback: BoxBack/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).jpg
-assets.background: Background/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).jpg
-assets.screenshot: Screenshot/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).jpg
 assets.video: Video/Maze Craze - A Game of Cops 'n Robbers ~ Maze Mania - A Game of Cops 'n Robbers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2821,9 +2587,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/MegaMania - A Space Nightmare (USA).jpg
-assets.boxback: BoxBack/MegaMania - A Space Nightmare (USA).jpg
-assets.background: Background/MegaMania - A Space Nightmare (USA).jpg
-assets.screenshot: Screenshot/MegaMania - A Space Nightmare (USA).jpg
 assets.video: Video/MegaMania - A Space Nightmare (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2852,9 +2615,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Millipede (USA).jpg
-assets.boxback: BoxBack/Millipede (USA).jpg
-assets.background: Background/Millipede (USA).jpg
-assets.screenshot: Screenshot/Millipede (USA).jpg
 assets.video: Video/Millipede (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2873,9 +2633,6 @@ description:
 release: 1983-11-14
 players: 1
 assets.boxfront: BoxFront/Miner 2049er - Starring Bounty Bob (USA).jpg
-assets.boxback: BoxBack/Miner 2049er - Starring Bounty Bob (USA).jpg
-assets.background: Background/Miner 2049er - Starring Bounty Bob (USA).jpg
-assets.screenshot: Screenshot/Miner 2049er - Starring Bounty Bob (USA).jpg
 assets.video: Video/Miner 2049er - Starring Bounty Bob (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2908,9 +2665,6 @@ description:
 release: 1979-04-01
 players: 2
 assets.boxfront: BoxFront/Miniature Golf ~ Arcade Golf (USA).jpg
-assets.boxback: BoxBack/Miniature Golf ~ Arcade Golf (USA).jpg
-assets.background: Background/Miniature Golf ~ Arcade Golf (USA).jpg
-assets.screenshot: Screenshot/Miniature Golf ~ Arcade Golf (USA).jpg
 assets.video: Video/Miniature Golf ~ Arcade Golf (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2961,9 +2715,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Missile Command (USA).jpg
-assets.boxback: BoxBack/Missile Command (USA).jpg
-assets.background: Background/Missile Command (USA).jpg
-assets.screenshot: Screenshot/Missile Command (USA).jpg
 assets.video: Video/Missile Command (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2991,9 +2742,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Moonsweeper (USA).jpg
-assets.boxback: BoxBack/Moonsweeper (USA).jpg
-assets.background: Background/Moonsweeper (USA).jpg
-assets.screenshot: Screenshot/Moonsweeper (USA).jpg
 assets.video: Video/Moonsweeper (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3046,9 +2794,6 @@ description:
 release: 1990-01-01
 players: 1
 assets.boxfront: BoxFront/MotoRodeo (USA).jpg
-assets.boxback: BoxBack/MotoRodeo (USA).jpg
-assets.background: Background/MotoRodeo (USA).jpg
-assets.screenshot: Screenshot/MotoRodeo (USA).jpg
 assets.video: Video/MotoRodeo (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3073,9 +2818,6 @@ description:
 release: 1980-01-01
 players: 1
 assets.boxfront: BoxFront/Night Driver (USA).jpg
-assets.boxback: BoxBack/Night Driver (USA).jpg
-assets.background: Background/Night Driver (USA).jpg
-assets.screenshot: Screenshot/Night Driver (USA).jpg
 assets.video: Video/Night Driver (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3108,9 +2850,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Off the Wall (USA).jpg
-assets.boxback: BoxBack/Off the Wall (USA).jpg
-assets.background: Background/Off the Wall (USA).jpg
-assets.screenshot: Screenshot/Off the Wall (USA).jpg
 assets.video: Video/Off the Wall (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3145,9 +2884,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Oink! (USA).jpg
-assets.boxback: BoxBack/Oink! (USA).jpg
-assets.background: Background/Oink! (USA).jpg
-assets.screenshot: Screenshot/Oink! (USA).jpg
 assets.video: Video/Oink! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3183,9 +2919,6 @@ description:
 release: 1978-01-01
 players: 2
 assets.boxfront: BoxFront/Outlaw ~ Gunslinger (USA).jpg
-assets.boxback: BoxBack/Outlaw ~ Gunslinger (USA).jpg
-assets.background: Background/Outlaw ~ Gunslinger (USA).jpg
-assets.screenshot: Screenshot/Outlaw ~ Gunslinger (USA).jpg
 assets.video: Video/Outlaw ~ Gunslinger (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3217,9 +2950,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Pac-Man (USA).jpg
-assets.boxback: BoxBack/Pac-Man (USA).jpg
-assets.background: Background/Pac-Man (USA).jpg
-assets.screenshot: Screenshot/Pac-Man (USA).jpg
 assets.video: Video/Pac-Man (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3252,9 +2982,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Pitfall II - Lost Caverns (USA).jpg
-assets.boxback: BoxBack/Pitfall II - Lost Caverns (USA).jpg
-assets.background: Background/Pitfall II - Lost Caverns (USA).jpg
-assets.screenshot: Screenshot/Pitfall II - Lost Caverns (USA).jpg
 assets.video: Video/Pitfall II - Lost Caverns (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3301,9 +3028,6 @@ description:
 release: 1982-04-20
 players: 1
 assets.boxfront: BoxFront/Pitfall! - Pitfall Harry's Jungle Adventure (USA).jpg
-assets.boxback: BoxBack/Pitfall! - Pitfall Harry's Jungle Adventure (USA).jpg
-assets.background: Background/Pitfall! - Pitfall Harry's Jungle Adventure (USA).jpg
-assets.screenshot: Screenshot/Pitfall! - Pitfall Harry's Jungle Adventure (USA).jpg
 assets.video: Video/Pitfall! - Pitfall Harry's Jungle Adventure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3341,9 +3065,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Plaque Attack (USA).jpg
-assets.boxback: BoxBack/Plaque Attack (USA).jpg
-assets.background: Background/Plaque Attack (USA).jpg
-assets.screenshot: Screenshot/Plaque Attack (USA).jpg
 assets.video: Video/Plaque Attack (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3379,9 +3100,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Pressure Cooker (USA).jpg
-assets.boxback: BoxBack/Pressure Cooker (USA).jpg
-assets.background: Background/Pressure Cooker (USA).jpg
-assets.screenshot: Screenshot/Pressure Cooker (USA).jpg
 assets.video: Video/Pressure Cooker (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3419,9 +3137,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Private Eye (USA).jpg
-assets.boxback: BoxBack/Private Eye (USA).jpg
-assets.background: Background/Private Eye (USA).jpg
-assets.screenshot: Screenshot/Private Eye (USA).jpg
 assets.video: Video/Private Eye (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3453,9 +3168,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Quadrun (USA).jpg
-assets.boxback: BoxBack/Quadrun (USA).jpg
-assets.background: Background/Quadrun (USA).jpg
-assets.screenshot: Screenshot/Quadrun (USA).jpg
 assets.video: Video/Quadrun (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3486,9 +3198,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Radar Lock (USA).jpg
-assets.boxback: BoxBack/Radar Lock (USA).jpg
-assets.background: Background/Radar Lock (USA).jpg
-assets.screenshot: Screenshot/Radar Lock (USA).jpg
 assets.video: Video/Radar Lock (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3547,9 +3256,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Raiders of the Lost Ark (USA).jpg
-assets.boxback: BoxBack/Raiders of the Lost Ark (USA).jpg
-assets.background: Background/Raiders of the Lost Ark (USA).jpg
-assets.screenshot: Screenshot/Raiders of the Lost Ark (USA).jpg
 assets.video: Video/Raiders of the Lost Ark (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3573,9 +3279,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/RealSports Baseball (USA).jpg
-assets.boxback: BoxBack/RealSports Baseball (USA).jpg
-assets.background: Background/RealSports Baseball (USA).jpg
-assets.screenshot: Screenshot/RealSports Baseball (USA).jpg
 assets.video: Video/RealSports Baseball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3611,9 +3314,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/RealSports Basketball (Europe) (Proto).jpg
-assets.boxback: BoxBack/RealSports Basketball (Europe) (Proto).jpg
-assets.background: Background/RealSports Basketball (Europe) (Proto).jpg
-assets.screenshot: Screenshot/RealSports Basketball (Europe) (Proto).jpg
 assets.video: Video/RealSports Basketball (Europe) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -3638,9 +3338,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/RealSports Boxing (USA).jpg
-assets.boxback: BoxBack/RealSports Boxing (USA).jpg
-assets.background: Background/RealSports Boxing (USA).jpg
-assets.screenshot: Screenshot/RealSports Boxing (USA).jpg
 assets.video: Video/RealSports Boxing (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3662,9 +3359,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/RealSports Football (USA).jpg
-assets.boxback: BoxBack/RealSports Football (USA).jpg
-assets.background: Background/RealSports Football (USA).jpg
-assets.screenshot: Screenshot/RealSports Football (USA).jpg
 assets.video: Video/RealSports Football (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3700,9 +3394,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/RealSports Soccer (USA).jpg
-assets.boxback: BoxBack/RealSports Soccer (USA).jpg
-assets.background: Background/RealSports Soccer (USA).jpg
-assets.screenshot: Screenshot/RealSports Soccer (USA).jpg
 assets.video: Video/RealSports Soccer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3731,9 +3422,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/RealSports Tennis (USA).jpg
-assets.boxback: BoxBack/RealSports Tennis (USA).jpg
-assets.background: Background/RealSports Tennis (USA).jpg
-assets.screenshot: Screenshot/RealSports Tennis (USA).jpg
 assets.video: Video/RealSports Tennis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3769,9 +3457,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/RealSports Volleyball (USA).jpg
-assets.boxback: BoxBack/RealSports Volleyball (USA).jpg
-assets.background: Background/RealSports Volleyball (USA).jpg
-assets.screenshot: Screenshot/RealSports Volleyball (USA).jpg
 assets.video: Video/RealSports Volleyball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3789,9 +3474,6 @@ description:
 release: 2006
 players: 1
 assets.boxfront: BoxFront/Return to Haunted House (USA) (Hack).jpg
-assets.boxback: BoxBack/Return to Haunted House (USA) (Hack).jpg
-assets.background: Background/Return to Haunted House (USA) (Hack).jpg
-assets.screenshot: Screenshot/Return to Haunted House (USA) (Hack).jpg
 assets.video: Video/Return to Haunted House (USA) (Hack).mp4
 x-co-op: No
 x-playable: Yes
@@ -3811,9 +3493,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/River Raid (USA).jpg
-assets.boxback: BoxBack/River Raid (USA).jpg
-assets.background: Background/River Raid (USA).jpg
-assets.screenshot: Screenshot/River Raid (USA).jpg
 assets.video: Video/River Raid (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3834,9 +3513,6 @@ description:
 release: 1988-07-28
 players: 2
 assets.boxfront: BoxFront/River Raid II (USA).jpg
-assets.boxback: BoxBack/River Raid II (USA).jpg
-assets.background: Background/River Raid II (USA).jpg
-assets.screenshot: Screenshot/River Raid II (USA).jpg
 assets.video: Video/River Raid II (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3864,9 +3540,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Robot Tank (USA).jpg
-assets.boxback: BoxBack/Robot Tank (USA).jpg
-assets.background: Background/Robot Tank (USA).jpg
-assets.screenshot: Screenshot/Robot Tank (USA).jpg
 assets.video: Video/Robot Tank (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3913,9 +3586,6 @@ description:
 release: 2004-03-30
 players: 1
 assets.boxfront: BoxFront/Saboteur (USA) (Proto).jpg
-assets.boxback: BoxBack/Saboteur (USA) (Proto).jpg
-assets.background: Background/Saboteur (USA) (Proto).jpg
-assets.screenshot: Screenshot/Saboteur (USA) (Proto).jpg
 assets.video: Video/Saboteur (USA) (Proto).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -3932,9 +3602,6 @@ description:
 release: 1990
 players: 1
 assets.boxfront: BoxFront/Save Mary! (USA) (Proto).jpg
-assets.boxback: BoxBack/Save Mary! (USA) (Proto).jpg
-assets.background: Background/Save Mary! (USA) (Proto).jpg
-assets.screenshot: Screenshot/Save Mary! (USA) (Proto).jpg
 assets.video: Video/Save Mary! (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -3962,9 +3629,6 @@ description:
 release: 2000-01-01
 players: 1
 assets.boxfront: BoxFront/Sea Battle (USA).jpg
-assets.boxback: BoxBack/Sea Battle (USA).jpg
-assets.background: Background/Sea Battle (USA).jpg
-assets.screenshot: Screenshot/Sea Battle (USA).jpg
 assets.video: Video/Sea Battle (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3983,9 +3647,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Seaquest (USA).jpg
-assets.boxback: BoxBack/Seaquest (USA).jpg
-assets.background: Background/Seaquest (USA).jpg
-assets.screenshot: Screenshot/Seaquest (USA).jpg
 assets.video: Video/Seaquest (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4019,9 +3680,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Secret Quest (USA).jpg
-assets.boxback: BoxBack/Secret Quest (USA).jpg
-assets.background: Background/Secret Quest (USA).jpg
-assets.screenshot: Screenshot/Secret Quest (USA).jpg
 assets.video: Video/Secret Quest (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4046,9 +3704,6 @@ description:
 release: 1990-01-01
 players: 1
 assets.boxfront: BoxFront/Sentinel (USA).jpg
-assets.boxback: BoxBack/Sentinel (USA).jpg
-assets.background: Background/Sentinel (USA).jpg
-assets.screenshot: Screenshot/Sentinel (USA).jpg
 assets.video: Video/Sentinel (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4070,9 +3725,6 @@ description:
 release: 1980-12-01
 players: 1
 assets.boxfront: BoxFront/Skiing (USA).jpg
-assets.boxback: BoxBack/Skiing (USA).jpg
-assets.background: Background/Skiing (USA).jpg
-assets.screenshot: Screenshot/Skiing (USA).jpg
 assets.video: Video/Skiing (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4091,9 +3743,6 @@ description:
 release: 1979-02-23
 players: 2
 assets.boxfront: BoxFront/Sky Diver ~ Dare Diver (USA).jpg
-assets.boxback: BoxBack/Sky Diver ~ Dare Diver (USA).jpg
-assets.background: Background/Sky Diver ~ Dare Diver (USA).jpg
-assets.screenshot: Screenshot/Sky Diver ~ Dare Diver (USA).jpg
 assets.video: Video/Sky Diver ~ Dare Diver (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4118,9 +3767,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Sky Jinks (USA).jpg
-assets.boxback: BoxBack/Sky Jinks (USA).jpg
-assets.background: Background/Sky Jinks (USA).jpg
-assets.screenshot: Screenshot/Sky Jinks (USA).jpg
 assets.video: Video/Sky Jinks (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4143,9 +3789,6 @@ description:
 release: 1979-10-01
 players: 2
 assets.boxfront: BoxFront/Slot Machine ~ Slots (USA).jpg
-assets.boxback: BoxBack/Slot Machine ~ Slots (USA).jpg
-assets.background: Background/Slot Machine ~ Slots (USA).jpg
-assets.screenshot: Screenshot/Slot Machine ~ Slots (USA).jpg
 assets.video: Video/Slot Machine ~ Slots (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4166,9 +3809,6 @@ description:
 release: 1978-07-01
 players: 2
 assets.boxfront: BoxFront/Slot Racers ~ Maze (USA).jpg
-assets.boxback: BoxBack/Slot Racers ~ Maze (USA).jpg
-assets.background: Background/Slot Racers ~ Maze (USA).jpg
-assets.screenshot: Screenshot/Slot Racers ~ Maze (USA).jpg
 assets.video: Video/Slot Racers ~ Maze (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4199,9 +3839,6 @@ description:
 release: 1986-12-01
 players: 1
 assets.boxfront: BoxFront/Solaris (USA).jpg
-assets.boxback: BoxBack/Solaris (USA).jpg
-assets.background: Background/Solaris (USA).jpg
-assets.screenshot: Screenshot/Solaris (USA).jpg
 assets.video: Video/Solaris (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4225,9 +3862,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Space Attack (USA).jpg
-assets.boxback: BoxBack/Space Attack (USA).jpg
-assets.background: Background/Space Attack (USA).jpg
-assets.screenshot: Screenshot/Space Attack (USA).jpg
 assets.video: Video/Space Attack (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4253,9 +3887,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Space Shuttle - A Journey into Space (USA).jpg
-assets.boxback: BoxBack/Space Shuttle - A Journey into Space (USA).jpg
-assets.background: Background/Space Shuttle - A Journey into Space (USA).jpg
-assets.screenshot: Screenshot/Space Shuttle - A Journey into Space (USA).jpg
 assets.video: Video/Space Shuttle - A Journey into Space (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4275,9 +3906,6 @@ description:
 release: 1978-05-01
 players: 2
 assets.boxfront: BoxFront/Space War ~ Space Combat (USA).jpg
-assets.boxback: BoxBack/Space War ~ Space Combat (USA).jpg
-assets.background: Background/Space War ~ Space Combat (USA).jpg
-assets.screenshot: Screenshot/Space War ~ Space Combat (USA).jpg
 assets.video: Video/Space War ~ Space Combat (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4300,9 +3928,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Spider Fighter (USA).jpg
-assets.boxback: BoxBack/Spider Fighter (USA).jpg
-assets.background: Background/Spider Fighter (USA).jpg
-assets.screenshot: Screenshot/Spider Fighter (USA).jpg
 assets.video: Video/Spider Fighter (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4326,9 +3951,6 @@ description:
 release: 1988-12-01
 players: 2
 assets.boxfront: BoxFront/Sprint Master (USA).jpg
-assets.boxback: BoxBack/Sprint Master (USA).jpg
-assets.background: Background/Sprint Master (USA).jpg
-assets.screenshot: Screenshot/Sprint Master (USA).jpg
 assets.video: Video/Sprint Master (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4349,9 +3971,6 @@ description:
 release: 1981-12-01
 players: 1
 assets.boxfront: BoxFront/Stampede (USA).jpg
-assets.boxback: BoxBack/Stampede (USA).jpg
-assets.background: Background/Stampede (USA).jpg
-assets.screenshot: Screenshot/Stampede (USA).jpg
 assets.video: Video/Stampede (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4380,9 +3999,6 @@ description:
 release: 1982-09-01
 players: 1
 assets.boxfront: BoxFront/Star Raiders (USA).jpg
-assets.boxback: BoxBack/Star Raiders (USA).jpg
-assets.background: Background/Star Raiders (USA).jpg
-assets.screenshot: Screenshot/Star Raiders (USA).jpg
 assets.video: Video/Star Raiders (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4409,9 +4025,6 @@ description:
 release: 1977-09-11
 players: 1
 assets.boxfront: BoxFront/Star Ship ~ Outer Space (USA).jpg
-assets.boxback: BoxBack/Star Ship ~ Outer Space (USA).jpg
-assets.background: Background/Star Ship ~ Outer Space (USA).jpg
-assets.screenshot: Screenshot/Star Ship ~ Outer Space (USA).jpg
 assets.video: Video/Star Ship ~ Outer Space (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4433,9 +4046,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Star Strike (USA).jpg
-assets.boxback: BoxBack/Star Strike (USA).jpg
-assets.background: Background/Star Strike (USA).jpg
-assets.screenshot: Screenshot/Star Strike (USA).jpg
 assets.video: Video/Star Strike (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4469,9 +4079,6 @@ description:
 release: 1982-12-01
 players: 1
 assets.boxfront: BoxFront/StarMaster (USA).jpg
-assets.boxback: BoxBack/StarMaster (USA).jpg
-assets.background: Background/StarMaster (USA).jpg
-assets.screenshot: Screenshot/StarMaster (USA).jpg
 assets.video: Video/StarMaster (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4495,9 +4102,6 @@ description:
 release: 1980-01-01
 players: 4
 assets.boxfront: BoxFront/Steeplechase (USA).jpg
-assets.boxback: BoxBack/Steeplechase (USA).jpg
-assets.background: Background/Steeplechase (USA).jpg
-assets.screenshot: Screenshot/Steeplechase (USA).jpg
 assets.video: Video/Steeplechase (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4516,9 +4120,6 @@ description:
 release: 1981-01-01
 players: 1
 assets.boxfront: BoxFront/Stellar Track (USA).jpg
-assets.boxback: BoxBack/Stellar Track (USA).jpg
-assets.background: Background/Stellar Track (USA).jpg
-assets.screenshot: Screenshot/Stellar Track (USA).jpg
 assets.video: Video/Stellar Track (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4539,9 +4140,6 @@ description:
 release: 1977-09-11
 players: 1
 assets.boxfront: BoxFront/Street Racer ~ Speedway II (USA).jpg
-assets.boxback: BoxBack/Street Racer ~ Speedway II (USA).jpg
-assets.background: Background/Street Racer ~ Speedway II (USA).jpg
-assets.screenshot: Screenshot/Street Racer ~ Speedway II (USA).jpg
 assets.video: Video/Street Racer ~ Speedway II (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4578,9 +4176,6 @@ description:
 release: 1980
 players: 1
 assets.boxfront: BoxFront/Stunt Cycle (USA) (Proto).jpg
-assets.boxback: BoxBack/Stunt Cycle (USA) (Proto).jpg
-assets.background: Background/Stunt Cycle (USA) (Proto).jpg
-assets.screenshot: Screenshot/Stunt Cycle (USA) (Proto).jpg
 assets.video: Video/Stunt Cycle (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -4602,9 +4197,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Submarine Commander (USA).jpg
-assets.boxback: BoxBack/Submarine Commander (USA).jpg
-assets.background: Background/Submarine Commander (USA).jpg
-assets.screenshot: Screenshot/Submarine Commander (USA).jpg
 assets.video: Video/Submarine Commander (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4628,9 +4220,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Super Baseball (USA).jpg
-assets.boxback: BoxBack/Super Baseball (USA).jpg
-assets.background: Background/Super Baseball (USA).jpg
-assets.screenshot: Screenshot/Super Baseball (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4659,9 +4248,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Super Breakout (USA).jpg
-assets.boxback: BoxBack/Super Breakout (USA).jpg
-assets.background: Background/Super Breakout (USA).jpg
-assets.screenshot: Screenshot/Super Breakout (USA).jpg
 assets.video: Video/Super Breakout (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4692,9 +4278,6 @@ description:
 release: 1978-01-01
 players: 2
 assets.boxfront: BoxFront/Super Breakout (USA, Europe) (Atari Anthology).jpg
-assets.boxback: BoxBack/Super Breakout (USA, Europe) (Atari Anthology).jpg
-assets.background: Background/Super Breakout (USA, Europe) (Atari Anthology).jpg
-assets.screenshot: Screenshot/Super Breakout (USA, Europe) (Atari Anthology).jpg
 assets.video: Video/Super Breakout (USA, Europe) (Atari Anthology).mp4
 x-co-op: No
 x-playable: Yes
@@ -4714,9 +4297,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Super Challenge Baseball (USA).jpg
-assets.boxback: BoxBack/Super Challenge Baseball (USA).jpg
-assets.background: Background/Super Challenge Baseball (USA).jpg
-assets.screenshot: Screenshot/Super Challenge Baseball (USA).jpg
 assets.video: Video/Super Challenge Baseball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4734,9 +4314,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Super Challenge Football (USA).jpg
-assets.boxback: BoxBack/Super Challenge Football (USA).jpg
-assets.background: Background/Super Challenge Football (USA).jpg
-assets.screenshot: Screenshot/Super Challenge Football (USA).jpg
 assets.video: Video/Super Challenge Football (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4757,9 +4334,6 @@ description:
 release: 1989-03-01
 players: 2
 assets.boxfront: BoxFront/Super Football (USA).jpg
-assets.boxback: BoxBack/Super Football (USA).jpg
-assets.background: Background/Super Football (USA).jpg
-assets.screenshot: Screenshot/Super Football (USA).jpg
 assets.video: Video/Super Football (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4789,9 +4363,6 @@ description:
 release: 1977-09-11
 players: 2
 assets.boxfront: BoxFront/Surround ~ Chase (USA).jpg
-assets.boxback: BoxBack/Surround ~ Chase (USA).jpg
-assets.background: Background/Surround ~ Chase (USA).jpg
-assets.screenshot: Screenshot/Surround ~ Chase (USA).jpg
 assets.video: Video/Surround ~ Chase (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4816,9 +4387,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/SwordQuest - EarthWorld (USA).jpg
-assets.boxback: BoxBack/SwordQuest - EarthWorld (USA).jpg
-assets.background: Background/SwordQuest - EarthWorld (USA).jpg
-assets.screenshot: Screenshot/SwordQuest - EarthWorld (USA).jpg
 assets.video: Video/SwordQuest - EarthWorld (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4843,9 +4411,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology).jpg
-assets.boxback: BoxBack/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology).jpg
-assets.background: Background/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology).jpg
-assets.screenshot: Screenshot/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology).jpg
 assets.video: Video/SwordQuest - EarthWorld (USA, Europe) (Atari Anthology).mp4
 x-co-op: No
 x-playable: Yes
@@ -4886,9 +4451,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/SwordQuest - FireWorld (USA).jpg
-assets.boxback: BoxBack/SwordQuest - FireWorld (USA).jpg
-assets.background: Background/SwordQuest - FireWorld (USA).jpg
-assets.screenshot: Screenshot/SwordQuest - FireWorld (USA).jpg
 assets.video: Video/SwordQuest - FireWorld (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4912,9 +4474,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/SwordQuest - WaterWorld (USA).jpg
-assets.boxback: BoxBack/SwordQuest - WaterWorld (USA).jpg
-assets.background: Background/SwordQuest - WaterWorld (USA).jpg
-assets.screenshot: Screenshot/SwordQuest - WaterWorld (USA).jpg
 assets.video: Video/SwordQuest - WaterWorld (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4933,9 +4492,6 @@ description:
 release: 2000-01-01
 players: 2
 assets.boxfront: BoxFront/Swordfight (USA).jpg
-assets.boxback: BoxBack/Swordfight (USA).jpg
-assets.background: Background/Swordfight (USA).jpg
-assets.screenshot: Screenshot/Swordfight (USA).jpg
 assets.video: Video/Swordfight (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4955,9 +4511,6 @@ description:
 release: 2003-06-05
 players: 2
 assets.boxfront: BoxFront/Tank AI (USA) (Combat Edit).jpg
-assets.boxback: BoxBack/Tank AI (USA) (Combat Edit).jpg
-assets.background: Background/Tank AI (USA) (Combat Edit).jpg
-assets.screenshot: Screenshot/Tank AI (USA) (Combat Edit).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4982,9 +4535,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Tempest (USA) (Proto).jpg
-assets.boxback: BoxBack/Tempest (USA) (Proto).jpg
-assets.background: Background/Tempest (USA) (Proto).jpg
-assets.screenshot: Screenshot/Tempest (USA) (Proto).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5003,9 +4553,6 @@ description:
 release: 1981-03-01
 players: 2
 assets.boxfront: BoxFront/Tennis (USA).jpg
-assets.boxback: BoxBack/Tennis (USA).jpg
-assets.background: Background/Tennis (USA).jpg
-assets.screenshot: Screenshot/Tennis (USA).jpg
 assets.video: Video/Tennis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5023,9 +4570,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Thwocker (USA) (Proto).jpg
-assets.boxback: BoxBack/Thwocker (USA) (Proto).jpg
-assets.background: Background/Thwocker (USA) (Proto).jpg
-assets.screenshot: Screenshot/Thwocker (USA) (Proto).jpg
 assets.video: Video/Thwocker (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -5058,9 +4602,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/Title Match Pro Wrestling (USA).jpg
-assets.boxback: BoxBack/Title Match Pro Wrestling (USA).jpg
-assets.background: Background/Title Match Pro Wrestling (USA).jpg
-assets.screenshot: Screenshot/Title Match Pro Wrestling (USA).jpg
 assets.video: Video/Title Match Pro Wrestling (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5081,9 +4622,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Tomcat - The F-14 Fighter Simulator (USA).jpg
-assets.boxback: BoxBack/Tomcat - The F-14 Fighter Simulator (USA).jpg
-assets.background: Background/Tomcat - The F-14 Fighter Simulator (USA).jpg
-assets.screenshot: Screenshot/Tomcat - The F-14 Fighter Simulator (USA).jpg
 assets.video: Video/Tomcat - The F-14 Fighter Simulator (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5104,9 +4642,6 @@ description:
 release: 1980-09-01
 players: 2
 assets.boxfront: BoxFront/Video Checkers ~ Checkers (USA).jpg
-assets.boxback: BoxBack/Video Checkers ~ Checkers (USA).jpg
-assets.background: Background/Video Checkers ~ Checkers (USA).jpg
-assets.screenshot: Screenshot/Video Checkers ~ Checkers (USA).jpg
 assets.video: Video/Video Checkers ~ Checkers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5132,9 +4667,6 @@ description:
 release: 1979-11-01
 players: 1
 assets.boxfront: BoxFront/Video Chess (USA).jpg
-assets.boxback: BoxBack/Video Chess (USA).jpg
-assets.background: Background/Video Chess (USA).jpg
-assets.screenshot: Screenshot/Video Chess (USA).jpg
 assets.video: Video/Video Chess (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5157,9 +4689,6 @@ description:
 release: 1977-09-11
 players: 2
 assets.boxfront: BoxFront/Video Olympics ~ Pong Sports (USA).jpg
-assets.boxback: BoxBack/Video Olympics ~ Pong Sports (USA).jpg
-assets.background: Background/Video Olympics ~ Pong Sports (USA).jpg
-assets.screenshot: Screenshot/Video Olympics ~ Pong Sports (USA).jpg
 assets.video: Video/Video Olympics ~ Pong Sports (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5179,9 +4708,6 @@ description:
 release: 1981-03-01
 players: 2
 assets.boxfront: BoxFront/Video Pinball ~ Arcade Pinball (USA).jpg
-assets.boxback: BoxBack/Video Pinball ~ Arcade Pinball (USA).jpg
-assets.background: Background/Video Pinball ~ Arcade Pinball (USA).jpg
-assets.screenshot: Screenshot/Video Pinball ~ Arcade Pinball (USA).jpg
 assets.video: Video/Video Pinball ~ Arcade Pinball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5206,9 +4732,6 @@ description:
 release: 1981-05-01
 players: 1
 assets.boxfront: BoxFront/Warlords (USA).jpg
-assets.boxback: BoxBack/Warlords (USA).jpg
-assets.background: Background/Warlords (USA).jpg
-assets.screenshot: Screenshot/Warlords (USA).jpg
 assets.video: Video/Warlords (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5247,9 +4770,6 @@ description:
 release: 1980-01-01
 players: 1
 assets.boxfront: BoxFront/Wizard (USA) (Proto).jpg
-assets.boxback: BoxBack/Wizard (USA) (Proto).jpg
-assets.background: Background/Wizard (USA) (Proto).jpg
-assets.screenshot: Screenshot/Wizard (USA) (Proto).jpg
 assets.video: Video/Wizard (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -5272,9 +4792,6 @@ description:
 release: 2005-01-01
 players: 2
 assets.boxfront: BoxFront/Yars' Return (USA) (Proto).jpg
-assets.boxback: BoxBack/Yars' Return (USA) (Proto).jpg
-assets.background: Background/Yars' Return (USA) (Proto).jpg
-assets.screenshot: Screenshot/Yars' Return (USA) (Proto).jpg
 assets.video: Video/Yars' Return (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -5304,9 +4821,6 @@ description:
 release: 1982-05-03
 players: 2
 assets.boxfront: BoxFront/Yars' Revenge (USA).jpg
-assets.boxback: BoxBack/Yars' Revenge (USA).jpg
-assets.background: Background/Yars' Revenge (USA).jpg
-assets.screenshot: Screenshot/Yars' Revenge (USA).jpg
 assets.video: Video/Yars' Revenge (USA).mp4
 x-co-op: No
 x-playable: Yes

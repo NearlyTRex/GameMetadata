@@ -18,9 +18,6 @@ description:
 release: 1988-12-22
 players: 1
 assets.boxfront: BoxFront/Appare Gateball (Japan).jpg
-assets.boxback: BoxBack/Appare Gateball (Japan).jpg
-assets.background: Background/Appare Gateball (Japan).jpg
-assets.screenshot: Screenshot/Appare Gateball (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -45,9 +42,6 @@ description:
 release: 1993-02-10
 players: 1
 assets.boxfront: BoxFront/Battle Lode Runner (Japan).jpg
-assets.boxback: BoxBack/Battle Lode Runner (Japan).jpg
-assets.background: Background/Battle Lode Runner (Japan).jpg
-assets.screenshot: Screenshot/Battle Lode Runner (Japan).jpg
 assets.video: Video/Battle Lode Runner (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -70,9 +64,6 @@ description:
 release: 1993-12-10
 players: 5
 assets.boxfront: BoxFront/Bomberman '94 (Japan).jpg
-assets.boxback: BoxBack/Bomberman '94 (Japan).jpg
-assets.background: Background/Bomberman '94 (Japan).jpg
-assets.screenshot: Screenshot/Bomberman '94 (Japan).jpg
 assets.video: Video/Bomberman '94 (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -97,9 +88,6 @@ description:
 release: 1990-01-01
 players: 1
 assets.boxfront: BoxFront/Darius Alpha (Japan).jpg
-assets.boxback: BoxBack/Darius Alpha (Japan).jpg
-assets.background: Background/Darius Alpha (Japan).jpg
-assets.screenshot: Screenshot/Darius Alpha (Japan).jpg
 assets.video: Video/Darius Alpha (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -126,9 +114,6 @@ description:
 release: 1990-09-21
 players: 1
 assets.boxfront: BoxFront/Darius Plus (Japan).jpg
-assets.boxback: BoxBack/Darius Plus (Japan).jpg
-assets.background: Background/Darius Plus (Japan).jpg
-assets.screenshot: Screenshot/Darius Plus (Japan).jpg
 assets.video: Video/Darius Plus (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -148,9 +133,6 @@ description:
 release: 1988-12-16
 players: 1
 assets.boxfront: BoxFront/Dragon Spirit (Japan).jpg
-assets.boxback: BoxBack/Dragon Spirit (Japan).jpg
-assets.background: Background/Dragon Spirit (Japan).jpg
-assets.screenshot: Screenshot/Dragon Spirit (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -169,9 +151,6 @@ description:
 release: 1989-03-04
 players: 4
 assets.boxfront: BoxFront/Dungeon Explorer (Japan).jpg
-assets.boxback: BoxBack/Dungeon Explorer (Japan).jpg
-assets.background: Background/Dungeon Explorer (Japan).jpg
-assets.screenshot: Screenshot/Dungeon Explorer (Japan).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -190,9 +169,6 @@ description:
 release: 1988-10-14
 players: 2
 assets.boxfront: BoxFront/Fantasy Zone (Japan).jpg
-assets.boxback: BoxBack/Fantasy Zone (Japan).jpg
-assets.background: Background/Fantasy Zone (Japan).jpg
-assets.screenshot: Screenshot/Fantasy Zone (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -220,9 +196,6 @@ description:
 release: 1991-07-05
 players: 1
 assets.boxfront: BoxFront/Final Soldier (Japan) (En).jpg
-assets.boxback: BoxBack/Final Soldier (Japan) (En).jpg
-assets.background: Background/Final Soldier (Japan) (En).jpg
-assets.screenshot: Screenshot/Final Soldier (Japan) (En).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -241,9 +214,6 @@ description:
 release: 1988-07-15
 players: 2
 assets.boxfront: BoxFront/Galaga '88 (Japan).jpg
-assets.boxback: BoxBack/Galaga '88 (Japan).jpg
-assets.background: Background/Galaga '88 (Japan).jpg
-assets.screenshot: Screenshot/Galaga '88 (Japan).jpg
 assets.video: Video/Galaga '88 (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -261,9 +231,6 @@ description:
 release: 1990-03-16
 players: 1
 assets.boxfront: BoxFront/Genpei Toumaden (Japan).jpg
-assets.boxback: BoxBack/Genpei Toumaden (Japan).jpg
-assets.background: Background/Genpei Toumaden (Japan).jpg
-assets.screenshot: Screenshot/Genpei Toumaden (Japan).jpg
 assets.video: Video/Genpei Toumaden (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -287,9 +254,6 @@ description:
 release: 1991-11-15
 players: 2
 assets.boxfront: BoxFront/Gradius (Japan).jpg
-assets.boxback: BoxBack/Gradius (Japan).jpg
-assets.background: Background/Gradius (Japan).jpg
-assets.screenshot: Screenshot/Gradius (Japan).jpg
 assets.video: Video/Gradius (Japan).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -324,9 +288,6 @@ description:
 release: 1988-01-22
 players: 1
 assets.boxfront: BoxFront/Jaseiken Necromancer (Japan).jpg
-assets.boxback: BoxBack/Jaseiken Necromancer (Japan).jpg
-assets.background: Background/Jaseiken Necromancer (Japan).jpg
-assets.screenshot: Screenshot/Jaseiken Necromancer (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -345,9 +306,6 @@ description:
 release: 1989-11-17
 players: 1
 assets.boxfront: BoxFront/Neutopia (Japan).jpg
-assets.boxback: BoxBack/Neutopia (Japan).jpg
-assets.background: Background/Neutopia (Japan).jpg
-assets.screenshot: Screenshot/Neutopia (Japan).jpg
 assets.video: Video/Neutopia (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -369,9 +327,6 @@ description:
 release: 1991-09-27
 players: 1
 assets.boxfront: BoxFront/Neutopia II (Japan).jpg
-assets.boxback: BoxBack/Neutopia II (Japan).jpg
-assets.background: Background/Neutopia II (Japan).jpg
-assets.screenshot: Screenshot/Neutopia II (Japan).jpg
 assets.video: Video/Neutopia II (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -392,9 +347,6 @@ description:
 release: 1992-01-24
 players: 1
 assets.boxfront: BoxFront/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
-assets.boxback: BoxBack/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
-assets.background: Background/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
-assets.screenshot: Screenshot/Ninja Ryuuken Den (Japan) (En,Ja,Zh).jpg
 assets.video: Video/Ninja Ryuuken Den (Japan) (En,Ja,Zh).mp4
 x-co-op: No
 x-playable: Yes
@@ -419,9 +371,6 @@ description:
 release: 1990-04-03
 players: 1
 assets.boxfront: BoxFront/Splatterhouse (Japan) (En).jpg
-assets.boxback: BoxBack/Splatterhouse (Japan) (En).jpg
-assets.background: Background/Splatterhouse (Japan) (En).jpg
-assets.screenshot: Screenshot/Splatterhouse (Japan) (En).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -445,9 +394,6 @@ description:
 release: 1991-12-20
 players: 2
 assets.boxfront: BoxFront/Super Momotarou Dentetsu II (Japan).jpg
-assets.boxback: BoxBack/Super Momotarou Dentetsu II (Japan).jpg
-assets.background: Background/Super Momotarou Dentetsu II (Japan).jpg
-assets.screenshot: Screenshot/Super Momotarou Dentetsu II (Japan).jpg
 assets.video: Video/Super Momotarou Dentetsu II (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -469,9 +415,6 @@ description:
 release: 1990-07-06
 players: 1
 assets.boxfront: BoxFront/Super Star Soldier (Japan).jpg
-assets.boxback: BoxBack/Super Star Soldier (Japan).jpg
-assets.background: Background/Super Star Soldier (Japan).jpg
-assets.screenshot: Screenshot/Super Star Soldier (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -497,9 +440,6 @@ description:
 release: 1990-08-09
 players: 2
 assets.boxfront: BoxFront/Valkyrie no Densetsu (Japan).jpg
-assets.boxback: BoxBack/Valkyrie no Densetsu (Japan).jpg
-assets.background: Background/Valkyrie no Densetsu (Japan).jpg
-assets.screenshot: Screenshot/Valkyrie no Densetsu (Japan).jpg
 assets.video: Video/Valkyrie no Densetsu (Japan).mp4
 x-co-op: Yes
 x-playable: Yes

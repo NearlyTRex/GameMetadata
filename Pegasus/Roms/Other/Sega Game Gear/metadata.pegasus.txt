@@ -19,9 +19,6 @@ description:
 release: 1992-12-01
 players: 2
 assets.boxfront: BoxFront/Bare Knuckle ~ Streets of Rage (World).jpg
-assets.boxback: BoxBack/Bare Knuckle ~ Streets of Rage (World).jpg
-assets.background: Background/Bare Knuckle ~ Streets of Rage (World).jpg
-assets.screenshot: Screenshot/Bare Knuckle ~ Streets of Rage (World).jpg
 assets.video: Video/Bare Knuckle ~ Streets of Rage (World).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -41,9 +38,6 @@ description:
 release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Bust-A-Move (USA, Europe).jpg
-assets.boxback: BoxBack/Bust-A-Move (USA, Europe).jpg
-assets.background: Background/Bust-A-Move (USA, Europe).jpg
-assets.screenshot: Screenshot/Bust-A-Move (USA, Europe).jpg
 assets.video: Video/Bust-A-Move (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -62,9 +56,6 @@ description:
 release: 1991-04-26
 players: 1
 assets.boxfront: BoxFront/Columns (USA, Europe, Brazil) (Rev 2).jpg
-assets.boxback: BoxBack/Columns (USA, Europe, Brazil) (Rev 2).jpg
-assets.background: Background/Columns (USA, Europe, Brazil) (Rev 2).jpg
-assets.screenshot: Screenshot/Columns (USA, Europe, Brazil) (Rev 2).jpg
 assets.video: Video/Columns (USA, Europe, Brazil) (Rev 2).mp4
 x-co-op: No
 x-playable: Yes
@@ -98,9 +89,6 @@ description:
 release: 1991-12-13
 players: 2
 assets.boxfront: BoxFront/Crystal Warriors (USA, Europe).jpg
-assets.boxback: BoxBack/Crystal Warriors (USA, Europe).jpg
-assets.background: Background/Crystal Warriors (USA, Europe).jpg
-assets.screenshot: Screenshot/Crystal Warriors (USA, Europe).jpg
 assets.video: Video/Crystal Warriors (USA, Europe).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -129,9 +117,6 @@ description:
 release: 1992-09-18
 players: 1
 assets.boxfront: BoxFront/Defenders of Oasis (USA, Europe).jpg
-assets.boxback: BoxBack/Defenders of Oasis (USA, Europe).jpg
-assets.background: Background/Defenders of Oasis (USA, Europe).jpg
-assets.screenshot: Screenshot/Defenders of Oasis (USA, Europe).jpg
 assets.video: Video/Defenders of Oasis (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -150,9 +135,6 @@ description:
 release: 1993-12-01
 players: 2
 assets.boxfront: BoxFront/Dr. Robotnik's Mean Bean Machine (USA, Europe).jpg
-assets.boxback: BoxBack/Dr. Robotnik's Mean Bean Machine (USA, Europe).jpg
-assets.background: Background/Dr. Robotnik's Mean Bean Machine (USA, Europe).jpg
-assets.screenshot: Screenshot/Dr. Robotnik's Mean Bean Machine (USA, Europe).jpg
 assets.video: Video/Dr. Robotnik's Mean Bean Machine (USA, Europe).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -170,9 +152,6 @@ description:
 release: 1990-12-22
 players: 1
 assets.boxfront: BoxFront/Dragon Crystal (USA, Europe).jpg
-assets.boxback: BoxBack/Dragon Crystal (USA, Europe).jpg
-assets.background: Background/Dragon Crystal (USA, Europe).jpg
-assets.screenshot: Screenshot/Dragon Crystal (USA, Europe).jpg
 assets.video: Video/Dragon Crystal (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -195,9 +174,6 @@ description:
 release: 1994-08-05
 players: 1
 assets.boxfront: BoxFront/Dynamite Headdy (Japan).jpg
-assets.boxback: BoxBack/Dynamite Headdy (Japan).jpg
-assets.background: Background/Dynamite Headdy (Japan).jpg
-assets.screenshot: Screenshot/Dynamite Headdy (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -219,9 +195,6 @@ description:
 release: 1994-08-05
 players: 1
 assets.boxfront: BoxFront/Dynamite Headdy (USA, Europe).jpg
-assets.boxback: BoxBack/Dynamite Headdy (USA, Europe).jpg
-assets.background: Background/Dynamite Headdy (USA, Europe).jpg
-assets.screenshot: Screenshot/Dynamite Headdy (USA, Europe).jpg
 assets.video: Video/Dynamite Headdy (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -243,9 +216,6 @@ description:
 release: 1991-07-19
 players: 1
 assets.boxfront: BoxFront/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).jpg
-assets.boxback: BoxBack/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).jpg
-assets.background: Background/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).jpg
-assets.screenshot: Screenshot/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).jpg
 assets.video: Video/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -263,9 +233,6 @@ description:
 release: 1991-01-01
 players: 1
 assets.boxfront: BoxFront/G-LOC - Air Battle (USA, Europe, Brazil).jpg
-assets.boxback: BoxBack/G-LOC - Air Battle (USA, Europe, Brazil).jpg
-assets.background: Background/G-LOC - Air Battle (USA, Europe, Brazil).jpg
-assets.screenshot: Screenshot/G-LOC - Air Battle (USA, Europe, Brazil).jpg
 assets.video: Video/G-LOC - Air Battle (USA, Europe, Brazil).mp4
 x-co-op: No
 x-playable: Yes
@@ -285,9 +252,6 @@ description:
 release: 1996-11-14
 players: 1
 assets.boxfront: BoxFront/G-Sonic ~ Sonic Blast (World).jpg
-assets.boxback: BoxBack/G-Sonic ~ Sonic Blast (World).jpg
-assets.background: Background/G-Sonic ~ Sonic Blast (World).jpg
-assets.screenshot: Screenshot/G-Sonic ~ Sonic Blast (World).jpg
 assets.video: Video/G-Sonic ~ Sonic Blast (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -309,9 +273,6 @@ description:
 release: 1991-01-01
 players: 1
 assets.boxfront: BoxFront/GG Shinobi, The ~ Shinobi (World) (Rev 1).jpg
-assets.boxback: BoxBack/GG Shinobi, The ~ Shinobi (World) (Rev 1).jpg
-assets.background: Background/GG Shinobi, The ~ Shinobi (World) (Rev 1).jpg
-assets.screenshot: Screenshot/GG Shinobi, The ~ Shinobi (World) (Rev 1).jpg
 assets.video: Video/GG Shinobi, The ~ Shinobi (World) (Rev 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -331,9 +292,6 @@ description:
 release: 1995-03-24
 players: 1
 assets.boxfront: BoxFront/Gunstar Heroes (Japan).jpg
-assets.boxback: BoxBack/Gunstar Heroes (Japan).jpg
-assets.background: Background/Gunstar Heroes (Japan).jpg
-assets.screenshot: Screenshot/Gunstar Heroes (Japan).jpg
 assets.video: Video/Gunstar Heroes (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -353,9 +311,6 @@ description:
 release: 1995-02-23
 players: 1
 assets.boxfront: BoxFront/NBA Jam - Tournament Edition (World).jpg
-assets.boxback: BoxBack/NBA Jam - Tournament Edition (World).jpg
-assets.background: Background/NBA Jam - Tournament Edition (World).jpg
-assets.screenshot: Screenshot/NBA Jam - Tournament Edition (World).jpg
 assets.video: Video/NBA Jam - Tournament Edition (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -388,9 +343,6 @@ description:
 release: 1992-03-13
 players: 1
 assets.boxfront: BoxFront/Phantasy Star Adventure (Japan).jpg
-assets.boxback: BoxBack/Phantasy Star Adventure (Japan).jpg
-assets.background: Background/Phantasy Star Adventure (Japan).jpg
-assets.screenshot: Screenshot/Phantasy Star Adventure (Japan).jpg
 assets.video: Video/Phantasy Star Adventure (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -420,9 +372,6 @@ description:
 release: 1992-10-16
 players: 1
 assets.boxfront: BoxFront/Phantasy Star Gaiden (Japan).jpg
-assets.boxback: BoxBack/Phantasy Star Gaiden (Japan).jpg
-assets.background: Background/Phantasy Star Gaiden (Japan).jpg
-assets.screenshot: Screenshot/Phantasy Star Gaiden (Japan).jpg
 assets.video: Video/Phantasy Star Gaiden (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -471,9 +420,6 @@ description:
 release: 1994-03-01
 players: 1
 assets.boxfront: BoxFront/Road Rash (USA).jpg
-assets.boxback: BoxBack/Road Rash (USA).jpg
-assets.background: Background/Road Rash (USA).jpg
-assets.screenshot: Screenshot/Road Rash (USA).jpg
 assets.video: Video/Road Rash (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -493,9 +439,6 @@ description:
 release: 1993-06-25
 players: 1
 assets.boxfront: BoxFront/Shining Force - The Sword of Hajya (USA).jpg
-assets.boxback: BoxBack/Shining Force - The Sword of Hajya (USA).jpg
-assets.background: Background/Shining Force - The Sword of Hajya (USA).jpg
-assets.screenshot: Screenshot/Shining Force - The Sword of Hajya (USA).jpg
 assets.video: Video/Shining Force - The Sword of Hajya (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -521,9 +464,6 @@ description:
 release: 1993-11-19
 players: 1
 assets.boxfront: BoxFront/Sonic Chaos (USA, Europe, Brazil).jpg
-assets.boxback: BoxBack/Sonic Chaos (USA, Europe, Brazil).jpg
-assets.background: Background/Sonic Chaos (USA, Europe, Brazil).jpg
-assets.screenshot: Screenshot/Sonic Chaos (USA, Europe, Brazil).jpg
 assets.video: Video/Sonic Chaos (USA, Europe, Brazil).mp4
 x-co-op: No
 x-playable: Yes
@@ -548,9 +488,6 @@ description:
 release: 1994-03-18
 players: 2
 assets.boxfront: BoxFront/Sonic Drift (Japan) (En).jpg
-assets.boxback: BoxBack/Sonic Drift (Japan) (En).jpg
-assets.background: Background/Sonic Drift (Japan) (En).jpg
-assets.screenshot: Screenshot/Sonic Drift (Japan) (En).jpg
 assets.video: Video/Sonic Drift (Japan) (En).mp4
 x-co-op: No
 x-playable: Yes
@@ -569,9 +506,6 @@ description:
 release: 1995-11-01
 players: 1
 assets.boxfront: BoxFront/Sonic Drift Racing ~ Sonic Drift 2 (World).jpg
-assets.boxback: BoxBack/Sonic Drift Racing ~ Sonic Drift 2 (World).jpg
-assets.background: Background/Sonic Drift Racing ~ Sonic Drift 2 (World).jpg
-assets.screenshot: Screenshot/Sonic Drift Racing ~ Sonic Drift 2 (World).jpg
 assets.video: Video/Sonic Drift Racing ~ Sonic Drift 2 (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -591,9 +525,6 @@ description:
 release: 1995-10-01
 players: 1
 assets.boxfront: BoxFront/Sonic Labyrinth (World).jpg
-assets.boxback: BoxBack/Sonic Labyrinth (World).jpg
-assets.background: Background/Sonic Labyrinth (World).jpg
-assets.screenshot: Screenshot/Sonic Labyrinth (World).jpg
 assets.video: Video/Sonic Labyrinth (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -614,9 +545,6 @@ description:
 release: 1994-08-01
 players: 1
 assets.boxfront: BoxFront/Sonic Spinball (USA, Europe).jpg
-assets.boxback: BoxBack/Sonic Spinball (USA, Europe).jpg
-assets.background: Background/Sonic Spinball (USA, Europe).jpg
-assets.screenshot: Screenshot/Sonic Spinball (USA, Europe).jpg
 assets.video: Video/Sonic Spinball (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -641,9 +569,6 @@ description:
 release: 1991-12-28
 players: 1
 assets.boxfront: BoxFront/Sonic The Hedgehog (World) (Rev 1).jpg
-assets.boxback: BoxBack/Sonic The Hedgehog (World) (Rev 1).jpg
-assets.background: Background/Sonic The Hedgehog (World) (Rev 1).jpg
-assets.screenshot: Screenshot/Sonic The Hedgehog (World) (Rev 1).jpg
 assets.video: Video/Sonic The Hedgehog (World) (Rev 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -663,9 +588,6 @@ description:
 release: 1994-10-15
 players: 1
 assets.boxfront: BoxFront/Sonic The Hedgehog - Triple Trouble (USA, Europe).jpg
-assets.boxback: BoxBack/Sonic The Hedgehog - Triple Trouble (USA, Europe).jpg
-assets.background: Background/Sonic The Hedgehog - Triple Trouble (USA, Europe).jpg
-assets.screenshot: Screenshot/Sonic The Hedgehog - Triple Trouble (USA, Europe).jpg
 assets.video: Video/Sonic The Hedgehog - Triple Trouble (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -691,9 +613,6 @@ description:
 release: 1992-10-29
 players: 1
 assets.boxfront: BoxFront/Sonic The Hedgehog 2 (World).jpg
-assets.boxback: BoxBack/Sonic The Hedgehog 2 (World).jpg
-assets.background: Background/Sonic The Hedgehog 2 (World).jpg
-assets.screenshot: Screenshot/Sonic The Hedgehog 2 (World).jpg
 assets.video: Video/Sonic The Hedgehog 2 (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -719,9 +638,6 @@ description:
 release: 1992-06-01
 players: 1
 assets.boxfront: BoxFront/Spider-Man vs. The Kingpin (USA, Europe).jpg
-assets.boxback: BoxBack/Spider-Man vs. The Kingpin (USA, Europe).jpg
-assets.background: Background/Spider-Man vs. The Kingpin (USA, Europe).jpg
-assets.screenshot: Screenshot/Spider-Man vs. The Kingpin (USA, Europe).jpg
 assets.video: Video/Spider-Man vs. The Kingpin (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -740,9 +656,6 @@ description:
 release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Tails Adventure ~ Tails Adventures (World) (En,Ja).jpg
-assets.boxback: BoxBack/Tails Adventure ~ Tails Adventures (World) (En,Ja).jpg
-assets.background: Background/Tails Adventure ~ Tails Adventures (World) (En,Ja).jpg
-assets.screenshot: Screenshot/Tails Adventure ~ Tails Adventures (World) (En,Ja).jpg
 assets.video: Video/Tails Adventure ~ Tails Adventures (World) (En,Ja).mp4
 x-co-op: No
 x-playable: Yes
@@ -763,9 +676,6 @@ description:
 release: 1995-04-28
 players: 1
 assets.boxfront: BoxFront/Tails no Skypatrol (Japan).jpg
-assets.boxback: BoxBack/Tails no Skypatrol (Japan).jpg
-assets.background: Background/Tails no Skypatrol (Japan).jpg
-assets.screenshot: Screenshot/Tails no Skypatrol (Japan).jpg
 assets.video: Video/Tails no Skypatrol (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -784,9 +694,6 @@ description:
 release: 1992-10-23
 players: 1
 assets.boxfront: BoxFront/Vampire - Master of Darkness (USA).jpg
-assets.boxback: BoxBack/Vampire - Master of Darkness (USA).jpg
-assets.background: Background/Vampire - Master of Darkness (USA).jpg
-assets.screenshot: Screenshot/Vampire - Master of Darkness (USA).jpg
 assets.video: Video/Vampire - Master of Darkness (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -809,9 +716,6 @@ description:
 release: 1994-01-01
 players: 1
 assets.boxfront: BoxFront/X-Men (USA).jpg
-assets.boxback: BoxBack/X-Men (USA).jpg
-assets.background: Background/X-Men (USA).jpg
-assets.screenshot: Screenshot/X-Men (USA).jpg
 assets.video: Video/X-Men (USA).mp4
 x-co-op: No
 x-playable: Yes

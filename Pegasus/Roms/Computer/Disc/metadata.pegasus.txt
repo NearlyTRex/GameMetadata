@@ -16,8 +16,6 @@ release: 1998-06-28
 players: 1
 assets.boxfront: BoxFront/1000 Best Games for Windows (USA).jpg
 assets.boxback: BoxBack/1000 Best Games for Windows (USA).jpg
-assets.background: Background/1000 Best Games for Windows (USA).jpg
-assets.screenshot: Screenshot/1000 Best Games for Windows (USA).jpg
 assets.video: Video/1000 Best Games for Windows (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -70,9 +68,6 @@ description:
 release: 2017-08-06
 players: 1
 assets.boxfront: BoxFront/AM2R - Another Metroid 2 Remake (USA).jpg
-assets.boxback: BoxBack/AM2R - Another Metroid 2 Remake (USA).jpg
-assets.background: Background/AM2R - Another Metroid 2 Remake (USA).jpg
-assets.screenshot: Screenshot/AM2R - Another Metroid 2 Remake (USA).jpg
 assets.video: Video/AM2R - Another Metroid 2 Remake (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -96,9 +91,6 @@ description:
 release: 2010
 players: 2
 assets.boxfront: BoxFront/Action 52 Owns (USA).jpg
-assets.boxback: BoxBack/Action 52 Owns (USA).jpg
-assets.background: Background/Action 52 Owns (USA).jpg
-assets.screenshot: Screenshot/Action 52 Owns (USA).jpg
 assets.video: Video/Action 52 Owns (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -120,8 +112,6 @@ release: 2018-03-15
 players: 1
 assets.boxfront: BoxFront/Adventures of Elena Temple, The (USA).jpg
 assets.boxback: BoxBack/Adventures of Elena Temple, The (USA).jpg
-assets.background: Background/Adventures of Elena Temple, The (USA).jpg
-assets.screenshot: Screenshot/Adventures of Elena Temple, The (USA).jpg
 assets.video: Video/Adventures of Elena Temple, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -144,9 +134,6 @@ description:
 release: 1999-03-30
 players: 8
 assets.boxfront: BoxFront/Age of Empires Gold Edition (USA).jpg
-assets.boxback: BoxBack/Age of Empires Gold Edition (USA).jpg
-assets.background: Background/Age of Empires Gold Edition (USA).jpg
-assets.screenshot: Screenshot/Age of Empires Gold Edition (USA).jpg
 assets.video: Video/Age of Empires Gold Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -166,9 +153,6 @@ description:
 release: 1999-09-30
 players: 8
 assets.boxfront: BoxFront/Age of Empires II Gold Edition (USA).jpg
-assets.boxback: BoxBack/Age of Empires II Gold Edition (USA).jpg
-assets.background: Background/Age of Empires II Gold Edition (USA).jpg
-assets.screenshot: Screenshot/Age of Empires II Gold Edition (USA).jpg
 assets.video: Video/Age of Empires II Gold Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -210,8 +194,6 @@ release: 2002-10-30
 players: 1
 assets.boxfront: BoxFront/Age of Mythology (USA, Europe).jpg
 assets.boxback: BoxBack/Age of Mythology (USA, Europe).jpg
-assets.background: Background/Age of Mythology (USA, Europe).jpg
-assets.screenshot: Screenshot/Age of Mythology (USA, Europe).jpg
 assets.video: Video/Age of Mythology (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -270,9 +252,6 @@ description:
 release: 2000-03-28
 players: 1
 assets.boxfront: BoxFront/Aliens Versus Predator Gold (USA).jpg
-assets.boxback: BoxBack/Aliens Versus Predator Gold (USA).jpg
-assets.background: Background/Aliens Versus Predator Gold (USA).jpg
-assets.screenshot: Screenshot/Aliens Versus Predator Gold (USA).jpg
 assets.video: Video/Aliens Versus Predator Gold (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -295,9 +274,6 @@ description:
 release: 2001-06-25
 players: 1
 assets.boxfront: BoxFront/Alone in the Dark - The New Nightmare (USA).jpg
-assets.boxback: BoxBack/Alone in the Dark - The New Nightmare (USA).jpg
-assets.background: Background/Alone in the Dark - The New Nightmare (USA).jpg
-assets.screenshot: Screenshot/Alone in the Dark - The New Nightmare (USA).jpg
 assets.video: Video/Alone in the Dark - The New Nightmare (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -321,8 +297,6 @@ release: 1999
 players: 1
 assets.boxfront: BoxFront/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
 assets.boxback: BoxBack/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
-assets.background: Background/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
-assets.screenshot: Screenshot/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
 assets.video: Video/Amazon Trail 3rd Edition - Rainforest Adventures (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -368,8 +342,6 @@ release: 2010-09-08
 players: 1
 assets.boxfront: BoxFront/Amnesia - The Dark Descent (USA).jpg
 assets.boxback: BoxBack/Amnesia - The Dark Descent (USA).jpg
-assets.background: Background/Amnesia - The Dark Descent (USA).jpg
-assets.screenshot: Screenshot/Amnesia - The Dark Descent (USA).jpg
 assets.video: Video/Amnesia - The Dark Descent (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -404,8 +376,6 @@ release: 1993
 players: 1
 assets.boxfront: BoxFront/Ancients II - Approaching Evil (USA).jpg
 assets.boxback: BoxBack/Ancients II - Approaching Evil (USA).jpg
-assets.background: Background/Ancients II - Approaching Evil (USA).jpg
-assets.screenshot: Screenshot/Ancients II - Approaching Evil (USA).jpg
 assets.video: Video/Ancients II - Approaching Evil (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -451,9 +421,6 @@ description:
 release: 2015-02-03
 players: 2
 assets.boxfront: BoxFront/Apotheon (USA).jpg
-assets.boxback: BoxBack/Apotheon (USA).jpg
-assets.background: Background/Apotheon (USA).jpg
-assets.screenshot: Screenshot/Apotheon (USA).jpg
 assets.video: Video/Apotheon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -505,9 +472,6 @@ description:
 release: 2015-09-01
 players: 4
 assets.boxfront: BoxFront/Armello (USA).jpg
-assets.boxback: BoxBack/Armello (USA).jpg
-assets.background: Background/Armello (USA).jpg
-assets.screenshot: Screenshot/Armello (USA).jpg
 assets.video: Video/Armello (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -534,8 +498,6 @@ release: 2002-06-28
 players: 1
 assets.boxfront: BoxFront/Arx Fatalis (USA).jpg
 assets.boxback: BoxBack/Arx Fatalis (USA).jpg
-assets.background: Background/Arx Fatalis (USA).jpg
-assets.screenshot: Screenshot/Arx Fatalis (USA).jpg
 assets.video: Video/Arx Fatalis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -577,9 +539,6 @@ description:
 release: 2015-09-23
 players: 4
 assets.boxfront: BoxFront/Assault Android Cactus (USA).jpg
-assets.boxback: BoxBack/Assault Android Cactus (USA).jpg
-assets.background: Background/Assault Android Cactus (USA).jpg
-assets.screenshot: Screenshot/Assault Android Cactus (USA).jpg
 assets.video: Video/Assault Android Cactus (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -620,9 +579,6 @@ description:
 release: 2003-11-11
 players: 2
 assets.boxfront: BoxFront/Atari - 80 Classic Games In One (USA).jpg
-assets.boxback: BoxBack/Atari - 80 Classic Games In One (USA).jpg
-assets.background: Background/Atari - 80 Classic Games In One (USA).jpg
-assets.screenshot: Screenshot/Atari - 80 Classic Games In One (USA).jpg
 assets.video: Video/Atari - 80 Classic Games In One (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -641,9 +597,6 @@ description:
 release: 1997-07-31
 players: 4
 assets.boxfront: BoxFront/Atomic Bomberman (USA).jpg
-assets.boxback: BoxBack/Atomic Bomberman (USA).jpg
-assets.background: Background/Atomic Bomberman (USA).jpg
-assets.screenshot: Screenshot/Atomic Bomberman (USA).jpg
 assets.video: Video/Atomic Bomberman (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -664,9 +617,6 @@ description:
 release: 2015-05-14
 players: 1
 assets.boxfront: BoxFront/Axiom Verge (USA).jpg
-assets.boxback: BoxBack/Axiom Verge (USA).jpg
-assets.background: Background/Axiom Verge (USA).jpg
-assets.screenshot: Screenshot/Axiom Verge (USA).jpg
 assets.video: Video/Axiom Verge (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -691,9 +641,6 @@ description:
 release: 2000-10-12
 players: 1
 assets.boxfront: BoxFront/Bad Milk (USA).jpg
-assets.boxback: BoxBack/Bad Milk (USA).jpg
-assets.background: Background/Bad Milk (USA).jpg
-assets.screenshot: Screenshot/Bad Milk (USA).jpg
 assets.video: Video/Bad Milk (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -732,9 +679,6 @@ description:
 release: 2008-01-20
 players: 1
 assets.boxfront: BoxFront/Barkley, Shut Up and Jam - Gaiden (USA).jpg
-assets.boxback: BoxBack/Barkley, Shut Up and Jam - Gaiden (USA).jpg
-assets.background: Background/Barkley, Shut Up and Jam - Gaiden (USA).jpg
-assets.screenshot: Screenshot/Barkley, Shut Up and Jam - Gaiden (USA).jpg
 assets.video: Video/Barkley, Shut Up and Jam - Gaiden (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -763,8 +707,6 @@ release: 2012-08-31
 players: 1
 assets.boxfront: BoxFront/Basement Collection, The (USA).jpg
 assets.boxback: BoxBack/Basement Collection, The (USA).jpg
-assets.background: Background/Basement Collection, The (USA).jpg
-assets.screenshot: Screenshot/Basement Collection, The (USA).jpg
 assets.video: Video/Basement Collection, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -786,9 +728,6 @@ description:
 release: 2000-10-15
 players: 1
 assets.boxfront: BoxFront/Battleship Surface Thunder (USA).jpg
-assets.boxback: BoxBack/Battleship Surface Thunder (USA).jpg
-assets.background: Background/Battleship Surface Thunder (USA).jpg
-assets.screenshot: Screenshot/Battleship Surface Thunder (USA).jpg
 assets.video: Video/Battleship Surface Thunder (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -821,9 +760,6 @@ description:
 release: 1995-06-30
 players: 1
 assets.boxfront: BoxFront/Beast Within, The - A Gabriel Knight Mystery (USA).jpg
-assets.boxback: BoxBack/Beast Within, The - A Gabriel Knight Mystery (USA).jpg
-assets.background: Background/Beast Within, The - A Gabriel Knight Mystery (USA).jpg
-assets.screenshot: Screenshot/Beast Within, The - A Gabriel Knight Mystery (USA).jpg
 assets.video: Video/Beast Within, The - A Gabriel Knight Mystery (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -847,8 +783,6 @@ release: 2001-03-25
 players: 1
 assets.boxfront: BoxFront/Black & White + Creature Isle (USA).jpg
 assets.boxback: BoxBack/Black & White + Creature Isle (USA).jpg
-assets.background: Background/Black & White + Creature Isle (USA).jpg
-assets.screenshot: Screenshot/Black & White + Creature Isle (USA).jpg
 assets.video: Video/Black & White + Creature Isle (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -869,8 +803,6 @@ release: 2005-10-07
 players: 4
 assets.boxfront: BoxFront/Black & White 2 (USA).jpg
 assets.boxback: BoxBack/Black & White 2 (USA).jpg
-assets.background: Background/Black & White 2 (USA).jpg
-assets.screenshot: Screenshot/Black & White 2 (USA).jpg
 assets.video: Video/Black & White 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -893,9 +825,6 @@ description:
 release: 2000-10-04
 players: 1
 assets.boxfront: BoxFront/Blair Witch Volume 1 - Rustin Parr (USA).jpg
-assets.boxback: BoxBack/Blair Witch Volume 1 - Rustin Parr (USA).jpg
-assets.background: Background/Blair Witch Volume 1 - Rustin Parr (USA).jpg
-assets.screenshot: Screenshot/Blair Witch Volume 1 - Rustin Parr (USA).jpg
 assets.video: Video/Blair Witch Volume 1 - Rustin Parr (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -947,9 +876,6 @@ description:
 release: 2000-10-25
 players: 1
 assets.boxfront: BoxFront/Blair Witch Volume 2 - The Legend of Coffin Rock (USA).jpg
-assets.boxback: BoxBack/Blair Witch Volume 2 - The Legend of Coffin Rock (USA).jpg
-assets.background: Background/Blair Witch Volume 2 - The Legend of Coffin Rock (USA).jpg
-assets.screenshot: Screenshot/Blair Witch Volume 2 - The Legend of Coffin Rock (USA).jpg
 assets.video: Video/Blair Witch Volume 2 - The Legend of Coffin Rock (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1015,9 +941,6 @@ description:
 release: 2000-11-21
 players: 1
 assets.boxfront: BoxFront/Blair Witch Volume 3 - The Elly Kedward Tale (USA).jpg
-assets.boxback: BoxBack/Blair Witch Volume 3 - The Elly Kedward Tale (USA).jpg
-assets.background: Background/Blair Witch Volume 3 - The Elly Kedward Tale (USA).jpg
-assets.screenshot: Screenshot/Blair Witch Volume 3 - The Elly Kedward Tale (USA).jpg
 assets.video: Video/Blair Witch Volume 3 - The Elly Kedward Tale (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1057,9 +980,6 @@ description:
 release: 1997-03-07
 players: 4
 assets.boxfront: BoxFront/Blood - Spill Some (USA).jpg
-assets.boxback: BoxBack/Blood - Spill Some (USA).jpg
-assets.background: Background/Blood - Spill Some (USA).jpg
-assets.screenshot: Screenshot/Blood - Spill Some (USA).jpg
 assets.video: Video/Blood - Spill Some (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1082,8 +1002,6 @@ release: 2009-04-10
 players: 1
 assets.boxfront: BoxFront/Braid & Welcome to Mysterious City - Vegas (USA).jpg
 assets.boxback: BoxBack/Braid & Welcome to Mysterious City - Vegas (USA).jpg
-assets.background: Background/Braid & Welcome to Mysterious City - Vegas (USA).jpg
-assets.screenshot: Screenshot/Braid & Welcome to Mysterious City - Vegas (USA).jpg
 assets.video: Video/Braid & Welcome to Mysterious City - Vegas (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1124,9 +1042,6 @@ description:
 release: 2015-12-31
 players: 1
 assets.boxfront: BoxFront/Brutal Doom - Hell on Earth Starter Pack (USA).jpg
-assets.boxback: BoxBack/Brutal Doom - Hell on Earth Starter Pack (USA).jpg
-assets.background: Background/Brutal Doom - Hell on Earth Starter Pack (USA).jpg
-assets.screenshot: Screenshot/Brutal Doom - Hell on Earth Starter Pack (USA).jpg
 assets.video: Video/Brutal Doom - Hell on Earth Starter Pack (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1160,9 +1075,6 @@ description:
 release: 2013-02-26
 players: 1
 assets.boxfront: BoxFront/Brutal Legend (USA).jpg
-assets.boxback: BoxBack/Brutal Legend (USA).jpg
-assets.background: Background/Brutal Legend (USA).jpg
-assets.screenshot: Screenshot/Brutal Legend (USA).jpg
 assets.video: Video/Brutal Legend (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1205,9 +1117,6 @@ description:
 release: 2006-03-17
 players: 1
 assets.boxfront: BoxFront/Call of Cthulhu - Dark Corners of the Earth (USA).jpg
-assets.boxback: BoxBack/Call of Cthulhu - Dark Corners of the Earth (USA).jpg
-assets.background: Background/Call of Cthulhu - Dark Corners of the Earth (USA).jpg
-assets.screenshot: Screenshot/Call of Cthulhu - Dark Corners of the Earth (USA).jpg
 assets.video: Video/Call of Cthulhu - Dark Corners of the Earth (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1230,9 +1139,6 @@ description:
 release: 2016-06-03
 players: 1
 assets.boxfront: BoxFront/Captain Forever Remix (USA).jpg
-assets.boxback: BoxBack/Captain Forever Remix (USA).jpg
-assets.background: Background/Captain Forever Remix (USA).jpg
-assets.screenshot: Screenshot/Captain Forever Remix (USA).jpg
 assets.video: Video/Captain Forever Remix (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1253,8 +1159,6 @@ release: 1997-06-11
 players: 1
 assets.boxfront: BoxFront/Carmen Sandiego - Word Detective (USA).jpg
 assets.boxback: BoxBack/Carmen Sandiego - Word Detective (USA).jpg
-assets.background: Background/Carmen Sandiego - Word Detective (USA).jpg
-assets.screenshot: Screenshot/Carmen Sandiego - Word Detective (USA).jpg
 assets.video: Video/Carmen Sandiego - Word Detective (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1291,9 +1195,6 @@ description:
 release: 1993-12-01
 players: 1
 assets.boxfront: BoxFront/Castle of the Winds I - A Question of Vengeance (USA).jpg
-assets.boxback: BoxBack/Castle of the Winds I - A Question of Vengeance (USA).jpg
-assets.background: Background/Castle of the Winds I - A Question of Vengeance (USA).jpg
-assets.screenshot: Screenshot/Castle of the Winds I - A Question of Vengeance (USA).jpg
 assets.video: Video/Castle of the Winds I - A Question of Vengeance (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1324,8 +1225,6 @@ release: 1993
 players: 1
 assets.boxfront: BoxFront/Castle of the Winds II - Lifthransir's Bane (USA).jpg
 assets.boxback: BoxBack/Castle of the Winds II - Lifthransir's Bane (USA).jpg
-assets.background: Background/Castle of the Winds II - Lifthransir's Bane (USA).jpg
-assets.screenshot: Screenshot/Castle of the Winds II - Lifthransir's Bane (USA).jpg
 assets.video: Video/Castle of the Winds II - Lifthransir's Bane (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1347,9 +1246,6 @@ description:
 release: 2014-11-12
 players: 2
 assets.boxfront: BoxFront/Chariot (USA).jpg
-assets.boxback: BoxBack/Chariot (USA).jpg
-assets.background: Background/Chariot (USA).jpg
-assets.screenshot: Screenshot/Chariot (USA).jpg
 assets.video: Video/Chariot (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1371,9 +1267,6 @@ description:
 release: 1996-11-03
 players: 1
 assets.boxfront: BoxFront/Chex Quest (USA).jpg
-assets.boxback: BoxBack/Chex Quest (USA).jpg
-assets.background: Background/Chex Quest (USA).jpg
-assets.screenshot: Screenshot/Chex Quest (USA).jpg
 assets.video: Video/Chex Quest (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1392,8 +1285,6 @@ release: 2003-04-07
 players: 1
 assets.boxfront: BoxFront/Codename Nina - Global Terrorism Strike Force (USA).jpg
 assets.boxback: BoxBack/Codename Nina - Global Terrorism Strike Force (USA).jpg
-assets.background: Background/Codename Nina - Global Terrorism Strike Force (USA).jpg
-assets.screenshot: Screenshot/Codename Nina - Global Terrorism Strike Force (USA).jpg
 assets.video: Video/Codename Nina - Global Terrorism Strike Force (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1424,9 +1315,6 @@ description:
 release: 2011-10-15
 players: 1
 assets.boxfront: BoxFront/Costume Quest (USA).jpg
-assets.boxback: BoxBack/Costume Quest (USA).jpg
-assets.background: Background/Costume Quest (USA).jpg
-assets.screenshot: Screenshot/Costume Quest (USA).jpg
 assets.video: Video/Costume Quest (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1459,8 +1347,6 @@ release: 2003-10-21
 players: 1
 assets.boxfront: BoxFront/Curse - The Eye of Isis (USA).jpg
 assets.boxback: BoxBack/Curse - The Eye of Isis (USA).jpg
-assets.background: Background/Curse - The Eye of Isis (USA).jpg
-assets.screenshot: Screenshot/Curse - The Eye of Isis (USA).jpg
 assets.video: Video/Curse - The Eye of Isis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1488,9 +1374,6 @@ description:
 release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Dark Eye, The (USA).jpg
-assets.boxback: BoxBack/Dark Eye, The (USA).jpg
-assets.background: Background/Dark Eye, The (USA).jpg
-assets.screenshot: Screenshot/Dark Eye, The (USA).jpg
 assets.video: Video/Dark Eye, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1524,9 +1407,6 @@ description:
 release: 1989
 players: 1
 assets.boxfront: BoxFront/Dark Seed (USA).jpg
-assets.boxback: BoxBack/Dark Seed (USA).jpg
-assets.background: Background/Dark Seed (USA).jpg
-assets.screenshot: Screenshot/Dark Seed (USA).jpg
 assets.video: Video/Dark Seed (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1546,8 +1426,6 @@ release: 2005-03-04
 players: 1
 assets.boxfront: BoxFront/Darwinia (USA).jpg
 assets.boxback: BoxBack/Darwinia (USA).jpg
-assets.background: Background/Darwinia (USA).jpg
-assets.screenshot: Screenshot/Darwinia (USA).jpg
 assets.video: Video/Darwinia (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1578,9 +1456,6 @@ description:
 release: 2000-06-29
 players: 8
 assets.boxfront: BoxFront/Diablo II & Lord of Destruction (USA).jpg
-assets.boxback: BoxBack/Diablo II & Lord of Destruction (USA).jpg
-assets.background: Background/Diablo II & Lord of Destruction (USA).jpg
-assets.screenshot: Screenshot/Diablo II & Lord of Destruction (USA).jpg
 assets.video: Video/Diablo II & Lord of Destruction (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1619,8 +1494,6 @@ release: 2002-10-29
 players: 1
 assets.boxfront: BoxFront/Dig, The (USA).jpg
 assets.boxback: BoxBack/Dig, The (USA).jpg
-assets.background: Background/Dig, The (USA).jpg
-assets.screenshot: Screenshot/Dig, The (USA).jpg
 assets.video: Video/Dig, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1645,8 +1518,6 @@ release: 1999-12-04
 players: 1
 assets.boxfront: BoxFront/Dino Crisis (USA).jpg
 assets.boxback: BoxBack/Dino Crisis (USA).jpg
-assets.background: Background/Dino Crisis (USA).jpg
-assets.screenshot: Screenshot/Dino Crisis (USA).jpg
 assets.video: Video/Dino Crisis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1670,8 +1541,6 @@ release: 2003-08-20
 players: 1
 assets.boxfront: BoxFront/Dino Crisis 2 (USA).jpg
 assets.boxback: BoxBack/Dino Crisis 2 (USA).jpg
-assets.background: Background/Dino Crisis 2 (USA).jpg
-assets.screenshot: Screenshot/Dino Crisis 2 (USA).jpg
 assets.video: Video/Dino Crisis 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1722,9 +1591,6 @@ description:
 release: 1995-01-01
 players: 4
 assets.boxfront: BoxFront/Doom II (USA).jpg
-assets.boxback: BoxBack/Doom II (USA).jpg
-assets.background: Background/Doom II (USA).jpg
-assets.screenshot: Screenshot/Doom II (USA).jpg
 assets.video: Video/Doom II (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1747,9 +1613,6 @@ description:
 release: 1994-06-28
 players: 1
 assets.boxfront: BoxFront/DreamWeb (USA).jpg
-assets.boxback: BoxBack/DreamWeb (USA).jpg
-assets.background: Background/DreamWeb (USA).jpg
-assets.screenshot: Screenshot/DreamWeb (USA).jpg
 assets.video: Video/DreamWeb (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1770,8 +1633,6 @@ release: 1999-06-30
 players: 4
 assets.boxfront: BoxFront/Dungeon Keeper 2 (USA).jpg
 assets.boxback: BoxBack/Dungeon Keeper 2 (USA).jpg
-assets.background: Background/Dungeon Keeper 2 (USA).jpg
-assets.screenshot: Screenshot/Dungeon Keeper 2 (USA).jpg
 assets.video: Video/Dungeon Keeper 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1793,8 +1654,6 @@ release: 1998-12-31
 players: 1
 assets.boxfront: BoxFront/Dungeon Keeper Gold (USA).jpg
 assets.boxback: BoxBack/Dungeon Keeper Gold (USA).jpg
-assets.background: Background/Dungeon Keeper Gold (USA).jpg
-assets.screenshot: Screenshot/Dungeon Keeper Gold (USA).jpg
 assets.video: Video/Dungeon Keeper Gold (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1820,8 +1679,6 @@ release: 1993-12-23
 players: 1
 assets.boxfront: BoxFront/Dungeon Master II - The Legend of Skullkeep (USA).jpg
 assets.boxback: BoxBack/Dungeon Master II - The Legend of Skullkeep (USA).jpg
-assets.background: Background/Dungeon Master II - The Legend of Skullkeep (USA).jpg
-assets.screenshot: Screenshot/Dungeon Master II - The Legend of Skullkeep (USA).jpg
 assets.video: Video/Dungeon Master II - The Legend of Skullkeep (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1846,9 +1703,6 @@ description:
 release: 2012-08-15
 players: 1
 assets.boxfront: BoxFront/Dust - An Elysian Tale (USA).jpg
-assets.boxback: BoxBack/Dust - An Elysian Tale (USA).jpg
-assets.background: Background/Dust - An Elysian Tale (USA).jpg
-assets.screenshot: Screenshot/Dust - An Elysian Tale (USA).jpg
 assets.video: Video/Dust - An Elysian Tale (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1869,9 +1723,6 @@ description:
 release: 2015-03-25
 players: 1
 assets.boxfront: BoxFront/Dyscourse (USA).jpg
-assets.boxback: BoxBack/Dyscourse (USA).jpg
-assets.background: Background/Dyscourse (USA).jpg
-assets.screenshot: Screenshot/Dyscourse (USA).jpg
 assets.video: Video/Dyscourse (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1892,9 +1743,6 @@ description:
 release: 1996-03-19
 players: 1
 assets.boxfront: BoxFront/EarthSiege (USA).jpg
-assets.boxback: BoxBack/EarthSiege (USA).jpg
-assets.background: Background/EarthSiege (USA).jpg
-assets.screenshot: Screenshot/EarthSiege (USA).jpg
 assets.video: Video/EarthSiege (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1914,9 +1762,6 @@ description:
 release: 1996-03-19
 players: 1
 assets.boxfront: BoxFront/EarthSiege 2 (USA).jpg
-assets.boxback: BoxBack/EarthSiege 2 (USA).jpg
-assets.background: Background/EarthSiege 2 (USA).jpg
-assets.screenshot: Screenshot/EarthSiege 2 (USA).jpg
 assets.video: Video/EarthSiege 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1940,8 +1785,6 @@ release: 1996-12-13
 players: 1
 assets.boxfront: BoxFront/Enemy Zero (USA).jpg
 assets.boxback: BoxBack/Enemy Zero (USA).jpg
-assets.background: Background/Enemy Zero (USA).jpg
-assets.screenshot: Screenshot/Enemy Zero (USA).jpg
 assets.video: Video/Enemy Zero (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1971,9 +1814,6 @@ description:
 release: 1996-05-04
 players: 1
 assets.boxfront: BoxFront/Escape Velocity (USA).jpg
-assets.boxback: BoxBack/Escape Velocity (USA).jpg
-assets.background: Background/Escape Velocity (USA).jpg
-assets.screenshot: Screenshot/Escape Velocity (USA).jpg
 assets.video: Video/Escape Velocity (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1998,9 +1838,6 @@ description:
 release: 2002-03-19
 players: 1
 assets.boxfront: BoxFront/Escape Velocity - Nova (USA).jpg
-assets.boxback: BoxBack/Escape Velocity - Nova (USA).jpg
-assets.background: Background/Escape Velocity - Nova (USA).jpg
-assets.screenshot: Screenshot/Escape Velocity - Nova (USA).jpg
 assets.video: Video/Escape Velocity - Nova (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2027,9 +1864,6 @@ description:
 release: 1998-04-28
 players: 1
 assets.boxfront: BoxFront/Escape Velocity - Override (USA).jpg
-assets.boxback: BoxBack/Escape Velocity - Override (USA).jpg
-assets.background: Background/Escape Velocity - Override (USA).jpg
-assets.screenshot: Screenshot/Escape Velocity - Override (USA).jpg
 assets.video: Video/Escape Velocity - Override (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2054,9 +1888,6 @@ description:
 release: 1995-01-31
 players: 1
 assets.boxfront: BoxFront/Exile I - Escape From the Pit (USA).jpg
-assets.boxback: BoxBack/Exile I - Escape From the Pit (USA).jpg
-assets.background: Background/Exile I - Escape From the Pit (USA).jpg
-assets.screenshot: Screenshot/Exile I - Escape From the Pit (USA).jpg
 assets.video: Video/Exile I - Escape From the Pit (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2081,9 +1912,6 @@ description:
 release: 1996-03-20
 players: 1
 assets.boxfront: BoxFront/Exile II - Crystal Souls (USA).jpg
-assets.boxback: BoxBack/Exile II - Crystal Souls (USA).jpg
-assets.background: Background/Exile II - Crystal Souls (USA).jpg
-assets.screenshot: Screenshot/Exile II - Crystal Souls (USA).jpg
 assets.video: Video/Exile II - Crystal Souls (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2108,9 +1936,6 @@ description:
 release: 1997-04-15
 players: 1
 assets.boxfront: BoxFront/Exile III - Ruined World (USA).jpg
-assets.boxback: BoxBack/Exile III - Ruined World (USA).jpg
-assets.background: Background/Exile III - Ruined World (USA).jpg
-assets.screenshot: Screenshot/Exile III - Ruined World (USA).jpg
 assets.video: Video/Exile III - Ruined World (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2132,9 +1957,6 @@ description:
 release: 1997-12-16
 players: 1
 assets.boxfront: BoxFront/Exile IV - Blades of Exile (USA).jpg
-assets.boxback: BoxBack/Exile IV - Blades of Exile (USA).jpg
-assets.background: Background/Exile IV - Blades of Exile (USA).jpg
-assets.screenshot: Screenshot/Exile IV - Blades of Exile (USA).jpg
 assets.video: Video/Exile IV - Blades of Exile (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2196,8 +2018,6 @@ release: 1997-09-30
 players: 1
 assets.boxfront: BoxFront/Fallout (USA).jpg
 assets.boxback: BoxBack/Fallout (USA).jpg
-assets.background: Background/Fallout (USA).jpg
-assets.screenshot: Screenshot/Fallout (USA).jpg
 assets.video: Video/Fallout (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2216,9 +2036,6 @@ description:
 release: 2016-03-29
 players: 1
 assets.boxfront: BoxFront/Forced - Showdown (USA).jpg
-assets.boxback: BoxBack/Forced - Showdown (USA).jpg
-assets.background: Background/Forced - Showdown (USA).jpg
-assets.screenshot: Screenshot/Forced - Showdown (USA).jpg
 assets.video: Video/Forced - Showdown (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2291,9 +2108,6 @@ description:
 release: 1999-08-01
 players: 1
 assets.boxfront: BoxFront/Forgotten Realms - The Archives - Collection One (USA).jpg
-assets.boxback: BoxBack/Forgotten Realms - The Archives - Collection One (USA).jpg
-assets.background: Background/Forgotten Realms - The Archives - Collection One (USA).jpg
-assets.screenshot: Screenshot/Forgotten Realms - The Archives - Collection One (USA).jpg
 assets.video: Video/Forgotten Realms - The Archives - Collection One (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2425,9 +2239,6 @@ description:
 release: 1999-08-01
 players: 1
 assets.boxfront: BoxFront/Forgotten Realms - The Archives - Collection Two (USA).jpg
-assets.boxback: BoxBack/Forgotten Realms - The Archives - Collection Two (USA).jpg
-assets.background: Background/Forgotten Realms - The Archives - Collection Two (USA).jpg
-assets.screenshot: Screenshot/Forgotten Realms - The Archives - Collection Two (USA).jpg
 assets.video: Video/Forgotten Realms - The Archives - Collection Two (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2457,9 +2268,6 @@ description:
 release: 2014-07-21
 players: 1
 assets.boxfront: BoxFront/Freedom Planet (USA).jpg
-assets.boxback: BoxBack/Freedom Planet (USA).jpg
-assets.background: Background/Freedom Planet (USA).jpg
-assets.screenshot: Screenshot/Freedom Planet (USA).jpg
 assets.video: Video/Freedom Planet (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2476,9 +2284,6 @@ description:
 release: 2000
 players: 1
 assets.boxfront: BoxFront/GOD Games Bonus Disc! (USA).jpg
-assets.boxback: BoxBack/GOD Games Bonus Disc! (USA).jpg
-assets.background: Background/GOD Games Bonus Disc! (USA).jpg
-assets.screenshot: Screenshot/GOD Games Bonus Disc! (USA).jpg
 assets.video: Video/GOD Games Bonus Disc! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2495,9 +2300,6 @@ description:
 release: 2000
 players: 1
 assets.boxfront: BoxFront/GOD Games Fall 2000 Bonus CD (USA).jpg
-assets.boxback: BoxBack/GOD Games Fall 2000 Bonus CD (USA).jpg
-assets.background: Background/GOD Games Fall 2000 Bonus CD (USA).jpg
-assets.screenshot: Screenshot/GOD Games Fall 2000 Bonus CD (USA).jpg
 assets.video: Video/GOD Games Fall 2000 Bonus CD (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2558,9 +2360,6 @@ description:
 release: 2015-10-29
 players: 1
 assets.boxfront: BoxFront/Galak-Z (USA).jpg
-assets.boxback: BoxBack/Galak-Z (USA).jpg
-assets.background: Background/Galak-Z (USA).jpg
-assets.screenshot: Screenshot/Galak-Z (USA).jpg
 assets.video: Video/Galak-Z (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2603,8 +2402,6 @@ release: 1998
 players: 1
 assets.boxfront: BoxFront/GameShark PC Code Browser CD-ROM for Game Boy (USA).jpg
 assets.boxback: BoxBack/GameShark PC Code Browser CD-ROM for Game Boy (USA).jpg
-assets.background: Background/GameShark PC Code Browser CD-ROM for Game Boy (USA).jpg
-assets.screenshot: Screenshot/GameShark PC Code Browser CD-ROM for Game Boy (USA).jpg
 assets.video: Video/GameShark PC Code Browser CD-ROM for Game Boy (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2632,8 +2429,6 @@ release: 1993-12-01
 players: 1
 assets.boxfront: BoxFront/Gateway II - Homeworld (USA).jpg
 assets.boxback: BoxBack/Gateway II - Homeworld (USA).jpg
-assets.background: Background/Gateway II - Homeworld (USA).jpg
-assets.screenshot: Screenshot/Gateway II - Homeworld (USA).jpg
 assets.video: Video/Gateway II - Homeworld (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2658,9 +2453,6 @@ description:
 release: 2004-05-10
 players: 1
 assets.boxfront: BoxFront/Gish (USA).jpg
-assets.boxback: BoxBack/Gish (USA).jpg
-assets.background: Background/Gish (USA).jpg
-assets.screenshot: Screenshot/Gish (USA).jpg
 assets.video: Video/Gish (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2710,9 +2502,6 @@ description:
 release: 2016-12-13
 players: 1
 assets.boxfront: BoxFront/Glittermitten Grove & Frog Fractions 2 (USA).jpg
-assets.boxback: BoxBack/Glittermitten Grove & Frog Fractions 2 (USA).jpg
-assets.background: Background/Glittermitten Grove & Frog Fractions 2 (USA).jpg
-assets.screenshot: Screenshot/Glittermitten Grove & Frog Fractions 2 (USA).jpg
 assets.video: Video/Glittermitten Grove & Frog Fractions 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2733,9 +2522,6 @@ description:
 release: 1998-10-30
 players: 1
 assets.boxfront: BoxFront/Grim Fandango (USA).jpg
-assets.boxback: BoxBack/Grim Fandango (USA).jpg
-assets.background: Background/Grim Fandango (USA).jpg
-assets.screenshot: Screenshot/Grim Fandango (USA).jpg
 assets.video: Video/Grim Fandango (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2762,9 +2548,6 @@ description:
 release: 2014-08-21
 players: 2
 assets.boxfront: BoxFront/Guacamelee - Super Turbo Championship Edition (USA).jpg
-assets.boxback: BoxBack/Guacamelee - Super Turbo Championship Edition (USA).jpg
-assets.background: Background/Guacamelee - Super Turbo Championship Edition (USA).jpg
-assets.screenshot: Screenshot/Guacamelee - Super Turbo Championship Edition (USA).jpg
 assets.video: Video/Guacamelee - Super Turbo Championship Edition (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2789,8 +2572,6 @@ release: 2005-11-08
 players: 1
 assets.boxfront: BoxFront/Gun (USA).jpg
 assets.boxback: BoxBack/Gun (USA).jpg
-assets.background: Background/Gun (USA).jpg
-assets.screenshot: Screenshot/Gun (USA).jpg
 assets.video: Video/Gun (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2821,9 +2602,6 @@ description:
 release: 2016-09-09
 players: 1
 assets.boxfront: BoxFront/Halcyon 6 (USA).jpg
-assets.boxback: BoxBack/Halcyon 6 (USA).jpg
-assets.background: Background/Halcyon 6 (USA).jpg
-assets.screenshot: Screenshot/Halcyon 6 (USA).jpg
 assets.video: Video/Halcyon 6 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2844,9 +2622,6 @@ description:
 release: 2015-02-17
 players: 1
 assets.boxfront: BoxFront/Hand of Fate (USA).jpg
-assets.boxback: BoxBack/Hand of Fate (USA).jpg
-assets.background: Background/Hand of Fate (USA).jpg
-assets.screenshot: Screenshot/Hand of Fate (USA).jpg
 assets.video: Video/Hand of Fate (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2877,9 +2652,6 @@ description:
 release: 1997-01-01
 players: 1
 assets.boxfront: BoxFront/Hexen - Beyond Heretic (USA).jpg
-assets.boxback: BoxBack/Hexen - Beyond Heretic (USA).jpg
-assets.background: Background/Hexen - Beyond Heretic (USA).jpg
-assets.screenshot: Screenshot/Hexen - Beyond Heretic (USA).jpg
 assets.video: Video/Hexen - Beyond Heretic (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2914,9 +2686,6 @@ description:
 release: 1997-08-31
 players: 1
 assets.boxfront: BoxFront/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).jpg
-assets.boxback: BoxBack/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).jpg
-assets.background: Background/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).jpg
-assets.screenshot: Screenshot/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).jpg
 assets.video: Video/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2951,8 +2720,6 @@ release: 2015-02-20
 players: 1
 assets.boxfront: BoxFront/Hot Tin Roof - The Cat That Wore a Fedora (USA).jpg
 assets.boxback: BoxBack/Hot Tin Roof - The Cat That Wore a Fedora (USA).jpg
-assets.background: Background/Hot Tin Roof - The Cat That Wore a Fedora (USA).jpg
-assets.screenshot: Screenshot/Hot Tin Roof - The Cat That Wore a Fedora (USA).jpg
 assets.video: Video/Hot Tin Roof - The Cat That Wore a Fedora (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2974,9 +2741,6 @@ description:
 release: 2002-09-07
 players: 1
 assets.boxfront: BoxFront/Hoyle Puzzle Games (USA).jpg
-assets.boxback: BoxBack/Hoyle Puzzle Games (USA).jpg
-assets.background: Background/Hoyle Puzzle Games (USA).jpg
-assets.screenshot: Screenshot/Hoyle Puzzle Games (USA).jpg
 assets.video: Video/Hoyle Puzzle Games (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3025,9 +2789,6 @@ description:
 release: 2016-08-30
 players: 1
 assets.boxfront: BoxFront/Hue (USA).jpg
-assets.boxback: BoxBack/Hue (USA).jpg
-assets.background: Background/Hue (USA).jpg
-assets.screenshot: Screenshot/Hue (USA).jpg
 assets.video: Video/Hue (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3053,9 +2814,6 @@ description:
 release: 2012-10-12
 players: 1
 assets.boxfront: BoxFront/Imscared - A Pixelated Nightmare (USA).jpg
-assets.boxback: BoxBack/Imscared - A Pixelated Nightmare (USA).jpg
-assets.background: Background/Imscared - A Pixelated Nightmare (USA).jpg
-assets.screenshot: Screenshot/Imscared - A Pixelated Nightmare (USA).jpg
 assets.video: Video/Imscared - A Pixelated Nightmare (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3085,9 +2843,6 @@ description:
 release: 2014-08-19
 players: 1
 assets.boxfront: BoxFront/Invisible, Inc (USA).jpg
-assets.boxback: BoxBack/Invisible, Inc (USA).jpg
-assets.background: Background/Invisible, Inc (USA).jpg
-assets.screenshot: Screenshot/Invisible, Inc (USA).jpg
 assets.video: Video/Invisible, Inc (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3119,9 +2874,6 @@ description:
 release: 1998-01-01
 players: 1
 assets.boxfront: BoxFront/Jeff Wayne's The War of the Worlds (USA).jpg
-assets.boxback: BoxBack/Jeff Wayne's The War of the Worlds (USA).jpg
-assets.background: Background/Jeff Wayne's The War of the Worlds (USA).jpg
-assets.screenshot: Screenshot/Jeff Wayne's The War of the Worlds (USA).jpg
 assets.video: Video/Jeff Wayne's The War of the Worlds (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3169,8 +2921,6 @@ release: 2006
 players: 1
 assets.boxfront: BoxFront/Jewel Labyrinth (USA).jpg
 assets.boxback: BoxBack/Jewel Labyrinth (USA).jpg
-assets.background: Background/Jewel Labyrinth (USA).jpg
-assets.screenshot: Screenshot/Jewel Labyrinth (USA).jpg
 assets.video: Video/Jewel Labyrinth (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3193,8 +2943,6 @@ release: 2010-12-06
 players: 1
 assets.boxfront: BoxFront/Jewel Quest V - The Sleepless Star (USA).jpg
 assets.boxback: BoxBack/Jewel Quest V - The Sleepless Star (USA).jpg
-assets.background: Background/Jewel Quest V - The Sleepless Star (USA).jpg
-assets.screenshot: Screenshot/Jewel Quest V - The Sleepless Star (USA).jpg
 assets.video: Video/Jewel Quest V - The Sleepless Star (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3224,9 +2972,6 @@ description:
 release: 2015-09-29
 players: 1
 assets.boxfront: BoxFront/Jotun - Valhalla Edition (USA).jpg
-assets.boxback: BoxBack/Jotun - Valhalla Edition (USA).jpg
-assets.background: Background/Jotun - Valhalla Edition (USA).jpg
-assets.screenshot: Screenshot/Jotun - Valhalla Edition (USA).jpg
 assets.video: Video/Jotun - Valhalla Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3253,9 +2998,6 @@ description:
 release: 1999-06-30
 players: 1
 assets.boxfront: BoxFront/Kingpin - Life of Crime (USA).jpg
-assets.boxback: BoxBack/Kingpin - Life of Crime (USA).jpg
-assets.background: Background/Kingpin - Life of Crime (USA).jpg
-assets.screenshot: Screenshot/Kingpin - Life of Crime (USA).jpg
 assets.video: Video/Kingpin - Life of Crime (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3281,8 +3023,6 @@ release: 2002-11-16
 players: 2
 assets.boxfront: BoxFront/Konami Collector's Series - Castlevania and Contra (USA).jpg
 assets.boxback: BoxBack/Konami Collector's Series - Castlevania and Contra (USA).jpg
-assets.background: Background/Konami Collector's Series - Castlevania and Contra (USA).jpg
-assets.screenshot: Screenshot/Konami Collector's Series - Castlevania and Contra (USA).jpg
 assets.video: Video/Konami Collector's Series - Castlevania and Contra (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -3305,8 +3045,6 @@ release: 2002-02-01
 players: 1
 assets.boxfront: BoxFront/LEGO Creator - Harry Potter (USA).jpg
 assets.boxback: BoxBack/LEGO Creator - Harry Potter (USA).jpg
-assets.background: Background/LEGO Creator - Harry Potter (USA).jpg
-assets.screenshot: Screenshot/LEGO Creator - Harry Potter (USA).jpg
 assets.video: Video/LEGO Creator - Harry Potter (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3330,8 +3068,6 @@ release: 2005-10-18
 players: 1
 assets.boxfront: BoxFront/Land of the Dead - Road to Fiddler's Green (USA).jpg
 assets.boxback: BoxBack/Land of the Dead - Road to Fiddler's Green (USA).jpg
-assets.background: Background/Land of the Dead - Road to Fiddler's Green (USA).jpg
-assets.screenshot: Screenshot/Land of the Dead - Road to Fiddler's Green (USA).jpg
 assets.video: Video/Land of the Dead - Road to Fiddler's Green (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3365,9 +3101,6 @@ description:
 release: 2023-12-04
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
-assets.background: Background/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Link's Awakening DX HD (USA).jpg
 assets.video: Video/Legend of Zelda, The - Link's Awakening DX HD (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3395,9 +3128,6 @@ description:
 release: 2020-11-27
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - The Faces of Evil - Remastered (USA).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - The Faces of Evil - Remastered (USA).jpg
-assets.background: Background/Legend of Zelda, The - The Faces of Evil - Remastered (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - The Faces of Evil - Remastered (USA).jpg
 assets.video: Video/Legend of Zelda, The - The Faces of Evil - Remastered (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3420,9 +3150,6 @@ description:
 release: 2020-11-27
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).jpg
-assets.background: Background/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).jpg
 assets.video: Video/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3447,8 +3174,6 @@ release: 2001-08-07
 players: 1
 assets.boxfront: BoxFront/Lightweight Ninja (USA).jpg
 assets.boxback: BoxBack/Lightweight Ninja (USA).jpg
-assets.background: Background/Lightweight Ninja (USA).jpg
-assets.screenshot: Screenshot/Lightweight Ninja (USA).jpg
 assets.video: Video/Lightweight Ninja (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3484,9 +3209,6 @@ description:
 release: 2014-07-31
 players: 1
 assets.boxfront: BoxFront/Lovely Planet (USA).jpg
-assets.boxback: BoxBack/Lovely Planet (USA).jpg
-assets.background: Background/Lovely Planet (USA).jpg
-assets.screenshot: Screenshot/Lovely Planet (USA).jpg
 assets.video: Video/Lovely Planet (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3527,9 +3249,6 @@ description:
 release: 2015-09-09
 players: 2
 assets.boxfront: BoxFront/Lovers in a Dangerous Spacetime (USA).jpg
-assets.boxback: BoxBack/Lovers in a Dangerous Spacetime (USA).jpg
-assets.background: Background/Lovers in a Dangerous Spacetime (USA).jpg
-assets.screenshot: Screenshot/Lovers in a Dangerous Spacetime (USA).jpg
 assets.video: Video/Lovers in a Dangerous Spacetime (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -3551,8 +3270,6 @@ release: 2000
 players: 1
 assets.boxfront: BoxFront/Mahjong Mania (USA).jpg
 assets.boxback: BoxBack/Mahjong Mania (USA).jpg
-assets.background: Background/Mahjong Mania (USA).jpg
-assets.screenshot: Screenshot/Mahjong Mania (USA).jpg
 assets.video: Video/Mahjong Mania (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3574,9 +3291,6 @@ description:
 release: 2009-09-17
 players: 1
 assets.boxfront: BoxFront/Majesty 2 - The Fantasy Kingdom Sim (USA).jpg
-assets.boxback: BoxBack/Majesty 2 - The Fantasy Kingdom Sim (USA).jpg
-assets.background: Background/Majesty 2 - The Fantasy Kingdom Sim (USA).jpg
-assets.screenshot: Screenshot/Majesty 2 - The Fantasy Kingdom Sim (USA).jpg
 assets.video: Video/Majesty 2 - The Fantasy Kingdom Sim (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3617,8 +3331,6 @@ release: 2000-02-29
 players: 1
 assets.boxfront: BoxFront/Majesty Gold (USA).jpg
 assets.boxback: BoxBack/Majesty Gold (USA).jpg
-assets.background: Background/Majesty Gold (USA).jpg
-assets.screenshot: Screenshot/Majesty Gold (USA).jpg
 assets.video: Video/Majesty Gold (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3637,9 +3349,6 @@ description:
 release: 1994-12-21
 players: 4
 assets.boxfront: BoxFront/Marathon (USA).jpg
-assets.boxback: BoxBack/Marathon (USA).jpg
-assets.background: Background/Marathon (USA).jpg
-assets.screenshot: Screenshot/Marathon (USA).jpg
 assets.video: Video/Marathon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3660,9 +3369,6 @@ description:
 release: 1995-11-24
 players: 4
 assets.boxfront: BoxFront/Marathon 2 - Durandal (USA).jpg
-assets.boxback: BoxBack/Marathon 2 - Durandal (USA).jpg
-assets.background: Background/Marathon 2 - Durandal (USA).jpg
-assets.screenshot: Screenshot/Marathon 2 - Durandal (USA).jpg
 assets.video: Video/Marathon 2 - Durandal (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3684,9 +3390,6 @@ description:
 release: 1996-10-15
 players: 4
 assets.boxfront: BoxFront/Marathon Infinity (USA).jpg
-assets.boxback: BoxBack/Marathon Infinity (USA).jpg
-assets.background: Background/Marathon Infinity (USA).jpg
-assets.screenshot: Screenshot/Marathon Infinity (USA).jpg
 assets.video: Video/Marathon Infinity (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3720,8 +3423,6 @@ release: 1994
 players: 1
 assets.boxfront: BoxFront/Mavis Beacon Teaches Typing! Version 3 (USA).jpg
 assets.boxback: BoxBack/Mavis Beacon Teaches Typing! Version 3 (USA).jpg
-assets.background: Background/Mavis Beacon Teaches Typing! Version 3 (USA).jpg
-assets.screenshot: Screenshot/Mavis Beacon Teaches Typing! Version 3 (USA).jpg
 assets.video: Video/Mavis Beacon Teaches Typing! Version 3 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3750,9 +3451,6 @@ description:
 release: 2017-01-31
 players: 1
 assets.boxfront: BoxFront/Mega Man 2.5D (USA).jpg
-assets.boxback: BoxBack/Mega Man 2.5D (USA).jpg
-assets.background: Background/Mega Man 2.5D (USA).jpg
-assets.screenshot: Screenshot/Mega Man 2.5D (USA).jpg
 assets.video: Video/Mega Man 2.5D (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3772,9 +3470,6 @@ description:
 release: 2014-12-17
 players: 1
 assets.boxfront: BoxFront/Mega Man Eternal (USA).jpg
-assets.boxback: BoxBack/Mega Man Eternal (USA).jpg
-assets.background: Background/Mega Man Eternal (USA).jpg
-assets.screenshot: Screenshot/Mega Man Eternal (USA).jpg
 assets.video: Video/Mega Man Eternal (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3795,9 +3490,6 @@ description:
 release: 2017-07-15
 players: 1
 assets.boxfront: BoxFront/Mega Man Maker (USA).jpg
-assets.boxback: BoxBack/Mega Man Maker (USA).jpg
-assets.background: Background/Mega Man Maker (USA).jpg
-assets.screenshot: Screenshot/Mega Man Maker (USA).jpg
 assets.video: Video/Mega Man Maker (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3850,8 +3542,6 @@ release: 2021-09-15
 players: 1
 assets.boxfront: BoxFront/Mega Man X (USA).jpg
 assets.boxback: BoxBack/Mega Man X (USA).jpg
-assets.background: Background/Mega Man X (USA).jpg
-assets.screenshot: Screenshot/Mega Man X (USA).jpg
 assets.video: Video/Mega Man X (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3870,9 +3560,6 @@ description:
 release: 1995-12-01
 players: 1
 assets.boxfront: BoxFront/Mega Man X3 (USA).jpg
-assets.boxback: BoxBack/Mega Man X3 (USA).jpg
-assets.background: Background/Mega Man X3 (USA).jpg
-assets.screenshot: Screenshot/Mega Man X3 (USA).jpg
 assets.video: Video/Mega Man X3 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3898,9 +3585,6 @@ description:
 release: 2001-02-14
 players: 1
 assets.boxfront: BoxFront/Messenger, The (USA).jpg
-assets.boxback: BoxBack/Messenger, The (USA).jpg
-assets.background: Background/Messenger, The (USA).jpg
-assets.screenshot: Screenshot/Messenger, The (USA).jpg
 assets.video: Video/Messenger, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3929,8 +3613,6 @@ release: 1996-11-07
 players: 1
 assets.boxfront: BoxFront/Microsoft Flight Simulator for Windows 95 (USA).jpg
 assets.boxback: BoxBack/Microsoft Flight Simulator for Windows 95 (USA).jpg
-assets.background: Background/Microsoft Flight Simulator for Windows 95 (USA).jpg
-assets.screenshot: Screenshot/Microsoft Flight Simulator for Windows 95 (USA).jpg
 assets.video: Video/Microsoft Flight Simulator for Windows 95 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3958,9 +3640,6 @@ description:
 release: 2016-03-10
 players: 4
 assets.boxfront: BoxFront/Moon Hunters (USA).jpg
-assets.boxback: BoxBack/Moon Hunters (USA).jpg
-assets.background: Background/Moon Hunters (USA).jpg
-assets.screenshot: Screenshot/Moon Hunters (USA).jpg
 assets.video: Video/Moon Hunters (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -3983,8 +3662,6 @@ release: 2000
 players: 1
 assets.boxfront: BoxFront/Moraff's Maximum Mahjongg (USA).jpg
 assets.boxback: BoxBack/Moraff's Maximum Mahjongg (USA).jpg
-assets.background: Background/Moraff's Maximum Mahjongg (USA).jpg
-assets.screenshot: Screenshot/Moraff's Maximum Mahjongg (USA).jpg
 assets.video: Video/Moraff's Maximum Mahjongg (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4020,8 +3697,6 @@ release: 2014-07-08
 players: 1
 assets.boxfront: BoxFront/MouseCraft (USA).jpg
 assets.boxback: BoxBack/MouseCraft (USA).jpg
-assets.background: Background/MouseCraft (USA).jpg
-assets.screenshot: Screenshot/MouseCraft (USA).jpg
 assets.video: Video/MouseCraft (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4052,8 +3727,6 @@ release: 2008-09-19
 players: 1
 assets.boxfront: BoxFront/Multiwinia (USA).jpg
 assets.boxback: BoxBack/Multiwinia (USA).jpg
-assets.background: Background/Multiwinia (USA).jpg
-assets.screenshot: Screenshot/Multiwinia (USA).jpg
 assets.video: Video/Multiwinia (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4092,9 +3765,6 @@ description:
 release: 2011-04-06
 players: 1
 assets.boxfront: BoxFront/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).jpg
-assets.boxback: BoxBack/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).jpg
-assets.background: Background/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).jpg
-assets.screenshot: Screenshot/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).jpg
 assets.video: Video/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4120,9 +3790,6 @@ description:
 release: 2000-05-12
 players: 1
 assets.boxfront: BoxFront/Myst - Masterpiece Edition (USA).jpg
-assets.boxback: BoxBack/Myst - Masterpiece Edition (USA).jpg
-assets.background: Background/Myst - Masterpiece Edition (USA).jpg
-assets.screenshot: Screenshot/Myst - Masterpiece Edition (USA).jpg
 assets.video: Video/Myst - Masterpiece Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4143,9 +3810,6 @@ description:
 release: 2001-05-07
 players: 1
 assets.boxfront: BoxFront/Myst III - Exile (USA).jpg
-assets.boxback: BoxBack/Myst III - Exile (USA).jpg
-assets.background: Background/Myst III - Exile (USA).jpg
-assets.screenshot: Screenshot/Myst III - Exile (USA).jpg
 assets.video: Video/Myst III - Exile (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4170,9 +3834,6 @@ description:
 release: 1999-11-01
 players: 1
 assets.boxfront: BoxFront/Myth The Total Codex (USA).jpg
-assets.boxback: BoxBack/Myth The Total Codex (USA).jpg
-assets.background: Background/Myth The Total Codex (USA).jpg
-assets.screenshot: Screenshot/Myth The Total Codex (USA).jpg
 assets.video: Video/Myth The Total Codex (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4202,9 +3863,6 @@ description:
 release: 2001-05-11
 players: 1
 assets.boxfront: BoxFront/Necronomicon (USA).jpg
-assets.boxback: BoxBack/Necronomicon (USA).jpg
-assets.background: Background/Necronomicon (USA).jpg
-assets.screenshot: Screenshot/Necronomicon (USA).jpg
 assets.video: Video/Necronomicon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4244,9 +3902,6 @@ description:
 release: 2017-01-23
 players: 1
 assets.boxfront: BoxFront/Nefarious (USA).jpg
-assets.boxback: BoxBack/Nefarious (USA).jpg
-assets.background: Background/Nefarious (USA).jpg
-assets.screenshot: Screenshot/Nefarious (USA).jpg
 assets.video: Video/Nefarious (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4279,8 +3934,6 @@ release: 2015-05-29
 players: 4
 assets.boxfront: BoxFront/Next Penelope, The (USA).jpg
 assets.boxback: BoxBack/Next Penelope, The (USA).jpg
-assets.background: Background/Next Penelope, The (USA).jpg
-assets.screenshot: Screenshot/Next Penelope, The (USA).jpg
 assets.video: Video/Next Penelope, The (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -4310,9 +3963,6 @@ description:
 release: 1999-10-31
 players: 1
 assets.boxfront: BoxFront/Nocturne (USA).jpg
-assets.boxback: BoxBack/Nocturne (USA).jpg
-assets.background: Background/Nocturne (USA).jpg
-assets.screenshot: Screenshot/Nocturne (USA).jpg
 assets.video: Video/Nocturne (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4338,9 +3988,6 @@ description:
 release: 2000-01-31
 players: 2
 assets.boxfront: BoxFront/Nox (USA).jpg
-assets.boxback: BoxBack/Nox (USA).jpg
-assets.background: Background/Nox (USA).jpg
-assets.screenshot: Screenshot/Nox (USA).jpg
 assets.video: Video/Nox (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -4387,9 +4034,6 @@ description:
 release: 2015-12-05
 players: 2
 assets.boxfront: BoxFront/Nuclear Throne (USA) (Windows Only).jpg
-assets.boxback: BoxBack/Nuclear Throne (USA) (Windows Only).jpg
-assets.background: Background/Nuclear Throne (USA) (Windows Only).jpg
-assets.screenshot: Screenshot/Nuclear Throne (USA) (Windows Only).jpg
 assets.video: Video/Nuclear Throne (USA) (Windows Only).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -4419,9 +4063,6 @@ description:
 release: 2013-10-11
 players: 2
 assets.boxfront: BoxFront/Nuclear Throne (USA) (Windows, Mac, Linux).jpg
-assets.boxback: BoxBack/Nuclear Throne (USA) (Windows, Mac, Linux).jpg
-assets.background: Background/Nuclear Throne (USA) (Windows, Mac, Linux).jpg
-assets.screenshot: Screenshot/Nuclear Throne (USA) (Windows, Mac, Linux).jpg
 assets.video: Video/Nuclear Throne (USA) (Windows, Mac, Linux).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -4443,8 +4084,6 @@ release: 2005-04-06
 players: 1
 assets.boxfront: BoxFront/ObsCure (USA).jpg
 assets.boxback: BoxBack/ObsCure (USA).jpg
-assets.background: Background/ObsCure (USA).jpg
-assets.screenshot: Screenshot/ObsCure (USA).jpg
 assets.video: Video/ObsCure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4476,8 +4115,6 @@ release: 1995-02-13
 players: 1
 assets.boxfront: BoxFront/Oregon Trail II - 25th Anniversary Limited Edition (USA).jpg
 assets.boxback: BoxBack/Oregon Trail II - 25th Anniversary Limited Edition (USA).jpg
-assets.background: Background/Oregon Trail II - 25th Anniversary Limited Edition (USA).jpg
-assets.screenshot: Screenshot/Oregon Trail II - 25th Anniversary Limited Edition (USA).jpg
 assets.video: Video/Oregon Trail II - 25th Anniversary Limited Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4518,8 +4155,6 @@ release: 2016-11-01
 players: 1
 assets.boxfront: BoxFront/Owlboy (USA).jpg
 assets.boxback: BoxBack/Owlboy (USA).jpg
-assets.background: Background/Owlboy (USA).jpg
-assets.screenshot: Screenshot/Owlboy (USA).jpg
 assets.video: Video/Owlboy (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4541,9 +4176,6 @@ description:
 release: 2019-01-01
 players: 1
 assets.boxfront: BoxFront/P.T. - Playable Teaser (USA).jpg
-assets.boxback: BoxBack/P.T. - Playable Teaser (USA).jpg
-assets.background: Background/P.T. - Playable Teaser (USA).jpg
-assets.screenshot: Screenshot/P.T. - Playable Teaser (USA).jpg
 assets.video: Video/P.T. - Playable Teaser (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4562,8 +4194,6 @@ release: 2000-10-31
 players: 1
 assets.boxfront: BoxFront/Pac-Man - Adventures in Time (USA).jpg
 assets.boxback: BoxBack/Pac-Man - Adventures in Time (USA).jpg
-assets.background: Background/Pac-Man - Adventures in Time (USA).jpg
-assets.screenshot: Screenshot/Pac-Man - Adventures in Time (USA).jpg
 assets.video: Video/Pac-Man - Adventures in Time (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4591,9 +4221,6 @@ description:
 release: 1995-07-31
 players: 1
 assets.boxfront: BoxFront/Phantasmagoria (USA).jpg
-assets.boxback: BoxBack/Phantasmagoria (USA).jpg
-assets.background: Background/Phantasmagoria (USA).jpg
-assets.screenshot: Screenshot/Phantasmagoria (USA).jpg
 assets.video: Video/Phantasmagoria (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4615,9 +4242,6 @@ description:
 release: 1996-11-30
 players: 1
 assets.boxfront: BoxFront/Phantasmagoria 2 - A Puzzle of Flesh (USA).jpg
-assets.boxback: BoxBack/Phantasmagoria 2 - A Puzzle of Flesh (USA).jpg
-assets.background: Background/Phantasmagoria 2 - A Puzzle of Flesh (USA).jpg
-assets.screenshot: Screenshot/Phantasmagoria 2 - A Puzzle of Flesh (USA).jpg
 assets.video: Video/Phantasmagoria 2 - A Puzzle of Flesh (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4646,8 +4270,6 @@ release: 2014-09-30
 players: 1
 assets.boxfront: BoxFront/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).jpg
 assets.boxback: BoxBack/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).jpg
-assets.background: Background/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).jpg
-assets.screenshot: Screenshot/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).jpg
 assets.video: Video/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).mp4
 x-co-op: No
 x-playable: Yes
@@ -4680,8 +4302,6 @@ release: 2001-08-27
 players: 1
 assets.boxfront: BoxFront/Pillars of Garendall (USA).jpg
 assets.boxback: BoxBack/Pillars of Garendall (USA).jpg
-assets.background: Background/Pillars of Garendall (USA).jpg
-assets.screenshot: Screenshot/Pillars of Garendall (USA).jpg
 assets.video: Video/Pillars of Garendall (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4724,9 +4344,6 @@ description:
 release: 1996
 players: 1
 assets.boxfront: BoxFront/Play-Doh Creations (USA).jpg
-assets.boxback: BoxBack/Play-Doh Creations (USA).jpg
-assets.background: Background/Play-Doh Creations (USA).jpg
-assets.screenshot: Screenshot/Play-Doh Creations (USA).jpg
 assets.video: Video/Play-Doh Creations (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4745,9 +4362,6 @@ description:
 release: 1992
 players: 1
 assets.boxfront: BoxFront/Police Quest IV - Open Season (USA).jpg
-assets.boxback: BoxBack/Police Quest IV - Open Season (USA).jpg
-assets.background: Background/Police Quest IV - Open Season (USA).jpg
-assets.screenshot: Screenshot/Police Quest IV - Open Season (USA).jpg
 assets.video: Video/Police Quest IV - Open Season (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4775,9 +4389,6 @@ description:
 release: 1995
 players: 1
 assets.boxfront: BoxFront/Prisoner of Ice (USA).jpg
-assets.boxback: BoxBack/Prisoner of Ice (USA).jpg
-assets.background: Background/Prisoner of Ice (USA).jpg
-assets.screenshot: Screenshot/Prisoner of Ice (USA).jpg
 assets.video: Video/Prisoner of Ice (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4804,9 +4415,6 @@ description:
 release: 2016-01-09
 players: 1
 assets.boxfront: BoxFront/Punch Club (USA).jpg
-assets.boxback: BoxBack/Punch Club (USA).jpg
-assets.background: Background/Punch Club (USA).jpg
-assets.screenshot: Screenshot/Punch Club (USA).jpg
 assets.video: Video/Punch Club (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4856,9 +4464,6 @@ description:
 release: 1999-12-02
 players: 1
 assets.boxfront: BoxFront/Quake III - Arena (USA).jpg
-assets.boxback: BoxBack/Quake III - Arena (USA).jpg
-assets.background: Background/Quake III - Arena (USA).jpg
-assets.screenshot: Screenshot/Quake III - Arena (USA).jpg
 assets.video: Video/Quake III - Arena (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4899,8 +4504,6 @@ release: 2014-07-10
 players: 1
 assets.boxfront: BoxFront/Quest For Infamy (USA).jpg
 assets.boxback: BoxBack/Quest For Infamy (USA).jpg
-assets.background: Background/Quest For Infamy (USA).jpg
-assets.screenshot: Screenshot/Quest For Infamy (USA).jpg
 assets.video: Video/Quest For Infamy (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4926,8 +4529,6 @@ release: 2009-12-04
 players: 1
 assets.boxfront: BoxFront/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).jpg
 assets.boxback: BoxBack/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).jpg
-assets.background: Background/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).jpg
-assets.screenshot: Screenshot/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).jpg
 assets.video: Video/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4948,9 +4549,6 @@ description:
 release: 1996-12-06
 players: 1
 assets.boxfront: BoxFront/Resident Evil (USA).jpg
-assets.boxback: BoxBack/Resident Evil (USA).jpg
-assets.background: Background/Resident Evil (USA).jpg
-assets.screenshot: Screenshot/Resident Evil (USA).jpg
 assets.video: Video/Resident Evil (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -4974,9 +4572,6 @@ description:
 release: 2019-01-25
 players: 1
 assets.boxfront: BoxFront/Resident Evil 2 (USA).jpg
-assets.boxback: BoxBack/Resident Evil 2 (USA).jpg
-assets.background: Background/Resident Evil 2 (USA).jpg
-assets.screenshot: Screenshot/Resident Evil 2 (USA).jpg
 assets.video: Video/Resident Evil 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5005,9 +4600,6 @@ description:
 release: 1999-09-22
 players: 1
 assets.boxfront: BoxFront/Resident Evil 3 - Nemesis (USA).jpg
-assets.boxback: BoxBack/Resident Evil 3 - Nemesis (USA).jpg
-assets.background: Background/Resident Evil 3 - Nemesis (USA).jpg
-assets.screenshot: Screenshot/Resident Evil 3 - Nemesis (USA).jpg
 assets.video: Video/Resident Evil 3 - Nemesis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5041,8 +4633,6 @@ release: 2007-03-01
 players: 1
 assets.boxfront: BoxFront/Resident Evil 4 (USA).jpg
 assets.boxback: BoxBack/Resident Evil 4 (USA).jpg
-assets.background: Background/Resident Evil 4 (USA).jpg
-assets.screenshot: Screenshot/Resident Evil 4 (USA).jpg
 assets.video: Video/Resident Evil 4 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5064,9 +4654,6 @@ description:
 release: 2006-01-01
 players: 1
 assets.boxfront: BoxFront/Rise of Nations - Rise of Legends (USA).jpg
-assets.boxback: BoxBack/Rise of Nations - Rise of Legends (USA).jpg
-assets.background: Background/Rise of Nations - Rise of Legends (USA).jpg
-assets.screenshot: Screenshot/Rise of Nations - Rise of Legends (USA).jpg
 assets.video: Video/Rise of Nations - Rise of Legends (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5102,9 +4689,6 @@ description:
 release: 1994-01-01
 players: 1
 assets.boxfront: BoxFront/Rise of the Triad - The Hunt Begins (USA).jpg
-assets.boxback: BoxBack/Rise of the Triad - The Hunt Begins (USA).jpg
-assets.background: Background/Rise of the Triad - The Hunt Begins (USA).jpg
-assets.screenshot: Screenshot/Rise of the Triad - The Hunt Begins (USA).jpg
 assets.video: Video/Rise of the Triad - The Hunt Begins (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5126,9 +4710,6 @@ description:
 release: 2013-11-08
 players: 2
 assets.boxfront: BoxFront/Risk of Rain (USA).jpg
-assets.boxback: BoxBack/Risk of Rain (USA).jpg
-assets.background: Background/Risk of Rain (USA).jpg
-assets.screenshot: Screenshot/Risk of Rain (USA).jpg
 assets.video: Video/Risk of Rain (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -5175,9 +4756,6 @@ description:
 release: 2016-09-13
 players: 1
 assets.boxfront: BoxFront/Rive (USA).jpg
-assets.boxback: BoxBack/Rive (USA).jpg
-assets.background: Background/Rive (USA).jpg
-assets.screenshot: Screenshot/Rive (USA).jpg
 assets.video: Video/Rive (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5208,9 +4786,6 @@ description:
 release: 1997-10-31
 players: 1
 assets.boxfront: BoxFront/Riven - The Sequel to Myst (USA).jpg
-assets.boxback: BoxBack/Riven - The Sequel to Myst (USA).jpg
-assets.background: Background/Riven - The Sequel to Myst (USA).jpg
-assets.screenshot: Screenshot/Riven - The Sequel to Myst (USA).jpg
 assets.video: Video/Riven - The Sequel to Myst (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5262,8 +4837,6 @@ release: 2013-06-27
 players: 1
 assets.boxfront: BoxFront/Rogue Legacy (USA).jpg
 assets.boxback: BoxBack/Rogue Legacy (USA).jpg
-assets.background: Background/Rogue Legacy (USA).jpg
-assets.screenshot: Screenshot/Rogue Legacy (USA).jpg
 assets.video: Video/Rogue Legacy (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5289,9 +4862,6 @@ description:
 release: 2012-01-19
 players: 1
 assets.boxfront: BoxFront/SCP-087 (USA).jpg
-assets.boxback: BoxBack/SCP-087 (USA).jpg
-assets.background: Background/SCP-087 (USA).jpg
-assets.screenshot: Screenshot/SCP-087 (USA).jpg
 assets.video: Video/SCP-087 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5328,9 +4898,6 @@ description:
 release: 2012-01-30
 players: 1
 assets.boxfront: BoxFront/SCP-087-B (USA).jpg
-assets.boxback: BoxBack/SCP-087-B (USA).jpg
-assets.background: Background/SCP-087-B (USA).jpg
-assets.screenshot: Screenshot/SCP-087-B (USA).jpg
 assets.video: Video/SCP-087-B (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5353,8 +4920,6 @@ release: 1993-11-01
 players: 1
 assets.boxfront: BoxFront/Sam & Max Hit the Road (USA).jpg
 assets.boxback: BoxBack/Sam & Max Hit the Road (USA).jpg
-assets.background: Background/Sam & Max Hit the Road (USA).jpg
-assets.screenshot: Screenshot/Sam & Max Hit the Road (USA).jpg
 assets.video: Video/Sam & Max Hit the Road (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5377,8 +4942,6 @@ release: 2001-10-17
 players: 1
 assets.boxfront: BoxFront/Schizm (USA).jpg
 assets.boxback: BoxBack/Schizm (USA).jpg
-assets.background: Background/Schizm (USA).jpg
-assets.screenshot: Screenshot/Schizm (USA).jpg
 assets.video: Video/Schizm (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5404,9 +4967,6 @@ description:
 release: 2007-04-07
 players: 1
 assets.boxfront: BoxFront/Scratches - Director's Cut (USA).jpg
-assets.boxback: BoxBack/Scratches - Director's Cut (USA).jpg
-assets.background: Background/Scratches - Director's Cut (USA).jpg
-assets.screenshot: Screenshot/Scratches - Director's Cut (USA).jpg
 assets.video: Video/Scratches - Director's Cut (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5435,8 +4995,6 @@ release: 1999-09-09
 players: 1
 assets.boxfront: BoxFront/Sega Dreamcast AT&T WorldNet Service & Previews (USA).jpg
 assets.boxback: BoxBack/Sega Dreamcast AT&T WorldNet Service & Previews (USA).jpg
-assets.background: Background/Sega Dreamcast AT&T WorldNet Service & Previews (USA).jpg
-assets.screenshot: Screenshot/Sega Dreamcast AT&T WorldNet Service & Previews (USA).jpg
 assets.video: Video/Sega Dreamcast AT&T WorldNet Service & Previews (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5456,8 +5014,6 @@ release: 2011-03-15
 players: 1
 assets.boxfront: BoxFront/Sega Genesis Classic Collection - Gold Edition (USA).jpg
 assets.boxback: BoxBack/Sega Genesis Classic Collection - Gold Edition (USA).jpg
-assets.background: Background/Sega Genesis Classic Collection - Gold Edition (USA).jpg
-assets.screenshot: Screenshot/Sega Genesis Classic Collection - Gold Edition (USA).jpg
 assets.video: Video/Sega Genesis Classic Collection - Gold Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5503,8 +5059,6 @@ release: 1999-10-31
 players: 1
 assets.boxfront: BoxFront/Septerra Core - Legacy of the Creator (USA).jpg
 assets.boxback: BoxBack/Septerra Core - Legacy of the Creator (USA).jpg
-assets.background: Background/Septerra Core - Legacy of the Creator (USA).jpg
-assets.screenshot: Screenshot/Septerra Core - Legacy of the Creator (USA).jpg
 assets.video: Video/Septerra Core - Legacy of the Creator (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5524,8 +5078,6 @@ release: 2013-06-26
 players: 1
 assets.boxfront: BoxFront/Shadow Chronicles 6 Pack - Collector's Edition (USA).jpg
 assets.boxback: BoxBack/Shadow Chronicles 6 Pack - Collector's Edition (USA).jpg
-assets.background: Background/Shadow Chronicles 6 Pack - Collector's Edition (USA).jpg
-assets.screenshot: Screenshot/Shadow Chronicles 6 Pack - Collector's Edition (USA).jpg
 assets.video: Video/Shadow Chronicles 6 Pack - Collector's Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5553,8 +5105,6 @@ release: 1993
 players: 1
 assets.boxfront: BoxFront/Shadow of the Comet (USA).jpg
 assets.boxback: BoxBack/Shadow of the Comet (USA).jpg
-assets.background: Background/Shadow of the Comet (USA).jpg
-assets.screenshot: Screenshot/Shadow of the Comet (USA).jpg
 assets.video: Video/Shadow of the Comet (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5580,9 +5130,6 @@ description:
 release: 1995-09-30
 players: 1
 assets.boxfront: BoxFront/Shivers (USA).jpg
-assets.boxback: BoxBack/Shivers (USA).jpg
-assets.background: Background/Shivers (USA).jpg
-assets.screenshot: Screenshot/Shivers (USA).jpg
 assets.video: Video/Shivers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5605,9 +5152,6 @@ description:
 release: 2002-12-05
 players: 1
 assets.boxfront: BoxFront/Silent Hill 2 (USA).jpg
-assets.boxback: BoxBack/Silent Hill 2 (USA).jpg
-assets.background: Background/Silent Hill 2 (USA).jpg
-assets.screenshot: Screenshot/Silent Hill 2 (USA).jpg
 assets.video: Video/Silent Hill 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5635,9 +5179,6 @@ description:
 release: 2003-12-02
 players: 1
 assets.boxfront: BoxFront/Silent Hill 3 (USA).jpg
-assets.boxback: BoxBack/Silent Hill 3 (USA).jpg
-assets.background: Background/Silent Hill 3 (USA).jpg
-assets.screenshot: Screenshot/Silent Hill 3 (USA).jpg
 assets.video: Video/Silent Hill 3 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5664,8 +5205,6 @@ release: 2008-06-30
 players: 1
 assets.boxfront: BoxFront/SimCity Box, The (USA).jpg
 assets.boxback: BoxBack/SimCity Box, The (USA).jpg
-assets.background: Background/SimCity Box, The (USA).jpg
-assets.screenshot: Screenshot/SimCity Box, The (USA).jpg
 assets.video: Video/SimCity Box, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5687,8 +5226,6 @@ release: 2004-09-14
 players: 1
 assets.boxfront: BoxFront/Sims 2, The (USA).jpg
 assets.boxback: BoxBack/Sims 2, The (USA).jpg
-assets.background: Background/Sims 2, The (USA).jpg
-assets.screenshot: Screenshot/Sims 2, The (USA).jpg
 assets.video: Video/Sims 2, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5731,9 +5268,6 @@ description:
 release: 2004-09-14
 players: 1
 assets.boxfront: BoxFront/Sims 2, The - Ultimate Collection (USA).jpg
-assets.boxback: BoxBack/Sims 2, The - Ultimate Collection (USA).jpg
-assets.background: Background/Sims 2, The - Ultimate Collection (USA).jpg
-assets.screenshot: Screenshot/Sims 2, The - Ultimate Collection (USA).jpg
 assets.video: Video/Sims 2, The - Ultimate Collection (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5754,8 +5288,6 @@ release: 2014-09-02
 players: 1
 assets.boxfront: BoxFront/Sims 4, The - Limited Edition (USA).jpg
 assets.boxback: BoxBack/Sims 4, The - Limited Edition (USA).jpg
-assets.background: Background/Sims 4, The - Limited Edition (USA).jpg
-assets.screenshot: Screenshot/Sims 4, The - Limited Edition (USA).jpg
 assets.video: Video/Sims 4, The - Limited Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5790,8 +5322,6 @@ release: 2005-11-02
 players: 1
 assets.boxfront: BoxFront/Sims, The - Complete Collection (USA).jpg
 assets.boxback: BoxBack/Sims, The - Complete Collection (USA).jpg
-assets.background: Background/Sims, The - Complete Collection (USA).jpg
-assets.screenshot: Screenshot/Sims, The - Complete Collection (USA).jpg
 assets.video: Video/Sims, The - Complete Collection (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5824,9 +5354,6 @@ description:
 release: 1991
 players: 1
 assets.boxfront: BoxFront/SkiFree (USA).jpg
-assets.boxback: BoxBack/SkiFree (USA).jpg
-assets.background: Background/SkiFree (USA).jpg
-assets.screenshot: Screenshot/SkiFree (USA).jpg
 assets.video: Video/SkiFree (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5859,9 +5386,6 @@ description:
 release: 2016-11-08
 players: 1
 assets.boxfront: BoxFront/Small Radios Big Televisions (USA).jpg
-assets.boxback: BoxBack/Small Radios Big Televisions (USA).jpg
-assets.background: Background/Small Radios Big Televisions (USA).jpg
-assets.screenshot: Screenshot/Small Radios Big Televisions (USA).jpg
 assets.video: Video/Small Radios Big Televisions (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5884,8 +5408,6 @@ release: 2002-05-20
 players: 1
 assets.boxfront: BoxFront/Soldier of Fortune II - Double Helix (USA).jpg
 assets.boxback: BoxBack/Soldier of Fortune II - Double Helix (USA).jpg
-assets.background: Background/Soldier of Fortune II - Double Helix (USA).jpg
-assets.screenshot: Screenshot/Soldier of Fortune II - Double Helix (USA).jpg
 assets.video: Video/Soldier of Fortune II - Double Helix (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5914,9 +5436,6 @@ description:
 release: 2022-09-10
 players: 1
 assets.boxfront: BoxFront/Sonic 3 - Angel Island Revisited (USA).jpg
-assets.boxback: BoxBack/Sonic 3 - Angel Island Revisited (USA).jpg
-assets.background: Background/Sonic 3 - Angel Island Revisited (USA).jpg
-assets.screenshot: Screenshot/Sonic 3 - Angel Island Revisited (USA).jpg
 assets.video: Video/Sonic 3 - Angel Island Revisited (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5935,9 +5454,6 @@ description:
 release: 1998-11-11
 players: 1
 assets.boxfront: BoxFront/Sonic R (USA).jpg
-assets.boxback: BoxBack/Sonic R (USA).jpg
-assets.background: Background/Sonic R (USA).jpg
-assets.screenshot: Screenshot/Sonic R (USA).jpg
 assets.video: Video/Sonic R (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -5973,9 +5489,6 @@ description:
 release: 2023-05-26
 players: 1
 assets.boxfront: BoxFront/Sonic Triple Trouble 16-bit (USA).jpg
-assets.boxback: BoxBack/Sonic Triple Trouble 16-bit (USA).jpg
-assets.background: Background/Sonic Triple Trouble 16-bit (USA).jpg
-assets.screenshot: Screenshot/Sonic Triple Trouble 16-bit (USA).jpg
 assets.video: Video/Sonic Triple Trouble 16-bit (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6001,9 +5514,6 @@ description:
 release: 2008
 players: 1
 assets.boxfront: BoxFront/Speculum Mortis - Regret (USA).jpg
-assets.boxback: BoxBack/Speculum Mortis - Regret (USA).jpg
-assets.background: Background/Speculum Mortis - Regret (USA).jpg
-assets.screenshot: Screenshot/Speculum Mortis - Regret (USA).jpg
 assets.video: Video/Speculum Mortis - Regret (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6025,9 +5535,6 @@ description:
 release: 2014-10-23
 players: 1
 assets.boxfront: BoxFront/Spooky's House of Jump Scares (USA).jpg
-assets.boxback: BoxBack/Spooky's House of Jump Scares (USA).jpg
-assets.background: Background/Spooky's House of Jump Scares (USA).jpg
-assets.screenshot: Screenshot/Spooky's House of Jump Scares (USA).jpg
 assets.video: Video/Spooky's House of Jump Scares (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6053,9 +5560,6 @@ description:
 release: 2013-10-17
 players: 1
 assets.boxfront: BoxFront/Stanley Parable, The (USA).jpg
-assets.boxback: BoxBack/Stanley Parable, The (USA).jpg
-assets.background: Background/Stanley Parable, The (USA).jpg
-assets.screenshot: Screenshot/Stanley Parable, The (USA).jpg
 assets.video: Video/Stanley Parable, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6081,9 +5585,6 @@ description:
 release: 1995-08-15
 players: 1
 assets.boxfront: BoxFront/Star Trek - Omnipedia (USA).jpg
-assets.boxback: BoxBack/Star Trek - Omnipedia (USA).jpg
-assets.background: Background/Star Trek - Omnipedia (USA).jpg
-assets.screenshot: Screenshot/Star Trek - Omnipedia (USA).jpg
 assets.video: Video/Star Trek - Omnipedia (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6112,9 +5613,6 @@ description:
 release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Star Trek - The Next Generation - A Final Unity (USA).jpg
-assets.boxback: BoxBack/Star Trek - The Next Generation - A Final Unity (USA).jpg
-assets.background: Background/Star Trek - The Next Generation - A Final Unity (USA).jpg
-assets.screenshot: Screenshot/Star Trek - The Next Generation - A Final Unity (USA).jpg
 assets.video: Video/Star Trek - The Next Generation - A Final Unity (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6165,9 +5663,6 @@ description:
 release: 2009-09-16
 players: 1
 assets.boxfront: BoxFront/Star Wars - Dark Forces (USA).jpg
-assets.boxback: BoxBack/Star Wars - Dark Forces (USA).jpg
-assets.background: Background/Star Wars - Dark Forces (USA).jpg
-assets.screenshot: Screenshot/Star Wars - Dark Forces (USA).jpg
 assets.video: Video/Star Wars - Dark Forces (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6208,9 +5703,6 @@ description:
 release: 1997-10-09
 players: 4
 assets.boxfront: BoxFront/Star Wars - Jedi Knight - Dark Forces II (USA).jpg
-assets.boxback: BoxBack/Star Wars - Jedi Knight - Dark Forces II (USA).jpg
-assets.background: Background/Star Wars - Jedi Knight - Dark Forces II (USA).jpg
-assets.screenshot: Screenshot/Star Wars - Jedi Knight - Dark Forces II (USA).jpg
 assets.video: Video/Star Wars - Jedi Knight - Dark Forces II (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6260,9 +5752,6 @@ description:
 release: 2003-11-19
 players: 1
 assets.boxfront: BoxFront/Star Wars - Knights of the Old Republic (USA).jpg
-assets.boxback: BoxBack/Star Wars - Knights of the Old Republic (USA).jpg
-assets.background: Background/Star Wars - Knights of the Old Republic (USA).jpg
-assets.screenshot: Screenshot/Star Wars - Knights of the Old Republic (USA).jpg
 assets.video: Video/Star Wars - Knights of the Old Republic (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6314,8 +5803,6 @@ release: 2005-02-08
 players: 1
 assets.boxfront: BoxFront/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
 assets.boxback: BoxBack/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
-assets.background: Background/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
-assets.screenshot: Screenshot/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).jpg
 assets.video: Video/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6346,9 +5833,6 @@ description:
 release: 1999-02-28
 players: 1
 assets.boxfront: BoxFront/Star Wars - X-Wing Alliance (USA).jpg
-assets.boxback: BoxBack/Star Wars - X-Wing Alliance (USA).jpg
-assets.background: Background/Star Wars - X-Wing Alliance (USA).jpg
-assets.screenshot: Screenshot/Star Wars - X-Wing Alliance (USA).jpg
 assets.video: Video/Star Wars - X-Wing Alliance (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6370,9 +5854,6 @@ description:
 release: 1998-03-31
 players: 1
 assets.boxfront: BoxFront/StarCraft & Brood War (USA).jpg
-assets.boxback: BoxBack/StarCraft & Brood War (USA).jpg
-assets.background: Background/StarCraft & Brood War (USA).jpg
-assets.screenshot: Screenshot/StarCraft & Brood War (USA).jpg
 assets.video: Video/StarCraft & Brood War (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6398,9 +5879,6 @@ description:
 release: 1999-03-24
 players: 1
 assets.boxfront: BoxFront/Starsiege (USA).jpg
-assets.boxback: BoxBack/Starsiege (USA).jpg
-assets.background: Background/Starsiege (USA).jpg
-assets.screenshot: Screenshot/Starsiege (USA).jpg
 assets.video: Video/Starsiege (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6431,9 +5909,6 @@ description:
 release: 2001-03-30
 players: 1
 assets.boxfront: BoxFront/Starsiege - Tribes (USA).jpg
-assets.boxback: BoxBack/Starsiege - Tribes (USA).jpg
-assets.background: Background/Starsiege - Tribes (USA).jpg
-assets.screenshot: Screenshot/Starsiege - Tribes (USA).jpg
 assets.video: Video/Starsiege - Tribes (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6450,8 +5925,6 @@ release: 2007-01-19
 players: 1
 assets.boxfront: BoxFront/Starsiege Universe (USA).jpg
 assets.boxback: BoxBack/Starsiege Universe (USA).jpg
-assets.background: Background/Starsiege Universe (USA).jpg
-assets.screenshot: Screenshot/Starsiege Universe (USA).jpg
 assets.video: Video/Starsiege Universe (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6486,9 +5959,6 @@ description:
 release: 2013-12-05
 players: 1
 assets.boxfront: BoxFront/SteamWorld Dig - A Fistful of Dirt (USA).jpg
-assets.boxback: BoxBack/SteamWorld Dig - A Fistful of Dirt (USA).jpg
-assets.background: Background/SteamWorld Dig - A Fistful of Dirt (USA).jpg
-assets.screenshot: Screenshot/SteamWorld Dig - A Fistful of Dirt (USA).jpg
 assets.video: Video/SteamWorld Dig - A Fistful of Dirt (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6506,9 +5976,6 @@ description:
 release: 2005-11-01
 players: 2
 assets.boxfront: BoxFront/StepMania (USA).jpg
-assets.boxback: BoxBack/StepMania (USA).jpg
-assets.background: Background/StepMania (USA).jpg
-assets.screenshot: Screenshot/StepMania (USA).jpg
 assets.video: Video/StepMania (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -6575,9 +6042,6 @@ description:
 release: 2016-04-12
 players: 1
 assets.boxfront: BoxFront/Stories - The Path of Destinies (USA).jpg
-assets.boxback: BoxBack/Stories - The Path of Destinies (USA).jpg
-assets.background: Background/Stories - The Path of Destinies (USA).jpg
-assets.screenshot: Screenshot/Stories - The Path of Destinies (USA).jpg
 assets.video: Video/Stories - The Path of Destinies (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6596,8 +6060,6 @@ release: 1994-08-22
 players: 2
 assets.boxfront: BoxFront/Street Fighter & Mega Man Collection (USA).jpg
 assets.boxback: BoxBack/Street Fighter & Mega Man Collection (USA).jpg
-assets.background: Background/Street Fighter & Mega Man Collection (USA).jpg
-assets.screenshot: Screenshot/Street Fighter & Mega Man Collection (USA).jpg
 assets.video: Video/Street Fighter & Mega Man Collection (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6618,9 +6080,6 @@ description:
 release: 1991-03-01
 players: 2
 assets.boxfront: BoxFront/Street Fighter 2 (USA).jpg
-assets.boxback: BoxBack/Street Fighter 2 (USA).jpg
-assets.background: Background/Street Fighter 2 (USA).jpg
-assets.screenshot: Screenshot/Street Fighter 2 (USA).jpg
 assets.video: Video/Street Fighter 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6650,9 +6109,6 @@ description:
 release: 2012-12-17
 players: 1
 assets.boxfront: BoxFront/Street Fighter X Mega Man (USA).jpg
-assets.boxback: BoxBack/Street Fighter X Mega Man (USA).jpg
-assets.background: Background/Street Fighter X Mega Man (USA).jpg
-assets.screenshot: Screenshot/Street Fighter X Mega Man (USA).jpg
 assets.video: Video/Street Fighter X Mega Man (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6683,8 +6139,6 @@ release: 2009-11-03
 players: 1
 assets.boxfront: BoxFront/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).jpg
 assets.boxback: BoxBack/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).jpg
-assets.background: Background/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).jpg
-assets.screenshot: Screenshot/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).jpg
 assets.video: Video/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).mp4
 x-co-op: No
 x-playable: Yes
@@ -6709,9 +6163,6 @@ description:
 release: 1990
 players: 1
 assets.boxfront: BoxFront/Stunt Driver (USA).jpg
-assets.boxback: BoxBack/Stunt Driver (USA).jpg
-assets.background: Background/Stunt Driver (USA).jpg
-assets.screenshot: Screenshot/Stunt Driver (USA).jpg
 assets.video: Video/Stunt Driver (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6749,8 +6200,6 @@ release: 2014-10-01
 players: 1
 assets.boxfront: BoxFront/Super Win The Game (USA).jpg
 assets.boxback: BoxBack/Super Win The Game (USA).jpg
-assets.background: Background/Super Win The Game (USA).jpg
-assets.screenshot: Screenshot/Super Win The Game (USA).jpg
 assets.video: Video/Super Win The Game (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6814,9 +6263,6 @@ description:
 release: 2015-09-22
 players: 1
 assets.boxfront: BoxFront/System Shock - Enhanced Edition (USA).jpg
-assets.boxback: BoxBack/System Shock - Enhanced Edition (USA).jpg
-assets.background: Background/System Shock - Enhanced Edition (USA).jpg
-assets.screenshot: Screenshot/System Shock - Enhanced Edition (USA).jpg
 assets.video: Video/System Shock - Enhanced Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6839,8 +6285,6 @@ release: 2009-12-01
 players: 1
 assets.boxfront: BoxFront/Tennis Titans (USA).jpg
 assets.boxback: BoxBack/Tennis Titans (USA).jpg
-assets.background: Background/Tennis Titans (USA).jpg
-assets.screenshot: Screenshot/Tennis Titans (USA).jpg
 assets.video: Video/Tennis Titans (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6863,8 +6307,6 @@ release: 2001-11-23
 players: 1
 assets.boxfront: BoxFront/Tetris Worlds (USA).jpg
 assets.boxback: BoxBack/Tetris Worlds (USA).jpg
-assets.background: Background/Tetris Worlds (USA).jpg
-assets.screenshot: Screenshot/Tetris Worlds (USA).jpg
 assets.video: Video/Tetris Worlds (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6894,9 +6336,6 @@ description:
 release: 2012-06-24
 players: 1
 assets.boxfront: BoxFront/Thomas Was Alone (USA).jpg
-assets.boxback: BoxBack/Thomas Was Alone (USA).jpg
-assets.background: Background/Thomas Was Alone (USA).jpg
-assets.screenshot: Screenshot/Thomas Was Alone (USA).jpg
 assets.video: Video/Thomas Was Alone (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6919,8 +6358,6 @@ release: 2010-01-01
 players: 1
 assets.boxfront: BoxFront/Torchlight (USA).jpg
 assets.boxback: BoxBack/Torchlight (USA).jpg
-assets.background: Background/Torchlight (USA).jpg
-assets.screenshot: Screenshot/Torchlight (USA).jpg
 assets.video: Video/Torchlight (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -6955,9 +6392,6 @@ description:
 release: 2012-09-20
 players: 4
 assets.boxfront: BoxFront/Torchlight II (USA).jpg
-assets.boxback: BoxBack/Torchlight II (USA).jpg
-assets.background: Background/Torchlight II (USA).jpg
-assets.screenshot: Screenshot/Torchlight II (USA).jpg
 assets.video: Video/Torchlight II (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -6987,9 +6421,6 @@ description:
 release: 2004-01-01
 players: 1
 assets.boxfront: BoxFront/Tribes - Vengeance (USA).jpg
-assets.boxback: BoxBack/Tribes - Vengeance (USA).jpg
-assets.background: Background/Tribes - Vengeance (USA).jpg
-assets.screenshot: Screenshot/Tribes - Vengeance (USA).jpg
 assets.video: Video/Tribes - Vengeance (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7017,9 +6448,6 @@ description:
 release: 2001-03-28
 players: 1
 assets.boxfront: BoxFront/Tribes 2 (USA).jpg
-assets.boxback: BoxBack/Tribes 2 (USA).jpg
-assets.background: Background/Tribes 2 (USA).jpg
-assets.screenshot: Screenshot/Tribes 2 (USA).jpg
 assets.video: Video/Tribes 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7050,9 +6478,6 @@ description:
 release: 2007-09-22
 players: 1
 assets.boxfront: BoxFront/Tux Racer (USA).jpg
-assets.boxback: BoxBack/Tux Racer (USA).jpg
-assets.background: Background/Tux Racer (USA).jpg
-assets.screenshot: Screenshot/Tux Racer (USA).jpg
 assets.video: Video/Tux Racer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7070,8 +6495,6 @@ release: 2016-08-15
 players: 1
 assets.boxfront: BoxFront/Typoman - Revised (USA).jpg
 assets.boxback: BoxBack/Typoman - Revised (USA).jpg
-assets.background: Background/Typoman - Revised (USA).jpg
-assets.screenshot: Screenshot/Typoman - Revised (USA).jpg
 assets.video: Video/Typoman - Revised (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7130,8 +6553,6 @@ release: 1998-02-28
 players: 1
 assets.boxfront: BoxFront/Ultima Collection (USA) (Ultima I - Ultima VIII).jpg
 assets.boxback: BoxBack/Ultima Collection (USA) (Ultima I - Ultima VIII).jpg
-assets.background: Background/Ultima Collection (USA) (Ultima I - Ultima VIII).jpg
-assets.screenshot: Screenshot/Ultima Collection (USA) (Ultima I - Ultima VIII).jpg
 assets.video: Video/Ultima Collection (USA) (Ultima I - Ultima VIII).mp4
 x-co-op: No
 x-playable: Yes
@@ -7152,9 +6573,6 @@ description:
 release: 1998-01-31
 players: 1
 assets.boxfront: BoxFront/Ultimate RPG Archives, The (USA).jpg
-assets.boxback: BoxBack/Ultimate RPG Archives, The (USA).jpg
-assets.background: Background/Ultimate RPG Archives, The (USA).jpg
-assets.screenshot: Screenshot/Ultimate RPG Archives, The (USA).jpg
 assets.video: Video/Ultimate RPG Archives, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7174,8 +6592,6 @@ release: 2006-11-06
 players: 32
 assets.boxfront: BoxFront/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).jpg
 assets.boxback: BoxBack/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).jpg
-assets.background: Background/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).jpg
-assets.screenshot: Screenshot/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).jpg
 assets.video: Video/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -7193,9 +6609,6 @@ description:
 release: 2004-03-16
 players: 32
 assets.boxfront: BoxFront/Unreal Tournament 2004 (USA).jpg
-assets.boxback: BoxBack/Unreal Tournament 2004 (USA).jpg
-assets.background: Background/Unreal Tournament 2004 (USA).jpg
-assets.screenshot: Screenshot/Unreal Tournament 2004 (USA).jpg
 assets.video: Video/Unreal Tournament 2004 (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -7231,9 +6644,6 @@ description:
 release: 2008-03-02
 players: 1
 assets.boxfront: BoxFront/Video Game Name Generator Competition (USA).jpg
-assets.boxback: BoxBack/Video Game Name Generator Competition (USA).jpg
-assets.background: Background/Video Game Name Generator Competition (USA).jpg
-assets.screenshot: Screenshot/Video Game Name Generator Competition (USA).jpg
 assets.video: Video/Video Game Name Generator Competition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7252,8 +6662,6 @@ release: 2013-11-07
 players: 4
 assets.boxfront: BoxFront/War for the Overworld - Underlord Edition (USA).jpg
 assets.boxback: BoxBack/War for the Overworld - Underlord Edition (USA).jpg
-assets.background: Background/War for the Overworld - Underlord Edition (USA).jpg
-assets.screenshot: Screenshot/War for the Overworld - Underlord Edition (USA).jpg
 assets.video: Video/War for the Overworld - Underlord Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7312,9 +6720,6 @@ description:
 release: 2015-10-13
 players: 1
 assets.boxfront: BoxFront/Wasteland 2 - Director's Cut (USA).jpg
-assets.boxback: BoxBack/Wasteland 2 - Director's Cut (USA).jpg
-assets.background: Background/Wasteland 2 - Director's Cut (USA).jpg
-assets.screenshot: Screenshot/Wasteland 2 - Director's Cut (USA).jpg
 assets.video: Video/Wasteland 2 - Director's Cut (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7336,9 +6741,6 @@ description:
 release: 1999-01-01
 players: 1
 assets.boxfront: BoxFront/Wetrix (USA).jpg
-assets.boxback: BoxBack/Wetrix (USA).jpg
-assets.background: Background/Wetrix (USA).jpg
-assets.screenshot: Screenshot/Wetrix (USA).jpg
 assets.video: Video/Wetrix (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7368,8 +6770,6 @@ release: 2008
 players: 1
 assets.boxfront: BoxFront/Wheel of Fortune Deluxe (USA).jpg
 assets.boxback: BoxBack/Wheel of Fortune Deluxe (USA).jpg
-assets.background: Background/Wheel of Fortune Deluxe (USA).jpg
-assets.screenshot: Screenshot/Wheel of Fortune Deluxe (USA).jpg
 assets.video: Video/Wheel of Fortune Deluxe (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7391,9 +6791,6 @@ description:
 release: 1995-09-30
 players: 1
 assets.boxfront: BoxFront/Witchaven (USA).jpg
-assets.boxback: BoxBack/Witchaven (USA).jpg
-assets.background: Background/Witchaven (USA).jpg
-assets.screenshot: Screenshot/Witchaven (USA).jpg
 assets.video: Video/Witchaven (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7419,9 +6816,6 @@ description:
 release: 1996
 players: 8
 assets.boxfront: BoxFront/Witchaven II - Blood Vengeance (USA).jpg
-assets.boxback: BoxBack/Witchaven II - Blood Vengeance (USA).jpg
-assets.background: Background/Witchaven II - Blood Vengeance (USA).jpg
-assets.screenshot: Screenshot/Witchaven II - Blood Vengeance (USA).jpg
 assets.video: Video/Witchaven II - Blood Vengeance (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -7445,8 +6839,6 @@ release: 2008-11-14
 players: 1
 assets.boxfront: BoxFront/World of Goo (USA).jpg
 assets.boxback: BoxBack/World of Goo (USA).jpg
-assets.background: Background/World of Goo (USA).jpg
-assets.screenshot: Screenshot/World of Goo (USA).jpg
 assets.video: Video/World of Goo (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -7477,9 +6869,6 @@ description:
 release: 2014-07-04
 players: 1
 assets.boxfront: BoxFront/Z - The Game (USA).jpg
-assets.boxback: BoxBack/Z - The Game (USA).jpg
-assets.background: Background/Z - The Game (USA).jpg
-assets.screenshot: Screenshot/Z - The Game (USA).jpg
 assets.video: Video/Z - The Game (USA).mp4
 x-co-op: No
 x-playable: Yes

@@ -17,8 +17,6 @@ release: 1995-08-01
 players: 1
 assets.boxfront: BoxFront/Blue Lightning (USA).jpg
 assets.boxback: BoxBack/Blue Lightning (USA).jpg
-assets.background: Background/Blue Lightning (USA).jpg
-assets.screenshot: Screenshot/Blue Lightning (USA).jpg
 assets.video: Video/Blue Lightning (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -55,8 +53,6 @@ release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Myst (USA).jpg
 assets.boxback: BoxBack/Myst (USA).jpg
-assets.background: Background/Myst (USA).jpg
-assets.screenshot: Screenshot/Myst (USA).jpg
 assets.video: Video/Myst (USA).mp4
 x-co-op: No
 x-playable: Yes

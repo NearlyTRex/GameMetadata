@@ -18,9 +18,6 @@ description:
 release: 1983-12-01
 players: 1
 assets.boxfront: BoxFront/Antarctic Adventure (Japan).jpg
-assets.boxback: BoxBack/Antarctic Adventure (Japan).jpg
-assets.background: Background/Antarctic Adventure (Japan).jpg
-assets.screenshot: Screenshot/Antarctic Adventure (Japan).jpg
 assets.video: Video/Antarctic Adventure (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -38,9 +35,6 @@ description:
 release: 1984-05-01
 players: 2
 assets.boxfront: BoxFront/Athletic Land (Japan).jpg
-assets.boxback: BoxBack/Athletic Land (Japan).jpg
-assets.background: Background/Athletic Land (Japan).jpg
-assets.screenshot: Screenshot/Athletic Land (Japan).jpg
 assets.video: Video/Athletic Land (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -58,9 +52,6 @@ description:
 release: 1984-11-01
 players: 2
 assets.boxfront: BoxFront/Hyper Sports 2 (Japan).jpg
-assets.boxback: BoxBack/Hyper Sports 2 (Japan).jpg
-assets.background: Background/Hyper Sports 2 (Japan).jpg
-assets.screenshot: Screenshot/Hyper Sports 2 (Japan).jpg
 assets.video: Video/Hyper Sports 2 (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -79,9 +70,6 @@ description:
 release: 1985-09-01
 players: 2
 assets.boxfront: BoxFront/Hyper Sports 3 (Japan).jpg
-assets.boxback: BoxBack/Hyper Sports 3 (Japan).jpg
-assets.background: Background/Hyper Sports 3 (Japan).jpg
-assets.screenshot: Screenshot/Hyper Sports 3 (Japan).jpg
 assets.video: Video/Hyper Sports 3 (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -103,9 +91,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Knightmare - Majou Densetsu (Japan).jpg
-assets.boxback: BoxBack/Knightmare - Majou Densetsu (Japan).jpg
-assets.background: Background/Knightmare - Majou Densetsu (Japan).jpg
-assets.screenshot: Screenshot/Knightmare - Majou Densetsu (Japan).jpg
 assets.video: Video/Knightmare - Majou Densetsu (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -124,9 +109,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Konami's Billiards (Europe).jpg
-assets.boxback: BoxBack/Konami's Billiards (Europe).jpg
-assets.background: Background/Konami's Billiards (Europe).jpg
-assets.screenshot: Screenshot/Konami's Billiards (Europe).jpg
 assets.video: Video/Konami's Billiards (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -142,9 +124,6 @@ description:
 release: 1985-04-01
 players: 2
 assets.boxfront: BoxFront/Konami's Boxing (Japan).jpg
-assets.boxback: BoxBack/Konami's Boxing (Japan).jpg
-assets.background: Background/Konami's Boxing (Japan).jpg
-assets.screenshot: Screenshot/Konami's Boxing (Japan).jpg
 assets.video: Video/Konami's Boxing (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -161,9 +140,6 @@ description:
 release: 1985-04-01
 players: 2
 assets.boxfront: BoxFront/Konami's Golf (Japan).jpg
-assets.boxback: BoxBack/Konami's Golf (Japan).jpg
-assets.background: Background/Konami's Golf (Japan).jpg
-assets.screenshot: Screenshot/Konami's Golf (Japan).jpg
 assets.video: Video/Konami's Golf (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -188,9 +164,6 @@ description:
 release: 1985-04-01
 players: 2
 assets.boxfront: BoxFront/Konami's Ping-Pong (Japan).jpg
-assets.boxback: BoxBack/Konami's Ping-Pong (Japan).jpg
-assets.background: Background/Konami's Ping-Pong (Japan).jpg
-assets.screenshot: Screenshot/Konami's Ping-Pong (Japan).jpg
 assets.video: Video/Konami's Ping-Pong (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -208,9 +181,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Magical Tree (Japan).jpg
-assets.boxback: BoxBack/Magical Tree (Japan).jpg
-assets.background: Background/Magical Tree (Japan).jpg
-assets.screenshot: Screenshot/Magical Tree (Japan).jpg
 assets.video: Video/Magical Tree (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -231,9 +201,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Mopiranger (Japan).jpg
-assets.boxback: BoxBack/Mopiranger (Japan).jpg
-assets.background: Background/Mopiranger (Japan).jpg
-assets.screenshot: Screenshot/Mopiranger (Japan).jpg
 assets.video: Video/Mopiranger (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -257,9 +224,6 @@ description:
 release: 1986-12-20
 players: 1
 assets.boxfront: BoxFront/Mugen Senshi Valis - The Fantasm Soldier (Japan).jpg
-assets.boxback: BoxBack/Mugen Senshi Valis - The Fantasm Soldier (Japan).jpg
-assets.background: Background/Mugen Senshi Valis - The Fantasm Soldier (Japan).jpg
-assets.screenshot: Screenshot/Mugen Senshi Valis - The Fantasm Soldier (Japan).jpg
 assets.video: Video/Mugen Senshi Valis - The Fantasm Soldier (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -281,9 +245,6 @@ description:
 release: 1985-05-29
 players: 2
 assets.boxfront: BoxFront/Nemesis (Japan, Europe).jpg
-assets.boxback: BoxBack/Nemesis (Japan, Europe).jpg
-assets.background: Background/Nemesis (Japan, Europe).jpg
-assets.screenshot: Screenshot/Nemesis (Japan, Europe).jpg
 assets.video: Video/Nemesis (Japan, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -315,9 +276,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Nemesis 2 (Japan, Europe).jpg
-assets.boxback: BoxBack/Nemesis 2 (Japan, Europe).jpg
-assets.background: Background/Nemesis 2 (Japan, Europe).jpg
-assets.screenshot: Screenshot/Nemesis 2 (Japan, Europe).jpg
 assets.video: Video/Nemesis 2 (Japan, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -343,9 +301,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Nemesis 3 - The Eve of Destruction (Japan, Europe).jpg
-assets.boxback: BoxBack/Nemesis 3 - The Eve of Destruction (Japan, Europe).jpg
-assets.background: Background/Nemesis 3 - The Eve of Destruction (Japan, Europe).jpg
-assets.screenshot: Screenshot/Nemesis 3 - The Eve of Destruction (Japan, Europe).jpg
 assets.video: Video/Nemesis 3 - The Eve of Destruction (Japan, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -365,9 +320,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Road Fighter (Japan).jpg
-assets.boxback: BoxBack/Road Fighter (Japan).jpg
-assets.background: Background/Road Fighter (Japan).jpg
-assets.screenshot: Screenshot/Road Fighter (Japan).jpg
 assets.video: Video/Road Fighter (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -387,9 +339,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Sky Jaguar (Japan).jpg
-assets.boxback: BoxBack/Sky Jaguar (Japan).jpg
-assets.background: Background/Sky Jaguar (Japan).jpg
-assets.screenshot: Screenshot/Sky Jaguar (Japan).jpg
 assets.video: Video/Sky Jaguar (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -408,9 +357,6 @@ description:
 release: 1981-03-01
 players: 2
 assets.boxfront: BoxFront/Super Cobra (Japan).jpg
-assets.boxback: BoxBack/Super Cobra (Japan).jpg
-assets.background: Background/Super Cobra (Japan).jpg
-assets.screenshot: Screenshot/Super Cobra (Japan).jpg
 assets.video: Video/Super Cobra (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -453,9 +399,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Twin Bee (Japan).jpg
-assets.boxback: BoxBack/Twin Bee (Japan).jpg
-assets.background: Background/Twin Bee (Japan).jpg
-assets.screenshot: Screenshot/Twin Bee (Japan).jpg
 assets.video: Video/Twin Bee (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -479,9 +422,6 @@ description:
 release: 1985-08-14
 players: 1
 assets.boxfront: BoxFront/Yie Ar Kung-Fu (Japan).jpg
-assets.boxback: BoxBack/Yie Ar Kung-Fu (Japan).jpg
-assets.background: Background/Yie Ar Kung-Fu (Japan).jpg
-assets.screenshot: Screenshot/Yie Ar Kung-Fu (Japan).jpg
 assets.video: Video/Yie Ar Kung-Fu (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -504,9 +444,6 @@ description:
 release: 1985-12-09
 players: 2
 assets.boxfront: BoxFront/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).jpg
-assets.boxback: BoxBack/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).jpg
-assets.background: Background/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).jpg
-assets.screenshot: Screenshot/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).jpg
 assets.video: Video/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).mp4
 x-co-op: No
 x-playable: Yes

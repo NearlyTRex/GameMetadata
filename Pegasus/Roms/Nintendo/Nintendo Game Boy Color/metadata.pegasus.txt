@@ -16,9 +16,6 @@ description:
 release: 2001-06-27
 players: 1
 assets.boxfront: BoxFront/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).jpg
-assets.background: Background/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).jpg
 assets.video: Video/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -41,8 +38,6 @@ release: 2000-01-24
 players: 1
 assets.boxfront: BoxFront/Bionic Commando - Elite Forces (USA, Australia).jpg
 assets.boxback: BoxBack/Bionic Commando - Elite Forces (USA, Australia).jpg
-assets.background: Background/Bionic Commando - Elite Forces (USA, Australia).jpg
-assets.screenshot: Screenshot/Bionic Commando - Elite Forces (USA, Australia).jpg
 assets.video: Video/Bionic Commando - Elite Forces (USA, Australia).mp4
 x-co-op: No
 x-playable: Yes
@@ -64,9 +59,6 @@ description:
 release: 2000-06-30
 players: 1
 assets.boxfront: BoxFront/Daikatana (USA) (Proto) (2000-04-19).jpg
-assets.boxback: BoxBack/Daikatana (USA) (Proto) (2000-04-19).jpg
-assets.background: Background/Daikatana (USA) (Proto) (2000-04-19).jpg
-assets.screenshot: Screenshot/Daikatana (USA) (Proto) (2000-04-19).jpg
 assets.video: Video/Daikatana (USA) (Proto) (2000-04-19).mp4
 x-co-op: No
 x-playable: Yes
@@ -96,9 +88,6 @@ description:
 release: 1999-12-01
 players: 1
 assets.boxfront: BoxFront/Deja Vu I & II - The Casebooks of Ace Harding (USA).jpg
-assets.boxback: BoxBack/Deja Vu I & II - The Casebooks of Ace Harding (USA).jpg
-assets.background: Background/Deja Vu I & II - The Casebooks of Ace Harding (USA).jpg
-assets.screenshot: Screenshot/Deja Vu I & II - The Casebooks of Ace Harding (USA).jpg
 assets.video: Video/Deja Vu I & II - The Casebooks of Ace Harding (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -117,9 +106,6 @@ description:
 release: 2000-12-22
 players: 1
 assets.boxfront: BoxFront/Grandia - Parallel Trippers (Japan).jpg
-assets.boxback: BoxBack/Grandia - Parallel Trippers (Japan).jpg
-assets.background: Background/Grandia - Parallel Trippers (Japan).jpg
-assets.screenshot: Screenshot/Grandia - Parallel Trippers (Japan).jpg
 assets.video: Video/Grandia - Parallel Trippers (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -144,9 +130,6 @@ description:
 release: 2001-11-14
 players: 1
 assets.boxfront: BoxFront/Harvest Moon 3 GBC (USA).jpg
-assets.boxback: BoxBack/Harvest Moon 3 GBC (USA).jpg
-assets.background: Background/Harvest Moon 3 GBC (USA).jpg
-assets.screenshot: Screenshot/Harvest Moon 3 GBC (USA).jpg
 assets.video: Video/Harvest Moon 3 GBC (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -175,8 +158,6 @@ release: 2001-05-14
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Oracle of Ages (USA).jpg
 assets.boxback: BoxBack/Legend of Zelda, The - Oracle of Ages (USA).jpg
-assets.background: Background/Legend of Zelda, The - Oracle of Ages (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Oracle of Ages (USA).jpg
 assets.video: Video/Legend of Zelda, The - Oracle of Ages (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -197,8 +178,6 @@ release: 2001-05-14
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The - Oracle of Seasons (USA).jpg
 assets.boxback: BoxBack/Legend of Zelda, The - Oracle of Seasons (USA).jpg
-assets.background: Background/Legend of Zelda, The - Oracle of Seasons (USA).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Oracle of Seasons (USA).jpg
 assets.video: Video/Legend of Zelda, The - Oracle of Seasons (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -221,9 +200,6 @@ description:
 release: 2001-09-20
 players: 1
 assets.boxfront: BoxFront/Lufia - The Legend Returns (USA).jpg
-assets.boxback: BoxBack/Lufia - The Legend Returns (USA).jpg
-assets.background: Background/Lufia - The Legend Returns (USA).jpg
-assets.screenshot: Screenshot/Lufia - The Legend Returns (USA).jpg
 assets.video: Video/Lufia - The Legend Returns (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -245,9 +221,6 @@ description:
 release: 1999-10-01
 players: 2
 assets.boxfront: BoxFront/Mario Golf (USA).jpg
-assets.boxback: BoxBack/Mario Golf (USA).jpg
-assets.background: Background/Mario Golf (USA).jpg
-assets.screenshot: Screenshot/Mario Golf (USA).jpg
 assets.video: Video/Mario Golf (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -268,9 +241,6 @@ description:
 release: 2001-06-16
 players: 2
 assets.boxfront: BoxFront/Mario Tennis (USA).jpg
-assets.boxback: BoxBack/Mario Tennis (USA).jpg
-assets.background: Background/Mario Tennis (USA).jpg
-assets.screenshot: Screenshot/Mario Tennis (USA).jpg
 assets.video: Video/Mario Tennis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -293,8 +263,6 @@ release: 2001-01-11
 players: 1
 assets.boxfront: BoxFront/Mega Man Xtreme (USA, Europe) (GB Compatible).jpg
 assets.boxback: BoxBack/Mega Man Xtreme (USA, Europe) (GB Compatible).jpg
-assets.background: Background/Mega Man Xtreme (USA, Europe) (GB Compatible).jpg
-assets.screenshot: Screenshot/Mega Man Xtreme (USA, Europe) (GB Compatible).jpg
 assets.video: Video/Mega Man Xtreme (USA, Europe) (GB Compatible).mp4
 x-co-op: No
 x-playable: Yes
@@ -317,8 +285,6 @@ release: 2001-10-30
 players: 1
 assets.boxfront: BoxFront/Mega Man Xtreme 2 (USA, Europe).jpg
 assets.boxback: BoxBack/Mega Man Xtreme 2 (USA, Europe).jpg
-assets.background: Background/Mega Man Xtreme 2 (USA, Europe).jpg
-assets.screenshot: Screenshot/Mega Man Xtreme 2 (USA, Europe).jpg
 assets.video: Video/Mega Man Xtreme 2 (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -352,8 +318,6 @@ release: 2000-08-28
 players: 1
 assets.boxfront: BoxFront/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).jpg
 assets.boxback: BoxBack/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).jpg
-assets.background: Background/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).jpg
-assets.screenshot: Screenshot/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).jpg
 assets.video: Video/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).mp4
 x-co-op: No
 x-playable: Yes
@@ -380,9 +344,6 @@ description:
 release: 2000-09-21
 players: 1
 assets.boxfront: BoxFront/Pokemon Puzzle Challenge (USA, Australia).jpg
-assets.boxback: BoxBack/Pokemon Puzzle Challenge (USA, Australia).jpg
-assets.background: Background/Pokemon Puzzle Challenge (USA, Australia).jpg
-assets.screenshot: Screenshot/Pokemon Puzzle Challenge (USA, Australia).jpg
 assets.video: Video/Pokemon Puzzle Challenge (USA, Australia).mp4
 x-co-op: No
 x-playable: Yes
@@ -413,9 +374,6 @@ description:
 release: 2000
 players: 1
 assets.boxfront: BoxFront/Resident Evil (World) (Proto 1).jpg
-assets.boxback: BoxBack/Resident Evil (World) (Proto 1).jpg
-assets.background: Background/Resident Evil (World) (Proto 1).jpg
-assets.screenshot: Screenshot/Resident Evil (World) (Proto 1).jpg
 assets.video: Video/Resident Evil (World) (Proto 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -446,9 +404,6 @@ description:
 release: 2000
 players: 1
 assets.boxfront: BoxFront/Resident Evil (World) (Proto 2).jpg
-assets.boxback: BoxBack/Resident Evil (World) (Proto 2).jpg
-assets.background: Background/Resident Evil (World) (Proto 2).jpg
-assets.screenshot: Screenshot/Resident Evil (World) (Proto 2).jpg
 assets.video: Video/Resident Evil (World) (Proto 2).mp4
 x-co-op: No
 x-playable: Yes
@@ -473,9 +428,6 @@ description:
 release: 1999-01-01
 players: 1
 assets.boxfront: BoxFront/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).jpg
-assets.boxback: BoxBack/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).jpg
-assets.background: Background/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).jpg
-assets.screenshot: Screenshot/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).jpg
 assets.video: Video/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).mp4
 x-co-op: No
 x-playable: Yes
@@ -503,8 +455,6 @@ release: 2002-06-02
 players: 1
 assets.boxfront: BoxFront/Shantae (USA).jpg
 assets.boxback: BoxBack/Shantae (USA).jpg
-assets.background: Background/Shantae (USA).jpg
-assets.screenshot: Screenshot/Shantae (USA).jpg
 assets.video: Video/Shantae (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -548,9 +498,6 @@ description:
 release: 2021-09-10
 players: 1
 assets.boxfront: BoxFront/Silver Falls - Galaxy Bound Curse (World).jpg
-assets.boxback: BoxBack/Silver Falls - Galaxy Bound Curse (World).jpg
-assets.background: Background/Silver Falls - Galaxy Bound Curse (World).jpg
-assets.screenshot: Screenshot/Silver Falls - Galaxy Bound Curse (World).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -575,8 +522,6 @@ release: 1999-04-30
 players: 2
 assets.boxfront: BoxFront/Super Mario Bros. Deluxe (USA, Europe).jpg
 assets.boxback: BoxBack/Super Mario Bros. Deluxe (USA, Europe).jpg
-assets.background: Background/Super Mario Bros. Deluxe (USA, Europe).jpg
-assets.screenshot: Screenshot/Super Mario Bros. Deluxe (USA, Europe).jpg
 assets.video: Video/Super Mario Bros. Deluxe (USA, Europe).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -598,9 +543,6 @@ description:
 release: 2000
 players: 1
 assets.boxfront: BoxFront/Towers II - Plight of the Stargazer (USA) (Proto 1).jpg
-assets.boxback: BoxBack/Towers II - Plight of the Stargazer (USA) (Proto 1).jpg
-assets.background: Background/Towers II - Plight of the Stargazer (USA) (Proto 1).jpg
-assets.screenshot: Screenshot/Towers II - Plight of the Stargazer (USA) (Proto 1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -621,9 +563,6 @@ description:
 release: 2000
 players: 1
 assets.boxfront: BoxFront/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09).jpg
-assets.boxback: BoxBack/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09).jpg
-assets.background: Background/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09).jpg
-assets.screenshot: Screenshot/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -645,8 +584,6 @@ release: 2000-05-30
 players: 1
 assets.boxfront: BoxFront/Wario Land 3 (World) (En,Ja).jpg
 assets.boxback: BoxBack/Wario Land 3 (World) (En,Ja).jpg
-assets.background: Background/Wario Land 3 (World) (En,Ja).jpg
-assets.screenshot: Screenshot/Wario Land 3 (World) (En,Ja).jpg
 assets.video: Video/Wario Land 3 (World) (En,Ja).mp4
 x-co-op: No
 x-playable: Yes
@@ -668,8 +605,6 @@ release: 1999-12-01
 players: 1
 assets.boxfront: BoxFront/Yoda Stories (USA, Europe).jpg
 assets.boxback: BoxBack/Yoda Stories (USA, Europe).jpg
-assets.background: Background/Yoda Stories (USA, Europe).jpg
-assets.screenshot: Screenshot/Yoda Stories (USA, Europe).jpg
 assets.video: Video/Yoda Stories (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes

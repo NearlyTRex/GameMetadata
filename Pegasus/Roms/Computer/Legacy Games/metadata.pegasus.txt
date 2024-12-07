@@ -4,31 +4,66 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Legacy Games" -n {file.basena
 
 game: Connected Hearts - Fortune Play Collector's Edition (USA)
 file: Computer/Legacy Games/C/Connected Hearts - Fortune Play Collector's Edition (USA)/Connected Hearts - Fortune Play Collector's Edition (USA).json
+developer: Domini Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Dreyer Crowley has a tough time growing up: he loses his parents and ends up in
+  an orphanage. As Dreyer grows older, he decides to put an end to an endless
+  streak of bad luck and restore his family's reputation. But there's one problem:
+  Dreyer's out of luck. Desperate, he decides to make a deal with Fortuna:
+  infinite luck in exchange for loving hearts. Beatrice and Franz are Dreyer's
+  next targets.
+  .
+  Solve tricky puzzles, outwit the villain's henchmen, and save the lovebirds.
+  .
+  Gather your wits for an unforgettable detective story in this pulse-pounded new
+  Hidden-Object Puzzle Adventure!
+release: 2022-08-14
 players: 1
+assets.video: Video/Connected Hearts - Fortune Play Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/15685/connected-hearts-fortune-play-ce
 x-co-op: No
 x-playable: Yes
 
 
 game: Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA)
 file: Computer/Legacy Games/D/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA)/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).json
+developer: Alawar Entertainment
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Inspired by the timeless tales of the Brothers Grimm, Dark Strokes: The Legend
+  of the Snow Kingdom offers an experience rich with magic and wonder. From its
+  breathtaking opening scene, in which a hunter saves a princess from an uncertain
+  fate at the hands of a Snow Knight, to its stunning conclusion, Dark Strokes 2
+  will captivate you with a world abounding in beauty and detail, puzzles and
+  mini-games unlike any you have solved, and a story of unprecedented depth.
+release: 2014-04-05
 players: 1
 assets.boxfront: BoxFront/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).jpg
-assets.boxback: BoxBack/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).jpg
-assets.background: Background/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).jpg
-assets.screenshot: Screenshot/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).jpg
 assets.video: Video/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/8767/dark-strokes-the-legend-of-snow-kingdom-ce
 x-co-op: No
 x-playable: Yes
 
 
 game: Forest Legends - The Call of Love Collector's Edition (USA)
 file: Computer/Legacy Games/F/Forest Legends - The Call of Love Collector's Edition (USA)/Forest Legends - The Call of Love Collector's Edition (USA).json
+developer: Alawar Entertainment
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Deep in the heart of an enchanted forest, a forbidden love blooms. Guide the
+  human Eveline as she sets out to rescue her beloved from the clutches of a
+  tyrant, learns the truth about magic and discovers her extraordinary destiny!
+  Epic in scope and exploring themes of love and belief, Forest Legends will
+  captivate you from beginning to end!
+release: 2013-08-03
 players: 1
 assets.boxfront: BoxFront/Forest Legends - The Call of Love Collector's Edition (USA).jpg
-assets.boxback: BoxBack/Forest Legends - The Call of Love Collector's Edition (USA).jpg
-assets.background: Background/Forest Legends - The Call of Love Collector's Edition (USA).jpg
-assets.screenshot: Screenshot/Forest Legends - The Call of Love Collector's Edition (USA).jpg
 assets.video: Video/Forest Legends - The Call of Love Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/6484/forest-legends-the-call-of-love-ce
 x-co-op: No
 x-playable: Yes
 

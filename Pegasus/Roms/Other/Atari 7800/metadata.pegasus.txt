@@ -20,9 +20,6 @@ description:
 release: 1987-11-01
 players: 2
 assets.boxfront: BoxFront/Asteroids (USA).jpg
-assets.boxback: BoxBack/Asteroids (USA).jpg
-assets.background: Background/Asteroids (USA).jpg
-assets.screenshot: Screenshot/Asteroids (USA).jpg
 assets.video: Video/Asteroids (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -47,9 +44,6 @@ description:
 release: 1990-06-03
 players: 2
 assets.boxfront: BoxFront/Basketbrawl (USA).jpg
-assets.boxback: BoxBack/Basketbrawl (USA).jpg
-assets.background: Background/Basketbrawl (USA).jpg
-assets.screenshot: Screenshot/Basketbrawl (USA).jpg
 assets.video: Video/Basketbrawl (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -66,9 +60,6 @@ description:
 release: 1987-06-01
 players: 2
 assets.boxfront: BoxFront/Centipede (USA).jpg
-assets.boxback: BoxBack/Centipede (USA).jpg
-assets.background: Background/Centipede (USA).jpg
-assets.screenshot: Screenshot/Centipede (USA).jpg
 assets.video: Video/Centipede (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -94,9 +85,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Dark Chambers (USA).jpg
-assets.boxback: BoxBack/Dark Chambers (USA).jpg
-assets.background: Background/Dark Chambers (USA).jpg
-assets.screenshot: Screenshot/Dark Chambers (USA).jpg
 assets.video: Video/Dark Chambers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -118,9 +106,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Donkey Kong (USA).jpg
-assets.boxback: BoxBack/Donkey Kong (USA).jpg
-assets.background: Background/Donkey Kong (USA).jpg
-assets.screenshot: Screenshot/Donkey Kong (USA).jpg
 assets.video: Video/Donkey Kong (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -151,9 +136,6 @@ description:
 release: 1990-01-01
 players: 1
 assets.boxfront: BoxFront/Fatal Run (USA).jpg
-assets.boxback: BoxBack/Fatal Run (USA).jpg
-assets.background: Background/Fatal Run (USA).jpg
-assets.screenshot: Screenshot/Fatal Run (USA).jpg
 assets.video: Video/Fatal Run (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -183,9 +165,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Ninja Golf (USA).jpg
-assets.boxback: BoxBack/Ninja Golf (USA).jpg
-assets.background: Background/Ninja Golf (USA).jpg
-assets.screenshot: Screenshot/Ninja Golf (USA).jpg
 assets.video: Video/Ninja Golf (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -210,9 +189,6 @@ description:
 release: 1990-01-01
 players: 1
 assets.boxfront: BoxFront/Scrapyard Dog (USA).jpg
-assets.boxback: BoxBack/Scrapyard Dog (USA).jpg
-assets.background: Background/Scrapyard Dog (USA).jpg
-assets.screenshot: Screenshot/Scrapyard Dog (USA).jpg
 assets.video: Video/Scrapyard Dog (USA).mp4
 x-co-op: No
 x-playable: Yes

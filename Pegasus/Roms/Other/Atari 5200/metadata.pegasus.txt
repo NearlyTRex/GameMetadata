@@ -28,9 +28,6 @@ description:
 release: 1982-05-11
 players: 4
 assets.boxfront: BoxFront/Asteroids (USA) (Proto).jpg
-assets.boxback: BoxBack/Asteroids (USA) (Proto).jpg
-assets.background: Background/Asteroids (USA) (Proto).jpg
-assets.screenshot: Screenshot/Asteroids (USA) (Proto).jpg
 assets.video: Video/Asteroids (USA) (Proto).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -52,9 +49,6 @@ description:
 release: 1984-03-01
 players: 1
 assets.boxfront: BoxFront/Bounty Bob Strikes Back! (USA).jpg
-assets.boxback: BoxBack/Bounty Bob Strikes Back! (USA).jpg
-assets.background: Background/Bounty Bob Strikes Back! (USA).jpg
-assets.screenshot: Screenshot/Bounty Bob Strikes Back! (USA).jpg
 assets.video: Video/Bounty Bob Strikes Back! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -76,9 +70,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Centipede (USA).jpg
-assets.boxback: BoxBack/Centipede (USA).jpg
-assets.background: Background/Centipede (USA).jpg
-assets.screenshot: Screenshot/Centipede (USA).jpg
 assets.video: Video/Centipede (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -109,9 +100,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Countermeasure (USA).jpg
-assets.boxback: BoxBack/Countermeasure (USA).jpg
-assets.background: Background/Countermeasure (USA).jpg
-assets.screenshot: Screenshot/Countermeasure (USA).jpg
 assets.video: Video/Countermeasure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -176,9 +164,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Final Legacy (USA) (Proto).jpg
-assets.boxback: BoxBack/Final Legacy (USA) (Proto).jpg
-assets.background: Background/Final Legacy (USA) (Proto).jpg
-assets.screenshot: Screenshot/Final Legacy (USA) (Proto).jpg
 assets.video: Video/Final Legacy (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -197,9 +182,6 @@ description:
 release: 1983-08-15
 players: 2
 assets.boxfront: BoxFront/Microgammon SB (USA) (Proto).jpg
-assets.boxback: BoxBack/Microgammon SB (USA) (Proto).jpg
-assets.background: Background/Microgammon SB (USA) (Proto).jpg
-assets.screenshot: Screenshot/Microgammon SB (USA) (Proto).jpg
 assets.video: Video/Microgammon SB (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -223,9 +205,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Millipede (USA) (Proto).jpg
-assets.boxback: BoxBack/Millipede (USA) (Proto).jpg
-assets.background: Background/Millipede (USA) (Proto).jpg
-assets.screenshot: Screenshot/Millipede (USA) (Proto).jpg
 assets.video: Video/Millipede (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -253,9 +232,6 @@ description:
 release: 1983-07-01
 players: 1
 assets.boxfront: BoxFront/Miner 2049er Starring Bounty Bob (USA).jpg
-assets.boxback: BoxBack/Miner 2049er Starring Bounty Bob (USA).jpg
-assets.background: Background/Miner 2049er Starring Bounty Bob (USA).jpg
-assets.screenshot: Screenshot/Miner 2049er Starring Bounty Bob (USA).jpg
 assets.video: Video/Miner 2049er Starring Bounty Bob (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -279,9 +255,6 @@ description:
 release: 1983-02-10
 players: 2
 assets.boxfront: BoxFront/Miniature Golf (USA) (Proto).jpg
-assets.boxback: BoxBack/Miniature Golf (USA) (Proto).jpg
-assets.background: Background/Miniature Golf (USA) (Proto).jpg
-assets.screenshot: Screenshot/Miniature Golf (USA) (Proto).jpg
 assets.video: Video/Miniature Golf (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes
@@ -304,9 +277,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Missile Command (USA).jpg
-assets.boxback: BoxBack/Missile Command (USA).jpg
-assets.background: Background/Missile Command (USA).jpg
-assets.screenshot: Screenshot/Missile Command (USA).jpg
 assets.video: Video/Missile Command (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -326,9 +296,6 @@ description:
 release: 1982-11-01
 players: 2
 assets.boxfront: BoxFront/Pac-Man (USA).jpg
-assets.boxback: BoxBack/Pac-Man (USA).jpg
-assets.background: Background/Pac-Man (USA).jpg
-assets.screenshot: Screenshot/Pac-Man (USA).jpg
 assets.video: Video/Pac-Man (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -358,9 +325,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/RealSports Baseball (USA).jpg
-assets.boxback: BoxBack/RealSports Baseball (USA).jpg
-assets.background: Background/RealSports Baseball (USA).jpg
-assets.screenshot: Screenshot/RealSports Baseball (USA).jpg
 assets.video: Video/RealSports Baseball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -385,9 +349,6 @@ description:
 release: 1983-05-27
 players: 2
 assets.boxfront: BoxFront/RealSports Basketball (USA).jpg
-assets.boxback: BoxBack/RealSports Basketball (USA).jpg
-assets.background: Background/RealSports Basketball (USA).jpg
-assets.screenshot: Screenshot/RealSports Basketball (USA).jpg
 assets.video: Video/RealSports Basketball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -409,9 +370,6 @@ description:
 release: 1982-06-01
 players: 2
 assets.boxfront: BoxFront/RealSports Football (USA).jpg
-assets.boxback: BoxBack/RealSports Football (USA).jpg
-assets.background: Background/RealSports Football (USA).jpg
-assets.screenshot: Screenshot/RealSports Football (USA).jpg
 assets.video: Video/RealSports Football (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -431,9 +389,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/RealSports Soccer (USA).jpg
-assets.boxback: BoxBack/RealSports Soccer (USA).jpg
-assets.background: Background/RealSports Soccer (USA).jpg
-assets.screenshot: Screenshot/RealSports Soccer (USA).jpg
 assets.video: Video/RealSports Soccer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -452,9 +407,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/RealSports Tennis (USA).jpg
-assets.boxback: BoxBack/RealSports Tennis (USA).jpg
-assets.background: Background/RealSports Tennis (USA).jpg
-assets.screenshot: Screenshot/RealSports Tennis (USA).jpg
 assets.video: Video/RealSports Tennis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -483,9 +435,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Star Raiders (USA).jpg
-assets.boxback: BoxBack/Star Raiders (USA).jpg
-assets.background: Background/Star Raiders (USA).jpg
-assets.screenshot: Screenshot/Star Raiders (USA).jpg
 assets.video: Video/Star Raiders (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -515,9 +464,6 @@ description:
 release: 1982-01-01
 players: 4
 assets.boxfront: BoxFront/Super Breakout (USA).jpg
-assets.boxback: BoxBack/Super Breakout (USA).jpg
-assets.background: Background/Super Breakout (USA).jpg
-assets.screenshot: Screenshot/Super Breakout (USA).jpg
 assets.video: Video/Super Breakout (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -558,9 +504,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Xari Arena (USA) (Proto).jpg
-assets.boxback: BoxBack/Xari Arena (USA) (Proto).jpg
-assets.background: Background/Xari Arena (USA) (Proto).jpg
-assets.screenshot: Screenshot/Xari Arena (USA) (Proto).jpg
 assets.video: Video/Xari Arena (USA) (Proto).mp4
 x-co-op: No
 x-playable: Yes

@@ -48,9 +48,6 @@ description:
 release: 1992-01-01
 players: 1
 assets.boxfront: BoxFront/B.C. Kid (Europe).jpg
-assets.boxback: BoxBack/B.C. Kid (Europe).jpg
-assets.background: Background/B.C. Kid (Europe).jpg
-assets.screenshot: Screenshot/B.C. Kid (Europe).jpg
 assets.video: Video/B.C. Kid (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -78,9 +75,6 @@ description:
 release: 1988-01-03
 players: 2
 assets.boxfront: BoxFront/Katakis (Europe) (v1.1).jpg
-assets.boxback: BoxBack/Katakis (Europe) (v1.1).jpg
-assets.background: Background/Katakis (Europe) (v1.1).jpg
-assets.screenshot: Screenshot/Katakis (Europe) (v1.1).jpg
 assets.video: Video/Katakis (Europe) (v1.1).mp4
 x-co-op: No
 x-playable: Yes
@@ -101,9 +95,6 @@ description:
 release: 1989-05-01
 players: 1
 assets.boxfront: BoxFront/R-Type (Europe).jpg
-assets.boxback: BoxBack/R-Type (Europe).jpg
-assets.background: Background/R-Type (Europe).jpg
-assets.screenshot: Screenshot/R-Type (Europe).jpg
 assets.video: Video/R-Type (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -127,9 +118,6 @@ description:
 release: 1990
 players: 1
 assets.boxfront: BoxFront/Turrican (Europe).jpg
-assets.boxback: BoxBack/Turrican (Europe).jpg
-assets.background: Background/Turrican (Europe).jpg
-assets.screenshot: Screenshot/Turrican (Europe).jpg
 assets.video: Video/Turrican (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -165,9 +153,6 @@ description:
 release: 1993
 players: 1
 assets.boxfront: BoxFront/Turrican 3 (Europe).jpg
-assets.boxback: BoxBack/Turrican 3 (Europe).jpg
-assets.background: Background/Turrican 3 (Europe).jpg
-assets.screenshot: Screenshot/Turrican 3 (Europe).jpg
 assets.video: Video/Turrican 3 (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -185,9 +170,6 @@ description:
 release: 1991
 players: 1
 assets.boxfront: BoxFront/Turrican II - The Final Fight (Europe).jpg
-assets.boxback: BoxBack/Turrican II - The Final Fight (Europe).jpg
-assets.background: Background/Turrican II - The Final Fight (Europe).jpg
-assets.screenshot: Screenshot/Turrican II - The Final Fight (Europe).jpg
 assets.video: Video/Turrican II - The Final Fight (Europe).mp4
 x-co-op: No
 x-playable: Yes

@@ -21,8 +21,6 @@ release: 1994-08-03
 players: 1
 assets.boxfront: BoxFront/Alone in the Dark (USA).jpg
 assets.boxback: BoxBack/Alone in the Dark (USA).jpg
-assets.background: Background/Alone in the Dark (USA).jpg
-assets.screenshot: Screenshot/Alone in the Dark (USA).jpg
 assets.video: Video/Alone in the Dark (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -43,8 +41,6 @@ release: 1995-09-08
 players: 1
 assets.boxfront: BoxFront/Alone in the Dark 2 (USA).jpg
 assets.boxback: BoxBack/Alone in the Dark 2 (USA).jpg
-assets.background: Background/Alone in the Dark 2 (USA).jpg
-assets.screenshot: Screenshot/Alone in the Dark 2 (USA).jpg
 assets.video: Video/Alone in the Dark 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -77,8 +73,6 @@ release: 1994-11-01
 players: 1
 assets.boxfront: BoxFront/Burning Soldier (USA, Korea).jpg
 assets.boxback: BoxBack/Burning Soldier (USA, Korea).jpg
-assets.background: Background/Burning Soldier (USA, Korea).jpg
-assets.screenshot: Screenshot/Burning Soldier (USA, Korea).jpg
 assets.video: Video/Burning Soldier (USA, Korea).mp4
 x-co-op: No
 x-playable: Yes
@@ -101,8 +95,6 @@ release: 1995-11-01
 players: 1
 assets.boxfront: BoxFront/DeathKeep (USA).jpg
 assets.boxback: BoxBack/DeathKeep (USA).jpg
-assets.background: Background/DeathKeep (USA).jpg
-assets.screenshot: Screenshot/DeathKeep (USA).jpg
 assets.video: Video/DeathKeep (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -125,8 +117,6 @@ release: 1994-04-29
 players: 1
 assets.boxfront: BoxFront/Doctor Hauzer (Japan).jpg
 assets.boxback: BoxBack/Doctor Hauzer (Japan).jpg
-assets.background: Background/Doctor Hauzer (Japan).jpg
-assets.screenshot: Screenshot/Doctor Hauzer (Japan).jpg
 assets.video: Video/Doctor Hauzer (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -149,8 +139,6 @@ release: 1993-10-25
 players: 1
 assets.boxfront: BoxFront/Escape from Monster Manor (USA).jpg
 assets.boxback: BoxBack/Escape from Monster Manor (USA).jpg
-assets.background: Background/Escape from Monster Manor (USA).jpg
-assets.screenshot: Screenshot/Escape from Monster Manor (USA).jpg
 assets.video: Video/Escape from Monster Manor (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -178,8 +166,6 @@ release: 1993-05-06
 players: 1
 assets.boxfront: BoxFront/Guardian War (USA, Korea).jpg
 assets.boxback: BoxBack/Guardian War (USA, Korea).jpg
-assets.background: Background/Guardian War (USA, Korea).jpg
-assets.screenshot: Screenshot/Guardian War (USA, Korea).jpg
 assets.video: Video/Guardian War (USA, Korea).mp4
 x-co-op: No
 x-playable: Yes
@@ -205,8 +191,6 @@ release: 1994-04-08
 players: 1
 assets.boxfront: BoxFront/Horde, The (Japan).jpg
 assets.boxback: BoxBack/Horde, The (Japan).jpg
-assets.background: Background/Horde, The (Japan).jpg
-assets.screenshot: Screenshot/Horde, The (Japan).jpg
 assets.video: Video/Horde, The (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -232,8 +216,6 @@ release: 1994-04-08
 players: 1
 assets.boxfront: BoxFront/Horde, The (USA).jpg
 assets.boxback: BoxBack/Horde, The (USA).jpg
-assets.background: Background/Horde, The (USA).jpg
-assets.screenshot: Screenshot/Horde, The (USA).jpg
 assets.video: Video/Horde, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -272,8 +254,6 @@ release: 1995-05-17
 players: 1
 assets.boxfront: BoxFront/Immercenary - Combat in a Digital World (USA).jpg
 assets.boxback: BoxBack/Immercenary - Combat in a Digital World (USA).jpg
-assets.background: Background/Immercenary - Combat in a Digital World (USA).jpg
-assets.screenshot: Screenshot/Immercenary - Combat in a Digital World (USA).jpg
 assets.video: Video/Immercenary - Combat in a Digital World (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -297,8 +277,6 @@ release: 1994-05-10
 players: 1
 assets.boxfront: BoxFront/Jurassic Park Interactive (USA).jpg
 assets.boxback: BoxBack/Jurassic Park Interactive (USA).jpg
-assets.background: Background/Jurassic Park Interactive (USA).jpg
-assets.screenshot: Screenshot/Jurassic Park Interactive (USA).jpg
 assets.video: Video/Jurassic Park Interactive (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -324,8 +302,6 @@ release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Kingdom - The Far Reaches (USA, Europe).jpg
 assets.boxback: BoxBack/Kingdom - The Far Reaches (USA, Europe).jpg
-assets.background: Background/Kingdom - The Far Reaches (USA, Europe).jpg
-assets.screenshot: Screenshot/Kingdom - The Far Reaches (USA, Europe).jpg
 assets.video: Video/Kingdom - The Far Reaches (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -350,8 +326,6 @@ release: 1995-09-14
 players: 1
 assets.boxfront: BoxFront/Lucienne's Quest (USA).jpg
 assets.boxback: BoxBack/Lucienne's Quest (USA).jpg
-assets.background: Background/Lucienne's Quest (USA).jpg
-assets.screenshot: Screenshot/Lucienne's Quest (USA).jpg
 assets.video: Video/Lucienne's Quest (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -375,8 +349,6 @@ release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Return Fire (USA).jpg
 assets.boxback: BoxBack/Return Fire (USA).jpg
-assets.background: Background/Return Fire (USA).jpg
-assets.screenshot: Screenshot/Return Fire (USA).jpg
 assets.video: Video/Return Fire (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -396,8 +368,6 @@ release: 1994-01-01
 players: 1
 assets.boxfront: BoxFront/Slayer (USA).jpg
 assets.boxback: BoxBack/Slayer (USA).jpg
-assets.background: Background/Slayer (USA).jpg
-assets.screenshot: Screenshot/Slayer (USA).jpg
 assets.video: Video/Slayer (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -423,8 +393,6 @@ release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Space Hulk - Vengeance of the Blood Angels (USA).jpg
 assets.boxback: BoxBack/Space Hulk - Vengeance of the Blood Angels (USA).jpg
-assets.background: Background/Space Hulk - Vengeance of the Blood Angels (USA).jpg
-assets.screenshot: Screenshot/Space Hulk - Vengeance of the Blood Angels (USA).jpg
 assets.video: Video/Space Hulk - Vengeance of the Blood Angels (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -446,8 +414,6 @@ release: 1995-08-29
 players: 1
 assets.boxfront: BoxFront/Total Eclipse (USA).jpg
 assets.boxback: BoxBack/Total Eclipse (USA).jpg
-assets.background: Background/Total Eclipse (USA).jpg
-assets.screenshot: Screenshot/Total Eclipse (USA).jpg
 assets.video: Video/Total Eclipse (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -483,8 +449,6 @@ release: 1995-10-19
 players: 1
 assets.boxfront: BoxFront/Wolfenstein 3D (USA).jpg
 assets.boxback: BoxBack/Wolfenstein 3D (USA).jpg
-assets.background: Background/Wolfenstein 3D (USA).jpg
-assets.screenshot: Screenshot/Wolfenstein 3D (USA).jpg
 assets.video: Video/Wolfenstein 3D (USA).mp4
 x-co-op: No
 x-playable: Yes

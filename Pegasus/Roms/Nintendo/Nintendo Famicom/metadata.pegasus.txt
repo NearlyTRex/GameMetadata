@@ -17,9 +17,6 @@ description:
 release: 1987-10-11
 players: 1
 assets.boxfront: BoxFront/ASO - Armored Scrum Object (Japan) (En).jpg
-assets.boxback: BoxBack/ASO - Armored Scrum Object (Japan) (En).jpg
-assets.background: Background/ASO - Armored Scrum Object (Japan) (En).jpg
-assets.screenshot: Screenshot/ASO - Armored Scrum Object (Japan) (En).jpg
 assets.video: Video/ASO - Armored Scrum Object (Japan) (En).mp4
 x-co-op: No
 x-playable: Yes
@@ -44,9 +41,6 @@ description:
 release: 1990-12-14
 players: 1
 assets.boxfront: BoxFront/Abarenbou Tengu (Japan).jpg
-assets.boxback: BoxBack/Abarenbou Tengu (Japan).jpg
-assets.background: Background/Abarenbou Tengu (Japan).jpg
-assets.screenshot: Screenshot/Abarenbou Tengu (Japan).jpg
 assets.video: Video/Abarenbou Tengu (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -80,9 +74,6 @@ description:
 release: 1989-12-22
 players: 1
 assets.boxfront: BoxFront/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.boxback: BoxBack/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.background: Background/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.screenshot: Screenshot/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection).jpg
 assets.video: Video/Akumajou Densetsu (World) (Ja) (Castlevania Anniversary Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -104,9 +95,6 @@ description:
 release: 1986-09-26
 players: 1
 assets.boxfront: BoxFront/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.boxback: BoxBack/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.background: Background/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.screenshot: Screenshot/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection).jpg
 assets.video: Video/Akumajou Dracula (World) (Ja) (Castlevania Anniversary Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -130,9 +118,6 @@ description:
 release: 1987-08-11
 players: 1
 assets.boxfront: BoxFront/Athena (Japan).jpg
-assets.boxback: BoxBack/Athena (Japan).jpg
-assets.background: Background/Athena (Japan).jpg
-assets.screenshot: Screenshot/Athena (Japan).jpg
 assets.video: Video/Athena (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -160,9 +145,6 @@ description:
 release: 1986-07-18
 players: 1
 assets.boxfront: BoxFront/Babel no Tou (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Babel no Tou (Japan) (Namcot Collection).jpg
-assets.background: Background/Babel no Tou (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Babel no Tou (Japan) (Namcot Collection).jpg
 assets.video: Video/Babel no Tou (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -187,9 +169,6 @@ description:
 release: 1985-09-09
 players: 2
 assets.boxfront: BoxFront/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).jpg
-assets.boxback: BoxBack/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).jpg
-assets.background: Background/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).jpg
-assets.screenshot: Screenshot/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).jpg
 assets.video: Video/BattleCity (World) (Ja) (Namcot Collection, Namco Museum Archives Vol 2).mp4
 x-co-op: No
 x-playable: Yes
@@ -213,9 +192,6 @@ description:
 release: 1992-06-26
 players: 2
 assets.boxfront: BoxFront/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).jpg
-assets.boxback: BoxBack/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).jpg
-assets.background: Background/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).jpg
-assets.screenshot: Screenshot/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).jpg
 assets.video: Video/Bikkuri Nekketsu Shin Kiroku! - Harukanaru Kin Medal (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -244,9 +220,6 @@ description:
 release: 1990-10-19
 players: 1
 assets.boxfront: BoxFront/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.boxback: BoxBack/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.background: Background/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection).jpg
-assets.screenshot: Screenshot/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection).jpg
 assets.video: Video/Boku Dracula-kun (World) (Ja) (Castlevania Anniversary Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -271,9 +244,6 @@ description:
 release: 1988-02-02
 players: 2
 assets.boxfront: BoxFront/Contra (World) (Ja) (Contra Anniversary Collection).jpg
-assets.boxback: BoxBack/Contra (World) (Ja) (Contra Anniversary Collection).jpg
-assets.background: Background/Contra (World) (Ja) (Contra Anniversary Collection).jpg
-assets.screenshot: Screenshot/Contra (World) (Ja) (Contra Anniversary Collection).jpg
 assets.video: Video/Contra (World) (Ja) (Contra Anniversary Collection).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -297,9 +267,6 @@ description:
 release: 1985-06-04
 players: 2
 assets.boxfront: BoxFront/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.boxback: BoxBack/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.background: Background/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.screenshot: Screenshot/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
 assets.video: Video/Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -323,9 +290,6 @@ description:
 release: 1986-04-18
 players: 1
 assets.boxfront: BoxFront/Dig Dug II (Japan).jpg
-assets.boxback: BoxBack/Dig Dug II (Japan).jpg
-assets.background: Background/Dig Dug II (Japan).jpg
-assets.screenshot: Screenshot/Dig Dug II (Japan).jpg
 assets.video: Video/Dig Dug II (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -366,9 +330,6 @@ description:
 release: 1987-09-11
 players: 1
 assets.boxfront: BoxFront/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).jpg
-assets.background: Background/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).jpg
 assets.video: Video/Digital Devil Story - Megami Tensei (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -402,9 +363,6 @@ description:
 release: 1990-10-12
 players: 4
 assets.boxfront: BoxFront/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).jpg
-assets.boxback: BoxBack/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).jpg
-assets.background: Background/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).jpg
-assets.screenshot: Screenshot/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).jpg
 assets.video: Video/Downtown - Nekketsu Koushinkyoku - Soreyuke Daiundoukai (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -424,9 +382,6 @@ description:
 release: 1989-04-25
 players: 1
 assets.boxfront: BoxFront/Downtown - Nekketsu Monogatari (Japan).jpg
-assets.boxback: BoxBack/Downtown - Nekketsu Monogatari (Japan).jpg
-assets.background: Background/Downtown - Nekketsu Monogatari (Japan).jpg
-assets.screenshot: Screenshot/Downtown - Nekketsu Monogatari (Japan).jpg
 assets.video: Video/Downtown - Nekketsu Monogatari (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -461,9 +416,6 @@ description:
 release: 1991-07-26
 players: 2
 assets.boxfront: BoxFront/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).jpg
-assets.boxback: BoxBack/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).jpg
-assets.background: Background/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).jpg
-assets.screenshot: Screenshot/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).jpg
 assets.video: Video/Downtown Special - Kunio-kun no Jidaigeki Da yo Zenin Shuugou! (Japan).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -488,9 +440,6 @@ description:
 release: 1987-01-07
 players: 1
 assets.boxfront: BoxFront/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.boxback: BoxBack/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.background: Background/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.screenshot: Screenshot/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
 assets.video: Video/Dragon Buster (World) (Namcot Collection, Namco Museum Archives Vol 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -514,9 +463,6 @@ description:
 release: 1989-04-14
 players: 1
 assets.boxfront: BoxFront/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).jpg
-assets.background: Background/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).jpg
 assets.video: Video/Dragon Spirit - Aratanaru Densetsu (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -552,9 +498,6 @@ description:
 release: 1985-08-06
 players: 1
 assets.boxfront: BoxFront/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.boxback: BoxBack/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.background: Background/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.screenshot: Screenshot/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
 assets.video: Video/Druaga no Tou (World) (Namcot Collection, Namco Museum Archives Vol 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -591,9 +534,6 @@ description:
 release: 1988-01-06
 players: 1
 assets.boxfront: BoxFront/Family Circuit (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Family Circuit (Japan) (Namcot Collection).jpg
-assets.background: Background/Family Circuit (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Family Circuit (Japan) (Namcot Collection).jpg
 assets.video: Video/Family Circuit (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -619,9 +559,6 @@ description:
 release: 1987-04-24
 players: 2
 assets.boxfront: BoxFront/Family Jockey (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Family Jockey (Japan) (Namcot Collection).jpg
-assets.background: Background/Family Jockey (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Family Jockey (Japan) (Namcot Collection).jpg
 assets.video: Video/Family Jockey (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -647,9 +584,6 @@ description:
 release: 1989-03-24
 players: 1
 assets.boxfront: BoxFront/Family Pinball (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Family Pinball (Japan) (Namcot Collection).jpg
-assets.background: Background/Family Pinball (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Family Pinball (Japan) (Namcot Collection).jpg
 assets.video: Video/Family Pinball (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -671,9 +605,6 @@ description:
 release: 1984-09-07
 players: 2
 assets.boxfront: BoxFront/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.boxback: BoxBack/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.background: Background/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.screenshot: Screenshot/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
 assets.video: Video/Galaxian (World) (Namcot Collection, Namco Museum Archives Vol 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -706,9 +637,6 @@ description:
 release: 1990-07-11
 players: 1
 assets.boxfront: BoxFront/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).jpg
-assets.boxback: BoxBack/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).jpg
-assets.background: Background/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).jpg
-assets.screenshot: Screenshot/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).jpg
 assets.video: Video/God Slayer - Haruka Tenkuu no Sonata (Japan) (SNK 40th Anniversary Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -731,9 +659,6 @@ description:
 release: 1988-07-11
 players: 1
 assets.boxfront: BoxFront/Great Tank (Japan) (SNK 40th Anniversary Collection).jpg
-assets.boxback: BoxBack/Great Tank (Japan) (SNK 40th Anniversary Collection).jpg
-assets.background: Background/Great Tank (Japan) (SNK 40th Anniversary Collection).jpg
-assets.screenshot: Screenshot/Great Tank (Japan) (SNK 40th Anniversary Collection).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -752,9 +677,6 @@ description:
 release: 1987-05-11
 players: 1
 assets.boxfront: BoxFront/Ikari (Japan).jpg
-assets.boxback: BoxBack/Ikari (Japan).jpg
-assets.background: Background/Ikari (Japan).jpg
-assets.screenshot: Screenshot/Ikari (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -784,9 +706,6 @@ description:
 release: 1988-04-11
 players: 1
 assets.boxfront: BoxFront/Ikari II - Dogosoken (Japan).jpg
-assets.boxback: BoxBack/Ikari II - Dogosoken (Japan).jpg
-assets.background: Background/Ikari II - Dogosoken (Japan).jpg
-assets.screenshot: Screenshot/Ikari II - Dogosoken (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -813,9 +732,6 @@ description:
 release: 1991-02-11
 players: 1
 assets.boxfront: BoxFront/Ikari III (Japan).jpg
-assets.boxback: BoxBack/Ikari III (Japan).jpg
-assets.background: Background/Ikari III (Japan).jpg
-assets.screenshot: Screenshot/Ikari III (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -846,9 +762,6 @@ description:
 release: 1992-02-07
 players: 4
 assets.boxfront: BoxFront/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan).jpg
-assets.boxback: BoxBack/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan).jpg
-assets.background: Background/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan).jpg
-assets.screenshot: Screenshot/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan).jpg
 assets.video: Video/Ike Ike! Nekketsu Hockey-bu - Subette Koronde Dairantou (Japan).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -865,9 +778,6 @@ description:
 release: 1988-11-18
 players: 1
 assets.boxfront: BoxFront/Kaijuu Monogatari (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Kaijuu Monogatari (Japan) (Namcot Collection).jpg
-assets.background: Background/Kaijuu Monogatari (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Kaijuu Monogatari (Japan) (Namcot Collection).jpg
 assets.video: Video/Kaijuu Monogatari (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -911,9 +821,6 @@ description:
 release: 1988-07-22
 players: 1
 assets.boxfront: BoxFront/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).jpg
-assets.background: Background/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).jpg
 assets.video: Video/Ki no Bouken - The Quest of Ki (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -933,9 +840,6 @@ description:
 release: 1988-12-09
 players: 1
 assets.boxfront: BoxFront/King of Kings (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/King of Kings (Japan) (Namcot Collection).jpg
-assets.background: Background/King of Kings (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/King of Kings (Japan) (Namcot Collection).jpg
 assets.video: Video/King of Kings (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -952,9 +856,6 @@ description:
 release: 1993-04-23
 players: 4
 assets.boxfront: BoxFront/Kunio-kun no Nekketsu Soccer League (Japan).jpg
-assets.boxback: BoxBack/Kunio-kun no Nekketsu Soccer League (Japan).jpg
-assets.background: Background/Kunio-kun no Nekketsu Soccer League (Japan).jpg
-assets.screenshot: Screenshot/Kunio-kun no Nekketsu Soccer League (Japan).jpg
 assets.video: Video/Kunio-kun no Nekketsu Soccer League (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -978,9 +879,6 @@ description:
 release: 1984-11-14
 players: 1
 assets.boxfront: BoxFront/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.boxback: BoxBack/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.background: Background/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
-assets.screenshot: Screenshot/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).jpg
 assets.video: Video/Mappy (World) (Namcot Collection, Namco Museum Archives Vol 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -1024,9 +922,6 @@ description:
 release: 1986-12-16
 players: 2
 assets.boxfront: BoxFront/Metro-Cross (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Metro-Cross (Japan) (Namcot Collection).jpg
-assets.background: Background/Metro-Cross (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Metro-Cross (Japan) (Namcot Collection).jpg
 assets.video: Video/Metro-Cross (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1047,9 +942,6 @@ description:
 release: 1992-03-13
 players: 4
 assets.boxfront: BoxFront/Namco Classic II (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Namco Classic II (Japan) (Namcot Collection).jpg
-assets.background: Background/Namco Classic II (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Namco Classic II (Japan) (Namcot Collection).jpg
 assets.video: Video/Namco Classic II (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1074,9 +966,6 @@ description:
 release: 1986-04-14
 players: 1
 assets.boxfront: BoxFront/Nazo no Murasamejou (Japan).jpg
-assets.boxback: BoxBack/Nazo no Murasamejou (Japan).jpg
-assets.background: Background/Nazo no Murasamejou (Japan).jpg
-assets.screenshot: Screenshot/Nazo no Murasamejou (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1109,9 +998,6 @@ description:
 release: 1992-12-23
 players: 4
 assets.boxfront: BoxFront/Nekketsu Kakutou Densetsu (Japan).jpg
-assets.boxback: BoxBack/Nekketsu Kakutou Densetsu (Japan).jpg
-assets.background: Background/Nekketsu Kakutou Densetsu (Japan).jpg
-assets.screenshot: Screenshot/Nekketsu Kakutou Densetsu (Japan).jpg
 assets.video: Video/Nekketsu Kakutou Densetsu (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -1130,9 +1016,6 @@ description:
 release: 1986-05-01
 players: 2
 assets.boxfront: BoxFront/Nekketsu Kouha Kunio-kun (Japan).jpg
-assets.boxback: BoxBack/Nekketsu Kouha Kunio-kun (Japan).jpg
-assets.background: Background/Nekketsu Kouha Kunio-kun (Japan).jpg
-assets.screenshot: Screenshot/Nekketsu Kouha Kunio-kun (Japan).jpg
 assets.video: Video/Nekketsu Kouha Kunio-kun (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -1164,9 +1047,6 @@ description:
 release: 1987
 players: 2
 assets.boxfront: BoxFront/Nekketsu Koukou Dodgeball-bu (Japan).jpg
-assets.boxback: BoxBack/Nekketsu Koukou Dodgeball-bu (Japan).jpg
-assets.background: Background/Nekketsu Koukou Dodgeball-bu (Japan).jpg
-assets.screenshot: Screenshot/Nekketsu Koukou Dodgeball-bu (Japan).jpg
 assets.video: Video/Nekketsu Koukou Dodgeball-bu (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -1189,9 +1069,6 @@ description:
 release: 1990-05-18
 players: 1
 assets.boxfront: BoxFront/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).jpg
-assets.boxback: BoxBack/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).jpg
-assets.background: Background/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).jpg
-assets.screenshot: Screenshot/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).jpg
 assets.video: Video/Nekketsu Koukou Dodgeball-bu - Soccer Hen (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -1226,9 +1103,6 @@ description:
 release: 1993-12-22
 players: 2
 assets.boxfront: BoxFront/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).jpg
-assets.boxback: BoxBack/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).jpg
-assets.background: Background/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).jpg
-assets.screenshot: Screenshot/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).jpg
 assets.video: Video/Nekketsu! Street Basket - Ganbare Dunk Heroes (Japan).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1257,9 +1131,6 @@ description:
 release: 1985-11-21
 players: 1
 assets.boxfront: BoxFront/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).jpg
-assets.boxback: BoxBack/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).jpg
-assets.background: Background/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).jpg
-assets.screenshot: Screenshot/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).jpg
 assets.video: Video/Pac-Land (World) (Namcot Collection, Namco Museum Archives Vol 2).mp4
 x-co-op: No
 x-playable: Yes
@@ -1281,9 +1152,6 @@ description:
 release: 2020-06-18
 players: 1
 assets.boxfront: BoxFront/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).jpg
-assets.boxback: BoxBack/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).jpg
-assets.background: Background/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).jpg
-assets.screenshot: Screenshot/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).jpg
 assets.video: Video/Pac-Man Championship Edition (Japan) (En) (Namcot Collection) (Aftermarket).mp4
 x-co-op: No
 x-playable: Yes
@@ -1302,9 +1170,6 @@ description:
 release: 1989-06-27
 players: 1
 assets.boxfront: BoxFront/Quinty (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Quinty (Japan) (Namcot Collection).jpg
-assets.background: Background/Quinty (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Quinty (Japan) (Namcot Collection).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1333,9 +1198,6 @@ description:
 release: 1987-12-17
 players: 1
 assets.boxfront: BoxFront/Rockman (Japan) (En).jpg
-assets.boxback: BoxBack/Rockman (Japan) (En).jpg
-assets.background: Background/Rockman (Japan) (En).jpg
-assets.screenshot: Screenshot/Rockman (Japan) (En).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1356,9 +1218,6 @@ description:
 release: 1988-12-24
 players: 1
 assets.boxfront: BoxFront/Rockman 2 - Dr. Wily no Nazo (Japan).jpg
-assets.boxback: BoxBack/Rockman 2 - Dr. Wily no Nazo (Japan).jpg
-assets.background: Background/Rockman 2 - Dr. Wily no Nazo (Japan).jpg
-assets.screenshot: Screenshot/Rockman 2 - Dr. Wily no Nazo (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1379,9 +1238,6 @@ description:
 release: 1990-09-28
 players: 1
 assets.boxfront: BoxFront/Rockman 3 - Dr. Wily no Saigo! (Japan).jpg
-assets.boxback: BoxBack/Rockman 3 - Dr. Wily no Saigo! (Japan).jpg
-assets.background: Background/Rockman 3 - Dr. Wily no Saigo! (Japan).jpg
-assets.screenshot: Screenshot/Rockman 3 - Dr. Wily no Saigo! (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1402,9 +1258,6 @@ description:
 release: 1991-12-06
 players: 1
 assets.boxfront: BoxFront/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1).jpg
-assets.boxback: BoxBack/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1).jpg
-assets.background: Background/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1).jpg
-assets.screenshot: Screenshot/Rockman 4 - Aratanaru Yabou!! (Japan) (Rev 1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1427,9 +1280,6 @@ description:
 release: 1992-12-04
 players: 1
 assets.boxfront: BoxFront/Rockman 5 - Blues no Wana! (Japan).jpg
-assets.boxback: BoxBack/Rockman 5 - Blues no Wana! (Japan).jpg
-assets.background: Background/Rockman 5 - Blues no Wana! (Japan).jpg
-assets.screenshot: Screenshot/Rockman 5 - Blues no Wana! (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1450,9 +1300,6 @@ description:
 release: 1993-11-05
 players: 1
 assets.boxfront: BoxFront/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).jpg
-assets.boxback: BoxBack/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).jpg
-assets.background: Background/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).jpg
-assets.screenshot: Screenshot/Rockman 6 - Shijou Saidai no Tatakai!! (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1470,9 +1317,6 @@ description:
 release: 1989-07-31
 players: 1
 assets.boxfront: BoxFront/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection).jpg
-assets.boxback: BoxBack/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection).jpg
-assets.background: Background/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection).jpg
 assets.video: Video/Splatterhouse - Wanpaku Graffiti (World) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1504,9 +1348,6 @@ description:
 release: 1985-12-06
 players: 1
 assets.boxfront: BoxFront/Star Luster (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Star Luster (Japan) (Namcot Collection).jpg
-assets.background: Background/Star Luster (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Star Luster (Japan) (Namcot Collection).jpg
 assets.video: Video/Star Luster (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1527,8 +1368,6 @@ release: 1992-07-17
 players: 1
 assets.boxfront: BoxFront/Summer Carnival '92 - Recca (Japan) (En).jpg
 assets.boxback: BoxBack/Summer Carnival '92 - Recca (Japan) (En).jpg
-assets.background: Background/Summer Carnival '92 - Recca (Japan) (En).jpg
-assets.screenshot: Screenshot/Summer Carnival '92 - Recca (Japan) (En).jpg
 assets.video: Video/Summer Carnival '92 - Recca (Japan) (En).mp4
 x-co-op: No
 x-playable: Yes
@@ -1555,9 +1394,6 @@ description:
 release: 1990-02-02
 players: 2
 assets.boxfront: BoxFront/Super Contra (World) (Ja) (Contra Anniversary Collection).jpg
-assets.boxback: BoxBack/Super Contra (World) (Ja) (Contra Anniversary Collection).jpg
-assets.background: Background/Super Contra (World) (Ja) (Contra Anniversary Collection).jpg
-assets.screenshot: Screenshot/Super Contra (World) (Ja) (Contra Anniversary Collection).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1579,9 +1415,6 @@ description:
 release: 1988-10-01
 players: 1
 assets.boxfront: BoxFront/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl).jpg
-assets.boxback: BoxBack/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl).jpg
-assets.background: Background/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl).jpg
-assets.screenshot: Screenshot/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl).jpg
 assets.video: Video/Super Mario Bros. 2 (Japan) (Lost Levels) (Unl).mp4
 x-co-op: No
 x-playable: Yes
@@ -1611,9 +1444,6 @@ description:
 release: 1986-09-19
 players: 1
 assets.boxfront: BoxFront/Super Xevious - Gump no Nazo (Japan).jpg
-assets.boxback: BoxBack/Super Xevious - Gump no Nazo (Japan).jpg
-assets.background: Background/Super Xevious - Gump no Nazo (Japan).jpg
-assets.screenshot: Screenshot/Super Xevious - Gump no Nazo (Japan).jpg
 assets.video: Video/Super Xevious - Gump no Nazo (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -1646,9 +1476,6 @@ description:
 release: 1989-07-21
 players: 2
 assets.boxfront: BoxFront/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).jpg
-assets.background: Background/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).jpg
 assets.video: Video/Tenkaichi Bushi - Keru Naguuru (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1682,9 +1509,6 @@ description:
 release: 1986-08-01
 players: 1
 assets.boxfront: BoxFront/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).jpg
-assets.background: Background/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).jpg
 assets.video: Video/Valkyrie no Bouken - Toki no Kagi Densetsu (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1706,9 +1530,6 @@ description:
 release: 1984-11-30
 players: 2
 assets.boxfront: BoxFront/Vs. Excitebike (Japan) (En).jpg
-assets.boxback: BoxBack/Vs. Excitebike (Japan) (En).jpg
-assets.background: Background/Vs. Excitebike (Japan) (En).jpg
-assets.screenshot: Screenshot/Vs. Excitebike (Japan) (En).jpg
 assets.video: Video/Vs. Excitebike (Japan) (En).mp4
 x-co-op: No
 x-playable: Yes
@@ -1728,9 +1549,6 @@ description:
 release: 1990-12-14
 players: 1
 assets.boxfront: BoxFront/Wagyan Land (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Wagyan Land (Japan) (Namcot Collection).jpg
-assets.background: Background/Wagyan Land (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Wagyan Land (Japan) (Namcot Collection).jpg
 assets.video: Video/Wagyan Land (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1770,9 +1588,6 @@ description:
 release: 1985-07-12
 players: 2
 assets.boxfront: BoxFront/Warpman (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Warpman (Japan) (Namcot Collection).jpg
-assets.background: Background/Warpman (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Warpman (Japan) (Namcot Collection).jpg
 assets.video: Video/Warpman (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1796,9 +1611,6 @@ description:
 release: 1988-06-24
 players: 2
 assets.boxfront: BoxFront/Youkai Douchuuki (Japan) (Namcot Collection).jpg
-assets.boxback: BoxBack/Youkai Douchuuki (Japan) (Namcot Collection).jpg
-assets.background: Background/Youkai Douchuuki (Japan) (Namcot Collection).jpg
-assets.screenshot: Screenshot/Youkai Douchuuki (Japan) (Namcot Collection).jpg
 assets.video: Video/Youkai Douchuuki (Japan) (Namcot Collection).mp4
 x-co-op: No
 x-playable: Yes
@@ -1829,9 +1641,6 @@ description:
 release: 2005
 players: 1
 assets.boxfront: BoxFront/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII).jpg
-assets.boxback: BoxBack/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII).jpg
-assets.background: Background/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII).jpg
-assets.screenshot: Screenshot/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1861,9 +1670,6 @@ description:
 release: 2005
 players: 1
 assets.boxfront: BoxFront/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch).jpg
-assets.boxback: BoxBack/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch).jpg
-assets.background: Background/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch).jpg
-assets.screenshot: Screenshot/Zui Zhong Huan Xiang 7 (China) (Final Fantasy VII) (English Patch).jpg
 x-co-op: No
 x-playable: Yes
 

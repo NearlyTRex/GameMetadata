@@ -23,9 +23,6 @@ description:
 release: 1995-09-28
 players: 1
 assets.boxfront: BoxFront/Mario Clash (Japan, USA).jpg
-assets.boxback: BoxBack/Mario Clash (Japan, USA).jpg
-assets.background: Background/Mario Clash (Japan, USA).jpg
-assets.screenshot: Screenshot/Mario Clash (Japan, USA).jpg
 assets.video: Video/Mario Clash (Japan, USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -47,9 +44,6 @@ description:
 release: 1995-11-27
 players: 1
 assets.boxfront: BoxFront/Virtual Boy Wario Land (Japan, USA).jpg
-assets.boxback: BoxBack/Virtual Boy Wario Land (Japan, USA).jpg
-assets.background: Background/Virtual Boy Wario Land (Japan, USA).jpg
-assets.screenshot: Screenshot/Virtual Boy Wario Land (Japan, USA).jpg
 assets.video: Video/Virtual Boy Wario Land (Japan, USA).mp4
 x-co-op: No
 x-playable: Yes

@@ -25,9 +25,6 @@ description:
 release: 2010-05-11
 players: 1
 assets.boxfront: BoxFront/3D Dot Game Heroes (USA).jpg
-assets.boxback: BoxBack/3D Dot Game Heroes (USA).jpg
-assets.background: Background/3D Dot Game Heroes (USA).jpg
-assets.screenshot: Screenshot/3D Dot Game Heroes (USA).jpg
 assets.video: Video/3D Dot Game Heroes (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -51,9 +48,6 @@ description:
 release: 2011-06-14
 players: 1
 assets.boxfront: BoxFront/Alice - Madness Returns (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Alice - Madness Returns (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Alice - Madness Returns (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Alice - Madness Returns (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -76,9 +70,6 @@ description:
 release: 2014-10-07
 players: 1
 assets.boxfront: BoxFront/Alien - Isolation (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Alien - Isolation (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Alien - Isolation (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Alien - Isolation (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -99,9 +90,6 @@ description:
 release: 2008-11-18
 players: 1
 assets.boxfront: BoxFront/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -120,9 +108,6 @@ description:
 release: 2010-11-16
 players: 1
 assets.boxfront: BoxFront/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It).jpg
-assets.boxback: BoxBack/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It).jpg
-assets.background: Background/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It).jpg
-assets.screenshot: Screenshot/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -151,9 +136,6 @@ description:
 release: 2011-11-15
 players: 1
 assets.boxfront: BoxFront/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition).jpg
-assets.boxback: BoxBack/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition).jpg
-assets.background: Background/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition).jpg
-assets.screenshot: Screenshot/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -179,9 +161,6 @@ description:
 release: 2011-10-25
 players: 1
 assets.boxfront: BoxFront/Back to the Future - The Game (USA) (En,Fr,De).jpg
-assets.boxback: BoxBack/Back to the Future - The Game (USA) (En,Fr,De).jpg
-assets.background: Background/Back to the Future - The Game (USA) (En,Fr,De).jpg
-assets.screenshot: Screenshot/Back to the Future - The Game (USA) (En,Fr,De).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -210,9 +189,6 @@ description:
 release: 2009-08-25
 players: 1
 assets.boxfront: BoxFront/Batman - Arkham Asylum - Game of the Year Edition (USA).jpg
-assets.boxback: BoxBack/Batman - Arkham Asylum - Game of the Year Edition (USA).jpg
-assets.background: Background/Batman - Arkham Asylum - Game of the Year Edition (USA).jpg
-assets.screenshot: Screenshot/Batman - Arkham Asylum - Game of the Year Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -238,9 +214,6 @@ description:
 release: 2011-10-18
 players: 1
 assets.boxfront: BoxFront/Batman - Arkham City - Game of the Year Edition (USA).jpg
-assets.boxback: BoxBack/Batman - Arkham City - Game of the Year Edition (USA).jpg
-assets.background: Background/Batman - Arkham City - Game of the Year Edition (USA).jpg
-assets.screenshot: Screenshot/Batman - Arkham City - Game of the Year Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -265,9 +238,6 @@ description:
 release: 2013-06-25
 players: 4
 assets.boxfront: BoxFront/Best of PlayStation Network Vol. 1 (USA).jpg
-assets.boxback: BoxBack/Best of PlayStation Network Vol. 1 (USA).jpg
-assets.background: Background/Best of PlayStation Network Vol. 1 (USA).jpg
-assets.screenshot: Screenshot/Best of PlayStation Network Vol. 1 (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -288,9 +258,6 @@ description:
 release: 2013-10-08
 players: 1
 assets.boxfront: BoxFront/Beyond - Two Souls (USA) (En,Fr).jpg
-assets.boxback: BoxBack/Beyond - Two Souls (USA) (En,Fr).jpg
-assets.background: Background/Beyond - Two Souls (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/Beyond - Two Souls (USA) (En,Fr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -311,9 +278,6 @@ description:
 release: 2012-06-26
 players: 1
 assets.boxfront: BoxFront/Biohazard - Chronicles HD Selection (Japan).jpg
-assets.boxback: BoxBack/Biohazard - Chronicles HD Selection (Japan).jpg
-assets.background: Background/Biohazard - Chronicles HD Selection (Japan).jpg
-assets.screenshot: Screenshot/Biohazard - Chronicles HD Selection (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -375,9 +339,6 @@ description:
 release: 2002-03-22
 players: 1
 assets.boxfront: BoxFront/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -396,9 +357,6 @@ description:
 release: 2008-09-08
 players: 1
 assets.boxfront: BoxFront/Biohazard - Revival Selection (Japan).jpg
-assets.boxback: BoxBack/Biohazard - Revival Selection (Japan).jpg
-assets.background: Background/Biohazard - Revival Selection (Japan).jpg
-assets.screenshot: Screenshot/Biohazard - Revival Selection (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -418,9 +376,6 @@ description:
 release: 2016-01-19
 players: 1
 assets.boxfront: BoxFront/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -441,9 +396,6 @@ description:
 release: 2009-05-19
 players: 1
 assets.boxfront: BoxFront/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.boxback: BoxBack/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.background: Background/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.screenshot: Screenshot/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -482,9 +434,6 @@ description:
 release: 2015-11-17
 players: 4
 assets.boxfront: BoxFront/Borderlands Triple Pack (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Borderlands Triple Pack (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Borderlands Triple Pack (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Borderlands Triple Pack (USA) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -505,9 +454,6 @@ description:
 release: 2010-10-05
 players: 1
 assets.boxfront: BoxFront/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -534,9 +480,6 @@ description:
 release: 2014-02-25
 players: 1
 assets.boxfront: BoxFront/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.boxback: BoxBack/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.background: Background/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.screenshot: Screenshot/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -555,9 +498,6 @@ description:
 release: 2009-04-07
 players: 1
 assets.boxfront: BoxFront/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -575,9 +515,6 @@ description:
 release: 2007-10-23
 players: 1
 assets.boxfront: BoxFront/Clive Barker's Jericho (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Clive Barker's Jericho (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Clive Barker's Jericho (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Clive Barker's Jericho (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -598,9 +535,6 @@ description:
 release: 2010-02-09
 players: 1
 assets.boxfront: BoxFront/Dante's Inferno (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dante's Inferno (USA) (En,Fr,Es).jpg
-assets.background: Background/Dante's Inferno (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dante's Inferno (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -622,9 +556,6 @@ description:
 release: 2011-10-04
 players: 4
 assets.boxfront: BoxFront/Dark Souls (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dark Souls (USA) (En,Fr,Es).jpg
-assets.background: Background/Dark Souls (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dark Souls (USA) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -642,9 +573,6 @@ description:
 release: 2015-04-07
 players: 1
 assets.boxfront: BoxFront/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -662,9 +590,6 @@ description:
 release: 2011-09-06
 players: 4
 assets.boxfront: BoxFront/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl).jpg
-assets.boxback: BoxBack/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl).jpg
-assets.background: Background/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl).jpg
-assets.screenshot: Screenshot/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -686,9 +611,6 @@ description:
 release: 2013-04-23
 players: 4
 assets.boxfront: BoxFront/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl).jpg
-assets.boxback: BoxBack/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl).jpg
-assets.background: Background/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl).jpg
-assets.screenshot: Screenshot/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -711,9 +633,6 @@ description:
 release: 2008-10-13
 players: 1
 assets.boxfront: BoxFront/Dead Space (USA, Korea) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dead Space (USA, Korea) (En,Fr,Es).jpg
-assets.background: Background/Dead Space (USA, Korea) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dead Space (USA, Korea) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -736,9 +655,6 @@ description:
 release: 2011-01-25
 players: 1
 assets.boxfront: BoxFront/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition).jpg
-assets.boxback: BoxBack/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition).jpg
-assets.background: Background/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition).jpg
-assets.screenshot: Screenshot/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -778,9 +694,6 @@ description:
 release: 2013-02-05
 players: 2
 assets.boxfront: BoxFront/Dead Space 3 (USA, Asia) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dead Space 3 (USA, Asia) (En,Fr,Es).jpg
-assets.background: Background/Dead Space 3 (USA, Asia) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dead Space 3 (USA, Asia) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -819,9 +732,6 @@ description:
 release: 2013-04-30
 players: 1
 assets.boxfront: BoxFront/Deadly Premonition - The Director's Cut (USA).jpg
-assets.boxback: BoxBack/Deadly Premonition - The Director's Cut (USA).jpg
-assets.background: Background/Deadly Premonition - The Director's Cut (USA).jpg
-assets.screenshot: Screenshot/Deadly Premonition - The Director's Cut (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -845,9 +755,6 @@ description:
 release: 2009-10-06
 players: 3
 assets.boxfront: BoxFront/Demon's Souls (USA).jpg
-assets.boxback: BoxBack/Demon's Souls (USA).jpg
-assets.background: Background/Demon's Souls (USA).jpg
-assets.screenshot: Screenshot/Demon's Souls (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -870,9 +777,6 @@ description:
 release: 2012-10-09
 players: 1
 assets.boxfront: BoxFront/Dishonored - Game of the Year Edition (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dishonored - Game of the Year Edition (USA) (En,Fr,Es).jpg
-assets.background: Background/Dishonored - Game of the Year Edition (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dishonored - Game of the Year Edition (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -898,9 +802,6 @@ description:
 release: 2013-08-13
 players: 1
 assets.boxfront: BoxFront/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.boxback: BoxBack/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.background: Background/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.screenshot: Screenshot/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -933,9 +834,6 @@ description:
 release: 2012-10-16
 players: 4
 assets.boxfront: BoxFront/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es).jpg
-assets.background: Background/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -961,9 +859,6 @@ description:
 release: 2014-11-18
 players: 1
 assets.boxfront: BoxFront/Dragon Age - Inquisition (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dragon Age - Inquisition (USA) (En,Fr,Es).jpg
-assets.background: Background/Dragon Age - Inquisition (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dragon Age - Inquisition (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -990,9 +885,6 @@ description:
 release: 2013-08-06
 players: 4
 assets.boxfront: BoxFront/Dragon's Crown (USA).jpg
-assets.boxback: BoxBack/Dragon's Crown (USA).jpg
-assets.background: Background/Dragon's Crown (USA).jpg
-assets.screenshot: Screenshot/Dragon's Crown (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1013,9 +905,6 @@ description:
 release: 2011-06-21
 players: 1
 assets.boxfront: BoxFront/Dungeon Siege III (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dungeon Siege III (USA) (En,Fr,Es).jpg
-assets.background: Background/Dungeon Siege III (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dungeon Siege III (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1047,9 +936,6 @@ description:
 release: 2011-07-05
 players: 1
 assets.boxfront: BoxFront/Earth Defense Force - Insect Armageddon (USA).jpg
-assets.boxback: BoxBack/Earth Defense Force - Insect Armageddon (USA).jpg
-assets.background: Background/Earth Defense Force - Insect Armageddon (USA).jpg
-assets.screenshot: Screenshot/Earth Defense Force - Insect Armageddon (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1075,9 +961,6 @@ description:
 release: 2014-02-18
 players: 4
 assets.boxfront: BoxFront/Earth Defense Force 2025 (USA).jpg
-assets.boxback: BoxBack/Earth Defense Force 2025 (USA).jpg
-assets.background: Background/Earth Defense Force 2025 (USA).jpg
-assets.screenshot: Screenshot/Earth Defense Force 2025 (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1127,9 +1010,6 @@ description:
 release: 2007-10-16
 players: 1
 assets.boxfront: BoxFront/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA).jpg
-assets.boxback: BoxBack/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA).jpg
-assets.background: Background/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA).jpg
-assets.screenshot: Screenshot/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1150,9 +1030,6 @@ description:
 release: 2007-04-03
 players: 1
 assets.boxfront: BoxFront/Enchanted Arms (USA).jpg
-assets.boxback: BoxBack/Enchanted Arms (USA).jpg
-assets.background: Background/Enchanted Arms (USA).jpg
-assets.screenshot: Screenshot/Enchanted Arms (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1182,9 +1059,6 @@ description:
 release: 2010-10-05
 players: 1
 assets.boxfront: BoxFront/Enslaved - Odyssey to the West (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Enslaved - Odyssey to the West (USA) (En,Fr,Es).jpg
-assets.background: Background/Enslaved - Odyssey to the West (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Enslaved - Odyssey to the West (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1213,9 +1087,6 @@ description:
 release: 2014-11-18
 players: 1
 assets.boxfront: BoxFront/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.boxback: BoxBack/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.background: Background/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.screenshot: Screenshot/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1239,9 +1110,6 @@ description:
 release: 2007-09-17
 players: 1
 assets.boxfront: BoxFront/Eternal Sonata (USA) (En,Fr).jpg
-assets.boxback: BoxBack/Eternal Sonata (USA) (En,Fr).jpg
-assets.background: Background/Eternal Sonata (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/Eternal Sonata (USA) (En,Fr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1276,9 +1144,6 @@ description:
 release: 2007-10-24
 players: 3
 assets.boxfront: BoxFront/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1300,9 +1165,6 @@ description:
 release: 2005-10-17
 players: 16
 assets.boxfront: BoxFront/F.E.A.R. - First Encounter Assault Recon (USA).jpg
-assets.boxback: BoxBack/F.E.A.R. - First Encounter Assault Recon (USA).jpg
-assets.background: Background/F.E.A.R. - First Encounter Assault Recon (USA).jpg
-assets.screenshot: Screenshot/F.E.A.R. - First Encounter Assault Recon (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1326,9 +1188,6 @@ description:
 release: 2009-09-10
 players: 16
 assets.boxfront: BoxFront/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1351,9 +1210,6 @@ description:
 release: 2011-06-21
 players: 4
 assets.boxfront: BoxFront/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).jpg
-assets.background: Background/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1390,9 +1246,6 @@ description:
 release: 2014-09-30
 players: 1
 assets.boxfront: BoxFront/Falling Skies - The Game (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Falling Skies - The Game (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Falling Skies - The Game (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Falling Skies - The Game (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1417,9 +1270,6 @@ description:
 release: 2008-10-28
 players: 1
 assets.boxfront: BoxFront/Fallout 3 - Game of the Year Edition (USA).jpg
-assets.boxback: BoxBack/Fallout 3 - Game of the Year Edition (USA).jpg
-assets.background: Background/Fallout 3 - Game of the Year Edition (USA).jpg
-assets.screenshot: Screenshot/Fallout 3 - Game of the Year Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1445,9 +1295,6 @@ description:
 release: 2010-03-09
 players: 1
 assets.boxfront: BoxFront/Final Fantasy XIII (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Final Fantasy XIII (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Final Fantasy XIII (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Final Fantasy XIII (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1473,9 +1320,6 @@ description:
 release: 2012-01-31
 players: 1
 assets.boxfront: BoxFront/Final Fantasy XIII-2 (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Final Fantasy XIII-2 (USA) (En,Fr,Es).jpg
-assets.background: Background/Final Fantasy XIII-2 (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Final Fantasy XIII-2 (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1496,9 +1340,6 @@ description:
 release: 2007-10-09
 players: 1
 assets.boxfront: BoxFront/Folklore (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Folklore (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Folklore (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Folklore (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1518,9 +1359,6 @@ description:
 release: 2009-06-16
 players: 4
 assets.boxfront: BoxFront/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.boxback: BoxBack/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.background: Background/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.screenshot: Screenshot/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1549,9 +1387,6 @@ description:
 release: 2013-03-12
 players: 1
 assets.boxfront: BoxFront/God of War - Ascension (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/God of War - Ascension (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/God of War - Ascension (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/God of War - Ascension (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1571,9 +1406,6 @@ description:
 release: 2011-09-13
 players: 1
 assets.boxfront: BoxFront/God of War - Origins Collection (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/God of War - Origins Collection (USA) (En,Fr,Es).jpg
-assets.background: Background/God of War - Origins Collection (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/God of War - Origins Collection (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1604,9 +1436,6 @@ description:
 release: 2009-11-17
 players: 1
 assets.boxfront: BoxFront/God of War Collection (USA, Asia) (v01.00).jpg
-assets.boxback: BoxBack/God of War Collection (USA, Asia) (v01.00).jpg
-assets.background: Background/God of War Collection (USA, Asia) (v01.00).jpg
-assets.screenshot: Screenshot/God of War Collection (USA, Asia) (v01.00).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1629,9 +1458,6 @@ description:
 release: 2010-03-16
 players: 1
 assets.boxfront: BoxFront/God of War III (USA) (v01.03).jpg
-assets.boxback: BoxBack/God of War III (USA) (v01.03).jpg
-assets.background: Background/God of War III (USA) (v01.03).jpg
-assets.screenshot: Screenshot/God of War III (USA) (v01.03).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1657,9 +1483,6 @@ description:
 release: 2007-09-12
 players: 1
 assets.boxfront: BoxFront/Heavenly Sword (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Heavenly Sword (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Heavenly Sword (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Heavenly Sword (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1679,9 +1502,6 @@ description:
 release: 2010-02-18
 players: 1
 assets.boxfront: BoxFront/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1756,9 +1576,6 @@ description:
 release: 2011-10-25
 players: 2
 assets.boxfront: BoxFront/House of the Dead, The - Overkill - Extended Cut (USA).jpg
-assets.boxback: BoxBack/House of the Dead, The - Overkill - Extended Cut (USA).jpg
-assets.background: Background/House of the Dead, The - Overkill - Extended Cut (USA).jpg
-assets.screenshot: Screenshot/House of the Dead, The - Overkill - Extended Cut (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1790,9 +1607,6 @@ description:
 release: 2011-09-27
 players: 1
 assets.boxfront: BoxFront/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).jpg
-assets.background: Background/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1822,9 +1636,6 @@ description:
 release: 2012-02-07
 players: 1
 assets.boxfront: BoxFront/Jak and Daxter Collection (USA, Asia) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Jak and Daxter Collection (USA, Asia) (En,Fr,Es).jpg
-assets.background: Background/Jak and Daxter Collection (USA, Asia) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Jak and Daxter Collection (USA, Asia) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1846,9 +1657,6 @@ description:
 release: 2012-08-28
 players: 1
 assets.boxfront: BoxFront/Journey Collector's Edition (USA).jpg
-assets.boxback: BoxBack/Journey Collector's Edition (USA).jpg
-assets.background: Background/Journey Collector's Edition (USA).jpg
-assets.screenshot: Screenshot/Journey Collector's Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1869,9 +1677,6 @@ description:
 release: 2010-03-23
 players: 1
 assets.boxfront: BoxFront/Just Cause 2 (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Just Cause 2 (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Just Cause 2 (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Just Cause 2 (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1912,9 +1717,6 @@ description:
 release: 2013-12-31
 players: 1
 assets.boxfront: BoxFront/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es).jpg
-assets.background: Background/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1935,9 +1737,6 @@ description:
 release: 2014-12-02
 players: 1
 assets.boxfront: BoxFront/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es).jpg
-assets.background: Background/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1964,9 +1763,6 @@ description:
 release: 2012-02-07
 players: 1
 assets.boxfront: BoxFront/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1985,9 +1781,6 @@ description:
 release: 2010-09-17
 players: 2
 assets.boxfront: BoxFront/Kung Fu Rider (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Kung Fu Rider (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Kung Fu Rider (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Kung Fu Rider (USA) (En,Fr,Es,Pt).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2006,9 +1799,6 @@ description:
 release: 2011-05-17
 players: 1
 assets.boxfront: BoxFront/L.A. Noire - The Complete Edition (USA).jpg
-assets.boxback: BoxBack/L.A. Noire - The Complete Edition (USA).jpg
-assets.background: Background/L.A. Noire - The Complete Edition (USA).jpg
-assets.screenshot: Screenshot/L.A. Noire - The Complete Edition (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2034,9 +1824,6 @@ description:
 release: 2015-09-27
 players: 2
 assets.boxfront: BoxFront/LEGO Dimensions (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/LEGO Dimensions (USA) (En,Fr,Es).jpg
-assets.background: Background/LEGO Dimensions (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/LEGO Dimensions (USA) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2059,9 +1846,6 @@ description:
 release: 2013-06-14
 players: 1
 assets.boxfront: BoxFront/Last of Us, The (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Last of Us, The (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Last of Us, The (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Last of Us, The (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2085,9 +1869,6 @@ description:
 release: 2015-12-22
 players: 1
 assets.boxfront: BoxFront/Legend of Heroes, The - Trails of Cold Steel (USA).jpg
-assets.boxback: BoxBack/Legend of Heroes, The - Trails of Cold Steel (USA).jpg
-assets.background: Background/Legend of Heroes, The - Trails of Cold Steel (USA).jpg
-assets.screenshot: Screenshot/Legend of Heroes, The - Trails of Cold Steel (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2108,9 +1889,6 @@ description:
 release: 2014-09-25
 players: 1
 assets.boxfront: BoxFront/Legend of Heroes, The - Trails of Cold Steel II (USA).jpg
-assets.boxback: BoxBack/Legend of Heroes, The - Trails of Cold Steel II (USA).jpg
-assets.background: Background/Legend of Heroes, The - Trails of Cold Steel II (USA).jpg
-assets.screenshot: Screenshot/Legend of Heroes, The - Trails of Cold Steel II (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2136,9 +1914,6 @@ description:
 release: 2014-02-11
 players: 1
 assets.boxfront: BoxFront/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es).jpg
-assets.background: Background/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2168,9 +1943,6 @@ description:
 release: 2008-10-27
 players: 4
 assets.boxfront: BoxFront/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es).jpg
-assets.background: Background/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2200,9 +1972,6 @@ description:
 release: 2011-01-18
 players: 4
 assets.boxfront: BoxFront/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es).jpg
-assets.background: Background/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2227,9 +1996,6 @@ description:
 release: 2014-11-26
 players: 4
 assets.boxfront: BoxFront/LittleBigPlanet 3 (USA) (En,Fr).jpg
-assets.boxback: BoxBack/LittleBigPlanet 3 (USA) (En,Fr).jpg
-assets.background: Background/LittleBigPlanet 3 (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/LittleBigPlanet 3 (USA) (En,Fr).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2249,9 +2015,6 @@ description:
 release: 2012-06-12
 players: 1
 assets.boxfront: BoxFront/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).jpg
-assets.boxback: BoxBack/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).jpg
-assets.background: Background/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).jpg
-assets.screenshot: Screenshot/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2275,9 +2038,6 @@ description:
 release: 2008-02-26
 players: 1
 assets.boxfront: BoxFront/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.boxback: BoxBack/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.background: Background/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.screenshot: Screenshot/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2300,9 +2060,6 @@ description:
 release: 2010-05-11
 players: 4
 assets.boxfront: BoxFront/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.boxback: BoxBack/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.background: Background/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
-assets.screenshot: Screenshot/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2334,9 +2091,6 @@ description:
 release: 2013-06-01
 players: 1
 assets.boxfront: BoxFront/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).jpg
-assets.boxback: BoxBack/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).jpg
-assets.background: Background/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).jpg
-assets.screenshot: Screenshot/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2358,9 +2112,6 @@ description:
 release: 2006-11-24
 players: 4
 assets.boxfront: BoxFront/Marvel - Ultimate Alliance (USA).jpg
-assets.boxback: BoxBack/Marvel - Ultimate Alliance (USA).jpg
-assets.background: Background/Marvel - Ultimate Alliance (USA).jpg
-assets.screenshot: Screenshot/Marvel - Ultimate Alliance (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2380,9 +2131,6 @@ description:
 release: 2009-09-15
 players: 4
 assets.boxfront: BoxFront/Marvel - Ultimate Alliance 2 (USA).jpg
-assets.boxback: BoxBack/Marvel - Ultimate Alliance 2 (USA).jpg
-assets.background: Background/Marvel - Ultimate Alliance 2 (USA).jpg
-assets.screenshot: Screenshot/Marvel - Ultimate Alliance 2 (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2429,9 +2177,6 @@ description:
 release: 2012-12-04
 players: 1
 assets.boxfront: BoxFront/Mass Effect (USA, Asia) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Mass Effect (USA, Asia) (En,Fr,Es).jpg
-assets.background: Background/Mass Effect (USA, Asia) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Mass Effect (USA, Asia) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2451,9 +2196,6 @@ description:
 release: 2011-01-18
 players: 1
 assets.boxfront: BoxFront/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru).jpg
-assets.boxback: BoxBack/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru).jpg
-assets.background: Background/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru).jpg
-assets.screenshot: Screenshot/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2482,9 +2224,6 @@ description:
 release: 2012-03-06
 players: 4
 assets.boxfront: BoxFront/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru).jpg
-assets.boxback: BoxBack/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru).jpg
-assets.background: Background/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru).jpg
-assets.screenshot: Screenshot/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2509,9 +2248,6 @@ description:
 release: 2012-05-15
 players: 4
 assets.boxfront: BoxFront/Max Payne 3 (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Max Payne 3 (USA) (En,Fr,Es).jpg
-assets.background: Background/Max Payne 3 (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Max Payne 3 (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2540,9 +2276,6 @@ description:
 release: 2011-11-08
 players: 1
 assets.boxfront: BoxFront/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es).jpg
-assets.background: Background/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2567,9 +2300,6 @@ description:
 release: 2008-06-12
 players: 1
 assets.boxfront: BoxFront/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01).jpg
-assets.boxback: BoxBack/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01).jpg
-assets.background: Background/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01).jpg
-assets.screenshot: Screenshot/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2590,8 +2320,6 @@ release: 2014-03-18
 players: 1
 assets.boxfront: BoxFront/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
 assets.boxback: BoxBack/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
-assets.background: Background/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
-assets.screenshot: Screenshot/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2637,8 +2365,6 @@ release: 2015-09-01
 players: 1
 assets.boxfront: BoxFront/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
 assets.boxback: BoxBack/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
-assets.background: Background/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
-assets.screenshot: Screenshot/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2661,9 +2387,6 @@ description:
 release: 2011-09-09
 players: 1
 assets.boxfront: BoxFront/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It).jpg
-assets.background: Background/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2690,9 +2413,6 @@ description:
 release: 2014-06-03
 players: 1
 assets.boxfront: BoxFront/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es).jpg
-assets.background: Background/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2716,8 +2436,6 @@ release: 2011-05-24
 players: 1
 assets.boxfront: BoxFront/Naughty Bear - Gold Edition (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/Naughty Bear - Gold Edition (USA) (En,Fr,Es).jpg
-assets.background: Background/Naughty Bear - Gold Edition (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Naughty Bear - Gold Edition (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2739,9 +2457,6 @@ description:
 release: 2013-01-22
 players: 1
 assets.boxfront: BoxFront/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2784,9 +2499,6 @@ description:
 release: 2016-06-07
 players: 1
 assets.boxfront: BoxFront/Odin Sphere - Leifthrasir (USA).jpg
-assets.boxback: BoxBack/Odin Sphere - Leifthrasir (USA).jpg
-assets.background: Background/Odin Sphere - Leifthrasir (USA).jpg
-assets.screenshot: Screenshot/Odin Sphere - Leifthrasir (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2812,9 +2524,6 @@ description:
 release: 2008-06-24
 players: 1
 assets.boxfront: BoxFront/Overlord - Raising Hell (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Overlord - Raising Hell (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Overlord - Raising Hell (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Overlord - Raising Hell (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2841,9 +2550,6 @@ description:
 release: 2009-06-23
 players: 1
 assets.boxfront: BoxFront/Overlord II (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Overlord II (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Overlord II (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Overlord II (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2870,9 +2576,6 @@ description:
 release: 2017-04-04
 players: 1
 assets.boxfront: BoxFront/Persona 5 (USA).jpg
-assets.boxback: BoxBack/Persona 5 (USA).jpg
-assets.background: Background/Persona 5 (USA).jpg
-assets.screenshot: Screenshot/Persona 5 (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2894,9 +2597,6 @@ description:
 release: 2012-11-20
 players: 2
 assets.boxfront: BoxFront/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2948,9 +2648,6 @@ description:
 release: 2011-04-19
 players: 2
 assets.boxfront: BoxFront/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).jpg
-assets.background: Background/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2974,9 +2671,6 @@ description:
 release: 2011-04-19
 players: 1
 assets.boxfront: BoxFront/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3004,9 +2698,6 @@ description:
 release: 2013-09-10
 players: 1
 assets.boxfront: BoxFront/Puppeteer (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Puppeteer (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Puppeteer (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Puppeteer (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3040,9 +2731,6 @@ description:
 release: 2009-10-27
 players: 1
 assets.boxfront: BoxFront/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es).jpg
-assets.background: Background/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3070,9 +2758,6 @@ description:
 release: 2007-10-23
 players: 1
 assets.boxfront: BoxFront/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00).jpg
-assets.boxback: BoxBack/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00).jpg
-assets.background: Background/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00).jpg
-assets.screenshot: Screenshot/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3095,9 +2780,6 @@ description:
 release: 2010-05-18
 players: 4
 assets.boxfront: BoxFront/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3131,9 +2813,6 @@ description:
 release: 2012-03-20
 players: 4
 assets.boxfront: BoxFront/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru).jpg
-assets.boxback: BoxBack/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru).jpg
-assets.background: Background/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru).jpg
-assets.screenshot: Screenshot/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3154,9 +2833,6 @@ description:
 release: 2013-05-21
 players: 1
 assets.boxfront: BoxFront/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
-assets.boxback: BoxBack/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
-assets.background: Background/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
-assets.screenshot: Screenshot/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3197,9 +2873,6 @@ description:
 release: 2015-02-24
 players: 2
 assets.boxfront: BoxFront/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.background: Background/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3228,9 +2901,6 @@ description:
 release: 2010-03-09
 players: 1
 assets.boxfront: BoxFront/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00).jpg
-assets.boxback: BoxBack/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00).jpg
-assets.background: Background/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00).jpg
-assets.screenshot: Screenshot/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3260,9 +2930,6 @@ description:
 release: 2012-10-02
 players: 4
 assets.boxfront: BoxFront/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru).jpg
-assets.boxback: BoxBack/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru).jpg
-assets.background: Background/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru).jpg
-assets.screenshot: Screenshot/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3290,9 +2957,6 @@ description:
 release: 2006-11-17
 players: 2
 assets.boxfront: BoxFront/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).jpg
-assets.boxback: BoxBack/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).jpg
-assets.background: Background/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).jpg
-assets.screenshot: Screenshot/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3321,9 +2985,6 @@ description:
 release: 2008-11-04
 players: 2
 assets.boxfront: BoxFront/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).jpg
-assets.boxback: BoxBack/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).jpg
-assets.background: Background/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).jpg
-assets.screenshot: Screenshot/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3358,9 +3019,6 @@ description:
 release: 2011-09-06
 players: 1
 assets.boxfront: BoxFront/Resistance 3 (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Resistance 3 (USA) (En,Fr,Es).jpg
-assets.background: Background/Resistance 3 (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Resistance 3 (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3380,9 +3038,6 @@ description:
 release: 2013-06-25
 players: 1
 assets.boxfront: BoxFront/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3407,9 +3062,6 @@ description:
 release: 2009-10-06
 players: 1
 assets.boxfront: BoxFront/Saw (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Saw (USA) (En,Fr,Es).jpg
-assets.background: Background/Saw (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Saw (USA) (En,Fr,Es).jpg
 assets.video: Video/Saw (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -3430,9 +3082,6 @@ description:
 release: 2010-10-19
 players: 1
 assets.boxfront: BoxFront/Saw II - Flesh & Blood (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Saw II - Flesh & Blood (USA) (En,Fr,Es).jpg
-assets.background: Background/Saw II - Flesh & Blood (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Saw II - Flesh & Blood (USA) (En,Fr,Es).jpg
 assets.video: Video/Saw II - Flesh & Blood (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -3455,9 +3104,6 @@ description:
 release: 2011-06-21
 players: 1
 assets.boxfront: BoxFront/Shadows of the Damned (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Shadows of the Damned (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Shadows of the Damned (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Shadows of the Damned (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3481,9 +3127,6 @@ description:
 release: 2008-07-08
 players: 4
 assets.boxfront: BoxFront/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3512,9 +3155,6 @@ description:
 release: 2012-03-13
 players: 1
 assets.boxfront: BoxFront/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt).jpg
-assets.boxback: BoxBack/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt).jpg
-assets.background: Background/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt).jpg
-assets.screenshot: Screenshot/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3543,9 +3183,6 @@ description:
 release: 2008-09-30
 players: 1
 assets.boxfront: BoxFront/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3575,9 +3212,6 @@ description:
 release: 2008-07-24
 players: 1
 assets.boxfront: BoxFront/Siren - Blood Curse (Europe) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Siren - Blood Curse (Europe) (En,Fr,De,Es,It).jpg
-assets.background: Background/Siren - Blood Curse (Europe) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Siren - Blood Curse (Europe) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3600,9 +3234,6 @@ description:
 release: 2010-11-09
 players: 1
 assets.boxfront: BoxFront/Sly Collection, The (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Sly Collection, The (USA) (En,Fr,Es).jpg
-assets.background: Background/Sly Collection, The (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Sly Collection, The (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3625,9 +3256,6 @@ description:
 release: 2011-11-01
 players: 1
 assets.boxfront: BoxFront/Sonic Generations (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Sonic Generations (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Sonic Generations (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Sonic Generations (USA) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3661,9 +3289,6 @@ description:
 release: 2009-02-10
 players: 2
 assets.boxfront: BoxFront/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es).jpg
-assets.background: Background/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3685,9 +3310,6 @@ description:
 release: 2008-07-29
 players: 4
 assets.boxfront: BoxFront/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3717,9 +3339,6 @@ description:
 release: 2014-03-04
 players: 1
 assets.boxfront: BoxFront/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.boxback: BoxBack/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.background: Background/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt).jpg
-assets.screenshot: Screenshot/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3750,9 +3369,6 @@ description:
 release: 2010-11-23
 players: 1
 assets.boxfront: BoxFront/Splatterhouse (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Splatterhouse (USA) (En,Fr,Es).jpg
-assets.background: Background/Splatterhouse (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Splatterhouse (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3770,9 +3386,6 @@ description:
 release: 2016-04-28
 players: 1
 assets.boxfront: BoxFront/Star Ocean - Integrity and Faithlessness (Japan).jpg
-assets.boxback: BoxBack/Star Ocean - Integrity and Faithlessness (Japan).jpg
-assets.background: Background/Star Ocean - Integrity and Faithlessness (Japan).jpg
-assets.screenshot: Screenshot/Star Ocean - Integrity and Faithlessness (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3806,9 +3419,6 @@ description:
 release: 2010-02-09
 players: 1
 assets.boxfront: BoxFront/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3831,9 +3441,6 @@ description:
 release: 2008-09-16
 players: 1
 assets.boxfront: BoxFront/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3856,9 +3463,6 @@ description:
 release: 2010-10-26
 players: 1
 assets.boxfront: BoxFront/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3891,9 +3495,6 @@ description:
 release: 2015-08-28
 players: 1
 assets.boxfront: BoxFront/Syberia Collection (Brazil).jpg
-assets.boxback: BoxBack/Syberia Collection (Brazil).jpg
-assets.background: Background/Syberia Collection (Brazil).jpg
-assets.screenshot: Screenshot/Syberia Collection (Brazil).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3919,9 +3520,6 @@ description:
 release: 2012-03-13
 players: 4
 assets.boxfront: BoxFront/Tales of Graces f (USA).jpg
-assets.boxback: BoxBack/Tales of Graces f (USA).jpg
-assets.background: Background/Tales of Graces f (USA).jpg
-assets.screenshot: Screenshot/Tales of Graces f (USA).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3944,9 +3542,6 @@ description:
 release: 2014-02-25
 players: 4
 assets.boxfront: BoxFront/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3974,9 +3569,6 @@ description:
 release: 2016-02-05
 players: 4
 assets.boxfront: BoxFront/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It).jpg
-assets.background: Background/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4007,9 +3599,6 @@ description:
 release: 2015-01-22
 players: 4
 assets.boxfront: BoxFront/Tales of Zestiria (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Tales of Zestiria (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Tales of Zestiria (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Tales of Zestiria (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4027,9 +3616,6 @@ description:
 release: 2013-03-05
 players: 1
 assets.boxfront: BoxFront/Tomb Raider (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Tomb Raider (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Tomb Raider (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Tomb Raider (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4046,9 +3632,6 @@ description:
 release: 2011-03-22
 players: 1
 assets.boxfront: BoxFront/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.boxback: BoxBack/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.background: Background/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.screenshot: Screenshot/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4076,9 +3659,6 @@ description:
 release: 2007-11-19
 players: 1
 assets.boxfront: BoxFront/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).jpg
-assets.boxback: BoxBack/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).jpg
-assets.background: Background/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).jpg
-assets.screenshot: Screenshot/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4103,9 +3683,6 @@ description:
 release: 2009-10-13
 players: 1
 assets.boxfront: BoxFront/Uncharted 2 - Among Thieves (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Uncharted 2 - Among Thieves (USA) (En,Fr,Es).jpg
-assets.background: Background/Uncharted 2 - Among Thieves (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Uncharted 2 - Among Thieves (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4133,9 +3710,6 @@ description:
 release: 2011-11-01
 players: 4
 assets.boxfront: BoxFront/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4154,9 +3728,6 @@ description:
 release: 2007-12-10
 players: 16
 assets.boxfront: BoxFront/Unreal Tournament III (USA).jpg
-assets.boxback: BoxBack/Unreal Tournament III (USA).jpg
-assets.background: Background/Unreal Tournament III (USA).jpg
-assets.screenshot: Screenshot/Unreal Tournament III (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4186,9 +3757,6 @@ description:
 release: 2008-11-04
 players: 1
 assets.boxfront: BoxFront/Valkyria Chronicles (USA).jpg
-assets.boxback: BoxBack/Valkyria Chronicles (USA).jpg
-assets.background: Background/Valkyria Chronicles (USA).jpg
-assets.screenshot: Screenshot/Valkyria Chronicles (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4210,9 +3778,6 @@ description:
 release: 2009-07-21
 players: 2
 assets.boxfront: BoxFront/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4246,9 +3811,6 @@ description:
 release: 2010-02-02
 players: 1
 assets.boxfront: BoxFront/White Knight Chronicles - International Edition (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/White Knight Chronicles - International Edition (USA) (En,Fr,Es).jpg
-assets.background: Background/White Knight Chronicles - International Edition (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/White Knight Chronicles - International Edition (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4272,9 +3834,6 @@ description:
 release: 2011-09-13
 players: 1
 assets.boxfront: BoxFront/White Knight Chronicles II (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/White Knight Chronicles II (USA) (En,Fr,Es).jpg
-assets.background: Background/White Knight Chronicles II (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/White Knight Chronicles II (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4307,9 +3866,6 @@ description:
 release: 2009-08-18
 players: 1
 assets.boxfront: BoxFront/Wolfenstein (USA) (En,Fr).jpg
-assets.boxback: BoxBack/Wolfenstein (USA) (En,Fr).jpg
-assets.background: Background/Wolfenstein (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/Wolfenstein (USA) (En,Fr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4329,9 +3885,6 @@ description:
 release: 2014-05-20
 players: 1
 assets.boxfront: BoxFront/Wolfenstein - The New Order (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Wolfenstein - The New Order (USA) (En,Fr,Es).jpg
-assets.background: Background/Wolfenstein - The New Order (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Wolfenstein - The New Order (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4355,9 +3908,6 @@ description:
 release: 2009-05-26
 players: 1
 assets.boxfront: BoxFront/inFamous (USA) (En,Fr,Es) (v02.00).jpg
-assets.boxback: BoxBack/inFamous (USA) (En,Fr,Es) (v02.00).jpg
-assets.background: Background/inFamous (USA) (En,Fr,Es) (v02.00).jpg
-assets.screenshot: Screenshot/inFamous (USA) (En,Fr,Es) (v02.00).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4377,9 +3927,6 @@ description:
 release: 2011-06-07
 players: 1
 assets.boxfront: BoxFront/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00).jpg
-assets.boxback: BoxBack/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00).jpg
-assets.background: Background/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00).jpg
-assets.screenshot: Screenshot/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00).jpg
 x-co-op: No
 x-playable: Yes
 

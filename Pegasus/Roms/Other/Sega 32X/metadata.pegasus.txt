@@ -21,9 +21,6 @@ description:
 release: 1995-04-21
 players: 2
 assets.boxfront: BoxFront/Chaotix ~ Knuckles' Chaotix (Japan, USA).jpg
-assets.boxback: BoxBack/Chaotix ~ Knuckles' Chaotix (Japan, USA).jpg
-assets.background: Background/Chaotix ~ Knuckles' Chaotix (Japan, USA).jpg
-assets.screenshot: Screenshot/Chaotix ~ Knuckles' Chaotix (Japan, USA).jpg
 assets.video: Video/Chaotix ~ Knuckles' Chaotix (Japan, USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -44,9 +41,6 @@ description:
 release: 1994-12-01
 players: 2
 assets.boxfront: BoxFront/Cyber Brawl ~ Cosmic Carnage (Japan, USA).jpg
-assets.boxback: BoxBack/Cyber Brawl ~ Cosmic Carnage (Japan, USA).jpg
-assets.background: Background/Cyber Brawl ~ Cosmic Carnage (Japan, USA).jpg
-assets.screenshot: Screenshot/Cyber Brawl ~ Cosmic Carnage (Japan, USA).jpg
 assets.video: Video/Cyber Brawl ~ Cosmic Carnage (Japan, USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -105,9 +99,6 @@ description:
 release: 2022-09-02
 players: 2
 assets.boxfront: BoxFront/Doom (Europe) (32X Resurrection Patch).jpg
-assets.boxback: BoxBack/Doom (Europe) (32X Resurrection Patch).jpg
-assets.background: Background/Doom (Europe) (32X Resurrection Patch).jpg
-assets.screenshot: Screenshot/Doom (Europe) (32X Resurrection Patch).jpg
 assets.video: Video/Doom (Europe) (32X Resurrection Patch).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -131,9 +122,6 @@ description:
 release: 1994-11-21
 players: 1
 assets.boxfront: BoxFront/Doom (Japan, USA).jpg
-assets.boxback: BoxBack/Doom (Japan, USA).jpg
-assets.background: Background/Doom (Japan, USA).jpg
-assets.screenshot: Screenshot/Doom (Japan, USA).jpg
 assets.video: Video/Doom (Japan, USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -158,9 +146,6 @@ description:
 release: 1995-02-24
 players: 1
 assets.boxfront: BoxFront/Metal Head (Japan, USA) (En,Ja).jpg
-assets.boxback: BoxBack/Metal Head (Japan, USA) (En,Ja).jpg
-assets.background: Background/Metal Head (Japan, USA) (En,Ja).jpg
-assets.screenshot: Screenshot/Metal Head (Japan, USA) (En,Ja).jpg
 assets.video: Video/Metal Head (Japan, USA) (En,Ja).mp4
 x-co-op: No
 x-playable: Yes
@@ -180,9 +165,6 @@ description:
 release: 1994-11-21
 players: 2
 assets.boxfront: BoxFront/Star Wars Arcade (USA).jpg
-assets.boxback: BoxBack/Star Wars Arcade (USA).jpg
-assets.background: Background/Star Wars Arcade (USA).jpg
-assets.screenshot: Screenshot/Star Wars Arcade (USA).jpg
 assets.video: Video/Star Wars Arcade (USA).mp4
 x-co-op: No
 x-playable: Yes

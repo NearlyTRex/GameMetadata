@@ -19,9 +19,6 @@ description:
 release: 1981-01-01
 players: 1
 assets.boxfront: BoxFront/A-Maze-Ing (USA).jpg
-assets.boxback: BoxBack/A-Maze-Ing (USA).jpg
-assets.background: Background/A-Maze-Ing (USA).jpg
-assets.screenshot: Screenshot/A-Maze-Ing (USA).jpg
 assets.video: Video/A-Maze-Ing (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -48,9 +45,6 @@ description:
 release: 1981-01-01
 players: 1
 assets.boxfront: BoxFront/Hunt The Wumpus (USA).jpg
-assets.boxback: BoxBack/Hunt The Wumpus (USA).jpg
-assets.background: Background/Hunt The Wumpus (USA).jpg
-assets.screenshot: Screenshot/Hunt The Wumpus (USA).jpg
 assets.video: Video/Hunt The Wumpus (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -80,9 +74,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Moon Mine (USA).jpg
-assets.boxback: BoxBack/Moon Mine (USA).jpg
-assets.background: Background/Moon Mine (USA).jpg
-assets.screenshot: Screenshot/Moon Mine (USA).jpg
 assets.video: Video/Moon Mine (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -101,9 +92,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Munch Man (USA).jpg
-assets.boxback: BoxBack/Munch Man (USA).jpg
-assets.background: Background/Munch Man (USA).jpg
-assets.screenshot: Screenshot/Munch Man (USA).jpg
 assets.video: Video/Munch Man (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -128,9 +116,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Parsec (USA).jpg
-assets.boxback: BoxBack/Parsec (USA).jpg
-assets.background: Background/Parsec (USA).jpg
-assets.screenshot: Screenshot/Parsec (USA).jpg
 assets.video: Video/Parsec (USA).mp4
 x-co-op: No
 x-playable: Yes

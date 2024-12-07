@@ -16,9 +16,6 @@ description:
 release: 1994-10-20
 players: 1
 assets.boxfront: BoxFront/Alien vs Predator (World).jpg
-assets.boxback: BoxBack/Alien vs Predator (World).jpg
-assets.background: Background/Alien vs Predator (World).jpg
-assets.screenshot: Screenshot/Alien vs Predator (World).jpg
 assets.video: Video/Alien vs Predator (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -39,9 +36,6 @@ description:
 release: 1995-12-20
 players: 2
 assets.boxfront: BoxFront/Atari Karts (World).jpg
-assets.boxback: BoxBack/Atari Karts (World).jpg
-assets.background: Background/Atari Karts (World).jpg
-assets.screenshot: Screenshot/Atari Karts (World).jpg
 assets.video: Video/Atari Karts (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -63,9 +57,6 @@ description:
 release: 1994-01-01
 players: 1
 assets.boxfront: BoxFront/Checkered Flag (World).jpg
-assets.boxback: BoxBack/Checkered Flag (World).jpg
-assets.background: Background/Checkered Flag (World).jpg
-assets.screenshot: Screenshot/Checkered Flag (World).jpg
 assets.video: Video/Checkered Flag (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -85,9 +76,6 @@ description:
 release: 1994-01-01
 players: 2
 assets.boxfront: BoxFront/Club Drive (World).jpg
-assets.boxback: BoxBack/Club Drive (World).jpg
-assets.background: Background/Club Drive (World).jpg
-assets.screenshot: Screenshot/Club Drive (World).jpg
 assets.video: Video/Club Drive (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -115,9 +103,6 @@ description:
 release: 1993-11-23
 players: 1
 assets.boxfront: BoxFront/Cybermorph (World) (Rev A).jpg
-assets.boxback: BoxBack/Cybermorph (World) (Rev A).jpg
-assets.background: Background/Cybermorph (World) (Rev A).jpg
-assets.screenshot: Screenshot/Cybermorph (World) (Rev A).jpg
 assets.video: Video/Cybermorph (World) (Rev A).mp4
 x-co-op: No
 x-playable: Yes
@@ -145,9 +130,6 @@ description:
 release: 1993-11-23
 players: 1
 assets.boxfront: BoxFront/Cybermorph (World) (Rev B).jpg
-assets.boxback: BoxBack/Cybermorph (World) (Rev B).jpg
-assets.background: Background/Cybermorph (World) (Rev B).jpg
-assets.screenshot: Screenshot/Cybermorph (World) (Rev B).jpg
 assets.video: Video/Cybermorph (World) (Rev B).mp4
 x-co-op: No
 x-playable: Yes
@@ -167,9 +149,6 @@ description:
 release: 1994-11-28
 players: 1
 assets.boxfront: BoxFront/Doom (World).jpg
-assets.boxback: BoxBack/Doom (World).jpg
-assets.background: Background/Doom (World).jpg
-assets.screenshot: Screenshot/Doom (World).jpg
 assets.video: Video/Doom (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -191,9 +170,6 @@ description:
 release: 1994-01-01
 players: 1
 assets.boxfront: BoxFront/Evolution - Dino Dudes (World).jpg
-assets.boxback: BoxBack/Evolution - Dino Dudes (World).jpg
-assets.background: Background/Evolution - Dino Dudes (World).jpg
-assets.screenshot: Screenshot/Evolution - Dino Dudes (World).jpg
 assets.video: Video/Evolution - Dino Dudes (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -215,9 +191,6 @@ description:
 release: 1996-01-01
 players: 2
 assets.boxfront: BoxFront/Fight for Life (USA, Europe).jpg
-assets.boxback: BoxBack/Fight for Life (USA, Europe).jpg
-assets.background: Background/Fight for Life (USA, Europe).jpg
-assets.screenshot: Screenshot/Fight for Life (USA, Europe).jpg
 assets.video: Video/Fight for Life (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -238,9 +211,6 @@ description:
 release: 1995-01-01
 players: 1
 assets.boxfront: BoxFront/Flip Out! (World).jpg
-assets.boxback: BoxBack/Flip Out! (World).jpg
-assets.background: Background/Flip Out! (World).jpg
-assets.screenshot: Screenshot/Flip Out! (World).jpg
 assets.video: Video/Flip Out! (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -266,9 +236,6 @@ description:
 release: 1994-01-01
 players: 1
 assets.boxfront: BoxFront/Iron Soldier (World) (v1.04).jpg
-assets.boxback: BoxBack/Iron Soldier (World) (v1.04).jpg
-assets.background: Background/Iron Soldier (World) (v1.04).jpg
-assets.screenshot: Screenshot/Iron Soldier (World) (v1.04).jpg
 assets.video: Video/Iron Soldier (World) (v1.04).mp4
 x-co-op: No
 x-playable: Yes
@@ -292,9 +259,6 @@ description:
 release: 1994-01-01
 players: 2
 assets.boxfront: BoxFront/Kasumi Ninja (World).jpg
-assets.boxback: BoxBack/Kasumi Ninja (World).jpg
-assets.background: Background/Kasumi Ninja (World).jpg
-assets.screenshot: Screenshot/Kasumi Ninja (World).jpg
 assets.video: Video/Kasumi Ninja (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -324,9 +288,6 @@ description:
 release: 1995-12-12
 players: 1
 assets.boxfront: BoxFront/Missile Command 3D (World).jpg
-assets.boxback: BoxBack/Missile Command 3D (World).jpg
-assets.background: Background/Missile Command 3D (World).jpg
-assets.screenshot: Screenshot/Missile Command 3D (World).jpg
 assets.video: Video/Missile Command 3D (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -348,9 +309,6 @@ description:
 release: 1995-01-01
 players: 4
 assets.boxfront: BoxFront/Ruiner Pinball (USA, Europe).jpg
-assets.boxback: BoxBack/Ruiner Pinball (USA, Europe).jpg
-assets.background: Background/Ruiner Pinball (USA, Europe).jpg
-assets.screenshot: Screenshot/Ruiner Pinball (USA, Europe).jpg
 assets.video: Video/Ruiner Pinball (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -371,9 +329,6 @@ description:
 release: 1994-04-01
 players: 2
 assets.boxfront: BoxFront/Tempest 2000 (World).jpg
-assets.boxback: BoxBack/Tempest 2000 (World).jpg
-assets.background: Background/Tempest 2000 (World).jpg
-assets.screenshot: Screenshot/Tempest 2000 (World).jpg
 assets.video: Video/Tempest 2000 (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -393,9 +348,6 @@ description:
 release: 1995-03-01
 players: 1
 assets.boxfront: BoxFront/Theme Park (World).jpg
-assets.boxback: BoxBack/Theme Park (World).jpg
-assets.background: Background/Theme Park (World).jpg
-assets.screenshot: Screenshot/Theme Park (World).jpg
 assets.video: Video/Theme Park (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -417,9 +369,6 @@ description:
 release: 1996-12-01
 players: 1
 assets.boxfront: BoxFront/Towers II (World).jpg
-assets.boxback: BoxBack/Towers II (World).jpg
-assets.background: Background/Towers II (World).jpg
-assets.screenshot: Screenshot/Towers II (World).jpg
 assets.video: Video/Towers II (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -441,9 +390,6 @@ description:
 release: 1993-11-23
 players: 1
 assets.boxfront: BoxFront/Trevor McFur in the Crescent Galaxy (World) (Rev A).jpg
-assets.boxback: BoxBack/Trevor McFur in the Crescent Galaxy (World) (Rev A).jpg
-assets.background: Background/Trevor McFur in the Crescent Galaxy (World) (Rev A).jpg
-assets.screenshot: Screenshot/Trevor McFur in the Crescent Galaxy (World) (Rev A).jpg
 assets.video: Video/Trevor McFur in the Crescent Galaxy (World) (Rev A).mp4
 x-co-op: No
 x-playable: Yes
@@ -464,9 +410,6 @@ description:
 release: 1994-01-01
 players: 2
 assets.boxfront: BoxFront/Zool 2 (World).jpg
-assets.boxback: BoxBack/Zool 2 (World).jpg
-assets.background: Background/Zool 2 (World).jpg
-assets.screenshot: Screenshot/Zool 2 (World).jpg
 assets.video: Video/Zool 2 (World).mp4
 x-co-op: No
 x-playable: Yes

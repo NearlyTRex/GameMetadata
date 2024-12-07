@@ -26,9 +26,6 @@ description:
 release: 2010-05-18
 players: 1
 assets.boxfront: BoxFront/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
-assets.background: Background/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 assets.video: Video/Alan Wake (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).mp4
 x-co-op: No
 x-playable: Yes
@@ -64,9 +61,6 @@ description:
 release: 2008-11-11
 players: 8
 assets.boxfront: BoxFront/Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs).jpg
-assets.boxback: BoxBack/Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs).jpg
-assets.background: Background/Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs).jpg
-assets.screenshot: Screenshot/Banjo-Kazooie - Nuts & Bolts (USA) (En,Ja,Fr,De,Es,It,Nl,Sv,No,Zh,Ko,Pl,Ru,Cs).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -99,9 +93,6 @@ description:
 release: 2007-08-28
 players: 1
 assets.boxfront: BoxFront/Blue Dragon (World) (En,Fr).jpg
-assets.boxback: BoxBack/Blue Dragon (World) (En,Fr).jpg
-assets.background: Background/Blue Dragon (World) (En,Fr).jpg
-assets.screenshot: Screenshot/Blue Dragon (World) (En,Fr).jpg
 assets.video: Video/Blue Dragon (World) (En,Fr).mp4
 x-co-op: No
 x-playable: Yes
@@ -133,9 +124,6 @@ description:
 release: 2012-03-27
 players: 2
 assets.boxfront: BoxFront/Capcom Digital Collection (World).jpg
-assets.boxback: BoxBack/Capcom Digital Collection (World).jpg
-assets.background: Background/Capcom Digital Collection (World).jpg
-assets.screenshot: Screenshot/Capcom Digital Collection (World).jpg
 assets.video: Video/Capcom Digital Collection (World).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -174,9 +162,6 @@ description:
 release: 2005-11-22
 players: 1
 assets.boxfront: BoxFront/Condemned - Criminal Origins (World) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Condemned - Criminal Origins (World) (En,Fr,De,Es,It).jpg
-assets.background: Background/Condemned - Criminal Origins (World) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Condemned - Criminal Origins (World) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -198,9 +183,6 @@ description:
 release: 2008-03-11
 players: 1
 assets.boxfront: BoxFront/Condemned 2 - Bloodshot (World) (En,Fr,Es,It).jpg
-assets.boxback: BoxBack/Condemned 2 - Bloodshot (World) (En,Fr,Es,It).jpg
-assets.background: Background/Condemned 2 - Bloodshot (World) (En,Fr,Es,It).jpg
-assets.screenshot: Screenshot/Condemned 2 - Bloodshot (World) (En,Fr,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -242,9 +224,6 @@ description:
 release: 2007-02-20
 players: 4
 assets.boxfront: BoxFront/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).jpg
-assets.boxback: BoxBack/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).jpg
-assets.background: Background/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).jpg
-assets.screenshot: Screenshot/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).jpg
 assets.video: Video/Crackdown (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Cs,Hu).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -271,9 +250,6 @@ description:
 release: 2010-07-06
 players: 4
 assets.boxfront: BoxFront/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).jpg
-assets.boxback: BoxBack/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).jpg
-assets.background: Background/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).jpg
-assets.screenshot: Screenshot/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).jpg
 assets.video: Video/Crackdown 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru,Cs,Hu).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -294,9 +270,6 @@ description:
 release: 2011-02-22
 players: 1
 assets.boxfront: BoxFront/Dreamcast Collection (USA).jpg
-assets.boxback: BoxBack/Dreamcast Collection (USA).jpg
-assets.background: Background/Dreamcast Collection (USA).jpg
-assets.screenshot: Screenshot/Dreamcast Collection (USA).jpg
 assets.video: Video/Dreamcast Collection (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -332,9 +305,6 @@ description:
 release: 2014-02-04
 players: 1
 assets.boxfront: BoxFront/Fable - Anniversary (World).jpg
-assets.boxback: BoxBack/Fable - Anniversary (World).jpg
-assets.background: Background/Fable - Anniversary (World).jpg
-assets.screenshot: Screenshot/Fable - Anniversary (World).jpg
 assets.video: Video/Fable - Anniversary (World).mp4
 x-co-op: No
 x-playable: Yes
@@ -358,9 +328,6 @@ description:
 release: 2008-10-21
 players: 1
 assets.boxfront: BoxFront/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition).jpg
-assets.boxback: BoxBack/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition).jpg
-assets.background: Background/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition).jpg
-assets.screenshot: Screenshot/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition).jpg
 assets.video: Video/Fable II (World) (En,Zh,Ko,Pl,Cs,Hu) (Game of the Year Edition).mp4
 x-co-op: No
 x-playable: Yes
@@ -380,9 +347,6 @@ description:
 release: 2010-10-25
 players: 1
 assets.boxfront: BoxFront/Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).jpg
-assets.boxback: BoxBack/Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).jpg
-assets.background: Background/Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).jpg
-assets.screenshot: Screenshot/Fable III (World) (En,Zh,Ko,Pl,Ru,Cs,Hu,Sk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -412,9 +376,6 @@ description:
 release: 2008-10-21
 players: 16
 assets.boxfront: BoxFront/Far Cry 2 (World) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Far Cry 2 (World) (En,Fr,De,Es,It).jpg
-assets.background: Background/Far Cry 2 (World) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Far Cry 2 (World) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -435,9 +396,6 @@ description:
 release: 2012-12-04
 players: 4
 assets.boxfront: BoxFront/Far Cry 3 (World).jpg
-assets.boxback: BoxBack/Far Cry 3 (World).jpg
-assets.background: Background/Far Cry 3 (World).jpg
-assets.screenshot: Screenshot/Far Cry 3 (World).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -460,9 +418,6 @@ description:
 release: 2013-05-01
 players: 1
 assets.boxfront: BoxFront/Far Cry 3 - Blood Dragon (World).jpg
-assets.boxback: BoxBack/Far Cry 3 - Blood Dragon (World).jpg
-assets.background: Background/Far Cry 3 - Blood Dragon (World).jpg
-assets.screenshot: Screenshot/Far Cry 3 - Blood Dragon (World).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -493,9 +448,6 @@ description:
 release: 2007-01-30
 players: 4
 assets.boxfront: BoxFront/Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.boxback: BoxBack/Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.background: Background/Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.screenshot: Screenshot/Fuzion Frenzy 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -515,9 +467,6 @@ description:
 release: 2008-09-02
 players: 1
 assets.boxfront: BoxFront/Infinite Undiscovery (USA).jpg
-assets.boxback: BoxBack/Infinite Undiscovery (USA).jpg
-assets.background: Background/Infinite Undiscovery (USA).jpg
-assets.screenshot: Screenshot/Infinite Undiscovery (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -546,9 +495,6 @@ description:
 release: 2011-11-15
 players: 1
 assets.boxfront: BoxFront/Jurassic Park - The Game (USA).jpg
-assets.boxback: BoxBack/Jurassic Park - The Game (USA).jpg
-assets.background: Background/Jurassic Park - The Game (USA).jpg
-assets.screenshot: Screenshot/Jurassic Park - The Game (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -586,9 +532,6 @@ description:
 release: 2005-11-07
 players: 1
 assets.boxfront: BoxFront/Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.boxback: BoxBack/Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.background: Background/Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.screenshot: Screenshot/Kameo - Elements of Power (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -604,9 +547,6 @@ description:
 release: 2009-12-18
 players: 2
 assets.boxfront: BoxFront/Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.boxback: BoxBack/Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.background: Background/Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
-assets.screenshot: Screenshot/Konami Classics Vol. 1 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -632,9 +572,6 @@ description:
 release: 2008-11-20
 players: 1
 assets.boxfront: BoxFront/Last Remnant, The (USA, Asia) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Last Remnant, The (USA, Asia) (En,Fr,De,Es,It).jpg
-assets.background: Background/Last Remnant, The (USA, Asia) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Last Remnant, The (USA, Asia) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -684,9 +621,6 @@ description:
 release: 2008-08-19
 players: 4
 assets.boxfront: BoxFront/Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.background: Background/Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/Left 4 Dead (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -785,9 +719,6 @@ description:
 release: 2009-11-17
 players: 4
 assets.boxfront: BoxFront/Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.background: Background/Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/Left 4 Dead 2 (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -808,9 +739,6 @@ description:
 release: 2008-02-12
 players: 1
 assets.boxfront: BoxFront/Lost Odyssey (World) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Lost Odyssey (World) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Lost Odyssey (World) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Lost Odyssey (World) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -841,9 +769,6 @@ description:
 release: 2006-10-24
 players: 1
 assets.boxfront: BoxFront/Marvel - Ultimate Alliance Platinum Hits Special Edition (World).jpg
-assets.boxback: BoxBack/Marvel - Ultimate Alliance Platinum Hits Special Edition (World).jpg
-assets.background: Background/Marvel - Ultimate Alliance Platinum Hits Special Edition (World).jpg
-assets.screenshot: Screenshot/Marvel - Ultimate Alliance Platinum Hits Special Edition (World).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -895,9 +820,6 @@ description:
 release: 2006-08-15
 players: 1
 assets.boxfront: BoxFront/N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It).jpg
-assets.background: Background/N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/N3 - Ninety-Nine Nights (World) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -952,9 +874,6 @@ description:
 release: 2008-11-04
 players: 1
 assets.boxfront: BoxFront/Namco Museum - Virtual Arcade (USA).jpg
-assets.boxback: BoxBack/Namco Museum - Virtual Arcade (USA).jpg
-assets.background: Background/Namco Museum - Virtual Arcade (USA).jpg
-assets.screenshot: Screenshot/Namco Museum - Virtual Arcade (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -980,9 +899,6 @@ description:
 release: 2009-04-07
 players: 1
 assets.boxfront: BoxFront/Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
-assets.background: Background/Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/Ninja Blade (World) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Ru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1004,9 +920,6 @@ description:
 release: 2007-10-09
 players: 4
 assets.boxfront: BoxFront/Orange Box, The (World) (En,Fr).jpg
-assets.boxback: BoxBack/Orange Box, The (World) (En,Fr).jpg
-assets.background: Background/Orange Box, The (World) (En,Fr).jpg
-assets.screenshot: Screenshot/Orange Box, The (World) (En,Fr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1031,9 +944,6 @@ description:
 release: 2005-11-18
 players: 1
 assets.boxfront: BoxFront/Perfect Dark Zero (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Perfect Dark Zero (USA) (En,Fr,Es).jpg
-assets.background: Background/Perfect Dark Zero (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Perfect Dark Zero (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1056,9 +966,6 @@ description:
 release: 2006-10-24
 players: 6
 assets.boxfront: BoxFront/Phantasy Star Universe (USA, Europe) (En,Fr,De).jpg
-assets.boxback: BoxBack/Phantasy Star Universe (USA, Europe) (En,Fr,De).jpg
-assets.background: Background/Phantasy Star Universe (USA, Europe) (En,Fr,De).jpg
-assets.screenshot: Screenshot/Phantasy Star Universe (USA, Europe) (En,Fr,De).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1077,9 +984,6 @@ description:
 release: 2009-09-15
 players: 1
 assets.boxfront: BoxFront/Qubed (World) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Qubed (World) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Qubed (World) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Qubed (World) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1097,9 +1001,6 @@ description:
 release: 2011-09-06
 players: 1
 assets.boxfront: BoxFront/Rise of Nightmares (World).jpg
-assets.boxback: BoxBack/Rise of Nightmares (World).jpg
-assets.background: Background/Rise of Nightmares (World).jpg
-assets.screenshot: Screenshot/Rise of Nightmares (World).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1131,9 +1032,6 @@ description:
 release: 2006-08-29
 players: 1
 assets.boxfront: BoxFront/Saints Row (World) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Saints Row (World) (En,Fr,De,Es,It).jpg
-assets.background: Background/Saints Row (World) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Saints Row (World) (En,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1163,9 +1061,6 @@ description:
 release: 2012-11-06
 players: 2
 assets.boxfront: BoxFront/Saints Row - The Third - The Full Package (World) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Saints Row - The Third - The Full Package (World) (En,Fr,De,Es,It).jpg
-assets.background: Background/Saints Row - The Third - The Full Package (World) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Saints Row - The Third - The Full Package (World) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1186,9 +1081,6 @@ description:
 release: 2008-10-14
 players: 2
 assets.boxfront: BoxFront/Saints Row 2 (World) (En,Fr,De,Es,It,Nl).jpg
-assets.boxback: BoxBack/Saints Row 2 (World) (En,Fr,De,Es,It,Nl).jpg
-assets.background: Background/Saints Row 2 (World) (En,Fr,De,Es,It,Nl).jpg
-assets.screenshot: Screenshot/Saints Row 2 (World) (En,Fr,De,Es,It,Nl).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1231,9 +1123,6 @@ description:
 release: 2015-01-20
 players: 2
 assets.boxfront: BoxFront/Saints Row IV - Gat out of Hell (World).jpg
-assets.boxback: BoxBack/Saints Row IV - Gat out of Hell (World).jpg
-assets.background: Background/Saints Row IV - Gat out of Hell (World).jpg
-assets.screenshot: Screenshot/Saints Row IV - Gat out of Hell (World).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1252,9 +1141,6 @@ description:
 release: 2013-08-19
 players: 2
 assets.boxfront: BoxFront/Saints Row IV - National Treasure Edition (World).jpg
-assets.boxback: BoxBack/Saints Row IV - National Treasure Edition (World).jpg
-assets.background: Background/Saints Row IV - National Treasure Edition (World).jpg
-assets.screenshot: Screenshot/Saints Row IV - National Treasure Edition (World).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1299,9 +1185,6 @@ description:
 release: 2013-07-16
 players: 1
 assets.boxfront: BoxFront/Serious Sam Collection, The (World).jpg
-assets.boxback: BoxBack/Serious Sam Collection, The (World).jpg
-assets.background: Background/Serious Sam Collection, The (World).jpg
-assets.screenshot: Screenshot/Serious Sam Collection, The (World).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1325,9 +1208,6 @@ description:
 release: 2011-04-19
 players: 1
 assets.boxfront: BoxFront/Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA).jpg
-assets.boxback: BoxBack/Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA).jpg
-assets.background: Background/Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA).jpg
-assets.screenshot: Screenshot/Triple Pack - LIMBO, Trials HD, 'Splosion Man (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1349,9 +1229,6 @@ description:
 release: 2012-09-21
 players: 1
 assets.boxfront: BoxFront/Triple Pack - Outland, From Dust, Beyond Good & Evil HD (Europe).jpg
-assets.boxback: BoxBack/Triple Pack - Outland, From Dust, Beyond Good & Evil HD (Europe).jpg
-assets.background: Background/Triple Pack - Outland, From Dust, Beyond Good & Evil HD (Europe).jpg
-assets.screenshot: Screenshot/Triple Pack - Outland, From Dust, Beyond Good & Evil HD (Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1368,9 +1245,6 @@ description:
 release: 2006-11-11
 players: 4
 assets.boxfront: BoxFront/Viva Pinata (USA, Europe).jpg
-assets.boxback: BoxBack/Viva Pinata (USA, Europe).jpg
-assets.background: Background/Viva Pinata (USA, Europe).jpg
-assets.screenshot: Screenshot/Viva Pinata (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1410,9 +1284,6 @@ description:
 release: 2008-09-02
 players: 2
 assets.boxfront: BoxFront/Viva Pinata - Trouble in Paradise (USA, Europe).jpg
-assets.boxback: BoxBack/Viva Pinata - Trouble in Paradise (USA, Europe).jpg
-assets.background: Background/Viva Pinata - Trouble in Paradise (USA, Europe).jpg
-assets.screenshot: Screenshot/Viva Pinata - Trouble in Paradise (USA, Europe).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1430,9 +1301,6 @@ description:
 release: 2007-10-23
 players: 4
 assets.boxfront: BoxFront/Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.boxback: BoxBack/Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.background: Background/Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
-assets.screenshot: Screenshot/Xbox Live Arcade (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1456,9 +1324,6 @@ description:
 release: 2006-09-05
 players: 4
 assets.boxfront: BoxFront/Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es,It).jpg
-assets.background: Background/Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Xbox Live Arcade Unplugged Volume 1 (World) (En,Fr,De,Es,It).jpg
 x-co-op: Yes
 x-playable: Yes
 

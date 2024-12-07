@@ -15,9 +15,6 @@ description:
 release: 2004-05-25
 players: 1
 assets.boxfront: BoxFront/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).jpg
-assets.boxback: BoxBack/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).jpg
-assets.background: Background/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).jpg
-assets.screenshot: Screenshot/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).jpg
 assets.video: Video/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).mp4
 x-co-op: No
 x-playable: Yes
@@ -46,9 +43,6 @@ description:
 release: 2003-10-06
 players: 1
 assets.boxfront: BoxFront/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).jpg
-assets.boxback: BoxBack/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).jpg
-assets.background: Background/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).jpg
-assets.screenshot: Screenshot/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).jpg
 assets.video: Video/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).mp4
 x-co-op: No
 x-playable: Yes

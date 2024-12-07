@@ -32,9 +32,6 @@ description:
 release: 1991-04-05
 players: 1
 assets.boxfront: BoxFront/Cosmic Fantasy II (USA).jpg
-assets.boxback: BoxBack/Cosmic Fantasy II (USA).jpg
-assets.background: Background/Cosmic Fantasy II (USA).jpg
-assets.screenshot: Screenshot/Cosmic Fantasy II (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -53,9 +50,6 @@ description:
 release: 1993-04-23
 players: 1
 assets.boxfront: BoxFront/Lords of Thunder (USA).jpg
-assets.boxback: BoxBack/Lords of Thunder (USA).jpg
-assets.background: Background/Lords of Thunder (USA).jpg
-assets.screenshot: Screenshot/Lords of Thunder (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -75,9 +69,6 @@ description:
 release: 1989-06-23
 players: 1
 assets.boxfront: BoxFront/Valis II (USA).jpg
-assets.boxback: BoxBack/Valis II (USA).jpg
-assets.background: Background/Valis II (USA).jpg
-assets.screenshot: Screenshot/Valis II (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -97,9 +88,6 @@ description:
 release: 1990-09-07
 players: 1
 assets.boxfront: BoxFront/Valis III (USA).jpg
-assets.boxback: BoxBack/Valis III (USA).jpg
-assets.background: Background/Valis III (USA).jpg
-assets.screenshot: Screenshot/Valis III (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -119,9 +107,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Ys Book I & II (USA) (Rev 2).jpg
-assets.boxback: BoxBack/Ys Book I & II (USA) (Rev 2).jpg
-assets.background: Background/Ys Book I & II (USA) (Rev 2).jpg
-assets.screenshot: Screenshot/Ys Book I & II (USA) (Rev 2).jpg
 x-co-op: No
 x-playable: Yes
 

@@ -22,8 +22,6 @@ release: 2006-02-14
 players: 4
 assets.boxfront: BoxFront/Age of Empires - The Age of Kings (USA).jpg
 assets.boxback: BoxBack/Age of Empires - The Age of Kings (USA).jpg
-assets.background: Background/Age of Empires - The Age of Kings (USA).jpg
-assets.screenshot: Screenshot/Age of Empires - The Age of Kings (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -45,8 +43,6 @@ release: 2010-03-28
 players: 4
 assets.boxfront: BoxFront/America's Test Kitchen - Let's Get Cooking (USA).jpg
 assets.boxback: BoxBack/America's Test Kitchen - Let's Get Cooking (USA).jpg
-assets.background: Background/America's Test Kitchen - Let's Get Cooking (USA).jpg
-assets.screenshot: Screenshot/America's Test Kitchen - Let's Get Cooking (USA).jpg
 assets.video: Video/America's Test Kitchen - Let's Get Cooking (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -71,9 +67,6 @@ description:
 release: 2005-11-23
 players: 4
 assets.boxfront: BoxFront/Animal Crossing - Wild World (USA) (Rev 1).jpg
-assets.boxback: BoxBack/Animal Crossing - Wild World (USA) (Rev 1).jpg
-assets.background: Background/Animal Crossing - Wild World (USA) (Rev 1).jpg
-assets.screenshot: Screenshot/Animal Crossing - Wild World (USA) (Rev 1).jpg
 assets.video: Video/Animal Crossing - Wild World (USA) (Rev 1).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -104,9 +97,6 @@ description:
 release: 2010-10-26
 players: 1
 assets.boxfront: BoxFront/Art Academy (USA) (NDSi Enhanced).jpg
-assets.boxback: BoxBack/Art Academy (USA) (NDSi Enhanced).jpg
-assets.background: Background/Art Academy (USA) (NDSi Enhanced).jpg
-assets.screenshot: Screenshot/Art Academy (USA) (NDSi Enhanced).jpg
 assets.video: Video/Art Academy (USA) (NDSi Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -142,9 +132,6 @@ description:
 release: 2009-02-24
 players: 1
 assets.boxfront: BoxFront/Blue Dragon Plus (USA).jpg
-assets.boxback: BoxBack/Blue Dragon Plus (USA).jpg
-assets.background: Background/Blue Dragon Plus (USA).jpg
-assets.screenshot: Screenshot/Blue Dragon Plus (USA).jpg
 assets.video: Video/Blue Dragon Plus (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -216,9 +203,6 @@ description:
 release: 2005-05-19
 players: 4
 assets.boxfront: BoxFront/Brain Age - Train Your Brain in Minutes a Day! (USA).jpg
-assets.boxback: BoxBack/Brain Age - Train Your Brain in Minutes a Day! (USA).jpg
-assets.background: Background/Brain Age - Train Your Brain in Minutes a Day! (USA).jpg
-assets.screenshot: Screenshot/Brain Age - Train Your Brain in Minutes a Day! (USA).jpg
 assets.video: Video/Brain Age - Train Your Brain in Minutes a Day! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -240,8 +224,6 @@ release: 2007-06-29
 players: 4
 assets.boxfront: BoxFront/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).jpg
-assets.background: Background/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -264,8 +246,6 @@ release: 2008-11-10
 players: 1
 assets.boxfront: BoxFront/Call of Duty - World at War (USA).jpg
 assets.boxback: BoxBack/Call of Duty - World at War (USA).jpg
-assets.background: Background/Call of Duty - World at War (USA).jpg
-assets.screenshot: Screenshot/Call of Duty - World at War (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -289,9 +269,6 @@ description:
 release: 2005-10-04
 players: 1
 assets.boxfront: BoxFront/Castlevania - Dawn of Sorrow (USA).jpg
-assets.boxback: BoxBack/Castlevania - Dawn of Sorrow (USA).jpg
-assets.background: Background/Castlevania - Dawn of Sorrow (USA).jpg
-assets.screenshot: Screenshot/Castlevania - Dawn of Sorrow (USA).jpg
 assets.video: Video/Castlevania - Dawn of Sorrow (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -312,9 +289,6 @@ description:
 release: 2005-10-04
 players: 1
 assets.boxfront: BoxFront/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch).jpg
-assets.boxback: BoxBack/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch).jpg
-assets.background: Background/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch).jpg
-assets.screenshot: Screenshot/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch).jpg
 assets.video: Video/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch).mp4
 x-co-op: No
 x-playable: Yes
@@ -337,9 +311,6 @@ description:
 release: 2008-10-21
 players: 2
 assets.boxfront: BoxFront/Castlevania - Order of Ecclesia (USA) (En,Fr).jpg
-assets.boxback: BoxBack/Castlevania - Order of Ecclesia (USA) (En,Fr).jpg
-assets.background: Background/Castlevania - Order of Ecclesia (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/Castlevania - Order of Ecclesia (USA) (En,Fr).jpg
 assets.video: Video/Castlevania - Order of Ecclesia (USA) (En,Fr).mp4
 x-co-op: No
 x-playable: Yes
@@ -372,9 +343,6 @@ description:
 release: 2006-12-05
 players: 2
 assets.boxfront: BoxFront/Castlevania - Portrait of Ruin (USA).jpg
-assets.boxback: BoxBack/Castlevania - Portrait of Ruin (USA).jpg
-assets.background: Background/Castlevania - Portrait of Ruin (USA).jpg
-assets.screenshot: Screenshot/Castlevania - Portrait of Ruin (USA).jpg
 assets.video: Video/Castlevania - Portrait of Ruin (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -395,9 +363,6 @@ description:
 release: 2009-05-18
 players: 1
 assets.boxfront: BoxFront/Challenge Me - Brain Puzzles (USA).jpg
-assets.boxback: BoxBack/Challenge Me - Brain Puzzles (USA).jpg
-assets.background: Background/Challenge Me - Brain Puzzles (USA).jpg
-assets.screenshot: Screenshot/Challenge Me - Brain Puzzles (USA).jpg
 assets.video: Video/Challenge Me - Brain Puzzles (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -428,9 +393,6 @@ description:
 release: 2006-03-02
 players: 4
 assets.boxfront: BoxFront/Children of Mana (USA, Australia).jpg
-assets.boxback: BoxBack/Children of Mana (USA, Australia).jpg
-assets.background: Background/Children of Mana (USA, Australia).jpg
-assets.screenshot: Screenshot/Children of Mana (USA, Australia).jpg
 assets.video: Video/Children of Mana (USA, Australia).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -451,9 +413,6 @@ description:
 release: 2008-11-20
 players: 1
 assets.boxfront: BoxFront/Chrono Trigger (USA) (En,Fr).jpg
-assets.boxback: BoxBack/Chrono Trigger (USA) (En,Fr).jpg
-assets.background: Background/Chrono Trigger (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/Chrono Trigger (USA) (En,Fr).jpg
 assets.video: Video/Chrono Trigger (USA) (En,Fr).mp4
 x-co-op: No
 x-playable: Yes
@@ -490,9 +449,6 @@ description:
 release: 2008-11-25
 players: 2
 assets.boxfront: BoxFront/Club Penguin - Elite Penguin Force (USA) (Rev 1).jpg
-assets.boxback: BoxBack/Club Penguin - Elite Penguin Force (USA) (Rev 1).jpg
-assets.background: Background/Club Penguin - Elite Penguin Force (USA) (Rev 1).jpg
-assets.screenshot: Screenshot/Club Penguin - Elite Penguin Force (USA) (Rev 1).jpg
 assets.video: Video/Club Penguin - Elite Penguin Force (USA) (Rev 1).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -555,9 +511,6 @@ description:
 release: 2008-05-05
 players: 1
 assets.boxfront: BoxFront/CrossworDS (USA).jpg
-assets.boxback: BoxBack/CrossworDS (USA).jpg
-assets.background: Background/CrossworDS (USA).jpg
-assets.screenshot: Screenshot/CrossworDS (USA).jpg
 assets.video: Video/CrossworDS (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -580,9 +533,6 @@ description:
 release: 2006-01-25
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -617,9 +567,6 @@ description:
 release: 2008-07-02
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -648,9 +595,6 @@ description:
 release: 2008-10-01
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -679,9 +623,6 @@ description:
 release: 2009-02-18
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -713,9 +654,6 @@ description:
 release: 2009-06-18
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -748,9 +686,6 @@ description:
 release: 2009-10-05
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -781,9 +716,6 @@ description:
 release: 2009-12-17
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -813,9 +745,6 @@ description:
 release: 2010-05-24
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -844,9 +773,6 @@ description:
 release: 2010-07-20
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -873,9 +799,6 @@ description:
 release: 2010-10-27
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -906,9 +829,6 @@ description:
 release: 2012-01-19
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -930,9 +850,6 @@ description:
 release: 2006-04-06
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -956,9 +873,6 @@ description:
 release: 2006-06-03
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -981,9 +895,6 @@ description:
 release: 2006-07-28
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1004,9 +915,6 @@ description:
 release: 2007-01-17
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1032,9 +940,6 @@ description:
 release: 2007-04-19
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1065,9 +970,6 @@ description:
 release: 2007-08-20
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1094,9 +996,6 @@ description:
 release: 2007-11-14
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1124,9 +1023,6 @@ description:
 release: 2008-03-04
 players: 1
 assets.boxfront: BoxFront/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.boxback: BoxBack/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.background: Background/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk).jpg
-assets.screenshot: Screenshot/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1156,9 +1052,6 @@ description:
 release: 2007-10-25
 players: 1
 assets.boxfront: BoxFront/Dementium - The Ward (USA).jpg
-assets.boxback: BoxBack/Dementium - The Ward (USA).jpg
-assets.background: Background/Dementium - The Ward (USA).jpg
-assets.screenshot: Screenshot/Dementium - The Ward (USA).jpg
 assets.video: Video/Dementium - The Ward (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1189,9 +1082,6 @@ description:
 release: 2010-05-04
 players: 1
 assets.boxfront: BoxFront/Dementium II (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Dementium II (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Dementium II (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Dementium II (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Dementium II (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -1238,9 +1128,6 @@ description:
 release: 2007-05-22
 players: 1
 assets.boxfront: BoxFront/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -1283,9 +1170,6 @@ description:
 release: 2006-09-19
 players: 1
 assets.boxfront: BoxFront/Dragon Quest Heroes - Rocket Slime (USA).jpg
-assets.boxback: BoxBack/Dragon Quest Heroes - Rocket Slime (USA).jpg
-assets.background: Background/Dragon Quest Heroes - Rocket Slime (USA).jpg
-assets.screenshot: Screenshot/Dragon Quest Heroes - Rocket Slime (USA).jpg
 assets.video: Video/Dragon Quest Heroes - Rocket Slime (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1317,9 +1201,6 @@ description:
 release: 2008-09-16
 players: 1
 assets.boxfront: BoxFront/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).jpg
-assets.background: Background/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).jpg
 assets.video: Video/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1355,9 +1236,6 @@ description:
 release: 2010-07-11
 players: 4
 assets.boxfront: BoxFront/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).jpg
-assets.background: Background/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).jpg
 assets.video: Video/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1391,9 +1269,6 @@ description:
 release: 2007-11-06
 players: 1
 assets.boxfront: BoxFront/Dragon Quest Monsters - Joker (USA).jpg
-assets.boxback: BoxBack/Dragon Quest Monsters - Joker (USA).jpg
-assets.background: Background/Dragon Quest Monsters - Joker (USA).jpg
-assets.screenshot: Screenshot/Dragon Quest Monsters - Joker (USA).jpg
 assets.video: Video/Dragon Quest Monsters - Joker (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1421,9 +1296,6 @@ description:
 release: 2009-02-17
 players: 1
 assets.boxfront: BoxFront/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).jpg
-assets.background: Background/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).jpg
 assets.video: Video/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1452,9 +1324,6 @@ description:
 release: 2011-02-14
 players: 1
 assets.boxfront: BoxFront/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).jpg
-assets.background: Background/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).jpg
 assets.video: Video/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1487,9 +1356,6 @@ description:
 release: 2007-09-11
 players: 1
 assets.boxfront: BoxFront/Drawn to Life (USA) (En,Fr).jpg
-assets.boxback: BoxBack/Drawn to Life (USA) (En,Fr).jpg
-assets.background: Background/Drawn to Life (USA) (En,Fr).jpg
-assets.screenshot: Screenshot/Drawn to Life (USA) (En,Fr).jpg
 assets.video: Video/Drawn to Life (USA) (En,Fr).mp4
 x-co-op: No
 x-playable: Yes
@@ -1530,9 +1396,6 @@ description:
 release: 2009-10-27
 players: 1
 assets.boxfront: BoxFront/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1).jpg
-assets.boxback: BoxBack/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1).jpg
-assets.background: Background/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1).jpg
-assets.screenshot: Screenshot/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1).jpg
 assets.video: Video/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -1567,9 +1430,6 @@ description:
 release: 2009-03-24
 players: 4
 assets.boxfront: BoxFront/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).jpg
-assets.background: Background/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).jpg
 assets.video: Video/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1589,9 +1449,6 @@ description:
 release: 2008-03-11
 players: 4
 assets.boxfront: BoxFront/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).jpg
-assets.boxback: BoxBack/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).jpg
-assets.background: Background/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).jpg
-assets.screenshot: Screenshot/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).jpg
 assets.video: Video/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1618,9 +1475,6 @@ description:
 release: 2006-08-24
 players: 1
 assets.boxfront: BoxFront/Final Fantasy III (USA).jpg
-assets.boxback: BoxBack/Final Fantasy III (USA).jpg
-assets.background: Background/Final Fantasy III (USA).jpg
-assets.screenshot: Screenshot/Final Fantasy III (USA).jpg
 assets.video: Video/Final Fantasy III (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1643,9 +1497,6 @@ description:
 release: 2008-09-05
 players: 1
 assets.boxfront: BoxFront/Final Fantasy IV (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Final Fantasy IV (USA) (En,Fr,Es).jpg
-assets.background: Background/Final Fantasy IV (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Final Fantasy IV (USA) (En,Fr,Es).jpg
 assets.video: Video/Final Fantasy IV (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1668,9 +1519,6 @@ description:
 release: 2007-11-20
 players: 1
 assets.boxfront: BoxFront/Final Fantasy XII - Revenant Wings (USA).jpg
-assets.boxback: BoxBack/Final Fantasy XII - Revenant Wings (USA).jpg
-assets.background: Background/Final Fantasy XII - Revenant Wings (USA).jpg
-assets.screenshot: Screenshot/Final Fantasy XII - Revenant Wings (USA).jpg
 assets.video: Video/Final Fantasy XII - Revenant Wings (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1692,9 +1540,6 @@ description:
 release: 2008-08-07
 players: 2
 assets.boxfront: BoxFront/Fire Emblem - Shadow Dragon (USA).jpg
-assets.boxback: BoxBack/Fire Emblem - Shadow Dragon (USA).jpg
-assets.background: Background/Fire Emblem - Shadow Dragon (USA).jpg
-assets.screenshot: Screenshot/Fire Emblem - Shadow Dragon (USA).jpg
 assets.video: Video/Fire Emblem - Shadow Dragon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1728,9 +1573,6 @@ description:
 release: 2008-08-28
 players: 2
 assets.boxfront: BoxFront/From the Abyss (USA).jpg
-assets.boxback: BoxBack/From the Abyss (USA).jpg
-assets.background: Background/From the Abyss (USA).jpg
-assets.screenshot: Screenshot/From the Abyss (USA).jpg
 assets.video: Video/From the Abyss (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1763,9 +1605,6 @@ description:
 release: 2007-11-27
 players: 1
 assets.boxfront: BoxFront/Geometry Wars - Galaxies (USA).jpg
-assets.boxback: BoxBack/Geometry Wars - Galaxies (USA).jpg
-assets.background: Background/Geometry Wars - Galaxies (USA).jpg
-assets.screenshot: Screenshot/Geometry Wars - Galaxies (USA).jpg
 assets.video: Video/Geometry Wars - Galaxies (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1787,9 +1626,6 @@ description:
 release: 2010-01-19
 players: 1
 assets.boxfront: BoxFront/Glory of Heracles (USA).jpg
-assets.boxback: BoxBack/Glory of Heracles (USA).jpg
-assets.background: Background/Glory of Heracles (USA).jpg
-assets.screenshot: Screenshot/Glory of Heracles (USA).jpg
 assets.video: Video/Glory of Heracles (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1812,9 +1648,6 @@ description:
 release: 2005-03-25
 players: 1
 assets.boxfront: BoxFront/Harvest Moon DS (USA).jpg
-assets.boxback: BoxBack/Harvest Moon DS (USA).jpg
-assets.background: Background/Harvest Moon DS (USA).jpg
-assets.screenshot: Screenshot/Harvest Moon DS (USA).jpg
 assets.video: Video/Harvest Moon DS (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1836,9 +1669,6 @@ description:
 release: 2010-08-20
 players: 1
 assets.boxfront: BoxFront/Hidden Mysteries - Vampire Secrets (USA).jpg
-assets.boxback: BoxBack/Hidden Mysteries - Vampire Secrets (USA).jpg
-assets.background: Background/Hidden Mysteries - Vampire Secrets (USA).jpg
-assets.screenshot: Screenshot/Hidden Mysteries - Vampire Secrets (USA).jpg
 assets.video: Video/Hidden Mysteries - Vampire Secrets (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1863,9 +1693,6 @@ description:
 release: 2005-03-24
 players: 1
 assets.boxfront: BoxFront/Kirby - Canvas Curse (USA).jpg
-assets.boxback: BoxBack/Kirby - Canvas Curse (USA).jpg
-assets.background: Background/Kirby - Canvas Curse (USA).jpg
-assets.screenshot: Screenshot/Kirby - Canvas Curse (USA).jpg
 assets.video: Video/Kirby - Canvas Curse (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1888,9 +1715,6 @@ description:
 release: 2006-11-02
 players: 1
 assets.boxfront: BoxFront/Kirby - Squeak Squad (USA).jpg
-assets.boxback: BoxBack/Kirby - Squeak Squad (USA).jpg
-assets.background: Background/Kirby - Squeak Squad (USA).jpg
-assets.screenshot: Screenshot/Kirby - Squeak Squad (USA).jpg
 assets.video: Video/Kirby - Squeak Squad (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1910,9 +1734,6 @@ description:
 release: 2011-08-04
 players: 1
 assets.boxfront: BoxFront/Kirby Mass Attack (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Kirby Mass Attack (USA) (En,Fr,Es).jpg
-assets.background: Background/Kirby Mass Attack (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Kirby Mass Attack (USA) (En,Fr,Es).jpg
 assets.video: Video/Kirby Mass Attack (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -1958,9 +1779,6 @@ description:
 release: 2008-09-22
 players: 4
 assets.boxfront: BoxFront/Kirby Super Star Ultra (USA).jpg
-assets.boxback: BoxBack/Kirby Super Star Ultra (USA).jpg
-assets.background: Background/Kirby Super Star Ultra (USA).jpg
-assets.screenshot: Screenshot/Kirby Super Star Ultra (USA).jpg
 assets.video: Video/Kirby Super Star Ultra (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1984,8 +1802,6 @@ release: 2009-06-09
 players: 1
 assets.boxfront: BoxFront/LEGO Battles (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/LEGO Battles (USA) (En,Fr,Es).jpg
-assets.background: Background/LEGO Battles (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/LEGO Battles (USA) (En,Fr,Es).jpg
 assets.video: Video/LEGO Battles (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -2012,9 +1828,6 @@ description:
 release: 2009-11-17
 players: 2
 assets.boxfront: BoxFront/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).jpg
-assets.background: Background/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).jpg
 assets.video: Video/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2036,9 +1849,6 @@ description:
 release: 2007-06-23
 players: 2
 assets.boxfront: BoxFront/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).jpg
-assets.background: Background/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2065,9 +1875,6 @@ description:
 release: 2009-12-07
 players: 4
 assets.boxfront: BoxFront/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).jpg
-assets.boxback: BoxBack/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).jpg
-assets.background: Background/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).jpg
 assets.video: Video/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2086,9 +1893,6 @@ description:
 release: 2005-09-27
 players: 1
 assets.boxfront: BoxFront/Lunar - Dragon Song (USA).jpg
-assets.boxback: BoxBack/Lunar - Dragon Song (USA).jpg
-assets.background: Background/Lunar - Dragon Song (USA).jpg
-assets.screenshot: Screenshot/Lunar - Dragon Song (USA).jpg
 assets.video: Video/Lunar - Dragon Song (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2115,9 +1919,6 @@ description:
 release: 2006-10-23
 players: 4
 assets.boxfront: BoxFront/Magical Starsign (USA).jpg
-assets.boxback: BoxBack/Magical Starsign (USA).jpg
-assets.background: Background/Magical Starsign (USA).jpg
-assets.screenshot: Screenshot/Magical Starsign (USA).jpg
 assets.video: Video/Magical Starsign (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2139,9 +1940,6 @@ description:
 release: 2005-11-28
 players: 1
 assets.boxfront: BoxFront/Mario & Luigi - Partners in Time (USA) (Rev 1).jpg
-assets.boxback: BoxBack/Mario & Luigi - Partners in Time (USA) (Rev 1).jpg
-assets.background: Background/Mario & Luigi - Partners in Time (USA) (Rev 1).jpg
-assets.screenshot: Screenshot/Mario & Luigi - Partners in Time (USA) (Rev 1).jpg
 assets.video: Video/Mario & Luigi - Partners in Time (USA) (Rev 1).mp4
 x-co-op: No
 x-playable: Yes
@@ -2163,9 +1961,6 @@ description:
 release: 2005-11-14
 players: 4
 assets.boxfront: BoxFront/Mario Kart DS (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Mario Kart DS (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Mario Kart DS (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Mario Kart DS (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Mario Kart DS (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -2189,9 +1984,6 @@ description:
 release: 2007-11-19
 players: 4
 assets.boxfront: BoxFront/Mario Party DS (USA).jpg
-assets.boxback: BoxBack/Mario Party DS (USA).jpg
-assets.background: Background/Mario Party DS (USA).jpg
-assets.screenshot: Screenshot/Mario Party DS (USA).jpg
 assets.video: Video/Mario Party DS (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2208,9 +2000,6 @@ description:
 release: 2010
 players: 1
 assets.boxfront: BoxFront/McDonald's eCrew Development Program (Japan).jpg
-assets.boxback: BoxBack/McDonald's eCrew Development Program (Japan).jpg
-assets.background: Background/McDonald's eCrew Development Program (Japan).jpg
-assets.screenshot: Screenshot/McDonald's eCrew Development Program (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2230,9 +2019,6 @@ description:
 release: 2006-03-20
 players: 4
 assets.boxfront: BoxFront/Metroid Prime - Hunters (USA).jpg
-assets.boxback: BoxBack/Metroid Prime - Hunters (USA).jpg
-assets.background: Background/Metroid Prime - Hunters (USA).jpg
-assets.screenshot: Screenshot/Metroid Prime - Hunters (USA).jpg
 assets.video: Video/Metroid Prime - Hunters (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2256,9 +2042,6 @@ description:
 release: 2004-11-21
 players: 1
 assets.boxfront: BoxFront/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo).jpg
-assets.boxback: BoxBack/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo).jpg
-assets.background: Background/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo).jpg
-assets.screenshot: Screenshot/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2290,9 +2073,6 @@ description:
 release: 2005-10-24
 players: 8
 assets.boxfront: BoxFront/Metroid Prime Pinball (USA).jpg
-assets.boxback: BoxBack/Metroid Prime Pinball (USA).jpg
-assets.background: Background/Metroid Prime Pinball (USA).jpg
-assets.screenshot: Screenshot/Metroid Prime Pinball (USA).jpg
 assets.video: Video/Metroid Prime Pinball (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2317,9 +2097,6 @@ description:
 release: 2009-07-17
 players: 1
 assets.boxfront: BoxFront/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).jpg
-assets.boxback: BoxBack/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).jpg
-assets.background: Background/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).jpg
-assets.screenshot: Screenshot/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).jpg
 assets.video: Video/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2342,8 +2119,6 @@ release: 2008-08-26
 players: 2
 assets.boxfront: BoxFront/N+ (USA).jpg
 assets.boxback: BoxBack/N+ (USA).jpg
-assets.background: Background/N+ (USA).jpg
-assets.screenshot: Screenshot/N+ (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2369,9 +2144,6 @@ description:
 release: 2006-05-15
 players: 4
 assets.boxfront: BoxFront/New Super Mario Bros. (USA).jpg
-assets.boxback: BoxBack/New Super Mario Bros. (USA).jpg
-assets.background: Background/New Super Mario Bros. (USA).jpg
-assets.screenshot: Screenshot/New Super Mario Bros. (USA).jpg
 assets.video: Video/New Super Mario Bros. (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2414,9 +2186,6 @@ description:
 release: 2006-07-24
 players: 1
 assets.boxfront: BoxFront/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.background: Background/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It).jpg
 assets.video: Video/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -2461,9 +2230,6 @@ description:
 release: 2005-08-23
 players: 1
 assets.boxfront: BoxFront/Nintendogs - Dachshund & Friends (USA).jpg
-assets.boxback: BoxBack/Nintendogs - Dachshund & Friends (USA).jpg
-assets.background: Background/Nintendogs - Dachshund & Friends (USA).jpg
-assets.screenshot: Screenshot/Nintendogs - Dachshund & Friends (USA).jpg
 assets.video: Video/Nintendogs - Dachshund & Friends (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2483,9 +2249,6 @@ description:
 release: 2006-10-16
 players: 1
 assets.boxfront: BoxFront/Nintendogs - Dalmatian & Friends (USA).jpg
-assets.boxback: BoxBack/Nintendogs - Dalmatian & Friends (USA).jpg
-assets.background: Background/Nintendogs - Dalmatian & Friends (USA).jpg
-assets.screenshot: Screenshot/Nintendogs - Dalmatian & Friends (USA).jpg
 assets.video: Video/Nintendogs - Dalmatian & Friends (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2503,9 +2266,6 @@ description:
 release: 2008-11-24
 players: 1
 assets.boxfront: BoxFront/Personal Trainer - Cooking (USA).jpg
-assets.boxback: BoxBack/Personal Trainer - Cooking (USA).jpg
-assets.background: Background/Personal Trainer - Cooking (USA).jpg
-assets.screenshot: Screenshot/Personal Trainer - Cooking (USA).jpg
 assets.video: Video/Personal Trainer - Cooking (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2525,8 +2285,6 @@ release: 2009-05-26
 players: 4
 assets.boxfront: BoxFront/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
-assets.background: Background/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Personal Trainer - Walking (USA) (En,Fr,Es).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2546,9 +2304,6 @@ description:
 release: 2011-01-18
 players: 2
 assets.boxfront: BoxFront/Plants vs. Zombies (USA).jpg
-assets.boxback: BoxBack/Plants vs. Zombies (USA).jpg
-assets.background: Background/Plants vs. Zombies (USA).jpg
-assets.screenshot: Screenshot/Plants vs. Zombies (USA).jpg
 assets.video: Video/Plants vs. Zombies (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2573,9 +2328,6 @@ description:
 release: 2008-09-13
 players: 4
 assets.boxfront: BoxFront/Pokemon - Platinum Version (USA).jpg
-assets.boxback: BoxBack/Pokemon - Platinum Version (USA).jpg
-assets.background: Background/Pokemon - Platinum Version (USA).jpg
-assets.screenshot: Screenshot/Pokemon - Platinum Version (USA).jpg
 assets.video: Video/Pokemon - Platinum Version (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2601,9 +2353,6 @@ description:
 release: 2009-10-12
 players: 2
 assets.boxfront: BoxFront/Pokemon Mystery Dungeon - Explorers of Sky (USA).jpg
-assets.boxback: BoxBack/Pokemon Mystery Dungeon - Explorers of Sky (USA).jpg
-assets.background: Background/Pokemon Mystery Dungeon - Explorers of Sky (USA).jpg
-assets.screenshot: Screenshot/Pokemon Mystery Dungeon - Explorers of Sky (USA).jpg
 assets.video: Video/Pokemon Mystery Dungeon - Explorers of Sky (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2623,9 +2372,6 @@ description:
 release: 2006-10-30
 players: 1
 assets.boxfront: BoxFront/Pokemon Ranger (USA).jpg
-assets.boxback: BoxBack/Pokemon Ranger (USA).jpg
-assets.background: Background/Pokemon Ranger (USA).jpg
-assets.screenshot: Screenshot/Pokemon Ranger (USA).jpg
 assets.video: Video/Pokemon Ranger (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2648,9 +2394,6 @@ description:
 release: 2010-10-04
 players: 4
 assets.boxfront: BoxFront/Pokemon Ranger - Guardian Signs (USA, Australia).jpg
-assets.boxback: BoxBack/Pokemon Ranger - Guardian Signs (USA, Australia).jpg
-assets.background: Background/Pokemon Ranger - Guardian Signs (USA, Australia).jpg
-assets.screenshot: Screenshot/Pokemon Ranger - Guardian Signs (USA, Australia).jpg
 assets.video: Video/Pokemon Ranger - Guardian Signs (USA, Australia).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -2678,9 +2421,6 @@ description:
 release: 2008-11-10
 players: 1
 assets.boxfront: BoxFront/Pokemon Ranger - Shadows of Almia (USA).jpg
-assets.boxback: BoxBack/Pokemon Ranger - Shadows of Almia (USA).jpg
-assets.background: Background/Pokemon Ranger - Shadows of Almia (USA).jpg
-assets.screenshot: Screenshot/Pokemon Ranger - Shadows of Almia (USA).jpg
 assets.video: Video/Pokemon Ranger - Shadows of Almia (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2702,9 +2442,6 @@ description:
 release: 2008-11-11
 players: 1
 assets.boxfront: BoxFront/Populous DS (USA).jpg
-assets.boxback: BoxBack/Populous DS (USA).jpg
-assets.background: Background/Populous DS (USA).jpg
-assets.screenshot: Screenshot/Populous DS (USA).jpg
 assets.video: Video/Populous DS (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2723,8 +2460,6 @@ release: 2007-10-17
 players: 1
 assets.boxfront: BoxFront/Prism - Light the Way (USA) (En,Fr,De,Es,It).jpg
 assets.boxback: BoxBack/Prism - Light the Way (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Prism - Light the Way (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Prism - Light the Way (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Prism - Light the Way (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -2752,9 +2487,6 @@ description:
 release: 2009-08-24
 players: 1
 assets.boxfront: BoxFront/Professor Layton and the Diabolical Box (USA).jpg
-assets.boxback: BoxBack/Professor Layton and the Diabolical Box (USA).jpg
-assets.background: Background/Professor Layton and the Diabolical Box (USA).jpg
-assets.screenshot: Screenshot/Professor Layton and the Diabolical Box (USA).jpg
 assets.video: Video/Professor Layton and the Diabolical Box (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2778,9 +2510,6 @@ description:
 release: 2011-10-17
 players: 1
 assets.boxfront: BoxFront/Professor Layton and the Last Specter (USA).jpg
-assets.boxback: BoxBack/Professor Layton and the Last Specter (USA).jpg
-assets.background: Background/Professor Layton and the Last Specter (USA).jpg
-assets.screenshot: Screenshot/Professor Layton and the Last Specter (USA).jpg
 assets.video: Video/Professor Layton and the Last Specter (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2804,9 +2533,6 @@ description:
 release: 2010-09-12
 players: 1
 assets.boxfront: BoxFront/Professor Layton and the Unwound Future (USA).jpg
-assets.boxback: BoxBack/Professor Layton and the Unwound Future (USA).jpg
-assets.background: Background/Professor Layton and the Unwound Future (USA).jpg
-assets.screenshot: Screenshot/Professor Layton and the Unwound Future (USA).jpg
 assets.video: Video/Professor Layton and the Unwound Future (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2827,8 +2553,6 @@ release: 2010-01-28
 players: 2
 assets.boxfront: BoxFront/Puzzle Chronicles (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/Puzzle Chronicles (USA) (En,Fr,Es).jpg
-assets.background: Background/Puzzle Chronicles (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Puzzle Chronicles (USA) (En,Fr,Es).jpg
 assets.video: Video/Puzzle Chronicles (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -2854,9 +2578,6 @@ description:
 release: 2007-03-20
 players: 1
 assets.boxfront: BoxFront/Puzzle Quest - Challenge of the Warlords (USA).jpg
-assets.boxback: BoxBack/Puzzle Quest - Challenge of the Warlords (USA).jpg
-assets.background: Background/Puzzle Quest - Challenge of the Warlords (USA).jpg
-assets.screenshot: Screenshot/Puzzle Quest - Challenge of the Warlords (USA).jpg
 assets.video: Video/Puzzle Quest - Challenge of the Warlords (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -2879,9 +2600,6 @@ description:
 release: 2009-02-24
 players: 1
 assets.boxfront: BoxFront/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -2907,8 +2625,6 @@ release: 2010-06-22
 players: 4
 assets.boxfront: BoxFront/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
-assets.background: Background/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Puzzle Quest 2 (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2928,8 +2644,6 @@ release: 2009-12-08
 players: 1
 assets.boxfront: BoxFront/Puzzler World (USA).jpg
 assets.boxback: BoxBack/Puzzler World (USA).jpg
-assets.background: Background/Puzzler World (USA).jpg
-assets.screenshot: Screenshot/Puzzler World (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2960,9 +2674,6 @@ description:
 release: 2006-02-07
 players: 4
 assets.boxfront: BoxFront/Resident Evil - Deadly Silence (USA).jpg
-assets.boxback: BoxBack/Resident Evil - Deadly Silence (USA).jpg
-assets.background: Background/Resident Evil - Deadly Silence (USA).jpg
-assets.screenshot: Screenshot/Resident Evil - Deadly Silence (USA).jpg
 assets.video: Video/Resident Evil - Deadly Silence (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -3001,9 +2712,6 @@ description:
 release: 2007-11-15
 players: 1
 assets.boxfront: BoxFront/Retro Game Challenge (USA).jpg
-assets.boxback: BoxBack/Retro Game Challenge (USA).jpg
-assets.background: Background/Retro Game Challenge (USA).jpg
-assets.screenshot: Screenshot/Retro Game Challenge (USA).jpg
 assets.video: Video/Retro Game Challenge (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3023,9 +2731,6 @@ description:
 release: 2008-09-23
 players: 1
 assets.boxfront: BoxFront/Rhapsody - A Musical Adventure (USA).jpg
-assets.boxback: BoxBack/Rhapsody - A Musical Adventure (USA).jpg
-assets.background: Background/Rhapsody - A Musical Adventure (USA).jpg
-assets.screenshot: Screenshot/Rhapsody - A Musical Adventure (USA).jpg
 assets.video: Video/Rhapsody - A Musical Adventure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3047,8 +2752,6 @@ release: 2008-10-28
 players: 1
 assets.boxfront: BoxFront/Rubik's World (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/Rubik's World (USA) (En,Fr,Es).jpg
-assets.background: Background/Rubik's World (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/Rubik's World (USA) (En,Fr,Es).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3067,9 +2770,6 @@ description:
 release: 2007-08-14
 players: 1
 assets.boxfront: BoxFront/Rune Factory - A Fantasy Harvest Moon (USA).jpg
-assets.boxback: BoxBack/Rune Factory - A Fantasy Harvest Moon (USA).jpg
-assets.background: Background/Rune Factory - A Fantasy Harvest Moon (USA).jpg
-assets.screenshot: Screenshot/Rune Factory - A Fantasy Harvest Moon (USA).jpg
 assets.video: Video/Rune Factory - A Fantasy Harvest Moon (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3090,9 +2790,6 @@ description:
 release: 2009-09-15
 players: 1
 assets.boxfront: BoxFront/Scribblenauts (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Scribblenauts (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Scribblenauts (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Scribblenauts (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/Scribblenauts (USA) (En,Fr,Es,Pt).mp4
 x-co-op: No
 x-playable: Yes
@@ -3117,9 +2814,6 @@ description:
 release: 2008-07-08
 players: 1
 assets.boxfront: BoxFront/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -3139,9 +2833,6 @@ description:
 release: 2005-11-15
 players: 2
 assets.boxfront: BoxFront/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.video: Video/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -3169,9 +2860,6 @@ description:
 release: 2005-09-20
 players: 1
 assets.boxfront: BoxFront/Space Invaders Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.boxback: BoxBack/Space Invaders Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.background: Background/Space Invaders Revolution (USA) (En,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Space Invaders Revolution (USA) (En,Fr,De,Es,It).jpg
 assets.video: Video/Space Invaders Revolution (USA) (En,Fr,De,Es,It).mp4
 x-co-op: No
 x-playable: Yes
@@ -3197,9 +2885,6 @@ description:
 release: 2008-09-07
 players: 1
 assets.boxfront: BoxFront/Spore Creatures (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.boxback: BoxBack/Spore Creatures (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.background: Background/Spore Creatures (USA) (En,Fr,De,Es,It,Nl).jpg
-assets.screenshot: Screenshot/Spore Creatures (USA) (En,Fr,De,Es,It,Nl).jpg
 assets.video: Video/Spore Creatures (USA) (En,Fr,De,Es,It,Nl).mp4
 x-co-op: No
 x-playable: Yes
@@ -3222,9 +2907,6 @@ description:
 release: 2006-08-29
 players: 4
 assets.boxfront: BoxFront/Star Fox Command (USA, Australia).jpg
-assets.boxback: BoxBack/Star Fox Command (USA, Australia).jpg
-assets.background: Background/Star Fox Command (USA, Australia).jpg
-assets.screenshot: Screenshot/Star Fox Command (USA, Australia).jpg
 assets.video: Video/Star Fox Command (USA, Australia).mp4
 x-co-op: No
 x-playable: Yes
@@ -3247,9 +2929,6 @@ description:
 release: 2004-11-21
 players: 4
 assets.boxfront: BoxFront/Super Mario 64 DS (USA).jpg
-assets.boxback: BoxBack/Super Mario 64 DS (USA).jpg
-assets.background: Background/Super Mario 64 DS (USA).jpg
-assets.screenshot: Screenshot/Super Mario 64 DS (USA).jpg
 assets.video: Video/Super Mario 64 DS (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3274,9 +2953,6 @@ description:
 release: 2005-10-20
 players: 1
 assets.boxfront: BoxFront/Super Princess Peach (USA).jpg
-assets.boxback: BoxBack/Super Princess Peach (USA).jpg
-assets.background: Background/Super Princess Peach (USA).jpg
-assets.screenshot: Screenshot/Super Princess Peach (USA).jpg
 assets.video: Video/Super Princess Peach (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3300,9 +2976,6 @@ description:
 release: 2010-10-12
 players: 1
 assets.boxfront: BoxFront/Super Scribblenauts (USA) (En,Fr,Es,Pt).jpg
-assets.boxback: BoxBack/Super Scribblenauts (USA) (En,Fr,Es,Pt).jpg
-assets.background: Background/Super Scribblenauts (USA) (En,Fr,Es,Pt).jpg
-assets.screenshot: Screenshot/Super Scribblenauts (USA) (En,Fr,Es,Pt).jpg
 assets.video: Video/Super Scribblenauts (USA) (En,Fr,Es,Pt).mp4
 x-co-op: No
 x-playable: Yes
@@ -3323,9 +2996,6 @@ description:
 release: 2006-03-20
 players: 4
 assets.boxfront: BoxFront/Tetris DS (USA).jpg
-assets.boxback: BoxBack/Tetris DS (USA).jpg
-assets.background: Background/Tetris DS (USA).jpg
-assets.screenshot: Screenshot/Tetris DS (USA).jpg
 assets.video: Video/Tetris DS (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3347,8 +3017,6 @@ release: 2007-03-20
 players: 1
 assets.boxfront: BoxFront/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
 assets.boxback: BoxBack/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.background: Background/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
-assets.screenshot: Screenshot/Theme Park (USA) (En,Ja,Fr,De,Es,It).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3367,9 +3035,6 @@ description:
 release: 2009-03-16
 players: 1
 assets.boxfront: BoxFront/Valkyrie Profile - Covenant of the Plume (USA).jpg
-assets.boxback: BoxBack/Valkyrie Profile - Covenant of the Plume (USA).jpg
-assets.background: Background/Valkyrie Profile - Covenant of the Plume (USA).jpg
-assets.screenshot: Screenshot/Valkyrie Profile - Covenant of the Plume (USA).jpg
 assets.video: Video/Valkyrie Profile - Covenant of the Plume (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3391,9 +3056,6 @@ description:
 release: 2005-02-14
 players: 1
 assets.boxfront: BoxFront/WarioWare - Touched! (USA).jpg
-assets.boxback: BoxBack/WarioWare - Touched! (USA).jpg
-assets.background: Background/WarioWare - Touched! (USA).jpg
-assets.screenshot: Screenshot/WarioWare - Touched! (USA).jpg
 assets.video: Video/WarioWare - Touched! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -3416,8 +3078,6 @@ release: 2009-11-03
 players: 1
 assets.boxfront: BoxFront/WireWay (USA) (En,Fr,Es).jpg
 assets.boxback: BoxBack/WireWay (USA) (En,Fr,Es).jpg
-assets.background: Background/WireWay (USA) (En,Fr,Es).jpg
-assets.screenshot: Screenshot/WireWay (USA) (En,Fr,Es).jpg
 assets.video: Video/WireWay (USA) (En,Fr,Es).mp4
 x-co-op: No
 x-playable: Yes
@@ -3439,9 +3099,6 @@ description:
 release: 2006-11-13
 players: 1
 assets.boxfront: BoxFront/Yoshi's Island DS (USA).jpg
-assets.boxback: BoxBack/Yoshi's Island DS (USA).jpg
-assets.background: Background/Yoshi's Island DS (USA).jpg
-assets.screenshot: Screenshot/Yoshi's Island DS (USA).jpg
 assets.video: Video/Yoshi's Island DS (USA).mp4
 x-co-op: No
 x-playable: Yes

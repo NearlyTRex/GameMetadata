@@ -17,9 +17,6 @@ description:
 release: 1992-11-20
 players: 1
 assets.boxfront: BoxFront/Air Zonk (USA).jpg
-assets.boxback: BoxBack/Air Zonk (USA).jpg
-assets.background: Background/Air Zonk (USA).jpg
-assets.screenshot: Screenshot/Air Zonk (USA).jpg
 assets.video: Video/Air Zonk (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -39,9 +36,6 @@ description:
 release: 1988-09-14
 players: 1
 assets.boxfront: BoxFront/Alien Crush (USA).jpg
-assets.boxback: BoxBack/Alien Crush (USA).jpg
-assets.background: Background/Alien Crush (USA).jpg
-assets.screenshot: Screenshot/Alien Crush (USA).jpg
 assets.video: Video/Alien Crush (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -63,9 +57,6 @@ description:
 release: 1989-07-07
 players: 1
 assets.boxfront: BoxFront/Blazing Lazers (USA).jpg
-assets.boxback: BoxBack/Blazing Lazers (USA).jpg
-assets.background: Background/Blazing Lazers (USA).jpg
-assets.screenshot: Screenshot/Blazing Lazers (USA).jpg
 assets.video: Video/Blazing Lazers (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -89,9 +80,6 @@ description:
 release: 1992-12-11
 players: 5
 assets.boxfront: BoxFront/Bomberman '93 (USA).jpg
-assets.boxback: BoxBack/Bomberman '93 (USA).jpg
-assets.background: Background/Bomberman '93 (USA).jpg
-assets.screenshot: Screenshot/Bomberman '93 (USA).jpg
 assets.video: Video/Bomberman '93 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -112,9 +100,6 @@ description:
 release: 1993-01-01
 players: 2
 assets.boxfront: BoxFront/Bonk 3 - Bonk's Big Adventure (USA).jpg
-assets.boxback: BoxBack/Bonk 3 - Bonk's Big Adventure (USA).jpg
-assets.background: Background/Bonk 3 - Bonk's Big Adventure (USA).jpg
-assets.screenshot: Screenshot/Bonk 3 - Bonk's Big Adventure (USA).jpg
 assets.video: Video/Bonk 3 - Bonk's Big Adventure (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -133,9 +118,6 @@ description:
 release: 1989-12-15
 players: 1
 assets.boxfront: BoxFront/Bonk's Adventure (USA).jpg
-assets.boxback: BoxBack/Bonk's Adventure (USA).jpg
-assets.background: Background/Bonk's Adventure (USA).jpg
-assets.screenshot: Screenshot/Bonk's Adventure (USA).jpg
 assets.video: Video/Bonk's Adventure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -156,9 +138,6 @@ description:
 release: 1991-07-19
 players: 1
 assets.boxfront: BoxFront/Bonk's Revenge (USA).jpg
-assets.boxback: BoxBack/Bonk's Revenge (USA).jpg
-assets.background: Background/Bonk's Revenge (USA).jpg
-assets.screenshot: Screenshot/Bonk's Revenge (USA).jpg
 assets.video: Video/Bonk's Revenge (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -183,9 +162,6 @@ description:
 release: 1991-01-18
 players: 2
 assets.boxfront: BoxFront/Cadash (USA).jpg
-assets.boxback: BoxBack/Cadash (USA).jpg
-assets.background: Background/Cadash (USA).jpg
-assets.screenshot: Screenshot/Cadash (USA).jpg
 assets.video: Video/Cadash (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -206,9 +182,6 @@ description:
 release: 1990-03-30
 players: 2
 assets.boxfront: BoxFront/Chew Man Fu (USA).jpg
-assets.boxback: BoxBack/Chew Man Fu (USA).jpg
-assets.background: Background/Chew Man Fu (USA).jpg
-assets.screenshot: Screenshot/Chew Man Fu (USA).jpg
 assets.video: Video/Chew Man Fu (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -228,9 +201,6 @@ description:
 release: 1987-11-21
 players: 1
 assets.boxfront: BoxFront/China Warrior (USA).jpg
-assets.boxback: BoxBack/China Warrior (USA).jpg
-assets.background: Background/China Warrior (USA).jpg
-assets.screenshot: Screenshot/China Warrior (USA).jpg
 assets.video: Video/China Warrior (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -251,9 +221,6 @@ description:
 release: 1990-07-20
 players: 1
 assets.boxfront: BoxFront/Devil's Crush (USA).jpg
-assets.boxback: BoxBack/Devil's Crush (USA).jpg
-assets.background: Background/Devil's Crush (USA).jpg
-assets.screenshot: Screenshot/Devil's Crush (USA).jpg
 assets.video: Video/Devil's Crush (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -274,9 +241,6 @@ description:
 release: 1989-09-29
 players: 2
 assets.boxfront: BoxFront/Double Dungeons (USA).jpg
-assets.boxback: BoxBack/Double Dungeons (USA).jpg
-assets.background: Background/Double Dungeons (USA).jpg
-assets.screenshot: Screenshot/Double Dungeons (USA).jpg
 assets.video: Video/Double Dungeons (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -296,9 +260,6 @@ description:
 release: 1988-12-16
 players: 1
 assets.boxfront: BoxFront/Dragon Spirit (USA).jpg
-assets.boxback: BoxBack/Dragon Spirit (USA).jpg
-assets.background: Background/Dragon Spirit (USA).jpg
-assets.screenshot: Screenshot/Dragon Spirit (USA).jpg
 assets.video: Video/Dragon Spirit (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -318,9 +279,6 @@ description:
 release: 1989-03-04
 players: 4
 assets.boxfront: BoxFront/Dungeon Explorer (USA).jpg
-assets.boxback: BoxBack/Dungeon Explorer (USA).jpg
-assets.background: Background/Dungeon Explorer (USA).jpg
-assets.screenshot: Screenshot/Dungeon Explorer (USA).jpg
 assets.video: Video/Dungeon Explorer (USA).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -340,9 +298,6 @@ description:
 release: 1988-10-14
 players: 2
 assets.boxfront: BoxFront/Fantasy Zone (USA).jpg
-assets.boxback: BoxBack/Fantasy Zone (USA).jpg
-assets.background: Background/Fantasy Zone (USA).jpg
-assets.screenshot: Screenshot/Fantasy Zone (USA).jpg
 assets.video: Video/Fantasy Zone (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -364,9 +319,6 @@ description:
 release: 1987-11-30
 players: 1
 assets.boxfront: BoxFront/J.J. & Jeff (USA).jpg
-assets.boxback: BoxBack/J.J. & Jeff (USA).jpg
-assets.background: Background/J.J. & Jeff (USA).jpg
-assets.screenshot: Screenshot/J.J. & Jeff (USA).jpg
 assets.video: Video/J.J. & Jeff (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -399,9 +351,6 @@ description:
 release: 1988-08-30
 players: 1
 assets.boxfront: BoxFront/Keith Courage in Alpha Zones (USA).jpg
-assets.boxback: BoxBack/Keith Courage in Alpha Zones (USA).jpg
-assets.background: Background/Keith Courage in Alpha Zones (USA).jpg
-assets.screenshot: Screenshot/Keith Courage in Alpha Zones (USA).jpg
 assets.video: Video/Keith Courage in Alpha Zones (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -422,9 +371,6 @@ description:
 release: 1989-02-09
 players: 1
 assets.boxfront: BoxFront/Military Madness (USA).jpg
-assets.boxback: BoxBack/Military Madness (USA).jpg
-assets.background: Background/Military Madness (USA).jpg
-assets.screenshot: Screenshot/Military Madness (USA).jpg
 assets.video: Video/Military Madness (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -447,9 +393,6 @@ description:
 release: 1989-02-23
 players: 5
 assets.boxfront: BoxFront/Moto Roader (USA).jpg
-assets.boxback: BoxBack/Moto Roader (USA).jpg
-assets.background: Background/Moto Roader (USA).jpg
-assets.screenshot: Screenshot/Moto Roader (USA).jpg
 assets.video: Video/Moto Roader (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -469,9 +412,6 @@ description:
 release: 1989-11-17
 players: 1
 assets.boxfront: BoxFront/Neutopia (USA).jpg
-assets.boxback: BoxBack/Neutopia (USA).jpg
-assets.background: Background/Neutopia (USA).jpg
-assets.screenshot: Screenshot/Neutopia (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -492,9 +432,6 @@ description:
 release: 1991-09-27
 players: 1
 assets.boxfront: BoxFront/Neutopia II (USA).jpg
-assets.boxback: BoxBack/Neutopia II (USA).jpg
-assets.background: Background/Neutopia II (USA).jpg
-assets.screenshot: Screenshot/Neutopia II (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -519,9 +456,6 @@ description:
 release: 1992-06-26
 players: 1
 assets.boxfront: BoxFront/New Adventure Island (USA).jpg
-assets.boxback: BoxBack/New Adventure Island (USA).jpg
-assets.background: Background/New Adventure Island (USA).jpg
-assets.screenshot: Screenshot/New Adventure Island (USA).jpg
 assets.video: Video/New Adventure Island (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -545,9 +479,6 @@ description:
 release: 1990-07-06
 players: 1
 assets.boxfront: BoxFront/Ninja Spirit (USA).jpg
-assets.boxback: BoxBack/Ninja Spirit (USA).jpg
-assets.background: Background/Ninja Spirit (USA).jpg
-assets.screenshot: Screenshot/Ninja Spirit (USA).jpg
 assets.video: Video/Ninja Spirit (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -575,9 +506,6 @@ description:
 release: 1991-01-15
 players: 2
 assets.boxfront: BoxFront/Parasol Stars - The Story of Bubble Bobble III (USA).jpg
-assets.boxback: BoxBack/Parasol Stars - The Story of Bubble Bobble III (USA).jpg
-assets.background: Background/Parasol Stars - The Story of Bubble Bobble III (USA).jpg
-assets.screenshot: Screenshot/Parasol Stars - The Story of Bubble Bobble III (USA).jpg
 assets.video: Video/Parasol Stars - The Story of Bubble Bobble III (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -597,9 +525,6 @@ description:
 release: 1989-05-25
 players: 1
 assets.boxfront: BoxFront/Power Golf (USA).jpg
-assets.boxback: BoxBack/Power Golf (USA).jpg
-assets.background: Background/Power Golf (USA).jpg
-assets.screenshot: Screenshot/Power Golf (USA).jpg
 assets.video: Video/Power Golf (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -624,9 +549,6 @@ description:
 release: 1990-03-01
 players: 1
 assets.boxfront: BoxFront/Psychosis (USA).jpg
-assets.boxback: BoxBack/Psychosis (USA).jpg
-assets.background: Background/Psychosis (USA).jpg
-assets.screenshot: Screenshot/Psychosis (USA).jpg
 assets.video: Video/Psychosis (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -651,9 +573,6 @@ description:
 release: 1988-03-25
 players: 1
 assets.boxfront: BoxFront/R-Type (USA).jpg
-assets.boxback: BoxBack/R-Type (USA).jpg
-assets.background: Background/R-Type (USA).jpg
-assets.screenshot: Screenshot/R-Type (USA).jpg
 assets.video: Video/R-Type (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -680,9 +599,6 @@ description:
 release: 1991-04-27
 players: 2
 assets.boxfront: BoxFront/Shockman (USA).jpg
-assets.boxback: BoxBack/Shockman (USA).jpg
-assets.background: Background/Shockman (USA).jpg
-assets.screenshot: Screenshot/Shockman (USA).jpg
 assets.video: Video/Shockman (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -706,9 +622,6 @@ description:
 release: 1992-07-10
 players: 1
 assets.boxfront: BoxFront/Soldier Blade (USA).jpg
-assets.boxback: BoxBack/Soldier Blade (USA).jpg
-assets.background: Background/Soldier Blade (USA).jpg
-assets.screenshot: Screenshot/Soldier Blade (USA).jpg
 assets.video: Video/Soldier Blade (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -732,9 +645,6 @@ description:
 release: 1988-12-09
 players: 1
 assets.boxfront: BoxFront/Space Harrier (USA).jpg
-assets.boxback: BoxBack/Space Harrier (USA).jpg
-assets.background: Background/Space Harrier (USA).jpg
-assets.screenshot: Screenshot/Space Harrier (USA).jpg
 assets.video: Video/Space Harrier (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -756,9 +666,6 @@ description:
 release: 1990-07-06
 players: 1
 assets.boxfront: BoxFront/Super Star Soldier (USA).jpg
-assets.boxback: BoxBack/Super Star Soldier (USA).jpg
-assets.background: Background/Super Star Soldier (USA).jpg
-assets.screenshot: Screenshot/Super Star Soldier (USA).jpg
 assets.video: Video/Super Star Soldier (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -779,9 +686,6 @@ description:
 release: 1987-12-28
 players: 1
 assets.boxfront: BoxFront/Victory Run (USA).jpg
-assets.boxback: BoxBack/Victory Run (USA).jpg
-assets.background: Background/Victory Run (USA).jpg
-assets.screenshot: Screenshot/Victory Run (USA).jpg
 assets.video: Video/Victory Run (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -801,9 +705,6 @@ description:
 release: 1989-01-14
 players: 1
 assets.boxfront: BoxFront/Vigilante (USA).jpg
-assets.boxback: BoxBack/Vigilante (USA).jpg
-assets.background: Background/Vigilante (USA).jpg
-assets.screenshot: Screenshot/Vigilante (USA).jpg
 assets.video: Video/Vigilante (USA).mp4
 x-co-op: No
 x-playable: Yes

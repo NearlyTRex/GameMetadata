@@ -21,9 +21,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Alleykat (Europe).jpg
-assets.boxback: BoxBack/Alleykat (Europe).jpg
-assets.background: Background/Alleykat (Europe).jpg
-assets.screenshot: Screenshot/Alleykat (Europe).jpg
 assets.video: Video/Alleykat (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -49,9 +46,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/Anarchy (Europe).jpg
-assets.boxback: BoxBack/Anarchy (Europe).jpg
-assets.background: Background/Anarchy (Europe).jpg
-assets.screenshot: Screenshot/Anarchy (Europe).jpg
 assets.video: Video/Anarchy (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -79,9 +73,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Arc of Yesod, The (USA).jpg
-assets.boxback: BoxBack/Arc of Yesod, The (USA).jpg
-assets.background: Background/Arc of Yesod, The (USA).jpg
-assets.screenshot: Screenshot/Arc of Yesod, The (USA).jpg
 assets.video: Video/Arc of Yesod, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -98,9 +89,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Avenger (USA, Europe).jpg
-assets.boxback: BoxBack/Avenger (USA, Europe).jpg
-assets.background: Background/Avenger (USA, Europe).jpg
-assets.screenshot: Screenshot/Avenger (USA, Europe).jpg
 assets.video: Video/Avenger (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -122,9 +110,6 @@ description:
 release: 2016-01-01
 players: 1
 assets.boxfront: BoxFront/Barnsley Badger (Europe).jpg
-assets.boxback: BoxBack/Barnsley Badger (Europe).jpg
-assets.background: Background/Barnsley Badger (Europe).jpg
-assets.screenshot: Screenshot/Barnsley Badger (Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -148,9 +133,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/Battle Valley (Europe).jpg
-assets.boxback: BoxBack/Battle Valley (Europe).jpg
-assets.background: Background/Battle Valley (Europe).jpg
-assets.screenshot: Screenshot/Battle Valley (Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -169,9 +151,6 @@ description:
 release: 1984-07-15
 players: 2
 assets.boxfront: BoxFront/Boulder Dash (USA, Europe).jpg
-assets.boxback: BoxBack/Boulder Dash (USA, Europe).jpg
-assets.background: Background/Boulder Dash (USA, Europe).jpg
-assets.screenshot: Screenshot/Boulder Dash (USA, Europe).jpg
 assets.video: Video/Boulder Dash (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -206,9 +185,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Break Dance (Europe).jpg
-assets.boxback: BoxBack/Break Dance (Europe).jpg
-assets.background: Background/Break Dance (Europe).jpg
-assets.screenshot: Screenshot/Break Dance (Europe).jpg
 assets.video: Video/Break Dance (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -231,9 +207,6 @@ description:
 release: 1990-01-01
 players: 1
 assets.boxfront: BoxFront/Chip's Challenge (USA, Europe).jpg
-assets.boxback: BoxBack/Chip's Challenge (USA, Europe).jpg
-assets.background: Background/Chip's Challenge (USA, Europe).jpg
-assets.screenshot: Screenshot/Chip's Challenge (USA, Europe).jpg
 assets.video: Video/Chip's Challenge (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -263,9 +236,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/Coil Cop (USA).jpg
-assets.boxback: BoxBack/Coil Cop (USA).jpg
-assets.background: Background/Coil Cop (USA).jpg
-assets.screenshot: Screenshot/Coil Cop (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -288,9 +258,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Confuzion (Europe).jpg
-assets.boxback: BoxBack/Confuzion (Europe).jpg
-assets.background: Background/Confuzion (Europe).jpg
-assets.screenshot: Screenshot/Confuzion (Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -319,9 +286,6 @@ description:
 release: 1987-07-01
 players: 1
 assets.boxfront: BoxFront/Cosmic Causeway - Trailblazer II (Europe).jpg
-assets.boxback: BoxBack/Cosmic Causeway - Trailblazer II (Europe).jpg
-assets.background: Background/Cosmic Causeway - Trailblazer II (Europe).jpg
-assets.screenshot: Screenshot/Cosmic Causeway - Trailblazer II (Europe).jpg
 assets.video: Video/Cosmic Causeway - Trailblazer II (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -346,9 +310,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Cyberdyne Warrior (Europe).jpg
-assets.boxback: BoxBack/Cyberdyne Warrior (Europe).jpg
-assets.background: Background/Cyberdyne Warrior (Europe).jpg
-assets.screenshot: Screenshot/Cyberdyne Warrior (Europe).jpg
 assets.video: Video/Cyberdyne Warrior (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -376,9 +337,6 @@ description:
 release: 1988-07-01
 players: 1
 assets.boxfront: BoxFront/Cybernoid - The Fighting Machine (USA, Europe).jpg
-assets.boxback: BoxBack/Cybernoid - The Fighting Machine (USA, Europe).jpg
-assets.background: Background/Cybernoid - The Fighting Machine (USA, Europe).jpg
-assets.screenshot: Screenshot/Cybernoid - The Fighting Machine (USA, Europe).jpg
 assets.video: Video/Cybernoid - The Fighting Machine (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -403,9 +361,6 @@ description:
 release: 1988-07-01
 players: 1
 assets.boxfront: BoxFront/Cybernoid II (Europe).jpg
-assets.boxback: BoxBack/Cybernoid II (Europe).jpg
-assets.background: Background/Cybernoid II (Europe).jpg
-assets.screenshot: Screenshot/Cybernoid II (Europe).jpg
 assets.video: Video/Cybernoid II (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -430,9 +385,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/Deflektor (Europe).jpg
-assets.boxback: BoxBack/Deflektor (Europe).jpg
-assets.background: Background/Deflektor (Europe).jpg
-assets.screenshot: Screenshot/Deflektor (Europe).jpg
 assets.video: Video/Deflektor (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -460,9 +412,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Destroyer (USA, Europe).jpg
-assets.boxback: BoxBack/Destroyer (USA, Europe).jpg
-assets.background: Background/Destroyer (USA, Europe).jpg
-assets.screenshot: Screenshot/Destroyer (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -483,9 +432,6 @@ description:
 release: 2012-04-06
 players: 1
 assets.boxfront: BoxFront/Epyx Games Collection (USA, Europe) (Multicart).jpg
-assets.boxback: BoxBack/Epyx Games Collection (USA, Europe) (Multicart).jpg
-assets.background: Background/Epyx Games Collection (USA, Europe) (Multicart).jpg
-assets.screenshot: Screenshot/Epyx Games Collection (USA, Europe) (Multicart).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -506,9 +452,6 @@ description:
 release: 2012-04-06
 players: 1
 assets.boxfront: BoxFront/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash).jpg
-assets.boxback: BoxBack/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash).jpg
-assets.background: Background/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash).jpg
-assets.screenshot: Screenshot/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -544,9 +487,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Everyone's a Wally (USA, Europe).jpg
-assets.boxback: BoxBack/Everyone's a Wally (USA, Europe).jpg
-assets.background: Background/Everyone's a Wally (USA, Europe).jpg
-assets.screenshot: Screenshot/Everyone's a Wally (USA, Europe).jpg
 assets.video: Video/Everyone's a Wally (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -575,9 +515,6 @@ description:
 release: 2018-11-30
 players: 1
 assets.boxfront: BoxFront/Farming Simulator (USA, Europe).jpg
-assets.boxback: BoxBack/Farming Simulator (USA, Europe).jpg
-assets.background: Background/Farming Simulator (USA, Europe).jpg
-assets.screenshot: Screenshot/Farming Simulator (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -600,9 +537,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Firelord (Europe).jpg
-assets.boxback: BoxBack/Firelord (Europe).jpg
-assets.background: Background/Firelord (Europe).jpg
-assets.screenshot: Screenshot/Firelord (Europe).jpg
 assets.video: Video/Firelord (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -620,9 +554,6 @@ description:
 release: 2018-12-28
 players: 1
 assets.boxfront: BoxFront/Galencia Mini (Europe).jpg
-assets.boxback: BoxBack/Galencia Mini (Europe).jpg
-assets.background: Background/Galencia Mini (Europe).jpg
-assets.screenshot: Screenshot/Galencia Mini (Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -665,9 +596,6 @@ description:
 release: 1983-08-28
 players: 1
 assets.boxfront: BoxFront/Gateway to Apshai (USA, Europe).jpg
-assets.boxback: BoxBack/Gateway to Apshai (USA, Europe).jpg
-assets.background: Background/Gateway to Apshai (USA, Europe).jpg
-assets.screenshot: Screenshot/Gateway to Apshai (USA, Europe).jpg
 assets.video: Video/Gateway to Apshai (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -704,9 +632,6 @@ description:
 release: 1985-06-01
 players: 1
 assets.boxfront: BoxFront/Gribbly's Day Out (USA, Europe).jpg
-assets.boxback: BoxBack/Gribbly's Day Out (USA, Europe).jpg
-assets.background: Background/Gribbly's Day Out (USA, Europe).jpg
-assets.screenshot: Screenshot/Gribbly's Day Out (USA, Europe).jpg
 assets.video: Video/Gribbly's Day Out (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -730,9 +655,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Heartland (Europe).jpg
-assets.boxback: BoxBack/Heartland (Europe).jpg
-assets.background: Background/Heartland (Europe).jpg
-assets.screenshot: Screenshot/Heartland (Europe).jpg
 assets.video: Video/Heartland (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -759,9 +681,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/Herobotix (Europe).jpg
-assets.boxback: BoxBack/Herobotix (Europe).jpg
-assets.background: Background/Herobotix (Europe).jpg
-assets.screenshot: Screenshot/Herobotix (Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -799,9 +718,6 @@ description:
 release: 2016-02-01
 players: 1
 assets.boxfront: BoxFront/Hessian (USA, Europe).jpg
-assets.boxback: BoxBack/Hessian (USA, Europe).jpg
-assets.background: Background/Hessian (USA, Europe).jpg
-assets.screenshot: Screenshot/Hessian (USA, Europe).jpg
 assets.video: Video/Hessian (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -824,9 +740,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Highway Encounter (Europe).jpg
-assets.boxback: BoxBack/Highway Encounter (Europe).jpg
-assets.background: Background/Highway Encounter (Europe).jpg
-assets.screenshot: Screenshot/Highway Encounter (Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -853,9 +766,6 @@ description:
 release: 1987-07-15
 players: 1
 assets.boxfront: BoxFront/Hunter's Moon (Europe).jpg
-assets.boxback: BoxBack/Hunter's Moon (Europe).jpg
-assets.background: Background/Hunter's Moon (Europe).jpg
-assets.screenshot: Screenshot/Hunter's Moon (Europe).jpg
 assets.video: Video/Hunter's Moon (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -883,9 +793,6 @@ description:
 release: 1987-07-01
 players: 1
 assets.boxfront: BoxFront/Hysteria (Europe).jpg
-assets.boxback: BoxBack/Hysteria (Europe).jpg
-assets.background: Background/Hysteria (Europe).jpg
-assets.screenshot: Screenshot/Hysteria (Europe).jpg
 assets.video: Video/Hysteria (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -910,9 +817,6 @@ description:
 release: 1988-07-01
 players: 1
 assets.boxfront: BoxFront/IO - Into Oblivion (Europe).jpg
-assets.boxback: BoxBack/IO - Into Oblivion (Europe).jpg
-assets.background: Background/IO - Into Oblivion (Europe).jpg
-assets.screenshot: Screenshot/IO - Into Oblivion (Europe).jpg
 assets.video: Video/IO - Into Oblivion (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -934,9 +838,6 @@ description:
 release: 1984-07-01
 players: 1
 assets.boxfront: BoxFront/Impossible Mission (USA, Europe).jpg
-assets.boxback: BoxBack/Impossible Mission (USA, Europe).jpg
-assets.background: Background/Impossible Mission (USA, Europe).jpg
-assets.screenshot: Screenshot/Impossible Mission (USA, Europe).jpg
 assets.video: Video/Impossible Mission (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -966,9 +867,6 @@ description:
 release: 1988-07-15
 players: 1
 assets.boxfront: BoxFront/Impossible Mission II (USA, Europe).jpg
-assets.boxback: BoxBack/Impossible Mission II (USA, Europe).jpg
-assets.background: Background/Impossible Mission II (USA, Europe).jpg
-assets.screenshot: Screenshot/Impossible Mission II (USA, Europe).jpg
 assets.video: Video/Impossible Mission II (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -996,9 +894,6 @@ description:
 release: 1983-07-15
 players: 1
 assets.boxfront: BoxFront/Jumpman (USA, Europe).jpg
-assets.boxback: BoxBack/Jumpman (USA, Europe).jpg
-assets.background: Background/Jumpman (USA, Europe).jpg
-assets.screenshot: Screenshot/Jumpman (USA, Europe).jpg
 assets.video: Video/Jumpman (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1028,9 +923,6 @@ description:
 release: 1983-10-01
 players: 1
 assets.boxfront: BoxFront/Jumpman Junior (USA, Europe).jpg
-assets.boxback: BoxBack/Jumpman Junior (USA, Europe).jpg
-assets.background: Background/Jumpman Junior (USA, Europe).jpg
-assets.screenshot: Screenshot/Jumpman Junior (USA, Europe).jpg
 assets.video: Video/Jumpman Junior (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1060,9 +952,6 @@ description:
 release: 1987-09-01
 players: 2
 assets.boxfront: BoxFront/Mega-Apocalypse (Europe).jpg
-assets.boxback: BoxBack/Mega-Apocalypse (Europe).jpg
-assets.background: Background/Mega-Apocalypse (Europe).jpg
-assets.screenshot: Screenshot/Mega-Apocalypse (Europe).jpg
 assets.video: Video/Mega-Apocalypse (Europe).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -1086,9 +975,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Mission A.D. (Europe).jpg
-assets.boxback: BoxBack/Mission A.D. (Europe).jpg
-assets.background: Background/Mission A.D. (Europe).jpg
-assets.screenshot: Screenshot/Mission A.D. (Europe).jpg
 assets.video: Video/Mission A.D. (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1117,9 +1003,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Monty on the Run (Europe).jpg
-assets.boxback: BoxBack/Monty on the Run (Europe).jpg
-assets.background: Background/Monty on the Run (Europe).jpg
-assets.screenshot: Screenshot/Monty on the Run (Europe).jpg
 assets.video: Video/Monty on the Run (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1147,9 +1030,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/Netherworld (USA, Europe).jpg
-assets.boxback: BoxBack/Netherworld (USA, Europe).jpg
-assets.background: Background/Netherworld (USA, Europe).jpg
-assets.screenshot: Screenshot/Netherworld (USA, Europe).jpg
 assets.video: Video/Netherworld (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1175,9 +1055,6 @@ description:
 release: 1993
 players: 1
 assets.boxfront: BoxFront/Nobby the Ardvark (USA, Europe).jpg
-assets.boxback: BoxBack/Nobby the Ardvark (USA, Europe).jpg
-assets.background: Background/Nobby the Ardvark (USA, Europe).jpg
-assets.screenshot: Screenshot/Nobby the Ardvark (USA, Europe).jpg
 assets.video: Video/Nobby the Ardvark (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1206,9 +1083,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Nodes of Yesod (USA).jpg
-assets.boxback: BoxBack/Nodes of Yesod (USA).jpg
-assets.background: Background/Nodes of Yesod (USA).jpg
-assets.screenshot: Screenshot/Nodes of Yesod (USA).jpg
 assets.video: Video/Nodes of Yesod (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1234,9 +1108,6 @@ description:
 release: 2020-08-09
 players: 1
 assets.boxfront: BoxFront/PET Snake Redux (USA, Europe).jpg
-assets.boxback: BoxBack/PET Snake Redux (USA, Europe).jpg
-assets.background: Background/PET Snake Redux (USA, Europe).jpg
-assets.screenshot: Screenshot/PET Snake Redux (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1262,9 +1133,6 @@ description:
 release: 1985-03-01
 players: 1
 assets.boxfront: BoxFront/Paradroid (USA, Europe).jpg
-assets.boxback: BoxBack/Paradroid (USA, Europe).jpg
-assets.background: Background/Paradroid (USA, Europe).jpg
-assets.screenshot: Screenshot/Paradroid (USA, Europe).jpg
 assets.video: Video/Paradroid (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1295,9 +1163,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Pitstop II (Europe).jpg
-assets.boxback: BoxBack/Pitstop II (Europe).jpg
-assets.background: Background/Pitstop II (Europe).jpg
-assets.screenshot: Screenshot/Pitstop II (Europe).jpg
 assets.video: Video/Pitstop II (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1337,9 +1202,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/Ranarama (Europe).jpg
-assets.boxback: BoxBack/Ranarama (Europe).jpg
-assets.background: Background/Ranarama (Europe).jpg
-assets.screenshot: Screenshot/Ranarama (Europe).jpg
 assets.video: Video/Ranarama (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1374,9 +1236,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Robin of the Wood (Europe).jpg
-assets.boxback: BoxBack/Robin of the Wood (Europe).jpg
-assets.background: Background/Robin of the Wood (Europe).jpg
-assets.screenshot: Screenshot/Robin of the Wood (Europe).jpg
 assets.video: Video/Robin of the Wood (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1397,9 +1256,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Silicon Warrior (USA, Europe).jpg
-assets.boxback: BoxBack/Silicon Warrior (USA, Europe).jpg
-assets.background: Background/Silicon Warrior (USA, Europe).jpg
-assets.screenshot: Screenshot/Silicon Warrior (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1423,9 +1279,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/Skate Crazy (USA, Europe).jpg
-assets.boxback: BoxBack/Skate Crazy (USA, Europe).jpg
-assets.background: Background/Skate Crazy (USA, Europe).jpg
-assets.screenshot: Screenshot/Skate Crazy (USA, Europe).jpg
 assets.video: Video/Skate Crazy (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1459,9 +1312,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Skool Daze (Europe).jpg
-assets.boxback: BoxBack/Skool Daze (Europe).jpg
-assets.background: Background/Skool Daze (Europe).jpg
-assets.screenshot: Screenshot/Skool Daze (Europe).jpg
 assets.video: Video/Skool Daze (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1494,9 +1344,6 @@ description:
 release: 1993-01-01
 players: 1
 assets.boxfront: BoxFront/Snare (USA, Europe).jpg
-assets.boxback: BoxBack/Snare (USA, Europe).jpg
-assets.background: Background/Snare (USA, Europe).jpg
-assets.screenshot: Screenshot/Snare (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1533,9 +1380,6 @@ description:
 release: 2012-06-01
 players: 1
 assets.boxfront: BoxFront/Soulless (USA).jpg
-assets.boxback: BoxBack/Soulless (USA).jpg
-assets.background: Background/Soulless (USA).jpg
-assets.screenshot: Screenshot/Soulless (USA).jpg
 assets.video: Video/Soulless (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -1560,9 +1404,6 @@ description:
 release: 1989-01-01
 players: 2
 assets.boxfront: BoxFront/Speedball (USA, Europe).jpg
-assets.boxback: BoxBack/Speedball (USA, Europe).jpg
-assets.background: Background/Speedball (USA, Europe).jpg
-assets.screenshot: Screenshot/Speedball (USA, Europe).jpg
 assets.video: Video/Speedball (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1589,9 +1430,6 @@ description:
 release: 1991-01-01
 players: 2
 assets.boxfront: BoxFront/Speedball 2 (USA, Europe).jpg
-assets.boxback: BoxBack/Speedball 2 (USA, Europe).jpg
-assets.background: Background/Speedball 2 (USA, Europe).jpg
-assets.screenshot: Screenshot/Speedball 2 (USA, Europe).jpg
 assets.video: Video/Speedball 2 (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1616,9 +1454,6 @@ description:
 release: 1986-07-15
 players: 1
 assets.boxfront: BoxFront/Spindizzy (USA, Europe).jpg
-assets.boxback: BoxBack/Spindizzy (USA, Europe).jpg
-assets.background: Background/Spindizzy (USA, Europe).jpg
-assets.screenshot: Screenshot/Spindizzy (USA, Europe).jpg
 assets.video: Video/Spindizzy (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1639,9 +1474,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Street Sports Baseball (USA, Europe).jpg
-assets.boxback: BoxBack/Street Sports Baseball (USA, Europe).jpg
-assets.background: Background/Street Sports Baseball (USA, Europe).jpg
-assets.screenshot: Screenshot/Street Sports Baseball (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1666,9 +1498,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Street Sports Basketball (USA, Europe).jpg
-assets.boxback: BoxBack/Street Sports Basketball (USA, Europe).jpg
-assets.background: Background/Street Sports Basketball (USA, Europe).jpg
-assets.screenshot: Screenshot/Street Sports Basketball (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1686,9 +1515,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Street Sports Soccer (USA, Europe).jpg
-assets.boxback: BoxBack/Street Sports Soccer (USA, Europe).jpg
-assets.background: Background/Street Sports Soccer (USA, Europe).jpg
-assets.screenshot: Screenshot/Street Sports Soccer (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1711,9 +1537,6 @@ description:
 release: 1986-07-15
 players: 1
 assets.boxfront: BoxFront/Super Cycle (USA, Europe).jpg
-assets.boxback: BoxBack/Super Cycle (USA, Europe).jpg
-assets.background: Background/Super Cycle (USA, Europe).jpg
-assets.screenshot: Screenshot/Super Cycle (USA, Europe).jpg
 assets.video: Video/Super Cycle (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1743,9 +1566,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Sword of Fargoal, The (USA, Europe).jpg
-assets.boxback: BoxBack/Sword of Fargoal, The (USA, Europe).jpg
-assets.background: Background/Sword of Fargoal, The (USA, Europe).jpg
-assets.screenshot: Screenshot/Sword of Fargoal, The (USA, Europe).jpg
 assets.video: Video/Sword of Fargoal, The (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1773,9 +1593,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Temple of Apshai Trilogy (USA, Europe).jpg
-assets.boxback: BoxBack/Temple of Apshai Trilogy (USA, Europe).jpg
-assets.background: Background/Temple of Apshai Trilogy (USA, Europe).jpg
-assets.screenshot: Screenshot/Temple of Apshai Trilogy (USA, Europe).jpg
 assets.video: Video/Temple of Apshai Trilogy (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1798,9 +1615,6 @@ description:
 release: 1985-07-01
 players: 1
 assets.boxfront: BoxFront/Thing on a Spring (USA, Europe).jpg
-assets.boxback: BoxBack/Thing on a Spring (USA, Europe).jpg
-assets.background: Background/Thing on a Spring (USA, Europe).jpg
-assets.screenshot: Screenshot/Thing on a Spring (USA, Europe).jpg
 assets.video: Video/Thing on a Spring (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1833,9 +1647,6 @@ description:
 release: 1987-12-15
 players: 2
 assets.boxfront: BoxFront/Tower Toppler (USA, Europe).jpg
-assets.boxback: BoxBack/Tower Toppler (USA, Europe).jpg
-assets.background: Background/Tower Toppler (USA, Europe).jpg
-assets.screenshot: Screenshot/Tower Toppler (USA, Europe).jpg
 assets.video: Video/Tower Toppler (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1860,9 +1671,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Trailblazer (USA, Europe).jpg
-assets.boxback: BoxBack/Trailblazer (USA, Europe).jpg
-assets.background: Background/Trailblazer (USA, Europe).jpg
-assets.screenshot: Screenshot/Trailblazer (USA, Europe).jpg
 assets.video: Video/Trailblazer (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1888,9 +1696,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Uridium (USA, Europe).jpg
-assets.boxback: BoxBack/Uridium (USA, Europe).jpg
-assets.background: Background/Uridium (USA, Europe).jpg
-assets.screenshot: Screenshot/Uridium (USA, Europe).jpg
 assets.video: Video/Uridium (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1935,9 +1740,6 @@ description:
 release: 2020-03-19
 players: 1
 assets.boxfront: BoxFront/Vegetables Deluxe C64 (USA).jpg
-assets.boxback: BoxBack/Vegetables Deluxe C64 (USA).jpg
-assets.background: Background/Vegetables Deluxe C64 (USA).jpg
-assets.screenshot: Screenshot/Vegetables Deluxe C64 (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1964,9 +1766,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/West Bank (USA, Europe).jpg
-assets.boxback: BoxBack/West Bank (USA, Europe).jpg
-assets.background: Background/West Bank (USA, Europe).jpg
-assets.screenshot: Screenshot/West Bank (USA, Europe).jpg
 assets.video: Video/West Bank (USA, Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -1994,9 +1793,6 @@ description:
 release: 1985-10-16
 players: 1
 assets.boxfront: BoxFront/Who Dares Wins II (Europe).jpg
-assets.boxback: BoxBack/Who Dares Wins II (Europe).jpg
-assets.background: Background/Who Dares Wins II (Europe).jpg
-assets.screenshot: Screenshot/Who Dares Wins II (Europe).jpg
 assets.video: Video/Who Dares Wins II (Europe).mp4
 x-co-op: No
 x-playable: Yes
@@ -2015,9 +1811,6 @@ description:
 release: 1987-07-01
 players: 1
 assets.boxfront: BoxFront/Zynaps (Europe).jpg
-assets.boxback: BoxBack/Zynaps (Europe).jpg
-assets.background: Background/Zynaps (Europe).jpg
-assets.screenshot: Screenshot/Zynaps (Europe).jpg
 assets.video: Video/Zynaps (Europe).mp4
 x-co-op: No
 x-playable: Yes

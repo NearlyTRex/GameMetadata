@@ -29,9 +29,6 @@ description:
 release: 1990-02-01
 players: 2
 assets.boxfront: BoxFront/1941 - Counter Attack (World) (1941).jpg
-assets.boxback: BoxBack/1941 - Counter Attack (World) (1941).jpg
-assets.background: Background/1941 - Counter Attack (World) (1941).jpg
-assets.screenshot: Screenshot/1941 - Counter Attack (World) (1941).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -53,9 +50,6 @@ description:
 release: 1984-12-01
 players: 2
 assets.boxfront: BoxFront/1942 (World) (1942).jpg
-assets.boxback: BoxBack/1942 (World) (1942).jpg
-assets.background: Background/1942 (World) (1942).jpg
-assets.screenshot: Screenshot/1942 (World) (1942).jpg
 assets.video: Video/1942 (World) (1942).mp4
 x-co-op: No
 x-playable: Yes
@@ -89,9 +83,6 @@ description:
 release: 1987-06-01
 players: 2
 assets.boxfront: BoxFront/1943 - The Battle of Midway (Europe) (1943).jpg
-assets.boxback: BoxBack/1943 - The Battle of Midway (Europe) (1943).jpg
-assets.background: Background/1943 - The Battle of Midway (Europe) (1943).jpg
-assets.screenshot: Screenshot/1943 - The Battle of Midway (Europe) (1943).jpg
 assets.video: Video/1943 - The Battle of Midway (Europe) (1943).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -133,9 +124,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/1943 Kai - Midway Kaisen (Japan) (1943kai).jpg
-assets.boxback: BoxBack/1943 Kai - Midway Kaisen (Japan) (1943kai).jpg
-assets.background: Background/1943 Kai - Midway Kaisen (Japan) (1943kai).jpg
-assets.screenshot: Screenshot/1943 Kai - Midway Kaisen (Japan) (1943kai).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -155,9 +143,6 @@ description:
 release: 2000-06-20
 players: 2
 assets.boxfront: BoxFront/1944 - The Loop Master (Europe) (1944).jpg
-assets.boxback: BoxBack/1944 - The Loop Master (Europe) (1944).jpg
-assets.background: Background/1944 - The Loop Master (Europe) (1944).jpg
-assets.screenshot: Screenshot/1944 - The Loop Master (Europe) (1944).jpg
 assets.video: Video/1944 - The Loop Master (Europe) (1944).mp4
 x-co-op: No
 x-playable: Yes
@@ -178,9 +163,6 @@ description:
 release: 1995-12-07
 players: 2
 assets.boxfront: BoxFront/19XX - The War Against Destiny (Europe) (19xx).jpg
-assets.boxback: BoxBack/19XX - The War Against Destiny (Europe) (19xx).jpg
-assets.background: Background/19XX - The War Against Destiny (Europe) (19xx).jpg
-assets.screenshot: Screenshot/19XX - The War Against Destiny (Europe) (19xx).jpg
 assets.video: Video/19XX - The War Against Destiny (Europe) (19xx).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -208,9 +190,6 @@ description:
 release: 1986-12-01
 players: 2
 assets.boxfront: BoxFront/720 Degrees (World) (720).jpg
-assets.boxback: BoxBack/720 Degrees (World) (720).jpg
-assets.background: Background/720 Degrees (World) (720).jpg
-assets.screenshot: Screenshot/720 Degrees (World) (720).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -260,9 +239,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/APB - All Points Bulletin (World) (apb).jpg
-assets.boxback: BoxBack/APB - All Points Bulletin (World) (apb).jpg
-assets.background: Background/APB - All Points Bulletin (World) (apb).jpg
-assets.screenshot: Screenshot/APB - All Points Bulletin (World) (apb).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -292,9 +268,6 @@ description:
 release: 1982-01-01
 players: 1
 assets.boxfront: BoxFront/Akka Arrh (World) (Proto) (akkaarrh).jpg
-assets.boxback: BoxBack/Akka Arrh (World) (Proto) (akkaarrh).jpg
-assets.background: Background/Akka Arrh (World) (Proto) (akkaarrh).jpg
-assets.screenshot: Screenshot/Akka Arrh (World) (Proto) (akkaarrh).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -319,9 +292,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Alien Syndrome (World) (aliensyn).jpg
-assets.boxback: BoxBack/Alien Syndrome (World) (aliensyn).jpg
-assets.background: Background/Alien Syndrome (World) (aliensyn).jpg
-assets.screenshot: Screenshot/Alien Syndrome (World) (aliensyn).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -344,9 +314,6 @@ description:
 release: 1985-11-01
 players: 1
 assets.boxfront: BoxFront/Alpha Mission (World) (alphamis).jpg
-assets.boxback: BoxBack/Alpha Mission (World) (alphamis).jpg
-assets.background: Background/Alpha Mission (World) (alphamis).jpg
-assets.screenshot: Screenshot/Alpha Mission (World) (alphamis).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -376,9 +343,6 @@ description:
 release: 1988-08-01
 players: 2
 assets.boxfront: BoxFront/Altered Beast (World) (altbeast).jpg
-assets.boxback: BoxBack/Altered Beast (World) (altbeast).jpg
-assets.background: Background/Altered Beast (World) (altbeast).jpg
-assets.screenshot: Screenshot/Altered Beast (World) (altbeast).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -408,9 +372,6 @@ description:
 release: 1989-01-01
 players: 2
 assets.boxfront: BoxFront/Arch Rivals (World) (archrivl).jpg
-assets.boxback: BoxBack/Arch Rivals (World) (archrivl).jpg
-assets.background: Background/Arch Rivals (World) (archrivl).jpg
-assets.screenshot: Screenshot/Arch Rivals (World) (archrivl).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -443,9 +404,6 @@ description:
 release: 1994-10-24
 players: 3
 assets.boxfront: BoxFront/Armored Warriors (Europe) (armwar).jpg
-assets.boxback: BoxBack/Armored Warriors (Europe) (armwar).jpg
-assets.background: Background/Armored Warriors (Europe) (armwar).jpg
-assets.screenshot: Screenshot/Armored Warriors (Europe) (armwar).jpg
 assets.video: Video/Armored Warriors (Europe) (armwar).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -469,9 +427,6 @@ description:
 release: 1992-09-24
 players: 2
 assets.boxfront: BoxFront/Art of Fighting (World) (aof).jpg
-assets.boxback: BoxBack/Art of Fighting (World) (aof).jpg
-assets.background: Background/Art of Fighting (World) (aof).jpg
-assets.screenshot: Screenshot/Art of Fighting (World) (aof).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -498,9 +453,6 @@ description:
 release: 1979-01-01
 players: 2
 assets.boxfront: BoxFront/Asteroids (World) (asteroid).jpg
-assets.boxback: BoxBack/Asteroids (World) (asteroid).jpg
-assets.background: Background/Asteroids (World) (asteroid).jpg
-assets.screenshot: Screenshot/Asteroids (World) (asteroid).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -545,9 +497,6 @@ description:
 release: 1980-01-01
 players: 2
 assets.boxfront: BoxFront/Asteroids Deluxe (World) (astdelux).jpg
-assets.boxback: BoxBack/Asteroids Deluxe (World) (astdelux).jpg
-assets.background: Background/Asteroids Deluxe (World) (astdelux).jpg
-assets.screenshot: Screenshot/Asteroids Deluxe (World) (astdelux).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -566,9 +515,6 @@ description:
 release: 1979-06-01
 players: 2
 assets.boxfront: BoxFront/Atari Baseball (World) (abaseb).jpg
-assets.boxback: BoxBack/Atari Baseball (World) (abaseb).jpg
-assets.background: Background/Atari Baseball (World) (abaseb).jpg
-assets.screenshot: Screenshot/Atari Baseball (World) (abaseb).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -588,9 +534,6 @@ description:
 release: 1979-05-01
 players: 2
 assets.boxfront: BoxFront/Atari Basketball (World) (bsktball).jpg
-assets.boxback: BoxBack/Atari Basketball (World) (bsktball).jpg
-assets.background: Background/Atari Basketball (World) (bsktball).jpg
-assets.screenshot: Screenshot/Atari Basketball (World) (bsktball).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -610,9 +553,6 @@ description:
 release: 1978-10-01
 players: 4
 assets.boxfront: BoxFront/Atari Football (World) (atarifb).jpg
-assets.boxback: BoxBack/Atari Football (World) (atarifb).jpg
-assets.background: Background/Atari Football (World) (atarifb).jpg
-assets.screenshot: Screenshot/Atari Football (World) (atarifb).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -633,9 +573,6 @@ description:
 release: 1980-04-01
 players: 4
 assets.boxfront: BoxFront/Atari Soccer (World) (soccer).jpg
-assets.boxback: BoxBack/Atari Soccer (World) (soccer).jpg
-assets.background: Background/Atari Soccer (World) (soccer).jpg
-assets.screenshot: Screenshot/Atari Soccer (World) (soccer).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -655,9 +592,6 @@ description:
 release: 1986-06-01
 players: 2
 assets.boxfront: BoxFront/Athena (World) (athena).jpg
-assets.boxback: BoxBack/Athena (World) (athena).jpg
-assets.background: Background/Athena (World) (athena).jpg
-assets.screenshot: Screenshot/Athena (World) (athena).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -686,9 +620,6 @@ description:
 release: 1978-04-01
 players: 2
 assets.boxfront: BoxFront/Avalanche (World) (avalnche).jpg
-assets.boxback: BoxBack/Avalanche (World) (avalnche).jpg
-assets.background: Background/Avalanche (World) (avalnche).jpg
-assets.screenshot: Screenshot/Avalanche (World) (avalnche).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -716,9 +647,6 @@ description:
 release: 1987-02-06
 players: 2
 assets.boxfront: BoxFront/Avengers (USA) (avengers).jpg
-assets.boxback: BoxBack/Avengers (USA) (avengers).jpg
-assets.background: Background/Avengers (USA) (avengers).jpg
-assets.screenshot: Screenshot/Avengers (USA) (avengers).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -734,9 +662,6 @@ description:
 release: 1992-04-28
 players: 2
 assets.boxfront: BoxFront/Baseball Stars 2 (World) (bstars2).jpg
-assets.boxback: BoxBack/Baseball Stars 2 (World) (bstars2).jpg
-assets.background: Background/Baseball Stars 2 (World) (bstars2).jpg
-assets.screenshot: Screenshot/Baseball Stars 2 (World) (bstars2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -768,9 +693,6 @@ description:
 release: 1997-03-19
 players: 4
 assets.boxfront: BoxFront/Battle Circuit (Europe) (batcir).jpg
-assets.boxback: BoxBack/Battle Circuit (Europe) (batcir).jpg
-assets.background: Background/Battle Circuit (Europe) (batcir).jpg
-assets.screenshot: Screenshot/Battle Circuit (Europe) (batcir).jpg
 assets.video: Video/Battle Circuit (Europe) (batcir).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -795,9 +717,6 @@ description:
 release: 1980-11-01
 players: 1
 assets.boxfront: BoxFront/Battle Zone (World) (bzone).jpg
-assets.boxback: BoxBack/Battle Zone (World) (bzone).jpg
-assets.background: Background/Battle Zone (World) (bzone).jpg
-assets.screenshot: Screenshot/Battle Zone (World) (bzone).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -828,9 +747,6 @@ description:
 release: 1994-03-01
 players: 3
 assets.boxfront: BoxFront/Battletoads (World) (btoads).jpg
-assets.boxback: BoxBack/Battletoads (World) (btoads).jpg
-assets.background: Background/Battletoads (World) (btoads).jpg
-assets.screenshot: Screenshot/Battletoads (World) (btoads).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -848,9 +764,6 @@ description:
 release: 1989-01-01
 players: 2
 assets.boxfront: BoxFront/Beast Busters (World) (bbusters).jpg
-assets.boxback: BoxBack/Beast Busters (World) (bbusters).jpg
-assets.background: Background/Beast Busters (World) (bbusters).jpg
-assets.screenshot: Screenshot/Beast Busters (World) (bbusters).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -883,9 +796,6 @@ description:
 release: 1987-11-01
 players: 2
 assets.boxfront: BoxFront/Bermuda Triangle (World) (bermudat).jpg
-assets.boxback: BoxBack/Bermuda Triangle (World) (bermudat).jpg
-assets.background: Background/Bermuda Triangle (World) (bermudat).jpg
-assets.screenshot: Screenshot/Bermuda Triangle (World) (bermudat).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -906,9 +816,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Bionic Commando (Europe) (bionicc).jpg
-assets.boxback: BoxBack/Bionic Commando (Europe) (bionicc).jpg
-assets.background: Background/Bionic Commando (Europe) (bionicc).jpg
-assets.screenshot: Screenshot/Bionic Commando (Europe) (bionicc).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -930,9 +837,6 @@ description:
 release: 1987-08-01
 players: 2
 assets.boxfront: BoxFront/Black Tiger (World) (blktiger).jpg
-assets.boxback: BoxBack/Black Tiger (World) (blktiger).jpg
-assets.background: Background/Black Tiger (World) (blktiger).jpg
-assets.screenshot: Screenshot/Black Tiger (World) (blktiger).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -953,9 +857,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Black Widow (World) (bwidow).jpg
-assets.boxback: BoxBack/Black Widow (World) (bwidow).jpg
-assets.background: Background/Black Widow (World) (bwidow).jpg
-assets.screenshot: Screenshot/Black Widow (World) (bwidow).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1048,9 +949,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Blaster (World) (blaster).jpg
-assets.boxback: BoxBack/Blaster (World) (blaster).jpg
-assets.background: Background/Blaster (World) (blaster).jpg
-assets.screenshot: Screenshot/Blaster (World) (blaster).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1066,9 +964,6 @@ description:
 release: 1991-01-01
 players: 2
 assets.boxfront: BoxFront/Block Block (World) (block).jpg
-assets.boxback: BoxBack/Block Block (World) (block).jpg
-assets.background: Background/Block Block (World) (block).jpg
-assets.screenshot: Screenshot/Block Block (World) (block).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1097,9 +992,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Bosconian - Star Destroyer (World) (bosco).jpg
-assets.boxback: BoxBack/Bosconian - Star Destroyer (World) (bosco).jpg
-assets.background: Background/Bosconian - Star Destroyer (World) (bosco).jpg
-assets.screenshot: Screenshot/Bosconian - Star Destroyer (World) (bosco).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1151,9 +1043,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Bubbles (World) (bubbles).jpg
-assets.boxback: BoxBack/Bubbles (World) (bubbles).jpg
-assets.background: Background/Bubbles (World) (bubbles).jpg
-assets.screenshot: Screenshot/Bubbles (World) (bubbles).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1174,9 +1063,6 @@ description:
 release: 1991-05-20
 players: 2
 assets.boxfront: BoxFront/Burning Fight (World) (burningf).jpg
-assets.boxback: BoxBack/Burning Fight (World) (burningf).jpg
-assets.background: Background/Burning Fight (World) (burningf).jpg
-assets.screenshot: Screenshot/Burning Fight (World) (burningf).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1194,9 +1080,6 @@ description:
 release: 1989-04-01
 players: 2
 assets.boxfront: BoxFront/Buster Bros. (USA) (bbros).jpg
-assets.boxback: BoxBack/Buster Bros. (USA) (bbros).jpg
-assets.background: Background/Buster Bros. (USA) (bbros).jpg
-assets.screenshot: Screenshot/Buster Bros. (USA) (bbros).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1226,9 +1109,6 @@ description:
 release: 1977-11-01
 players: 2
 assets.boxfront: BoxFront/Canyon Bomber (World) (canyon).jpg
-assets.boxback: BoxBack/Canyon Bomber (World) (canyon).jpg
-assets.background: Background/Canyon Bomber (World) (canyon).jpg
-assets.screenshot: Screenshot/Canyon Bomber (World) (canyon).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1245,9 +1125,6 @@ description:
 release: 1997-01-01
 players: 2
 assets.boxfront: BoxFront/Capcom Sports Club (Europe) (csclub).jpg
-assets.boxback: BoxBack/Capcom Sports Club (Europe) (csclub).jpg
-assets.background: Background/Capcom Sports Club (Europe) (csclub).jpg
-assets.screenshot: Screenshot/Capcom Sports Club (Europe) (csclub).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1265,9 +1142,6 @@ description:
 release: 1991-09-28
 players: 4
 assets.boxfront: BoxFront/Captain Commando (World) (captcomm).jpg
-assets.boxback: BoxBack/Captain Commando (World) (captcomm).jpg
-assets.background: Background/Captain Commando (World) (captcomm).jpg
-assets.screenshot: Screenshot/Captain Commando (World) (captcomm).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1295,9 +1169,6 @@ description:
 release: 1990-10-01
 players: 2
 assets.boxfront: BoxFront/Carrier Air Wing (World) (cawing).jpg
-assets.boxback: BoxBack/Carrier Air Wing (World) (cawing).jpg
-assets.background: Background/Carrier Air Wing (World) (cawing).jpg
-assets.screenshot: Screenshot/Carrier Air Wing (World) (cawing).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1396,9 +1267,6 @@ description:
 release: 1981-06-01
 players: 2
 assets.boxfront: BoxFront/Centipede (World) (centiped).jpg
-assets.boxback: BoxBack/Centipede (World) (centiped).jpg
-assets.background: Background/Centipede (World) (centiped).jpg
-assets.screenshot: Screenshot/Centipede (World) (centiped).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1420,9 +1288,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Championship Sprint (World) (csprint).jpg
-assets.boxback: BoxBack/Championship Sprint (World) (csprint).jpg
-assets.background: Background/Championship Sprint (World) (csprint).jpg
-assets.screenshot: Screenshot/Championship Sprint (World) (csprint).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1441,9 +1306,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Chopper I (USA) (chopper).jpg
-assets.boxback: BoxBack/Chopper I (USA) (chopper).jpg
-assets.background: Background/Chopper I (USA) (chopper).jpg
-assets.screenshot: Screenshot/Chopper I (USA) (chopper).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1465,9 +1327,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Circus Charlie (World) (circusc).jpg
-assets.boxback: BoxBack/Circus Charlie (World) (circusc).jpg
-assets.background: Background/Circus Charlie (World) (circusc).jpg
-assets.screenshot: Screenshot/Circus Charlie (World) (circusc).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1485,9 +1344,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Cloak & Dagger (World) (cloak).jpg
-assets.boxback: BoxBack/Cloak & Dagger (World) (cloak).jpg
-assets.background: Background/Cloak & Dagger (World) (cloak).jpg
-assets.screenshot: Screenshot/Cloak & Dagger (World) (cloak).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1516,9 +1372,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Commando (World) (commando).jpg
-assets.boxback: BoxBack/Commando (World) (commando).jpg
-assets.background: Background/Commando (World) (commando).jpg
-assets.screenshot: Screenshot/Commando (World) (commando).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1539,9 +1392,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Congo Bongo (World) (congo).jpg
-assets.boxback: BoxBack/Congo Bongo (World) (congo).jpg
-assets.background: Background/Congo Bongo (World) (congo).jpg
-assets.screenshot: Screenshot/Congo Bongo (World) (congo).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1563,9 +1413,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Crystal Castles (World) (ccastles).jpg
-assets.boxback: BoxBack/Crystal Castles (World) (ccastles).jpg
-assets.background: Background/Crystal Castles (World) (ccastles).jpg
-assets.screenshot: Screenshot/Crystal Castles (World) (ccastles).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1591,9 +1438,6 @@ description:
 release: 1988-01-01
 players: 4
 assets.boxfront: BoxFront/Cyberball (World) (cyberbal).jpg
-assets.boxback: BoxBack/Cyberball (World) (cyberbal).jpg
-assets.background: Background/Cyberball (World) (cyberbal).jpg
-assets.screenshot: Screenshot/Cyberball (World) (cyberbal).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1615,9 +1459,6 @@ description:
 release: 1995-11-01
 players: 2
 assets.boxfront: BoxFront/Cyberbots - Fullmetal Madness (Europe) (cybots).jpg
-assets.boxback: BoxBack/Cyberbots - Fullmetal Madness (Europe) (cybots).jpg
-assets.background: Background/Cyberbots - Fullmetal Madness (Europe) (cybots).jpg
-assets.screenshot: Screenshot/Cyberbots - Fullmetal Madness (Europe) (cybots).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1637,9 +1478,6 @@ description:
 release: 1994-06-30
 players: 2
 assets.boxfront: BoxFront/Darkstalkers - The Night Warriors (Europe) (dstlk).jpg
-assets.boxback: BoxBack/Darkstalkers - The Night Warriors (Europe) (dstlk).jpg
-assets.background: Background/Darkstalkers - The Night Warriors (Europe) (dstlk).jpg
-assets.screenshot: Screenshot/Darkstalkers - The Night Warriors (Europe) (dstlk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1689,9 +1527,6 @@ description:
 release: 1981-02-01
 players: 2
 assets.boxfront: BoxFront/Defender (World) (defender).jpg
-assets.boxback: BoxBack/Defender (World) (defender).jpg
-assets.background: Background/Defender (World) (defender).jpg
-assets.screenshot: Screenshot/Defender (World) (defender).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1712,9 +1547,6 @@ description:
 release: 1977-10-01
 players: 1
 assets.boxfront: BoxFront/Destroyer (World) (destroyr).jpg
-assets.boxback: BoxBack/Destroyer (World) (destroyr).jpg
-assets.background: Background/Destroyer (World) (destroyr).jpg
-assets.screenshot: Screenshot/Destroyer (World) (destroyr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1737,9 +1569,6 @@ description:
 release: 1982-04-19
 players: 2
 assets.boxfront: BoxFront/Dig Dug (World) (digdug).jpg
-assets.boxback: BoxBack/Dig Dug (World) (digdug).jpg
-assets.background: Background/Dig Dug (World) (digdug).jpg
-assets.screenshot: Screenshot/Dig Dug (World) (digdug).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1766,9 +1595,6 @@ description:
 release: 1985-03-01
 players: 2
 assets.boxfront: BoxFront/Dig Dug II (World) (digdug2).jpg
-assets.boxback: BoxBack/Dig Dug II (World) (digdug2).jpg
-assets.background: Background/Dig Dug II (World) (digdug2).jpg
-assets.screenshot: Screenshot/Dig Dug II (World) (digdug2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1797,9 +1623,6 @@ description:
 release: 1977-01-01
 players: 2
 assets.boxfront: BoxFront/Dominos (World) (dominos).jpg
-assets.boxback: BoxBack/Dominos (World) (dominos).jpg
-assets.background: Background/Dominos (World) (dominos).jpg
-assets.screenshot: Screenshot/Dominos (World) (dominos).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1816,9 +1639,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Dragon Buster (World) (drgnbstr).jpg
-assets.boxback: BoxBack/Dragon Buster (World) (drgnbstr).jpg
-assets.background: Background/Dragon Buster (World) (drgnbstr).jpg
-assets.screenshot: Screenshot/Dragon Buster (World) (drgnbstr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1847,9 +1667,6 @@ description:
 release: 1989-04-05
 players: 2
 assets.boxfront: BoxFront/Dynasty Wars (USA) (dynwar).jpg
-assets.boxback: BoxBack/Dynasty Wars (USA) (dynwar).jpg
-assets.background: Background/Dynasty Wars (USA) (dynwar).jpg
-assets.screenshot: Screenshot/Dynasty Wars (USA) (dynwar).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1872,9 +1689,6 @@ description:
 release: 1994-06-01
 players: 2
 assets.boxfront: BoxFront/Eco Fighters (World) (ecofghtr).jpg
-assets.boxback: BoxBack/Eco Fighters (World) (ecofghtr).jpg
-assets.background: Background/Eco Fighters (World) (ecofghtr).jpg
-assets.screenshot: Screenshot/Eco Fighters (World) (ecofghtr).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -1900,9 +1714,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Exed Exes (World) (exedexes).jpg
-assets.boxback: BoxBack/Exed Exes (World) (exedexes).jpg
-assets.background: Background/Exed Exes (World) (exedexes).jpg
-assets.screenshot: Screenshot/Exed Exes (World) (exedexes).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1919,9 +1730,6 @@ description:
 release: 1981-10-01
 players: 1
 assets.boxfront: BoxFront/Fantasy (USA) (fantasyu).jpg
-assets.boxback: BoxBack/Fantasy (USA) (fantasyu).jpg
-assets.background: Background/Fantasy (USA) (fantasyu).jpg
-assets.screenshot: Screenshot/Fantasy (USA) (fantasyu).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1960,9 +1768,6 @@ description:
 release: 1986-03-20
 players: 2
 assets.boxfront: BoxFront/Fantasy Zone (World) (fantzone).jpg
-assets.boxback: BoxBack/Fantasy Zone (World) (fantzone).jpg
-assets.background: Background/Fantasy Zone (World) (fantzone).jpg
-assets.screenshot: Screenshot/Fantasy Zone (World) (fantzone).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1986,9 +1791,6 @@ description:
 release: 2008-09-01
 players: 2
 assets.boxfront: BoxFront/Fantasy Zone II DX (Japan) (fantzn2x).jpg
-assets.boxback: BoxBack/Fantasy Zone II DX (Japan) (fantzn2x).jpg
-assets.background: Background/Fantasy Zone II DX (Japan) (fantzn2x).jpg
-assets.screenshot: Screenshot/Fantasy Zone II DX (Japan) (fantzn2x).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2008,9 +1810,6 @@ description:
 release: 1991-11-25
 players: 2
 assets.boxfront: BoxFront/Fatal Fury - King of Fighters (World) (fatfury1).jpg
-assets.boxback: BoxBack/Fatal Fury - King of Fighters (World) (fatfury1).jpg
-assets.background: Background/Fatal Fury - King of Fighters (World) (fatfury1).jpg
-assets.screenshot: Screenshot/Fatal Fury - King of Fighters (World) (fatfury1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2028,9 +1827,6 @@ description:
 release: 1989-11-25
 players: 2
 assets.boxfront: BoxFront/Final Fight (World) (ffight).jpg
-assets.boxback: BoxBack/Final Fight (World) (ffight).jpg
-assets.background: Background/Final Fight (World) (ffight).jpg
-assets.screenshot: Screenshot/Final Fight (World) (ffight).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2063,9 +1859,6 @@ description:
 release: 1978-06-01
 players: 2
 assets.boxfront: BoxFront/Fire Truck ~ Smokey Joe (World) (firetrk).jpg
-assets.boxback: BoxBack/Fire Truck ~ Smokey Joe (World) (firetrk).jpg
-assets.background: Background/Fire Truck ~ Smokey Joe (World) (firetrk).jpg
-assets.screenshot: Screenshot/Fire Truck ~ Smokey Joe (World) (firetrk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2084,9 +1877,6 @@ description:
 release: 1983-10-01
 players: 2
 assets.boxfront: BoxFront/Food Fight (World) (foodf).jpg
-assets.boxback: BoxBack/Food Fight (World) (foodf).jpg
-assets.background: Background/Food Fight (World) (foodf).jpg
-assets.screenshot: Screenshot/Food Fight (World) (foodf).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2123,9 +1913,6 @@ description:
 release: 1988-07-01
 players: 2
 assets.boxfront: BoxFront/Forgotten Worlds (World) (forgottn).jpg
-assets.boxback: BoxBack/Forgotten Worlds (World) (forgottn).jpg
-assets.background: Background/Forgotten Worlds (World) (forgottn).jpg
-assets.screenshot: Screenshot/Forgotten Worlds (World) (forgottn).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2178,9 +1965,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Galaga '88 (World) (galaga88).jpg
-assets.boxback: BoxBack/Galaga '88 (World) (galaga88).jpg
-assets.background: Background/Galaga '88 (World) (galaga88).jpg
-assets.screenshot: Screenshot/Galaga '88 (World) (galaga88).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2220,9 +2004,6 @@ description:
 release: 1981-08-01
 players: 2
 assets.boxfront: BoxFront/Galaga (World) (galaga).jpg
-assets.boxback: BoxBack/Galaga (World) (galaga).jpg
-assets.background: Background/Galaga (World) (galaga).jpg
-assets.screenshot: Screenshot/Galaga (World) (galaga).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2241,9 +2022,6 @@ description:
 release: 1979-10-01
 players: 2
 assets.boxfront: BoxFront/Galaxian (World) (galaxian).jpg
-assets.boxback: BoxBack/Galaxian (World) (galaxian).jpg
-assets.background: Background/Galaxian (World) (galaxian).jpg
-assets.screenshot: Screenshot/Galaxian (World) (galaxian).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2275,9 +2053,6 @@ description:
 release: 1985-01-01
 players: 4
 assets.boxfront: BoxFront/Gauntlet (World) (gauntlet).jpg
-assets.boxback: BoxBack/Gauntlet (World) (gauntlet).jpg
-assets.background: Background/Gauntlet (World) (gauntlet).jpg
-assets.screenshot: Screenshot/Gauntlet (World) (gauntlet).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2306,9 +2081,6 @@ description:
 release: 1986-01-01
 players: 4
 assets.boxfront: BoxFront/Gauntlet II (World) (gaunt2).jpg
-assets.boxback: BoxBack/Gauntlet II (World) (gaunt2).jpg
-assets.background: Background/Gauntlet II (World) (gaunt2).jpg
-assets.screenshot: Screenshot/Gauntlet II (World) (gaunt2).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2332,9 +2104,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Ghosts 'n Goblins (World) (gng).jpg
-assets.boxback: BoxBack/Ghosts 'n Goblins (World) (gng).jpg
-assets.background: Background/Ghosts 'n Goblins (World) (gng).jpg
-assets.screenshot: Screenshot/Ghosts 'n Goblins (World) (gng).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2361,9 +2130,6 @@ description:
 release: 1988-12-01
 players: 1
 assets.boxfront: BoxFront/Ghouls 'n Ghosts (World) (ghouls).jpg
-assets.boxback: BoxBack/Ghouls 'n Ghosts (World) (ghouls).jpg
-assets.background: Background/Ghouls 'n Ghosts (World) (ghouls).jpg
-assets.screenshot: Screenshot/Ghouls 'n Ghosts (World) (ghouls).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2388,9 +2154,6 @@ description:
 release: 1999-03-10
 players: 2
 assets.boxfront: BoxFront/Giga Wing (USA) (gigawing).jpg
-assets.boxback: BoxBack/Giga Wing (USA) (gigawing).jpg
-assets.background: Background/Giga Wing (USA) (gigawing).jpg
-assets.screenshot: Screenshot/Giga Wing (USA) (gigawing).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2418,9 +2181,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Gravitar (World) (gravitar).jpg
-assets.boxback: BoxBack/Gravitar (World) (gravitar).jpg
-assets.background: Background/Gravitar (World) (gravitar).jpg
-assets.screenshot: Screenshot/Gravitar (World) (gravitar).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2442,9 +2202,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Grobda (World) (grobda).jpg
-assets.boxback: BoxBack/Grobda (World) (grobda).jpg
-assets.background: Background/Grobda (World) (grobda).jpg
-assets.screenshot: Screenshot/Grobda (World) (grobda).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2466,9 +2223,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Guerrilla War (USA) (gwar).jpg
-assets.boxback: BoxBack/Guerrilla War (USA) (gwar).jpg
-assets.background: Background/Guerrilla War (USA) (gwar).jpg
-assets.screenshot: Screenshot/Guerrilla War (USA) (gwar).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2497,9 +2251,6 @@ description:
 release: 1985-11-01
 players: 2
 assets.boxfront: BoxFront/Gun.Smoke (World) (gunsmoke).jpg
-assets.boxback: BoxBack/Gun.Smoke (World) (gunsmoke).jpg
-assets.background: Background/Gun.Smoke (World) (gunsmoke).jpg
-assets.screenshot: Screenshot/Gun.Smoke (World) (gunsmoke).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2541,9 +2292,6 @@ description:
 release: 1983-01-29
 players: 2
 assets.boxfront: BoxFront/Gyruss (World) (gyruss).jpg
-assets.boxback: BoxBack/Gyruss (World) (gyruss).jpg
-assets.background: Background/Gyruss (World) (gyruss).jpg
-assets.screenshot: Screenshot/Gyruss (World) (gyruss).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2575,9 +2323,6 @@ description:
 release: 1989-01-01
 players: 1
 assets.boxfront: BoxFront/Hard Drivin' (World) (harddriv).jpg
-assets.boxback: BoxBack/Hard Drivin' (World) (harddriv).jpg
-assets.background: Background/Hard Drivin' (World) (harddriv).jpg
-assets.screenshot: Screenshot/Hard Drivin' (World) (harddriv).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2606,9 +2351,6 @@ description:
 release: 1988-02-12
 players: 2
 assets.boxfront: BoxFront/Haunted Castle (World) (hcastle).jpg
-assets.boxback: BoxBack/Haunted Castle (World) (hcastle).jpg
-assets.background: Background/Haunted Castle (World) (hcastle).jpg
-assets.screenshot: Screenshot/Haunted Castle (World) (hcastle).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2631,9 +2373,6 @@ description:
 release: 2003-12-22
 players: 2
 assets.boxfront: BoxFront/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).jpg
-assets.boxback: BoxBack/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).jpg
-assets.background: Background/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).jpg
-assets.screenshot: Screenshot/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2655,9 +2394,6 @@ description:
 release: 1983-10-01
 players: 2
 assets.boxfront: BoxFront/I, Robot (World) (irobot).jpg
-assets.boxback: BoxBack/I, Robot (World) (irobot).jpg
-assets.background: Background/I, Robot (World) (irobot).jpg
-assets.screenshot: Screenshot/I, Robot (World) (irobot).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2674,9 +2410,6 @@ description:
 release: 1989-01-01
 players: 2
 assets.boxfront: BoxFront/Ikari III - The Rescue (World) (ikari3).jpg
-assets.boxback: BoxBack/Ikari III - The Rescue (World) (ikari3).jpg
-assets.background: Background/Ikari III - The Rescue (World) (ikari3).jpg
-assets.screenshot: Screenshot/Ikari III - The Rescue (World) (ikari3).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2696,9 +2429,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Ikari Warriors (USA) (ikari).jpg
-assets.boxback: BoxBack/Ikari Warriors (USA) (ikari).jpg
-assets.background: Background/Ikari Warriors (USA) (ikari).jpg
-assets.screenshot: Screenshot/Ikari Warriors (USA) (ikari).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2746,9 +2476,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Joust (World) (joust).jpg
-assets.boxback: BoxBack/Joust (World) (joust).jpg
-assets.background: Background/Joust (World) (joust).jpg
-assets.screenshot: Screenshot/Joust (World) (joust).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2774,9 +2501,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Joust 2 - Survival of the Fittest (World) (joust2).jpg
-assets.boxback: BoxBack/Joust 2 - Survival of the Fittest (World) (joust2).jpg
-assets.background: Background/Joust 2 - Survival of the Fittest (World) (joust2).jpg
-assets.screenshot: Screenshot/Joust 2 - Survival of the Fittest (World) (joust2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2799,9 +2523,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Kicker ~ Shao-lin's Road (kicker).jpg
-assets.boxback: BoxBack/Kicker ~ Shao-lin's Road (kicker).jpg
-assets.background: Background/Kicker ~ Shao-lin's Road (kicker).jpg
-assets.screenshot: Screenshot/Kicker ~ Shao-lin's Road (kicker).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2821,9 +2542,6 @@ description:
 release: 1980-06-01
 players: 1
 assets.boxfront: BoxFront/King & Balloon (USA) (kingball).jpg
-assets.boxback: BoxBack/King & Balloon (USA) (kingball).jpg
-assets.background: Background/King & Balloon (USA) (kingball).jpg
-assets.screenshot: Screenshot/King & Balloon (USA) (kingball).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2849,9 +2567,6 @@ description:
 release: 1991-08-05
 players: 3
 assets.boxfront: BoxFront/King of Dragons, The (World) (kod).jpg
-assets.boxback: BoxBack/King of Dragons, The (World) (kod).jpg
-assets.background: Background/King of Dragons, The (World) (kod).jpg
-assets.screenshot: Screenshot/King of Dragons, The (World) (kod).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2886,9 +2601,6 @@ description:
 release: 1994-08-25
 players: 2
 assets.boxfront: BoxFront/King of Fighters '94, The (World) (kof94).jpg
-assets.boxback: BoxBack/King of Fighters '94, The (World) (kof94).jpg
-assets.background: Background/King of Fighters '94, The (World) (kof94).jpg
-assets.screenshot: Screenshot/King of Fighters '94, The (World) (kof94).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2913,9 +2625,6 @@ description:
 release: 1991-07-01
 players: 2
 assets.boxfront: BoxFront/King of the Monsters (World) (kotm).jpg
-assets.boxback: BoxBack/King of the Monsters (World) (kotm).jpg
-assets.background: Background/King of the Monsters (World) (kotm).jpg
-assets.screenshot: Screenshot/King of the Monsters (World) (kotm).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -2934,9 +2643,6 @@ description:
 release: 1989-01-01
 players: 2
 assets.boxfront: BoxFront/Klax (World) (klax).jpg
-assets.boxback: BoxBack/Klax (World) (klax).jpg
-assets.background: Background/Klax (World) (klax).jpg
-assets.screenshot: Screenshot/Klax (World) (klax).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2960,9 +2666,6 @@ description:
 release: 1991-11-27
 players: 2
 assets.boxfront: BoxFront/Knights of the Round (World) (knights).jpg
-assets.boxback: BoxBack/Knights of the Round (World) (knights).jpg
-assets.background: Background/Knights of the Round (World) (knights).jpg
-assets.screenshot: Screenshot/Knights of the Round (World) (knights).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -2980,9 +2683,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Kozmik Kroozr (World) (kroozr).jpg
-assets.boxback: BoxBack/Kozmik Kroozr (World) (kroozr).jpg
-assets.background: Background/Kozmik Kroozr (World) (kroozr).jpg
-assets.screenshot: Screenshot/Kozmik Kroozr (World) (kroozr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3012,9 +2712,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Last Duel (USA) (lastduel).jpg
-assets.boxback: BoxBack/Last Duel (USA) (lastduel).jpg
-assets.background: Background/Last Duel (USA) (lastduel).jpg
-assets.screenshot: Screenshot/Last Duel (USA) (lastduel).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3033,9 +2730,6 @@ description:
 release: 1992-07-01
 players: 2
 assets.boxfront: BoxFront/Last Resort (World) (lresort).jpg
-assets.boxback: BoxBack/Last Resort (World) (lresort).jpg
-assets.background: Background/Last Resort (World) (lresort).jpg
-assets.screenshot: Screenshot/Last Resort (World) (lresort).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3053,9 +2747,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/Led Storm Rally 2011 (World) (leds2011).jpg
-assets.boxback: BoxBack/Led Storm Rally 2011 (World) (leds2011).jpg
-assets.background: Background/Led Storm Rally 2011 (World) (leds2011).jpg
-assets.screenshot: Screenshot/Led Storm Rally 2011 (World) (leds2011).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3087,9 +2778,6 @@ description:
 release: 1986-11-01
 players: 2
 assets.boxfront: BoxFront/Legendary Wings (USA) (lwings).jpg
-assets.boxback: BoxBack/Legendary Wings (USA) (lwings).jpg
-assets.background: Background/Legendary Wings (USA) (lwings).jpg
-assets.screenshot: Screenshot/Legendary Wings (USA) (lwings).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3111,9 +2799,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Liberator (World) (liberatr).jpg
-assets.boxback: BoxBack/Liberator (World) (liberatr).jpg
-assets.background: Background/Liberator (World) (liberatr).jpg
-assets.screenshot: Screenshot/Liberator (World) (liberatr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3137,9 +2822,6 @@ description:
 release: 1979-08-01
 players: 1
 assets.boxfront: BoxFront/Lunar Lander (World) (llander).jpg
-assets.boxback: BoxBack/Lunar Lander (World) (llander).jpg
-assets.background: Background/Lunar Lander (World) (llander).jpg
-assets.screenshot: Screenshot/Lunar Lander (World) (llander).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3158,9 +2840,6 @@ description:
 release: 1990-07-25
 players: 2
 assets.boxfront: BoxFront/Magic Sword - Heroic Fantasy (World) (msword).jpg
-assets.boxback: BoxBack/Magic Sword - Heroic Fantasy (World) (msword).jpg
-assets.background: Background/Magic Sword - Heroic Fantasy (World) (msword).jpg
-assets.screenshot: Screenshot/Magic Sword - Heroic Fantasy (World) (msword).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3183,9 +2862,6 @@ description:
 release: 1990-01-01
 players: 2
 assets.boxfront: BoxFront/Magician Lord (World) (maglord).jpg
-assets.boxback: BoxBack/Magician Lord (World) (maglord).jpg
-assets.background: Background/Magician Lord (World) (maglord).jpg
-assets.screenshot: Screenshot/Magician Lord (World) (maglord).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3210,9 +2886,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Major Havoc (World) (mhavoc).jpg
-assets.boxback: BoxBack/Major Havoc (World) (mhavoc).jpg
-assets.background: Background/Major Havoc (World) (mhavoc).jpg
-assets.screenshot: Screenshot/Major Havoc (World) (mhavoc).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3230,9 +2903,6 @@ description:
 release: 1983-08-01
 players: 2
 assets.boxfront: BoxFront/Mappy (USA) (mappy).jpg
-assets.boxback: BoxBack/Mappy (USA) (mappy).jpg
-assets.background: Background/Mappy (USA) (mappy).jpg
-assets.screenshot: Screenshot/Mappy (USA) (mappy).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3253,9 +2923,6 @@ description:
 release: 1984-12-01
 players: 2
 assets.boxfront: BoxFront/Marble Madness (World) (marble).jpg
-assets.boxback: BoxBack/Marble Madness (World) (marble).jpg
-assets.background: Background/Marble Madness (World) (marble).jpg
-assets.screenshot: Screenshot/Marble Madness (World) (marble).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3274,9 +2941,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Maze Invaders (World) (Proto) (mazeinv).jpg
-assets.boxback: BoxBack/Maze Invaders (World) (Proto) (mazeinv).jpg
-assets.background: Background/Maze Invaders (World) (Proto) (mazeinv).jpg
-assets.screenshot: Screenshot/Maze Invaders (World) (Proto) (mazeinv).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3293,9 +2957,6 @@ description:
 release: 1995-10-01
 players: 2
 assets.boxfront: BoxFront/Mega Man - The Power Battle (USA) (megaman).jpg
-assets.boxback: BoxBack/Mega Man - The Power Battle (USA) (megaman).jpg
-assets.background: Background/Mega Man - The Power Battle (USA) (megaman).jpg
-assets.screenshot: Screenshot/Mega Man - The Power Battle (USA) (megaman).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3315,9 +2976,6 @@ description:
 release: 1996-08-01
 players: 2
 assets.boxfront: BoxFront/Mega Man 2 - The Power Fighters (USA) (megaman2).jpg
-assets.boxback: BoxBack/Mega Man 2 - The Power Fighters (USA) (megaman2).jpg
-assets.background: Background/Mega Man 2 - The Power Fighters (USA) (megaman2).jpg
-assets.screenshot: Screenshot/Mega Man 2 - The Power Fighters (USA) (megaman2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3339,9 +2997,6 @@ description:
 release: 1990-06-19
 players: 2
 assets.boxfront: BoxFront/Mega Twins (World) (mtwins).jpg
-assets.boxback: BoxBack/Mega Twins (World) (mtwins).jpg
-assets.background: Background/Mega Twins (World) (mtwins).jpg
-assets.screenshot: Screenshot/Mega Twins (World) (mtwins).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3363,9 +3018,6 @@ description:
 release: 1990-04-01
 players: 3
 assets.boxfront: BoxFront/Mercs (World) (mercs).jpg
-assets.boxback: BoxBack/Mercs (World) (mercs).jpg
-assets.background: Background/Mercs (World) (mercs).jpg
-assets.screenshot: Screenshot/Mercs (World) (mercs).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3388,9 +3040,6 @@ description:
 release: 1996-01-01
 players: 2
 assets.boxfront: BoxFront/Metal Slug - Super Vehicle-001 (World) (mslug).jpg
-assets.boxback: BoxBack/Metal Slug - Super Vehicle-001 (World) (mslug).jpg
-assets.background: Background/Metal Slug - Super Vehicle-001 (World) (mslug).jpg
-assets.screenshot: Screenshot/Metal Slug - Super Vehicle-001 (World) (mslug).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3413,9 +3062,6 @@ description:
 release: 1998-02-23
 players: 2
 assets.boxfront: BoxFront/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).jpg
-assets.boxback: BoxBack/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).jpg
-assets.background: Background/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).jpg
-assets.screenshot: Screenshot/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3442,9 +3088,6 @@ description:
 release: 2000-06-01
 players: 2
 assets.boxfront: BoxFront/Metal Slug 3 (World) (mslug3).jpg
-assets.boxback: BoxBack/Metal Slug 3 (World) (mslug3).jpg
-assets.background: Background/Metal Slug 3 (World) (mslug3).jpg
-assets.screenshot: Screenshot/Metal Slug 3 (World) (mslug3).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3467,9 +3110,6 @@ description:
 release: 2002-07-19
 players: 2
 assets.boxfront: BoxFront/Metal Slug 4 (World) (mslug4).jpg
-assets.boxback: BoxBack/Metal Slug 4 (World) (mslug4).jpg
-assets.background: Background/Metal Slug 4 (World) (mslug4).jpg
-assets.screenshot: Screenshot/Metal Slug 4 (World) (mslug4).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3489,9 +3129,6 @@ description:
 release: 2003-11-01
 players: 2
 assets.boxfront: BoxFront/Metal Slug 5 (World) (mslug5).jpg
-assets.boxback: BoxBack/Metal Slug 5 (World) (mslug5).jpg
-assets.background: Background/Metal Slug 5 (World) (mslug5).jpg
-assets.screenshot: Screenshot/Metal Slug 5 (World) (mslug5).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3521,9 +3158,6 @@ description:
 release: 2006-02-24
 players: 2
 assets.boxfront: BoxFront/Metal Slug 6 (World) (mslug6).jpg
-assets.boxback: BoxBack/Metal Slug 6 (World) (mslug6).jpg
-assets.background: Background/Metal Slug 6 (World) (mslug6).jpg
-assets.screenshot: Screenshot/Metal Slug 6 (World) (mslug6).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3550,9 +3184,6 @@ description:
 release: 1999-03-18
 players: 2
 assets.boxfront: BoxFront/Metal Slug X (World) (mslugx).jpg
-assets.boxback: BoxBack/Metal Slug X (World) (mslugx).jpg
-assets.background: Background/Metal Slug X (World) (mslugx).jpg
-assets.screenshot: Screenshot/Metal Slug X (World) (mslugx).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3599,9 +3230,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Millipede (World) (milliped).jpg
-assets.boxback: BoxBack/Millipede (World) (milliped).jpg
-assets.background: Background/Millipede (World) (milliped).jpg
-assets.screenshot: Screenshot/Millipede (World) (milliped).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3627,9 +3255,6 @@ description:
 release: 1980-06-01
 players: 2
 assets.boxfront: BoxFront/Missile Command (World) (missile).jpg
-assets.boxback: BoxBack/Missile Command (World) (missile).jpg
-assets.background: Background/Missile Command (World) (missile).jpg
-assets.screenshot: Screenshot/Missile Command (World) (missile).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3648,9 +3273,6 @@ description:
 release: 1980-04-01
 players: 1
 assets.boxfront: BoxFront/Monte Carlo (World) (montecar).jpg
-assets.boxback: BoxBack/Monte Carlo (World) (montecar).jpg
-assets.background: Background/Monte Carlo (World) (montecar).jpg
-assets.screenshot: Screenshot/Monte Carlo (World) (montecar).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3676,9 +3298,6 @@ description:
 release: 1992-10-08
 players: 2
 assets.boxfront: BoxFront/Mortal Kombat (World) (mk).jpg
-assets.boxback: BoxBack/Mortal Kombat (World) (mk).jpg
-assets.background: Background/Mortal Kombat (World) (mk).jpg
-assets.screenshot: Screenshot/Mortal Kombat (World) (mk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3702,9 +3321,6 @@ description:
 release: 1995-04-15
 players: 2
 assets.boxfront: BoxFront/Mortal Kombat 3 (World) (mk3).jpg
-assets.boxback: BoxBack/Mortal Kombat 3 (World) (mk3).jpg
-assets.background: Background/Mortal Kombat 3 (World) (mk3).jpg
-assets.screenshot: Screenshot/Mortal Kombat 3 (World) (mk3).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3726,9 +3342,6 @@ description:
 release: 1993-06-25
 players: 2
 assets.boxfront: BoxFront/Mortal Kombat II (World) (mk2).jpg
-assets.boxback: BoxBack/Mortal Kombat II (World) (mk2).jpg
-assets.background: Background/Mortal Kombat II (World) (mk2).jpg
-assets.screenshot: Screenshot/Mortal Kombat II (World) (mk2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3763,9 +3376,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Motos (World) (motos).jpg
-assets.boxback: BoxBack/Motos (World) (motos).jpg
-assets.background: Background/Motos (World) (motos).jpg
-assets.screenshot: Screenshot/Motos (World) (motos).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3786,9 +3396,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Ms. Pac-Man (World) (mspacman).jpg
-assets.boxback: BoxBack/Ms. Pac-Man (World) (mspacman).jpg
-assets.background: Background/Ms. Pac-Man (World) (mspacman).jpg
-assets.screenshot: Screenshot/Ms. Pac-Man (World) (mspacman).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3811,9 +3418,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Munch Mobile (USA) (mnchmobl).jpg
-assets.boxback: BoxBack/Munch Mobile (USA) (mnchmobl).jpg
-assets.background: Background/Munch Mobile (USA) (mnchmobl).jpg
-assets.screenshot: Screenshot/Munch Mobile (USA) (mnchmobl).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3838,9 +3442,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Narc (World) (narc).jpg
-assets.boxback: BoxBack/Narc (World) (narc).jpg
-assets.background: Background/Narc (World) (narc).jpg
-assets.screenshot: Screenshot/Narc (World) (narc).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -3869,9 +3470,6 @@ description:
 release: 1985-05-01
 players: 2
 assets.boxfront: BoxFront/Nemesis (World) (nemesis).jpg
-assets.boxback: BoxBack/Nemesis (World) (nemesis).jpg
-assets.background: Background/Nemesis (World) (nemesis).jpg
-assets.screenshot: Screenshot/Nemesis (World) (nemesis).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3892,9 +3490,6 @@ description:
 release: 1996-01-29
 players: 2
 assets.boxfront: BoxFront/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).jpg
-assets.boxback: BoxBack/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).jpg
-assets.background: Background/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).jpg
-assets.screenshot: Screenshot/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3919,9 +3514,6 @@ description:
 release: 1981-02-06
 players: 2
 assets.boxfront: BoxFront/New Rally-X (World) (nrallyx).jpg
-assets.boxback: BoxBack/New Rally-X (World) (nrallyx).jpg
-assets.background: Background/New Rally-X (World) (nrallyx).jpg
-assets.screenshot: Screenshot/New Rally-X (World) (nrallyx).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3943,9 +3535,6 @@ description:
 release: 1995-03-05
 players: 2
 assets.boxfront: BoxFront/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).jpg
-assets.boxback: BoxBack/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).jpg
-assets.background: Background/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).jpg
-assets.screenshot: Screenshot/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3983,9 +3572,6 @@ description:
 release: 1979-12-01
 players: 1
 assets.boxfront: BoxFront/Ozma Wars (World) (ozmawars).jpg
-assets.boxback: BoxBack/Ozma Wars (World) (ozmawars).jpg
-assets.background: Background/Ozma Wars (World) (ozmawars).jpg
-assets.screenshot: Screenshot/Ozma Wars (World) (ozmawars).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4003,9 +3589,6 @@ description:
 release: 1988-08-15
 players: 2
 assets.boxfront: BoxFront/P.O.W. - Prisoners of War (USA) (pow).jpg
-assets.boxback: BoxBack/P.O.W. - Prisoners of War (USA) (pow).jpg
-assets.background: Background/P.O.W. - Prisoners of War (USA) (pow).jpg
-assets.screenshot: Screenshot/P.O.W. - Prisoners of War (USA) (pow).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4040,9 +3623,6 @@ description:
 release: 1980-10-26
 players: 2
 assets.boxfront: BoxFront/Pac-Man (World) (Midway) (pacman).jpg
-assets.boxback: BoxBack/Pac-Man (World) (Midway) (pacman).jpg
-assets.background: Background/Pac-Man (World) (Midway) (pacman).jpg
-assets.screenshot: Screenshot/Pac-Man (World) (Midway) (pacman).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4059,9 +3639,6 @@ description:
 release: 1988-05-01
 players: 1
 assets.boxfront: BoxFront/Paddle Mania (World) (paddlema).jpg
-assets.boxback: BoxBack/Paddle Mania (World) (paddlema).jpg
-assets.background: Background/Paddle Mania (World) (paddlema).jpg
-assets.screenshot: Screenshot/Paddle Mania (World) (paddlema).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4080,9 +3657,6 @@ description:
 release: 1995-06-01
 players: 2
 assets.boxfront: BoxFront/Pang! 3 (Europe) (pang3).jpg
-assets.boxback: BoxBack/Pang! 3 (Europe) (pang3).jpg
-assets.background: Background/Pang! 3 (Europe) (pang3).jpg
-assets.screenshot: Screenshot/Pang! 3 (Europe) (pang3).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4106,9 +3680,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Paperboy (World) (paperboy).jpg
-assets.boxback: BoxBack/Paperboy (World) (paperboy).jpg
-assets.background: Background/Paperboy (World) (paperboy).jpg
-assets.screenshot: Screenshot/Paperboy (World) (paperboy).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4144,9 +3715,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Pirate Ship Higemaru (World) (higemaru).jpg
-assets.boxback: BoxBack/Pirate Ship Higemaru (World) (higemaru).jpg
-assets.background: Background/Pirate Ship Higemaru (World) (higemaru).jpg
-assets.screenshot: Screenshot/Pirate Ship Higemaru (World) (higemaru).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4199,9 +3767,6 @@ description:
 release: 1990-08-01
 players: 2
 assets.boxfront: BoxFront/Pit-Fighter (World) (pitfight).jpg
-assets.boxback: BoxBack/Pit-Fighter (World) (pitfight).jpg
-assets.background: Background/Pit-Fighter (World) (pitfight).jpg
-assets.screenshot: Screenshot/Pit-Fighter (World) (pitfight).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4227,9 +3792,6 @@ description:
 release: 1994-06-01
 players: 2
 assets.boxfront: BoxFront/Pnickies (Japan) (pnickj).jpg
-assets.boxback: BoxBack/Pnickies (Japan) (pnickj).jpg
-assets.background: Background/Pnickies (Japan) (pnickj).jpg
-assets.screenshot: Screenshot/Pnickies (Japan) (pnickj).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4268,9 +3830,6 @@ description:
 release: 1972-11-29
 players: 2
 assets.boxfront: BoxFront/Pong (World) (pong).jpg
-assets.boxback: BoxBack/Pong (World) (pong).jpg
-assets.background: Background/Pong (World) (pong).jpg
-assets.screenshot: Screenshot/Pong (World) (pong).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4292,9 +3851,6 @@ description:
 release: 1977-06-01
 players: 1
 assets.boxfront: BoxFront/Poolshark (World) (poolshrk).jpg
-assets.boxback: BoxBack/Poolshark (World) (poolshrk).jpg
-assets.background: Background/Poolshark (World) (poolshrk).jpg
-assets.screenshot: Screenshot/Poolshark (World) (poolshrk).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4312,9 +3868,6 @@ description:
 release: 1982-03-31
 players: 2
 assets.boxfront: BoxFront/Pooyan (World) (pooyan).jpg
-assets.boxback: BoxBack/Pooyan (World) (pooyan).jpg
-assets.background: Background/Pooyan (World) (pooyan).jpg
-assets.screenshot: Screenshot/Pooyan (World) (pooyan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4342,9 +3895,6 @@ description:
 release: 1989-01-01
 players: 2
 assets.boxfront: BoxFront/Prehistoric Isle in 1930 (World) (prehisle).jpg
-assets.boxback: BoxBack/Prehistoric Isle in 1930 (World) (prehisle).jpg
-assets.background: Background/Prehistoric Isle in 1930 (World) (prehisle).jpg
-assets.screenshot: Screenshot/Prehistoric Isle in 1930 (World) (prehisle).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4376,9 +3926,6 @@ description:
 release: 1994-01-01
 players: 2
 assets.boxfront: BoxFront/Primal Rage (World) (primrage).jpg
-assets.boxback: BoxBack/Primal Rage (World) (primrage).jpg
-assets.background: Background/Primal Rage (World) (primrage).jpg
-assets.screenshot: Screenshot/Primal Rage (World) (primrage).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4414,9 +3961,6 @@ description:
 release: 2001-01-01
 players: 2
 assets.boxfront: BoxFront/Progear (USA) (progear).jpg
-assets.boxback: BoxBack/Progear (USA) (progear).jpg
-assets.background: Background/Progear (USA) (progear).jpg
-assets.screenshot: Screenshot/Progear (USA) (progear).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4444,9 +3988,6 @@ description:
 release: 1987-08-06
 players: 2
 assets.boxfront: BoxFront/Psycho Soldier (USA) (psychos).jpg
-assets.boxback: BoxBack/Psycho Soldier (USA) (psychos).jpg
-assets.background: Background/Psycho Soldier (USA) (psychos).jpg
-assets.screenshot: Screenshot/Psycho Soldier (USA) (psychos).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4462,9 +4003,6 @@ description:
 release: 1982-10-01
 players: 2
 assets.boxfront: BoxFront/Quantum (World) (quantum).jpg
-assets.boxback: BoxBack/Quantum (World) (quantum).jpg
-assets.background: Background/Quantum (World) (quantum).jpg
-assets.screenshot: Screenshot/Quantum (World) (quantum).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4496,9 +4034,6 @@ description:
 release: 1992-01-01
 players: 2
 assets.boxfront: BoxFront/Quiz & Dragons - Capcom Quiz Game (USA) (qad).jpg
-assets.boxback: BoxBack/Quiz & Dragons - Capcom Quiz Game (USA) (qad).jpg
-assets.background: Background/Quiz & Dragons - Capcom Quiz Game (USA) (qad).jpg
-assets.screenshot: Screenshot/Quiz & Dragons - Capcom Quiz Game (USA) (qad).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4525,9 +4060,6 @@ description:
 release: 1980-11-01
 players: 2
 assets.boxfront: BoxFront/Rally-X (World) (rallyx).jpg
-assets.boxback: BoxBack/Rally-X (World) (rallyx).jpg
-assets.background: Background/Rally-X (World) (rallyx).jpg
-assets.screenshot: Screenshot/Rally-X (World) (rallyx).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4546,9 +4078,6 @@ description:
 release: 1986-01-01
 players: 3
 assets.boxfront: BoxFront/Rampage (World) (rampage).jpg
-assets.boxback: BoxBack/Rampage (World) (rampage).jpg
-assets.background: Background/Rampage (World) (rampage).jpg
-assets.screenshot: Screenshot/Rampage (World) (rampage).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4586,9 +4115,6 @@ description:
 release: 1997-01-01
 players: 1
 assets.boxfront: BoxFront/Rampage - World Tour (World) (rmpgwt).jpg
-assets.boxback: BoxBack/Rampage - World Tour (World) (rmpgwt).jpg
-assets.background: Background/Rampage - World Tour (World) (rmpgwt).jpg
-assets.screenshot: Screenshot/Rampage - World Tour (World) (rmpgwt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4627,9 +4153,6 @@ description:
 release: 1990-01-01
 players: 3
 assets.boxfront: BoxFront/Rampart (World) (rampart).jpg
-assets.boxback: BoxBack/Rampart (World) (rampart).jpg
-assets.background: Background/Rampart (World) (rampart).jpg
-assets.screenshot: Screenshot/Rampart (World) (rampart).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4662,9 +4185,6 @@ description:
 release: 1980-01-01
 players: 1
 assets.boxfront: BoxFront/Red Baron (World) (redbaron).jpg
-assets.boxback: BoxBack/Red Baron (World) (redbaron).jpg
-assets.background: Background/Red Baron (World) (redbaron).jpg
-assets.screenshot: Screenshot/Red Baron (World) (redbaron).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4693,9 +4213,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/Road Blasters (World) (roadblst).jpg
-assets.boxback: BoxBack/Road Blasters (World) (roadblst).jpg
-assets.background: Background/Road Blasters (World) (roadblst).jpg
-assets.screenshot: Screenshot/Road Blasters (World) (roadblst).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4714,9 +4231,6 @@ description:
 release: 1984-01-01
 players: 1
 assets.boxfront: BoxFront/Road Fighter (World) (roadf).jpg
-assets.boxback: BoxBack/Road Fighter (World) (roadf).jpg
-assets.background: Background/Road Fighter (World) (roadf).jpg
-assets.screenshot: Screenshot/Road Fighter (World) (roadf).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4737,9 +4251,6 @@ description:
 release: 1982-12-01
 players: 2
 assets.boxfront: BoxFront/Robotron - 2084 (World) (robotron).jpg
-assets.boxback: BoxBack/Robotron - 2084 (World) (robotron).jpg
-assets.background: Background/Robotron - 2084 (World) (robotron).jpg
-assets.screenshot: Screenshot/Robotron - 2084 (World) (robotron).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4759,9 +4270,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Roc'n Rope (World) (rocnrope).jpg
-assets.boxback: BoxBack/Roc'n Rope (World) (rocnrope).jpg
-assets.background: Background/Roc'n Rope (World) (rocnrope).jpg
-assets.screenshot: Screenshot/Roc'n Rope (World) (rocnrope).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4783,9 +4291,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Rolling Thunder (World) (rthunder).jpg
-assets.boxback: BoxBack/Rolling Thunder (World) (rthunder).jpg
-assets.background: Background/Rolling Thunder (World) (rthunder).jpg
-assets.screenshot: Screenshot/Rolling Thunder (World) (rthunder).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4807,9 +4312,6 @@ description:
 release: 1990-06-13
 players: 2
 assets.boxfront: BoxFront/Rolling Thunder 2 (World) (rthun2).jpg
-assets.boxback: BoxBack/Rolling Thunder 2 (World) (rthun2).jpg
-assets.background: Background/Rolling Thunder 2 (World) (rthun2).jpg
-assets.screenshot: Screenshot/Rolling Thunder 2 (World) (rthun2).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4829,9 +4331,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Root Beer Tapper (World) (rbtapper).jpg
-assets.boxback: BoxBack/Root Beer Tapper (World) (rbtapper).jpg
-assets.background: Background/Root Beer Tapper (World) (rbtapper).jpg
-assets.screenshot: Screenshot/Root Beer Tapper (World) (rbtapper).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4849,9 +4348,6 @@ description:
 release: 1989-10-03
 players: 2
 assets.boxfront: BoxFront/SAR - Search And Rescue (World) (searchar).jpg
-assets.boxback: BoxBack/SAR - Search And Rescue (World) (searchar).jpg
-assets.background: Background/SAR - Search And Rescue (World) (searchar).jpg
-assets.screenshot: Screenshot/SAR - Search And Rescue (World) (searchar).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4874,9 +4370,6 @@ description:
 release: 1986-10-01
 players: 2
 assets.boxfront: BoxFront/Salamander (World) (salamand).jpg
-assets.boxback: BoxBack/Salamander (World) (salamand).jpg
-assets.background: Background/Salamander (World) (salamand).jpg
-assets.screenshot: Screenshot/Salamander (World) (salamand).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -4895,9 +4388,6 @@ description:
 release: 1993-08-11
 players: 2
 assets.boxfront: BoxFront/Samurai Shodown ~ Samurai Spirits (World) (samsho).jpg
-assets.boxback: BoxBack/Samurai Shodown ~ Samurai Spirits (World) (samsho).jpg
-assets.background: Background/Samurai Shodown ~ Samurai Spirits (World) (samsho).jpg
-assets.screenshot: Screenshot/Samurai Shodown ~ Samurai Spirits (World) (samsho).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4922,9 +4412,6 @@ description:
 release: 1980-10-01
 players: 2
 assets.boxfront: BoxFront/Sasuke vs. Commander (World) (sasuke).jpg
-assets.boxback: BoxBack/Sasuke vs. Commander (World) (sasuke).jpg
-assets.background: Background/Sasuke vs. Commander (World) (sasuke).jpg
-assets.screenshot: Screenshot/Sasuke vs. Commander (World) (sasuke).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4966,9 +4453,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Satan's Hollow (World) (shollow).jpg
-assets.boxback: BoxBack/Satan's Hollow (World) (shollow).jpg
-assets.background: Background/Satan's Hollow (World) (shollow).jpg
-assets.screenshot: Screenshot/Satan's Hollow (World) (shollow).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4998,9 +4482,6 @@ description:
 release: 1993-07-13
 players: 4
 assets.boxfront: BoxFront/Saturday Night Slam Masters (World) (slammast).jpg
-assets.boxback: BoxBack/Saturday Night Slam Masters (World) (slammast).jpg
-assets.background: Background/Saturday Night Slam Masters (World) (slammast).jpg
-assets.screenshot: Screenshot/Saturday Night Slam Masters (World) (slammast).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -5017,9 +4498,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Scramble (World) (scramble).jpg
-assets.boxback: BoxBack/Scramble (World) (scramble).jpg
-assets.background: Background/Scramble (World) (scramble).jpg
-assets.screenshot: Screenshot/Scramble (World) (scramble).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5054,9 +4532,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Section Z (World) (sectionz).jpg
-assets.boxback: BoxBack/Section Z (World) (sectionz).jpg
-assets.background: Background/Section Z (World) (sectionz).jpg
-assets.screenshot: Screenshot/Section Z (World) (sectionz).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5078,9 +4553,6 @@ description:
 release: 1991-02-12
 players: 2
 assets.boxfront: BoxFront/Sengoku ~ Sengoku Denshou (World) (sengoku).jpg
-assets.boxback: BoxBack/Sengoku ~ Sengoku Denshou (World) (sengoku).jpg
-assets.background: Background/Sengoku ~ Sengoku Denshou (World) (sengoku).jpg
-assets.screenshot: Screenshot/Sengoku ~ Sengoku Denshou (World) (sengoku).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -5103,9 +4575,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Shinobi (Japan) (shinobi).jpg
-assets.boxback: BoxBack/Shinobi (Japan) (shinobi).jpg
-assets.background: Background/Shinobi (Japan) (shinobi).jpg
-assets.screenshot: Screenshot/Shinobi (Japan) (shinobi).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5130,9 +4599,6 @@ description:
 release: 1997-01-01
 players: 2
 assets.boxfront: BoxFront/Shock Troopers (World) (shocktro).jpg
-assets.boxback: BoxBack/Shock Troopers (World) (shocktro).jpg
-assets.background: Background/Shock Troopers (World) (shocktro).jpg
-assets.screenshot: Screenshot/Shock Troopers (World) (shocktro).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -5160,9 +4626,6 @@ description:
 release: 1986-01-01
 players: 1
 assets.boxfront: BoxFront/Side Arms - Hyper Dyne (World) (sidearms).jpg
-assets.boxback: BoxBack/Side Arms - Hyper Dyne (World) (sidearms).jpg
-assets.background: Background/Side Arms - Hyper Dyne (World) (sidearms).jpg
-assets.screenshot: Screenshot/Side Arms - Hyper Dyne (World) (sidearms).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5192,9 +4655,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Sinistar (World) (sinistar).jpg
-assets.boxback: BoxBack/Sinistar (World) (sinistar).jpg
-assets.background: Background/Sinistar (World) (sinistar).jpg
-assets.screenshot: Screenshot/Sinistar (World) (sinistar).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5221,9 +4681,6 @@ description:
 release: 1978-06-01
 players: 2
 assets.boxfront: BoxFront/Sky Diver (World) (skydiver).jpg
-assets.boxback: BoxBack/Sky Diver (World) (skydiver).jpg
-assets.background: Background/Sky Diver (World) (skydiver).jpg
-assets.screenshot: Screenshot/Sky Diver (World) (skydiver).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5250,9 +4707,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Sky Kid (World) (skykid).jpg
-assets.boxback: BoxBack/Sky Kid (World) (skykid).jpg
-assets.background: Background/Sky Kid (World) (skykid).jpg
-assets.screenshot: Screenshot/Sky Kid (World) (skykid).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5281,9 +4735,6 @@ description:
 release: 1990-01-01
 players: 2
 assets.boxfront: BoxFront/Smash T.V. (World) (smashtv).jpg
-assets.boxback: BoxBack/Smash T.V. (World) (smashtv).jpg
-assets.background: Background/Smash T.V. (World) (smashtv).jpg
-assets.screenshot: Screenshot/Smash T.V. (World) (smashtv).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -5324,9 +4775,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Son Son (World) (sonson).jpg
-assets.boxback: BoxBack/Son Son (World) (sonson).jpg
-assets.background: Background/Son Son (World) (sonson).jpg
-assets.screenshot: Screenshot/Son Son (World) (sonson).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -5347,9 +4795,6 @@ description:
 release: 1996-01-01
 players: 2
 assets.boxfront: BoxFront/Sonic Championship (USA) (schamp).jpg
-assets.boxback: BoxBack/Sonic Championship (USA) (schamp).jpg
-assets.background: Background/Sonic Championship (USA) (schamp).jpg
-assets.screenshot: Screenshot/Sonic Championship (USA) (schamp).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5374,9 +4819,6 @@ description:
 release: 1980-01-01
 players: 2
 assets.boxfront: BoxFront/Space Duel (World) (spacduel).jpg
-assets.boxback: BoxBack/Space Duel (World) (spacduel).jpg
-assets.background: Background/Space Duel (World) (spacduel).jpg
-assets.screenshot: Screenshot/Space Duel (World) (spacduel).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -5396,9 +4838,6 @@ description:
 release: 1985-01-01
 players: 1
 assets.boxfront: BoxFront/Space Harrier (World) (sharrier).jpg
-assets.boxback: BoxBack/Space Harrier (World) (sharrier).jpg
-assets.background: Background/Space Harrier (World) (sharrier).jpg
-assets.screenshot: Screenshot/Space Harrier (World) (sharrier).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5433,9 +4872,6 @@ description:
 release: 1986-09-01
 players: 2
 assets.boxfront: BoxFront/Speed Rumbler, The (World) (srumbler).jpg
-assets.boxback: BoxBack/Speed Rumbler, The (World) (srumbler).jpg
-assets.background: Background/Speed Rumbler, The (World) (srumbler).jpg
-assets.screenshot: Screenshot/Speed Rumbler, The (World) (srumbler).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5478,9 +4914,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Splat! (World) (splat).jpg
-assets.boxback: BoxBack/Splat! (World) (splat).jpg
-assets.background: Background/Splat! (World) (splat).jpg
-assets.screenshot: Screenshot/Splat! (World) (splat).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5500,9 +4933,6 @@ description:
 release: 1988-11-01
 players: 1
 assets.boxfront: BoxFront/Splatter House (World) (splatter).jpg
-assets.boxback: BoxBack/Splatter House (World) (splatter).jpg
-assets.background: Background/Splatter House (World) (splatter).jpg
-assets.screenshot: Screenshot/Splatter House (World) (splatter).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5526,9 +4956,6 @@ description:
 release: 1978-01-01
 players: 1
 assets.boxfront: BoxFront/Sprint 1 (World) (sprint1).jpg
-assets.boxback: BoxBack/Sprint 1 (World) (sprint1).jpg
-assets.background: Background/Sprint 1 (World) (sprint1).jpg
-assets.screenshot: Screenshot/Sprint 1 (World) (sprint1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5560,9 +4987,6 @@ description:
 release: 1977
 players: 8
 assets.boxfront: BoxFront/Sprint 8 (World) (sprint8).jpg
-assets.boxback: BoxBack/Sprint 8 (World) (sprint8).jpg
-assets.background: Background/Sprint 8 (World) (sprint8).jpg
-assets.screenshot: Screenshot/Sprint 8 (World) (sprint8).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5581,9 +5005,6 @@ description:
 release: 1983-01-01
 players: 1
 assets.boxfront: BoxFront/Spy Hunter (World) (spyhunt).jpg
-assets.boxback: BoxBack/Spy Hunter (World) (spyhunt).jpg
-assets.background: Background/Spy Hunter (World) (spyhunt).jpg
-assets.screenshot: Screenshot/Spy Hunter (World) (spyhunt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5619,9 +5040,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Spy Hunter II (World) (spyhunt2).jpg
-assets.boxback: BoxBack/Spy Hunter II (World) (spyhunt2).jpg
-assets.background: Background/Spy Hunter II (World) (spyhunt2).jpg
-assets.screenshot: Screenshot/Spy Hunter II (World) (spyhunt2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5639,9 +5057,6 @@ description:
 release: 1981-01-01
 players: 2
 assets.boxfront: BoxFront/Stargate (World) (stargate).jpg
-assets.boxback: BoxBack/Stargate (World) (stargate).jpg
-assets.background: Background/Stargate (World) (stargate).jpg
-assets.screenshot: Screenshot/Stargate (World) (stargate).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5669,9 +5084,6 @@ description:
 release: 1987-08-30
 players: 2
 assets.boxfront: BoxFront/Street Fighter (USA) (sf).jpg
-assets.boxback: BoxBack/Street Fighter (USA) (sf).jpg
-assets.background: Background/Street Fighter (USA) (sf).jpg
-assets.screenshot: Screenshot/Street Fighter (USA) (sf).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5698,9 +5110,6 @@ description:
 release: 1995-06-05
 players: 2
 assets.boxfront: BoxFront/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).jpg
-assets.boxback: BoxBack/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).jpg
-assets.background: Background/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).jpg
-assets.screenshot: Screenshot/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5724,9 +5133,6 @@ description:
 release: 1996-03-06
 players: 2
 assets.boxfront: BoxFront/Street Fighter Alpha 2 (Europe) (sfa2).jpg
-assets.boxback: BoxBack/Street Fighter Alpha 2 (Europe) (sfa2).jpg
-assets.background: Background/Street Fighter Alpha 2 (Europe) (sfa2).jpg
-assets.screenshot: Screenshot/Street Fighter Alpha 2 (Europe) (sfa2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5750,9 +5156,6 @@ description:
 release: 1998-06-29
 players: 2
 assets.boxfront: BoxFront/Street Fighter Alpha 3 (Europe) (sfa3).jpg
-assets.boxback: BoxBack/Street Fighter Alpha 3 (Europe) (sfa3).jpg
-assets.background: Background/Street Fighter Alpha 3 (Europe) (sfa3).jpg
-assets.screenshot: Screenshot/Street Fighter Alpha 3 (Europe) (sfa3).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5783,9 +5186,6 @@ description:
 release: 1991-05-22
 players: 2
 assets.boxfront: BoxFront/Street Fighter II - The World Warrior (World) (sf2).jpg
-assets.boxback: BoxBack/Street Fighter II - The World Warrior (World) (sf2).jpg
-assets.background: Background/Street Fighter II - The World Warrior (World) (sf2).jpg
-assets.screenshot: Screenshot/Street Fighter II - The World Warrior (World) (sf2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5816,9 +5216,6 @@ description:
 release: 1992
 players: 2
 assets.boxfront: BoxFront/Street Fighter II' - Champion Edition (World) (sf2ce).jpg
-assets.boxback: BoxBack/Street Fighter II' - Champion Edition (World) (sf2ce).jpg
-assets.background: Background/Street Fighter II' - Champion Edition (World) (sf2ce).jpg
-assets.screenshot: Screenshot/Street Fighter II' - Champion Edition (World) (sf2ce).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -5838,9 +5235,6 @@ description:
 release: 1992-12-01
 players: 2
 assets.boxfront: BoxFront/Street Fighter II' - Hyper Fighting (World) (sf2hf).jpg
-assets.boxback: BoxBack/Street Fighter II' - Hyper Fighting (World) (sf2hf).jpg
-assets.background: Background/Street Fighter II' - Hyper Fighting (World) (sf2hf).jpg
-assets.screenshot: Screenshot/Street Fighter II' - Hyper Fighting (World) (sf2hf).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5875,9 +5269,6 @@ description:
 release: 1997-09-30
 players: 2
 assets.boxfront: BoxFront/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).jpg
-assets.boxback: BoxBack/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).jpg
-assets.background: Background/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).jpg
-assets.screenshot: Screenshot/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5969,9 +5360,6 @@ description:
 release: 1999-05-12
 players: 2
 assets.boxfront: BoxFront/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).jpg
-assets.boxback: BoxBack/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).jpg
-assets.background: Background/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).jpg
-assets.screenshot: Screenshot/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6003,9 +5391,6 @@ description:
 release: 1997-02-04
 players: 2
 assets.boxfront: BoxFront/Street Fighter III - New Generation (Europe) (sfiii).jpg
-assets.boxback: BoxBack/Street Fighter III - New Generation (Europe) (sfiii).jpg
-assets.background: Background/Street Fighter III - New Generation (Europe) (sfiii).jpg
-assets.screenshot: Screenshot/Street Fighter III - New Generation (Europe) (sfiii).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6032,9 +5417,6 @@ description:
 release: 1989-01-31
 players: 2
 assets.boxfront: BoxFront/Street Smart (USA) (streetsm).jpg
-assets.boxback: BoxBack/Street Smart (USA) (streetsm).jpg
-assets.background: Background/Street Smart (USA) (streetsm).jpg
-assets.screenshot: Screenshot/Street Smart (USA) (streetsm).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6056,9 +5438,6 @@ description:
 release: 1989-03-07
 players: 2
 assets.boxfront: BoxFront/Strider (USA) (strider).jpg
-assets.boxback: BoxBack/Strider (USA) (strider).jpg
-assets.background: Background/Strider (USA) (strider).jpg
-assets.screenshot: Screenshot/Strider (USA) (strider).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6088,9 +5467,6 @@ description:
 release: 1978-09-01
 players: 2
 assets.boxfront: BoxFront/Super Breakout (World) (sbrkout).jpg
-assets.boxback: BoxBack/Super Breakout (World) (sbrkout).jpg
-assets.background: Background/Super Breakout (World) (sbrkout).jpg
-assets.screenshot: Screenshot/Super Breakout (World) (sbrkout).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6113,9 +5489,6 @@ description:
 release: 1977-09-01
 players: 1
 assets.boxfront: BoxFront/Super Bug (World) (superbug).jpg
-assets.boxback: BoxBack/Super Bug (World) (superbug).jpg
-assets.background: Background/Super Bug (World) (superbug).jpg
-assets.screenshot: Screenshot/Super Bug (World) (superbug).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6138,9 +5511,6 @@ description:
 release: 1990-09-19
 players: 2
 assets.boxfront: BoxFront/Super Buster Bros. (USA) (sbbros).jpg
-assets.boxback: BoxBack/Super Buster Bros. (USA) (sbbros).jpg
-assets.background: Background/Super Buster Bros. (USA) (sbbros).jpg
-assets.screenshot: Screenshot/Super Buster Bros. (USA) (sbbros).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6162,9 +5532,6 @@ description:
 release: 1981-06-22
 players: 2
 assets.boxfront: BoxFront/Super Cobra (World) (scobra).jpg
-assets.boxback: BoxBack/Super Cobra (World) (scobra).jpg
-assets.background: Background/Super Cobra (World) (scobra).jpg
-assets.screenshot: Screenshot/Super Cobra (World) (scobra).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6182,9 +5549,6 @@ description:
 release: 1997-09-04
 players: 2
 assets.boxfront: BoxFront/Super Gem Fighter Mini Mix (USA) (sgemf).jpg
-assets.boxback: BoxBack/Super Gem Fighter Mini Mix (USA) (sgemf).jpg
-assets.background: Background/Super Gem Fighter Mini Mix (USA) (sgemf).jpg
-assets.screenshot: Screenshot/Super Gem Fighter Mini Mix (USA) (sgemf).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6208,9 +5572,6 @@ description:
 release: 1996-05-31
 players: 2
 assets.boxfront: BoxFront/Super Puzzle Fighter II Turbo (Europe) (spf2t).jpg
-assets.boxback: BoxBack/Super Puzzle Fighter II Turbo (Europe) (spf2t).jpg
-assets.background: Background/Super Puzzle Fighter II Turbo (Europe) (spf2t).jpg
-assets.screenshot: Screenshot/Super Puzzle Fighter II Turbo (Europe) (spf2t).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6230,9 +5591,6 @@ description:
 release: 1995-04-07
 players: 2
 assets.boxfront: BoxFront/Super Sidekicks 3 - The Next Glory (World) (ssideki3).jpg
-assets.boxback: BoxBack/Super Sidekicks 3 - The Next Glory (World) (ssideki3).jpg
-assets.background: Background/Super Sidekicks 3 - The Next Glory (World) (ssideki3).jpg
-assets.screenshot: Screenshot/Super Sidekicks 3 - The Next Glory (World) (ssideki3).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6253,9 +5611,6 @@ description:
 release: 1986-01-01
 players: 3
 assets.boxfront: BoxFront/Super Sprint (World) (ssprint).jpg
-assets.boxback: BoxBack/Super Sprint (World) (ssprint).jpg
-assets.background: Background/Super Sprint (World) (ssprint).jpg
-assets.screenshot: Screenshot/Super Sprint (World) (ssprint).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6280,9 +5635,6 @@ description:
 release: 1993-09-10
 players: 2
 assets.boxfront: BoxFront/Super Street Fighter II - The New Challengers (World) (ssf2).jpg
-assets.boxback: BoxBack/Super Street Fighter II - The New Challengers (World) (ssf2).jpg
-assets.background: Background/Super Street Fighter II - The New Challengers (World) (ssf2).jpg
-assets.screenshot: Screenshot/Super Street Fighter II - The New Challengers (World) (ssf2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6308,9 +5660,6 @@ description:
 release: 1994-02-23
 players: 2
 assets.boxfront: BoxFront/Super Street Fighter II Turbo (World) (ssf2t).jpg
-assets.boxback: BoxBack/Super Street Fighter II Turbo (World) (ssf2t).jpg
-assets.background: Background/Super Street Fighter II Turbo (World) (ssf2t).jpg
-assets.screenshot: Screenshot/Super Street Fighter II Turbo (World) (ssf2t).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6333,9 +5682,6 @@ description:
 release: 1985-05-01
 players: 1
 assets.boxfront: BoxFront/T.N.K III (USA) (tnk3).jpg
-assets.boxback: BoxBack/T.N.K III (USA) (tnk3).jpg
-assets.background: Background/T.N.K III (USA) (tnk3).jpg
-assets.screenshot: Screenshot/T.N.K III (USA) (tnk3).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6360,9 +5706,6 @@ description:
 release: 1991-12-01
 players: 2
 assets.boxfront: BoxFront/Tank Force (USA) (tankfrce).jpg
-assets.boxback: BoxBack/Tank Force (USA) (tankfrce).jpg
-assets.background: Background/Tank Force (USA) (tankfrce).jpg
-assets.screenshot: Screenshot/Tank Force (USA) (tankfrce).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6382,9 +5725,6 @@ description:
 release: 1989
 players: 4
 assets.boxfront: BoxFront/Teenage Mutant Ninja Turtles (World) (tmnt).jpg
-assets.boxback: BoxBack/Teenage Mutant Ninja Turtles (World) (tmnt).jpg
-assets.background: Background/Teenage Mutant Ninja Turtles (World) (tmnt).jpg
-assets.screenshot: Screenshot/Teenage Mutant Ninja Turtles (World) (tmnt).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6410,9 +5750,6 @@ description:
 release: 1991
 players: 4
 assets.boxfront: BoxFront/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).jpg
-assets.boxback: BoxBack/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).jpg
-assets.background: Background/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).jpg
-assets.screenshot: Screenshot/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6432,9 +5769,6 @@ description:
 release: 1981-10-01
 players: 2
 assets.boxfront: BoxFront/Tempest (World) (tempest).jpg
-assets.boxback: BoxBack/Tempest (World) (tempest).jpg
-assets.background: Background/Tempest (World) (tempest).jpg
-assets.screenshot: Screenshot/Tempest (World) (tempest).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6450,9 +5784,6 @@ description:
 release: 1991-07-01
 players: 2
 assets.boxfront: BoxFront/Three Wonders (World) (3wonders).jpg
-assets.boxback: BoxBack/Three Wonders (World) (3wonders).jpg
-assets.background: Background/Three Wonders (World) (3wonders).jpg
-assets.screenshot: Screenshot/Three Wonders (World) (3wonders).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6475,9 +5806,6 @@ description:
 release: 1988-01-01
 players: 1
 assets.boxfront: BoxFront/Thunder Cross (World) (thunderx).jpg
-assets.boxback: BoxBack/Thunder Cross (World) (thunderx).jpg
-assets.background: Background/Thunder Cross (World) (thunderx).jpg
-assets.screenshot: Screenshot/Thunder Cross (World) (thunderx).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6504,9 +5832,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Tiger Road (USA) (tigeroad).jpg
-assets.boxback: BoxBack/Tiger Road (USA) (tigeroad).jpg
-assets.background: Background/Tiger Road (USA) (tigeroad).jpg
-assets.screenshot: Screenshot/Tiger Road (USA) (tigeroad).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6549,9 +5874,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Timber (World) (timber).jpg
-assets.boxback: BoxBack/Timber (World) (timber).jpg
-assets.background: Background/Timber (World) (timber).jpg
-assets.screenshot: Screenshot/Timber (World) (timber).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6581,9 +5903,6 @@ description:
 release: 1982-01-01
 players: 2
 assets.boxfront: BoxFront/Time Pilot (World) (timeplt).jpg
-assets.boxback: BoxBack/Time Pilot (World) (timeplt).jpg
-assets.background: Background/Time Pilot (World) (timeplt).jpg
-assets.screenshot: Screenshot/Time Pilot (World) (timeplt).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6600,9 +5919,6 @@ description:
 release: 1987-05-13
 players: 2
 assets.boxfront: BoxFront/Time Soldiers (USA) (timesold).jpg
-assets.boxback: BoxBack/Time Soldiers (USA) (timesold).jpg
-assets.background: Background/Time Soldiers (USA) (timesold).jpg
-assets.screenshot: Screenshot/Time Soldiers (USA) (timesold).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6660,9 +5976,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Toobin' (World) (toobin).jpg
-assets.boxback: BoxBack/Toobin' (World) (toobin).jpg
-assets.background: Background/Toobin' (World) (toobin).jpg
-assets.screenshot: Screenshot/Toobin' (World) (toobin).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6685,9 +5998,6 @@ description:
 release: 1994-01-01
 players: 2
 assets.boxfront: BoxFront/Top Hunter - Roddy & Cathy (World) (tophuntr).jpg
-assets.boxback: BoxBack/Top Hunter - Roddy & Cathy (World) (tophuntr).jpg
-assets.background: Background/Top Hunter - Roddy & Cathy (World) (tophuntr).jpg
-assets.screenshot: Screenshot/Top Hunter - Roddy & Cathy (World) (tophuntr).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6716,9 +6026,6 @@ description:
 release: 1992-01-01
 players: 2
 assets.boxfront: BoxFront/Total Carnage (World) (totcam).jpg
-assets.boxback: BoxBack/Total Carnage (World) (totcam).jpg
-assets.background: Background/Total Carnage (World) (totcam).jpg
-assets.screenshot: Screenshot/Total Carnage (World) (totcam).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6737,9 +6044,6 @@ description:
 release: 1984-01-01
 players: 2
 assets.boxfront: BoxFront/Tower of Druaga, The (World) (todruaga).jpg
-assets.boxback: BoxBack/Tower of Druaga, The (World) (todruaga).jpg
-assets.background: Background/Tower of Druaga, The (World) (todruaga).jpg
-assets.screenshot: Screenshot/Tower of Druaga, The (World) (todruaga).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6768,9 +6072,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Trojan (USA) (trojan).jpg
-assets.boxback: BoxBack/Trojan (USA) (trojan).jpg
-assets.background: Background/Trojan (USA) (trojan).jpg
-assets.screenshot: Screenshot/Trojan (USA) (trojan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6796,9 +6097,6 @@ description:
 release: 1985-03-05
 players: 2
 assets.boxfront: BoxFront/TwinBee (World) (twinbee).jpg
-assets.boxback: BoxBack/TwinBee (World) (twinbee).jpg
-assets.background: Background/TwinBee (World) (twinbee).jpg
-assets.screenshot: Screenshot/TwinBee (World) (twinbee).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6815,9 +6113,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Typhoon (World) (ajax).jpg
-assets.boxback: BoxBack/Typhoon (World) (ajax).jpg
-assets.background: Background/Typhoon (World) (ajax).jpg
-assets.screenshot: Screenshot/Typhoon (World) (ajax).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6837,9 +6132,6 @@ description:
 release: 1997-06-13
 players: 2
 assets.boxfront: BoxFront/Vampire Savior - The Lord of Vampire (Europe) (vsav).jpg
-assets.boxback: BoxBack/Vampire Savior - The Lord of Vampire (Europe) (vsav).jpg
-assets.background: Background/Vampire Savior - The Lord of Vampire (Europe) (vsav).jpg
-assets.screenshot: Screenshot/Vampire Savior - The Lord of Vampire (Europe) (vsav).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6864,9 +6156,6 @@ description:
 release: 1997-08-01
 players: 2
 assets.boxfront: BoxFront/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).jpg
-assets.boxback: BoxBack/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).jpg
-assets.background: Background/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).jpg
-assets.screenshot: Screenshot/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6899,9 +6188,6 @@ description:
 release: 1992-07-01
 players: 2
 assets.boxfront: BoxFront/Varth - Operation Thunderstorm (World) (varth).jpg
-assets.boxback: BoxBack/Varth - Operation Thunderstorm (World) (varth).jpg
-assets.background: Background/Varth - Operation Thunderstorm (World) (varth).jpg
-assets.screenshot: Screenshot/Varth - Operation Thunderstorm (World) (varth).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6932,9 +6218,6 @@ description:
 release: 1986-01-01
 players: 2
 assets.boxfront: BoxFront/Victory Road (World) (victroad).jpg
-assets.boxback: BoxBack/Victory Road (World) (victroad).jpg
-assets.background: Background/Victory Road (World) (victroad).jpg
-assets.screenshot: Screenshot/Victory Road (World) (victroad).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6958,9 +6241,6 @@ description:
 release: 1988-01-01
 players: 2
 assets.boxfront: BoxFront/Vindicators (World) (vindictr).jpg
-assets.boxback: BoxBack/Vindicators (World) (vindictr).jpg
-assets.background: Background/Vindicators (World) (vindictr).jpg
-assets.screenshot: Screenshot/Vindicators (World) (vindictr).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -6996,9 +6276,6 @@ description:
 release: 1988-03-24
 players: 2
 assets.boxfront: BoxFront/Vulcan Venture (World) (vulcan).jpg
-assets.boxback: BoxBack/Vulcan Venture (World) (vulcan).jpg
-assets.background: Background/Vulcan Venture (World) (vulcan).jpg
-assets.screenshot: Screenshot/Vulcan Venture (World) (vulcan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7020,9 +6297,6 @@ description:
 release: 1984-09-10
 players: 1
 assets.boxfront: BoxFront/Vulgus (World) (vulgus).jpg
-assets.boxback: BoxBack/Vulgus (World) (vulgus).jpg
-assets.background: Background/Vulgus (World) (vulgus).jpg
-assets.screenshot: Screenshot/Vulgus (World) (vulgus).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7039,9 +6313,6 @@ description:
 release: 1983-01-01
 players: 2
 assets.boxfront: BoxFront/Wacko (World) (wacko).jpg
-assets.boxback: BoxBack/Wacko (World) (wacko).jpg
-assets.background: Background/Wacko (World) (wacko).jpg
-assets.screenshot: Screenshot/Wacko (World) (wacko).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7076,9 +6347,6 @@ description:
 release: 1980-04-01
 players: 4
 assets.boxfront: BoxFront/Warlords! (World) (warlords).jpg
-assets.boxback: BoxBack/Warlords! (World) (warlords).jpg
-assets.background: Background/Warlords! (World) (warlords).jpg
-assets.screenshot: Screenshot/Warlords! (World) (warlords).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7109,9 +6377,6 @@ description:
 release: 1992-11-01
 players: 2
 assets.boxfront: BoxFront/Warriors of Fate (World) (wof).jpg
-assets.boxback: BoxBack/Warriors of Fate (World) (wof).jpg
-assets.background: Background/Warriors of Fate (World) (wof).jpg
-assets.screenshot: Screenshot/Warriors of Fate (World) (wof).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7141,9 +6406,6 @@ description:
 release: 1980-12-01
 players: 2
 assets.boxfront: BoxFront/Wizard of Wor (World) (wow).jpg
-assets.boxback: BoxBack/Wizard of Wor (World) (wow).jpg
-assets.background: Background/Wizard of Wor (World) (wow).jpg
-assets.screenshot: Screenshot/Wizard of Wor (World) (wow).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -7168,9 +6430,6 @@ description:
 release: 1992-07-28
 players: 2
 assets.boxfront: BoxFront/World Heroes (World) (wh1).jpg
-assets.boxback: BoxBack/World Heroes (World) (wh1).jpg
-assets.background: Background/World Heroes (World) (wh1).jpg
-assets.screenshot: Screenshot/World Heroes (World) (wh1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7188,9 +6447,6 @@ description:
 release: 1987-01-01
 players: 1
 assets.boxfront: BoxFront/World Wars (World) (worldwar).jpg
-assets.boxback: BoxBack/World Wars (World) (worldwar).jpg
-assets.background: Background/World Wars (World) (worldwar).jpg
-assets.screenshot: Screenshot/World Wars (World) (worldwar).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7216,9 +6472,6 @@ description:
 release: 1987-01-01
 players: 3
 assets.boxfront: BoxFront/Xenophobe (World) (xenophob).jpg
-assets.boxback: BoxBack/Xenophobe (World) (xenophob).jpg
-assets.background: Background/Xenophobe (World) (xenophob).jpg
-assets.screenshot: Screenshot/Xenophobe (World) (xenophob).jpg
 x-co-op: Yes
 x-playable: Yes
 
@@ -7247,9 +6500,6 @@ description:
 release: 1982-12-01
 players: 2
 assets.boxfront: BoxFront/Xevious (World) (xevious).jpg
-assets.boxback: BoxBack/Xevious (World) (xevious).jpg
-assets.background: Background/Xevious (World) (xevious).jpg
-assets.screenshot: Screenshot/Xevious (World) (xevious).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7281,9 +6531,6 @@ description:
 release: 1987-01-01
 players: 2
 assets.boxfront: BoxFront/Xybots (World) (xybots).jpg
-assets.boxback: BoxBack/Xybots (World) (xybots).jpg
-assets.background: Background/Xybots (World) (xybots).jpg
-assets.screenshot: Screenshot/Xybots (World) (xybots).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7315,9 +6562,6 @@ description:
 release: 1985-01-01
 players: 2
 assets.boxfront: BoxFront/Yie Ar Kung-Fu (World) (yiear).jpg
-assets.boxback: BoxBack/Yie Ar Kung-Fu (World) (yiear).jpg
-assets.background: Background/Yie Ar Kung-Fu (World) (yiear).jpg
-assets.screenshot: Screenshot/Yie Ar Kung-Fu (World) (yiear).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -7338,9 +6582,6 @@ description:
 release: 1982-08-01
 players: 2
 assets.boxfront: BoxFront/Zaxxon (World) (zaxxon).jpg
-assets.boxback: BoxBack/Zaxxon (World) (zaxxon).jpg
-assets.background: Background/Zaxxon (World) (zaxxon).jpg
-assets.screenshot: Screenshot/Zaxxon (World) (zaxxon).jpg
 x-co-op: No
 x-playable: Yes
 

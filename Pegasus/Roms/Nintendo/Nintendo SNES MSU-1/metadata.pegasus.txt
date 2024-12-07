@@ -22,9 +22,6 @@ description:
 release: 2023-09-10
 players: 1
 assets.boxfront: BoxFront/DuckTales (USA) (Rev 6) (MSU-1).jpg
-assets.boxback: BoxBack/DuckTales (USA) (Rev 6) (MSU-1).jpg
-assets.background: Background/DuckTales (USA) (Rev 6) (MSU-1).jpg
-assets.screenshot: Screenshot/DuckTales (USA) (Rev 6) (MSU-1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -54,9 +51,6 @@ description:
 release: 2023-07-25
 players: 1
 assets.boxfront: BoxFront/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
-assets.boxback: BoxBack/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
-assets.background: Background/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
-assets.screenshot: Screenshot/Legend of Zelda, The (USA) (Rev 7) (MSU-1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -86,9 +80,6 @@ description:
 release: 2024-02-11
 players: 1
 assets.boxfront: BoxFront/Mega Man (USA) (Rev 1) (MSU-1).jpg
-assets.boxback: BoxBack/Mega Man (USA) (Rev 1) (MSU-1).jpg
-assets.background: Background/Mega Man (USA) (Rev 1) (MSU-1).jpg
-assets.screenshot: Screenshot/Mega Man (USA) (Rev 1) (MSU-1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -111,9 +102,6 @@ description:
 release: 2023-07-02
 players: 1
 assets.boxfront: BoxFront/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
-assets.boxback: BoxBack/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
-assets.background: Background/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
-assets.screenshot: Screenshot/Mega Man 2 (USA) (Rev 4) (MSU-1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -136,9 +124,6 @@ description:
 release: 2023-12-01
 players: 1
 assets.boxfront: BoxFront/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
-assets.boxback: BoxBack/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
-assets.background: Background/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
-assets.screenshot: Screenshot/Mega Man 4 (USA) (Rev 6) (MSU-1).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -177,9 +162,6 @@ description:
 release: 2023-12-13
 players: 1
 assets.boxfront: BoxFront/Metroid (USA) (Rev 5) (MSU-1).jpg
-assets.boxback: BoxBack/Metroid (USA) (Rev 5) (MSU-1).jpg
-assets.background: Background/Metroid (USA) (Rev 5) (MSU-1).jpg
-assets.screenshot: Screenshot/Metroid (USA) (Rev 5) (MSU-1).jpg
 x-co-op: No
 x-playable: Yes
 

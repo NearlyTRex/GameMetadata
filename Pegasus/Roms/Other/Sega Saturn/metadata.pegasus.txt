@@ -26,8 +26,6 @@ release: 1996-02-23
 players: 1
 assets.boxfront: BoxFront/Alone in the Dark - One-Eyed Jack's Revenge (USA).jpg
 assets.boxback: BoxBack/Alone in the Dark - One-Eyed Jack's Revenge (USA).jpg
-assets.background: Background/Alone in the Dark - One-Eyed Jack's Revenge (USA).jpg
-assets.screenshot: Screenshot/Alone in the Dark - One-Eyed Jack's Revenge (USA).jpg
 assets.video: Video/Alone in the Dark - One-Eyed Jack's Revenge (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -53,8 +51,6 @@ release: 1997-07-25
 players: 1
 assets.boxfront: BoxFront/Bio Hazard (Japan).jpg
 assets.boxback: BoxBack/Bio Hazard (Japan).jpg
-assets.background: Background/Bio Hazard (Japan).jpg
-assets.screenshot: Screenshot/Bio Hazard (Japan).jpg
 assets.video: Video/Bio Hazard (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -73,8 +69,6 @@ release: 1995-05-11
 players: 1
 assets.boxfront: BoxFront/Bootleg Sampler (USA).jpg
 assets.boxback: BoxBack/Bootleg Sampler (USA).jpg
-assets.background: Background/Bootleg Sampler (USA).jpg
-assets.screenshot: Screenshot/Bootleg Sampler (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -97,8 +91,6 @@ release: 1995-12-08
 players: 1
 assets.boxfront: BoxFront/Bug! (USA).jpg
 assets.boxback: BoxBack/Bug! (USA).jpg
-assets.background: Background/Bug! (USA).jpg
-assets.screenshot: Screenshot/Bug! (USA).jpg
 assets.video: Video/Bug! (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -125,8 +117,6 @@ release: 1994-12-09
 players: 1
 assets.boxfront: BoxFront/Clockwork Knight - Pepperouchau's Adventure (USA).jpg
 assets.boxback: BoxBack/Clockwork Knight - Pepperouchau's Adventure (USA).jpg
-assets.background: Background/Clockwork Knight - Pepperouchau's Adventure (USA).jpg
-assets.screenshot: Screenshot/Clockwork Knight - Pepperouchau's Adventure (USA).jpg
 assets.video: Video/Clockwork Knight - Pepperouchau's Adventure (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -162,8 +152,6 @@ release: 1995-07-28
 players: 1
 assets.boxfront: BoxFront/D (USA).jpg
 assets.boxback: BoxBack/D (USA).jpg
-assets.background: Background/D (USA).jpg
-assets.screenshot: Screenshot/D (USA).jpg
 assets.video: Video/D (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -188,8 +176,6 @@ release: 1995-04-01
 players: 2
 assets.boxfront: BoxFront/Daytona USA (USA).jpg
 assets.boxback: BoxBack/Daytona USA (USA).jpg
-assets.background: Background/Daytona USA (USA).jpg
-assets.screenshot: Screenshot/Daytona USA (USA).jpg
 assets.video: Video/Daytona USA (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -220,8 +206,6 @@ release: 1998-06-30
 players: 1
 assets.boxfront: BoxFront/Deep Fear (Japan).jpg
 assets.boxback: BoxBack/Deep Fear (Japan).jpg
-assets.background: Background/Deep Fear (Japan).jpg
-assets.screenshot: Screenshot/Deep Fear (Japan).jpg
 assets.video: Video/Deep Fear (Japan).mp4
 x-co-op: No
 x-playable: Yes
@@ -256,8 +240,6 @@ release: 1997-10-31
 players: 1
 assets.boxfront: BoxFront/Enemy Zero (USA).jpg
 assets.boxback: BoxBack/Enemy Zero (USA).jpg
-assets.background: Background/Enemy Zero (USA).jpg
-assets.screenshot: Screenshot/Enemy Zero (USA).jpg
 assets.video: Video/Enemy Zero (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -278,8 +260,6 @@ release: 1996-11-30
 players: 1
 assets.boxfront: BoxFront/Legend of Oasis, The (USA).jpg
 assets.boxback: BoxBack/Legend of Oasis, The (USA).jpg
-assets.background: Background/Legend of Oasis, The (USA).jpg
-assets.screenshot: Screenshot/Legend of Oasis, The (USA).jpg
 assets.video: Video/Legend of Oasis, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -307,8 +287,6 @@ release: 1994-12-02
 players: 1
 assets.boxfront: BoxFront/Mansion of Hidden Souls, The (USA).jpg
 assets.boxback: BoxBack/Mansion of Hidden Souls, The (USA).jpg
-assets.background: Background/Mansion of Hidden Souls, The (USA).jpg
-assets.screenshot: Screenshot/Mansion of Hidden Souls, The (USA).jpg
 assets.video: Video/Mansion of Hidden Souls, The (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -330,8 +308,6 @@ release: 1997-12-31
 players: 1
 assets.boxfront: BoxFront/Mass Destruction (USA).jpg
 assets.boxback: BoxBack/Mass Destruction (USA).jpg
-assets.background: Background/Mass Destruction (USA).jpg
-assets.screenshot: Screenshot/Mass Destruction (USA).jpg
 assets.video: Video/Mass Destruction (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -377,8 +353,6 @@ release: 1995-07-21
 players: 1
 assets.boxfront: BoxFront/Mystaria - The Realms of Lore (USA).jpg
 assets.boxback: BoxBack/Mystaria - The Realms of Lore (USA).jpg
-assets.background: Background/Mystaria - The Realms of Lore (USA).jpg
-assets.screenshot: Screenshot/Mystaria - The Realms of Lore (USA).jpg
 assets.video: Video/Mystaria - The Realms of Lore (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -402,8 +376,6 @@ release: 1996-08-31
 players: 1
 assets.boxfront: BoxFront/NiGHTS into Dreams... (USA) (Demo).jpg
 assets.boxback: BoxBack/NiGHTS into Dreams... (USA) (Demo).jpg
-assets.background: Background/NiGHTS into Dreams... (USA) (Demo).jpg
-assets.screenshot: Screenshot/NiGHTS into Dreams... (USA) (Demo).jpg
 assets.video: Video/NiGHTS into Dreams... (USA) (Demo).mp4
 x-co-op: No
 x-playable: Yes
@@ -423,8 +395,6 @@ release: 1997-11-18
 players: 2
 assets.boxfront: BoxFront/Sonic R (USA, Brazil).jpg
 assets.boxback: BoxBack/Sonic R (USA, Brazil).jpg
-assets.background: Background/Sonic R (USA, Brazil).jpg
-assets.screenshot: Screenshot/Sonic R (USA, Brazil).jpg
 assets.video: Video/Sonic R (USA, Brazil).mp4
 x-co-op: No
 x-playable: Yes
@@ -445,8 +415,6 @@ release: 1995-11-24
 players: 2
 assets.boxfront: BoxFront/Virtua Cop (USA) (6S).jpg
 assets.boxback: BoxBack/Virtua Cop (USA) (6S).jpg
-assets.background: Background/Virtua Cop (USA) (6S).jpg
-assets.screenshot: Screenshot/Virtua Cop (USA) (6S).jpg
 assets.video: Video/Virtua Cop (USA) (6S).mp4
 x-co-op: Yes
 x-playable: Yes
@@ -468,8 +436,6 @@ release: 1995-12-01
 players: 2
 assets.boxfront: BoxFront/Virtua Fighter 2 (USA).jpg
 assets.boxback: BoxBack/Virtua Fighter 2 (USA).jpg
-assets.background: Background/Virtua Fighter 2 (USA).jpg
-assets.screenshot: Screenshot/Virtua Fighter 2 (USA).jpg
 assets.video: Video/Virtua Fighter 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
@@ -493,8 +459,6 @@ release: 1995-04-27
 players: 1
 assets.boxfront: BoxFront/Virtual Hydlide (USA).jpg
 assets.boxback: BoxBack/Virtual Hydlide (USA).jpg
-assets.background: Background/Virtual Hydlide (USA).jpg
-assets.screenshot: Screenshot/Virtual Hydlide (USA).jpg
 assets.video: Video/Virtual Hydlide (USA).mp4
 x-co-op: No
 x-playable: Yes

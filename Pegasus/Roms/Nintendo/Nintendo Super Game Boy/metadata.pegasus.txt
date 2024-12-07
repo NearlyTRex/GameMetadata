@@ -32,9 +32,6 @@ description:
 release: 1994-06-14
 players: 1
 assets.boxfront: BoxFront/Donkey Kong (Japan, USA) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Donkey Kong (Japan, USA) (SGB Enhanced).jpg
-assets.background: Background/Donkey Kong (Japan, USA) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Donkey Kong (Japan, USA) (SGB Enhanced).jpg
 assets.video: Video/Donkey Kong (Japan, USA) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -57,9 +54,6 @@ description:
 release: 1995-06-26
 players: 1
 assets.boxfront: BoxFront/Donkey Kong Land (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Donkey Kong Land (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Donkey Kong Land (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Donkey Kong Land (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Donkey Kong Land (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -94,9 +88,6 @@ description:
 release: 1996-09-01
 players: 1
 assets.boxfront: BoxFront/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -117,9 +108,6 @@ description:
 release: 1997-10-01
 players: 1
 assets.boxfront: BoxFront/Donkey Kong Land III (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Donkey Kong Land III (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Donkey Kong Land III (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Donkey Kong Land III (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Donkey Kong Land III (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -149,9 +137,6 @@ description:
 release: 1997-02-01
 players: 1
 assets.boxfront: BoxFront/Game & Watch Gallery (USA) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Game & Watch Gallery (USA) (SGB Enhanced).jpg
-assets.background: Background/Game & Watch Gallery (USA) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Game & Watch Gallery (USA) (SGB Enhanced).jpg
 assets.video: Video/Game & Watch Gallery (USA) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -175,9 +160,6 @@ description:
 release: 1995-12-14
 players: 1
 assets.boxfront: BoxFront/Kirby's Block Ball (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Kirby's Block Ball (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Kirby's Block Ball (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Kirby's Block Ball (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Kirby's Block Ball (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -198,9 +180,6 @@ description:
 release: 1995-05-01
 players: 1
 assets.boxfront: BoxFront/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -223,9 +202,6 @@ description:
 release: 1997-06-04
 players: 1
 assets.boxfront: BoxFront/Kirby's Star Stacker (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Kirby's Star Stacker (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Kirby's Star Stacker (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Kirby's Star Stacker (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Kirby's Star Stacker (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -252,9 +228,6 @@ description:
 release: 1995-03-14
 players: 1
 assets.boxfront: BoxFront/Mario's Picross (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Mario's Picross (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Mario's Picross (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Mario's Picross (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Mario's Picross (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -281,9 +254,6 @@ description:
 release: 1994-07-22
 players: 1
 assets.boxfront: BoxFront/Mega Man V (USA) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Mega Man V (USA) (SGB Enhanced).jpg
-assets.background: Background/Mega Man V (USA) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Mega Man V (USA) (SGB Enhanced).jpg
 assets.video: Video/Mega Man V (USA) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -303,9 +273,6 @@ description:
 release: 1996-07-21
 players: 1
 assets.boxfront: BoxFront/Mole Mania (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Mole Mania (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Mole Mania (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Mole Mania (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Mole Mania (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -326,9 +293,6 @@ description:
 release: 1998-04-01
 players: 1
 assets.boxfront: BoxFront/Mystical Ninja Starring Goemon (USA) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Mystical Ninja Starring Goemon (USA) (SGB Enhanced).jpg
-assets.background: Background/Mystical Ninja Starring Goemon (USA) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Mystical Ninja Starring Goemon (USA) (SGB Enhanced).jpg
 assets.video: Video/Mystical Ninja Starring Goemon (USA) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -372,9 +336,6 @@ description:
 release: 1997-10-01
 players: 1
 assets.boxfront: BoxFront/Tamagotchi (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Tamagotchi (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Tamagotchi (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Tamagotchi (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Tamagotchi (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
@@ -395,9 +356,6 @@ description:
 release: 1994-11-15
 players: 2
 assets.boxfront: BoxFront/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).jpg
-assets.boxback: BoxBack/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).jpg
-assets.background: Background/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).jpg
-assets.screenshot: Screenshot/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).jpg
 assets.video: Video/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).mp4
 x-co-op: No
 x-playable: Yes
