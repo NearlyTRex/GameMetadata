@@ -376,6 +376,11 @@ x-playable: Yes
 game: Beholder (USA)
 file: Computer/Epic Games/B/Beholder (USA)/Beholder (USA).json
 players: 1
+assets.boxfront: BoxFront/Beholder (USA).jpg
+assets.boxback: BoxBack/Beholder (USA).jpg
+assets.background: Background/Beholder (USA).jpg
+assets.screenshot: Screenshot/Beholder (USA).jpg
+assets.video: Video/Beholder (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -618,6 +623,11 @@ x-playable: Yes
 game: Brotato (USA)
 file: Computer/Epic Games/B/Brotato (USA)/Brotato (USA).json
 players: 1
+assets.boxfront: BoxFront/Brotato (USA).jpg
+assets.boxback: BoxBack/Brotato (USA).jpg
+assets.background: Background/Brotato (USA).jpg
+assets.screenshot: Screenshot/Brotato (USA).jpg
+assets.video: Video/Brotato (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -744,6 +754,54 @@ assets.background: Background/Card Shark (USA).jpg
 assets.screenshot: Screenshot/Card Shark (USA).jpg
 assets.video: Video/Card Shark (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/card-shark-8f95f0
+x-co-op: No
+x-playable: Yes
+
+
+game: Castlevania Anniversary Collection (USA)
+file: Computer/Epic Games/C/Castlevania Anniversary Collection (USA)/Castlevania Anniversary Collection (USA).json
+developer: KONAMI
+publisher: KONAMI
+genre: Action;Platformer;Retro
+description:
+  Castlevania Anniversary Collection
+  .
+  Konami's Castlevania Anniversary Collection traces the origins of the historic
+  vampire franchise. Included is a unique eBook with details provided by
+  developers, artists and others inspired by the Castlevania legacy which sheds a
+  fresh light into the world of Castlevania.
+  .
+  Released as part of the Konami 50th Anniversary celebration, relive these
+  timeless classics that helped define the platformer genre. From the Belmont clan
+  to their extended bloodlines and allies, the Castlevania Anniversary Collection
+  is the best first step for anyone to take into the world of Castlevania and the
+  fight against Dracula!
+  .
+  Castlevania
+  .
+  Castlevania II Simon's Quest
+  .
+  Castlevania III Dracula's Curse
+  .
+  Super Castlevania IV
+  .
+  Castlevania The Adventure
+  .
+  Castlevania II Belmont's Revenge
+  .
+  Castlevania Bloodlines
+  .
+  Kid Dracula (never released in English before)
+  .
+  History of Castlevania - Book of the Crescent Moon
+release: 2024-11-14
+players: 1
+assets.boxfront: BoxFront/Castlevania Anniversary Collection (USA).jpg
+assets.boxback: BoxBack/Castlevania Anniversary Collection (USA).jpg
+assets.background: Background/Castlevania Anniversary Collection (USA).jpg
+assets.screenshot: Screenshot/Castlevania Anniversary Collection (USA).jpg
+assets.video: Video/Castlevania Anniversary Collection (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/castlevania-anniversary-collection-a61f94
 x-co-op: No
 x-playable: Yes
 
@@ -1135,6 +1193,89 @@ assets.video: Video/Earthlock (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/earthlock-e7d979
 x-co-op: No
 x-playable: No
+
+
+game: Elite Dangerous (USA)
+file: Computer/Epic Games/E/Elite Dangerous (USA)/Elite Dangerous (USA).json
+developer: Frontier Developments
+publisher: Frontier Developments
+genre: Action;Space
+description:
+  Elite Dangerous
+  .
+  Elite Dangerous is the definitive massively multiplayer space epic, bringing
+  gaming's original open world adventure to the modern generation with a connected
+  galaxy, evolving narrative and the entirety of the Milky Way re-created at its
+  full galactic proportions.
+  .
+  Starting with only a small starship and a few credits, players do whatever it
+  takes to earn the skill, knowledge, wealth and power to survive in a futuristic
+  cutthroat galaxy and to stand among the ranks of the iconic Elite. In an age of
+  galactic superpowers and interstellar war, every player's story influences the
+  unique connected gaming experience and handcrafted evolving narrative.
+  Governments fall, battles are lost and won, and humanity's frontier is reshaped,
+  all by players' actions.
+  .
+  Horizons Season Now Included!
+  .
+  Experience a whole new angle on the galaxy with the Horizons season, now
+  included in Elite Dangerous. Journey from the stars to the surfaces of strange
+  worlds, hit the ground running in the Scarab Surface Recon Vehicle, craft
+  weapons, deploy ship-launched fighters and experience exhilarating multicrew co-
+  op action.
+  .
+  A Galaxy Of Wonders
+  .
+  The 400 billion star systems of the Milky Way are the stage for Elite Dangerous
+  ' open-ended gameplay. The real stars, planets, moons, asteroid fields and black
+  holes of our own galaxy are built to their true epic proportions in the largest
+  designed playspace in videogame history.
+  .
+  A Unique Connected Game Experience
+  .
+  Governments fall, battles are lost and won, and humanity's frontier is reshaped,
+  all by players' actions. In an age of galactic superpowers and interstellar war,
+  every player's personal story influences the connected galaxy and handcrafted,
+  evolving narrative.
+  .
+  Blaze Your Own Trail
+  .
+  Upgrade your ship and customize every component as you hunt, explore, fight,
+  mine, smuggle, trade and survive in the cutthroat galaxy of the year 3301. Do
+  whatever it takes to earn the skill, knowledge, wealth and power to stand among
+  the ranks of the Elite.
+  .
+  Massively Multiplayer
+  .
+  Experience unpredictable encounters with players from around the world in Elite
+  Dangerous ' vast, massively multiplayer space. Experience the connected galaxy
+  alone in Solo mode or with players across the world in Open Play, where every
+  pilot you face could become a trusted ally or your deadliest enemy. You will
+  need to register a free Elite Dangerous account with Frontier to play the game.
+  .
+  A Living Game
+  .
+  Elite Dangerous grows and expands with new features and content. Major updates
+  react to the way players want to play and create new gameplay opportunities for
+  the hundreds of thousands of players cooperating, competing and exploring
+  together in the connected galaxy.
+  .
+  The Original Open World Adventure
+  .
+  Elite Dangerous is the third sequel to 1984's genre-defining Elite, bringing
+  gaming's original open world adventure into the modern generation with a
+  connected galaxy, evolving narrative and the entire Milky Way recreated at its
+  full galactic proportions.
+release: 2020-11-19
+players: 1
+assets.boxfront: BoxFront/Elite Dangerous (USA).jpg
+assets.boxback: BoxBack/Elite Dangerous (USA).jpg
+assets.background: Background/Elite Dangerous (USA).jpg
+assets.screenshot: Screenshot/Elite Dangerous (USA).jpg
+assets.video: Video/Elite Dangerous (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/elite-dangerous
+x-co-op: No
+x-playable: Yes
 
 
 game: Eternal Cylinder, The (USA)
@@ -1750,6 +1891,63 @@ x-co-op: No
 x-playable: Yes
 
 
+game: House of Golf 2 (USA)
+file: Computer/Epic Games/H/House of Golf 2 (USA)/House of Golf 2 (USA).json
+developer: Starlight Games
+publisher: Starlight Games
+genre: Casual;Indie;Sports
+description:
+  Family, friends, fairways-endless fun! Where every swing leads to greatness!
+  .
+  Embark on an unforgettable golfing adventure with House of Golf 2 - not just a
+  game, but an invitation to create lasting memories with family and friends.
+  Whether you're a seasoned pro or a newcomer to the virtual greens, dive into a
+  world brimming with challenges and excitement.
+  .
+  Challenge your skills across a variety of engaging environments where every
+  twist and turn presents a new test of your abilities. With countless obstacles
+  to conquer, each play session promises fresh thrills to keep you hooked for
+  hours on end.
+  .
+  Couch Play for 4 Players
+  .
+  Gather up to four players for the ultimate couch play experience. House of Golf
+  2 is tailor-made for lively gatherings and family fun, delivering seamless
+  multiplayer action that's perfect for parties and game nights. Who will reign
+  supreme in your household?
+  .
+  Over 100 Holes
+  .
+  With over 100 meticulously crafted holes to conquer, the game offers endless
+  entertainment and surprises. Each hole presents a unique puzzle waiting to be
+  solved with the perfect swing.
+  .
+  Trick Score System
+  .
+  Unleash your creativity and skill with our innovative Trick Score System.
+  Showcase your mastery with jaw-dropping shots, ricocheting around corners and
+  defying gravity to earn impressive scores and wow your friends.
+  .
+  Live Tournaments and Holes
+  .
+  Ready to test your mettle? Dive into Live Tournaments and compete on a variety
+  of dynamic courses for exciting prizes, from coins to exclusive skins and golf
+  balls. There's always a new challenge to conquer and rewards to claim.
+  .
+  Don't miss out - grab your virtual clubs and prepare to leave your mark on the
+  world of House of Golf 2!
+release: 2024-08-16
+players: 1
+assets.boxfront: BoxFront/House of Golf 2 (USA).jpg
+assets.boxback: BoxBack/House of Golf 2 (USA).jpg
+assets.background: Background/House of Golf 2 (USA).jpg
+assets.screenshot: Screenshot/House of Golf 2 (USA).jpg
+assets.video: Video/House of Golf 2 (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/house-of-golf-2-f346a4
+x-co-op: No
+x-playable: Yes
+
+
 game: Invincible Presents - Atom Eve (USA)
 file: Computer/Epic Games/I/Invincible Presents - Atom Eve (USA)/Invincible Presents - Atom Eve (USA).json
 developer: Terrible Posture Games
@@ -1869,6 +2067,40 @@ assets.background: Background/Jotun - Valhalla Edition (USA).jpg
 assets.screenshot: Screenshot/Jotun - Valhalla Edition (USA).jpg
 assets.video: Video/Jotun - Valhalla Edition (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/jotun
+x-co-op: No
+x-playable: Yes
+
+
+game: Jurassic World Evolution (USA)
+file: Computer/Epic Games/J/Jurassic World Evolution (USA)/Jurassic World Evolution (USA).json
+developer: Frontier Developments
+publisher: Frontier Developments
+genre: Simulation;Strategy
+description:
+  Jurassic World Evolution
+  .
+  Take charge of operations on the legendary islands of the Muertes archipelago
+  and bring the wonder, majesty and danger of dinosaurs to life. Build for
+  Science, Entertainment or Security interests in an uncertain world where life
+  always finds a way.
+  .
+  Bioengineer dinosaurs that think, feel and react intelligently to the world
+  around them. Play with life itself to give your dinosaurs unique behaviors,
+  traits and appearances, then contain and profit from them to fund your global
+  search for lost dinosaur DNA.
+  .
+  Control the big picture with deep management tools or go hands-on to confront
+  challenges on the ground or in the air. Expand your islands and choose your own
+  journey in an all-new narrative featuring iconic characters from across the
+  franchise and decades of Jurassic lore at your fingertips.
+release: 2020-12-31
+players: 1
+assets.boxfront: BoxFront/Jurassic World Evolution (USA).jpg
+assets.boxback: BoxBack/Jurassic World Evolution (USA).jpg
+assets.background: Background/Jurassic World Evolution (USA).jpg
+assets.screenshot: Screenshot/Jurassic World Evolution (USA).jpg
+assets.video: Video/Jurassic World Evolution (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/jurassic-world-evolution
 x-co-op: No
 x-playable: Yes
 
@@ -2048,6 +2280,66 @@ assets.background: Background/Killing Floor 2 - Beta (USA).jpg
 assets.screenshot: Screenshot/Killing Floor 2 - Beta (USA).jpg
 assets.video: Video/Killing Floor 2 - Beta (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/killing-floor-2
+x-co-op: No
+x-playable: Yes
+
+
+game: LEGO Star Wars - The Skywalker Saga (USA)
+file: Computer/Epic Games/L/LEGO Star Wars - The Skywalker Saga (USA)/LEGO Star Wars - The Skywalker Saga (USA).json
+developer: TT Games
+publisher: Warner Bros. Games
+genre: Action;Adventure
+description:
+  LEGO Star Wars: The Skywalker Saga
+  .
+  The galaxy is yours in LEGO Star Wars: The Skywalker Saga. Experience memorable
+  moments and nonstop action from all nine Skywalker saga films reimagined with
+  signature LEGO humor.
+  .
+  The digital edition includes an exclusive classic Obi-Wan Kenobi playable
+  character.
+  .
+  Explore the Trilogies in Any Order
+  .
+  Players will relive the epic story of all nine films in the Skywalker Saga, and
+  it all starts with picking the trilogy of their choice to begin the journey.
+  .
+  Play as Iconic Heroes and Villains
+  .
+  More than 300 playable characters from throughout the galaxy.
+  .
+  Discover Legendary Locales
+  .
+  Players can visit well known locales from their favorite Skywalker saga films
+  .They can unlock and have the freedom to seamlessly travel to 23 planets as they
+  play through the saga or explore and discover exciting quests.
+  .
+  Command Powerful Vehicles
+  .
+  More than 100 vehicles from across the galaxy to command. Join dogfights and
+  defeat capital ships like the Super Star Destroyer that can be boarded and
+  explored.
+  .
+  Immersive Player Experiences
+  .
+  String attacks together to form combo chains and fend off oncoming attacks. New
+  blaster controls and mechanics allow players to aim with precision, or utilize
+  the skills of a Jedi by wielding a lightsaber and using the power of The Force.
+  .
+  Upgradable Character Abilities
+  .
+  Exploration rewards players as they uncover Kyber Bricks which unlock new
+  features and upgraded abilities across a range of character classes, including
+  Jedi, Hero, Dark Side, Villain, Scavenger, Scoundrel, Bounty Hunter, Astromech
+  Droid, and Protocol Droid.
+release: 2022-04-05
+players: 1
+assets.boxfront: BoxFront/LEGO Star Wars - The Skywalker Saga (USA).jpg
+assets.boxback: BoxBack/LEGO Star Wars - The Skywalker Saga (USA).jpg
+assets.background: Background/LEGO Star Wars - The Skywalker Saga (USA).jpg
+assets.screenshot: Screenshot/LEGO Star Wars - The Skywalker Saga (USA).jpg
+assets.video: Video/LEGO Star Wars - The Skywalker Saga (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga
 x-co-op: No
 x-playable: Yes
 
@@ -2538,6 +2830,47 @@ assets.background: Background/MythForce PTR (USA).jpg
 assets.screenshot: Screenshot/MythForce PTR (USA).jpg
 assets.video: Video/MythForce PTR (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/mythforce-d2710b
+x-co-op: No
+x-playable: Yes
+
+
+game: Necromunda - Hired Gun (USA)
+file: Computer/Epic Games/N/Necromunda - Hired Gun (USA)/Necromunda - Hired Gun (USA).json
+developer: Streum On Studio
+publisher: Focus Entertainment
+genre: Action;Action-Adventure;Adventure
+description:
+  Necromunda: Hired Gun
+  .
+  Pick your contracts. Hunt your targets. Collect the bounty.
+  .
+  Navigate an ocean of crime and corruption to balance the bloody ecosystem of
+  Necromunda as a merciless hired gun. The money's good, the dog's loyal, and the
+  gun's reliable - but can you survive the hunt? Necromunda: Hired Gun is an indie
+  fast-paced, violent, and thrilling FPS set in the darkest reaches of Warhammer
+  40,000's most infamous hive city.
+  .
+  For the right price, eliminate the most notorious gangers and mutants. Your
+  armory is a sprawling arsenal. Your body is enhanced with a dozen customizable
+  augments to run on walls and leap over chasms. Your cyber-mastiff will sniff out
+  and kill enemies for you, while your grappling hook allows quick, agile
+  traversal of the massive environments.
+  .
+  An indie fast-paced FPS in the Warhammer 40,000 universe
+  .
+  Upgrade and fight alongside your loyal cyber-mastiff
+  .
+  Endless weapon and augment customisation
+  .
+  Upgrade, advance, and level up as you collect bounties
+release: 2021-05-31
+players: 1
+assets.boxfront: BoxFront/Necromunda - Hired Gun (USA).jpg
+assets.boxback: BoxBack/Necromunda - Hired Gun (USA).jpg
+assets.background: Background/Necromunda - Hired Gun (USA).jpg
+assets.screenshot: Screenshot/Necromunda - Hired Gun (USA).jpg
+assets.video: Video/Necromunda - Hired Gun (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/necromunda-hired-gun
 x-co-op: No
 x-playable: Yes
 
@@ -3245,6 +3578,29 @@ assets.background: Background/Stasis - Bone Totem (USA).jpg
 assets.screenshot: Screenshot/Stasis - Bone Totem (USA).jpg
 assets.video: Video/Stasis - Bone Totem (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/stasis-bone-totem-ca8320
+x-co-op: No
+x-playable: Yes
+
+
+game: Super Meat Boy (USA)
+file: Computer/Epic Games/S/Super Meat Boy (USA)/Super Meat Boy (USA).json
+developer: Team Meat
+publisher: Team Meat
+genre: Action;Platformer
+description:
+  Super Meat Boy
+  .
+  Super Meat Boy is a tough as nails platformer where you play as a boy without
+  skin who needs to save his girlfriend made of bandages from an evil fetus in a
+  jar wearing a top hat and a monocle.
+release: 2010-10-20
+players: 1
+assets.boxfront: BoxFront/Super Meat Boy (USA).jpg
+assets.boxback: BoxBack/Super Meat Boy (USA).jpg
+assets.background: Background/Super Meat Boy (USA).jpg
+assets.screenshot: Screenshot/Super Meat Boy (USA).jpg
+assets.video: Video/Super Meat Boy (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/super-meat-boy
 x-co-op: No
 x-playable: Yes
 
