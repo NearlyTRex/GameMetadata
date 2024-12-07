@@ -1250,6 +1250,30 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Disney-Pixar WALL-E (USA)
+file: Computer/Amazon Games/D/Disney-Pixar WALL-E (USA)/Disney-Pixar WALL-E (USA).json
+developer: Asobo Studio
+publisher: THQ
+genre: Action;Platformer;3D
+description:
+  Players will take control of WALL-E and EVE through a fast-paced adventure based
+  on the upcoming DisneyPixar film. The game will allow fans to relive some of the
+  movie's most thrilling moments as they explore 10 worlds filled with non-stop
+  action and adventure, along with head-to-head multiplayer challenges. Players
+  will recognize the storyline, characters and key locations from the WALL-E film
+  as they carry out intense missions, dodge dangerous enemies and navigate their
+  way through a futuristic world.
+release: 2008-06-24
+players: 1
+assets.boxfront: BoxFront/Disney-Pixar WALL-E (USA).jpg
+assets.boxback: BoxBack/Disney-Pixar WALL-E (USA).jpg
+assets.background: Background/Disney-Pixar WALL-E (USA).jpg
+assets.screenshot: Screenshot/Disney-Pixar WALL-E (USA).jpg
+assets.video: Video/Disney-Pixar WALL-E (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: DreadOut 2 (USA)
 file: Computer/Amazon Games/D/DreadOut 2 (USA)/DreadOut 2 (USA).json
 developer: Digital Happiness
@@ -1956,6 +1980,32 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Max - The Curse of Brotherhood (USA)
+file: Computer/Amazon Games/M/Max - The Curse of Brotherhood (USA)/Max - The Curse of Brotherhood (USA).json
+developer: Press Play
+publisher: Microsoft Studios
+genre: Action;Adventure
+description:
+  Max, the main protagonist of Max & the Magic Marker arrives home from school one
+  day and finds his younger brother Felix playing in his room and smashing his
+  beloved toys. Being annoyed by his little brother Max searches online on the
+  search engine website "Giggle" for a way to get rid of Felix. He immediately
+  stumbles upon a spell which promises to make his brother disappear. Reading the
+  spell out loud opens up a mysterious portal from which a giant claw emerges and
+  kidnaps his little brother Felix. Realizing the consequences of his actions, Max
+  jumps without hesitation into the portal to rescue Felix and enters a magical
+  and hostile world controlled by the evil lord Mustacho and his henchmen.
+release: 2014-04-15
+players: 1
+assets.boxfront: BoxFront/Max - The Curse of Brotherhood (USA).jpg
+assets.boxback: BoxBack/Max - The Curse of Brotherhood (USA).jpg
+assets.background: Background/Max - The Curse of Brotherhood (USA).jpg
+assets.screenshot: Screenshot/Max - The Curse of Brotherhood (USA).jpg
+assets.video: Video/Max - The Curse of Brotherhood (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Minabo - A Walk Through Life (USA)
 file: Computer/Amazon Games/M/Minabo - A Walk Through Life (USA)/Minabo - A Walk Through Life (USA).json
 developer: DevilishGames
@@ -2021,6 +2071,33 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA)
+file: Computer/Amazon Games/M/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA)/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).json
+developer: Elephant Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  When heiress Olivia Cubitt disappears just before her wedding, your friend Oscar
+  Watson knows just who to call!
+  .
+  Everyone close to Olivia has received strange letters with encryptions of
+  dancing figures. Your Uncle Sherlock once dealt with a similar case, and when
+  you discover his case files have been stolen, it's clear foul work is at play!
+  .
+  Can you discover what ties your case to your famous ancestors and stop those
+  behind the dancing men once and for all? Find out in this gripping Hidden-Object
+  Puzzle Adventure!
+release: 2023-04-14
+players: 1
+assets.boxfront: BoxFront/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).jpg
+assets.boxback: BoxBack/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).jpg
+assets.background: Background/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).jpg
+assets.screenshot: Screenshot/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).jpg
+assets.video: Video/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Mystery Case Files - Black Crown (USA)
 file: Computer/Amazon Games/M/Mystery Case Files - Black Crown (USA)/Mystery Case Files - Black Crown (USA).json
 developer: Eipix Entertainment
@@ -2041,6 +2118,32 @@ assets.boxback: BoxBack/Mystery Case Files - Black Crown (USA).jpg
 assets.background: Background/Mystery Case Files - Black Crown (USA).jpg
 assets.screenshot: Screenshot/Mystery Case Files - Black Crown (USA).jpg
 assets.video: Video/Mystery Case Files - Black Crown (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Mystery Case Files - The Dalimar Legacy Collector's Edition (USA)
+file: Computer/Amazon Games/M/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA)/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).json
+developer: Grandma Studios
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  What gives the Master Detective the courage to constantly defy the odds against
+  some of the darkest forces the agency has ever seen? What pushed Charles Dalimar
+  into madness and past the point of no return? Discover answers to both questions
+  when a strange phenomenon drops the Master Detective into Dalimar's body
+  sometime in the past. As the Master Detective, it's up to you to use this
+  unexpected turn of events to alter the past and prevent some of the darkest,
+  most difficult, career-defining cases from ever coming to pass... But at what
+  cost? Prepare yourself, Detective. With unforgettable characters, deadly traps,
+  and mind-bending puzzles, this could be your most challenging case yet!
+release: 2023-03-17
+players: 1
+assets.boxfront: BoxFront/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).jpg
+assets.boxback: BoxBack/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).jpg
+assets.background: Background/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).jpg
+assets.screenshot: Screenshot/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).jpg
+assets.video: Video/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -2509,6 +2612,64 @@ assets.boxback: BoxBack/Wall World (USA).jpg
 assets.background: Background/Wall World (USA).jpg
 assets.screenshot: Screenshot/Wall World (USA).jpg
 assets.video: Video/Wall World (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Warhammer 40,000 - Dawn of War (USA)
+file: Computer/Amazon Games/W/Warhammer 40,000 - Dawn of War (USA)/Warhammer 40,000 - Dawn of War (USA).json
+developer: Relic Entertainment
+publisher: THQ
+genre: Strategy
+description:
+  Warhammer 40,000: Dawn of War is a military science fiction real-time strategy
+  video game developed by Relic Entertainment based on Games Workshop's popular
+  tabletop wargame Warhammer 40,000. It was released by THQ on September 20, 2004
+  in North America. Since its release, three expansion packs have been released:
+  Winter Assault in 2005, Dark Crusade in 2006, and Soulstorm in 2008. The sequel,
+  Dawn of War II was released in February 2009.
+  .
+  The Game of the Year edition was released on September 21, 2005 in the USA and
+  on September 23 in Europe, containing 4 exclusive maps. Later, the Game of the
+  Year edition and Winter Assault were bundled in the Gold Edition in the USA,
+  released in March 2006. In November 2006, Dawn of War and its first two
+  expansions were released together as The Platinum Collection in the USA or as
+  the Dawn of War Anthology in the PAL regions. More recently, in March 2008, all
+  three expansions along with Dawn of War have been released as The Complete
+  Collection.
+release: 2004-09-20
+players: 1
+assets.boxfront: BoxFront/Warhammer 40,000 - Dawn of War (USA).jpg
+assets.boxback: BoxBack/Warhammer 40,000 - Dawn of War (USA).jpg
+assets.background: Background/Warhammer 40,000 - Dawn of War (USA).jpg
+assets.screenshot: Screenshot/Warhammer 40,000 - Dawn of War (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Warhammer 40,000 - Space Marine (USA)
+file: Computer/Amazon Games/W/Warhammer 40,000 - Space Marine (USA)/Warhammer 40,000 - Space Marine (USA).json
+developer: Relic Entertainment
+publisher: THQ
+genre: Action
+description:
+  Warhammer 40,000: Space Marine (also known as WH40k: Space Marine) is a third-
+  person action video game developed by Relic Entertainment and published by THQ.
+  It was released for Microsoft Windows, PlayStation 3 and Xbox 360 on September
+  6, 2011. THQ has announced pre-orders and a limited edition version of the game.
+  .
+  Warhammer 40,000: Space Marine takes place in Games Workshop's Warhammer 40,000
+  universe.
+  .
+  The title's gameplay focuses on a hybrid shooting and melee combat model. In
+  late March 2011, it was announced that Warhammer 40,000: Space Marine would
+  feature the Chaos faction of Warhammer 40,000.[
+release: 2011-09-09
+players: 1
+assets.boxfront: BoxFront/Warhammer 40,000 - Space Marine (USA).jpg
+assets.boxback: BoxBack/Warhammer 40,000 - Space Marine (USA).jpg
+assets.background: Background/Warhammer 40,000 - Space Marine (USA).jpg
+assets.screenshot: Screenshot/Warhammer 40,000 - Space Marine (USA).jpg
 x-co-op: No
 x-playable: Yes
 
