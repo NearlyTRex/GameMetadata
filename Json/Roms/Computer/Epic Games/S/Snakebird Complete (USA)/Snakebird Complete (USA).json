@@ -3,6 +3,9 @@
         "appname": "8337d1f975514d35ad0c1176e8a29f26",
         "appurl": "https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae",
         "buildid": "Win.1.5",
-        "name": "Snakebird Complete"
+        "name": "Snakebird Complete",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Noumenon Games/Snakebird Complete"
+        ]
     }
 }

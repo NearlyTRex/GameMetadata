@@ -375,12 +375,60 @@ x-playable: Yes
 
 game: Beholder (USA)
 file: Computer/Epic Games/B/Beholder (USA)/Beholder (USA).json
+developer: Alawar Stargaze (Warm Lamp Games)
+publisher: Alawar
+genre: Adventure;Narration;Strategy
+description:
+  Welcome to a grim dystopian future.
+  .
+  A totalitarian State controls every aspect of private and public life.
+  .
+  Laws are oppressive. Surveillance is total. Privacy is dead.
+  .
+  But FREEDOM lives ...
+  .
+  You are the State-installed manager of an apartment building. Your daily routine
+  involves making the building a sweet spot for tenants, who will come and go.
+  However, that is simply a facade that hides your real mission...
+  .
+  SPYING on your renters!
+  .
+  Your primary task is to covertly watch your tenants and eavesdrop on their
+  conversations. You must BUG their apartments while they're away, SEARCH their
+  belongings for whatever can threaten the authority of the State, and PROFILE
+  them for your superiors. You must also REPORT anyone capable of violating the
+  laws or plotting subversive activities against the State to the authorities.
+  .
+  YOU MUST! But WILL YOU?
+  .
+  You are a cog in a totalitarian machine with your own family who also has needs.
+  Do you cling to your humanity and cover up your tenants? Or do you survive by
+  staying loyal to the regime? The choice is yours.
+  .
+  You can report the suspicious activities of a father but orphan his children. Or
+  you can withhold the details about his illegal activities and give him a chance
+  to make things right? Or you can blackmail him to earn something your family.
+  .
+  What about the others?
+  .
+  As you play the game, you'll interact with many characters and complete dozens
+  of quests. You'll also make decisions that will affect the way the story
+  unfolds. This will lead to one of several game endings - the ending you have
+  earned!
+  .
+  Just remember:
+  .
+  Your choices have consequences!
+  .
+  And you will have to deal with them!
+release: 2024-11-01
 players: 1
 assets.boxfront: BoxFront/Beholder (USA).jpg
 assets.boxback: BoxBack/Beholder (USA).jpg
 assets.background: Background/Beholder (USA).jpg
 assets.screenshot: Screenshot/Beholder (USA).jpg
 assets.video: Video/Beholder (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/beholder-8c3b4c
 x-co-op: No
 x-playable: Yes
 
@@ -622,12 +670,40 @@ x-playable: Yes
 
 game: Brotato (USA)
 file: Computer/Epic Games/B/Brotato (USA)/Brotato (USA).json
+description:
+  About the game
+  .
+  A spaceship from Potato World crashes onto an alien planet. The sole survivor:
+  Brotato, the only potato capable of handling 6 weapons at the same time. Waiting
+  to be rescued by his mates, Brotato must survive in this hostile environment.
+  .
+  Features
+  .
+  Auto-firing weapons by default with a manual aiming option
+  .
+  Fast runs (under 30 minutes)
+  .
+  Dozens of characters available to customize your runs (one-handed, crazy, lucky,
+  mage and many more)
+  .
+  Hundreds of items and weapons to choose from (flamethrowers, SMGs, rocket
+  launchers or sticks and stones)
+  .
+  Survive waves lasting 20 to 90 seconds each and kill off as many aliens as you
+  can during that time
+  .
+  Collect materials to gain experience and get items from the shop between waves
+  of enemies
+  .
+  Accessibility options: tweak the health, damage and speed of enemies so the
+  difficulty is right for you
 players: 1
 assets.boxfront: BoxFront/Brotato (USA).jpg
 assets.boxback: BoxBack/Brotato (USA).jpg
 assets.background: Background/Brotato (USA).jpg
 assets.screenshot: Screenshot/Brotato (USA).jpg
 assets.video: Video/Brotato (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/brotato-ed4097
 x-co-op: No
 x-playable: Yes
 

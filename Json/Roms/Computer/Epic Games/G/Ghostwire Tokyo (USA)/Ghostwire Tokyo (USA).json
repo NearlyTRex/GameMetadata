@@ -3,6 +3,9 @@
         "appname": "007ff8f4e30845a687e66aa77eb3e965",
         "appurl": "https://store.epicgames.com/en-US/p/ghostwire-tokyo",
         "buildid": "CL642509-A",
-        "name": "Ghostwire Tokyo"
+        "name": "Ghostwire Tokyo",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/TangoGameworks/GhostWire Tokyo (EGS)"
+        ]
     }
 }
