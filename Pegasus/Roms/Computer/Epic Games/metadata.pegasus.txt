@@ -373,6 +373,13 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Beholder (USA)
+file: Computer/Epic Games/B/Beholder (USA)/Beholder (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Borderlands - The Pre-Sequel (USA)
 file: Computer/Epic Games/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
 developer: 2K Australia
@@ -604,6 +611,48 @@ assets.background: Background/Bridge, The (USA).jpg
 assets.screenshot: Screenshot/Bridge, The (USA).jpg
 assets.video: Video/Bridge, The (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/the-bridge
+x-co-op: No
+x-playable: Yes
+
+
+game: Brotato (USA)
+file: Computer/Epic Games/B/Brotato (USA)/Brotato (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Bus Simulator 21 Next Stop (USA)
+file: Computer/Epic Games/B/Bus Simulator 21 Next Stop (USA)/Bus Simulator 21 Next Stop (USA).json
+developer: Stillalive Studios
+publisher: Astragon Entertainment
+genre: Simulation
+description:
+  Bus Simulator 21 Next Stop
+  .
+  Career Mode combines Sandbox Mode with the campaign's economic system. You have
+  access to all the bus stops and bus models right from the start of the game and
+  don't have to unlock everything gradually by completing missions.
+  .
+  In addition to the Next Stop update, the free, official map extension DLC is
+  coming to the Epic Game Store. Look forward to a new area in the north of the
+  "Angel Shores" North American map. Get the free DLC now and expand your
+  gameplay!
+  .
+  This major update adds a brand-new career mode to the game.
+  .
+  Includes bug fixes and game improvements for smoother gameplay.
+  .
+  Next Stop comes with an optional free map extension DLC with lots of new tasks
+  for owners of the main game - get it now on the Epic Game Store!
+release: 2023-05-16
+players: 1
+assets.boxfront: BoxFront/Bus Simulator 21 Next Stop (USA).jpg
+assets.boxback: BoxBack/Bus Simulator 21 Next Stop (USA).jpg
+assets.background: Background/Bus Simulator 21 Next Stop (USA).jpg
+assets.screenshot: Screenshot/Bus Simulator 21 Next Stop (USA).jpg
+assets.video: Video/Bus Simulator 21 Next Stop (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/bus-simulator-21
 x-co-op: No
 x-playable: Yes
 
