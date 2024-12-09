@@ -3,7 +3,7 @@
         "Ultima Collection (USA) (Ultima I - Ultima VIII).chd"
     ],
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "ULTIMA/AKALABET/AK.EXE",
         "ULTIMA/SERPENT/SERPENT.COM",
         "ULTIMA/ULTIMA1/ULTIMA.EXE",
@@ -15,7 +15,7 @@
         "ULTIMA/ULTIMA7/ULTIMA7.COM",
         "ULTIMA/ULTIMA8/U8.EXE"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "ULTIMA/AKALABET/AK.EXE": "ULTIMA/AKALABET",
         "ULTIMA/SERPENT/SERPENT.COM": "ULTIMA/SERPENT",
         "ULTIMA/ULTIMA1/ULTIMA.EXE": "ULTIMA/ULTIMA1",

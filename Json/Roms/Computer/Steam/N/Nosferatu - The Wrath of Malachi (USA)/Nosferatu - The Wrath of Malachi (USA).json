@@ -5,10 +5,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Nosferatu - The Wrath of Malachi (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Nosferatu - The Wrath of Malachi/Nosferatu.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Nosferatu - The Wrath of Malachi/Nosferatu.exe": "Nosferatu - The Wrath of Malachi"
     },
     "steam": {

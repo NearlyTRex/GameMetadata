@@ -5,10 +5,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Guacamelee! Gold Edition (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Guacamelee! Gold Edition/Guac.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Guacamelee! Gold Edition/Guac.exe": "Guacamelee! Gold Edition"
     },
     "sandbox": {

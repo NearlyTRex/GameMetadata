@@ -2,10 +2,10 @@
     "files": [
         "Mega Man 2.5D (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Mega Man 2.5D/MM25DGame.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Mega Man 2.5D/MM25DGame.exe": "Mega Man 2.5D"
     },
     "sandbox": {

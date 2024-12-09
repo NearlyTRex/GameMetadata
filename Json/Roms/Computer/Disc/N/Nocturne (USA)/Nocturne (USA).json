@@ -9,10 +9,10 @@
         "DISC_ONE_ROOT/SETUP.EXE",
         "DISC_UPDATE_ROOT/nocpatch2.exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Program Files (x86)/Terminal Reality/Nocturne/nocturne.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Program Files (x86)/Terminal Reality/Nocturne/nocturne.exe": "Program Files (x86)/Terminal Reality/Nocturne"
     },
     "steps": {

@@ -5,15 +5,15 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Path, The (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "The Path/PathViewer.exe"
     ],
-    "main_game_exe_args": {
+    "launch_exe_args": {
         "The Path/PathViewer.exe": [
             "GameLoader-Steam.cgr"
         ]
     },
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "The Path/PathViewer.exe": "The Path"
     },
     "steam": {

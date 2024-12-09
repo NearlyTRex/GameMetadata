@@ -14,10 +14,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil Village (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil Village/re8.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil Village/re8.exe": "Resident Evil Village"
     },
     "sandbox": {

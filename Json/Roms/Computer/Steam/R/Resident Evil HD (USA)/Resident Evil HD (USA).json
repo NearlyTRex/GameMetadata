@@ -10,10 +10,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil HD (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil HD/bhd.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil HD/bhd.exe": "Resident Evil HD"
     },
     "sandbox": {

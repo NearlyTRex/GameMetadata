@@ -2,10 +2,10 @@
     "files": [
         "Nuclear Throne (USA) (Windows, Mac, Linux).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Nuclear Throne/nuclearthrone.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Nuclear Throne/nuclearthrone.exe": "Nuclear Throne"
     },
     "steps": {

@@ -2,10 +2,10 @@
     "files": [
         "Awesome Adventures of Captain Spirit, The (USA) (4587429).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "The Awesome Adventures of Captain Spirit/CaptainSpirit/Binaries/Win64/CaptainSpirit-Win64-Shipping.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "The Awesome Adventures of Captain Spirit/CaptainSpirit/Binaries/Win64/CaptainSpirit-Win64-Shipping.exe": "The Awesome Adventures of Captain Spirit/CaptainSpirit/Binaries/Win64"
     },
     "sandbox": {

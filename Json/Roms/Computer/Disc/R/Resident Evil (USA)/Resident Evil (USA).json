@@ -5,10 +5,10 @@
         "Resident Evil (USA) (Update).chd",
         "Resident Evil (USA).m3u"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "ResidentEvil/Biohazard.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "ResidentEvil/Biohazard.exe": "ResidentEvil"
     },
     "sandbox": {

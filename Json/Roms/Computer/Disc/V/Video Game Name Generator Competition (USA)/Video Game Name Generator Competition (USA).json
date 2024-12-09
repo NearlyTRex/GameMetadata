@@ -2,7 +2,7 @@
     "files": [
         "Video Game Name Generator Competition (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "VGNGC/Brain-Damaged Toon Underworld/demo.exe",
         "VGNGC/Dynamite Prison Armageddon/dynamiteprisonarmageddon.exe",
         "VGNGC/Enraged Rocket House/erh.exe",
@@ -29,7 +29,7 @@
         "VGNGC/Twin Hobo Rocket/TwinHoboRocket.exe",
         "VGNGC/We Love Mind Control Rocket/We Love Mind Control Rocket.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "VGNGC/Brain-Damaged Toon Underworld/demo.exe": "VGNGC/Brain-Damaged Toon Underworld",
         "VGNGC/Dynamite Prison Armageddon/dynamiteprisonarmageddon.exe": "VGNGC/Dynamite Prison Armageddon",
         "VGNGC/Enraged Rocket House/erh.exe": "VGNGC/Enraged Rocket House",

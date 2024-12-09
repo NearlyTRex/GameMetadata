@@ -2,10 +2,10 @@
     "files": [
         "Crawl (USA) (8121616).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Crawl/Crawl.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Crawl/Crawl.exe": "Crawl"
     },
     "steam": {

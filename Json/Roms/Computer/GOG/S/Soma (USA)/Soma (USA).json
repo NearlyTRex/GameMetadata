@@ -23,10 +23,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_soma_1.61_(64bit)_(50360).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "GOG Games/SOMA/Soma.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "GOG Games/SOMA/Soma.exe": "GOG Games/SOMA"
     },
     "transform_file": "setup_soma_1.61_(64bit)_(50360).exe"

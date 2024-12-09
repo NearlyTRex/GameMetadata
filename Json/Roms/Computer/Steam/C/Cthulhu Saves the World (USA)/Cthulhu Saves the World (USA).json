@@ -2,10 +2,10 @@
     "files": [
         "Cthulhu Saves the World (USA) (25888).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Cthulhu Saves the World/CSTW.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Cthulhu Saves the World/CSTW.exe": "Cthulhu Saves the World"
     },
     "sandbox": {

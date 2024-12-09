@@ -3,12 +3,12 @@
         "Forgotten Realms - The Archives - Collection One (USA).chd"
     ],
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "FORC1/EYE/START.BAT",
         "FORC1/DARKMOON/START.EXE",
         "FORC1/EOB3/EYE.BAT"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "FORC1/DARKMOON/START.EXE": "FORC1/DARKMOON",
         "FORC1/EOB3/EYE.BAT": "FORC1/EOB3",
         "FORC1/EYE/START.BAT": "FORC1/EYE"

@@ -5,11 +5,11 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/SEGA Mega Drive & Genesis Classics (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "SEGA Mega Drive & Genesis Classics/SEGAGameRoom.exe",
         "SEGA Mega Drive & Genesis Classics/SEGAGenesisClassics.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "SEGA Mega Drive & Genesis Classics/SEGAGameRoom.exe": "SEGA Mega Drive & Genesis Classics",
         "SEGA Mega Drive & Genesis Classics/SEGAGenesisClassics.exe": "SEGA Mega Drive & Genesis Classics"
     },

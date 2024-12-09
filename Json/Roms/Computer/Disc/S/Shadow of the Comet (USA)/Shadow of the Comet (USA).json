@@ -3,10 +3,10 @@
         "Shadow of the Comet (USA).chd"
     ],
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "I-MOTION/SHADOW.CD/SHADOW.EXE"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "I-MOTION/SHADOW.CD/SHADOW.EXE": "I-MOTION/SHADOW.CD"
     },
     "steps": {

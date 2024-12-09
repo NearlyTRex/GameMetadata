@@ -8,10 +8,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil 4 (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil 4/Bin32/bio4.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil 4/Bin32/bio4.exe": "Resident Evil 4/Bin32"
     },
     "sandbox": {

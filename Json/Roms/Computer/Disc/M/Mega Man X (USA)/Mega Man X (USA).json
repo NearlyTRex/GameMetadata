@@ -4,10 +4,10 @@
     ],
     "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.BAT",
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "MMX/MMX.BAT"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "MMX/MMX.BAT": "MMX"
     },
     "sync": {

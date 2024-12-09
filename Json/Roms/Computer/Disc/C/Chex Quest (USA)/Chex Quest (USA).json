@@ -4,10 +4,10 @@
         "Chex Quest (USA).chd",
         "Chex Quest (USA).m3u"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "ChexQuest/gzdoom.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "ChexQuest/gzdoom.exe": "ChexQuest"
     },
     "steps": {

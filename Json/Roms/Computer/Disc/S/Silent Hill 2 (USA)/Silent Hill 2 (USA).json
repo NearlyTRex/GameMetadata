@@ -10,10 +10,10 @@
         "DISC_ONE_ROOT/Autorun.exe",
         "DISC_UPDATE_ROOT/SH2EEsetup.exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Program Files (x86)/Konami/Silent Hill 2/sh2pc.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Program Files (x86)/Konami/Silent Hill 2/sh2pc.exe": "Program Files (x86)/Konami/Silent Hill 2"
     },
     "steps": {

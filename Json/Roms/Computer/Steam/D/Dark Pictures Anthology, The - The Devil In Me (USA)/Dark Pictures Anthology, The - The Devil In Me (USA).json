@@ -14,10 +14,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - The Devil In Me (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "The Dark Pictures Anthology - The Devil In Me/TheDevilInMe.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "The Dark Pictures Anthology - The Devil In Me/TheDevilInMe.exe": "The Dark Pictures Anthology - The Devil In Me"
     },
     "sandbox": {

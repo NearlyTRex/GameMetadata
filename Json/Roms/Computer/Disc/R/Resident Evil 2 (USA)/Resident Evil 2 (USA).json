@@ -6,10 +6,10 @@
         "Resident Evil 2 (USA) (Update).chd",
         "Resident Evil 2 (USA).m3u"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "ResidentEvil2/bio2 1.10.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "ResidentEvil2/bio2 1.10.exe": "ResidentEvil2"
     },
     "sandbox": {

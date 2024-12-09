@@ -12,7 +12,7 @@
         "DISC_THREE_ROOT/INSTALL.EXE"
     ],
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "BARDTALE/BT1/BARD.EXE",
         "BARDTALE/BT2/DK.EXE",
         "BARDTALE/BT3/THIEF.EXE",
@@ -23,7 +23,7 @@
         "WASTELND/WL/WL.EXE",
         "WORLD/XEEN.EXE"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "BARDTALE/BT1/BARD.EXE": "BARDTALE/BT1",
         "BARDTALE/BT2/DK.EXE": "BARDTALE/BT2",
         "BARDTALE/BT3/THIEF.EXE": "BARDTALE/BT3",

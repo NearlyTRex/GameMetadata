@@ -4,10 +4,10 @@
         "Bloodshore (USA) (14387429).7z.002",
         "Bloodshore (USA) (14387429).7z.003"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Bloodshore/Bloodshore.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Bloodshore/Bloodshore.exe": "Bloodshore"
     },
     "steam": {

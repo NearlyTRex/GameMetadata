@@ -2,10 +2,10 @@
     "files": [
         "P.T. - Playable Teaser (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "PT/Playable Teaser.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "PT/Playable Teaser.exe": "PT"
     },
     "steps": {

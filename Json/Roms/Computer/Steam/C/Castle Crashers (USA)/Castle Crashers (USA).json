@@ -2,10 +2,10 @@
     "files": [
         "Castle Crashers (USA) (15019473).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Castle Crashers/castle.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Castle Crashers/castle.exe": "Castle Crashers"
     },
     "sandbox": {

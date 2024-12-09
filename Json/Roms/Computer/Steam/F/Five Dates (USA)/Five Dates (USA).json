@@ -8,10 +8,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Five Dates (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Five Dates/FiveDates.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Five Dates/FiveDates.exe": "Five Dates"
     },
     "sandbox": {

@@ -3,7 +3,7 @@
         "Forgotten Realms - The Archives - Collection Two (USA).chd"
     ],
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "FORC2/POOL/START.BAT",
         "FORC2/CURSE/START.EXE",
         "FORC2/SECRET/START.EXE",
@@ -12,7 +12,7 @@
         "FORC2/GATEWAY/START.BAT",
         "FORC2/TREASURE/START.BAT"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "FORC2/CURSE/START.EXE": "FORC2/CURSE",
         "FORC2/DARKNESS/START.BAT": "FORC2/DARKNESS",
         "FORC2/GATEWAY/START.BAT": "FORC2/GATEWAY",

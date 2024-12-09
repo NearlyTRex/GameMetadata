@@ -6,10 +6,10 @@
         "Messenger, The (USA).m3u"
     ],
     "installer_exe": "DISC_ONE_ROOT/Install.EXE",
-    "main_game_exe": [
+    "launch_exe": [
         "Program Files/The Messenger/Louvre.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Program Files/The Messenger/Louvre.exe": "Program Files/The Messenger"
     },
     "steps": {

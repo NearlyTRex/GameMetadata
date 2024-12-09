@@ -4,10 +4,10 @@
         "Borderlands - Game of the Year (USA) (356062).7z.002",
         "Borderlands - Game of the Year (USA) (356062).7z.003"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Borderlands/Binaries/Win64/BorderlandsGOTY.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Borderlands/Binaries/Win64/BorderlandsGOTY.exe": "Borderlands/Binaries/Win64"
     },
     "steam": {

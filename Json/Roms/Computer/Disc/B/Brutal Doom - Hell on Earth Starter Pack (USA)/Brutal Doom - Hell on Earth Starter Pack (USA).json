@@ -2,10 +2,10 @@
     "files": [
         "Brutal Doom - Hell on Earth Starter Pack (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Brutal Doom/gzdoom.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Brutal Doom/gzdoom.exe": "Brutal Doom"
     },
     "steps": {

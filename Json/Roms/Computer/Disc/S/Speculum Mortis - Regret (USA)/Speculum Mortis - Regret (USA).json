@@ -2,10 +2,10 @@
     "files": [
         "Speculum Mortis - Regret (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Speculum Mortis/Speculum.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Speculum Mortis/Speculum.exe": "Speculum Mortis"
     },
     "steps": {

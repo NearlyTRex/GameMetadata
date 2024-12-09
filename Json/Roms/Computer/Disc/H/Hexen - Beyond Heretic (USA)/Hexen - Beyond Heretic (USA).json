@@ -4,10 +4,10 @@
         "Hexen - Beyond Heretic (USA).chd",
         "Hexen - Beyond Heretic (USA).m3u"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Hexen/gzdoom.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Hexen/gzdoom.exe": "Hexen"
     },
     "steps": {

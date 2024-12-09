@@ -2,10 +2,10 @@
     "files": [
         "Axiom Verge (USA) (9873324).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "AxiomVerge.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "AxiomVerge.exe": "."
     },
     "steam": {

@@ -2,10 +2,10 @@
     "files": [
         "Sonic 3 - Angel Island Revisited (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Sonic3/Sonic3AIR.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Sonic3/Sonic3AIR.exe": "Sonic3"
     },
     "steps": {

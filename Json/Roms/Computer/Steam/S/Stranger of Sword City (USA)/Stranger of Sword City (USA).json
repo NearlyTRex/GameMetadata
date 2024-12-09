@@ -5,10 +5,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Stranger of Sword City (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Stranger of Sword City/StrangerOfSwordCity.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Stranger of Sword City/StrangerOfSwordCity.exe": "Stranger of Sword City"
     },
     "steam": {

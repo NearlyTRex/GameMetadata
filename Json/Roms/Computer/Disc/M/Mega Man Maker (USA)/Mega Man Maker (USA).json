@@ -2,10 +2,10 @@
     "files": [
         "Mega Man Maker (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Mega Maker/MegaMaker.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Mega Maker/MegaMaker.exe": "Mega Maker"
     },
     "steps": {

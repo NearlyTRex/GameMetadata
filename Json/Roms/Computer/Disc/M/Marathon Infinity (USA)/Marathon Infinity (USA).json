@@ -2,10 +2,10 @@
     "files": [
         "Marathon Infinity (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "MarathonInfinity/Marathon Infinity.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "MarathonInfinity/Marathon Infinity.exe": "MarathonInfinity"
     },
     "steps": {

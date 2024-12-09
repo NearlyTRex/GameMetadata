@@ -2,10 +2,10 @@
     "files": [
         "AM2R - Another Metroid 2 Remake (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "AM2R/Profiles/Community Updates (Latest)/AM2R.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "AM2R/Profiles/Community Updates (Latest)/AM2R.exe": "AM2R/Profiles/Community Updates (Latest)"
     },
     "steps": {

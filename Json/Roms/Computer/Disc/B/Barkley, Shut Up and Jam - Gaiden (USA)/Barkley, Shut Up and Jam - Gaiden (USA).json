@@ -2,10 +2,10 @@
     "files": [
         "Barkley, Shut Up and Jam - Gaiden (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Barkely/BarkleyV120.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Barkely/BarkleyV120.exe": "Barkely"
     },
     "sandbox": {

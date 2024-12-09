@@ -5,10 +5,10 @@
         "Exile II - Crystal Souls (USA).m3u"
     ],
     "is_win31": true,
-    "main_game_win31_exe": [
+    "launch_win31_exe": [
         "EXILE2/EXILE2.EXE"
     ],
-    "main_game_win31_exe_cwd": {
+    "launch_win31_exe_cwd": {
         "EXILE2/EXILE2.EXE": "EXILE2"
     },
     "steps": {

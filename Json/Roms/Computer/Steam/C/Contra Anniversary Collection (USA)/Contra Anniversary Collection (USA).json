@@ -2,10 +2,10 @@
     "files": [
         "Contra Anniversary Collection (USA) (3875530).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Contra Anniversary Collection/game.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Contra Anniversary Collection/game.exe": "Contra Anniversary Collection"
     },
     "sandbox": {

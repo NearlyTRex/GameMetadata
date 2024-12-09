@@ -2,10 +2,10 @@
     "files": [
         "Crimsonland (USA) (9959747).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Crimsonland/Crimsonland.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Crimsonland/Crimsonland.exe": "Crimsonland"
     },
     "steam": {

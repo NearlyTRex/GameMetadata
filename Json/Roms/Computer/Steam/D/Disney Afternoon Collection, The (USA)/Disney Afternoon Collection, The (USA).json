@@ -5,10 +5,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Disney Afternoon Collection, The (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "The Disney Afternoon Collection/capcom_disney_afternoon.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "The Disney Afternoon Collection/capcom_disney_afternoon.exe": "The Disney Afternoon Collection"
     },
     "sandbox": {

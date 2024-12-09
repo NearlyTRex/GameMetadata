@@ -5,10 +5,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Warlock of Firetop Mountain, The (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "The Warlock of Firetop Mountain/The Warlock of Firetop Mountain.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "The Warlock of Firetop Mountain/The Warlock of Firetop Mountain.exe": "The Warlock of Firetop Mountain"
     },
     "steam": {

@@ -5,10 +5,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Narcosis (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Narcosis/Narcosis.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Narcosis/Narcosis.exe": "Narcosis"
     },
     "steam": {

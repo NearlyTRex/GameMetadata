@@ -20,10 +20,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Sims 4, The (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Game/Bin/TS4_x64.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Game/Bin/TS4_x64.exe": "Game/Bin"
     },
     "steam": {

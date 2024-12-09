@@ -2,10 +2,10 @@
     "files": [
         "Next Penelope, The (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "TheNextPenelope_Windows/nw.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "TheNextPenelope_Windows/nw.exe": "TheNextPenelope_Windows"
     },
     "steps": {

@@ -2,7 +2,7 @@
     "files": [
         "Action 52 Owns (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Action 52 Owns/Adventure Game Combat/NAGI.EXE",
         "Action 52 Owns/Alfredo/Alfredo.exe",
         "Action 52 Owns/Atmos Quake/AtmosQuake.exe",
@@ -35,7 +35,7 @@
         "Action 52 Owns/Streemerz/streemerz.exe",
         "Action 52 Owns/Time Warp Tickers/TimeWarpTickers.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Action 52 Owns/Adventure Game Combat/NAGI.EXE": "Action 52 Owns/Adventure Game Combat",
         "Action 52 Owns/Alfredo/Alfredo.exe": "Action 52 Owns/Alfredo",
         "Action 52 Owns/Atmos Quake/AtmosQuake.exe": "Action 52 Owns/Atmos Quake",

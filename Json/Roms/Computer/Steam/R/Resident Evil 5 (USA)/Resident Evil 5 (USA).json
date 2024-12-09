@@ -7,10 +7,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil 5 (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil 5/ResidentEvil5.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil 5/ResidentEvil5.exe": "Resident Evil 5"
     },
     "sandbox": {

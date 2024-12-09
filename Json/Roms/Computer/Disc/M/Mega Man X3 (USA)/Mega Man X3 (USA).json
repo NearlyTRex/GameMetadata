@@ -3,10 +3,10 @@
         "Mega Man X3 (USA).chd"
     ],
     "installer_exe": "DISC_MAIN_ROOT/AUTORUN.EXE",
-    "main_game_exe": [
+    "launch_exe": [
         "CAPCOM/MEGAMANX3/MMX3.EXE"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "CAPCOM/MEGAMANX3/MMX3.EXE": "CAPCOM/MEGAMANX3"
     },
     "transform_file": "Mega Man X3 (USA).chd"

@@ -2,10 +2,10 @@
     "files": [
         "Spooky's House of Jump Scares (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Spooky/SPOOKY.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Spooky/SPOOKY.exe": "Spooky"
     },
     "steps": {

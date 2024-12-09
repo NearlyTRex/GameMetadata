@@ -2,10 +2,10 @@
     "files": [
         "Sonic Triple Trouble 16-bit (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Sonic Triple Trouble/Sonic Triple Trouble 16-Bit.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Sonic Triple Trouble/Sonic Triple Trouble 16-Bit.exe": "Sonic Triple Trouble"
     },
     "steps": {

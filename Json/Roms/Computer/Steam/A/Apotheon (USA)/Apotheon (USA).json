@@ -2,10 +2,10 @@
     "files": [
         "Apotheon (USA) (6029102).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Apotheon/Apotheon.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Apotheon/Apotheon.exe": "Apotheon"
     },
     "steam": {

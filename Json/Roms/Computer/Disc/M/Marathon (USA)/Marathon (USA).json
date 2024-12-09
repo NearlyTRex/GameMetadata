@@ -2,10 +2,10 @@
     "files": [
         "Marathon (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Marathon/Marathon.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Marathon/Marathon.exe": "Marathon"
     },
     "steps": {

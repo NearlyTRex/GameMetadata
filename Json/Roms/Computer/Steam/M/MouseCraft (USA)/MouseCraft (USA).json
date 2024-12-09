@@ -5,10 +5,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/MouseCraft (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "MouseCraft/MouseCraft.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "MouseCraft/MouseCraft.exe": "MouseCraft"
     },
     "steam": {

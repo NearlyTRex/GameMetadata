@@ -4,10 +4,10 @@
     ],
     "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "DARKSEED/START.EXE"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "DARKSEED/START.EXE": "DARKSEED"
     },
     "sync": {

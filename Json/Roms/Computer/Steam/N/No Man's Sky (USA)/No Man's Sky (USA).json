@@ -8,10 +8,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/No Man's Sky (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "No Man's Sky/Binaries/NMS.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "No Man's Sky/Binaries/NMS.exe": "No Man's Sky/Binaries"
     },
     "sandbox": {

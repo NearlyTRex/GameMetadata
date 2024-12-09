@@ -15,10 +15,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Dying Light 2 - Stay Human (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Dying Light 2 - Stay Human/Launcher.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Dying Light 2 - Stay Human/Launcher.exe": "Dying Light 2 - Stay Human"
     },
     "sandbox": {

@@ -2,10 +2,10 @@
     "files": [
         "Owlboy (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Owlboy/Owlboy/Owlboy.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Owlboy/Owlboy/Owlboy.exe": "Owlboy/Owlboy"
     },
     "steps": {

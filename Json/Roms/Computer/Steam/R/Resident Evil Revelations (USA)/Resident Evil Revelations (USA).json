@@ -7,10 +7,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil Revelations (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil Revelations/rerev.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil Revelations/rerev.exe": "Resident Evil Revelations"
     },
     "sandbox": {

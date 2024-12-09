@@ -2,10 +2,10 @@
     "files": [
         "Castlevania Anniversary Collection (USA) (3872343).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Castlevania Anniversary Collection/game.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Castlevania Anniversary Collection/game.exe": "Castlevania Anniversary Collection"
     },
     "sandbox": {

@@ -12,16 +12,16 @@
         "DISC_FOUR_ROOT/Installer.exe",
         "DISC_UPDATE_ROOT/LODPatch_114d.exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Program Files (x86)/Diablo II/Game.exe"
     ],
-    "main_game_exe_args": {
+    "launch_exe_args": {
         "Program Files (x86)/Diablo II/Game.exe": [
             "-3dfx",
             "-dxnocompatmodefix"
         ]
     },
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Program Files (x86)/Diablo II/Game.exe": "Program Files (x86)/Diablo II"
     },
     "sandbox": {

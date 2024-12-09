@@ -2,10 +2,10 @@
     "files": [
         "SkiFree (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "SkiFree/ski32.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "SkiFree/ski32.exe": "SkiFree"
     },
     "steps": {

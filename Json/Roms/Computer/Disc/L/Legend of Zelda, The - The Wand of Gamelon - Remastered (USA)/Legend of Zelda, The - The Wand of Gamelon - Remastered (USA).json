@@ -2,10 +2,10 @@
     "files": [
         "Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Zelda Wand of Gamelon/WOGR.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Zelda Wand of Gamelon/WOGR.exe": "Zelda Wand of Gamelon"
     },
     "sandbox": {

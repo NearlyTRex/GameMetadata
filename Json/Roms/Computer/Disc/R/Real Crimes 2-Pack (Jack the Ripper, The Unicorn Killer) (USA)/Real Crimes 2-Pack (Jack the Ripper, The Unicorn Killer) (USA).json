@@ -6,11 +6,11 @@
         "DISC_MAIN_ROOT/JacktheRipper/setup.exe",
         "DISC_MAIN_ROOT/UnicornKiller/setup.exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Program Files (x86)/Real Crimes - The Unicorn Killer/RealCrimesTheUnicornKiller.exe",
         "Program Files (x86)/Real Crimes Jack the Ripper/jackTheRipper.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Program Files (x86)/Real Crimes - The Unicorn Killer/RealCrimesTheUnicornKiller.exe": "Program Files (x86)/Real Crimes - The Unicorn Killer",
         "Program Files (x86)/Real Crimes Jack the Ripper/jackTheRipper.exe": "Program Files (x86)/Real Crimes Jack the Ripper"
     },

@@ -7,10 +7,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Late Shift (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Late Shift/LateShift.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Late Shift/LateShift.exe": "Late Shift"
     },
     "sandbox": {

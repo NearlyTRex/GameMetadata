@@ -2,10 +2,10 @@
     "files": [
         "Punch Club (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Punch Club v1.1 - Windows/Punch Club v1.1/Punch Club.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Punch Club v1.1 - Windows/Punch Club v1.1/Punch Club.exe": "Punch Club v1.1 - Windows/Punch Club v1.1"
     },
     "steps": {

@@ -2,10 +2,10 @@
     "files": [
         "Captain Forever Remix (USA) (1171672).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Captain Forever Remix/cap4ever.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Captain Forever Remix/cap4ever.exe": "Captain Forever Remix"
     },
     "steam": {

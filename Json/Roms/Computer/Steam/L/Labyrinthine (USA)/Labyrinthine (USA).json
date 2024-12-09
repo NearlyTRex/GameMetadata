@@ -7,10 +7,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Labyrinthine (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Labyrinthine/Labyrinthine.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Labyrinthine/Labyrinthine.exe": "Labyrinthine"
     },
     "sandbox": {

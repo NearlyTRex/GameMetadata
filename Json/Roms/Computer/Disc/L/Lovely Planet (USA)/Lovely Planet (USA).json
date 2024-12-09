@@ -2,10 +2,10 @@
     "files": [
         "Lovely Planet (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Lovely Planet/LovelyPlanet.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Lovely Planet/LovelyPlanet.exe": "Lovely Planet"
     },
     "steps": {

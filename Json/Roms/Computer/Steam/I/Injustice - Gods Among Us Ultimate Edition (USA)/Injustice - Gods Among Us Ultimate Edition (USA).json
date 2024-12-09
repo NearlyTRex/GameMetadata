@@ -10,10 +10,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Injustice - Gods Among Us Ultimate Edition (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Injustice - Gods Among Us Ultimate Edition/Injustice.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Injustice - Gods Among Us Ultimate Edition/Injustice.exe": "Injustice - Gods Among Us Ultimate Edition"
     },
     "sandbox": {

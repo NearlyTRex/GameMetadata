@@ -5,10 +5,10 @@
         "Dark Eye, The (USA).m3u"
     ],
     "is_win31": true,
-    "main_game_win31_exe": [
+    "launch_win31_exe": [
         "DARKEYE/DARKEYE.EXE"
     ],
-    "main_game_win31_exe_cwd": {
+    "launch_win31_exe_cwd": {
         "DARKEYE/DARKEYE.EXE": "DARKEYE"
     },
     "steps": {

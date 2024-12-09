@@ -8,10 +8,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil - Operation Raccoon City (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil - Operation Raccoon City/RaccoonCity.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil - Operation Raccoon City/RaccoonCity.exe": "Resident Evil - Operation Raccoon City"
     },
     "sandbox": {

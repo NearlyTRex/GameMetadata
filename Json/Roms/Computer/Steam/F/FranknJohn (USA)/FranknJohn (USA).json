@@ -5,11 +5,11 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/FranknJohn (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "FranknJohn/FnJ_Arena_1.1/FNJArenaDemo.exe",
         "FranknJohn/FranknJohn.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "FranknJohn/FnJ_Arena_1.1/FNJArenaDemo.exe": "FranknJohn/FnJ_Arena_1.1",
         "FranknJohn/FranknJohn.exe": "FranknJohn"
     },

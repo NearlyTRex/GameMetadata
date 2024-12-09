@@ -8,10 +8,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil 0 HD (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil 0 HD/re0hd.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil 0 HD/re0hd.exe": "Resident Evil 0 HD"
     },
     "sandbox": {

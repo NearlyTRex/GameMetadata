@@ -3,10 +3,10 @@
         "Prisoner of Ice (USA).chd"
     ],
     "is_dos": true,
-    "main_game_dos_exe": [
+    "launch_dos_exe": [
         "ICE/ICE640.EXE"
     ],
-    "main_game_dos_exe_cwd": {
+    "launch_dos_exe_cwd": {
         "ICE/ICE640.EXE": "ICE"
     },
     "steps": {

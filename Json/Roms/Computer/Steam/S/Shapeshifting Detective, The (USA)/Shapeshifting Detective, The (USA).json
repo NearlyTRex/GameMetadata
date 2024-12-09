@@ -7,10 +7,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Shapeshifting Detective, The (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "The Shapeshifting Detective/ShapeshiftingDetective.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "The Shapeshifting Detective/ShapeshiftingDetective.exe": "The Shapeshifting Detective"
     },
     "sandbox": {

@@ -11,10 +11,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil 3 Remake (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil 3 Remake/re3.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil 3 Remake/re3.exe": "Resident Evil 3 Remake"
     },
     "steam": {

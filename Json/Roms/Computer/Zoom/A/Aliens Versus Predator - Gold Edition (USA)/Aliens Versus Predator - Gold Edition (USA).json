@@ -13,10 +13,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Aliens-Versus-Predator-Gold-Edition-Setup-1.1.exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "ZOOM PLATFORM/Rebellion/Aliens Versus Predator - Gold Edition/AvP.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "ZOOM PLATFORM/Rebellion/Aliens Versus Predator - Gold Edition/AvP.exe": "ZOOM PLATFORM/Rebellion/Aliens Versus Predator - Gold Edition"
     },
     "transform_file": "Aliens-Versus-Predator-Gold-Edition-Setup-1.1.exe"

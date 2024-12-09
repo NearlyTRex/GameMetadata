@@ -5,10 +5,10 @@
         "Dino Crisis (USA) (Update).chd",
         "Dino Crisis (USA).m3u"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "DinoCrisis/DINO.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "DinoCrisis/DINO.exe": "DinoCrisis"
     },
     "sandbox": {

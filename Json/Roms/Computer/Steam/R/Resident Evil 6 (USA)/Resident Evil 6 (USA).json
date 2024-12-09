@@ -9,10 +9,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/Resident Evil 6 (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Resident Evil 6/BH6.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Resident Evil 6/BH6.exe": "Resident Evil 6"
     },
     "sandbox": {

@@ -2,10 +2,10 @@
     "files": [
         "Assault Android Cactus (USA) (3789944).7z"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Assault Android Cactus/cactus.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Assault Android Cactus/cactus.exe": "Assault Android Cactus"
     },
     "steam": {

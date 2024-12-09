@@ -4,10 +4,10 @@
         "Doom II (USA).chd",
         "Doom II (USA).m3u"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "DoomII/gzdoom.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "DoomII/gzdoom.exe": "DoomII"
     },
     "steps": {

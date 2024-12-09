@@ -2,10 +2,10 @@
     "files": [
         "SCP-087 (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "SCP_087/SCP087.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "SCP_087/SCP087.exe": "SCP_087"
     },
     "steps": {

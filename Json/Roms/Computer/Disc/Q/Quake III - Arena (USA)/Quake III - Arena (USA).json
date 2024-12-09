@@ -4,10 +4,10 @@
         "Quake III - Arena (USA).chd",
         "Quake III - Arena (USA).m3u"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Quake3/ioquake3.x86_64.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Quake3/ioquake3.x86_64.exe": "Quake3"
     },
     "serials": {

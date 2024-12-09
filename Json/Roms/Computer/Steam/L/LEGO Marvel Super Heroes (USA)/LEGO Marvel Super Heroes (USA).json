@@ -7,10 +7,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/LEGO Marvel Super Heroes (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "LEGO Marvel Super Heroes/LEGOMARVEL.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "LEGO Marvel Super Heroes/LEGOMARVEL.exe": "LEGO Marvel Super Heroes"
     },
     "sandbox": {

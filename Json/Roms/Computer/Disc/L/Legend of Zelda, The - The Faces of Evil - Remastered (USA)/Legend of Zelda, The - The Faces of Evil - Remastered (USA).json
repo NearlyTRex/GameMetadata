@@ -2,10 +2,10 @@
     "files": [
         "Legend of Zelda, The - The Faces of Evil - Remastered (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Zelda Faces of Evil/FOER.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Zelda Faces of Evil/FOER.exe": "Zelda Faces of Evil"
     },
     "sandbox": {

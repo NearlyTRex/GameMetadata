@@ -2,10 +2,10 @@
     "files": [
         "Street Fighter X Mega Man (USA).chd"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Street Fighter X Mega Man/SFXMMv2_US.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Street Fighter X Mega Man/SFXMMv2_US.exe": "Street Fighter X Mega Man"
     },
     "steps": {

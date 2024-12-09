@@ -8,10 +8,10 @@
         "DISC_MAIN_ROOT/autorun.exe",
         "DISC_UPDATE_ROOT/Majesty2_patch_1.5.355_en.exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "Program Files (x86)/Paradox Interactive/Majesty 2/Majesty2.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "Program Files (x86)/Paradox Interactive/Majesty 2/Majesty2.exe": "Program Files (x86)/Paradox Interactive/Majesty 2"
     },
     "sandbox": {

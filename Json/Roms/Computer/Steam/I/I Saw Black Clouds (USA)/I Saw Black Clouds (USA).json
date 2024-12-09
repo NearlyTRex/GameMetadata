@@ -8,10 +8,10 @@
     "installer_exe": [
         "SETUP_MAIN_ROOT/I Saw Black Clouds (USA).exe"
     ],
-    "main_game_exe": [
+    "launch_exe": [
         "I Saw Black Clouds/ISawBlackClouds.exe"
     ],
-    "main_game_exe_cwd": {
+    "launch_exe_cwd": {
         "I Saw Black Clouds/ISawBlackClouds.exe": "I Saw Black Clouds"
     },
     "sandbox": {
