@@ -2,6 +2,29 @@ collection: Computer - Legacy Games
 launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Legacy Games" -n {file.basename}
 
 
+game: City Legends - Trapped in Mirror Collector's Edition (USA)
+file: Computer/Legacy Games/C/City Legends - Trapped in Mirror Collector's Edition (USA)/City Legends - Trapped in Mirror Collector's Edition (USA).json
+developer: Domini Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  When your book about an Order of evil witches becomes a bestseller, a major
+  publisher takes notice! But they'll want a draft of your next horror novel
+  before cutting you a check. So, you're off to Pennsylvania to write about Bloody
+  Mary! Luckily for you, a local museum has a unique exhibit featuring Mary's
+  mirror. But your research trip quickly takes a dark turn when the legend turns
+  out to be more than fiction!
+  .
+  Can you traverse both the mortal and ghostly realms to stop Mary before it's too
+  late? Find out in this chilling Hidden-Object Puzzle Adventure!
+release: 2022-06-25
+players: 1
+assets.boxfront: BoxFront/City Legends - Trapped in Mirror Collector's Edition (USA).jpg
+assets.video: Video/City Legends - Trapped in Mirror Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Connected Hearts - Fortune Play Collector's Edition (USA)
 file: Computer/Legacy Games/C/Connected Hearts - Fortune Play Collector's Edition (USA)/Connected Hearts - Fortune Play Collector's Edition (USA).json
 developer: Domini Games
@@ -21,6 +44,7 @@ description:
   Hidden-Object Puzzle Adventure!
 release: 2022-08-14
 players: 1
+assets.boxfront: BoxFront/Connected Hearts - Fortune Play Collector's Edition (USA).jpg
 assets.video: Video/Connected Hearts - Fortune Play Collector's Edition (USA).mp4
 x-url: https://www.bigfishgames.com/us/en/games/15685/connected-hearts-fortune-play-ce
 x-co-op: No
@@ -48,6 +72,31 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Facility 47 (USA)
+file: Computer/Legacy Games/F/Facility 47 (USA)/Facility 47 (USA).json
+developer: Inertia Game Studios
+publisher: Big Fish Games
+genre: Adventure;Point-and-Click
+description:
+  You wake up alone and freezing in an icy cell. You try the cell door but it's
+  locked, it seems that you are stuck with no apparent escape. All that surrounds
+  you is a letter and a bottle of pills, and no sign of how long you have been
+  here or why!
+  .
+  Escape from this room and you will begin a journey through an isolated research
+  facility in the freezing depths of the Antarctic, solving exciting puzzles as
+  you go and unlocking new locations around the Facility. A point and click,
+  hidden object mystery thriller that encourages you to explore, investigate and
+  search for the clues that will ultimately allow you to piece together the
+  mysterious history of Facility 47 and how exactly you came to be there!
+release: 2016-05-19
+players: 1
+assets.boxfront: BoxFront/Facility 47 (USA).jpg
+assets.video: Video/Facility 47 (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Forest Legends - The Call of Love Collector's Edition (USA)
 file: Computer/Legacy Games/F/Forest Legends - The Call of Love Collector's Edition (USA)/Forest Legends - The Call of Love Collector's Edition (USA).json
 developer: Alawar Entertainment
@@ -64,6 +113,71 @@ players: 1
 assets.boxfront: BoxFront/Forest Legends - The Call of Love Collector's Edition (USA).jpg
 assets.video: Video/Forest Legends - The Call of Love Collector's Edition (USA).mp4
 x-url: https://www.bigfishgames.com/us/en/games/6484/forest-legends-the-call-of-love-ce
+x-co-op: No
+x-playable: Yes
+
+
+game: Magic City Detective - Wings of Revenge Collector's Edition (USA)
+file: Computer/Legacy Games/M/Magic City Detective - Wings of Revenge Collector's Edition (USA)/Magic City Detective - Wings of Revenge Collector's Edition (USA).json
+developer: Domini Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  You are a magical detective who has received an invitation to the annual Venice
+  Masquerade. This is an important event for magical creatures because they have
+  the opportunity to move freely around the city. The beautiful masquerade ball
+  ends when an evil magical creature appears and ruins the whole party. It's up to
+  you to find out who this mysterious stranger is, who can bring statues to life?
+  Where does he draw his magical power from to bring the two worlds together? And
+  most importantly, can we stop him?
+  .
+  More fascinating mysteries are waiting for you to be found in this Hidden-Object
+  Adventure Game!
+release: 2022-02-03
+players: 1
+assets.boxfront: BoxFront/Magic City Detective - Wings of Revenge Collector's Edition (USA).jpg
+assets.video: Video/Magic City Detective - Wings of Revenge Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Margrave - The Blacksmiths Daughter (USA)
+file: Computer/Legacy Games/M/Margrave - The Blacksmiths Daughter (USA)/Margrave - The Blacksmiths Daughter (USA).json
+developer: Inertia
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  The town of the Cyclops appears for a single day once every three hundred years,
+  on an island lost to cartographers. On this Day of Alignment, the town rises and
+  sets with the midsummer sun. As the Margrave saga nears its devastating
+  conclusion, Edwina Margrave embarks on a rescue mission into the town. Her only
+  chance of escape is to return life to the arcane machines, and hope to the sole
+  survivor of an ancient war, in Margrave: The Blacksmith's Daughter. Prepare
+  yourself for the adventure of a lifetime: the legacy of an entire civilization
+  depends upon your cunning and compassion.
+release: 2012-09-17
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Royal Legends - Marshes Curse Collector's Edition (USA)
+file: Computer/Legacy Games/R/Royal Legends - Marshes Curse Collector's Edition (USA)/Royal Legends - Marshes Curse Collector's Edition (USA).json
+developer: Domini Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  People are disappearing in Liberville! With local authorities at a loss, it's
+  your job as the King's advisor to investigate. But this is no ordinary case.
+  Townspeople are convinced that a dangerous Swamp Witch has returned seeking
+  vengeance for her death! No one has ever seen her with their own eyes, but their
+  stories would test even the most stubborn skeptic. With time running out, can
+  you uncover who's abducting town residents and stop them without becoming their
+  next victim yourself? Find out in this gripping Hidden-Object Puzzle Adventure!
+release: 2021-12-18
+players: 1
+assets.boxfront: BoxFront/Royal Legends - Marshes Curse Collector's Edition (USA).jpg
+assets.video: Video/Royal Legends - Marshes Curse Collector's Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
 
