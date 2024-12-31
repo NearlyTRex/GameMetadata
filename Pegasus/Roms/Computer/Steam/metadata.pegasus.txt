@@ -3859,6 +3859,60 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Dead Space (USA)
+file: Computer/Steam/D/Dead Space (USA)/Dead Space (USA).json
+developer: Motive
+publisher: Electronic Arts
+genre: Action;Adventure
+description:
+  The sci-fi survival-horror classic Dead Space(tm) returns, completely rebuilt
+  from the ground up to offer a deeper, more immersive experience. This remake
+  brings jaw-dropping visual fidelity, suspenseful atmospheric audio, and
+  improvements to gameplay while staying faithful to the original game's thrilling
+  vision.
+  .
+  Isaac Clarke is an everyman engineer on a mission to repair a vast mining ship,
+  the USG Ishimura, only to discover something has gone horribly wrong. The ship's
+  crew has been slaughtered and Isaac's beloved partner, Nicole, is lost somewhere
+  on board.
+  .
+  Now alone and armed with only his engineering tools and skills, Isaac races to
+  find Nicole as the nightmarish mystery of what happened aboard the Ishimura
+  unravels around him. Trapped with hostile creatures called Necromorphs, Isaac
+  faces a battle for survival, not only against the escalating terrors of the ship
+  but against his own crumbling sanity.
+  .
+  IMMERSE YOURSELF IN NEXT-GEN SCI-FI HORROR
+  .
+  A sci-fi horror classic returns fully rebuilt from the ground up with elevated
+  visual fidelity and 3D atmospheric audio. From the frighteningly detailed rooms
+  and workspaces of a slaughtered crew to the eerie atmospheric sounds of a
+  desolate spaceship, you'll explore a stunning sci-fi setting full of
+  unpredictable and tense moments without interruption.
+  .
+  UNRAVEL THE MYSTERY ABOARD THE USG ISHIMURA
+  .
+  What starts as a routine repair mission for engineer Isaac Clarke and the crew
+  of the USG Kellion quickly turns into a battle for survival as the truth behind
+  the horrors onboard begins to unravel. Following an expanded narrative
+  experience, uncover the dark secrets behind the events aboard the USG Ishimura
+  through the final logs of the ill-fated crew and your encounters with the few
+  survivors that remain.
+  .
+  IMPROVISE TO SURVIVE
+  .
+  Confront the nightmare aboard the USG Ishimura with genre-defining strategic
+  gameplay. Repurpose and upgrade Isaac's engineering tools to creatively defeat
+  enemies with precision.
+release: 2023-01-27
+players: 1
+assets.boxfront: BoxFront/Dead Space (USA).jpg
+assets.video: Video/Dead Space (USA).mp4
+x-url: https://store.steampowered.com/app/1693980
+x-co-op: No
+x-playable: Yes
+
+
 game: Death Road to Canada (USA)
 file: Computer/Steam/D/Death Road to Canada (USA)/Death Road to Canada (USA).json
 developer: Rocketcat Games
@@ -4560,6 +4614,42 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Duke Nukem 3D - 20th Anniversary World Tour (USA)
+file: Computer/Steam/D/Duke Nukem 3D - 20th Anniversary World Tour (USA)/Duke Nukem 3D - 20th Anniversary World Tour (USA).json
+developer: Nerve Software, Gearbox Software, LLC
+publisher: Gearbox Publishing
+genre: Action;Adventure
+description:
+  Frag like it's 1996 - this time with even more asses to kick! Join the world's
+  greatest action hero in Duke Nukem 3D: 20th Anniversary World Tour as he saves
+  Earth once again, kicking alien ass and saving babes across the globe along the
+  way. Blast your way through hordes of ugly aliens in four classic Duke Nukem 3D
+  episodes plus an additional ALL NEW FIFTH EPISODE from the game's ORIGINAL
+  EPISODE DESIGNERS with NEW MUSIC from the game's ORIGINAL COMPOSER and NEW Duke
+  Talk from the ORIGINAL VOICE of Duke Nukem.
+  .
+  * ALL-NEW Episode FIVE, created by the original episode designers, Allen Blum
+  III and Richard "Levelord(r)" Gray!
+  .
+  * New, bonus content in Episode 5: Duke Nukem finally gets a INCINERATOR to
+  roast new "Firefly" enemies!
+  .
+  * New "Duke Talk" plus high-fidelity re-recordings from Duke Nukem's original
+  voice actor, Jon St. John!
+  .
+  * New musical score for Episode 5 created by Duke's theme song author and
+  original game composer, Lee Jackson!
+  .
+  * Original 1996 source code and "2.5D" engine re-mastered in True 3D for PC!
+release: 2016-10-11
+players: 1
+assets.boxfront: BoxFront/Duke Nukem 3D - 20th Anniversary World Tour (USA).jpg
+assets.video: Video/Duke Nukem 3D - 20th Anniversary World Tour (USA).mp4
+x-url: https://store.steampowered.com/app/434050
+x-co-op: No
+x-playable: Yes
+
+
 game: Dungeons and Dragons Online (USA)
 file: Computer/Steam/D/Dungeons and Dragons Online (USA)/Dungeons and Dragons Online (USA).json
 developer: Turbine Inc.
@@ -4900,6 +4990,75 @@ players: 1
 assets.boxfront: BoxFront/Emily is Away (USA).jpg
 assets.video: Video/Emily is Away (USA).mp4
 x-url: https://store.steampowered.com/app/417860
+x-co-op: No
+x-playable: Yes
+
+
+game: Escape Simulator (USA)
+file: Computer/Steam/E/Escape Simulator (USA)/Escape Simulator (USA).json
+developer: Pine Studio
+publisher: Pine Studio
+genre: Adventure;Casual;Indie;Simulation
+description:
+  Escape Simulator is a first-person puzzler you can play solo or in an online co-
+  op. Explore a growing set of highly interactive escape rooms. Move furniture,
+  pick up and examine everything, smash pots and break locks! Supports community-
+  made rooms through the level editor.
+  .
+  Interactive Puzzles: Rummage through 28 rooms filled with puzzles designed by
+  real-life escape room operators. If something is not nailed to the wall, you can
+  pick it up.
+  .
+  Online Co-Op: All the rooms are playable in an online co-op. We recommend to
+  play built-in rooms with up to 3 players (but you're welcome to play with more).
+  Community rooms have been tested with up to 10 people. Customize your character
+  and join with friends to work-out puzzles together. More heads are better than
+  one!
+  .
+  Examine Everything: Read through books, examine ancient artifacts and find clues
+  to riddles. Need to cross-reference a clue? No, problem - just pin it to the
+  screen.
+  .
+  Community-Made Rooms: The game includes a room editor with which you can design
+  your own escape rooms and puzzles. Through workshop integration, you get to play
+  awesome things the community has created.
+  .
+  The rooms are arranged into packs:
+  .
+  Labyrinth of Egypt
+  .
+  "You and your mentor discovered the ancient Labyrinth of Egypt. By accident, he
+  activated a
+  .
+  trap, and you got separated, with no way out in sight."
+  .
+  Adrift in Space
+  .
+  "An explosion wakes you up. Your spaceship has been hit by debris, and you're
+  heading straight into the sun."
+  .
+  Edgewood Mansion
+  .
+  "You were invited to attend a special dinner at Dr. Edgewood's mansion. Instead
+  of eating food, you'll be solving a victorian mystery."
+  .
+  Omega Corporation
+  .
+  "Your friend disappeared while investigating the mysterious Omega Corporation.
+  Follow their tracks and uncover the truth."
+  .
+  Extras
+  .
+  Escape Aperture Science Laboratories in a Portal themed room, escape the iconic
+  Among Us spaceship, find a way out of Santa's Workshop, play with Cats in Time,
+  visit a spooky Graveyard, a funky 70's Room, escape Leonardo da Vinci's
+  workshop, find the pirate treasure on The Island, and in our latest room you can
+  finally play Versus your friends!
+release: 2021-10-19
+players: 1
+assets.boxfront: BoxFront/Escape Simulator (USA).jpg
+assets.video: Video/Escape Simulator (USA).mp4
+x-url: https://store.steampowered.com/app/1435790
 x-co-op: No
 x-playable: Yes
 
@@ -6376,6 +6535,39 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Haunted Hotel - Charles Dexter Ward Collector's Edition (USA)
+file: Computer/Steam/H/Haunted Hotel - Charles Dexter Ward Collector's Edition (USA)/Haunted Hotel - Charles Dexter Ward Collector's Edition (USA).json
+developer: Special Bit
+publisher: Big Fish Games
+genre: Adventure;Casual
+description:
+  Track down your missing twin in Haunted Hotel: Charles Dexter Ward. The only
+  trace of your missing twin is the necklace he never took off...and a swampland
+  address. Follow the clues to an abandoned hotel and unravel a mystery of
+  necromancy and more in this eerie hidden-object puzzle adventure classic!
+  .
+  This is a special Collector's Edition release full of exclusive extras you won't
+  find in the standard version. The Collector's Edition includes:
+  .
+  Bonus Gameplay
+  .
+  Integrated Strategy Guide
+  .
+  Concept Art
+  .
+  This is a Hidden Object Puzzle Adventure game, meaning a specific genre of
+  story-driven, point & click adventures. Throughout the game, players are tasked
+  to find a list of objects hidden within a particular scene, and to occasionally
+  complete various mini-games/puzzles.
+release: 2018-06-11
+players: 1
+assets.boxfront: BoxFront/Haunted Hotel - Charles Dexter Ward Collector's Edition (USA).jpg
+assets.video: Video/Haunted Hotel - Charles Dexter Ward Collector's Edition (USA).mp4
+x-url: https://store.steampowered.com/app/866740
+x-co-op: No
+x-playable: Yes
+
+
 game: Haunted Hotel - Lonely Dream (USA)
 file: Computer/Steam/H/Haunted Hotel - Lonely Dream (USA)/Haunted Hotel - Lonely Dream (USA).json
 developer: Special Bit
@@ -6556,6 +6748,33 @@ players: 1
 assets.boxfront: BoxFront/Haunted Hotel - The Axiom Butcher Collector's Edition (USA).jpg
 assets.video: Video/Haunted Hotel - The Axiom Butcher Collector's Edition (USA).mp4
 x-url: https://store.steampowered.com/app/1762450
+x-co-op: No
+x-playable: Yes
+
+
+game: Haunted Hotel II - Believe the Lies (USA)
+file: Computer/Steam/H/Haunted Hotel II - Believe the Lies (USA)/Haunted Hotel II - Believe the Lies (USA).json
+developer: Special Bit
+publisher: Big Fish Games
+genre: Adventure;Casual
+description:
+  A year has passed since the first encounter with the Haunted Hotel. Since then,
+  a lone FBI agent has taken the case and discovered that the mystery is deeper
+  than originally suspected. His investigation leads him to the Lonely Star, a
+  Hotel with an intriguing mystery surrounding it. Can our hero find out who is
+  behind the disappearances and close the case once and for all? Help the agent
+  seek out the answers in his thrilling investigation of Haunted Hotel 2!
+  .
+  Solve mysterious disappearances
+  .
+  Navigate eerie environments
+  .
+  Fiendish puzzles & mini-games
+release: 2017-05-19
+players: 1
+assets.boxfront: BoxFront/Haunted Hotel II - Believe the Lies (USA).jpg
+assets.video: Video/Haunted Hotel II - Believe the Lies (USA).mp4
+x-url: https://store.steampowered.com/app/631270
 x-co-op: No
 x-playable: Yes
 
@@ -9163,6 +9382,174 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Minion Masters (USA)
+file: Computer/Steam/M/Minion Masters (USA)/Minion Masters (USA).json
+developer: BetaDwarf
+publisher: BetaDwarf
+genre: Action;Adventure;Indie;RPG;Strategy;Free To Play
+description:
+  The realm's greatest Masters face off in a never-ending conflict for glory. Will
+  you play Control, Aggressive, Swarm or Giant Minions? Choose a Master matching
+  your playstyle and build the best deck to overthrow your opponents in short
+  intense real-time games!
+  .
+  Join millions of players worldwide and discover one of the best ever rated free
+  games on Steam! Minion Masters is insanely fun and simple, but challenging to
+  master. A Dynamic Online Tactical game for both competitive and casual players.
+  .
+  Play 1v1 duels or combine decks in 2v2 multiplayer, with full cross-play for
+  Steam, Xbox, and more to come! Jump into Draft to test your strategic prowess,
+  or even Mayhem where the game rules are changed weekly! Embark on solo
+  adventures through the different ages and conflicts of the continent. Discover
+  the legends of the Crystal Elves, Empyreans, Zen-chi, and more!
+  .
+  INNOVATIVE ONLINE FANTASY STRATEGY WITH RPG ELEMENTS
+  .
+  Hold bridges to level up and unlock your Master's powers, capable of changing
+  the fate of a game. Summon swarms of Scrats, draw from the Book of the Dead or
+  enrage your minions! Spells and Minions all have specific mechanics: make the
+  right move and enable a combo to take your opponent by surprise!
+  .
+  Choose your Master and build your deck from 9 factions, each with their own
+  specialty. Match your Master & cards to create countless combos and tactics;
+  only your creativity is the limit.
+  .
+  Play your own way, come up with your own strategies and show off your skill in
+  the arena!
+  .
+  TRULY FAIR-TO-PLAY & BALANCED ONLINE MULTIPLAYER
+  .
+  We're committed to a fair experience in which only skill matters. In Minion
+  Masters, you can easily earn, craft, or try to loot cards - and that's all
+  you'll ever need to be competitive. Anyone can take on anyone, it all comes down
+  to YOUR skill.
+  .
+  This card game offers countless free rewards to help you collect over 260
+  minions and spells with daily quests, special events and fun game modes. Earn
+  new cards for free and without randomness with the free season pass!
+  .
+  FREE NEW EXPANSIONS & FREQUENT UPDATES
+  .
+  Expect new cards, gameplay mechanics, adventures, skins, arenas, and much more
+  with free regular expansions featuring the evolving story of the continent.
+  .
+  Minion Masters is consistently updated to ensure balanced gameplay and new
+  content with 2 new cards every month. It's the result of close work between devs
+  and the community - join the discord server and make your voice heard!
+  .
+  JOIN A GUILD, MEET PLAYERS, PLAY CO-OP
+  .
+  Take part in something that matters! Join a guild, you will always be welcomed
+  in the tavern!
+  .
+  Team up in 2v2, combine your decks to create the ultimate strategy and reach
+  Contender rank together!
+  .
+  Meet players in a positive and active community. Follow streamers on Twitch,
+  earn prizes with drops and link your account to appear in the arena and interact
+  in real-time with chat commands!
+  .
+  FEATURE LIST
+  .
+  Ranked 1v1 and 2v2 full of action
+  .
+  [/i]
+  .
+  Quick online battle games from 2 to 6 minutes
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Beautiful graphics in this full 3D game.
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Crazy modes: Draft, Mayhem, Adventures...
+  .
+  [/*]
+  .
+  [/i]
+  .
+  260+ Cards to collect from many different factions always at war
+  .
+  [/*]
+  .
+  [/i]
+  .
+  13 awesome Masters each with 3 powers, and more to come
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Customizable arenas, skins, emotes, guilds...
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Story mode and an evolving story
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Epic fantasy lore!
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Guilds
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Loads of free rewards
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Community tournaments
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Twitch prizes and events
+  .
+  [/*]
+  .
+  [/i]
+  .
+  Constant stream of new features and balance tweaks
+  .
+  [/*]
+  .
+  [/i]
+  .
+  An excited dev team
+  .
+  [/*][/i][/p][/*][/list]
+  .
+  Massive new Co-op game from BetaDwarf
+  .
+  We're making a massive new Top-down Loot & Extract game and will start invites
+  for alpha testing soon, check out our developer page to get access!
+release: 2019-05-24
+players: 1
+assets.boxfront: BoxFront/Minion Masters (USA).jpg
+assets.video: Video/Minion Masters (USA).mp4
+x-url: https://store.steampowered.com/app/489520
+x-co-op: No
+x-playable: Yes
+
+
 game: Monster Loves You! (USA)
 file: Computer/Steam/M/Monster Loves You! (USA)/Monster Loves You! (USA).json
 developer: Dejobaan Games
@@ -9476,6 +9863,62 @@ players: 1
 assets.boxfront: BoxFront/Mystery Case Files - Ravenhearst (USA).jpg
 assets.video: Video/Mystery Case Files - Ravenhearst (USA).mp4
 x-url: https://store.steampowered.com/app/50990
+x-co-op: No
+x-playable: Yes
+
+
+game: Mystery Case Files - Rewind Collector's Edition (USA)
+file: Computer/Steam/M/Mystery Case Files - Rewind Collector's Edition (USA)/Mystery Case Files - Rewind Collector's Edition (USA).json
+developer: Eipix Entertainment
+publisher: Big Fish Games
+genre: Adventure;Casual
+description:
+  Big Fish Editor's Choice! This title was selected for its exceptional quality
+  and overwhelmingly positive reviews from our Game Club beta testers.
+  .
+  Eipix Entertainment presents a new kind of case in the latest installment of the
+  Mystery Case Files series!
+  .
+  Strange reports have come in regarding the abandoned Victory Hotel. When you
+  arrive to investigate, you find people from your past cases lost in time and
+  trapped inside! It's up to you to find where they belong and uncover why one of
+  the Dalimars is meddling with the past. It's a race against the clock to solve
+  more challenging puzzles than ever before! Do you have what it takes to fix the
+  timelines before it's too late? Find out in this exhilarating Hidden-Object
+  Puzzle adventure!
+  .
+  See what our Beta testers had to say:
+  .
+  "WOW!!! Great graphics, storyline and challenging puzzles galore. Five PLUS
+  stars, all the way" - Tristan, beta tester
+  .
+  "The characters made this game an absolute delight! And what a fantastic
+  storyline, plus very clever referencing the other games! I had so much fun with
+  every part of Rewind. I loved the very challenging puzzles and the HOGs were
+  terrific with their variety of style. The graphics and hidden object scenes were
+  amazing. Extremely well done everyone, I had the best time playing this jewel of
+  a game!" - Sofie, beta tester
+  .
+  This is a special Collector's Edition release full of exclusive extras you won't
+  find in the standard version. The Collector's Edition includes:
+  .
+  Protect all the timelines in the bonus chapter!
+  .
+  Challenge yourself with replayable HOPs and mini-games!
+  .
+  Never get lost with the helpful strategy guide!
+  .
+  Enjoy exclusive art, music, videos, and more!
+  .
+  This is a Hidden Object Puzzle Adventure game, meaning a specific genre of
+  story-driven, point & click adventures. Throughout the game, players are tasked
+  to find a list of objects hidden within a particular scene, and to occasionally
+  complete various mini-games/puzzles.
+release: 2018-07-23
+players: 1
+assets.boxfront: BoxFront/Mystery Case Files - Rewind Collector's Edition (USA).jpg
+assets.video: Video/Mystery Case Files - Rewind Collector's Edition (USA).mp4
+x-url: https://store.steampowered.com/app/887960
 x-co-op: No
 x-playable: Yes
 
@@ -9959,6 +10402,64 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Nuclear Nightmare (USA)
+file: Computer/Steam/N/Nuclear Nightmare (USA)/Nuclear Nightmare (USA).json
+developer: BG Productions
+publisher: BG Productions
+genre: Action;Adventure;Indie;Early Access
+description:
+  Join your fellow players in assembling an elite extraction team for a thrilling
+  mission to recover classified materials hidden in the harsh Arctic landscape.
+  Gather the necessary supplies to call in an evacuation chopper and make your
+  escape back to civilization. Will you succeed?
+  .
+  Explore a vast open world with a variety of vehicles and trusty huskies to help
+  you navigate the expansive terrain. Earn points to unlock powerful perks at soda
+  machines, discover new suits, and even unlock dance moves! But beware--time is
+  running out. With a devastating nuclear strike looming from the US government to
+  contain the black goo virus, your mission is clear: salvage critical information
+  about the vaccine before it's too late. Can you beat the clock and complete your
+  mission?
+  .
+  Beware the lurking threat of the black goo virus. In this perilous mission, you
+  must test for infections and stay vigilant--anyone, even your loyal husky
+  companions, could turn at any moment. Manage your resources wisely; each vaccine
+  can cure an infection only once, and your inventory is limited to just five
+  slots.
+  .
+  Scavenge for flamethrowers, shotguns, flare guns, and more to defend yourself
+  against the relentless dangers. Will you make the right choices to survive, or
+  will the virus claim you?
+  .
+  Are you ready to face the "Nuclear Nightmare"?
+  .
+  Customize Your Experience: Tailor your world settings to match your unique play
+  style.
+  .
+  Unlock Perks: Enhance your chances of survival with powerful perk abilities.
+  .
+  Tame Huskies: Train your loyal companions to scavenge for items, guard your
+  location, or alert you to dangers.
+  .
+  Navigate the Open World: Drive snowmobiles and fly helicopters to traverse the
+  treacherous terrain.
+  .
+  Dynamic Gameplay: Encounter randomly generated events, enemies, items, and
+  scenarios for a fresh experience every time.
+  .
+  Prepare to confront your worst nightmares in "Nuclear Nightmare." The fate of
+  humanity hangs in the balance, and only you can prevent the impending
+  apocalypse. Will you rise to the challenge, or will you become just another
+  victim of this "Nuclear Nightmare"?
+release: 2024-10-20
+players: 1
+assets.boxfront: BoxFront/Nuclear Nightmare (USA).jpg
+assets.video: Video/Nuclear Nightmare (USA).mp4
+x-url: https://store.steampowered.com/app/2909110
+x-co-op: No
+x-playable: Yes
+
+
 game: Nuclear Throne (USA)
 file: Computer/Steam/N/Nuclear Throne (USA)/Nuclear Throne (USA).json
 developer: Vlambeer
@@ -10169,6 +10670,64 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: Outer Worlds, The (USA)
+file: Computer/Steam/O/Outer Worlds, The (USA)/Outer Worlds, The (USA).json
+developer: Obsidian Entertainment
+publisher: Private Division
+genre: RPG
+description:
+  The Outer Worlds is an award-winning single-player first-person sci-fi RPG from
+  Obsidian Entertainment and Private Division.
+  .
+  Lost in transit while on a colonist ship bound for the furthest edge of the
+  galaxy, you awake decades later only to find yourself in the midst of a deep
+  conspiracy threatening to destroy the Halcyon colony. As you explore the
+  furthest reaches of space and encounter various factions, all vying for power,
+  the character you decide to become will determine how this player-driven story
+  unfolds. In the corporate equation for the colony, you are the unplanned
+  variable.
+  .
+  KEY FEATURES
+  .
+  The player-driven story RPG
+  .
+  In keeping with the Obsidian tradition, how you approach The Outer Worlds is up
+  to you. Your choices affect not only the way the story develops; but your
+  character build, companion stories, and end game scenarios.
+  .
+  You can be flawed, in a good way
+  .
+  New to The Outer Worlds is the idea of flaws. A compelling hero is made by the
+  flaws they carry with them. While playing The Outer Worlds, the game tracks your
+  experience to find what you aren't particularly good at. Keep getting attacked
+  by Raptidons? Taking the Raptiphobia flaw gives you a debuff when confronting
+  the vicious creatures, but rewards you with an additional character perk
+  immediately. This optional approach to the game helps you build the character
+  you want while exploring Halcyon.
+  .
+  Lead your companions
+  .
+  During your journey through the furthest colony, you will meet a host of
+  characters who will want to join your crew. Armed with unique abilities, these
+  companions all have their own missions, motivations, and ideals. It's up to you
+  to help them achieve their goals, or turn them to your own ends.
+  .
+  Explore the corporate colony
+  .
+  Halcyon is a colony at the edge of the galaxy owned and operated by a corporate
+  board. They control everything... except for the alien monsters left behind when
+  the terraforming of the colony's two planets didn't exactly go according to
+  plan. Find your ship, build your crew, and explore the settlements, space
+  stations, and other intriguing locations throughout Halcyon.
+release: 2020-10-23
+players: 1
+assets.boxfront: BoxFront/Outer Worlds, The (USA).jpg
+assets.video: Video/Outer Worlds, The (USA).mp4
+x-url: https://store.steampowered.com/app/578650
+x-co-op: No
+x-playable: Yes
+
+
 game: Owlboy (USA)
 file: Computer/Steam/O/Owlboy (USA)/Owlboy (USA).json
 developer: D-Pad Studio
@@ -10226,6 +10785,86 @@ players: 1
 assets.boxfront: BoxFront/Pac-Man Championship Edition DX+ (USA).jpg
 assets.video: Video/Pac-Man Championship Edition DX+ (USA).mp4
 x-url: https://store.steampowered.com/app/236450
+x-co-op: No
+x-playable: Yes
+
+
+game: Palworld (USA)
+file: Computer/Steam/P/Palworld (USA)/Palworld (USA).json
+developer: Pocketpair
+publisher: Pocketpair
+genre: Action;Adventure;Indie;RPG;Early Access
+description:
+  Q. What kind of game is this?
+  .
+  A. In this game, you can peacefully live alongside mysterious creatures known as
+  Pals or risk your life to drive off a ruthless poaching syndicate.
+  .
+  Pals can be used to fight, or they can be made to work on farms or factories.
+  .
+  You can even sell them or eat them!
+  .
+  Survival
+  .
+  In a harsh environment where food is scarce and vicious poachers roam, danger
+  waits around every corner. To survive, you must tread carefully and make
+  difficult choices...even if that means eating your own Pals when the time comes.
+  .
+  Mounts & Exploration
+  .
+  Pals can be mounted to traverse the land, sea and sky--allowing you to traverse
+  all kinds of environment as you explore the world.
+  .
+  Building Structures
+  .
+  Want to build a pyramid? Put an army of Pals on the job. Don't worry; there are
+  no labor laws for Pals.
+  .
+  Production
+  .
+  Make use of Pals and their skills to make fire, generate electricity, or mine
+  ore so that you can live a life of comfort.
+  .
+  Farming
+  .
+  Some Pals are good at planting seeds, while others are skilled at watering or
+  harvesting crops. Work together with your Pals to create an idyllic farmstead.
+  .
+  Factories & Automation
+  .
+  Letting Pals do the work is the key to automation. Build a factory, place a Pal
+  in it, and they'll keep working as long as they're fed--until they're dead, that
+  is.
+  .
+  Dungeon Exploration
+  .
+  With Pals on your side you can tackle even the most dangerous areas. When the
+  time comes, you might have to sacrifice one to save your skin. They'll protect
+  your life--even if it costs their own.
+  .
+  Breeding & Genetics
+  .
+  Breed a Pal and it will inherit the characteristics of its parents. Combine rare
+  pals to create the strongest Pal of them all!
+  .
+  Poaching & Crime
+  .
+  Endangered Pals live in wildlife sanctuaries. Sneak in and capture rare Pals to
+  get rich quick! It's not a crime if you don't get caught, after all.
+  .
+  Multiplayer
+  .
+  Multiplayer is supported, so invite a friend and go on an adventure together!
+  And of course you can battle your friends and trade Pals, too.
+  .
+  In online co-op play mode, up to 4 players can play together.
+  .
+  Additionally, a dedicated server can allow up to 32 players to play together.
+release: 2024-01-18
+players: 1
+assets.boxfront: BoxFront/Palworld (USA).jpg
+assets.video: Video/Palworld (USA).mp4
+x-url: https://store.steampowered.com/app/1623730
 x-co-op: No
 x-playable: Yes
 
@@ -10907,6 +11546,41 @@ assets.boxfront: BoxFront/Quarry, The (USA).jpg
 assets.video: Video/Quarry, The (USA).mp4
 x-url: https://store.steampowered.com/app/1577120
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Quiet Place, A - The Road Ahead (USA)
+file: Computer/Steam/Q/Quiet Place, A - The Road Ahead (USA)/Quiet Place, A - The Road Ahead (USA).json
+developer: Stormind Games
+publisher: Saber Interactive
+genre: Action;Adventure
+description:
+  A Quiet Place: The Road Ahead is a single-player horror adventure game inspired
+  by the critically acclaimed blockbuster movie franchise that highlights a unique
+  survivor story after an invasion of deadly creatures. In this exclusive spin-
+  off, experience the journey of a young woman who must endure a treacherous
+  apocalypse in the midst of interpersonal family conflicts, all while coming to
+  terms with her own inner fears.
+  .
+  Unnerving Atmosphere -- Experience absolute terror as you strive for silence
+  when hiding from, and sneaking by, horrific creatures who hunt using only sound.
+  .
+  Untold Story -- Embark on a dramatic adventure inspired by the A Quiet Place
+  movie franchise as a young survivor trying to navigate the new, eerily tranquil,
+  post-apocalyptic landscape.
+  .
+  Uncanny Ingenuity -- Discover your own path through the world by observing your
+  environment and leveraging the tools in your surroundings.
+  .
+  A Quiet Place: The Road Ahead features an optional "Microphone Noise Detection"
+  setting where creatures will react to sounds that you make through a connected
+  microphone or headset. Stay silent to survive!
+release: 2024-10-17
+players: 1
+assets.boxfront: BoxFront/Quiet Place, A - The Road Ahead (USA).jpg
+assets.video: Video/Quiet Place, A - The Road Ahead (USA).mp4
+x-url: https://store.steampowered.com/app/2233120
+x-co-op: No
 x-playable: Yes
 
 
@@ -12899,6 +13573,80 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Slay the Princess - The Pristine Cut (USA)
+file: Computer/Steam/S/Slay the Princess - The Pristine Cut (USA)/Slay the Princess - The Pristine Cut (USA).json
+developer: Black Tabby Games
+publisher: Black Tabby Games, Serenity Forge
+genre: Adventure;Indie;RPG;Simulation
+description:
+  You're on a path in the woods, and at the end of that path is a cabin. And in
+  the basement of that cabin is a Princess.
+  .
+  You're here to slay her. If you don't, it will be the end of the world.
+  .
+  She will do everything in her power to stop you. She'll charm, and she'll lie,
+  and she'll promise you the world, and if you let her, she'll kill you a dozen
+  times over. You can't let that happen. Don't forget, the fate of the world rests
+  on your shoulders.
+  .
+  You're not going to listen to him, are you? We're supposed to save princesses,
+  not slay them...
+  .
+  Features
+  .
+  Fully voice-acted by the impeccable Jonathan Sims and Nichole Goodnight.
+  .
+  Hand-penciled art - every background and sprite is drawn traditionally with
+  pencil and paper by Ignatz-winning graphic novelist Abby Howard.
+  .
+  A princess. She's very bad and you have to get rid of her for all our sakes.
+  .
+  No, the Princess isn't a "cosmic horror," whatever that is supposed to mean.
+  She's just an ordinary human Princess, and you can definitely slay her as long
+  as you put your mind to it.
+  .
+  Don't even think about trying to romance her. It won't end well for you.
+  .
+  Hopefully you won't die. But if you do, you'll die a lot. Be careful and stay
+  focused on the task at hand!
+  .
+  A branching narrative where what you say and what you believe determines both
+  who you are and how the story unfolds. Though I wouldn't recommend taking any
+  paths outside of the one I lay before you.
+  .
+  A new roleplaying experience from the creators of Scarlet Hollow.
+  .
+  Slay the Princess is a choice-driven psychological horror visual novel/dating
+  sim with dramatic branching, light RPG elements, and hand-penciled art.
+  .
+  What's in the Pristine Cut?
+  .
+  3 brand new chapters replete with mysteries--and consequences.
+  .
+  Expansions to familiar routes. The Den, The Apotheosis and The Fury each have
+  each more than doubled in length.
+  .
+  Over 35% more content overall--and all of it filled with great opportunities to
+  listen to me and do your job.
+  .
+  A new ending. And hopefully one that saves the world rather than damns it.
+  .
+  Track Your Progress: Cherish your memories, relive your exploits, and uncover
+  deeply hidden secrets with the new gallery feature.
+  .
+  Over 1,200 New Hand-Penciled Frames hand-illustrated by Abby Howard.
+  .
+  Over 2,500 New Lines of Dialogue fully voiced dialogue by the impeccable
+  Jonathan Sims and Nichole Goodnight.
+release: 2023-10-23
+players: 1
+assets.boxfront: BoxFront/Slay the Princess - The Pristine Cut (USA).jpg
+assets.video: Video/Slay the Princess - The Pristine Cut (USA).mp4
+x-url: https://store.steampowered.com/app/1989270
+x-co-op: No
+x-playable: Yes
+
+
 game: Song of Horror (USA)
 file: Computer/Steam/S/Song of Horror (USA)/Song of Horror (USA).json
 developer: Protocol Games
@@ -14567,6 +15315,50 @@ players: 1
 assets.boxfront: BoxFront/VVVVVV (USA).jpg
 assets.video: Video/VVVVVV (USA).mp4
 x-url: https://store.steampowered.com/app/70300
+x-co-op: No
+x-playable: Yes
+
+
+game: Vampire Survivors (USA)
+file: Computer/Steam/V/Vampire Survivors (USA)/Vampire Survivors (USA).json
+developer: poncle
+publisher: poncle
+genre: Action;Casual;Indie;RPG
+description:
+  Vampire Survivors is a time survival game with minimalistic gameplay and
+  roguelite elements.
+  .
+  Hell is empty, the devils are here, and there's no place to run or hide. All you
+  can do is survive as long as you can until death inevitably puts an end to your
+  struggles. Gather gold in each run to buy upgrades and help the next survivor.
+  .
+  The supernatural indie phenomenon that lets you be the bullet hell!
+  .
+  Now with local co-op for up to 4 players!
+  .
+  Supports mouse, keyboard, controller, and touch screen.
+  .
+  Starting Tips
+  .
+  Take your time to grab gems and items, they won't disappear.
+  .
+  Get two or three offensive weapons at first, but focus on leveling them up one
+  at a time.
+  .
+  Armour and Luck are good starting power-ups to spend money on.
+  .
+  Refund power-ups often, it's free, and try new upgrade paths.
+  .
+  v0.1.0 release date:
+  .
+  - itch: Mar 31, 2021
+  .
+  - Steam: Dec 17, 2021
+release: 2022-10-20
+players: 1
+assets.boxfront: BoxFront/Vampire Survivors (USA).jpg
+assets.video: Video/Vampire Survivors (USA).mp4
+x-url: https://store.steampowered.com/app/1794680
 x-co-op: No
 x-playable: Yes
 
