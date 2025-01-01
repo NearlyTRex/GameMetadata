@@ -2089,6 +2089,29 @@ x-co-op: No
 x-playable: Yes
 
 
+game: ReDrawn - The Painted Tower Collector's Edition (USA)
+file: Computer/Amazon Games/R/ReDrawn - The Painted Tower Collector's Edition (USA)/ReDrawn - The Painted Tower Collector's Edition (USA).json
+developer: Friendly Fox Studios
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Friendly Fox Studios invites you to experience a classic given new life in
+  ReDrawn: The Painted Tower!
+  .
+  A mysterious tower holds the secrets to untold power and the little girl who
+  wields it. Iris is the key to your world's future and can bring her art to life,
+  but an unknown evil wants to keep her from her destiny. When she's captured and
+  trapped somewhere in the tower, only you can rescue her and save the kingdom in
+  the process! Can you traverse the worlds inside her paintings to reach her in
+  time? Find out in this spell-binding puzzle adventure!
+release: 2021-11-04
+players: 1
+assets.boxfront: BoxFront/ReDrawn - The Painted Tower Collector's Edition (USA).jpg
+assets.video: Video/ReDrawn - The Painted Tower Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Roguebook (USA)
 file: Computer/Amazon Games/R/Roguebook (USA)/Roguebook (USA).json
 developer: Abrakam SA
@@ -2211,6 +2234,28 @@ release: 2019-12-10
 players: 1
 assets.boxfront: BoxFront/Shovel Knight Showdown (USA).jpg
 assets.video: Video/Shovel Knight Showdown (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Simulakros (USA)
+file: Computer/Amazon Games/S/Simulakros (USA)/Simulakros (USA).json
+developer: Sirio Games
+publisher: Dear Villagers
+genre: Action;Shooter;Third-Person;Arcade
+description:
+  Enter a futuristic world of robots and advanced AI in Simulakros, a fast-paced
+  third-person shooter with rogue-lite elements.
+  .
+  The CORP seeks to develop the ultimate weapon: the Simulakros unit. It's up to
+  you and a mysterious hacker to disrupt their plans, by turning their deadly
+  combat androids against them.
+  .
+  Can two people take down the world's biggest corporation?
+release: 2024-10-10
+players: 1
+assets.boxfront: BoxFront/Simulakros (USA).jpg
+assets.video: Video/Simulakros (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -2423,6 +2468,34 @@ release: 2004-09-20
 players: 1
 assets.boxfront: BoxFront/Warhammer 40,000 - Dawn of War (USA).jpg
 assets.video: Video/Warhammer 40,000 - Dawn of War (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Warhammer 40,000 - Dawn of War II (USA)
+file: Computer/Amazon Games/W/Warhammer 40,000 - Dawn of War II (USA)/Warhammer 40,000 - Dawn of War II (USA).json
+developer: Relic Entertainment
+publisher: THQ
+genre: Strategy
+description:
+  Warhammer 40,000: Dawn of War II is set in the grim, war-ravaged world of Games
+  Workshop's Warhammer 40,000 universe - a dark, futuristic, science-fiction
+  setting where armies of technologically advanced warriors, fighting machines and
+  hordes of implacable aliens wage constant war. Dawn of War II ushers in a new
+  chapter in the RTS series, as ancient races - including the dauntless Space
+  Marines and savage Orks - clash across ruined worlds on a mission to claim the
+  galaxy and preserve their own existence. Powered by the re-vamped Essence Engine
+  2.0, the next evolution of Relic's proprietary game engine made famous in the
+  award winning Company of Heroes, Warhammer 40,000: Dawn of War II delivers fast-
+  paced RTS action with ferocious melee and ranged combat in fully destructible
+  environments. The game immerses players in an in-depth non-linear single-player
+  campaign and a fully-co-operative multiplayer mode.
+  .
+  FAQs, Guides, Cheats, and Secrets
+release: 2009-02-18
+players: 1
+assets.boxfront: BoxFront/Warhammer 40,000 - Dawn of War II (USA).jpg
+assets.video: Video/Warhammer 40,000 - Dawn of War II (USA).mp4
 x-co-op: No
 x-playable: Yes
 
