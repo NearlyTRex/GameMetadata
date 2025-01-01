@@ -2,6 +2,33 @@ collection: Computer - Legacy Games
 launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Legacy Games" -n {file.basename}
 
 
+game: Alex Hunter - Lord Of The Mind (USA)
+file: Computer/Legacy Games/A/Alex Hunter - Lord Of The Mind (USA)/Alex Hunter - Lord Of The Mind (USA).json
+developer: Epic Star
+publisher: Big Fish Games
+genre: Adventure;Puzzle
+description:
+  Alex Hunter thought the case of the missing professor would be an easy paycheck.
+  But his investigation has proven to be anything but simple. With hours of
+  captivating game time, a richly detailed world, and a storyline inspired by
+  classic detective novels, Alex Hunter: Lord of the Mind will thrill casual game
+  fans looking for their next great adventure!
+  .
+  Rich, atmospheric world
+  .
+  Sherlock Holmes-style story
+  .
+  Cleverly designed puzzles
+  .
+  Challenging hidden object scenes
+release: 2013-12-03
+players: 1
+assets.boxfront: BoxFront/Alex Hunter - Lord Of The Mind (USA).jpg
+assets.video: Video/Alex Hunter - Lord Of The Mind (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: City Legends - Trapped in Mirror Collector's Edition (USA)
 file: Computer/Legacy Games/C/City Legends - Trapped in Mirror Collector's Edition (USA)/City Legends - Trapped in Mirror Collector's Edition (USA).json
 developer: Domini Games
@@ -72,6 +99,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Darkarta - A Broken Hearts Quest Collector's Edition (USA)
+file: Computer/Legacy Games/D/Darkarta - A Broken Hearts Quest Collector's Edition (USA)/Darkarta - A Broken Hearts Quest Collector's Edition (USA).json
+developer: Tuttifrutti Interactive
+publisher: Tuttifrutti Interactive
+genre: Puzzle;Hidden Object
+description:
+  Like all moms, for Mary her daughter was everything! Haunted by strange curses
+  from her orphanage days, Mary never knew the story of her dark past until the
+  day she received that strange, mysterious letter. Never in her wildest dreams
+  did she fear that fate would wipe away the peaceful serenity of her life. 3700
+  years have gone by, but even time can never heal it.
+  .
+  Enter the enchanted 'Netherworld' where your destiny was written in blood and
+  which whispers of true love.
+release: 2017-03-08
+players: 1
+assets.boxfront: BoxFront/Darkarta - A Broken Hearts Quest Collector's Edition (USA).jpg
+assets.video: Video/Darkarta - A Broken Hearts Quest Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Facility 47 (USA)
 file: Computer/Legacy Games/F/Facility 47 (USA)/Facility 47 (USA).json
 developer: Inertia Game Studios
@@ -113,6 +162,69 @@ players: 1
 assets.boxfront: BoxFront/Forest Legends - The Call of Love Collector's Edition (USA).jpg
 assets.video: Video/Forest Legends - The Call of Love Collector's Edition (USA).mp4
 x-url: https://www.bigfishgames.com/us/en/games/6484/forest-legends-the-call-of-love-ce
+x-co-op: No
+x-playable: Yes
+
+
+game: Gloomy Tales - Horrific Show Collector's Edition (USA)
+file: Computer/Legacy Games/G/Gloomy Tales - Horrific Show Collector's Edition (USA)/Gloomy Tales - Horrific Show Collector's Edition (USA).json
+developer: Domini Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  A famous traveling circus is coming to Seattle for Halloween! With monsters set
+  to perform on stage, your sister Annabelle is dying to go. But your fun evening
+  quickly takes a frightening turn as flames break out in the circus tent!
+  Suddenly, you're thrown into a world of nightmares, and the circus owner never
+  wants to let you go.
+  .
+  Can you defeat the monsters, save your sister, and escape the horrifying show in
+  time? Find out in this spine-tingling Hidden-Object Puzzle adventure!
+release: 2022-10-14
+players: 1
+assets.boxfront: BoxFront/Gloomy Tales - Horrific Show Collector's Edition (USA).jpg
+assets.video: Video/Gloomy Tales - Horrific Show Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Hiddenverse - Divided Kingdom (USA)
+file: Computer/Legacy Games/H/Hiddenverse - Divided Kingdom (USA)/Hiddenverse - Divided Kingdom (USA).json
+developer: Big Fish Games
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Help Tom, a young engineer, find out who poisoned his friend and savior of the
+  kingdom, Lady Sarah. The kingdom is divided as the Royal Council, mining factory
+  owners and the wizard of the ancient forest are quarreling over the source of
+  ancient magic! Only you can solve the mystery behind the conflict that is slowly
+  ripping the kingdom apart. Can you save the kingdom in time? Find out in this
+  exciting hidden object, match 3 adventure game!
+release: 2018-10-03
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Legendary Tales - Stolen Life Collector's Edition (USA)
+file: Computer/Legacy Games/L/Legendary Tales - Stolen Life Collector's Edition (USA)/Legendary Tales - Stolen Life Collector's Edition (USA).json
+developer: FIVE-BN STUDIO
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  After the disappearance of their parents and the death of their guardian, Lucia
+  and her brother Ulf survived by working in a tavern. But their lives changed
+  dramatically when Ulf turned 18 and his body began to change in unexpected ways
+  - he turned out to be a werewolf! Just after discovering this new side of Ulf,
+  he was abducted by a witch and both disappeared. Lucia is willing to risk
+  everything to save her brother and she knows he would do the same. For the first
+  time in her life, Lucia will have to venture out into the unknown, navigate
+  strange places and face unforeseen danger. Follow Lucia on this journey and help
+  her find her brother.
+release: 2020-07-11
+players: 1
+assets.boxfront: BoxFront/Legendary Tales - Stolen Life Collector's Edition (USA).jpg
+assets.video: Video/Legendary Tales - Stolen Life Collector's Edition (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -162,6 +274,67 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Mystery Case Files - Key to Ravenhearst (USA)
+file: Computer/Legacy Games/M/Mystery Case Files - Key to Ravenhearst (USA)/Mystery Case Files - Key to Ravenhearst (USA).json
+developer: Eipix Entertainment
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  It's rumored that Ravenhearst is being resurrected, and the Queen of England
+  herself has called on you to help unlock the mystery. But can you find the key?
+  Follow the dark clues down a twisting and twisted path into Ravenhearst's
+  horrific past. The future just might depend on it!
+release: 2015-10-28
+players: 1
+assets.boxfront: BoxFront/Mystery Case Files - Key to Ravenhearst (USA).jpg
+assets.video: Video/Mystery Case Files - Key to Ravenhearst (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Mystical Riddles - Behind Doll Eyes Collector's Edition (USA)
+file: Computer/Legacy Games/M/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA)/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA).json
+developer: Do Games Limited
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  As a paranormal detective, you're no stranger to a touch of the supernatural in
+  your cases. Still, after responding to a call from a concerned mother about her
+  son's fiancee's suspicious behavior, you quickly find that things aren't exactly
+  as they seem, and the truth you discover makes your blood run cold. You'll have
+  to gather all your courage to follow the many twists and turns as you race to
+  uncover the secrets behind a family wrapped up in dark forces. Find out what
+  happens to lost spirits and what really lies Behind Doll Eyes in this haunting
+  Hidden-Object adventure!
+release: 2022-07-14
+players: 1
+assets.boxfront: BoxFront/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA).jpg
+assets.video: Video/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Pride and Prejudice - Blood Ties Collector's Edition (USA)
+file: Computer/Legacy Games/P/Pride and Prejudice - Blood Ties Collector's Edition (USA)/Pride and Prejudice - Blood Ties Collector's Edition (USA).json
+developer: Wonderland
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Recently some odd, dark rumors surround Rosings Park, Lady Catherine's grand
+  estate. But things get serious when you get a letter from your beloved Mr. Darcy
+  saying that your younger sister Lydia is missing and was last seen at Rosings!
+  What's more, your beloved has broken up with you and forbids you to visit! Are
+  you strong enough to fight for your love and your missing sister? You'll need
+  courage and heart to save the day in this eerie version of the classic love
+  story turned Hidden-Object Puzzle Adventure!
+release: 2021-02-13
+players: 1
+assets.boxfront: BoxFront/Pride and Prejudice - Blood Ties Collector's Edition (USA).jpg
+assets.video: Video/Pride and Prejudice - Blood Ties Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Royal Legends - Marshes Curse Collector's Edition (USA)
 file: Computer/Legacy Games/R/Royal Legends - Marshes Curse Collector's Edition (USA)/Royal Legends - Marshes Curse Collector's Edition (USA).json
 developer: Domini Games
@@ -179,6 +352,36 @@ release: 2021-12-18
 players: 1
 assets.boxfront: BoxFront/Royal Legends - Marshes Curse Collector's Edition (USA).jpg
 assets.video: Video/Royal Legends - Marshes Curse Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Seven Chambers, The (USA)
+file: Computer/Legacy Games/S/Seven Chambers, The (USA)/Seven Chambers, The (USA).json
+developer: Three Headed Eagle
+publisher: Plug In Digital
+genre: Puzzle;Hidden Object
+description:
+  The Cosmos turned the fate of the Earth's inhabitants every day. Elasaid didn't
+  believe in astrology but the force of the planets and constellations entered
+  into her life and many previous lives regardless of what she thought. After
+  getting hit by a blast in the London riots she falls into a coma. In the coma's
+  sub-conscious she experiences a past life as a Highland Warrior where, after
+  reading a passage of ancient text from a magic book, an underworld portal opens.
+  Terrifying clawed beasts, the Flying Furies, clutch Elasaid and throw her
+  through this first portal of The Seven Chambers.
+  .
+  Her only escape is to navigate her way to the Seventh Chamber in time for the
+  rising of the phoenix along the passageways and chambers for the souls of the
+  dead. Along the way she battles with fallen angels, jealous planets, tricky
+  alchemists and manipulative lost souls. Overcoming the darkness in the chambers
+  opens her heart to a lost soul, but the lost soul has been sentenced to spend
+  eternity in the chambers. What will prevail; her love for the lost soul or her
+  desire for freedom?
+release: 2018-12-04
+players: 1
+assets.boxfront: BoxFront/Seven Chambers, The (USA).jpg
+assets.video: Video/Seven Chambers, The (USA).mp4
 x-co-op: No
 x-playable: Yes
 
