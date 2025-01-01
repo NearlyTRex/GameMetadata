@@ -25,6 +25,7 @@ release: 2013-12-03
 players: 1
 assets.boxfront: BoxFront/Alex Hunter - Lord Of The Mind (USA).jpg
 assets.video: Video/Alex Hunter - Lord Of The Mind (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/5451/alex-hunter-lord-of-the-mind/
 x-co-op: No
 x-playable: Yes
 
@@ -48,6 +49,7 @@ release: 2022-06-25
 players: 1
 assets.boxfront: BoxFront/City Legends - Trapped in Mirror Collector's Edition (USA).jpg
 assets.video: Video/City Legends - Trapped in Mirror Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/15678/city-legends-trapped-in-mirror-ce/
 x-co-op: No
 x-playable: Yes
 
@@ -117,6 +119,7 @@ release: 2017-03-08
 players: 1
 assets.boxfront: BoxFront/Darkarta - A Broken Hearts Quest Collector's Edition (USA).jpg
 assets.video: Video/Darkarta - A Broken Hearts Quest Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/11766/darkarta-a-broken-hearts-quest-ce/
 x-co-op: No
 x-playable: Yes
 
@@ -142,6 +145,7 @@ release: 2016-05-19
 players: 1
 assets.boxfront: BoxFront/Facility 47 (USA).jpg
 assets.video: Video/Facility 47 (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/11327/facility-47/
 x-co-op: No
 x-playable: Yes
 
@@ -184,6 +188,7 @@ release: 2022-10-14
 players: 1
 assets.boxfront: BoxFront/Gloomy Tales - Horrific Show Collector's Edition (USA).jpg
 assets.video: Video/Gloomy Tales - Horrific Show Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/18610/gloomy-tales-horrific-show-ce/
 x-co-op: No
 x-playable: Yes
 
@@ -202,6 +207,9 @@ description:
   exciting hidden object, match 3 adventure game!
 release: 2018-10-03
 players: 1
+assets.boxfront: BoxFront/Hiddenverse - Divided Kingdom (USA).jpg
+assets.video: Video/Hiddenverse - Divided Kingdom (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/14392/hiddenverse-divided-kingdom/
 x-co-op: No
 x-playable: Yes
 
@@ -225,6 +233,33 @@ release: 2020-07-11
 players: 1
 assets.boxfront: BoxFront/Legendary Tales - Stolen Life Collector's Edition (USA).jpg
 assets.video: Video/Legendary Tales - Stolen Life Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/15385/legendary-tales-stolen-life-ce/
+x-co-op: No
+x-playable: Yes
+
+
+game: Lost Lands - Sand Captivity Collector's Edition (USA)
+file: Computer/Legacy Games/L/Lost Lands - Sand Captivity Collector's Edition (USA)/Lost Lands - Sand Captivity Collector's Edition (USA).json
+developer: FIVE-BN STUDIO
+publisher: FIVE-BN STUDIO
+genre: Puzzle;Hidden Object
+description:
+  After the peace in the Lost Lands was restored, Susan decided to restore her own
+  world. She had become a dedicated mother and a grandmother. All that reminded
+  her of her previous adventures were the stories she told to her granddaughter
+  under the guise of fairytales. But like mother, like son. Jim couldn't walk by
+  the artifact of the Lost Lands that was found on Earth. Accidentally, he
+  unleashed an ancient curse. So now Susan has to return to the Lost Lands one
+  more time to save her family.
+  .
+  "Lost Lands: Sand Captivity" is an adventure game in the genre of Hidden
+  Objects, with plenty of mini-games and puzzles, unforgettable characters and
+  complicated quests.
+release: 2022-12-09
+players: 1
+assets.boxfront: BoxFront/Lost Lands - Sand Captivity Collector's Edition (USA).jpg
+assets.video: Video/Lost Lands - Sand Captivity Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/15958/lost-lands-sand-captivity-collectors-edition/
 x-co-op: No
 x-playable: Yes
 
@@ -249,6 +284,7 @@ release: 2022-02-03
 players: 1
 assets.boxfront: BoxFront/Magic City Detective - Wings of Revenge Collector's Edition (USA).jpg
 assets.video: Video/Magic City Detective - Wings of Revenge Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/12419/magic-city-detective-wings-of-revenge-ce/
 x-co-op: No
 x-playable: Yes
 
@@ -269,7 +305,9 @@ description:
   depends upon your cunning and compassion.
 release: 2012-09-17
 players: 1
+assets.boxfront: BoxFront/Margrave - The Blacksmiths Daughter (USA).jpg
 assets.video: Video/Margrave - The Blacksmiths Daughter (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/7443/margrave-the-blacksmiths-daughter/
 x-co-op: No
 x-playable: Yes
 
@@ -288,6 +326,7 @@ release: 2015-10-28
 players: 1
 assets.boxfront: BoxFront/Mystery Case Files - Key to Ravenhearst (USA).jpg
 assets.video: Video/Mystery Case Files - Key to Ravenhearst (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/14090/mystery-case-files-key-to-ravenhearst/
 x-co-op: No
 x-playable: Yes
 
@@ -310,6 +349,29 @@ release: 2022-07-14
 players: 1
 assets.boxfront: BoxFront/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA).jpg
 assets.video: Video/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/18615/mystical-riddles-behind-doll-eyes-ce/
+x-co-op: No
+x-playable: Yes
+
+
+game: Out of Time Collector's Edition (USA)
+file: Computer/Legacy Games/O/Out of Time Collector's Edition (USA)/Out of Time Collector's Edition (USA).json
+developer: DragonsEye Studio
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  Strange events are occurring across the world! The Sahara Desert is covered in
+  snow, huge rivers are suddenly changing course, and parts of the Great Wall of
+  China have vanished. Amid all this chaos, John receives a message from his wife,
+  who is in great danger! He sets out to rescue her, but nothing can prepare him
+  for the astonishing journey ahead.
+  .
+  He'll meet unusual characters and see the distant past first-hand on an
+  adventure to save the day, the month, and all eternity in this Hidden-Object
+  Puzzle Adventure!
+release: 2022-12-07
+players: 1
+x-url: https://www.bigfishgames.com/us/en/games/15746/out-of-time-collectors-edition/
 x-co-op: No
 x-playable: Yes
 
@@ -331,6 +393,7 @@ release: 2021-02-13
 players: 1
 assets.boxfront: BoxFront/Pride and Prejudice - Blood Ties Collector's Edition (USA).jpg
 assets.video: Video/Pride and Prejudice - Blood Ties Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/14825/pride-and-prejudice-blood-ties-ce/
 x-co-op: No
 x-playable: Yes
 
@@ -352,6 +415,7 @@ release: 2021-12-18
 players: 1
 assets.boxfront: BoxFront/Royal Legends - Marshes Curse Collector's Edition (USA).jpg
 assets.video: Video/Royal Legends - Marshes Curse Collector's Edition (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/15546/royal-legends-marshes-curse-ce/
 x-co-op: No
 x-playable: Yes
 
@@ -382,6 +446,7 @@ release: 2018-12-04
 players: 1
 assets.boxfront: BoxFront/Seven Chambers, The (USA).jpg
 assets.video: Video/Seven Chambers, The (USA).mp4
+x-url: https://www.bigfishgames.com/us/en/games/17089/the-seven-chambers/
 x-co-op: No
 x-playable: Yes
 
