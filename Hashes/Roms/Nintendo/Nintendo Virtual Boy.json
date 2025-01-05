@@ -2,15 +2,21 @@
     {
         "dir": "Roms/Nintendo/Nintendo Virtual Boy/Mario Clash (Japan, USA)",
         "filename": "Mario Clash (Japan, USA).vb",
+        "filename_enc": "dd4e6efa63d2fab42bfe5825624ebc9a.enc",
         "hash": "3ce1ced2082b767a",
-        "size": "1048576",
-        "mtime": "1546318800"
+        "hash_enc": "cc01c2cc0c8003f7451789c760f323c7",
+        "mtime": 1734478210,
+        "size": 1048576,
+        "size_enc": 1048676
     },
     {
         "dir": "Roms/Nintendo/Nintendo Virtual Boy/Virtual Boy Wario Land (Japan, USA)",
         "filename": "Virtual Boy Wario Land (Japan, USA).vb",
+        "filename_enc": "e4a98437ff4cc815ef8c95ed79d56ca6.enc",
         "hash": "01dc66b1ed296c68",
-        "size": "2097152",
-        "mtime": "1546318800"
+        "hash_enc": "36ce4a661e3645174c3b659e80c91d40",
+        "mtime": 1734478210,
+        "size": 2097152,
+        "size_enc": 2097263
     }
 ]
