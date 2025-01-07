@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Game Boy Color" -n {
 
 
 game: Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)
-file: Nintendo/Nintendo Game Boy Color/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es)/Alone in the Dark - The New Nightmare (USA) (En,Fr,Es).json
 developer: Pocket Studios
 publisher: Infogrames
 genre: Action;Adventure;Horror
@@ -22,7 +22,7 @@ x-playable: Yes
 
 
 game: Bionic Commando - Elite Forces (USA, Australia)
-file: Nintendo/Nintendo Game Boy Color/Bionic Commando - Elite Forces (USA, Australia)/Bionic Commando - Elite Forces (USA, Australia).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Bionic Commando - Elite Forces (USA, Australia)/Bionic Commando - Elite Forces (USA, Australia).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -44,7 +44,7 @@ x-playable: Yes
 
 
 game: Daikatana (USA) (Proto) (2000-04-19)
-file: Nintendo/Nintendo Game Boy Color/Daikatana (USA) (Proto) (2000-04-19)/Daikatana (USA) (Proto) (2000-04-19).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Daikatana (USA) (Proto) (2000-04-19)/Daikatana (USA) (Proto) (2000-04-19).json
 developer: Will
 publisher: Kemco
 genre: Action;Role-Playing
@@ -65,7 +65,7 @@ x-playable: Yes
 
 
 game: Deja Vu I & II - The Casebooks of Ace Harding (USA)
-file: Nintendo/Nintendo Game Boy Color/Deja Vu I & II - The Casebooks of Ace Harding (USA)/Deja Vu I & II - The Casebooks of Ace Harding (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Deja Vu I & II - The Casebooks of Ace Harding (USA)/Deja Vu I & II - The Casebooks of Ace Harding (USA).json
 developer: Kemco
 publisher: Vatical Entertainment
 genre: Adventure
@@ -94,7 +94,7 @@ x-playable: Yes
 
 
 game: Grandia - Parallel Trippers (Japan)
-file: Nintendo/Nintendo Game Boy Color/Grandia - Parallel Trippers (Japan)/Grandia - Parallel Trippers (Japan).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Grandia - Parallel Trippers (Japan)/Grandia - Parallel Trippers (Japan).json
 developer: Game Arts
 publisher: Hudson Soft
 genre: Role-Playing
@@ -112,7 +112,7 @@ x-playable: Yes
 
 
 game: Harvest Moon 3 GBC (USA)
-file: Nintendo/Nintendo Game Boy Color/Harvest Moon 3 GBC (USA)/Harvest Moon 3 GBC (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Harvest Moon 3 GBC (USA)/Harvest Moon 3 GBC (USA).json
 developer: Natsume
 publisher: Natsume
 genre: Construction and Management Simulation;Life Simulation
@@ -136,7 +136,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Oracle of Ages (USA)
-file: Nintendo/Nintendo Game Boy Color/Legend of Zelda, The - Oracle of Ages (USA)/Legend of Zelda, The - Oracle of Ages (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Legend of Zelda, The - Oracle of Ages (USA)/Legend of Zelda, The - Oracle of Ages (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -164,7 +164,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Oracle of Seasons (USA)
-file: Nintendo/Nintendo Game Boy Color/Legend of Zelda, The - Oracle of Seasons (USA)/Legend of Zelda, The - Oracle of Seasons (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Legend of Zelda, The - Oracle of Seasons (USA)/Legend of Zelda, The - Oracle of Seasons (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -184,7 +184,7 @@ x-playable: Yes
 
 
 game: Lufia - The Legend Returns (USA)
-file: Nintendo/Nintendo Game Boy Color/Lufia - The Legend Returns (USA)/Lufia - The Legend Returns (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Lufia - The Legend Returns (USA)/Lufia - The Legend Returns (USA).json
 developer: Natsume
 publisher: Natsume
 genre: Role-Playing
@@ -206,7 +206,7 @@ x-playable: Yes
 
 
 game: Mario Golf (USA)
-file: Nintendo/Nintendo Game Boy Color/Mario Golf (USA)/Mario Golf (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Mario Golf (USA)/Mario Golf (USA).json
 developer: Camelot Software Planning
 publisher: Nintendo
 genre: Sports
@@ -227,7 +227,7 @@ x-playable: Yes
 
 
 game: Mario Tennis (USA)
-file: Nintendo/Nintendo Game Boy Color/Mario Tennis (USA)/Mario Tennis (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Mario Tennis (USA)/Mario Tennis (USA).json
 developer: Camelot Software Planning
 publisher: Nintendo
 genre: Sports
@@ -247,7 +247,7 @@ x-playable: Yes
 
 
 game: Mega Man Xtreme (USA, Europe) (GB Compatible)
-file: Nintendo/Nintendo Game Boy Color/Mega Man Xtreme (USA, Europe) (GB Compatible)/Mega Man Xtreme (USA, Europe) (GB Compatible).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Mega Man Xtreme (USA, Europe) (GB Compatible)/Mega Man Xtreme (USA, Europe) (GB Compatible).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -269,7 +269,7 @@ x-playable: Yes
 
 
 game: Mega Man Xtreme 2 (USA, Europe)
-file: Nintendo/Nintendo Game Boy Color/Mega Man Xtreme 2 (USA, Europe)/Mega Man Xtreme 2 (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Mega Man Xtreme 2 (USA, Europe)/Mega Man Xtreme 2 (USA, Europe).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -291,7 +291,7 @@ x-playable: Yes
 
 
 game: Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)
-file: Nintendo/Nintendo Game Boy Color/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version)/Perfect Dark (USA, Europe) (En,Fr,De,Es,It) (Rumble Version).json
 developer: Rare
 publisher: Nintendo
 genre: Action
@@ -324,7 +324,7 @@ x-playable: Yes
 
 
 game: Pokemon Puzzle Challenge (USA, Australia)
-file: Nintendo/Nintendo Game Boy Color/Pokemon Puzzle Challenge (USA, Australia)/Pokemon Puzzle Challenge (USA, Australia).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Pokemon Puzzle Challenge (USA, Australia)/Pokemon Puzzle Challenge (USA, Australia).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Puzzle
@@ -350,7 +350,7 @@ x-playable: Yes
 
 
 game: Resident Evil (World) (Proto 1)
-file: Nintendo/Nintendo Game Boy Color/Resident Evil (World) (Proto 1)/Resident Evil (World) (Proto 1).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Resident Evil (World) (Proto 1)/Resident Evil (World) (Proto 1).json
 developer: HotGen Studios
 publisher: Capcom
 genre: Horror
@@ -380,7 +380,7 @@ x-playable: Yes
 
 
 game: Resident Evil (World) (Proto 2)
-file: Nintendo/Nintendo Game Boy Color/Resident Evil (World) (Proto 2)/Resident Evil (World) (Proto 2).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Resident Evil (World) (Proto 2)/Resident Evil (World) (Proto 2).json
 developer: HotGen Studios
 publisher: Capcom
 genre: Horror
@@ -410,7 +410,7 @@ x-playable: Yes
 
 
 game: Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv)
-file: Nintendo/Nintendo Game Boy Color/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv)/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv)/Shadowgate Classic (USA, Europe) (En,Fr,De,Es,Sv).json
 developer: Infinite Ventures
 publisher: Kemco
 genre: Role-Playing
@@ -434,7 +434,7 @@ x-playable: Yes
 
 
 game: Shantae (USA)
-file: Nintendo/Nintendo Game Boy Color/Shantae (USA)/Shantae (USA).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Shantae (USA)/Shantae (USA).json
 developer: WayForward Technologies
 publisher: Capcom
 genre: Action;Platform
@@ -461,7 +461,7 @@ x-playable: Yes
 
 
 game: Silver Falls - Galaxy Bound Curse (World)
-file: Nintendo/Nintendo Game Boy Color/Silver Falls - Galaxy Bound Curse (World)/Silver Falls - Galaxy Bound Curse (World).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Silver Falls - Galaxy Bound Curse (World)/Silver Falls - Galaxy Bound Curse (World).json
 developer: Sungrand
 publisher: Sungrand
 genre: Horror;Unofficial
@@ -503,7 +503,7 @@ x-playable: Yes
 
 
 game: Super Mario Bros. Deluxe (USA, Europe)
-file: Nintendo/Nintendo Game Boy Color/Super Mario Bros. Deluxe (USA, Europe)/Super Mario Bros. Deluxe (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Super Mario Bros. Deluxe (USA, Europe)/Super Mario Bros. Deluxe (USA, Europe).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -528,7 +528,7 @@ x-playable: Yes
 
 
 game: Towers II - Plight of the Stargazer (USA) (Proto 1)
-file: Nintendo/Nintendo Game Boy Color/Towers II - Plight of the Stargazer (USA) (Proto 1)/Towers II - Plight of the Stargazer (USA) (Proto 1).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Towers II - Plight of the Stargazer (USA) (Proto 1)/Towers II - Plight of the Stargazer (USA) (Proto 1).json
 developer: JV Games
 publisher: Vatical Entertainment
 genre: Role-Playing
@@ -548,7 +548,7 @@ x-playable: Yes
 
 
 game: Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09)
-file: Nintendo/Nintendo Game Boy Color/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09)/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09)/Towers II - Plight of the Stargazer (USA) (Proto 2) (2001-12-09).json
 developer: JV Games
 publisher: Vatical Entertainment
 genre: Role-Playing
@@ -568,7 +568,7 @@ x-playable: Yes
 
 
 game: Wario Land 3 (World) (En,Ja)
-file: Nintendo/Nintendo Game Boy Color/Wario Land 3 (World) (En,Ja)/Wario Land 3 (World) (En,Ja).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Wario Land 3 (World) (En,Ja)/Wario Land 3 (World) (En,Ja).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -590,7 +590,7 @@ x-playable: Yes
 
 
 game: Yoda Stories (USA, Europe)
-file: Nintendo/Nintendo Game Boy Color/Yoda Stories (USA, Europe)/Yoda Stories (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy Color/Yoda Stories (USA, Europe)/Yoda Stories (USA, Europe).json
 developer: Torus Games
 publisher: THQ
 genre: Action

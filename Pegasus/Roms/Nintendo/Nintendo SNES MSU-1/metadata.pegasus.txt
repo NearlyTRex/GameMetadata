@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo SNES MSU-1" -n {file
 
 
 game: DuckTales (USA) (Rev 6) (MSU-1)
-file: Nintendo/Nintendo SNES MSU-1/DuckTales (USA) (Rev 6) (MSU-1)/DuckTales (USA) (Rev 6) (MSU-1).json
+file: Roms/Nintendo/Nintendo SNES MSU-1/DuckTales (USA) (Rev 6) (MSU-1)/DuckTales (USA) (Rev 6) (MSU-1).json
 developer: infidelity
 publisher: infidelity
 genre: Platform
@@ -27,7 +27,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The (USA) (Rev 7) (MSU-1)
-file: Nintendo/Nintendo SNES MSU-1/Legend of Zelda, The (USA) (Rev 7) (MSU-1)/Legend of Zelda, The (USA) (Rev 7) (MSU-1).json
+file: Roms/Nintendo/Nintendo SNES MSU-1/Legend of Zelda, The (USA) (Rev 7) (MSU-1)/Legend of Zelda, The (USA) (Rev 7) (MSU-1).json
 developer: infidelity
 publisher: infidelity
 genre: Action;Adventure
@@ -56,7 +56,7 @@ x-playable: Yes
 
 
 game: Mega Man (USA) (Rev 1) (MSU-1)
-file: Nintendo/Nintendo SNES MSU-1/Mega Man (USA) (Rev 1) (MSU-1)/Mega Man (USA) (Rev 1) (MSU-1).json
+file: Roms/Nintendo/Nintendo SNES MSU-1/Mega Man (USA) (Rev 1) (MSU-1)/Mega Man (USA) (Rev 1) (MSU-1).json
 developer: infidelity
 publisher: infidelity
 genre: Action;Platform
@@ -85,7 +85,7 @@ x-playable: Yes
 
 
 game: Mega Man 2 (USA) (Rev 4) (MSU-1)
-file: Nintendo/Nintendo SNES MSU-1/Mega Man 2 (USA) (Rev 4) (MSU-1)/Mega Man 2 (USA) (Rev 4) (MSU-1).json
+file: Roms/Nintendo/Nintendo SNES MSU-1/Mega Man 2 (USA) (Rev 4) (MSU-1)/Mega Man 2 (USA) (Rev 4) (MSU-1).json
 developer: infidelity
 publisher: infidelity
 genre: Action;Platform
@@ -107,7 +107,7 @@ x-playable: Yes
 
 
 game: Mega Man 4 (USA) (Rev 6) (MSU-1)
-file: Nintendo/Nintendo SNES MSU-1/Mega Man 4 (USA) (Rev 6) (MSU-1)/Mega Man 4 (USA) (Rev 6) (MSU-1).json
+file: Roms/Nintendo/Nintendo SNES MSU-1/Mega Man 4 (USA) (Rev 6) (MSU-1)/Mega Man 4 (USA) (Rev 6) (MSU-1).json
 developer: infidelity
 publisher: infidelity
 genre: Action;Platform
@@ -129,7 +129,7 @@ x-playable: Yes
 
 
 game: Metroid (USA) (Rev 5) (MSU-1)
-file: Nintendo/Nintendo SNES MSU-1/Metroid (USA) (Rev 5) (MSU-1)/Metroid (USA) (Rev 5) (MSU-1).json
+file: Roms/Nintendo/Nintendo SNES MSU-1/Metroid (USA) (Rev 5) (MSU-1)/Metroid (USA) (Rev 5) (MSU-1).json
 developer: infidelity
 publisher: infidelity
 genre: Action;Adventure;Platform

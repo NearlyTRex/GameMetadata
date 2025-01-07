@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Epic Games" -n {file.basename
 
 
 game: 3 out of 10 - Episode 1 (USA)
-file: Computer/Epic Games/#-0/3 out of 10 - Episode 1 (USA)/3 out of 10 - Episode 1 (USA).json
+file: Roms/Computer/Epic Games/#-0/3 out of 10 - Episode 1 (USA)/3 out of 10 - Episode 1 (USA).json
 developer: Terrible Posture Games, Inc.
 publisher: Terrible Posture Games, Inc.
 genre: Action
@@ -35,7 +35,7 @@ x-playable: Yes
 
 
 game: 3 out of 10 - Episode 2 (USA)
-file: Computer/Epic Games/#-0/3 out of 10 - Episode 2 (USA)/3 out of 10 - Episode 2 (USA).json
+file: Roms/Computer/Epic Games/#-0/3 out of 10 - Episode 2 (USA)/3 out of 10 - Episode 2 (USA).json
 developer: Terrible Posture Games, Inc.
 publisher: Terrible Posture Games, Inc.
 genre: Adventure;Comedy;Exploration
@@ -67,7 +67,7 @@ x-playable: Yes
 
 
 game: 3 out of 10 - Episode 3 (USA)
-file: Computer/Epic Games/#-0/3 out of 10 - Episode 3 (USA)/3 out of 10 - Episode 3 (USA).json
+file: Roms/Computer/Epic Games/#-0/3 out of 10 - Episode 3 (USA)/3 out of 10 - Episode 3 (USA).json
 developer: Terrible Posture Games, Inc.
 publisher: Terrible Posture Games, Inc.
 genre: Adventure;Comedy;Exploration
@@ -99,7 +99,7 @@ x-playable: Yes
 
 
 game: 3 out of 10 - Episode 4 (USA)
-file: Computer/Epic Games/#-0/3 out of 10 - Episode 4 (USA)/3 out of 10 - Episode 4 (USA).json
+file: Roms/Computer/Epic Games/#-0/3 out of 10 - Episode 4 (USA)/3 out of 10 - Episode 4 (USA).json
 developer: Terrible Posture Games, Inc.
 publisher: Terrible Posture Games, Inc.
 genre: Adventure;Comedy;Exploration
@@ -131,7 +131,7 @@ x-playable: Yes
 
 
 game: 3 out of 10 - Episode 5 (USA)
-file: Computer/Epic Games/#-0/3 out of 10 - Episode 5 (USA)/3 out of 10 - Episode 5 (USA).json
+file: Roms/Computer/Epic Games/#-0/3 out of 10 - Episode 5 (USA)/3 out of 10 - Episode 5 (USA).json
 developer: Terrible Posture Games, Inc.
 publisher: Terrible Posture Games, Inc.
 genre: Adventure;Comedy;Exploration
@@ -163,7 +163,7 @@ x-playable: Yes
 
 
 game: 3 out of 10 - Season Two (USA)
-file: Computer/Epic Games/#-0/3 out of 10 - Season Two (USA)/3 out of 10 - Season Two (USA).json
+file: Roms/Computer/Epic Games/#-0/3 out of 10 - Season Two (USA)/3 out of 10 - Season Two (USA).json
 developer: Terrible Posture Games
 publisher: Terrible Posture Games
 genre: Adventure;General
@@ -186,7 +186,7 @@ x-playable: Yes
 
 
 game: Alex Kidd in Miracle World DX (USA)
-file: Computer/Epic Games/A/Alex Kidd in Miracle World DX (USA)/Alex Kidd in Miracle World DX (USA).json
+file: Roms/Computer/Epic Games/A/Alex Kidd in Miracle World DX (USA)/Alex Kidd in Miracle World DX (USA).json
 developer: Jankenteam
 publisher: Merge Games
 genre: Action;Platformer;2D
@@ -211,7 +211,7 @@ x-playable: Yes
 
 
 game: Ancient Enemy (USA)
-file: Computer/Epic Games/A/Ancient Enemy (USA)/Ancient Enemy (USA).json
+file: Roms/Computer/Epic Games/A/Ancient Enemy (USA)/Ancient Enemy (USA).json
 developer: Grey Alien Games
 publisher: Grey Alien Games
 genre: Strategy;Turn-Based;Card Battle
@@ -235,7 +235,7 @@ x-playable: Yes
 
 
 game: Arcadegeddon (USA)
-file: Computer/Epic Games/A/Arcadegeddon (USA)/Arcadegeddon (USA).json
+file: Roms/Computer/Epic Games/A/Arcadegeddon (USA)/Arcadegeddon (USA).json
 developer: IllFonic
 publisher: IllFonic Publishing
 genre: Shooter
@@ -294,7 +294,7 @@ x-playable: Yes
 
 
 game: Bear and Breakfast (USA)
-file: Computer/Epic Games/B/Bear and Breakfast (USA)/Bear and Breakfast (USA).json
+file: Roms/Computer/Epic Games/B/Bear and Breakfast (USA)/Bear and Breakfast (USA).json
 developer: Gummy Cat
 publisher: Armor Games Studios
 genre: Adventure;Casual;Simulation
@@ -344,7 +344,7 @@ x-playable: Yes
 
 
 game: Beholder (USA)
-file: Computer/Epic Games/B/Beholder (USA)/Beholder (USA).json
+file: Roms/Computer/Epic Games/B/Beholder (USA)/Beholder (USA).json
 developer: Alawar Stargaze (Warm Lamp Games)
 publisher: Alawar
 genre: Adventure;Narration;Strategy
@@ -401,7 +401,7 @@ x-playable: Yes
 
 
 game: Borderlands - The Pre-Sequel (USA)
-file: Computer/Epic Games/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
+file: Roms/Computer/Epic Games/B/Borderlands - The Pre-Sequel (USA)/Borderlands - The Pre-Sequel (USA).json
 developer: 2K Australia
 publisher: 2K
 genre: Action;Shooter;First-Person;Arcade
@@ -446,7 +446,7 @@ x-playable: Yes
 
 
 game: Borderlands 2 (USA)
-file: Computer/Epic Games/B/Borderlands 2 (USA)/Borderlands 2 (USA).json
+file: Roms/Computer/Epic Games/B/Borderlands 2 (USA)/Borderlands 2 (USA).json
 developer: Gearbox Software
 publisher: 2K
 genre: Action;Shooter;First-Person;Arcade
@@ -502,7 +502,7 @@ x-playable: Yes
 
 
 game: Borderlands 3 (USA)
-file: Computer/Epic Games/B/Borderlands 3 (USA)/Borderlands 3 (USA).json
+file: Roms/Computer/Epic Games/B/Borderlands 3 (USA)/Borderlands 3 (USA).json
 developer: Gearbox Software
 publisher: 2K Games
 genre: Action;Shooter;First-Person;Arcade
@@ -545,7 +545,7 @@ x-playable: Yes
 
 
 game: Bramble - The Mountain King (USA)
-file: Computer/Epic Games/B/Bramble - The Mountain King (USA)/Bramble - The Mountain King (USA).json
+file: Roms/Computer/Epic Games/B/Bramble - The Mountain King (USA)/Bramble - The Mountain King (USA).json
 developer: Dimfrost
 publisher: Merge Games
 genre: Action Adventure;Linear
@@ -572,7 +572,7 @@ x-playable: Yes
 
 
 game: Bridge, The (USA)
-file: Computer/Epic Games/B/Bridge, The (USA)/Bridge, The (USA).json
+file: Roms/Computer/Epic Games/B/Bridge, The (USA)/Bridge, The (USA).json
 developer: Ty Taylor and Mar Castañeda
 publisher: The Quantum Astrophysicists Guild
 genre: Puzzle;Logic
@@ -621,7 +621,7 @@ x-playable: Yes
 
 
 game: Brotato (USA)
-file: Computer/Epic Games/B/Brotato (USA)/Brotato (USA).json
+file: Roms/Computer/Epic Games/B/Brotato (USA)/Brotato (USA).json
 description:
   About the game
   .
@@ -658,7 +658,7 @@ x-playable: Yes
 
 
 game: Bus Simulator 21 Next Stop (USA)
-file: Computer/Epic Games/B/Bus Simulator 21 Next Stop (USA)/Bus Simulator 21 Next Stop (USA).json
+file: Roms/Computer/Epic Games/B/Bus Simulator 21 Next Stop (USA)/Bus Simulator 21 Next Stop (USA).json
 developer: Stillalive Studios
 publisher: Astragon Entertainment
 genre: Simulation
@@ -690,7 +690,7 @@ x-playable: Yes
 
 
 game: Callisto Protocol, The (USA)
-file: Computer/Epic Games/C/Callisto Protocol, The (USA)/Callisto Protocol, The (USA).json
+file: Roms/Computer/Epic Games/C/Callisto Protocol, The (USA)/Callisto Protocol, The (USA).json
 developer: Striking Distance Studios
 publisher: KRAFTON, Inc.
 genre: Horror;Shooter
@@ -749,7 +749,7 @@ x-playable: Yes
 
 
 game: Card Shark (USA)
-file: Computer/Epic Games/C/Card Shark (USA)/Card Shark (USA).json
+file: Roms/Computer/Epic Games/C/Card Shark (USA)/Card Shark (USA).json
 developer: Nerial
 publisher: Devolver Digital
 genre: Adventure;General
@@ -775,7 +775,7 @@ x-playable: Yes
 
 
 game: Castlevania Anniversary Collection (USA)
-file: Computer/Epic Games/C/Castlevania Anniversary Collection (USA)/Castlevania Anniversary Collection (USA).json
+file: Roms/Computer/Epic Games/C/Castlevania Anniversary Collection (USA)/Castlevania Anniversary Collection (USA).json
 developer: KONAMI
 publisher: KONAMI
 genre: Action;Platformer;Retro
@@ -820,7 +820,7 @@ x-playable: Yes
 
 
 game: Cave Story+ (USA)
-file: Computer/Epic Games/C/Cave Story+ (USA)/Cave Story+ (USA).json
+file: Roms/Computer/Epic Games/C/Cave Story+ (USA)/Cave Story+ (USA).json
 developer: Nicalis
 publisher: Nicalis
 genre: Action;Platformer;Metroidvania
@@ -843,7 +843,7 @@ x-playable: Yes
 
 
 game: Control (USA)
-file: Computer/Epic Games/C/Control (USA)/Control (USA).json
+file: Roms/Computer/Epic Games/C/Control (USA)/Control (USA).json
 description:
   Control
   .
@@ -868,7 +868,7 @@ x-playable: Yes
 
 
 game: Death Stranding (USA)
-file: Computer/Epic Games/D/Death Stranding (USA)/Death Stranding (USA).json
+file: Roms/Computer/Epic Games/D/Death Stranding (USA)/Death Stranding (USA).json
 developer: KOJIMA PRODUCTIONS
 publisher: 505 Games
 genre: Action Adventure;Open-World
@@ -911,7 +911,7 @@ x-playable: Yes
 
 
 game: Death Stranding - Director's Cut (USA)
-file: Computer/Epic Games/D/Death Stranding - Director's Cut (USA)/Death Stranding - Director's Cut (USA).json
+file: Roms/Computer/Epic Games/D/Death Stranding - Director's Cut (USA)/Death Stranding - Director's Cut (USA).json
 developer: Kojima Productions
 publisher: 505 Games
 genre: Action Adventure;Open-World
@@ -933,7 +933,7 @@ x-playable: Yes
 
 
 game: Death's Door (USA)
-file: Computer/Epic Games/D/Death's Door (USA)/Death's Door (USA).json
+file: Roms/Computer/Epic Games/D/Death's Door (USA)/Death's Door (USA).json
 developer: Acid Nerve
 publisher: Devolver Digital
 genre: Action;Adventure;RPG
@@ -971,7 +971,7 @@ x-playable: Yes
 
 
 game: Death's Gambit - Afterlife (USA)
-file: Computer/Epic Games/D/Death's Gambit - Afterlife (USA)/Death's Gambit - Afterlife (USA).json
+file: Roms/Computer/Epic Games/D/Death's Gambit - Afterlife (USA)/Death's Gambit - Afterlife (USA).json
 developer: White Rabbit
 publisher: Serenity Forge
 genre: Action;RPG
@@ -1041,7 +1041,7 @@ x-playable: Yes
 
 
 game: Deceive Inc. (USA)
-file: Computer/Epic Games/D/Deceive Inc. (USA)/Deceive Inc. (USA).json
+file: Roms/Computer/Epic Games/D/Deceive Inc. (USA)/Deceive Inc. (USA).json
 developer: Sweet Bandits Studios
 publisher: Tripwire Presents
 genre: Action;Shooter;First-Person;Tactical
@@ -1066,7 +1066,7 @@ x-playable: Yes
 
 
 game: Deliver Us Mars (USA)
-file: Computer/Epic Games/D/Deliver Us Mars (USA)/Deliver Us Mars (USA).json
+file: Roms/Computer/Epic Games/D/Deliver Us Mars (USA)/Deliver Us Mars (USA).json
 developer: KeokeN Interactive
 publisher: Frontier Foundry
 genre: Adventure;General
@@ -1097,7 +1097,7 @@ x-playable: No
 
 
 game: Doki Doki Literature Club Plus! (USA)
-file: Computer/Epic Games/D/Doki Doki Literature Club Plus! (USA)/Doki Doki Literature Club Plus! (USA).json
+file: Roms/Computer/Epic Games/D/Doki Doki Literature Club Plus! (USA)/Doki Doki Literature Club Plus! (USA).json
 developer: Team Salvato
 publisher: Serenity Forge
 genre: Adventure;Visual Novel
@@ -1132,7 +1132,7 @@ x-playable: Yes
 
 
 game: Doom 64 (USA)
-file: Computer/Epic Games/D/Doom 64 (USA)/Doom 64 (USA).json
+file: Roms/Computer/Epic Games/D/Doom 64 (USA)/Doom 64 (USA).json
 developer: Midway Studios - San Diego
 publisher: Midway
 genre: Action;Shooter;First-Person;Arcade
@@ -1152,7 +1152,7 @@ x-playable: Yes
 
 
 game: Drawful 2 (USA)
-file: Computer/Epic Games/D/Drawful 2 (USA)/Drawful 2 (USA).json
+file: Roms/Computer/Epic Games/D/Drawful 2 (USA)/Drawful 2 (USA).json
 developer: Jackbox Games, Inc.
 publisher: Jackbox Games, Inc.
 genre: Miscellaneous;Board / Card Game
@@ -1175,7 +1175,7 @@ x-playable: Yes
 
 
 game: Earthlock (USA)
-file: Computer/Epic Games/E/Earthlock (USA)/Earthlock (USA).json
+file: Roms/Computer/Epic Games/E/Earthlock (USA)/Earthlock (USA).json
 developer: Snow Castle Games
 publisher: Snow Castle Games
 genre: Role-Playing;Japanese-Style
@@ -1201,7 +1201,7 @@ x-playable: No
 
 
 game: Electrician Simulator (USA)
-file: Computer/Epic Games/E/Electrician Simulator (USA)/Electrician Simulator (USA).json
+file: Roms/Computer/Epic Games/E/Electrician Simulator (USA)/Electrician Simulator (USA).json
 developer: Take IT Studio!
 publisher: Gaming Factory, Ultimate Games S.A.
 genre: First Person;Indie;Simulation
@@ -1254,7 +1254,7 @@ x-playable: Yes
 
 
 game: Elite Dangerous (USA)
-file: Computer/Epic Games/E/Elite Dangerous (USA)/Elite Dangerous (USA).json
+file: Roms/Computer/Epic Games/E/Elite Dangerous (USA)/Elite Dangerous (USA).json
 developer: Frontier Developments
 publisher: Frontier Developments
 genre: Action;Space
@@ -1334,7 +1334,7 @@ x-playable: Yes
 
 
 game: Eternal Cylinder, The (USA)
-file: Computer/Epic Games/E/Eternal Cylinder, The (USA)/Eternal Cylinder, The (USA).json
+file: Roms/Computer/Epic Games/E/Eternal Cylinder, The (USA)/Eternal Cylinder, The (USA).json
 developer: ACE Team
 publisher: Good Shepherd Entertainment
 genre: Adventure;Exploration;Open World;Survival
@@ -1411,7 +1411,7 @@ x-playable: Yes
 
 
 game: Eternal Threads (USA)
-file: Computer/Epic Games/E/Eternal Threads (USA)/Eternal Threads (USA).json
+file: Roms/Computer/Epic Games/E/Eternal Threads (USA)/Eternal Threads (USA).json
 developer: Cosmonaut Studios
 publisher: Secret Mode
 genre: Adventure;3D;First-Person
@@ -1441,7 +1441,7 @@ x-playable: No
 
 
 game: Eternights (USA)
-file: Computer/Epic Games/E/Eternights (USA)/Eternights (USA).json
+file: Roms/Computer/Epic Games/E/Eternights (USA)/Eternights (USA).json
 developer: Studio Sai
 publisher: Studio Sai
 genre: Action Adventure
@@ -1497,7 +1497,7 @@ x-playable: Yes
 
 
 game: Evil Dead - The Game (USA)
-file: Computer/Epic Games/E/Evil Dead - The Game (USA)/Evil Dead - The Game (USA).json
+file: Roms/Computer/Epic Games/E/Evil Dead - The Game (USA)/Evil Dead - The Game (USA).json
 developer: Saber Interactive
 publisher: Saber Interactive
 genre: Action;Horror;Virtual Console
@@ -1520,7 +1520,7 @@ x-playable: No
 
 
 game: Fallout - A Post Nuclear Role Playing Game (USA)
-file: Computer/Epic Games/F/Fallout - A Post Nuclear Role Playing Game (USA)/Fallout - A Post Nuclear Role Playing Game (USA).json
+file: Roms/Computer/Epic Games/F/Fallout - A Post Nuclear Role Playing Game (USA)/Fallout - A Post Nuclear Role Playing Game (USA).json
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 genre: Open World;RPG
@@ -1542,7 +1542,7 @@ x-playable: Yes
 
 
 game: Fallout - New Vegas - Ultimate Edition (USA)
-file: Computer/Epic Games/F/Fallout - New Vegas - Ultimate Edition (USA)/Fallout - New Vegas - Ultimate Edition (USA).json
+file: Roms/Computer/Epic Games/F/Fallout - New Vegas - Ultimate Edition (USA)/Fallout - New Vegas - Ultimate Edition (USA).json
 developer: Obsidian Entertainment
 publisher: Bethesda Softworks
 genre: Role-Playing;Western-Style
@@ -1563,7 +1563,7 @@ x-playable: Yes
 
 
 game: Fallout 2 - A Post Nuclear Role Playing Game (USA)
-file: Computer/Epic Games/F/Fallout 2 - A Post Nuclear Role Playing Game (USA)/Fallout 2 - A Post Nuclear Role Playing Game (USA).json
+file: Roms/Computer/Epic Games/F/Fallout 2 - A Post Nuclear Role Playing Game (USA)/Fallout 2 - A Post Nuclear Role Playing Game (USA).json
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 genre: Open World;RPG
@@ -1592,7 +1592,7 @@ x-playable: Yes
 
 
 game: Fallout Tactics - Brotherhood of Steel (USA)
-file: Computer/Epic Games/F/Fallout Tactics - Brotherhood of Steel (USA)/Fallout Tactics - Brotherhood of Steel (USA).json
+file: Roms/Computer/Epic Games/F/Fallout Tactics - Brotherhood of Steel (USA)/Fallout Tactics - Brotherhood of Steel (USA).json
 developer: 14° East
 publisher: Bethesda Softworks
 genre: RPG;Strategy;Turn-Based Strategy
@@ -1618,7 +1618,7 @@ x-playable: Yes
 
 
 game: First Class Trouble (USA)
-file: Computer/Epic Games/F/First Class Trouble (USA)/First Class Trouble (USA).json
+file: Roms/Computer/Epic Games/F/First Class Trouble (USA)/First Class Trouble (USA).json
 developer: Invisible Walls ApS
 publisher: Versus Evil
 genre: Action Adventure;Survival
@@ -1647,7 +1647,7 @@ x-playable: Yes
 
 
 game: Floppy Knights (USA)
-file: Computer/Epic Games/F/Floppy Knights (USA)/Floppy Knights (USA).json
+file: Roms/Computer/Epic Games/F/Floppy Knights (USA)/Floppy Knights (USA).json
 developer: Rose City Games
 publisher: Rose City Games
 genre: Strategy;Turn-Based;Card Battle
@@ -1674,7 +1674,7 @@ x-playable: Yes
 
 
 game: Forest Quartet, The (USA)
-file: Computer/Epic Games/F/Forest Quartet, The (USA)/Forest Quartet, The (USA).json
+file: Roms/Computer/Epic Games/F/Forest Quartet, The (USA)/Forest Quartet, The (USA).json
 developer: Mads & Friends
 publisher: Bedtime Digital Games
 genre: Adventure;3D;Third-Person
@@ -1693,7 +1693,7 @@ x-playable: Yes
 
 
 game: Freshly Frosted (USA)
-file: Computer/Epic Games/F/Freshly Frosted (USA)/Freshly Frosted (USA).json
+file: Roms/Computer/Epic Games/F/Freshly Frosted (USA)/Freshly Frosted (USA).json
 developer: The Quantum Astrophysicists Guild
 publisher: The Quantum Astrophysicists Guild
 genre: Puzzle;General
@@ -1721,7 +1721,7 @@ x-playable: Yes
 
 
 game: Geneforge 1 - Mutagen (USA)
-file: Computer/Epic Games/G/Geneforge 1 - Mutagen (USA)/Geneforge 1 - Mutagen (USA).json
+file: Roms/Computer/Epic Games/G/Geneforge 1 - Mutagen (USA)/Geneforge 1 - Mutagen (USA).json
 developer: Spiderweb Software
 publisher: Spiderweb Software
 genre: Role-Playing;General
@@ -1745,7 +1745,7 @@ x-playable: Yes
 
 
 game: Ghostbusters - Spirits Unleashed (USA)
-file: Computer/Epic Games/G/Ghostbusters - Spirits Unleashed (USA)/Ghostbusters - Spirits Unleashed (USA).json
+file: Roms/Computer/Epic Games/G/Ghostbusters - Spirits Unleashed (USA)/Ghostbusters - Spirits Unleashed (USA).json
 developer: IllFonic
 publisher: IllFonic Publishing
 genre: Horror;Shooter
@@ -1769,7 +1769,7 @@ x-playable: Yes
 
 
 game: Ghostrunner (USA)
-file: Computer/Epic Games/G/Ghostrunner (USA)/Ghostrunner (USA).json
+file: Roms/Computer/Epic Games/G/Ghostrunner (USA)/Ghostrunner (USA).json
 developer: ONE MORE LEVEL
 publisher: All in! Games
 genre: Action;Platformer;3D
@@ -1800,7 +1800,7 @@ x-playable: Yes
 
 
 game: Ghostrunner 2 (USA)
-file: Computer/Epic Games/G/Ghostrunner 2 (USA)/Ghostrunner 2 (USA).json
+file: Roms/Computer/Epic Games/G/Ghostrunner 2 (USA)/Ghostrunner 2 (USA).json
 developer: One More Level
 publisher: 505 Games
 genre: Action;Adventure
@@ -1849,7 +1849,7 @@ x-playable: Yes
 
 
 game: Ghostwire Tokyo (USA)
-file: Computer/Epic Games/G/Ghostwire Tokyo (USA)/Ghostwire Tokyo (USA).json
+file: Roms/Computer/Epic Games/G/Ghostwire Tokyo (USA)/Ghostwire Tokyo (USA).json
 developer: Tango Gameworks
 publisher: Bethesda Softworks
 genre: Action;Action-Adventure;Adventure
@@ -1896,7 +1896,7 @@ x-playable: Yes
 
 
 game: Guacamelee! 2 (USA)
-file: Computer/Epic Games/G/Guacamelee! 2 (USA)/Guacamelee! 2 (USA).json
+file: Roms/Computer/Epic Games/G/Guacamelee! 2 (USA)/Guacamelee! 2 (USA).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action;Platformer;Metroidvania
@@ -1922,7 +1922,7 @@ x-playable: Yes
 
 
 game: Guacamelee! Super Turbo Championship Edition (USA)
-file: Computer/Epic Games/G/Guacamelee! Super Turbo Championship Edition (USA)/Guacamelee! Super Turbo Championship Edition (USA).json
+file: Roms/Computer/Epic Games/G/Guacamelee! Super Turbo Championship Edition (USA)/Guacamelee! Super Turbo Championship Edition (USA).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action;Platformer;Metroidvania
@@ -1942,7 +1942,7 @@ x-playable: Yes
 
 
 game: Hot Wheels Unleashed (USA)
-file: Computer/Epic Games/H/Hot Wheels Unleashed (USA)/Hot Wheels Unleashed (USA).json
+file: Roms/Computer/Epic Games/H/Hot Wheels Unleashed (USA)/Hot Wheels Unleashed (USA).json
 developer: Milestone S.r.l.
 publisher: Milestone S.r.l.
 description:
@@ -1998,7 +1998,7 @@ x-playable: Yes
 
 
 game: House of Golf 2 (USA)
-file: Computer/Epic Games/H/House of Golf 2 (USA)/House of Golf 2 (USA).json
+file: Roms/Computer/Epic Games/H/House of Golf 2 (USA)/House of Golf 2 (USA).json
 developer: Starlight Games
 publisher: Starlight Games
 genre: Casual;Indie;Sports
@@ -2052,7 +2052,7 @@ x-playable: Yes
 
 
 game: Invincible Presents - Atom Eve (USA)
-file: Computer/Epic Games/I/Invincible Presents - Atom Eve (USA)/Invincible Presents - Atom Eve (USA).json
+file: Roms/Computer/Epic Games/I/Invincible Presents - Atom Eve (USA)/Invincible Presents - Atom Eve (USA).json
 developer: Terrible Posture Games
 publisher: Skybound Games
 genre: Adventure;Visual Novel
@@ -2079,7 +2079,7 @@ x-playable: Yes
 
 
 game: Iratus - Lord of the Dead (USA)
-file: Computer/Epic Games/I/Iratus - Lord of the Dead (USA)/Iratus - Lord of the Dead (USA).json
+file: Roms/Computer/Epic Games/I/Iratus - Lord of the Dead (USA)/Iratus - Lord of the Dead (USA).json
 developer: Unfrozen
 publisher: Unfrozen
 genre: Role-Playing;Roguelike
@@ -2111,7 +2111,7 @@ x-playable: Yes
 
 
 game: Islets (USA)
-file: Computer/Epic Games/I/Islets (USA)/Islets (USA).json
+file: Roms/Computer/Epic Games/I/Islets (USA)/Islets (USA).json
 developer: Kyle Thompson
 publisher: Armor Games
 genre: Action;Platformer;Metroidvania
@@ -2139,7 +2139,7 @@ x-playable: Yes
 
 
 game: Jotun - Valhalla Edition (USA)
-file: Computer/Epic Games/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
+file: Roms/Computer/Epic Games/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
 developer: Thunder Lotus Games
 publisher: Thunder Lotus Games
 genre: Action Adventure;General
@@ -2163,7 +2163,7 @@ x-playable: Yes
 
 
 game: Jurassic World Evolution (USA)
-file: Computer/Epic Games/J/Jurassic World Evolution (USA)/Jurassic World Evolution (USA).json
+file: Roms/Computer/Epic Games/J/Jurassic World Evolution (USA)/Jurassic World Evolution (USA).json
 developer: Frontier Developments
 publisher: Frontier Developments
 genre: Simulation;Strategy
@@ -2194,7 +2194,7 @@ x-playable: Yes
 
 
 game: Kardboard Kings (USA)
-file: Computer/Epic Games/K/Kardboard Kings (USA)/Kardboard Kings (USA).json
+file: Roms/Computer/Epic Games/K/Kardboard Kings (USA)/Kardboard Kings (USA).json
 developer: Henry's House, Oscar Brittan & Rob Gross
 publisher: Akupara Games
 genre: Casual;Simulation;Strategy
@@ -2257,7 +2257,7 @@ x-playable: Yes
 
 
 game: KeyWe (USA)
-file: Computer/Epic Games/K/KeyWe (USA)/KeyWe (USA).json
+file: Roms/Computer/Epic Games/K/KeyWe (USA)/KeyWe (USA).json
 developer: Stonewheat & Sons
 publisher: Fireshine Games
 genre: Casual
@@ -2308,7 +2308,7 @@ x-playable: Yes
 
 
 game: Kill Knight (USA)
-file: Computer/Epic Games/K/Kill Knight (USA)/Kill Knight (USA).json
+file: Roms/Computer/Epic Games/K/Kill Knight (USA)/Kill Knight (USA).json
 developer: PlaySide
 publisher: PlaySide
 genre: Action;Fantasy;Shooter
@@ -2377,7 +2377,7 @@ x-playable: Yes
 
 
 game: Killing Floor 2 (USA)
-file: Computer/Epic Games/K/Killing Floor 2 (USA)/Killing Floor 2 (USA).json
+file: Roms/Computer/Epic Games/K/Killing Floor 2 (USA)/Killing Floor 2 (USA).json
 developer: Tripwire Interactive
 publisher: Tripwire Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -2409,7 +2409,7 @@ x-playable: Yes
 
 
 game: Killing Floor 2 - Beta (USA)
-file: Computer/Epic Games/K/Killing Floor 2 - Beta (USA)/Killing Floor 2 - Beta (USA).json
+file: Roms/Computer/Epic Games/K/Killing Floor 2 - Beta (USA)/Killing Floor 2 - Beta (USA).json
 developer: Tripwire Interactive
 publisher: Tripwire Interactive
 genre: Action;First Person;Horror;Shooter;Survival
@@ -2430,7 +2430,7 @@ x-playable: Yes
 
 
 game: LEGO Star Wars - The Skywalker Saga (USA)
-file: Computer/Epic Games/L/LEGO Star Wars - The Skywalker Saga (USA)/LEGO Star Wars - The Skywalker Saga (USA).json
+file: Roms/Computer/Epic Games/L/LEGO Star Wars - The Skywalker Saga (USA)/LEGO Star Wars - The Skywalker Saga (USA).json
 developer: TT Games
 publisher: Warner Bros. Games
 genre: Action;Adventure
@@ -2487,7 +2487,7 @@ x-playable: Yes
 
 
 game: Last Stand, The - Aftermath (USA)
-file: Computer/Epic Games/L/Last Stand, The - Aftermath (USA)/Last Stand, The - Aftermath (USA).json
+file: Roms/Computer/Epic Games/L/Last Stand, The - Aftermath (USA)/Last Stand, The - Aftermath (USA).json
 developer: Con Artist Games
 publisher: Armor Games Studios
 genre: Action;Shooter
@@ -2535,7 +2535,7 @@ x-playable: Yes
 
 
 game: Loop Hero (USA)
-file: Computer/Epic Games/L/Loop Hero (USA)/Loop Hero (USA).json
+file: Roms/Computer/Epic Games/L/Loop Hero (USA)/Loop Hero (USA).json
 developer: Four Quarters
 publisher: Devolver Digital
 genre: Card Game;Indie
@@ -2586,7 +2586,7 @@ x-playable: Yes
 
 
 game: Lord of The Rings, The - Return to Moria (USA)
-file: Computer/Epic Games/L/Lord of The Rings, The - Return to Moria (USA)/Lord of The Rings, The - Return to Moria (USA).json
+file: Roms/Computer/Epic Games/L/Lord of The Rings, The - Return to Moria (USA)/Lord of The Rings, The - Return to Moria (USA).json
 developer: Free Range Games
 publisher: North Beach Games
 genre: Action-Adventure;Survival
@@ -2676,7 +2676,7 @@ x-playable: Yes
 
 
 game: Lost Castle (USA)
-file: Computer/Epic Games/L/Lost Castle (USA)/Lost Castle (USA).json
+file: Roms/Computer/Epic Games/L/Lost Castle (USA)/Lost Castle (USA).json
 developer: Hunter Studio
 publisher: Another Indie
 genre: Role-Playing;Action RPG
@@ -2706,7 +2706,7 @@ x-playable: Yes
 
 
 game: Maneater (USA)
-file: Computer/Epic Games/M/Maneater (USA)/Maneater (USA).json
+file: Roms/Computer/Epic Games/M/Maneater (USA)/Maneater (USA).json
 developer: Tripwire Interactive
 publisher: Tripwire Interactive
 genre: Action Adventure;General
@@ -2756,7 +2756,7 @@ x-playable: Yes
 
 
 game: Marvel's Guardians of the Galaxy (USA)
-file: Computer/Epic Games/M/Marvel's Guardians of the Galaxy (USA)/Marvel's Guardians of the Galaxy (USA).json
+file: Roms/Computer/Epic Games/M/Marvel's Guardians of the Galaxy (USA)/Marvel's Guardians of the Galaxy (USA).json
 developer: Eidos Montreal
 publisher: Square Enix
 genre: Action Adventure;Linear
@@ -2787,7 +2787,7 @@ x-playable: Yes
 
 
 game: Marvel's Midnight Suns (USA)
-file: Computer/Epic Games/M/Marvel's Midnight Suns (USA)/Marvel's Midnight Suns (USA).json
+file: Roms/Computer/Epic Games/M/Marvel's Midnight Suns (USA)/Marvel's Midnight Suns (USA).json
 developer: Firaxis Games
 publisher: 2K Games
 genre: Strategy;Turn-Based;Tactics
@@ -2818,7 +2818,7 @@ x-playable: Yes
 
 
 game: Model Builder (USA)
-file: Computer/Epic Games/M/Model Builder (USA)/Model Builder (USA).json
+file: Roms/Computer/Epic Games/M/Model Builder (USA)/Model Builder (USA).json
 developer: Moonlit
 publisher: Green Man Gaming Publishing
 genre: Simulation;Virtual;Career
@@ -2843,7 +2843,7 @@ x-playable: Yes
 
 
 game: Morbid - The Seven Acolytes (USA)
-file: Computer/Epic Games/M/Morbid - The Seven Acolytes (USA)/Morbid - The Seven Acolytes (USA).json
+file: Roms/Computer/Epic Games/M/Morbid - The Seven Acolytes (USA)/Morbid - The Seven Acolytes (USA).json
 developer: Still Running
 publisher: Merge Games Ltd.
 genre: Action-Adventure;Fantasy;Indie
@@ -2898,7 +2898,7 @@ x-playable: Yes
 
 
 game: Moving Out (USA)
-file: Computer/Epic Games/M/Moving Out (USA)/Moving Out (USA).json
+file: Roms/Computer/Epic Games/M/Moving Out (USA)/Moving Out (USA).json
 developer: SMG Studio & Devm Games
 publisher: Team17
 genre: Casual;Party
@@ -2957,7 +2957,7 @@ x-playable: Yes
 
 
 game: MythForce (USA)
-file: Computer/Epic Games/M/MythForce (USA)/MythForce (USA).json
+file: Roms/Computer/Epic Games/M/MythForce (USA)/MythForce (USA).json
 developer: Beamdog
 publisher: Aspyr
 genre: Role-Playing;Action RPG
@@ -2986,7 +2986,7 @@ x-playable: Yes
 
 
 game: MythForce PTR (USA)
-file: Computer/Epic Games/M/MythForce PTR (USA)/MythForce PTR (USA).json
+file: Roms/Computer/Epic Games/M/MythForce PTR (USA)/MythForce PTR (USA).json
 developer: Beamdog
 publisher: Aspyr
 genre: Dungeon Crawler;Fantasy;First Person
@@ -3034,7 +3034,7 @@ x-playable: Yes
 
 
 game: Necromunda - Hired Gun (USA)
-file: Computer/Epic Games/N/Necromunda - Hired Gun (USA)/Necromunda - Hired Gun (USA).json
+file: Roms/Computer/Epic Games/N/Necromunda - Hired Gun (USA)/Necromunda - Hired Gun (USA).json
 developer: Streum On Studio
 publisher: Focus Entertainment
 genre: Action;Action-Adventure;Adventure
@@ -3072,7 +3072,7 @@ x-playable: Yes
 
 
 game: No Straight Roads (USA)
-file: Computer/Epic Games/N/No Straight Roads (USA)/No Straight Roads (USA).json
+file: Roms/Computer/Epic Games/N/No Straight Roads (USA)/No Straight Roads (USA).json
 developer: Metronomik
 publisher: Fireshine Games
 genre: Action;Open World
@@ -3092,7 +3092,7 @@ x-playable: Yes
 
 
 game: Orcs Must Die! 3 (USA)
-file: Computer/Epic Games/O/Orcs Must Die! 3 (USA)/Orcs Must Die! 3 (USA).json
+file: Roms/Computer/Epic Games/O/Orcs Must Die! 3 (USA)/Orcs Must Die! 3 (USA).json
 developer: Robot Entertainment
 publisher: Robot Entertainment
 genre: Action-Adventure;Strategy;Tower Defense
@@ -3145,7 +3145,7 @@ x-playable: Yes
 
 
 game: Orwell - Keeping An Eye On You (USA)
-file: Computer/Epic Games/O/Orwell - Keeping An Eye On You (USA)/Orwell - Keeping An Eye On You (USA).json
+file: Roms/Computer/Epic Games/O/Orwell - Keeping An Eye On You (USA)/Orwell - Keeping An Eye On You (USA).json
 developer: Osmotic Studios
 publisher: Fellow Traveller
 genre: Adventure;Point-and-Click
@@ -3179,7 +3179,7 @@ x-playable: Yes
 
 
 game: Out of Line (USA)
-file: Computer/Epic Games/O/Out of Line (USA)/Out of Line (USA).json
+file: Roms/Computer/Epic Games/O/Out of Line (USA)/Out of Line (USA).json
 developer: Nerd Monkeys
 publisher: Hatinh Interactive
 genre: Action Adventure;General
@@ -3202,7 +3202,7 @@ x-playable: Yes
 
 
 game: Outer Worlds, The - Spacer's Choice Edition (USA)
-file: Computer/Epic Games/O/Outer Worlds, The - Spacer's Choice Edition (USA)/Outer Worlds, The - Spacer's Choice Edition (USA).json
+file: Roms/Computer/Epic Games/O/Outer Worlds, The - Spacer's Choice Edition (USA)/Outer Worlds, The - Spacer's Choice Edition (USA).json
 developer: Obsidian Entertainment
 publisher: Private Division
 genre: Role-Playing;Western-Style
@@ -3254,7 +3254,7 @@ x-playable: Yes
 
 
 game: Predator Hunting Grounds (USA)
-file: Computer/Epic Games/P/Predator Hunting Grounds (USA)/Predator Hunting Grounds (USA).json
+file: Roms/Computer/Epic Games/P/Predator Hunting Grounds (USA)/Predator Hunting Grounds (USA).json
 developer: IllFonic
 publisher: IllFonic
 genre: Action;Shooter
@@ -3274,7 +3274,7 @@ x-playable: Yes
 
 
 game: Prey (USA)
-file: Computer/Epic Games/P/Prey (USA)/Prey (USA).json
+file: Roms/Computer/Epic Games/P/Prey (USA)/Prey (USA).json
 developer: Arkane Studios
 publisher: Bethesda Softworks
 genre: Role-Playing;Action RPG
@@ -3331,7 +3331,7 @@ x-playable: Yes
 
 
 game: Priest Simulator - Vampire Show (USA)
-file: Computer/Epic Games/P/Priest Simulator - Vampire Show (USA)/Priest Simulator - Vampire Show (USA).json
+file: Roms/Computer/Epic Games/P/Priest Simulator - Vampire Show (USA)/Priest Simulator - Vampire Show (USA).json
 developer: Asmodev
 publisher: Ultimate Games S.A.
 genre: Action;First Person;Indie
@@ -3367,7 +3367,7 @@ x-playable: Yes
 
 
 game: Redacted (USA)
-file: Computer/Epic Games/R/Redacted (USA)/Redacted (USA).json
+file: Roms/Computer/Epic Games/R/Redacted (USA)/Redacted (USA).json
 developer: Striking Distance Studios
 publisher: Krafton
 genre: Action;Dungeon Crawler;Rogue-Lite
@@ -3433,7 +3433,7 @@ x-playable: Yes
 
 
 game: Redout - Enhanced Edition (USA)
-file: Computer/Epic Games/R/Redout - Enhanced Edition (USA)/Redout - Enhanced Edition (USA).json
+file: Roms/Computer/Epic Games/R/Redout - Enhanced Edition (USA)/Redout - Enhanced Edition (USA).json
 developer: 34BigThings srl
 publisher: 34BigThings srl
 genre: Racing
@@ -3452,7 +3452,7 @@ x-playable: Yes
 
 
 game: Ring of Pain (USA)
-file: Computer/Epic Games/R/Ring of Pain (USA)/Ring of Pain (USA).json
+file: Roms/Computer/Epic Games/R/Ring of Pain (USA)/Ring of Pain (USA).json
 developer: Twice Different
 publisher: Twice Different
 genre: Strategy;Turn-Based;Card Battle
@@ -3474,7 +3474,7 @@ x-playable: Yes
 
 
 game: Rise of the Tomb Raider - 20 Year Celebration (USA)
-file: Computer/Epic Games/R/Rise of the Tomb Raider - 20 Year Celebration (USA)/Rise of the Tomb Raider - 20 Year Celebration (USA).json
+file: Roms/Computer/Epic Games/R/Rise of the Tomb Raider - 20 Year Celebration (USA)/Rise of the Tomb Raider - 20 Year Celebration (USA).json
 developer: Crystal Dynamics
 publisher: Square Enix
 genre: Action Adventure;Linear
@@ -3527,7 +3527,7 @@ x-playable: Yes
 
 
 game: Scarf (USA)
-file: Computer/Epic Games/S/Scarf (USA)/Scarf (USA).json
+file: Roms/Computer/Epic Games/S/Scarf (USA)/Scarf (USA).json
 developer: Uprising Studios SL
 publisher: HandyGames
 genre: Action-Adventure
@@ -3599,7 +3599,7 @@ x-playable: Yes
 
 
 game: Shadow of the Tomb Raider - Definitive Edition (USA)
-file: Computer/Epic Games/S/Shadow of the Tomb Raider - Definitive Edition (USA)/Shadow of the Tomb Raider - Definitive Edition (USA).json
+file: Roms/Computer/Epic Games/S/Shadow of the Tomb Raider - Definitive Edition (USA)/Shadow of the Tomb Raider - Definitive Edition (USA).json
 developer: Eidos Montreal
 publisher: Square Enix
 genre: Action Adventure;General
@@ -3622,7 +3622,7 @@ x-playable: Yes
 
 
 game: Sifu (USA)
-file: Computer/Epic Games/S/Sifu (USA)/Sifu (USA).json
+file: Roms/Computer/Epic Games/S/Sifu (USA)/Sifu (USA).json
 developer: Sloclap
 publisher: Sloclap
 genre: Action;Fighting;Indie
@@ -3672,7 +3672,7 @@ x-playable: Yes
 
 
 game: Snakebird Complete (USA)
-file: Computer/Epic Games/S/Snakebird Complete (USA)/Snakebird Complete (USA).json
+file: Roms/Computer/Epic Games/S/Snakebird Complete (USA)/Snakebird Complete (USA).json
 developer: Noumenon Games
 publisher: Astra Logical
 genre: Adventure;Puzzle
@@ -3722,7 +3722,7 @@ x-playable: Yes
 
 
 game: Soulstice (USA)
-file: Computer/Epic Games/S/Soulstice (USA)/Soulstice (USA).json
+file: Roms/Computer/Epic Games/S/Soulstice (USA)/Soulstice (USA).json
 developer: Reply Game Studios
 publisher: Modus Games
 genre: Role-Playing;Action RPG
@@ -3752,7 +3752,7 @@ x-playable: Yes
 
 
 game: Spelldrifter (USA)
-file: Computer/Epic Games/S/Spelldrifter (USA)/Spelldrifter (USA).json
+file: Roms/Computer/Epic Games/S/Spelldrifter (USA)/Spelldrifter (USA).json
 developer: Free Range Games
 publisher: Free Range Games
 genre: Strategy;Turn-Based;Card Battle
@@ -3782,7 +3782,7 @@ x-playable: Yes
 
 
 game: Spirit and the Mouse, The (USA)
-file: Computer/Epic Games/S/Spirit and the Mouse, The (USA)/Spirit and the Mouse, The (USA).json
+file: Roms/Computer/Epic Games/S/Spirit and the Mouse, The (USA)/Spirit and the Mouse, The (USA).json
 developer: Alblune
 publisher: Armor Games Studios
 genre: Adventure;Platformer;Puzzle
@@ -3828,7 +3828,7 @@ x-playable: Yes
 
 
 game: Spirit of the North (USA)
-file: Computer/Epic Games/S/Spirit of the North (USA)/Spirit of the North (USA).json
+file: Roms/Computer/Epic Games/S/Spirit of the North (USA)/Spirit of the North (USA).json
 developer: Infuse Studio
 publisher: Merge Games
 genre: Adventure;3D;Third-Person
@@ -3873,7 +3873,7 @@ x-playable: Yes
 
 
 game: Stasis - Bone Totem (USA)
-file: Computer/Epic Games/S/Stasis - Bone Totem (USA)/Stasis - Bone Totem (USA).json
+file: Roms/Computer/Epic Games/S/Stasis - Bone Totem (USA)/Stasis - Bone Totem (USA).json
 developer: THE BROTHERHOOD
 publisher: THE BROTHERHOOD
 genre: Adventure;Horror;Indie
@@ -3917,7 +3917,7 @@ x-playable: Yes
 
 
 game: Super Meat Boy (USA)
-file: Computer/Epic Games/S/Super Meat Boy (USA)/Super Meat Boy (USA).json
+file: Roms/Computer/Epic Games/S/Super Meat Boy (USA)/Super Meat Boy (USA).json
 developer: Team Meat
 publisher: Team Meat
 genre: Action;Platformer
@@ -3937,7 +3937,7 @@ x-playable: Yes
 
 
 game: Surviving the Aftermath (USA)
-file: Computer/Epic Games/S/Surviving the Aftermath (USA)/Surviving the Aftermath (USA).json
+file: Roms/Computer/Epic Games/S/Surviving the Aftermath (USA)/Surviving the Aftermath (USA).json
 developer: Iceflake Studios
 publisher: Paradox Interactive
 genre: Strategy;Management;Government
@@ -3957,7 +3957,7 @@ x-playable: No
 
 
 game: TOEM (USA)
-file: Computer/Epic Games/T/TOEM (USA)/TOEM (USA).json
+file: Roms/Computer/Epic Games/T/TOEM (USA)/TOEM (USA).json
 developer: Something We Made
 publisher: Something We Made
 genre: Adventure;Exploration;Puzzle
@@ -3984,7 +3984,7 @@ x-playable: Yes
 
 
 game: Tales from the Borderlands (USA)
-file: Computer/Epic Games/T/Tales from the Borderlands (USA)/Tales from the Borderlands (USA).json
+file: Roms/Computer/Epic Games/T/Tales from the Borderlands (USA)/Tales from the Borderlands (USA).json
 developer: Telltale Games
 publisher: 2K
 genre: Adventure;Exploration;Narration
@@ -4049,7 +4049,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)
-file: Computer/Epic Games/T/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).json
+file: Roms/Computer/Epic Games/T/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA)/Teenage Mutant Ninja Turtles - Shredder's Revenge (USA).json
 developer: Tribute Games
 publisher: DotEmu
 genre: Action;Beat-'Em-Up;2D
@@ -4076,7 +4076,7 @@ x-playable: Yes
 
 
 game: TerraTech (USA)
-file: Computer/Epic Games/T/TerraTech (USA)/TerraTech (USA).json
+file: Roms/Computer/Epic Games/T/TerraTech (USA)/TerraTech (USA).json
 developer: Payload Studios
 publisher: Payload Studios
 genre: Action-Adventure;Adventure;Open World
@@ -4095,7 +4095,7 @@ x-playable: Yes
 
 
 game: Thief (USA)
-file: Computer/Epic Games/T/Thief (USA)/Thief (USA).json
+file: Roms/Computer/Epic Games/T/Thief (USA)/Thief (USA).json
 developer: Nixxes Software
 publisher: Square Enix
 genre: Action Adventure;General
@@ -4122,7 +4122,7 @@ x-playable: Yes
 
 
 game: Tomb Raider - Game of the Year Edition (USA)
-file: Computer/Epic Games/T/Tomb Raider - Game of the Year Edition (USA)/Tomb Raider - Game of the Year Edition (USA).json
+file: Roms/Computer/Epic Games/T/Tomb Raider - Game of the Year Edition (USA)/Tomb Raider - Game of the Year Edition (USA).json
 developer: Nixxes Software
 publisher: Square Enix
 genre: Action Adventure;Linear
@@ -4142,7 +4142,7 @@ x-playable: Yes
 
 
 game: Trek to Yomi (USA)
-file: Computer/Epic Games/T/Trek to Yomi (USA)/Trek to Yomi (USA).json
+file: Roms/Computer/Epic Games/T/Trek to Yomi (USA)/Trek to Yomi (USA).json
 developer: Leonard Menchiari, Flying Wild Hog
 publisher: Devolver Digital
 genre: Action;Action-Adventure;Adventure
@@ -4182,7 +4182,7 @@ x-playable: Yes
 
 
 game: Vampire Survivors (USA)
-file: Computer/Epic Games/V/Vampire Survivors (USA)/Vampire Survivors (USA).json
+file: Roms/Computer/Epic Games/V/Vampire Survivors (USA)/Vampire Survivors (USA).json
 developer: Poncle Limited
 publisher: Poncle Limited
 genre: Action-Adventure;Indie;Rogue-Lite
@@ -4223,7 +4223,7 @@ x-playable: Yes
 
 
 game: Weird West - Definitive Edition (USA)
-file: Computer/Epic Games/W/Weird West - Definitive Edition (USA)/Weird West - Definitive Edition (USA).json
+file: Roms/Computer/Epic Games/W/Weird West - Definitive Edition (USA)/Weird West - Definitive Edition (USA).json
 developer: Wolfeye Studios
 publisher: Devolver Digital
 genre: Role-Playing;Action RPG
@@ -4250,7 +4250,7 @@ x-playable: Yes
 
 
 game: Wolfenstein - The New Order (USA)
-file: Computer/Epic Games/W/Wolfenstein - The New Order (USA)/Wolfenstein - The New Order (USA).json
+file: Roms/Computer/Epic Games/W/Wolfenstein - The New Order (USA)/Wolfenstein - The New Order (USA).json
 developer: MachineGames
 publisher: Bethesda Softworks
 genre: Action;Shooter;First-Person;Arcade
@@ -4282,7 +4282,7 @@ x-playable: Yes
 
 
 game: Wonder Boy - The Dragon's Trap (USA)
-file: Computer/Epic Games/W/Wonder Boy - The Dragon's Trap (USA)/Wonder Boy - The Dragon's Trap (USA).json
+file: Roms/Computer/Epic Games/W/Wonder Boy - The Dragon's Trap (USA)/Wonder Boy - The Dragon's Trap (USA).json
 developer: Lizardcube
 publisher: DotEmu
 genre: Action;Platformer;Metroidvania

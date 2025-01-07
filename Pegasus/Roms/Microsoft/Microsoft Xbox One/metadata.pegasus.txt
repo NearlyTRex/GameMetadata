@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft Xbox One" -n {file
 
 
 game: Rare Replay (USA)
-file: Microsoft/Microsoft Xbox One/Rare Replay (USA)/Rare Replay (USA).json
+file: Roms/Microsoft/Microsoft Xbox One/Rare Replay (USA)/Rare Replay (USA).json
 developer: Rare
 publisher: Microsoft Game Studios
 genre: Action

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft MSX" -n {file.base
 
 
 game: Antarctic Adventure (Japan)
-file: Microsoft/Microsoft MSX/Antarctic Adventure (Japan)/Antarctic Adventure (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Antarctic Adventure (Japan)/Antarctic Adventure (Japan).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -24,7 +24,7 @@ x-playable: Yes
 
 
 game: Athletic Land (Japan)
-file: Microsoft/Microsoft MSX/Athletic Land (Japan)/Athletic Land (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Athletic Land (Japan)/Athletic Land (Japan).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -41,7 +41,7 @@ x-playable: Yes
 
 
 game: Hyper Sports 2 (Japan)
-file: Microsoft/Microsoft MSX/Hyper Sports 2 (Japan)/Hyper Sports 2 (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Hyper Sports 2 (Japan)/Hyper Sports 2 (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -58,7 +58,7 @@ x-playable: Yes
 
 
 game: Hyper Sports 3 (Japan)
-file: Microsoft/Microsoft MSX/Hyper Sports 3 (Japan)/Hyper Sports 3 (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Hyper Sports 3 (Japan)/Hyper Sports 3 (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -76,7 +76,7 @@ x-playable: Yes
 
 
 game: Knightmare - Majou Densetsu (Japan)
-file: Microsoft/Microsoft MSX/Knightmare - Majou Densetsu (Japan)/Knightmare - Majou Densetsu (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Knightmare - Majou Densetsu (Japan)/Knightmare - Majou Densetsu (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -97,7 +97,7 @@ x-playable: Yes
 
 
 game: Konami's Billiards (Europe)
-file: Microsoft/Microsoft MSX/Konami's Billiards (Europe)/Konami's Billiards (Europe).json
+file: Roms/Microsoft/Microsoft MSX/Konami's Billiards (Europe)/Konami's Billiards (Europe).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -115,7 +115,7 @@ x-playable: Yes
 
 
 game: Konami's Boxing (Japan)
-file: Microsoft/Microsoft MSX/Konami's Boxing (Japan)/Konami's Boxing (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Konami's Boxing (Japan)/Konami's Boxing (Japan).json
 developer: Konami
 publisher: Konami
 genre: Fighting;Sports
@@ -130,7 +130,7 @@ x-playable: Yes
 
 
 game: Konami's Golf (Japan)
-file: Microsoft/Microsoft MSX/Konami's Golf (Japan)/Konami's Golf (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Konami's Golf (Japan)/Konami's Golf (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -146,7 +146,7 @@ x-playable: Yes
 
 
 game: Konami's Ping-Pong (Japan)
-file: Microsoft/Microsoft MSX/Konami's Ping-Pong (Japan)/Konami's Ping-Pong (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Konami's Ping-Pong (Japan)/Konami's Ping-Pong (Japan).json
 developer: Konami
 publisher: Konami
 genre: Sports
@@ -170,7 +170,7 @@ x-playable: Yes
 
 
 game: Magical Tree (Japan)
-file: Microsoft/Microsoft MSX/Magical Tree (Japan)/Magical Tree (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Magical Tree (Japan)/Magical Tree (Japan).json
 developer: Konami
 publisher: Konami
 genre: Platform
@@ -187,7 +187,7 @@ x-playable: Yes
 
 
 game: Mopiranger (Japan)
-file: Microsoft/Microsoft MSX/Mopiranger (Japan)/Mopiranger (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Mopiranger (Japan)/Mopiranger (Japan).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -207,7 +207,7 @@ x-playable: Yes
 
 
 game: Mugen Senshi Valis - The Fantasm Soldier (Japan)
-file: Microsoft/Microsoft MSX/Mugen Senshi Valis - The Fantasm Soldier (Japan)/Mugen Senshi Valis - The Fantasm Soldier (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Mugen Senshi Valis - The Fantasm Soldier (Japan)/Mugen Senshi Valis - The Fantasm Soldier (Japan).json
 developer: Telenet Japan
 publisher: Telenet Japan Co., Ltd.
 genre: Action
@@ -230,7 +230,7 @@ x-playable: Yes
 
 
 game: Nemesis (Japan, Europe)
-file: Microsoft/Microsoft MSX/Nemesis (Japan, Europe)/Nemesis (Japan, Europe).json
+file: Roms/Microsoft/Microsoft MSX/Nemesis (Japan, Europe)/Nemesis (Japan, Europe).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -251,7 +251,7 @@ x-playable: Yes
 
 
 game: Nemesis 2 (Japan, Europe)
-file: Microsoft/Microsoft MSX/Nemesis 2 (Japan, Europe)/Nemesis 2 (Japan, Europe).json
+file: Roms/Microsoft/Microsoft MSX/Nemesis 2 (Japan, Europe)/Nemesis 2 (Japan, Europe).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -282,7 +282,7 @@ x-playable: Yes
 
 
 game: Nemesis 3 - The Eve of Destruction (Japan, Europe)
-file: Microsoft/Microsoft MSX/Nemesis 3 - The Eve of Destruction (Japan, Europe)/Nemesis 3 - The Eve of Destruction (Japan, Europe).json
+file: Roms/Microsoft/Microsoft MSX/Nemesis 3 - The Eve of Destruction (Japan, Europe)/Nemesis 3 - The Eve of Destruction (Japan, Europe).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -307,7 +307,7 @@ x-playable: Yes
 
 
 game: Road Fighter (Japan)
-file: Microsoft/Microsoft MSX/Road Fighter (Japan)/Road Fighter (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Road Fighter (Japan)/Road Fighter (Japan).json
 developer: Konami
 publisher: Konami
 genre: Racing
@@ -326,7 +326,7 @@ x-playable: Yes
 
 
 game: Sky Jaguar (Japan)
-file: Microsoft/Microsoft MSX/Sky Jaguar (Japan)/Sky Jaguar (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Sky Jaguar (Japan)/Sky Jaguar (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -345,7 +345,7 @@ x-playable: Yes
 
 
 game: Super Cobra (Japan)
-file: Microsoft/Microsoft MSX/Super Cobra (Japan)/Super Cobra (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Super Cobra (Japan)/Super Cobra (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -363,7 +363,7 @@ x-playable: Yes
 
 
 game: Twin Bee (Japan)
-file: Microsoft/Microsoft MSX/Twin Bee (Japan)/Twin Bee (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Twin Bee (Japan)/Twin Bee (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -405,7 +405,7 @@ x-playable: Yes
 
 
 game: Yie Ar Kung-Fu (Japan)
-file: Microsoft/Microsoft MSX/Yie Ar Kung-Fu (Japan)/Yie Ar Kung-Fu (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Yie Ar Kung-Fu (Japan)/Yie Ar Kung-Fu (Japan).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -428,7 +428,7 @@ x-playable: Yes
 
 
 game: Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)
-file: Microsoft/Microsoft MSX/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).json
+file: Roms/Microsoft/Microsoft MSX/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan)/Yie Ar Kung-Fu II - The Emperor Yie-Gah (Japan).json
 developer: Konami
 publisher: Konami
 genre: Adventure;Fighting

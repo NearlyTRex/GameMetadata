@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Disc" -n {file.basename}
 
 
 game: 1000 Best Games for Windows (USA)
-file: Computer/Disc/#-0/1000 Best Games for Windows (USA)/1000 Best Games for Windows (USA).json
+file: Roms/Computer/Disc/#-0/1000 Best Games for Windows (USA)/1000 Best Games for Windows (USA).json
 developer: Swift Jewel
 publisher: Cosmi
 genre: Miscellaneous;Compilation
@@ -22,7 +22,7 @@ x-playable: Yes
 
 
 game: AM2R - Another Metroid 2 Remake (USA)
-file: Computer/Disc/A/AM2R - Another Metroid 2 Remake (USA)/AM2R - Another Metroid 2 Remake (USA).json
+file: Roms/Computer/Disc/A/AM2R - Another Metroid 2 Remake (USA)/AM2R - Another Metroid 2 Remake (USA).json
 developer: Milton Guasti (DoctorM64)
 publisher: Milton Guasti (DoctorM64)
 genre: Adventure;Puzzle;Shooter;Platform;Unofficial
@@ -74,7 +74,7 @@ x-playable: Yes
 
 
 game: Action 52 Owns (USA)
-file: Computer/Disc/A/Action 52 Owns (USA)/Action 52 Owns (USA).json
+file: Roms/Computer/Disc/A/Action 52 Owns (USA)/Action 52 Owns (USA).json
 developer: TIGSource
 publisher: TIGSource
 genre: Miscellaneous
@@ -97,7 +97,7 @@ x-playable: Yes
 
 
 game: Adventures of Elena Temple, The (USA)
-file: Computer/Disc/A/Adventures of Elena Temple, The (USA)/Adventures of Elena Temple, The (USA).json
+file: Roms/Computer/Disc/A/Adventures of Elena Temple, The (USA)/Adventures of Elena Temple, The (USA).json
 developer: GrimTalin
 publisher: GrimTalin
 genre: Platform
@@ -118,7 +118,7 @@ x-playable: Yes
 
 
 game: Age of Empires Gold Edition (USA)
-file: Computer/Disc/A/Age of Empires Gold Edition (USA)/Age of Empires Gold Edition (USA).json
+file: Roms/Computer/Disc/A/Age of Empires Gold Edition (USA)/Age of Empires Gold Edition (USA).json
 developer: Ensemble Studios
 publisher: Microsoft Game Studios
 genre: Strategy
@@ -140,7 +140,7 @@ x-playable: Yes
 
 
 game: Age of Empires II Gold Edition (USA)
-file: Computer/Disc/A/Age of Empires II Gold Edition (USA)/Age of Empires II Gold Edition (USA).json
+file: Roms/Computer/Disc/A/Age of Empires II Gold Edition (USA)/Age of Empires II Gold Edition (USA).json
 developer: Ensemble Studios
 publisher: Microsoft Game Studios
 genre: Strategy
@@ -159,7 +159,7 @@ x-playable: Yes
 
 
 game: Age of Mythology (USA, Europe)
-file: Computer/Disc/A/Age of Mythology (USA, Europe)/Age of Mythology (USA, Europe).json
+file: Roms/Computer/Disc/A/Age of Mythology (USA, Europe)/Age of Mythology (USA, Europe).json
 developer: Ensemble Studios
 publisher: Microsoft Studios
 genre: Strategy
@@ -200,7 +200,7 @@ x-playable: Yes
 
 
 game: Aliens Versus Predator Gold (USA)
-file: Computer/Disc/A/Aliens Versus Predator Gold (USA)/Aliens Versus Predator Gold (USA).json
+file: Roms/Computer/Disc/A/Aliens Versus Predator Gold (USA)/Aliens Versus Predator Gold (USA).json
 developer: Rebellion
 publisher: Fox Interactive
 genre: Action;Horror;Shooter
@@ -258,7 +258,7 @@ x-playable: Yes
 
 
 game: Alone in the Dark - The New Nightmare (USA)
-file: Computer/Disc/A/Alone in the Dark - The New Nightmare (USA)/Alone in the Dark - The New Nightmare (USA).json
+file: Roms/Computer/Disc/A/Alone in the Dark - The New Nightmare (USA)/Alone in the Dark - The New Nightmare (USA).json
 developer: Darkworks, Spiral House
 publisher: Infogrames
 genre: Action;Adventure
@@ -280,7 +280,7 @@ x-playable: Yes
 
 
 game: Amazon Trail 3rd Edition - Rainforest Adventures (USA)
-file: Computer/Disc/A/Amazon Trail 3rd Edition - Rainforest Adventures (USA)/Amazon Trail 3rd Edition - Rainforest Adventures (USA).json
+file: Roms/Computer/Disc/A/Amazon Trail 3rd Edition - Rainforest Adventures (USA)/Amazon Trail 3rd Edition - Rainforest Adventures (USA).json
 developer: MECC
 publisher: The Learning Company
 genre: Adventure;Education
@@ -303,7 +303,7 @@ x-playable: Yes
 
 
 game: Amnesia - The Dark Descent (USA)
-file: Computer/Disc/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
+file: Roms/Computer/Disc/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
 developer: Frictional Games
 publisher: Frictional Games
 genre: Action;Adventure;Horror
@@ -348,7 +348,7 @@ x-playable: Yes
 
 
 game: Ancients II - Approaching Evil (USA)
-file: Computer/Disc/A/Ancients II - Approaching Evil (USA)/Ancients II - Approaching Evil (USA).json
+file: Roms/Computer/Disc/A/Ancients II - Approaching Evil (USA)/Ancients II - Approaching Evil (USA).json
 developer: Farrware
 publisher: Epic Games
 genre: Role-Playing
@@ -382,7 +382,7 @@ x-playable: Yes
 
 
 game: Apotheon (USA)
-file: Computer/Disc/A/Apotheon (USA)/Apotheon (USA).json
+file: Roms/Computer/Disc/A/Apotheon (USA)/Apotheon (USA).json
 developer: Alientrap
 publisher: Alientrap
 genre: Action;Adventure;Platform
@@ -427,7 +427,7 @@ x-playable: Yes
 
 
 game: Armello (USA)
-file: Computer/Disc/A/Armello (USA)/Armello (USA).json
+file: Roms/Computer/Disc/A/Armello (USA)/Armello (USA).json
 developer: League of Geeks
 publisher: League of Geeks
 genre: Role-Playing;Strategy;Board Game
@@ -478,7 +478,7 @@ x-playable: Yes
 
 
 game: Arx Fatalis (USA)
-file: Computer/Disc/A/Arx Fatalis (USA)/Arx Fatalis (USA).json
+file: Roms/Computer/Disc/A/Arx Fatalis (USA)/Arx Fatalis (USA).json
 developer: Arkane Studios SA
 publisher: JoWooD Productions Software AG
 genre: Action;Role-Playing
@@ -504,7 +504,7 @@ x-playable: Yes
 
 
 game: Assault Android Cactus (USA)
-file: Computer/Disc/A/Assault Android Cactus (USA)/Assault Android Cactus (USA).json
+file: Roms/Computer/Disc/A/Assault Android Cactus (USA)/Assault Android Cactus (USA).json
 developer: Witch Beam
 publisher: Witch Beam
 genre: Shooter
@@ -545,7 +545,7 @@ x-playable: Yes
 
 
 game: Atari - 80 Classic Games In One (USA)
-file: Computer/Disc/A/Atari - 80 Classic Games In One (USA)/Atari - 80 Classic Games In One (USA).json
+file: Roms/Computer/Disc/A/Atari - 80 Classic Games In One (USA)/Atari - 80 Classic Games In One (USA).json
 developer: Digital Eclipse
 publisher: Atari, Inc.
 genre: Miscellaneous;Compilation
@@ -585,7 +585,7 @@ x-playable: Yes
 
 
 game: Atomic Bomberman (USA)
-file: Computer/Disc/A/Atomic Bomberman (USA)/Atomic Bomberman (USA).json
+file: Roms/Computer/Disc/A/Atomic Bomberman (USA)/Atomic Bomberman (USA).json
 developer: Interplay
 publisher: Interplay
 genre: Action;Puzzle
@@ -603,7 +603,7 @@ x-playable: Yes
 
 
 game: Axiom Verge (USA)
-file: Computer/Disc/A/Axiom Verge (USA)/Axiom Verge (USA).json
+file: Roms/Computer/Disc/A/Axiom Verge (USA)/Axiom Verge (USA).json
 developer: Thomas Happ Games LLC
 publisher: Thomas Happ Games LLC
 genre: Action;Adventure
@@ -623,7 +623,7 @@ x-playable: Yes
 
 
 game: Bad Milk (USA)
-file: Computer/Disc/B/Bad Milk (USA)/Bad Milk (USA).json
+file: Roms/Computer/Disc/B/Bad Milk (USA)/Bad Milk (USA).json
 developer: Dreaming Media
 publisher: Dreaming Media
 genre: Adventure
@@ -647,7 +647,7 @@ x-playable: Yes
 
 
 game: Barkley, Shut Up and Jam - Gaiden (USA)
-file: Computer/Disc/B/Barkley, Shut Up and Jam - Gaiden (USA)/Barkley, Shut Up and Jam - Gaiden (USA).json
+file: Roms/Computer/Disc/B/Barkley, Shut Up and Jam - Gaiden (USA)/Barkley, Shut Up and Jam - Gaiden (USA).json
 developer: Tales of Game's Studios
 publisher: Tales of Game's Studios
 genre: Role-Playing
@@ -685,7 +685,7 @@ x-playable: Yes
 
 
 game: Basement Collection, The (USA)
-file: Computer/Disc/B/Basement Collection, The (USA)/Basement Collection, The (USA).json
+file: Roms/Computer/Disc/B/Basement Collection, The (USA)/Basement Collection, The (USA).json
 developer: Edmund McMillen, Tyler Glaiel
 publisher: Edmund McMillen
 genre: Action;Adventure;Platform;Puzzle
@@ -713,7 +713,7 @@ x-playable: Yes
 
 
 game: Battleship Surface Thunder (USA)
-file: Computer/Disc/B/Battleship Surface Thunder (USA)/Battleship Surface Thunder (USA).json
+file: Roms/Computer/Disc/B/Battleship Surface Thunder (USA)/Battleship Surface Thunder (USA).json
 developer: Meyer / Glass Interactive
 publisher: Hasbro Interactive
 genre: Miscellaneous;Board / Card Game
@@ -734,7 +734,7 @@ x-playable: Yes
 
 
 game: Beast Within, The - A Gabriel Knight Mystery (USA)
-file: Computer/Disc/B/Beast Within, The - A Gabriel Knight Mystery (USA)/Beast Within, The - A Gabriel Knight Mystery (USA).json
+file: Roms/Computer/Disc/B/Beast Within, The - A Gabriel Knight Mystery (USA)/Beast Within, The - A Gabriel Knight Mystery (USA).json
 developer: Sierra On-Line
 publisher: Activision
 genre: Adventure
@@ -766,7 +766,7 @@ x-playable: Yes
 
 
 game: Black & White + Creature Isle (USA)
-file: Computer/Disc/B/Black & White + Creature Isle (USA)/Black & White + Creature Isle (USA).json
+file: Roms/Computer/Disc/B/Black & White + Creature Isle (USA)/Black & White + Creature Isle (USA).json
 developer: Lionhead Studios Ltd.
 publisher: EA Games
 genre: Construction and Management Simulation
@@ -789,7 +789,7 @@ x-playable: Yes
 
 
 game: Black & White 2 (USA)
-file: Computer/Disc/B/Black & White 2 (USA)/Black & White 2 (USA).json
+file: Roms/Computer/Disc/B/Black & White 2 (USA)/Black & White 2 (USA).json
 developer: Lionhead Studios Ltd.
 publisher: Electronic Arts
 genre: Adventure;Construction and Management Simulation;Role-Playing;Strategy;Sandbox
@@ -809,7 +809,7 @@ x-playable: Yes
 
 
 game: Blair Witch Volume 1 - Rustin Parr (USA)
-file: Computer/Disc/B/Blair Witch Volume 1 - Rustin Parr (USA)/Blair Witch Volume 1 - Rustin Parr (USA).json
+file: Roms/Computer/Disc/B/Blair Witch Volume 1 - Rustin Parr (USA)/Blair Witch Volume 1 - Rustin Parr (USA).json
 developer: Terminal Reality
 publisher: Gathering of Developers
 genre: Action;Adventure;Horror
@@ -831,7 +831,7 @@ x-playable: Yes
 
 
 game: Blair Witch Volume 2 - The Legend of Coffin Rock (USA)
-file: Computer/Disc/B/Blair Witch Volume 2 - The Legend of Coffin Rock (USA)/Blair Witch Volume 2 - The Legend of Coffin Rock (USA).json
+file: Roms/Computer/Disc/B/Blair Witch Volume 2 - The Legend of Coffin Rock (USA)/Blair Witch Volume 2 - The Legend of Coffin Rock (USA).json
 developer: Human Head Studios
 publisher: Gathering of Developers
 genre: Action;Adventure;Horror
@@ -882,7 +882,7 @@ x-playable: Yes
 
 
 game: Blair Witch Volume 3 - The Elly Kedward Tale (USA)
-file: Computer/Disc/B/Blair Witch Volume 3 - The Elly Kedward Tale (USA)/Blair Witch Volume 3 - The Elly Kedward Tale (USA).json
+file: Roms/Computer/Disc/B/Blair Witch Volume 3 - The Elly Kedward Tale (USA)/Blair Witch Volume 3 - The Elly Kedward Tale (USA).json
 developer: Ritual Entertainment
 publisher: Gathering of Developers
 genre: Action;Adventure;Horror
@@ -947,7 +947,7 @@ x-playable: Yes
 
 
 game: Blood - Spill Some (USA)
-file: Computer/Disc/B/Blood - Spill Some (USA)/Blood - Spill Some (USA).json
+file: Roms/Computer/Disc/B/Blood - Spill Some (USA)/Blood - Spill Some (USA).json
 developer: Monolith Productions
 publisher: GT Interactive
 genre: Action;Shooter
@@ -986,7 +986,7 @@ x-playable: Yes
 
 
 game: Braid & Welcome to Mysterious City - Vegas (USA)
-file: Computer/Disc/B/Braid & Welcome to Mysterious City - Vegas (USA)/Braid & Welcome to Mysterious City - Vegas (USA).json
+file: Roms/Computer/Disc/B/Braid & Welcome to Mysterious City - Vegas (USA)/Braid & Welcome to Mysterious City - Vegas (USA).json
 developer: Number None
 publisher: Number None
 genre: Platform;Puzzle
@@ -1008,7 +1008,7 @@ x-playable: Yes
 
 
 game: Brutal Doom - Hell on Earth Starter Pack (USA)
-file: Computer/Disc/B/Brutal Doom - Hell on Earth Starter Pack (USA)/Brutal Doom - Hell on Earth Starter Pack (USA).json
+file: Roms/Computer/Disc/B/Brutal Doom - Hell on Earth Starter Pack (USA)/Brutal Doom - Hell on Earth Starter Pack (USA).json
 developer: Sergeant_Mark_IV
 publisher: Sergeant_Mark_IV
 genre: Shooting
@@ -1048,7 +1048,7 @@ x-playable: Yes
 
 
 game: Brutal Legend (USA)
-file: Computer/Disc/B/Brutal Legend (USA)/Brutal Legend (USA).json
+file: Roms/Computer/Disc/B/Brutal Legend (USA)/Brutal Legend (USA).json
 developer: Double Fine Productions
 publisher: Double Fine Productions
 genre: Action;Music;Sandbox;Strategy;Beat 'em Up
@@ -1081,7 +1081,7 @@ x-playable: Yes
 
 
 game: Call of Cthulhu - Dark Corners of the Earth (USA)
-file: Computer/Disc/C/Call of Cthulhu - Dark Corners of the Earth (USA)/Call of Cthulhu - Dark Corners of the Earth (USA).json
+file: Roms/Computer/Disc/C/Call of Cthulhu - Dark Corners of the Earth (USA)/Call of Cthulhu - Dark Corners of the Earth (USA).json
 developer: Headfirst Productions
 publisher: 2K Games
 genre: Action;Adventure;Horror;Stealth
@@ -1123,7 +1123,7 @@ x-playable: Yes
 
 
 game: Captain Forever Remix (USA)
-file: Computer/Disc/C/Captain Forever Remix (USA)/Captain Forever Remix (USA).json
+file: Roms/Computer/Disc/C/Captain Forever Remix (USA)/Captain Forever Remix (USA).json
 developer: Pixelsaurus Games
 publisher: Pixelsaurus Games
 genre: Action;Puzzle
@@ -1145,7 +1145,7 @@ x-playable: Yes
 
 
 game: Carmen Sandiego - Word Detective (USA)
-file: Computer/Disc/C/Carmen Sandiego - Word Detective (USA)/Carmen Sandiego - Word Detective (USA).json
+file: Roms/Computer/Disc/C/Carmen Sandiego - Word Detective (USA)/Carmen Sandiego - Word Detective (USA).json
 developer: The Learning Company
 publisher: Navarre Corporation
 genre: Education
@@ -1165,7 +1165,7 @@ x-playable: Yes
 
 
 game: Castle of the Winds I - A Question of Vengeance (USA)
-file: Computer/Disc/C/Castle of the Winds I - A Question of Vengeance (USA)/Castle of the Winds I - A Question of Vengeance (USA).json
+file: Roms/Computer/Disc/C/Castle of the Winds I - A Question of Vengeance (USA)/Castle of the Winds I - A Question of Vengeance (USA).json
 developer: SaadaSoft
 publisher: Epic Games
 genre: Role-Playing;General
@@ -1201,7 +1201,7 @@ x-playable: Yes
 
 
 game: Castle of the Winds II - Lifthransir's Bane (USA)
-file: Computer/Disc/C/Castle of the Winds II - Lifthransir's Bane (USA)/Castle of the Winds II - Lifthransir's Bane (USA).json
+file: Roms/Computer/Disc/C/Castle of the Winds II - Lifthransir's Bane (USA)/Castle of the Winds II - Lifthransir's Bane (USA).json
 developer: SaadaSoft
 publisher: Epic Games
 genre: Role-Playing;General
@@ -1231,7 +1231,7 @@ x-playable: Yes
 
 
 game: Chariot (USA)
-file: Computer/Disc/C/Chariot (USA)/Chariot (USA).json
+file: Roms/Computer/Disc/C/Chariot (USA)/Chariot (USA).json
 developer: Frima Studio
 publisher: Frima Studio
 genre: Platform
@@ -1252,7 +1252,7 @@ x-playable: Yes
 
 
 game: Chex Quest (USA)
-file: Computer/Disc/C/Chex Quest (USA)/Chex Quest (USA).json
+file: Roms/Computer/Disc/C/Chex Quest (USA)/Chex Quest (USA).json
 developer: Digital Cafe, Inc.
 publisher: Digital Cafe, Inc.
 genre: Shooter
@@ -1273,7 +1273,7 @@ x-playable: Yes
 
 
 game: Codename Nina - Global Terrorism Strike Force (USA)
-file: Computer/Disc/C/Codename Nina - Global Terrorism Strike Force (USA)/Codename Nina - Global Terrorism Strike Force (USA).json
+file: Roms/Computer/Disc/C/Codename Nina - Global Terrorism Strike Force (USA)/Codename Nina - Global Terrorism Strike Force (USA).json
 developer: City Interactive
 publisher: ValueSoft
 genre: Action;Adventure;Shooter
@@ -1291,7 +1291,7 @@ x-playable: Yes
 
 
 game: Costume Quest (USA)
-file: Computer/Disc/C/Costume Quest (USA)/Costume Quest (USA).json
+file: Roms/Computer/Disc/C/Costume Quest (USA)/Costume Quest (USA).json
 developer: Double Fine Productions
 publisher: Double Fine Productions
 genre: Adventure;Role-Playing
@@ -1321,7 +1321,7 @@ x-playable: Yes
 
 
 game: Curse - The Eye of Isis (USA)
-file: Computer/Disc/C/Curse - The Eye of Isis (USA)/Curse - The Eye of Isis (USA).json
+file: Roms/Computer/Disc/C/Curse - The Eye of Isis (USA)/Curse - The Eye of Isis (USA).json
 developer: Asylum Entertainment
 publisher: DreamCatcher Interactive
 genre: Action;Adventure;Horror
@@ -1353,7 +1353,7 @@ x-playable: Yes
 
 
 game: Dark Eye, The (USA)
-file: Computer/Disc/D/Dark Eye, The (USA)/Dark Eye, The (USA).json
+file: Roms/Computer/Disc/D/Dark Eye, The (USA)/Dark Eye, The (USA).json
 developer: Inscape
 publisher: GT Interactive Software France
 genre: Adventure
@@ -1380,7 +1380,7 @@ x-playable: Yes
 
 
 game: Dark Seed (USA)
-file: Computer/Disc/D/Dark Seed (USA)/Dark Seed (USA).json
+file: Roms/Computer/Disc/D/Dark Seed (USA)/Dark Seed (USA).json
 developer: Incentive Software
 publisher: Cinemaware
 genre: Adventure;Point-and-Click
@@ -1413,7 +1413,7 @@ x-playable: Yes
 
 
 game: Darwinia (USA)
-file: Computer/Disc/D/Darwinia (USA)/Darwinia (USA).json
+file: Roms/Computer/Disc/D/Darwinia (USA)/Darwinia (USA).json
 developer: Introversion Software
 publisher: Introversion Software
 genre: Strategy
@@ -1432,7 +1432,7 @@ x-playable: Yes
 
 
 game: Diablo II & Lord of Destruction (USA)
-file: Computer/Disc/D/Diablo II & Lord of Destruction (USA)/Diablo II & Lord of Destruction (USA).json
+file: Roms/Computer/Disc/D/Diablo II & Lord of Destruction (USA)/Diablo II & Lord of Destruction (USA).json
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
 genre: Action;Role-Playing
@@ -1462,7 +1462,7 @@ x-playable: Yes
 
 
 game: Dig, The (USA)
-file: Computer/Disc/D/Dig, The (USA)/Dig, The (USA).json
+file: Roms/Computer/Disc/D/Dig, The (USA)/Dig, The (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Adventure
@@ -1500,7 +1500,7 @@ x-playable: Yes
 
 
 game: Dino Crisis (USA)
-file: Computer/Disc/D/Dino Crisis (USA)/Dino Crisis (USA).json
+file: Roms/Computer/Disc/D/Dino Crisis (USA)/Dino Crisis (USA).json
 developer: Capcom
 publisher: Virgin Interactive Entertainment, Inc.
 genre: Horror
@@ -1524,7 +1524,7 @@ x-playable: Yes
 
 
 game: Dino Crisis 2 (USA)
-file: Computer/Disc/D/Dino Crisis 2 (USA)/Dino Crisis 2 (USA).json
+file: Roms/Computer/Disc/D/Dino Crisis 2 (USA)/Dino Crisis 2 (USA).json
 developer: Capcom Production Studio 4
 publisher: Capcom
 genre: Puzzle;Horror
@@ -1547,7 +1547,7 @@ x-playable: Yes
 
 
 game: Doom II (USA)
-file: Computer/Disc/D/Doom II (USA)/Doom II (USA).json
+file: Roms/Computer/Disc/D/Doom II (USA)/Doom II (USA).json
 developer: id Software, Inc.
 publisher: GT Interactive Software
 genre: Shooter
@@ -1597,7 +1597,7 @@ x-playable: Yes
 
 
 game: DreamWeb (USA)
-file: Computer/Disc/D/DreamWeb (USA)/DreamWeb (USA).json
+file: Roms/Computer/Disc/D/DreamWeb (USA)/DreamWeb (USA).json
 developer: Creative Reality
 publisher: Empire Interactive
 genre: Adventure;Point-and-Click
@@ -1619,7 +1619,7 @@ x-playable: Yes
 
 
 game: Dungeon Keeper 2 (USA)
-file: Computer/Disc/D/Dungeon Keeper 2 (USA)/Dungeon Keeper 2 (USA).json
+file: Roms/Computer/Disc/D/Dungeon Keeper 2 (USA)/Dungeon Keeper 2 (USA).json
 developer: Bullfrog Productions
 publisher: Electronic Arts
 genre: Strategy
@@ -1639,7 +1639,7 @@ x-playable: Yes
 
 
 game: Dungeon Keeper Gold (USA)
-file: Computer/Disc/D/Dungeon Keeper Gold (USA)/Dungeon Keeper Gold (USA).json
+file: Roms/Computer/Disc/D/Dungeon Keeper Gold (USA)/Dungeon Keeper Gold (USA).json
 developer: Bullfrog Productions
 publisher: Electronic Arts
 genre: Strategy
@@ -1660,7 +1660,7 @@ x-playable: Yes
 
 
 game: Dungeon Master II - The Legend of Skullkeep (USA)
-file: Computer/Disc/D/Dungeon Master II - The Legend of Skullkeep (USA)/Dungeon Master II - The Legend of Skullkeep (USA).json
+file: Roms/Computer/Disc/D/Dungeon Master II - The Legend of Skullkeep (USA)/Dungeon Master II - The Legend of Skullkeep (USA).json
 developer: Interplay
 publisher: Interplay
 genre: Role-Playing;Western-Style
@@ -1685,7 +1685,7 @@ x-playable: Yes
 
 
 game: Dust - An Elysian Tale (USA)
-file: Computer/Disc/D/Dust - An Elysian Tale (USA)/Dust - An Elysian Tale (USA).json
+file: Roms/Computer/Disc/D/Dust - An Elysian Tale (USA)/Dust - An Elysian Tale (USA).json
 developer: Humble Hearts
 publisher: Microsoft Game Studios
 genre: Action;Platformer;Metroidvania
@@ -1709,7 +1709,7 @@ x-playable: Yes
 
 
 game: Dyscourse (USA)
-file: Computer/Disc/D/Dyscourse (USA)/Dyscourse (USA).json
+file: Roms/Computer/Disc/D/Dyscourse (USA)/Dyscourse (USA).json
 developer: Owlchemy Labs
 publisher: Owlchemy Labs
 genre: Adventure
@@ -1729,7 +1729,7 @@ x-playable: Yes
 
 
 game: EarthSiege (USA)
-file: Computer/Disc/E/EarthSiege (USA)/EarthSiege (USA).json
+file: Roms/Computer/Disc/E/EarthSiege (USA)/EarthSiege (USA).json
 developer: Dynamix
 publisher: Sierra On-Line, Inc.
 genre: Shooter
@@ -1749,7 +1749,7 @@ x-playable: Yes
 
 
 game: EarthSiege 2 (USA)
-file: Computer/Disc/E/EarthSiege 2 (USA)/EarthSiege 2 (USA).json
+file: Roms/Computer/Disc/E/EarthSiege 2 (USA)/EarthSiege 2 (USA).json
 developer: Dynamix
 publisher: Sierra Entertainment
 genre: Simulation;Vehicle;Combat
@@ -1768,7 +1768,7 @@ x-playable: Yes
 
 
 game: Enemy Zero (USA)
-file: Computer/Disc/E/Enemy Zero (USA)/Enemy Zero (USA).json
+file: Roms/Computer/Disc/E/Enemy Zero (USA)/Enemy Zero (USA).json
 developer: WARP
 publisher: Sega
 genre: Action Adventure;Survival
@@ -1791,7 +1791,7 @@ x-playable: Yes
 
 
 game: Escape Velocity (USA)
-file: Computer/Disc/E/Escape Velocity (USA)/Escape Velocity (USA).json
+file: Roms/Computer/Disc/E/Escape Velocity (USA)/Escape Velocity (USA).json
 developer: Ambrosia
 publisher: Ambrosia
 genre: Strategy
@@ -1820,7 +1820,7 @@ x-playable: Yes
 
 
 game: Escape Velocity - Nova (USA)
-file: Computer/Disc/E/Escape Velocity - Nova (USA)/Escape Velocity - Nova (USA).json
+file: Roms/Computer/Disc/E/Escape Velocity - Nova (USA)/Escape Velocity - Nova (USA).json
 developer: Ambrosia
 publisher: Ambrosia
 genre: Simulation
@@ -1844,7 +1844,7 @@ x-playable: Yes
 
 
 game: Escape Velocity - Override (USA)
-file: Computer/Disc/E/Escape Velocity - Override (USA)/Escape Velocity - Override (USA).json
+file: Roms/Computer/Disc/E/Escape Velocity - Override (USA)/Escape Velocity - Override (USA).json
 developer: Ambrosia
 publisher: Ambrosia
 genre: Strategy
@@ -1870,7 +1870,7 @@ x-playable: Yes
 
 
 game: Exile I - Escape From the Pit (USA)
-file: Computer/Disc/E/Exile I - Escape From the Pit (USA)/Exile I - Escape From the Pit (USA).json
+file: Roms/Computer/Disc/E/Exile I - Escape From the Pit (USA)/Exile I - Escape From the Pit (USA).json
 developer: Spiderweb Software
 publisher: Spiderweb Software
 genre: Role-Playing
@@ -1894,7 +1894,7 @@ x-playable: Yes
 
 
 game: Exile II - Crystal Souls (USA)
-file: Computer/Disc/E/Exile II - Crystal Souls (USA)/Exile II - Crystal Souls (USA).json
+file: Roms/Computer/Disc/E/Exile II - Crystal Souls (USA)/Exile II - Crystal Souls (USA).json
 developer: Spiderweb Software
 publisher: Spiderweb Software
 genre: Role-Playing
@@ -1918,7 +1918,7 @@ x-playable: Yes
 
 
 game: Exile III - Ruined World (USA)
-file: Computer/Disc/E/Exile III - Ruined World (USA)/Exile III - Ruined World (USA).json
+file: Roms/Computer/Disc/E/Exile III - Ruined World (USA)/Exile III - Ruined World (USA).json
 developer: Spiderweb Software
 publisher: Spiderweb Software
 genre: Role-Playing
@@ -1942,7 +1942,7 @@ x-playable: Yes
 
 
 game: Exile IV - Blades of Exile (USA)
-file: Computer/Disc/E/Exile IV - Blades of Exile (USA)/Exile IV - Blades of Exile (USA).json
+file: Roms/Computer/Disc/E/Exile IV - Blades of Exile (USA)/Exile IV - Blades of Exile (USA).json
 developer: Spiderweb Software
 publisher: Spiderweb Software
 genre: Role-Playing
@@ -1963,7 +1963,7 @@ x-playable: Yes
 
 
 game: Fallout (USA)
-file: Computer/Disc/F/Fallout (USA)/Fallout (USA).json
+file: Roms/Computer/Disc/F/Fallout (USA)/Fallout (USA).json
 developer: Interplay Entertainment
 publisher: Interplay Productions, Inc.
 genre: Role-Playing
@@ -2024,7 +2024,7 @@ x-playable: Yes
 
 
 game: Forced - Showdown (USA)
-file: Computer/Disc/F/Forced - Showdown (USA)/Forced - Showdown (USA).json
+file: Roms/Computer/Disc/F/Forced - Showdown (USA)/Forced - Showdown (USA).json
 developer: BetaDwarf
 publisher: BetaDwarf
 genre: Role-Playing;Shooter
@@ -2042,7 +2042,7 @@ x-playable: Yes
 
 
 game: Forgotten Realms - The Archives - Collection One (USA)
-file: Computer/Disc/F/Forgotten Realms - The Archives - Collection One (USA)/Forgotten Realms - The Archives - Collection One (USA).json
+file: Roms/Computer/Disc/F/Forgotten Realms - The Archives - Collection One (USA)/Forgotten Realms - The Archives - Collection One (USA).json
 developer: Black Isle Studios
 publisher: Interplay
 genre: Miscellaneous;Compilation
@@ -2114,7 +2114,7 @@ x-playable: Yes
 
 
 game: Forgotten Realms - The Archives - Collection Two (USA)
-file: Computer/Disc/F/Forgotten Realms - The Archives - Collection Two (USA)/Forgotten Realms - The Archives - Collection Two (USA).json
+file: Roms/Computer/Disc/F/Forgotten Realms - The Archives - Collection Two (USA)/Forgotten Realms - The Archives - Collection Two (USA).json
 developer: Various
 publisher: Interplay
 genre: Miscellaneous;Compilation
@@ -2245,7 +2245,7 @@ x-playable: Yes
 
 
 game: Freedom Planet (USA)
-file: Computer/Disc/F/Freedom Planet (USA)/Freedom Planet (USA).json
+file: Roms/Computer/Disc/F/Freedom Planet (USA)/Freedom Planet (USA).json
 developer: GalaxyTrail
 publisher: GalaxyTrail
 genre: Action;Platform
@@ -2274,7 +2274,7 @@ x-playable: Yes
 
 
 game: GOD Games Bonus Disc! (USA)
-file: Computer/Disc/G/GOD Games Bonus Disc! (USA)/GOD Games Bonus Disc! (USA).json
+file: Roms/Computer/Disc/G/GOD Games Bonus Disc! (USA)/GOD Games Bonus Disc! (USA).json
 developer: GOD Games
 publisher: GOD Games
 genre: Bonus
@@ -2290,7 +2290,7 @@ x-playable: Yes
 
 
 game: GOD Games Fall 2000 Bonus CD (USA)
-file: Computer/Disc/G/GOD Games Fall 2000 Bonus CD (USA)/GOD Games Fall 2000 Bonus CD (USA).json
+file: Roms/Computer/Disc/G/GOD Games Fall 2000 Bonus CD (USA)/GOD Games Fall 2000 Bonus CD (USA).json
 developer: GOD Games
 publisher: GOD Games
 genre: Bonus
@@ -2306,7 +2306,7 @@ x-playable: Yes
 
 
 game: Galak-Z (USA)
-file: Computer/Disc/G/Galak-Z (USA)/Galak-Z (USA).json
+file: Roms/Computer/Disc/G/Galak-Z (USA)/Galak-Z (USA).json
 developer: 17-BIT
 publisher: 17-BIT
 genre: Shooter
@@ -2366,7 +2366,7 @@ x-playable: Yes
 
 
 game: GameShark PC Code Browser CD-ROM for Game Boy (USA)
-file: Computer/Disc/G/GameShark PC Code Browser CD-ROM for Game Boy (USA)/GameShark PC Code Browser CD-ROM for Game Boy (USA).json
+file: Roms/Computer/Disc/G/GameShark PC Code Browser CD-ROM for Game Boy (USA)/GameShark PC Code Browser CD-ROM for Game Boy (USA).json
 developer: InterAct
 publisher: InterAct
 genre: Utility
@@ -2408,7 +2408,7 @@ x-playable: Yes
 
 
 game: Gateway II - Homeworld (USA)
-file: Computer/Disc/G/Gateway II - Homeworld (USA)/Gateway II - Homeworld (USA).json
+file: Roms/Computer/Disc/G/Gateway II - Homeworld (USA)/Gateway II - Homeworld (USA).json
 developer: Legend Entertainment
 publisher: Legend Entertainment
 genre: Adventure;Text
@@ -2435,7 +2435,7 @@ x-playable: Yes
 
 
 game: Gish (USA)
-file: Computer/Disc/G/Gish (USA)/Gish (USA).json
+file: Roms/Computer/Disc/G/Gish (USA)/Gish (USA).json
 developer: Cryptic Sea
 publisher: Chronic Logic
 genre: Action;Platform;Strategy
@@ -2459,7 +2459,7 @@ x-playable: Yes
 
 
 game: Glittermitten Grove & Frog Fractions 2 (USA)
-file: Computer/Disc/G/Glittermitten Grove & Frog Fractions 2 (USA)/Glittermitten Grove & Frog Fractions 2 (USA).json
+file: Roms/Computer/Disc/G/Glittermitten Grove & Frog Fractions 2 (USA)/Glittermitten Grove & Frog Fractions 2 (USA).json
 developer: Mostly Tigerproof
 publisher: Adult Swim
 genre: Strategy;Real-Time;General
@@ -2508,7 +2508,7 @@ x-playable: Yes
 
 
 game: Grim Fandango (USA)
-file: Computer/Disc/G/Grim Fandango (USA)/Grim Fandango (USA).json
+file: Roms/Computer/Disc/G/Grim Fandango (USA)/Grim Fandango (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Adventure
@@ -2528,7 +2528,7 @@ x-playable: Yes
 
 
 game: Guacamelee - Super Turbo Championship Edition (USA)
-file: Computer/Disc/G/Guacamelee - Super Turbo Championship Edition (USA)/Guacamelee - Super Turbo Championship Edition (USA).json
+file: Roms/Computer/Disc/G/Guacamelee - Super Turbo Championship Edition (USA)/Guacamelee - Super Turbo Championship Edition (USA).json
 developer: Drinkbox Studios
 publisher: Drinkbox Studios
 genre: Action;Platform
@@ -2554,7 +2554,7 @@ x-playable: Yes
 
 
 game: Gun (USA)
-file: Computer/Disc/G/Gun (USA)/Gun (USA).json
+file: Roms/Computer/Disc/G/Gun (USA)/Gun (USA).json
 developer: Neversoft Entertainment
 publisher: Activision
 genre: Action;Shooter
@@ -2578,7 +2578,7 @@ x-playable: Yes
 
 
 game: Halcyon 6 (USA)
-file: Computer/Disc/H/Halcyon 6 (USA)/Halcyon 6 (USA).json
+file: Roms/Computer/Disc/H/Halcyon 6 (USA)/Halcyon 6 (USA).json
 developer: Massive Damage, Inc.
 publisher: Massive Damage, Inc.
 genre: Role-Playing;Strategy
@@ -2608,7 +2608,7 @@ x-playable: Yes
 
 
 game: Hand of Fate (USA)
-file: Computer/Disc/H/Hand of Fate (USA)/Hand of Fate (USA).json
+file: Roms/Computer/Disc/H/Hand of Fate (USA)/Hand of Fate (USA).json
 developer: Defiant Development
 publisher: Defiant Development
 genre: Action;Role-Playing
@@ -2628,7 +2628,7 @@ x-playable: Yes
 
 
 game: Hexen - Beyond Heretic (USA)
-file: Computer/Disc/H/Hexen - Beyond Heretic (USA)/Hexen - Beyond Heretic (USA).json
+file: Roms/Computer/Disc/H/Hexen - Beyond Heretic (USA)/Hexen - Beyond Heretic (USA).json
 developer: Raven Software
 publisher: id Software
 genre: Action;Shooter
@@ -2658,7 +2658,7 @@ x-playable: Yes
 
 
 game: Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA)
-file: Computer/Disc/H/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA)/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).json
+file: Roms/Computer/Disc/H/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA)/Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).json
 developer: Raven Software
 publisher: id Software
 genre: Shooter
@@ -2692,7 +2692,7 @@ x-playable: Yes
 
 
 game: Hot Tin Roof - The Cat That Wore a Fedora (USA)
-file: Computer/Disc/H/Hot Tin Roof - The Cat That Wore a Fedora (USA)/Hot Tin Roof - The Cat That Wore a Fedora (USA).json
+file: Roms/Computer/Disc/H/Hot Tin Roof - The Cat That Wore a Fedora (USA)/Hot Tin Roof - The Cat That Wore a Fedora (USA).json
 developer: Glass Bottom Games
 publisher: Glass Bottom Games
 genre: Action;Adventure;Role-Playing
@@ -2726,7 +2726,7 @@ x-playable: Yes
 
 
 game: Hoyle Puzzle Games (USA)
-file: Computer/Disc/H/Hoyle Puzzle Games (USA)/Hoyle Puzzle Games (USA).json
+file: Roms/Computer/Disc/H/Hoyle Puzzle Games (USA)/Hoyle Puzzle Games (USA).json
 developer: Sierra Entertainment
 publisher: Sierra Entertainment
 genre: Puzzle;General
@@ -2747,7 +2747,7 @@ x-playable: Yes
 
 
 game: Hue (USA)
-file: Computer/Disc/H/Hue (USA)/Hue (USA).json
+file: Roms/Computer/Disc/H/Hue (USA)/Hue (USA).json
 developer: Fiddlesticks
 publisher: Curve Digital
 genre: Adventure;Platform;Puzzle
@@ -2795,7 +2795,7 @@ x-playable: Yes
 
 
 game: Imscared - A Pixelated Nightmare (USA)
-file: Computer/Disc/I/Imscared - A Pixelated Nightmare (USA)/Imscared - A Pixelated Nightmare (USA).json
+file: Roms/Computer/Disc/I/Imscared - A Pixelated Nightmare (USA)/Imscared - A Pixelated Nightmare (USA).json
 developer: Ivan Zanotti
 publisher: Ivan Zanotti
 genre: Action Adventure;Survival
@@ -2820,7 +2820,7 @@ x-playable: Yes
 
 
 game: Invisible, Inc (USA)
-file: Computer/Disc/I/Invisible, Inc (USA)/Invisible, Inc (USA).json
+file: Roms/Computer/Disc/I/Invisible, Inc (USA)/Invisible, Inc (USA).json
 developer: Klei Entertainment
 publisher: Klei Entertainment
 genre: Action;Stealth;Strategy
@@ -2849,7 +2849,7 @@ x-playable: Yes
 
 
 game: Jeff Wayne's The War of the Worlds (USA)
-file: Computer/Disc/J/Jeff Wayne's The War of the Worlds (USA)/Jeff Wayne's The War of the Worlds (USA).json
+file: Roms/Computer/Disc/J/Jeff Wayne's The War of the Worlds (USA)/Jeff Wayne's The War of the Worlds (USA).json
 developer: Rage Games Ltd.
 publisher: GT Interactive Software Corp.
 genre: Strategy
@@ -2880,7 +2880,7 @@ x-playable: Yes
 
 
 game: Jewel Labyrinth (USA)
-file: Computer/Disc/J/Jewel Labyrinth (USA)/Jewel Labyrinth (USA).json
+file: Roms/Computer/Disc/J/Jewel Labyrinth (USA)/Jewel Labyrinth (USA).json
 developer: Selectsoft
 publisher: Selectsoft
 genre: Puzzle;General
@@ -2927,7 +2927,7 @@ x-playable: Yes
 
 
 game: Jewel Quest V - The Sleepless Star (USA)
-file: Computer/Disc/J/Jewel Quest V - The Sleepless Star (USA)/Jewel Quest V - The Sleepless Star (USA).json
+file: Roms/Computer/Disc/J/Jewel Quest V - The Sleepless Star (USA)/Jewel Quest V - The Sleepless Star (USA).json
 developer: iWin
 publisher: iWin
 genre: Puzzle;General
@@ -2949,7 +2949,7 @@ x-playable: Yes
 
 
 game: Jotun - Valhalla Edition (USA)
-file: Computer/Disc/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
+file: Roms/Computer/Disc/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
 developer: Thunder Lotus Games
 publisher: Thunder Lotus Games
 genre: Action;Adventure
@@ -2978,7 +2978,7 @@ x-playable: Yes
 
 
 game: Kingpin - Life of Crime (USA)
-file: Computer/Disc/K/Kingpin - Life of Crime (USA)/Kingpin - Life of Crime (USA).json
+file: Roms/Computer/Disc/K/Kingpin - Life of Crime (USA)/Kingpin - Life of Crime (USA).json
 developer: Xatrix Entertainment
 publisher: Interplay
 genre: Shooter
@@ -3004,7 +3004,7 @@ x-playable: Yes
 
 
 game: Konami Collector's Series - Castlevania and Contra (USA)
-file: Computer/Disc/K/Konami Collector's Series - Castlevania and Contra (USA)/Konami Collector's Series - Castlevania and Contra (USA).json
+file: Roms/Computer/Disc/K/Konami Collector's Series - Castlevania and Contra (USA)/Konami Collector's Series - Castlevania and Contra (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure;Horror
@@ -3029,7 +3029,7 @@ x-playable: Yes
 
 
 game: LEGO Creator - Harry Potter (USA)
-file: Computer/Disc/L/LEGO Creator - Harry Potter (USA)/LEGO Creator - Harry Potter (USA).json
+file: Roms/Computer/Disc/L/LEGO Creator - Harry Potter (USA)/LEGO Creator - Harry Potter (USA).json
 developer: Superscape Ltd.
 publisher: LEGO Media International, Inc.
 genre: Action;Puzzle
@@ -3051,7 +3051,7 @@ x-playable: Yes
 
 
 game: Land of the Dead - Road to Fiddler's Green (USA)
-file: Computer/Disc/L/Land of the Dead - Road to Fiddler's Green (USA)/Land of the Dead - Road to Fiddler's Green (USA).json
+file: Roms/Computer/Disc/L/Land of the Dead - Road to Fiddler's Green (USA)/Land of the Dead - Road to Fiddler's Green (USA).json
 developer: Brainbox Games
 publisher: Groove Publishing
 genre: Shooter
@@ -3074,7 +3074,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Link's Awakening DX HD (USA)
-file: Computer/Disc/L/Legend of Zelda, The - Link's Awakening DX HD (USA)/Legend of Zelda, The - Link's Awakening DX HD (USA).json
+file: Roms/Computer/Disc/L/Legend of Zelda, The - Link's Awakening DX HD (USA)/Legend of Zelda, The - Link's Awakening DX HD (USA).json
 developer: linksawakeningdxhd
 publisher: linksawakeningdxhd
 genre: Action Adventure
@@ -3107,7 +3107,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - The Faces of Evil - Remastered (USA)
-file: Computer/Disc/L/Legend of Zelda, The - The Faces of Evil - Remastered (USA)/Legend of Zelda, The - The Faces of Evil - Remastered (USA).json
+file: Roms/Computer/Disc/L/Legend of Zelda, The - The Faces of Evil - Remastered (USA)/Legend of Zelda, The - The Faces of Evil - Remastered (USA).json
 developer: Dopply
 publisher: Dopply
 genre: Action Adventure
@@ -3134,7 +3134,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - The Wand of Gamelon - Remastered (USA)
-file: Computer/Disc/L/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA)/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).json
+file: Roms/Computer/Disc/L/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA)/Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).json
 developer: Dopply
 publisher: Dopply
 genre: Action Adventure
@@ -3156,7 +3156,7 @@ x-playable: Yes
 
 
 game: Lightweight Ninja (USA)
-file: Computer/Disc/L/Lightweight Ninja (USA)/Lightweight Ninja (USA).json
+file: Roms/Computer/Disc/L/Lightweight Ninja (USA)/Lightweight Ninja (USA).json
 developer: Stardock
 publisher: Stardock
 genre: Action;Platformer;2D
@@ -3180,7 +3180,7 @@ x-playable: Yes
 
 
 game: Lovely Planet (USA)
-file: Computer/Disc/L/Lovely Planet (USA)/Lovely Planet (USA).json
+file: Roms/Computer/Disc/L/Lovely Planet (USA)/Lovely Planet (USA).json
 developer: QUICKTEQUILA
 publisher: tinyBuild
 genre: Action;Platform;Shooter
@@ -3215,7 +3215,7 @@ x-playable: Yes
 
 
 game: Lovers in a Dangerous Spacetime (USA)
-file: Computer/Disc/L/Lovers in a Dangerous Spacetime (USA)/Lovers in a Dangerous Spacetime (USA).json
+file: Roms/Computer/Disc/L/Lovers in a Dangerous Spacetime (USA)/Lovers in a Dangerous Spacetime (USA).json
 developer: Asteroid Base
 publisher: Asteroid Base
 genre: Action
@@ -3255,7 +3255,7 @@ x-playable: Yes
 
 
 game: Mahjong Mania (USA)
-file: Computer/Disc/M/Mahjong Mania (USA)/Mahjong Mania (USA).json
+file: Roms/Computer/Disc/M/Mahjong Mania (USA)/Mahjong Mania (USA).json
 developer: Rocket Games
 publisher: WizardWorks
 genre: Miscellaneous;Board / Card Game
@@ -3276,7 +3276,7 @@ x-playable: Yes
 
 
 game: Majesty 2 - The Fantasy Kingdom Sim (USA)
-file: Computer/Disc/M/Majesty 2 - The Fantasy Kingdom Sim (USA)/Majesty 2 - The Fantasy Kingdom Sim (USA).json
+file: Roms/Computer/Disc/M/Majesty 2 - The Fantasy Kingdom Sim (USA)/Majesty 2 - The Fantasy Kingdom Sim (USA).json
 developer: 1C:Ino-Co
 publisher: Paradox Interactive
 genre: Strategy;General
@@ -3297,7 +3297,7 @@ x-playable: Yes
 
 
 game: Majesty Gold (USA)
-file: Computer/Disc/M/Majesty Gold (USA)/Majesty Gold (USA).json
+file: Roms/Computer/Disc/M/Majesty Gold (USA)/Majesty Gold (USA).json
 developer: Cyberlore
 publisher: Paradox Interactive
 genre: Strategy
@@ -3337,7 +3337,7 @@ x-playable: Yes
 
 
 game: Marathon (USA)
-file: Computer/Disc/M/Marathon (USA)/Marathon (USA).json
+file: Roms/Computer/Disc/M/Marathon (USA)/Marathon (USA).json
 developer: Bungie
 publisher: Bungie
 genre: Action
@@ -3355,7 +3355,7 @@ x-playable: Yes
 
 
 game: Marathon 2 - Durandal (USA)
-file: Computer/Disc/M/Marathon 2 - Durandal (USA)/Marathon 2 - Durandal (USA).json
+file: Roms/Computer/Disc/M/Marathon 2 - Durandal (USA)/Marathon 2 - Durandal (USA).json
 developer: Bungie
 publisher: Bungie
 genre: Action
@@ -3375,7 +3375,7 @@ x-playable: Yes
 
 
 game: Marathon Infinity (USA)
-file: Computer/Disc/M/Marathon Infinity (USA)/Marathon Infinity (USA).json
+file: Roms/Computer/Disc/M/Marathon Infinity (USA)/Marathon Infinity (USA).json
 developer: Bungie
 publisher: Bungie
 genre: Action
@@ -3396,7 +3396,7 @@ x-playable: Yes
 
 
 game: Mavis Beacon Teaches Typing! Version 3 (USA)
-file: Computer/Disc/M/Mavis Beacon Teaches Typing! Version 3 (USA)/Mavis Beacon Teaches Typing! Version 3 (USA).json
+file: Roms/Computer/Disc/M/Mavis Beacon Teaches Typing! Version 3 (USA)/Mavis Beacon Teaches Typing! Version 3 (USA).json
 developer: Software Toolworks
 publisher: Software Toolworks
 genre: Miscellaneous;Edutainment
@@ -3429,7 +3429,7 @@ x-playable: Yes
 
 
 game: Mega Man 2.5D (USA)
-file: Computer/Disc/M/Mega Man 2.5D (USA)/Mega Man 2.5D (USA).json
+file: Roms/Computer/Disc/M/Mega Man 2.5D (USA)/Mega Man 2.5D (USA).json
 developer: Peter Sjöstrand and Edgar Cebolledo
 publisher: Peter Sjöstrand and Edgar Cebolledo
 genre: Platformer
@@ -3457,7 +3457,7 @@ x-playable: Yes
 
 
 game: Mega Man Eternal (USA)
-file: Computer/Disc/M/Mega Man Eternal (USA)/Mega Man Eternal (USA).json
+file: Roms/Computer/Disc/M/Mega Man Eternal (USA)/Mega Man Eternal (USA).json
 developer: Daniel Page
 publisher: Daniel Page
 genre: Platformer
@@ -3476,7 +3476,7 @@ x-playable: Yes
 
 
 game: Mega Man Maker (USA)
-file: Computer/Disc/M/Mega Man Maker (USA)/Mega Man Maker (USA).json
+file: Roms/Computer/Disc/M/Mega Man Maker (USA)/Mega Man Maker (USA).json
 developer: Mega Man Maker Team
 publisher: Mega Man Maker Team
 genre: Platformer
@@ -3496,7 +3496,7 @@ x-playable: Yes
 
 
 game: Mega Man X (USA)
-file: Computer/Disc/M/Mega Man X (USA)/Mega Man X (USA).json
+file: Roms/Computer/Disc/M/Mega Man X (USA)/Mega Man X (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -3548,7 +3548,7 @@ x-playable: Yes
 
 
 game: Mega Man X3 (USA)
-file: Computer/Disc/M/Mega Man X3 (USA)/Mega Man X3 (USA).json
+file: Roms/Computer/Disc/M/Mega Man X3 (USA)/Mega Man X3 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platformer;2D
@@ -3566,7 +3566,7 @@ x-playable: Yes
 
 
 game: Messenger, The (USA)
-file: Computer/Disc/M/Messenger, The (USA)/Messenger, The (USA).json
+file: Roms/Computer/Disc/M/Messenger, The (USA)/Messenger, The (USA).json
 developer: Index Multimedia
 publisher: DreamCatcher Interactive
 genre: Adventure;General
@@ -3591,7 +3591,7 @@ x-playable: Yes
 
 
 game: Microsoft Flight Simulator for Windows 95 (USA)
-file: Computer/Disc/M/Microsoft Flight Simulator for Windows 95 (USA)/Microsoft Flight Simulator for Windows 95 (USA).json
+file: Roms/Computer/Disc/M/Microsoft Flight Simulator for Windows 95 (USA)/Microsoft Flight Simulator for Windows 95 (USA).json
 developer: Microsoft Studios
 publisher: Microsoft Studios
 genre: Flight Simulator
@@ -3619,7 +3619,7 @@ x-playable: Yes
 
 
 game: Moon Hunters (USA)
-file: Computer/Disc/M/Moon Hunters (USA)/Moon Hunters (USA).json
+file: Roms/Computer/Disc/M/Moon Hunters (USA)/Moon Hunters (USA).json
 developer: Kitfox Games
 publisher: Kitfox Games
 genre: Action;Adventure;Role-Playing
@@ -3646,7 +3646,7 @@ x-playable: Yes
 
 
 game: Moraff's Maximum Mahjongg (USA)
-file: Computer/Disc/M/Moraff's Maximum Mahjongg (USA)/Moraff's Maximum Mahjongg (USA).json
+file: Roms/Computer/Disc/M/Moraff's Maximum Mahjongg (USA)/Moraff's Maximum Mahjongg (USA).json
 developer: Global Star Software
 publisher: Talonsoft
 genre: Puzzle
@@ -3668,7 +3668,7 @@ x-playable: Yes
 
 
 game: MouseCraft (USA)
-file: Computer/Disc/M/MouseCraft (USA)/MouseCraft (USA).json
+file: Roms/Computer/Disc/M/MouseCraft (USA)/MouseCraft (USA).json
 developer: Crunching Koalas
 publisher: Crunching Koalas
 genre: Puzzle
@@ -3703,7 +3703,7 @@ x-playable: Yes
 
 
 game: Multiwinia (USA)
-file: Computer/Disc/M/Multiwinia (USA)/Multiwinia (USA).json
+file: Roms/Computer/Disc/M/Multiwinia (USA)/Multiwinia (USA).json
 developer: Introversion Software
 publisher: Introversion Software
 genre: Action;Strategy
@@ -3733,7 +3733,7 @@ x-playable: Yes
 
 
 game: Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA)
-file: Computer/Disc/M/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA)/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).json
+file: Roms/Computer/Disc/M/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA)/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).json
 developer: Microids
 publisher: The Adventure Company
 genre: Miscellaneous;Compilation
@@ -3771,7 +3771,7 @@ x-playable: Yes
 
 
 game: Myst - Masterpiece Edition (USA)
-file: Computer/Disc/M/Myst - Masterpiece Edition (USA)/Myst - Masterpiece Edition (USA).json
+file: Roms/Computer/Disc/M/Myst - Masterpiece Edition (USA)/Myst - Masterpiece Edition (USA).json
 developer: Cyan Worlds
 publisher: Red Orb Entertainment
 genre: Adventure
@@ -3796,7 +3796,7 @@ x-playable: Yes
 
 
 game: Myst III - Exile (USA)
-file: Computer/Disc/M/Myst III - Exile (USA)/Myst III - Exile (USA).json
+file: Roms/Computer/Disc/M/Myst III - Exile (USA)/Myst III - Exile (USA).json
 developer: Presto Studios
 publisher: Ubisoft
 genre: Adventure
@@ -3816,7 +3816,7 @@ x-playable: Yes
 
 
 game: Myth The Total Codex (USA)
-file: Computer/Disc/M/Myth The Total Codex (USA)/Myth The Total Codex (USA).json
+file: Roms/Computer/Disc/M/Myth The Total Codex (USA)/Myth The Total Codex (USA).json
 developer: Bungie
 publisher: Bungie
 genre: Miscellaneous;Compilation
@@ -3840,7 +3840,7 @@ x-playable: Yes
 
 
 game: Necronomicon (USA)
-file: Computer/Disc/N/Necronomicon (USA)/Necronomicon (USA).json
+file: Roms/Computer/Disc/N/Necronomicon (USA)/Necronomicon (USA).json
 developer: Wanadoo FTG
 publisher: Dream Catcher Interactive
 genre: Adventure
@@ -3869,7 +3869,7 @@ x-playable: Yes
 
 
 game: Nefarious (USA)
-file: Computer/Disc/N/Nefarious (USA)/Nefarious (USA).json
+file: Roms/Computer/Disc/N/Nefarious (USA)/Nefarious (USA).json
 developer: Starblade Games L.L.C
 publisher: Starblade Games L.L.C
 genre: Action;Platform
@@ -3908,7 +3908,7 @@ x-playable: Yes
 
 
 game: Next Penelope, The (USA)
-file: Computer/Disc/N/Next Penelope, The (USA)/Next Penelope, The (USA).json
+file: Roms/Computer/Disc/N/Next Penelope, The (USA)/Next Penelope, The (USA).json
 developer: Aurelien Regard
 publisher: Plug In Digital
 genre: Action;Racing
@@ -3940,7 +3940,7 @@ x-playable: Yes
 
 
 game: Nocturne (USA)
-file: Computer/Disc/N/Nocturne (USA)/Nocturne (USA).json
+file: Roms/Computer/Disc/N/Nocturne (USA)/Nocturne (USA).json
 developer: Terminal Reality
 publisher: Gathering Developers
 genre: Action;Adventure;Horror
@@ -3969,7 +3969,7 @@ x-playable: Yes
 
 
 game: Nox (USA)
-file: Computer/Disc/N/Nox (USA)/Nox (USA).json
+file: Roms/Computer/Disc/N/Nox (USA)/Nox (USA).json
 developer: Westwood Studios
 publisher: Electronic Arts
 genre: Action;Role-Playing
@@ -3994,7 +3994,7 @@ x-playable: Yes
 
 
 game: Nuclear Throne (USA) (Windows Only)
-file: Computer/Disc/N/Nuclear Throne (USA) (Windows Only)/Nuclear Throne (USA) (Windows Only).json
+file: Roms/Computer/Disc/N/Nuclear Throne (USA) (Windows Only)/Nuclear Throne (USA) (Windows Only).json
 developer: Vlambeer
 publisher: Vlambeer
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -4040,7 +4040,7 @@ x-playable: Yes
 
 
 game: Nuclear Throne (USA) (Windows, Mac, Linux)
-file: Computer/Disc/N/Nuclear Throne (USA) (Windows, Mac, Linux)/Nuclear Throne (USA) (Windows, Mac, Linux).json
+file: Roms/Computer/Disc/N/Nuclear Throne (USA) (Windows, Mac, Linux)/Nuclear Throne (USA) (Windows, Mac, Linux).json
 developer: Vlambeer
 publisher: Vlambeer
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -4069,7 +4069,7 @@ x-playable: Yes
 
 
 game: ObsCure (USA)
-file: Computer/Disc/O/ObsCure (USA)/ObsCure (USA).json
+file: Roms/Computer/Disc/O/ObsCure (USA)/ObsCure (USA).json
 developer: Hydravision
 publisher: DreamCatcher Interactive
 genre: Action Adventure;Survival
@@ -4090,7 +4090,7 @@ x-playable: Yes
 
 
 game: Oregon Trail II - 25th Anniversary Limited Edition (USA)
-file: Computer/Disc/O/Oregon Trail II - 25th Anniversary Limited Edition (USA)/Oregon Trail II - 25th Anniversary Limited Edition (USA).json
+file: Roms/Computer/Disc/O/Oregon Trail II - 25th Anniversary Limited Edition (USA)/Oregon Trail II - 25th Anniversary Limited Edition (USA).json
 developer: MECC
 publisher: The Learning Company
 genre: Adventure;General
@@ -4121,7 +4121,7 @@ x-playable: Yes
 
 
 game: Owlboy (USA)
-file: Computer/Disc/O/Owlboy (USA)/Owlboy (USA).json
+file: Roms/Computer/Disc/O/Owlboy (USA)/Owlboy (USA).json
 developer: D-Pad Studio
 publisher: D-Pad Studio
 genre: Action;Adventure;Platform
@@ -4161,7 +4161,7 @@ x-playable: Yes
 
 
 game: P.T. - Playable Teaser (USA)
-file: Computer/Disc/P/P.T. - Playable Teaser (USA)/P.T. - Playable Teaser (USA).json
+file: Roms/Computer/Disc/P/P.T. - Playable Teaser (USA)/P.T. - Playable Teaser (USA).json
 developer: RadiusGordello
 publisher: RadiusGordello
 genre: Horror
@@ -4182,7 +4182,7 @@ x-playable: Yes
 
 
 game: Pac-Man - Adventures in Time (USA)
-file: Computer/Disc/P/Pac-Man - Adventures in Time (USA)/Pac-Man - Adventures in Time (USA).json
+file: Roms/Computer/Disc/P/Pac-Man - Adventures in Time (USA)/Pac-Man - Adventures in Time (USA).json
 developer: Creative Asylum
 publisher: Hasbro Interactive
 genre: Action;General
@@ -4200,7 +4200,7 @@ x-playable: Yes
 
 
 game: Phantasmagoria (USA)
-file: Computer/Disc/P/Phantasmagoria (USA)/Phantasmagoria (USA).json
+file: Roms/Computer/Disc/P/Phantasmagoria (USA)/Phantasmagoria (USA).json
 developer: Sierra
 publisher: Sierra
 genre: Adventure
@@ -4227,7 +4227,7 @@ x-playable: Yes
 
 
 game: Phantasmagoria 2 - A Puzzle of Flesh (USA)
-file: Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)/Phantasmagoria 2 - A Puzzle of Flesh (USA).json
+file: Roms/Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)/Phantasmagoria 2 - A Puzzle of Flesh (USA).json
 developer: Sierra Entertainment
 publisher: Sierra Entertainment
 genre: Adventure;General
@@ -4248,7 +4248,7 @@ x-playable: Yes
 
 
 game: Pier Solar (USA) (En,Fr,Ja,De,Es,Pr)
-file: Computer/Disc/P/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr)/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).json
+file: Roms/Computer/Disc/P/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr)/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).json
 developer: Watermelon
 publisher: WaterMelon
 genre: Role-Playing
@@ -4276,7 +4276,7 @@ x-playable: Yes
 
 
 game: Pillars of Garendall (USA)
-file: Computer/Disc/P/Pillars of Garendall (USA)/Pillars of Garendall (USA).json
+file: Roms/Computer/Disc/P/Pillars of Garendall (USA)/Pillars of Garendall (USA).json
 developer: Ambrosia
 publisher: Ambrosia
 genre: Action;General
@@ -4308,7 +4308,7 @@ x-playable: Yes
 
 
 game: Play-Doh Creations (USA)
-file: Computer/Disc/P/Play-Doh Creations (USA)/Play-Doh Creations (USA).json
+file: Roms/Computer/Disc/P/Play-Doh Creations (USA)/Play-Doh Creations (USA).json
 developer: Media Concrete, Inc.
 publisher: Hasbro Interactive, Inc.
 genre: Educational
@@ -4350,7 +4350,7 @@ x-playable: Yes
 
 
 game: Police Quest IV - Open Season (USA)
-file: Computer/Disc/P/Police Quest IV - Open Season (USA)/Police Quest IV - Open Season (USA).json
+file: Roms/Computer/Disc/P/Police Quest IV - Open Season (USA)/Police Quest IV - Open Season (USA).json
 developer: Sierra Entertainment
 publisher: Sierra Entertainment
 genre: Adventure;General
@@ -4368,7 +4368,7 @@ x-playable: Yes
 
 
 game: Prisoner of Ice (USA)
-file: Computer/Disc/P/Prisoner of Ice (USA)/Prisoner of Ice (USA).json
+file: Roms/Computer/Disc/P/Prisoner of Ice (USA)/Prisoner of Ice (USA).json
 developer: Infogrames
 publisher: I Motion
 genre: Adventure;General
@@ -4395,7 +4395,7 @@ x-playable: Yes
 
 
 game: Punch Club (USA)
-file: Computer/Disc/P/Punch Club (USA)/Punch Club (USA).json
+file: Roms/Computer/Disc/P/Punch Club (USA)/Punch Club (USA).json
 developer: Lazy Bear Games
 publisher: tinyBuild
 genre: Fighting;Role-Playing;Strategy
@@ -4421,7 +4421,7 @@ x-playable: Yes
 
 
 game: Quake III - Arena (USA)
-file: Computer/Disc/Q/Quake III - Arena (USA)/Quake III - Arena (USA).json
+file: Roms/Computer/Disc/Q/Quake III - Arena (USA)/Quake III - Arena (USA).json
 developer: id Software
 publisher: Activision
 genre: Shooter
@@ -4470,7 +4470,7 @@ x-playable: Yes
 
 
 game: Quest For Infamy (USA)
-file: Computer/Disc/Q/Quest For Infamy (USA)/Quest For Infamy (USA).json
+file: Roms/Computer/Disc/Q/Quest For Infamy (USA)/Quest For Infamy (USA).json
 developer: Infamous Quests
 publisher: Phoenix Online Publishing
 genre: Adventure
@@ -4510,7 +4510,7 @@ x-playable: Yes
 
 
 game: Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA)
-file: Computer/Disc/R/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA)/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).json
+file: Roms/Computer/Disc/R/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA)/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).json
 developer: Virtual Playground
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object;Compilation
@@ -4535,7 +4535,7 @@ x-playable: Yes
 
 
 game: Resident Evil (USA)
-file: Computer/Disc/R/Resident Evil (USA)/Resident Evil (USA).json
+file: Roms/Computer/Disc/R/Resident Evil (USA)/Resident Evil (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror;Puzzle
@@ -4555,7 +4555,7 @@ x-playable: Yes
 
 
 game: Resident Evil 2 (USA)
-file: Computer/Disc/R/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Roms/Computer/Disc/R/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Horror
@@ -4578,7 +4578,7 @@ x-playable: Yes
 
 
 game: Resident Evil 3 - Nemesis (USA)
-file: Computer/Disc/R/Resident Evil 3 - Nemesis (USA)/Resident Evil 3 - Nemesis (USA).json
+file: Roms/Computer/Disc/R/Resident Evil 3 - Nemesis (USA)/Resident Evil 3 - Nemesis (USA).json
 developer: Capcom
 publisher: Eidos
 genre: Horror;Puzzle;Shooter
@@ -4606,7 +4606,7 @@ x-playable: Yes
 
 
 game: Resident Evil 4 (USA)
-file: Computer/Disc/R/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
+file: Roms/Computer/Disc/R/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
 developer: Sourcenext
 publisher: Capcom
 genre: Horror;Shooter
@@ -4639,7 +4639,7 @@ x-playable: Yes
 
 
 game: Rise of Nations - Rise of Legends (USA)
-file: Computer/Disc/R/Rise of Nations - Rise of Legends (USA)/Rise of Nations - Rise of Legends (USA).json
+file: Roms/Computer/Disc/R/Rise of Nations - Rise of Legends (USA)/Rise of Nations - Rise of Legends (USA).json
 developer: Big Huge Games
 publisher: Microsoft Game Studios
 genre: Strategy
@@ -4660,7 +4660,7 @@ x-playable: Yes
 
 
 game: Rise of the Triad - The Hunt Begins (USA)
-file: Computer/Disc/R/Rise of the Triad - The Hunt Begins (USA)/Rise of the Triad - The Hunt Begins (USA).json
+file: Roms/Computer/Disc/R/Rise of the Triad - The Hunt Begins (USA)/Rise of the Triad - The Hunt Begins (USA).json
 developer: Apogee Software Ltd.
 publisher: Apogee Software Ltd.
 genre: Action;Shooter
@@ -4695,7 +4695,7 @@ x-playable: Yes
 
 
 game: Risk of Rain (USA)
-file: Computer/Disc/R/Risk of Rain (USA)/Risk of Rain (USA).json
+file: Roms/Computer/Disc/R/Risk of Rain (USA)/Risk of Rain (USA).json
 developer: Hopoo Games
 publisher: Chucklefish
 genre: Action;Role-Playing
@@ -4716,7 +4716,7 @@ x-playable: Yes
 
 
 game: Rive (USA)
-file: Computer/Disc/R/Rive (USA)/Rive (USA).json
+file: Roms/Computer/Disc/R/Rive (USA)/Rive (USA).json
 developer: Two Tribes
 publisher: Two Tribes Publishing
 genre: Action;Platform;Shooter
@@ -4762,7 +4762,7 @@ x-playable: Yes
 
 
 game: Riven - The Sequel to Myst (USA)
-file: Computer/Disc/R/Riven - The Sequel to Myst (USA)/Riven - The Sequel to Myst (USA).json
+file: Roms/Computer/Disc/R/Riven - The Sequel to Myst (USA)/Riven - The Sequel to Myst (USA).json
 developer: Cyan
 publisher: Red Orb Entertainment
 genre: Adventure
@@ -4792,7 +4792,7 @@ x-playable: Yes
 
 
 game: Rogue Legacy (USA)
-file: Computer/Disc/R/Rogue Legacy (USA)/Rogue Legacy (USA).json
+file: Roms/Computer/Disc/R/Rogue Legacy (USA)/Rogue Legacy (USA).json
 developer: Cellar Door Games
 publisher: Cellar Door Games
 genre: Action;Platform;Role-Playing
@@ -4843,7 +4843,7 @@ x-playable: Yes
 
 
 game: SCP-087 (USA)
-file: Computer/Disc/S/SCP-087 (USA)/SCP-087 (USA).json
+file: Roms/Computer/Disc/S/SCP-087 (USA)/SCP-087 (USA).json
 developer: Haversine
 publisher: Haversine
 genre: Action Adventure;Survival
@@ -4868,7 +4868,7 @@ x-playable: Yes
 
 
 game: SCP-087-B (USA)
-file: Computer/Disc/S/SCP-087-B (USA)/SCP-087-B (USA).json
+file: Roms/Computer/Disc/S/SCP-087-B (USA)/SCP-087-B (USA).json
 developer: Joonas "Regalis" Rikkonen
 publisher: Joonas "Regalis" Rikkonen
 genre: Action Adventure;Survival
@@ -4904,7 +4904,7 @@ x-playable: Yes
 
 
 game: Sam & Max Hit the Road (USA)
-file: Computer/Disc/S/Sam & Max Hit the Road (USA)/Sam & Max Hit the Road (USA).json
+file: Roms/Computer/Disc/S/Sam & Max Hit the Road (USA)/Sam & Max Hit the Road (USA).json
 developer: LucasArts Entertainment Company LLC
 publisher: LucasArts Entertainment Company LLC
 genre: Adventure
@@ -4926,7 +4926,7 @@ x-playable: Yes
 
 
 game: Schizm (USA)
-file: Computer/Disc/S/Schizm (USA)/Schizm (USA).json
+file: Roms/Computer/Disc/S/Schizm (USA)/Schizm (USA).json
 developer: Detalion
 publisher: DreamCatcher Interactive Inc.,
 genre: Adventure;Puzzle
@@ -4948,7 +4948,7 @@ x-playable: Yes
 
 
 game: Scratches - Director's Cut (USA)
-file: Computer/Disc/S/Scratches - Director's Cut (USA)/Scratches - Director's Cut (USA).json
+file: Roms/Computer/Disc/S/Scratches - Director's Cut (USA)/Scratches - Director's Cut (USA).json
 developer: Nucleosys Digital Studio
 publisher: Nucleosys
 genre: Adventure;Horror
@@ -4973,7 +4973,7 @@ x-playable: Yes
 
 
 game: Sega Dreamcast AT&T WorldNet Service & Previews (USA)
-file: Computer/Disc/S/Sega Dreamcast AT&T WorldNet Service & Previews (USA)/Sega Dreamcast AT&T WorldNet Service & Previews (USA).json
+file: Roms/Computer/Disc/S/Sega Dreamcast AT&T WorldNet Service & Previews (USA)/Sega Dreamcast AT&T WorldNet Service & Previews (USA).json
 developer: Sega
 publisher: Sega
 genre: Utility;Compilation;Videos
@@ -5001,7 +5001,7 @@ x-playable: Yes
 
 
 game: Sega Genesis Classic Collection - Gold Edition (USA)
-file: Computer/Disc/S/Sega Genesis Classic Collection - Gold Edition (USA)/Sega Genesis Classic Collection - Gold Edition (USA).json
+file: Roms/Computer/Disc/S/Sega Genesis Classic Collection - Gold Edition (USA)/Sega Genesis Classic Collection - Gold Edition (USA).json
 developer: Sega
 publisher: Sega
 genre: Miscellaneous;Compilation
@@ -5020,7 +5020,7 @@ x-playable: Yes
 
 
 game: Septerra Core - Legacy of the Creator (USA)
-file: Computer/Disc/S/Septerra Core - Legacy of the Creator (USA)/Septerra Core - Legacy of the Creator (USA).json
+file: Roms/Computer/Disc/S/Septerra Core - Legacy of the Creator (USA)/Septerra Core - Legacy of the Creator (USA).json
 developer: Valkyrie Studios
 publisher: TopWare Interactive
 genre: Role-Playing
@@ -5065,7 +5065,7 @@ x-playable: Yes
 
 
 game: Shadow Chronicles 6 Pack - Collector's Edition (USA)
-file: Computer/Disc/S/Shadow Chronicles 6 Pack - Collector's Edition (USA)/Shadow Chronicles 6 Pack - Collector's Edition (USA).json
+file: Roms/Computer/Disc/S/Shadow Chronicles 6 Pack - Collector's Edition (USA)/Shadow Chronicles 6 Pack - Collector's Edition (USA).json
 developer: Encore Software
 publisher: Encore Software
 genre: Puzzle
@@ -5084,7 +5084,7 @@ x-playable: Yes
 
 
 game: Shadow of the Comet (USA)
-file: Computer/Disc/S/Shadow of the Comet (USA)/Shadow of the Comet (USA).json
+file: Roms/Computer/Disc/S/Shadow of the Comet (USA)/Shadow of the Comet (USA).json
 developer: Infogrames
 publisher: I*Motion
 genre: Adventure;General
@@ -5111,7 +5111,7 @@ x-playable: Yes
 
 
 game: Shivers (USA)
-file: Computer/Disc/S/Shivers (USA)/Shivers (USA).json
+file: Roms/Computer/Disc/S/Shivers (USA)/Shivers (USA).json
 developer: Sierra
 publisher: Sierra
 genre: Adventure;Horror;Puzzle
@@ -5136,7 +5136,7 @@ x-playable: Yes
 
 
 game: Silent Hill 2 (USA)
-file: Computer/Disc/S/Silent Hill 2 (USA)/Silent Hill 2 (USA).json
+file: Roms/Computer/Disc/S/Silent Hill 2 (USA)/Silent Hill 2 (USA).json
 developer: Creature Labs
 publisher: Konami
 genre: Horror
@@ -5158,7 +5158,7 @@ x-playable: Yes
 
 
 game: Silent Hill 3 (USA)
-file: Computer/Disc/S/Silent Hill 3 (USA)/Silent Hill 3 (USA).json
+file: Roms/Computer/Disc/S/Silent Hill 3 (USA)/Silent Hill 3 (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Horror
@@ -5185,7 +5185,7 @@ x-playable: Yes
 
 
 game: SimCity Box, The (USA)
-file: Computer/Disc/S/SimCity Box, The (USA)/SimCity Box, The (USA).json
+file: Roms/Computer/Disc/S/SimCity Box, The (USA)/SimCity Box, The (USA).json
 developer: Maxis
 publisher: EA Games
 genre: Miscellaneous;Compilation
@@ -5211,7 +5211,7 @@ x-playable: Yes
 
 
 game: Sims 2, The (USA)
-file: Computer/Disc/S/Sims 2, The (USA)/Sims 2, The (USA).json
+file: Roms/Computer/Disc/S/Sims 2, The (USA)/Sims 2, The (USA).json
 developer: Maxis
 publisher: EA Games
 genre: Simulation;Virtual;Virtual Life
@@ -5232,7 +5232,7 @@ x-playable: Yes
 
 
 game: Sims 2, The - Ultimate Collection (USA)
-file: Computer/Disc/S/Sims 2, The - Ultimate Collection (USA)/Sims 2, The - Ultimate Collection (USA).json
+file: Roms/Computer/Disc/S/Sims 2, The - Ultimate Collection (USA)/Sims 2, The - Ultimate Collection (USA).json
 developer: Maxis Software
 publisher: Electronic Arts
 genre: Life Simulation
@@ -5274,7 +5274,7 @@ x-playable: Yes
 
 
 game: Sims 4, The - Limited Edition (USA)
-file: Computer/Disc/S/Sims 4, The - Limited Edition (USA)/Sims 4, The - Limited Edition (USA).json
+file: Roms/Computer/Disc/S/Sims 4, The - Limited Edition (USA)/Sims 4, The - Limited Edition (USA).json
 developer: Maxis
 publisher: Electronic Arts
 genre: Simulation;Virtual;Virtual Life
@@ -5294,7 +5294,7 @@ x-playable: Yes
 
 
 game: Sims, The - Complete Collection (USA)
-file: Computer/Disc/S/Sims, The - Complete Collection (USA)/Sims, The - Complete Collection (USA).json
+file: Roms/Computer/Disc/S/Sims, The - Complete Collection (USA)/Sims, The - Complete Collection (USA).json
 developer: Maxis Software
 publisher: Electronic Arts
 genre: Construction and Management Simulation;Life Simulation
@@ -5328,7 +5328,7 @@ x-playable: Yes
 
 
 game: SkiFree (USA)
-file: Computer/Disc/S/SkiFree (USA)/SkiFree (USA).json
+file: Roms/Computer/Disc/S/SkiFree (USA)/SkiFree (USA).json
 developer: Chris Pirih
 publisher: Microsoft
 genre: Sports
@@ -5360,7 +5360,7 @@ x-playable: Yes
 
 
 game: Small Radios Big Televisions (USA)
-file: Computer/Disc/S/Small Radios Big Televisions (USA)/Small Radios Big Televisions (USA).json
+file: Roms/Computer/Disc/S/Small Radios Big Televisions (USA)/Small Radios Big Televisions (USA).json
 developer: Fire Face
 publisher: Adult Swim Games
 genre: Adventure;Puzzle
@@ -5392,7 +5392,7 @@ x-playable: Yes
 
 
 game: Soldier of Fortune II - Double Helix (USA)
-file: Computer/Disc/S/Soldier of Fortune II - Double Helix (USA)/Soldier of Fortune II - Double Helix (USA).json
+file: Roms/Computer/Disc/S/Soldier of Fortune II - Double Helix (USA)/Soldier of Fortune II - Double Helix (USA).json
 developer: Raven Software
 publisher: Activision
 genre: Action;Shooter;First-Person;Arcade
@@ -5414,7 +5414,7 @@ x-playable: Yes
 
 
 game: Sonic 3 - Angel Island Revisited (USA)
-file: Computer/Disc/S/Sonic 3 - Angel Island Revisited (USA)/Sonic 3 - Angel Island Revisited (USA).json
+file: Roms/Computer/Disc/S/Sonic 3 - Angel Island Revisited (USA)/Sonic 3 - Angel Island Revisited (USA).json
 developer: Eukaryot
 publisher: Eukaryot
 genre: Action;Platformer;2D
@@ -5442,7 +5442,7 @@ x-playable: Yes
 
 
 game: Sonic R (USA)
-file: Computer/Disc/S/Sonic R (USA)/Sonic R (USA).json
+file: Roms/Computer/Disc/S/Sonic R (USA)/Sonic R (USA).json
 developer: Traveller's Tales
 publisher: Sega
 genre: Racing
@@ -5460,7 +5460,7 @@ x-playable: Yes
 
 
 game: Sonic Triple Trouble 16-bit (USA)
-file: Computer/Disc/S/Sonic Triple Trouble 16-bit (USA)/Sonic Triple Trouble 16-bit (USA).json
+file: Roms/Computer/Disc/S/Sonic Triple Trouble 16-bit (USA)/Sonic Triple Trouble 16-bit (USA).json
 developer: NoahNCopeland
 publisher: Gamejolt
 genre: Action;Platformer;2D
@@ -5495,7 +5495,7 @@ x-playable: Yes
 
 
 game: Speculum Mortis - Regret (USA)
-file: Computer/Disc/S/Speculum Mortis - Regret (USA)/Speculum Mortis - Regret (USA).json
+file: Roms/Computer/Disc/S/Speculum Mortis - Regret (USA)/Speculum Mortis - Regret (USA).json
 developer: Happo
 publisher: Happo
 genre: Adventure;Horror
@@ -5520,7 +5520,7 @@ x-playable: Yes
 
 
 game: Spooky's House of Jump Scares (USA)
-file: Computer/Disc/S/Spooky's House of Jump Scares (USA)/Spooky's House of Jump Scares (USA).json
+file: Roms/Computer/Disc/S/Spooky's House of Jump Scares (USA)/Spooky's House of Jump Scares (USA).json
 developer: Lag Studios
 publisher: Lag Studios
 genre: First Person;Horror
@@ -5541,7 +5541,7 @@ x-playable: Yes
 
 
 game: Stanley Parable, The (USA)
-file: Computer/Disc/S/Stanley Parable, The (USA)/Stanley Parable, The (USA).json
+file: Roms/Computer/Disc/S/Stanley Parable, The (USA)/Stanley Parable, The (USA).json
 developer: Galactic Cafe
 publisher: Galactic Cafe
 genre: Adventure
@@ -5566,7 +5566,7 @@ x-playable: Yes
 
 
 game: Star Trek - Omnipedia (USA)
-file: Computer/Disc/S/Star Trek - Omnipedia (USA)/Star Trek - Omnipedia (USA).json
+file: Roms/Computer/Disc/S/Star Trek - Omnipedia (USA)/Star Trek - Omnipedia (USA).json
 developer: Imergy
 publisher: Simon & Schuster Interactive
 genre: Puzzle;Education
@@ -5591,7 +5591,7 @@ x-playable: Yes
 
 
 game: Star Trek - The Next Generation - A Final Unity (USA)
-file: Computer/Disc/S/Star Trek - The Next Generation - A Final Unity (USA)/Star Trek - The Next Generation - A Final Unity (USA).json
+file: Roms/Computer/Disc/S/Star Trek - The Next Generation - A Final Unity (USA)/Star Trek - The Next Generation - A Final Unity (USA).json
 developer: Spectrum Holobyte
 publisher: Spectrum Holobyte
 genre: Adventure
@@ -5619,7 +5619,7 @@ x-playable: Yes
 
 
 game: Star Wars - Dark Forces (USA)
-file: Computer/Disc/S/Star Wars - Dark Forces (USA)/Star Wars - Dark Forces (USA).json
+file: Roms/Computer/Disc/S/Star Wars - Dark Forces (USA)/Star Wars - Dark Forces (USA).json
 developer: LucasArts Entertainment Company LLC
 publisher: LucasArts
 genre: Action
@@ -5669,7 +5669,7 @@ x-playable: Yes
 
 
 game: Star Wars - Jedi Knight - Dark Forces II (USA)
-file: Computer/Disc/S/Star Wars - Jedi Knight - Dark Forces II (USA)/Star Wars - Jedi Knight - Dark Forces II (USA).json
+file: Roms/Computer/Disc/S/Star Wars - Jedi Knight - Dark Forces II (USA)/Star Wars - Jedi Knight - Dark Forces II (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action;Adventure;Shooter
@@ -5709,7 +5709,7 @@ x-playable: Yes
 
 
 game: Star Wars - Knights of the Old Republic (USA)
-file: Computer/Disc/S/Star Wars - Knights of the Old Republic (USA)/Star Wars - Knights of the Old Republic (USA).json
+file: Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic (USA)/Star Wars - Knights of the Old Republic (USA).json
 developer: BioWare
 publisher: LucasArts
 genre: Role-Playing
@@ -5758,7 +5758,7 @@ x-playable: Yes
 
 
 game: Star Wars - Knights of the Old Republic II - The Sith Lords (USA)
-file: Computer/Disc/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
+file: Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
 developer: Obsidian
 publisher: LucasArts
 genre: Role-Playing
@@ -5809,7 +5809,7 @@ x-playable: Yes
 
 
 game: Star Wars - X-Wing Alliance (USA)
-file: Computer/Disc/S/Star Wars - X-Wing Alliance (USA)/Star Wars - X-Wing Alliance (USA).json
+file: Roms/Computer/Disc/S/Star Wars - X-Wing Alliance (USA)/Star Wars - X-Wing Alliance (USA).json
 developer: Totally Games
 publisher: LucasArts
 genre: Flight Simulator
@@ -5839,7 +5839,7 @@ x-playable: Yes
 
 
 game: StarCraft & Brood War (USA)
-file: Computer/Disc/S/StarCraft & Brood War (USA)/StarCraft & Brood War (USA).json
+file: Roms/Computer/Disc/S/StarCraft & Brood War (USA)/StarCraft & Brood War (USA).json
 developer: Blizzard Entertainment
 publisher: Blizzard Entertainment
 genre: Strategy
@@ -5860,7 +5860,7 @@ x-playable: Yes
 
 
 game: Starsiege (USA)
-file: Computer/Disc/S/Starsiege (USA)/Starsiege (USA).json
+file: Roms/Computer/Disc/S/Starsiege (USA)/Starsiege (USA).json
 developer: Dynamix
 publisher: Dynamix
 genre: Action;Shooter
@@ -5885,7 +5885,7 @@ x-playable: Yes
 
 
 game: Starsiege - Tribes (USA)
-file: Computer/Disc/S/Starsiege - Tribes (USA)/Starsiege - Tribes (USA).json
+file: Roms/Computer/Disc/S/Starsiege - Tribes (USA)/Starsiege - Tribes (USA).json
 developer: Dynamix
 publisher: Sierra
 genre: Shooter
@@ -5915,7 +5915,7 @@ x-playable: Yes
 
 
 game: Starsiege Universe (USA)
-file: Computer/Disc/S/Starsiege Universe (USA)/Starsiege Universe (USA).json
+file: Roms/Computer/Disc/S/Starsiege Universe (USA)/Starsiege Universe (USA).json
 developer: Sierra
 publisher: Sierra
 genre: Compilation
@@ -5931,7 +5931,7 @@ x-playable: Yes
 
 
 game: SteamWorld Dig - A Fistful of Dirt (USA)
-file: Computer/Disc/S/SteamWorld Dig - A Fistful of Dirt (USA)/SteamWorld Dig - A Fistful of Dirt (USA).json
+file: Roms/Computer/Disc/S/SteamWorld Dig - A Fistful of Dirt (USA)/SteamWorld Dig - A Fistful of Dirt (USA).json
 developer: Image & Form
 publisher: Image & Form
 genre: Action;Adventure;Platform
@@ -5965,7 +5965,7 @@ x-playable: Yes
 
 
 game: StepMania (USA)
-file: Computer/Disc/S/StepMania (USA)/StepMania (USA).json
+file: Roms/Computer/Disc/S/StepMania (USA)/StepMania (USA).json
 developer: Chris Danford
 publisher: Chris Danford
 genre: Music
@@ -5982,7 +5982,7 @@ x-playable: Yes
 
 
 game: Stories - The Path of Destinies (USA)
-file: Computer/Disc/S/Stories - The Path of Destinies (USA)/Stories - The Path of Destinies (USA).json
+file: Roms/Computer/Disc/S/Stories - The Path of Destinies (USA)/Stories - The Path of Destinies (USA).json
 developer: Spearhead Games
 publisher: Spearhead Games
 genre: Action;Role-Playing
@@ -6048,7 +6048,7 @@ x-playable: Yes
 
 
 game: Street Fighter & Mega Man Collection (USA)
-file: Computer/Disc/S/Street Fighter & Mega Man Collection (USA)/Street Fighter & Mega Man Collection (USA).json
+file: Roms/Computer/Disc/S/Street Fighter & Mega Man Collection (USA)/Street Fighter & Mega Man Collection (USA).json
 developer: Rozner Labs
 publisher: Hi Tech Expressions / Capcom
 genre: Platformer;Fighting
@@ -6066,7 +6066,7 @@ x-playable: Yes
 
 
 game: Street Fighter 2 (USA)
-file: Computer/Disc/S/Street Fighter 2 (USA)/Street Fighter 2 (USA).json
+file: Roms/Computer/Disc/S/Street Fighter 2 (USA)/Street Fighter 2 (USA).json
 developer: Rozner Labs
 publisher: Hi Tech Expressions / Capcom
 genre: Fighting
@@ -6086,7 +6086,7 @@ x-playable: Yes
 
 
 game: Street Fighter X Mega Man (USA)
-file: Computer/Disc/S/Street Fighter X Mega Man (USA)/Street Fighter X Mega Man (USA).json
+file: Roms/Computer/Disc/S/Street Fighter X Mega Man (USA)/Street Fighter X Mega Man (USA).json
 developer: Seow Zong Hui
 publisher: Capcom
 genre: Fighting
@@ -6115,7 +6115,7 @@ x-playable: Yes
 
 
 game: Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends)
-file: Computer/Disc/S/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends)/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).json
+file: Roms/Computer/Disc/S/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends)/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).json
 developer: Take-Two Interactive
 publisher: Take-Two Interactive
 genre: Miscellaneous;Compilation
@@ -6145,7 +6145,7 @@ x-playable: Yes
 
 
 game: Stunt Driver (USA)
-file: Computer/Disc/S/Stunt Driver (USA)/Stunt Driver (USA).json
+file: Roms/Computer/Disc/S/Stunt Driver (USA)/Stunt Driver (USA).json
 developer: Sphere
 publisher: Spectrum Holobyte
 genre: Racing;Arcade;Automobile
@@ -6169,7 +6169,7 @@ x-playable: Yes
 
 
 game: Super Win The Game (USA)
-file: Computer/Disc/S/Super Win The Game (USA)/Super Win The Game (USA).json
+file: Roms/Computer/Disc/S/Super Win The Game (USA)/Super Win The Game (USA).json
 developer: Minor Key Games, LLC.
 publisher: IndieBox, Inc.
 genre: Platform
@@ -6206,7 +6206,7 @@ x-playable: Yes
 
 
 game: System Shock - Enhanced Edition (USA)
-file: Computer/Disc/S/System Shock - Enhanced Edition (USA)/System Shock - Enhanced Edition (USA).json
+file: Roms/Computer/Disc/S/System Shock - Enhanced Edition (USA)/System Shock - Enhanced Edition (USA).json
 developer: Looking Glass Studios
 publisher: Nightdive Studios
 genre: Action;Adventure;Role-Playing
@@ -6269,7 +6269,7 @@ x-playable: Yes
 
 
 game: Tennis Titans (USA)
-file: Computer/Disc/T/Tennis Titans (USA)/Tennis Titans (USA).json
+file: Roms/Computer/Disc/T/Tennis Titans (USA)/Tennis Titans (USA).json
 developer: Skunk Studios
 publisher: GameHouse
 genre: Sports;Individual;Tennis
@@ -6291,7 +6291,7 @@ x-playable: Yes
 
 
 game: Tetris Worlds (USA)
-file: Computer/Disc/T/Tetris Worlds (USA)/Tetris Worlds (USA).json
+file: Roms/Computer/Disc/T/Tetris Worlds (USA)/Tetris Worlds (USA).json
 developer: Blue Planet Software
 publisher: THQ
 genre: Puzzle
@@ -6313,7 +6313,7 @@ x-playable: Yes
 
 
 game: Thomas Was Alone (USA)
-file: Computer/Disc/T/Thomas Was Alone (USA)/Thomas Was Alone (USA).json
+file: Roms/Computer/Disc/T/Thomas Was Alone (USA)/Thomas Was Alone (USA).json
 developer: Mike Bithell
 publisher: Mike Bithell
 genre: Platform;Puzzle
@@ -6342,7 +6342,7 @@ x-playable: Yes
 
 
 game: Torchlight (USA)
-file: Computer/Disc/T/Torchlight (USA)/Torchlight (USA).json
+file: Roms/Computer/Disc/T/Torchlight (USA)/Torchlight (USA).json
 developer: Runic Games
 publisher: Runic Games
 genre: Action;Role-Playing
@@ -6364,7 +6364,7 @@ x-playable: Yes
 
 
 game: Torchlight II (USA)
-file: Computer/Disc/T/Torchlight II (USA)/Torchlight II (USA).json
+file: Roms/Computer/Disc/T/Torchlight II (USA)/Torchlight II (USA).json
 developer: Runic Games
 publisher: Runic Games
 genre: Action;Role-Playing
@@ -6398,7 +6398,7 @@ x-playable: Yes
 
 
 game: Tribes - Vengeance (USA)
-file: Computer/Disc/T/Tribes - Vengeance (USA)/Tribes - Vengeance (USA).json
+file: Roms/Computer/Disc/T/Tribes - Vengeance (USA)/Tribes - Vengeance (USA).json
 developer: Irrational Games
 publisher: VU Games
 genre: Shooter
@@ -6427,7 +6427,7 @@ x-playable: Yes
 
 
 game: Tribes 2 (USA)
-file: Computer/Disc/T/Tribes 2 (USA)/Tribes 2 (USA).json
+file: Roms/Computer/Disc/T/Tribes 2 (USA)/Tribes 2 (USA).json
 developer: Dynamix
 publisher: Sierra Entertainment
 genre: Action;Shooter;First-Person;Arcade
@@ -6454,7 +6454,7 @@ x-playable: Yes
 
 
 game: Tux Racer (USA)
-file: Computer/Disc/T/Tux Racer (USA)/Tux Racer (USA).json
+file: Roms/Computer/Disc/T/Tux Racer (USA)/Tux Racer (USA).json
 developer: Sunspire Studios
 publisher: Sunspire Studios
 genre: Racing
@@ -6484,7 +6484,7 @@ x-playable: Yes
 
 
 game: Typoman - Revised (USA)
-file: Computer/Disc/T/Typoman - Revised (USA)/Typoman - Revised (USA).json
+file: Roms/Computer/Disc/T/Typoman - Revised (USA)/Typoman - Revised (USA).json
 developer: Brainseed Factory
 publisher: Brainseed Factory
 genre: Adventure;Platform;Puzzle
@@ -6501,7 +6501,7 @@ x-playable: Yes
 
 
 game: Ultima Collection (USA) (Ultima I - Ultima VIII)
-file: Computer/Disc/U/Ultima Collection (USA) (Ultima I - Ultima VIII)/Ultima Collection (USA) (Ultima I - Ultima VIII).json
+file: Roms/Computer/Disc/U/Ultima Collection (USA) (Ultima I - Ultima VIII)/Ultima Collection (USA) (Ultima I - Ultima VIII).json
 developer: Electronic Arts
 publisher: Electronic Arts
 genre: Miscellaneous;Compilation
@@ -6559,7 +6559,7 @@ x-playable: Yes
 
 
 game: Ultimate RPG Archives, The (USA)
-file: Computer/Disc/U/Ultimate RPG Archives, The (USA)/Ultimate RPG Archives, The (USA).json
+file: Roms/Computer/Disc/U/Ultimate RPG Archives, The (USA)/Ultimate RPG Archives, The (USA).json
 developer: Scooter Software
 publisher: Interplay
 genre: Miscellaneous;Compilation
@@ -6579,7 +6579,7 @@ x-playable: Yes
 
 
 game: Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004)
-file: Computer/Disc/U/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004)/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).json
+file: Roms/Computer/Disc/U/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004)/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).json
 developer: Various
 publisher: Midway Games
 genre: Shooter
@@ -6598,7 +6598,7 @@ x-playable: Yes
 
 
 game: Unreal Tournament 2004 (USA)
-file: Computer/Disc/U/Unreal Tournament 2004 (USA)/Unreal Tournament 2004 (USA).json
+file: Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)/Unreal Tournament 2004 (USA).json
 developer: Epic Games
 publisher: Atari
 genre: Shooter
@@ -6615,7 +6615,7 @@ x-playable: Yes
 
 
 game: Video Game Name Generator Competition (USA)
-file: Computer/Disc/V/Video Game Name Generator Competition (USA)/Video Game Name Generator Competition (USA).json
+file: Roms/Computer/Disc/V/Video Game Name Generator Competition (USA)/Video Game Name Generator Competition (USA).json
 developer: TIGForums
 publisher: TIGForums
 genre: Miscellaneous
@@ -6650,7 +6650,7 @@ x-playable: Yes
 
 
 game: War for the Overworld - Underlord Edition (USA)
-file: Computer/Disc/W/War for the Overworld - Underlord Edition (USA)/War for the Overworld - Underlord Edition (USA).json
+file: Roms/Computer/Disc/W/War for the Overworld - Underlord Edition (USA)/War for the Overworld - Underlord Edition (USA).json
 developer: Subterranean Games
 publisher: Subterranean Games
 genre: Strategy;Real-Time;General
@@ -6668,7 +6668,7 @@ x-playable: Yes
 
 
 game: Wasteland 2 - Director's Cut (USA)
-file: Computer/Disc/W/Wasteland 2 - Director's Cut (USA)/Wasteland 2 - Director's Cut (USA).json
+file: Roms/Computer/Disc/W/Wasteland 2 - Director's Cut (USA)/Wasteland 2 - Director's Cut (USA).json
 developer: inXile Entertainment
 publisher: InXile Entertainment
 genre: Role-Playing;Strategy
@@ -6726,7 +6726,7 @@ x-playable: Yes
 
 
 game: Wetrix (USA)
-file: Computer/Disc/W/Wetrix (USA)/Wetrix (USA).json
+file: Roms/Computer/Disc/W/Wetrix (USA)/Wetrix (USA).json
 developer: Zed Two Game Design Studio
 publisher: Ocean Software Ltd.
 genre: Puzzle
@@ -6747,7 +6747,7 @@ x-playable: Yes
 
 
 game: Wheel of Fortune Deluxe (USA)
-file: Computer/Disc/W/Wheel of Fortune Deluxe (USA)/Wheel of Fortune Deluxe (USA).json
+file: Roms/Computer/Disc/W/Wheel of Fortune Deluxe (USA)/Wheel of Fortune Deluxe (USA).json
 developer: Sony Online Entertainment
 publisher: Encore, Inc.
 genre: Puzzle
@@ -6776,7 +6776,7 @@ x-playable: Yes
 
 
 game: Witchaven (USA)
-file: Computer/Disc/W/Witchaven (USA)/Witchaven (USA).json
+file: Roms/Computer/Disc/W/Witchaven (USA)/Witchaven (USA).json
 developer: Capstone Software
 publisher: IntraCorp
 genre: Action;Shooter;First-Person;Arcade
@@ -6797,7 +6797,7 @@ x-playable: Yes
 
 
 game: Witchaven II - Blood Vengeance (USA)
-file: Computer/Disc/W/Witchaven II - Blood Vengeance (USA)/Witchaven II - Blood Vengeance (USA).json
+file: Roms/Computer/Disc/W/Witchaven II - Blood Vengeance (USA)/Witchaven II - Blood Vengeance (USA).json
 developer: Capstone Software
 publisher: IntraCorp
 genre: Action;Shooter;First-Person;Arcade
@@ -6822,7 +6822,7 @@ x-playable: Yes
 
 
 game: World of Goo (USA)
-file: Computer/Disc/W/World of Goo (USA)/World of Goo (USA).json
+file: Roms/Computer/Disc/W/World of Goo (USA)/World of Goo (USA).json
 developer: 2D Boy
 publisher: 2D Boy
 genre: Puzzle;Strategy
@@ -6845,7 +6845,7 @@ x-playable: Yes
 
 
 game: Z - The Game (USA)
-file: Computer/Disc/Z/Z - The Game (USA)/Z - The Game (USA).json
+file: Roms/Computer/Disc/Z/Z - The Game (USA)/Z - The Game (USA).json
 developer: Tic Toc Games
 publisher: KISS ltd
 genre: Strategy

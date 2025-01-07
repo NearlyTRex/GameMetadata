@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Square Enix" -n {file.basenam
 
 
 game: Final Fantasy XI - Ultimate Collection Seekers Edition (USA)
-file: Computer/Square Enix/F/Final Fantasy XI - Ultimate Collection Seekers Edition (USA)/Final Fantasy XI - Ultimate Collection Seekers Edition (USA).json
+file: Roms/Computer/Square Enix/F/Final Fantasy XI - Ultimate Collection Seekers Edition (USA)/Final Fantasy XI - Ultimate Collection Seekers Edition (USA).json
 developer: SquareSoft
 publisher: Square Enix
 genre: Role-Playing;Massively Multiplayer

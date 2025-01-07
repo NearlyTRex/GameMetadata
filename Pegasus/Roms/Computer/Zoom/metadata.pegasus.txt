@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Zoom" -n {file.basename}
 
 
 game: Alien Carnage - Halloween Harry (USA)
-file: Computer/Zoom/A/Alien Carnage - Halloween Harry (USA)/Alien Carnage - Halloween Harry (USA).json
+file: Roms/Computer/Zoom/A/Alien Carnage - Halloween Harry (USA)/Alien Carnage - Halloween Harry (USA).json
 developer: Interactive Binary Illusions
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -20,7 +20,7 @@ x-playable: Yes
 
 
 game: Aliens Versus Predator - Gold Edition (USA)
-file: Computer/Zoom/A/Aliens Versus Predator - Gold Edition (USA)/Aliens Versus Predator - Gold Edition (USA).json
+file: Roms/Computer/Zoom/A/Aliens Versus Predator - Gold Edition (USA)/Aliens Versus Predator - Gold Edition (USA).json
 developer: Rebellion
 publisher: Fox Interactive
 genre: Action;Horror;Shooter
@@ -78,7 +78,7 @@ x-playable: Yes
 
 
 game: Arctic Adventure (USA)
-file: Computer/Zoom/A/Arctic Adventure (USA)/Arctic Adventure (USA).json
+file: Roms/Computer/Zoom/A/Arctic Adventure (USA)/Arctic Adventure (USA).json
 developer: Apogee Software, Ltd.
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -98,7 +98,7 @@ x-playable: Yes
 
 
 game: Bio Menace (USA)
-file: Computer/Zoom/B/Bio Menace (USA)/Bio Menace (USA).json
+file: Roms/Computer/Zoom/B/Bio Menace (USA)/Bio Menace (USA).json
 developer: Apogee Software, Ltd.
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -121,7 +121,7 @@ x-playable: Yes
 
 
 game: Curse - The Eye of Isis (USA)
-file: Computer/Zoom/C/Curse - The Eye of Isis (USA)/Curse - The Eye of Isis (USA).json
+file: Roms/Computer/Zoom/C/Curse - The Eye of Isis (USA)/Curse - The Eye of Isis (USA).json
 developer: Asylum Entertainment
 publisher: DreamCatcher Interactive
 genre: Action;Adventure;Horror
@@ -152,7 +152,7 @@ x-playable: Yes
 
 
 game: Dark Ages (USA)
-file: Computer/Zoom/D/Dark Ages (USA)/Dark Ages (USA).json
+file: Roms/Computer/Zoom/D/Dark Ages (USA)/Dark Ages (USA).json
 developer: Scenario Software
 publisher: Apogee Software, Ltd.
 genre: Action;General
@@ -190,7 +190,7 @@ x-playable: Yes
 
 
 game: Death Rally (USA)
-file: Computer/Zoom/D/Death Rally (USA)/Death Rally (USA).json
+file: Roms/Computer/Zoom/D/Death Rally (USA)/Death Rally (USA).json
 developer: Remedy Entertainment
 publisher: GT Interactive
 genre: Racing;Arcade;Automobile
@@ -212,7 +212,7 @@ x-playable: Yes
 
 
 game: Killing Time (USA)
-file: Computer/Zoom/K/Killing Time (USA)/Killing Time (USA).json
+file: Roms/Computer/Zoom/K/Killing Time (USA)/Killing Time (USA).json
 developer: ONEONE1
 publisher: SakuraGame
 genre: Adventure;Visual Novel
@@ -245,7 +245,7 @@ x-playable: Yes
 
 
 game: Major Stryker (USA)
-file: Computer/Zoom/M/Major Stryker (USA)/Major Stryker (USA).json
+file: Roms/Computer/Zoom/M/Major Stryker (USA)/Major Stryker (USA).json
 developer: Apogee Software, Ltd.
 publisher: Apogee Software, Ltd.
 genre: Action
@@ -263,7 +263,7 @@ x-playable: Yes
 
 
 game: Monuments of Mars (USA)
-file: Computer/Zoom/M/Monuments of Mars (USA)/Monuments of Mars (USA).json
+file: Roms/Computer/Zoom/M/Monuments of Mars (USA)/Monuments of Mars (USA).json
 developer: Scenario Software
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -293,7 +293,7 @@ x-playable: Yes
 
 
 game: Necronomicon - The Dawning of Darkness (USA)
-file: Computer/Zoom/N/Necronomicon - The Dawning of Darkness (USA)/Necronomicon - The Dawning of Darkness (USA).json
+file: Roms/Computer/Zoom/N/Necronomicon - The Dawning of Darkness (USA)/Necronomicon - The Dawning of Darkness (USA).json
 developer: Wanadoo
 publisher: DreamCatcher Interactive
 genre: Adventure;Point-and-Click
@@ -311,7 +311,7 @@ x-playable: Yes
 
 
 game: Pharaoh's Tomb (USA)
-file: Computer/Zoom/P/Pharaoh's Tomb (USA)/Pharaoh's Tomb (USA).json
+file: Roms/Computer/Zoom/P/Pharaoh's Tomb (USA)/Pharaoh's Tomb (USA).json
 developer: Micro F/X Software
 publisher: Apogee Software, Ltd.
 genre: Action;Platformer;2D
@@ -347,7 +347,7 @@ x-playable: Yes
 
 
 game: Postal - Classic and Uncut (USA)
-file: Computer/Zoom/P/Postal - Classic and Uncut (USA)/Postal - Classic and Uncut (USA).json
+file: Roms/Computer/Zoom/P/Postal - Classic and Uncut (USA)/Postal - Classic and Uncut (USA).json
 developer: Running With Scissors
 publisher: Ripcord Games
 genre: Shooter
@@ -364,7 +364,7 @@ x-playable: Yes
 
 
 game: Shadow Warrior - Classic and Complete (USA)
-file: Computer/Zoom/S/Shadow Warrior - Classic and Complete (USA)/Shadow Warrior - Classic and Complete (USA).json
+file: Roms/Computer/Zoom/S/Shadow Warrior - Classic and Complete (USA)/Shadow Warrior - Classic and Complete (USA).json
 developer: 3D Realms
 publisher: GT Interactive
 genre: Action;Shooter;First-Person;Arcade
@@ -400,7 +400,7 @@ x-playable: Yes
 
 
 game: StarGunner (USA)
-file: Computer/Zoom/S/StarGunner (USA)/StarGunner (USA).json
+file: Roms/Computer/Zoom/S/StarGunner (USA)/StarGunner (USA).json
 developer: WizardWorks
 publisher: Apogee Software, Ltd.
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
@@ -434,7 +434,7 @@ x-playable: Yes
 
 
 game: Terminal Velocity (USA)
-file: Computer/Zoom/T/Terminal Velocity (USA)/Terminal Velocity (USA).json
+file: Roms/Computer/Zoom/T/Terminal Velocity (USA)/Terminal Velocity (USA).json
 developer: Terminal Reality
 publisher: 3D Realms
 genre: Simulation;Space;Combat
@@ -459,7 +459,7 @@ x-playable: Yes
 
 
 game: Warzone 2100 (USA)
-file: Computer/Zoom/W/Warzone 2100 (USA)/Warzone 2100 (USA).json
+file: Roms/Computer/Zoom/W/Warzone 2100 (USA)/Warzone 2100 (USA).json
 developer: Pumpkin Software
 publisher: Eidos Interactive
 genre: Strategy
@@ -495,7 +495,7 @@ x-playable: Yes
 
 
 game: Xenophage - Alien Bloodsport (USA)
-file: Computer/Zoom/X/Xenophage - Alien Bloodsport (USA)/Xenophage - Alien Bloodsport (USA).json
+file: Roms/Computer/Zoom/X/Xenophage - Alien Bloodsport (USA)/Xenophage - Alien Bloodsport (USA).json
 developer: Argo Games
 publisher: Apogee Software, Ltd.
 genre: Action;Fighting;2D
@@ -532,7 +532,7 @@ x-playable: Yes
 
 
 game: Z - The Game (USA)
-file: Computer/Zoom/Z/Z - The Game (USA)/Z - The Game (USA).json
+file: Roms/Computer/Zoom/Z/Z - The Game (USA)/Z - The Game (USA).json
 developer: Tic Toc Games
 publisher: KISS ltd
 genre: Strategy

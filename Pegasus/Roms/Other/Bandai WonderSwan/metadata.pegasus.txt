@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Bandai WonderSwan" -n {file.base
 
 
 game: Clock Tower for WonderSwan (Japan)
-file: Other/Bandai WonderSwan/Clock Tower for WonderSwan (Japan)/Clock Tower for WonderSwan (Japan).json
+file: Roms/Other/Bandai WonderSwan/Clock Tower for WonderSwan (Japan)/Clock Tower for WonderSwan (Japan).json
 developer: Human Entertainment
 publisher: Naxat Soft
 genre: Adventure

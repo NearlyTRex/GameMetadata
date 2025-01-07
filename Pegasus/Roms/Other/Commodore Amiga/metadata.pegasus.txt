@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Commodore Amiga" -n {file.basena
 
 
 game: B.C. Kid (Europe)
-file: Other/Commodore Amiga/B.C. Kid (Europe)/B.C. Kid (Europe).json
+file: Roms/Other/Commodore Amiga/B.C. Kid (Europe)/B.C. Kid (Europe).json
 developer: Factor 5 GmbH
 publisher: Ubisoft Entertainment
 genre: Platform
@@ -54,7 +54,7 @@ x-playable: Yes
 
 
 game: Katakis (Europe) (v1.1)
-file: Other/Commodore Amiga/Katakis (Europe) (v1.1)/Katakis (Europe) (v1.1).json
+file: Roms/Other/Commodore Amiga/Katakis (Europe) (v1.1)/Katakis (Europe) (v1.1).json
 developer: Factor 5 GmbH
 publisher: Rainbow Arts Software
 genre: Action;Shooter
@@ -81,7 +81,7 @@ x-playable: Yes
 
 
 game: R-Type (Europe)
-file: Other/Commodore Amiga/R-Type (Europe)/R-Type (Europe).json
+file: Roms/Other/Commodore Amiga/R-Type (Europe)/R-Type (Europe).json
 developer: Irem Corp.
 publisher: Electronic Dreams Software
 genre: Shooter
@@ -101,7 +101,7 @@ x-playable: Yes
 
 
 game: Turrican (Europe)
-file: Other/Commodore Amiga/Turrican (Europe)/Turrican (Europe).json
+file: Roms/Other/Commodore Amiga/Turrican (Europe)/Turrican (Europe).json
 developer: Factor 5
 publisher: Innerprise Software
 genre: Action;Platformer;2D
@@ -124,7 +124,7 @@ x-playable: Yes
 
 
 game: Turrican 3 (Europe)
-file: Other/Commodore Amiga/Turrican 3 (Europe)/Turrican 3 (Europe).json
+file: Roms/Other/Commodore Amiga/Turrican 3 (Europe)/Turrican 3 (Europe).json
 developer: Factor 5
 publisher: Renegade
 genre: Action;General
@@ -159,7 +159,7 @@ x-playable: Yes
 
 
 game: Turrican II - The Final Fight (Europe)
-file: Other/Commodore Amiga/Turrican II - The Final Fight (Europe)/Turrican II - The Final Fight (Europe).json
+file: Roms/Other/Commodore Amiga/Turrican II - The Final Fight (Europe)/Turrican II - The Final Fight (Europe).json
 developer: Factor 5
 publisher: Rainbow Arts
 genre: Action;General

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Virtual Boy" -n {fil
 
 
 game: Mario Clash (Japan, USA)
-file: Nintendo/Nintendo Virtual Boy/Mario Clash (Japan, USA)/Mario Clash (Japan, USA).json
+file: Roms/Nintendo/Nintendo Virtual Boy/Mario Clash (Japan, USA)/Mario Clash (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -29,7 +29,7 @@ x-playable: Yes
 
 
 game: Virtual Boy Wario Land (Japan, USA)
-file: Nintendo/Nintendo Virtual Boy/Virtual Boy Wario Land (Japan, USA)/Virtual Boy Wario Land (Japan, USA).json
+file: Roms/Nintendo/Nintendo Virtual Boy/Virtual Boy Wario Land (Japan, USA)/Virtual Boy Wario Land (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform

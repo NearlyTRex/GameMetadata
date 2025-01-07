@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Game Boy" -n {file.b
 
 
 game: Adventure Island (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Adventure Island (USA, Europe)/Adventure Island (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Adventure Island (USA, Europe)/Adventure Island (USA, Europe).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Platform
@@ -31,7 +31,7 @@ x-playable: Yes
 
 
 game: Alleyway (World)
-file: Nintendo/Nintendo Game Boy/Alleyway (World)/Alleyway (World).json
+file: Roms/Nintendo/Nintendo Game Boy/Alleyway (World)/Alleyway (World).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Action
@@ -49,7 +49,7 @@ x-playable: Yes
 
 
 game: Atchafalaya Arcade (USA)
-file: Nintendo/Nintendo Game Boy/Atchafalaya Arcade (USA)/Atchafalaya Arcade (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Atchafalaya Arcade (USA)/Atchafalaya Arcade (USA).json
 developer: Tambalaya
 publisher: Tambalaya
 genre: 8-Bit;Abstract;Artgame;Experimental
@@ -74,7 +74,7 @@ x-playable: Yes
 
 
 game: Avenging Spirit (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Avenging Spirit (USA, Europe)/Avenging Spirit (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Avenging Spirit (USA, Europe)/Avenging Spirit (USA, Europe).json
 developer: C.P. Brain
 publisher: Jaleco
 genre: Action
@@ -97,7 +97,7 @@ x-playable: Yes
 
 
 game: Balloon Kid (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Balloon Kid (USA, Europe)/Balloon Kid (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Balloon Kid (USA, Europe)/Balloon Kid (USA, Europe).json
 developer: Pax Softnica
 publisher: Nintendo
 genre: Platform
@@ -119,7 +119,7 @@ x-playable: Yes
 
 
 game: Bionic Commando (USA)
-file: Nintendo/Nintendo Game Boy/Bionic Commando (USA)/Bionic Commando (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Bionic Commando (USA)/Bionic Commando (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -145,7 +145,7 @@ x-playable: Yes
 
 
 game: Bugs Bunny Crazy Castle, The (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Bugs Bunny Crazy Castle, The (USA, Europe)/Bugs Bunny Crazy Castle, The (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Bugs Bunny Crazy Castle, The (USA, Europe)/Bugs Bunny Crazy Castle, The (USA, Europe).json
 developer: Kemco
 publisher: Kemco
 genre: Action
@@ -172,7 +172,7 @@ x-playable: Yes
 
 
 game: Bunflower (USA)
-file: Nintendo/Nintendo Game Boy/Bunflower (USA)/Bunflower (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Bunflower (USA)/Bunflower (USA).json
 developer: SaturnSprout
 publisher: SaturnSprout
 genre: Adventure
@@ -188,7 +188,7 @@ x-playable: Yes
 
 
 game: BurgerTime Deluxe (World)
-file: Nintendo/Nintendo Game Boy/BurgerTime Deluxe (World)/BurgerTime Deluxe (World).json
+file: Roms/Nintendo/Nintendo Game Boy/BurgerTime Deluxe (World)/BurgerTime Deluxe (World).json
 developer: Data East Corporation
 publisher: Data East Corporation
 genre: Action
@@ -227,7 +227,7 @@ x-playable: Yes
 
 
 game: Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo Game Boy/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo Game Boy/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection)/Castlevania - The Adventure (USA) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -257,7 +257,7 @@ x-playable: Yes
 
 
 game: Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo Game Boy/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo Game Boy/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection)/Castlevania II - Belmont's Revenge (USA, Europe) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform
@@ -295,7 +295,7 @@ x-playable: Yes
 
 
 game: Catrap (USA)
-file: Nintendo/Nintendo Game Boy/Catrap (USA)/Catrap (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Catrap (USA)/Catrap (USA).json
 developer: ASK Kodansha
 publisher: Asmik
 genre: Puzzle
@@ -327,7 +327,7 @@ x-playable: Yes
 
 
 game: Contra (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo Game Boy/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo Game Boy/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -357,7 +357,7 @@ x-playable: Yes
 
 
 game: Double Dragon (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Double Dragon (USA, Europe)/Double Dragon (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Double Dragon (USA, Europe)/Double Dragon (USA, Europe).json
 developer: Technōs Japan
 publisher: Tradewest
 genre: Action;Beat 'em Up
@@ -379,7 +379,7 @@ x-playable: Yes
 
 
 game: Dr. Mario (World) (Rev A)
-file: Nintendo/Nintendo Game Boy/Dr. Mario (World) (Rev A)/Dr. Mario (World) (Rev A).json
+file: Roms/Nintendo/Nintendo Game Boy/Dr. Mario (World) (Rev A)/Dr. Mario (World) (Rev A).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Puzzle
@@ -402,7 +402,7 @@ x-playable: Yes
 
 
 game: Dracula Densetsu (Japan) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo Game Boy/Dracula Densetsu (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu (Japan) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo Game Boy/Dracula Densetsu (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu (Japan) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -430,7 +430,7 @@ x-playable: Yes
 
 
 game: Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo Game Boy/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo Game Boy/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection)/Dracula Densetsu II (Japan) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform
@@ -466,7 +466,7 @@ x-playable: Yes
 
 
 game: DuckTales (USA)
-file: Nintendo/Nintendo Game Boy/DuckTales (USA)/DuckTales (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/DuckTales (USA)/DuckTales (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -492,7 +492,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Adventure (USA)
-file: Nintendo/Nintendo Game Boy/Final Fantasy Adventure (USA)/Final Fantasy Adventure (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Final Fantasy Adventure (USA)/Final Fantasy Adventure (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -517,7 +517,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Legend II (USA)
-file: Nintendo/Nintendo Game Boy/Final Fantasy Legend II (USA)/Final Fantasy Legend II (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Final Fantasy Legend II (USA)/Final Fantasy Legend II (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -540,7 +540,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Legend III (USA)
-file: Nintendo/Nintendo Game Boy/Final Fantasy Legend III (USA)/Final Fantasy Legend III (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Final Fantasy Legend III (USA)/Final Fantasy Legend III (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -564,7 +564,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Legend, The (USA)
-file: Nintendo/Nintendo Game Boy/Final Fantasy Legend, The (USA)/Final Fantasy Legend, The (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Final Fantasy Legend, The (USA)/Final Fantasy Legend, The (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -588,7 +588,7 @@ x-playable: Yes
 
 
 game: Fortified Zone (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Fortified Zone (USA, Europe)/Fortified Zone (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Fortified Zone (USA, Europe)/Fortified Zone (USA, Europe).json
 developer: Jaleco
 publisher: Jaleco
 genre: Shooter
@@ -623,7 +623,7 @@ x-playable: Yes
 
 
 game: Gargoyle's Quest (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Gargoyle's Quest (USA, Europe)/Gargoyle's Quest (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Gargoyle's Quest (USA, Europe)/Gargoyle's Quest (USA, Europe).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure;Platform
@@ -649,7 +649,7 @@ x-playable: Yes
 
 
 game: Kid Icarus - Of Myths and Monsters (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Kid Icarus - Of Myths and Monsters (USA, Europe)/Kid Icarus - Of Myths and Monsters (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Kid Icarus - Of Myths and Monsters (USA, Europe)/Kid Icarus - Of Myths and Monsters (USA, Europe).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -675,7 +675,7 @@ x-playable: Yes
 
 
 game: Kirby's Dream Land (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Kirby's Dream Land (USA, Europe)/Kirby's Dream Land (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Kirby's Dream Land (USA, Europe)/Kirby's Dream Land (USA, Europe).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -704,7 +704,7 @@ x-playable: Yes
 
 
 game: Kirby's Pinball Land (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Kirby's Pinball Land (USA, Europe)/Kirby's Pinball Land (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Kirby's Pinball Land (USA, Europe)/Kirby's Pinball Land (USA, Europe).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action
@@ -723,7 +723,7 @@ x-playable: Yes
 
 
 game: Lock n' Chase ~ Lock 'n' Chase (World)
-file: Nintendo/Nintendo Game Boy/Lock n' Chase ~ Lock 'n' Chase (World)/Lock n' Chase ~ Lock 'n' Chase (World).json
+file: Roms/Nintendo/Nintendo Game Boy/Lock n' Chase ~ Lock 'n' Chase (World)/Lock n' Chase ~ Lock 'n' Chase (World).json
 developer: Data East
 publisher: Data East
 genre: Action
@@ -744,7 +744,7 @@ x-playable: Yes
 
 
 game: Maru's Mission (USA)
-file: Nintendo/Nintendo Game Boy/Maru's Mission (USA)/Maru's Mission (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Maru's Mission (USA)/Maru's Mission (USA).json
 developer: TOSE
 publisher: Jaleco
 genre: Platform
@@ -770,7 +770,7 @@ x-playable: Yes
 
 
 game: Mega Man - Dr. Wily's Revenge (USA)
-file: Nintendo/Nintendo Game Boy/Mega Man - Dr. Wily's Revenge (USA)/Mega Man - Dr. Wily's Revenge (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Mega Man - Dr. Wily's Revenge (USA)/Mega Man - Dr. Wily's Revenge (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -794,7 +794,7 @@ x-playable: Yes
 
 
 game: Mega Man II (USA)
-file: Nintendo/Nintendo Game Boy/Mega Man II (USA)/Mega Man II (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Mega Man II (USA)/Mega Man II (USA).json
 developer: Japan System House
 publisher: Capcom
 genre: Action;Platform
@@ -816,7 +816,7 @@ x-playable: Yes
 
 
 game: Mega Man III (USA)
-file: Nintendo/Nintendo Game Boy/Mega Man III (USA)/Mega Man III (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Mega Man III (USA)/Mega Man III (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -843,7 +843,7 @@ x-playable: Yes
 
 
 game: Mega Man IV (USA)
-file: Nintendo/Nintendo Game Boy/Mega Man IV (USA)/Mega Man IV (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Mega Man IV (USA)/Mega Man IV (USA).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -869,7 +869,7 @@ x-playable: Yes
 
 
 game: Metroid II - Return of Samus (World)
-file: Nintendo/Nintendo Game Boy/Metroid II - Return of Samus (World)/Metroid II - Return of Samus (World).json
+file: Roms/Nintendo/Nintendo Game Boy/Metroid II - Return of Samus (World)/Metroid II - Return of Samus (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Adventure
@@ -898,7 +898,7 @@ x-playable: Yes
 
 
 game: Operation C (USA)
-file: Nintendo/Nintendo Game Boy/Operation C (USA)/Operation C (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Operation C (USA)/Operation C (USA).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -929,7 +929,7 @@ x-playable: Yes
 
 
 game: Operation C (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo Game Boy/Operation C (World) (Contra Anniversary Collection)/Operation C (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo Game Boy/Operation C (World) (Contra Anniversary Collection)/Operation C (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -960,7 +960,7 @@ x-playable: Yes
 
 
 game: Pinball - Revenge of the 'Gator (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Pinball - Revenge of the 'Gator (USA, Europe)/Pinball - Revenge of the 'Gator (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Pinball - Revenge of the 'Gator (USA, Europe)/Pinball - Revenge of the 'Gator (USA, Europe).json
 developer: HAL Laboratory
 publisher: HAL Laboratory
 genre: Action
@@ -981,7 +981,7 @@ x-playable: Yes
 
 
 game: Probotector (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo Game Boy/Probotector (World) (Contra Anniversary Collection)/Probotector (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo Game Boy/Probotector (World) (Contra Anniversary Collection)/Probotector (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Ultra Games
 genre: Action;Shooter
@@ -1011,7 +1011,7 @@ x-playable: Yes
 
 
 game: QIX (World)
-file: Nintendo/Nintendo Game Boy/QIX (World)/QIX (World).json
+file: Roms/Nintendo/Nintendo Game Boy/QIX (World)/QIX (World).json
 developer: Minakuchi Engineering
 publisher: Nintendo
 genre: Puzzle
@@ -1032,7 +1032,7 @@ x-playable: Yes
 
 
 game: Quarth (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Quarth (USA, Europe)/Quarth (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Quarth (USA, Europe)/Quarth (USA, Europe).json
 developer: Konami
 publisher: Ultra Games
 genre: Puzzle
@@ -1057,7 +1057,7 @@ x-playable: Yes
 
 
 game: Radar Mission (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Radar Mission (USA, Europe)/Radar Mission (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Radar Mission (USA, Europe)/Radar Mission (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Strategy
@@ -1075,7 +1075,7 @@ x-playable: Yes
 
 
 game: Side Pocket (World)
-file: Nintendo/Nintendo Game Boy/Side Pocket (World)/Side Pocket (World).json
+file: Roms/Nintendo/Nintendo Game Boy/Side Pocket (World)/Side Pocket (World).json
 developer: Data East Corporation
 publisher: Data East Corporation
 genre: Sports
@@ -1094,7 +1094,7 @@ x-playable: Yes
 
 
 game: Super Mario Land (World)
-file: Nintendo/Nintendo Game Boy/Super Mario Land (World)/Super Mario Land (World).json
+file: Roms/Nintendo/Nintendo Game Boy/Super Mario Land (World)/Super Mario Land (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Platform
@@ -1116,7 +1116,7 @@ x-playable: Yes
 
 
 game: Super Mario Land 2 - 6 Golden Coins (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Super Mario Land 2 - 6 Golden Coins (USA, Europe)/Super Mario Land 2 - 6 Golden Coins (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Super Mario Land 2 - 6 Golden Coins (USA, Europe)/Super Mario Land 2 - 6 Golden Coins (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Platform
@@ -1142,7 +1142,7 @@ x-playable: Yes
 
 
 game: Sword of Hope II, The (USA)
-file: Nintendo/Nintendo Game Boy/Sword of Hope II, The (USA)/Sword of Hope II, The (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Sword of Hope II, The (USA)/Sword of Hope II, The (USA).json
 developer: Kemco
 publisher: Kemco
 genre: Role-Playing
@@ -1166,7 +1166,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)
-file: Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA)/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -1196,7 +1196,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)
-file: Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA)/Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platformer;2D
@@ -1217,7 +1217,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles III - Radical Rescue (USA)
-file: Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)/Teenage Mutant Ninja Turtles III - Radical Rescue (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Teenage Mutant Ninja Turtles III - Radical Rescue (USA)/Teenage Mutant Ninja Turtles III - Radical Rescue (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platformer;2D
@@ -1263,7 +1263,7 @@ x-playable: Yes
 
 
 game: Tetris (World) (Rev A)
-file: Nintendo/Nintendo Game Boy/Tetris (World) (Rev A)/Tetris (World) (Rev A).json
+file: Roms/Nintendo/Nintendo Game Boy/Tetris (World) (Rev A)/Tetris (World) (Rev A).json
 developer: Bullet-Proof Software
 publisher: Nintendo
 genre: Puzzle
@@ -1285,7 +1285,7 @@ x-playable: Yes
 
 
 game: Tumble Pop (USA, Europe)
-file: Nintendo/Nintendo Game Boy/Tumble Pop (USA, Europe)/Tumble Pop (USA, Europe).json
+file: Roms/Nintendo/Nintendo Game Boy/Tumble Pop (USA, Europe)/Tumble Pop (USA, Europe).json
 developer: Data East
 publisher: Sunsoft
 genre: Action
@@ -1309,7 +1309,7 @@ x-playable: Yes
 
 
 game: Vampire Night Shift (USA)
-file: Nintendo/Nintendo Game Boy/Vampire Night Shift (USA)/Vampire Night Shift (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Vampire Night Shift (USA)/Vampire Night Shift (USA).json
 developer: cloverfirefly
 publisher: cloverfirefly
 genre: Adventure
@@ -1339,7 +1339,7 @@ x-playable: Yes
 
 
 game: Viv and Bob (USA)
-file: Nintendo/Nintendo Game Boy/Viv and Bob (USA)/Viv and Bob (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Viv and Bob (USA)/Viv and Bob (USA).json
 developer: Impergatox
 publisher: Impergatox
 genre: Puzzle
@@ -1366,7 +1366,7 @@ x-playable: Yes
 
 
 game: Wario Land - Super Mario Land 3 (World)
-file: Nintendo/Nintendo Game Boy/Wario Land - Super Mario Land 3 (World)/Wario Land - Super Mario Land 3 (World).json
+file: Roms/Nintendo/Nintendo Game Boy/Wario Land - Super Mario Land 3 (World)/Wario Land - Super Mario Land 3 (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Platform
@@ -1393,7 +1393,7 @@ x-playable: Yes
 
 
 game: Wishing Sarah (USA)
-file: Nintendo/Nintendo Game Boy/Wishing Sarah (USA)/Wishing Sarah (USA).json
+file: Roms/Nintendo/Nintendo Game Boy/Wishing Sarah (USA)/Wishing Sarah (USA).json
 developer: Asteristic Game Studio
 publisher: Asteristic Game Studio
 genre: Adventure

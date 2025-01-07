@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo WiiWare" -n {file.ba
 
 
 game: And Yet It Moves (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/And Yet It Moves (USA) (Demo) (WiiWare)/And Yet It Moves (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/And Yet It Moves (USA) (Demo) (WiiWare)/And Yet It Moves (USA) (Demo) (WiiWare).json
 developer: Broken Rules
 publisher: Broken Rules
 genre: Action;Platformer;2D
@@ -30,7 +30,7 @@ x-playable: Yes
 
 
 game: Art of Balance (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Art of Balance (USA) (Demo) (WiiWare)/Art of Balance (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Art of Balance (USA) (Demo) (WiiWare)/Art of Balance (USA) (Demo) (WiiWare).json
 developer: Shin'en
 publisher: Shin'en
 genre: Puzzle;General
@@ -45,7 +45,7 @@ x-playable: Yes
 
 
 game: Bit.Trip Beat (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Bit.Trip Beat (USA) (Demo) (WiiWare)/Bit.Trip Beat (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Bit.Trip Beat (USA) (Demo) (WiiWare)/Bit.Trip Beat (USA) (Demo) (WiiWare).json
 developer: Gaijin Games
 publisher: Aksys Games
 genre: Action;Rhythm;Music
@@ -66,7 +66,7 @@ x-playable: Yes
 
 
 game: Bit.Trip Fate (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Bit.Trip Fate (USA) (Demo) (WiiWare)/Bit.Trip Fate (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Bit.Trip Fate (USA) (Demo) (WiiWare)/Bit.Trip Fate (USA) (Demo) (WiiWare).json
 developer: Gaijin Games
 publisher: Aksys Games
 genre: Action;Rhythm;Music
@@ -103,7 +103,7 @@ x-playable: Yes
 
 
 game: Cave Story (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Cave Story (USA) (Demo) (WiiWare)/Cave Story (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Cave Story (USA) (Demo) (WiiWare)/Cave Story (USA) (Demo) (WiiWare).json
 developer: Nicalis
 publisher: Nicalis
 genre: Action;Platformer;Metroidvania
@@ -127,7 +127,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare)/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare)/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (Demo) (WiiWare).json
 developer: Square Enix
 publisher: Square Enix
 genre: Strategy;Real-Time;General
@@ -157,7 +157,7 @@ x-playable: Yes
 
 
 game: Fish'em All (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Fish'em All (USA) (Demo) (WiiWare)/Fish'em All (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Fish'em All (USA) (Demo) (WiiWare)/Fish'em All (USA) (Demo) (WiiWare).json
 developer: Abylight
 publisher: Abylight
 genre: Puzzle;Action
@@ -181,7 +181,7 @@ x-playable: Yes
 
 
 game: Fluidity (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Fluidity (USA) (Demo) (WiiWare)/Fluidity (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Fluidity (USA) (Demo) (WiiWare)/Fluidity (USA) (Demo) (WiiWare).json
 developer: Curve Studios
 publisher: Nintendo
 genre: Action;Platformer;2D
@@ -198,7 +198,7 @@ x-playable: Yes
 
 
 game: Frobot (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Frobot (USA) (Demo) (WiiWare)/Frobot (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Frobot (USA) (Demo) (WiiWare)/Frobot (USA) (Demo) (WiiWare).json
 developer: Fugazo
 publisher: Fugazo
 genre: Action;General
@@ -224,7 +224,7 @@ x-playable: Yes
 
 
 game: Furry Legends (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Furry Legends (USA) (Demo) (WiiWare)/Furry Legends (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Furry Legends (USA) (Demo) (WiiWare)/Furry Legends (USA) (Demo) (WiiWare).json
 developer: Gamelion Studios
 publisher: Gamelion Studios
 genre: Action;Platformer;3D
@@ -245,7 +245,7 @@ x-playable: Yes
 
 
 game: Jett Rocket (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Jett Rocket (USA) (Demo) (WiiWare)/Jett Rocket (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Jett Rocket (USA) (Demo) (WiiWare)/Jett Rocket (USA) (Demo) (WiiWare).json
 developer: Shin'en
 publisher: Shin'en
 genre: Action;Platformer;3D
@@ -275,7 +275,7 @@ x-playable: Yes
 
 
 game: Lilt Line (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Lilt Line (USA) (Demo) (WiiWare)/Lilt Line (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Lilt Line (USA) (Demo) (WiiWare)/Lilt Line (USA) (Demo) (WiiWare).json
 developer: different cloth
 publisher: Gaijin Games
 genre: Action;Rhythm;Music
@@ -294,7 +294,7 @@ x-playable: Yes
 
 
 game: Max & the Magic Marker (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Max & the Magic Marker (USA) (Demo) (WiiWare)/Max & the Magic Marker (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Max & the Magic Marker (USA) (Demo) (WiiWare)/Max & the Magic Marker (USA) (Demo) (WiiWare).json
 developer: Press Play
 publisher: Press Play
 genre: Action;Platformer;2D
@@ -319,7 +319,7 @@ x-playable: Yes
 
 
 game: NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare)/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare)/NyxQuest - Kindred Spirits (USA) (Demo) (WiiWare).json
 developer: Over the Top Games
 publisher: Over the Top Games
 genre: Action;Platformer;2D
@@ -336,7 +336,7 @@ x-playable: Yes
 
 
 game: Pokemon Rumble (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Pokemon Rumble (USA) (Demo) (WiiWare)/Pokemon Rumble (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Pokemon Rumble (USA) (Demo) (WiiWare)/Pokemon Rumble (USA) (Demo) (WiiWare).json
 developer: Ambrella
 publisher: Nintendo
 genre: Action;Beat-'Em-Up;3D
@@ -363,7 +363,7 @@ x-playable: Yes
 
 
 game: Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare)/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare)/Racers' Islands - Crazy Racers (USA) (Demo) (WiiWare).json
 developer: Artefacts Studio
 publisher: Zallag
 genre: Racing;Arcade;Other
@@ -381,7 +381,7 @@ x-playable: Yes
 
 
 game: Robox (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Robox (USA) (Demo) (WiiWare)/Robox (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Robox (USA) (Demo) (WiiWare)/Robox (USA) (Demo) (WiiWare).json
 developer: DreamBox Games
 publisher: DreamBox Games
 genre: Action Adventure;General
@@ -407,7 +407,7 @@ x-playable: Yes
 
 
 game: ThruSpace (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/ThruSpace (USA) (Demo) (WiiWare)/ThruSpace (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/ThruSpace (USA) (Demo) (WiiWare)/ThruSpace (USA) (Demo) (WiiWare).json
 developer: Keys Factory
 publisher: Nintendo
 genre: Puzzle;Action
@@ -434,7 +434,7 @@ x-playable: Yes
 
 
 game: World of Goo (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/World of Goo (USA) (Demo) (WiiWare)/World of Goo (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/World of Goo (USA) (Demo) (WiiWare)/World of Goo (USA) (Demo) (WiiWare).json
 developer: 2D Boy
 publisher: 2D Boy
 genre: Puzzle;Action
@@ -456,7 +456,7 @@ x-playable: Yes
 
 
 game: Zombie Panic in Wonderland (USA) (Demo) (WiiWare)
-file: Nintendo/Nintendo WiiWare/Zombie Panic in Wonderland (USA) (Demo) (WiiWare)/Zombie Panic in Wonderland (USA) (Demo) (WiiWare).json
+file: Roms/Nintendo/Nintendo WiiWare/Zombie Panic in Wonderland (USA) (Demo) (WiiWare)/Zombie Panic in Wonderland (USA) (Demo) (WiiWare).json
 developer: Akaoni Studio
 publisher: Akaoni Studio
 genre: Action;Shooter;Third-Person;Arcade

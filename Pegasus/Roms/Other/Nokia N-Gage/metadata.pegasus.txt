@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Nokia N-Gage" -n {file.basename}
 
 
 game: Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)
-file: Other/Nokia N-Gage/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).json
+file: Roms/Other/Nokia N-Gage/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06)/Ashen (USA, Europe) (En,Fr,De,Es,It) (v1.06).json
 developer: Torus Games
 publisher: Nokia
 genre: Action;Shooter
@@ -21,7 +21,7 @@ x-playable: Yes
 
 
 game: Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0)
-file: Other/Nokia N-Gage/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0)/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).json
+file: Roms/Other/Nokia N-Gage/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0)/Tomb Raider Starring Lara Croft (USA, Europe) (En,Fr,De,Es,It) (v1.0).json
 developer: Ideaworks3D
 publisher: Eidos
 genre: Platform

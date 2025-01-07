@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Arcade" -n {file.basename}
 
 
 game: 1941 - Counter Attack (World) (1941)
-file: Other/Arcade/1941 - Counter Attack (World) (1941)/1941 - Counter Attack (World) (1941).json
+file: Roms/Other/Arcade/1941 - Counter Attack (World) (1941)/1941 - Counter Attack (World) (1941).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -34,7 +34,7 @@ x-playable: Yes
 
 
 game: 1942 (World) (1942)
-file: Other/Arcade/1942 (World) (1942)/1942 (World) (1942).json
+file: Roms/Other/Arcade/1942 (World) (1942)/1942 (World) (1942).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -56,7 +56,7 @@ x-playable: Yes
 
 
 game: 1943 - The Battle of Midway (Europe) (1943)
-file: Other/Arcade/1943 - The Battle of Midway (Europe) (1943)/1943 - The Battle of Midway (Europe) (1943).json
+file: Roms/Other/Arcade/1943 - The Battle of Midway (Europe) (1943)/1943 - The Battle of Midway (Europe) (1943).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -89,7 +89,7 @@ x-playable: Yes
 
 
 game: 1943 Kai - Midway Kaisen (Japan) (1943kai)
-file: Other/Arcade/1943 Kai - Midway Kaisen (Japan) (1943kai)/1943 Kai - Midway Kaisen (Japan) (1943kai).json
+file: Roms/Other/Arcade/1943 Kai - Midway Kaisen (Japan) (1943kai)/1943 Kai - Midway Kaisen (Japan) (1943kai).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -129,7 +129,7 @@ x-playable: Yes
 
 
 game: 1944 - The Loop Master (Europe) (1944)
-file: Other/Arcade/1944 - The Loop Master (Europe) (1944)/1944 - The Loop Master (Europe) (1944).json
+file: Roms/Other/Arcade/1944 - The Loop Master (Europe) (1944)/1944 - The Loop Master (Europe) (1944).json
 developer: Capcom
 publisher: 8ing/Raizing
 genre: Action;Shooter
@@ -149,7 +149,7 @@ x-playable: Yes
 
 
 game: 19XX - The War Against Destiny (Europe) (19xx)
-file: Other/Arcade/19XX - The War Against Destiny (Europe) (19xx)/19XX - The War Against Destiny (Europe) (19xx).json
+file: Roms/Other/Arcade/19XX - The War Against Destiny (Europe) (19xx)/19XX - The War Against Destiny (Europe) (19xx).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -169,7 +169,7 @@ x-playable: Yes
 
 
 game: 720 Degrees (World) (720)
-file: Other/Arcade/720 Degrees (World) (720)/720 Degrees (World) (720).json
+file: Roms/Other/Arcade/720 Degrees (World) (720)/720 Degrees (World) (720).json
 developer: Atari Games
 publisher: Atari Games
 genre: Sports
@@ -195,7 +195,7 @@ x-playable: Yes
 
 
 game: APB - All Points Bulletin (World) (apb)
-file: Other/Arcade/APB - All Points Bulletin (World) (apb)/APB - All Points Bulletin (World) (apb).json
+file: Roms/Other/Arcade/APB - All Points Bulletin (World) (apb)/APB - All Points Bulletin (World) (apb).json
 developer: Atari Games
 publisher: Atari Games
 genre: Action;Racing
@@ -244,7 +244,7 @@ x-playable: Yes
 
 
 game: Akka Arrh (World) (Proto) (akkaarrh)
-file: Other/Arcade/Akka Arrh (World) (Proto) (akkaarrh)/Akka Arrh (World) (Proto) (akkaarrh).json
+file: Roms/Other/Arcade/Akka Arrh (World) (Proto) (akkaarrh)/Akka Arrh (World) (Proto) (akkaarrh).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action
@@ -273,7 +273,7 @@ x-playable: Yes
 
 
 game: Alien Syndrome (World) (aliensyn)
-file: Other/Arcade/Alien Syndrome (World) (aliensyn)/Alien Syndrome (World) (aliensyn).json
+file: Roms/Other/Arcade/Alien Syndrome (World) (aliensyn)/Alien Syndrome (World) (aliensyn).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -297,7 +297,7 @@ x-playable: Yes
 
 
 game: Alpha Mission (World) (alphamis)
-file: Other/Arcade/Alpha Mission (World) (alphamis)/Alpha Mission (World) (alphamis).json
+file: Roms/Other/Arcade/Alpha Mission (World) (alphamis)/Alpha Mission (World) (alphamis).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -319,7 +319,7 @@ x-playable: Yes
 
 
 game: Altered Beast (World) (altbeast)
-file: Other/Arcade/Altered Beast (World) (altbeast)/Altered Beast (World) (altbeast).json
+file: Roms/Other/Arcade/Altered Beast (World) (altbeast)/Altered Beast (World) (altbeast).json
 developer: Team Shinobi
 publisher: Activision
 genre: Platform;Beat 'em Up
@@ -348,7 +348,7 @@ x-playable: Yes
 
 
 game: Arch Rivals (World) (archrivl)
-file: Other/Arcade/Arch Rivals (World) (archrivl)/Arch Rivals (World) (archrivl).json
+file: Roms/Other/Arcade/Arch Rivals (World) (archrivl)/Arch Rivals (World) (archrivl).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Sports
@@ -377,7 +377,7 @@ x-playable: Yes
 
 
 game: Armored Warriors (Europe) (armwar)
-file: Other/Arcade/Armored Warriors (Europe) (armwar)/Armored Warriors (Europe) (armwar).json
+file: Roms/Other/Arcade/Armored Warriors (Europe) (armwar)/Armored Warriors (Europe) (armwar).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -410,7 +410,7 @@ x-playable: Yes
 
 
 game: Art of Fighting (World) (aof)
-file: Other/Arcade/Art of Fighting (World) (aof)/Art of Fighting (World) (aof).json
+file: Roms/Other/Arcade/Art of Fighting (World) (aof)/Art of Fighting (World) (aof).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -432,7 +432,7 @@ x-playable: Yes
 
 
 game: Asteroids (World) (asteroid)
-file: Other/Arcade/Asteroids (World) (asteroid)/Asteroids (World) (asteroid).json
+file: Roms/Other/Arcade/Asteroids (World) (asteroid)/Asteroids (World) (asteroid).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -458,7 +458,7 @@ x-playable: Yes
 
 
 game: Asteroids Deluxe (World) (astdelux)
-file: Other/Arcade/Asteroids Deluxe (World) (astdelux)/Asteroids Deluxe (World) (astdelux).json
+file: Roms/Other/Arcade/Asteroids Deluxe (World) (astdelux)/Asteroids Deluxe (World) (astdelux).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -502,7 +502,7 @@ x-playable: Yes
 
 
 game: Atari Baseball (World) (abaseb)
-file: Other/Arcade/Atari Baseball (World) (abaseb)/Atari Baseball (World) (abaseb).json
+file: Roms/Other/Arcade/Atari Baseball (World) (abaseb)/Atari Baseball (World) (abaseb).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -520,7 +520,7 @@ x-playable: Yes
 
 
 game: Atari Basketball (World) (bsktball)
-file: Other/Arcade/Atari Basketball (World) (bsktball)/Atari Basketball (World) (bsktball).json
+file: Roms/Other/Arcade/Atari Basketball (World) (bsktball)/Atari Basketball (World) (bsktball).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -539,7 +539,7 @@ x-playable: Yes
 
 
 game: Atari Football (World) (atarifb)
-file: Other/Arcade/Atari Football (World) (atarifb)/Atari Football (World) (atarifb).json
+file: Roms/Other/Arcade/Atari Football (World) (atarifb)/Atari Football (World) (atarifb).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -558,7 +558,7 @@ x-playable: Yes
 
 
 game: Atari Soccer (World) (soccer)
-file: Other/Arcade/Atari Soccer (World) (soccer)/Atari Soccer (World) (soccer).json
+file: Roms/Other/Arcade/Atari Soccer (World) (soccer)/Atari Soccer (World) (soccer).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -578,7 +578,7 @@ x-playable: Yes
 
 
 game: Athena (World) (athena)
-file: Other/Arcade/Athena (World) (athena)/Athena (World) (athena).json
+file: Roms/Other/Arcade/Athena (World) (athena)/Athena (World) (athena).json
 developer: SNK
 publisher: SNK
 genre: Platform
@@ -597,7 +597,7 @@ x-playable: Yes
 
 
 game: Avalanche (World) (avalnche)
-file: Other/Arcade/Avalanche (World) (avalnche)/Avalanche (World) (avalnche).json
+file: Roms/Other/Arcade/Avalanche (World) (avalnche)/Avalanche (World) (avalnche).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -625,7 +625,7 @@ x-playable: Yes
 
 
 game: Avengers (USA) (avengers)
-file: Other/Arcade/Avengers (USA) (avengers)/Avengers (USA) (avengers).json
+file: Roms/Other/Arcade/Avengers (USA) (avengers)/Avengers (USA) (avengers).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -652,7 +652,7 @@ x-playable: Yes
 
 
 game: Baseball Stars 2 (World) (bstars2)
-file: Other/Arcade/Baseball Stars 2 (World) (bstars2)/Baseball Stars 2 (World) (bstars2).json
+file: Roms/Other/Arcade/Baseball Stars 2 (World) (bstars2)/Baseball Stars 2 (World) (bstars2).json
 developer: SNK
 publisher: SNK
 genre: Sports
@@ -667,7 +667,7 @@ x-playable: Yes
 
 
 game: Battle Circuit (Europe) (batcir)
-file: Other/Arcade/Battle Circuit (Europe) (batcir)/Battle Circuit (Europe) (batcir).json
+file: Roms/Other/Arcade/Battle Circuit (Europe) (batcir)/Battle Circuit (Europe) (batcir).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -699,7 +699,7 @@ x-playable: Yes
 
 
 game: Battle Zone (World) (bzone)
-file: Other/Arcade/Battle Zone (World) (bzone)/Battle Zone (World) (bzone).json
+file: Roms/Other/Arcade/Battle Zone (World) (bzone)/Battle Zone (World) (bzone).json
 developer: Atari
 publisher: Atari
 genre: Shooter;Vehicle Simulation
@@ -722,7 +722,7 @@ x-playable: Yes
 
 
 game: Battletoads (World) (btoads)
-file: Other/Arcade/Battletoads (World) (btoads)/Battletoads (World) (btoads).json
+file: Roms/Other/Arcade/Battletoads (World) (btoads)/Battletoads (World) (btoads).json
 developer: Rare
 publisher: Electronic Arts
 genre: Beat 'em Up
@@ -752,7 +752,7 @@ x-playable: Yes
 
 
 game: Beast Busters (World) (bbusters)
-file: Other/Arcade/Beast Busters (World) (bbusters)/Beast Busters (World) (bbusters).json
+file: Roms/Other/Arcade/Beast Busters (World) (bbusters)/Beast Busters (World) (bbusters).json
 developer: Hamachi | Images Design | Papa and team
 publisher: SNK
 genre: Shooter
@@ -769,7 +769,7 @@ x-playable: Yes
 
 
 game: Bermuda Triangle (World) (bermudat)
-file: Other/Arcade/Bermuda Triangle (World) (bermudat)/Bermuda Triangle (World) (bermudat).json
+file: Roms/Other/Arcade/Bermuda Triangle (World) (bermudat)/Bermuda Triangle (World) (bermudat).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -801,7 +801,7 @@ x-playable: Yes
 
 
 game: Bionic Commando (Europe) (bionicc)
-file: Other/Arcade/Bionic Commando (Europe) (bionicc)/Bionic Commando (Europe) (bionicc).json
+file: Roms/Other/Arcade/Bionic Commando (Europe) (bionicc)/Bionic Commando (Europe) (bionicc).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -821,7 +821,7 @@ x-playable: Yes
 
 
 game: Black Tiger (World) (blktiger)
-file: Other/Arcade/Black Tiger (World) (blktiger)/Black Tiger (World) (blktiger).json
+file: Roms/Other/Arcade/Black Tiger (World) (blktiger)/Black Tiger (World) (blktiger).json
 developer: Capcom
 publisher: Capcom
 genre: Platform;Beat 'em Up
@@ -842,7 +842,7 @@ x-playable: Yes
 
 
 game: Black Widow (World) (bwidow)
-file: Other/Arcade/Black Widow (World) (bwidow)/Black Widow (World) (bwidow).json
+file: Roms/Other/Arcade/Black Widow (World) (bwidow)/Black Widow (World) (bwidow).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -862,7 +862,7 @@ x-playable: Yes
 
 
 game: Blaster (World) (blaster)
-file: Other/Arcade/Blaster (World) (blaster)/Blaster (World) (blaster).json
+file: Roms/Other/Arcade/Blaster (World) (blaster)/Blaster (World) (blaster).json
 developer: Vid Kidz
 publisher: Williams Electronics
 genre: Shooter
@@ -954,7 +954,7 @@ x-playable: Yes
 
 
 game: Block Block (World) (block)
-file: Other/Arcade/Block Block (World) (block)/Block Block (World) (block).json
+file: Roms/Other/Arcade/Block Block (World) (block)/Block Block (World) (block).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -969,7 +969,7 @@ x-playable: Yes
 
 
 game: Bosconian - Star Destroyer (World) (bosco)
-file: Other/Arcade/Bosconian - Star Destroyer (World) (bosco)/Bosconian - Star Destroyer (World) (bosco).json
+file: Roms/Other/Arcade/Bosconian - Star Destroyer (World) (bosco)/Bosconian - Star Destroyer (World) (bosco).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -997,7 +997,7 @@ x-playable: Yes
 
 
 game: Bubbles (World) (bubbles)
-file: Other/Arcade/Bubbles (World) (bubbles)/Bubbles (World) (bubbles).json
+file: Roms/Other/Arcade/Bubbles (World) (bubbles)/Bubbles (World) (bubbles).json
 developer: Williams Electronics
 publisher: Williams Electronics
 genre: Action;Puzzle
@@ -1048,7 +1048,7 @@ x-playable: Yes
 
 
 game: Burning Fight (World) (burningf)
-file: Other/Arcade/Burning Fight (World) (burningf)/Burning Fight (World) (burningf).json
+file: Roms/Other/Arcade/Burning Fight (World) (burningf)/Burning Fight (World) (burningf).json
 developer: SNK
 publisher: SNK
 genre: Action;Fighting
@@ -1068,7 +1068,7 @@ x-playable: Yes
 
 
 game: Buster Bros. (USA) (bbros)
-file: Other/Arcade/Buster Bros. (USA) (bbros)/Buster Bros. (USA) (bbros).json
+file: Roms/Other/Arcade/Buster Bros. (USA) (bbros)/Buster Bros. (USA) (bbros).json
 developer: Mitchell
 publisher: Capcom
 genre: Action
@@ -1085,7 +1085,7 @@ x-playable: Yes
 
 
 game: Canyon Bomber (World) (canyon)
-file: Other/Arcade/Canyon Bomber (World) (canyon)/Canyon Bomber (World) (canyon).json
+file: Roms/Other/Arcade/Canyon Bomber (World) (canyon)/Canyon Bomber (World) (canyon).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -1114,7 +1114,7 @@ x-playable: Yes
 
 
 game: Capcom Sports Club (Europe) (csclub)
-file: Other/Arcade/Capcom Sports Club (Europe) (csclub)/Capcom Sports Club (Europe) (csclub).json
+file: Roms/Other/Arcade/Capcom Sports Club (Europe) (csclub)/Capcom Sports Club (Europe) (csclub).json
 developer: Capcom
 publisher: Capcom
 genre: Sports
@@ -1130,7 +1130,7 @@ x-playable: Yes
 
 
 game: Captain Commando (World) (captcomm)
-file: Other/Arcade/Captain Commando (World) (captcomm)/Captain Commando (World) (captcomm).json
+file: Roms/Other/Arcade/Captain Commando (World) (captcomm)/Captain Commando (World) (captcomm).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -1147,7 +1147,7 @@ x-playable: Yes
 
 
 game: Carrier Air Wing (World) (cawing)
-file: Other/Arcade/Carrier Air Wing (World) (cawing)/Carrier Air Wing (World) (cawing).json
+file: Roms/Other/Arcade/Carrier Air Wing (World) (cawing)/Carrier Air Wing (World) (cawing).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1174,7 +1174,7 @@ x-playable: Yes
 
 
 game: Centipede (World) (centiped)
-file: Other/Arcade/Centipede (World) (centiped)/Centipede (World) (centiped).json
+file: Roms/Other/Arcade/Centipede (World) (centiped)/Centipede (World) (centiped).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Shooter
@@ -1272,7 +1272,7 @@ x-playable: Yes
 
 
 game: Championship Sprint (World) (csprint)
-file: Other/Arcade/Championship Sprint (World) (csprint)/Championship Sprint (World) (csprint).json
+file: Roms/Other/Arcade/Championship Sprint (World) (csprint)/Championship Sprint (World) (csprint).json
 developer: Atari Games Corporation
 publisher: Atari Games Corporation
 genre: Racing;Sports
@@ -1293,7 +1293,7 @@ x-playable: Yes
 
 
 game: Chopper I (USA) (chopper)
-file: Other/Arcade/Chopper I (USA) (chopper)/Chopper I (USA) (chopper).json
+file: Roms/Other/Arcade/Chopper I (USA) (chopper)/Chopper I (USA) (chopper).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -1311,7 +1311,7 @@ x-playable: Yes
 
 
 game: Circus Charlie (World) (circusc)
-file: Other/Arcade/Circus Charlie (World) (circusc)/Circus Charlie (World) (circusc).json
+file: Roms/Other/Arcade/Circus Charlie (World) (circusc)/Circus Charlie (World) (circusc).json
 developer: Konami
 publisher: Centuri
 genre: Action;Platform
@@ -1332,7 +1332,7 @@ x-playable: Yes
 
 
 game: Cloak & Dagger (World) (cloak)
-file: Other/Arcade/Cloak & Dagger (World) (cloak)/Cloak & Dagger (World) (cloak).json
+file: Roms/Other/Arcade/Cloak & Dagger (World) (cloak)/Cloak & Dagger (World) (cloak).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Fighting
@@ -1349,7 +1349,7 @@ x-playable: Yes
 
 
 game: Commando (World) (commando)
-file: Other/Arcade/Commando (World) (commando)/Commando (World) (commando).json
+file: Roms/Other/Arcade/Commando (World) (commando)/Commando (World) (commando).json
 developer: Capcom
 publisher: Data East
 genre: Shooter
@@ -1377,7 +1377,7 @@ x-playable: Yes
 
 
 game: Congo Bongo (World) (congo)
-file: Other/Arcade/Congo Bongo (World) (congo)/Congo Bongo (World) (congo).json
+file: Roms/Other/Arcade/Congo Bongo (World) (congo)/Congo Bongo (World) (congo).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -1397,7 +1397,7 @@ x-playable: Yes
 
 
 game: Crystal Castles (World) (ccastles)
-file: Other/Arcade/Crystal Castles (World) (ccastles)/Crystal Castles (World) (ccastles).json
+file: Roms/Other/Arcade/Crystal Castles (World) (ccastles)/Crystal Castles (World) (ccastles).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Puzzle
@@ -1418,7 +1418,7 @@ x-playable: Yes
 
 
 game: Cyberball (World) (cyberbal)
-file: Other/Arcade/Cyberball (World) (cyberbal)/Cyberball (World) (cyberbal).json
+file: Roms/Other/Arcade/Cyberball (World) (cyberbal)/Cyberball (World) (cyberbal).json
 developer: Atari Games
 publisher: Atari
 genre: Sports
@@ -1443,7 +1443,7 @@ x-playable: Yes
 
 
 game: Cyberbots - Fullmetal Madness (Europe) (cybots)
-file: Other/Arcade/Cyberbots - Fullmetal Madness (Europe) (cybots)/Cyberbots - Fullmetal Madness (Europe) (cybots).json
+file: Roms/Other/Arcade/Cyberbots - Fullmetal Madness (Europe) (cybots)/Cyberbots - Fullmetal Madness (Europe) (cybots).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -1464,7 +1464,7 @@ x-playable: Yes
 
 
 game: Darkstalkers - The Night Warriors (Europe) (dstlk)
-file: Other/Arcade/Darkstalkers - The Night Warriors (Europe) (dstlk)/Darkstalkers - The Night Warriors (Europe) (dstlk).json
+file: Roms/Other/Arcade/Darkstalkers - The Night Warriors (Europe) (dstlk)/Darkstalkers - The Night Warriors (Europe) (dstlk).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -1483,7 +1483,7 @@ x-playable: Yes
 
 
 game: Defender (World) (defender)
-file: Other/Arcade/Defender (World) (defender)/Defender (World) (defender).json
+file: Roms/Other/Arcade/Defender (World) (defender)/Defender (World) (defender).json
 developer: Williams Electronics
 publisher: Taito
 genre: Shooter
@@ -1532,7 +1532,7 @@ x-playable: Yes
 
 
 game: Destroyer (World) (destroyr)
-file: Other/Arcade/Destroyer (World) (destroyr)/Destroyer (World) (destroyr).json
+file: Roms/Other/Arcade/Destroyer (World) (destroyr)/Destroyer (World) (destroyr).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -1552,7 +1552,7 @@ x-playable: Yes
 
 
 game: Dig Dug (World) (digdug)
-file: Other/Arcade/Dig Dug (World) (digdug)/Dig Dug (World) (digdug).json
+file: Roms/Other/Arcade/Dig Dug (World) (digdug)/Dig Dug (World) (digdug).json
 developer: Namco
 publisher: Atari
 genre: Action
@@ -1574,7 +1574,7 @@ x-playable: Yes
 
 
 game: Dig Dug II (World) (digdug2)
-file: Other/Arcade/Dig Dug II (World) (digdug2)/Dig Dug II (World) (digdug2).json
+file: Roms/Other/Arcade/Dig Dug II (World) (digdug2)/Dig Dug II (World) (digdug2).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -1600,7 +1600,7 @@ x-playable: Yes
 
 
 game: Dominos (World) (dominos)
-file: Other/Arcade/Dominos (World) (dominos)/Dominos (World) (dominos).json
+file: Roms/Other/Arcade/Dominos (World) (dominos)/Dominos (World) (dominos).json
 developer: Atari
 publisher: Atari
 genre: Puzzle
@@ -1628,7 +1628,7 @@ x-playable: Yes
 
 
 game: Dragon Buster (World) (drgnbstr)
-file: Other/Arcade/Dragon Buster (World) (drgnbstr)/Dragon Buster (World) (drgnbstr).json
+file: Roms/Other/Arcade/Dragon Buster (World) (drgnbstr)/Dragon Buster (World) (drgnbstr).json
 developer: Namco
 publisher: Namco
 genre: Platform
@@ -1644,7 +1644,7 @@ x-playable: Yes
 
 
 game: Dynasty Wars (USA) (dynwar)
-file: Other/Arcade/Dynasty Wars (USA) (dynwar)/Dynasty Wars (USA) (dynwar).json
+file: Roms/Other/Arcade/Dynasty Wars (USA) (dynwar)/Dynasty Wars (USA) (dynwar).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -1672,7 +1672,7 @@ x-playable: Yes
 
 
 game: Eco Fighters (World) (ecofghtr)
-file: Other/Arcade/Eco Fighters (World) (ecofghtr)/Eco Fighters (World) (ecofghtr).json
+file: Roms/Other/Arcade/Eco Fighters (World) (ecofghtr)/Eco Fighters (World) (ecofghtr).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1694,7 +1694,7 @@ x-playable: Yes
 
 
 game: Exed Exes (World) (exedexes)
-file: Other/Arcade/Exed Exes (World) (exedexes)/Exed Exes (World) (exedexes).json
+file: Roms/Other/Arcade/Exed Exes (World) (exedexes)/Exed Exes (World) (exedexes).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1719,7 +1719,7 @@ x-playable: Yes
 
 
 game: Fantasy (USA) (fantasyu)
-file: Other/Arcade/Fantasy (USA) (fantasyu)/Fantasy (USA) (fantasyu).json
+file: Roms/Other/Arcade/Fantasy (USA) (fantasyu)/Fantasy (USA) (fantasyu).json
 developer: SNK
 publisher: SNK
 genre: Action
@@ -1735,7 +1735,7 @@ x-playable: Yes
 
 
 game: Fantasy Zone (World) (fantzone)
-file: Other/Arcade/Fantasy Zone (World) (fantzone)/Fantasy Zone (World) (fantzone).json
+file: Roms/Other/Arcade/Fantasy Zone (World) (fantzone)/Fantasy Zone (World) (fantzone).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -1773,7 +1773,7 @@ x-playable: Yes
 
 
 game: Fantasy Zone II DX (Japan) (fantzn2x)
-file: Other/Arcade/Fantasy Zone II DX (Japan) (fantzn2x)/Fantasy Zone II DX (Japan) (fantzn2x).json
+file: Roms/Other/Arcade/Fantasy Zone II DX (Japan) (fantzn2x)/Fantasy Zone II DX (Japan) (fantzn2x).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -1796,7 +1796,7 @@ x-playable: Yes
 
 
 game: Fatal Fury - King of Fighters (World) (fatfury1)
-file: Other/Arcade/Fatal Fury - King of Fighters (World) (fatfury1)/Fatal Fury - King of Fighters (World) (fatfury1).json
+file: Roms/Other/Arcade/Fatal Fury - King of Fighters (World) (fatfury1)/Fatal Fury - King of Fighters (World) (fatfury1).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -1815,7 +1815,7 @@ x-playable: Yes
 
 
 game: Final Fight (World) (ffight)
-file: Other/Arcade/Final Fight (World) (ffight)/Final Fight (World) (ffight).json
+file: Roms/Other/Arcade/Final Fight (World) (ffight)/Final Fight (World) (ffight).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -1832,7 +1832,7 @@ x-playable: Yes
 
 
 game: Fire Truck ~ Smokey Joe (World) (firetrk)
-file: Other/Arcade/Fire Truck ~ Smokey Joe (World) (firetrk)/Fire Truck ~ Smokey Joe (World) (firetrk).json
+file: Roms/Other/Arcade/Fire Truck ~ Smokey Joe (World) (firetrk)/Fire Truck ~ Smokey Joe (World) (firetrk).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -1864,7 +1864,7 @@ x-playable: Yes
 
 
 game: Food Fight (World) (foodf)
-file: Other/Arcade/Food Fight (World) (foodf)/Food Fight (World) (foodf).json
+file: Roms/Other/Arcade/Food Fight (World) (foodf)/Food Fight (World) (foodf).json
 developer: Atari
 publisher: Alari
 genre: Platform
@@ -1882,7 +1882,7 @@ x-playable: Yes
 
 
 game: Forgotten Worlds (World) (forgottn)
-file: Other/Arcade/Forgotten Worlds (World) (forgottn)/Forgotten Worlds (World) (forgottn).json
+file: Roms/Other/Arcade/Forgotten Worlds (World) (forgottn)/Forgotten Worlds (World) (forgottn).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -1918,7 +1918,7 @@ x-playable: Yes
 
 
 game: Galaga '88 (World) (galaga88)
-file: Other/Arcade/Galaga '88 (World) (galaga88)/Galaga '88 (World) (galaga88).json
+file: Roms/Other/Arcade/Galaga '88 (World) (galaga88)/Galaga '88 (World) (galaga88).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -1970,7 +1970,7 @@ x-playable: Yes
 
 
 game: Galaga (World) (galaga)
-file: Other/Arcade/Galaga (World) (galaga)/Galaga (World) (galaga).json
+file: Roms/Other/Arcade/Galaga (World) (galaga)/Galaga (World) (galaga).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -2009,7 +2009,7 @@ x-playable: Yes
 
 
 game: Galaxian (World) (galaxian)
-file: Other/Arcade/Galaxian (World) (galaxian)/Galaxian (World) (galaxian).json
+file: Roms/Other/Arcade/Galaxian (World) (galaxian)/Galaxian (World) (galaxian).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -2027,7 +2027,7 @@ x-playable: Yes
 
 
 game: Gauntlet (World) (gauntlet)
-file: Other/Arcade/Gauntlet (World) (gauntlet)/Gauntlet (World) (gauntlet).json
+file: Roms/Other/Arcade/Gauntlet (World) (gauntlet)/Gauntlet (World) (gauntlet).json
 developer: Atari Games
 publisher: Atari Games
 genre: Action;Shooter
@@ -2058,7 +2058,7 @@ x-playable: Yes
 
 
 game: Gauntlet II (World) (gaunt2)
-file: Other/Arcade/Gauntlet II (World) (gaunt2)/Gauntlet II (World) (gaunt2).json
+file: Roms/Other/Arcade/Gauntlet II (World) (gaunt2)/Gauntlet II (World) (gaunt2).json
 developer: Atari
 publisher: Atari
 genre: Action;Adventure
@@ -2086,7 +2086,7 @@ x-playable: Yes
 
 
 game: Ghosts 'n Goblins (World) (gng)
-file: Other/Arcade/Ghosts 'n Goblins (World) (gng)/Ghosts 'n Goblins (World) (gng).json
+file: Roms/Other/Arcade/Ghosts 'n Goblins (World) (gng)/Ghosts 'n Goblins (World) (gng).json
 developer: Capcom
 publisher: Capcom
 genre: Platform;Shooter
@@ -2109,7 +2109,7 @@ x-playable: Yes
 
 
 game: Ghouls 'n Ghosts (World) (ghouls)
-file: Other/Arcade/Ghouls 'n Ghosts (World) (ghouls)/Ghouls 'n Ghosts (World) (ghouls).json
+file: Roms/Other/Arcade/Ghouls 'n Ghosts (World) (ghouls)/Ghouls 'n Ghosts (World) (ghouls).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -2135,7 +2135,7 @@ x-playable: Yes
 
 
 game: Giga Wing (USA) (gigawing)
-file: Other/Arcade/Giga Wing (USA) (gigawing)/Giga Wing (USA) (gigawing).json
+file: Roms/Other/Arcade/Giga Wing (USA) (gigawing)/Giga Wing (USA) (gigawing).json
 developer: Takumi Corporation
 publisher: Capcom
 genre: Shooter
@@ -2159,7 +2159,7 @@ x-playable: Yes
 
 
 game: Gravitar (World) (gravitar)
-file: Other/Arcade/Gravitar (World) (gravitar)/Gravitar (World) (gravitar).json
+file: Roms/Other/Arcade/Gravitar (World) (gravitar)/Gravitar (World) (gravitar).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -2186,7 +2186,7 @@ x-playable: Yes
 
 
 game: Grobda (World) (grobda)
-file: Other/Arcade/Grobda (World) (grobda)/Grobda (World) (grobda).json
+file: Roms/Other/Arcade/Grobda (World) (grobda)/Grobda (World) (grobda).json
 developer: Namco
 publisher: Namco
 genre: Puzzle
@@ -2207,7 +2207,7 @@ x-playable: Yes
 
 
 game: Guerrilla War (USA) (gwar)
-file: Other/Arcade/Guerrilla War (USA) (gwar)/Guerrilla War (USA) (gwar).json
+file: Roms/Other/Arcade/Guerrilla War (USA) (gwar)/Guerrilla War (USA) (gwar).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -2228,7 +2228,7 @@ x-playable: Yes
 
 
 game: Gun.Smoke (World) (gunsmoke)
-file: Other/Arcade/Gun.Smoke (World) (gunsmoke)/Gun.Smoke (World) (gunsmoke).json
+file: Roms/Other/Arcade/Gun.Smoke (World) (gunsmoke)/Gun.Smoke (World) (gunsmoke).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -2256,7 +2256,7 @@ x-playable: Yes
 
 
 game: Gyruss (World) (gyruss)
-file: Other/Arcade/Gyruss (World) (gyruss)/Gyruss (World) (gyruss).json
+file: Roms/Other/Arcade/Gyruss (World) (gyruss)/Gyruss (World) (gyruss).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -2297,7 +2297,7 @@ x-playable: Yes
 
 
 game: Hard Drivin' (World) (harddriv)
-file: Other/Arcade/Hard Drivin' (World) (harddriv)/Hard Drivin' (World) (harddriv).json
+file: Roms/Other/Arcade/Hard Drivin' (World) (harddriv)/Hard Drivin' (World) (harddriv).json
 developer: Atari Corporation
 publisher: Atari Corporation
 genre: Racing
@@ -2328,7 +2328,7 @@ x-playable: Yes
 
 
 game: Haunted Castle (World) (hcastle)
-file: Other/Arcade/Haunted Castle (World) (hcastle)/Haunted Castle (World) (hcastle).json
+file: Roms/Other/Arcade/Haunted Castle (World) (hcastle)/Haunted Castle (World) (hcastle).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -2356,7 +2356,7 @@ x-playable: Yes
 
 
 game: Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2)
-file: Other/Arcade/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2)/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).json
+file: Roms/Other/Arcade/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2)/Hyper Street Fighter II - The Anniversary Edition (USA) (hsf2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -2378,7 +2378,7 @@ x-playable: Yes
 
 
 game: I, Robot (World) (irobot)
-file: Other/Arcade/I, Robot (World) (irobot)/I, Robot (World) (irobot).json
+file: Roms/Other/Arcade/I, Robot (World) (irobot)/I, Robot (World) (irobot).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter
@@ -2399,7 +2399,7 @@ x-playable: Yes
 
 
 game: Ikari III - The Rescue (World) (ikari3)
-file: Other/Arcade/Ikari III - The Rescue (World) (ikari3)/Ikari III - The Rescue (World) (ikari3).json
+file: Roms/Other/Arcade/Ikari III - The Rescue (World) (ikari3)/Ikari III - The Rescue (World) (ikari3).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -2415,7 +2415,7 @@ x-playable: Yes
 
 
 game: Ikari Warriors (USA) (ikari)
-file: Other/Arcade/Ikari Warriors (USA) (ikari)/Ikari Warriors (USA) (ikari).json
+file: Roms/Other/Arcade/Ikari Warriors (USA) (ikari)/Ikari Warriors (USA) (ikari).json
 developer: SNK
 publisher: Tradewest, Inc.
 genre: Action
@@ -2434,7 +2434,7 @@ x-playable: Yes
 
 
 game: Joust (World) (joust)
-file: Other/Arcade/Joust (World) (joust)/Joust (World) (joust).json
+file: Roms/Other/Arcade/Joust (World) (joust)/Joust (World) (joust).json
 developer: Williams
 publisher: Williams
 genre: Action;Platform
@@ -2481,7 +2481,7 @@ x-playable: Yes
 
 
 game: Joust 2 - Survival of the Fittest (World) (joust2)
-file: Other/Arcade/Joust 2 - Survival of the Fittest (World) (joust2)/Joust 2 - Survival of the Fittest (World) (joust2).json
+file: Roms/Other/Arcade/Joust 2 - Survival of the Fittest (World) (joust2)/Joust 2 - Survival of the Fittest (World) (joust2).json
 developer: Williams
 publisher: Williams
 genre: Platform
@@ -2506,7 +2506,7 @@ x-playable: Yes
 
 
 game: Kicker ~ Shao-lin's Road (kicker)
-file: Other/Arcade/Kicker ~ Shao-lin's Road (kicker)/Kicker ~ Shao-lin's Road (kicker).json
+file: Roms/Other/Arcade/Kicker ~ Shao-lin's Road (kicker)/Kicker ~ Shao-lin's Road (kicker).json
 developer: Konami
 publisher: Konami
 genre: Fighting;Platform
@@ -2528,7 +2528,7 @@ x-playable: Yes
 
 
 game: King & Balloon (USA) (kingball)
-file: Other/Arcade/King & Balloon (USA) (kingball)/King & Balloon (USA) (kingball).json
+file: Roms/Other/Arcade/King & Balloon (USA) (kingball)/King & Balloon (USA) (kingball).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -2547,7 +2547,7 @@ x-playable: Yes
 
 
 game: King of Dragons, The (World) (kod)
-file: Other/Arcade/King of Dragons, The (World) (kod)/King of Dragons, The (World) (kod).json
+file: Roms/Other/Arcade/King of Dragons, The (World) (kod)/King of Dragons, The (World) (kod).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -2572,7 +2572,7 @@ x-playable: Yes
 
 
 game: King of Fighters '94, The (World) (kof94)
-file: Other/Arcade/King of Fighters '94, The (World) (kof94)/King of Fighters '94, The (World) (kof94).json
+file: Roms/Other/Arcade/King of Fighters '94, The (World) (kof94)/King of Fighters '94, The (World) (kof94).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -2606,7 +2606,7 @@ x-playable: Yes
 
 
 game: King of the Monsters (World) (kotm)
-file: Other/Arcade/King of the Monsters (World) (kotm)/King of the Monsters (World) (kotm).json
+file: Roms/Other/Arcade/King of the Monsters (World) (kotm)/King of the Monsters (World) (kotm).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -2630,7 +2630,7 @@ x-playable: Yes
 
 
 game: Klax (World) (klax)
-file: Other/Arcade/Klax (World) (klax)/Klax (World) (klax).json
+file: Roms/Other/Arcade/Klax (World) (klax)/Klax (World) (klax).json
 developer: Atari Games
 publisher: Atari Games
 genre: Puzzle
@@ -2648,7 +2648,7 @@ x-playable: Yes
 
 
 game: Knights of the Round (World) (knights)
-file: Other/Arcade/Knights of the Round (World) (knights)/Knights of the Round (World) (knights).json
+file: Roms/Other/Arcade/Knights of the Round (World) (knights)/Knights of the Round (World) (knights).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -2671,7 +2671,7 @@ x-playable: Yes
 
 
 game: Kozmik Kroozr (World) (kroozr)
-file: Other/Arcade/Kozmik Kroozr (World) (kroozr)/Kozmik Kroozr (World) (kroozr).json
+file: Roms/Other/Arcade/Kozmik Kroozr (World) (kroozr)/Kozmik Kroozr (World) (kroozr).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Shooter
@@ -2688,7 +2688,7 @@ x-playable: Yes
 
 
 game: Last Duel (USA) (lastduel)
-file: Other/Arcade/Last Duel (USA) (lastduel)/Last Duel (USA) (lastduel).json
+file: Roms/Other/Arcade/Last Duel (USA) (lastduel)/Last Duel (USA) (lastduel).json
 developer: Capcom
 publisher: Capcom
 genre: Racing;Shooter
@@ -2717,7 +2717,7 @@ x-playable: Yes
 
 
 game: Last Resort (World) (lresort)
-file: Other/Arcade/Last Resort (World) (lresort)/Last Resort (World) (lresort).json
+file: Roms/Other/Arcade/Last Resort (World) (lresort)/Last Resort (World) (lresort).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -2735,7 +2735,7 @@ x-playable: Yes
 
 
 game: Led Storm Rally 2011 (World) (leds2011)
-file: Other/Arcade/Led Storm Rally 2011 (World) (leds2011)/Led Storm Rally 2011 (World) (leds2011).json
+file: Roms/Other/Arcade/Led Storm Rally 2011 (World) (leds2011)/Led Storm Rally 2011 (World) (leds2011).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Racing
@@ -2752,7 +2752,7 @@ x-playable: Yes
 
 
 game: Legendary Wings (USA) (lwings)
-file: Other/Arcade/Legendary Wings (USA) (lwings)/Legendary Wings (USA) (lwings).json
+file: Roms/Other/Arcade/Legendary Wings (USA) (lwings)/Legendary Wings (USA) (lwings).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -2783,7 +2783,7 @@ x-playable: Yes
 
 
 game: Liberator (World) (liberatr)
-file: Other/Arcade/Liberator (World) (liberatr)/Liberator (World) (liberatr).json
+file: Roms/Other/Arcade/Liberator (World) (liberatr)/Liberator (World) (liberatr).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -2804,7 +2804,7 @@ x-playable: Yes
 
 
 game: Lunar Lander (World) (llander)
-file: Other/Arcade/Lunar Lander (World) (llander)/Lunar Lander (World) (llander).json
+file: Roms/Other/Arcade/Lunar Lander (World) (llander)/Lunar Lander (World) (llander).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -2827,7 +2827,7 @@ x-playable: Yes
 
 
 game: Magic Sword - Heroic Fantasy (World) (msword)
-file: Other/Arcade/Magic Sword - Heroic Fantasy (World) (msword)/Magic Sword - Heroic Fantasy (World) (msword).json
+file: Roms/Other/Arcade/Magic Sword - Heroic Fantasy (World) (msword)/Magic Sword - Heroic Fantasy (World) (msword).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -2845,7 +2845,7 @@ x-playable: Yes
 
 
 game: Magician Lord (World) (maglord)
-file: Other/Arcade/Magician Lord (World) (maglord)/Magician Lord (World) (maglord).json
+file: Roms/Other/Arcade/Magician Lord (World) (maglord)/Magician Lord (World) (maglord).json
 developer: Alpha Denshi
 publisher: SNK
 genre: Platform
@@ -2867,7 +2867,7 @@ x-playable: Yes
 
 
 game: Major Havoc (World) (mhavoc)
-file: Other/Arcade/Major Havoc (World) (mhavoc)/Major Havoc (World) (mhavoc).json
+file: Roms/Other/Arcade/Major Havoc (World) (mhavoc)/Major Havoc (World) (mhavoc).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Platform;Shooter
@@ -2891,7 +2891,7 @@ x-playable: Yes
 
 
 game: Mappy (USA) (mappy)
-file: Other/Arcade/Mappy (USA) (mappy)/Mappy (USA) (mappy).json
+file: Roms/Other/Arcade/Mappy (USA) (mappy)/Mappy (USA) (mappy).json
 developer: Namco
 publisher: Bally Midway
 genre: Action;Platform
@@ -2908,7 +2908,7 @@ x-playable: Yes
 
 
 game: Marble Madness (World) (marble)
-file: Other/Arcade/Marble Madness (World) (marble)/Marble Madness (World) (marble).json
+file: Roms/Other/Arcade/Marble Madness (World) (marble)/Marble Madness (World) (marble).json
 developer: Atari Games
 publisher: Atari Games
 genre: Puzzle;Racing;Strategy
@@ -2928,7 +2928,7 @@ x-playable: Yes
 
 
 game: Maze Invaders (World) (Proto) (mazeinv)
-file: Other/Arcade/Maze Invaders (World) (Proto) (mazeinv)/Maze Invaders (World) (Proto) (mazeinv).json
+file: Roms/Other/Arcade/Maze Invaders (World) (Proto) (mazeinv)/Maze Invaders (World) (Proto) (mazeinv).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -2946,7 +2946,7 @@ x-playable: Yes
 
 
 game: Mega Man - The Power Battle (USA) (megaman)
-file: Other/Arcade/Mega Man - The Power Battle (USA) (megaman)/Mega Man - The Power Battle (USA) (megaman).json
+file: Roms/Other/Arcade/Mega Man - The Power Battle (USA) (megaman)/Mega Man - The Power Battle (USA) (megaman).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Fighting
@@ -2962,7 +2962,7 @@ x-playable: Yes
 
 
 game: Mega Man 2 - The Power Fighters (USA) (megaman2)
-file: Other/Arcade/Mega Man 2 - The Power Fighters (USA) (megaman2)/Mega Man 2 - The Power Fighters (USA) (megaman2).json
+file: Roms/Other/Arcade/Mega Man 2 - The Power Fighters (USA) (megaman2)/Mega Man 2 - The Power Fighters (USA) (megaman2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -2981,7 +2981,7 @@ x-playable: Yes
 
 
 game: Mega Twins (World) (mtwins)
-file: Other/Arcade/Mega Twins (World) (mtwins)/Mega Twins (World) (mtwins).json
+file: Roms/Other/Arcade/Mega Twins (World) (mtwins)/Mega Twins (World) (mtwins).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -3002,7 +3002,7 @@ x-playable: Yes
 
 
 game: Mercs (World) (mercs)
-file: Other/Arcade/Mercs (World) (mercs)/Mercs (World) (mercs).json
+file: Roms/Other/Arcade/Mercs (World) (mercs)/Mercs (World) (mercs).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -3023,7 +3023,7 @@ x-playable: Yes
 
 
 game: Metal Slug - Super Vehicle-001 (World) (mslug)
-file: Other/Arcade/Metal Slug - Super Vehicle-001 (World) (mslug)/Metal Slug - Super Vehicle-001 (World) (mslug).json
+file: Roms/Other/Arcade/Metal Slug - Super Vehicle-001 (World) (mslug)/Metal Slug - Super Vehicle-001 (World) (mslug).json
 developer: Nazca Corporation
 publisher: SNK
 genre: Platform;Shooter
@@ -3045,7 +3045,7 @@ x-playable: Yes
 
 
 game: Metal Slug 2 - Super Vehicle-001 II (World) (mslug2)
-file: Other/Arcade/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2)/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).json
+file: Roms/Other/Arcade/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2)/Metal Slug 2 - Super Vehicle-001 II (World) (mslug2).json
 developer: SNK
 publisher: SNK
 genre: Action;Adventure;Shooter
@@ -3067,7 +3067,7 @@ x-playable: Yes
 
 
 game: Metal Slug 3 (World) (mslug3)
-file: Other/Arcade/Metal Slug 3 (World) (mslug3)/Metal Slug 3 (World) (mslug3).json
+file: Roms/Other/Arcade/Metal Slug 3 (World) (mslug3)/Metal Slug 3 (World) (mslug3).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -3093,7 +3093,7 @@ x-playable: Yes
 
 
 game: Metal Slug 4 (World) (mslug4)
-file: Other/Arcade/Metal Slug 4 (World) (mslug4)/Metal Slug 4 (World) (mslug4).json
+file: Roms/Other/Arcade/Metal Slug 4 (World) (mslug4)/Metal Slug 4 (World) (mslug4).json
 developer: Mega Enterprise
 publisher: Mega Enterprise
 genre: Action;Adventure;Shooter
@@ -3115,7 +3115,7 @@ x-playable: Yes
 
 
 game: Metal Slug 5 (World) (mslug5)
-file: Other/Arcade/Metal Slug 5 (World) (mslug5)/Metal Slug 5 (World) (mslug5).json
+file: Roms/Other/Arcade/Metal Slug 5 (World) (mslug5)/Metal Slug 5 (World) (mslug5).json
 developer: SNK
 publisher: SNK
 genre: Action;Adventure;Shooter
@@ -3134,7 +3134,7 @@ x-playable: Yes
 
 
 game: Metal Slug 6 (World) (mslug6)
-file: Other/Arcade/Metal Slug 6 (World) (mslug6)/Metal Slug 6 (World) (mslug6).json
+file: Roms/Other/Arcade/Metal Slug 6 (World) (mslug6)/Metal Slug 6 (World) (mslug6).json
 developer: SNK
 publisher: SNK
 genre: Adventure;Shooter
@@ -3163,7 +3163,7 @@ x-playable: Yes
 
 
 game: Metal Slug X (World) (mslugx)
-file: Other/Arcade/Metal Slug X (World) (mslugx)/Metal Slug X (World) (mslugx).json
+file: Roms/Other/Arcade/Metal Slug X (World) (mslugx)/Metal Slug X (World) (mslugx).json
 developer: SNK
 publisher: SNK
 genre: Platform;Shooter
@@ -3189,7 +3189,7 @@ x-playable: Yes
 
 
 game: Millipede (World) (milliped)
-file: Other/Arcade/Millipede (World) (milliped)/Millipede (World) (milliped).json
+file: Roms/Other/Arcade/Millipede (World) (milliped)/Millipede (World) (milliped).json
 developer: Atari
 publisher: Atari
 genre: Action;Shooter
@@ -3235,7 +3235,7 @@ x-playable: Yes
 
 
 game: Missile Command (World) (missile)
-file: Other/Arcade/Missile Command (World) (missile)/Missile Command (World) (missile).json
+file: Roms/Other/Arcade/Missile Command (World) (missile)/Missile Command (World) (missile).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -3260,7 +3260,7 @@ x-playable: Yes
 
 
 game: Monte Carlo (World) (montecar)
-file: Other/Arcade/Monte Carlo (World) (montecar)/Monte Carlo (World) (montecar).json
+file: Roms/Other/Arcade/Monte Carlo (World) (montecar)/Monte Carlo (World) (montecar).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -3278,7 +3278,7 @@ x-playable: Yes
 
 
 game: Mortal Kombat (World) (mk)
-file: Other/Arcade/Mortal Kombat (World) (mk)/Mortal Kombat (World) (mk).json
+file: Roms/Other/Arcade/Mortal Kombat (World) (mk)/Mortal Kombat (World) (mk).json
 developer: Midway
 publisher: Midway
 genre: Fighting
@@ -3303,7 +3303,7 @@ x-playable: Yes
 
 
 game: Mortal Kombat 3 (World) (mk3)
-file: Other/Arcade/Mortal Kombat 3 (World) (mk3)/Mortal Kombat 3 (World) (mk3).json
+file: Roms/Other/Arcade/Mortal Kombat 3 (World) (mk3)/Mortal Kombat 3 (World) (mk3).json
 developer: Midway
 publisher: Midway
 genre: Fighting
@@ -3326,7 +3326,7 @@ x-playable: Yes
 
 
 game: Mortal Kombat II (World) (mk2)
-file: Other/Arcade/Mortal Kombat II (World) (mk2)/Mortal Kombat II (World) (mk2).json
+file: Roms/Other/Arcade/Mortal Kombat II (World) (mk2)/Mortal Kombat II (World) (mk2).json
 developer: Midway
 publisher: Midway
 genre: Fighting
@@ -3347,7 +3347,7 @@ x-playable: Yes
 
 
 game: Motos (World) (motos)
-file: Other/Arcade/Motos (World) (motos)/Motos (World) (motos).json
+file: Roms/Other/Arcade/Motos (World) (motos)/Motos (World) (motos).json
 developer: Namco
 publisher: Namco
 genre: Puzzle
@@ -3381,7 +3381,7 @@ x-playable: Yes
 
 
 game: Ms. Pac-Man (World) (mspacman)
-file: Other/Arcade/Ms. Pac-Man (World) (mspacman)/Ms. Pac-Man (World) (mspacman).json
+file: Roms/Other/Arcade/Ms. Pac-Man (World) (mspacman)/Ms. Pac-Man (World) (mspacman).json
 developer: Midway
 publisher: Midway
 genre: Puzzle
@@ -3401,7 +3401,7 @@ x-playable: Yes
 
 
 game: Munch Mobile (USA) (mnchmobl)
-file: Other/Arcade/Munch Mobile (USA) (mnchmobl)/Munch Mobile (USA) (mnchmobl).json
+file: Roms/Other/Arcade/Munch Mobile (USA) (mnchmobl)/Munch Mobile (USA) (mnchmobl).json
 developer: SNK
 publisher: Centuri, Inc.
 genre: Action;Puzzle;Racing
@@ -3423,7 +3423,7 @@ x-playable: Yes
 
 
 game: Narc (World) (narc)
-file: Other/Arcade/Narc (World) (narc)/Narc (World) (narc).json
+file: Roms/Other/Arcade/Narc (World) (narc)/Narc (World) (narc).json
 developer: Williams Electronics
 publisher: Williams Electronics
 genre: Action
@@ -3447,7 +3447,7 @@ x-playable: Yes
 
 
 game: Nemesis (World) (nemesis)
-file: Other/Arcade/Nemesis (World) (nemesis)/Nemesis (World) (nemesis).json
+file: Roms/Other/Arcade/Nemesis (World) (nemesis)/Nemesis (World) (nemesis).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -3475,7 +3475,7 @@ x-playable: Yes
 
 
 game: Neo Turf Masters ~ Big Tournament Golf (World) (turfmast)
-file: Other/Arcade/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast)/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).json
+file: Roms/Other/Arcade/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast)/Neo Turf Masters ~ Big Tournament Golf (World) (turfmast).json
 developer: Nazca
 publisher: SNK
 genre: Sports
@@ -3495,7 +3495,7 @@ x-playable: Yes
 
 
 game: New Rally-X (World) (nrallyx)
-file: Other/Arcade/New Rally-X (World) (nrallyx)/New Rally-X (World) (nrallyx).json
+file: Roms/Other/Arcade/New Rally-X (World) (nrallyx)/New Rally-X (World) (nrallyx).json
 developer: Namco
 publisher: Namco
 genre: Racing
@@ -3519,7 +3519,7 @@ x-playable: Yes
 
 
 game: Night Warriors - Darkstalkers' Revenge (Europe) (nwarr)
-file: Other/Arcade/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr)/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).json
+file: Roms/Other/Arcade/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr)/Night Warriors - Darkstalkers' Revenge (Europe) (nwarr).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -3540,7 +3540,7 @@ x-playable: Yes
 
 
 game: Ozma Wars (World) (ozmawars)
-file: Other/Arcade/Ozma Wars (World) (ozmawars)/Ozma Wars (World) (ozmawars).json
+file: Roms/Other/Arcade/Ozma Wars (World) (ozmawars)/Ozma Wars (World) (ozmawars).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -3577,7 +3577,7 @@ x-playable: Yes
 
 
 game: P.O.W. - Prisoners of War (USA) (pow)
-file: Other/Arcade/P.O.W. - Prisoners of War (USA) (pow)/P.O.W. - Prisoners of War (USA) (pow).json
+file: Roms/Other/Arcade/P.O.W. - Prisoners of War (USA) (pow)/P.O.W. - Prisoners of War (USA) (pow).json
 developer: SNK
 publisher: SNK
 genre: Action
@@ -3594,7 +3594,7 @@ x-playable: Yes
 
 
 game: Pac-Man (World) (Midway) (pacman)
-file: Other/Arcade/Pac-Man (World) (Midway) (pacman)/Pac-Man (World) (Midway) (pacman).json
+file: Roms/Other/Arcade/Pac-Man (World) (Midway) (pacman)/Pac-Man (World) (Midway) (pacman).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -3628,7 +3628,7 @@ x-playable: Yes
 
 
 game: Paddle Mania (World) (paddlema)
-file: Other/Arcade/Paddle Mania (World) (paddlema)/Paddle Mania (World) (paddlema).json
+file: Roms/Other/Arcade/Paddle Mania (World) (paddlema)/Paddle Mania (World) (paddlema).json
 developer: SNK
 publisher: United Amusements
 genre: Sports
@@ -3644,7 +3644,7 @@ x-playable: Yes
 
 
 game: Pang! 3 (Europe) (pang3)
-file: Other/Arcade/Pang! 3 (Europe) (pang3)/Pang! 3 (Europe) (pang3).json
+file: Roms/Other/Arcade/Pang! 3 (Europe) (pang3)/Pang! 3 (Europe) (pang3).json
 developer: Capcom
 publisher: Ubisoft
 genre: Action;Platform;Shooter
@@ -3662,7 +3662,7 @@ x-playable: Yes
 
 
 game: Paperboy (World) (paperboy)
-file: Other/Arcade/Paperboy (World) (paperboy)/Paperboy (World) (paperboy).json
+file: Roms/Other/Arcade/Paperboy (World) (paperboy)/Paperboy (World) (paperboy).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -3685,7 +3685,7 @@ x-playable: Yes
 
 
 game: Pirate Ship Higemaru (World) (higemaru)
-file: Other/Arcade/Pirate Ship Higemaru (World) (higemaru)/Pirate Ship Higemaru (World) (higemaru).json
+file: Roms/Other/Arcade/Pirate Ship Higemaru (World) (higemaru)/Pirate Ship Higemaru (World) (higemaru).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle
@@ -3720,7 +3720,7 @@ x-playable: Yes
 
 
 game: Pit-Fighter (World) (pitfight)
-file: Other/Arcade/Pit-Fighter (World) (pitfight)/Pit-Fighter (World) (pitfight).json
+file: Roms/Other/Arcade/Pit-Fighter (World) (pitfight)/Pit-Fighter (World) (pitfight).json
 developer: Atari
 publisher: Atari
 genre: Fighting
@@ -3772,7 +3772,7 @@ x-playable: Yes
 
 
 game: Pnickies (Japan) (pnickj)
-file: Other/Arcade/Pnickies (Japan) (pnickj)/Pnickies (Japan) (pnickj).json
+file: Roms/Other/Arcade/Pnickies (Japan) (pnickj)/Pnickies (Japan) (pnickj).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle
@@ -3797,7 +3797,7 @@ x-playable: Yes
 
 
 game: Pong (World) (pong)
-file: Other/Arcade/Pong (World) (pong)/Pong (World) (pong).json
+file: Roms/Other/Arcade/Pong (World) (pong)/Pong (World) (pong).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -3835,7 +3835,7 @@ x-playable: Yes
 
 
 game: Poolshark (World) (poolshrk)
-file: Other/Arcade/Poolshark (World) (poolshrk)/Poolshark (World) (poolshrk).json
+file: Roms/Other/Arcade/Poolshark (World) (poolshrk)/Poolshark (World) (poolshrk).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -3856,7 +3856,7 @@ x-playable: Yes
 
 
 game: Pooyan (World) (pooyan)
-file: Other/Arcade/Pooyan (World) (pooyan)/Pooyan (World) (pooyan).json
+file: Roms/Other/Arcade/Pooyan (World) (pooyan)/Pooyan (World) (pooyan).json
 developer: Konami
 publisher: Bootleg
 genre: Action;Puzzle
@@ -3873,7 +3873,7 @@ x-playable: Yes
 
 
 game: Prehistoric Isle in 1930 (World) (prehisle)
-file: Other/Arcade/Prehistoric Isle in 1930 (World) (prehisle)/Prehistoric Isle in 1930 (World) (prehisle).json
+file: Roms/Other/Arcade/Prehistoric Isle in 1930 (World) (prehisle)/Prehistoric Isle in 1930 (World) (prehisle).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -3900,7 +3900,7 @@ x-playable: Yes
 
 
 game: Primal Rage (World) (primrage)
-file: Other/Arcade/Primal Rage (World) (primrage)/Primal Rage (World) (primrage).json
+file: Roms/Other/Arcade/Primal Rage (World) (primrage)/Primal Rage (World) (primrage).json
 developer: Atari
 publisher: Time Warner Interactive
 genre: Fighting
@@ -3931,7 +3931,7 @@ x-playable: Yes
 
 
 game: Progear (USA) (progear)
-file: Other/Arcade/Progear (USA) (progear)/Progear (USA) (progear).json
+file: Roms/Other/Arcade/Progear (USA) (progear)/Progear (USA) (progear).json
 developer: CAVE Co., Ltd.
 publisher: Capcom
 genre: Shooter
@@ -3966,7 +3966,7 @@ x-playable: Yes
 
 
 game: Psycho Soldier (USA) (psychos)
-file: Other/Arcade/Psycho Soldier (USA) (psychos)/Psycho Soldier (USA) (psychos).json
+file: Roms/Other/Arcade/Psycho Soldier (USA) (psychos)/Psycho Soldier (USA) (psychos).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -3993,7 +3993,7 @@ x-playable: Yes
 
 
 game: Quantum (World) (quantum)
-file: Other/Arcade/Quantum (World) (quantum)/Quantum (World) (quantum).json
+file: Roms/Other/Arcade/Quantum (World) (quantum)/Quantum (World) (quantum).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Strategy
@@ -4008,7 +4008,7 @@ x-playable: Yes
 
 
 game: Quiz & Dragons - Capcom Quiz Game (USA) (qad)
-file: Other/Arcade/Quiz & Dragons - Capcom Quiz Game (USA) (qad)/Quiz & Dragons - Capcom Quiz Game (USA) (qad).json
+file: Roms/Other/Arcade/Quiz & Dragons - Capcom Quiz Game (USA) (qad)/Quiz & Dragons - Capcom Quiz Game (USA) (qad).json
 developer: Capcom
 publisher: Capcom
 genre: Quiz
@@ -4039,7 +4039,7 @@ x-playable: Yes
 
 
 game: Rally-X (World) (rallyx)
-file: Other/Arcade/Rally-X (World) (rallyx)/Rally-X (World) (rallyx).json
+file: Roms/Other/Arcade/Rally-X (World) (rallyx)/Rally-X (World) (rallyx).json
 developer: Namco
 publisher: Namco
 genre: Action;Racing
@@ -4065,7 +4065,7 @@ x-playable: Yes
 
 
 game: Rampage (World) (rampage)
-file: Other/Arcade/Rampage (World) (rampage)/Rampage (World) (rampage).json
+file: Roms/Other/Arcade/Rampage (World) (rampage)/Rampage (World) (rampage).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Action
@@ -4083,7 +4083,7 @@ x-playable: Yes
 
 
 game: Rampage - World Tour (World) (rmpgwt)
-file: Other/Arcade/Rampage - World Tour (World) (rmpgwt)/Rampage - World Tour (World) (rmpgwt).json
+file: Roms/Other/Arcade/Rampage - World Tour (World) (rmpgwt)/Rampage - World Tour (World) (rmpgwt).json
 developer: Game Refuge
 publisher: Midway Games
 genre: Action
@@ -4120,7 +4120,7 @@ x-playable: Yes
 
 
 game: Rampart (World) (rampart)
-file: Other/Arcade/Rampart (World) (rampart)/Rampart (World) (rampart).json
+file: Roms/Other/Arcade/Rampart (World) (rampart)/Rampart (World) (rampart).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -4158,7 +4158,7 @@ x-playable: Yes
 
 
 game: Red Baron (World) (redbaron)
-file: Other/Arcade/Red Baron (World) (redbaron)/Red Baron (World) (redbaron).json
+file: Roms/Other/Arcade/Red Baron (World) (redbaron)/Red Baron (World) (redbaron).json
 developer: Atari
 publisher: Atari
 genre: Action;Flight Simulator
@@ -4190,7 +4190,7 @@ x-playable: Yes
 
 
 game: Road Blasters (World) (roadblst)
-file: Other/Arcade/Road Blasters (World) (roadblst)/Road Blasters (World) (roadblst).json
+file: Roms/Other/Arcade/Road Blasters (World) (roadblst)/Road Blasters (World) (roadblst).json
 developer: Atari Games
 publisher: Atari Games
 genre: Action;Racing;Shooter
@@ -4218,7 +4218,7 @@ x-playable: Yes
 
 
 game: Road Fighter (World) (roadf)
-file: Other/Arcade/Road Fighter (World) (roadf)/Road Fighter (World) (roadf).json
+file: Roms/Other/Arcade/Road Fighter (World) (roadf)/Road Fighter (World) (roadf).json
 developer: Konami
 publisher: Konami
 genre: Racing
@@ -4236,7 +4236,7 @@ x-playable: Yes
 
 
 game: Robotron - 2084 (World) (robotron)
-file: Other/Arcade/Robotron - 2084 (World) (robotron)/Robotron - 2084 (World) (robotron).json
+file: Roms/Other/Arcade/Robotron - 2084 (World) (robotron)/Robotron - 2084 (World) (robotron).json
 developer: Vid Kidz
 publisher: Williams
 genre: Shooter
@@ -4256,7 +4256,7 @@ x-playable: Yes
 
 
 game: Roc'n Rope (World) (rocnrope)
-file: Other/Arcade/Roc'n Rope (World) (rocnrope)/Roc'n Rope (World) (rocnrope).json
+file: Roms/Other/Arcade/Roc'n Rope (World) (rocnrope)/Roc'n Rope (World) (rocnrope).json
 developer: Konami
 publisher: Interlogic
 genre: Platform
@@ -4275,7 +4275,7 @@ x-playable: Yes
 
 
 game: Rolling Thunder (World) (rthunder)
-file: Other/Arcade/Rolling Thunder (World) (rthunder)/Rolling Thunder (World) (rthunder).json
+file: Roms/Other/Arcade/Rolling Thunder (World) (rthunder)/Rolling Thunder (World) (rthunder).json
 developer: Namco
 publisher: Namco
 genre: Platform;Shooter
@@ -4296,7 +4296,7 @@ x-playable: Yes
 
 
 game: Rolling Thunder 2 (World) (rthun2)
-file: Other/Arcade/Rolling Thunder 2 (World) (rthun2)/Rolling Thunder 2 (World) (rthun2).json
+file: Roms/Other/Arcade/Rolling Thunder 2 (World) (rthun2)/Rolling Thunder 2 (World) (rthun2).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -4317,7 +4317,7 @@ x-playable: Yes
 
 
 game: Root Beer Tapper (World) (rbtapper)
-file: Other/Arcade/Root Beer Tapper (World) (rbtapper)/Root Beer Tapper (World) (rbtapper).json
+file: Roms/Other/Arcade/Root Beer Tapper (World) (rbtapper)/Root Beer Tapper (World) (rbtapper).json
 developer: Marvin Glass and Associates
 publisher: Bally Midway
 genre: Action
@@ -4336,7 +4336,7 @@ x-playable: Yes
 
 
 game: SAR - Search And Rescue (World) (searchar)
-file: Other/Arcade/SAR - Search And Rescue (World) (searchar)/SAR - Search And Rescue (World) (searchar).json
+file: Roms/Other/Arcade/SAR - Search And Rescue (World) (searchar)/SAR - Search And Rescue (World) (searchar).json
 developer: SNK
 publisher: SNK
 genre: Action
@@ -4353,7 +4353,7 @@ x-playable: Yes
 
 
 game: Salamander (World) (salamand)
-file: Other/Arcade/Salamander (World) (salamand)/Salamander (World) (salamand).json
+file: Roms/Other/Arcade/Salamander (World) (salamand)/Salamander (World) (salamand).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -4375,7 +4375,7 @@ x-playable: Yes
 
 
 game: Samurai Shodown ~ Samurai Spirits (World) (samsho)
-file: Other/Arcade/Samurai Shodown ~ Samurai Spirits (World) (samsho)/Samurai Shodown ~ Samurai Spirits (World) (samsho).json
+file: Roms/Other/Arcade/Samurai Shodown ~ Samurai Spirits (World) (samsho)/Samurai Shodown ~ Samurai Spirits (World) (samsho).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -4393,7 +4393,7 @@ x-playable: Yes
 
 
 game: Sasuke vs. Commander (World) (sasuke)
-file: Other/Arcade/Sasuke vs. Commander (World) (sasuke)/Sasuke vs. Commander (World) (sasuke).json
+file: Roms/Other/Arcade/Sasuke vs. Commander (World) (sasuke)/Sasuke vs. Commander (World) (sasuke).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -4417,7 +4417,7 @@ x-playable: Yes
 
 
 game: Satan's Hollow (World) (shollow)
-file: Other/Arcade/Satan's Hollow (World) (shollow)/Satan's Hollow (World) (shollow).json
+file: Roms/Other/Arcade/Satan's Hollow (World) (shollow)/Satan's Hollow (World) (shollow).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Shooter
@@ -4458,7 +4458,7 @@ x-playable: Yes
 
 
 game: Saturday Night Slam Masters (World) (slammast)
-file: Other/Arcade/Saturday Night Slam Masters (World) (slammast)/Saturday Night Slam Masters (World) (slammast).json
+file: Roms/Other/Arcade/Saturday Night Slam Masters (World) (slammast)/Saturday Night Slam Masters (World) (slammast).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting;Sports
@@ -4487,7 +4487,7 @@ x-playable: Yes
 
 
 game: Scramble (World) (scramble)
-file: Other/Arcade/Scramble (World) (scramble)/Scramble (World) (scramble).json
+file: Roms/Other/Arcade/Scramble (World) (scramble)/Scramble (World) (scramble).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -4503,7 +4503,7 @@ x-playable: Yes
 
 
 game: Section Z (World) (sectionz)
-file: Other/Arcade/Section Z (World) (sectionz)/Section Z (World) (sectionz).json
+file: Roms/Other/Arcade/Section Z (World) (sectionz)/Section Z (World) (sectionz).json
 developer: Capcom Co., Ltd.
 publisher: CAPCOM Co., Ltd.
 genre: Shooter
@@ -4537,7 +4537,7 @@ x-playable: Yes
 
 
 game: Sengoku ~ Sengoku Denshou (World) (sengoku)
-file: Other/Arcade/Sengoku ~ Sengoku Denshou (World) (sengoku)/Sengoku ~ Sengoku Denshou (World) (sengoku).json
+file: Roms/Other/Arcade/Sengoku ~ Sengoku Denshou (World) (sengoku)/Sengoku ~ Sengoku Denshou (World) (sengoku).json
 developer: SNK Corporation
 publisher: SNK Corporation
 genre: Fighting
@@ -4558,7 +4558,7 @@ x-playable: Yes
 
 
 game: Shinobi (Japan) (shinobi)
-file: Other/Arcade/Shinobi (Japan) (shinobi)/Shinobi (Japan) (shinobi).json
+file: Roms/Other/Arcade/Shinobi (Japan) (shinobi)/Shinobi (Japan) (shinobi).json
 developer: Sega
 publisher: Sega
 genre: Platform;Beat 'em Up
@@ -4580,7 +4580,7 @@ x-playable: Yes
 
 
 game: Shock Troopers (World) (shocktro)
-file: Other/Arcade/Shock Troopers (World) (shocktro)/Shock Troopers (World) (shocktro).json
+file: Roms/Other/Arcade/Shock Troopers (World) (shocktro)/Shock Troopers (World) (shocktro).json
 developer: Saurus
 publisher: SNK
 genre: Shooter
@@ -4604,7 +4604,7 @@ x-playable: Yes
 
 
 game: Side Arms - Hyper Dyne (World) (sidearms)
-file: Other/Arcade/Side Arms - Hyper Dyne (World) (sidearms)/Side Arms - Hyper Dyne (World) (sidearms).json
+file: Roms/Other/Arcade/Side Arms - Hyper Dyne (World) (sidearms)/Side Arms - Hyper Dyne (World) (sidearms).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -4631,7 +4631,7 @@ x-playable: Yes
 
 
 game: Sinistar (World) (sinistar)
-file: Other/Arcade/Sinistar (World) (sinistar)/Sinistar (World) (sinistar).json
+file: Roms/Other/Arcade/Sinistar (World) (sinistar)/Sinistar (World) (sinistar).json
 developer: Williams Electronics
 publisher: Williams Electronics
 genre: Shooter
@@ -4660,7 +4660,7 @@ x-playable: Yes
 
 
 game: Sky Diver (World) (skydiver)
-file: Other/Arcade/Sky Diver (World) (skydiver)/Sky Diver (World) (skydiver).json
+file: Roms/Other/Arcade/Sky Diver (World) (skydiver)/Sky Diver (World) (skydiver).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -4686,7 +4686,7 @@ x-playable: Yes
 
 
 game: Sky Kid (World) (skykid)
-file: Other/Arcade/Sky Kid (World) (skykid)/Sky Kid (World) (skykid).json
+file: Roms/Other/Arcade/Sky Kid (World) (skykid)/Sky Kid (World) (skykid).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -4712,7 +4712,7 @@ x-playable: Yes
 
 
 game: Smash T.V. (World) (smashtv)
-file: Other/Arcade/Smash T.V. (World) (smashtv)/Smash T.V. (World) (smashtv).json
+file: Roms/Other/Arcade/Smash T.V. (World) (smashtv)/Smash T.V. (World) (smashtv).json
 developer: Williams
 publisher: Williams
 genre: Shooter
@@ -4740,7 +4740,7 @@ x-playable: Yes
 
 
 game: Son Son (World) (sonson)
-file: Other/Arcade/Son Son (World) (sonson)/Son Son (World) (sonson).json
+file: Roms/Other/Arcade/Son Son (World) (sonson)/Son Son (World) (sonson).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -4780,7 +4780,7 @@ x-playable: Yes
 
 
 game: Sonic Championship (USA) (schamp)
-file: Other/Arcade/Sonic Championship (USA) (schamp)/Sonic Championship (USA) (schamp).json
+file: Roms/Other/Arcade/Sonic Championship (USA) (schamp)/Sonic Championship (USA) (schamp).json
 developer: Sega AM2
 publisher: Sega
 genre: Fighting
@@ -4800,7 +4800,7 @@ x-playable: Yes
 
 
 game: Space Duel (World) (spacduel)
-file: Other/Arcade/Space Duel (World) (spacduel)/Space Duel (World) (spacduel).json
+file: Roms/Other/Arcade/Space Duel (World) (spacduel)/Space Duel (World) (spacduel).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -4824,7 +4824,7 @@ x-playable: Yes
 
 
 game: Space Harrier (World) (sharrier)
-file: Other/Arcade/Space Harrier (World) (sharrier)/Space Harrier (World) (sharrier).json
+file: Roms/Other/Arcade/Space Harrier (World) (sharrier)/Space Harrier (World) (sharrier).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -4843,7 +4843,7 @@ x-playable: Yes
 
 
 game: Speed Rumbler, The (World) (srumbler)
-file: Other/Arcade/Speed Rumbler, The (World) (srumbler)/Speed Rumbler, The (World) (srumbler).json
+file: Roms/Other/Arcade/Speed Rumbler, The (World) (srumbler)/Speed Rumbler, The (World) (srumbler).json
 developer: Capcom
 publisher: Capcom
 genre: Racing;Shooter
@@ -4877,7 +4877,7 @@ x-playable: Yes
 
 
 game: Splat! (World) (splat)
-file: Other/Arcade/Splat! (World) (splat)/Splat! (World) (splat).json
+file: Roms/Other/Arcade/Splat! (World) (splat)/Splat! (World) (splat).json
 developer: Williams
 publisher: Williams
 genre: Shooter
@@ -4919,7 +4919,7 @@ x-playable: Yes
 
 
 game: Splatter House (World) (splatter)
-file: Other/Arcade/Splatter House (World) (splatter)/Splatter House (World) (splatter).json
+file: Roms/Other/Arcade/Splatter House (World) (splatter)/Splatter House (World) (splatter).json
 developer: Namco
 publisher: Namco
 genre: Beat 'em Up
@@ -4938,7 +4938,7 @@ x-playable: Yes
 
 
 game: Sprint 1 (World) (sprint1)
-file: Other/Arcade/Sprint 1 (World) (sprint1)/Sprint 1 (World) (sprint1).json
+file: Roms/Other/Arcade/Sprint 1 (World) (sprint1)/Sprint 1 (World) (sprint1).json
 developer: Kee Games
 publisher: Atari
 genre: Racing
@@ -4961,7 +4961,7 @@ x-playable: Yes
 
 
 game: Sprint 8 (World) (sprint8)
-file: Other/Arcade/Sprint 8 (World) (sprint8)/Sprint 8 (World) (sprint8).json
+file: Roms/Other/Arcade/Sprint 8 (World) (sprint8)/Sprint 8 (World) (sprint8).json
 developer: Atari, Inc.
 publisher: Kee Games
 genre: Racing;Arcade;Automobile
@@ -4992,7 +4992,7 @@ x-playable: Yes
 
 
 game: Spy Hunter (World) (spyhunt)
-file: Other/Arcade/Spy Hunter (World) (spyhunt)/Spy Hunter (World) (spyhunt).json
+file: Roms/Other/Arcade/Spy Hunter (World) (spyhunt)/Spy Hunter (World) (spyhunt).json
 developer: Midway
 publisher: Midway
 genre: Racing;Shooter
@@ -5010,7 +5010,7 @@ x-playable: Yes
 
 
 game: Spy Hunter II (World) (spyhunt2)
-file: Other/Arcade/Spy Hunter II (World) (spyhunt2)/Spy Hunter II (World) (spyhunt2).json
+file: Roms/Other/Arcade/Spy Hunter II (World) (spyhunt2)/Spy Hunter II (World) (spyhunt2).json
 developer: Bally Midway Mfg Co.
 publisher: Bally Midway Mfg Co.
 genre: Shooter
@@ -5045,7 +5045,7 @@ x-playable: Yes
 
 
 game: Stargate (World) (stargate)
-file: Other/Arcade/Stargate (World) (stargate)/Stargate (World) (stargate).json
+file: Roms/Other/Arcade/Stargate (World) (stargate)/Stargate (World) (stargate).json
 developer: Williams
 publisher: Williams
 genre: Action;Shooter
@@ -5062,7 +5062,7 @@ x-playable: Yes
 
 
 game: Street Fighter (USA) (sf)
-file: Other/Arcade/Street Fighter (USA) (sf)/Street Fighter (USA) (sf).json
+file: Roms/Other/Arcade/Street Fighter (USA) (sf)/Street Fighter (USA) (sf).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5089,7 +5089,7 @@ x-playable: Yes
 
 
 game: Street Fighter Alpha - Warriors' Dreams (Europe) (sfa)
-file: Other/Arcade/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa)/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).json
+file: Roms/Other/Arcade/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa)/Street Fighter Alpha - Warriors' Dreams (Europe) (sfa).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5115,7 +5115,7 @@ x-playable: Yes
 
 
 game: Street Fighter Alpha 2 (Europe) (sfa2)
-file: Other/Arcade/Street Fighter Alpha 2 (Europe) (sfa2)/Street Fighter Alpha 2 (Europe) (sfa2).json
+file: Roms/Other/Arcade/Street Fighter Alpha 2 (Europe) (sfa2)/Street Fighter Alpha 2 (Europe) (sfa2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5138,7 +5138,7 @@ x-playable: Yes
 
 
 game: Street Fighter Alpha 3 (Europe) (sfa3)
-file: Other/Arcade/Street Fighter Alpha 3 (Europe) (sfa3)/Street Fighter Alpha 3 (Europe) (sfa3).json
+file: Roms/Other/Arcade/Street Fighter Alpha 3 (Europe) (sfa3)/Street Fighter Alpha 3 (Europe) (sfa3).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5161,7 +5161,7 @@ x-playable: Yes
 
 
 game: Street Fighter II - The World Warrior (World) (sf2)
-file: Other/Arcade/Street Fighter II - The World Warrior (World) (sf2)/Street Fighter II - The World Warrior (World) (sf2).json
+file: Roms/Other/Arcade/Street Fighter II - The World Warrior (World) (sf2)/Street Fighter II - The World Warrior (World) (sf2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5191,7 +5191,7 @@ x-playable: Yes
 
 
 game: Street Fighter II' - Champion Edition (World) (sf2ce)
-file: Other/Arcade/Street Fighter II' - Champion Edition (World) (sf2ce)/Street Fighter II' - Champion Edition (World) (sf2ce).json
+file: Roms/Other/Arcade/Street Fighter II' - Champion Edition (World) (sf2ce)/Street Fighter II' - Champion Edition (World) (sf2ce).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5221,7 +5221,7 @@ x-playable: Yes
 
 
 game: Street Fighter II' - Hyper Fighting (World) (sf2hf)
-file: Other/Arcade/Street Fighter II' - Hyper Fighting (World) (sf2hf)/Street Fighter II' - Hyper Fighting (World) (sf2hf).json
+file: Roms/Other/Arcade/Street Fighter II' - Hyper Fighting (World) (sf2hf)/Street Fighter II' - Hyper Fighting (World) (sf2hf).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5240,7 +5240,7 @@ x-playable: Yes
 
 
 game: Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2)
-file: Other/Arcade/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2)/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).json
+file: Roms/Other/Arcade/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2)/Street Fighter III - 2nd Impact - Giant Attack (USA) (sfiii2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5274,7 +5274,7 @@ x-playable: Yes
 
 
 game: Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3)
-file: Other/Arcade/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3)/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).json
+file: Roms/Other/Arcade/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3)/Street Fighter III - 3rd Strike - Fight for the Future (Europe) (sfiii3).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5365,7 +5365,7 @@ x-playable: Yes
 
 
 game: Street Fighter III - New Generation (Europe) (sfiii)
-file: Other/Arcade/Street Fighter III - New Generation (Europe) (sfiii)/Street Fighter III - New Generation (Europe) (sfiii).json
+file: Roms/Other/Arcade/Street Fighter III - New Generation (Europe) (sfiii)/Street Fighter III - New Generation (Europe) (sfiii).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5396,7 +5396,7 @@ x-playable: Yes
 
 
 game: Street Smart (USA) (streetsm)
-file: Other/Arcade/Street Smart (USA) (streetsm)/Street Smart (USA) (streetsm).json
+file: Roms/Other/Arcade/Street Smart (USA) (streetsm)/Street Smart (USA) (streetsm).json
 developer: SNK
 publisher: SNK
 genre: Fighting
@@ -5422,7 +5422,7 @@ x-playable: Yes
 
 
 game: Strider (USA) (strider)
-file: Other/Arcade/Strider (USA) (strider)/Strider (USA) (strider).json
+file: Roms/Other/Arcade/Strider (USA) (strider)/Strider (USA) (strider).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -5443,7 +5443,7 @@ x-playable: Yes
 
 
 game: Super Breakout (World) (sbrkout)
-file: Other/Arcade/Super Breakout (World) (sbrkout)/Super Breakout (World) (sbrkout).json
+file: Roms/Other/Arcade/Super Breakout (World) (sbrkout)/Super Breakout (World) (sbrkout).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -5472,7 +5472,7 @@ x-playable: Yes
 
 
 game: Super Bug (World) (superbug)
-file: Other/Arcade/Super Bug (World) (superbug)/Super Bug (World) (superbug).json
+file: Roms/Other/Arcade/Super Bug (World) (superbug)/Super Bug (World) (superbug).json
 developer: Kee Games
 publisher: Atari
 genre: Racing
@@ -5494,7 +5494,7 @@ x-playable: Yes
 
 
 game: Super Buster Bros. (USA) (sbbros)
-file: Other/Arcade/Super Buster Bros. (USA) (sbbros)/Super Buster Bros. (USA) (sbbros).json
+file: Roms/Other/Arcade/Super Buster Bros. (USA) (sbbros)/Super Buster Bros. (USA) (sbbros).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle;Shooter
@@ -5516,7 +5516,7 @@ x-playable: Yes
 
 
 game: Super Cobra (World) (scobra)
-file: Other/Arcade/Super Cobra (World) (scobra)/Super Cobra (World) (scobra).json
+file: Roms/Other/Arcade/Super Cobra (World) (scobra)/Super Cobra (World) (scobra).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -5537,7 +5537,7 @@ x-playable: Yes
 
 
 game: Super Gem Fighter Mini Mix (USA) (sgemf)
-file: Other/Arcade/Super Gem Fighter Mini Mix (USA) (sgemf)/Super Gem Fighter Mini Mix (USA) (sgemf).json
+file: Roms/Other/Arcade/Super Gem Fighter Mini Mix (USA) (sgemf)/Super Gem Fighter Mini Mix (USA) (sgemf).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5554,7 +5554,7 @@ x-playable: Yes
 
 
 game: Super Puzzle Fighter II Turbo (Europe) (spf2t)
-file: Other/Arcade/Super Puzzle Fighter II Turbo (Europe) (spf2t)/Super Puzzle Fighter II Turbo (Europe) (spf2t).json
+file: Roms/Other/Arcade/Super Puzzle Fighter II Turbo (Europe) (spf2t)/Super Puzzle Fighter II Turbo (Europe) (spf2t).json
 developer: Capcom
 publisher: Capcom
 genre: Puzzle
@@ -5577,7 +5577,7 @@ x-playable: Yes
 
 
 game: Super Sidekicks 3 - The Next Glory (World) (ssideki3)
-file: Other/Arcade/Super Sidekicks 3 - The Next Glory (World) (ssideki3)/Super Sidekicks 3 - The Next Glory (World) (ssideki3).json
+file: Roms/Other/Arcade/Super Sidekicks 3 - The Next Glory (World) (ssideki3)/Super Sidekicks 3 - The Next Glory (World) (ssideki3).json
 developer: SNK
 publisher: SNK
 genre: Sports
@@ -5596,7 +5596,7 @@ x-playable: Yes
 
 
 game: Super Sprint (World) (ssprint)
-file: Other/Arcade/Super Sprint (World) (ssprint)/Super Sprint (World) (ssprint).json
+file: Roms/Other/Arcade/Super Sprint (World) (ssprint)/Super Sprint (World) (ssprint).json
 developer: Atari Games
 publisher: Atari Games
 genre: Racing
@@ -5616,7 +5616,7 @@ x-playable: Yes
 
 
 game: Super Street Fighter II - The New Challengers (World) (ssf2)
-file: Other/Arcade/Super Street Fighter II - The New Challengers (World) (ssf2)/Super Street Fighter II - The New Challengers (World) (ssf2).json
+file: Roms/Other/Arcade/Super Street Fighter II - The New Challengers (World) (ssf2)/Super Street Fighter II - The New Challengers (World) (ssf2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5640,7 +5640,7 @@ x-playable: Yes
 
 
 game: Super Street Fighter II Turbo (World) (ssf2t)
-file: Other/Arcade/Super Street Fighter II Turbo (World) (ssf2t)/Super Street Fighter II Turbo (World) (ssf2t).json
+file: Roms/Other/Arcade/Super Street Fighter II Turbo (World) (ssf2t)/Super Street Fighter II Turbo (World) (ssf2t).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -5665,7 +5665,7 @@ x-playable: Yes
 
 
 game: T.N.K III (USA) (tnk3)
-file: Other/Arcade/T.N.K III (USA) (tnk3)/T.N.K III (USA) (tnk3).json
+file: Roms/Other/Arcade/T.N.K III (USA) (tnk3)/T.N.K III (USA) (tnk3).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -5687,7 +5687,7 @@ x-playable: Yes
 
 
 game: Tank Force (USA) (tankfrce)
-file: Other/Arcade/Tank Force (USA) (tankfrce)/Tank Force (USA) (tankfrce).json
+file: Roms/Other/Arcade/Tank Force (USA) (tankfrce)/Tank Force (USA) (tankfrce).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -5711,7 +5711,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles (World) (tmnt)
-file: Other/Arcade/Teenage Mutant Ninja Turtles (World) (tmnt)/Teenage Mutant Ninja Turtles (World) (tmnt).json
+file: Roms/Other/Arcade/Teenage Mutant Ninja Turtles (World) (tmnt)/Teenage Mutant Ninja Turtles (World) (tmnt).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -5730,7 +5730,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2)
-file: Other/Arcade/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2)/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).json
+file: Roms/Other/Arcade/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2)/Teenage Mutant Ninja Turtles - Turtles in Time (World) (tmnt2).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -5755,7 +5755,7 @@ x-playable: Yes
 
 
 game: Tempest (World) (tempest)
-file: Other/Arcade/Tempest (World) (tempest)/Tempest (World) (tempest).json
+file: Roms/Other/Arcade/Tempest (World) (tempest)/Tempest (World) (tempest).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -5774,7 +5774,7 @@ x-playable: Yes
 
 
 game: Three Wonders (World) (3wonders)
-file: Other/Arcade/Three Wonders (World) (3wonders)/Three Wonders (World) (3wonders).json
+file: Roms/Other/Arcade/Three Wonders (World) (3wonders)/Three Wonders (World) (3wonders).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform;Puzzle;Shooter
@@ -5789,7 +5789,7 @@ x-playable: Yes
 
 
 game: Thunder Cross (World) (thunderx)
-file: Other/Arcade/Thunder Cross (World) (thunderx)/Thunder Cross (World) (thunderx).json
+file: Roms/Other/Arcade/Thunder Cross (World) (thunderx)/Thunder Cross (World) (thunderx).json
 developer: Konami
 publisher: Konami
 genre: Action;Shooter
@@ -5811,7 +5811,7 @@ x-playable: Yes
 
 
 game: Tiger Road (USA) (tigeroad)
-file: Other/Arcade/Tiger Road (USA) (tigeroad)/Tiger Road (USA) (tigeroad).json
+file: Roms/Other/Arcade/Tiger Road (USA) (tigeroad)/Tiger Road (USA) (tigeroad).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -5837,7 +5837,7 @@ x-playable: Yes
 
 
 game: Timber (World) (timber)
-file: Other/Arcade/Timber (World) (timber)/Timber (World) (timber).json
+file: Roms/Other/Arcade/Timber (World) (timber)/Timber (World) (timber).json
 developer: Marvin Glass and Associates
 publisher: Bally Midway
 genre: Platform
@@ -5879,7 +5879,7 @@ x-playable: Yes
 
 
 game: Time Pilot (World) (timeplt)
-file: Other/Arcade/Time Pilot (World) (timeplt)/Time Pilot (World) (timeplt).json
+file: Roms/Other/Arcade/Time Pilot (World) (timeplt)/Time Pilot (World) (timeplt).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -5908,7 +5908,7 @@ x-playable: Yes
 
 
 game: Time Soldiers (USA) (timesold)
-file: Other/Arcade/Time Soldiers (USA) (timesold)/Time Soldiers (USA) (timesold).json
+file: Roms/Other/Arcade/Time Soldiers (USA) (timesold)/Time Soldiers (USA) (timesold).json
 developer: Romstar
 publisher: Romstar Incorporated
 genre: Action;Shooter
@@ -5924,7 +5924,7 @@ x-playable: Yes
 
 
 game: Toobin' (World) (toobin)
-file: Other/Arcade/Toobin' (World) (toobin)/Toobin' (World) (toobin).json
+file: Roms/Other/Arcade/Toobin' (World) (toobin)/Toobin' (World) (toobin).json
 developer: Atari
 publisher: Domark
 genre: Racing
@@ -5981,7 +5981,7 @@ x-playable: Yes
 
 
 game: Top Hunter - Roddy & Cathy (World) (tophuntr)
-file: Other/Arcade/Top Hunter - Roddy & Cathy (World) (tophuntr)/Top Hunter - Roddy & Cathy (World) (tophuntr).json
+file: Roms/Other/Arcade/Top Hunter - Roddy & Cathy (World) (tophuntr)/Top Hunter - Roddy & Cathy (World) (tophuntr).json
 developer: SNK
 publisher: SNK
 genre: Platform
@@ -6003,7 +6003,7 @@ x-playable: Yes
 
 
 game: Total Carnage (World) (totcam)
-file: Other/Arcade/Total Carnage (World) (totcam)/Total Carnage (World) (totcam).json
+file: Roms/Other/Arcade/Total Carnage (World) (totcam)/Total Carnage (World) (totcam).json
 developer: Midway
 publisher: Midway
 genre: Shooter
@@ -6031,7 +6031,7 @@ x-playable: Yes
 
 
 game: Tower of Druaga, The (World) (todruaga)
-file: Other/Arcade/Tower of Druaga, The (World) (todruaga)/Tower of Druaga, The (World) (todruaga).json
+file: Roms/Other/Arcade/Tower of Druaga, The (World) (todruaga)/Tower of Druaga, The (World) (todruaga).json
 developer: Namco
 publisher: Namco
 genre: Action
@@ -6049,7 +6049,7 @@ x-playable: Yes
 
 
 game: Trojan (USA) (trojan)
-file: Other/Arcade/Trojan (USA) (trojan)/Trojan (USA) (trojan).json
+file: Roms/Other/Arcade/Trojan (USA) (trojan)/Trojan (USA) (trojan).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -6077,7 +6077,7 @@ x-playable: Yes
 
 
 game: TwinBee (World) (twinbee)
-file: Other/Arcade/TwinBee (World) (twinbee)/TwinBee (World) (twinbee).json
+file: Roms/Other/Arcade/TwinBee (World) (twinbee)/TwinBee (World) (twinbee).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -6102,7 +6102,7 @@ x-playable: Yes
 
 
 game: Typhoon (World) (ajax)
-file: Other/Arcade/Typhoon (World) (ajax)/Typhoon (World) (ajax).json
+file: Roms/Other/Arcade/Typhoon (World) (ajax)/Typhoon (World) (ajax).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -6118,7 +6118,7 @@ x-playable: Yes
 
 
 game: Vampire Savior - The Lord of Vampire (Europe) (vsav)
-file: Other/Arcade/Vampire Savior - The Lord of Vampire (Europe) (vsav)/Vampire Savior - The Lord of Vampire (Europe) (vsav).json
+file: Roms/Other/Arcade/Vampire Savior - The Lord of Vampire (Europe) (vsav)/Vampire Savior - The Lord of Vampire (Europe) (vsav).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6137,7 +6137,7 @@ x-playable: Yes
 
 
 game: Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2)
-file: Other/Arcade/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2)/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).json
+file: Roms/Other/Arcade/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2)/Vampire Savior 2 - The Lord of Vampire (Japan) (vsav2).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6161,7 +6161,7 @@ x-playable: Yes
 
 
 game: Varth - Operation Thunderstorm (World) (varth)
-file: Other/Arcade/Varth - Operation Thunderstorm (World) (varth)/Varth - Operation Thunderstorm (World) (varth).json
+file: Roms/Other/Arcade/Varth - Operation Thunderstorm (World) (varth)/Varth - Operation Thunderstorm (World) (varth).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -6193,7 +6193,7 @@ x-playable: Yes
 
 
 game: Victory Road (World) (victroad)
-file: Other/Arcade/Victory Road (World) (victroad)/Victory Road (World) (victroad).json
+file: Roms/Other/Arcade/Victory Road (World) (victroad)/Victory Road (World) (victroad).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter
@@ -6223,7 +6223,7 @@ x-playable: Yes
 
 
 game: Vindicators (World) (vindictr)
-file: Other/Arcade/Vindicators (World) (vindictr)/Vindicators (World) (vindictr).json
+file: Roms/Other/Arcade/Vindicators (World) (vindictr)/Vindicators (World) (vindictr).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -6246,7 +6246,7 @@ x-playable: Yes
 
 
 game: Vulcan Venture (World) (vulcan)
-file: Other/Arcade/Vulcan Venture (World) (vulcan)/Vulcan Venture (World) (vulcan).json
+file: Roms/Other/Arcade/Vulcan Venture (World) (vulcan)/Vulcan Venture (World) (vulcan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -6281,7 +6281,7 @@ x-playable: Yes
 
 
 game: Vulgus (World) (vulgus)
-file: Other/Arcade/Vulgus (World) (vulgus)/Vulgus (World) (vulgus).json
+file: Roms/Other/Arcade/Vulgus (World) (vulgus)/Vulgus (World) (vulgus).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -6302,7 +6302,7 @@ x-playable: Yes
 
 
 game: Wacko (World) (wacko)
-file: Other/Arcade/Wacko (World) (wacko)/Wacko (World) (wacko).json
+file: Roms/Other/Arcade/Wacko (World) (wacko)/Wacko (World) (wacko).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Shooter
@@ -6318,7 +6318,7 @@ x-playable: Yes
 
 
 game: Warlords! (World) (warlords)
-file: Other/Arcade/Warlords! (World) (warlords)/Warlords! (World) (warlords).json
+file: Roms/Other/Arcade/Warlords! (World) (warlords)/Warlords! (World) (warlords).json
 developer: Atari
 publisher: Atari
 genre: Action
@@ -6352,7 +6352,7 @@ x-playable: Yes
 
 
 game: Warriors of Fate (World) (wof)
-file: Other/Arcade/Warriors of Fate (World) (wof)/Warriors of Fate (World) (wof).json
+file: Roms/Other/Arcade/Warriors of Fate (World) (wof)/Warriors of Fate (World) (wof).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -6382,7 +6382,7 @@ x-playable: Yes
 
 
 game: Wizard of Wor (World) (wow)
-file: Other/Arcade/Wizard of Wor (World) (wow)/Wizard of Wor (World) (wow).json
+file: Roms/Other/Arcade/Wizard of Wor (World) (wow)/Wizard of Wor (World) (wow).json
 developer: Dave Nutting Associates
 publisher: Midway
 genre: Shooter
@@ -6411,7 +6411,7 @@ x-playable: Yes
 
 
 game: World Heroes (World) (wh1)
-file: Other/Arcade/World Heroes (World) (wh1)/World Heroes (World) (wh1).json
+file: Roms/Other/Arcade/World Heroes (World) (wh1)/World Heroes (World) (wh1).json
 developer: Alpha Denshi
 publisher: SNK
 genre: Fighting
@@ -6435,7 +6435,7 @@ x-playable: Yes
 
 
 game: World Wars (World) (worldwar)
-file: Other/Arcade/World Wars (World) (worldwar)/World Wars (World) (worldwar).json
+file: Roms/Other/Arcade/World Wars (World) (worldwar)/World Wars (World) (worldwar).json
 developer: SNK
 publisher: SNK
 genre: Shooter
@@ -6452,7 +6452,7 @@ x-playable: Yes
 
 
 game: Xenophobe (World) (xenophob)
-file: Other/Arcade/Xenophobe (World) (xenophob)/Xenophobe (World) (xenophob).json
+file: Roms/Other/Arcade/Xenophobe (World) (xenophob)/Xenophobe (World) (xenophob).json
 developer: Bally Midway
 publisher: Bally Midway
 genre: Action
@@ -6477,7 +6477,7 @@ x-playable: Yes
 
 
 game: Xevious (World) (xevious)
-file: Other/Arcade/Xevious (World) (xevious)/Xevious (World) (xevious).json
+file: Roms/Other/Arcade/Xevious (World) (xevious)/Xevious (World) (xevious).json
 developer: Namco
 publisher: Namco
 genre: Shooter
@@ -6505,7 +6505,7 @@ x-playable: Yes
 
 
 game: Xybots (World) (xybots)
-file: Other/Arcade/Xybots (World) (xybots)/Xybots (World) (xybots).json
+file: Roms/Other/Arcade/Xybots (World) (xybots)/Xybots (World) (xybots).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -6536,7 +6536,7 @@ x-playable: Yes
 
 
 game: Yie Ar Kung-Fu (World) (yiear)
-file: Other/Arcade/Yie Ar Kung-Fu (World) (yiear)/Yie Ar Kung-Fu (World) (yiear).json
+file: Roms/Other/Arcade/Yie Ar Kung-Fu (World) (yiear)/Yie Ar Kung-Fu (World) (yiear).json
 developer: Konami
 publisher: Konami
 genre: Fighting
@@ -6567,7 +6567,7 @@ x-playable: Yes
 
 
 game: Zaxxon (World) (zaxxon)
-file: Other/Arcade/Zaxxon (World) (zaxxon)/Zaxxon (World) (zaxxon).json
+file: Roms/Other/Arcade/Zaxxon (World) (zaxxon)/Zaxxon (World) (zaxxon).json
 developer: Ikegami Tsushinki
 publisher: Sega
 genre: Shooter

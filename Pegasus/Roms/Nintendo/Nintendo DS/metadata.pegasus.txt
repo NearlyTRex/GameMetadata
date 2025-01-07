@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo DS" -n {file.basenam
 
 
 game: Age of Empires - The Age of Kings (USA)
-file: Nintendo/Nintendo DS/Age of Empires - The Age of Kings (USA)/Age of Empires - The Age of Kings (USA).json
+file: Roms/Nintendo/Nintendo DS/Age of Empires - The Age of Kings (USA)/Age of Empires - The Age of Kings (USA).json
 developer: Backbone Entertainment
 publisher: Majesco Entertainment
 genre: Strategy
@@ -27,7 +27,7 @@ x-playable: Yes
 
 
 game: America's Test Kitchen - Let's Get Cooking (USA)
-file: Nintendo/Nintendo DS/America's Test Kitchen - Let's Get Cooking (USA)/America's Test Kitchen - Let's Get Cooking (USA).json
+file: Roms/Nintendo/Nintendo DS/America's Test Kitchen - Let's Get Cooking (USA)/America's Test Kitchen - Let's Get Cooking (USA).json
 developer: Indies Zero
 publisher: Nintendo
 genre: Life Simulation
@@ -49,7 +49,7 @@ x-playable: Yes
 
 
 game: Animal Crossing - Wild World (USA) (Rev 1)
-file: Nintendo/Nintendo DS/Animal Crossing - Wild World (USA) (Rev 1)/Animal Crossing - Wild World (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo DS/Animal Crossing - Wild World (USA) (Rev 1)/Animal Crossing - Wild World (USA) (Rev 1).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Life Simulation
@@ -73,7 +73,7 @@ x-playable: Yes
 
 
 game: Art Academy (USA) (NDSi Enhanced)
-file: Nintendo/Nintendo DS/Art Academy (USA) (NDSi Enhanced)/Art Academy (USA) (NDSi Enhanced).json
+file: Roms/Nintendo/Nintendo DS/Art Academy (USA) (NDSi Enhanced)/Art Academy (USA) (NDSi Enhanced).json
 developer: Headstrong Games
 publisher: Nintendo
 genre: Life Simulation;Education
@@ -103,7 +103,7 @@ x-playable: Yes
 
 
 game: Blue Dragon Plus (USA)
-file: Nintendo/Nintendo DS/Blue Dragon Plus (USA)/Blue Dragon Plus (USA).json
+file: Roms/Nintendo/Nintendo DS/Blue Dragon Plus (USA)/Blue Dragon Plus (USA).json
 developer: Ignition Entertainment
 publisher: Feel Plus
 genre: Role-Playing;Strategy
@@ -138,7 +138,7 @@ x-playable: Yes
 
 
 game: Brain Age - Train Your Brain in Minutes a Day! (USA)
-file: Nintendo/Nintendo DS/Brain Age - Train Your Brain in Minutes a Day! (USA)/Brain Age - Train Your Brain in Minutes a Day! (USA).json
+file: Roms/Nintendo/Nintendo DS/Brain Age - Train Your Brain in Minutes a Day! (USA)/Brain Age - Train Your Brain in Minutes a Day! (USA).json
 developer: Nintendo SPD
 publisher: Nintendo
 genre: Puzzle
@@ -209,7 +209,7 @@ x-playable: Yes
 
 
 game: Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es)/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es)/Brain Age 2 - More Training in Minutes a Day! (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -229,7 +229,7 @@ x-playable: Yes
 
 
 game: Call of Duty - World at War (USA)
-file: Nintendo/Nintendo DS/Call of Duty - World at War (USA)/Call of Duty - World at War (USA).json
+file: Roms/Nintendo/Nintendo DS/Call of Duty - World at War (USA)/Call of Duty - World at War (USA).json
 developer: n-Space, Inc
 publisher: Activision
 genre: Action;Shooter
@@ -251,7 +251,7 @@ x-playable: Yes
 
 
 game: Castlevania - Dawn of Sorrow (USA)
-file: Nintendo/Nintendo DS/Castlevania - Dawn of Sorrow (USA)/Castlevania - Dawn of Sorrow (USA).json
+file: Roms/Nintendo/Nintendo DS/Castlevania - Dawn of Sorrow (USA)/Castlevania - Dawn of Sorrow (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure;Platform;Role-Playing
@@ -275,7 +275,7 @@ x-playable: Yes
 
 
 game: Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch)
-file: Nintendo/Nintendo DS/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch)/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch).json
+file: Roms/Nintendo/Nintendo DS/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch)/Castlevania - Dawn of Sorrow (USA) (Touch Screen & Luck Patch).json
 developer: Konami
 publisher: Konami
 genre: Adventure;Platform
@@ -295,7 +295,7 @@ x-playable: Yes
 
 
 game: Castlevania - Order of Ecclesia (USA) (En,Fr)
-file: Nintendo/Nintendo DS/Castlevania - Order of Ecclesia (USA) (En,Fr)/Castlevania - Order of Ecclesia (USA) (En,Fr).json
+file: Roms/Nintendo/Nintendo DS/Castlevania - Order of Ecclesia (USA) (En,Fr)/Castlevania - Order of Ecclesia (USA) (En,Fr).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure;Platform
@@ -317,7 +317,7 @@ x-playable: Yes
 
 
 game: Castlevania - Portrait of Ruin (USA)
-file: Nintendo/Nintendo DS/Castlevania - Portrait of Ruin (USA)/Castlevania - Portrait of Ruin (USA).json
+file: Roms/Nintendo/Nintendo DS/Castlevania - Portrait of Ruin (USA)/Castlevania - Portrait of Ruin (USA).json
 developer: Konami
 publisher: Konami
 genre: Adventure;Platform
@@ -349,7 +349,7 @@ x-playable: Yes
 
 
 game: Challenge Me - Brain Puzzles (USA)
-file: Nintendo/Nintendo DS/Challenge Me - Brain Puzzles (USA)/Challenge Me - Brain Puzzles (USA).json
+file: Roms/Nintendo/Nintendo DS/Challenge Me - Brain Puzzles (USA)/Challenge Me - Brain Puzzles (USA).json
 developer: Oxygen Games
 publisher: TDK Core
 genre: Puzzle;Education
@@ -369,7 +369,7 @@ x-playable: Yes
 
 
 game: Children of Mana (USA, Australia)
-file: Nintendo/Nintendo DS/Children of Mana (USA, Australia)/Children of Mana (USA, Australia).json
+file: Roms/Nintendo/Nintendo DS/Children of Mana (USA, Australia)/Children of Mana (USA, Australia).json
 developer: Square Enix
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -399,7 +399,7 @@ x-playable: Yes
 
 
 game: Chrono Trigger (USA) (En,Fr)
-file: Nintendo/Nintendo DS/Chrono Trigger (USA) (En,Fr)/Chrono Trigger (USA) (En,Fr).json
+file: Roms/Nintendo/Nintendo DS/Chrono Trigger (USA) (En,Fr)/Chrono Trigger (USA) (En,Fr).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -419,7 +419,7 @@ x-playable: Yes
 
 
 game: Club Penguin - Elite Penguin Force (USA) (Rev 1)
-file: Nintendo/Nintendo DS/Club Penguin - Elite Penguin Force (USA) (Rev 1)/Club Penguin - Elite Penguin Force (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo DS/Club Penguin - Elite Penguin Force (USA) (Rev 1)/Club Penguin - Elite Penguin Force (USA) (Rev 1).json
 developer: 1st Playable Productions
 publisher: Disney Interactive Studios
 genre: Adventure
@@ -455,7 +455,7 @@ x-playable: Yes
 
 
 game: CrossworDS (USA)
-file: Nintendo/Nintendo DS/CrossworDS (USA)/CrossworDS (USA).json
+file: Roms/Nintendo/Nintendo DS/CrossworDS (USA)/CrossworDS (USA).json
 developer: Nuevo Retro Games
 publisher: Nintendo
 genre: Puzzle
@@ -517,7 +517,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 1 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -538,7 +538,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 10 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -572,7 +572,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 11 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -600,7 +600,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 12 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -628,7 +628,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 13 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -659,7 +659,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 14 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -691,7 +691,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 15 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -721,7 +721,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 16 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -750,7 +750,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 17 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -778,7 +778,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 18 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -804,7 +804,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 19 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -834,7 +834,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 2 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -855,7 +855,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 3 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -878,7 +878,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 4 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -900,7 +900,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 5 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -920,7 +920,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 6 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -945,7 +945,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 7 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -975,7 +975,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 8 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -1001,7 +1001,7 @@ x-playable: Yes
 
 
 game: DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk)
-file: Nintendo/Nintendo DS/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk).json
+file: Roms/Nintendo/Nintendo DS/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk)/DS Download Station - Volume 9 (USA) (Demo) (Wi-Fi Kiosk).json
 developer: Nintendo
 publisher: Nintendo
 genre: Demo;Compilation
@@ -1028,7 +1028,7 @@ x-playable: Yes
 
 
 game: Dementium - The Ward (USA)
-file: Nintendo/Nintendo DS/Dementium - The Ward (USA)/Dementium - The Ward (USA).json
+file: Roms/Nintendo/Nintendo DS/Dementium - The Ward (USA)/Dementium - The Ward (USA).json
 developer: Renegade Kid
 publisher: Gamecock
 genre: Horror;Shooter
@@ -1058,7 +1058,7 @@ x-playable: Yes
 
 
 game: Dementium II (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Dementium II (USA) (En,Fr,De,Es,It)/Dementium II (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Dementium II (USA) (En,Fr,De,Es,It)/Dementium II (USA) (En,Fr,De,Es,It).json
 developer: Renegade Kid
 publisher: SouthPeak Games
 genre: Horror;Shooter
@@ -1088,7 +1088,7 @@ x-playable: Yes
 
 
 game: Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It)/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It)/Diner Dash - Sizzle & Serve (USA) (En,Fr,De,Es,It).json
 developer: Climax Studios
 publisher: Eidos  Interactive
 genre: Puzzle
@@ -1134,7 +1134,7 @@ x-playable: Yes
 
 
 game: Dragon Quest Heroes - Rocket Slime (USA)
-file: Nintendo/Nintendo DS/Dragon Quest Heroes - Rocket Slime (USA)/Dragon Quest Heroes - Rocket Slime (USA).json
+file: Roms/Nintendo/Nintendo DS/Dragon Quest Heroes - Rocket Slime (USA)/Dragon Quest Heroes - Rocket Slime (USA).json
 developer: TOSE
 publisher: Square Enix
 genre: Action;Adventure
@@ -1176,7 +1176,7 @@ x-playable: Yes
 
 
 game: Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es)/Dragon Quest IV - Chapters of the Chosen (USA) (En,Fr,Es).json
 developer: ArtePiazza
 publisher: Square Enix
 genre: Role-Playing
@@ -1207,7 +1207,7 @@ x-playable: Yes
 
 
 game: Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es)/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es)/Dragon Quest IX - Sentinels of the Starry Skies (USA) (En,Fr,Es).json
 developer: Level-5
 publisher: Square Enix
 genre: Role-Playing
@@ -1242,7 +1242,7 @@ x-playable: Yes
 
 
 game: Dragon Quest Monsters - Joker (USA)
-file: Nintendo/Nintendo DS/Dragon Quest Monsters - Joker (USA)/Dragon Quest Monsters - Joker (USA).json
+file: Roms/Nintendo/Nintendo DS/Dragon Quest Monsters - Joker (USA)/Dragon Quest Monsters - Joker (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -1275,7 +1275,7 @@ x-playable: Yes
 
 
 game: Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es)/Dragon Quest V - Hand of the Heavenly Bride (USA) (En,Fr,Es).json
 developer: ArtePiazza
 publisher: Square Enix
 genre: Role-Playing
@@ -1302,7 +1302,7 @@ x-playable: Yes
 
 
 game: Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es)/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es)/Dragon Quest VI - Realms of Revelation (USA) (En,Fr,Es).json
 developer: ArtePiazza
 publisher: Square Enix
 genre: Role-Playing
@@ -1330,7 +1330,7 @@ x-playable: Yes
 
 
 game: Drawn to Life (USA) (En,Fr)
-file: Nintendo/Nintendo DS/Drawn to Life (USA) (En,Fr)/Drawn to Life (USA) (En,Fr).json
+file: Roms/Nintendo/Nintendo DS/Drawn to Life (USA) (En,Fr)/Drawn to Life (USA) (En,Fr).json
 developer: 5th Cell
 publisher: THQ
 genre: Action;Adventure;Platform
@@ -1362,7 +1362,7 @@ x-playable: Yes
 
 
 game: Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1)
-file: Nintendo/Nintendo DS/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1)/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1).json
+file: Roms/Nintendo/Nintendo DS/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1)/Drawn to Life - The Next Chapter (USA) (En,Fr) (Rev 1).json
 developer: 5th Cell
 publisher: THQ
 genre: Action;Adventure;Platform
@@ -1402,7 +1402,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es)/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es)/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Action;Role-Playing
@@ -1436,7 +1436,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es)
-file: Nintendo/Nintendo DS/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es)/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).json
+file: Roms/Nintendo/Nintendo DS/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es)/Final Fantasy Crystal Chronicles - Ring of Fates (USA) (En,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Action;Role-Playing
@@ -1455,7 +1455,7 @@ x-playable: Yes
 
 
 game: Final Fantasy III (USA)
-file: Nintendo/Nintendo DS/Final Fantasy III (USA)/Final Fantasy III (USA).json
+file: Roms/Nintendo/Nintendo DS/Final Fantasy III (USA)/Final Fantasy III (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -1481,7 +1481,7 @@ x-playable: Yes
 
 
 game: Final Fantasy IV (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Final Fantasy IV (USA) (En,Fr,Es)/Final Fantasy IV (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Final Fantasy IV (USA) (En,Fr,Es)/Final Fantasy IV (USA) (En,Fr,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -1503,7 +1503,7 @@ x-playable: Yes
 
 
 game: Final Fantasy XII - Revenant Wings (USA)
-file: Nintendo/Nintendo DS/Final Fantasy XII - Revenant Wings (USA)/Final Fantasy XII - Revenant Wings (USA).json
+file: Roms/Nintendo/Nintendo DS/Final Fantasy XII - Revenant Wings (USA)/Final Fantasy XII - Revenant Wings (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing;Strategy
@@ -1525,7 +1525,7 @@ x-playable: Yes
 
 
 game: Fire Emblem - Shadow Dragon (USA)
-file: Nintendo/Nintendo DS/Fire Emblem - Shadow Dragon (USA)/Fire Emblem - Shadow Dragon (USA).json
+file: Roms/Nintendo/Nintendo DS/Fire Emblem - Shadow Dragon (USA)/Fire Emblem - Shadow Dragon (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Role-Playing;Strategy
@@ -1546,7 +1546,7 @@ x-playable: Yes
 
 
 game: From the Abyss (USA)
-file: Nintendo/Nintendo DS/From the Abyss (USA)/From the Abyss (USA).json
+file: Roms/Nintendo/Nintendo DS/From the Abyss (USA)/From the Abyss (USA).json
 developer: Sonic Powered Co., Ltd.
 publisher: Aksys Games Localization, Inc.
 genre: Role-Playing
@@ -1579,7 +1579,7 @@ x-playable: Yes
 
 
 game: Geometry Wars - Galaxies (USA)
-file: Nintendo/Nintendo DS/Geometry Wars - Galaxies (USA)/Geometry Wars - Galaxies (USA).json
+file: Roms/Nintendo/Nintendo DS/Geometry Wars - Galaxies (USA)/Geometry Wars - Galaxies (USA).json
 developer: Bizarre Creations
 publisher: Sierra Entertainment
 genre: Shooter
@@ -1611,7 +1611,7 @@ x-playable: Yes
 
 
 game: Glory of Heracles (USA)
-file: Nintendo/Nintendo DS/Glory of Heracles (USA)/Glory of Heracles (USA).json
+file: Roms/Nintendo/Nintendo DS/Glory of Heracles (USA)/Glory of Heracles (USA).json
 developer: Paon Corporation
 publisher: Nintendo
 genre: Role-Playing
@@ -1632,7 +1632,7 @@ x-playable: Yes
 
 
 game: Harvest Moon DS (USA)
-file: Nintendo/Nintendo DS/Harvest Moon DS (USA)/Harvest Moon DS (USA).json
+file: Roms/Nintendo/Nintendo DS/Harvest Moon DS (USA)/Harvest Moon DS (USA).json
 developer: Marvelous Interactive
 publisher: Natsume / Marvelous Entertainment
 genre: Life Simulation
@@ -1654,7 +1654,7 @@ x-playable: Yes
 
 
 game: Hidden Mysteries - Vampire Secrets (USA)
-file: Nintendo/Nintendo DS/Hidden Mysteries - Vampire Secrets (USA)/Hidden Mysteries - Vampire Secrets (USA).json
+file: Roms/Nintendo/Nintendo DS/Hidden Mysteries - Vampire Secrets (USA)/Hidden Mysteries - Vampire Secrets (USA).json
 developer: Gunnar Games
 publisher: GameMill Publishing
 genre: Puzzle
@@ -1675,7 +1675,7 @@ x-playable: Yes
 
 
 game: Kirby - Canvas Curse (USA)
-file: Nintendo/Nintendo DS/Kirby - Canvas Curse (USA)/Kirby - Canvas Curse (USA).json
+file: Roms/Nintendo/Nintendo DS/Kirby - Canvas Curse (USA)/Kirby - Canvas Curse (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1699,7 +1699,7 @@ x-playable: Yes
 
 
 game: Kirby - Squeak Squad (USA)
-file: Nintendo/Nintendo DS/Kirby - Squeak Squad (USA)/Kirby - Squeak Squad (USA).json
+file: Roms/Nintendo/Nintendo DS/Kirby - Squeak Squad (USA)/Kirby - Squeak Squad (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -1721,7 +1721,7 @@ x-playable: Yes
 
 
 game: Kirby Mass Attack (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Kirby Mass Attack (USA) (En,Fr,Es)/Kirby Mass Attack (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Kirby Mass Attack (USA) (En,Fr,Es)/Kirby Mass Attack (USA) (En,Fr,Es).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1740,7 +1740,7 @@ x-playable: Yes
 
 
 game: Kirby Super Star Ultra (USA)
-file: Nintendo/Nintendo DS/Kirby Super Star Ultra (USA)/Kirby Super Star Ultra (USA).json
+file: Roms/Nintendo/Nintendo DS/Kirby Super Star Ultra (USA)/Kirby Super Star Ultra (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1785,7 +1785,7 @@ x-playable: Yes
 
 
 game: LEGO Battles (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/LEGO Battles (USA) (En,Fr,Es)/LEGO Battles (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/LEGO Battles (USA) (En,Fr,Es)/LEGO Battles (USA) (En,Fr,Es).json
 developer: Hellbent Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Strategy
@@ -1808,7 +1808,7 @@ x-playable: Yes
 
 
 game: LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es)/LEGO Indiana Jones 2 - The Adventure Continues (USA) (En,Fr,Es).json
 developer: Traveller's Tales
 publisher: Lucas Art's
 genre: Platform
@@ -1834,7 +1834,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es)/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es)/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -1855,7 +1855,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es)/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es)/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -1881,7 +1881,7 @@ x-playable: Yes
 
 
 game: Lunar - Dragon Song (USA)
-file: Nintendo/Nintendo DS/Lunar - Dragon Song (USA)/Lunar - Dragon Song (USA).json
+file: Roms/Nintendo/Nintendo DS/Lunar - Dragon Song (USA)/Lunar - Dragon Song (USA).json
 developer: Game Arts
 publisher: Ubisoft
 genre: Role-Playing
@@ -1899,7 +1899,7 @@ x-playable: Yes
 
 
 game: Magical Starsign (USA)
-file: Nintendo/Nintendo DS/Magical Starsign (USA)/Magical Starsign (USA).json
+file: Roms/Nintendo/Nintendo DS/Magical Starsign (USA)/Magical Starsign (USA).json
 developer: Brownie Brown
 publisher: Nintendo
 genre: Role-Playing
@@ -1925,7 +1925,7 @@ x-playable: Yes
 
 
 game: Mario & Luigi - Partners in Time (USA) (Rev 1)
-file: Nintendo/Nintendo DS/Mario & Luigi - Partners in Time (USA) (Rev 1)/Mario & Luigi - Partners in Time (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo DS/Mario & Luigi - Partners in Time (USA) (Rev 1)/Mario & Luigi - Partners in Time (USA) (Rev 1).json
 developer: AlphaDream
 publisher: Nintendo
 genre: Role-Playing
@@ -1946,7 +1946,7 @@ x-playable: Yes
 
 
 game: Mario Kart DS (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Mario Kart DS (USA) (En,Fr,De,Es,It)/Mario Kart DS (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Mario Kart DS (USA) (En,Fr,De,Es,It)/Mario Kart DS (USA) (En,Fr,De,Es,It).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing
@@ -1967,7 +1967,7 @@ x-playable: Yes
 
 
 game: Mario Party DS (USA)
-file: Nintendo/Nintendo DS/Mario Party DS (USA)/Mario Party DS (USA).json
+file: Roms/Nintendo/Nintendo DS/Mario Party DS (USA)/Mario Party DS (USA).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Party
@@ -1990,7 +1990,7 @@ x-playable: Yes
 
 
 game: McDonald's eCrew Development Program (Japan)
-file: Nintendo/Nintendo DS/McDonald's eCrew Development Program (Japan)/McDonald's eCrew Development Program (Japan).json
+file: Roms/Nintendo/Nintendo DS/McDonald's eCrew Development Program (Japan)/McDonald's eCrew Development Program (Japan).json
 developer: McDonald's Japan
 publisher: McDonald's Japan
 genre: Miscellaneous;Edutainment
@@ -2005,7 +2005,7 @@ x-playable: Yes
 
 
 game: Metroid Prime - Hunters (USA)
-file: Nintendo/Nintendo DS/Metroid Prime - Hunters (USA)/Metroid Prime - Hunters (USA).json
+file: Roms/Nintendo/Nintendo DS/Metroid Prime - Hunters (USA)/Metroid Prime - Hunters (USA).json
 developer: Nintendo Software Technology
 publisher: Nintendo
 genre: Action;Shooter
@@ -2025,7 +2025,7 @@ x-playable: Yes
 
 
 game: Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo)
-file: Nintendo/Nintendo DS/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo)/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo).json
+file: Roms/Nintendo/Nintendo DS/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo)/Metroid Prime - Hunters - First Hunt (USA, Australia) (Demo).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure;Shooter
@@ -2047,7 +2047,7 @@ x-playable: Yes
 
 
 game: Metroid Prime Pinball (USA)
-file: Nintendo/Nintendo DS/Metroid Prime Pinball (USA)/Metroid Prime Pinball (USA).json
+file: Roms/Nintendo/Nintendo DS/Metroid Prime Pinball (USA)/Metroid Prime Pinball (USA).json
 developer: Fuse Games Limited
 publisher: Nintendo
 genre: Action
@@ -2079,7 +2079,7 @@ x-playable: Yes
 
 
 game: Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA)
-file: Nintendo/Nintendo DS/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA)/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).json
+file: Roms/Nintendo/Nintendo DS/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA)/Midnight Mysteries - The Edgar Allan Poe Conspiracy (USA).json
 developer: MumboJumbo
 publisher: MumboJumbo
 genre: Puzzle;Hidden Object
@@ -2103,7 +2103,7 @@ x-playable: Yes
 
 
 game: N+ (USA)
-file: Nintendo/Nintendo DS/N+ (USA)/N+ (USA).json
+file: Roms/Nintendo/Nintendo DS/N+ (USA)/N+ (USA).json
 developer: SilverBirch Studios
 publisher: Atari SA
 genre: Action;Puzzle;Platform
@@ -2124,7 +2124,7 @@ x-playable: Yes
 
 
 game: New Super Mario Bros. (USA)
-file: Nintendo/Nintendo DS/New Super Mario Bros. (USA)/New Super Mario Bros. (USA).json
+file: Roms/Nintendo/Nintendo DS/New Super Mario Bros. (USA)/New Super Mario Bros. (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -2150,7 +2150,7 @@ x-playable: Yes
 
 
 game: Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It)/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It)/Nintendo DS Browser (USA, Europe) (En,Fr,De,Es,It).json
 developer: Nintendo
 publisher: Nintendo
 genre: Miscellaneous;Application
@@ -2192,7 +2192,7 @@ x-playable: Yes
 
 
 game: Nintendogs - Dachshund & Friends (USA)
-file: Nintendo/Nintendo DS/Nintendogs - Dachshund & Friends (USA)/Nintendogs - Dachshund & Friends (USA).json
+file: Roms/Nintendo/Nintendo DS/Nintendogs - Dachshund & Friends (USA)/Nintendogs - Dachshund & Friends (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Life Simulation
@@ -2236,7 +2236,7 @@ x-playable: Yes
 
 
 game: Nintendogs - Dalmatian & Friends (USA)
-file: Nintendo/Nintendo DS/Nintendogs - Dalmatian & Friends (USA)/Nintendogs - Dalmatian & Friends (USA).json
+file: Roms/Nintendo/Nintendo DS/Nintendogs - Dalmatian & Friends (USA)/Nintendogs - Dalmatian & Friends (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Life Simulation
@@ -2255,7 +2255,7 @@ x-playable: Yes
 
 
 game: Personal Trainer - Cooking (USA)
-file: Nintendo/Nintendo DS/Personal Trainer - Cooking (USA)/Personal Trainer - Cooking (USA).json
+file: Roms/Nintendo/Nintendo DS/Personal Trainer - Cooking (USA)/Personal Trainer - Cooking (USA).json
 developer: Indies Zero
 publisher: Nintendo
 genre: Life Simulation
@@ -2272,7 +2272,7 @@ x-playable: Yes
 
 
 game: Personal Trainer - Walking (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Personal Trainer - Walking (USA) (En,Fr,Es)/Personal Trainer - Walking (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Personal Trainer - Walking (USA) (En,Fr,Es)/Personal Trainer - Walking (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Life Simulation;Sports;Utility
@@ -2290,7 +2290,7 @@ x-playable: Yes
 
 
 game: Plants vs. Zombies (USA)
-file: Nintendo/Nintendo DS/Plants vs. Zombies (USA)/Plants vs. Zombies (USA).json
+file: Roms/Nintendo/Nintendo DS/Plants vs. Zombies (USA)/Plants vs. Zombies (USA).json
 developer: PopCap Games
 publisher: PopCap Games
 genre: Puzzle
@@ -2310,7 +2310,7 @@ x-playable: Yes
 
 
 game: Pokemon - Platinum Version (USA)
-file: Nintendo/Nintendo DS/Pokemon - Platinum Version (USA)/Pokemon - Platinum Version (USA).json
+file: Roms/Nintendo/Nintendo DS/Pokemon - Platinum Version (USA)/Pokemon - Platinum Version (USA).json
 developer: Game Freak
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -2334,7 +2334,7 @@ x-playable: Yes
 
 
 game: Pokemon Mystery Dungeon - Explorers of Sky (USA)
-file: Nintendo/Nintendo DS/Pokemon Mystery Dungeon - Explorers of Sky (USA)/Pokemon Mystery Dungeon - Explorers of Sky (USA).json
+file: Roms/Nintendo/Nintendo DS/Pokemon Mystery Dungeon - Explorers of Sky (USA)/Pokemon Mystery Dungeon - Explorers of Sky (USA).json
 developer: Chunsoft
 publisher: Nintendo
 genre: Role-Playing
@@ -2359,7 +2359,7 @@ x-playable: Yes
 
 
 game: Pokemon Ranger (USA)
-file: Nintendo/Nintendo DS/Pokemon Ranger (USA)/Pokemon Ranger (USA).json
+file: Roms/Nintendo/Nintendo DS/Pokemon Ranger (USA)/Pokemon Ranger (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -2378,7 +2378,7 @@ x-playable: Yes
 
 
 game: Pokemon Ranger - Guardian Signs (USA, Australia)
-file: Nintendo/Nintendo DS/Pokemon Ranger - Guardian Signs (USA, Australia)/Pokemon Ranger - Guardian Signs (USA, Australia).json
+file: Roms/Nintendo/Nintendo DS/Pokemon Ranger - Guardian Signs (USA, Australia)/Pokemon Ranger - Guardian Signs (USA, Australia).json
 developer: Creatures, Inc.
 publisher: Nintendo
 genre: Adventure
@@ -2400,7 +2400,7 @@ x-playable: Yes
 
 
 game: Pokemon Ranger - Shadows of Almia (USA)
-file: Nintendo/Nintendo DS/Pokemon Ranger - Shadows of Almia (USA)/Pokemon Ranger - Shadows of Almia (USA).json
+file: Roms/Nintendo/Nintendo DS/Pokemon Ranger - Shadows of Almia (USA)/Pokemon Ranger - Shadows of Almia (USA).json
 developer: Creatures, Inc.
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -2427,7 +2427,7 @@ x-playable: Yes
 
 
 game: Populous DS (USA)
-file: Nintendo/Nintendo DS/Populous DS (USA)/Populous DS (USA).json
+file: Roms/Nintendo/Nintendo DS/Populous DS (USA)/Populous DS (USA).json
 developer: EA Japan
 publisher: Xseed Games
 genre: Strategy
@@ -2448,7 +2448,7 @@ x-playable: Yes
 
 
 game: Prism - Light the Way (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Prism - Light the Way (USA) (En,Fr,De,Es,It)/Prism - Light the Way (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Prism - Light the Way (USA) (En,Fr,De,Es,It)/Prism - Light the Way (USA) (En,Fr,De,Es,It).json
 developer: Game Sauce
 publisher: Eidos Interactive
 genre: Puzzle
@@ -2466,7 +2466,7 @@ x-playable: Yes
 
 
 game: Professor Layton and the Diabolical Box (USA)
-file: Nintendo/Nintendo DS/Professor Layton and the Diabolical Box (USA)/Professor Layton and the Diabolical Box (USA).json
+file: Roms/Nintendo/Nintendo DS/Professor Layton and the Diabolical Box (USA)/Professor Layton and the Diabolical Box (USA).json
 developer: Level-5
 publisher: Nintendo
 genre: Adventure;Puzzle
@@ -2493,7 +2493,7 @@ x-playable: Yes
 
 
 game: Professor Layton and the Last Specter (USA)
-file: Nintendo/Nintendo DS/Professor Layton and the Last Specter (USA)/Professor Layton and the Last Specter (USA).json
+file: Roms/Nintendo/Nintendo DS/Professor Layton and the Last Specter (USA)/Professor Layton and the Last Specter (USA).json
 developer: Brownie Brown
 publisher: Nintendo
 genre: Adventure;Puzzle
@@ -2516,7 +2516,7 @@ x-playable: Yes
 
 
 game: Professor Layton and the Unwound Future (USA)
-file: Nintendo/Nintendo DS/Professor Layton and the Unwound Future (USA)/Professor Layton and the Unwound Future (USA).json
+file: Roms/Nintendo/Nintendo DS/Professor Layton and the Unwound Future (USA)/Professor Layton and the Unwound Future (USA).json
 developer: Level-5
 publisher: Nintendo
 genre: Adventure;Puzzle
@@ -2539,7 +2539,7 @@ x-playable: Yes
 
 
 game: Puzzle Chronicles (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Puzzle Chronicles (USA) (En,Fr,Es)/Puzzle Chronicles (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Puzzle Chronicles (USA) (En,Fr,Es)/Puzzle Chronicles (USA) (En,Fr,Es).json
 developer: Konami
 publisher: Konami
 genre: Role-Playing;Puzzle
@@ -2559,7 +2559,7 @@ x-playable: Yes
 
 
 game: Puzzle Quest - Challenge of the Warlords (USA)
-file: Nintendo/Nintendo DS/Puzzle Quest - Challenge of the Warlords (USA)/Puzzle Quest - Challenge of the Warlords (USA).json
+file: Roms/Nintendo/Nintendo DS/Puzzle Quest - Challenge of the Warlords (USA)/Puzzle Quest - Challenge of the Warlords (USA).json
 developer: 1st Playable Productions
 publisher: D3Publisher
 genre: Puzzle;Role-Playing
@@ -2584,7 +2584,7 @@ x-playable: Yes
 
 
 game: Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It)/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It)/Puzzle Quest - Galactrix (USA) (En,Fr,De,Es,It).json
 developer: Infinite Interactive
 publisher: D3Publisher
 genre: Puzzle;Matching
@@ -2606,7 +2606,7 @@ x-playable: Yes
 
 
 game: Puzzle Quest 2 (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Puzzle Quest 2 (USA) (En,Fr,Es)/Puzzle Quest 2 (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Puzzle Quest 2 (USA) (En,Fr,Es)/Puzzle Quest 2 (USA) (En,Fr,Es).json
 developer: Infinite Interactive
 publisher: D3 Publisher Inc.
 genre: Puzzle
@@ -2630,7 +2630,7 @@ x-playable: Yes
 
 
 game: Puzzler World (USA)
-file: Nintendo/Nintendo DS/Puzzler World (USA)/Puzzler World (USA).json
+file: Roms/Nintendo/Nintendo DS/Puzzler World (USA)/Puzzler World (USA).json
 developer: Ubisoft
 publisher: Atari SA
 genre: Puzzle;Logic
@@ -2649,7 +2649,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Deadly Silence (USA)
-file: Nintendo/Nintendo DS/Resident Evil - Deadly Silence (USA)/Resident Evil - Deadly Silence (USA).json
+file: Roms/Nintendo/Nintendo DS/Resident Evil - Deadly Silence (USA)/Resident Evil - Deadly Silence (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror
@@ -2680,7 +2680,7 @@ x-playable: Yes
 
 
 game: Retro Game Challenge (USA)
-file: Nintendo/Nintendo DS/Retro Game Challenge (USA)/Retro Game Challenge (USA).json
+file: Roms/Nintendo/Nintendo DS/Retro Game Challenge (USA)/Retro Game Challenge (USA).json
 developer: indieszero
 publisher: Namco
 genre: Action;Adventure;Racing;Role-Playing;Shooter
@@ -2718,7 +2718,7 @@ x-playable: Yes
 
 
 game: Rhapsody - A Musical Adventure (USA)
-file: Nintendo/Nintendo DS/Rhapsody - A Musical Adventure (USA)/Rhapsody - A Musical Adventure (USA).json
+file: Roms/Nintendo/Nintendo DS/Rhapsody - A Musical Adventure (USA)/Rhapsody - A Musical Adventure (USA).json
 developer: NIS
 publisher: Atlus
 genre: Role-Playing
@@ -2737,7 +2737,7 @@ x-playable: Yes
 
 
 game: Rubik's World (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/Rubik's World (USA) (En,Fr,Es)/Rubik's World (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/Rubik's World (USA) (En,Fr,Es)/Rubik's World (USA) (En,Fr,Es).json
 developer: Two Tribes
 publisher: The Game Factory
 genre: Puzzle;General
@@ -2757,7 +2757,7 @@ x-playable: Yes
 
 
 game: Rune Factory - A Fantasy Harvest Moon (USA)
-file: Nintendo/Nintendo DS/Rune Factory - A Fantasy Harvest Moon (USA)/Rune Factory - A Fantasy Harvest Moon (USA).json
+file: Roms/Nintendo/Nintendo DS/Rune Factory - A Fantasy Harvest Moon (USA)/Rune Factory - A Fantasy Harvest Moon (USA).json
 developer: Neverland
 publisher: Natsume
 genre: Life Simulation;Role-Playing
@@ -2776,7 +2776,7 @@ x-playable: Yes
 
 
 game: Scribblenauts (USA) (En,Fr,Es,Pt)
-file: Nintendo/Nintendo DS/Scribblenauts (USA) (En,Fr,Es,Pt)/Scribblenauts (USA) (En,Fr,Es,Pt).json
+file: Roms/Nintendo/Nintendo DS/Scribblenauts (USA) (En,Fr,Es,Pt)/Scribblenauts (USA) (En,Fr,Es,Pt).json
 developer: 5th Cell
 publisher: Warner Bros. Interactive
 genre: Puzzle
@@ -2796,7 +2796,7 @@ x-playable: Yes
 
 
 game: Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).json
 developer: Firaxis Games
 publisher: 2K Games
 genre: Strategy
@@ -2820,7 +2820,7 @@ x-playable: Yes
 
 
 game: Sonic Rush (USA) (En,Ja,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Sonic Rush (USA) (En,Ja,Fr,De,Es,It)/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Sonic Rush (USA) (En,Ja,Fr,De,Es,It)/Sonic Rush (USA) (En,Ja,Fr,De,Es,It).json
 developer: Dimps
 publisher: Sega
 genre: Action;Platform
@@ -2839,7 +2839,7 @@ x-playable: Yes
 
 
 game: Space Invaders Revolution (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Space Invaders Revolution (USA) (En,Fr,De,Es,It)/Space Invaders Revolution (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Space Invaders Revolution (USA) (En,Fr,De,Es,It)/Space Invaders Revolution (USA) (En,Fr,De,Es,It).json
 developer: Marvelous Entertainment
 publisher: Mastiff
 genre: Shooter
@@ -2866,7 +2866,7 @@ x-playable: Yes
 
 
 game: Spore Creatures (USA) (En,Fr,De,Es,It,Nl)
-file: Nintendo/Nintendo DS/Spore Creatures (USA) (En,Fr,De,Es,It,Nl)/Spore Creatures (USA) (En,Fr,De,Es,It,Nl).json
+file: Roms/Nintendo/Nintendo DS/Spore Creatures (USA) (En,Fr,De,Es,It,Nl)/Spore Creatures (USA) (En,Fr,De,Es,It,Nl).json
 developer: Griptonite Games
 publisher: Electronic Arts
 genre: Construction and Management Simulation;Strategy
@@ -2891,7 +2891,7 @@ x-playable: Yes
 
 
 game: Star Fox Command (USA, Australia)
-file: Nintendo/Nintendo DS/Star Fox Command (USA, Australia)/Star Fox Command (USA, Australia).json
+file: Roms/Nintendo/Nintendo DS/Star Fox Command (USA, Australia)/Star Fox Command (USA, Australia).json
 developer: Q-Games Ltd.
 publisher: Nintendo Co., Ltd.
 genre: Shooter
@@ -2913,7 +2913,7 @@ x-playable: Yes
 
 
 game: Super Mario 64 DS (USA)
-file: Nintendo/Nintendo DS/Super Mario 64 DS (USA)/Super Mario 64 DS (USA).json
+file: Roms/Nintendo/Nintendo DS/Super Mario 64 DS (USA)/Super Mario 64 DS (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -2935,7 +2935,7 @@ x-playable: Yes
 
 
 game: Super Princess Peach (USA)
-file: Nintendo/Nintendo DS/Super Princess Peach (USA)/Super Princess Peach (USA).json
+file: Roms/Nintendo/Nintendo DS/Super Princess Peach (USA)/Super Princess Peach (USA).json
 developer: Tose Software
 publisher: Nintendo
 genre: Platform
@@ -2959,7 +2959,7 @@ x-playable: Yes
 
 
 game: Super Scribblenauts (USA) (En,Fr,Es,Pt)
-file: Nintendo/Nintendo DS/Super Scribblenauts (USA) (En,Fr,Es,Pt)/Super Scribblenauts (USA) (En,Fr,Es,Pt).json
+file: Roms/Nintendo/Nintendo DS/Super Scribblenauts (USA) (En,Fr,Es,Pt)/Super Scribblenauts (USA) (En,Fr,Es,Pt).json
 developer: 5th Cell
 publisher: Warner Bros. Interactive
 genre: Puzzle
@@ -2982,7 +2982,7 @@ x-playable: Yes
 
 
 game: Tetris DS (USA)
-file: Nintendo/Nintendo DS/Tetris DS (USA)/Tetris DS (USA).json
+file: Roms/Nintendo/Nintendo DS/Tetris DS (USA)/Tetris DS (USA).json
 developer: Nintendo SPD Group No.2
 publisher: Nintendo
 genre: Puzzle
@@ -3002,7 +3002,7 @@ x-playable: Yes
 
 
 game: Theme Park (USA) (En,Ja,Fr,De,Es,It)
-file: Nintendo/Nintendo DS/Theme Park (USA) (En,Ja,Fr,De,Es,It)/Theme Park (USA) (En,Ja,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo DS/Theme Park (USA) (En,Ja,Fr,De,Es,It)/Theme Park (USA) (En,Ja,Fr,De,Es,It).json
 developer: EA Japan Studio
 publisher: EA Games
 genre: Strategy;Management;Business / Tycoon
@@ -3022,7 +3022,7 @@ x-playable: Yes
 
 
 game: Valkyrie Profile - Covenant of the Plume (USA)
-file: Nintendo/Nintendo DS/Valkyrie Profile - Covenant of the Plume (USA)/Valkyrie Profile - Covenant of the Plume (USA).json
+file: Roms/Nintendo/Nintendo DS/Valkyrie Profile - Covenant of the Plume (USA)/Valkyrie Profile - Covenant of the Plume (USA).json
 developer: tri-Ace
 publisher: Square Enix
 genre: Role-Playing;Strategy
@@ -3041,7 +3041,7 @@ x-playable: Yes
 
 
 game: WarioWare - Touched! (USA)
-file: Nintendo/Nintendo DS/WarioWare - Touched! (USA)/WarioWare - Touched! (USA).json
+file: Roms/Nintendo/Nintendo DS/WarioWare - Touched! (USA)/WarioWare - Touched! (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Puzzle
@@ -3062,7 +3062,7 @@ x-playable: Yes
 
 
 game: WireWay (USA) (En,Fr,Es)
-file: Nintendo/Nintendo DS/WireWay (USA) (En,Fr,Es)/WireWay (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo DS/WireWay (USA) (En,Fr,Es)/WireWay (USA) (En,Fr,Es).json
 developer: Konami
 publisher: Konami
 genre: Action;Platformer;2D
@@ -3084,7 +3084,7 @@ x-playable: Yes
 
 
 game: Yoshi's Island DS (USA)
-file: Nintendo/Nintendo DS/Yoshi's Island DS (USA)/Yoshi's Island DS (USA).json
+file: Roms/Nintendo/Nintendo DS/Yoshi's Island DS (USA)/Yoshi's Island DS (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform

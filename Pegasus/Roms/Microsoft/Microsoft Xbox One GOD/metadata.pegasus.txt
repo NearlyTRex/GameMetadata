@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft Xbox One GOD" -n {
 
 
 game: 7 Days to Die (USA)
-file: Microsoft/Microsoft Xbox One GOD/7 Days to Die (USA)/7 Days to Die (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/7 Days to Die (USA)/7 Days to Die (USA).json
 developer: The Fun Pimps
 publisher: The Fun Pimps
 genre: Action Adventure;Survival
@@ -26,7 +26,7 @@ x-playable: No
 
 
 game: Bunker, The (USA)
-file: Microsoft/Microsoft Xbox One GOD/Bunker, The (USA)/Bunker, The (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/Bunker, The (USA)/Bunker, The (USA).json
 developer: Splendy Games
 publisher: Green Man Gaming Publishing
 genre: Adventure;Point-and-Click
@@ -45,7 +45,7 @@ x-playable: No
 
 
 game: Claire - Extended Cut (USA)
-file: Microsoft/Microsoft Xbox One GOD/Claire - Extended Cut (USA)/Claire - Extended Cut (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/Claire - Extended Cut (USA)/Claire - Extended Cut (USA).json
 developer: Hailstorm Games Inc
 publisher: Hailstorm Games Inc
 genre: Adventure;General
@@ -65,7 +65,7 @@ x-playable: No
 
 
 game: D4 - Dark Dreams Don't Die (USA) (Demo)
-file: Microsoft/Microsoft Xbox One GOD/D4 - Dark Dreams Don't Die (USA) (Demo)/D4 - Dark Dreams Don't Die (USA) (Demo).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/D4 - Dark Dreams Don't Die (USA) (Demo)/D4 - Dark Dreams Don't Die (USA) (Demo).json
 developer: Access Games
 publisher: Microsoft Game Studios
 genre: Adventure;Point-and-Click
@@ -115,7 +115,7 @@ x-playable: No
 
 
 game: Divinity - Original Sin - Enhanced Edition (USA)
-file: Microsoft/Microsoft Xbox One GOD/Divinity - Original Sin - Enhanced Edition (USA)/Divinity - Original Sin - Enhanced Edition (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/Divinity - Original Sin - Enhanced Edition (USA)/Divinity - Original Sin - Enhanced Edition (USA).json
 developer: Larian Studios Games
 publisher: Larian Studios Games
 genre: Role-Playing;Western-Style
@@ -141,7 +141,7 @@ x-playable: No
 
 
 game: Emily Wants to Play (USA)
-file: Microsoft/Microsoft Xbox One GOD/Emily Wants to Play (USA)/Emily Wants to Play (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/Emily Wants to Play (USA)/Emily Wants to Play (USA).json
 developer: SKH Apps
 publisher: SKH Apps
 genre: Adventure;3D;First-Person
@@ -181,7 +181,7 @@ x-playable: No
 
 
 game: Layers of Fear (USA)
-file: Microsoft/Microsoft Xbox One GOD/Layers of Fear (USA)/Layers of Fear (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/Layers of Fear (USA)/Layers of Fear (USA).json
 developer: Bloober Team
 publisher: Bloober Team
 genre: Adventure;3D;First-Person
@@ -217,7 +217,7 @@ x-playable: No
 
 
 game: Soda Drinker Pro (USA)
-file: Microsoft/Microsoft Xbox One GOD/Soda Drinker Pro (USA)/Soda Drinker Pro (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/Soda Drinker Pro (USA)/Soda Drinker Pro (USA).json
 developer: Snowrunner Games
 publisher: Snowrunner Games
 genre: Miscellaneous;General
@@ -244,7 +244,7 @@ x-playable: No
 
 
 game: Zoo Tycoon (USA)
-file: Microsoft/Microsoft Xbox One GOD/Zoo Tycoon (USA)/Zoo Tycoon (USA).json
+file: Roms/Microsoft/Microsoft Xbox One GOD/Zoo Tycoon (USA)/Zoo Tycoon (USA).json
 developer: Frontier Developments
 publisher: Microsoft Game Studios
 genre: Strategy;Management;Business / Tycoon

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Apple MacOS 8" -n {file.basename
 
 
 game: Harry the Handsome Executive (USA)
-file: Other/Apple MacOS 8/Harry the Handsome Executive (USA)/Harry the Handsome Executive (USA).json
+file: Roms/Other/Apple MacOS 8/Harry the Handsome Executive (USA)/Harry the Handsome Executive (USA).json
 developer: Ambrosia
 publisher: Ambrosia
 genre: Action
@@ -30,7 +30,7 @@ x-playable: Yes
 
 
 game: Robo-Theif - Crisis at New York City (USA)
-file: Other/Apple MacOS 8/Robo-Theif - Crisis at New York City (USA)/Robo-Theif - Crisis at New York City (USA).json
+file: Roms/Other/Apple MacOS 8/Robo-Theif - Crisis at New York City (USA)/Robo-Theif - Crisis at New York City (USA).json
 developer: Unknown
 publisher: Unknown
 genre: Adventure

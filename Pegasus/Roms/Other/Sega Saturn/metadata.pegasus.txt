@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Sega Saturn" -n {file.basename}
 
 
 game: Alone in the Dark - One-Eyed Jack's Revenge (USA)
-file: Other/Sega Saturn/Alone in the Dark - One-Eyed Jack's Revenge (USA)/Alone in the Dark - One-Eyed Jack's Revenge (USA).json
+file: Roms/Other/Sega Saturn/Alone in the Dark - One-Eyed Jack's Revenge (USA)/Alone in the Dark - One-Eyed Jack's Revenge (USA).json
 developer: Infogrames
 publisher: Interplay Entertainment
 genre: Action;Adventure
@@ -32,7 +32,7 @@ x-playable: Yes
 
 
 game: Bio Hazard (Japan)
-file: Other/Sega Saturn/Bio Hazard (Japan)/Bio Hazard (Japan).json
+file: Roms/Other/Sega Saturn/Bio Hazard (Japan)/Bio Hazard (Japan).json
 developer: Nextech
 publisher: Capcom
 genre: Action;Horror;Puzzle
@@ -57,7 +57,7 @@ x-playable: Yes
 
 
 game: Bootleg Sampler (USA)
-file: Other/Sega Saturn/Bootleg Sampler (USA)/Bootleg Sampler (USA).json
+file: Roms/Other/Sega Saturn/Bootleg Sampler (USA)/Bootleg Sampler (USA).json
 developer: Sega
 publisher: Sega
 genre: Platform
@@ -74,7 +74,7 @@ x-playable: Yes
 
 
 game: Bug! (USA)
-file: Other/Sega Saturn/Bug! (USA)/Bug! (USA).json
+file: Roms/Other/Sega Saturn/Bug! (USA)/Bug! (USA).json
 developer: Realtime Associates
 publisher: Sega
 genre: Platform
@@ -97,7 +97,7 @@ x-playable: Yes
 
 
 game: Clockwork Knight - Pepperouchau's Adventure (USA)
-file: Other/Sega Saturn/Clockwork Knight - Pepperouchau's Adventure (USA)/Clockwork Knight - Pepperouchau's Adventure (USA).json
+file: Roms/Other/Sega Saturn/Clockwork Knight - Pepperouchau's Adventure (USA)/Clockwork Knight - Pepperouchau's Adventure (USA).json
 developer: AM7
 publisher: Sega
 genre: Platform
@@ -123,7 +123,7 @@ x-playable: Yes
 
 
 game: D (USA)
-file: Other/Sega Saturn/D (USA)/D (USA).json
+file: Roms/Other/Sega Saturn/D (USA)/D (USA).json
 developer: Warp
 publisher: Acclaim
 genre: Adventure
@@ -158,7 +158,7 @@ x-playable: Yes
 
 
 game: Daytona USA (USA)
-file: Other/Sega Saturn/Daytona USA (USA)/Daytona USA (USA).json
+file: Roms/Other/Sega Saturn/Daytona USA (USA)/Daytona USA (USA).json
 developer: Sega AM2
 publisher: Sega
 genre: Racing
@@ -182,7 +182,7 @@ x-playable: Yes
 
 
 game: Deep Fear (Japan)
-file: Other/Sega Saturn/Deep Fear (Japan)/Deep Fear (Japan).json
+file: Roms/Other/Sega Saturn/Deep Fear (Japan)/Deep Fear (Japan).json
 developer: ISCO
 publisher: Sega
 genre: Action;Adventure;Horror
@@ -212,7 +212,7 @@ x-playable: Yes
 
 
 game: Enemy Zero (USA)
-file: Other/Sega Saturn/Enemy Zero (USA)/Enemy Zero (USA).json
+file: Roms/Other/Sega Saturn/Enemy Zero (USA)/Enemy Zero (USA).json
 developer: Warp
 publisher: Sega
 genre: Action;Adventure
@@ -246,7 +246,7 @@ x-playable: Yes
 
 
 game: Legend of Oasis, The (USA)
-file: Other/Sega Saturn/Legend of Oasis, The (USA)/Legend of Oasis, The (USA).json
+file: Roms/Other/Sega Saturn/Legend of Oasis, The (USA)/Legend of Oasis, The (USA).json
 developer: Ancient
 publisher: Sega
 genre: Action;Role-Playing
@@ -266,7 +266,7 @@ x-playable: Yes
 
 
 game: Mansion of Hidden Souls, The (USA)
-file: Other/Sega Saturn/Mansion of Hidden Souls, The (USA)/Mansion of Hidden Souls, The (USA).json
+file: Roms/Other/Sega Saturn/Mansion of Hidden Souls, The (USA)/Mansion of Hidden Souls, The (USA).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -293,7 +293,7 @@ x-playable: Yes
 
 
 game: Mass Destruction (USA)
-file: Other/Sega Saturn/Mass Destruction (USA)/Mass Destruction (USA).json
+file: Roms/Other/Sega Saturn/Mass Destruction (USA)/Mass Destruction (USA).json
 developer: NMS Software Ltd.
 publisher: ASC Games
 genre: Action
@@ -314,7 +314,7 @@ x-playable: Yes
 
 
 game: Mystaria - The Realms of Lore (USA)
-file: Other/Sega Saturn/Mystaria - The Realms of Lore (USA)/Mystaria - The Realms of Lore (USA).json
+file: Roms/Other/Sega Saturn/Mystaria - The Realms of Lore (USA)/Mystaria - The Realms of Lore (USA).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing;Strategy
@@ -359,7 +359,7 @@ x-playable: Yes
 
 
 game: NiGHTS into Dreams... (USA) (Demo)
-file: Other/Sega Saturn/NiGHTS into Dreams... (USA) (Demo)/NiGHTS into Dreams... (USA) (Demo).json
+file: Roms/Other/Sega Saturn/NiGHTS into Dreams... (USA) (Demo)/NiGHTS into Dreams... (USA) (Demo).json
 developer: Sonic Team
 publisher: Sega
 genre: Action
@@ -382,7 +382,7 @@ x-playable: Yes
 
 
 game: Sonic R (USA, Brazil)
-file: Other/Sega Saturn/Sonic R (USA, Brazil)/Sonic R (USA, Brazil).json
+file: Roms/Other/Sega Saturn/Sonic R (USA, Brazil)/Sonic R (USA, Brazil).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Racing
@@ -401,7 +401,7 @@ x-playable: Yes
 
 
 game: Virtua Cop (USA) (6S)
-file: Other/Sega Saturn/Virtua Cop (USA) (6S)/Virtua Cop (USA) (6S).json
+file: Roms/Other/Sega Saturn/Virtua Cop (USA) (6S)/Virtua Cop (USA) (6S).json
 developer: Sega AM2
 publisher: Sega
 genre: Shooter
@@ -421,7 +421,7 @@ x-playable: Yes
 
 
 game: Virtua Fighter 2 (USA)
-file: Other/Sega Saturn/Virtua Fighter 2 (USA)/Virtua Fighter 2 (USA).json
+file: Roms/Other/Sega Saturn/Virtua Fighter 2 (USA)/Virtua Fighter 2 (USA).json
 developer: Sega
 publisher: Sega
 genre: Fighting
@@ -442,7 +442,7 @@ x-playable: Yes
 
 
 game: Virtual Hydlide (USA)
-file: Other/Sega Saturn/Virtual Hydlide (USA)/Virtual Hydlide (USA).json
+file: Roms/Other/Sega Saturn/Virtual Hydlide (USA)/Virtual Hydlide (USA).json
 developer: T&E Soft
 publisher: Atlus
 genre: Action;Role-Playing

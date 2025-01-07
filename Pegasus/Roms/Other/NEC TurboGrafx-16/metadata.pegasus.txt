@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC TurboGrafx-16" -n {file.base
 
 
 game: Air Zonk (USA)
-file: Other/NEC TurboGrafx-16/Air Zonk (USA)/Air Zonk (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Air Zonk (USA)/Air Zonk (USA).json
 developer: NAXAT Soft
 publisher: Hudson Soft
 genre: Shooter
@@ -23,7 +23,7 @@ x-playable: Yes
 
 
 game: Alien Crush (USA)
-file: Other/NEC TurboGrafx-16/Alien Crush (USA)/Alien Crush (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Alien Crush (USA)/Alien Crush (USA).json
 developer: Compile
 publisher: NEC
 genre: Action
@@ -42,7 +42,7 @@ x-playable: Yes
 
 
 game: Blazing Lazers (USA)
-file: Other/NEC TurboGrafx-16/Blazing Lazers (USA)/Blazing Lazers (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Blazing Lazers (USA)/Blazing Lazers (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Shooter
@@ -63,7 +63,7 @@ x-playable: Yes
 
 
 game: Bomberman '93 (USA)
-file: Other/NEC TurboGrafx-16/Bomberman '93 (USA)/Bomberman '93 (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Bomberman '93 (USA)/Bomberman '93 (USA).json
 developer: Hudson Soft
 publisher: Turbo Technologies
 genre: Action
@@ -86,7 +86,7 @@ x-playable: Yes
 
 
 game: Bonk 3 - Bonk's Big Adventure (USA)
-file: Other/NEC TurboGrafx-16/Bonk 3 - Bonk's Big Adventure (USA)/Bonk 3 - Bonk's Big Adventure (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Bonk 3 - Bonk's Big Adventure (USA)/Bonk 3 - Bonk's Big Adventure (USA).json
 developer: A.I
 publisher: Turbo Technologies
 genre: Platform
@@ -106,7 +106,7 @@ x-playable: Yes
 
 
 game: Bonk's Adventure (USA)
-file: Other/NEC TurboGrafx-16/Bonk's Adventure (USA)/Bonk's Adventure (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Bonk's Adventure (USA)/Bonk's Adventure (USA).json
 developer: Atlus
 publisher: Hudson Soft
 genre: Platform
@@ -124,7 +124,7 @@ x-playable: Yes
 
 
 game: Bonk's Revenge (USA)
-file: Other/NEC TurboGrafx-16/Bonk's Revenge (USA)/Bonk's Revenge (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Bonk's Revenge (USA)/Bonk's Revenge (USA).json
 developer: Red Company
 publisher: NEC
 genre: Platform
@@ -144,7 +144,7 @@ x-playable: Yes
 
 
 game: Cadash (USA)
-file: Other/NEC TurboGrafx-16/Cadash (USA)/Cadash (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Cadash (USA)/Cadash (USA).json
 developer: Taito Corporation
 publisher: Taito Corporation
 genre: Action;Platform;Role-Playing
@@ -168,7 +168,7 @@ x-playable: Yes
 
 
 game: Chew Man Fu (USA)
-file: Other/NEC TurboGrafx-16/Chew Man Fu (USA)/Chew Man Fu (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Chew Man Fu (USA)/Chew Man Fu (USA).json
 developer: Now Production
 publisher: NEC
 genre: Puzzle
@@ -188,7 +188,7 @@ x-playable: Yes
 
 
 game: China Warrior (USA)
-file: Other/NEC TurboGrafx-16/China Warrior (USA)/China Warrior (USA).json
+file: Roms/Other/NEC TurboGrafx-16/China Warrior (USA)/China Warrior (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Beat 'em Up
@@ -207,7 +207,7 @@ x-playable: Yes
 
 
 game: Devil's Crush (USA)
-file: Other/NEC TurboGrafx-16/Devil's Crush (USA)/Devil's Crush (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Devil's Crush (USA)/Devil's Crush (USA).json
 developer: Compile
 publisher: NEC
 genre: Action
@@ -227,7 +227,7 @@ x-playable: Yes
 
 
 game: Double Dungeons (USA)
-file: Other/NEC TurboGrafx-16/Double Dungeons (USA)/Double Dungeons (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Double Dungeons (USA)/Double Dungeons (USA).json
 developer: NCS
 publisher: NEC
 genre: Role-Playing
@@ -247,7 +247,7 @@ x-playable: Yes
 
 
 game: Dragon Spirit (USA)
-file: Other/NEC TurboGrafx-16/Dragon Spirit (USA)/Dragon Spirit (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Dragon Spirit (USA)/Dragon Spirit (USA).json
 developer: Namco
 publisher: NEC
 genre: Shooter
@@ -266,7 +266,7 @@ x-playable: Yes
 
 
 game: Dungeon Explorer (USA)
-file: Other/NEC TurboGrafx-16/Dungeon Explorer (USA)/Dungeon Explorer (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Dungeon Explorer (USA)/Dungeon Explorer (USA).json
 developer: Atlus
 publisher: NEC
 genre: Role-Playing
@@ -285,7 +285,7 @@ x-playable: Yes
 
 
 game: Fantasy Zone (USA)
-file: Other/NEC TurboGrafx-16/Fantasy Zone (USA)/Fantasy Zone (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Fantasy Zone (USA)/Fantasy Zone (USA).json
 developer: Bits Laboratory
 publisher: NEC
 genre: Shooter
@@ -304,7 +304,7 @@ x-playable: Yes
 
 
 game: J.J. & Jeff (USA)
-file: Other/NEC TurboGrafx-16/J.J. & Jeff (USA)/J.J. & Jeff (USA).json
+file: Roms/Other/NEC TurboGrafx-16/J.J. & Jeff (USA)/J.J. & Jeff (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Platform
@@ -325,7 +325,7 @@ x-playable: Yes
 
 
 game: Keith Courage in Alpha Zones (USA)
-file: Other/NEC TurboGrafx-16/Keith Courage in Alpha Zones (USA)/Keith Courage in Alpha Zones (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Keith Courage in Alpha Zones (USA)/Keith Courage in Alpha Zones (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Platform
@@ -357,7 +357,7 @@ x-playable: Yes
 
 
 game: Military Madness (USA)
-file: Other/NEC TurboGrafx-16/Military Madness (USA)/Military Madness (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Military Madness (USA)/Military Madness (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Strategy
@@ -377,7 +377,7 @@ x-playable: Yes
 
 
 game: Moto Roader (USA)
-file: Other/NEC TurboGrafx-16/Moto Roader (USA)/Moto Roader (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Moto Roader (USA)/Moto Roader (USA).json
 developer: NCS
 publisher: NCS
 genre: Racing
@@ -399,7 +399,7 @@ x-playable: Yes
 
 
 game: Neutopia (USA)
-file: Other/NEC TurboGrafx-16/Neutopia (USA)/Neutopia (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Neutopia (USA)/Neutopia (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Action;Adventure
@@ -417,7 +417,7 @@ x-playable: Yes
 
 
 game: Neutopia II (USA)
-file: Other/NEC TurboGrafx-16/Neutopia II (USA)/Neutopia II (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Neutopia II (USA)/Neutopia II (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Role-Playing
@@ -437,7 +437,7 @@ x-playable: Yes
 
 
 game: New Adventure Island (USA)
-file: Other/NEC TurboGrafx-16/New Adventure Island (USA)/New Adventure Island (USA).json
+file: Roms/Other/NEC TurboGrafx-16/New Adventure Island (USA)/New Adventure Island (USA).json
 developer: Now Production
 publisher: Hudson Soft
 genre: Platform
@@ -462,7 +462,7 @@ x-playable: Yes
 
 
 game: Ninja Spirit (USA)
-file: Other/NEC TurboGrafx-16/Ninja Spirit (USA)/Ninja Spirit (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Ninja Spirit (USA)/Ninja Spirit (USA).json
 developer: Irem
 publisher: NEC
 genre: Action;Platform
@@ -485,7 +485,7 @@ x-playable: Yes
 
 
 game: Parasol Stars - The Story of Bubble Bobble III (USA)
-file: Other/NEC TurboGrafx-16/Parasol Stars - The Story of Bubble Bobble III (USA)/Parasol Stars - The Story of Bubble Bobble III (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Parasol Stars - The Story of Bubble Bobble III (USA)/Parasol Stars - The Story of Bubble Bobble III (USA).json
 developer: Taito
 publisher: NEC
 genre: Platform
@@ -512,7 +512,7 @@ x-playable: Yes
 
 
 game: Power Golf (USA)
-file: Other/NEC TurboGrafx-16/Power Golf (USA)/Power Golf (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Power Golf (USA)/Power Golf (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Sports
@@ -531,7 +531,7 @@ x-playable: Yes
 
 
 game: Psychosis (USA)
-file: Other/NEC TurboGrafx-16/Psychosis (USA)/Psychosis (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Psychosis (USA)/Psychosis (USA).json
 developer: Dual
 publisher: NEC
 genre: Shooter
@@ -555,7 +555,7 @@ x-playable: Yes
 
 
 game: R-Type (USA)
-file: Other/NEC TurboGrafx-16/R-Type (USA)/R-Type (USA).json
+file: Roms/Other/NEC TurboGrafx-16/R-Type (USA)/R-Type (USA).json
 developer: Irem
 publisher: NEC
 genre: Shooter
@@ -579,7 +579,7 @@ x-playable: Yes
 
 
 game: Shockman (USA)
-file: Other/NEC TurboGrafx-16/Shockman (USA)/Shockman (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Shockman (USA)/Shockman (USA).json
 developer: Winds
 publisher: NCS
 genre: Action
@@ -605,7 +605,7 @@ x-playable: Yes
 
 
 game: Soldier Blade (USA)
-file: Other/NEC TurboGrafx-16/Soldier Blade (USA)/Soldier Blade (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Soldier Blade (USA)/Soldier Blade (USA).json
 developer: Hudson Soft
 publisher: NEC
 genre: Shooter
@@ -628,7 +628,7 @@ x-playable: Yes
 
 
 game: Space Harrier (USA)
-file: Other/NEC TurboGrafx-16/Space Harrier (USA)/Space Harrier (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Space Harrier (USA)/Space Harrier (USA).json
 developer: Dempa Micomsoft
 publisher: NEC Technologies, Inc.
 genre: Shooter
@@ -651,7 +651,7 @@ x-playable: Yes
 
 
 game: Super Star Soldier (USA)
-file: Other/NEC TurboGrafx-16/Super Star Soldier (USA)/Super Star Soldier (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Super Star Soldier (USA)/Super Star Soldier (USA).json
 developer: Inter State
 publisher: NEC
 genre: Shooter
@@ -672,7 +672,7 @@ x-playable: Yes
 
 
 game: Victory Run (USA)
-file: Other/NEC TurboGrafx-16/Victory Run (USA)/Victory Run (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Victory Run (USA)/Victory Run (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Racing
@@ -692,7 +692,7 @@ x-playable: Yes
 
 
 game: Vigilante (USA)
-file: Other/NEC TurboGrafx-16/Vigilante (USA)/Vigilante (USA).json
+file: Roms/Other/NEC TurboGrafx-16/Vigilante (USA)/Vigilante (USA).json
 developer: Irem
 publisher: NEC
 genre: Beat 'em Up

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Puppet Combo" -n {file.basena
 
 
 game: Babysitter Bloodbath (USA)
-file: Computer/Puppet Combo/B/Babysitter Bloodbath (USA)/Babysitter Bloodbath (USA).json
+file: Roms/Computer/Puppet Combo/B/Babysitter Bloodbath (USA)/Babysitter Bloodbath (USA).json
 developer: Pig Farmer Productions
 publisher: Pig Farmer Productions
 genre: Action Adventure;Survival
@@ -25,7 +25,7 @@ x-playable: Yes
 
 
 game: Blood Maniac (USA)
-file: Computer/Puppet Combo/B/Blood Maniac (USA)/Blood Maniac (USA).json
+file: Roms/Computer/Puppet Combo/B/Blood Maniac (USA)/Blood Maniac (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Horror
@@ -49,7 +49,7 @@ x-playable: Yes
 
 
 game: Bloodwash (USA)
-file: Computer/Puppet Combo/B/Bloodwash (USA)/Bloodwash (USA).json
+file: Roms/Computer/Puppet Combo/B/Bloodwash (USA)/Bloodwash (USA).json
 developer: Black Eyed Priest
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -72,7 +72,7 @@ x-playable: Yes
 
 
 game: Booty Creek Cheek Freak, The (USA)
-file: Computer/Puppet Combo/B/Booty Creek Cheek Freak, The (USA)/Booty Creek Cheek Freak, The (USA).json
+file: Roms/Computer/Puppet Combo/B/Booty Creek Cheek Freak, The (USA)/Booty Creek Cheek Freak, The (USA).json
 developer: Jordan King
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -90,7 +90,7 @@ x-playable: Yes
 
 
 game: Buzz-Saw Blood House (USA)
-file: Computer/Puppet Combo/B/Buzz-Saw Blood House (USA)/Buzz-Saw Blood House (USA).json
+file: Roms/Computer/Puppet Combo/B/Buzz-Saw Blood House (USA)/Buzz-Saw Blood House (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -112,7 +112,7 @@ x-playable: Yes
 
 
 game: Christmas Massacre (USA)
-file: Computer/Puppet Combo/C/Christmas Massacre (USA)/Christmas Massacre (USA).json
+file: Roms/Computer/Puppet Combo/C/Christmas Massacre (USA)/Christmas Massacre (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -132,7 +132,7 @@ x-playable: Yes
 
 
 game: Day 7 (USA)
-file: Computer/Puppet Combo/D/Day 7 (USA)/Day 7 (USA).json
+file: Roms/Computer/Puppet Combo/D/Day 7 (USA)/Day 7 (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -152,7 +152,7 @@ x-playable: Yes
 
 
 game: Deadly Night (USA)
-file: Computer/Puppet Combo/D/Deadly Night (USA)/Deadly Night (USA).json
+file: Roms/Computer/Puppet Combo/D/Deadly Night (USA)/Deadly Night (USA).json
 developer: Cubyte Games
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -177,7 +177,7 @@ x-playable: Yes
 
 
 game: Ding Dong Dead (USA)
-file: Computer/Puppet Combo/D/Ding Dong Dead (USA)/Ding Dong Dead (USA).json
+file: Roms/Computer/Puppet Combo/D/Ding Dong Dead (USA)/Ding Dong Dead (USA).json
 developer: Blacked Priest Priest
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -196,7 +196,7 @@ x-playable: Yes
 
 
 game: Enigma of Salazar House, The (USA)
-file: Computer/Puppet Combo/E/Enigma of Salazar House, The (USA)/Enigma of Salazar House, The (USA).json
+file: Roms/Computer/Puppet Combo/E/Enigma of Salazar House, The (USA)/Enigma of Salazar House, The (USA).json
 developer: Maldo19
 publisher: Torture Star Video
 genre: Adventure;Point-and-Click
@@ -221,7 +221,7 @@ x-playable: Yes
 
 
 game: Evil Clowns (USA)
-file: Computer/Puppet Combo/E/Evil Clowns (USA)/Evil Clowns (USA).json
+file: Roms/Computer/Puppet Combo/E/Evil Clowns (USA)/Evil Clowns (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -245,7 +245,7 @@ x-playable: Yes
 
 
 game: Feed Me Billy (USA)
-file: Computer/Puppet Combo/F/Feed Me Billy (USA)/Feed Me Billy (USA).json
+file: Roms/Computer/Puppet Combo/F/Feed Me Billy (USA)/Feed Me Billy (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -271,7 +271,7 @@ x-playable: Yes
 
 
 game: Feed Me Billy Demake (USA)
-file: Computer/Puppet Combo/F/Feed Me Billy Demake (USA)/Feed Me Billy Demake (USA).json
+file: Roms/Computer/Puppet Combo/F/Feed Me Billy Demake (USA)/Feed Me Billy Demake (USA).json
 developer: Cracked Ghost Games
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -289,7 +289,7 @@ x-playable: Yes
 
 
 game: Feed Me More Billy (USA)
-file: Computer/Puppet Combo/F/Feed Me More Billy (USA)/Feed Me More Billy (USA).json
+file: Roms/Computer/Puppet Combo/F/Feed Me More Billy (USA)/Feed Me More Billy (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -314,7 +314,7 @@ x-playable: Yes
 
 
 game: Glass Staircase, The (USA)
-file: Computer/Puppet Combo/G/Glass Staircase, The (USA)/Glass Staircase, The (USA).json
+file: Roms/Computer/Puppet Combo/G/Glass Staircase, The (USA)/Glass Staircase, The (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -338,7 +338,7 @@ x-playable: Yes
 
 
 game: Horror of Salazar House, The (USA)
-file: Computer/Puppet Combo/H/Horror of Salazar House, The (USA)/Horror of Salazar House, The (USA).json
+file: Roms/Computer/Puppet Combo/H/Horror of Salazar House, The (USA)/Horror of Salazar House, The (USA).json
 developer: Maldo19
 publisher: Torture Star Video
 genre: Adventure;Point-and-Click
@@ -363,7 +363,7 @@ x-playable: Yes
 
 
 game: Meat Cleaver Mutilator (USA)
-file: Computer/Puppet Combo/M/Meat Cleaver Mutilator (USA)/Meat Cleaver Mutilator (USA).json
+file: Roms/Computer/Puppet Combo/M/Meat Cleaver Mutilator (USA)/Meat Cleaver Mutilator (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -383,7 +383,7 @@ x-playable: Yes
 
 
 game: Minotaur (USA)
-file: Computer/Puppet Combo/M/Minotaur (USA)/Minotaur (USA).json
+file: Roms/Computer/Puppet Combo/M/Minotaur (USA)/Minotaur (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -405,7 +405,7 @@ x-playable: Yes
 
 
 game: Murder House (USA)
-file: Computer/Puppet Combo/M/Murder House (USA)/Murder House (USA).json
+file: Roms/Computer/Puppet Combo/M/Murder House (USA)/Murder House (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -433,7 +433,7 @@ x-playable: Yes
 
 
 game: Night At the Gates of Hell (USA)
-file: Computer/Puppet Combo/N/Night At the Gates of Hell (USA)/Night At the Gates of Hell (USA).json
+file: Roms/Computer/Puppet Combo/N/Night At the Gates of Hell (USA)/Night At the Gates of Hell (USA).json
 developer: Black Eyed Priest
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -462,7 +462,7 @@ x-playable: Yes
 
 
 game: Night Ripper, The (USA)
-file: Computer/Puppet Combo/N/Night Ripper, The (USA)/Night Ripper, The (USA).json
+file: Roms/Computer/Puppet Combo/N/Night Ripper, The (USA)/Night Ripper, The (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -480,7 +480,7 @@ x-playable: Yes
 
 
 game: Night Shift (USA)
-file: Computer/Puppet Combo/N/Night Shift (USA)/Night Shift (USA).json
+file: Roms/Computer/Puppet Combo/N/Night Shift (USA)/Night Shift (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -508,7 +508,7 @@ x-playable: Yes
 
 
 game: Night Watch (USA)
-file: Computer/Puppet Combo/N/Night Watch (USA)/Night Watch (USA).json
+file: Roms/Computer/Puppet Combo/N/Night Watch (USA)/Night Watch (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Adventure;3D;Third-Person
@@ -541,7 +541,7 @@ x-playable: Yes
 
 
 game: Night of The Clowns (USA)
-file: Computer/Puppet Combo/N/Night of The Clowns (USA)/Night of The Clowns (USA).json
+file: Roms/Computer/Puppet Combo/N/Night of The Clowns (USA)/Night of The Clowns (USA).json
 developer: Torture Star Video
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -565,7 +565,7 @@ x-playable: Yes
 
 
 game: Nun Massacre (USA)
-file: Computer/Puppet Combo/N/Nun Massacre (USA)/Nun Massacre (USA).json
+file: Roms/Computer/Puppet Combo/N/Nun Massacre (USA)/Nun Massacre (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -586,7 +586,7 @@ x-playable: Yes
 
 
 game: Pancake House (USA)
-file: Computer/Puppet Combo/P/Pancake House (USA)/Pancake House (USA).json
+file: Roms/Computer/Puppet Combo/P/Pancake House (USA)/Pancake House (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -603,7 +603,7 @@ x-playable: Yes
 
 
 game: Photography Horror Game (USA)
-file: Computer/Puppet Combo/P/Photography Horror Game (USA)/Photography Horror Game (USA).json
+file: Roms/Computer/Puppet Combo/P/Photography Horror Game (USA)/Photography Horror Game (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -625,7 +625,7 @@ x-playable: Yes
 
 
 game: Planet of Bloodthirsty Santa (USA)
-file: Computer/Puppet Combo/P/Planet of Bloodthirsty Santa (USA)/Planet of Bloodthirsty Santa (USA).json
+file: Roms/Computer/Puppet Combo/P/Planet of Bloodthirsty Santa (USA)/Planet of Bloodthirsty Santa (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -650,7 +650,7 @@ x-playable: Yes
 
 
 game: Power Drill Massacre (USA)
-file: Computer/Puppet Combo/P/Power Drill Massacre (USA)/Power Drill Massacre (USA).json
+file: Roms/Computer/Puppet Combo/P/Power Drill Massacre (USA)/Power Drill Massacre (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -674,7 +674,7 @@ x-playable: Yes
 
 
 game: Power Drill Massacre Arcade (USA)
-file: Computer/Puppet Combo/P/Power Drill Massacre Arcade (USA)/Power Drill Massacre Arcade (USA).json
+file: Roms/Computer/Puppet Combo/P/Power Drill Massacre Arcade (USA)/Power Drill Massacre Arcade (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -695,7 +695,7 @@ x-playable: Yes
 
 
 game: Rewind or Die (USA)
-file: Computer/Puppet Combo/R/Rewind or Die (USA)/Rewind or Die (USA).json
+file: Roms/Computer/Puppet Combo/R/Rewind or Die (USA)/Rewind or Die (USA).json
 developer: Comp-3 Interactive
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -721,7 +721,7 @@ x-playable: Yes
 
 
 game: Riverside Incident, The (USA)
-file: Computer/Puppet Combo/R/Riverside Incident, The (USA)/Riverside Incident, The (USA).json
+file: Roms/Computer/Puppet Combo/R/Riverside Incident, The (USA)/Riverside Incident, The (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -752,7 +752,7 @@ x-playable: Yes
 
 
 game: Samhain (USA)
-file: Computer/Puppet Combo/S/Samhain (USA)/Samhain (USA).json
+file: Roms/Computer/Puppet Combo/S/Samhain (USA)/Samhain (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -780,7 +780,7 @@ x-playable: Yes
 
 
 game: Scary Tales Vol. 1 (USA)
-file: Computer/Puppet Combo/S/Scary Tales Vol. 1 (USA)/Scary Tales Vol. 1 (USA).json
+file: Roms/Computer/Puppet Combo/S/Scary Tales Vol. 1 (USA)/Scary Tales Vol. 1 (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Miscellaneous;Compilation
@@ -808,7 +808,7 @@ x-playable: Yes
 
 
 game: Search Party (USA)
-file: Computer/Puppet Combo/S/Search Party (USA)/Search Party (USA).json
+file: Roms/Computer/Puppet Combo/S/Search Party (USA)/Search Party (USA).json
 developer: Torture Star Video
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -830,7 +830,7 @@ x-playable: Yes
 
 
 game: Ski Freak (USA)
-file: Computer/Puppet Combo/S/Ski Freak (USA)/Ski Freak (USA).json
+file: Roms/Computer/Puppet Combo/S/Ski Freak (USA)/Ski Freak (USA).json
 developer: Jordan King
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -850,7 +850,7 @@ x-playable: Yes
 
 
 game: Spiders (USA)
-file: Computer/Puppet Combo/S/Spiders (USA)/Spiders (USA).json
+file: Roms/Computer/Puppet Combo/S/Spiders (USA)/Spiders (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -871,7 +871,7 @@ x-playable: Yes
 
 
 game: Stay Out of the House (USA)
-file: Computer/Puppet Combo/S/Stay Out of the House (USA)/Stay Out of the House (USA).json
+file: Roms/Computer/Puppet Combo/S/Stay Out of the House (USA)/Stay Out of the House (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -894,7 +894,7 @@ x-playable: Yes
 
 
 game: Summoning, The (USA)
-file: Computer/Puppet Combo/S/Summoning, The (USA)/Summoning, The (USA).json
+file: Roms/Computer/Puppet Combo/S/Summoning, The (USA)/Summoning, The (USA).json
 developer: Jordan King
 publisher: Torture Star Video
 genre: Action Adventure;Survival
@@ -927,7 +927,7 @@ x-playable: Yes
 
 
 game: Texas Butcher (USA)
-file: Computer/Puppet Combo/T/Texas Butcher (USA)/Texas Butcher (USA).json
+file: Roms/Computer/Puppet Combo/T/Texas Butcher (USA)/Texas Butcher (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -951,7 +951,7 @@ x-playable: Yes
 
 
 game: These Trees Are Spectral Fingers (USA)
-file: Computer/Puppet Combo/T/These Trees Are Spectral Fingers (USA)/These Trees Are Spectral Fingers (USA).json
+file: Roms/Computer/Puppet Combo/T/These Trees Are Spectral Fingers (USA)/These Trees Are Spectral Fingers (USA).json
 developer: kavvkka
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -973,7 +973,7 @@ x-playable: Yes
 
 
 game: Tonight It Follows (USA)
-file: Computer/Puppet Combo/T/Tonight It Follows (USA)/Tonight It Follows (USA).json
+file: Roms/Computer/Puppet Combo/T/Tonight It Follows (USA)/Tonight It Follows (USA).json
 developer: Jordan King
 publisher: Puppet Combo
 genre: Action Adventure;Survival
@@ -993,7 +993,7 @@ x-playable: Yes
 
 
 game: Unfinished Worlds Vol 1 (USA)
-file: Computer/Puppet Combo/U/Unfinished Worlds Vol 1 (USA)/Unfinished Worlds Vol 1 (USA).json
+file: Roms/Computer/Puppet Combo/U/Unfinished Worlds Vol 1 (USA)/Unfinished Worlds Vol 1 (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Miscellaneous;Compilation
@@ -1009,7 +1009,7 @@ x-playable: Yes
 
 
 game: Unfinished Worlds Vol 2 (USA)
-file: Computer/Puppet Combo/U/Unfinished Worlds Vol 2 (USA)/Unfinished Worlds Vol 2 (USA).json
+file: Roms/Computer/Puppet Combo/U/Unfinished Worlds Vol 2 (USA)/Unfinished Worlds Vol 2 (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Miscellaneous;Compilation
@@ -1025,7 +1025,7 @@ x-playable: Yes
 
 
 game: Unfinished Worlds Vol 3 (USA)
-file: Computer/Puppet Combo/U/Unfinished Worlds Vol 3 (USA)/Unfinished Worlds Vol 3 (USA).json
+file: Roms/Computer/Puppet Combo/U/Unfinished Worlds Vol 3 (USA)/Unfinished Worlds Vol 3 (USA).json
 developer: Puppet Combo
 publisher: Puppet Combo
 genre: Miscellaneous;Compilation

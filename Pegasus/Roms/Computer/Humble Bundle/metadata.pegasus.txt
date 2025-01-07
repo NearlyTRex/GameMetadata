@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Humble Bundle" -n {file.basen
 
 
 game: Amnesia - The Dark Descent (USA)
-file: Computer/Humble Bundle/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
+file: Roms/Computer/Humble Bundle/A/Amnesia - The Dark Descent (USA)/Amnesia - The Dark Descent (USA).json
 developer: Frictional Games
 publisher: Frictional Games
 genre: Action;Adventure;Horror
@@ -47,7 +47,7 @@ x-playable: Yes
 
 
 game: Among the Sleep (USA)
-file: Computer/Humble Bundle/A/Among the Sleep (USA)/Among the Sleep (USA).json
+file: Roms/Computer/Humble Bundle/A/Among the Sleep (USA)/Among the Sleep (USA).json
 developer: Krillbite Studio
 publisher: Krillbite Studio
 genre: Adventure;Horror
@@ -68,7 +68,7 @@ x-playable: Yes
 
 
 game: Bastion (USA)
-file: Computer/Humble Bundle/B/Bastion (USA)/Bastion (USA).json
+file: Roms/Computer/Humble Bundle/B/Bastion (USA)/Bastion (USA).json
 developer: Supergiant Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Role-Playing
@@ -118,7 +118,7 @@ x-playable: Yes
 
 
 game: Beat Hazard Ultra (USA)
-file: Computer/Humble Bundle/B/Beat Hazard Ultra (USA)/Beat Hazard Ultra (USA).json
+file: Roms/Computer/Humble Bundle/B/Beat Hazard Ultra (USA)/Beat Hazard Ultra (USA).json
 developer: ShadowRage
 publisher: ShadowRage
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -149,7 +149,7 @@ x-playable: Yes
 
 
 game: Beatbuddy - Tale of the Guardians (USA)
-file: Computer/Humble Bundle/B/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
+file: Roms/Computer/Humble Bundle/B/Beatbuddy - Tale of the Guardians (USA)/Beatbuddy - Tale of the Guardians (USA).json
 developer: Threaks
 publisher: Reverb Publishing
 genre: Action;Adventure;Music
@@ -168,7 +168,7 @@ x-playable: Yes
 
 
 game: Braid (USA)
-file: Computer/Humble Bundle/B/Braid (USA)/Braid (USA).json
+file: Roms/Computer/Humble Bundle/B/Braid (USA)/Braid (USA).json
 developer: Number None
 publisher: Number None
 genre: Platform;Puzzle
@@ -189,7 +189,7 @@ x-playable: Yes
 
 
 game: Brutal Legend (USA)
-file: Computer/Humble Bundle/B/Brutal Legend (USA)/Brutal Legend (USA).json
+file: Roms/Computer/Humble Bundle/B/Brutal Legend (USA)/Brutal Legend (USA).json
 developer: Double Fine Productions
 publisher: Double Fine Productions
 genre: Action;Music;Sandbox;Strategy;Beat 'em Up
@@ -222,7 +222,7 @@ x-playable: Yes
 
 
 game: Crawl (USA)
-file: Computer/Humble Bundle/C/Crawl (USA)/Crawl (USA).json
+file: Roms/Computer/Humble Bundle/C/Crawl (USA)/Crawl (USA).json
 developer: Powerhoof
 publisher: Powerhoof
 genre: Action;Role-Playing;Beat 'em Up;Party
@@ -253,7 +253,7 @@ x-playable: Yes
 
 
 game: Crayon Physics Deluxe (USA)
-file: Computer/Humble Bundle/C/Crayon Physics Deluxe (USA)/Crayon Physics Deluxe (USA).json
+file: Roms/Computer/Humble Bundle/C/Crayon Physics Deluxe (USA)/Crayon Physics Deluxe (USA).json
 developer: Kloonigames
 publisher: Kloonigames
 genre: Puzzle
@@ -271,7 +271,7 @@ x-playable: Yes
 
 
 game: Crimsonland (USA)
-file: Computer/Humble Bundle/C/Crimsonland (USA)/Crimsonland (USA).json
+file: Roms/Computer/Humble Bundle/C/Crimsonland (USA)/Crimsonland (USA).json
 developer: 10tons Ltd.
 publisher: Reflexive Entertainment
 genre: Action;Shooter
@@ -312,7 +312,7 @@ x-playable: Yes
 
 
 game: Crowntakers (USA)
-file: Computer/Humble Bundle/C/Crowntakers (USA)/Crowntakers (USA).json
+file: Roms/Computer/Humble Bundle/C/Crowntakers (USA)/Crowntakers (USA).json
 developer: Bulwark Studios
 publisher: Kasedo Games
 genre: Role-Playing;Strategy
@@ -342,7 +342,7 @@ x-playable: Yes
 
 
 game: Curse of the Crescent Isle DX (USA)
-file: Computer/Humble Bundle/C/Curse of the Crescent Isle DX (USA)/Curse of the Crescent Isle DX (USA).json
+file: Roms/Computer/Humble Bundle/C/Curse of the Crescent Isle DX (USA)/Curse of the Crescent Isle DX (USA).json
 developer: Adam Mowery
 publisher: Self-Published
 genre: Platform
@@ -370,7 +370,7 @@ x-playable: Yes
 
 
 game: Day of the Tentacle Remastered (USA)
-file: Computer/Humble Bundle/D/Day of the Tentacle Remastered (USA)/Day of the Tentacle Remastered (USA).json
+file: Roms/Computer/Humble Bundle/D/Day of the Tentacle Remastered (USA)/Day of the Tentacle Remastered (USA).json
 developer: LucasArts
 publisher: Double Fine Productions
 genre: Adventure
@@ -393,7 +393,7 @@ x-playable: Yes
 
 
 game: Doodle God (USA)
-file: Computer/Humble Bundle/D/Doodle God (USA)/Doodle God (USA).json
+file: Roms/Computer/Humble Bundle/D/Doodle God (USA)/Doodle God (USA).json
 developer: JoyBits Ltd.
 publisher: JoyBits Ltd.
 genre: Puzzle
@@ -426,7 +426,7 @@ x-playable: Yes
 
 
 game: Dungeon Defenders (USA)
-file: Computer/Humble Bundle/D/Dungeon Defenders (USA)/Dungeon Defenders (USA).json
+file: Roms/Computer/Humble Bundle/D/Dungeon Defenders (USA)/Dungeon Defenders (USA).json
 developer: Trendy Entertainment
 publisher: Trendy Entertainment
 genre: Action;Role-Playing;Strategy
@@ -450,7 +450,7 @@ x-playable: Yes
 
 
 game: Dungeons of Dredmor Complete (USA)
-file: Computer/Humble Bundle/D/Dungeons of Dredmor Complete (USA)/Dungeons of Dredmor Complete (USA).json
+file: Roms/Computer/Humble Bundle/D/Dungeons of Dredmor Complete (USA)/Dungeons of Dredmor Complete (USA).json
 developer: Gaslamp Games
 publisher: Gaslamp Games
 genre: Role-Playing;Roguelike
@@ -469,7 +469,7 @@ x-playable: Yes
 
 
 game: Dynamite Jack (USA)
-file: Computer/Humble Bundle/D/Dynamite Jack (USA)/Dynamite Jack (USA).json
+file: Roms/Computer/Humble Bundle/D/Dynamite Jack (USA)/Dynamite Jack (USA).json
 developer: Hassey Enterprises
 publisher: Hassey Enterprises
 genre: Stealth
@@ -487,7 +487,7 @@ x-playable: Yes
 
 
 game: Eets Munchies (USA)
-file: Computer/Humble Bundle/E/Eets Munchies (USA)/Eets Munchies (USA).json
+file: Roms/Computer/Humble Bundle/E/Eets Munchies (USA)/Eets Munchies (USA).json
 developer: Klei Entertainment
 publisher: Klei Entertainment
 genre: Puzzle
@@ -505,7 +505,7 @@ x-playable: Yes
 
 
 game: FTL - Faster than Light (USA)
-file: Computer/Humble Bundle/F/FTL - Faster than Light (USA)/FTL - Faster than Light (USA).json
+file: Roms/Computer/Humble Bundle/F/FTL - Faster than Light (USA)/FTL - Faster than Light (USA).json
 developer: Subset Games
 publisher: Subset Games
 genre: Role-Playing;Strategy;Vehicle Simulation
@@ -562,7 +562,7 @@ x-playable: Yes
 
 
 game: Faerie Solitaire (USA)
-file: Computer/Humble Bundle/F/Faerie Solitaire (USA)/Faerie Solitaire (USA).json
+file: Roms/Computer/Humble Bundle/F/Faerie Solitaire (USA)/Faerie Solitaire (USA).json
 developer: Subsoap
 publisher: Subsoap
 genre: Puzzle
@@ -587,7 +587,7 @@ x-playable: Yes
 
 
 game: Fez (USA)
-file: Computer/Humble Bundle/F/Fez (USA)/Fez (USA).json
+file: Roms/Computer/Humble Bundle/F/Fez (USA)/Fez (USA).json
 developer: Polytron
 publisher: Polytron
 genre: Platform;Puzzle
@@ -608,7 +608,7 @@ x-playable: Yes
 
 
 game: Fotonica (USA)
-file: Computer/Humble Bundle/F/Fotonica (USA)/Fotonica (USA).json
+file: Roms/Computer/Humble Bundle/F/Fotonica (USA)/Fotonica (USA).json
 developer: Santa Ragione
 publisher: Santa Ragione
 genre: Action
@@ -634,7 +634,7 @@ x-playable: Yes
 
 
 game: Grim Fandango Remastered (USA)
-file: Computer/Humble Bundle/G/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
+file: Roms/Computer/Humble Bundle/G/Grim Fandango Remastered (USA)/Grim Fandango Remastered (USA).json
 developer: Double Fine Productions, Inc.
 publisher: Double Fine Productions, Inc.
 genre: Adventure
@@ -662,7 +662,7 @@ x-playable: Yes
 
 
 game: Hacknet (USA)
-file: Computer/Humble Bundle/H/Hacknet (USA)/Hacknet (USA).json
+file: Roms/Computer/Humble Bundle/H/Hacknet (USA)/Hacknet (USA).json
 developer: Team Fractal Alligator
 publisher: Surprise Attack
 genre: Puzzle
@@ -693,7 +693,7 @@ x-playable: Yes
 
 
 game: Hand of Fate (USA)
-file: Computer/Humble Bundle/H/Hand of Fate (USA)/Hand of Fate (USA).json
+file: Roms/Computer/Humble Bundle/H/Hand of Fate (USA)/Hand of Fate (USA).json
 developer: Defiant Development
 publisher: Defiant Development
 genre: Action;Role-Playing
@@ -713,7 +713,7 @@ x-playable: Yes
 
 
 game: Home - A Unique Horror Adventure (USA)
-file: Computer/Humble Bundle/H/Home - A Unique Horror Adventure (USA)/Home - A Unique Horror Adventure (USA).json
+file: Roms/Computer/Humble Bundle/H/Home - A Unique Horror Adventure (USA)/Home - A Unique Horror Adventure (USA).json
 developer: Benjamin Rivers
 publisher: Benjamin Rivers
 genre: Adventure;General
@@ -729,7 +729,7 @@ x-playable: Yes
 
 
 game: Knock-Knock (USA)
-file: Computer/Humble Bundle/K/Knock-Knock (USA)/Knock-Knock (USA).json
+file: Roms/Computer/Humble Bundle/K/Knock-Knock (USA)/Knock-Knock (USA).json
 developer: Ice-pick Lodge
 publisher: Ice-Pick Lodge
 genre: Horror
@@ -777,7 +777,7 @@ x-playable: Yes
 
 
 game: Limbo (USA)
-file: Computer/Humble Bundle/L/Limbo (USA)/Limbo (USA).json
+file: Roms/Computer/Humble Bundle/L/Limbo (USA)/Limbo (USA).json
 developer: Playdead
 publisher: Playdead
 genre: Platform;Puzzle
@@ -797,7 +797,7 @@ x-playable: Yes
 
 
 game: Lone Survivor - The Director's Cut (USA)
-file: Computer/Humble Bundle/L/Lone Survivor - The Director's Cut (USA)/Lone Survivor - The Director's Cut (USA).json
+file: Roms/Computer/Humble Bundle/L/Lone Survivor - The Director's Cut (USA)/Lone Survivor - The Director's Cut (USA).json
 developer: superflat games
 publisher: Curve Studios
 genre: Horror
@@ -855,7 +855,7 @@ x-playable: Yes
 
 
 game: Loot Rascals (USA)
-file: Computer/Humble Bundle/L/Loot Rascals (USA)/Loot Rascals (USA).json
+file: Roms/Computer/Humble Bundle/L/Loot Rascals (USA)/Loot Rascals (USA).json
 developer: Hollow Ponds
 publisher: Hollow Ponds
 genre: Adventure
@@ -888,7 +888,7 @@ x-playable: Yes
 
 
 game: MANOS - The Hands of Fate (USA)
-file: Computer/Humble Bundle/M/MANOS - The Hands of Fate (USA)/MANOS - The Hands of Fate (USA).json
+file: Roms/Computer/Humble Bundle/M/MANOS - The Hands of Fate (USA)/MANOS - The Hands of Fate (USA).json
 developer: FreakZone Games
 publisher: FreakZone Games
 genre: Platform
@@ -925,7 +925,7 @@ x-playable: Yes
 
 
 game: Mark of the Ninja (USA)
-file: Computer/Humble Bundle/M/Mark of the Ninja (USA)/Mark of the Ninja (USA).json
+file: Roms/Computer/Humble Bundle/M/Mark of the Ninja (USA)/Mark of the Ninja (USA).json
 developer: Klei Entertainment
 publisher: Microsoft Studios
 genre: Action;Stealth
@@ -948,7 +948,7 @@ x-playable: Yes
 
 
 game: Mibibli's Quest (USA)
-file: Computer/Humble Bundle/M/Mibibli's Quest (USA)/Mibibli's Quest (USA).json
+file: Roms/Computer/Humble Bundle/M/Mibibli's Quest (USA)/Mibibli's Quest (USA).json
 developer: Ryan Melmoth
 publisher: Ryan Melmoth
 genre: Platform
@@ -976,7 +976,7 @@ x-playable: Yes
 
 
 game: Monster Loves You! (USA)
-file: Computer/Humble Bundle/M/Monster Loves You! (USA)/Monster Loves You! (USA).json
+file: Roms/Computer/Humble Bundle/M/Monster Loves You! (USA)/Monster Loves You! (USA).json
 developer: Dejobaan Games
 publisher: Radial Games Corp
 genre: Adventure;Role-Playing
@@ -1010,7 +1010,7 @@ x-playable: Yes
 
 
 game: Neverending Nightmares (USA)
-file: Computer/Humble Bundle/N/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
+file: Roms/Computer/Humble Bundle/N/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
 developer: Infinitap Games
 publisher: Infinitap Games
 genre: Horror
@@ -1041,7 +1041,7 @@ x-playable: Yes
 
 
 game: NightSky (USA)
-file: Computer/Humble Bundle/N/NightSky (USA)/NightSky (USA).json
+file: Roms/Computer/Humble Bundle/N/NightSky (USA)/NightSky (USA).json
 developer: Nicalis
 publisher: Nicalis
 genre: Platform;Strategy
@@ -1061,7 +1061,7 @@ x-playable: Yes
 
 
 game: OddPlanet (USA)
-file: Computer/Humble Bundle/O/OddPlanet (USA)/OddPlanet (USA).json
+file: Roms/Computer/Humble Bundle/O/OddPlanet (USA)/OddPlanet (USA).json
 developer: Piotr Krol
 publisher: Piotr Krol
 genre: Action;Platformer;2D
@@ -1080,7 +1080,7 @@ x-playable: Yes
 
 
 game: Our Darker Purpose (USA)
-file: Computer/Humble Bundle/O/Our Darker Purpose (USA)/Our Darker Purpose (USA).json
+file: Roms/Computer/Humble Bundle/O/Our Darker Purpose (USA)/Our Darker Purpose (USA).json
 developer: Avidly Wild Games
 publisher: Avidly Wild Games
 genre: Role-Playing
@@ -1115,7 +1115,7 @@ x-playable: Yes
 
 
 game: Pitiri 1977 (USA)
-file: Computer/Humble Bundle/P/Pitiri 1977 (USA)/Pitiri 1977 (USA).json
+file: Roms/Computer/Humble Bundle/P/Pitiri 1977 (USA)/Pitiri 1977 (USA).json
 developer: ILIKESCIFI Games
 publisher: ILIKESCIFI Games
 genre: Action;General
@@ -1140,7 +1140,7 @@ x-playable: Yes
 
 
 game: Pony Island (USA)
-file: Computer/Humble Bundle/P/Pony Island (USA)/Pony Island (USA).json
+file: Roms/Computer/Humble Bundle/P/Pony Island (USA)/Pony Island (USA).json
 developer: Daniel Mullins Games
 publisher: Daniel Mullins Games
 genre: Action;Puzzle
@@ -1188,7 +1188,7 @@ x-playable: Yes
 
 
 game: Psychonauts (USA)
-file: Computer/Humble Bundle/P/Psychonauts (USA)/Psychonauts (USA).json
+file: Roms/Computer/Humble Bundle/P/Psychonauts (USA)/Psychonauts (USA).json
 developer: Double Fine Productions
 publisher: Majesco
 genre: Action;Adventure;Platform
@@ -1231,7 +1231,7 @@ x-playable: Yes
 
 
 game: Rocketbirds - Hardboiled Chicken (USA)
-file: Computer/Humble Bundle/R/Rocketbirds - Hardboiled Chicken (USA)/Rocketbirds - Hardboiled Chicken (USA).json
+file: Roms/Computer/Humble Bundle/R/Rocketbirds - Hardboiled Chicken (USA)/Rocketbirds - Hardboiled Chicken (USA).json
 developer: Ratloop Asia
 publisher: Reverb Publishing
 genre: Action;Platform
@@ -1265,7 +1265,7 @@ x-playable: Yes
 
 
 game: Satellite Reign (USA)
-file: Computer/Humble Bundle/S/Satellite Reign (USA)/Satellite Reign (USA).json
+file: Roms/Computer/Humble Bundle/S/Satellite Reign (USA)/Satellite Reign (USA).json
 developer: 5 Lives Studios
 publisher: 5 Lives Studios
 genre: Action;Role-Playing;Sandbox;Strategy
@@ -1291,7 +1291,7 @@ x-playable: Yes
 
 
 game: Screencheat (USA)
-file: Computer/Humble Bundle/S/Screencheat (USA)/Screencheat (USA).json
+file: Roms/Computer/Humble Bundle/S/Screencheat (USA)/Screencheat (USA).json
 developer: Samurai Punk
 publisher: Surprise Attack
 genre: Shooter
@@ -1314,7 +1314,7 @@ x-playable: Yes
 
 
 game: Secret of the Magic Crystals Complete (USA)
-file: Computer/Humble Bundle/S/Secret of the Magic Crystals Complete (USA)/Secret of the Magic Crystals Complete (USA).json
+file: Roms/Computer/Humble Bundle/S/Secret of the Magic Crystals Complete (USA)/Secret of the Magic Crystals Complete (USA).json
 developer: Artwaregames Inc.
 publisher: Artwaregames Inc.
 genre: Simulation;Virtual;Pet
@@ -1338,7 +1338,7 @@ x-playable: Yes
 
 
 game: Solar 2 (USA)
-file: Computer/Humble Bundle/S/Solar 2 (USA)/Solar 2 (USA).json
+file: Roms/Computer/Humble Bundle/S/Solar 2 (USA)/Solar 2 (USA).json
 developer: Murudai
 publisher: Murudai
 genre: Adventure;Life Simulation;Puzzle;Sandbox
@@ -1362,7 +1362,7 @@ x-playable: Yes
 
 
 game: Splice (USA)
-file: Computer/Humble Bundle/S/Splice (USA)/Splice (USA).json
+file: Roms/Computer/Humble Bundle/S/Splice (USA)/Splice (USA).json
 developer: Cipher Prime Studios
 publisher: Cipher Prime Studios
 genre: Puzzle
@@ -1389,7 +1389,7 @@ x-playable: Yes
 
 
 game: Splotches (USA)
-file: Computer/Humble Bundle/S/Splotches (USA)/Splotches (USA).json
+file: Roms/Computer/Humble Bundle/S/Splotches (USA)/Splotches (USA).json
 developer: Jolly Crouton Media Ltd.
 publisher: Jolly Crouton Media Ltd.
 genre: Puzzle
@@ -1409,7 +1409,7 @@ x-playable: Yes
 
 
 game: Spookening, The (USA)
-file: Computer/Humble Bundle/S/Spookening, The (USA)/Spookening, The (USA).json
+file: Roms/Computer/Humble Bundle/S/Spookening, The (USA)/Spookening, The (USA).json
 developer: Modesty
 publisher: Modesty
 genre: Action;General
@@ -1439,7 +1439,7 @@ x-playable: Yes
 
 
 game: Strata (USA)
-file: Computer/Humble Bundle/S/Strata (USA)/Strata (USA).json
+file: Roms/Computer/Humble Bundle/S/Strata (USA)/Strata (USA).json
 developer: Graveck
 publisher: Graveck
 genre: Puzzle
@@ -1462,7 +1462,7 @@ x-playable: Yes
 
 
 game: Super Hexagon (USA)
-file: Computer/Humble Bundle/S/Super Hexagon (USA)/Super Hexagon (USA).json
+file: Roms/Computer/Humble Bundle/S/Super Hexagon (USA)/Super Hexagon (USA).json
 developer: Terry Cavanagh
 publisher: Terry Cavanagh
 genre: Action;Puzzle
@@ -1480,7 +1480,7 @@ x-playable: Yes
 
 
 game: Super Meat Boy (USA)
-file: Computer/Humble Bundle/S/Super Meat Boy (USA)/Super Meat Boy (USA).json
+file: Roms/Computer/Humble Bundle/S/Super Meat Boy (USA)/Super Meat Boy (USA).json
 developer: Team Meat
 publisher: Team Meat
 genre: Action;Platform
@@ -1511,7 +1511,7 @@ x-playable: Yes
 
 
 game: Superbrothers - Sword & Sworcery EP (USA)
-file: Computer/Humble Bundle/S/Superbrothers - Sword & Sworcery EP (USA)/Superbrothers - Sword & Sworcery EP (USA).json
+file: Roms/Computer/Humble Bundle/S/Superbrothers - Sword & Sworcery EP (USA)/Superbrothers - Sword & Sworcery EP (USA).json
 developer: Capybara Games
 publisher: Capybara Games
 genre: Adventure
@@ -1534,7 +1534,7 @@ x-playable: Yes
 
 
 game: TinyKeep (USA)
-file: Computer/Humble Bundle/T/TinyKeep (USA)/TinyKeep (USA).json
+file: Roms/Computer/Humble Bundle/T/TinyKeep (USA)/TinyKeep (USA).json
 developer: Phigames
 publisher: Digital Tribe
 genre: Action;Role-Playing
@@ -1591,7 +1591,7 @@ x-playable: Yes
 
 
 game: Trine 2 - Complete Story (USA)
-file: Computer/Humble Bundle/T/Trine 2 - Complete Story (USA)/Trine 2 - Complete Story (USA).json
+file: Roms/Computer/Humble Bundle/T/Trine 2 - Complete Story (USA)/Trine 2 - Complete Story (USA).json
 developer: Frozenbyte
 publisher: Frozenbyte
 genre: Platform;Puzzle
@@ -1614,7 +1614,7 @@ x-playable: Yes
 
 
 game: TumbleSeed (USA)
-file: Computer/Humble Bundle/T/TumbleSeed (USA)/TumbleSeed (USA).json
+file: Roms/Computer/Humble Bundle/T/TumbleSeed (USA)/TumbleSeed (USA).json
 developer: Benedict Fritz
 publisher: aeiowu
 genre: Action
@@ -1640,7 +1640,7 @@ x-playable: Yes
 
 
 game: Vertical Drop Heroes HD (USA)
-file: Computer/Humble Bundle/V/Vertical Drop Heroes HD (USA)/Vertical Drop Heroes HD (USA).json
+file: Roms/Computer/Humble Bundle/V/Vertical Drop Heroes HD (USA)/Vertical Drop Heroes HD (USA).json
 developer: Nerdook Productions
 publisher: Digerati Distribution
 genre: Action;Platform;Role-Playing
@@ -1684,7 +1684,7 @@ x-playable: Yes
 
 
 game: Vincere Totus Astrum (USA)
-file: Computer/Humble Bundle/V/Vincere Totus Astrum (USA)/Vincere Totus Astrum (USA).json
+file: Roms/Computer/Humble Bundle/V/Vincere Totus Astrum (USA)/Vincere Totus Astrum (USA).json
 developer: Gamesare Studios
 publisher: Gamesare Studios
 genre: Simulation;General
@@ -1707,7 +1707,7 @@ x-playable: Yes
 
 
 game: Virus Named Tom, A (USA)
-file: Computer/Humble Bundle/V/Virus Named Tom, A (USA)/Virus Named Tom, A (USA).json
+file: Roms/Computer/Humble Bundle/V/Virus Named Tom, A (USA)/Virus Named Tom, A (USA).json
 developer: Misfits Attic
 publisher: Misfits Attic
 genre: Action;Puzzle
@@ -1726,7 +1726,7 @@ x-playable: Yes
 
 
 game: Warlock of Firetop Mountain, The (USA)
-file: Computer/Humble Bundle/W/Warlock of Firetop Mountain, The (USA)/Warlock of Firetop Mountain, The (USA).json
+file: Roms/Computer/Humble Bundle/W/Warlock of Firetop Mountain, The (USA)/Warlock of Firetop Mountain, The (USA).json
 developer: Tin Man Games
 publisher: Tin Man Games
 genre: Role-Playing

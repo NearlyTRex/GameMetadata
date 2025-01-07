@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo NES" -n {file.basena
 
 
 game: Adventure Island II (USA)
-file: Nintendo/Nintendo NES/Adventure Island II (USA)/Adventure Island II (USA).json
+file: Roms/Nintendo/Nintendo NES/Adventure Island II (USA)/Adventure Island II (USA).json
 developer: Hudson Entertainment, Inc.
 publisher: Hudson Entertainment, Inc.
 genre: Action;Adventure;Platform
@@ -28,7 +28,7 @@ x-playable: Yes
 
 
 game: Adventures of Lolo (USA) (Virtual Console)
-file: Nintendo/Nintendo NES/Adventures of Lolo (USA) (Virtual Console)/Adventures of Lolo (USA) (Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/Adventures of Lolo (USA) (Virtual Console)/Adventures of Lolo (USA) (Virtual Console).json
 developer: HAL Laboratory
 publisher: HAL America Inc.
 genre: Action;Puzzle
@@ -54,7 +54,7 @@ x-playable: Yes
 
 
 game: Alpha Mission (USA)
-file: Nintendo/Nintendo NES/Alpha Mission (USA)/Alpha Mission (USA).json
+file: Roms/Nintendo/Nintendo NES/Alpha Mission (USA)/Alpha Mission (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -74,7 +74,7 @@ x-playable: Yes
 
 
 game: Athena (USA)
-file: Nintendo/Nintendo NES/Athena (USA)/Athena (USA).json
+file: Roms/Nintendo/Nintendo NES/Athena (USA)/Athena (USA).json
 developer: Micronics
 publisher: SNK
 genre: Action;Platformer;2D
@@ -97,7 +97,7 @@ x-playable: Yes
 
 
 game: Balloon Fight (USA)
-file: Nintendo/Nintendo NES/Balloon Fight (USA)/Balloon Fight (USA).json
+file: Roms/Nintendo/Nintendo NES/Balloon Fight (USA)/Balloon Fight (USA).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Platform
@@ -121,7 +121,7 @@ x-playable: Yes
 
 
 game: Baseball (USA, Europe)
-file: Nintendo/Nintendo NES/Baseball (USA, Europe)/Baseball (USA, Europe).json
+file: Roms/Nintendo/Nintendo NES/Baseball (USA, Europe)/Baseball (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Sports
@@ -143,7 +143,7 @@ x-playable: Yes
 
 
 game: Baseball Stars (USA)
-file: Nintendo/Nintendo NES/Baseball Stars (USA)/Baseball Stars (USA).json
+file: Roms/Nintendo/Nintendo NES/Baseball Stars (USA)/Baseball Stars (USA).json
 developer: SNK
 publisher: SNK
 genre: Sports;Team;Baseball;Arcade
@@ -162,7 +162,7 @@ x-playable: Yes
 
 
 game: Bat Lizard Bonanza (USA)
-file: Nintendo/Nintendo NES/Bat Lizard Bonanza (USA)/Bat Lizard Bonanza (USA).json
+file: Roms/Nintendo/Nintendo NES/Bat Lizard Bonanza (USA)/Bat Lizard Bonanza (USA).json
 developer: John Vanderhoef
 publisher: John Vanderhoef
 genre: Action
@@ -186,7 +186,7 @@ x-playable: Yes
 
 
 game: Batman - The Video Game (USA)
-file: Nintendo/Nintendo NES/Batman - The Video Game (USA)/Batman - The Video Game (USA).json
+file: Roms/Nintendo/Nintendo NES/Batman - The Video Game (USA)/Batman - The Video Game (USA).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Action;Platform
@@ -210,7 +210,7 @@ x-playable: Yes
 
 
 game: Battletoads (USA)
-file: Nintendo/Nintendo NES/Battletoads (USA)/Battletoads (USA).json
+file: Roms/Nintendo/Nintendo NES/Battletoads (USA)/Battletoads (USA).json
 developer: Rare
 publisher: Tradewest
 genre: Platform;Beat 'em Up
@@ -241,7 +241,7 @@ x-playable: Yes
 
 
 game: Blaster Master (USA)
-file: Nintendo/Nintendo NES/Blaster Master (USA)/Blaster Master (USA).json
+file: Roms/Nintendo/Nintendo NES/Blaster Master (USA)/Blaster Master (USA).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Platform;Shooter
@@ -261,7 +261,7 @@ x-playable: Yes
 
 
 game: Bomberman (USA)
-file: Nintendo/Nintendo NES/Bomberman (USA)/Bomberman (USA).json
+file: Roms/Nintendo/Nintendo NES/Bomberman (USA)/Bomberman (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action
@@ -286,7 +286,7 @@ x-playable: Yes
 
 
 game: Castlevania (USA)
-file: Nintendo/Nintendo NES/Castlevania (USA)/Castlevania (USA).json
+file: Roms/Nintendo/Nintendo NES/Castlevania (USA)/Castlevania (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -307,7 +307,7 @@ x-playable: Yes
 
 
 game: Castlevania (World) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo NES/Castlevania (World) (Castlevania Anniversary Collection)/Castlevania (World) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo NES/Castlevania (World) (Castlevania Anniversary Collection)/Castlevania (World) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -328,7 +328,7 @@ x-playable: Yes
 
 
 game: Castlevania II - Simon's Quest (USA)
-file: Nintendo/Nintendo NES/Castlevania II - Simon's Quest (USA)/Castlevania II - Simon's Quest (USA).json
+file: Roms/Nintendo/Nintendo NES/Castlevania II - Simon's Quest (USA)/Castlevania II - Simon's Quest (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -354,7 +354,7 @@ x-playable: Yes
 
 
 game: Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo NES/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection)/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo NES/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection)/Castlevania II - Simon's Quest (World) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -380,7 +380,7 @@ x-playable: Yes
 
 
 game: Castlevania III - Dracula's Curse (USA)
-file: Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (USA)/Castlevania III - Dracula's Curse (USA).json
+file: Roms/Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (USA)/Castlevania III - Dracula's Curse (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -413,7 +413,7 @@ x-playable: Yes
 
 
 game: Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection)/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo NES/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection)/Castlevania III - Dracula's Curse (World) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -446,7 +446,7 @@ x-playable: Yes
 
 
 game: Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)
-file: Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection).json
+file: Roms/Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -469,7 +469,7 @@ x-playable: Yes
 
 
 game: Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection)
-file: Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection).json
+file: Roms/Nintendo/Nintendo NES/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection)/Chip 'n Dale - Rescue Rangers 2 (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -493,7 +493,7 @@ x-playable: Yes
 
 
 game: City Connection (USA)
-file: Nintendo/Nintendo NES/City Connection (USA)/City Connection (USA).json
+file: Roms/Nintendo/Nintendo NES/City Connection (USA)/City Connection (USA).json
 developer: Axes Art Amuse
 publisher: Jaleco Ltd. | Kitcorp
 genre: Racing;Platform
@@ -535,7 +535,7 @@ x-playable: Yes
 
 
 game: Clu Clu Land (World)
-file: Nintendo/Nintendo NES/Clu Clu Land (World)/Clu Clu Land (World).json
+file: Roms/Nintendo/Nintendo NES/Clu Clu Land (World)/Clu Clu Land (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Puzzle
@@ -558,7 +558,7 @@ x-playable: Yes
 
 
 game: Cobra Triangle (USA)
-file: Nintendo/Nintendo NES/Cobra Triangle (USA)/Cobra Triangle (USA).json
+file: Roms/Nintendo/Nintendo NES/Cobra Triangle (USA)/Cobra Triangle (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Racing
@@ -590,7 +590,7 @@ x-playable: Yes
 
 
 game: Contra (USA)
-file: Nintendo/Nintendo NES/Contra (USA)/Contra (USA).json
+file: Roms/Nintendo/Nintendo NES/Contra (USA)/Contra (USA).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -614,7 +614,7 @@ x-playable: Yes
 
 
 game: Contra (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo NES/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo NES/Contra (World) (Contra Anniversary Collection)/Contra (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -638,7 +638,7 @@ x-playable: Yes
 
 
 game: Crash 'n' the Boys - Street Challenge (USA)
-file: Nintendo/Nintendo NES/Crash 'n' the Boys - Street Challenge (USA)/Crash 'n' the Boys - Street Challenge (USA).json
+file: Roms/Nintendo/Nintendo NES/Crash 'n' the Boys - Street Challenge (USA)/Crash 'n' the Boys - Street Challenge (USA).json
 developer: Technos
 publisher: Technos
 genre: Sports;Individual;Athletics
@@ -661,7 +661,7 @@ x-playable: Yes
 
 
 game: Crystalis (USA, Europe) (SNK 40th Anniversary Collection)
-file: Nintendo/Nintendo NES/Crystalis (USA, Europe) (SNK 40th Anniversary Collection)/Crystalis (USA, Europe) (SNK 40th Anniversary Collection).json
+file: Roms/Nintendo/Nintendo NES/Crystalis (USA, Europe) (SNK 40th Anniversary Collection)/Crystalis (USA, Europe) (SNK 40th Anniversary Collection).json
 developer: SNK
 publisher: SNK
 genre: Role-Playing;Action RPG
@@ -693,7 +693,7 @@ x-playable: Yes
 
 
 game: Darkwing Duck (World) (The Disney Afternoon Collection)
-file: Nintendo/Nintendo NES/Darkwing Duck (World) (The Disney Afternoon Collection)/Darkwing Duck (World) (The Disney Afternoon Collection).json
+file: Roms/Nintendo/Nintendo NES/Darkwing Duck (World) (The Disney Afternoon Collection)/Darkwing Duck (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -715,7 +715,7 @@ x-playable: Yes
 
 
 game: David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)
-file: Nintendo/Nintendo NES/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).json
+file: Roms/Nintendo/Nintendo NES/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA)/David Crane's A Boy and His Blob - Trouble on Blobolonia (USA).json
 developer: Imagineering
 publisher: Jaleco
 genre: Platform;Puzzle
@@ -739,7 +739,7 @@ x-playable: Yes
 
 
 game: Dead Tomb (USA) (Unl)
-file: Nintendo/Nintendo NES/Dead Tomb (USA) (Unl)/Dead Tomb (USA) (Unl).json
+file: Roms/Nintendo/Nintendo NES/Dead Tomb (USA) (Unl)/Dead Tomb (USA) (Unl).json
 developer: CollectorVision Games
 publisher: Limited Run Games
 genre: Platform;Puzzle
@@ -764,7 +764,7 @@ x-playable: Yes
 
 
 game: Deadly Towers (USA)
-file: Nintendo/Nintendo NES/Deadly Towers (USA)/Deadly Towers (USA).json
+file: Roms/Nintendo/Nintendo NES/Deadly Towers (USA)/Deadly Towers (USA).json
 developer: Lenar
 publisher: Brøderbund Software, Inc.
 genre: Action;Role-Playing
@@ -787,7 +787,7 @@ x-playable: Yes
 
 
 game: Deja Vu (USA)
-file: Nintendo/Nintendo NES/Deja Vu (USA)/Deja Vu (USA).json
+file: Roms/Nintendo/Nintendo NES/Deja Vu (USA)/Deja Vu (USA).json
 developer: ICOM Simulations
 publisher: Kemco
 genre: Adventure
@@ -808,7 +808,7 @@ x-playable: Yes
 
 
 game: Digger - The Legend of the Lost City (USA)
-file: Nintendo/Nintendo NES/Digger - The Legend of the Lost City (USA)/Digger - The Legend of the Lost City (USA).json
+file: Roms/Nintendo/Nintendo NES/Digger - The Legend of the Lost City (USA)/Digger - The Legend of the Lost City (USA).json
 developer: Rare
 publisher: Milton Bradley
 genre: Action
@@ -830,7 +830,7 @@ x-playable: Yes
 
 
 game: Donkey Kong (World) (Rev A)
-file: Nintendo/Nintendo NES/Donkey Kong (World) (Rev A)/Donkey Kong (World) (Rev A).json
+file: Roms/Nintendo/Nintendo NES/Donkey Kong (World) (Rev A)/Donkey Kong (World) (Rev A).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -852,7 +852,7 @@ x-playable: Yes
 
 
 game: Donkey Kong 3 (World)
-file: Nintendo/Nintendo NES/Donkey Kong 3 (World)/Donkey Kong 3 (World).json
+file: Roms/Nintendo/Nintendo NES/Donkey Kong 3 (World)/Donkey Kong 3 (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Shooter
@@ -873,7 +873,7 @@ x-playable: Yes
 
 
 game: Donkey Kong Jr. (World) (Rev A)
-file: Nintendo/Nintendo NES/Donkey Kong Jr. (World) (Rev A)/Donkey Kong Jr. (World) (Rev A).json
+file: Roms/Nintendo/Nintendo NES/Donkey Kong Jr. (World) (Rev A)/Donkey Kong Jr. (World) (Rev A).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -893,7 +893,7 @@ x-playable: Yes
 
 
 game: Double Dragon (USA)
-file: Nintendo/Nintendo NES/Double Dragon (USA)/Double Dragon (USA).json
+file: Roms/Nintendo/Nintendo NES/Double Dragon (USA)/Double Dragon (USA).json
 developer: Technos
 publisher: Taito Corporation
 genre: Action;Beat-'Em-Up;2D
@@ -916,7 +916,7 @@ x-playable: Yes
 
 
 game: Double Dragon II - The Revenge (USA) (Rev 1)
-file: Nintendo/Nintendo NES/Double Dragon II - The Revenge (USA) (Rev 1)/Double Dragon II - The Revenge (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo NES/Double Dragon II - The Revenge (USA) (Rev 1)/Double Dragon II - The Revenge (USA) (Rev 1).json
 developer: Technos
 publisher: Romstar
 genre: Action;Beat-'Em-Up;2D
@@ -939,7 +939,7 @@ x-playable: Yes
 
 
 game: Double Dragon III - The Sacred Stones (USA)
-file: Nintendo/Nintendo NES/Double Dragon III - The Sacred Stones (USA)/Double Dragon III - The Sacred Stones (USA).json
+file: Roms/Nintendo/Nintendo NES/Double Dragon III - The Sacred Stones (USA)/Double Dragon III - The Sacred Stones (USA).json
 developer: East Technology
 publisher: Technos
 genre: Action;Beat-'Em-Up;2D
@@ -962,7 +962,7 @@ x-playable: Yes
 
 
 game: Dr. Mario (Japan, USA)
-file: Nintendo/Nintendo NES/Dr. Mario (Japan, USA)/Dr. Mario (Japan, USA).json
+file: Roms/Nintendo/Nintendo NES/Dr. Mario (Japan, USA)/Dr. Mario (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -980,7 +980,7 @@ x-playable: Yes
 
 
 game: Dragon Warrior (USA)
-file: Nintendo/Nintendo NES/Dragon Warrior (USA)/Dragon Warrior (USA).json
+file: Roms/Nintendo/Nintendo NES/Dragon Warrior (USA)/Dragon Warrior (USA).json
 developer: Chunsoft
 publisher: Nintendo
 genre: Role-Playing
@@ -1011,7 +1011,7 @@ x-playable: Yes
 
 
 game: DuckTales (USA)
-file: Nintendo/Nintendo NES/DuckTales (USA)/DuckTales (USA).json
+file: Roms/Nintendo/Nintendo NES/DuckTales (USA)/DuckTales (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -1037,7 +1037,7 @@ x-playable: Yes
 
 
 game: DuckTales (World) (The Disney Afternoon Collection)
-file: Nintendo/Nintendo NES/DuckTales (World) (The Disney Afternoon Collection)/DuckTales (World) (The Disney Afternoon Collection).json
+file: Roms/Nintendo/Nintendo NES/DuckTales (World) (The Disney Afternoon Collection)/DuckTales (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Platform
@@ -1063,7 +1063,7 @@ x-playable: Yes
 
 
 game: DuckTales 2 (USA) (Co-op Patch)
-file: Nintendo/Nintendo NES/DuckTales 2 (USA) (Co-op Patch)/DuckTales 2 (USA) (Co-op Patch).json
+file: Roms/Nintendo/Nintendo NES/DuckTales 2 (USA) (Co-op Patch)/DuckTales 2 (USA) (Co-op Patch).json
 developer: Make Software
 publisher: Capcom
 genre: Action;Platform
@@ -1086,7 +1086,7 @@ x-playable: Yes
 
 
 game: DuckTales 2 (World) (The Disney Afternoon Collection)
-file: Nintendo/Nintendo NES/DuckTales 2 (World) (The Disney Afternoon Collection)/DuckTales 2 (World) (The Disney Afternoon Collection).json
+file: Roms/Nintendo/Nintendo NES/DuckTales 2 (World) (The Disney Afternoon Collection)/DuckTales 2 (World) (The Disney Afternoon Collection).json
 developer: Make Software
 publisher: Capcom
 genre: Action;Platform
@@ -1110,7 +1110,7 @@ x-playable: Yes
 
 
 game: EarthBound Beginnings (USA, Europe) (Virtual Console)
-file: Nintendo/Nintendo NES/EarthBound Beginnings (USA, Europe) (Virtual Console)/EarthBound Beginnings (USA, Europe) (Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/EarthBound Beginnings (USA, Europe) (Virtual Console)/EarthBound Beginnings (USA, Europe) (Virtual Console).json
 developer: Ape Inc.
 publisher: Nintendo
 genre: Role-Playing
@@ -1135,7 +1135,7 @@ x-playable: Yes
 
 
 game: Elevator Action (USA)
-file: Nintendo/Nintendo NES/Elevator Action (USA)/Elevator Action (USA).json
+file: Roms/Nintendo/Nintendo NES/Elevator Action (USA)/Elevator Action (USA).json
 developer: Micronics
 publisher: Taito
 genre: Platform;Shooter;Stealth
@@ -1157,7 +1157,7 @@ x-playable: Yes
 
 
 game: Excitebike (Japan, USA)
-file: Nintendo/Nintendo NES/Excitebike (Japan, USA)/Excitebike (Japan, USA).json
+file: Roms/Nintendo/Nintendo NES/Excitebike (Japan, USA)/Excitebike (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing
@@ -1180,7 +1180,7 @@ x-playable: Yes
 
 
 game: Faxanadu (USA)
-file: Nintendo/Nintendo NES/Faxanadu (USA)/Faxanadu (USA).json
+file: Roms/Nintendo/Nintendo NES/Faxanadu (USA)/Faxanadu (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action;Role-Playing
@@ -1200,7 +1200,7 @@ x-playable: Yes
 
 
 game: Final Fantasy (USA)
-file: Nintendo/Nintendo NES/Final Fantasy (USA)/Final Fantasy (USA).json
+file: Roms/Nintendo/Nintendo NES/Final Fantasy (USA)/Final Fantasy (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -1222,7 +1222,7 @@ x-playable: Yes
 
 
 game: Friday the 13th (USA)
-file: Nintendo/Nintendo NES/Friday the 13th (USA)/Friday the 13th (USA).json
+file: Roms/Nintendo/Nintendo NES/Friday the 13th (USA)/Friday the 13th (USA).json
 developer: Pack-In-Video Co., Ltd
 publisher: LJN
 genre: Action
@@ -1249,7 +1249,7 @@ x-playable: Yes
 
 
 game: Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2)
-file: Nintendo/Nintendo NES/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2)/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2).json
+file: Roms/Nintendo/Nintendo NES/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2)/Galaga (World) (Namcot Collection, Namco Museum Archives Vol 2).json
 developer: Namco
 publisher: Bandai
 genre: Shooter
@@ -1268,7 +1268,7 @@ x-playable: Yes
 
 
 game: Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket)
-file: Nintendo/Nintendo NES/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket)/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket).json
+file: Roms/Nintendo/Nintendo NES/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket)/Gaplus (World) (Namcot Collection, Namco Museum Archives Vol 2) (Aftermarket).json
 developer: M2 Co., Ltd.
 publisher: BANDAI NAMCO Entertainment Inc.
 genre: Shooter
@@ -1283,7 +1283,7 @@ x-playable: Yes
 
 
 game: Gargoyle's Quest II (USA)
-file: Nintendo/Nintendo NES/Gargoyle's Quest II (USA)/Gargoyle's Quest II (USA).json
+file: Roms/Nintendo/Nintendo NES/Gargoyle's Quest II (USA)/Gargoyle's Quest II (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Platform
@@ -1305,7 +1305,7 @@ x-playable: Yes
 
 
 game: Ghostbusters (USA)
-file: Nintendo/Nintendo NES/Ghostbusters (USA)/Ghostbusters (USA).json
+file: Roms/Nintendo/Nintendo NES/Ghostbusters (USA)/Ghostbusters (USA).json
 developer: Bits Laboratory
 publisher: Activision
 genre: Action
@@ -1324,7 +1324,7 @@ x-playable: Yes
 
 
 game: Ghostbusters II (USA)
-file: Nintendo/Nintendo NES/Ghostbusters II (USA)/Ghostbusters II (USA).json
+file: Roms/Nintendo/Nintendo NES/Ghostbusters II (USA)/Ghostbusters II (USA).json
 developer: Imagineering
 publisher: Activision
 genre: Action
@@ -1345,7 +1345,7 @@ x-playable: Yes
 
 
 game: Golf (USA)
-file: Nintendo/Nintendo NES/Golf (USA)/Golf (USA).json
+file: Roms/Nintendo/Nintendo NES/Golf (USA)/Golf (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports
@@ -1366,7 +1366,7 @@ x-playable: Yes
 
 
 game: Golgo 13 - Top Secret Episode (USA)
-file: Nintendo/Nintendo NES/Golgo 13 - Top Secret Episode (USA)/Golgo 13 - Top Secret Episode (USA).json
+file: Roms/Nintendo/Nintendo NES/Golgo 13 - Top Secret Episode (USA)/Golgo 13 - Top Secret Episode (USA).json
 developer: Vic Tokai
 publisher: Vic Tokai
 genre: Action;Adventure
@@ -1387,7 +1387,7 @@ x-playable: Yes
 
 
 game: Guerrilla War (USA)
-file: Nintendo/Nintendo NES/Guerrilla War (USA)/Guerrilla War (USA).json
+file: Roms/Nintendo/Nintendo NES/Guerrilla War (USA)/Guerrilla War (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -1405,7 +1405,7 @@ x-playable: Yes
 
 
 game: Gyromite (World)
-file: Nintendo/Nintendo NES/Gyromite (World)/Gyromite (World).json
+file: Roms/Nintendo/Nintendo NES/Gyromite (World)/Gyromite (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -1427,7 +1427,7 @@ x-playable: Yes
 
 
 game: Gyruss (USA)
-file: Nintendo/Nintendo NES/Gyruss (USA)/Gyruss (USA).json
+file: Roms/Nintendo/Nintendo NES/Gyruss (USA)/Gyruss (USA).json
 developer: Konami
 publisher: Ultra Games
 genre: Shooter
@@ -1459,7 +1459,7 @@ x-playable: Yes
 
 
 game: Hole New World Soundtrack, A (USA)
-file: Nintendo/Nintendo NES/Hole New World Soundtrack, A (USA)/Hole New World Soundtrack, A (USA).json
+file: Roms/Nintendo/Nintendo NES/Hole New World Soundtrack, A (USA)/Hole New World Soundtrack, A (USA).json
 developer: MadGear Games
 publisher: Limited Run Games
 genre: Music
@@ -1476,7 +1476,7 @@ x-playable: Yes
 
 
 game: Hudson's Adventure Island (USA)
-file: Nintendo/Nintendo NES/Hudson's Adventure Island (USA)/Hudson's Adventure Island (USA).json
+file: Roms/Nintendo/Nintendo NES/Hudson's Adventure Island (USA)/Hudson's Adventure Island (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Platform
@@ -1501,7 +1501,7 @@ x-playable: Yes
 
 
 game: Hydlide (USA)
-file: Nintendo/Nintendo NES/Hydlide (USA)/Hydlide (USA).json
+file: Roms/Nintendo/Nintendo NES/Hydlide (USA)/Hydlide (USA).json
 developer: T&E Soft
 publisher: FCI
 genre: Action;Role-Playing
@@ -1529,7 +1529,7 @@ x-playable: Yes
 
 
 game: Ice Climber (USA, Europe)
-file: Nintendo/Nintendo NES/Ice Climber (USA, Europe)/Ice Climber (USA, Europe).json
+file: Roms/Nintendo/Nintendo NES/Ice Climber (USA, Europe)/Ice Climber (USA, Europe).json
 developer: Nintendo Co., Ltd.
 publisher: Nintendo Co., Ltd.
 genre: Platform
@@ -1552,7 +1552,7 @@ x-playable: Yes
 
 
 game: Ikari III - The Rescue (USA)
-file: Nintendo/Nintendo NES/Ikari III - The Rescue (USA)/Ikari III - The Rescue (USA).json
+file: Roms/Nintendo/Nintendo NES/Ikari III - The Rescue (USA)/Ikari III - The Rescue (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Beat-'Em-Up;2D
@@ -1579,7 +1579,7 @@ x-playable: Yes
 
 
 game: Ikari Warriors (USA) (Rev A)
-file: Nintendo/Nintendo NES/Ikari Warriors (USA) (Rev A)/Ikari Warriors (USA) (Rev A).json
+file: Roms/Nintendo/Nintendo NES/Ikari Warriors (USA) (Rev A)/Ikari Warriors (USA) (Rev A).json
 developer: Micronics
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -1598,7 +1598,7 @@ x-playable: Yes
 
 
 game: Ikari Warriors II - Victory Road (USA)
-file: Nintendo/Nintendo NES/Ikari Warriors II - Victory Road (USA)/Ikari Warriors II - Victory Road (USA).json
+file: Roms/Nintendo/Nintendo NES/Ikari Warriors II - Victory Road (USA)/Ikari Warriors II - Victory Road (USA).json
 developer: Micronics
 publisher: SNK
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -1628,7 +1628,7 @@ x-playable: Yes
 
 
 game: IronSword - Wizards & Warriors II (USA)
-file: Nintendo/Nintendo NES/IronSword - Wizards & Warriors II (USA)/IronSword - Wizards & Warriors II (USA).json
+file: Roms/Nintendo/Nintendo NES/IronSword - Wizards & Warriors II (USA)/IronSword - Wizards & Warriors II (USA).json
 developer: Zippo Games
 publisher: Acclaim
 genre: Action;Platform
@@ -1652,7 +1652,7 @@ x-playable: Yes
 
 
 game: Jay and Silent Bob Mall Brawl (World) (Unl)
-file: Nintendo/Nintendo NES/Jay and Silent Bob Mall Brawl (World) (Unl)/Jay and Silent Bob Mall Brawl (World) (Unl).json
+file: Roms/Nintendo/Nintendo NES/Jay and Silent Bob Mall Brawl (World) (Unl)/Jay and Silent Bob Mall Brawl (World) (Unl).json
 developer: Spoony Bard Productions
 publisher: Limited Run Games
 genre: Beat 'em Up
@@ -1672,7 +1672,7 @@ x-playable: Yes
 
 
 game: Kid Icarus (USA, Europe)
-file: Nintendo/Nintendo NES/Kid Icarus (USA, Europe)/Kid Icarus (USA, Europe).json
+file: Roms/Nintendo/Nintendo NES/Kid Icarus (USA, Europe)/Kid Icarus (USA, Europe).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Platform
@@ -1695,7 +1695,7 @@ x-playable: Yes
 
 
 game: Kirby's Adventure (USA)
-file: Nintendo/Nintendo NES/Kirby's Adventure (USA)/Kirby's Adventure (USA).json
+file: Roms/Nintendo/Nintendo NES/Kirby's Adventure (USA)/Kirby's Adventure (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1719,7 +1719,7 @@ x-playable: Yes
 
 
 game: Legacy of the Wizard (USA)
-file: Nintendo/Nintendo NES/Legacy of the Wizard (USA)/Legacy of the Wizard (USA).json
+file: Roms/Nintendo/Nintendo NES/Legacy of the Wizard (USA)/Legacy of the Wizard (USA).json
 developer: Compile
 publisher: Broderbund Software
 genre: Action;Platform
@@ -1743,7 +1743,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The (USA)
-file: Nintendo/Nintendo NES/Legend of Zelda, The (USA)/Legend of Zelda, The (USA).json
+file: Roms/Nintendo/Nintendo NES/Legend of Zelda, The (USA)/Legend of Zelda, The (USA).json
 developer: Nintendo R&D4
 publisher: Nintendo
 genre: Action;Adventure
@@ -1770,7 +1770,7 @@ x-playable: Yes
 
 
 game: Leggite Luta Livre (USA)
-file: Nintendo/Nintendo NES/Leggite Luta Livre (USA)/Leggite Luta Livre (USA).json
+file: Roms/Nintendo/Nintendo NES/Leggite Luta Livre (USA)/Leggite Luta Livre (USA).json
 developer: John Vanderhoef
 publisher: John Vanderhoef
 genre: Arcade
@@ -1808,7 +1808,7 @@ x-playable: Yes
 
 
 game: Life Force (USA) (Rev 1)
-file: Nintendo/Nintendo NES/Life Force (USA) (Rev 1)/Life Force (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo NES/Life Force (USA) (Rev 1)/Life Force (USA) (Rev 1).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -1834,7 +1834,7 @@ x-playable: Yes
 
 
 game: Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console)
-file: Nintendo/Nintendo NES/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console)/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console)/Mach Rider (Japan, USA) (En) (Rev 1) (Virtual Console).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Racing;Shooter
@@ -1857,7 +1857,7 @@ x-playable: Yes
 
 
 game: Mafat Conspiracy, The (USA)
-file: Nintendo/Nintendo NES/Mafat Conspiracy, The (USA)/Mafat Conspiracy, The (USA).json
+file: Roms/Nintendo/Nintendo NES/Mafat Conspiracy, The (USA)/Mafat Conspiracy, The (USA).json
 developer: Aicom
 publisher: Vic Tokai
 genre: Action
@@ -1879,7 +1879,7 @@ x-playable: Yes
 
 
 game: Mario Bros. (World)
-file: Nintendo/Nintendo NES/Mario Bros. (World)/Mario Bros. (World).json
+file: Roms/Nintendo/Nintendo NES/Mario Bros. (World)/Mario Bros. (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -1900,7 +1900,7 @@ x-playable: Yes
 
 
 game: Mega Man (USA)
-file: Nintendo/Nintendo NES/Mega Man (USA)/Mega Man (USA).json
+file: Roms/Nintendo/Nintendo NES/Mega Man (USA)/Mega Man (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1929,7 +1929,7 @@ x-playable: Yes
 
 
 game: Mega Man 2 (USA)
-file: Nintendo/Nintendo NES/Mega Man 2 (USA)/Mega Man 2 (USA).json
+file: Roms/Nintendo/Nintendo NES/Mega Man 2 (USA)/Mega Man 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1950,7 +1950,7 @@ x-playable: Yes
 
 
 game: Mega Man 3 (USA)
-file: Nintendo/Nintendo NES/Mega Man 3 (USA)/Mega Man 3 (USA).json
+file: Roms/Nintendo/Nintendo NES/Mega Man 3 (USA)/Mega Man 3 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1971,7 +1971,7 @@ x-playable: Yes
 
 
 game: Mega Man 4 (USA)
-file: Nintendo/Nintendo NES/Mega Man 4 (USA)/Mega Man 4 (USA).json
+file: Roms/Nintendo/Nintendo NES/Mega Man 4 (USA)/Mega Man 4 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1992,7 +1992,7 @@ x-playable: Yes
 
 
 game: Mega Man 5 (USA)
-file: Nintendo/Nintendo NES/Mega Man 5 (USA)/Mega Man 5 (USA).json
+file: Roms/Nintendo/Nintendo NES/Mega Man 5 (USA)/Mega Man 5 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -2015,7 +2015,7 @@ x-playable: Yes
 
 
 game: Mega Man 6 (USA)
-file: Nintendo/Nintendo NES/Mega Man 6 (USA)/Mega Man 6 (USA).json
+file: Roms/Nintendo/Nintendo NES/Mega Man 6 (USA)/Mega Man 6 (USA).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -2036,7 +2036,7 @@ x-playable: Yes
 
 
 game: Metal Storm (USA) (Retro-Bit) (2019)
-file: Nintendo/Nintendo NES/Metal Storm (USA) (Retro-Bit) (2019)/Metal Storm (USA) (Retro-Bit) (2019).json
+file: Roms/Nintendo/Nintendo NES/Metal Storm (USA) (Retro-Bit) (2019)/Metal Storm (USA) (Retro-Bit) (2019).json
 developer: Irem
 publisher: Irem
 genre: Shooter
@@ -2056,7 +2056,7 @@ x-playable: Yes
 
 
 game: Metroid (USA)
-file: Nintendo/Nintendo NES/Metroid (USA)/Metroid (USA).json
+file: Roms/Nintendo/Nintendo NES/Metroid (USA)/Metroid (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Action;Adventure
@@ -2080,7 +2080,7 @@ x-playable: Yes
 
 
 game: Micro Mages (USA)
-file: Nintendo/Nintendo NES/Micro Mages (USA)/Micro Mages (USA).json
+file: Roms/Nintendo/Nintendo NES/Micro Mages (USA)/Micro Mages (USA).json
 developer: Morphcat Games UG
 publisher: Morphcat Games UG
 genre: Platform
@@ -2104,7 +2104,7 @@ x-playable: Yes
 
 
 game: Might & Magic - Secret of the Inner Sanctum (USA)
-file: Nintendo/Nintendo NES/Might & Magic - Secret of the Inner Sanctum (USA)/Might & Magic - Secret of the Inner Sanctum (USA).json
+file: Roms/Nintendo/Nintendo NES/Might & Magic - Secret of the Inner Sanctum (USA)/Might & Magic - Secret of the Inner Sanctum (USA).json
 developer: G. Amusements
 publisher: American Sammy
 genre: Role-Playing
@@ -2127,7 +2127,7 @@ x-playable: Yes
 
 
 game: Mighty Bomb Jack (USA)
-file: Nintendo/Nintendo NES/Mighty Bomb Jack (USA)/Mighty Bomb Jack (USA).json
+file: Roms/Nintendo/Nintendo NES/Mighty Bomb Jack (USA)/Mighty Bomb Jack (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2154,7 +2154,7 @@ x-playable: Yes
 
 
 game: Mighty Final Fight (USA)
-file: Nintendo/Nintendo NES/Mighty Final Fight (USA)/Mighty Final Fight (USA).json
+file: Roms/Nintendo/Nintendo NES/Mighty Final Fight (USA)/Mighty Final Fight (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -2177,7 +2177,7 @@ x-playable: Yes
 
 
 game: Monster Party (USA)
-file: Nintendo/Nintendo NES/Monster Party (USA)/Monster Party (USA).json
+file: Roms/Nintendo/Nintendo NES/Monster Party (USA)/Monster Party (USA).json
 developer: Sonata
 publisher: Bandai
 genre: Action;Platform
@@ -2201,7 +2201,7 @@ x-playable: Yes
 
 
 game: NES Open Tournament Golf (USA)
-file: Nintendo/Nintendo NES/NES Open Tournament Golf (USA)/NES Open Tournament Golf (USA).json
+file: Roms/Nintendo/Nintendo NES/NES Open Tournament Golf (USA)/NES Open Tournament Golf (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Sports
@@ -2225,7 +2225,7 @@ x-playable: Yes
 
 
 game: Nebs 'n Debs (USA)
-file: Nintendo/Nintendo NES/Nebs 'n Debs (USA)/Nebs 'n Debs (USA).json
+file: Roms/Nintendo/Nintendo NES/Nebs 'n Debs (USA)/Nebs 'n Debs (USA).json
 developer: Dullahan Software
 publisher: Dullahan Software
 genre: Platformer
@@ -2243,7 +2243,7 @@ x-playable: Yes
 
 
 game: Nightmare on Elm Street, A (USA)
-file: Nintendo/Nintendo NES/Nightmare on Elm Street, A (USA)/Nightmare on Elm Street, A (USA).json
+file: Roms/Nintendo/Nintendo NES/Nightmare on Elm Street, A (USA)/Nightmare on Elm Street, A (USA).json
 developer: Rare
 publisher: LJN
 genre: Action;Platform
@@ -2269,7 +2269,7 @@ x-playable: Yes
 
 
 game: Ninja Gaiden (USA)
-file: Nintendo/Nintendo NES/Ninja Gaiden (USA)/Ninja Gaiden (USA).json
+file: Roms/Nintendo/Nintendo NES/Ninja Gaiden (USA)/Ninja Gaiden (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2288,7 +2288,7 @@ x-playable: Yes
 
 
 game: Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console)
-file: Nintendo/Nintendo NES/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console)/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console)/Ninja Gaiden II - The Dark Sword of Chaos (USA) (Virtual Console).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2308,7 +2308,7 @@ x-playable: Yes
 
 
 game: Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)
-file: Nintendo/Nintendo NES/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console)/Ninja Gaiden III - The Ancient Ship of Doom (USA) (Wii U Virtual Console).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Platform
@@ -2329,7 +2329,7 @@ x-playable: Yes
 
 
 game: P.O.W. - Prisoners of War (USA)
-file: Nintendo/Nintendo NES/P.O.W. - Prisoners of War (USA)/P.O.W. - Prisoners of War (USA).json
+file: Roms/Nintendo/Nintendo NES/P.O.W. - Prisoners of War (USA)/P.O.W. - Prisoners of War (USA).json
 developer: SNK
 publisher: SNK
 genre: Action;Beat-'Em-Up;2D
@@ -2347,7 +2347,7 @@ x-playable: Yes
 
 
 game: Pac-Man (USA) (Namco)
-file: Nintendo/Nintendo NES/Pac-Man (USA) (Namco)/Pac-Man (USA) (Namco).json
+file: Roms/Nintendo/Nintendo NES/Pac-Man (USA) (Namco)/Pac-Man (USA) (Namco).json
 developer: Namco
 publisher: Tengen
 genre: Action
@@ -2367,7 +2367,7 @@ x-playable: Yes
 
 
 game: Pac-Man (USA) (Tengen)
-file: Nintendo/Nintendo NES/Pac-Man (USA) (Tengen)/Pac-Man (USA) (Tengen).json
+file: Roms/Nintendo/Nintendo NES/Pac-Man (USA) (Tengen)/Pac-Man (USA) (Tengen).json
 developer: Namco
 publisher: Tengen
 genre: Action
@@ -2386,7 +2386,7 @@ x-playable: Yes
 
 
 game: Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1)
-file: Nintendo/Nintendo NES/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1)/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Roms/Nintendo/Nintendo NES/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1)/Pac-Man (World) (Rev A) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Tengen
 genre: Action
@@ -2405,7 +2405,7 @@ x-playable: Yes
 
 
 game: Pinball (World)
-file: Nintendo/Nintendo NES/Pinball (World)/Pinball (World).json
+file: Roms/Nintendo/Nintendo NES/Pinball (World)/Pinball (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action
@@ -2426,7 +2426,7 @@ x-playable: Yes
 
 
 game: Probotector (Europe)
-file: Nintendo/Nintendo NES/Probotector (Europe)/Probotector (Europe).json
+file: Roms/Nintendo/Nintendo NES/Probotector (Europe)/Probotector (Europe).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2450,7 +2450,7 @@ x-playable: Yes
 
 
 game: Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo NES/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection)/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo NES/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection)/Probotector II - Return of the Evil Forces (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2476,7 +2476,7 @@ x-playable: Yes
 
 
 game: Punch-Out!! (USA)
-file: Nintendo/Nintendo NES/Punch-Out!! (USA)/Punch-Out!! (USA).json
+file: Roms/Nintendo/Nintendo NES/Punch-Out!! (USA)/Punch-Out!! (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Fighting;Sports
@@ -2495,7 +2495,7 @@ x-playable: Yes
 
 
 game: R.C. Pro-Am (USA)
-file: Nintendo/Nintendo NES/R.C. Pro-Am (USA)/R.C. Pro-Am (USA).json
+file: Roms/Nintendo/Nintendo NES/R.C. Pro-Am (USA)/R.C. Pro-Am (USA).json
 developer: Rare Ltd.
 publisher: Nintendo
 genre: Racing
@@ -2517,7 +2517,7 @@ x-playable: Yes
 
 
 game: R.C. Pro-Am II (USA)
-file: Nintendo/Nintendo NES/R.C. Pro-Am II (USA)/R.C. Pro-Am II (USA).json
+file: Roms/Nintendo/Nintendo NES/R.C. Pro-Am II (USA)/R.C. Pro-Am II (USA).json
 developer: Rare Ltd.
 publisher: Tradewest
 genre: Racing
@@ -2540,7 +2540,7 @@ x-playable: Yes
 
 
 game: Renegade (USA)
-file: Nintendo/Nintendo NES/Renegade (USA)/Renegade (USA).json
+file: Roms/Nintendo/Nintendo NES/Renegade (USA)/Renegade (USA).json
 developer: Technos
 publisher: Taito Corporation
 genre: Action;Beat-'Em-Up;2D
@@ -2558,7 +2558,7 @@ x-playable: Yes
 
 
 game: River City Ransom (USA)
-file: Nintendo/Nintendo NES/River City Ransom (USA)/River City Ransom (USA).json
+file: Roms/Nintendo/Nintendo NES/River City Ransom (USA)/River City Ransom (USA).json
 developer: Million
 publisher: Technos
 genre: Action;Beat-'Em-Up;2D
@@ -2577,7 +2577,7 @@ x-playable: Yes
 
 
 game: Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2)
-file: Nintendo/Nintendo NES/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2)/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2).json
+file: Roms/Nintendo/Nintendo NES/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2)/Rolling Thunder (World) (Namcot Collection, Namco Museum Archives Vol 2).json
 developer: Arc System Works
 publisher: Tengen
 genre: Platform;Shooter
@@ -2597,7 +2597,7 @@ x-playable: Yes
 
 
 game: Rygar (USA)
-file: Nintendo/Nintendo NES/Rygar (USA)/Rygar (USA).json
+file: Roms/Nintendo/Nintendo NES/Rygar (USA)/Rygar (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Platform
@@ -2620,7 +2620,7 @@ x-playable: Yes
 
 
 game: S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console)
-file: Nintendo/Nintendo NES/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console)/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console)/S.C.A.T. - Special Cybernetic Attack Team (USA, Europe) (Virtual Console).json
 developer: Natsume
 publisher: Infogrames
 genre: Shooter
@@ -2642,7 +2642,7 @@ x-playable: Yes
 
 
 game: Shadow of the Ninja (USA, Europe) (Virtual Console)
-file: Nintendo/Nintendo NES/Shadow of the Ninja (USA, Europe) (Virtual Console)/Shadow of the Ninja (USA, Europe) (Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/Shadow of the Ninja (USA, Europe) (Virtual Console)/Shadow of the Ninja (USA, Europe) (Virtual Console).json
 developer: Natsume
 publisher: Taito
 genre: Action;Platform
@@ -2667,7 +2667,7 @@ x-playable: Yes
 
 
 game: Shadowgate (USA)
-file: Nintendo/Nintendo NES/Shadowgate (USA)/Shadowgate (USA).json
+file: Roms/Nintendo/Nintendo NES/Shadowgate (USA)/Shadowgate (USA).json
 developer: ICOM Simulations
 publisher: Kemco
 genre: Adventure
@@ -2697,7 +2697,7 @@ x-playable: Yes
 
 
 game: Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: Nintendo/Nintendo NES/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1)/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Roms/Nintendo/Nintendo NES/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1)/Sky Kid (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Sunsoft
 genre: Shooter
@@ -2723,7 +2723,7 @@ x-playable: Yes
 
 
 game: Slalom (USA)
-file: Nintendo/Nintendo NES/Slalom (USA)/Slalom (USA).json
+file: Roms/Nintendo/Nintendo NES/Slalom (USA)/Slalom (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Sports
@@ -2747,7 +2747,7 @@ x-playable: Yes
 
 
 game: Snake Rattle n Roll (USA)
-file: Nintendo/Nintendo NES/Snake Rattle n Roll (USA)/Snake Rattle n Roll (USA).json
+file: Roms/Nintendo/Nintendo NES/Snake Rattle n Roll (USA)/Snake Rattle n Roll (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Action;Platform
@@ -2769,7 +2769,7 @@ x-playable: Yes
 
 
 game: Solar Jetman - Hunt for the Golden Warpship (USA)
-file: Nintendo/Nintendo NES/Solar Jetman - Hunt for the Golden Warpship (USA)/Solar Jetman - Hunt for the Golden Warpship (USA).json
+file: Roms/Nintendo/Nintendo NES/Solar Jetman - Hunt for the Golden Warpship (USA)/Solar Jetman - Hunt for the Golden Warpship (USA).json
 developer: Rare Ltd.
 publisher: Tradewest
 genre: Action
@@ -2791,7 +2791,7 @@ x-playable: Yes
 
 
 game: Solomon's Key (USA)
-file: Nintendo/Nintendo NES/Solomon's Key (USA)/Solomon's Key (USA).json
+file: Roms/Nintendo/Nintendo NES/Solomon's Key (USA)/Solomon's Key (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Puzzle;Platform
@@ -2819,7 +2819,7 @@ x-playable: Yes
 
 
 game: Solstice - The Quest for the Staff of Demnos (USA)
-file: Nintendo/Nintendo NES/Solstice - The Quest for the Staff of Demnos (USA)/Solstice - The Quest for the Staff of Demnos (USA).json
+file: Roms/Nintendo/Nintendo NES/Solstice - The Quest for the Staff of Demnos (USA)/Solstice - The Quest for the Staff of Demnos (USA).json
 developer: Software Creations Ltd.
 publisher: CSG Imagesoft
 genre: Action;Puzzle
@@ -2839,7 +2839,7 @@ x-playable: Yes
 
 
 game: Star Soldier (USA)
-file: Nintendo/Nintendo NES/Star Soldier (USA)/Star Soldier (USA).json
+file: Roms/Nintendo/Nintendo NES/Star Soldier (USA)/Star Soldier (USA).json
 developer: Hudson Entertainment, Inc.
 publisher: Taxan
 genre: Shooter
@@ -2862,7 +2862,7 @@ x-playable: Yes
 
 
 game: StarTropics (USA)
-file: Nintendo/Nintendo NES/StarTropics (USA)/StarTropics (USA).json
+file: Roms/Nintendo/Nintendo NES/StarTropics (USA)/StarTropics (USA).json
 developer: Locomotive
 publisher: Nintendo
 genre: Action
@@ -2888,7 +2888,7 @@ x-playable: Yes
 
 
 game: Street Fighter 2010 - The Final Fight (USA)
-file: Nintendo/Nintendo NES/Street Fighter 2010 - The Final Fight (USA)/Street Fighter 2010 - The Final Fight (USA).json
+file: Roms/Nintendo/Nintendo NES/Street Fighter 2010 - The Final Fight (USA)/Street Fighter 2010 - The Final Fight (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -2911,7 +2911,7 @@ x-playable: Yes
 
 
 game: Super C (USA)
-file: Nintendo/Nintendo NES/Super C (USA)/Super C (USA).json
+file: Roms/Nintendo/Nintendo NES/Super C (USA)/Super C (USA).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2937,7 +2937,7 @@ x-playable: Yes
 
 
 game: Super C (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo NES/Super C (World) (Contra Anniversary Collection)/Super C (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo NES/Super C (World) (Contra Anniversary Collection)/Super C (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2963,7 +2963,7 @@ x-playable: Yes
 
 
 game: Super Dodge Ball (USA)
-file: Nintendo/Nintendo NES/Super Dodge Ball (USA)/Super Dodge Ball (USA).json
+file: Roms/Nintendo/Nintendo NES/Super Dodge Ball (USA)/Super Dodge Ball (USA).json
 developer: Technos
 publisher: Technos
 genre: Sports;Team;Other
@@ -2994,7 +2994,7 @@ x-playable: Yes
 
 
 game: Super Mario Bros. (World)
-file: Nintendo/Nintendo NES/Super Mario Bros. (World)/Super Mario Bros. (World).json
+file: Roms/Nintendo/Nintendo NES/Super Mario Bros. (World)/Super Mario Bros. (World).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -3016,7 +3016,7 @@ x-playable: Yes
 
 
 game: Super Mario Bros. (World) (Co-op Patch)
-file: Nintendo/Nintendo NES/Super Mario Bros. (World) (Co-op Patch)/Super Mario Bros. (World) (Co-op Patch).json
+file: Roms/Nintendo/Nintendo NES/Super Mario Bros. (World) (Co-op Patch)/Super Mario Bros. (World) (Co-op Patch).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Platform
@@ -3037,7 +3037,7 @@ x-playable: Yes
 
 
 game: Super Mario Bros. + Duck Hunt (USA)
-file: Nintendo/Nintendo NES/Super Mario Bros. + Duck Hunt (USA)/Super Mario Bros. + Duck Hunt (USA).json
+file: Roms/Nintendo/Nintendo NES/Super Mario Bros. + Duck Hunt (USA)/Super Mario Bros. + Duck Hunt (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform;Shooter
@@ -3071,7 +3071,7 @@ x-playable: Yes
 
 
 game: Super Mario Bros. 2 (USA)
-file: Nintendo/Nintendo NES/Super Mario Bros. 2 (USA)/Super Mario Bros. 2 (USA).json
+file: Roms/Nintendo/Nintendo NES/Super Mario Bros. 2 (USA)/Super Mario Bros. 2 (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -3093,7 +3093,7 @@ x-playable: Yes
 
 
 game: Super Mario Bros. 3 (USA)
-file: Nintendo/Nintendo NES/Super Mario Bros. 3 (USA)/Super Mario Bros. 3 (USA).json
+file: Roms/Nintendo/Nintendo NES/Super Mario Bros. 3 (USA)/Super Mario Bros. 3 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -3122,7 +3122,7 @@ x-playable: Yes
 
 
 game: Swords and Serpents (USA)
-file: Nintendo/Nintendo NES/Swords and Serpents (USA)/Swords and Serpents (USA).json
+file: Roms/Nintendo/Nintendo NES/Swords and Serpents (USA)/Swords and Serpents (USA).json
 developer: Interplay
 publisher: Acclaim
 genre: Role-Playing
@@ -3147,7 +3147,7 @@ x-playable: Yes
 
 
 game: TaleSpin (World) (The Disney Afternoon Collection)
-file: Nintendo/Nintendo NES/TaleSpin (World) (The Disney Afternoon Collection)/TaleSpin (World) (The Disney Afternoon Collection).json
+file: Roms/Nintendo/Nintendo NES/TaleSpin (World) (The Disney Afternoon Collection)/TaleSpin (World) (The Disney Afternoon Collection).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -3171,7 +3171,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles (USA)
-file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles (USA)/Teenage Mutant Ninja Turtles (USA).json
+file: Roms/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles (USA)/Teenage Mutant Ninja Turtles (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure
@@ -3195,7 +3195,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Tournament Fighters (USA)
-file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
+file: Roms/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Fighting;2D
@@ -3219,7 +3219,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles II - The Arcade Game (USA)
-file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles II - The Arcade Game (USA)/Teenage Mutant Ninja Turtles II - The Arcade Game (USA).json
+file: Roms/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles II - The Arcade Game (USA)/Teenage Mutant Ninja Turtles II - The Arcade Game (USA).json
 developer: Konami
 publisher: Ultra Games
 genre: Beat 'em Up
@@ -3253,7 +3253,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)
-file: Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).json
+file: Roms/Nintendo/Nintendo NES/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA)/Teenage Mutant Ninja Turtles III - The Manhattan Project (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Beat-'Em-Up;2D
@@ -3275,7 +3275,7 @@ x-playable: Yes
 
 
 game: Tennis (Japan, USA)
-file: Nintendo/Nintendo NES/Tennis (Japan, USA)/Tennis (Japan, USA).json
+file: Roms/Nintendo/Nintendo NES/Tennis (Japan, USA)/Tennis (Japan, USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Sports
@@ -3299,7 +3299,7 @@ x-playable: Yes
 
 
 game: Tetris (USA)
-file: Nintendo/Nintendo NES/Tetris (USA)/Tetris (USA).json
+file: Roms/Nintendo/Nintendo NES/Tetris (USA)/Tetris (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -3333,7 +3333,7 @@ x-playable: Yes
 
 
 game: Time Lord (USA)
-file: Nintendo/Nintendo NES/Time Lord (USA)/Time Lord (USA).json
+file: Roms/Nintendo/Nintendo NES/Time Lord (USA)/Time Lord (USA).json
 developer: Rare
 publisher: Milton Bradley
 genre: Action;Platform
@@ -3359,7 +3359,7 @@ x-playable: Yes
 
 
 game: Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)
-file: Nintendo/Nintendo NES/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console)/Ufouria - The Saga (USA, Europe) (Wii U Virtual Console).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Platform
@@ -3383,7 +3383,7 @@ x-playable: Yes
 
 
 game: Ultima - Exodus (USA)
-file: Nintendo/Nintendo NES/Ultima - Exodus (USA)/Ultima - Exodus (USA).json
+file: Roms/Nintendo/Nintendo NES/Ultima - Exodus (USA)/Ultima - Exodus (USA).json
 developer: FCI
 publisher: FCI
 genre: Role-Playing
@@ -3414,7 +3414,7 @@ x-playable: Yes
 
 
 game: Ultima - Quest of the Avatar (USA)
-file: Nintendo/Nintendo NES/Ultima - Quest of the Avatar (USA)/Ultima - Quest of the Avatar (USA).json
+file: Roms/Nintendo/Nintendo NES/Ultima - Quest of the Avatar (USA)/Ultima - Quest of the Avatar (USA).json
 developer: Infinity Co., Ltd.
 publisher: FCI
 genre: Role-Playing
@@ -3435,7 +3435,7 @@ x-playable: Yes
 
 
 game: Uninvited (USA)
-file: Nintendo/Nintendo NES/Uninvited (USA)/Uninvited (USA).json
+file: Roms/Nintendo/Nintendo NES/Uninvited (USA)/Uninvited (USA).json
 developer: ICOM
 publisher: Kemco
 genre: Adventure
@@ -3455,7 +3455,7 @@ x-playable: Yes
 
 
 game: Urban Champion (World)
-file: Nintendo/Nintendo NES/Urban Champion (World)/Urban Champion (World).json
+file: Roms/Nintendo/Nintendo NES/Urban Champion (World)/Urban Champion (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Fighting
@@ -3479,7 +3479,7 @@ x-playable: Yes
 
 
 game: Wampus DX (USA)
-file: Nintendo/Nintendo NES/Wampus DX (USA)/Wampus DX (USA).json
+file: Roms/Nintendo/Nintendo NES/Wampus DX (USA)/Wampus DX (USA).json
 developer: John Vanderhoef
 publisher: John Vanderhoef
 genre: Adventure
@@ -3504,7 +3504,7 @@ x-playable: Yes
 
 
 game: Wario's Woods (USA)
-file: Nintendo/Nintendo NES/Wario's Woods (USA)/Wario's Woods (USA).json
+file: Roms/Nintendo/Nintendo NES/Wario's Woods (USA)/Wario's Woods (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Puzzle
@@ -3528,7 +3528,7 @@ x-playable: Yes
 
 
 game: Wizards & Warriors (USA)
-file: Nintendo/Nintendo NES/Wizards & Warriors (USA)/Wizards & Warriors (USA).json
+file: Roms/Nintendo/Nintendo NES/Wizards & Warriors (USA)/Wizards & Warriors (USA).json
 developer: Rare
 publisher: Acclaim
 genre: Action;Platform
@@ -3553,7 +3553,7 @@ x-playable: Yes
 
 
 game: Wrecking Crew (World)
-file: Nintendo/Nintendo NES/Wrecking Crew (World)/Wrecking Crew (World).json
+file: Roms/Nintendo/Nintendo NES/Wrecking Crew (World)/Wrecking Crew (World).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Action;Puzzle
@@ -3573,7 +3573,7 @@ x-playable: Yes
 
 
 game: Xenophobe (USA)
-file: Nintendo/Nintendo NES/Xenophobe (USA)/Xenophobe (USA).json
+file: Roms/Nintendo/Nintendo NES/Xenophobe (USA)/Xenophobe (USA).json
 developer: Sunsoft
 publisher: Sunsoft
 genre: Shooter
@@ -3592,7 +3592,7 @@ x-playable: Yes
 
 
 game: Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1)
-file: Nintendo/Nintendo NES/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1)/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1).json
+file: Roms/Nintendo/Nintendo NES/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1)/Xevious (World) (Namcot Collection, Namco Museum Archives Vol 1).json
 developer: Namco
 publisher: Bandai
 genre: Shooter
@@ -3609,7 +3609,7 @@ x-playable: Yes
 
 
 game: Yoshi (USA)
-file: Nintendo/Nintendo NES/Yoshi (USA)/Yoshi (USA).json
+file: Roms/Nintendo/Nintendo NES/Yoshi (USA)/Yoshi (USA).json
 developer: Game Freak
 publisher: Nintendo of America Inc.
 genre: Puzzle
@@ -3633,7 +3633,7 @@ x-playable: Yes
 
 
 game: Zelda II - The Adventure of Link (USA)
-file: Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA)/Zelda II - The Adventure of Link (USA).json
+file: Roms/Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA)/Zelda II - The Adventure of Link (USA).json
 developer: Nintendo R&D4
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -3655,7 +3655,7 @@ x-playable: Yes
 
 
 game: Zelda II - The Adventure of Link (USA) (Co-op Patch)
-file: Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA) (Co-op Patch)/Zelda II - The Adventure of Link (USA) (Co-op Patch).json
+file: Roms/Nintendo/Nintendo NES/Zelda II - The Adventure of Link (USA) (Co-op Patch)/Zelda II - The Adventure of Link (USA) (Co-op Patch).json
 developer: Nintendo R&D4
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -3676,7 +3676,7 @@ x-playable: Yes
 
 
 game: Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console)
-file: Nintendo/Nintendo NES/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console)/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console).json
+file: Roms/Nintendo/Nintendo NES/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console)/Zoda's Revenge - StarTropics II (USA, Europe) (Virtual Console).json
 developer: Nintendo R&D3
 publisher: Nintendo
 genre: Action;Adventure
@@ -3705,7 +3705,7 @@ x-playable: Yes
 
 
 game: Zombie Nation (USA)
-file: Nintendo/Nintendo NES/Zombie Nation (USA)/Zombie Nation (USA).json
+file: Roms/Nintendo/Nintendo NES/Zombie Nation (USA)/Zombie Nation (USA).json
 developer: KAZe
 publisher: Meldac
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal

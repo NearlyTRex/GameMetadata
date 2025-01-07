@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Sony" -s "Sony PlayStation 2" -n {file.base
 
 
 game: Activision Anthology (USA)
-file: Sony/Sony PlayStation 2/Activision Anthology (USA)/Activision Anthology (USA).json
+file: Roms/Sony/Sony PlayStation 2/Activision Anthology (USA)/Activision Anthology (USA).json
 developer: Contraband Entertainment
 publisher: Activision
 genre: Action
@@ -70,7 +70,7 @@ x-playable: Yes
 
 
 game: Adventures of Cookie & Cream, The (USA)
-file: Sony/Sony PlayStation 2/Adventures of Cookie & Cream, The (USA)/Adventures of Cookie & Cream, The (USA).json
+file: Roms/Sony/Sony PlayStation 2/Adventures of Cookie & Cream, The (USA)/Adventures of Cookie & Cream, The (USA).json
 developer: FromSoftware, Inc.
 publisher: Agetec
 genre: Platform;Puzzle
@@ -91,7 +91,7 @@ x-playable: Yes
 
 
 game: Adventures of Darwin, The (USA)
-file: Sony/Sony PlayStation 2/Adventures of Darwin, The (USA)/Adventures of Darwin, The (USA).json
+file: Roms/Sony/Sony PlayStation 2/Adventures of Darwin, The (USA)/Adventures of Darwin, The (USA).json
 developer: Vingt-et-un Systems
 publisher: D3 Publisher
 genre: Strategy
@@ -117,7 +117,7 @@ x-playable: Yes
 
 
 game: Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 2/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It)/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 2/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It)/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).json
 developer: Dark Works
 publisher: Infogrames
 genre: Action;Adventure;Horror
@@ -139,7 +139,7 @@ x-playable: Yes
 
 
 game: Arc the Lad - End of Darkness (USA)
-file: Sony/Sony PlayStation 2/Arc the Lad - End of Darkness (USA)/Arc the Lad - End of Darkness (USA).json
+file: Roms/Sony/Sony PlayStation 2/Arc the Lad - End of Darkness (USA)/Arc the Lad - End of Darkness (USA).json
 developer: Cattle Call
 publisher: Namco
 genre: Action;Adventure;Role-Playing
@@ -165,7 +165,7 @@ x-playable: Yes
 
 
 game: Arc the Lad - Twilight of the Spirits (USA)
-file: Sony/Sony PlayStation 2/Arc the Lad - Twilight of the Spirits (USA)/Arc the Lad - Twilight of the Spirits (USA).json
+file: Roms/Sony/Sony PlayStation 2/Arc the Lad - Twilight of the Spirits (USA)/Arc the Lad - Twilight of the Spirits (USA).json
 developer: Cattle Call
 publisher: SCE
 genre: Role-Playing
@@ -189,7 +189,7 @@ x-playable: Yes
 
 
 game: Baldur's Gate - Dark Alliance (USA)
-file: Sony/Sony PlayStation 2/Baldur's Gate - Dark Alliance (USA)/Baldur's Gate - Dark Alliance (USA).json
+file: Roms/Sony/Sony PlayStation 2/Baldur's Gate - Dark Alliance (USA)/Baldur's Gate - Dark Alliance (USA).json
 developer: Black Isle Studios
 publisher: Interplay Entertainment Corp.
 genre: Action;Role-Playing
@@ -232,7 +232,7 @@ x-playable: Yes
 
 
 game: Biohazard - Outbreak (Japan)
-file: Sony/Sony PlayStation 2/Biohazard - Outbreak (Japan)/Biohazard - Outbreak (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Biohazard - Outbreak (Japan)/Biohazard - Outbreak (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -251,7 +251,7 @@ x-playable: Yes
 
 
 game: Biohazard - Outbreak (Japan) (English Patch)
-file: Sony/Sony PlayStation 2/Biohazard - Outbreak (Japan) (English Patch)/Biohazard - Outbreak (Japan) (English Patch).json
+file: Roms/Sony/Sony PlayStation 2/Biohazard - Outbreak (Japan) (English Patch)/Biohazard - Outbreak (Japan) (English Patch).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -270,7 +270,7 @@ x-playable: Yes
 
 
 game: Biohazard - Outbreak - File 2 (Japan)
-file: Sony/Sony PlayStation 2/Biohazard - Outbreak - File 2 (Japan)/Biohazard - Outbreak - File 2 (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Biohazard - Outbreak - File 2 (Japan)/Biohazard - Outbreak - File 2 (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -289,7 +289,7 @@ x-playable: Yes
 
 
 game: Biohazard - Outbreak - File 2 (Japan) (English Patch)
-file: Sony/Sony PlayStation 2/Biohazard - Outbreak - File 2 (Japan) (English Patch)/Biohazard - Outbreak - File 2 (Japan) (English Patch).json
+file: Roms/Sony/Sony PlayStation 2/Biohazard - Outbreak - File 2 (Japan) (English Patch)/Biohazard - Outbreak - File 2 (Japan) (English Patch).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -308,7 +308,7 @@ x-playable: Yes
 
 
 game: Blood Omen 2 - The Legacy of Kain Series (USA)
-file: Sony/Sony PlayStation 2/Blood Omen 2 - The Legacy of Kain Series (USA)/Blood Omen 2 - The Legacy of Kain Series (USA).json
+file: Roms/Sony/Sony PlayStation 2/Blood Omen 2 - The Legacy of Kain Series (USA)/Blood Omen 2 - The Legacy of Kain Series (USA).json
 developer: Crystal Dynamics
 publisher: Eidos Interactive
 genre: Action;Horror;Puzzle
@@ -337,7 +337,7 @@ x-playable: Yes
 
 
 game: BloodRayne (USA)
-file: Sony/Sony PlayStation 2/BloodRayne (USA)/BloodRayne (USA).json
+file: Roms/Sony/Sony PlayStation 2/BloodRayne (USA)/BloodRayne (USA).json
 developer: Terminal Reality, Inc.
 publisher: Majesco Sales, Inc.
 genre: Action;Horror
@@ -376,7 +376,7 @@ x-playable: Yes
 
 
 game: BloodRayne 2 (USA)
-file: Sony/Sony PlayStation 2/BloodRayne 2 (USA)/BloodRayne 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/BloodRayne 2 (USA)/BloodRayne 2 (USA).json
 developer: Terminal Reality
 publisher: THQ
 genre: Action
@@ -406,7 +406,7 @@ x-playable: Yes
 
 
 game: Capcom Classics Collection Vol. 1 (USA)
-file: Sony/Sony PlayStation 2/Capcom Classics Collection Vol. 1 (USA)/Capcom Classics Collection Vol. 1 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Capcom Classics Collection Vol. 1 (USA)/Capcom Classics Collection Vol. 1 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Fighting;Role-Playing;Shooter;Strategy
@@ -430,7 +430,7 @@ x-playable: Yes
 
 
 game: Capcom Classics Collection Vol. 2 (USA)
-file: Sony/Sony PlayStation 2/Capcom Classics Collection Vol. 2 (USA)/Capcom Classics Collection Vol. 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Capcom Classics Collection Vol. 2 (USA)/Capcom Classics Collection Vol. 2 (USA).json
 developer: Digital Eclipse
 publisher: Capcom
 genre: Action;Racing;Strategy
@@ -451,7 +451,7 @@ x-playable: Yes
 
 
 game: Castlevania - Curse of Darkness (USA)
-file: Sony/Sony PlayStation 2/Castlevania - Curse of Darkness (USA)/Castlevania - Curse of Darkness (USA).json
+file: Roms/Sony/Sony PlayStation 2/Castlevania - Curse of Darkness (USA)/Castlevania - Curse of Darkness (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure
@@ -473,7 +473,7 @@ x-playable: Yes
 
 
 game: Castlevania - Lament of Innocence (USA)
-file: Sony/Sony PlayStation 2/Castlevania - Lament of Innocence (USA)/Castlevania - Lament of Innocence (USA).json
+file: Roms/Sony/Sony PlayStation 2/Castlevania - Lament of Innocence (USA)/Castlevania - Lament of Innocence (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure
@@ -499,7 +499,7 @@ x-playable: Yes
 
 
 game: Champions of Norrath (USA)
-file: Sony/Sony PlayStation 2/Champions of Norrath (USA)/Champions of Norrath (USA).json
+file: Roms/Sony/Sony PlayStation 2/Champions of Norrath (USA)/Champions of Norrath (USA).json
 developer: Snowblind Studios
 publisher: Sony
 genre: Action;Role-Playing
@@ -522,7 +522,7 @@ x-playable: Yes
 
 
 game: Chulip (USA)
-file: Sony/Sony PlayStation 2/Chulip (USA)/Chulip (USA).json
+file: Roms/Sony/Sony PlayStation 2/Chulip (USA)/Chulip (USA).json
 developer: Punchline
 publisher: Natsume
 genre: Adventure;Puzzle
@@ -543,7 +543,7 @@ x-playable: Yes
 
 
 game: Clock Tower 3 (USA)
-file: Sony/Sony PlayStation 2/Clock Tower 3 (USA)/Clock Tower 3 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Clock Tower 3 (USA)/Clock Tower 3 (USA).json
 developer: Capcom Production Studio 3
 publisher: Capcom
 genre: Action;Adventure;Horror
@@ -573,7 +573,7 @@ x-playable: Yes
 
 
 game: Cold Fear (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 2/Cold Fear (USA) (En,Fr,Es)/Cold Fear (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 2/Cold Fear (USA) (En,Fr,Es)/Cold Fear (USA) (En,Fr,Es).json
 developer: Darkworks
 publisher: Ubisoft
 genre: Action;Horror
@@ -593,7 +593,7 @@ x-playable: Yes
 
 
 game: Constantine (USA)
-file: Sony/Sony PlayStation 2/Constantine (USA)/Constantine (USA).json
+file: Roms/Sony/Sony PlayStation 2/Constantine (USA)/Constantine (USA).json
 developer: Bits Studios
 publisher: SCi
 genre: Action
@@ -625,7 +625,7 @@ x-playable: Yes
 
 
 game: Curse - The Eye of Isis (Europe) (En,Fr,De,Es,It,Pt)
-file: Sony/Sony PlayStation 2/Curse - The Eye of Isis (Europe) (En,Fr,De,Es,It,Pt)/Curse - The Eye of Isis (Europe) (En,Fr,De,Es,It,Pt).json
+file: Roms/Sony/Sony PlayStation 2/Curse - The Eye of Isis (Europe) (En,Fr,De,Es,It,Pt)/Curse - The Eye of Isis (Europe) (En,Fr,De,Es,It,Pt).json
 developer: Asylum Entertainment
 publisher: DreamCatcher Interactive
 genre: Adventure;Horror
@@ -646,7 +646,7 @@ x-playable: Yes
 
 
 game: DDRMAX - Dance Dance Revolution (USA)
-file: Sony/Sony PlayStation 2/DDRMAX - Dance Dance Revolution (USA)/DDRMAX - Dance Dance Revolution (USA).json
+file: Roms/Sony/Sony PlayStation 2/DDRMAX - Dance Dance Revolution (USA)/DDRMAX - Dance Dance Revolution (USA).json
 developer: Konami
 publisher: Konami
 genre: Music
@@ -668,7 +668,7 @@ x-playable: Yes
 
 
 game: DDRMAX2 - Dance Dance Revolution (USA)
-file: Sony/Sony PlayStation 2/DDRMAX2 - Dance Dance Revolution (USA)/DDRMAX2 - Dance Dance Revolution (USA).json
+file: Roms/Sony/Sony PlayStation 2/DDRMAX2 - Dance Dance Revolution (USA)/DDRMAX2 - Dance Dance Revolution (USA).json
 developer: Konami
 publisher: Konami
 genre: Music
@@ -691,7 +691,7 @@ x-playable: Yes
 
 
 game: Dance Dance Revolution Extreme (USA)
-file: Sony/Sony PlayStation 2/Dance Dance Revolution Extreme (USA)/Dance Dance Revolution Extreme (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dance Dance Revolution Extreme (USA)/Dance Dance Revolution Extreme (USA).json
 developer: Konami
 publisher: Konami
 genre: Music
@@ -718,7 +718,7 @@ x-playable: Yes
 
 
 game: Dance Dance Revolution Extreme 2 (USA)
-file: Sony/Sony PlayStation 2/Dance Dance Revolution Extreme 2 (USA)/Dance Dance Revolution Extreme 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dance Dance Revolution Extreme 2 (USA)/Dance Dance Revolution Extreme 2 (USA).json
 developer: KCE Hawaii
 publisher: Konami
 genre: Music
@@ -751,7 +751,7 @@ x-playable: Yes
 
 
 game: Dance Dance Revolution SuperNova (USA)
-file: Sony/Sony PlayStation 2/Dance Dance Revolution SuperNova (USA)/Dance Dance Revolution SuperNova (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dance Dance Revolution SuperNova (USA)/Dance Dance Revolution SuperNova (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Music
@@ -771,7 +771,7 @@ x-playable: Yes
 
 
 game: Dance Dance Revolution X (USA)
-file: Sony/Sony PlayStation 2/Dance Dance Revolution X (USA)/Dance Dance Revolution X (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dance Dance Revolution X (USA)/Dance Dance Revolution X (USA).json
 developer: Konami
 publisher: Konami
 genre: Music
@@ -797,7 +797,7 @@ x-playable: Yes
 
 
 game: Dance Factory (USA)
-file: Sony/Sony PlayStation 2/Dance Factory (USA)/Dance Factory (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dance Factory (USA)/Dance Factory (USA).json
 developer: Broadsword Interactive
 publisher: Codemasters
 genre: Music
@@ -834,7 +834,7 @@ x-playable: Yes
 
 
 game: Dark Angel - Vampire Apocalypse (USA) (v1.02)
-file: Sony/Sony PlayStation 2/Dark Angel - Vampire Apocalypse (USA) (v1.02)/Dark Angel - Vampire Apocalypse (USA) (v1.02).json
+file: Roms/Sony/Sony PlayStation 2/Dark Angel - Vampire Apocalypse (USA) (v1.02)/Dark Angel - Vampire Apocalypse (USA) (v1.02).json
 developer: Metro3D
 publisher: Metro3D
 genre: Role-Playing
@@ -871,7 +871,7 @@ x-playable: Yes
 
 
 game: Dark Cloud (USA)
-file: Sony/Sony PlayStation 2/Dark Cloud (USA)/Dark Cloud (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dark Cloud (USA)/Dark Cloud (USA).json
 developer: Level-5
 publisher: Sony
 genre: Action;Role-Playing
@@ -894,7 +894,7 @@ x-playable: Yes
 
 
 game: Dark Cloud 2 (USA)
-file: Sony/Sony PlayStation 2/Dark Cloud 2 (USA)/Dark Cloud 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dark Cloud 2 (USA)/Dark Cloud 2 (USA).json
 developer: Level-5
 publisher: Sony
 genre: Action;Role-Playing
@@ -921,7 +921,7 @@ x-playable: Yes
 
 
 game: Darkwatch (USA)
-file: Sony/Sony PlayStation 2/Darkwatch (USA)/Darkwatch (USA).json
+file: Roms/Sony/Sony PlayStation 2/Darkwatch (USA)/Darkwatch (USA).json
 developer: High Moon Studios
 publisher: Capcom
 genre: Shooter
@@ -941,7 +941,7 @@ x-playable: Yes
 
 
 game: Dawn of Mana (USA)
-file: Sony/Sony PlayStation 2/Dawn of Mana (USA)/Dawn of Mana (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dawn of Mana (USA)/Dawn of Mana (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -967,7 +967,7 @@ x-playable: Yes
 
 
 game: Destroy All Humans! (USA)
-file: Sony/Sony PlayStation 2/Destroy All Humans! (USA)/Destroy All Humans! (USA).json
+file: Roms/Sony/Sony PlayStation 2/Destroy All Humans! (USA)/Destroy All Humans! (USA).json
 developer: Pandemic
 publisher: THQ
 genre: Adventure
@@ -996,7 +996,7 @@ x-playable: Yes
 
 
 game: Deus Ex - The Conspiracy (USA)
-file: Sony/Sony PlayStation 2/Deus Ex - The Conspiracy (USA)/Deus Ex - The Conspiracy (USA).json
+file: Roms/Sony/Sony PlayStation 2/Deus Ex - The Conspiracy (USA)/Deus Ex - The Conspiracy (USA).json
 developer: Ion Storm
 publisher: Eidos Interactive
 genre: Role-Playing;Shooter
@@ -1017,7 +1017,7 @@ x-playable: Yes
 
 
 game: Dot Hack Part 1 - Infection (USA)
-file: Sony/Sony PlayStation 2/Dot Hack Part 1 - Infection (USA)/Dot Hack Part 1 - Infection (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dot Hack Part 1 - Infection (USA)/Dot Hack Part 1 - Infection (USA).json
 developer: CyberConnect2 Co., Ltd.
 publisher: Bandai America, Inc.
 genre: Action;Role-Playing
@@ -1062,7 +1062,7 @@ x-playable: Yes
 
 
 game: Dot Hack Part 2 - Mutation (USA)
-file: Sony/Sony PlayStation 2/Dot Hack Part 2 - Mutation (USA)/Dot Hack Part 2 - Mutation (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dot Hack Part 2 - Mutation (USA)/Dot Hack Part 2 - Mutation (USA).json
 developer: CyberConnect2 Co., Ltd.
 publisher: Bandai America, Inc.
 genre: Adventure;Role-Playing
@@ -1086,7 +1086,7 @@ x-playable: Yes
 
 
 game: Dot Hack Part 3 - Outbreak (USA)
-file: Sony/Sony PlayStation 2/Dot Hack Part 3 - Outbreak (USA)/Dot Hack Part 3 - Outbreak (USA).json
+file: Roms/Sony/Sony PlayStation 2/Dot Hack Part 3 - Outbreak (USA)/Dot Hack Part 3 - Outbreak (USA).json
 developer: CyberConnect2 Co., Ltd.
 publisher: Bandai America, Inc.
 genre: Role-Playing
@@ -1111,7 +1111,7 @@ x-playable: Yes
 
 
 game: DreamMix TV World Fighters (Japan)
-file: Sony/Sony PlayStation 2/DreamMix TV World Fighters (Japan)/DreamMix TV World Fighters (Japan).json
+file: Roms/Sony/Sony PlayStation 2/DreamMix TV World Fighters (Japan)/DreamMix TV World Fighters (Japan).json
 developer: BitStep
 publisher: Konami
 genre: Fighting;Platform
@@ -1137,7 +1137,7 @@ x-playable: Yes
 
 
 game: Echo Night - Beyond (USA)
-file: Sony/Sony PlayStation 2/Echo Night - Beyond (USA)/Echo Night - Beyond (USA).json
+file: Roms/Sony/Sony PlayStation 2/Echo Night - Beyond (USA)/Echo Night - Beyond (USA).json
 developer: FromSoftware, Inc.
 publisher: Agetec
 genre: Adventure;Horror
@@ -1163,7 +1163,7 @@ x-playable: Yes
 
 
 game: Escape from Monkey Island (USA)
-file: Sony/Sony PlayStation 2/Escape from Monkey Island (USA)/Escape from Monkey Island (USA).json
+file: Roms/Sony/Sony PlayStation 2/Escape from Monkey Island (USA)/Escape from Monkey Island (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Adventure
@@ -1194,7 +1194,7 @@ x-playable: Yes
 
 
 game: Evergrace (USA)
-file: Sony/Sony PlayStation 2/Evergrace (USA)/Evergrace (USA).json
+file: Roms/Sony/Sony PlayStation 2/Evergrace (USA)/Evergrace (USA).json
 developer: FromSoftware, Inc.
 publisher: Agetec
 genre: Action;Role-Playing
@@ -1218,7 +1218,7 @@ x-playable: Yes
 
 
 game: Evil Dead - A Fistful of Boomstick (USA)
-file: Sony/Sony PlayStation 2/Evil Dead - A Fistful of Boomstick (USA)/Evil Dead - A Fistful of Boomstick (USA).json
+file: Roms/Sony/Sony PlayStation 2/Evil Dead - A Fistful of Boomstick (USA)/Evil Dead - A Fistful of Boomstick (USA).json
 developer: VIS
 publisher: THQ
 genre: Shooter
@@ -1247,7 +1247,7 @@ x-playable: Yes
 
 
 game: Evil Dead - Regeneration (USA)
-file: Sony/Sony PlayStation 2/Evil Dead - Regeneration (USA)/Evil Dead - Regeneration (USA).json
+file: Roms/Sony/Sony PlayStation 2/Evil Dead - Regeneration (USA)/Evil Dead - Regeneration (USA).json
 developer: Cranky Pants Games
 publisher: THQ
 genre: Horror;Shooter
@@ -1285,7 +1285,7 @@ x-playable: Yes
 
 
 game: Extermination (USA)
-file: Sony/Sony PlayStation 2/Extermination (USA)/Extermination (USA).json
+file: Roms/Sony/Sony PlayStation 2/Extermination (USA)/Extermination (USA).json
 developer: Deep Space Inc.
 publisher: Sony Computer Entertainment Inc.
 genre: Adventure;Horror
@@ -1325,7 +1325,7 @@ x-playable: Yes
 
 
 game: EyeToy - Antigrav (USA)
-file: Sony/Sony PlayStation 2/EyeToy - Antigrav (USA)/EyeToy - Antigrav (USA).json
+file: Roms/Sony/Sony PlayStation 2/EyeToy - Antigrav (USA)/EyeToy - Antigrav (USA).json
 developer: Harmonix
 publisher: Sony Computer Entertainment
 genre: Sports
@@ -1348,7 +1348,7 @@ x-playable: Yes
 
 
 game: Fallout - Brotherhood of Steel (USA)
-file: Sony/Sony PlayStation 2/Fallout - Brotherhood of Steel (USA)/Fallout - Brotherhood of Steel (USA).json
+file: Roms/Sony/Sony PlayStation 2/Fallout - Brotherhood of Steel (USA)/Fallout - Brotherhood of Steel (USA).json
 developer: Interplay Entertainment Corp.
 publisher: Interplay Entertainment Corp.
 genre: Action
@@ -1370,7 +1370,7 @@ x-playable: Yes
 
 
 game: Fatal Frame (USA)
-file: Sony/Sony PlayStation 2/Fatal Frame (USA)/Fatal Frame (USA).json
+file: Roms/Sony/Sony PlayStation 2/Fatal Frame (USA)/Fatal Frame (USA).json
 developer: Tecmo
 publisher: Sony
 genre: Adventure;Horror
@@ -1406,7 +1406,7 @@ x-playable: Yes
 
 
 game: Fatal Frame II - Crimson Butterfly (USA)
-file: Sony/Sony PlayStation 2/Fatal Frame II - Crimson Butterfly (USA)/Fatal Frame II - Crimson Butterfly (USA).json
+file: Roms/Sony/Sony PlayStation 2/Fatal Frame II - Crimson Butterfly (USA)/Fatal Frame II - Crimson Butterfly (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Adventure;Horror
@@ -1441,7 +1441,7 @@ x-playable: Yes
 
 
 game: Fatal Frame III - The Tormented (USA)
-file: Sony/Sony PlayStation 2/Fatal Frame III - The Tormented (USA)/Fatal Frame III - The Tormented (USA).json
+file: Roms/Sony/Sony PlayStation 2/Fatal Frame III - The Tormented (USA)/Fatal Frame III - The Tormented (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Adventure;Horror
@@ -1467,7 +1467,7 @@ x-playable: Yes
 
 
 game: Fear, The (Japan)
-file: Sony/Sony PlayStation 2/Fear, The (Japan)/Fear, The (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Fear, The (Japan)/Fear, The (Japan).json
 developer: Digital Frontier
 publisher: Enix Corporation
 genre: Action;Adventure;Horror
@@ -1484,7 +1484,7 @@ x-playable: Yes
 
 
 game: Flipnic - Ultimate Pinball (USA)
-file: Sony/Sony PlayStation 2/Flipnic - Ultimate Pinball (USA)/Flipnic - Ultimate Pinball (USA).json
+file: Roms/Sony/Sony PlayStation 2/Flipnic - Ultimate Pinball (USA)/Flipnic - Ultimate Pinball (USA).json
 developer: Sony
 publisher: Sony
 genre: Action
@@ -1506,7 +1506,7 @@ x-playable: Yes
 
 
 game: Galerians - Ash (USA)
-file: Sony/Sony PlayStation 2/Galerians - Ash (USA)/Galerians - Ash (USA).json
+file: Roms/Sony/Sony PlayStation 2/Galerians - Ash (USA)/Galerians - Ash (USA).json
 developer: Polygon Magic
 publisher: Sammy Studios
 genre: Horror
@@ -1527,7 +1527,7 @@ x-playable: Yes
 
 
 game: Gauntlet - Dark Legacy (USA)
-file: Sony/Sony PlayStation 2/Gauntlet - Dark Legacy (USA)/Gauntlet - Dark Legacy (USA).json
+file: Roms/Sony/Sony PlayStation 2/Gauntlet - Dark Legacy (USA)/Gauntlet - Dark Legacy (USA).json
 developer: Midway
 publisher: Midway
 genre: Action
@@ -1564,7 +1564,7 @@ x-playable: Yes
 
 
 game: Ghost Rider (USA)
-file: Sony/Sony PlayStation 2/Ghost Rider (USA)/Ghost Rider (USA).json
+file: Roms/Sony/Sony PlayStation 2/Ghost Rider (USA)/Ghost Rider (USA).json
 developer: Climax Solent
 publisher: 2K Games
 genre: Action
@@ -1584,7 +1584,7 @@ x-playable: Yes
 
 
 game: Ghost Vibration (Europe)
-file: Sony/Sony PlayStation 2/Ghost Vibration (Europe)/Ghost Vibration (Europe).json
+file: Roms/Sony/Sony PlayStation 2/Ghost Vibration (Europe)/Ghost Vibration (Europe).json
 developer: Artoon
 publisher: Eidos Interactive
 genre: Action
@@ -1603,7 +1603,7 @@ x-playable: Yes
 
 
 game: Ghosthunter (USA)
-file: Sony/Sony PlayStation 2/Ghosthunter (USA)/Ghosthunter (USA).json
+file: Roms/Sony/Sony PlayStation 2/Ghosthunter (USA)/Ghosthunter (USA).json
 developer: SCE
 publisher: SCE
 genre: Action;Horror
@@ -1633,7 +1633,7 @@ x-playable: Yes
 
 
 game: Global Defence Force (Europe)
-file: Sony/Sony PlayStation 2/Global Defence Force (Europe)/Global Defence Force (Europe).json
+file: Roms/Sony/Sony PlayStation 2/Global Defence Force (Europe)/Global Defence Force (Europe).json
 developer: Sandlot
 publisher: Essential Games
 genre: Action;Shooter
@@ -1654,7 +1654,7 @@ x-playable: Yes
 
 
 game: Goblin Commander - Unleash the Horde (USA)
-file: Sony/Sony PlayStation 2/Goblin Commander - Unleash the Horde (USA)/Goblin Commander - Unleash the Horde (USA).json
+file: Roms/Sony/Sony PlayStation 2/Goblin Commander - Unleash the Horde (USA)/Goblin Commander - Unleash the Horde (USA).json
 developer: Jaleco
 publisher: Jaleco
 genre: Puzzle;Strategy
@@ -1673,7 +1673,7 @@ x-playable: Yes
 
 
 game: God Hand (USA)
-file: Sony/Sony PlayStation 2/God Hand (USA)/God Hand (USA).json
+file: Roms/Sony/Sony PlayStation 2/God Hand (USA)/God Hand (USA).json
 developer: Clover Studio
 publisher: Capcom
 genre: Action;Beat 'em Up
@@ -1696,7 +1696,7 @@ x-playable: Yes
 
 
 game: Gradius V (USA)
-file: Sony/Sony PlayStation 2/Gradius V (USA)/Gradius V (USA).json
+file: Roms/Sony/Sony PlayStation 2/Gradius V (USA)/Gradius V (USA).json
 developer: Treasure
 publisher: Konami
 genre: Shooter
@@ -1716,7 +1716,7 @@ x-playable: Yes
 
 
 game: Grandia II (USA)
-file: Sony/Sony PlayStation 2/Grandia II (USA)/Grandia II (USA).json
+file: Roms/Sony/Sony PlayStation 2/Grandia II (USA)/Grandia II (USA).json
 developer: Game Arts
 publisher: Ubisoft
 genre: Role-Playing
@@ -1741,7 +1741,7 @@ x-playable: Yes
 
 
 game: Grandia III (USA)
-file: Sony/Sony PlayStation 2/Grandia III (USA)/Grandia III (USA).json
+file: Roms/Sony/Sony PlayStation 2/Grandia III (USA)/Grandia III (USA).json
 developer: Game Arts
 publisher: Square Enix
 genre: Role-Playing
@@ -1765,7 +1765,7 @@ x-playable: Yes
 
 
 game: GrimGrimoire (USA) (En,Ja)
-file: Sony/Sony PlayStation 2/GrimGrimoire (USA) (En,Ja)/GrimGrimoire (USA) (En,Ja).json
+file: Roms/Sony/Sony PlayStation 2/GrimGrimoire (USA) (En,Ja)/GrimGrimoire (USA) (En,Ja).json
 developer: VanillaWare
 publisher: NIS America
 genre: Role-Playing;Strategy
@@ -1785,7 +1785,7 @@ x-playable: Yes
 
 
 game: Growlanser - Heritage of War (USA)
-file: Sony/Sony PlayStation 2/Growlanser - Heritage of War (USA)/Growlanser - Heritage of War (USA).json
+file: Roms/Sony/Sony PlayStation 2/Growlanser - Heritage of War (USA)/Growlanser - Heritage of War (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -1806,7 +1806,7 @@ x-playable: Yes
 
 
 game: Growlanser Generations (USA)
-file: Sony/Sony PlayStation 2/Growlanser Generations (USA)/Growlanser Generations (USA).json
+file: Roms/Sony/Sony PlayStation 2/Growlanser Generations (USA)/Growlanser Generations (USA).json
 developer: Career Soft
 publisher: Working Designs
 genre: Role-Playing;Strategy
@@ -1830,7 +1830,7 @@ x-playable: Yes
 
 
 game: Half-Life (USA)
-file: Sony/Sony PlayStation 2/Half-Life (USA)/Half-Life (USA).json
+file: Roms/Sony/Sony PlayStation 2/Half-Life (USA)/Half-Life (USA).json
 developer: Valve Corporation
 publisher: Sierra
 genre: Shooter
@@ -1851,7 +1851,7 @@ x-playable: Yes
 
 
 game: Haunting Ground (Europe) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 2/Haunting Ground (Europe) (En,Fr,De,Es,It)/Haunting Ground (Europe) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 2/Haunting Ground (Europe) (En,Fr,De,Es,It)/Haunting Ground (Europe) (En,Fr,De,Es,It).json
 developer: Capcom
 publisher: CE
 genre: Horror
@@ -1874,7 +1874,7 @@ x-playable: Yes
 
 
 game: Heavenly Guardian (USA)
-file: Sony/Sony PlayStation 2/Heavenly Guardian (USA)/Heavenly Guardian (USA).json
+file: Roms/Sony/Sony PlayStation 2/Heavenly Guardian (USA)/Heavenly Guardian (USA).json
 developer: Starfish SD
 publisher: Starfish SD
 genre: Shooter
@@ -1896,7 +1896,7 @@ x-playable: Yes
 
 
 game: Holiday 2004 Demo Disc (USA) (PR-Mature)
-file: Sony/Sony PlayStation 2/Holiday 2004 Demo Disc (USA) (PR-Mature)/Holiday 2004 Demo Disc (USA) (PR-Mature).json
+file: Roms/Sony/Sony PlayStation 2/Holiday 2004 Demo Disc (USA) (PR-Mature)/Holiday 2004 Demo Disc (USA) (PR-Mature).json
 developer: Sony
 publisher: Sony
 genre: Action;Adventure
@@ -1922,7 +1922,7 @@ x-playable: Yes
 
 
 game: Hungry Ghosts (Japan)
-file: Sony/Sony PlayStation 2/Hungry Ghosts (Japan)/Hungry Ghosts (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Hungry Ghosts (Japan)/Hungry Ghosts (Japan).json
 developer: Deep Space, Inc.
 publisher: Sony Computer Entertainment Inc.
 genre: Action;Adventure;Horror
@@ -1960,7 +1960,7 @@ x-playable: Yes
 
 
 game: Indiana Jones and the Emperor's Tomb (USA)
-file: Sony/Sony PlayStation 2/Indiana Jones and the Emperor's Tomb (USA)/Indiana Jones and the Emperor's Tomb (USA).json
+file: Roms/Sony/Sony PlayStation 2/Indiana Jones and the Emperor's Tomb (USA)/Indiana Jones and the Emperor's Tomb (USA).json
 developer: The Collective, Inc
 publisher: LucasArts
 genre: Action
@@ -1983,7 +1983,7 @@ x-playable: Yes
 
 
 game: Intellivision Lives! (USA)
-file: Sony/Sony PlayStation 2/Intellivision Lives! (USA)/Intellivision Lives! (USA).json
+file: Roms/Sony/Sony PlayStation 2/Intellivision Lives! (USA)/Intellivision Lives! (USA).json
 developer: Realtime Associates, Inc.
 publisher: Crave Entertainment, Inc.
 genre: Action;Puzzle
@@ -2094,7 +2094,7 @@ x-playable: Yes
 
 
 game: Iron Man (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 2/Iron Man (USA) (En,Fr,Es)/Iron Man (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 2/Iron Man (USA) (En,Fr,Es)/Iron Man (USA) (En,Fr,Es).json
 developer: Artificial Mind & Movement
 publisher: Sega
 genre: Action
@@ -2119,7 +2119,7 @@ x-playable: Yes
 
 
 game: Jampack Demo Disc Volume 11 (USA)
-file: Sony/Sony PlayStation 2/Jampack Demo Disc Volume 11 (USA)/Jampack Demo Disc Volume 11 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Jampack Demo Disc Volume 11 (USA)/Jampack Demo Disc Volume 11 (USA).json
 developer: SCEA
 publisher: SCEA
 genre: Miscellaneous;Demo Disc
@@ -2138,7 +2138,7 @@ x-playable: Yes
 
 
 game: Jampack Demo Disc Volume 11 (USA) (Mature)
-file: Sony/Sony PlayStation 2/Jampack Demo Disc Volume 11 (USA) (Mature)/Jampack Demo Disc Volume 11 (USA) (Mature).json
+file: Roms/Sony/Sony PlayStation 2/Jampack Demo Disc Volume 11 (USA) (Mature)/Jampack Demo Disc Volume 11 (USA) (Mature).json
 developer: SCEA
 publisher: SCEA
 genre: Miscellaneous;Demo Disc
@@ -2157,7 +2157,7 @@ x-playable: Yes
 
 
 game: Jampack Winter 2003 (USA) (Mature)
-file: Sony/Sony PlayStation 2/Jampack Winter 2003 (USA) (Mature)/Jampack Winter 2003 (USA) (Mature).json
+file: Roms/Sony/Sony PlayStation 2/Jampack Winter 2003 (USA) (Mature)/Jampack Winter 2003 (USA) (Mature).json
 developer: Sony
 publisher: Sony
 genre: Action
@@ -2184,7 +2184,7 @@ x-playable: Yes
 
 
 game: Just Cause (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 2/Just Cause (USA) (En,Fr,Es)/Just Cause (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 2/Just Cause (USA) (En,Fr,Es)/Just Cause (USA) (En,Fr,Es).json
 developer: Avalanche Studios
 publisher: Eidos
 genre: Action;Sandbox;Shooter
@@ -2218,7 +2218,7 @@ x-playable: Yes
 
 
 game: Katamari Damacy (USA)
-file: Sony/Sony PlayStation 2/Katamari Damacy (USA)/Katamari Damacy (USA).json
+file: Roms/Sony/Sony PlayStation 2/Katamari Damacy (USA)/Katamari Damacy (USA).json
 developer: Namco
 publisher: Namco
 genre: Action;Puzzle
@@ -2256,7 +2256,7 @@ x-playable: Yes
 
 
 game: Kuon (Japan)
-file: Sony/Sony PlayStation 2/Kuon (Japan)/Kuon (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Kuon (Japan)/Kuon (Japan).json
 developer: FromSoftware, Inc.
 publisher: FromSoftware, Inc.
 genre: Action;Horror
@@ -2286,7 +2286,7 @@ x-playable: Yes
 
 
 game: Kyoufu Shinbun Kaiki! Shinrei File (Japan)
-file: Sony/Sony PlayStation 2/Kyoufu Shinbun Kaiki! Shinrei File (Japan)/Kyoufu Shinbun Kaiki! Shinrei File (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Kyoufu Shinbun Kaiki! Shinrei File (Japan)/Kyoufu Shinbun Kaiki! Shinrei File (Japan).json
 developer: KCEJ
 publisher: Konami
 genre: Adventure;General
@@ -2301,7 +2301,7 @@ x-playable: Yes
 
 
 game: LEGO Star Wars - The Video Game (USA) (v2.00)
-file: Sony/Sony PlayStation 2/LEGO Star Wars - The Video Game (USA) (v2.00)/LEGO Star Wars - The Video Game (USA) (v2.00).json
+file: Roms/Sony/Sony PlayStation 2/LEGO Star Wars - The Video Game (USA) (v2.00)/LEGO Star Wars - The Video Game (USA) (v2.00).json
 developer: Traveller's Tales
 publisher: Eidos Interactive
 genre: Action
@@ -2335,7 +2335,7 @@ x-playable: Yes
 
 
 game: La Pucelle - Tactics (USA)
-file: Sony/Sony PlayStation 2/La Pucelle - Tactics (USA)/La Pucelle - Tactics (USA).json
+file: Roms/Sony/Sony PlayStation 2/La Pucelle - Tactics (USA)/La Pucelle - Tactics (USA).json
 developer: NIS
 publisher: Mastiff
 genre: Role-Playing;Strategy
@@ -2356,7 +2356,7 @@ x-playable: Yes
 
 
 game: Legacy of Kain - Defiance (USA)
-file: Sony/Sony PlayStation 2/Legacy of Kain - Defiance (USA)/Legacy of Kain - Defiance (USA).json
+file: Roms/Sony/Sony PlayStation 2/Legacy of Kain - Defiance (USA)/Legacy of Kain - Defiance (USA).json
 developer: Crystal Dynamics
 publisher: Eidos
 genre: Action
@@ -2382,7 +2382,7 @@ x-playable: Yes
 
 
 game: Legacy of Kain - Soul Reaver 2 (USA)
-file: Sony/Sony PlayStation 2/Legacy of Kain - Soul Reaver 2 (USA)/Legacy of Kain - Soul Reaver 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Legacy of Kain - Soul Reaver 2 (USA)/Legacy of Kain - Soul Reaver 2 (USA).json
 developer: Crystal Dynamics
 publisher: Eidos
 genre: Action;Adventure
@@ -2414,7 +2414,7 @@ x-playable: Yes
 
 
 game: Life Line (USA)
-file: Sony/Sony PlayStation 2/Life Line (USA)/Life Line (USA).json
+file: Roms/Sony/Sony PlayStation 2/Life Line (USA)/Life Line (USA).json
 developer: SCEJ
 publisher: Konami
 genre: Action;Adventure;Role-Playing;Strategy
@@ -2434,7 +2434,7 @@ x-playable: Yes
 
 
 game: MDK2 - Armageddon (USA)
-file: Sony/Sony PlayStation 2/MDK2 - Armageddon (USA)/MDK2 - Armageddon (USA).json
+file: Roms/Sony/Sony PlayStation 2/MDK2 - Armageddon (USA)/MDK2 - Armageddon (USA).json
 developer: BioWare
 publisher: Interplay
 genre: Action;Platform;Shooter
@@ -2460,7 +2460,7 @@ x-playable: Yes
 
 
 game: Manhunt (USA)
-file: Sony/Sony PlayStation 2/Manhunt (USA)/Manhunt (USA).json
+file: Roms/Sony/Sony PlayStation 2/Manhunt (USA)/Manhunt (USA).json
 developer: Rockstar
 publisher: Rockstar
 genre: Action;Horror;Stealth
@@ -2479,7 +2479,7 @@ x-playable: Yes
 
 
 game: Manhunt 2 (USA)
-file: Sony/Sony PlayStation 2/Manhunt 2 (USA)/Manhunt 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Manhunt 2 (USA)/Manhunt 2 (USA).json
 developer: Rockstar
 publisher: Rockstar
 genre: Action
@@ -2502,7 +2502,7 @@ x-playable: Yes
 
 
 game: Marvel - Ultimate Alliance (USA)
-file: Sony/Sony PlayStation 2/Marvel - Ultimate Alliance (USA)/Marvel - Ultimate Alliance (USA).json
+file: Roms/Sony/Sony PlayStation 2/Marvel - Ultimate Alliance (USA)/Marvel - Ultimate Alliance (USA).json
 developer: Raven
 publisher: Activision
 genre: Action;Role-Playing
@@ -2537,7 +2537,7 @@ x-playable: Yes
 
 
 game: Matrix, The - Path of Neo (USA)
-file: Sony/Sony PlayStation 2/Matrix, The - Path of Neo (USA)/Matrix, The - Path of Neo (USA).json
+file: Roms/Sony/Sony PlayStation 2/Matrix, The - Path of Neo (USA)/Matrix, The - Path of Neo (USA).json
 developer: Shiny Entertainment
 publisher: Atari
 genre: Action;Adventure
@@ -2557,7 +2557,7 @@ x-playable: Yes
 
 
 game: Max Payne (USA)
-file: Sony/Sony PlayStation 2/Max Payne (USA)/Max Payne (USA).json
+file: Roms/Sony/Sony PlayStation 2/Max Payne (USA)/Max Payne (USA).json
 developer: Remedy
 publisher: Rockstar
 genre: Shooter
@@ -2581,7 +2581,7 @@ x-playable: Yes
 
 
 game: Max Payne 2 - The Fall of Max Payne (USA)
-file: Sony/Sony PlayStation 2/Max Payne 2 - The Fall of Max Payne (USA)/Max Payne 2 - The Fall of Max Payne (USA).json
+file: Roms/Sony/Sony PlayStation 2/Max Payne 2 - The Fall of Max Payne (USA)/Max Payne 2 - The Fall of Max Payne (USA).json
 developer: Remedy Entertainment
 publisher: Rockstar Games
 genre: Action;Shooter
@@ -2604,7 +2604,7 @@ x-playable: Yes
 
 
 game: Mega Man Anniversary Collection (USA)
-file: Sony/Sony PlayStation 2/Mega Man Anniversary Collection (USA)/Mega Man Anniversary Collection (USA).json
+file: Roms/Sony/Sony PlayStation 2/Mega Man Anniversary Collection (USA)/Mega Man Anniversary Collection (USA).json
 developer: Atomic Planet Entertainment
 publisher: Capcom
 genre: Action;Platform
@@ -2625,7 +2625,7 @@ x-playable: Yes
 
 
 game: Mega Man X Collection (USA)
-file: Sony/Sony PlayStation 2/Mega Man X Collection (USA)/Mega Man X Collection (USA).json
+file: Roms/Sony/Sony PlayStation 2/Mega Man X Collection (USA)/Mega Man X Collection (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -2651,7 +2651,7 @@ x-playable: Yes
 
 
 game: Mega Man X7 (USA)
-file: Sony/Sony PlayStation 2/Mega Man X7 (USA)/Mega Man X7 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Mega Man X7 (USA)/Mega Man X7 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -2684,7 +2684,7 @@ x-playable: Yes
 
 
 game: Mega Man X8 (USA)
-file: Sony/Sony PlayStation 2/Mega Man X8 (USA)/Mega Man X8 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Mega Man X8 (USA)/Mega Man X8 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -2713,7 +2713,7 @@ x-playable: Yes
 
 
 game: Midway Arcade Treasures (USA)
-file: Sony/Sony PlayStation 2/Midway Arcade Treasures (USA)/Midway Arcade Treasures (USA).json
+file: Roms/Sony/Sony PlayStation 2/Midway Arcade Treasures (USA)/Midway Arcade Treasures (USA).json
 developer: Midway
 publisher: Midway
 genre: Action
@@ -2753,7 +2753,7 @@ x-playable: Yes
 
 
 game: Midway Arcade Treasures 2 (USA)
-file: Sony/Sony PlayStation 2/Midway Arcade Treasures 2 (USA)/Midway Arcade Treasures 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Midway Arcade Treasures 2 (USA)/Midway Arcade Treasures 2 (USA).json
 developer: Digital Eclipse Software, Inc.
 publisher: Midway Home Entertainment, Inc.
 genre: Action;Fighting;Puzzle;Shooter;Sports
@@ -2777,7 +2777,7 @@ x-playable: Yes
 
 
 game: Midway Arcade Treasures 3 (USA)
-file: Sony/Sony PlayStation 2/Midway Arcade Treasures 3 (USA)/Midway Arcade Treasures 3 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Midway Arcade Treasures 3 (USA)/Midway Arcade Treasures 3 (USA).json
 developer: Digital Eclipse Software, Inc.
 publisher: Midway Home Entertainment, Inc.
 genre: Racing
@@ -2796,7 +2796,7 @@ x-playable: Yes
 
 
 game: Minority Report - Everybody Runs (USA)
-file: Sony/Sony PlayStation 2/Minority Report - Everybody Runs (USA)/Minority Report - Everybody Runs (USA).json
+file: Roms/Sony/Sony PlayStation 2/Minority Report - Everybody Runs (USA)/Minority Report - Everybody Runs (USA).json
 developer: Treyarch
 publisher: Activision
 genre: Action
@@ -2814,7 +2814,7 @@ x-playable: Yes
 
 
 game: Namco x Capcom (Japan)
-file: Sony/Sony PlayStation 2/Namco x Capcom (Japan)/Namco x Capcom (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Namco x Capcom (Japan)/Namco x Capcom (Japan).json
 developer: Monolith Soft
 publisher: Namco
 genre: Role-Playing
@@ -2829,7 +2829,7 @@ x-playable: Yes
 
 
 game: Network Adaptor Start-Up Disc (USA) (v1.01)
-file: Sony/Sony PlayStation 2/Network Adaptor Start-Up Disc (USA) (v1.01)/Network Adaptor Start-Up Disc (USA) (v1.01).json
+file: Roms/Sony/Sony PlayStation 2/Network Adaptor Start-Up Disc (USA) (v1.01)/Network Adaptor Start-Up Disc (USA) (v1.01).json
 developer: Sony Computer Entertainment
 publisher: Sony Computer Entertainment
 genre: Utility
@@ -2851,7 +2851,7 @@ x-playable: Yes
 
 
 game: Nightmare of Druaga, The - Fushigino Dungeon (USA)
-file: Sony/Sony PlayStation 2/Nightmare of Druaga, The - Fushigino Dungeon (USA)/Nightmare of Druaga, The - Fushigino Dungeon (USA).json
+file: Roms/Sony/Sony PlayStation 2/Nightmare of Druaga, The - Fushigino Dungeon (USA)/Nightmare of Druaga, The - Fushigino Dungeon (USA).json
 developer: Arika Co., Ltd., Chunsoft Co., Ltd.
 publisher: Namco
 genre: Adventure;Strategy
@@ -2878,7 +2878,7 @@ x-playable: Yes
 
 
 game: ObsCure (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 2/ObsCure (USA) (En,Fr,Es)/ObsCure (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 2/ObsCure (USA) (En,Fr,Es)/ObsCure (USA) (En,Fr,Es).json
 developer: Hydravision Entertainment
 publisher: MC2-Microïds
 genre: Action;Horror
@@ -2917,7 +2917,7 @@ x-playable: Yes
 
 
 game: ObsCure - The Aftermath (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 2/ObsCure - The Aftermath (USA) (En,Fr,Es)/ObsCure - The Aftermath (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 2/ObsCure - The Aftermath (USA) (En,Fr,Es)/ObsCure - The Aftermath (USA) (En,Fr,Es).json
 developer: Hydravision Entertainment
 publisher: Playlogic International N.V.
 genre: Action;Horror
@@ -2950,7 +2950,7 @@ x-playable: Yes
 
 
 game: Odin Sphere (USA)
-file: Sony/Sony PlayStation 2/Odin Sphere (USA)/Odin Sphere (USA).json
+file: Roms/Sony/Sony PlayStation 2/Odin Sphere (USA)/Odin Sphere (USA).json
 developer: VanillaWare
 publisher: Atlus
 genre: Action;Role-Playing
@@ -2975,7 +2975,7 @@ x-playable: Yes
 
 
 game: Oni (USA)
-file: Sony/Sony PlayStation 2/Oni (USA)/Oni (USA).json
+file: Roms/Sony/Sony PlayStation 2/Oni (USA)/Oni (USA).json
 developer: Bungie Studios
 publisher: Rockstar Games
 genre: Adventure;Fighting;Shooter
@@ -3012,7 +3012,7 @@ x-playable: Yes
 
 
 game: Online Start-Up Disc 4.0 - Broadband Only (USA)
-file: Sony/Sony PlayStation 2/Online Start-Up Disc 4.0 - Broadband Only (USA)/Online Start-Up Disc 4.0 - Broadband Only (USA).json
+file: Roms/Sony/Sony PlayStation 2/Online Start-Up Disc 4.0 - Broadband Only (USA)/Online Start-Up Disc 4.0 - Broadband Only (USA).json
 developer: Sony Computer Entertainment
 publisher: Sony Computer Entertainment
 genre: Utility
@@ -3028,7 +3028,7 @@ x-playable: Yes
 
 
 game: Operative, The - No One Lives Forever (USA)
-file: Sony/Sony PlayStation 2/Operative, The - No One Lives Forever (USA)/Operative, The - No One Lives Forever (USA).json
+file: Roms/Sony/Sony PlayStation 2/Operative, The - No One Lives Forever (USA)/Operative, The - No One Lives Forever (USA).json
 developer: Monolith
 publisher: Sierra
 genre: Shooter
@@ -3050,7 +3050,7 @@ x-playable: Yes
 
 
 game: Pac-Man World 2 (USA) (v2.00)
-file: Sony/Sony PlayStation 2/Pac-Man World 2 (USA) (v2.00)/Pac-Man World 2 (USA) (v2.00).json
+file: Roms/Sony/Sony PlayStation 2/Pac-Man World 2 (USA) (v2.00)/Pac-Man World 2 (USA) (v2.00).json
 developer: Namco
 publisher: Namco
 genre: Action;Adventure
@@ -3075,7 +3075,7 @@ x-playable: Yes
 
 
 game: Phase Paradox (Japan)
-file: Sony/Sony PlayStation 2/Phase Paradox (Japan)/Phase Paradox (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Phase Paradox (Japan)/Phase Paradox (Japan).json
 developer: Sony Computer Entertainment
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -3093,7 +3093,7 @@ x-playable: Yes
 
 
 game: Pinball Hall of Fame - The Gottlieb Collection (USA)
-file: Sony/Sony PlayStation 2/Pinball Hall of Fame - The Gottlieb Collection (USA)/Pinball Hall of Fame - The Gottlieb Collection (USA).json
+file: Roms/Sony/Sony PlayStation 2/Pinball Hall of Fame - The Gottlieb Collection (USA)/Pinball Hall of Fame - The Gottlieb Collection (USA).json
 developer: FarSight Studios
 publisher: Crave Entertainment
 genre: Action;Pinball
@@ -3114,7 +3114,7 @@ x-playable: Yes
 
 
 game: PlayStation 2 Online Start-Up Disc 4.0 (USA)
-file: Sony/Sony PlayStation 2/PlayStation 2 Online Start-Up Disc 4.0 (USA)/PlayStation 2 Online Start-Up Disc 4.0 (USA).json
+file: Roms/Sony/Sony PlayStation 2/PlayStation 2 Online Start-Up Disc 4.0 (USA)/PlayStation 2 Online Start-Up Disc 4.0 (USA).json
 developer: SCEA
 publisher: SCEA
 genre: Tool
@@ -3130,7 +3130,7 @@ x-playable: Yes
 
 
 game: PlayStation Underground Jampack - Winter 2001 (USA)
-file: Sony/Sony PlayStation 2/PlayStation Underground Jampack - Winter 2001 (USA)/PlayStation Underground Jampack - Winter 2001 (USA).json
+file: Roms/Sony/Sony PlayStation 2/PlayStation Underground Jampack - Winter 2001 (USA)/PlayStation Underground Jampack - Winter 2001 (USA).json
 developer: SCEA
 publisher: SCEA
 genre: Miscellaneous;Demo Disc
@@ -3170,7 +3170,7 @@ x-playable: Yes
 
 
 game: Primal (USA) (Demo)
-file: Sony/Sony PlayStation 2/Primal (USA) (Demo)/Primal (USA) (Demo).json
+file: Roms/Sony/Sony PlayStation 2/Primal (USA) (Demo)/Primal (USA) (Demo).json
 developer: SCE Studio Cambridge
 publisher: SCEA
 genre: Action Adventure;General
@@ -3192,7 +3192,7 @@ x-playable: Yes
 
 
 game: Project - Snowblind (USA)
-file: Sony/Sony PlayStation 2/Project - Snowblind (USA)/Project - Snowblind (USA).json
+file: Roms/Sony/Sony PlayStation 2/Project - Snowblind (USA)/Project - Snowblind (USA).json
 developer: Crystal Dynamics
 publisher: Eidos
 genre: Shooter
@@ -3220,7 +3220,7 @@ x-playable: Yes
 
 
 game: Psychonauts (USA)
-file: Sony/Sony PlayStation 2/Psychonauts (USA)/Psychonauts (USA).json
+file: Roms/Sony/Sony PlayStation 2/Psychonauts (USA)/Psychonauts (USA).json
 developer: Double Fine
 publisher: Majesco
 genre: Platform
@@ -3242,7 +3242,7 @@ x-playable: Yes
 
 
 game: Punisher, The (USA)
-file: Sony/Sony PlayStation 2/Punisher, The (USA)/Punisher, The (USA).json
+file: Roms/Sony/Sony PlayStation 2/Punisher, The (USA)/Punisher, The (USA).json
 developer: Volition
 publisher: THQ
 genre: Action
@@ -3267,7 +3267,7 @@ x-playable: Yes
 
 
 game: Puzzle Quest - Challenge of the Warlords (USA)
-file: Sony/Sony PlayStation 2/Puzzle Quest - Challenge of the Warlords (USA)/Puzzle Quest - Challenge of the Warlords (USA).json
+file: Roms/Sony/Sony PlayStation 2/Puzzle Quest - Challenge of the Warlords (USA)/Puzzle Quest - Challenge of the Warlords (USA).json
 developer: Infinite Interactive
 publisher: D3 Publisher Inc.
 genre: Role-Playing;Puzzle
@@ -3300,7 +3300,7 @@ x-playable: Yes
 
 
 game: Quake III - Revolution (USA)
-file: Sony/Sony PlayStation 2/Quake III - Revolution (USA)/Quake III - Revolution (USA).json
+file: Roms/Sony/Sony PlayStation 2/Quake III - Revolution (USA)/Quake III - Revolution (USA).json
 developer: Bullfrog Productions
 publisher: Electronic Arts
 genre: Shooter
@@ -3329,7 +3329,7 @@ x-playable: Yes
 
 
 game: RLH - Run Like Hell (USA)
-file: Sony/Sony PlayStation 2/RLH - Run Like Hell (USA)/RLH - Run Like Hell (USA).json
+file: Roms/Sony/Sony PlayStation 2/RLH - Run Like Hell (USA)/RLH - Run Like Hell (USA).json
 developer: Digital Mayhem
 publisher: Interplay Entertainment Corp.
 genre: Action
@@ -3363,7 +3363,7 @@ x-playable: Yes
 
 
 game: RPG Maker 3 (USA)
-file: Sony/Sony PlayStation 2/RPG Maker 3 (USA)/RPG Maker 3 (USA).json
+file: Roms/Sony/Sony PlayStation 2/RPG Maker 3 (USA)/RPG Maker 3 (USA).json
 developer: Runtime
 publisher: Agetec
 genre: Construction and Management Simulation;Role-Playing
@@ -3382,7 +3382,7 @@ x-playable: Yes
 
 
 game: RPG Maker II (USA)
-file: Sony/Sony PlayStation 2/RPG Maker II (USA)/RPG Maker II (USA).json
+file: Roms/Sony/Sony PlayStation 2/RPG Maker II (USA)/RPG Maker II (USA).json
 developer: Codemasters
 publisher: Codemasters
 genre: Construction and Management Simulation;Racing;Role-Playing
@@ -3407,7 +3407,7 @@ x-playable: Yes
 
 
 game: Radiata Stories (USA)
-file: Sony/Sony PlayStation 2/Radiata Stories (USA)/Radiata Stories (USA).json
+file: Roms/Sony/Sony PlayStation 2/Radiata Stories (USA)/Radiata Stories (USA).json
 developer: tri-Ace
 publisher: Square Enix
 genre: Action;Role-Playing
@@ -3428,7 +3428,7 @@ x-playable: Yes
 
 
 game: Red Faction (USA) (v1.01)
-file: Sony/Sony PlayStation 2/Red Faction (USA) (v1.01)/Red Faction (USA) (v1.01).json
+file: Roms/Sony/Sony PlayStation 2/Red Faction (USA) (v1.01)/Red Faction (USA) (v1.01).json
 developer: Volition
 publisher: THQ
 genre: Shooter
@@ -3455,7 +3455,7 @@ x-playable: Yes
 
 
 game: Red Faction II (USA)
-file: Sony/Sony PlayStation 2/Red Faction II (USA)/Red Faction II (USA).json
+file: Roms/Sony/Sony PlayStation 2/Red Faction II (USA)/Red Faction II (USA).json
 developer: Volition Inc.
 publisher: THQ
 genre: Action;Shooter;First-Person;Arcade
@@ -3477,7 +3477,7 @@ x-playable: Yes
 
 
 game: Red Ninja - End of Honor (USA)
-file: Sony/Sony PlayStation 2/Red Ninja - End of Honor (USA)/Red Ninja - End of Honor (USA).json
+file: Roms/Sony/Sony PlayStation 2/Red Ninja - End of Honor (USA)/Red Ninja - End of Honor (USA).json
 developer: Opus
 publisher: VU Games
 genre: Action;Adventure;Stealth
@@ -3499,7 +3499,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Code - Veronica X (USA)
-file: Sony/Sony PlayStation 2/Resident Evil - Code - Veronica X (USA)/Resident Evil - Code - Veronica X (USA).json
+file: Roms/Sony/Sony PlayStation 2/Resident Evil - Code - Veronica X (USA)/Resident Evil - Code - Veronica X (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror
@@ -3523,7 +3523,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Dead Aim (USA)
-file: Sony/Sony PlayStation 2/Resident Evil - Dead Aim (USA)/Resident Evil - Dead Aim (USA).json
+file: Roms/Sony/Sony PlayStation 2/Resident Evil - Dead Aim (USA)/Resident Evil - Dead Aim (USA).json
 developer: Cavia
 publisher: Capcom
 genre: Horror
@@ -3549,7 +3549,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Outbreak (USA) (v2.00)
-file: Sony/Sony PlayStation 2/Resident Evil - Outbreak (USA) (v2.00)/Resident Evil - Outbreak (USA) (v2.00).json
+file: Roms/Sony/Sony PlayStation 2/Resident Evil - Outbreak (USA) (v2.00)/Resident Evil - Outbreak (USA) (v2.00).json
 developer: Capcom Production Studio 1
 publisher: Capcom
 genre: Horror;Shooter
@@ -3575,7 +3575,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Outbreak - File 2 (USA)
-file: Sony/Sony PlayStation 2/Resident Evil - Outbreak - File 2 (USA)/Resident Evil - Outbreak - File 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Resident Evil - Outbreak - File 2 (USA)/Resident Evil - Outbreak - File 2 (USA).json
 developer: Capcom Production Studio 1
 publisher: Capcom
 genre: Action;Horror;Puzzle
@@ -3609,7 +3609,7 @@ x-playable: Yes
 
 
 game: Resident Evil 4 (USA)
-file: Sony/Sony PlayStation 2/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
 developer: Capcom Production Studio 4
 publisher: Capcom
 genre: Horror;Shooter
@@ -3638,7 +3638,7 @@ x-playable: Yes
 
 
 game: Rockman - Power Battle Fighters (Japan)
-file: Sony/Sony PlayStation 2/Rockman - Power Battle Fighters (Japan)/Rockman - Power Battle Fighters (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Rockman - Power Battle Fighters (Japan)/Rockman - Power Battle Fighters (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -3661,7 +3661,7 @@ x-playable: Yes
 
 
 game: Rule of Rose (USA)
-file: Sony/Sony PlayStation 2/Rule of Rose (USA)/Rule of Rose (USA).json
+file: Roms/Sony/Sony PlayStation 2/Rule of Rose (USA)/Rule of Rose (USA).json
 developer: Punchline
 publisher: Atlus
 genre: Action;Adventure;Horror;Puzzle
@@ -3685,7 +3685,7 @@ x-playable: Yes
 
 
 game: Rygar - The Legendary Adventure (USA)
-file: Sony/Sony PlayStation 2/Rygar - The Legendary Adventure (USA)/Rygar - The Legendary Adventure (USA).json
+file: Roms/Sony/Sony PlayStation 2/Rygar - The Legendary Adventure (USA)/Rygar - The Legendary Adventure (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action;Adventure
@@ -3712,7 +3712,7 @@ x-playable: Yes
 
 
 game: SOCOM - U.S. Navy SEALs (USA) (v3.00)
-file: Sony/Sony PlayStation 2/SOCOM - U.S. Navy SEALs (USA) (v3.00)/SOCOM - U.S. Navy SEALs (USA) (v3.00).json
+file: Roms/Sony/Sony PlayStation 2/SOCOM - U.S. Navy SEALs (USA) (v3.00)/SOCOM - U.S. Navy SEALs (USA) (v3.00).json
 developer: Zipper
 publisher: Sony
 genre: Shooter
@@ -3744,7 +3744,7 @@ x-playable: Yes
 
 
 game: Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1 (Japan)
-file: Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1 (Japan)/Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1 (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1 (Japan)/Sega Ages 2500 Series Vol. 1 - Phantasy Star Generation-1 (Japan).json
 developer: Sega
 publisher: 3D-Ages
 genre: Role-Playing
@@ -3763,7 +3763,7 @@ x-playable: Yes
 
 
 game: Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan)
-file: Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan)/Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan)/Sega Ages 2500 Series Vol. 17 - Phantasy Star Generation-2 (Japan).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -3784,7 +3784,7 @@ x-playable: Yes
 
 
 game: Sega Ages 2500 Series Vol. 25 - Gunstar Heroes - Treasure Box (Japan)
-file: Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 25 - Gunstar Heroes - Treasure Box (Japan)/Sega Ages 2500 Series Vol. 25 - Gunstar Heroes - Treasure Box (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 25 - Gunstar Heroes - Treasure Box (Japan)/Sega Ages 2500 Series Vol. 25 - Gunstar Heroes - Treasure Box (Japan).json
 developer: M2 Co.,LTD
 publisher: Sega
 genre: Miscellaneous;Compilation
@@ -3820,7 +3820,7 @@ x-playable: Yes
 
 
 game: Sega Ages 2500 Series Vol. 26 - Dynamite Deka (Japan)
-file: Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 26 - Dynamite Deka (Japan)/Sega Ages 2500 Series Vol. 26 - Dynamite Deka (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 26 - Dynamite Deka (Japan)/Sega Ages 2500 Series Vol. 26 - Dynamite Deka (Japan).json
 developer: Sega AM1
 publisher: Sega Corporation
 genre: Action;Beat 'em Up
@@ -3839,7 +3839,7 @@ x-playable: Yes
 
 
 game: Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan)
-file: Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan)/Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan)/Sega Ages 2500 Series Vol. 32 - Phantasy Star Complete Collection (Japan).json
 developer: M2 Co.,LTD
 publisher: Sega
 genre: Role-Playing
@@ -3860,7 +3860,7 @@ x-playable: Yes
 
 
 game: Sega Ages 2500 Series Vol. 33 - Fantasy Zone Complete Collection (Japan)
-file: Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 33 - Fantasy Zone Complete Collection (Japan)/Sega Ages 2500 Series Vol. 33 - Fantasy Zone Complete Collection (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 33 - Fantasy Zone Complete Collection (Japan)/Sega Ages 2500 Series Vol. 33 - Fantasy Zone Complete Collection (Japan).json
 developer: M2 Co.,LTD
 publisher: Sega
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -3905,7 +3905,7 @@ x-playable: Yes
 
 
 game: Sega Ages 2500 Series Vol. 9 - Gain Ground (Japan)
-file: Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 9 - Gain Ground (Japan)/Sega Ages 2500 Series Vol. 9 - Gain Ground (Japan).json
+file: Roms/Sony/Sony PlayStation 2/Sega Ages 2500 Series Vol. 9 - Gain Ground (Japan)/Sega Ages 2500 Series Vol. 9 - Gain Ground (Japan).json
 developer: Warashi
 publisher: 3D-Ages
 genre: Action
@@ -3926,7 +3926,7 @@ x-playable: Yes
 
 
 game: Sega Classics Collection (USA)
-file: Sony/Sony PlayStation 2/Sega Classics Collection (USA)/Sega Classics Collection (USA).json
+file: Roms/Sony/Sony PlayStation 2/Sega Classics Collection (USA)/Sega Classics Collection (USA).json
 developer: Sega of America
 publisher: SEGA of America, Inc.
 genre: Action;Racing;Strategy
@@ -3953,7 +3953,7 @@ x-playable: Yes
 
 
 game: Sega Genesis Collection (USA)
-file: Sony/Sony PlayStation 2/Sega Genesis Collection (USA)/Sega Genesis Collection (USA).json
+file: Roms/Sony/Sony PlayStation 2/Sega Genesis Collection (USA)/Sega Genesis Collection (USA).json
 developer: Digital Eclipse Software
 publisher: Sega
 genre: Action;Platform;Puzzle;Role-Playing
@@ -4001,7 +4001,7 @@ x-playable: Yes
 
 
 game: Shadow Hearts (USA)
-file: Sony/Sony PlayStation 2/Shadow Hearts (USA)/Shadow Hearts (USA).json
+file: Roms/Sony/Sony PlayStation 2/Shadow Hearts (USA)/Shadow Hearts (USA).json
 developer: Sacnoth
 publisher: Midway
 genre: Role-Playing
@@ -4038,7 +4038,7 @@ x-playable: Yes
 
 
 game: Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army (USA)
-file: Sony/Sony PlayStation 2/Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army (USA)/Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army (USA).json
+file: Roms/Sony/Sony PlayStation 2/Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army (USA)/Shin Megami Tensei - Devil Summoner - Raidou Kuzunoha vs. The Soulless Army (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -4057,7 +4057,7 @@ x-playable: Yes
 
 
 game: Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA)
-file: Sony/Sony PlayStation 2/Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA)/Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA).json
+file: Roms/Sony/Sony PlayStation 2/Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA)/Shin Megami Tensei - Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -4080,7 +4080,7 @@ x-playable: Yes
 
 
 game: Shin Megami Tensei - Digital Devil Saga (USA)
-file: Sony/Sony PlayStation 2/Shin Megami Tensei - Digital Devil Saga (USA)/Shin Megami Tensei - Digital Devil Saga (USA).json
+file: Roms/Sony/Sony PlayStation 2/Shin Megami Tensei - Digital Devil Saga (USA)/Shin Megami Tensei - Digital Devil Saga (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -4101,7 +4101,7 @@ x-playable: Yes
 
 
 game: Shin Megami Tensei - Digital Devil Saga 2 (USA)
-file: Sony/Sony PlayStation 2/Shin Megami Tensei - Digital Devil Saga 2 (USA)/Shin Megami Tensei - Digital Devil Saga 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Shin Megami Tensei - Digital Devil Saga 2 (USA)/Shin Megami Tensei - Digital Devil Saga 2 (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -4135,7 +4135,7 @@ x-playable: Yes
 
 
 game: Shining Force Neo (USA)
-file: Sony/Sony PlayStation 2/Shining Force Neo (USA)/Shining Force Neo (USA).json
+file: Roms/Sony/Sony PlayStation 2/Shining Force Neo (USA)/Shining Force Neo (USA).json
 developer: Neverland
 publisher: Sega
 genre: Action;Role-Playing
@@ -4155,7 +4155,7 @@ x-playable: Yes
 
 
 game: Shining Tears (USA)
-file: Sony/Sony PlayStation 2/Shining Tears (USA)/Shining Tears (USA).json
+file: Roms/Sony/Sony PlayStation 2/Shining Tears (USA)/Shining Tears (USA).json
 developer: Nex Entertainment
 publisher: Sega
 genre: Action
@@ -4183,7 +4183,7 @@ x-playable: Yes
 
 
 game: Silent Hill - Shattered Memories (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 2/Silent Hill - Shattered Memories (USA) (En,Fr,Es)/Silent Hill - Shattered Memories (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 2/Silent Hill - Shattered Memories (USA) (En,Fr,Es)/Silent Hill - Shattered Memories (USA) (En,Fr,Es).json
 developer: Climax Studios Ltd.
 publisher: Konami
 genre: Adventure;Horror
@@ -4209,7 +4209,7 @@ x-playable: Yes
 
 
 game: Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)
-file: Sony/Sony PlayStation 2/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).json
+file: Roms/Sony/Sony PlayStation 2/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01)/Silent Hill 2 (USA) (En,Ja,Fr,De,Es,It) (v2.01).json
 developer: Team Silent
 publisher: Konami
 genre: Adventure;Horror
@@ -4239,7 +4239,7 @@ x-playable: Yes
 
 
 game: Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)
-file: Sony/Sony PlayStation 2/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko).json
+file: Roms/Sony/Sony PlayStation 2/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko)/Silent Hill 3 (USA) (En,Ja,Fr,De,Es,It,Ko).json
 developer: Team Silent
 publisher: Konami
 genre: Adventure;Horror
@@ -4260,7 +4260,7 @@ x-playable: Yes
 
 
 game: Silent Hill 4 - The Room (USA) (En,Ja)
-file: Sony/Sony PlayStation 2/Silent Hill 4 - The Room (USA) (En,Ja)/Silent Hill 4 - The Room (USA) (En,Ja).json
+file: Roms/Sony/Sony PlayStation 2/Silent Hill 4 - The Room (USA) (En,Ja)/Silent Hill 4 - The Room (USA) (En,Ja).json
 developer: Team Silent
 publisher: Konami
 genre: Adventure;Horror
@@ -4284,7 +4284,7 @@ x-playable: Yes
 
 
 game: Silent Hill Origins (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 2/Silent Hill Origins (USA) (En,Fr,De,Es,It)/Silent Hill Origins (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 2/Silent Hill Origins (USA) (En,Fr,De,Es,It)/Silent Hill Origins (USA) (En,Fr,De,Es,It).json
 developer: Climax Studios
 publisher: Konami
 genre: Adventure;Horror
@@ -4306,7 +4306,7 @@ x-playable: Yes
 
 
 game: Sims, The (USA)
-file: Sony/Sony PlayStation 2/Sims, The (USA)/Sims, The (USA).json
+file: Roms/Sony/Sony PlayStation 2/Sims, The (USA)/Sims, The (USA).json
 developer: Maxis
 publisher: EA
 genre: Life Simulation
@@ -4347,7 +4347,7 @@ x-playable: Yes
 
 
 game: Siren (USA)
-file: Sony/Sony PlayStation 2/Siren (USA)/Siren (USA).json
+file: Roms/Sony/Sony PlayStation 2/Siren (USA)/Siren (USA).json
 developer: SCE Japan Studio
 publisher: Sony
 genre: Action;Horror
@@ -4373,7 +4373,7 @@ x-playable: Yes
 
 
 game: Soldier of Fortune - Gold Edition (USA)
-file: Sony/Sony PlayStation 2/Soldier of Fortune - Gold Edition (USA)/Soldier of Fortune - Gold Edition (USA).json
+file: Roms/Sony/Sony PlayStation 2/Soldier of Fortune - Gold Edition (USA)/Soldier of Fortune - Gold Edition (USA).json
 developer: Pipedream Interactive
 publisher: Codemasters
 genre: Shooter
@@ -4394,7 +4394,7 @@ x-playable: Yes
 
 
 game: Sonic Mega Collection Plus (USA)
-file: Sony/Sony PlayStation 2/Sonic Mega Collection Plus (USA)/Sonic Mega Collection Plus (USA).json
+file: Roms/Sony/Sony PlayStation 2/Sonic Mega Collection Plus (USA)/Sonic Mega Collection Plus (USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -4413,7 +4413,7 @@ x-playable: Yes
 
 
 game: Soulcalibur III (USA)
-file: Sony/Sony PlayStation 2/Soulcalibur III (USA)/Soulcalibur III (USA).json
+file: Roms/Sony/Sony PlayStation 2/Soulcalibur III (USA)/Soulcalibur III (USA).json
 developer: Project Soul
 publisher: Namco
 genre: Fighting
@@ -4443,7 +4443,7 @@ x-playable: Yes
 
 
 game: Star Ocean - Till the End of Time (USA)
-file: Sony/Sony PlayStation 2/Star Ocean - Till the End of Time (USA)/Star Ocean - Till the End of Time (USA).json
+file: Roms/Sony/Sony PlayStation 2/Star Ocean - Till the End of Time (USA)/Star Ocean - Till the End of Time (USA).json
 developer: tri-Ace
 publisher: Square Enix
 genre: Action;Role-Playing
@@ -4463,7 +4463,7 @@ x-playable: Yes
 
 
 game: Star Wars - Battlefront (USA)
-file: Sony/Sony PlayStation 2/Star Wars - Battlefront (USA)/Star Wars - Battlefront (USA).json
+file: Roms/Sony/Sony PlayStation 2/Star Wars - Battlefront (USA)/Star Wars - Battlefront (USA).json
 developer: Pandemic
 publisher: LucasArts
 genre: Shooter
@@ -4493,7 +4493,7 @@ x-playable: Yes
 
 
 game: Star Wars - Battlefront II (USA) (v2.01)
-file: Sony/Sony PlayStation 2/Star Wars - Battlefront II (USA) (v2.01)/Star Wars - Battlefront II (USA) (v2.01).json
+file: Roms/Sony/Sony PlayStation 2/Star Wars - Battlefront II (USA) (v2.01)/Star Wars - Battlefront II (USA) (v2.01).json
 developer: Pandemic
 publisher: LucasArts
 genre: Shooter
@@ -4517,7 +4517,7 @@ x-playable: Yes
 
 
 game: Stella Deus - The Gate of Eternity (USA)
-file: Sony/Sony PlayStation 2/Stella Deus - The Gate of Eternity (USA)/Stella Deus - The Gate of Eternity (USA).json
+file: Roms/Sony/Sony PlayStation 2/Stella Deus - The Gate of Eternity (USA)/Stella Deus - The Gate of Eternity (USA).json
 developer: Atlus U.S.A., Inc.
 publisher: Atlus Co., Ltd.
 genre: Role-Playing;Strategy
@@ -4548,7 +4548,7 @@ x-playable: Yes
 
 
 game: Stretch Panic (USA)
-file: Sony/Sony PlayStation 2/Stretch Panic (USA)/Stretch Panic (USA).json
+file: Roms/Sony/Sony PlayStation 2/Stretch Panic (USA)/Stretch Panic (USA).json
 developer: Treasure
 publisher: Conspiracy Entertainment
 genre: Action;Adventure
@@ -4568,7 +4568,7 @@ x-playable: Yes
 
 
 game: Suffering, The (USA)
-file: Sony/Sony PlayStation 2/Suffering, The (USA)/Suffering, The (USA).json
+file: Roms/Sony/Sony PlayStation 2/Suffering, The (USA)/Suffering, The (USA).json
 developer: Midway Games
 publisher: Midway
 genre: Action;Horror;Shooter
@@ -4589,7 +4589,7 @@ x-playable: Yes
 
 
 game: Suffering, The - Ties That Bind (USA)
-file: Sony/Sony PlayStation 2/Suffering, The - Ties That Bind (USA)/Suffering, The - Ties That Bind (USA).json
+file: Roms/Sony/Sony PlayStation 2/Suffering, The - Ties That Bind (USA)/Suffering, The - Ties That Bind (USA).json
 developer: Surreal Software
 publisher: Midway
 genre: Horror
@@ -4621,7 +4621,7 @@ x-playable: Yes
 
 
 game: Suikoden III (USA)
-file: Sony/Sony PlayStation 2/Suikoden III (USA)/Suikoden III (USA).json
+file: Roms/Sony/Sony PlayStation 2/Suikoden III (USA)/Suikoden III (USA).json
 developer: Konami
 publisher: Konami
 genre: Role-Playing
@@ -4641,7 +4641,7 @@ x-playable: Yes
 
 
 game: Suikoden IV (USA)
-file: Sony/Sony PlayStation 2/Suikoden IV (USA)/Suikoden IV (USA).json
+file: Roms/Sony/Sony PlayStation 2/Suikoden IV (USA)/Suikoden IV (USA).json
 developer: KCET
 publisher: Konami
 genre: Role-Playing
@@ -4662,7 +4662,7 @@ x-playable: Yes
 
 
 game: Summoner (USA)
-file: Sony/Sony PlayStation 2/Summoner (USA)/Summoner (USA).json
+file: Roms/Sony/Sony PlayStation 2/Summoner (USA)/Summoner (USA).json
 developer: Volition
 publisher: THQ
 genre: Role-Playing
@@ -4683,7 +4683,7 @@ x-playable: Yes
 
 
 game: Summoner 2 (USA)
-file: Sony/Sony PlayStation 2/Summoner 2 (USA)/Summoner 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Summoner 2 (USA)/Summoner 2 (USA).json
 developer: Volition
 publisher: THQ
 genre: Role-Playing
@@ -4710,7 +4710,7 @@ x-playable: Yes
 
 
 game: Tales of Legendia (USA)
-file: Sony/Sony PlayStation 2/Tales of Legendia (USA)/Tales of Legendia (USA).json
+file: Roms/Sony/Sony PlayStation 2/Tales of Legendia (USA)/Tales of Legendia (USA).json
 developer: Namco
 publisher: Namco
 genre: Role-Playing
@@ -4731,7 +4731,7 @@ x-playable: Yes
 
 
 game: Thing, The (USA)
-file: Sony/Sony PlayStation 2/Thing, The (USA)/Thing, The (USA).json
+file: Roms/Sony/Sony PlayStation 2/Thing, The (USA)/Thing, The (USA).json
 developer: Computer Artworks
 publisher: Black Label Games
 genre: Horror;Shooter
@@ -4759,7 +4759,7 @@ x-playable: Yes
 
 
 game: TimeSplitters (USA) (v2.00)
-file: Sony/Sony PlayStation 2/TimeSplitters (USA) (v2.00)/TimeSplitters (USA) (v2.00).json
+file: Roms/Sony/Sony PlayStation 2/TimeSplitters (USA) (v2.00)/TimeSplitters (USA) (v2.00).json
 developer: Free Radical Design
 publisher: Eidos Interactive
 genre: Action;Shooter
@@ -4781,7 +4781,7 @@ x-playable: Yes
 
 
 game: Trapt (USA)
-file: Sony/Sony PlayStation 2/Trapt (USA)/Trapt (USA).json
+file: Roms/Sony/Sony PlayStation 2/Trapt (USA)/Trapt (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Strategy
@@ -4814,7 +4814,7 @@ x-playable: Yes
 
 
 game: Tribes - Aerial Assault (USA)
-file: Sony/Sony PlayStation 2/Tribes - Aerial Assault (USA)/Tribes - Aerial Assault (USA).json
+file: Roms/Sony/Sony PlayStation 2/Tribes - Aerial Assault (USA)/Tribes - Aerial Assault (USA).json
 developer: Inevitable Entertainment
 publisher: Sierra Entertainment
 genre: Action;Shooter;First-Person;Arcade
@@ -4835,7 +4835,7 @@ x-playable: Yes
 
 
 game: Twisted Metal - Black Online (USA)
-file: Sony/Sony PlayStation 2/Twisted Metal - Black Online (USA)/Twisted Metal - Black Online (USA).json
+file: Roms/Sony/Sony PlayStation 2/Twisted Metal - Black Online (USA)/Twisted Metal - Black Online (USA).json
 developer: Incognito Inc.
 publisher: SCEA
 genre: Shooter
@@ -4865,7 +4865,7 @@ x-playable: Yes
 
 
 game: Ultimate Spider-Man - Limited Edition (USA)
-file: Sony/Sony PlayStation 2/Ultimate Spider-Man - Limited Edition (USA)/Ultimate Spider-Man - Limited Edition (USA).json
+file: Roms/Sony/Sony PlayStation 2/Ultimate Spider-Man - Limited Edition (USA)/Ultimate Spider-Man - Limited Edition (USA).json
 developer: Treyarch Invention
 publisher: Activision Publishing, Inc.
 genre: Action
@@ -4912,7 +4912,7 @@ x-playable: Yes
 
 
 game: Unlimited Saga (USA)
-file: Sony/Sony PlayStation 2/Unlimited Saga (USA)/Unlimited Saga (USA).json
+file: Roms/Sony/Sony PlayStation 2/Unlimited Saga (USA)/Unlimited Saga (USA).json
 developer: Square
 publisher: Square Enix
 genre: Role-Playing
@@ -4943,7 +4943,7 @@ x-playable: Yes
 
 
 game: Unreal Tournament (USA)
-file: Sony/Sony PlayStation 2/Unreal Tournament (USA)/Unreal Tournament (USA).json
+file: Roms/Sony/Sony PlayStation 2/Unreal Tournament (USA)/Unreal Tournament (USA).json
 developer: Epic Games
 publisher: Infogrames
 genre: Action;Shooter
@@ -4964,7 +4964,7 @@ x-playable: Yes
 
 
 game: Viewtiful Joe (USA)
-file: Sony/Sony PlayStation 2/Viewtiful Joe (USA)/Viewtiful Joe (USA).json
+file: Roms/Sony/Sony PlayStation 2/Viewtiful Joe (USA)/Viewtiful Joe (USA).json
 developer: Clover Studio
 publisher: Capcom
 genre: Action;Adventure
@@ -4987,7 +4987,7 @@ x-playable: Yes
 
 
 game: Viewtiful Joe 2 (USA)
-file: Sony/Sony PlayStation 2/Viewtiful Joe 2 (USA)/Viewtiful Joe 2 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Viewtiful Joe 2 (USA)/Viewtiful Joe 2 (USA).json
 developer: Clover
 publisher: Capcom
 genre: Fighting
@@ -5013,7 +5013,7 @@ x-playable: Yes
 
 
 game: War of the Monsters (USA)
-file: Sony/Sony PlayStation 2/War of the Monsters (USA)/War of the Monsters (USA).json
+file: Roms/Sony/Sony PlayStation 2/War of the Monsters (USA)/War of the Monsters (USA).json
 developer: Incognito Entertainment
 publisher: Sony Computer Entertainment
 genre: Action;Fighting
@@ -5040,7 +5040,7 @@ x-playable: Yes
 
 
 game: We Love Katamari (USA)
-file: Sony/Sony PlayStation 2/We Love Katamari (USA)/We Love Katamari (USA).json
+file: Roms/Sony/Sony PlayStation 2/We Love Katamari (USA)/We Love Katamari (USA).json
 developer: Namco
 publisher: Namco
 genre: Action;Puzzle
@@ -5062,7 +5062,7 @@ x-playable: Yes
 
 
 game: Wild Arms 3 (USA)
-file: Sony/Sony PlayStation 2/Wild Arms 3 (USA)/Wild Arms 3 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Wild Arms 3 (USA)/Wild Arms 3 (USA).json
 developer: Media.Vision
 publisher: Sony
 genre: Role-Playing
@@ -5111,7 +5111,7 @@ x-playable: Yes
 
 
 game: Wild Arms 4 (USA)
-file: Sony/Sony PlayStation 2/Wild Arms 4 (USA)/Wild Arms 4 (USA).json
+file: Roms/Sony/Sony PlayStation 2/Wild Arms 4 (USA)/Wild Arms 4 (USA).json
 developer: Media.Vision
 publisher: Sony
 genre: Role-Playing
@@ -5143,7 +5143,7 @@ x-playable: Yes
 
 
 game: X-Files, The - Resist or Serve (USA)
-file: Sony/Sony PlayStation 2/X-Files, The - Resist or Serve (USA)/X-Files, The - Resist or Serve (USA).json
+file: Roms/Sony/Sony PlayStation 2/X-Files, The - Resist or Serve (USA)/X-Files, The - Resist or Serve (USA).json
 developer: Black Ops
 publisher: Vivendi
 genre: Action
@@ -5167,7 +5167,7 @@ x-playable: Yes
 
 
 game: X-Men Legends (USA)
-file: Sony/Sony PlayStation 2/X-Men Legends (USA)/X-Men Legends (USA).json
+file: Roms/Sony/Sony PlayStation 2/X-Men Legends (USA)/X-Men Legends (USA).json
 developer: Raven
 publisher: Activision
 genre: Action;Role-Playing
@@ -5187,7 +5187,7 @@ x-playable: Yes
 
 
 game: X-Men Legends II - Rise of Apocalypse (USA)
-file: Sony/Sony PlayStation 2/X-Men Legends II - Rise of Apocalypse (USA)/X-Men Legends II - Rise of Apocalypse (USA).json
+file: Roms/Sony/Sony PlayStation 2/X-Men Legends II - Rise of Apocalypse (USA)/X-Men Legends II - Rise of Apocalypse (USA).json
 developer: Raven
 publisher: Activision
 genre: Action;Role-Playing
@@ -5210,7 +5210,7 @@ x-playable: Yes
 
 
 game: Xenosaga Episode I - Der Wille zur Macht (USA)
-file: Sony/Sony PlayStation 2/Xenosaga Episode I - Der Wille zur Macht (USA)/Xenosaga Episode I - Der Wille zur Macht (USA).json
+file: Roms/Sony/Sony PlayStation 2/Xenosaga Episode I - Der Wille zur Macht (USA)/Xenosaga Episode I - Der Wille zur Macht (USA).json
 developer: Monolith Soft
 publisher: Namco
 genre: Role-Playing
@@ -5245,7 +5245,7 @@ x-playable: Yes
 
 
 game: Xenosaga Episode II - Jenseits von Gut und Boese (USA)
-file: Sony/Sony PlayStation 2/Xenosaga Episode II - Jenseits von Gut und Boese (USA)/Xenosaga Episode II - Jenseits von Gut und Boese (USA).json
+file: Roms/Sony/Sony PlayStation 2/Xenosaga Episode II - Jenseits von Gut und Boese (USA)/Xenosaga Episode II - Jenseits von Gut und Boese (USA).json
 developer: Monolith Soft
 publisher: Namco
 genre: Role-Playing
@@ -5273,7 +5273,7 @@ x-playable: Yes
 
 
 game: Zombie Virus (Europe)
-file: Sony/Sony PlayStation 2/Zombie Virus (Europe)/Zombie Virus (Europe).json
+file: Roms/Sony/Sony PlayStation 2/Zombie Virus (Europe)/Zombie Virus (Europe).json
 developer: Vingt-et-un Systems
 publisher: D3 Publisher
 genre: Horror;Racing

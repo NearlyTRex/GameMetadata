@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Sony" -s "Sony PlayStation Network - PlaySt
 
 
 game: Age of Zombies (USA) (Minis)
-file: Sony/Sony PlayStation Network - PlayStation Portable Minis/Age of Zombies (USA) (Minis)/Age of Zombies (USA) (Minis).json
+file: Roms/Sony/Sony PlayStation Network - PlayStation Portable Minis/Age of Zombies (USA) (Minis)/Age of Zombies (USA) (Minis).json
 developer: Halfbrick
 publisher: Halfbrick
 genre: Horror;Shooter
@@ -27,7 +27,7 @@ x-playable: Yes
 
 
 game: Freekscape - Escape From Hell (USA) (Minis)
-file: Sony/Sony PlayStation Network - PlayStation Portable Minis/Freekscape - Escape From Hell (USA) (Minis)/Freekscape - Escape From Hell (USA) (Minis).json
+file: Roms/Sony/Sony PlayStation Network - PlayStation Portable Minis/Freekscape - Escape From Hell (USA) (Minis)/Freekscape - Escape From Hell (USA) (Minis).json
 developer: Kidguru Studios
 publisher: Creat Studios Inc
 genre: Action

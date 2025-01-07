@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo 3DS" -n {file.basena
 
 
 game: Animal Crossing - New Leaf (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Animal Crossing - New Leaf (USA) (En,Fr,Es)/Animal Crossing - New Leaf (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Animal Crossing - New Leaf (USA) (En,Fr,Es)/Animal Crossing - New Leaf (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Life Simulation
@@ -26,7 +26,7 @@ x-playable: Yes
 
 
 game: Atooi Collection (USA)
-file: Nintendo/Nintendo 3DS/Atooi Collection (USA)/Atooi Collection (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Atooi Collection (USA)/Atooi Collection (USA).json
 developer: Renegade Kid
 publisher: Limited Run Games
 genre: Fighting;Platform;Puzzle;Shooter
@@ -59,7 +59,7 @@ x-playable: Yes
 
 
 game: Code Name - S.T.E.A.M. (USA)
-file: Nintendo/Nintendo 3DS/Code Name - S.T.E.A.M. (USA)/Code Name - S.T.E.A.M. (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Code Name - S.T.E.A.M. (USA)/Code Name - S.T.E.A.M. (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Strategy
@@ -79,7 +79,7 @@ x-playable: Yes
 
 
 game: Disney Epic Mickey - Power of Illusion (USA) (En,Fr,Es,Pt)
-file: Nintendo/Nintendo 3DS/Disney Epic Mickey - Power of Illusion (USA) (En,Fr,Es,Pt)/Disney Epic Mickey - Power of Illusion (USA) (En,Fr,Es,Pt).json
+file: Roms/Nintendo/Nintendo 3DS/Disney Epic Mickey - Power of Illusion (USA) (En,Fr,Es,Pt)/Disney Epic Mickey - Power of Illusion (USA) (En,Fr,Es,Pt).json
 developer: Dream Rift
 publisher: Disney Interactive
 genre: Platform
@@ -96,7 +96,7 @@ x-playable: Yes
 
 
 game: Dragon Quest VII - Fragments of the Forgotten Past (USA)
-file: Nintendo/Nintendo 3DS/Dragon Quest VII - Fragments of the Forgotten Past (USA)/Dragon Quest VII - Fragments of the Forgotten Past (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Dragon Quest VII - Fragments of the Forgotten Past (USA)/Dragon Quest VII - Fragments of the Forgotten Past (USA).json
 developer: ArtePiazza
 publisher: Square Enix
 genre: Role-Playing
@@ -125,7 +125,7 @@ x-playable: Yes
 
 
 game: Dragon Quest VIII - Journey of the Cursed King (USA)
-file: Nintendo/Nintendo 3DS/Dragon Quest VIII - Journey of the Cursed King (USA)/Dragon Quest VIII - Journey of the Cursed King (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Dragon Quest VIII - Journey of the Cursed King (USA)/Dragon Quest VIII - Journey of the Cursed King (USA).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -150,7 +150,7 @@ x-playable: Yes
 
 
 game: Final Fantasy Explorers (USA)
-file: Nintendo/Nintendo 3DS/Final Fantasy Explorers (USA)/Final Fantasy Explorers (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Final Fantasy Explorers (USA)/Final Fantasy Explorers (USA).json
 developer: Racjin
 publisher: Square Enix
 genre: Role-Playing
@@ -169,7 +169,7 @@ x-playable: Yes
 
 
 game: Goosebumps - The Game (USA)
-file: Nintendo/Nintendo 3DS/Goosebumps - The Game (USA)/Goosebumps - The Game (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Goosebumps - The Game (USA)/Goosebumps - The Game (USA).json
 developer: WayForward Technologies
 publisher: GameMill Entertainment
 genre: Adventure
@@ -194,7 +194,7 @@ x-playable: Yes
 
 
 game: Hyrule Warriors Legends (USA)
-file: Nintendo/Nintendo 3DS/Hyrule Warriors Legends (USA)/Hyrule Warriors Legends (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Hyrule Warriors Legends (USA)/Hyrule Warriors Legends (USA).json
 developer: Team Ninja
 publisher: Nintendo
 genre: Action
@@ -221,7 +221,7 @@ x-playable: Yes
 
 
 game: Kirby - Planet Robobot (USA)
-file: Nintendo/Nintendo 3DS/Kirby - Planet Robobot (USA)/Kirby - Planet Robobot (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Kirby - Planet Robobot (USA)/Kirby - Planet Robobot (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -248,7 +248,7 @@ x-playable: Yes
 
 
 game: Kirby - Triple Deluxe (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Kirby - Triple Deluxe (USA) (En,Fr,Es)/Kirby - Triple Deluxe (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Kirby - Triple Deluxe (USA) (En,Fr,Es)/Kirby - Triple Deluxe (USA) (En,Fr,Es).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform
@@ -276,7 +276,7 @@ x-playable: Yes
 
 
 game: Kirby's Extra Epic Yarn (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Kirby's Extra Epic Yarn (USA) (En,Fr,Es)/Kirby's Extra Epic Yarn (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Kirby's Extra Epic Yarn (USA) (En,Fr,Es)/Kirby's Extra Epic Yarn (USA) (En,Fr,Es).json
 developer: HAL Laboratory
 publisher: Ninendo
 genre: Platform
@@ -324,7 +324,7 @@ x-playable: Yes
 
 
 game: Legend of Legacy, The (USA)
-file: Nintendo/Nintendo 3DS/Legend of Legacy, The (USA)/Legend of Legacy, The (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Legend of Legacy, The (USA)/Legend of Legacy, The (USA).json
 developer: FuRyu
 publisher: Atlus
 genre: Role-Playing
@@ -357,7 +357,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)/Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)/Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -385,7 +385,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es)/Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es)/Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -412,7 +412,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)
-file: Nintendo/Nintendo 3DS/Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)/Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1).json
+file: Roms/Nintendo/Nintendo 3DS/Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)/Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Adventure
@@ -439,7 +439,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es)/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es)/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).json
 developer: Grezzo
 publisher: Nintendo
 genre: Action;Adventure
@@ -460,7 +460,7 @@ x-playable: Yes
 
 
 game: Luigi's Mansion (USA)
-file: Nintendo/Nintendo 3DS/Luigi's Mansion (USA)/Luigi's Mansion (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Luigi's Mansion (USA)/Luigi's Mansion (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -488,7 +488,7 @@ x-playable: Yes
 
 
 game: Luigi's Mansion - Dark Moon (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Luigi's Mansion - Dark Moon (USA) (En,Fr,Es)/Luigi's Mansion - Dark Moon (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Luigi's Mansion - Dark Moon (USA) (En,Fr,Es)/Luigi's Mansion - Dark Moon (USA) (En,Fr,Es).json
 developer: Next Level Games
 publisher: Nintendo
 genre: Action
@@ -509,7 +509,7 @@ x-playable: Yes
 
 
 game: Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA)
-file: Nintendo/Nintendo 3DS/Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA)/Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA)/Mario & Luigi - Bowser's Inside Story + Bowser Jr.'s Journey (USA).json
 developer: AlphaDream
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -532,7 +532,7 @@ x-playable: Yes
 
 
 game: Mario & Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1)
-file: Nintendo/Nintendo 3DS/Mario & Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1)/Mario & Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1).json
+file: Roms/Nintendo/Nintendo 3DS/Mario & Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1)/Mario & Luigi - Dream Team (USA) (En,Fr,Es) (Rev 1).json
 developer: AlphaDream
 publisher: Nintendo
 genre: Role-Playing
@@ -568,7 +568,7 @@ x-playable: Yes
 
 
 game: Mario & Luigi - Paper Jam (USA)
-file: Nintendo/Nintendo 3DS/Mario & Luigi - Paper Jam (USA)/Mario & Luigi - Paper Jam (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Mario & Luigi - Paper Jam (USA)/Mario & Luigi - Paper Jam (USA).json
 developer: AlphaDream
 publisher: Nintendo
 genre: Role-Playing
@@ -599,7 +599,7 @@ x-playable: Yes
 
 
 game: Mario & Luigi - Superstar Saga + Bowser's Minions (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Mario & Luigi - Superstar Saga + Bowser's Minions (USA) (En,Fr,Es)/Mario & Luigi - Superstar Saga + Bowser's Minions (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Mario & Luigi - Superstar Saga + Bowser's Minions (USA) (En,Fr,Es)/Mario & Luigi - Superstar Saga + Bowser's Minions (USA) (En,Fr,Es).json
 developer: AlphaDream
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -646,7 +646,7 @@ x-playable: Yes
 
 
 game: Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)
-file: Nintendo/Nintendo 3DS/Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)/Mario Kart 7 (USA) (En,Fr,Es) (Rev 1).json
+file: Roms/Nintendo/Nintendo 3DS/Mario Kart 7 (USA) (En,Fr,Es) (Rev 1)/Mario Kart 7 (USA) (En,Fr,Es) (Rev 1).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing
@@ -665,7 +665,7 @@ x-playable: Yes
 
 
 game: Mega Man Legacy Collection (USA)
-file: Nintendo/Nintendo 3DS/Mega Man Legacy Collection (USA)/Mega Man Legacy Collection (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Mega Man Legacy Collection (USA)/Mega Man Legacy Collection (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -728,7 +728,7 @@ x-playable: Yes
 
 
 game: Metroid - Samus Returns (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Metroid - Samus Returns (USA) (En,Fr,Es)/Metroid - Samus Returns (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Metroid - Samus Returns (USA) (En,Fr,Es)/Metroid - Samus Returns (USA) (En,Fr,Es).json
 developer: MercurySteam
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -757,7 +757,7 @@ x-playable: Yes
 
 
 game: Metroid Prime - Federation Force (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Metroid Prime - Federation Force (USA) (En,Fr,Es)/Metroid Prime - Federation Force (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Metroid Prime - Federation Force (USA) (En,Fr,Es)/Metroid Prime - Federation Force (USA) (En,Fr,Es).json
 developer: Next Level Games
 publisher: Nintendo
 genre: Shooter
@@ -776,7 +776,7 @@ x-playable: Yes
 
 
 game: Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)
-file: Nintendo/Nintendo 3DS/Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)/Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo 3DS/Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It)/Monster Hunter 3 Ultimate (USA) (En,Fr,De,Es,It).json
 developer: Capcom Production Studio 1
 publisher: Capcom USA, Inc.
 genre: Action;Adventure;Role-Playing
@@ -812,7 +812,7 @@ x-playable: Yes
 
 
 game: Monster Hunter 4 Ultimate (USA)
-file: Nintendo/Nintendo 3DS/Monster Hunter 4 Ultimate (USA)/Monster Hunter 4 Ultimate (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Monster Hunter 4 Ultimate (USA)/Monster Hunter 4 Ultimate (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -838,7 +838,7 @@ x-playable: Yes
 
 
 game: Monster Hunter Generations (USA)
-file: Nintendo/Nintendo 3DS/Monster Hunter Generations (USA)/Monster Hunter Generations (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Monster Hunter Generations (USA)/Monster Hunter Generations (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Role-Playing
@@ -868,7 +868,7 @@ x-playable: Yes
 
 
 game: New Super Mario Bros. 2 (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/New Super Mario Bros. 2 (USA) (En,Fr,Es)/New Super Mario Bros. 2 (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/New Super Mario Bros. 2 (USA) (En,Fr,Es)/New Super Mario Bros. 2 (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -897,7 +897,7 @@ x-playable: Yes
 
 
 game: Paper Mario - Sticker Star (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Paper Mario - Sticker Star (USA) (En,Fr,Es)/Paper Mario - Sticker Star (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Paper Mario - Sticker Star (USA) (En,Fr,Es)/Paper Mario - Sticker Star (USA) (En,Fr,Es).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Role-Playing
@@ -916,7 +916,7 @@ x-playable: Yes
 
 
 game: Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)
-file: Nintendo/Nintendo 3DS/Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)/Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2).json
+file: Roms/Nintendo/Nintendo 3DS/Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)/Pokemon Alpha Sapphire (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2).json
 developer: Game Freak
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -942,7 +942,7 @@ x-playable: Yes
 
 
 game: Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)
-file: Nintendo/Nintendo 3DS/Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)/Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2).json
+file: Roms/Nintendo/Nintendo 3DS/Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2)/Pokemon Omega Ruby (USA) (En,Ja,Fr,De,Es,It,Ko) (Rev 2).json
 developer: Nintendo of America
 publisher: Nintendo of America
 genre: Action;Adventure;Strategy
@@ -968,7 +968,7 @@ x-playable: Yes
 
 
 game: Pokemon Ultra Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)
-file: Nintendo/Nintendo 3DS/Pokemon Ultra Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon Ultra Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).json
+file: Roms/Nintendo/Nintendo 3DS/Pokemon Ultra Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon Ultra Moon (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).json
 developer: Game Freak
 publisher: Nintendo
 genre: Role-Playing
@@ -996,7 +996,7 @@ x-playable: Yes
 
 
 game: Pokemon Ultra Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)
-file: Nintendo/Nintendo 3DS/Pokemon Ultra Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon Ultra Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).json
+file: Roms/Nintendo/Nintendo 3DS/Pokemon Ultra Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko)/Pokemon Ultra Sun (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).json
 developer: Game Freak
 publisher: Nintendo
 genre: Role-Playing
@@ -1024,7 +1024,7 @@ x-playable: Yes
 
 
 game: Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko)
-file: Nintendo/Nintendo 3DS/Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko)/Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko).json
+file: Roms/Nintendo/Nintendo 3DS/Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko)/Pokemon X (USA) (En,Ja,Fr,De,Es,It,Ko).json
 developer: Game Freak
 publisher: Nintendo
 genre: Role-Playing
@@ -1045,7 +1045,7 @@ x-playable: Yes
 
 
 game: Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko)
-file: Nintendo/Nintendo 3DS/Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko)/Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko).json
+file: Roms/Nintendo/Nintendo 3DS/Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko)/Pokemon Y (USA) (En,Ja,Fr,De,Es,It,Ko).json
 developer: Game Freak
 publisher: Nintendo
 genre: Role-Playing
@@ -1066,7 +1066,7 @@ x-playable: Yes
 
 
 game: Poochy & Yoshi's Woolly World (USA) (En,Fr,Es) (Rev 1)
-file: Nintendo/Nintendo 3DS/Poochy & Yoshi's Woolly World (USA) (En,Fr,Es) (Rev 1)/Poochy & Yoshi's Woolly World (USA) (En,Fr,Es) (Rev 1).json
+file: Roms/Nintendo/Nintendo 3DS/Poochy & Yoshi's Woolly World (USA) (En,Fr,Es) (Rev 1)/Poochy & Yoshi's Woolly World (USA) (En,Fr,Es) (Rev 1).json
 developer: Good-Feel
 publisher: Nintendo
 genre: Platform
@@ -1092,7 +1092,7 @@ x-playable: Yes
 
 
 game: Project X Zone (USA)
-file: Nintendo/Nintendo 3DS/Project X Zone (USA)/Project X Zone (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Project X Zone (USA)/Project X Zone (USA).json
 developer: Banpresto
 publisher: Namco Bandai Games
 genre: Action;Role-Playing;Strategy
@@ -1116,7 +1116,7 @@ x-playable: Yes
 
 
 game: Project X Zone 2 (USA)
-file: Nintendo/Nintendo 3DS/Project X Zone 2 (USA)/Project X Zone 2 (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Project X Zone 2 (USA)/Project X Zone 2 (USA).json
 developer: Banpresto
 publisher: Namco Bandai Games
 genre: Role-Playing;Strategy
@@ -1142,7 +1142,7 @@ x-playable: Yes
 
 
 game: Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (USA)
-file: Nintendo/Nintendo 3DS/Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (USA)/Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (USA)/Puzzle & Dragons Z + Puzzle & Dragons Super Mario Bros. Edition (USA).json
 developer: GungHo Online Entertainment
 publisher: Nintendo
 genre: Puzzle
@@ -1169,7 +1169,7 @@ x-playable: Yes
 
 
 game: RPG Maker Fes (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/RPG Maker Fes (USA) (En,Fr,Es)/RPG Maker Fes (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/RPG Maker Fes (USA) (En,Fr,Es)/RPG Maker Fes (USA) (En,Fr,Es).json
 developer: Kadokawa Games
 publisher: NIS America, Inc.
 genre: Role-Playing;General
@@ -1194,7 +1194,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It)
-file: Nintendo/Nintendo 3DS/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It)/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It).json
+file: Roms/Nintendo/Nintendo 3DS/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It)/Resident Evil - Revelations (USA) (En,Ja,Fr,De,Es,It).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror
@@ -1222,7 +1222,7 @@ x-playable: Yes
 
 
 game: Resident Evil - The Mercenaries 3D (USA) (En,Fr)
-file: Nintendo/Nintendo 3DS/Resident Evil - The Mercenaries 3D (USA) (En,Fr)/Resident Evil - The Mercenaries 3D (USA) (En,Fr).json
+file: Roms/Nintendo/Nintendo 3DS/Resident Evil - The Mercenaries 3D (USA) (En,Fr)/Resident Evil - The Mercenaries 3D (USA) (En,Fr).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -1242,7 +1242,7 @@ x-playable: Yes
 
 
 game: SEGA 3D Classics Collection (USA)
-file: Nintendo/Nintendo 3DS/SEGA 3D Classics Collection (USA)/SEGA 3D Classics Collection (USA).json
+file: Roms/Nintendo/Nintendo 3DS/SEGA 3D Classics Collection (USA)/SEGA 3D Classics Collection (USA).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -1270,7 +1270,7 @@ x-playable: Yes
 
 
 game: Shovel Knight (USA)
-file: Nintendo/Nintendo 3DS/Shovel Knight (USA)/Shovel Knight (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Shovel Knight (USA)/Shovel Knight (USA).json
 developer: Yacht Club Games
 publisher: Yacht Club Games
 genre: Adventure;Platform
@@ -1301,7 +1301,7 @@ x-playable: Yes
 
 
 game: Spirit Camera - The Cursed Memoir (USA)
-file: Nintendo/Nintendo 3DS/Spirit Camera - The Cursed Memoir (USA)/Spirit Camera - The Cursed Memoir (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Spirit Camera - The Cursed Memoir (USA)/Spirit Camera - The Cursed Memoir (USA).json
 developer: Tecmo Koei Games
 publisher: Nintendo
 genre: Horror
@@ -1319,7 +1319,7 @@ x-playable: Yes
 
 
 game: Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3)
-file: Nintendo/Nintendo 3DS/Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3)/Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3).json
+file: Roms/Nintendo/Nintendo 3DS/Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3)/Star Fox 64 3D (USA) (En,Fr,Es) (Rev 3).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action;Shooter
@@ -1340,7 +1340,7 @@ x-playable: Yes
 
 
 game: Steel Diver (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Steel Diver (USA) (En,Fr,Es)/Steel Diver (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Steel Diver (USA) (En,Fr,Es)/Steel Diver (USA) (En,Fr,Es).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Strategy
@@ -1357,7 +1357,7 @@ x-playable: Yes
 
 
 game: Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)
-file: Nintendo/Nintendo 3DS/Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)/Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1).json
+file: Roms/Nintendo/Nintendo 3DS/Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1)/Super Mario 3D Land (USA) (En,Fr,Es) (Rev 1).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -1382,7 +1382,7 @@ x-playable: Yes
 
 
 game: Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)
-file: Nintendo/Nintendo 3DS/Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)/Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3).json
+file: Roms/Nintendo/Nintendo 3DS/Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3)/Super Mario Maker for Nintendo 3DS (USA) (En,Fr,Es) (Rev 3).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -1433,7 +1433,7 @@ x-playable: Yes
 
 
 game: Super Monkey Ball 3D (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Super Monkey Ball 3D (USA) (En,Fr,Es)/Super Monkey Ball 3D (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Super Monkey Ball 3D (USA) (En,Fr,Es)/Super Monkey Ball 3D (USA) (En,Fr,Es).json
 developer: Sega
 publisher: Sega
 genre: Platform;Puzzle
@@ -1456,7 +1456,7 @@ x-playable: Yes
 
 
 game: Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2)
-file: Nintendo/Nintendo 3DS/Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2)/Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2).json
+file: Roms/Nintendo/Nintendo 3DS/Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2)/Super Smash Bros. for Nintendo 3DS (USA) (En,Fr,Es) (Rev 2).json
 developer: Tri-crescendo
 publisher: Nintendo
 genre: Fighting
@@ -1477,7 +1477,7 @@ x-playable: Yes
 
 
 game: Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es)/Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es)/Super Street Fighter IV - 3D Edition (USA) (En,Fr,Es).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -1502,7 +1502,7 @@ x-playable: Yes
 
 
 game: Tales of the Abyss (USA)
-file: Nintendo/Nintendo 3DS/Tales of the Abyss (USA)/Tales of the Abyss (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Tales of the Abyss (USA)/Tales of the Abyss (USA).json
 developer: Namco Tales Studio
 publisher: Namco Bandai Games
 genre: Role-Playing
@@ -1524,7 +1524,7 @@ x-playable: Yes
 
 
 game: Tetris Axis (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Tetris Axis (USA) (En,Fr,Es)/Tetris Axis (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Tetris Axis (USA) (En,Fr,Es)/Tetris Axis (USA) (En,Fr,Es).json
 developer: Human Soft
 publisher: Nintendo
 genre: Action
@@ -1543,7 +1543,7 @@ x-playable: Yes
 
 
 game: Theatrhythm Final Fantasy (USA)
-file: Nintendo/Nintendo 3DS/Theatrhythm Final Fantasy (USA)/Theatrhythm Final Fantasy (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Theatrhythm Final Fantasy (USA)/Theatrhythm Final Fantasy (USA).json
 developer: indieszero
 publisher: Square Enix
 genre: Music
@@ -1562,7 +1562,7 @@ x-playable: Yes
 
 
 game: Theatrhythm Final Fantasy - Curtain Call (USA)
-file: Nintendo/Nintendo 3DS/Theatrhythm Final Fantasy - Curtain Call (USA)/Theatrhythm Final Fantasy - Curtain Call (USA).json
+file: Roms/Nintendo/Nintendo 3DS/Theatrhythm Final Fantasy - Curtain Call (USA)/Theatrhythm Final Fantasy - Curtain Call (USA).json
 developer: indieszero
 publisher: Square Enix
 genre: Music
@@ -1584,7 +1584,7 @@ x-playable: Yes
 
 
 game: Xenoblade Chronicles 3D (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Xenoblade Chronicles 3D (USA) (En,Fr,Es)/Xenoblade Chronicles 3D (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Xenoblade Chronicles 3D (USA) (En,Fr,Es)/Xenoblade Chronicles 3D (USA) (En,Fr,Es).json
 developer: Monolith Soft
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -1604,7 +1604,7 @@ x-playable: Yes
 
 
 game: Yoshi's New Island (USA) (En,Fr,Es)
-file: Nintendo/Nintendo 3DS/Yoshi's New Island (USA) (En,Fr,Es)/Yoshi's New Island (USA) (En,Fr,Es).json
+file: Roms/Nintendo/Nintendo 3DS/Yoshi's New Island (USA) (En,Fr,Es)/Yoshi's New Island (USA) (En,Fr,Es).json
 developer: Arzest
 publisher: Nintendo
 genre: Platform

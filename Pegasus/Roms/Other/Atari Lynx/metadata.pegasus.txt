@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari Lynx" -n {file.basename}
 
 
 game: Basketbrawl (USA, Europe)
-file: Other/Atari Lynx/Basketbrawl (USA, Europe)/Basketbrawl (USA, Europe).json
+file: Roms/Other/Atari Lynx/Basketbrawl (USA, Europe)/Basketbrawl (USA, Europe).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Fighting;Sports
@@ -20,7 +20,7 @@ x-playable: Yes
 
 
 game: Block Out (USA, Europe)
-file: Other/Atari Lynx/Block Out (USA, Europe)/Block Out (USA, Europe).json
+file: Roms/Other/Atari Lynx/Block Out (USA, Europe)/Block Out (USA, Europe).json
 developer: P.Z.Karen Co. Development Group
 publisher: Atari
 genre: Puzzle
@@ -41,7 +41,7 @@ x-playable: Yes
 
 
 game: Chip's Challenge (USA, Europe)
-file: Other/Atari Lynx/Chip's Challenge (USA, Europe)/Chip's Challenge (USA, Europe).json
+file: Roms/Other/Atari Lynx/Chip's Challenge (USA, Europe)/Chip's Challenge (USA, Europe).json
 developer: Epyx
 publisher: Atari
 genre: Puzzle
@@ -66,7 +66,7 @@ x-playable: Yes
 
 
 game: Crystal Mines II (USA, Europe)
-file: Other/Atari Lynx/Crystal Mines II (USA, Europe)/Crystal Mines II (USA, Europe).json
+file: Roms/Other/Atari Lynx/Crystal Mines II (USA, Europe)/Crystal Mines II (USA, Europe).json
 developer: Color Dreams
 publisher: Atari
 genre: Puzzle
@@ -84,7 +84,7 @@ x-playable: Yes
 
 
 game: Gates of Zendocon, The (USA, Europe)
-file: Other/Atari Lynx/Gates of Zendocon, The (USA, Europe)/Gates of Zendocon, The (USA, Europe).json
+file: Roms/Other/Atari Lynx/Gates of Zendocon, The (USA, Europe)/Gates of Zendocon, The (USA, Europe).json
 developer: Epyx, Inc.
 publisher: Atari Corporation
 genre: Shooter
@@ -110,7 +110,7 @@ x-playable: Yes
 
 
 game: Gauntlet - The Third Encounter (USA, Europe)
-file: Other/Atari Lynx/Gauntlet - The Third Encounter (USA, Europe)/Gauntlet - The Third Encounter (USA, Europe).json
+file: Roms/Other/Atari Lynx/Gauntlet - The Third Encounter (USA, Europe)/Gauntlet - The Third Encounter (USA, Europe).json
 developer: Epyx
 publisher: Atari
 genre: Action
@@ -132,7 +132,7 @@ x-playable: Yes
 
 
 game: Ishido - The Way of Stones (USA, Europe)
-file: Other/Atari Lynx/Ishido - The Way of Stones (USA, Europe)/Ishido - The Way of Stones (USA, Europe).json
+file: Roms/Other/Atari Lynx/Ishido - The Way of Stones (USA, Europe)/Ishido - The Way of Stones (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Strategy
@@ -150,7 +150,7 @@ x-playable: Yes
 
 
 game: Klax (USA, Europe)
-file: Other/Atari Lynx/Klax (USA, Europe)/Klax (USA, Europe).json
+file: Roms/Other/Atari Lynx/Klax (USA, Europe)/Klax (USA, Europe).json
 developer: Atari Games Corporation
 publisher: Atari Corporation
 genre: Puzzle
@@ -168,7 +168,7 @@ x-playable: Yes
 
 
 game: Malibu Bikini Volleyball (USA, Europe)
-file: Other/Atari Lynx/Malibu Bikini Volleyball (USA, Europe)/Malibu Bikini Volleyball (USA, Europe).json
+file: Roms/Other/Atari Lynx/Malibu Bikini Volleyball (USA, Europe)/Malibu Bikini Volleyball (USA, Europe).json
 developer: Hand Made Software
 publisher: Atari, Inc.
 genre: Sports
@@ -185,7 +185,7 @@ x-playable: Yes
 
 
 game: Scrapyard Dog (USA, Europe)
-file: Other/Atari Lynx/Scrapyard Dog (USA, Europe)/Scrapyard Dog (USA, Europe).json
+file: Roms/Other/Atari Lynx/Scrapyard Dog (USA, Europe)/Scrapyard Dog (USA, Europe).json
 developer: Creative Software Designs
 publisher: Atari
 genre: Adventure
@@ -203,7 +203,7 @@ x-playable: Yes
 
 
 game: Shanghai (USA, Europe)
-file: Other/Atari Lynx/Shanghai (USA, Europe)/Shanghai (USA, Europe).json
+file: Roms/Other/Atari Lynx/Shanghai (USA, Europe)/Shanghai (USA, Europe).json
 developer: Activision
 publisher: Atari
 genre: Puzzle
@@ -231,7 +231,7 @@ x-playable: Yes
 
 
 game: Super Asteroids, Missile Command (USA, Europe)
-file: Other/Atari Lynx/Super Asteroids, Missile Command (USA, Europe)/Super Asteroids, Missile Command (USA, Europe).json
+file: Roms/Other/Atari Lynx/Super Asteroids, Missile Command (USA, Europe)/Super Asteroids, Missile Command (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -262,7 +262,7 @@ x-playable: Yes
 
 
 game: Todd's Adventures in Slime World (USA, Europe)
-file: Other/Atari Lynx/Todd's Adventures in Slime World (USA, Europe)/Todd's Adventures in Slime World (USA, Europe).json
+file: Roms/Other/Atari Lynx/Todd's Adventures in Slime World (USA, Europe)/Todd's Adventures in Slime World (USA, Europe).json
 developer: Epyx
 publisher: Atari
 genre: Action;Platform
@@ -280,7 +280,7 @@ x-playable: Yes
 
 
 game: Turbo Sub (USA, Europe)
-file: Other/Atari Lynx/Turbo Sub (USA, Europe)/Turbo Sub (USA, Europe).json
+file: Roms/Other/Atari Lynx/Turbo Sub (USA, Europe)/Turbo Sub (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -300,7 +300,7 @@ x-playable: Yes
 
 
 game: Warbirds (USA, Europe)
-file: Other/Atari Lynx/Warbirds (USA, Europe)/Warbirds (USA, Europe).json
+file: Roms/Other/Atari Lynx/Warbirds (USA, Europe)/Warbirds (USA, Europe).json
 developer: Atari
 publisher: Atari
 genre: Shooter

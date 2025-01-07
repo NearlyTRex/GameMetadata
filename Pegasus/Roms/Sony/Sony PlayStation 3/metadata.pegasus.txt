@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Sony" -s "Sony PlayStation 3" -n {file.base
 
 
 game: 3D Dot Game Heroes (USA)
-file: Sony/Sony PlayStation 3/3D Dot Game Heroes (USA)/3D Dot Game Heroes (USA).json
+file: Roms/Sony/Sony PlayStation 3/3D Dot Game Heroes (USA)/3D Dot Game Heroes (USA).json
 developer: Silicon Studio
 publisher: Atlus
 genre: Action;Adventure;Role-Playing
@@ -31,7 +31,7 @@ x-playable: Yes
 
 
 game: Alice - Madness Returns (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Alice - Madness Returns (USA) (En,Fr,De,Es,It)/Alice - Madness Returns (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Alice - Madness Returns (USA) (En,Fr,De,Es,It)/Alice - Madness Returns (USA) (En,Fr,De,Es,It).json
 developer: Spicy Horse
 publisher: Electronic Arts
 genre: Action;Platform
@@ -53,7 +53,7 @@ x-playable: Yes
 
 
 game: Alien - Isolation (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Alien - Isolation (USA) (En,Fr,Es,Pt)/Alien - Isolation (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Alien - Isolation (USA) (En,Fr,Es,Pt)/Alien - Isolation (USA) (En,Fr,Es,Pt).json
 developer: Creative Assembly
 publisher: Sega
 genre: Action;Horror
@@ -75,7 +75,7 @@ x-playable: Yes
 
 
 game: Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It)/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It)/Alone in the Dark - Inferno (USA) (En,Fr,De,Es,It).json
 developer: Eden Studios
 publisher: Atari
 genre: Action;Adventure;Horror
@@ -95,7 +95,7 @@ x-playable: Yes
 
 
 game: Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It)
-file: Sony/Sony PlayStation 3/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It)/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It)/Assassin's Creed - Brotherhood (USA) (En,Fr,Es,It).json
 developer: Ubisoft Montreal
 publisher: Ubisoft
 genre: Action
@@ -113,7 +113,7 @@ x-playable: Yes
 
 
 game: Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition)
-file: Sony/Sony PlayStation 3/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition)/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition).json
+file: Roms/Sony/Sony PlayStation 3/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition)/Assassin's Creed - Revelations (USA) (En,Fr,Es,Pt) (First Print Limited Edition).json
 developer: Ubisoft Montreal
 publisher: Ubisoft
 genre: Action;Adventure
@@ -141,7 +141,7 @@ x-playable: Yes
 
 
 game: Back to the Future - The Game (USA) (En,Fr,De)
-file: Sony/Sony PlayStation 3/Back to the Future - The Game (USA) (En,Fr,De)/Back to the Future - The Game (USA) (En,Fr,De).json
+file: Roms/Sony/Sony PlayStation 3/Back to the Future - The Game (USA) (En,Fr,De)/Back to the Future - The Game (USA) (En,Fr,De).json
 developer: Telltale Games
 publisher: Telltale Games
 genre: Adventure
@@ -166,7 +166,7 @@ x-playable: Yes
 
 
 game: Batman - Arkham Asylum - Game of the Year Edition (USA)
-file: Sony/Sony PlayStation 3/Batman - Arkham Asylum - Game of the Year Edition (USA)/Batman - Arkham Asylum - Game of the Year Edition (USA).json
+file: Roms/Sony/Sony PlayStation 3/Batman - Arkham Asylum - Game of the Year Edition (USA)/Batman - Arkham Asylum - Game of the Year Edition (USA).json
 developer: Rocksteady Studios
 publisher: Eidos Interactive
 genre: Action
@@ -194,7 +194,7 @@ x-playable: Yes
 
 
 game: Batman - Arkham City - Game of the Year Edition (USA)
-file: Sony/Sony PlayStation 3/Batman - Arkham City - Game of the Year Edition (USA)/Batman - Arkham City - Game of the Year Edition (USA).json
+file: Roms/Sony/Sony PlayStation 3/Batman - Arkham City - Game of the Year Edition (USA)/Batman - Arkham City - Game of the Year Edition (USA).json
 developer: Rocksteady Studios
 publisher: Warner Bros. Interactive Entertainment
 genre: Action;Adventure;Fighting;Stealth
@@ -219,7 +219,7 @@ x-playable: Yes
 
 
 game: Best of PlayStation Network Vol. 1 (USA)
-file: Sony/Sony PlayStation 3/Best of PlayStation Network Vol. 1 (USA)/Best of PlayStation Network Vol. 1 (USA).json
+file: Roms/Sony/Sony PlayStation 3/Best of PlayStation Network Vol. 1 (USA)/Best of PlayStation Network Vol. 1 (USA).json
 developer: Various
 publisher: SCEA
 genre: Miscellaneous;Compilation
@@ -243,7 +243,7 @@ x-playable: Yes
 
 
 game: Beyond - Two Souls (USA) (En,Fr)
-file: Sony/Sony PlayStation 3/Beyond - Two Souls (USA) (En,Fr)/Beyond - Two Souls (USA) (En,Fr).json
+file: Roms/Sony/Sony PlayStation 3/Beyond - Two Souls (USA) (En,Fr)/Beyond - Two Souls (USA) (En,Fr).json
 developer: Quantic Dream
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -263,7 +263,7 @@ x-playable: Yes
 
 
 game: Biohazard - Chronicles HD Selection (Japan)
-file: Sony/Sony PlayStation 3/Biohazard - Chronicles HD Selection (Japan)/Biohazard - Chronicles HD Selection (Japan).json
+file: Roms/Sony/Sony PlayStation 3/Biohazard - Chronicles HD Selection (Japan)/Biohazard - Chronicles HD Selection (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -283,7 +283,7 @@ x-playable: Yes
 
 
 game: Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It)/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It)/Biohazard - HD Remaster (Japan, Asia) (En,Ja,Fr,De,Es,It).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -344,7 +344,7 @@ x-playable: Yes
 
 
 game: Biohazard - Revival Selection (Japan)
-file: Sony/Sony PlayStation 3/Biohazard - Revival Selection (Japan)/Biohazard - Revival Selection (Japan).json
+file: Roms/Sony/Sony PlayStation 3/Biohazard - Revival Selection (Japan)/Biohazard - Revival Selection (Japan).json
 developer: Capcom
 publisher: Capcom
 genre: Horror
@@ -362,7 +362,7 @@ x-playable: Yes
 
 
 game: Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It)/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It)/Biohazard 0 - HD Remaster (Japan) (En,Ja,Fr,De,Es,It).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -381,7 +381,7 @@ x-playable: Yes
 
 
 game: Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko)
-file: Sony/Sony PlayStation 3/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko)/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko).json
+file: Roms/Sony/Sony PlayStation 3/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko)/Bionic Commando (USA) (En,Ja,Fr,De,Es,It,Ko).json
 developer: GRIN
 publisher: Capcom
 genre: Shooter
@@ -401,7 +401,7 @@ x-playable: Yes
 
 
 game: Borderlands Triple Pack (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Borderlands Triple Pack (USA) (En,Fr,De,Es,It)/Borderlands Triple Pack (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Borderlands Triple Pack (USA) (En,Fr,De,Es,It)/Borderlands Triple Pack (USA) (En,Fr,De,Es,It).json
 developer: 2K Games
 publisher: 2K Games
 genre: Miscellaneous;Compilation
@@ -439,7 +439,7 @@ x-playable: Yes
 
 
 game: Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It)/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It)/Castlevania - Lords of Shadow (USA) (En,Fr,De,Es,It).json
 developer: Mercury Steam
 publisher: Konami
 genre: Action;Adventure;Horror
@@ -459,7 +459,7 @@ x-playable: Yes
 
 
 game: Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt)
-file: Sony/Sony PlayStation 3/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt)/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt)/Castlevania - Lords of Shadow 2 (USA) (En,Fr,De,Es,It,Pt).json
 developer: MercurySteam
 publisher: Konami
 genre: Action
@@ -485,7 +485,7 @@ x-playable: Yes
 
 
 game: Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It)/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It)/Chronicles of Riddick, The - Assault on Dark Athena (USA) (En,Fr,De,Es,It).json
 developer: Starbreeze
 publisher: Atari
 genre: Shooter
@@ -503,7 +503,7 @@ x-playable: Yes
 
 
 game: Clive Barker's Jericho (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Clive Barker's Jericho (USA) (En,Fr,De,Es,It)/Clive Barker's Jericho (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Clive Barker's Jericho (USA) (En,Fr,De,Es,It)/Clive Barker's Jericho (USA) (En,Fr,De,Es,It).json
 developer: Mercury Steam
 publisher: Codemasters
 genre: Action;Horror;Shooter
@@ -520,7 +520,7 @@ x-playable: Yes
 
 
 game: Dante's Inferno (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Dante's Inferno (USA) (En,Fr,Es)/Dante's Inferno (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Dante's Inferno (USA) (En,Fr,Es)/Dante's Inferno (USA) (En,Fr,Es).json
 developer: Visceral Games
 publisher: Electronic Arts
 genre: Action
@@ -540,7 +540,7 @@ x-playable: Yes
 
 
 game: Dark Souls (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Dark Souls (USA) (En,Fr,Es)/Dark Souls (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Dark Souls (USA) (En,Fr,Es)/Dark Souls (USA) (En,Fr,Es).json
 developer: FromSoftware, Inc.
 publisher: Namco Bandai Partners
 genre: Role-Playing
@@ -561,7 +561,7 @@ x-playable: Yes
 
 
 game: Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt)/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt)/Dark Souls II - Scholar of the First Sin (USA) (En,Fr,Es,Pt).json
 developer: FromSoftware, Inc.
 publisher: Bandai Namco
 genre: Adventure;Role-Playing
@@ -578,7 +578,7 @@ x-playable: Yes
 
 
 game: Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl)
-file: Sony/Sony PlayStation 3/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl)/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl).json
+file: Roms/Sony/Sony PlayStation 3/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl)/Dead Island - Game of the Year Edition (USA) (En,Fr,De,Es,It,Pl).json
 developer: Techland
 publisher: Deep Silver
 genre: Action;Horror;Role-Playing
@@ -595,7 +595,7 @@ x-playable: Yes
 
 
 game: Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl)
-file: Sony/Sony PlayStation 3/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl)/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl).json
+file: Roms/Sony/Sony PlayStation 3/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl)/Dead Island - Riptide (USA) (En,Fr,De,Es,It,Pl).json
 developer: Techland
 publisher: Deep Silver
 genre: Action;Role-Playing
@@ -616,7 +616,7 @@ x-playable: Yes
 
 
 game: Dead Space (USA, Korea) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Dead Space (USA, Korea) (En,Fr,Es)/Dead Space (USA, Korea) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Dead Space (USA, Korea) (En,Fr,Es)/Dead Space (USA, Korea) (En,Fr,Es).json
 developer: EA Redwood Shores
 publisher: Electronic Arts
 genre: Action;Horror
@@ -638,7 +638,7 @@ x-playable: Yes
 
 
 game: Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition)
-file: Sony/Sony PlayStation 3/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition)/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition).json
+file: Roms/Sony/Sony PlayStation 3/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition)/Dead Space 2 (USA, Korea) (En,Fr,Es) (Limited Edition).json
 developer: Visceral Games
 publisher: Electronic Arts
 genre: Action;Adventure;Horror
@@ -660,7 +660,7 @@ x-playable: Yes
 
 
 game: Dead Space 3 (USA, Asia) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Dead Space 3 (USA, Asia) (En,Fr,Es)/Dead Space 3 (USA, Asia) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Dead Space 3 (USA, Asia) (En,Fr,Es)/Dead Space 3 (USA, Asia) (En,Fr,Es).json
 developer: Visceral Games
 publisher: Electronic Arts
 genre: Horror;Shooter
@@ -699,7 +699,7 @@ x-playable: Yes
 
 
 game: Deadly Premonition - The Director's Cut (USA)
-file: Sony/Sony PlayStation 3/Deadly Premonition - The Director's Cut (USA)/Deadly Premonition - The Director's Cut (USA).json
+file: Roms/Sony/Sony PlayStation 3/Deadly Premonition - The Director's Cut (USA)/Deadly Premonition - The Director's Cut (USA).json
 developer: Access Games
 publisher: Ignition Entertainment
 genre: Action;Horror
@@ -737,7 +737,7 @@ x-playable: Yes
 
 
 game: Demon's Souls (USA)
-file: Sony/Sony PlayStation 3/Demon's Souls (USA)/Demon's Souls (USA).json
+file: Roms/Sony/Sony PlayStation 3/Demon's Souls (USA)/Demon's Souls (USA).json
 developer: FromSoftware, Inc.
 publisher: Atlus USA
 genre: Action;Role-Playing
@@ -760,7 +760,7 @@ x-playable: Yes
 
 
 game: Dishonored - Game of the Year Edition (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Dishonored - Game of the Year Edition (USA) (En,Fr,Es)/Dishonored - Game of the Year Edition (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Dishonored - Game of the Year Edition (USA) (En,Fr,Es)/Dishonored - Game of the Year Edition (USA) (En,Fr,Es).json
 developer: Arkane Studios
 publisher: Bethesda Softworks
 genre: Action;Shooter
@@ -782,7 +782,7 @@ x-playable: Yes
 
 
 game: Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt)
-file: Sony/Sony PlayStation 3/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt)/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt)/Disney DuckTales - Remastered (USA) (En,Fr,De,Es,It,Pt).json
 developer: WayForward
 publisher: Capcom
 genre: Action;Platformer;2D
@@ -807,7 +807,7 @@ x-playable: Yes
 
 
 game: Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es)/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es)/Doom 3 - BFG Edition (USA, Asia) (En,Fr,Es).json
 developer: id Software
 publisher: Bethesda Softworks
 genre: Action;Shooter
@@ -839,7 +839,7 @@ x-playable: Yes
 
 
 game: Dragon Age - Inquisition (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Dragon Age - Inquisition (USA) (En,Fr,Es)/Dragon Age - Inquisition (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Dragon Age - Inquisition (USA) (En,Fr,Es)/Dragon Age - Inquisition (USA) (En,Fr,Es).json
 developer: BioWare
 publisher: Electronic Arts
 genre: Adventure;Role-Playing
@@ -864,7 +864,7 @@ x-playable: Yes
 
 
 game: Dragon's Crown (USA)
-file: Sony/Sony PlayStation 3/Dragon's Crown (USA)/Dragon's Crown (USA).json
+file: Roms/Sony/Sony PlayStation 3/Dragon's Crown (USA)/Dragon's Crown (USA).json
 developer: VanillaWare
 publisher: Atlus
 genre: Action;Role-Playing
@@ -890,7 +890,7 @@ x-playable: Yes
 
 
 game: Dungeon Siege III (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Dungeon Siege III (USA) (En,Fr,Es)/Dungeon Siege III (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Dungeon Siege III (USA) (En,Fr,Es)/Dungeon Siege III (USA) (En,Fr,Es).json
 developer: Obsidian Entertainment
 publisher: Square Enix
 genre: Role-Playing
@@ -910,7 +910,7 @@ x-playable: Yes
 
 
 game: Earth Defense Force - Insect Armageddon (USA)
-file: Sony/Sony PlayStation 3/Earth Defense Force - Insect Armageddon (USA)/Earth Defense Force - Insect Armageddon (USA).json
+file: Roms/Sony/Sony PlayStation 3/Earth Defense Force - Insect Armageddon (USA)/Earth Defense Force - Insect Armageddon (USA).json
 developer: Vicious Cycle
 publisher: D3 Publisher
 genre: Action
@@ -941,7 +941,7 @@ x-playable: Yes
 
 
 game: Earth Defense Force 2025 (USA)
-file: Sony/Sony PlayStation 3/Earth Defense Force 2025 (USA)/Earth Defense Force 2025 (USA).json
+file: Roms/Sony/Sony PlayStation 3/Earth Defense Force 2025 (USA)/Earth Defense Force 2025 (USA).json
 developer: Sandlot
 publisher: D3 Publisher
 genre: Action
@@ -966,7 +966,7 @@ x-playable: Yes
 
 
 game: Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA)
-file: Sony/Sony PlayStation 3/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA)/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA).json
+file: Roms/Sony/Sony PlayStation 3/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA)/Elder Scrolls IV, The - Oblivion - Game of the Year Edition (USA).json
 developer: Bethesda
 publisher: Bethesda Softworks
 genre: Adventure;Role-Playing
@@ -1015,7 +1015,7 @@ x-playable: Yes
 
 
 game: Enchanted Arms (USA)
-file: Sony/Sony PlayStation 3/Enchanted Arms (USA)/Enchanted Arms (USA).json
+file: Roms/Sony/Sony PlayStation 3/Enchanted Arms (USA)/Enchanted Arms (USA).json
 developer: FromSoftware, Inc.
 publisher: Ubisoft
 genre: Role-Playing
@@ -1035,7 +1035,7 @@ x-playable: Yes
 
 
 game: Enslaved - Odyssey to the West (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Enslaved - Odyssey to the West (USA) (En,Fr,Es)/Enslaved - Odyssey to the West (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Enslaved - Odyssey to the West (USA) (En,Fr,Es)/Enslaved - Odyssey to the West (USA) (En,Fr,Es).json
 developer: Ninja Theory
 publisher: Namco Bandai Games
 genre: Action;Adventure
@@ -1064,7 +1064,7 @@ x-playable: Yes
 
 
 game: Escape Dead Island (USA) (En,Fr,De,Es,It,Pt)
-file: Sony/Sony PlayStation 3/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt)/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt)/Escape Dead Island (USA) (En,Fr,De,Es,It,Pt).json
 developer: Fatshark
 publisher: Deep Silver
 genre: Action
@@ -1092,7 +1092,7 @@ x-playable: Yes
 
 
 game: Eternal Sonata (USA) (En,Fr)
-file: Sony/Sony PlayStation 3/Eternal Sonata (USA) (En,Fr)/Eternal Sonata (USA) (En,Fr).json
+file: Roms/Sony/Sony PlayStation 3/Eternal Sonata (USA) (En,Fr)/Eternal Sonata (USA) (En,Fr).json
 developer: Tri-Crescendo
 publisher: Bandai Namco Games
 genre: Role-Playing
@@ -1115,7 +1115,7 @@ x-playable: Yes
 
 
 game: Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It)/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It)/Eye of Judgment, The (USA) (En,Ja,Fr,De,Es,It).json
 developer: Japan Studio
 publisher: Sony Computer Entertainment
 genre: Board Game
@@ -1149,7 +1149,7 @@ x-playable: Yes
 
 
 game: F.E.A.R. - First Encounter Assault Recon (USA)
-file: Sony/Sony PlayStation 3/F.E.A.R. - First Encounter Assault Recon (USA)/F.E.A.R. - First Encounter Assault Recon (USA).json
+file: Roms/Sony/Sony PlayStation 3/F.E.A.R. - First Encounter Assault Recon (USA)/F.E.A.R. - First Encounter Assault Recon (USA).json
 developer: Monolith Productions
 publisher: VU Games
 genre: Action;Shooter;First-Person;Arcade
@@ -1170,7 +1170,7 @@ x-playable: Yes
 
 
 game: F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It)/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It)/F.E.A.R. 2 - Project Origin (USA) (En,Fr,De,Es,It).json
 developer: Monolith Productions
 publisher: Warner Bros. Interactive
 genre: Shooter
@@ -1193,7 +1193,7 @@ x-playable: Yes
 
 
 game: F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)
-file: Sony/Sony PlayStation 3/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru)/F.E.A.R. 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Ko,Pl,Ru).json
 developer: Day 1 Studios
 publisher: Warner Bros. Interactive Entertainment
 genre: Horror;Shooter;Stealth
@@ -1215,7 +1215,7 @@ x-playable: Yes
 
 
 game: Falling Skies - The Game (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Falling Skies - The Game (USA) (En,Fr,Es,Pt)/Falling Skies - The Game (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Falling Skies - The Game (USA) (En,Fr,Es,Pt)/Falling Skies - The Game (USA) (En,Fr,Es,Pt).json
 developer: Little Orbit
 publisher: Little Orbit
 genre: Strategy;Turn-Based;Tactics
@@ -1251,7 +1251,7 @@ x-playable: Yes
 
 
 game: Fallout 3 - Game of the Year Edition (USA)
-file: Sony/Sony PlayStation 3/Fallout 3 - Game of the Year Edition (USA)/Fallout 3 - Game of the Year Edition (USA).json
+file: Roms/Sony/Sony PlayStation 3/Fallout 3 - Game of the Year Edition (USA)/Fallout 3 - Game of the Year Edition (USA).json
 developer: Bethesda Game Studios
 publisher: Bethesda Softworks
 genre: Action;Adventure;Role-Playing;Shooter
@@ -1275,7 +1275,7 @@ x-playable: Yes
 
 
 game: Final Fantasy XIII (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Final Fantasy XIII (USA) (En,Fr,De,Es,It)/Final Fantasy XIII (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Final Fantasy XIII (USA) (En,Fr,De,Es,It)/Final Fantasy XIII (USA) (En,Fr,De,Es,It).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -1300,7 +1300,7 @@ x-playable: Yes
 
 
 game: Final Fantasy XIII-2 (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Final Fantasy XIII-2 (USA) (En,Fr,Es)/Final Fantasy XIII-2 (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Final Fantasy XIII-2 (USA) (En,Fr,Es)/Final Fantasy XIII-2 (USA) (En,Fr,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -1325,7 +1325,7 @@ x-playable: Yes
 
 
 game: Folklore (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Folklore (USA) (En,Fr,De,Es,It)/Folklore (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Folklore (USA) (En,Fr,De,Es,It)/Folklore (USA) (En,Fr,De,Es,It).json
 developer: Game Republic
 publisher: Sony Computer Entertainment
 genre: Action;Role-Playing
@@ -1345,7 +1345,7 @@ x-playable: Yes
 
 
 game: Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl)
-file: Sony/Sony PlayStation 3/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl)/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl).json
+file: Roms/Sony/Sony PlayStation 3/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl)/Ghostbusters - The Video Game (USA) (En,Fr,De,Es,It,Nl).json
 developer: Terminal Reality/Threewave Software
 publisher: Atari
 genre: Action;Adventure
@@ -1364,7 +1364,7 @@ x-playable: Yes
 
 
 game: God of War - Ascension (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/God of War - Ascension (USA) (En,Fr,Es,Pt)/God of War - Ascension (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/God of War - Ascension (USA) (En,Fr,Es,Pt)/God of War - Ascension (USA) (En,Fr,Es,Pt).json
 developer: SCE Santa Monica Studio
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -1392,7 +1392,7 @@ x-playable: Yes
 
 
 game: God of War - Origins Collection (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/God of War - Origins Collection (USA) (En,Fr,Es)/God of War - Origins Collection (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/God of War - Origins Collection (USA) (En,Fr,Es)/God of War - Origins Collection (USA) (En,Fr,Es).json
 developer: Ready at Dawn
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -1411,7 +1411,7 @@ x-playable: Yes
 
 
 game: God of War Collection (USA, Asia) (v01.00)
-file: Sony/Sony PlayStation 3/God of War Collection (USA, Asia) (v01.00)/God of War Collection (USA, Asia) (v01.00).json
+file: Roms/Sony/Sony PlayStation 3/God of War Collection (USA, Asia) (v01.00)/God of War Collection (USA, Asia) (v01.00).json
 developer: SCE Santa Monica Studio
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -1441,7 +1441,7 @@ x-playable: Yes
 
 
 game: God of War III (USA) (v01.03)
-file: Sony/Sony PlayStation 3/God of War III (USA) (v01.03)/God of War III (USA) (v01.03).json
+file: Roms/Sony/Sony PlayStation 3/God of War III (USA) (v01.03)/God of War III (USA) (v01.03).json
 developer: SCE Santa Monica Studio
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -1463,7 +1463,7 @@ x-playable: Yes
 
 
 game: Heavenly Sword (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Heavenly Sword (USA) (En,Fr,De,Es,It)/Heavenly Sword (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Heavenly Sword (USA) (En,Fr,De,Es,It)/Heavenly Sword (USA) (En,Fr,De,Es,It).json
 developer: Ninja Theory
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -1488,7 +1488,7 @@ x-playable: Yes
 
 
 game: Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt)/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt)/Heavy Rain - Director's Cut (USA) (En,Fr,Es,Pt).json
 developer: Quantic Dream
 publisher: SCEA
 genre: Adventure;3D;Third-Person
@@ -1507,7 +1507,7 @@ x-playable: Yes
 
 
 game: House of the Dead, The - Overkill - Extended Cut (USA)
-file: Sony/Sony PlayStation 3/House of the Dead, The - Overkill - Extended Cut (USA)/House of the Dead, The - Overkill - Extended Cut (USA).json
+file: Roms/Sony/Sony PlayStation 3/House of the Dead, The - Overkill - Extended Cut (USA)/House of the Dead, The - Overkill - Extended Cut (USA).json
 developer: Headstrong Games
 publisher: Sega
 genre: Action;Shooter
@@ -1581,7 +1581,7 @@ x-playable: Yes
 
 
 game: Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es)/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es)/Ico & Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).json
 developer: Team ICO
 publisher: Sony Computer Entertainment
 genre: Action;Adventure;Platform
@@ -1612,7 +1612,7 @@ x-playable: Yes
 
 
 game: Jak and Daxter Collection (USA, Asia) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Jak and Daxter Collection (USA, Asia) (En,Fr,Es)/Jak and Daxter Collection (USA, Asia) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Jak and Daxter Collection (USA, Asia) (En,Fr,Es)/Jak and Daxter Collection (USA, Asia) (En,Fr,Es).json
 developer: Mass Media Games
 publisher: Sony Computer Entertainment
 genre: Action;Platform;Sandbox
@@ -1641,7 +1641,7 @@ x-playable: Yes
 
 
 game: Journey Collector's Edition (USA)
-file: Sony/Sony PlayStation 3/Journey Collector's Edition (USA)/Journey Collector's Edition (USA).json
+file: Roms/Sony/Sony PlayStation 3/Journey Collector's Edition (USA)/Journey Collector's Edition (USA).json
 developer: ThatGameCompany
 publisher: Sony Computer Entertainment
 genre: Adventure
@@ -1662,7 +1662,7 @@ x-playable: Yes
 
 
 game: Just Cause 2 (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Just Cause 2 (USA) (En,Fr,De,Es,It)/Just Cause 2 (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Just Cause 2 (USA) (En,Fr,De,Es,It)/Just Cause 2 (USA) (En,Fr,De,Es,It).json
 developer: Avalanche Studios
 publisher: Square Enix
 genre: Action;Sandbox;Shooter
@@ -1682,7 +1682,7 @@ x-playable: Yes
 
 
 game: Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es)/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es)/Kingdom Hearts - HD 1.5 ReMIX (USA) (En,Fr,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Action;Role-Playing
@@ -1722,7 +1722,7 @@ x-playable: Yes
 
 
 game: Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es)/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es)/Kingdom Hearts - HD 2.5 ReMIX (USA) (En,Fr,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Action;Adventure;Role-Playing
@@ -1742,7 +1742,7 @@ x-playable: Yes
 
 
 game: Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It)/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It)/Kingdoms of Amalur - Reckoning (USA) (En,Fr,De,Es,It).json
 developer: Big Huge Games
 publisher: Electronic Arts
 genre: Shooter
@@ -1768,7 +1768,7 @@ x-playable: Yes
 
 
 game: Kung Fu Rider (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Kung Fu Rider (USA) (En,Fr,Es,Pt)/Kung Fu Rider (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Kung Fu Rider (USA) (En,Fr,Es,Pt)/Kung Fu Rider (USA) (En,Fr,Es,Pt).json
 developer: Japan Studio
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -1786,7 +1786,7 @@ x-playable: Yes
 
 
 game: L.A. Noire - The Complete Edition (USA)
-file: Sony/Sony PlayStation 3/L.A. Noire - The Complete Edition (USA)/L.A. Noire - The Complete Edition (USA).json
+file: Roms/Sony/Sony PlayStation 3/L.A. Noire - The Complete Edition (USA)/L.A. Noire - The Complete Edition (USA).json
 developer: Team Bondi
 publisher: Rockstar Games
 genre: Action;Adventure
@@ -1804,7 +1804,7 @@ x-playable: Yes
 
 
 game: LEGO Dimensions (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/LEGO Dimensions (USA) (En,Fr,Es)/LEGO Dimensions (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/LEGO Dimensions (USA) (En,Fr,Es)/LEGO Dimensions (USA) (En,Fr,Es).json
 developer: Warner Home Video Games
 publisher: Warner Home Video Games
 genre: Action;Adventure
@@ -1829,7 +1829,7 @@ x-playable: Yes
 
 
 game: Last of Us, The (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Last of Us, The (USA) (En,Fr,Es,Pt)/Last of Us, The (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Last of Us, The (USA) (En,Fr,Es,Pt)/Last of Us, The (USA) (En,Fr,Es,Pt).json
 developer: Naughty Dog Software
 publisher: Sony Computer Entertainment
 genre: Action;Adventure;Horror;Stealth
@@ -1851,7 +1851,7 @@ x-playable: Yes
 
 
 game: Legend of Heroes, The - Trails of Cold Steel (USA)
-file: Sony/Sony PlayStation 3/Legend of Heroes, The - Trails of Cold Steel (USA)/Legend of Heroes, The - Trails of Cold Steel (USA).json
+file: Roms/Sony/Sony PlayStation 3/Legend of Heroes, The - Trails of Cold Steel (USA)/Legend of Heroes, The - Trails of Cold Steel (USA).json
 developer: Nihon Falcom Corp
 publisher: Xseed Games
 genre: Role-Playing
@@ -1874,7 +1874,7 @@ x-playable: Yes
 
 
 game: Legend of Heroes, The - Trails of Cold Steel II (USA)
-file: Sony/Sony PlayStation 3/Legend of Heroes, The - Trails of Cold Steel II (USA)/Legend of Heroes, The - Trails of Cold Steel II (USA).json
+file: Roms/Sony/Sony PlayStation 3/Legend of Heroes, The - Trails of Cold Steel II (USA)/Legend of Heroes, The - Trails of Cold Steel II (USA).json
 developer: Nihon Falcom
 publisher: Xseed Games
 genre: Role-Playing
@@ -1894,7 +1894,7 @@ x-playable: Yes
 
 
 game: Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es)/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es)/Lightning Returns - Final Fantasy XIII (USA) (En,Fr,Es).json
 developer: Square Enix
 publisher: Square Enix
 genre: Role-Playing
@@ -1919,7 +1919,7 @@ x-playable: Yes
 
 
 game: LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es)/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es)/LittleBigPlanet - Game of the Year Edition (USA) (En,Fr,Es).json
 developer: Media Molecule
 publisher: Sony Computer Entertainment
 genre: Platform;Puzzle;Sandbox
@@ -1948,7 +1948,7 @@ x-playable: Yes
 
 
 game: LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es)/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es)/LittleBigPlanet 2 - Special Edition (USA) (En,Fr,Es).json
 developer: Media Molecule
 publisher: Sony Computer Entertainment Europe
 genre: Adventure;Platform;Sandbox
@@ -1977,7 +1977,7 @@ x-playable: Yes
 
 
 game: LittleBigPlanet 3 (USA) (En,Fr)
-file: Sony/Sony PlayStation 3/LittleBigPlanet 3 (USA) (En,Fr)/LittleBigPlanet 3 (USA) (En,Fr).json
+file: Roms/Sony/Sony PlayStation 3/LittleBigPlanet 3 (USA) (En,Fr)/LittleBigPlanet 3 (USA) (En,Fr).json
 developer: Sumo Digital
 publisher: SCEI
 genre: Platform
@@ -2001,7 +2001,7 @@ x-playable: Yes
 
 
 game: Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru)
-file: Sony/Sony PlayStation 3/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru)/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru)/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).json
 developer: Grasshopper Manufacture
 publisher: Warner Bros. Interactive
 genre: Action
@@ -2020,7 +2020,7 @@ x-playable: Yes
 
 
 game: Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko)
-file: Sony/Sony PlayStation 3/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko)/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko).json
+file: Roms/Sony/Sony PlayStation 3/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko)/Lost Planet - Extreme Condition (USA) (En,Ja,Fr,De,Es,It,Ko).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -2043,7 +2043,7 @@ x-playable: Yes
 
 
 game: Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko)
-file: Sony/Sony PlayStation 3/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko)/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko).json
+file: Roms/Sony/Sony PlayStation 3/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko)/Lost Planet 2 (USA) (En,Ja,Fr,De,Es,It,Ko).json
 developer: Capcom
 publisher: Capcom
 genre: Shooter
@@ -2065,7 +2065,7 @@ x-playable: Yes
 
 
 game: Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)
-file: Sony/Sony PlayStation 3/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru)/Lost Planet 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).json
 developer: Spark Unlimited
 publisher: Capcom
 genre: Shooter
@@ -2096,7 +2096,7 @@ x-playable: Yes
 
 
 game: Marvel - Ultimate Alliance (USA)
-file: Sony/Sony PlayStation 3/Marvel - Ultimate Alliance (USA)/Marvel - Ultimate Alliance (USA).json
+file: Roms/Sony/Sony PlayStation 3/Marvel - Ultimate Alliance (USA)/Marvel - Ultimate Alliance (USA).json
 developer: Raven Software
 publisher: Activision
 genre: Action;Role-Playing
@@ -2117,7 +2117,7 @@ x-playable: Yes
 
 
 game: Marvel - Ultimate Alliance 2 (USA)
-file: Sony/Sony PlayStation 3/Marvel - Ultimate Alliance 2 (USA)/Marvel - Ultimate Alliance 2 (USA).json
+file: Roms/Sony/Sony PlayStation 3/Marvel - Ultimate Alliance 2 (USA)/Marvel - Ultimate Alliance 2 (USA).json
 developer: Viscarious Visions
 publisher: Activision
 genre: Action;Role-Playing
@@ -2136,7 +2136,7 @@ x-playable: Yes
 
 
 game: Mass Effect (USA, Asia) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Mass Effect (USA, Asia) (En,Fr,Es)/Mass Effect (USA, Asia) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Mass Effect (USA, Asia) (En,Fr,Es)/Mass Effect (USA, Asia) (En,Fr,Es).json
 developer: BioWare
 publisher: Electronic Arts
 genre: Role-Playing;Shooter
@@ -2182,7 +2182,7 @@ x-playable: Yes
 
 
 game: Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru)
-file: Sony/Sony PlayStation 3/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru)/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru)/Mass Effect 2 (USA, Asia) (En,Fr,De,Es,It,Ru).json
 developer: BioWare
 publisher: Electronic Arts
 genre: Adventure;Role-Playing;Shooter
@@ -2201,7 +2201,7 @@ x-playable: Yes
 
 
 game: Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru)
-file: Sony/Sony PlayStation 3/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru)/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru)/Mass Effect 3 (USA, Asia) (En,Ja,Fr,De,Es,It,Pl,Ru).json
 developer: BioWare
 publisher: Electronic Arts
 genre: Adventure;Role-Playing;Shooter
@@ -2229,7 +2229,7 @@ x-playable: Yes
 
 
 game: Max Payne 3 (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Max Payne 3 (USA) (En,Fr,Es)/Max Payne 3 (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Max Payne 3 (USA) (En,Fr,Es)/Max Payne 3 (USA) (En,Fr,Es).json
 developer: Rockstar Vancouver
 publisher: Rockstar Games
 genre: Action;Shooter
@@ -2253,7 +2253,7 @@ x-playable: Yes
 
 
 game: Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es)/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es)/Metal Gear Solid - HD Collection (USA, Asia) (En,Fr,Es).json
 developer: Kojima Productions
 publisher: Konami
 genre: Stealth
@@ -2281,7 +2281,7 @@ x-playable: Yes
 
 
 game: Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01)
-file: Sony/Sony PlayStation 3/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01)/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01).json
+file: Roms/Sony/Sony PlayStation 3/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01)/Metal Gear Solid 4 - Guns of the Patriots (USA) (En,Fr,De,Es,It) (v01.01).json
 developer: Kojima Productions
 publisher: Konami
 genre: Action;Adventure;Shooter;Stealth
@@ -2305,7 +2305,7 @@ x-playable: Yes
 
 
 game: Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)
-file: Sony/Sony PlayStation 3/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Metal Gear Solid V - Ground Zeroes (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
 developer: Kojima Productions (Konami)
 publisher: Konami
 genre: Action;Adventure;Role-Playing;Stealth
@@ -2325,7 +2325,7 @@ x-playable: Yes
 
 
 game: Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)
-file: Sony/Sony PlayStation 3/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru)/Metal Gear Solid V - The Phantom Pain (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).json
 developer: Kojima Productions (Konami)
 publisher: Konami
 genre: Action;Stealth
@@ -2370,7 +2370,7 @@ x-playable: Yes
 
 
 game: Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It)/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It)/Monkey Island - Special Edition Collection (Europe) (En,Fr,De,Es,It).json
 developer: LucasArts
 publisher: LucasArts
 genre: Adventure
@@ -2392,7 +2392,7 @@ x-playable: Yes
 
 
 game: Murdered - Soul Suspect (USA, Korea) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es)/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es)/Murdered - Soul Suspect (USA, Korea) (En,Fr,Es).json
 developer: Airtight Games
 publisher: Square Enix
 genre: Adventure
@@ -2418,7 +2418,7 @@ x-playable: Yes
 
 
 game: Naughty Bear - Gold Edition (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Naughty Bear - Gold Edition (USA) (En,Fr,Es)/Naughty Bear - Gold Edition (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Naughty Bear - Gold Edition (USA) (En,Fr,Es)/Naughty Bear - Gold Edition (USA) (En,Fr,Es).json
 developer: Behavior Interactive
 publisher: 505 Games
 genre: Action;Adventure;Horror
@@ -2441,7 +2441,7 @@ x-playable: Yes
 
 
 game: Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It)/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It)/Ni no Kuni - Wrath of the White Witch (USA) (En,Fr,De,Es,It).json
 developer: Level-5
 publisher: Namco Bandai
 genre: Role-Playing
@@ -2462,7 +2462,7 @@ x-playable: Yes
 
 
 game: Odin Sphere - Leifthrasir (USA)
-file: Sony/Sony PlayStation 3/Odin Sphere - Leifthrasir (USA)/Odin Sphere - Leifthrasir (USA).json
+file: Roms/Sony/Sony PlayStation 3/Odin Sphere - Leifthrasir (USA)/Odin Sphere - Leifthrasir (USA).json
 developer: VanillaWare
 publisher: Atlus
 genre: Role-Playing;Strategy
@@ -2504,7 +2504,7 @@ x-playable: Yes
 
 
 game: Overlord - Raising Hell (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Overlord - Raising Hell (USA) (En,Fr,De,Es,It)/Overlord - Raising Hell (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Overlord - Raising Hell (USA) (En,Fr,De,Es,It)/Overlord - Raising Hell (USA) (En,Fr,De,Es,It).json
 developer: 4J Studios
 publisher: Codemasters
 genre: Action;Role-Playing
@@ -2529,7 +2529,7 @@ x-playable: Yes
 
 
 game: Overlord II (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Overlord II (USA) (En,Fr,De,Es,It)/Overlord II (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Overlord II (USA) (En,Fr,De,Es,It)/Overlord II (USA) (En,Fr,De,Es,It).json
 developer: Triumph Studios
 publisher: Codemasters
 genre: Action Adventure;General
@@ -2555,7 +2555,7 @@ x-playable: Yes
 
 
 game: Persona 5 (USA)
-file: Sony/Sony PlayStation 3/Persona 5 (USA)/Persona 5 (USA).json
+file: Roms/Sony/Sony PlayStation 3/Persona 5 (USA)/Persona 5 (USA).json
 developer: Atlus
 publisher: Atlus
 genre: Role-Playing
@@ -2581,7 +2581,7 @@ x-playable: Yes
 
 
 game: PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt)/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt)/PlayStation All-Stars Battle Royale (USA) (En,Fr,Es,Pt).json
 developer: Superbot Entertainment
 publisher: Sony Computer Entertainment
 genre: Fighting
@@ -2602,7 +2602,7 @@ x-playable: Yes
 
 
 game: Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)
-file: Sony/Sony PlayStation 3/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru)/Portal 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).json
 developer: Valve Corporation
 publisher: Valve Corporation
 genre: Puzzle;Shooter
@@ -2653,7 +2653,7 @@ x-playable: Yes
 
 
 game: Prince of Persia Trilogy (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It)/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It)/Prince of Persia Trilogy (USA) (En,Fr,De,Es,It).json
 developer: Ubisoft Montreal
 publisher: Ubisoft
 genre: Action;Adventure;Platform
@@ -2676,7 +2676,7 @@ x-playable: Yes
 
 
 game: Puppeteer (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Puppeteer (USA) (En,Fr,Es,Pt)/Puppeteer (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Puppeteer (USA) (En,Fr,Es,Pt)/Puppeteer (USA) (En,Fr,Es,Pt).json
 developer: SCE Japan Studio
 publisher: Sony Computer Entertainment
 genre: Platform
@@ -2703,7 +2703,7 @@ x-playable: Yes
 
 
 game: Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es)/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es)/Ratchet & Clank Future - A Crack in Time (USA) (En,Fr,Es).json
 developer: Insomniac Games
 publisher: Sony Computer Entertainment
 genre: Action;Platform;Shooter
@@ -2736,7 +2736,7 @@ x-playable: Yes
 
 
 game: Ratchet & Clank Future - Tools of Destruction (USA) (v01.00)
-file: Sony/Sony PlayStation 3/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00)/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00).json
+file: Roms/Sony/Sony PlayStation 3/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00)/Ratchet & Clank Future - Tools of Destruction (USA) (v01.00).json
 developer: Insomniac Games
 publisher: Sony Computer Entertainment
 genre: Platform;Shooter
@@ -2763,7 +2763,7 @@ x-playable: Yes
 
 
 game: Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It)/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It)/Red Dead Redemption - Game of the Year Edition (USA) (En,Fr,De,Es,It).json
 developer: Rockstar San Diego
 publisher: Rockstar Games
 genre: Action;Adventure;Sandbox;Shooter
@@ -2785,7 +2785,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru)
-file: Sony/Sony PlayStation 3/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru)/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru)/Resident Evil - Operation Raccoon City (USA, Asia) (En,Fr,De,Es,It,Nl,Pl,Ru).json
 developer: Slant Six
 publisher: Capcom
 genre: Action;Shooter
@@ -2818,7 +2818,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)
-file: Sony/Sony PlayStation 3/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru)/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Horror
@@ -2838,7 +2838,7 @@ x-playable: Yes
 
 
 game: Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)
-file: Sony/Sony PlayStation 3/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru)/Resident Evil - Revelations 2 (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure
@@ -2878,7 +2878,7 @@ x-playable: Yes
 
 
 game: Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00)
-file: Sony/Sony PlayStation 3/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00)/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00).json
+file: Roms/Sony/Sony PlayStation 3/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00)/Resident Evil 5 - Gold Edition (USA) (En,Ja,Fr,De,Es,It) (v02.00).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -2906,7 +2906,7 @@ x-playable: Yes
 
 
 game: Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru)
-file: Sony/Sony PlayStation 3/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru)/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru).json
+file: Roms/Sony/Sony PlayStation 3/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru)/Resident Evil 6 (USA, Asia) (En,Fr,De,Es,It,Pt,Pl,Ru).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Shooter
@@ -2935,7 +2935,7 @@ x-playable: Yes
 
 
 game: Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko)
-file: Sony/Sony PlayStation 3/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko)/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).json
+file: Roms/Sony/Sony PlayStation 3/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko)/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).json
 developer: Insomniac Games
 publisher: Sony Computer Entertainment
 genre: Shooter
@@ -2962,7 +2962,7 @@ x-playable: Yes
 
 
 game: Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)
-file: Sony/Sony PlayStation 3/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).json
+file: Roms/Sony/Sony PlayStation 3/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko)/Resistance 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Ko).json
 developer: Insomniac Games
 publisher: Sony Computer Entertainment
 genre: Shooter
@@ -2990,7 +2990,7 @@ x-playable: Yes
 
 
 game: Resistance 3 (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Resistance 3 (USA) (En,Fr,Es)/Resistance 3 (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Resistance 3 (USA) (En,Fr,Es)/Resistance 3 (USA) (En,Fr,Es).json
 developer: Insomniac Games
 publisher: Sony Computer Entertainment
 genre: Shooter
@@ -3024,7 +3024,7 @@ x-playable: Yes
 
 
 game: Ride to Hell - Retribution (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It)/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It)/Ride to Hell - Retribution (USA) (En,Fr,De,Es,It).json
 developer: Eutechnyx
 publisher: Deep Silver
 genre: Action
@@ -3043,7 +3043,7 @@ x-playable: Yes
 
 
 game: Saw (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Saw (USA) (En,Fr,Es)/Saw (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Saw (USA) (En,Fr,Es)/Saw (USA) (En,Fr,Es).json
 developer: Zombie
 publisher: Konami
 genre: Action
@@ -3068,7 +3068,7 @@ x-playable: Yes
 
 
 game: Saw II - Flesh & Blood (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Saw II - Flesh & Blood (USA) (En,Fr,Es)/Saw II - Flesh & Blood (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Saw II - Flesh & Blood (USA) (En,Fr,Es)/Saw II - Flesh & Blood (USA) (En,Fr,Es).json
 developer: Zombie Studios
 publisher: Konami
 genre: Horror
@@ -3088,7 +3088,7 @@ x-playable: Yes
 
 
 game: Shadows of the Damned (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Shadows of the Damned (USA) (En,Fr,De,Es,It)/Shadows of the Damned (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Shadows of the Damned (USA) (En,Fr,De,Es,It)/Shadows of the Damned (USA) (En,Fr,De,Es,It).json
 developer: Grasshopper Manufacture
 publisher: Electrionic Arts
 genre: Action;Horror;Shooter
@@ -3109,7 +3109,7 @@ x-playable: Yes
 
 
 game: Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It)/Sid Meier's Civilization Revolution (USA) (En,Fr,De,Es,It).json
 developer: Firaxis Games
 publisher: 2K Games
 genre: Strategy
@@ -3132,7 +3132,7 @@ x-playable: Yes
 
 
 game: Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt)
-file: Sony/Sony PlayStation 3/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt)/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt)/Silent Hill - Downpour (USA, Asia) (En,Fr,De,Es,It,Pt).json
 developer: Vatra
 publisher: Konami
 genre: Adventure;Horror
@@ -3160,7 +3160,7 @@ x-playable: Yes
 
 
 game: Silent Hill - Homecoming (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It)/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It)/Silent Hill - Homecoming (USA) (En,Fr,De,Es,It).json
 developer: Double Helix, Konami
 publisher: Konami
 genre: Action;Horror
@@ -3188,7 +3188,7 @@ x-playable: Yes
 
 
 game: Siren - Blood Curse (Europe) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Siren - Blood Curse (Europe) (En,Fr,De,Es,It)/Siren - Blood Curse (Europe) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Siren - Blood Curse (Europe) (En,Fr,De,Es,It)/Siren - Blood Curse (Europe) (En,Fr,De,Es,It).json
 developer: SCE Studios Japan
 publisher: Sony Computer Entertainment
 genre: Horror
@@ -3217,7 +3217,7 @@ x-playable: Yes
 
 
 game: Sly Collection, The (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Sly Collection, The (USA) (En,Fr,Es)/Sly Collection, The (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Sly Collection, The (USA) (En,Fr,Es)/Sly Collection, The (USA) (En,Fr,Es).json
 developer: Sucker Punch
 publisher: Sony Computer Entertainment
 genre: Platform;Stealth
@@ -3239,7 +3239,7 @@ x-playable: Yes
 
 
 game: Sonic Generations (USA) (En,Ja,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Sonic Generations (USA) (En,Ja,Fr,De,Es,It)/Sonic Generations (USA) (En,Ja,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Sonic Generations (USA) (En,Ja,Fr,De,Es,It)/Sonic Generations (USA) (En,Ja,Fr,De,Es,It).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Adventure;Platform
@@ -3261,7 +3261,7 @@ x-playable: Yes
 
 
 game: Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es)/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es)/Sonic's Ultimate Genesis Collection (USA) (En,Fr,Es).json
 developer: Backbone Entertainment
 publisher: Sega
 genre: Action;Platform;Puzzle;Role-Playing;Beat 'em Up
@@ -3294,7 +3294,7 @@ x-playable: Yes
 
 
 game: Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It)/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It)/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).json
 developer: Project Soul
 publisher: Namco Bandai
 genre: Fighting
@@ -3315,7 +3315,7 @@ x-playable: Yes
 
 
 game: South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt)
-file: Sony/Sony PlayStation 3/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt)/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt).json
+file: Roms/Sony/Sony PlayStation 3/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt)/South Park - The Stick of Truth (USA) (En,Fr,De,Es,It,Pt).json
 developer: Obsidian Entertainment
 publisher: Ubisoft
 genre: Role-Playing
@@ -3344,7 +3344,7 @@ x-playable: Yes
 
 
 game: Splatterhouse (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Splatterhouse (USA) (En,Fr,Es)/Splatterhouse (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Splatterhouse (USA) (En,Fr,Es)/Splatterhouse (USA) (En,Fr,Es).json
 developer: Namco Bandai Games
 publisher: Namco Bandai Games
 genre: Action;Adventure;Horror
@@ -3374,7 +3374,7 @@ x-playable: Yes
 
 
 game: Star Ocean - Integrity and Faithlessness (Japan)
-file: Sony/Sony PlayStation 3/Star Ocean - Integrity and Faithlessness (Japan)/Star Ocean - Integrity and Faithlessness (Japan).json
+file: Roms/Sony/Sony PlayStation 3/Star Ocean - Integrity and Faithlessness (Japan)/Star Ocean - Integrity and Faithlessness (Japan).json
 developer: tri-Ace
 publisher: Square Enix Co., Ltd.
 genre: Role-Playing;Action RPG
@@ -3391,7 +3391,7 @@ x-playable: Yes
 
 
 game: Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It)/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It)/Star Ocean - The Last Hope International (World) (En,Ja,Fr,De,Es,It).json
 developer: tri-Ace
 publisher: Square Enix
 genre: Action;Role-Playing
@@ -3424,7 +3424,7 @@ x-playable: Yes
 
 
 game: Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It)/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It)/Star Wars - The Force Unleashed (USA) (En,Fr,De,Es,It).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action;Adventure
@@ -3446,7 +3446,7 @@ x-playable: Yes
 
 
 game: Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It)/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It)/Star Wars - The Force Unleashed II (USA) (En,Fr,De,Es,It).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action
@@ -3468,7 +3468,7 @@ x-playable: Yes
 
 
 game: Syberia Collection (Brazil)
-file: Sony/Sony PlayStation 3/Syberia Collection (Brazil)/Syberia Collection (Brazil).json
+file: Roms/Sony/Sony PlayStation 3/Syberia Collection (Brazil)/Syberia Collection (Brazil).json
 developer: Microids
 publisher: The Adventure Company
 genre: Adventure
@@ -3500,7 +3500,7 @@ x-playable: Yes
 
 
 game: Tales of Graces f (USA)
-file: Sony/Sony PlayStation 3/Tales of Graces f (USA)/Tales of Graces f (USA).json
+file: Roms/Sony/Sony PlayStation 3/Tales of Graces f (USA)/Tales of Graces f (USA).json
 developer: Namco Tales Studio
 publisher: Namco Bandai Games
 genre: Role-Playing
@@ -3525,7 +3525,7 @@ x-playable: Yes
 
 
 game: Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It)/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It)/Tales of Symphonia Chronicles (USA) (En,Fr,De,Es,It).json
 developer: Namco Tales Studio
 publisher: Bandai Namco Games
 genre: Role-Playing
@@ -3547,7 +3547,7 @@ x-playable: Yes
 
 
 game: Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It)/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It)/Tales of Xillia + Tales of Xillia 2 (Europe) (En,Fr,De,Es,It).json
 developer: Bandai Namco Games
 publisher: Bandai Namco Games
 genre: Miscellaneous;Compilation
@@ -3574,7 +3574,7 @@ x-playable: Yes
 
 
 game: Tales of Zestiria (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Tales of Zestiria (USA) (En,Fr,De,Es,It)/Tales of Zestiria (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Tales of Zestiria (USA) (En,Fr,De,Es,It)/Tales of Zestiria (USA) (En,Fr,De,Es,It).json
 developer: Tri-crescendo
 publisher: Bandai Namco Games
 genre: Role-Playing
@@ -3604,7 +3604,7 @@ x-playable: Yes
 
 
 game: Tomb Raider (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Tomb Raider (USA) (En,Fr,Es,Pt)/Tomb Raider (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Tomb Raider (USA) (En,Fr,Es,Pt)/Tomb Raider (USA) (En,Fr,Es,Pt).json
 developer: Crystal Dynamics
 publisher: Square Enix
 genre: Action;Adventure
@@ -3621,7 +3621,7 @@ x-playable: Yes
 
 
 game: Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl)
-file: Sony/Sony PlayStation 3/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl)/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl).json
+file: Roms/Sony/Sony PlayStation 3/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl)/Tomb Raider Trilogy, The (USA) (En,Fr,De,Es,It,Nl).json
 developer: Crystal Dynamics
 publisher: Eidos  Interactive
 genre: Action;Adventure;Shooter
@@ -3637,7 +3637,7 @@ x-playable: Yes
 
 
 game: Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)
-file: Sony/Sony PlayStation 3/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).json
+file: Roms/Sony/Sony PlayStation 3/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)/Uncharted - Drake's Fortune (USA) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi).json
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -3664,7 +3664,7 @@ x-playable: Yes
 
 
 game: Uncharted 2 - Among Thieves (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Uncharted 2 - Among Thieves (USA) (En,Fr,Es)/Uncharted 2 - Among Thieves (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Uncharted 2 - Among Thieves (USA) (En,Fr,Es)/Uncharted 2 - Among Thieves (USA) (En,Fr,Es).json
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -3688,7 +3688,7 @@ x-playable: Yes
 
 
 game: Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt)
-file: Sony/Sony PlayStation 3/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt)/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt).json
+file: Roms/Sony/Sony PlayStation 3/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt)/Uncharted 3 - Drake's Deception - Game of the Year Edition (USA) (En,Fr,Es,Pt).json
 developer: Naughty Dog
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -3715,7 +3715,7 @@ x-playable: Yes
 
 
 game: Unreal Tournament III (USA)
-file: Sony/Sony PlayStation 3/Unreal Tournament III (USA)/Unreal Tournament III (USA).json
+file: Roms/Sony/Sony PlayStation 3/Unreal Tournament III (USA)/Unreal Tournament III (USA).json
 developer: Epic
 publisher: Midway
 genre: Shooter
@@ -3733,7 +3733,7 @@ x-playable: Yes
 
 
 game: Valkyria Chronicles (USA)
-file: Sony/Sony PlayStation 3/Valkyria Chronicles (USA)/Valkyria Chronicles (USA).json
+file: Roms/Sony/Sony PlayStation 3/Valkyria Chronicles (USA)/Valkyria Chronicles (USA).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing;Strategy
@@ -3762,7 +3762,7 @@ x-playable: Yes
 
 
 game: Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It)
-file: Sony/Sony PlayStation 3/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It)/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It).json
+file: Roms/Sony/Sony PlayStation 3/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It)/Watchmen - The End Is Nigh - Parts 1 and 2 (USA) (En,Fr,De,Es,It).json
 developer: Deadline Games
 publisher: Warner Bros. Interactive Entertainment
 genre: Miscellaneous;Compilation
@@ -3783,7 +3783,7 @@ x-playable: Yes
 
 
 game: White Knight Chronicles - International Edition (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/White Knight Chronicles - International Edition (USA) (En,Fr,Es)/White Knight Chronicles - International Edition (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/White Knight Chronicles - International Edition (USA) (En,Fr,Es)/White Knight Chronicles - International Edition (USA) (En,Fr,Es).json
 developer: Level-5
 publisher: Sony Computer Entertainment
 genre: Role-Playing
@@ -3816,7 +3816,7 @@ x-playable: Yes
 
 
 game: White Knight Chronicles II (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/White Knight Chronicles II (USA) (En,Fr,Es)/White Knight Chronicles II (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/White Knight Chronicles II (USA) (En,Fr,Es)/White Knight Chronicles II (USA) (En,Fr,Es).json
 developer: Level-5
 publisher: Sony Computer Entertainment
 genre: Role-Playing
@@ -3839,7 +3839,7 @@ x-playable: Yes
 
 
 game: Wolfenstein (USA) (En,Fr)
-file: Sony/Sony PlayStation 3/Wolfenstein (USA) (En,Fr)/Wolfenstein (USA) (En,Fr).json
+file: Roms/Sony/Sony PlayStation 3/Wolfenstein (USA) (En,Fr)/Wolfenstein (USA) (En,Fr).json
 developer: id Software
 publisher: Activision
 genre: Shooter
@@ -3871,7 +3871,7 @@ x-playable: Yes
 
 
 game: Wolfenstein - The New Order (USA) (En,Fr,Es)
-file: Sony/Sony PlayStation 3/Wolfenstein - The New Order (USA) (En,Fr,Es)/Wolfenstein - The New Order (USA) (En,Fr,Es).json
+file: Roms/Sony/Sony PlayStation 3/Wolfenstein - The New Order (USA) (En,Fr,Es)/Wolfenstein - The New Order (USA) (En,Fr,Es).json
 developer: Machinegames
 publisher: Bethesda
 genre: Shooter
@@ -3890,7 +3890,7 @@ x-playable: Yes
 
 
 game: inFamous (USA) (En,Fr,Es) (v02.00)
-file: Sony/Sony PlayStation 3/inFamous (USA) (En,Fr,Es) (v02.00)/inFamous (USA) (En,Fr,Es) (v02.00).json
+file: Roms/Sony/Sony PlayStation 3/inFamous (USA) (En,Fr,Es) (v02.00)/inFamous (USA) (En,Fr,Es) (v02.00).json
 developer: Sucker Punch
 publisher: Sony Computer Entertainment
 genre: Action;Sandbox
@@ -3913,7 +3913,7 @@ x-playable: Yes
 
 
 game: inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00)
-file: Sony/Sony PlayStation 3/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00)/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00).json
+file: Roms/Sony/Sony PlayStation 3/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00)/inFamous 2 (USA) (En,Fr,Es,Pt) (v02.00).json
 developer: Sucker Punch
 publisher: Sony Computer Entertainment
 genre: Action;Sandbox

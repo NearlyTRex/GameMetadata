@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Amazon Games" -n {file.basena
 
 
 game: ACA Neo Geo - 3 Count Bout (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - 3 Count Bout (USA)/ACA Neo Geo - 3 Count Bout (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - 3 Count Bout (USA)/ACA Neo Geo - 3 Count Bout (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Sports
@@ -34,7 +34,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Alpha Mission II (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Alpha Mission II (USA)/ACA Neo Geo - Alpha Mission II (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Alpha Mission II (USA)/ACA Neo Geo - Alpha Mission II (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -66,7 +66,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA)/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA)/ACA Neo Geo - Art of Fighting 3 - The Path of The Warrior (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -100,7 +100,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Crossed Swords (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Crossed Swords (USA)/ACA Neo Geo - Crossed Swords (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Crossed Swords (USA)/ACA Neo Geo - Crossed Swords (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -131,7 +131,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Ghost Pilots (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Ghost Pilots (USA)/ACA Neo Geo - Ghost Pilots (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Ghost Pilots (USA)/ACA Neo Geo - Ghost Pilots (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Shooter
@@ -161,7 +161,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA)/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA)/ACA Neo Geo - King of the Monsters 2 - The Next Thing (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -193,7 +193,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA)/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA)/ACA Neo Geo - Kizuna Encounter - Super Tag Battle (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -225,7 +225,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Last Resort (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Last Resort (USA)/ACA Neo Geo - Last Resort (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Last Resort (USA)/ACA Neo Geo - Last Resort (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -254,7 +254,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Magician Lord (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Magician Lord (USA)/ACA Neo Geo - Magician Lord (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Magician Lord (USA)/ACA Neo Geo - Magician Lord (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -276,7 +276,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Metal Slug (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug (USA)/ACA Neo Geo - Metal Slug (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug (USA)/ACA Neo Geo - Metal Slug (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -293,7 +293,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Metal Slug 3 (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 3 (USA)/ACA Neo Geo - Metal Slug 3 (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 3 (USA)/ACA Neo Geo - Metal Slug 3 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -312,7 +312,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Metal Slug 4 (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 4 (USA)/ACA Neo Geo - Metal Slug 4 (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug 4 (USA)/ACA Neo Geo - Metal Slug 4 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Shooter
@@ -332,7 +332,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Metal Slug X (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Metal Slug X (USA)/ACA Neo Geo - Metal Slug X (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Metal Slug X (USA)/ACA Neo Geo - Metal Slug X (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Shooter
@@ -351,7 +351,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Mutation Nation (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Mutation Nation (USA)/ACA Neo Geo - Mutation Nation (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Mutation Nation (USA)/ACA Neo Geo - Mutation Nation (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -382,7 +382,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Ninja Commando (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Ninja Commando (USA)/ACA Neo Geo - Ninja Commando (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Ninja Commando (USA)/ACA Neo Geo - Ninja Commando (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -411,7 +411,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Ninja Masters (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Ninja Masters (USA)/ACA Neo Geo - Ninja Masters (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Ninja Masters (USA)/ACA Neo Geo - Ninja Masters (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -440,7 +440,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Over Top (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Over Top (USA)/ACA Neo Geo - Over Top (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Over Top (USA)/ACA Neo Geo - Over Top (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Racing
@@ -475,7 +475,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA)/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA)/ACA Neo Geo - Real Bout Fatal Fury 2 - The Newcomers (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Fighting;2D
@@ -502,7 +502,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Robo Army (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Robo Army (USA)/ACA Neo Geo - Robo Army (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Robo Army (USA)/ACA Neo Geo - Robo Army (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -534,7 +534,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA)/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA)/ACA Neo Geo - Samurai Shodown IV - Amakusa's Revenge (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -566,7 +566,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Sengoku (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Sengoku (USA)/ACA Neo Geo - Sengoku (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Sengoku (USA)/ACA Neo Geo - Sengoku (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Beat-'Em-Up;2D
@@ -584,7 +584,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Sengoku 2 (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Sengoku 2 (USA)/ACA Neo Geo - Sengoku 2 (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Sengoku 2 (USA)/ACA Neo Geo - Sengoku 2 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -619,7 +619,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Soccer Brawl (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Soccer Brawl (USA)/ACA Neo Geo - Soccer Brawl (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Soccer Brawl (USA)/ACA Neo Geo - Soccer Brawl (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Sports
@@ -650,7 +650,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Super Sidekicks (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Super Sidekicks (USA)/ACA Neo Geo - Super Sidekicks (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Super Sidekicks (USA)/ACA Neo Geo - Super Sidekicks (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Sports
@@ -684,7 +684,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - The King of Fighters 2003 (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - The King of Fighters 2003 (USA)/ACA Neo Geo - The King of Fighters 2003 (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - The King of Fighters 2003 (USA)/ACA Neo Geo - The King of Fighters 2003 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Fighting;2D
@@ -711,7 +711,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - The Last Blade (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - The Last Blade (USA)/ACA Neo Geo - The Last Blade (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - The Last Blade (USA)/ACA Neo Geo - The Last Blade (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Fighting
@@ -730,7 +730,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - The Last Blade 2 (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - The Last Blade 2 (USA)/ACA Neo Geo - The Last Blade 2 (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - The Last Blade 2 (USA)/ACA Neo Geo - The Last Blade 2 (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action;Fighting
@@ -775,7 +775,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - The Super Spy (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - The Super Spy (USA)/ACA Neo Geo - The Super Spy (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - The Super Spy (USA)/ACA Neo Geo - The Super Spy (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -805,7 +805,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Top Hunter - Roddy & Cathy (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA)/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA)/ACA Neo Geo - Top Hunter - Roddy & Cathy (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Action
@@ -836,7 +836,7 @@ x-playable: Yes
 
 
 game: ACA Neo Geo - Twinkle Star Sprites (USA)
-file: Computer/Amazon Games/A/ACA Neo Geo - Twinkle Star Sprites (USA)/ACA Neo Geo - Twinkle Star Sprites (USA).json
+file: Roms/Computer/Amazon Games/A/ACA Neo Geo - Twinkle Star Sprites (USA)/ACA Neo Geo - Twinkle Star Sprites (USA).json
 developer: SNK
 publisher: HAMSTER Corporation
 genre: Shooter
@@ -855,7 +855,7 @@ x-playable: Yes
 
 
 game: Aces of the Luftwaffe - Squadron Extended Edition (USA)
-file: Computer/Amazon Games/A/Aces of the Luftwaffe - Squadron Extended Edition (USA)/Aces of the Luftwaffe - Squadron Extended Edition (USA).json
+file: Roms/Computer/Amazon Games/A/Aces of the Luftwaffe - Squadron Extended Edition (USA)/Aces of the Luftwaffe - Squadron Extended Edition (USA).json
 developer: HandyGames
 publisher: HandyGames
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -883,7 +883,7 @@ x-playable: Yes
 
 
 game: Baldur's Gate - Enhanced Edition (USA)
-file: Computer/Amazon Games/B/Baldur's Gate - Enhanced Edition (USA)/Baldur's Gate - Enhanced Edition (USA).json
+file: Roms/Computer/Amazon Games/B/Baldur's Gate - Enhanced Edition (USA)/Baldur's Gate - Enhanced Edition (USA).json
 developer: Beamdog
 publisher: Beamdog
 genre: Role-Playing;Strategy
@@ -930,7 +930,7 @@ x-playable: Yes
 
 
 game: Baldur's Gate II - Enhanced Edition (USA)
-file: Computer/Amazon Games/B/Baldur's Gate II - Enhanced Edition (USA)/Baldur's Gate II - Enhanced Edition (USA).json
+file: Roms/Computer/Amazon Games/B/Baldur's Gate II - Enhanced Edition (USA)/Baldur's Gate II - Enhanced Edition (USA).json
 developer: Beamdog
 publisher: Beamdog
 genre: Role-Playing;Strategy
@@ -974,7 +974,7 @@ x-playable: Yes
 
 
 game: Bang Bang Racing (USA)
-file: Computer/Amazon Games/B/Bang Bang Racing (USA)/Bang Bang Racing (USA).json
+file: Roms/Computer/Amazon Games/B/Bang Bang Racing (USA)/Bang Bang Racing (USA).json
 developer: Digital Reality
 publisher: Digital Reality
 genre: Racing;Arcade;Automobile
@@ -996,7 +996,7 @@ x-playable: Yes
 
 
 game: Beholder 3 (USA)
-file: Computer/Amazon Games/B/Beholder 3 (USA)/Beholder 3 (USA).json
+file: Roms/Computer/Amazon Games/B/Beholder 3 (USA)/Beholder 3 (USA).json
 developer: Paintbucket Games
 publisher: Alawar Premium
 genre: Adventure
@@ -1021,7 +1021,7 @@ x-playable: Yes
 
 
 game: Blade Assault (USA)
-file: Computer/Amazon Games/B/Blade Assault (USA)/Blade Assault (USA).json
+file: Roms/Computer/Amazon Games/B/Blade Assault (USA)/Blade Assault (USA).json
 developer: TeamSuneat
 publisher: Neowiz Games
 genre: Action;Adventure;Platform
@@ -1039,7 +1039,7 @@ x-playable: Yes
 
 
 game: Collage Atlas, The (USA)
-file: Computer/Amazon Games/C/Collage Atlas, The (USA)/Collage Atlas, The (USA).json
+file: Roms/Computer/Amazon Games/C/Collage Atlas, The (USA)/Collage Atlas, The (USA).json
 developer: John William Evelyn
 publisher: Robot House Games Ltd
 genre: Adventure;Life Simulation
@@ -1093,7 +1093,7 @@ x-playable: Yes
 
 
 game: Cook, Serve, Delicious! 3! (USA)
-file: Computer/Amazon Games/C/Cook, Serve, Delicious! 3! (USA)/Cook, Serve, Delicious! 3! (USA).json
+file: Roms/Computer/Amazon Games/C/Cook, Serve, Delicious! 3! (USA)/Cook, Serve, Delicious! 3! (USA).json
 developer: Vertigo Games
 publisher: Vertigo Games
 genre: Strategy;Management;Business / Tycoon
@@ -1116,7 +1116,7 @@ x-playable: Yes
 
 
 game: Dexter Stardust - Adventures in Outer Space (USA)
-file: Computer/Amazon Games/D/Dexter Stardust - Adventures in Outer Space (USA)/Dexter Stardust - Adventures in Outer Space (USA).json
+file: Roms/Computer/Amazon Games/D/Dexter Stardust - Adventures in Outer Space (USA)/Dexter Stardust - Adventures in Outer Space (USA).json
 developer: Dexter Team Games
 publisher: Dexter Team Games
 genre: Adventure;Point-and-Click
@@ -1143,7 +1143,7 @@ x-playable: Yes
 
 
 game: Disney-Pixar Cars (USA)
-file: Computer/Amazon Games/D/Disney-Pixar Cars (USA)/Disney-Pixar Cars (USA).json
+file: Roms/Computer/Amazon Games/D/Disney-Pixar Cars (USA)/Disney-Pixar Cars (USA).json
 developer: Beenox Studios
 publisher: THQ
 genre: Racing
@@ -1162,7 +1162,7 @@ x-playable: Yes
 
 
 game: Disney-Pixar WALL-E (USA)
-file: Computer/Amazon Games/D/Disney-Pixar WALL-E (USA)/Disney-Pixar WALL-E (USA).json
+file: Roms/Computer/Amazon Games/D/Disney-Pixar WALL-E (USA)/Disney-Pixar WALL-E (USA).json
 developer: Asobo Studio
 publisher: THQ
 genre: Action;Platformer;3D
@@ -1183,7 +1183,7 @@ x-playable: Yes
 
 
 game: DreadOut 2 (USA)
-file: Computer/Amazon Games/D/DreadOut 2 (USA)/DreadOut 2 (USA).json
+file: Roms/Computer/Amazon Games/D/DreadOut 2 (USA)/DreadOut 2 (USA).json
 developer: Digital Happiness
 publisher: Digital Happiness
 genre: Horror
@@ -1217,7 +1217,7 @@ x-playable: Yes
 
 
 game: Driftland - The Magic Revival (USA)
-file: Computer/Amazon Games/D/Driftland - The Magic Revival (USA)/Driftland - The Magic Revival (USA).json
+file: Roms/Computer/Amazon Games/D/Driftland - The Magic Revival (USA)/Driftland - The Magic Revival (USA).json
 developer: Star Drifters
 publisher: Star Drifters
 genre: Strategy;General
@@ -1252,7 +1252,7 @@ x-playable: Yes
 
 
 game: Everdream Valley (USA)
-file: Computer/Amazon Games/E/Everdream Valley (USA)/Everdream Valley (USA).json
+file: Roms/Computer/Amazon Games/E/Everdream Valley (USA)/Everdream Valley (USA).json
 developer: Mooneaters
 publisher: Untold Tales
 genre: Action Adventure;Sandbox
@@ -1274,7 +1274,7 @@ x-playable: Yes
 
 
 game: Faraway - Arctic Escape (USA)
-file: Computer/Amazon Games/F/Faraway - Arctic Escape (USA)/Faraway - Arctic Escape (USA).json
+file: Roms/Computer/Amazon Games/F/Faraway - Arctic Escape (USA)/Faraway - Arctic Escape (USA).json
 developer: Pine Studio
 publisher: Snapbreak Games AB
 genre: Adventure;3D;First-Person
@@ -1299,7 +1299,7 @@ x-playable: Yes
 
 
 game: Faraway 2 - Jungle Escape (USA)
-file: Computer/Amazon Games/F/Faraway 2 - Jungle Escape (USA)/Faraway 2 - Jungle Escape (USA).json
+file: Roms/Computer/Amazon Games/F/Faraway 2 - Jungle Escape (USA)/Faraway 2 - Jungle Escape (USA).json
 developer: Pine Studio
 publisher: Snapbreak Games AB
 genre: Adventure;3D;First-Person
@@ -1322,7 +1322,7 @@ x-playable: Yes
 
 
 game: Figment 2 - Creed Valley (USA)
-file: Computer/Amazon Games/F/Figment 2 - Creed Valley (USA)/Figment 2 - Creed Valley (USA).json
+file: Roms/Computer/Amazon Games/F/Figment 2 - Creed Valley (USA)/Figment 2 - Creed Valley (USA).json
 developer: Bedtime Digital Games
 publisher: Bedtime Digital Games
 genre: Action Adventure;General
@@ -1369,7 +1369,7 @@ x-playable: Yes
 
 
 game: Foretales (USA)
-file: Computer/Amazon Games/F/Foretales (USA)/Foretales (USA).json
+file: Roms/Computer/Amazon Games/F/Foretales (USA)/Foretales (USA).json
 developer: Alkemi Games
 publisher: Dear Villagers
 genre: Strategy;Turn-Based;Card Battle
@@ -1396,7 +1396,7 @@ x-playable: Yes
 
 
 game: Forgotten City, The (USA)
-file: Computer/Amazon Games/F/Forgotten City, The (USA)/Forgotten City, The (USA).json
+file: Roms/Computer/Amazon Games/F/Forgotten City, The (USA)/Forgotten City, The (USA).json
 developer: Modern Storyteller
 publisher: Dear Villagers
 genre: Action Adventure;General
@@ -1424,7 +1424,7 @@ x-playable: Yes
 
 
 game: Gap, The (USA)
-file: Computer/Amazon Games/G/Gap, The (USA)/Gap, The (USA).json
+file: Roms/Computer/Amazon Games/G/Gap, The (USA)/Gap, The (USA).json
 developer: Label This
 publisher: Label This
 genre: Adventure
@@ -1454,7 +1454,7 @@ x-playable: Yes
 
 
 game: Gargoyles Remastered (USA)
-file: Computer/Amazon Games/G/Gargoyles Remastered (USA)/Gargoyles Remastered (USA).json
+file: Roms/Computer/Amazon Games/G/Gargoyles Remastered (USA)/Gargoyles Remastered (USA).json
 developer: Empty Clip Studios
 publisher: Disney Interactive
 genre: Action;Adventure;Platform
@@ -1475,7 +1475,7 @@ x-playable: Yes
 
 
 game: Genesis Noir (USA)
-file: Computer/Amazon Games/G/Genesis Noir (USA)/Genesis Noir (USA).json
+file: Roms/Computer/Amazon Games/G/Genesis Noir (USA)/Genesis Noir (USA).json
 developer: Feral Cat Den
 publisher: Fellow Traveller
 genre: Adventure;Point-and-Click
@@ -1507,7 +1507,7 @@ x-playable: Yes
 
 
 game: Giana Sisters - Twisted Dreams (USA)
-file: Computer/Amazon Games/G/Giana Sisters - Twisted Dreams (USA)/Giana Sisters - Twisted Dreams (USA).json
+file: Roms/Computer/Amazon Games/G/Giana Sisters - Twisted Dreams (USA)/Giana Sisters - Twisted Dreams (USA).json
 developer: Black Forest Games
 publisher: Black Forest Games
 genre: Action;Adventure
@@ -1531,7 +1531,7 @@ x-playable: Yes
 
 
 game: Golfie (USA)
-file: Computer/Amazon Games/G/Golfie (USA)/Golfie (USA).json
+file: Roms/Computer/Amazon Games/G/Golfie (USA)/Golfie (USA).json
 developer: Triheart Studio
 publisher: Yogscast Ltd.
 genre: Action;Sports
@@ -1576,7 +1576,7 @@ x-playable: Yes
 
 
 game: Gravity Circuit (USA)
-file: Computer/Amazon Games/G/Gravity Circuit (USA)/Gravity Circuit (USA).json
+file: Roms/Computer/Amazon Games/G/Gravity Circuit (USA)/Gravity Circuit (USA).json
 developer: Domesticated Ants
 publisher: Plug in Digital
 genre: Action;Platform
@@ -1594,7 +1594,7 @@ x-playable: Yes
 
 
 game: Grime - Definitive Edition (USA)
-file: Computer/Amazon Games/G/Grime - Definitive Edition (USA)/Grime - Definitive Edition (USA).json
+file: Roms/Computer/Amazon Games/G/Grime - Definitive Edition (USA)/Grime - Definitive Edition (USA).json
 developer: Funnel Entertainment
 publisher: Akupara Games
 genre: Action;Platform
@@ -1642,7 +1642,7 @@ x-playable: Yes
 
 
 game: Haunted Hotel - Personal Nightmare Collector's Edition (USA)
-file: Computer/Amazon Games/H/Haunted Hotel - Personal Nightmare Collector's Edition (USA)/Haunted Hotel - Personal Nightmare Collector's Edition (USA).json
+file: Roms/Computer/Amazon Games/H/Haunted Hotel - Personal Nightmare Collector's Edition (USA)/Haunted Hotel - Personal Nightmare Collector's Edition (USA).json
 developer: Elephant Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -1662,7 +1662,7 @@ x-playable: Yes
 
 
 game: Heaven Dust 2 (USA)
-file: Computer/Amazon Games/H/Heaven Dust 2 (USA)/Heaven Dust 2 (USA).json
+file: Roms/Computer/Amazon Games/H/Heaven Dust 2 (USA)/Heaven Dust 2 (USA).json
 developer: One Gruel Studio
 publisher: indienova
 genre: Action Adventure;Survival
@@ -1687,7 +1687,7 @@ x-playable: Yes
 
 
 game: In Sound Mind (USA)
-file: Computer/Amazon Games/I/In Sound Mind (USA)/In Sound Mind (USA).json
+file: Roms/Computer/Amazon Games/I/In Sound Mind (USA)/In Sound Mind (USA).json
 developer: We Create Stuff
 publisher: Modus Games
 genre: Action Adventure;Survival
@@ -1711,7 +1711,7 @@ x-playable: Yes
 
 
 game: Invisible Hand, The (USA)
-file: Computer/Amazon Games/I/Invisible Hand, The (USA)/Invisible Hand, The (USA).json
+file: Roms/Computer/Amazon Games/I/Invisible Hand, The (USA)/Invisible Hand, The (USA).json
 developer: Power Struggle Games
 publisher: Fellow Traveller
 genre: Simulation;Virtual;Career
@@ -1735,7 +1735,7 @@ x-playable: Yes
 
 
 game: Kraken Academy!! (USA)
-file: Computer/Amazon Games/K/Kraken Academy!! (USA)/Kraken Academy!! (USA).json
+file: Roms/Computer/Amazon Games/K/Kraken Academy!! (USA)/Kraken Academy!! (USA).json
 developer: Happy Broccoli Games
 publisher: Fellow Traveller
 genre: Adventure;General
@@ -1759,7 +1759,7 @@ x-playable: Yes
 
 
 game: LEGO Indiana Jones - The Original Adventures (USA)
-file: Computer/Amazon Games/L/LEGO Indiana Jones - The Original Adventures (USA)/LEGO Indiana Jones - The Original Adventures (USA).json
+file: Roms/Computer/Amazon Games/L/LEGO Indiana Jones - The Original Adventures (USA)/LEGO Indiana Jones - The Original Adventures (USA).json
 developer: Traveller's Tales
 publisher: LucasArts Entertainment Company LLC
 genre: Action;Adventure
@@ -1787,7 +1787,7 @@ x-playable: Yes
 
 
 game: Masterplan Tycoon (USA)
-file: Computer/Amazon Games/M/Masterplan Tycoon (USA)/Masterplan Tycoon (USA).json
+file: Roms/Computer/Amazon Games/M/Masterplan Tycoon (USA)/Masterplan Tycoon (USA).json
 developer: Bureau Bravin
 publisher: Ravenage Games
 genre: Strategy
@@ -1823,7 +1823,7 @@ x-playable: Yes
 
 
 game: Max - The Curse of Brotherhood (USA)
-file: Computer/Amazon Games/M/Max - The Curse of Brotherhood (USA)/Max - The Curse of Brotherhood (USA).json
+file: Roms/Computer/Amazon Games/M/Max - The Curse of Brotherhood (USA)/Max - The Curse of Brotherhood (USA).json
 developer: Press Play
 publisher: Microsoft Studios
 genre: Action;Adventure
@@ -1846,7 +1846,7 @@ x-playable: Yes
 
 
 game: Minabo - A Walk Through Life (USA)
-file: Computer/Amazon Games/M/Minabo - A Walk Through Life (USA)/Minabo - A Walk Through Life (USA).json
+file: Roms/Computer/Amazon Games/M/Minabo - A Walk Through Life (USA)/Minabo - A Walk Through Life (USA).json
 developer: DevilishGames
 publisher: DevilishGames
 genre: Life Simulation
@@ -1908,7 +1908,7 @@ x-playable: Yes
 
 
 game: Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA)
-file: Computer/Amazon Games/M/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA)/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).json
+file: Roms/Computer/Amazon Games/M/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA)/Ms. Holmes - The Case of the Dancing Men Collector's Edition (USA).json
 developer: Elephant Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -1932,7 +1932,7 @@ x-playable: Yes
 
 
 game: Mystery Case Files - Black Crown (USA)
-file: Computer/Amazon Games/M/Mystery Case Files - Black Crown (USA)/Mystery Case Files - Black Crown (USA).json
+file: Roms/Computer/Amazon Games/M/Mystery Case Files - Black Crown (USA)/Mystery Case Files - Black Crown (USA).json
 developer: Eipix Entertainment
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -1956,7 +1956,7 @@ x-playable: Yes
 
 
 game: Mystery Case Files - The Dalimar Legacy Collector's Edition (USA)
-file: Computer/Amazon Games/M/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA)/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).json
+file: Roms/Computer/Amazon Games/M/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA)/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).json
 developer: Grandma Studios
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -1979,7 +1979,7 @@ x-playable: Yes
 
 
 game: NAIRI - Tower of Shirin (USA)
-file: Computer/Amazon Games/N/NAIRI - Tower of Shirin (USA)/NAIRI - Tower of Shirin (USA).json
+file: Roms/Computer/Amazon Games/N/NAIRI - Tower of Shirin (USA)/NAIRI - Tower of Shirin (USA).json
 developer: HomeBearStudio
 publisher: HoundPicked Games
 genre: Puzzle;Action
@@ -2002,7 +2002,7 @@ x-playable: Yes
 
 
 game: Nine Witches - Family Disruption (USA)
-file: Computer/Amazon Games/N/Nine Witches - Family Disruption (USA)/Nine Witches - Family Disruption (USA).json
+file: Roms/Computer/Amazon Games/N/Nine Witches - Family Disruption (USA)/Nine Witches - Family Disruption (USA).json
 developer: Indiesruption
 publisher: Blowfish Studios
 genre: Adventure;Point-and-Click
@@ -2034,7 +2034,7 @@ x-playable: Yes
 
 
 game: Once Upon a Jester (USA)
-file: Computer/Amazon Games/O/Once Upon a Jester (USA)/Once Upon a Jester (USA).json
+file: Roms/Computer/Amazon Games/O/Once Upon a Jester (USA)/Once Upon a Jester (USA).json
 developer: Bonte Avond
 publisher: Crunching Koalas
 genre: Adventure;General
@@ -2061,7 +2061,7 @@ x-playable: Yes
 
 
 game: Projection - First Light (USA)
-file: Computer/Amazon Games/P/Projection - First Light (USA)/Projection - First Light (USA).json
+file: Roms/Computer/Amazon Games/P/Projection - First Light (USA)/Projection - First Light (USA).json
 developer: Shadowplay Studios
 publisher: Shadowplay Studios
 genre: Action;Platformer;2D
@@ -2090,7 +2090,7 @@ x-playable: Yes
 
 
 game: ReDrawn - The Painted Tower Collector's Edition (USA)
-file: Computer/Amazon Games/R/ReDrawn - The Painted Tower Collector's Edition (USA)/ReDrawn - The Painted Tower Collector's Edition (USA).json
+file: Roms/Computer/Amazon Games/R/ReDrawn - The Painted Tower Collector's Edition (USA)/ReDrawn - The Painted Tower Collector's Edition (USA).json
 developer: Friendly Fox Studios
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -2113,7 +2113,7 @@ x-playable: Yes
 
 
 game: Roguebook (USA)
-file: Computer/Amazon Games/R/Roguebook (USA)/Roguebook (USA).json
+file: Roms/Computer/Amazon Games/R/Roguebook (USA)/Roguebook (USA).json
 developer: Abrakam SA
 publisher: Nacon
 genre: Strategy;Turn-Based;Card Battle
@@ -2138,7 +2138,7 @@ x-playable: Yes
 
 
 game: SNK 40th Anniversary Collection (USA)
-file: Computer/Amazon Games/S/SNK 40th Anniversary Collection (USA)/SNK 40th Anniversary Collection (USA).json
+file: Roms/Computer/Amazon Games/S/SNK 40th Anniversary Collection (USA)/SNK 40th Anniversary Collection (USA).json
 developer: Digital Eclipse
 publisher: SNK Corporation
 genre: Miscellaneous;Compilation
@@ -2171,7 +2171,7 @@ x-playable: Yes
 
 
 game: Samurai Bringer (USA)
-file: Computer/Amazon Games/S/Samurai Bringer (USA)/Samurai Bringer (USA).json
+file: Roms/Computer/Amazon Games/S/Samurai Bringer (USA)/Samurai Bringer (USA).json
 developer: ALPHAWING Inc.
 publisher: Playism
 genre: Role-Playing;Action RPG
@@ -2189,7 +2189,7 @@ x-playable: Yes
 
 
 game: Scarf (USA)
-file: Computer/Amazon Games/S/Scarf (USA)/Scarf (USA).json
+file: Roms/Computer/Amazon Games/S/Scarf (USA)/Scarf (USA).json
 developer: Uprising Studios
 publisher: HandyGames
 genre: Action;Platformer;3D
@@ -2210,7 +2210,7 @@ x-playable: Yes
 
 
 game: Shovel Knight Showdown (USA)
-file: Computer/Amazon Games/S/Shovel Knight Showdown (USA)/Shovel Knight Showdown (USA).json
+file: Roms/Computer/Amazon Games/S/Shovel Knight Showdown (USA)/Shovel Knight Showdown (USA).json
 developer: Yacht Club Games
 publisher: Yacht Club Games
 genre: Action;Platformer;2D
@@ -2239,7 +2239,7 @@ x-playable: Yes
 
 
 game: Simulakros (USA)
-file: Computer/Amazon Games/S/Simulakros (USA)/Simulakros (USA).json
+file: Roms/Computer/Amazon Games/S/Simulakros (USA)/Simulakros (USA).json
 developer: Sirio Games
 publisher: Dear Villagers
 genre: Action;Shooter;Third-Person;Arcade
@@ -2261,7 +2261,7 @@ x-playable: Yes
 
 
 game: Star Wars - Knights of the Old Republic II - The Sith Lords (USA)
-file: Computer/Amazon Games/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
+file: Roms/Computer/Amazon Games/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
 developer: Obsidian Entertainment
 publisher: LucasArts Entertainment Company LLC
 genre: Action;Role-Playing
@@ -2286,7 +2286,7 @@ x-playable: Yes
 
 
 game: Star Wars - The Force Unleashed (USA)
-file: Computer/Amazon Games/S/Star Wars - The Force Unleashed (USA)/Star Wars - The Force Unleashed (USA).json
+file: Roms/Computer/Amazon Games/S/Star Wars - The Force Unleashed (USA)/Star Wars - The Force Unleashed (USA).json
 developer: LucasArts
 publisher: Aspyr
 genre: Miscellaneous;Compilation
@@ -2311,7 +2311,7 @@ x-playable: Yes
 
 
 game: Star Wars - The Force Unleashed II (USA)
-file: Computer/Amazon Games/S/Star Wars - The Force Unleashed II (USA)/Star Wars - The Force Unleashed II (USA).json
+file: Roms/Computer/Amazon Games/S/Star Wars - The Force Unleashed II (USA)/Star Wars - The Force Unleashed II (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Action;General
@@ -2329,7 +2329,7 @@ x-playable: Yes
 
 
 game: Through the Darkest of Times (USA)
-file: Computer/Amazon Games/T/Through the Darkest of Times (USA)/Through the Darkest of Times (USA).json
+file: Roms/Computer/Amazon Games/T/Through the Darkest of Times (USA)/Through the Darkest of Times (USA).json
 developer: Paintbucket Games
 publisher: HandyGames
 genre: Adventure;Strategy
@@ -2378,7 +2378,7 @@ x-playable: Yes
 
 
 game: Tiny Robots Recharged (USA)
-file: Computer/Amazon Games/T/Tiny Robots Recharged (USA)/Tiny Robots Recharged (USA).json
+file: Roms/Computer/Amazon Games/T/Tiny Robots Recharged (USA)/Tiny Robots Recharged (USA).json
 developer: Big Loop Studios
 publisher: Snapbreak Games AB
 genre: Puzzle;Action
@@ -2400,7 +2400,7 @@ x-playable: Yes
 
 
 game: Vlad Circus - Descend Into Madness (USA)
-file: Computer/Amazon Games/V/Vlad Circus - Descend Into Madness (USA)/Vlad Circus - Descend Into Madness (USA).json
+file: Roms/Computer/Amazon Games/V/Vlad Circus - Descend Into Madness (USA)/Vlad Circus - Descend Into Madness (USA).json
 developer: Indiesruption
 publisher: Blowfish Studios
 genre: Action Adventure;Survival
@@ -2424,7 +2424,7 @@ x-playable: Yes
 
 
 game: Wall World (USA)
-file: Computer/Amazon Games/W/Wall World (USA)/Wall World (USA).json
+file: Roms/Computer/Amazon Games/W/Wall World (USA)/Wall World (USA).json
 developer: Alawar Premium
 publisher: Alawar Premium
 genre: Strategy;Real-Time;Defense
@@ -2444,7 +2444,7 @@ x-playable: Yes
 
 
 game: Warhammer 40,000 - Dawn of War (USA)
-file: Computer/Amazon Games/W/Warhammer 40,000 - Dawn of War (USA)/Warhammer 40,000 - Dawn of War (USA).json
+file: Roms/Computer/Amazon Games/W/Warhammer 40,000 - Dawn of War (USA)/Warhammer 40,000 - Dawn of War (USA).json
 developer: Relic Entertainment
 publisher: THQ
 genre: Strategy
@@ -2473,7 +2473,7 @@ x-playable: Yes
 
 
 game: Warhammer 40,000 - Dawn of War II (USA)
-file: Computer/Amazon Games/W/Warhammer 40,000 - Dawn of War II (USA)/Warhammer 40,000 - Dawn of War II (USA).json
+file: Roms/Computer/Amazon Games/W/Warhammer 40,000 - Dawn of War II (USA)/Warhammer 40,000 - Dawn of War II (USA).json
 developer: Relic Entertainment
 publisher: THQ
 genre: Strategy
@@ -2501,7 +2501,7 @@ x-playable: Yes
 
 
 game: Warhammer 40,000 - Space Marine (USA)
-file: Computer/Amazon Games/W/Warhammer 40,000 - Space Marine (USA)/Warhammer 40,000 - Space Marine (USA).json
+file: Roms/Computer/Amazon Games/W/Warhammer 40,000 - Space Marine (USA)/Warhammer 40,000 - Space Marine (USA).json
 developer: Relic Entertainment
 publisher: THQ
 genre: Action
@@ -2526,7 +2526,7 @@ x-playable: Yes
 
 
 game: Whispered Secrets - Everburning Candle (USA)
-file: Computer/Amazon Games/W/Whispered Secrets - Everburning Candle (USA)/Whispered Secrets - Everburning Candle (USA).json
+file: Roms/Computer/Amazon Games/W/Whispered Secrets - Everburning Candle (USA)/Whispered Secrets - Everburning Candle (USA).json
 developer: Big Fish Games
 publisher: Big Fish Games
 genre: Puzzle
@@ -2546,7 +2546,7 @@ x-playable: Yes
 
 
 game: Wytchwood (USA)
-file: Computer/Amazon Games/W/Wytchwood (USA)/Wytchwood (USA).json
+file: Roms/Computer/Amazon Games/W/Wytchwood (USA)/Wytchwood (USA).json
 developer: Alientrap
 publisher: Whitethorn Digital
 genre: Adventure;General
@@ -2568,7 +2568,7 @@ x-playable: Yes
 
 
 game: Ynglet (USA)
-file: Computer/Amazon Games/Y/Ynglet (USA)/Ynglet (USA).json
+file: Roms/Computer/Amazon Games/Y/Ynglet (USA)/Ynglet (USA).json
 developer: Nifflas
 publisher: Triple Topping Games
 genre: Platform
@@ -2585,7 +2585,7 @@ x-playable: Yes
 
 
 game: Young Souls (USA)
-file: Computer/Amazon Games/Y/Young Souls (USA)/Young Souls (USA).json
+file: Roms/Computer/Amazon Games/Y/Young Souls (USA)/Young Souls (USA).json
 developer: 1P2P
 publisher: The Arcade Crew
 genre: Action;Adventure;Role-Playing;Fighting
@@ -2608,7 +2608,7 @@ x-playable: Yes
 
 
 game: Youtubers Life 2 (USA)
-file: Computer/Amazon Games/Y/Youtubers Life 2 (USA)/Youtubers Life 2 (USA).json
+file: Roms/Computer/Amazon Games/Y/Youtubers Life 2 (USA)/Youtubers Life 2 (USA).json
 developer: U-Play Online
 publisher: Raiser Games
 genre: Adventure;Strategy;Life Simulation
@@ -2649,7 +2649,7 @@ x-playable: Yes
 
 
 game: Zombies Ate My Neighbors and Ghoul Patrol (USA)
-file: Computer/Amazon Games/Z/Zombies Ate My Neighbors and Ghoul Patrol (USA)/Zombies Ate My Neighbors and Ghoul Patrol (USA).json
+file: Roms/Computer/Amazon Games/Z/Zombies Ate My Neighbors and Ghoul Patrol (USA)/Zombies Ate My Neighbors and Ghoul Patrol (USA).json
 developer: DotEmu
 publisher: Disney Software | LucasFilm Games
 genre: Action;Adventure;Shooter

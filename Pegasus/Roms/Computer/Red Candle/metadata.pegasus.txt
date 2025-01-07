@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Red Candle" -n {file.basename
 
 
 game: Detention (USA)
-file: Computer/Red Candle/D/Detention (USA)/Detention (USA).json
+file: Roms/Computer/Red Candle/D/Detention (USA)/Detention (USA).json
 developer: RedCandleGames
 publisher: RedCandleGames
 genre: Horror
@@ -20,7 +20,7 @@ x-playable: Yes
 
 
 game: Devotion (USA)
-file: Computer/Red Candle/D/Devotion (USA)/Devotion (USA).json
+file: Roms/Computer/Red Candle/D/Devotion (USA)/Devotion (USA).json
 developer: RedCandleGames
 publisher: RedCandleGames
 genre: Horror

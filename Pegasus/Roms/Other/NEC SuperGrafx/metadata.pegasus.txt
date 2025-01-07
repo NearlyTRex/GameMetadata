@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC SuperGrafx" -n {file.basenam
 
 
 game: Aldynes - The Misson Code for Rage Crisis (Japan)
-file: Other/NEC SuperGrafx/Aldynes - The Misson Code for Rage Crisis (Japan)/Aldynes - The Misson Code for Rage Crisis (Japan).json
+file: Roms/Other/NEC SuperGrafx/Aldynes - The Misson Code for Rage Crisis (Japan)/Aldynes - The Misson Code for Rage Crisis (Japan).json
 developer: Produce
 publisher: Hudson Soft
 genre: Action;Shooter
@@ -37,7 +37,7 @@ x-playable: Yes
 
 
 game: Daimakai Mura (Japan)
-file: Other/NEC SuperGrafx/Daimakai Mura (Japan)/Daimakai Mura (Japan).json
+file: Roms/Other/NEC SuperGrafx/Daimakai Mura (Japan)/Daimakai Mura (Japan).json
 developer: Alfa System
 publisher: NEC Avenue
 genre: Action;Horror

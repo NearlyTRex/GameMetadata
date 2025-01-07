@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft Xbox" -n {file.bas
 
 
 game: Big Bumpin' (USA)
-file: Microsoft/Microsoft Xbox/Big Bumpin' (USA)/Big Bumpin' (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Big Bumpin' (USA)/Big Bumpin' (USA).json
 developer: Blitz Game Studios
 publisher: King Games
 genre: Racing;Arcade;Other
@@ -33,7 +33,7 @@ x-playable: Yes
 
 
 game: Buffy the Vampire Slayer (USA)
-file: Microsoft/Microsoft Xbox/Buffy the Vampire Slayer (USA)/Buffy the Vampire Slayer (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Buffy the Vampire Slayer (USA)/Buffy the Vampire Slayer (USA).json
 developer: The Collective
 publisher: Fox Interactive
 genre: Action;Adventure;Horror;Beat 'em Up
@@ -54,7 +54,7 @@ x-playable: Yes
 
 
 game: Crimson Sea (USA)
-file: Microsoft/Microsoft Xbox/Crimson Sea (USA)/Crimson Sea (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Crimson Sea (USA)/Crimson Sea (USA).json
 developer: Koei
 publisher: Koei
 genre: Action;Adventure
@@ -75,7 +75,7 @@ x-playable: Yes
 
 
 game: Dino Crisis 3 (USA, Asia)
-file: Microsoft/Microsoft Xbox/Dino Crisis 3 (USA, Asia)/Dino Crisis 3 (USA, Asia).json
+file: Roms/Microsoft/Microsoft Xbox/Dino Crisis 3 (USA, Asia)/Dino Crisis 3 (USA, Asia).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -105,7 +105,7 @@ x-playable: Yes
 
 
 game: Dungeons & Dragons - Heroes (USA)
-file: Microsoft/Microsoft Xbox/Dungeons & Dragons - Heroes (USA)/Dungeons & Dragons - Heroes (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Dungeons & Dragons - Heroes (USA)/Dungeons & Dragons - Heroes (USA).json
 developer: Atari
 publisher: Atari
 genre: Action;Adventure
@@ -127,7 +127,7 @@ x-playable: Yes
 
 
 game: Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)
-file: Microsoft/Microsoft Xbox/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA)/Elder Scrolls III, The - Morrowind - Game of the Year Edition (USA).json
 developer: Bethesda Softworks
 publisher: Ubisoft
 genre: Role-Playing
@@ -149,7 +149,7 @@ x-playable: Yes
 
 
 game: Fable - The Lost Chapters (USA) (En,Es)
-file: Microsoft/Microsoft Xbox/Fable - The Lost Chapters (USA) (En,Es)/Fable - The Lost Chapters (USA) (En,Es).json
+file: Roms/Microsoft/Microsoft Xbox/Fable - The Lost Chapters (USA) (En,Es)/Fable - The Lost Chapters (USA) (En,Es).json
 developer: Lionhead Studios
 publisher: Microsoft Game Studios
 genre: Action;Role-Playing
@@ -172,7 +172,7 @@ x-playable: Yes
 
 
 game: Fuzion Frenzy (USA)
-file: Microsoft/Microsoft Xbox/Fuzion Frenzy (USA)/Fuzion Frenzy (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Fuzion Frenzy (USA)/Fuzion Frenzy (USA).json
 developer: Blitz Games
 publisher: Microsoft Game Studios
 genre: Party
@@ -194,7 +194,7 @@ x-playable: Yes
 
 
 game: Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It)
-file: Microsoft/Microsoft Xbox/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It)/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).json
+file: Roms/Microsoft/Microsoft Xbox/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It)/Grabbed by the Ghoulies (USA) (En,Fr,De,Es,It).json
 developer: Rare
 publisher: Microsoft
 genre: Action;Platform
@@ -212,7 +212,7 @@ x-playable: Yes
 
 
 game: Jade Empire (USA, Europe) (En,Es,It)
-file: Microsoft/Microsoft Xbox/Jade Empire (USA, Europe) (En,Es,It)/Jade Empire (USA, Europe) (En,Es,It).json
+file: Roms/Microsoft/Microsoft Xbox/Jade Empire (USA, Europe) (En,Es,It)/Jade Empire (USA, Europe) (En,Es,It).json
 developer: BioWare
 publisher: Microsoft Game Studios
 genre: Role-Playing
@@ -234,7 +234,7 @@ x-playable: Yes
 
 
 game: Max Payne (USA)
-file: Microsoft/Microsoft Xbox/Max Payne (USA)/Max Payne (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Max Payne (USA)/Max Payne (USA).json
 developer: Remedy Entertainment
 publisher: Rockstar Games
 genre: Action;Adventure;Shooter
@@ -269,7 +269,7 @@ x-playable: Yes
 
 
 game: Mercenaries (USA, Europe)
-file: Microsoft/Microsoft Xbox/Mercenaries (USA, Europe)/Mercenaries (USA, Europe).json
+file: Roms/Microsoft/Microsoft Xbox/Mercenaries (USA, Europe)/Mercenaries (USA, Europe).json
 developer: Pandemic
 publisher: LucasArts
 genre: Action;Sandbox
@@ -317,7 +317,7 @@ x-playable: Yes
 
 
 game: Night Caster - Defeat the Darkness (USA)
-file: Microsoft/Microsoft Xbox/Night Caster - Defeat the Darkness (USA)/Night Caster - Defeat the Darkness (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Night Caster - Defeat the Darkness (USA)/Night Caster - Defeat the Darkness (USA).json
 developer: VR1 Entertainment
 publisher: Microsoft
 genre: Action;Adventure
@@ -350,7 +350,7 @@ x-playable: Yes
 
 
 game: Official Xbox Magazine Game Disc 30 (USA)
-file: Microsoft/Microsoft Xbox/Official Xbox Magazine Game Disc 30 (USA)/Official Xbox Magazine Game Disc 30 (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Official Xbox Magazine Game Disc 30 (USA)/Official Xbox Magazine Game Disc 30 (USA).json
 developer: Microsoft Game Studios
 publisher: Microsoft Game Studios
 genre: Compilation;Demos
@@ -372,7 +372,7 @@ x-playable: Yes
 
 
 game: Official Xbox Magazine Game Disc 34 (USA)
-file: Microsoft/Microsoft Xbox/Official Xbox Magazine Game Disc 34 (USA)/Official Xbox Magazine Game Disc 34 (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Official Xbox Magazine Game Disc 34 (USA)/Official Xbox Magazine Game Disc 34 (USA).json
 developer: Microsoft Game Studios
 publisher: Microsoft Game Studios
 genre: Compilation;Demos
@@ -402,7 +402,7 @@ x-playable: Yes
 
 
 game: Official Xbox Magazine Game Disc 44 (USA)
-file: Microsoft/Microsoft Xbox/Official Xbox Magazine Game Disc 44 (USA)/Official Xbox Magazine Game Disc 44 (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Official Xbox Magazine Game Disc 44 (USA)/Official Xbox Magazine Game Disc 44 (USA).json
 developer: Microsoft Game Studios
 publisher: Microsoft Game Studios
 genre: Compilation;Demos
@@ -428,7 +428,7 @@ x-playable: Yes
 
 
 game: Otogi - Myth of Demons (USA)
-file: Microsoft/Microsoft Xbox/Otogi - Myth of Demons (USA)/Otogi - Myth of Demons (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Otogi - Myth of Demons (USA)/Otogi - Myth of Demons (USA).json
 developer: FromSoftware, Inc.
 publisher: Sega
 genre: Action
@@ -453,7 +453,7 @@ x-playable: Yes
 
 
 game: Otogi 2 - Immortal Warriors (USA)
-file: Microsoft/Microsoft Xbox/Otogi 2 - Immortal Warriors (USA)/Otogi 2 - Immortal Warriors (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Otogi 2 - Immortal Warriors (USA)/Otogi 2 - Immortal Warriors (USA).json
 developer: FromSoftware, Inc.
 publisher: Sega
 genre: Action
@@ -482,7 +482,7 @@ x-playable: Yes
 
 
 game: Panzer Dragoon Orta (USA)
-file: Microsoft/Microsoft Xbox/Panzer Dragoon Orta (USA)/Panzer Dragoon Orta (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Panzer Dragoon Orta (USA)/Panzer Dragoon Orta (USA).json
 developer: Smilebit
 publisher: Sega
 genre: Shooter
@@ -513,7 +513,7 @@ x-playable: Yes
 
 
 game: PocketBike Racer (USA)
-file: Microsoft/Microsoft Xbox/PocketBike Racer (USA)/PocketBike Racer (USA).json
+file: Roms/Microsoft/Microsoft Xbox/PocketBike Racer (USA)/PocketBike Racer (USA).json
 developer: Blitz Arcade
 publisher: King Games
 genre: Racing
@@ -549,7 +549,7 @@ x-playable: Yes
 
 
 game: Project Gotham Racing (USA)
-file: Microsoft/Microsoft Xbox/Project Gotham Racing (USA)/Project Gotham Racing (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Project Gotham Racing (USA)/Project Gotham Racing (USA).json
 developer: Bizarre Creations
 publisher: Microsoft Game Studios
 genre: Racing
@@ -572,7 +572,7 @@ x-playable: Yes
 
 
 game: Psychonauts (USA)
-file: Microsoft/Microsoft Xbox/Psychonauts (USA)/Psychonauts (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Psychonauts (USA)/Psychonauts (USA).json
 developer: Double Fine Productions
 publisher: Majesco Entertainment
 genre: Platform
@@ -599,7 +599,7 @@ x-playable: Yes
 
 
 game: Raze's Hell (USA)
-file: Microsoft/Microsoft Xbox/Raze's Hell (USA)/Raze's Hell (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Raze's Hell (USA)/Raze's Hell (USA).json
 developer: Artech Digital Entertainment
 publisher: Majesco Entertainment
 genre: Shooter
@@ -618,7 +618,7 @@ x-playable: Yes
 
 
 game: Sneak King (USA)
-file: Microsoft/Microsoft Xbox/Sneak King (USA)/Sneak King (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Sneak King (USA)/Sneak King (USA).json
 developer: Blitz Games
 publisher: King Games
 genre: Action Adventure;General
@@ -642,7 +642,7 @@ x-playable: Yes
 
 
 game: Soldier of Fortune II - Double Helix (USA)
-file: Microsoft/Microsoft Xbox/Soldier of Fortune II - Double Helix (USA)/Soldier of Fortune II - Double Helix (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Soldier of Fortune II - Double Helix (USA)/Soldier of Fortune II - Double Helix (USA).json
 developer: Gratuitous Games
 publisher: Activision
 genre: Action;Shooter
@@ -666,7 +666,7 @@ x-playable: Yes
 
 
 game: Star Wars - Knights of the Old Republic (USA) (v1.10)
-file: Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic (USA) (v1.10)/Star Wars - Knights of the Old Republic (USA) (v1.10).json
+file: Roms/Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic (USA) (v1.10)/Star Wars - Knights of the Old Republic (USA) (v1.10).json
 developer: BioWare
 publisher: LucasArts
 genre: Role-Playing
@@ -688,7 +688,7 @@ x-playable: Yes
 
 
 game: Star Wars - Knights of the Old Republic II - The Sith Lords (USA)
-file: Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)/Star Wars - Knights of the Old Republic II - The Sith Lords (USA).json
 developer: Obsidian Entertainment
 publisher: LucasArts
 genre: Action;Adventure;Role-Playing;Strategy
@@ -712,7 +712,7 @@ x-playable: Yes
 
 
 game: Tecmo Classic Arcade (USA, Japan)
-file: Microsoft/Microsoft Xbox/Tecmo Classic Arcade (USA, Japan)/Tecmo Classic Arcade (USA, Japan).json
+file: Roms/Microsoft/Microsoft Xbox/Tecmo Classic Arcade (USA, Japan)/Tecmo Classic Arcade (USA, Japan).json
 developer: Tecmo
 publisher: Tecmo
 genre: Action
@@ -731,7 +731,7 @@ x-playable: Yes
 
 
 game: Unreal Championship (USA, Europe) (En,Fr,De,Es,It)
-file: Microsoft/Microsoft Xbox/Unreal Championship (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).json
+file: Roms/Microsoft/Microsoft Xbox/Unreal Championship (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship (USA, Europe) (En,Fr,De,Es,It).json
 developer: Epic Games
 publisher: Atari
 genre: Shooter
@@ -761,7 +761,7 @@ x-playable: Yes
 
 
 game: Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It)
-file: Microsoft/Microsoft Xbox/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).json
+file: Roms/Microsoft/Microsoft Xbox/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It)/Unreal Championship 2 - The Liandri Conflict (USA, Europe) (En,Fr,De,Es,It).json
 developer: Epic Games
 publisher: Midway Games
 genre: Shooter
@@ -784,7 +784,7 @@ x-playable: Yes
 
 
 game: Xbox Exhibition (USA)
-file: Microsoft/Microsoft Xbox/Xbox Exhibition (USA)/Xbox Exhibition (USA).json
+file: Roms/Microsoft/Microsoft Xbox/Xbox Exhibition (USA)/Xbox Exhibition (USA).json
 developer: Microsoft Game Studios
 publisher: Microsoft Game Studios
 genre: Miscellaneous;Demo Disc

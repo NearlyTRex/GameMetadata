@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari 7800" -n {file.basename}
 
 
 game: Asteroids (USA)
-file: Other/Atari 7800/Asteroids (USA)/Asteroids (USA).json
+file: Roms/Other/Atari 7800/Asteroids (USA)/Asteroids (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action;Shooter
@@ -26,7 +26,7 @@ x-playable: Yes
 
 
 game: Basketbrawl (USA)
-file: Other/Atari 7800/Basketbrawl (USA)/Basketbrawl (USA).json
+file: Roms/Other/Atari 7800/Basketbrawl (USA)/Basketbrawl (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Sports
@@ -50,7 +50,7 @@ x-playable: Yes
 
 
 game: Centipede (USA)
-file: Other/Atari 7800/Centipede (USA)/Centipede (USA).json
+file: Roms/Other/Atari 7800/Centipede (USA)/Centipede (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Shooter
@@ -66,7 +66,7 @@ x-playable: Yes
 
 
 game: Dark Chambers (USA)
-file: Other/Atari 7800/Dark Chambers (USA)/Dark Chambers (USA).json
+file: Roms/Other/Atari 7800/Dark Chambers (USA)/Dark Chambers (USA).json
 developer: John Palevich
 publisher: Atari, Inc.
 genre: Action
@@ -91,7 +91,7 @@ x-playable: Yes
 
 
 game: Donkey Kong (USA)
-file: Other/Atari 7800/Donkey Kong (USA)/Donkey Kong (USA).json
+file: Roms/Other/Atari 7800/Donkey Kong (USA)/Donkey Kong (USA).json
 developer: Nintendo
 publisher: Atari
 genre: Platform
@@ -112,7 +112,7 @@ x-playable: Yes
 
 
 game: Fatal Run (USA)
-file: Other/Atari 7800/Fatal Run (USA)/Fatal Run (USA).json
+file: Roms/Other/Atari 7800/Fatal Run (USA)/Fatal Run (USA).json
 developer: Atari
 publisher: Atari, Inc.
 genre: Action
@@ -142,7 +142,7 @@ x-playable: Yes
 
 
 game: Ninja Golf (USA)
-file: Other/Atari 7800/Ninja Golf (USA)/Ninja Golf (USA).json
+file: Roms/Other/Atari 7800/Ninja Golf (USA)/Ninja Golf (USA).json
 developer: BlueSky Software
 publisher: Atari
 genre: Action;Sports;Beat 'em Up
@@ -171,7 +171,7 @@ x-playable: Yes
 
 
 game: Scrapyard Dog (USA)
-file: Other/Atari 7800/Scrapyard Dog (USA)/Scrapyard Dog (USA).json
+file: Roms/Other/Atari 7800/Scrapyard Dog (USA)/Scrapyard Dog (USA).json
 developer: BlueSky Software
 publisher: Atari, Inc.
 genre: Platform

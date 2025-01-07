@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo 3DS eShop" -n {file.
 
 
 game: 3D After Burner II (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D After Burner II (USA) (eShop)/3D After Burner II (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D After Burner II (USA) (eShop)/3D After Burner II (USA) (eShop).json
 developer: M2 Co.,LTD
 publisher: Sega
 genre: Flight Simulator
@@ -22,7 +22,7 @@ x-playable: Yes
 
 
 game: 3D Classics Excitebike (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Classics Excitebike (USA) (eShop)/3D Classics Excitebike (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Classics Excitebike (USA) (eShop)/3D Classics Excitebike (USA) (eShop).json
 developer: Nintendo R&D1
 publisher: Nintendo
 genre: Racing
@@ -44,7 +44,7 @@ x-playable: Yes
 
 
 game: 3D Classics Kid Icarus (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Classics Kid Icarus (USA) (eShop)/3D Classics Kid Icarus (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Classics Kid Icarus (USA) (eShop)/3D Classics Kid Icarus (USA) (eShop).json
 developer: TOSE
 publisher: Nintendo
 genre: Action;Platform
@@ -67,7 +67,7 @@ x-playable: Yes
 
 
 game: 3D Classics Kirby's Adventure (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Classics Kirby's Adventure (USA) (eShop)/3D Classics Kirby's Adventure (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Classics Kirby's Adventure (USA) (eShop)/3D Classics Kirby's Adventure (USA) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform
@@ -96,7 +96,7 @@ x-playable: Yes
 
 
 game: 3D Ecco the Dolphin (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Ecco the Dolphin (USA) (eShop)/3D Ecco the Dolphin (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Ecco the Dolphin (USA) (eShop)/3D Ecco the Dolphin (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -123,7 +123,7 @@ x-playable: Yes
 
 
 game: 3D Fantasy Zone (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Fantasy Zone (USA) (eShop)/3D Fantasy Zone (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Fantasy Zone (USA) (eShop)/3D Fantasy Zone (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -152,7 +152,7 @@ x-playable: Yes
 
 
 game: 3D Galaxy Force II (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Galaxy Force II (USA) (eShop)/3D Galaxy Force II (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Galaxy Force II (USA) (eShop)/3D Galaxy Force II (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -177,7 +177,7 @@ x-playable: Yes
 
 
 game: 3D Gunstar Heroes (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Gunstar Heroes (USA) (eShop)/3D Gunstar Heroes (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Gunstar Heroes (USA) (eShop)/3D Gunstar Heroes (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -197,7 +197,7 @@ x-playable: Yes
 
 
 game: 3D Out Run (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Out Run (USA) (eShop)/3D Out Run (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Out Run (USA) (eShop)/3D Out Run (USA) (eShop).json
 developer: Sega AM2
 publisher: Sega
 genre: Racing
@@ -227,7 +227,7 @@ x-playable: Yes
 
 
 game: 3D Shinobi III (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Shinobi III (USA) (eShop)/3D Shinobi III (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Shinobi III (USA) (eShop)/3D Shinobi III (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Action;Adventure;Platform
@@ -248,7 +248,7 @@ x-playable: Yes
 
 
 game: 3D Sonic The Hedgehog 2 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Sonic The Hedgehog 2 (USA) (eShop)/3D Sonic The Hedgehog 2 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Sonic The Hedgehog 2 (USA) (eShop)/3D Sonic The Hedgehog 2 (USA) (eShop).json
 developer: Sonic Team
 publisher: Sega
 genre: Action;Platformer;2D
@@ -295,7 +295,7 @@ x-playable: Yes
 
 
 game: 3D Space Harrier (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Space Harrier (USA) (eShop)/3D Space Harrier (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Space Harrier (USA) (eShop)/3D Space Harrier (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -318,7 +318,7 @@ x-playable: Yes
 
 
 game: 3D Streets of Rage (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Streets of Rage (USA) (eShop)/3D Streets of Rage (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Streets of Rage (USA) (eShop)/3D Streets of Rage (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Beat 'em Up
@@ -343,7 +343,7 @@ x-playable: Yes
 
 
 game: 3D Streets of Rage 2 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Streets of Rage 2 (USA) (eShop)/3D Streets of Rage 2 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Streets of Rage 2 (USA) (eShop)/3D Streets of Rage 2 (USA) (eShop).json
 developer: M2 Co., Ltd.
 publisher: Sega
 genre: Beat 'em Up
@@ -364,7 +364,7 @@ x-playable: Yes
 
 
 game: 3D Super Hang-On (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Super Hang-On (USA) (eShop)/3D Super Hang-On (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Super Hang-On (USA) (eShop)/3D Super Hang-On (USA) (eShop).json
 developer: Sega
 publisher: Sega
 genre: Racing;Sports
@@ -386,7 +386,7 @@ x-playable: Yes
 
 
 game: 3D Thunder Blade (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/3D Thunder Blade (USA) (eShop)/3D Thunder Blade (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/3D Thunder Blade (USA) (eShop)/3D Thunder Blade (USA) (eShop).json
 developer: M2 Co.,LTD
 publisher: Sega
 genre: Shooter
@@ -410,7 +410,7 @@ x-playable: Yes
 
 
 game: 80's Overdrive (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/80's Overdrive (USA) (eShop)/80's Overdrive (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/80's Overdrive (USA) (eShop)/80's Overdrive (USA) (eShop).json
 developer: Insane Code
 publisher: Insane Code
 genre: Racing
@@ -441,7 +441,7 @@ x-playable: Yes
 
 
 game: AiRace Speed (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/AiRace Speed (USA) (eShop)/AiRace Speed (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/AiRace Speed (USA) (eShop)/AiRace Speed (USA) (eShop).json
 developer: Atari
 publisher: Atari
 genre: Racing
@@ -477,7 +477,7 @@ x-playable: Yes
 
 
 game: AiRace Xeno (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/AiRace Xeno (USA) (eShop)/AiRace Xeno (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/AiRace Xeno (USA) (eShop)/AiRace Xeno (USA) (eShop).json
 developer: QubicGames
 publisher: QubicGames
 genre: Racing
@@ -513,7 +513,7 @@ x-playable: Yes
 
 
 game: Alien on the Run (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Alien on the Run (USA) (eShop)/Alien on the Run (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Alien on the Run (USA) (eShop)/Alien on the Run (USA) (eShop).json
 developer: G-STYLE
 publisher: G-STYLE
 genre: Action;General
@@ -541,7 +541,7 @@ x-playable: Yes
 
 
 game: Apollo Justice - Ace Attorney (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Apollo Justice - Ace Attorney (USA) (eShop)/Apollo Justice - Ace Attorney (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Apollo Justice - Ace Attorney (USA) (eShop)/Apollo Justice - Ace Attorney (USA) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure;Puzzle
@@ -574,7 +574,7 @@ x-playable: Yes
 
 
 game: Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop)/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop)/Attack of the Friday Monsters! A Tokyo Tale (USA) (eShop).json
 developer: Level-5
 publisher: Level-5
 genre: Adventure
@@ -603,7 +603,7 @@ x-playable: Yes
 
 
 game: Automaton Lung (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Automaton Lung (USA) (eShop)/Automaton Lung (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Automaton Lung (USA) (eShop)/Automaton Lung (USA) (eShop).json
 developer: Luke Vincent
 publisher: Luke Vincent
 genre: Action;Platformer;3D
@@ -625,7 +625,7 @@ x-playable: Yes
 
 
 game: Block-a-Pix Color (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Block-a-Pix Color (USA) (eShop)/Block-a-Pix Color (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Block-a-Pix Color (USA) (eShop)/Block-a-Pix Color (USA) (eShop).json
 developer: Lightwood Games
 publisher: Lightwood Games
 genre: Puzzle;Logic
@@ -656,7 +656,7 @@ x-playable: Yes
 
 
 game: BoxBoxBoy! (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/BoxBoxBoy! (USA) (eShop)/BoxBoxBoy! (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/BoxBoxBoy! (USA) (eShop)/BoxBoxBoy! (USA) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform;Puzzle
@@ -681,7 +681,7 @@ x-playable: Yes
 
 
 game: BoxBoy! (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/BoxBoy! (USA) (eShop)/BoxBoy! (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/BoxBoy! (USA) (eShop)/BoxBoy! (USA) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform;Puzzle
@@ -704,7 +704,7 @@ x-playable: Yes
 
 
 game: Brave Dungeon (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Brave Dungeon (USA) (eShop)/Brave Dungeon (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Brave Dungeon (USA) (eShop)/Brave Dungeon (USA) (eShop).json
 developer: Inside System
 publisher: Inside System
 genre: Role-Playing;Japanese-Style
@@ -734,7 +734,7 @@ x-playable: Yes
 
 
 game: Bye-Bye BoxBoy! (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Bye-Bye BoxBoy! (USA) (eShop)/Bye-Bye BoxBoy! (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Bye-Bye BoxBoy! (USA) (eShop)/Bye-Bye BoxBoy! (USA) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Platform;Puzzle
@@ -761,7 +761,7 @@ x-playable: Yes
 
 
 game: Cave Story (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Cave Story (USA) (eShop)/Cave Story (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Cave Story (USA) (eShop)/Cave Story (USA) (eShop).json
 developer: Studio Pixel
 publisher: Nicalis, Inc.
 genre: Platform
@@ -795,7 +795,7 @@ x-playable: Yes
 
 
 game: Chain Blaster (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Chain Blaster (USA) (eShop)/Chain Blaster (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Chain Blaster (USA) (eShop)/Chain Blaster (USA) (eShop).json
 developer: G-STYLE
 publisher: G-STYLE
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -820,7 +820,7 @@ x-playable: Yes
 
 
 game: Chibi-Robo! Photo Finder (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Chibi-Robo! Photo Finder (USA) (eShop)/Chibi-Robo! Photo Finder (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Chibi-Robo! Photo Finder (USA) (eShop)/Chibi-Robo! Photo Finder (USA) (eShop).json
 developer: Skip Ltd.
 publisher: Nintendo
 genre: Action;Adventure
@@ -852,7 +852,7 @@ x-playable: Yes
 
 
 game: Corpse Party (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Corpse Party (USA) (eShop)/Corpse Party (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Corpse Party (USA) (eShop)/Corpse Party (USA) (eShop).json
 developer: Team GrisGris
 publisher: Xseed Games
 genre: Adventure;Horror
@@ -882,7 +882,7 @@ x-playable: Yes
 
 
 game: Crashmo (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Crashmo (USA) (eShop)/Crashmo (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Crashmo (USA) (eShop)/Crashmo (USA) (eShop).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Puzzle
@@ -904,7 +904,7 @@ x-playable: Yes
 
 
 game: Crimson Shroud (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Crimson Shroud (USA) (eShop)/Crimson Shroud (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Crimson Shroud (USA) (eShop)/Crimson Shroud (USA) (eShop).json
 developer: Level-5
 publisher: Level-5
 genre: Role-Playing
@@ -929,7 +929,7 @@ x-playable: Yes
 
 
 game: Dedede's Drum Dash Deluxe (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Dedede's Drum Dash Deluxe (USA) (eShop)/Dedede's Drum Dash Deluxe (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Dedede's Drum Dash Deluxe (USA) (eShop)/Dedede's Drum Dash Deluxe (USA) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Music
@@ -947,7 +947,7 @@ x-playable: Yes
 
 
 game: Dementium Remastered (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Dementium Remastered (USA) (eShop)/Dementium Remastered (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Dementium Remastered (USA) (eShop)/Dementium Remastered (USA) (eShop).json
 developer: Renegade Kid
 publisher: Gamecock Media Group
 genre: Action Adventure;Survival
@@ -974,7 +974,7 @@ x-playable: Yes
 
 
 game: Denpa Men 2, The - Beyond the Waves (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Denpa Men 2, The - Beyond the Waves (USA) (eShop)/Denpa Men 2, The - Beyond the Waves (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Denpa Men 2, The - Beyond the Waves (USA) (eShop)/Denpa Men 2, The - Beyond the Waves (USA) (eShop).json
 developer: Genius Sonority
 publisher: Genius Sonority
 genre: Role-Playing
@@ -1006,7 +1006,7 @@ x-playable: Yes
 
 
 game: Denpa Men 3, The - The Rise of Digitoll (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop)/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop)/Denpa Men 3, The - The Rise of Digitoll (USA) (eShop).json
 developer: Genius Sonority
 publisher: Genius Sonority
 genre: Role-Playing
@@ -1032,7 +1032,7 @@ x-playable: Yes
 
 
 game: Denpa Men, The - They Came By Wave (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Denpa Men, The - They Came By Wave (USA) (eShop)/Denpa Men, The - They Came By Wave (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Denpa Men, The - They Came By Wave (USA) (eShop)/Denpa Men, The - They Came By Wave (USA) (eShop).json
 developer: Genius Sonority
 publisher: Genius Sonority
 genre: Role-Playing
@@ -1073,7 +1073,7 @@ x-playable: Yes
 
 
 game: Dillon's Rolling Western (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Dillon's Rolling Western (USA) (eShop)/Dillon's Rolling Western (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Dillon's Rolling Western (USA) (eShop)/Dillon's Rolling Western (USA) (eShop).json
 developer: Vanpool
 publisher: Nintendo
 genre: Action
@@ -1104,7 +1104,7 @@ x-playable: Yes
 
 
 game: Dillon's Rolling Western - The Last Ranger (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Dillon's Rolling Western - The Last Ranger (USA) (eShop)/Dillon's Rolling Western - The Last Ranger (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Dillon's Rolling Western - The Last Ranger (USA) (eShop)/Dillon's Rolling Western - The Last Ranger (USA) (eShop).json
 developer: Vanpool
 publisher: Nintendo
 genre: Action
@@ -1127,7 +1127,7 @@ x-playable: Yes
 
 
 game: Dr. Mario Miracle Cure (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Dr. Mario Miracle Cure (World) (eShop)/Dr. Mario Miracle Cure (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Dr. Mario Miracle Cure (World) (eShop)/Dr. Mario Miracle Cure (World) (eShop).json
 developer: Arika Co., Ltd.
 publisher: Nintendo of America Inc.
 genre: Puzzle
@@ -1154,7 +1154,7 @@ x-playable: Yes
 
 
 game: Excave (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Excave (USA) (eShop)/Excave (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Excave (USA) (eShop)/Excave (USA) (eShop).json
 developer: Mechanic Arms
 publisher: Teyon
 genre: Role-Playing;Action RPG
@@ -1194,7 +1194,7 @@ x-playable: Yes
 
 
 game: Excave II - Wizard of the Underworld (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Excave II - Wizard of the Underworld (USA) (eShop)/Excave II - Wizard of the Underworld (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Excave II - Wizard of the Underworld (USA) (eShop)/Excave II - Wizard of the Underworld (USA) (eShop).json
 developer: Mechanic Arms
 publisher: Bergsala-Lightweight
 genre: Role-Playing;Action RPG
@@ -1231,7 +1231,7 @@ x-playable: Yes
 
 
 game: Excave III - Tower of Destiny (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Excave III - Tower of Destiny (USA) (eShop)/Excave III - Tower of Destiny (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Excave III - Tower of Destiny (USA) (eShop)/Excave III - Tower of Destiny (USA) (eShop).json
 developer: Mechanic Arms
 publisher: Bergsala-Lightweight
 genre: Role-Playing;Action RPG
@@ -1254,7 +1254,7 @@ x-playable: Yes
 
 
 game: Flipnote Studio 3D (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Flipnote Studio 3D (USA) (eShop)/Flipnote Studio 3D (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Flipnote Studio 3D (USA) (eShop)/Flipnote Studio 3D (USA) (eShop).json
 developer: Nintendo EAD
 publisher: Nintendo of America Inc.
 genre: Education
@@ -1273,7 +1273,7 @@ x-playable: Yes
 
 
 game: Fluidity - Spin Cycle (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Fluidity - Spin Cycle (USA) (eShop)/Fluidity - Spin Cycle (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Fluidity - Spin Cycle (USA) (eShop)/Fluidity - Spin Cycle (USA) (eShop).json
 developer: Curve Studios
 publisher: Nintendo
 genre: Puzzle
@@ -1298,7 +1298,7 @@ x-playable: Yes
 
 
 game: Fractured Soul (USA) (eshop)
-file: Nintendo/Nintendo 3DS eShop/Fractured Soul (USA) (eshop)/Fractured Soul (USA) (eshop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Fractured Soul (USA) (eshop)/Fractured Soul (USA) (eshop).json
 developer: Endgame Studios
 publisher: Endgame Studios
 genre: Action;Shooter;Shoot-'Em-Up;Vertical
@@ -1324,7 +1324,7 @@ x-playable: Yes
 
 
 game: Fragrant Story (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Fragrant Story (USA) (eShop)/Fragrant Story (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Fragrant Story (USA) (eShop)/Fragrant Story (USA) (eShop).json
 developer: William Kage
 publisher: Seven Silhouettes Enterprises
 genre: Strategy;Turn-Based;Tactics
@@ -1346,7 +1346,7 @@ x-playable: Yes
 
 
 game: Go! Go! Kokopolo (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Go! Go! Kokopolo (USA) (eShop)/Go! Go! Kokopolo (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Go! Go! Kokopolo (USA) (eShop)/Go! Go! Kokopolo (USA) (eShop).json
 developer: Tanukii Studios
 publisher: Limited Run Games
 genre: Action;Platformer;2D
@@ -1383,7 +1383,7 @@ x-playable: Yes
 
 
 game: Gotta Protectors (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Gotta Protectors (USA) (eShop)/Gotta Protectors (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Gotta Protectors (USA) (eShop)/Gotta Protectors (USA) (eShop).json
 developer: Ancient
 publisher: Ancient
 genre: Action
@@ -1403,7 +1403,7 @@ x-playable: Yes
 
 
 game: Gunman Clive (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Gunman Clive (USA) (eShop)/Gunman Clive (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Gunman Clive (USA) (eShop)/Gunman Clive (USA) (eShop).json
 developer: Hörberg Productions
 publisher: Hörberg Productions
 genre: Action;Adventure
@@ -1421,7 +1421,7 @@ x-playable: Yes
 
 
 game: Gunman Clive 2 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Gunman Clive 2 (USA) (eShop)/Gunman Clive 2 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Gunman Clive 2 (USA) (eShop)/Gunman Clive 2 (USA) (eShop).json
 developer: Horberg Productions
 publisher: Horberg Productions
 genre: Platform
@@ -1440,7 +1440,7 @@ x-playable: Yes
 
 
 game: Gurumin 3D - A Monstrous Adventure (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Gurumin 3D - A Monstrous Adventure (USA) (eShop)/Gurumin 3D - A Monstrous Adventure (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Gurumin 3D - A Monstrous Adventure (USA) (eShop)/Gurumin 3D - A Monstrous Adventure (USA) (eShop).json
 developer: Falcom
 publisher: Mastiff
 genre: Role-Playing;Action RPG
@@ -1469,7 +1469,7 @@ x-playable: Yes
 
 
 game: HarmoKnight (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/HarmoKnight (USA) (eShop)/HarmoKnight (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/HarmoKnight (USA) (eShop)/HarmoKnight (USA) (eShop).json
 developer: Game Freak
 publisher: Nintendo
 genre: Music
@@ -1491,7 +1491,7 @@ x-playable: Yes
 
 
 game: Harold Reborn (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Harold Reborn (USA) (eShop)/Harold Reborn (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Harold Reborn (USA) (eShop)/Harold Reborn (USA) (eShop).json
 developer: Luke Vincent
 publisher: Luke Vincent
 genre: Action;Platformer;3D
@@ -1515,7 +1515,7 @@ x-playable: Yes
 
 
 game: Harold's Walk (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Harold's Walk (USA) (eShop)/Harold's Walk (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Harold's Walk (USA) (eShop)/Harold's Walk (USA) (eShop).json
 developer: Luke Vincent
 publisher: Luke Vincent
 genre: Action;Platformer;3D
@@ -1530,7 +1530,7 @@ x-playable: Yes
 
 
 game: Ice Station Z (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Ice Station Z (USA) (eShop)/Ice Station Z (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Ice Station Z (USA) (eShop)/Ice Station Z (USA) (eShop).json
 developer: Wobbly Tooth Ltd
 publisher: Wobbly Tooth Ltd
 genre: Action Adventure;Open-World
@@ -1559,7 +1559,7 @@ x-playable: Yes
 
 
 game: Ironfall Invasion (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Ironfall Invasion (USA) (eShop)/Ironfall Invasion (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Ironfall Invasion (USA) (eShop)/Ironfall Invasion (USA) (eShop).json
 developer: VD-Dev
 publisher: VD-Dev
 genre: Shooter
@@ -1583,7 +1583,7 @@ x-playable: Yes
 
 
 game: Jett Rocket II - The Wrath of Taikai (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Jett Rocket II - The Wrath of Taikai (USA) (eShop)/Jett Rocket II - The Wrath of Taikai (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Jett Rocket II - The Wrath of Taikai (USA) (eShop)/Jett Rocket II - The Wrath of Taikai (USA) (eShop).json
 developer: Shin'en
 publisher: Shin'en
 genre: Action;Platformer;3D
@@ -1622,7 +1622,7 @@ x-playable: Yes
 
 
 game: Kersploosh! (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Kersploosh! (USA) (eShop)/Kersploosh! (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Kersploosh! (USA) (eShop)/Kersploosh! (USA) (eShop).json
 developer: Poisoft
 publisher: Nintendo
 genre: Miscellaneous;General
@@ -1653,7 +1653,7 @@ x-playable: Yes
 
 
 game: Ketzal's Corridors (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Ketzal's Corridors (USA) (eShop)/Ketzal's Corridors (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Ketzal's Corridors (USA) (eShop)/Ketzal's Corridors (USA) (eShop).json
 developer: Keys Factory
 publisher: Nintendo
 genre: Puzzle
@@ -1677,7 +1677,7 @@ x-playable: Yes
 
 
 game: Kirby Fighters Deluxe (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Kirby Fighters Deluxe (USA) (eShop)/Kirby Fighters Deluxe (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Kirby Fighters Deluxe (USA) (eShop)/Kirby Fighters Deluxe (USA) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Fighting
@@ -1702,7 +1702,7 @@ x-playable: Yes
 
 
 game: Kirby's Blowout Blast (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Kirby's Blowout Blast (World) (eShop)/Kirby's Blowout Blast (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Kirby's Blowout Blast (World) (eShop)/Kirby's Blowout Blast (World) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1760,7 +1760,7 @@ x-playable: Yes
 
 
 game: Kokuga (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Kokuga (USA) (eShop)/Kokuga (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Kokuga (USA) (eShop)/Kokuga (USA) (eShop).json
 developer: G.rev Ltd.
 publisher: G.rev Ltd.
 genre: Action;Adventure;Shooter
@@ -1794,7 +1794,7 @@ x-playable: Yes
 
 
 game: Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop)/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop)/Legend of Dark Witch 2, The - The Price of Desire (USA) (eShop).json
 developer: Inside System
 publisher: CIRCLE Entertainment
 genre: Action;Platformer;2D
@@ -1832,7 +1832,7 @@ x-playable: Yes
 
 
 game: Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop)/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop)/Legend of Dark Witch 3, The - Wisdom and Lunacy (USA) (eShop).json
 developer: Flyhigh Works
 publisher: CIRCLE Entertainment
 genre: Action;General
@@ -1860,7 +1860,7 @@ x-playable: Yes
 
 
 game: Legend of Dark Witch, The (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Legend of Dark Witch, The (USA) (eShop)/Legend of Dark Witch, The (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Legend of Dark Witch, The (USA) (eShop)/Legend of Dark Witch, The (USA) (eShop).json
 developer: Inside System
 publisher: CIRCLE Entertainment
 genre: Action;Platformer;2D
@@ -1898,7 +1898,7 @@ x-playable: Yes
 
 
 game: Legend of Kusakari, The (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Legend of Kusakari, The (USA) (eShop)/Legend of Kusakari, The (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Legend of Kusakari, The (USA) (eShop)/Legend of Kusakari, The (USA) (eShop).json
 developer: Librage
 publisher: Nnooo
 genre: Action;General
@@ -1923,7 +1923,7 @@ x-playable: Yes
 
 
 game: Liberation Maiden (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Liberation Maiden (USA) (eShop)/Liberation Maiden (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Liberation Maiden (USA) (eShop)/Liberation Maiden (USA) (eShop).json
 developer: Grasshopper Manufacture
 publisher: Level-5
 genre: Action;Shooter
@@ -1947,7 +1947,7 @@ x-playable: Yes
 
 
 game: Link-a-Pix Color (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Link-a-Pix Color (USA) (eShop)/Link-a-Pix Color (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Link-a-Pix Color (USA) (eShop)/Link-a-Pix Color (USA) (eShop).json
 developer: Lightwood Games
 publisher: Lightwood Games
 genre: Puzzle;Logic
@@ -1975,7 +1975,7 @@ x-playable: Yes
 
 
 game: Mario Party - Star Rush - Party Guest (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Mario Party - Star Rush - Party Guest (USA) (eShop)/Mario Party - Star Rush - Party Guest (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Mario Party - Star Rush - Party Guest (USA) (eShop)/Mario Party - Star Rush - Party Guest (USA) (eShop).json
 developer: Nd Cube
 publisher: Nintendo
 genre: Miscellaneous;Party / Minigame
@@ -2002,7 +2002,7 @@ x-playable: Yes
 
 
 game: Mario and Donkey Kong - Minis on the Move (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Mario and Donkey Kong - Minis on the Move (USA) (eShop)/Mario and Donkey Kong - Minis on the Move (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Mario and Donkey Kong - Minis on the Move (USA) (eShop)/Mario and Donkey Kong - Minis on the Move (USA) (eShop).json
 developer: Nintendo SPD Group No.1
 publisher: Nintendo of America
 genre: Platform;Puzzle
@@ -2025,7 +2025,7 @@ x-playable: Yes
 
 
 game: Mario vs. Donkey Kong - Tipping Stars (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop)/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop)/Mario vs. Donkey Kong - Tipping Stars (USA) (eShop).json
 developer: Nintendo Software Technology
 publisher: Nintendo
 genre: Platform;Puzzle
@@ -2050,7 +2050,7 @@ x-playable: Yes
 
 
 game: Mini Mario & Friends (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Mini Mario & Friends (USA) (eShop)/Mini Mario & Friends (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Mini Mario & Friends (USA) (eShop)/Mini Mario & Friends (USA) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle;Action
@@ -2075,7 +2075,7 @@ x-playable: Yes
 
 
 game: Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop)/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop)/Monster Hunter 3 Ultimate Data Transfer Program (USA) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -2126,7 +2126,7 @@ x-playable: Yes
 
 
 game: Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop)/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop)/Monster Hunter Generations Ultimate Data Transfer App (USA) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Tool
@@ -2146,7 +2146,7 @@ x-playable: Yes
 
 
 game: Moon Chronicles (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Moon Chronicles (USA) (eShop)/Moon Chronicles (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Moon Chronicles (USA) (eShop)/Moon Chronicles (USA) (eShop).json
 developer: Renegade Kid
 publisher: Renegade Kid
 genre: Shooter
@@ -2172,7 +2172,7 @@ x-playable: Yes
 
 
 game: Nano Assault EX (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Nano Assault EX (USA) (eShop)/Nano Assault EX (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Nano Assault EX (USA) (eShop)/Nano Assault EX (USA) (eShop).json
 developer: Shin'en Multimedia GmbH
 publisher: Shin'en Multimedia GmbH
 genre: Action;Shooter
@@ -2196,7 +2196,7 @@ x-playable: Yes
 
 
 game: Ninja Battle Heroes (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Ninja Battle Heroes (USA) (eShop)/Ninja Battle Heroes (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Ninja Battle Heroes (USA) (eShop)/Ninja Battle Heroes (USA) (eShop).json
 developer: Tom Create
 publisher: Tom Create
 genre: Action;Platform
@@ -2226,7 +2226,7 @@ x-playable: Yes
 
 
 game: Nintendo Badge Arcade (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Nintendo Badge Arcade (USA) (eShop)/Nintendo Badge Arcade (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Nintendo Badge Arcade (USA) (eShop)/Nintendo Badge Arcade (USA) (eShop).json
 developer: Nintendo SDD Software Development Group
 publisher: Nintendo
 genre: Puzzle
@@ -2249,7 +2249,7 @@ x-playable: Yes
 
 
 game: Noitu Love Devolution (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Noitu Love Devolution (USA) (eShop)/Noitu Love Devolution (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Noitu Love Devolution (USA) (eShop)/Noitu Love Devolution (USA) (eShop).json
 developer: Konjak
 publisher: Konjak
 genre: Action;Beat-'Em-Up;2D
@@ -2293,7 +2293,7 @@ x-playable: Yes
 
 
 game: Otosan - Nintendo 3DS Edition (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Otosan - Nintendo 3DS Edition (USA) (eShop)/Otosan - Nintendo 3DS Edition (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Otosan - Nintendo 3DS Edition (USA) (eShop)/Otosan - Nintendo 3DS Edition (USA) (eShop).json
 developer: William Kage
 publisher: Seven Silhouettes Enterprises
 genre: Role-Playing;Action RPG
@@ -2307,7 +2307,7 @@ x-playable: Yes
 
 
 game: Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop)/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop)/Phoenix Wright - Ace Attorney - Dual Destinies (USA) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure;Visual Novel
@@ -2322,7 +2322,7 @@ x-playable: Yes
 
 
 game: Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop)/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop)/Phoenix Wright - Ace Attorney - Spirit of Justice (USA) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure;Visual Novel
@@ -2346,7 +2346,7 @@ x-playable: Yes
 
 
 game: Phoenix Wright - Ace Attorney Trilogy (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop)/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop)/Phoenix Wright - Ace Attorney Trilogy (USA) (eShop).json
 developer: Capcom
 publisher: Capcom
 genre: Adventure;Visual Novel
@@ -2398,7 +2398,7 @@ x-playable: Yes
 
 
 game: Photos with Mario (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Photos with Mario (USA) (eShop)/Photos with Mario (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Photos with Mario (USA) (eShop)/Photos with Mario (USA) (eShop).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Miscellaneous;General
@@ -2435,7 +2435,7 @@ x-playable: Yes
 
 
 game: Pic-a-Pix Color (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pic-a-Pix Color (USA) (eShop)/Pic-a-Pix Color (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pic-a-Pix Color (USA) (eShop)/Pic-a-Pix Color (USA) (eShop).json
 developer: Lightwood Games
 publisher: Lightwood Games
 genre: Puzzle;Logic
@@ -2475,7 +2475,7 @@ x-playable: Yes
 
 
 game: Picross e (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Picross e (USA) (eShop)/Picross e (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Picross e (USA) (eShop)/Picross e (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: Jupiter Corporation
 genre: Puzzle
@@ -2500,7 +2500,7 @@ x-playable: Yes
 
 
 game: Picross e2 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Picross e2 (USA) (eShop)/Picross e2 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Picross e2 (USA) (eShop)/Picross e2 (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: Jupiter Corporation
 genre: Puzzle
@@ -2520,7 +2520,7 @@ x-playable: Yes
 
 
 game: Picross e3 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Picross e3 (USA) (eShop)/Picross e3 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Picross e3 (USA) (eShop)/Picross e3 (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: Jupiter Corporation
 genre: Puzzle
@@ -2553,7 +2553,7 @@ x-playable: Yes
 
 
 game: Picross e4 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Picross e4 (USA) (eShop)/Picross e4 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Picross e4 (USA) (eShop)/Picross e4 (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: Jupiter Corporation
 genre: Puzzle
@@ -2576,7 +2576,7 @@ x-playable: Yes
 
 
 game: Picross e5 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Picross e5 (USA) (eShop)/Picross e5 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Picross e5 (USA) (eShop)/Picross e5 (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: Jupiter Corporation
 genre: Puzzle
@@ -2602,7 +2602,7 @@ x-playable: Yes
 
 
 game: Picross e6 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Picross e6 (USA) (eShop)/Picross e6 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Picross e6 (USA) (eShop)/Picross e6 (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: Jupiter Corporation
 genre: Puzzle
@@ -2630,7 +2630,7 @@ x-playable: Yes
 
 
 game: Picross e7 (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Picross e7 (USA) (eShop)/Picross e7 (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Picross e7 (USA) (eShop)/Picross e7 (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: Jupiter Corporation
 genre: Puzzle
@@ -2657,7 +2657,7 @@ x-playable: Yes
 
 
 game: Pixel Paint (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pixel Paint (USA) (eShop)/Pixel Paint (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pixel Paint (USA) (eShop)/Pixel Paint (USA) (eShop).json
 developer: Aury Glenz
 publisher: Two Kernel Connection
 genre: Miscellaneous;Application
@@ -2691,7 +2691,7 @@ x-playable: Yes
 
 
 game: PixelMaker Studio (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/PixelMaker Studio (USA) (eShop)/PixelMaker Studio (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/PixelMaker Studio (USA) (eShop)/PixelMaker Studio (USA) (eShop).json
 developer: Nostatic Software
 publisher: Nostatic Software
 genre: Miscellaneous;Application
@@ -2714,7 +2714,7 @@ x-playable: Yes
 
 
 game: Pocket Card Jockey (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pocket Card Jockey (USA) (eShop)/Pocket Card Jockey (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pocket Card Jockey (USA) (eShop)/Pocket Card Jockey (USA) (eShop).json
 developer: Game Freak
 publisher: Nintendo
 genre: Action;Puzzle
@@ -2733,7 +2733,7 @@ x-playable: Yes
 
 
 game: Pokemon Bank (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pokemon Bank (World) (eShop)/Pokemon Bank (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pokemon Bank (World) (eShop)/Pokemon Bank (World) (eShop).json
 developer: Game Freak
 publisher: Nintendo
 genre: Life Simulation
@@ -2756,7 +2756,7 @@ x-playable: Yes
 
 
 game: Pokemon Battle Trozei (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pokemon Battle Trozei (World) (eShop)/Pokemon Battle Trozei (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pokemon Battle Trozei (World) (eShop)/Pokemon Battle Trozei (World) (eShop).json
 developer: Genius Sonority
 publisher: Nintendo
 genre: Puzzle
@@ -2784,7 +2784,7 @@ x-playable: Yes
 
 
 game: Pokemon Dream Radar (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pokemon Dream Radar (World) (eShop)/Pokemon Dream Radar (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pokemon Dream Radar (World) (eShop)/Pokemon Dream Radar (World) (eShop).json
 developer: Creatures, Inc.
 publisher: Nintendo
 genre: Shooter
@@ -2803,7 +2803,7 @@ x-playable: Yes
 
 
 game: Pokemon Picross (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pokemon Picross (World) (eShop)/Pokemon Picross (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pokemon Picross (World) (eShop)/Pokemon Picross (World) (eShop).json
 developer: Jupiter Corporation
 publisher: Nintendo
 genre: Puzzle
@@ -2845,7 +2845,7 @@ x-playable: Yes
 
 
 game: Pokemon Rumble World (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pokemon Rumble World (World) (eShop)/Pokemon Rumble World (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pokemon Rumble World (World) (eShop)/Pokemon Rumble World (World) (eShop).json
 developer: Ambrella
 publisher: Nintendo
 genre: Adventure;Role-Playing
@@ -2907,7 +2907,7 @@ x-playable: Yes
 
 
 game: Pokemon Shuffle (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pokemon Shuffle (World) (eShop)/Pokemon Shuffle (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pokemon Shuffle (World) (eShop)/Pokemon Shuffle (World) (eShop).json
 developer: Genius Sonority
 publisher: Nintendo
 genre: Puzzle
@@ -2926,7 +2926,7 @@ x-playable: Yes
 
 
 game: Pushmo (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Pushmo (USA) (eShop)/Pushmo (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Pushmo (USA) (eShop)/Pushmo (USA) (eShop).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Puzzle
@@ -2949,7 +2949,7 @@ x-playable: Yes
 
 
 game: RPGMaker Fes Player (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/RPGMaker Fes Player (USA) (eShop)/RPGMaker Fes Player (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/RPGMaker Fes Player (USA) (eShop)/RPGMaker Fes Player (USA) (eShop).json
 developer: Jupiter Corporation
 publisher: NIS America
 genre: Role-Playing;General
@@ -2964,7 +2964,7 @@ x-playable: Yes
 
 
 game: River City - Knights of Justice (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/River City - Knights of Justice (USA) (eShop)/River City - Knights of Justice (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/River City - Knights of Justice (USA) (eShop)/River City - Knights of Justice (USA) (eShop).json
 developer: Avit-Niigata
 publisher: Natsume
 genre: Role-Playing;Japanese-Style
@@ -3000,7 +3000,7 @@ x-playable: Yes
 
 
 game: Runny Egg (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Runny Egg (USA) (eShop)/Runny Egg (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Runny Egg (USA) (eShop)/Runny Egg (USA) (eShop).json
 developer: Tom Create
 publisher: Tom Create
 genre: Action;Platformer;2D
@@ -3032,7 +3032,7 @@ x-playable: Yes
 
 
 game: Rusty's Real Deal Baseball (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Rusty's Real Deal Baseball (USA) (eShop)/Rusty's Real Deal Baseball (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Rusty's Real Deal Baseball (USA) (eShop)/Rusty's Real Deal Baseball (USA) (eShop).json
 developer: Nintendo SDD Software Development Group
 publisher: Nintendo
 genre: Sports
@@ -3066,7 +3066,7 @@ x-playable: Yes
 
 
 game: Sadame (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Sadame (USA) (eShop)/Sadame (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Sadame (USA) (eShop)/Sadame (USA) (eShop).json
 developer: Mebius
 publisher: Rising Star Games
 genre: Role-Playing;Action RPG
@@ -3095,7 +3095,7 @@ x-playable: Yes
 
 
 game: Sakura Samurai - Art of the Sword (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Sakura Samurai - Art of the Sword (USA) (eShop)/Sakura Samurai - Art of the Sword (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Sakura Samurai - Art of the Sword (USA) (eShop)/Sakura Samurai - Art of the Sword (USA) (eShop).json
 developer: Grounding Inc.
 publisher: Nintendo
 genre: Action
@@ -3125,7 +3125,7 @@ x-playable: Yes
 
 
 game: Save Data Transfer Tool (World) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Save Data Transfer Tool (World) (eShop)/Save Data Transfer Tool (World) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Save Data Transfer Tool (World) (eShop)/Save Data Transfer Tool (World) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Tool
@@ -3145,7 +3145,7 @@ x-playable: Yes
 
 
 game: Senran Kagura Burst (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Senran Kagura Burst (USA) (eShop)/Senran Kagura Burst (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Senran Kagura Burst (USA) (eShop)/Senran Kagura Burst (USA) (eShop).json
 developer: Tamsoft
 publisher: XSEED Games
 genre: Action;Beat-'Em-Up;2D
@@ -3178,7 +3178,7 @@ x-playable: Yes
 
 
 game: Severed (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Severed (USA) (eShop)/Severed (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Severed (USA) (eShop)/Severed (USA) (eShop).json
 developer: DrinkBox Studios
 publisher: DrinkBox Studios
 genre: Action Adventure;General
@@ -3198,7 +3198,7 @@ x-playable: Yes
 
 
 game: Silver Falls - 3 Down Stars (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Silver Falls - 3 Down Stars (USA) (eShop)/Silver Falls - 3 Down Stars (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Silver Falls - 3 Down Stars (USA) (eShop)/Silver Falls - 3 Down Stars (USA) (eShop).json
 developer: Sungrand
 publisher: Sungrand
 genre: Action Adventure;Survival
@@ -3235,7 +3235,7 @@ x-playable: Yes
 
 
 game: Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop)/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop)/Silver Falls - Gaiden - Deathly Delusion Destroyers (USA) (eShop).json
 developer: Sungrand
 publisher: Sungrand
 genre: Role-Playing;General
@@ -3263,7 +3263,7 @@ x-playable: Yes
 
 
 game: Silver Falls - Guardians and Metal Exterminators (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Silver Falls - Guardians and Metal Exterminators (USA) (eShop)/Silver Falls - Guardians and Metal Exterminators (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Silver Falls - Guardians and Metal Exterminators (USA) (eShop)/Silver Falls - Guardians and Metal Exterminators (USA) (eShop).json
 developer: Sungrand
 publisher: Sungrand
 genre: Action;General
@@ -3299,7 +3299,7 @@ x-playable: Yes
 
 
 game: Silver Falls - Undertakers (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Silver Falls - Undertakers (USA) (eShop)/Silver Falls - Undertakers (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Silver Falls - Undertakers (USA) (eShop)/Silver Falls - Undertakers (USA) (eShop).json
 developer: Sungrand
 publisher: Sungrand
 genre: Action Adventure;Survival
@@ -3342,7 +3342,7 @@ x-playable: Yes
 
 
 game: Smash Controller (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Smash Controller (USA) (eShop)/Smash Controller (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Smash Controller (USA) (eShop)/Smash Controller (USA) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Miscellaneous;Application
@@ -3362,7 +3362,7 @@ x-playable: Yes
 
 
 game: SmileBASIC (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/SmileBASIC (USA) (eShop)/SmileBASIC (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/SmileBASIC (USA) (eShop)/SmileBASIC (USA) (eShop).json
 developer: SmileBoom
 publisher: SmileBoom
 genre: Miscellaneous;Edutainment
@@ -3429,7 +3429,7 @@ x-playable: Yes
 
 
 game: Starship Damrey, The (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Starship Damrey, The (USA) (eShop)/Starship Damrey, The (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Starship Damrey, The (USA) (eShop)/Starship Damrey, The (USA) (eShop).json
 developer: Level 5
 publisher: Level 5
 genre: Adventure;General
@@ -3452,7 +3452,7 @@ x-playable: Yes
 
 
 game: Steel Diver Sub Wars (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Steel Diver Sub Wars (USA) (eShop)/Steel Diver Sub Wars (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Steel Diver Sub Wars (USA) (eShop)/Steel Diver Sub Wars (USA) (eShop).json
 developer: Nintendo EAD
 publisher: Nintendo of America Inc.
 genre: Vehicle Simulation
@@ -3479,7 +3479,7 @@ x-playable: Yes
 
 
 game: Stretchmo (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Stretchmo (USA) (eShop)/Stretchmo (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Stretchmo (USA) (eShop)/Stretchmo (USA) (eShop).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Puzzle
@@ -3505,7 +3505,7 @@ x-playable: Yes
 
 
 game: Swapdoodle (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Swapdoodle (USA) (eShop)/Swapdoodle (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Swapdoodle (USA) (eShop)/Swapdoodle (USA) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Miscellaneous;Application
@@ -3551,7 +3551,7 @@ x-playable: Yes
 
 
 game: Swapnote (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Swapnote (USA) (eShop)/Swapnote (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Swapnote (USA) (eShop)/Swapnote (USA) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Miscellaneous;Application
@@ -3575,7 +3575,7 @@ x-playable: Yes
 
 
 game: Team Kirby Clash Deluxe (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Team Kirby Clash Deluxe (USA) (eShop)/Team Kirby Clash Deluxe (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Team Kirby Clash Deluxe (USA) (eShop)/Team Kirby Clash Deluxe (USA) (eShop).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -3611,7 +3611,7 @@ x-playable: Yes
 
 
 game: Tokyo Crash Mobs (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Tokyo Crash Mobs (USA) (eShop)/Tokyo Crash Mobs (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Tokyo Crash Mobs (USA) (eShop)/Tokyo Crash Mobs (USA) (eShop).json
 developer: Nintendo
 publisher: Nintendo
 genre: Puzzle
@@ -3638,7 +3638,7 @@ x-playable: Yes
 
 
 game: Wakedas (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Wakedas (USA) (eShop)/Wakedas (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Wakedas (USA) (eShop)/Wakedas (USA) (eShop).json
 developer: CIRCLE Entertainment
 publisher: CIRCLE Entertainment
 genre: Puzzle;Logic
@@ -3655,7 +3655,7 @@ x-playable: Yes
 
 
 game: Weapon Shop de Omasse (USA) (eShop)
-file: Nintendo/Nintendo 3DS eShop/Weapon Shop de Omasse (USA) (eShop)/Weapon Shop de Omasse (USA) (eShop).json
+file: Roms/Nintendo/Nintendo 3DS eShop/Weapon Shop de Omasse (USA) (eShop)/Weapon Shop de Omasse (USA) (eShop).json
 developer: Nex Entertainment
 publisher: Level 5
 genre: Role-Playing;General

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Mattel Intellivision" -n {file.b
 
 
 game: ABPA Backgammon ~ Backgammon (World)
-file: Other/Mattel Intellivision/ABPA Backgammon ~ Backgammon (World)/ABPA Backgammon ~ Backgammon (World).json
+file: Roms/Other/Mattel Intellivision/ABPA Backgammon ~ Backgammon (World)/ABPA Backgammon ~ Backgammon (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Strategy;Board Game
@@ -22,7 +22,7 @@ x-playable: Yes
 
 
 game: Advanced Dungeons & Dragons - Cloudy Mountain (World)
-file: Other/Mattel Intellivision/Advanced Dungeons & Dragons - Cloudy Mountain (World)/Advanced Dungeons & Dragons - Cloudy Mountain (World).json
+file: Roms/Other/Mattel Intellivision/Advanced Dungeons & Dragons - Cloudy Mountain (World)/Advanced Dungeons & Dragons - Cloudy Mountain (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action;Adventure
@@ -41,7 +41,7 @@ x-playable: Yes
 
 
 game: Armor Battle (USA, Europe)
-file: Other/Mattel Intellivision/Armor Battle (USA, Europe)/Armor Battle (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Armor Battle (USA, Europe)/Armor Battle (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action;Vehicle Simulation
@@ -74,7 +74,7 @@ x-playable: Yes
 
 
 game: Astrosmash (USA, Europe)
-file: Other/Mattel Intellivision/Astrosmash (USA, Europe)/Astrosmash (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Astrosmash (USA, Europe)/Astrosmash (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Shooter
@@ -103,7 +103,7 @@ x-playable: Yes
 
 
 game: Auto Racing (World)
-file: Other/Mattel Intellivision/Auto Racing (World)/Auto Racing (World).json
+file: Roms/Other/Mattel Intellivision/Auto Racing (World)/Auto Racing (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Racing
@@ -132,7 +132,7 @@ x-playable: Yes
 
 
 game: B-17 Bomber (USA, Europe)
-file: Other/Mattel Intellivision/B-17 Bomber (USA, Europe)/B-17 Bomber (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/B-17 Bomber (USA, Europe)/B-17 Bomber (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Action
@@ -161,7 +161,7 @@ x-playable: Yes
 
 
 game: Body Slam! Super Pro Wrestling (USA)
-file: Other/Mattel Intellivision/Body Slam! Super Pro Wrestling (USA)/Body Slam! Super Pro Wrestling (USA).json
+file: Roms/Other/Mattel Intellivision/Body Slam! Super Pro Wrestling (USA)/Body Slam! Super Pro Wrestling (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Action;Sports
@@ -194,7 +194,7 @@ x-playable: Yes
 
 
 game: Bomb Squad (USA, Europe)
-file: Other/Mattel Intellivision/Bomb Squad (USA, Europe)/Bomb Squad (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Bomb Squad (USA, Europe)/Bomb Squad (USA, Europe).json
 developer: Gene Smith
 publisher: Mattel Electronics
 genre: Action;Puzzle
@@ -230,7 +230,7 @@ x-playable: Yes
 
 
 game: Boxing (World)
-file: Other/Mattel Intellivision/Boxing (World)/Boxing (World).json
+file: Roms/Other/Mattel Intellivision/Boxing (World)/Boxing (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -250,7 +250,7 @@ x-playable: Yes
 
 
 game: Brickout! (World)
-file: Other/Mattel Intellivision/Brickout! (World)/Brickout! (World).json
+file: Roms/Other/Mattel Intellivision/Brickout! (World)/Brickout! (World).json
 developer: APh Technological Consulting
 publisher: Intellivision Productions
 genre: Action
@@ -280,7 +280,7 @@ x-playable: Yes
 
 
 game: Buzz Bombers (USA, Europe)
-file: Other/Mattel Intellivision/Buzz Bombers (USA, Europe)/Buzz Bombers (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Buzz Bombers (USA, Europe)/Buzz Bombers (USA, Europe).json
 developer: Michael Breen
 publisher: Mattel Electronics
 genre: Shooter
@@ -306,7 +306,7 @@ x-playable: Yes
 
 
 game: Checkers ~ Draughts (USA, Europe)
-file: Other/Mattel Intellivision/Checkers ~ Draughts (USA, Europe)/Checkers ~ Draughts (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Checkers ~ Draughts (USA, Europe)/Checkers ~ Draughts (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Strategy
@@ -333,7 +333,7 @@ x-playable: Yes
 
 
 game: Chip Shot - Super Pro Golf (USA)
-file: Other/Mattel Intellivision/Chip Shot - Super Pro Golf (USA)/Chip Shot - Super Pro Golf (USA).json
+file: Roms/Other/Mattel Intellivision/Chip Shot - Super Pro Golf (USA)/Chip Shot - Super Pro Golf (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Sports
@@ -367,7 +367,7 @@ x-playable: Yes
 
 
 game: Deep Pockets - Super Pro Pool and Billiards (World)
-file: Other/Mattel Intellivision/Deep Pockets - Super Pro Pool and Billiards (World)/Deep Pockets - Super Pro Pool and Billiards (World).json
+file: Roms/Other/Mattel Intellivision/Deep Pockets - Super Pro Pool and Billiards (World)/Deep Pockets - Super Pro Pool and Billiards (World).json
 developer: Realtime Associates
 publisher: Intellivision Productions
 genre: Sports
@@ -393,7 +393,7 @@ x-playable: Yes
 
 
 game: Demo Cartridge (World)
-file: Other/Mattel Intellivision/Demo Cartridge (World)/Demo Cartridge (World).json
+file: Roms/Other/Mattel Intellivision/Demo Cartridge (World)/Demo Cartridge (World).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Demonstration
@@ -419,7 +419,7 @@ x-playable: Yes
 
 
 game: Electric Company, The - Math Fun (USA, Europe)
-file: Other/Mattel Intellivision/Electric Company, The - Math Fun (USA, Europe)/Electric Company, The - Math Fun (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Electric Company, The - Math Fun (USA, Europe)/Electric Company, The - Math Fun (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Puzzle;Education
@@ -443,7 +443,7 @@ x-playable: Yes
 
 
 game: Electric Company, The - Word Fun (USA, Europe)
-file: Other/Mattel Intellivision/Electric Company, The - Word Fun (USA, Europe)/Electric Company, The - Word Fun (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Electric Company, The - Word Fun (USA, Europe)/Electric Company, The - Word Fun (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Puzzle;Education
@@ -460,7 +460,7 @@ x-playable: Yes
 
 
 game: Frog Bog (World)
-file: Other/Mattel Intellivision/Frog Bog (World)/Frog Bog (World).json
+file: Roms/Other/Mattel Intellivision/Frog Bog (World)/Frog Bog (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action;Platform
@@ -483,7 +483,7 @@ x-playable: Yes
 
 
 game: Hard Hat (World)
-file: Other/Mattel Intellivision/Hard Hat (World)/Hard Hat (World).json
+file: Roms/Other/Mattel Intellivision/Hard Hat (World)/Hard Hat (World).json
 developer: Mattel Electronics
 publisher: Intellivision Productions
 genre: Action
@@ -506,7 +506,7 @@ x-playable: Yes
 
 
 game: Horse Racing (World)
-file: Other/Mattel Intellivision/Horse Racing (World)/Horse Racing (World).json
+file: Roms/Other/Mattel Intellivision/Horse Racing (World)/Horse Racing (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports;Strategy;Casino
@@ -529,7 +529,7 @@ x-playable: Yes
 
 
 game: Hover Force (USA)
-file: Other/Mattel Intellivision/Hover Force (USA)/Hover Force (USA).json
+file: Roms/Other/Mattel Intellivision/Hover Force (USA)/Hover Force (USA).json
 developer: Realtime Associates
 publisher: Mattel Electronics
 genre: Action
@@ -553,7 +553,7 @@ x-playable: Yes
 
 
 game: Hypnotic Lights (World)
-file: Other/Mattel Intellivision/Hypnotic Lights (World)/Hypnotic Lights (World).json
+file: Roms/Other/Mattel Intellivision/Hypnotic Lights (World)/Hypnotic Lights (World).json
 developer: Mattel
 publisher: Mattel
 genre: Miscellaneous;General
@@ -569,7 +569,7 @@ x-playable: Yes
 
 
 game: King of the Mountain (USA) (Proto)
-file: Other/Mattel Intellivision/King of the Mountain (USA) (Proto)/King of the Mountain (USA) (Proto).json
+file: Roms/Other/Mattel Intellivision/King of the Mountain (USA) (Proto)/King of the Mountain (USA) (Proto).json
 developer: Mattel Electronics
 publisher: Intellivision Productions
 genre: Adventure
@@ -586,7 +586,7 @@ x-playable: Yes
 
 
 game: Land Battle (USA) (Proto)
-file: Other/Mattel Intellivision/Land Battle (USA) (Proto)/Land Battle (USA) (Proto).json
+file: Roms/Other/Mattel Intellivision/Land Battle (USA) (Proto)/Land Battle (USA) (Proto).json
 developer: APh Technological Consulting
 publisher: Intellivision Productions
 genre: Action
@@ -609,7 +609,7 @@ x-playable: Yes
 
 
 game: Las Vegas Poker & Blackjack ~ Blackjack & Poker (World)
-file: Other/Mattel Intellivision/Las Vegas Poker & Blackjack ~ Blackjack & Poker (World)/Las Vegas Poker & Blackjack ~ Blackjack & Poker (World).json
+file: Roms/Other/Mattel Intellivision/Las Vegas Poker & Blackjack ~ Blackjack & Poker (World)/Las Vegas Poker & Blackjack ~ Blackjack & Poker (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Casino
@@ -630,7 +630,7 @@ x-playable: Yes
 
 
 game: Las Vegas Roulette (World)
-file: Other/Mattel Intellivision/Las Vegas Roulette (World)/Las Vegas Roulette (World).json
+file: Roms/Other/Mattel Intellivision/Las Vegas Roulette (World)/Las Vegas Roulette (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Casino
@@ -648,7 +648,7 @@ x-playable: Yes
 
 
 game: Learning Fun I - Math Master, Factor Fun (USA)
-file: Other/Mattel Intellivision/Learning Fun I - Math Master, Factor Fun (USA)/Learning Fun I - Math Master, Factor Fun (USA).json
+file: Roms/Other/Mattel Intellivision/Learning Fun I - Math Master, Factor Fun (USA)/Learning Fun I - Math Master, Factor Fun (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Puzzle
@@ -671,7 +671,7 @@ x-playable: Yes
 
 
 game: Learning Fun II - Word Wizard, Memory Fun (USA)
-file: Other/Mattel Intellivision/Learning Fun II - Word Wizard, Memory Fun (USA)/Learning Fun II - Word Wizard, Memory Fun (USA).json
+file: Roms/Other/Mattel Intellivision/Learning Fun II - Word Wizard, Memory Fun (USA)/Learning Fun II - Word Wizard, Memory Fun (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Puzzle
@@ -695,7 +695,7 @@ x-playable: Yes
 
 
 game: Magic Carousel (USA) (Proto)
-file: Other/Mattel Intellivision/Magic Carousel (USA) (Proto)/Magic Carousel (USA) (Proto).json
+file: Roms/Other/Mattel Intellivision/Magic Carousel (USA) (Proto)/Magic Carousel (USA) (Proto).json
 developer: Mattel Electronics
 publisher: Intellivision Productions
 genre: Puzzle
@@ -712,7 +712,7 @@ x-playable: Yes
 
 
 game: Major League Baseball ~ Big League Baseball ~ Baseball (World)
-file: Other/Mattel Intellivision/Major League Baseball ~ Big League Baseball ~ Baseball (World)/Major League Baseball ~ Big League Baseball ~ Baseball (World).json
+file: Roms/Other/Mattel Intellivision/Major League Baseball ~ Big League Baseball ~ Baseball (World)/Major League Baseball ~ Big League Baseball ~ Baseball (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -733,7 +733,7 @@ x-playable: Yes
 
 
 game: Mind Strike (USA, Europe)
-file: Other/Mattel Intellivision/Mind Strike (USA, Europe)/Mind Strike (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Mind Strike (USA, Europe)/Mind Strike (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Strategy
@@ -755,7 +755,7 @@ x-playable: Yes
 
 
 game: Motocross (USA)
-file: Other/Mattel Intellivision/Motocross (USA)/Motocross (USA).json
+file: Roms/Other/Mattel Intellivision/Motocross (USA)/Motocross (USA).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Racing
@@ -776,7 +776,7 @@ x-playable: Yes
 
 
 game: Mountain Madness - Super Pro Skiing (USA)
-file: Other/Mattel Intellivision/Mountain Madness - Super Pro Skiing (USA)/Mountain Madness - Super Pro Skiing (USA).json
+file: Roms/Other/Mattel Intellivision/Mountain Madness - Super Pro Skiing (USA)/Mountain Madness - Super Pro Skiing (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Sports
@@ -794,7 +794,7 @@ x-playable: Yes
 
 
 game: NASL Soccer ~ Soccer (World)
-file: Other/Mattel Intellivision/NASL Soccer ~ Soccer (World)/NASL Soccer ~ Soccer (World).json
+file: Roms/Other/Mattel Intellivision/NASL Soccer ~ Soccer (World)/NASL Soccer ~ Soccer (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -815,7 +815,7 @@ x-playable: Yes
 
 
 game: NBA Basketball ~ Basketball (USA, Europe)
-file: Other/Mattel Intellivision/NBA Basketball ~ Basketball (USA, Europe)/NBA Basketball ~ Basketball (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/NBA Basketball ~ Basketball (USA, Europe)/NBA Basketball ~ Basketball (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -833,7 +833,7 @@ x-playable: Yes
 
 
 game: NFL Football ~ Football (World)
-file: Other/Mattel Intellivision/NFL Football ~ Football (World)/NFL Football ~ Football (World).json
+file: Roms/Other/Mattel Intellivision/NFL Football ~ Football (World)/NFL Football ~ Football (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -853,7 +853,7 @@ x-playable: Yes
 
 
 game: NHL Hockey ~ Hockey (World)
-file: Other/Mattel Intellivision/NHL Hockey ~ Hockey (World)/NHL Hockey ~ Hockey (World).json
+file: Roms/Other/Mattel Intellivision/NHL Hockey ~ Hockey (World)/NHL Hockey ~ Hockey (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -874,7 +874,7 @@ x-playable: Yes
 
 
 game: Night Stalker (World)
-file: Other/Mattel Intellivision/Night Stalker (World)/Night Stalker (World).json
+file: Roms/Other/Mattel Intellivision/Night Stalker (World)/Night Stalker (World).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Shooter
@@ -893,7 +893,7 @@ x-playable: Yes
 
 
 game: Number Jumble (USA) (Proto)
-file: Other/Mattel Intellivision/Number Jumble (USA) (Proto)/Number Jumble (USA) (Proto).json
+file: Roms/Other/Mattel Intellivision/Number Jumble (USA) (Proto)/Number Jumble (USA) (Proto).json
 developer: Mattel Electronics
 publisher: Intellivision Productions
 genre: Puzzle
@@ -922,7 +922,7 @@ x-playable: Yes
 
 
 game: PBA Bowling ~ Bowling (World)
-file: Other/Mattel Intellivision/PBA Bowling ~ Bowling (World)/PBA Bowling ~ Bowling (World).json
+file: Roms/Other/Mattel Intellivision/PBA Bowling ~ Bowling (World)/PBA Bowling ~ Bowling (World).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Sports
@@ -945,7 +945,7 @@ x-playable: Yes
 
 
 game: PGA Golf ~ Golf (World)
-file: Other/Mattel Intellivision/PGA Golf ~ Golf (World)/PGA Golf ~ Golf (World).json
+file: Roms/Other/Mattel Intellivision/PGA Golf ~ Golf (World)/PGA Golf ~ Golf (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -966,7 +966,7 @@ x-playable: Yes
 
 
 game: Party Line - Space Cadet (USA) (Proto)
-file: Other/Mattel Intellivision/Party Line - Space Cadet (USA) (Proto)/Party Line - Space Cadet (USA) (Proto).json
+file: Roms/Other/Mattel Intellivision/Party Line - Space Cadet (USA) (Proto)/Party Line - Space Cadet (USA) (Proto).json
 developer: Mattel Electronics
 publisher: Intellivision Productions
 genre: Action
@@ -991,7 +991,7 @@ x-playable: Yes
 
 
 game: Pinball (USA)
-file: Other/Mattel Intellivision/Pinball (USA)/Pinball (USA).json
+file: Roms/Other/Mattel Intellivision/Pinball (USA)/Pinball (USA).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Action
@@ -1014,7 +1014,7 @@ x-playable: Yes
 
 
 game: Reversi (USA, Europe)
-file: Other/Mattel Intellivision/Reversi (USA, Europe)/Reversi (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Reversi (USA, Europe)/Reversi (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Strategy;Board Game
@@ -1036,7 +1036,7 @@ x-playable: Yes
 
 
 game: Royal Dealer (USA, Europe)
-file: Other/Mattel Intellivision/Royal Dealer (USA, Europe)/Royal Dealer (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Royal Dealer (USA, Europe)/Royal Dealer (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Strategy
@@ -1055,7 +1055,7 @@ x-playable: Yes
 
 
 game: SNAFU (World)
-file: Other/Mattel Intellivision/SNAFU (World)/SNAFU (World).json
+file: Roms/Other/Mattel Intellivision/SNAFU (World)/SNAFU (World).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Action
@@ -1079,7 +1079,7 @@ x-playable: Yes
 
 
 game: Sea Battle (World)
-file: Other/Mattel Intellivision/Sea Battle (World)/Sea Battle (World).json
+file: Roms/Other/Mattel Intellivision/Sea Battle (World)/Sea Battle (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action
@@ -1102,7 +1102,7 @@ x-playable: Yes
 
 
 game: Shark! Shark! (USA, Europe)
-file: Other/Mattel Intellivision/Shark! Shark! (USA, Europe)/Shark! Shark! (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Shark! Shark! (USA, Europe)/Shark! Shark! (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Action
@@ -1126,7 +1126,7 @@ x-playable: Yes
 
 
 game: Sharp Shot (USA, Europe)
-file: Other/Mattel Intellivision/Sharp Shot (USA, Europe)/Sharp Shot (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Sharp Shot (USA, Europe)/Sharp Shot (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Shooter
@@ -1163,7 +1163,7 @@ x-playable: Yes
 
 
 game: Slam Dunk - Super Pro Basketball (USA)
-file: Other/Mattel Intellivision/Slam Dunk - Super Pro Basketball (USA)/Slam Dunk - Super Pro Basketball (USA).json
+file: Roms/Other/Mattel Intellivision/Slam Dunk - Super Pro Basketball (USA)/Slam Dunk - Super Pro Basketball (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Sports
@@ -1187,7 +1187,7 @@ x-playable: Yes
 
 
 game: Slap Shot - Super Pro Hockey (USA)
-file: Other/Mattel Intellivision/Slap Shot - Super Pro Hockey (USA)/Slap Shot - Super Pro Hockey (USA).json
+file: Roms/Other/Mattel Intellivision/Slap Shot - Super Pro Hockey (USA)/Slap Shot - Super Pro Hockey (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Sports
@@ -1211,7 +1211,7 @@ x-playable: Yes
 
 
 game: Space Armada (World)
-file: Other/Mattel Intellivision/Space Armada (World)/Space Armada (World).json
+file: Roms/Other/Mattel Intellivision/Space Armada (World)/Space Armada (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Shooter
@@ -1233,7 +1233,7 @@ x-playable: Yes
 
 
 game: Space Battle (World)
-file: Other/Mattel Intellivision/Space Battle (World)/Space Battle (World).json
+file: Roms/Other/Mattel Intellivision/Space Battle (World)/Space Battle (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action
@@ -1252,7 +1252,7 @@ x-playable: Yes
 
 
 game: Space Hawk (USA, Europe)
-file: Other/Mattel Intellivision/Space Hawk (USA, Europe)/Space Hawk (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Space Hawk (USA, Europe)/Space Hawk (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Shooter
@@ -1275,7 +1275,7 @@ x-playable: Yes
 
 
 game: Space Spartans (USA, Europe)
-file: Other/Mattel Intellivision/Space Spartans (USA, Europe)/Space Spartans (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Space Spartans (USA, Europe)/Space Spartans (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Action;Strategy
@@ -1301,7 +1301,7 @@ x-playable: Yes
 
 
 game: Spiker - Super Pro Volleyball (USA)
-file: Other/Mattel Intellivision/Spiker - Super Pro Volleyball (USA)/Spiker - Super Pro Volleyball (USA).json
+file: Roms/Other/Mattel Intellivision/Spiker - Super Pro Volleyball (USA)/Spiker - Super Pro Volleyball (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Sports
@@ -1321,7 +1321,7 @@ x-playable: Yes
 
 
 game: Stadium Mud Buggies (USA)
-file: Other/Mattel Intellivision/Stadium Mud Buggies (USA)/Stadium Mud Buggies (USA).json
+file: Roms/Other/Mattel Intellivision/Stadium Mud Buggies (USA)/Stadium Mud Buggies (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Racing
@@ -1345,7 +1345,7 @@ x-playable: Yes
 
 
 game: Star Strike (World)
-file: Other/Mattel Intellivision/Star Strike (World)/Star Strike (World).json
+file: Roms/Other/Mattel Intellivision/Star Strike (World)/Star Strike (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action
@@ -1366,7 +1366,7 @@ x-playable: Yes
 
 
 game: Sub Hunt (USA, Europe)
-file: Other/Mattel Intellivision/Sub Hunt (USA, Europe)/Sub Hunt (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Sub Hunt (USA, Europe)/Sub Hunt (USA, Europe).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action
@@ -1386,7 +1386,7 @@ x-playable: Yes
 
 
 game: Super Pro Decathlon (USA)
-file: Other/Mattel Intellivision/Super Pro Decathlon (USA)/Super Pro Decathlon (USA).json
+file: Roms/Other/Mattel Intellivision/Super Pro Decathlon (USA)/Super Pro Decathlon (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Sports
@@ -1411,7 +1411,7 @@ x-playable: Yes
 
 
 game: Super Pro Football (USA)
-file: Other/Mattel Intellivision/Super Pro Football (USA)/Super Pro Football (USA).json
+file: Roms/Other/Mattel Intellivision/Super Pro Football (USA)/Super Pro Football (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Sports
@@ -1428,7 +1428,7 @@ x-playable: Yes
 
 
 game: Super Soccer (USA) (Proto)
-file: Other/Mattel Intellivision/Super Soccer (USA) (Proto)/Super Soccer (USA) (Proto).json
+file: Roms/Other/Mattel Intellivision/Super Soccer (USA) (Proto)/Super Soccer (USA) (Proto).json
 developer: Mattel Electronics, Sears
 publisher: Mattel Electronics, Sears
 genre: Sports
@@ -1448,7 +1448,7 @@ x-playable: Yes
 
 
 game: Takeover (USA) (Proto)
-file: Other/Mattel Intellivision/Takeover (USA) (Proto)/Takeover (USA) (Proto).json
+file: Roms/Other/Mattel Intellivision/Takeover (USA) (Proto)/Takeover (USA) (Proto).json
 developer: Mattel Electronics
 publisher: Intellivision Productions
 genre: Strategy
@@ -1467,7 +1467,7 @@ x-playable: Yes
 
 
 game: Tennis (World)
-file: Other/Mattel Intellivision/Tennis (World)/Tennis (World).json
+file: Roms/Other/Mattel Intellivision/Tennis (World)/Tennis (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -1487,7 +1487,7 @@ x-playable: Yes
 
 
 game: Thin Ice (USA) (Beta)
-file: Other/Mattel Intellivision/Thin Ice (USA) (Beta)/Thin Ice (USA) (Beta).json
+file: Roms/Other/Mattel Intellivision/Thin Ice (USA) (Beta)/Thin Ice (USA) (Beta).json
 developer: Quicksilver Software
 publisher: INTV Corporation
 genre: Action
@@ -1513,7 +1513,7 @@ x-playable: Yes
 
 
 game: Thunder Castle (USA)
-file: Other/Mattel Intellivision/Thunder Castle (USA)/Thunder Castle (USA).json
+file: Roms/Other/Mattel Intellivision/Thunder Castle (USA)/Thunder Castle (USA).json
 developer: Mattel Electronics
 publisher: INTV Corporation
 genre: Stealth
@@ -1543,7 +1543,7 @@ x-playable: Yes
 
 
 game: Tower of Doom (USA)
-file: Other/Mattel Intellivision/Tower of Doom (USA)/Tower of Doom (USA).json
+file: Roms/Other/Mattel Intellivision/Tower of Doom (USA)/Tower of Doom (USA).json
 developer: Realtime Associates
 publisher: INTV Corporation
 genre: Role-Playing
@@ -1569,7 +1569,7 @@ x-playable: Yes
 
 
 game: Triple Action (World)
-file: Other/Mattel Intellivision/Triple Action (World)/Triple Action (World).json
+file: Roms/Other/Mattel Intellivision/Triple Action (World)/Triple Action (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Action
@@ -1596,7 +1596,7 @@ x-playable: Yes
 
 
 game: US Ski Team Skiing ~ Skiing (World)
-file: Other/Mattel Intellivision/US Ski Team Skiing ~ Skiing (World)/US Ski Team Skiing ~ Skiing (World).json
+file: Roms/Other/Mattel Intellivision/US Ski Team Skiing ~ Skiing (World)/US Ski Team Skiing ~ Skiing (World).json
 developer: APh Technological Consulting
 publisher: Mattel Electronics
 genre: Sports
@@ -1618,7 +1618,7 @@ x-playable: Yes
 
 
 game: USCF Chess ~ Chess (USA, Europe)
-file: Other/Mattel Intellivision/USCF Chess ~ Chess (USA, Europe)/USCF Chess ~ Chess (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/USCF Chess ~ Chess (USA, Europe)/USCF Chess ~ Chess (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Strategy;Board Game
@@ -1638,7 +1638,7 @@ x-playable: Yes
 
 
 game: Utopia (USA, Europe)
-file: Other/Mattel Intellivision/Utopia (USA, Europe)/Utopia (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Utopia (USA, Europe)/Utopia (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Construction and Management Simulation;Strategy
@@ -1658,7 +1658,7 @@ x-playable: Yes
 
 
 game: Vectron (USA, Europe)
-file: Other/Mattel Intellivision/Vectron (USA, Europe)/Vectron (USA, Europe).json
+file: Roms/Other/Mattel Intellivision/Vectron (USA, Europe)/Vectron (USA, Europe).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Shooter
@@ -1679,7 +1679,7 @@ x-playable: Yes
 
 
 game: World Championship Baseball (USA)
-file: Other/Mattel Intellivision/World Championship Baseball (USA)/World Championship Baseball (USA).json
+file: Roms/Other/Mattel Intellivision/World Championship Baseball (USA)/World Championship Baseball (USA).json
 developer: APh Technological Consulting
 publisher: INTV Corporation
 genre: Sports
@@ -1695,7 +1695,7 @@ x-playable: Yes
 
 
 game: World Series Major League Baseball (USA)
-file: Other/Mattel Intellivision/World Series Major League Baseball (USA)/World Series Major League Baseball (USA).json
+file: Roms/Other/Mattel Intellivision/World Series Major League Baseball (USA)/World Series Major League Baseball (USA).json
 developer: Mattel Electronics
 publisher: Mattel Electronics
 genre: Sports

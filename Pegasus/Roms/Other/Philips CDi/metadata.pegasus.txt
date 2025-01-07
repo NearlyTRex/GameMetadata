@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Philips CDi" -n {file.basename}
 
 
 game: Apprentice, The (Europe)
-file: Other/Philips CDi/Apprentice, The (Europe)/Apprentice, The (Europe).json
+file: Roms/Other/Philips CDi/Apprentice, The (Europe)/Apprentice, The (Europe).json
 developer: The Vision Factory
 publisher: Philips Interactive Media
 genre: Platform
@@ -25,7 +25,7 @@ x-playable: Yes
 
 
 game: Mutant Rampage - Bodyslam (Europe)
-file: Other/Philips CDi/Mutant Rampage - Bodyslam (Europe)/Mutant Rampage - Bodyslam (Europe).json
+file: Roms/Other/Philips CDi/Mutant Rampage - Bodyslam (Europe)/Mutant Rampage - Bodyslam (Europe).json
 developer: Animation Magic
 publisher: Philips Interactive Media
 genre: Action
@@ -45,7 +45,7 @@ x-playable: Yes
 
 
 game: Pac-Panic (Europe)
-file: Other/Philips CDi/Pac-Panic (Europe)/Pac-Panic (Europe).json
+file: Roms/Other/Philips CDi/Pac-Panic (Europe)/Pac-Panic (Europe).json
 developer: Namco
 publisher: Philips Interactive Media
 genre: Puzzle

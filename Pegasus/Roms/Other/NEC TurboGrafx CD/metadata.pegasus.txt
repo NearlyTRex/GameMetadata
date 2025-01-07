@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC TurboGrafx CD" -n {file.base
 
 
 game: Cosmic Fantasy II (USA)
-file: Other/NEC TurboGrafx CD/Cosmic Fantasy II (USA)/Cosmic Fantasy II (USA).json
+file: Roms/Other/NEC TurboGrafx CD/Cosmic Fantasy II (USA)/Cosmic Fantasy II (USA).json
 developer: Telenet Japan
 publisher: Working Designs
 genre: Role-Playing
@@ -37,7 +37,7 @@ x-playable: Yes
 
 
 game: Lords of Thunder (USA)
-file: Other/NEC TurboGrafx CD/Lords of Thunder (USA)/Lords of Thunder (USA).json
+file: Roms/Other/NEC TurboGrafx CD/Lords of Thunder (USA)/Lords of Thunder (USA).json
 developer: Red Entertainment
 publisher: Turbo Technologies, Inc.
 genre: Shooter
@@ -55,7 +55,7 @@ x-playable: Yes
 
 
 game: Valis II (USA)
-file: Other/NEC TurboGrafx CD/Valis II (USA)/Valis II (USA).json
+file: Roms/Other/NEC TurboGrafx CD/Valis II (USA)/Valis II (USA).json
 developer: Telenet Japan
 publisher: NEC Home Electronics, Ltd.
 genre: Action;Platform
@@ -74,7 +74,7 @@ x-playable: Yes
 
 
 game: Valis III (USA)
-file: Other/NEC TurboGrafx CD/Valis III (USA)/Valis III (USA).json
+file: Roms/Other/NEC TurboGrafx CD/Valis III (USA)/Valis III (USA).json
 developer: Laser Soft
 publisher: Telenet Japan Co., Ltd.
 genre: Action;Platform
@@ -93,7 +93,7 @@ x-playable: Yes
 
 
 game: Ys Book I & II (USA) (Rev 2)
-file: Other/NEC TurboGrafx CD/Ys Book I & II (USA) (Rev 2)/Ys Book I & II (USA) (Rev 2).json
+file: Roms/Other/NEC TurboGrafx CD/Ys Book I & II (USA) (Rev 2)/Ys Book I & II (USA) (Rev 2).json
 developer: Nihon Falcom
 publisher: Hudson Soft
 genre: Role-Playing

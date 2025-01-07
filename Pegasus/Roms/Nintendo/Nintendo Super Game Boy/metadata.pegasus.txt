@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo Super Game Boy" -n {
 
 
 game: Donkey Kong (Japan, USA) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Donkey Kong (Japan, USA) (SGB Enhanced)/Donkey Kong (Japan, USA) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Donkey Kong (Japan, USA) (SGB Enhanced)/Donkey Kong (Japan, USA) (SGB Enhanced).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform;Puzzle
@@ -38,7 +38,7 @@ x-playable: Yes
 
 
 game: Donkey Kong Land (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Donkey Kong Land (USA, Europe) (SGB Enhanced)/Donkey Kong Land (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Donkey Kong Land (USA, Europe) (SGB Enhanced)/Donkey Kong Land (USA, Europe) (SGB Enhanced).json
 developer: Rare
 publisher: Nintendo
 genre: Platform
@@ -60,7 +60,7 @@ x-playable: Yes
 
 
 game: Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced)/Donkey Kong Land 2 (USA, Europe) (SGB Enhanced).json
 developer: Rare
 publisher: Nintendo
 genre: Platform
@@ -94,7 +94,7 @@ x-playable: Yes
 
 
 game: Donkey Kong Land III (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Donkey Kong Land III (USA, Europe) (SGB Enhanced)/Donkey Kong Land III (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Donkey Kong Land III (USA, Europe) (SGB Enhanced)/Donkey Kong Land III (USA, Europe) (SGB Enhanced).json
 developer: Rare
 publisher: Nintendo
 genre: Platform
@@ -114,7 +114,7 @@ x-playable: Yes
 
 
 game: Game & Watch Gallery (USA) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Game & Watch Gallery (USA) (SGB Enhanced)/Game & Watch Gallery (USA) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Game & Watch Gallery (USA) (SGB Enhanced)/Game & Watch Gallery (USA) (SGB Enhanced).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action
@@ -143,7 +143,7 @@ x-playable: Yes
 
 
 game: Kirby's Block Ball (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Kirby's Block Ball (USA, Europe) (SGB Enhanced)/Kirby's Block Ball (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Kirby's Block Ball (USA, Europe) (SGB Enhanced)/Kirby's Block Ball (USA, Europe) (SGB Enhanced).json
 developer: Nintendo
 publisher: Nintendo
 genre: Action
@@ -166,7 +166,7 @@ x-playable: Yes
 
 
 game: Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced)/Kirby's Dream Land 2 (USA, Europe) (SGB Enhanced).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -186,7 +186,7 @@ x-playable: Yes
 
 
 game: Kirby's Star Stacker (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Kirby's Star Stacker (USA, Europe) (SGB Enhanced)/Kirby's Star Stacker (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Kirby's Star Stacker (USA, Europe) (SGB Enhanced)/Kirby's Star Stacker (USA, Europe) (SGB Enhanced).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Puzzle
@@ -208,7 +208,7 @@ x-playable: Yes
 
 
 game: Mario's Picross (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Mario's Picross (USA, Europe) (SGB Enhanced)/Mario's Picross (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Mario's Picross (USA, Europe) (SGB Enhanced)/Mario's Picross (USA, Europe) (SGB Enhanced).json
 developer: Jupiter Corporation
 publisher: Nintendo
 genre: Puzzle
@@ -234,7 +234,7 @@ x-playable: Yes
 
 
 game: Mega Man V (USA) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Mega Man V (USA) (SGB Enhanced)/Mega Man V (USA) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Mega Man V (USA) (SGB Enhanced)/Mega Man V (USA) (SGB Enhanced).json
 developer: Minakuchi Engineering
 publisher: Capcom
 genre: Action;Platform
@@ -260,7 +260,7 @@ x-playable: Yes
 
 
 game: Mole Mania (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Mole Mania (USA, Europe) (SGB Enhanced)/Mole Mania (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Mole Mania (USA, Europe) (SGB Enhanced)/Mole Mania (USA, Europe) (SGB Enhanced).json
 developer: Pax Softnica
 publisher: Nintendo
 genre: Puzzle
@@ -279,7 +279,7 @@ x-playable: Yes
 
 
 game: Mystical Ninja Starring Goemon (USA) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Mystical Ninja Starring Goemon (USA) (SGB Enhanced)/Mystical Ninja Starring Goemon (USA) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Mystical Ninja Starring Goemon (USA) (SGB Enhanced)/Mystical Ninja Starring Goemon (USA) (SGB Enhanced).json
 developer: KCE Nagoya
 publisher: Konami
 genre: Action;Adventure
@@ -299,7 +299,7 @@ x-playable: Yes
 
 
 game: Tamagotchi (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Tamagotchi (USA, Europe) (SGB Enhanced)/Tamagotchi (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Tamagotchi (USA, Europe) (SGB Enhanced)/Tamagotchi (USA, Europe) (SGB Enhanced).json
 developer: Tom Create
 publisher: Bandai
 genre: Life Simulation
@@ -342,7 +342,7 @@ x-playable: Yes
 
 
 game: Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced)
-file: Nintendo/Nintendo Super Game Boy/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced)/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).json
+file: Roms/Nintendo/Nintendo Super Game Boy/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced)/Wario Blast featuring Bomberman! (USA, Europe) (SGB Enhanced).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Action

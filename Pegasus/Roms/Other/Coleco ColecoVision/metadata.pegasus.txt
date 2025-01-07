@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Coleco ColecoVision" -n {file.ba
 
 
 game: Antarctic Adventure (USA, Europe)
-file: Other/Coleco ColecoVision/Antarctic Adventure (USA, Europe)/Antarctic Adventure (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Antarctic Adventure (USA, Europe)/Antarctic Adventure (USA, Europe).json
 developer: Konami
 publisher: Konami
 genre: Action
@@ -25,7 +25,7 @@ x-playable: Yes
 
 
 game: Aquattack (USA)
-file: Other/Coleco ColecoVision/Aquattack (USA)/Aquattack (USA).json
+file: Roms/Other/Coleco ColecoVision/Aquattack (USA)/Aquattack (USA).json
 developer: Interphase
 publisher: Interphase
 genre: Shooter
@@ -53,7 +53,7 @@ x-playable: Yes
 
 
 game: Brain Strainers (USA)
-file: Other/Coleco ColecoVision/Brain Strainers (USA)/Brain Strainers (USA).json
+file: Roms/Other/Coleco ColecoVision/Brain Strainers (USA)/Brain Strainers (USA).json
 developer: Carousel Software, Inc.
 publisher: Coleco Industries, Inc.
 genre: Music;Education
@@ -80,7 +80,7 @@ x-playable: Yes
 
 
 game: Bump 'n' Jump (USA, Europe)
-file: Other/Coleco ColecoVision/Bump 'n' Jump (USA, Europe)/Bump 'n' Jump (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Bump 'n' Jump (USA, Europe)/Bump 'n' Jump (USA, Europe).json
 developer: Coleco
 publisher: Coleco Industries, Inc.
 genre: Racing
@@ -102,7 +102,7 @@ x-playable: Yes
 
 
 game: Choplifter! (USA)
-file: Other/Coleco ColecoVision/Choplifter! (USA)/Choplifter! (USA).json
+file: Roms/Other/Coleco ColecoVision/Choplifter! (USA)/Choplifter! (USA).json
 developer: Dan Gorlin
 publisher: Coleco Industries, Inc.
 genre: Shooter
@@ -125,7 +125,7 @@ x-playable: Yes
 
 
 game: Cosmic Avenger (USA, Europe)
-file: Other/Coleco ColecoVision/Cosmic Avenger (USA, Europe)/Cosmic Avenger (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Cosmic Avenger (USA, Europe)/Cosmic Avenger (USA, Europe).json
 developer: Coleco
 publisher: Coleco Industries, Inc.
 genre: Shooter
@@ -145,7 +145,7 @@ x-playable: Yes
 
 
 game: Evolution (Canada)
-file: Other/Coleco ColecoVision/Evolution (Canada)/Evolution (Canada).json
+file: Roms/Other/Coleco ColecoVision/Evolution (Canada)/Evolution (Canada).json
 developer: Sydney Development Corp.
 publisher: Coleco Industries, Inc.
 genre: Action
@@ -172,7 +172,7 @@ x-playable: Yes
 
 
 game: Fathom (USA)
-file: Other/Coleco ColecoVision/Fathom (USA)/Fathom (USA).json
+file: Roms/Other/Coleco ColecoVision/Fathom (USA)/Fathom (USA).json
 developer: Imagic
 publisher: Imagic
 genre: Action;Adventure
@@ -197,7 +197,7 @@ x-playable: Yes
 
 
 game: Flipper Slipper (USA, Europe)
-file: Other/Coleco ColecoVision/Flipper Slipper (USA, Europe)/Flipper Slipper (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Flipper Slipper (USA, Europe)/Flipper Slipper (USA, Europe).json
 developer: Spectravision
 publisher: Spectravision
 genre: Action;Puzzle
@@ -214,7 +214,7 @@ x-playable: Yes
 
 
 game: Fortune Builder (USA)
-file: Other/Coleco ColecoVision/Fortune Builder (USA)/Fortune Builder (USA).json
+file: Roms/Other/Coleco ColecoVision/Fortune Builder (USA)/Fortune Builder (USA).json
 developer: Coleco Industries, Inc.
 publisher: Coleco Industries, Inc.
 genre: Strategy
@@ -245,7 +245,7 @@ x-playable: Yes
 
 
 game: Frantic Freddy (USA)
-file: Other/Coleco ColecoVision/Frantic Freddy (USA)/Frantic Freddy (USA).json
+file: Roms/Other/Coleco ColecoVision/Frantic Freddy (USA)/Frantic Freddy (USA).json
 developer: Spectravideo International Ltd.
 publisher: Spectravideo International Ltd.
 genre: Action;Platform
@@ -276,7 +276,7 @@ x-playable: Yes
 
 
 game: Frenzy (USA, Europe)
-file: Other/Coleco ColecoVision/Frenzy (USA, Europe)/Frenzy (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Frenzy (USA, Europe)/Frenzy (USA, Europe).json
 developer: Coleco Industries, Inc.
 publisher: CBS Electronics
 genre: Shooter
@@ -298,7 +298,7 @@ x-playable: Yes
 
 
 game: Gateway to Apshai (USA, Europe)
-file: Other/Coleco ColecoVision/Gateway to Apshai (USA, Europe)/Gateway to Apshai (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Gateway to Apshai (USA, Europe)/Gateway to Apshai (USA, Europe).json
 developer: Epyx
 publisher: Epyx, Inc.
 genre: Role-Playing
@@ -343,7 +343,7 @@ x-playable: Yes
 
 
 game: Gust Buster (USA)
-file: Other/Coleco ColecoVision/Gust Buster (USA)/Gust Buster (USA).json
+file: Roms/Other/Coleco ColecoVision/Gust Buster (USA)/Gust Buster (USA).json
 developer: Sunrise Software, Inc.
 publisher: Sunrise Software, Inc.
 genre: Action
@@ -360,7 +360,7 @@ x-playable: Yes
 
 
 game: Heist, The (USA)
-file: Other/Coleco ColecoVision/Heist, The (USA)/Heist, The (USA).json
+file: Roms/Other/Coleco ColecoVision/Heist, The (USA)/Heist, The (USA).json
 developer: Micro Fun
 publisher: Micro Fun
 genre: Platform
@@ -379,7 +379,7 @@ x-playable: Yes
 
 
 game: Jumpman Junior (USA, Europe)
-file: Other/Coleco ColecoVision/Jumpman Junior (USA, Europe)/Jumpman Junior (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Jumpman Junior (USA, Europe)/Jumpman Junior (USA, Europe).json
 developer: Epyx
 publisher: Epyx
 genre: Action
@@ -406,7 +406,7 @@ x-playable: Yes
 
 
 game: Jungle Hunt (USA)
-file: Other/Coleco ColecoVision/Jungle Hunt (USA)/Jungle Hunt (USA).json
+file: Roms/Other/Coleco ColecoVision/Jungle Hunt (USA)/Jungle Hunt (USA).json
 developer: Taito America Corporation
 publisher: Atarisoft
 genre: Action;Platform
@@ -436,7 +436,7 @@ x-playable: Yes
 
 
 game: Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)
-file: Other/Coleco ColecoVision/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).json
+file: Roms/Other/Coleco ColecoVision/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1)/Miner 2049er Starring Bounty Bob (USA, Europe) (v1.1).json
 developer: Big Five Software
 publisher: Big Five Software
 genre: Platform
@@ -468,7 +468,7 @@ x-playable: Yes
 
 
 game: Moonsweeper (USA, Europe)
-file: Other/Coleco ColecoVision/Moonsweeper (USA, Europe)/Moonsweeper (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Moonsweeper (USA, Europe)/Moonsweeper (USA, Europe).json
 developer: Imagic
 publisher: Imagic
 genre: Shooter
@@ -495,7 +495,7 @@ x-playable: Yes
 
 
 game: Mountain King (USA)
-file: Other/Coleco ColecoVision/Mountain King (USA)/Mountain King (USA).json
+file: Roms/Other/Coleco ColecoVision/Mountain King (USA)/Mountain King (USA).json
 developer: Sunrise Software
 publisher: Sunrise Software, Inc.
 genre: Action;Platform
@@ -512,7 +512,7 @@ x-playable: Yes
 
 
 game: Nova Blast (USA, Europe)
-file: Other/Coleco ColecoVision/Nova Blast (USA, Europe)/Nova Blast (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Nova Blast (USA, Europe)/Nova Blast (USA, Europe).json
 developer: Imagic
 publisher: Imagic
 genre: Shooter
@@ -530,7 +530,7 @@ x-playable: Yes
 
 
 game: Oil's Well (USA)
-file: Other/Coleco ColecoVision/Oil's Well (USA)/Oil's Well (USA).json
+file: Roms/Other/Coleco ColecoVision/Oil's Well (USA)/Oil's Well (USA).json
 developer: Sierra On-Line, Inc.
 publisher: Sierra On-Line, Inc.
 genre: Action
@@ -552,7 +552,7 @@ x-playable: Yes
 
 
 game: Omega Race (USA, Europe)
-file: Other/Coleco ColecoVision/Omega Race (USA, Europe)/Omega Race (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Omega Race (USA, Europe)/Omega Race (USA, Europe).json
 developer: Micro Fun
 publisher: Micro Fun
 genre: Shooter
@@ -584,7 +584,7 @@ x-playable: Yes
 
 
 game: Pepper II (USA, Europe)
-file: Other/Coleco ColecoVision/Pepper II (USA, Europe)/Pepper II (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Pepper II (USA, Europe)/Pepper II (USA, Europe).json
 developer: Coleco Industries, Inc.
 publisher: Coleco Industries, Inc.
 genre: Action;Puzzle
@@ -608,7 +608,7 @@ x-playable: Yes
 
 
 game: Quest for Quintana Roo (USA)
-file: Other/Coleco ColecoVision/Quest for Quintana Roo (USA)/Quest for Quintana Roo (USA).json
+file: Roms/Other/Coleco ColecoVision/Quest for Quintana Roo (USA)/Quest for Quintana Roo (USA).json
 developer: VSS, Inc.
 publisher: Sunrise Software
 genre: Action;Adventure
@@ -641,7 +641,7 @@ x-playable: Yes
 
 
 game: Rolloverture (USA)
-file: Other/Coleco ColecoVision/Rolloverture (USA)/Rolloverture (USA).json
+file: Roms/Other/Coleco ColecoVision/Rolloverture (USA)/Rolloverture (USA).json
 developer: Sunrise Software
 publisher: Sunrise Software, Inc.
 genre: Music;Education
@@ -689,7 +689,7 @@ x-playable: Yes
 
 
 game: Sammy Lightfoot (USA)
-file: Other/Coleco ColecoVision/Sammy Lightfoot (USA)/Sammy Lightfoot (USA).json
+file: Roms/Other/Coleco ColecoVision/Sammy Lightfoot (USA)/Sammy Lightfoot (USA).json
 developer: Sierra Entertainment
 publisher: Sierra Entertainment, Inc.
 genre: Platform
@@ -710,7 +710,7 @@ x-playable: Yes
 
 
 game: Sir Lancelot (USA)
-file: Other/Coleco ColecoVision/Sir Lancelot (USA)/Sir Lancelot (USA).json
+file: Roms/Other/Coleco ColecoVision/Sir Lancelot (USA)/Sir Lancelot (USA).json
 developer: Xonox
 publisher: Xonox
 genre: Action
@@ -737,7 +737,7 @@ x-playable: Yes
 
 
 game: Slurpy (USA)
-file: Other/Coleco ColecoVision/Slurpy (USA)/Slurpy (USA).json
+file: Roms/Other/Coleco ColecoVision/Slurpy (USA)/Slurpy (USA).json
 developer: Emag
 publisher: Xonox
 genre: Action
@@ -759,7 +759,7 @@ x-playable: Yes
 
 
 game: Smurf Rescue (USA, Europe)
-file: Other/Coleco ColecoVision/Smurf Rescue (USA, Europe)/Smurf Rescue (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Smurf Rescue (USA, Europe)/Smurf Rescue (USA, Europe).json
 developer: Coleco Industries, Inc.
 publisher: Coleco Industries, Inc.
 genre: Platform
@@ -785,7 +785,7 @@ x-playable: Yes
 
 
 game: Space Fury (USA, Europe)
-file: Other/Coleco ColecoVision/Space Fury (USA, Europe)/Space Fury (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Space Fury (USA, Europe)/Space Fury (USA, Europe).json
 developer: Sega Enterprises Ltd.
 publisher: Coleco Industries, Inc.
 genre: Action;Shooter
@@ -815,7 +815,7 @@ x-playable: Yes
 
 
 game: Space Panic (USA, Europe)
-file: Other/Coleco ColecoVision/Space Panic (USA, Europe)/Space Panic (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Space Panic (USA, Europe)/Space Panic (USA, Europe).json
 developer: Universal Co., Ltd.
 publisher: Coleco Industries, Inc.
 genre: Action
@@ -835,7 +835,7 @@ x-playable: Yes
 
 
 game: Squish'em Featuring Sam (USA)
-file: Other/Coleco ColecoVision/Squish'em Featuring Sam (USA)/Squish'em Featuring Sam (USA).json
+file: Roms/Other/Coleco ColecoVision/Squish'em Featuring Sam (USA)/Squish'em Featuring Sam (USA).json
 developer: Interphase
 publisher: Interphase
 genre: Action
@@ -868,7 +868,7 @@ x-playable: Yes
 
 
 game: Super Cross Force (USA, Europe)
-file: Other/Coleco ColecoVision/Super Cross Force (USA, Europe)/Super Cross Force (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Super Cross Force (USA, Europe)/Super Cross Force (USA, Europe).json
 developer: Spectravision
 publisher: Spectravideo International Ltd.
 genre: Shooter
@@ -893,7 +893,7 @@ x-playable: Yes
 
 
 game: Threshold (USA)
-file: Other/Coleco ColecoVision/Threshold (USA)/Threshold (USA).json
+file: Roms/Other/Coleco ColecoVision/Threshold (USA)/Threshold (USA).json
 developer: Sierra Entertainment
 publisher: Sierra Entertainment
 genre: Shooter
@@ -917,7 +917,7 @@ x-playable: Yes
 
 
 game: Tournament Tennis (USA)
-file: Other/Coleco ColecoVision/Tournament Tennis (USA)/Tournament Tennis (USA).json
+file: Roms/Other/Coleco ColecoVision/Tournament Tennis (USA)/Tournament Tennis (USA).json
 developer: Imagic
 publisher: Imagic
 genre: Sports
@@ -943,7 +943,7 @@ x-playable: Yes
 
 
 game: Venture (USA, Europe)
-file: Other/Coleco ColecoVision/Venture (USA, Europe)/Venture (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Venture (USA, Europe)/Venture (USA, Europe).json
 developer: Exidy, Inc.
 publisher: Coleco Industries, Inc.
 genre: Action
@@ -964,7 +964,7 @@ x-playable: Yes
 
 
 game: War Room (USA)
-file: Other/Coleco ColecoVision/War Room (USA)/War Room (USA).json
+file: Roms/Other/Coleco ColecoVision/War Room (USA)/War Room (USA).json
 developer: NAP Consumer Electronics
 publisher: Probe 2000
 genre: Strategy
@@ -982,7 +982,7 @@ x-playable: Yes
 
 
 game: Wing War (USA)
-file: Other/Coleco ColecoVision/Wing War (USA)/Wing War (USA).json
+file: Roms/Other/Coleco ColecoVision/Wing War (USA)/Wing War (USA).json
 developer: Animagic S.A.
 publisher: Animagic S.A.
 genre: Shooter
@@ -1008,7 +1008,7 @@ x-playable: Yes
 
 
 game: Zaxxon (USA, Europe)
-file: Other/Coleco ColecoVision/Zaxxon (USA, Europe)/Zaxxon (USA, Europe).json
+file: Roms/Other/Coleco ColecoVision/Zaxxon (USA, Europe)/Zaxxon (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Shooter

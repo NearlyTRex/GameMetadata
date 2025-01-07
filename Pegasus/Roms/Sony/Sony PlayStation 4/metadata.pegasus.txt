@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Sony" -s "Sony PlayStation 4" -n {file.base
 
 
 game: Accounting Plus (USA)
-file: Sony/Sony PlayStation 4/Accounting Plus (USA)/Accounting Plus (USA).json
+file: Roms/Sony/Sony PlayStation 4/Accounting Plus (USA)/Accounting Plus (USA).json
 developer: Crows Crows Crows
 publisher: Crows Crows Crows
 genre: Adventure
@@ -23,7 +23,7 @@ x-playable: No
 
 
 game: Bloodborne (USA)
-file: Sony/Sony PlayStation 4/Bloodborne (USA)/Bloodborne (USA).json
+file: Roms/Sony/Sony PlayStation 4/Bloodborne (USA)/Bloodborne (USA).json
 developer: FromSoftware, Inc.
 publisher: Sony
 genre: Action;Role-Playing
@@ -52,7 +52,7 @@ x-playable: No
 
 
 game: Here They Lie (Europe)
-file: Sony/Sony PlayStation 4/Here They Lie (Europe)/Here They Lie (Europe).json
+file: Roms/Sony/Sony PlayStation 4/Here They Lie (Europe)/Here They Lie (Europe).json
 developer: The Tangentlemen
 publisher: Sony Interactive Entertainment
 genre: Horror
@@ -70,7 +70,7 @@ x-playable: No
 
 
 game: Hidden Agenda (USA)
-file: Sony/Sony PlayStation 4/Hidden Agenda (USA)/Hidden Agenda (USA).json
+file: Roms/Sony/Sony PlayStation 4/Hidden Agenda (USA)/Hidden Agenda (USA).json
 developer: Supermassive Games
 publisher: Sony Computer Entertainment
 genre: Action;Adventure
@@ -125,7 +125,7 @@ x-playable: No
 
 
 game: Home Sweet Home (USA)
-file: Sony/Sony PlayStation 4/Home Sweet Home (USA)/Home Sweet Home (USA).json
+file: Roms/Sony/Sony PlayStation 4/Home Sweet Home (USA)/Home Sweet Home (USA).json
 developer: Mastiff
 publisher: Mastiff
 genre: Action;Adventure;Horror
@@ -142,7 +142,7 @@ x-playable: No
 
 
 game: Inpatient, The (USA)
-file: Sony/Sony PlayStation 4/Inpatient, The (USA)/Inpatient, The (USA).json
+file: Roms/Sony/Sony PlayStation 4/Inpatient, The (USA)/Inpatient, The (USA).json
 developer: Supermassive Games
 publisher: Sony Interactive Entertainment
 genre: Horror
@@ -176,7 +176,7 @@ x-playable: No
 
 
 game: Job Simulator (USA)
-file: Sony/Sony PlayStation 4/Job Simulator (USA)/Job Simulator (USA).json
+file: Roms/Sony/Sony PlayStation 4/Job Simulator (USA)/Job Simulator (USA).json
 developer: Owlchemy Labs
 publisher: Owlchemy Labs
 genre: Simulation;Virtual;Career
@@ -196,7 +196,7 @@ x-playable: No
 
 
 game: Light Tracer (USA)
-file: Sony/Sony PlayStation 4/Light Tracer (USA)/Light Tracer (USA).json
+file: Roms/Sony/Sony PlayStation 4/Light Tracer (USA)/Light Tracer (USA).json
 developer: Void Dimensions
 publisher: Limited Run Games
 genre: Platform;Puzzle
@@ -221,7 +221,7 @@ x-playable: No
 
 
 game: Loading Human - Chapter 1 (USA)
-file: Sony/Sony PlayStation 4/Loading Human - Chapter 1 (USA)/Loading Human - Chapter 1 (USA).json
+file: Roms/Sony/Sony PlayStation 4/Loading Human - Chapter 1 (USA)/Loading Human - Chapter 1 (USA).json
 developer: Untold Games
 publisher: Maximum Games
 genre: Adventure
@@ -243,7 +243,7 @@ x-playable: No
 
 
 game: Paranormal Activity - The Lost Soul (USA)
-file: Sony/Sony PlayStation 4/Paranormal Activity - The Lost Soul (USA)/Paranormal Activity - The Lost Soul (USA).json
+file: Roms/Sony/Sony PlayStation 4/Paranormal Activity - The Lost Soul (USA)/Paranormal Activity - The Lost Soul (USA).json
 developer: VRWERX
 publisher: VRWERX
 genre: Adventure;Horror
@@ -261,7 +261,7 @@ x-playable: No
 
 
 game: Pixel Gear (USA)
-file: Sony/Sony PlayStation 4/Pixel Gear (USA)/Pixel Gear (USA).json
+file: Roms/Sony/Sony PlayStation 4/Pixel Gear (USA)/Pixel Gear (USA).json
 developer: Geronimo Interactive
 publisher: Oasis Games
 genre: Action;Shooter;First-Person;Arcade
@@ -277,7 +277,7 @@ x-playable: No
 
 
 game: PlayStation VR Demo Disc (USA)
-file: Sony/Sony PlayStation 4/PlayStation VR Demo Disc (USA)/PlayStation VR Demo Disc (USA).json
+file: Roms/Sony/Sony PlayStation 4/PlayStation VR Demo Disc (USA)/PlayStation VR Demo Disc (USA).json
 developer: Sony Interactive Entertainment
 publisher: Sony Interactive Entertainment
 genre: Miscellaneous;Demo Disc
@@ -293,7 +293,7 @@ x-playable: No
 
 
 game: PlayStation VR Worlds (USA)
-file: Sony/Sony PlayStation 4/PlayStation VR Worlds (USA)/PlayStation VR Worlds (USA).json
+file: Roms/Sony/Sony PlayStation 4/PlayStation VR Worlds (USA)/PlayStation VR Worlds (USA).json
 developer: SIE London Studio
 publisher: Sony Interactive Entertainment
 genre: Action;Racing;Shooter;Sports
@@ -313,7 +313,7 @@ x-playable: No
 
 
 game: Polybius (USA)
-file: Sony/Sony PlayStation 4/Polybius (USA)/Polybius (USA).json
+file: Roms/Sony/Sony PlayStation 4/Polybius (USA)/Polybius (USA).json
 developer: Jeff Minter
 publisher: LLamasoft
 genre: Shooter
@@ -339,7 +339,7 @@ x-playable: No
 
 
 game: Prison Boss VR (USA)
-file: Sony/Sony PlayStation 4/Prison Boss VR (USA)/Prison Boss VR (USA).json
+file: Roms/Sony/Sony PlayStation 4/Prison Boss VR (USA)/Prison Boss VR (USA).json
 developer: Trebuchet
 publisher: Trebuchet
 genre: Strategy;Real-Time;General
@@ -355,7 +355,7 @@ x-playable: No
 
 
 game: Project Lux (USA)
-file: Sony/Sony PlayStation 4/Project Lux (USA)/Project Lux (USA).json
+file: Roms/Sony/Sony PlayStation 4/Project Lux (USA)/Project Lux (USA).json
 developer: Spicy Tails
 publisher: Sekai Project
 genre: Adventure;Visual Novel
@@ -393,7 +393,7 @@ x-playable: No
 
 
 game: Resident Evil - Origins Collection (USA)
-file: Sony/Sony PlayStation 4/Resident Evil - Origins Collection (USA)/Resident Evil - Origins Collection (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil - Origins Collection (USA)/Resident Evil - Origins Collection (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Miscellaneous;Compilation
@@ -415,7 +415,7 @@ x-playable: No
 
 
 game: Resident Evil - Revelations (USA)
-file: Sony/Sony PlayStation 4/Resident Evil - Revelations (USA)/Resident Evil - Revelations (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil - Revelations (USA)/Resident Evil - Revelations (USA).json
 developer: Capcom Co., Ltd.
 publisher: Capcom U.S.A., Inc.
 genre: Action;Adventure;Horror
@@ -430,7 +430,7 @@ x-playable: No
 
 
 game: Resident Evil - Revelations 2 (USA)
-file: Sony/Sony PlayStation 4/Resident Evil - Revelations 2 (USA)/Resident Evil - Revelations 2 (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil - Revelations 2 (USA)/Resident Evil - Revelations 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror;Shooter
@@ -466,7 +466,7 @@ x-playable: No
 
 
 game: Resident Evil 2 (USA)
-file: Sony/Sony PlayStation 4/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror
@@ -488,7 +488,7 @@ x-playable: No
 
 
 game: Resident Evil 3 (USA)
-file: Sony/Sony PlayStation 4/Resident Evil 3 (USA)/Resident Evil 3 (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil 3 (USA)/Resident Evil 3 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Horror
@@ -515,7 +515,7 @@ x-playable: No
 
 
 game: Resident Evil 4 (USA)
-file: Sony/Sony PlayStation 4/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil 4 (USA)/Resident Evil 4 (USA).json
 developer: Capcom Co., Ltd.
 publisher: CAPCOM Co., Ltd.
 genre: Action;Adventure;Horror;Shooter
@@ -540,7 +540,7 @@ x-playable: No
 
 
 game: Resident Evil 5 (USA)
-file: Sony/Sony PlayStation 4/Resident Evil 5 (USA)/Resident Evil 5 (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil 5 (USA)/Resident Evil 5 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -562,7 +562,7 @@ x-playable: No
 
 
 game: Resident Evil 6 (USA)
-file: Sony/Sony PlayStation 4/Resident Evil 6 (USA)/Resident Evil 6 (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil 6 (USA)/Resident Evil 6 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action Adventure;Survival
@@ -583,7 +583,7 @@ x-playable: No
 
 
 game: Resident Evil 7 Biohazard Gold Edition (USA)
-file: Sony/Sony PlayStation 4/Resident Evil 7 Biohazard Gold Edition (USA)/Resident Evil 7 Biohazard Gold Edition (USA).json
+file: Roms/Sony/Sony PlayStation 4/Resident Evil 7 Biohazard Gold Edition (USA)/Resident Evil 7 Biohazard Gold Edition (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Horror;Shooter
@@ -604,7 +604,7 @@ x-playable: No
 
 
 game: Rez Infinite (USA)
-file: Sony/Sony PlayStation 4/Rez Infinite (USA)/Rez Infinite (USA).json
+file: Roms/Sony/Sony PlayStation 4/Rez Infinite (USA)/Rez Infinite (USA).json
 developer: Enhance Games
 publisher: Enhance Games
 genre: Music
@@ -630,7 +630,7 @@ x-playable: No
 
 
 game: Robinson - The Journey (USA)
-file: Sony/Sony PlayStation 4/Robinson - The Journey (USA)/Robinson - The Journey (USA).json
+file: Roms/Sony/Sony PlayStation 4/Robinson - The Journey (USA)/Robinson - The Journey (USA).json
 developer: Crytek
 publisher: Crytek
 genre: Adventure;Puzzle;Stealth
@@ -648,7 +648,7 @@ x-playable: No
 
 
 game: Star Trek - Bridge Crew (USA)
-file: Sony/Sony PlayStation 4/Star Trek - Bridge Crew (USA)/Star Trek - Bridge Crew (USA).json
+file: Roms/Sony/Sony PlayStation 4/Star Trek - Bridge Crew (USA)/Star Trek - Bridge Crew (USA).json
 developer: Red Storm Entertainment
 publisher: Ubisoft
 genre: Action;Adventure;Vehicle Simulation
@@ -680,7 +680,7 @@ x-playable: No
 
 
 game: Tetris Effect (USA)
-file: Sony/Sony PlayStation 4/Tetris Effect (USA)/Tetris Effect (USA).json
+file: Roms/Sony/Sony PlayStation 4/Tetris Effect (USA)/Tetris Effect (USA).json
 developer: Monstars
 publisher: Enhance Games
 genre: Puzzle
@@ -709,7 +709,7 @@ x-playable: No
 
 
 game: Thumper (USA)
-file: Sony/Sony PlayStation 4/Thumper (USA)/Thumper (USA).json
+file: Roms/Sony/Sony PlayStation 4/Thumper (USA)/Thumper (USA).json
 developer: Drool
 publisher: Drool
 genre: Action;Music
@@ -732,7 +732,7 @@ x-playable: No
 
 
 game: Until Dawn (USA)
-file: Sony/Sony PlayStation 4/Until Dawn (USA)/Until Dawn (USA).json
+file: Roms/Sony/Sony PlayStation 4/Until Dawn (USA)/Until Dawn (USA).json
 developer: Supermassive Games
 publisher: Sony
 genre: Horror
@@ -755,7 +755,7 @@ x-playable: No
 
 
 game: Until Dawn - Rush of Blood (USA)
-file: Sony/Sony PlayStation 4/Until Dawn - Rush of Blood (USA)/Until Dawn - Rush of Blood (USA).json
+file: Roms/Sony/Sony PlayStation 4/Until Dawn - Rush of Blood (USA)/Until Dawn - Rush of Blood (USA).json
 developer: Supermassive Games
 publisher: Sony Interactive Entertainment
 genre: Horror;Shooter
@@ -783,7 +783,7 @@ x-playable: No
 
 
 game: Volume (USA)
-file: Sony/Sony PlayStation 4/Volume (USA)/Volume (USA).json
+file: Roms/Sony/Sony PlayStation 4/Volume (USA)/Volume (USA).json
 developer: Bithell Games
 publisher: Bithell Games
 genre: Stealth

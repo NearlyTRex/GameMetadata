@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Sony" -s "Sony PlayStation Portable Video" 
 
 
 game: Dark Tales of Japan (Japan) (En,Ja)
-file: Sony/Sony PlayStation Portable Video/Dark Tales of Japan (Japan) (En,Ja)/Dark Tales of Japan (Japan) (En,Ja).json
+file: Roms/Sony/Sony PlayStation Portable Video/Dark Tales of Japan (Japan) (En,Ja)/Dark Tales of Japan (Japan) (En,Ja).json
 developer: Genius Entertainment
 publisher: Genius Entertainment
 genre: Movie
@@ -18,7 +18,7 @@ x-playable: No
 
 
 game: Galerians - Rion (USA) (En,Ja)
-file: Sony/Sony PlayStation Portable Video/Galerians - Rion (USA) (En,Ja)/Galerians - Rion (USA) (En,Ja).json
+file: Roms/Sony/Sony PlayStation Portable Video/Galerians - Rion (USA) (En,Ja)/Galerians - Rion (USA) (En,Ja).json
 developer: Image Entertainment
 publisher: Image Entertainment
 genre: Movie

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Magnavox Odyssey 2" -n {file.bas
 
 
 game: Invaders from Hyperspace (USA)
-file: Other/Magnavox Odyssey 2/Invaders from Hyperspace (USA)/Invaders from Hyperspace (USA).json
+file: Roms/Other/Magnavox Odyssey 2/Invaders from Hyperspace (USA)/Invaders from Hyperspace (USA).json
 developer: Magnavox
 publisher: Magnavox
 genre: Shooter

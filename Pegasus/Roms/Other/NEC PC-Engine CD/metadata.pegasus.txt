@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC PC-Engine CD" -n {file.basen
 
 
 game: Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)
-file: Other/NEC PC-Engine CD/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).json
+file: Roms/Other/NEC PC-Engine CD/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT)/Akumajou Dracula X - Chi no Rondo (Japan) (FABT, FACT).json
 developer: Konami
 publisher: Konami
 genre: Action;Adventure;Platform
@@ -48,7 +48,7 @@ x-playable: Yes
 
 
 game: Bomberman - Panic Bomber (Japan) (FABT)
-file: Other/NEC PC-Engine CD/Bomberman - Panic Bomber (Japan) (FABT)/Bomberman - Panic Bomber (Japan) (FABT).json
+file: Roms/Other/NEC PC-Engine CD/Bomberman - Panic Bomber (Japan) (FABT)/Bomberman - Panic Bomber (Japan) (FABT).json
 developer: Hudson Soft Company, Ltd.
 publisher: Hudson Soft Company, Ltd.
 genre: Puzzle
@@ -75,7 +75,7 @@ x-playable: Yes
 
 
 game: Chou Aniki (Japan) (FAAT, FACT)
-file: Other/NEC PC-Engine CD/Chou Aniki (Japan) (FAAT, FACT)/Chou Aniki (Japan) (FAAT, FACT).json
+file: Roms/Other/NEC PC-Engine CD/Chou Aniki (Japan) (FAAT, FACT)/Chou Aniki (Japan) (FAAT, FACT).json
 developer: NCS
 publisher: Masaya
 genre: Shooter
@@ -97,7 +97,7 @@ x-playable: Yes
 
 
 game: Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1)
-file: Other/NEC PC-Engine CD/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1)/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1).json
+file: Roms/Other/NEC PC-Engine CD/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1)/Far East of Eden - Tengai Makyou II - Manji Maru (Japan) (Rev 1).json
 developer: Red Entertainment
 publisher: Hudson
 genre: Role-Playing
@@ -113,7 +113,7 @@ x-playable: Yes
 
 
 game: Ginga Fukei Densetsu Sapphire (Japan)
-file: Other/NEC PC-Engine CD/Ginga Fukei Densetsu Sapphire (Japan)/Ginga Fukei Densetsu Sapphire (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Ginga Fukei Densetsu Sapphire (Japan)/Ginga Fukei Densetsu Sapphire (Japan).json
 developer: CAProduction
 publisher: Hudson Soft
 genre: Shooter
@@ -138,7 +138,7 @@ x-playable: Yes
 
 
 game: Gradius II - Gofer no Yabou (Japan)
-file: Other/NEC PC-Engine CD/Gradius II - Gofer no Yabou (Japan)/Gradius II - Gofer no Yabou (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Gradius II - Gofer no Yabou (Japan)/Gradius II - Gofer no Yabou (Japan).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -161,7 +161,7 @@ x-playable: Yes
 
 
 game: Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)
-file: Other/NEC PC-Engine CD/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan)/Mugen Senshi Valis - The Legend of a Fantasm Soldier (Japan).json
 developer: Telenet
 publisher: NEC
 genre: Action;Platform
@@ -199,7 +199,7 @@ x-playable: Yes
 
 
 game: Seirei Senshi Spriggan (Japan)
-file: Other/NEC PC-Engine CD/Seirei Senshi Spriggan (Japan)/Seirei Senshi Spriggan (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Seirei Senshi Spriggan (Japan)/Seirei Senshi Spriggan (Japan).json
 developer: Compile
 publisher: Naxat Soft
 genre: Action;Shooter
@@ -219,7 +219,7 @@ x-playable: Yes
 
 
 game: Snatcher CD-ROMantic (Japan)
-file: Other/NEC PC-Engine CD/Snatcher CD-ROMantic (Japan)/Snatcher CD-ROMantic (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Snatcher CD-ROMantic (Japan)/Snatcher CD-ROMantic (Japan).json
 developer: Konami
 publisher: Konami
 genre: Adventure
@@ -234,7 +234,7 @@ x-playable: Yes
 
 
 game: Spriggan Mark 2 - Re Terraform Project (Japan)
-file: Other/NEC PC-Engine CD/Spriggan Mark 2 - Re Terraform Project (Japan)/Spriggan Mark 2 - Re Terraform Project (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Spriggan Mark 2 - Re Terraform Project (Japan)/Spriggan Mark 2 - Re Terraform Project (Japan).json
 developer: Compile
 publisher: Naxat Soft
 genre: Action;Shooter
@@ -250,7 +250,7 @@ x-playable: Yes
 
 
 game: Star Parodier (Japan) (Rev 2)
-file: Other/NEC PC-Engine CD/Star Parodier (Japan) (Rev 2)/Star Parodier (Japan) (Rev 2).json
+file: Roms/Other/NEC PC-Engine CD/Star Parodier (Japan) (Rev 2)/Star Parodier (Japan) (Rev 2).json
 developer: Kaneko
 publisher: Hudson Soft
 genre: Shooter
@@ -279,7 +279,7 @@ x-playable: Yes
 
 
 game: Super Darius (Japan)
-file: Other/NEC PC-Engine CD/Super Darius (Japan)/Super Darius (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Super Darius (Japan)/Super Darius (Japan).json
 developer: Taito
 publisher: NEC Avenue
 genre: Shooter
@@ -303,7 +303,7 @@ x-playable: Yes
 
 
 game: Tokimeki Memorial (Japan) (Rev 3)
-file: Other/NEC PC-Engine CD/Tokimeki Memorial (Japan) (Rev 3)/Tokimeki Memorial (Japan) (Rev 3).json
+file: Roms/Other/NEC PC-Engine CD/Tokimeki Memorial (Japan) (Rev 3)/Tokimeki Memorial (Japan) (Rev 3).json
 developer: Konami Co., Ltd.
 publisher: Konami Co., Ltd.
 genre: Construction and Management Simulation
@@ -329,7 +329,7 @@ x-playable: Yes
 
 
 game: Valis II (Japan)
-file: Other/NEC PC-Engine CD/Valis II (Japan)/Valis II (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Valis II (Japan)/Valis II (Japan).json
 developer: Shin-Nihon Laser Soft Co., Ltd.
 publisher: Telenet Japan Co., Ltd.
 genre: Action;Platform
@@ -379,7 +379,7 @@ x-playable: Yes
 
 
 game: Valis III (Japan)
-file: Other/NEC PC-Engine CD/Valis III (Japan)/Valis III (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Valis III (Japan)/Valis III (Japan).json
 developer: Shin-Nihon Laser Soft Co., Ltd.
 publisher: NEC Home Electronics (U.S.A.) Inc.
 genre: Action;Platform
@@ -432,7 +432,7 @@ x-playable: Yes
 
 
 game: Valis IV (Japan)
-file: Other/NEC PC-Engine CD/Valis IV (Japan)/Valis IV (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Valis IV (Japan)/Valis IV (Japan).json
 developer: Laser Soft
 publisher: Telenet Japan Co., Ltd.
 genre: Action;Platform
@@ -457,7 +457,7 @@ x-playable: Yes
 
 
 game: Ys I & II (Japan)
-file: Other/NEC PC-Engine CD/Ys I & II (Japan)/Ys I & II (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Ys I & II (Japan)/Ys I & II (Japan).json
 developer: アルファ・システム、ハドソン
 publisher: ハドソン
 genre: Role-Playing
@@ -476,7 +476,7 @@ x-playable: Yes
 
 
 game: Ys III (Japan)
-file: Other/NEC PC-Engine CD/Ys III (Japan)/Ys III (Japan).json
+file: Roms/Other/NEC PC-Engine CD/Ys III (Japan)/Ys III (Japan).json
 developer: Nihon Falcom
 publisher: Hudson Soft
 genre: Role-Playing
@@ -496,7 +496,7 @@ x-playable: Yes
 
 
 game: Ys IV - The Dawn of Ys (Japan) (Rev 3)
-file: Other/NEC PC-Engine CD/Ys IV - The Dawn of Ys (Japan) (Rev 3)/Ys IV - The Dawn of Ys (Japan) (Rev 3).json
+file: Roms/Other/NEC PC-Engine CD/Ys IV - The Dawn of Ys (Japan) (Rev 3)/Ys IV - The Dawn of Ys (Japan) (Rev 3).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action;Role-Playing

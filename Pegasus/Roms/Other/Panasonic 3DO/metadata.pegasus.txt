@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Panasonic 3DO" -n {file.basename
 
 
 game: Alone in the Dark (USA)
-file: Other/Panasonic 3DO/Alone in the Dark (USA)/Alone in the Dark (USA).json
+file: Roms/Other/Panasonic 3DO/Alone in the Dark (USA)/Alone in the Dark (USA).json
 developer: Krisalis Software
 publisher: Interplay
 genre: Action;Adventure
@@ -27,7 +27,7 @@ x-playable: Yes
 
 
 game: Alone in the Dark 2 (USA)
-file: Other/Panasonic 3DO/Alone in the Dark 2 (USA)/Alone in the Dark 2 (USA).json
+file: Roms/Other/Panasonic 3DO/Alone in the Dark 2 (USA)/Alone in the Dark 2 (USA).json
 developer: Krisalis
 publisher: Infogrames
 genre: Action;Adventure
@@ -47,7 +47,7 @@ x-playable: Yes
 
 
 game: Burning Soldier (USA, Korea)
-file: Other/Panasonic 3DO/Burning Soldier (USA, Korea)/Burning Soldier (USA, Korea).json
+file: Roms/Other/Panasonic 3DO/Burning Soldier (USA, Korea)/Burning Soldier (USA, Korea).json
 developer: Genki
 publisher: Panasonic
 genre: Action;Shooter
@@ -79,7 +79,7 @@ x-playable: Yes
 
 
 game: DeathKeep (USA)
-file: Other/Panasonic 3DO/DeathKeep (USA)/DeathKeep (USA).json
+file: Roms/Other/Panasonic 3DO/DeathKeep (USA)/DeathKeep (USA).json
 developer: Lion Entertainment Inc.
 publisher: Strategic Simulations Inc.
 genre: Action;Role-Playing
@@ -101,7 +101,7 @@ x-playable: Yes
 
 
 game: Doctor Hauzer (Japan)
-file: Other/Panasonic 3DO/Doctor Hauzer (Japan)/Doctor Hauzer (Japan).json
+file: Roms/Other/Panasonic 3DO/Doctor Hauzer (Japan)/Doctor Hauzer (Japan).json
 developer: River Hill Software
 publisher: Matsushita Electric Industrial
 genre: Horror
@@ -123,7 +123,7 @@ x-playable: Yes
 
 
 game: Escape from Monster Manor (USA)
-file: Other/Panasonic 3DO/Escape from Monster Manor (USA)/Escape from Monster Manor (USA).json
+file: Roms/Other/Panasonic 3DO/Escape from Monster Manor (USA)/Escape from Monster Manor (USA).json
 developer: Studio 3do
 publisher: Electronic Arts
 genre: Shooter
@@ -145,7 +145,7 @@ x-playable: Yes
 
 
 game: Guardian War (USA, Korea)
-file: Other/Panasonic 3DO/Guardian War (USA, Korea)/Guardian War (USA, Korea).json
+file: Roms/Other/Panasonic 3DO/Guardian War (USA, Korea)/Guardian War (USA, Korea).json
 developer: Micro Cabin
 publisher: Matsushita
 genre: Role-Playing
@@ -172,7 +172,7 @@ x-playable: Yes
 
 
 game: Horde, The (Japan)
-file: Other/Panasonic 3DO/Horde, The (Japan)/Horde, The (Japan).json
+file: Roms/Other/Panasonic 3DO/Horde, The (Japan)/Horde, The (Japan).json
 developer: Toys for Bob
 publisher: Crystal Dynamics
 genre: Action;Strategy
@@ -197,7 +197,7 @@ x-playable: Yes
 
 
 game: Horde, The (USA)
-file: Other/Panasonic 3DO/Horde, The (USA)/Horde, The (USA).json
+file: Roms/Other/Panasonic 3DO/Horde, The (USA)/Horde, The (USA).json
 developer: Toys for Bob
 publisher: Crystal Dynamics
 genre: Action;Strategy
@@ -222,7 +222,7 @@ x-playable: Yes
 
 
 game: Immercenary - Combat in a Digital World (USA)
-file: Other/Panasonic 3DO/Immercenary - Combat in a Digital World (USA)/Immercenary - Combat in a Digital World (USA).json
+file: Roms/Other/Panasonic 3DO/Immercenary - Combat in a Digital World (USA)/Immercenary - Combat in a Digital World (USA).json
 developer: Five Miles Out
 publisher: Electronic Arts
 genre: Shooter
@@ -260,7 +260,7 @@ x-playable: Yes
 
 
 game: Jurassic Park Interactive (USA)
-file: Other/Panasonic 3DO/Jurassic Park Interactive (USA)/Jurassic Park Interactive (USA).json
+file: Roms/Other/Panasonic 3DO/Jurassic Park Interactive (USA)/Jurassic Park Interactive (USA).json
 developer: Studio 3do
 publisher: Universal Interactive
 genre: Action;Racing
@@ -283,7 +283,7 @@ x-playable: Yes
 
 
 game: Kingdom - The Far Reaches (USA, Europe)
-file: Other/Panasonic 3DO/Kingdom - The Far Reaches (USA, Europe)/Kingdom - The Far Reaches (USA, Europe).json
+file: Roms/Other/Panasonic 3DO/Kingdom - The Far Reaches (USA, Europe)/Kingdom - The Far Reaches (USA, Europe).json
 developer: Interplay
 publisher: Interplay
 genre: Adventure
@@ -308,7 +308,7 @@ x-playable: Yes
 
 
 game: Lucienne's Quest (USA)
-file: Other/Panasonic 3DO/Lucienne's Quest (USA)/Lucienne's Quest (USA).json
+file: Roms/Other/Panasonic 3DO/Lucienne's Quest (USA)/Lucienne's Quest (USA).json
 developer: Micro Cabin
 publisher: Panasonic Interactive
 genre: Role-Playing
@@ -332,7 +332,7 @@ x-playable: Yes
 
 
 game: Return Fire (USA)
-file: Other/Panasonic 3DO/Return Fire (USA)/Return Fire (USA).json
+file: Roms/Other/Panasonic 3DO/Return Fire (USA)/Return Fire (USA).json
 developer: Silent Software
 publisher: Prolific Publishing
 genre: Action
@@ -355,7 +355,7 @@ x-playable: Yes
 
 
 game: Slayer (USA)
-file: Other/Panasonic 3DO/Slayer (USA)/Slayer (USA).json
+file: Roms/Other/Panasonic 3DO/Slayer (USA)/Slayer (USA).json
 developer: Lion Entertainment Inc.
 publisher: Strategic Simulations, Inc.
 genre: Action;Role-Playing
@@ -374,7 +374,7 @@ x-playable: Yes
 
 
 game: Space Hulk - Vengeance of the Blood Angels (USA)
-file: Other/Panasonic 3DO/Space Hulk - Vengeance of the Blood Angels (USA)/Space Hulk - Vengeance of the Blood Angels (USA).json
+file: Roms/Other/Panasonic 3DO/Space Hulk - Vengeance of the Blood Angels (USA)/Space Hulk - Vengeance of the Blood Angels (USA).json
 developer: Key Game
 publisher: Electronic Arts
 genre: Action;Strategy
@@ -399,7 +399,7 @@ x-playable: Yes
 
 
 game: Total Eclipse (USA)
-file: Other/Panasonic 3DO/Total Eclipse (USA)/Total Eclipse (USA).json
+file: Roms/Other/Panasonic 3DO/Total Eclipse (USA)/Total Eclipse (USA).json
 developer: Crystal Dynamics
 publisher: Crystal Dynamics
 genre: Action;Shooter
@@ -420,7 +420,7 @@ x-playable: Yes
 
 
 game: Wolfenstein 3D (USA)
-file: Other/Panasonic 3DO/Wolfenstein 3D (USA)/Wolfenstein 3D (USA).json
+file: Roms/Other/Panasonic 3DO/Wolfenstein 3D (USA)/Wolfenstein 3D (USA).json
 developer: id Software
 publisher: Interplay
 genre: Shooter

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Commodore 64" -n {file.basename}
 
 
 game: Alleykat (Europe)
-file: Other/Commodore 64/Alleykat (Europe)/Alleykat (Europe).json
+file: Roms/Other/Commodore 64/Alleykat (Europe)/Alleykat (Europe).json
 developer: Graftgold
 publisher: Thunder Mountain
 genre: Racing;Shooter
@@ -27,7 +27,7 @@ x-playable: Yes
 
 
 game: Anarchy (Europe)
-file: Other/Commodore 64/Anarchy (Europe)/Anarchy (Europe).json
+file: Roms/Other/Commodore 64/Anarchy (Europe)/Anarchy (Europe).json
 developer: Michael Sentinella
 publisher: Rack-It [Hewson]
 genre: Puzzle;Shooter
@@ -52,7 +52,7 @@ x-playable: Yes
 
 
 game: Arc of Yesod, The (USA)
-file: Other/Commodore 64/Arc of Yesod, The (USA)/Arc of Yesod, The (USA).json
+file: Roms/Other/Commodore 64/Arc of Yesod, The (USA)/Arc of Yesod, The (USA).json
 developer: Odin Computer Graphics Ltd
 publisher: Thor Computer Software
 genre: Platform
@@ -79,7 +79,7 @@ x-playable: Yes
 
 
 game: Avenger (USA, Europe)
-file: Other/Commodore 64/Avenger (USA, Europe)/Avenger (USA, Europe).json
+file: Roms/Other/Commodore 64/Avenger (USA, Europe)/Avenger (USA, Europe).json
 developer: Commodore Electronics Ltd.
 publisher: Commodore Electronics Ltd.
 genre: Shooter
@@ -95,7 +95,7 @@ x-playable: Yes
 
 
 game: Barnsley Badger (Europe)
-file: Other/Commodore 64/Barnsley Badger (Europe)/Barnsley Badger (Europe).json
+file: Roms/Other/Commodore 64/Barnsley Badger (Europe)/Barnsley Badger (Europe).json
 developer: Trevor Storey
 publisher: Psytronik Software
 genre: Platform
@@ -115,7 +115,7 @@ x-playable: Yes
 
 
 game: Battle Valley (Europe)
-file: Other/Commodore 64/Battle Valley (Europe)/Battle Valley (Europe).json
+file: Roms/Other/Commodore 64/Battle Valley (Europe)/Battle Valley (Europe).json
 developer: Simon Wellard
 publisher: Hewson Consultants Ltd.
 genre: Shooter
@@ -138,7 +138,7 @@ x-playable: Yes
 
 
 game: Boulder Dash (USA, Europe)
-file: Other/Commodore 64/Boulder Dash (USA, Europe)/Boulder Dash (USA, Europe).json
+file: Roms/Other/Commodore 64/Boulder Dash (USA, Europe)/Boulder Dash (USA, Europe).json
 developer: Peter Liepa
 publisher: Statesoft
 genre: Action;Puzzle
@@ -157,7 +157,7 @@ x-playable: Yes
 
 
 game: Break Dance (Europe)
-file: Other/Commodore 64/Break Dance (Europe)/Break Dance (Europe).json
+file: Roms/Other/Commodore 64/Break Dance (Europe)/Break Dance (Europe).json
 developer: Beck-Tech
 publisher: Epyx, Inc.
 genre: Music;Strategy
@@ -191,7 +191,7 @@ x-playable: Yes
 
 
 game: Chip's Challenge (USA, Europe)
-file: Other/Commodore 64/Chip's Challenge (USA, Europe)/Chip's Challenge (USA, Europe).json
+file: Roms/Other/Commodore 64/Chip's Challenge (USA, Europe)/Chip's Challenge (USA, Europe).json
 developer: Epyx, Inc.
 publisher: U.S. Gold Ltd.
 genre: Puzzle
@@ -213,7 +213,7 @@ x-playable: Yes
 
 
 game: Coil Cop (USA)
-file: Other/Commodore 64/Coil Cop (USA)/Coil Cop (USA).json
+file: Roms/Other/Commodore 64/Coil Cop (USA)/Coil Cop (USA).json
 developer: Marco Duroe
 publisher: Epyx
 genre: Platform
@@ -241,7 +241,7 @@ x-playable: Yes
 
 
 game: Confuzion (Europe)
-file: Other/Commodore 64/Confuzion (Europe)/Confuzion (Europe).json
+file: Roms/Other/Commodore 64/Confuzion (Europe)/Confuzion (Europe).json
 developer: Paul Shirley
 publisher: Incentive Software Ltd
 genre: Action
@@ -263,7 +263,7 @@ x-playable: Yes
 
 
 game: Cosmic Causeway - Trailblazer II (Europe)
-file: Other/Commodore 64/Cosmic Causeway - Trailblazer II (Europe)/Cosmic Causeway - Trailblazer II (Europe).json
+file: Roms/Other/Commodore 64/Cosmic Causeway - Trailblazer II (Europe)/Cosmic Causeway - Trailblazer II (Europe).json
 developer: Shaun Southern
 publisher: Gremlin Graphics Software
 genre: Action;Racing
@@ -292,7 +292,7 @@ x-playable: Yes
 
 
 game: Cyberdyne Warrior (Europe)
-file: Other/Commodore 64/Cyberdyne Warrior (Europe)/Cyberdyne Warrior (Europe).json
+file: Roms/Other/Commodore 64/Cyberdyne Warrior (Europe)/Cyberdyne Warrior (Europe).json
 developer: Apex Computer Productions
 publisher: Hewson Consultants Ltd.
 genre: Shooter
@@ -316,7 +316,7 @@ x-playable: Yes
 
 
 game: Cybernoid - The Fighting Machine (USA, Europe)
-file: Other/Commodore 64/Cybernoid - The Fighting Machine (USA, Europe)/Cybernoid - The Fighting Machine (USA, Europe).json
+file: Roms/Other/Commodore 64/Cybernoid - The Fighting Machine (USA, Europe)/Cybernoid - The Fighting Machine (USA, Europe).json
 developer: Nick Jones
 publisher: U.S. Gold
 genre: Shooter
@@ -343,7 +343,7 @@ x-playable: Yes
 
 
 game: Cybernoid II (Europe)
-file: Other/Commodore 64/Cybernoid II (Europe)/Cybernoid II (Europe).json
+file: Roms/Other/Commodore 64/Cybernoid II (Europe)/Cybernoid II (Europe).json
 developer: Nick Jones
 publisher: Hewson Consultants Ltd.
 genre: Shooter
@@ -367,7 +367,7 @@ x-playable: Yes
 
 
 game: Deflektor (Europe)
-file: Other/Commodore 64/Deflektor (Europe)/Deflektor (Europe).json
+file: Roms/Other/Commodore 64/Deflektor (Europe)/Deflektor (Europe).json
 developer: Vortex Software
 publisher: Erbe Software
 genre: Puzzle
@@ -391,7 +391,7 @@ x-playable: Yes
 
 
 game: Destroyer (USA, Europe)
-file: Other/Commodore 64/Destroyer (USA, Europe)/Destroyer (USA, Europe).json
+file: Roms/Other/Commodore 64/Destroyer (USA, Europe)/Destroyer (USA, Europe).json
 developer: Chuck Sommerville
 publisher: U.S. Gold Ltd.
 genre: Action;Strategy;Vehicle Simulation
@@ -417,7 +417,7 @@ x-playable: Yes
 
 
 game: Epyx Games Collection (USA, Europe) (Multicart)
-file: Other/Commodore 64/Epyx Games Collection (USA, Europe) (Multicart)/Epyx Games Collection (USA, Europe) (Multicart).json
+file: Roms/Other/Commodore 64/Epyx Games Collection (USA, Europe) (Multicart)/Epyx Games Collection (USA, Europe) (Multicart).json
 developer: Epyx, Inc.
 publisher: U.S. Gold
 genre: Sports
@@ -437,7 +437,7 @@ x-playable: Yes
 
 
 game: Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash)
-file: Other/Commodore 64/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash)/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash).json
+file: Roms/Other/Commodore 64/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash)/Epyx Games Collection (USA, Europe) (Multicart) (EasyFlash).json
 developer: Epyx, Inc.
 publisher: U.S. Gold
 genre: Sports
@@ -457,7 +457,7 @@ x-playable: Yes
 
 
 game: Everyone's a Wally (USA, Europe)
-file: Other/Commodore 64/Everyone's a Wally (USA, Europe)/Everyone's a Wally (USA, Europe).json
+file: Roms/Other/Commodore 64/Everyone's a Wally (USA, Europe)/Everyone's a Wally (USA, Europe).json
 developer: Mike Berry
 publisher: Mikro-Gen
 genre: Adventure;Platform
@@ -493,7 +493,7 @@ x-playable: Yes
 
 
 game: Farming Simulator (USA, Europe)
-file: Other/Commodore 64/Farming Simulator (USA, Europe)/Farming Simulator (USA, Europe).json
+file: Roms/Other/Commodore 64/Farming Simulator (USA, Europe)/Farming Simulator (USA, Europe).json
 developer: GIANTS Software GmbH
 publisher: GIANTS Software GmbH
 genre: Simulation
@@ -520,7 +520,7 @@ x-playable: Yes
 
 
 game: Firelord (Europe)
-file: Other/Commodore 64/Firelord (Europe)/Firelord (Europe).json
+file: Roms/Other/Commodore 64/Firelord (Europe)/Firelord (Europe).json
 developer: John Cumming
 publisher: Hewson Consultants Ltd.
 genre: Adventure
@@ -543,7 +543,7 @@ x-playable: Yes
 
 
 game: Galencia Mini (Europe)
-file: Other/Commodore 64/Galencia Mini (Europe)/Galencia Mini (Europe).json
+file: Roms/Other/Commodore 64/Galencia Mini (Europe)/Galencia Mini (Europe).json
 developer: Jason Aldred
 publisher: Retro Games Ltd.
 genre: Shooter
@@ -559,7 +559,7 @@ x-playable: Yes
 
 
 game: Gateway to Apshai (USA, Europe)
-file: Other/Commodore 64/Gateway to Apshai (USA, Europe)/Gateway to Apshai (USA, Europe).json
+file: Roms/Other/Commodore 64/Gateway to Apshai (USA, Europe)/Gateway to Apshai (USA, Europe).json
 developer: The Connelley Group
 publisher: Epyx, Inc.
 genre: Action;Adventure;Role-Playing
@@ -602,7 +602,7 @@ x-playable: Yes
 
 
 game: Gribbly's Day Out (USA, Europe)
-file: Other/Commodore 64/Gribbly's Day Out (USA, Europe)/Gribbly's Day Out (USA, Europe).json
+file: Roms/Other/Commodore 64/Gribbly's Day Out (USA, Europe)/Gribbly's Day Out (USA, Europe).json
 developer: Graftgold Ltd.
 publisher: Rack-It
 genre: Action;Platform
@@ -638,7 +638,7 @@ x-playable: Yes
 
 
 game: Heartland (Europe)
-file: Other/Commodore 64/Heartland (Europe)/Heartland (Europe).json
+file: Roms/Other/Commodore 64/Heartland (Europe)/Heartland (Europe).json
 developer: Keith Robinson
 publisher: Odin Computer Graphics Ltd.
 genre: Adventure
@@ -661,7 +661,7 @@ x-playable: Yes
 
 
 game: Herobotix (Europe)
-file: Other/Commodore 64/Herobotix (Europe)/Herobotix (Europe).json
+file: Roms/Other/Commodore 64/Herobotix (Europe)/Herobotix (Europe).json
 developer: Steven Collins
 publisher: Hewson Consultants Ltd.
 genre: Shooter
@@ -686,7 +686,7 @@ x-playable: Yes
 
 
 game: Hessian (USA, Europe)
-file: Other/Commodore 64/Hessian (USA, Europe)/Hessian (USA, Europe).json
+file: Roms/Other/Commodore 64/Hessian (USA, Europe)/Hessian (USA, Europe).json
 developer: Covert Bitops
 publisher: Psytronik Software
 genre: Action;Adventure
@@ -724,7 +724,7 @@ x-playable: Yes
 
 
 game: Highway Encounter (Europe)
-file: Other/Commodore 64/Highway Encounter (Europe)/Highway Encounter (Europe).json
+file: Roms/Other/Commodore 64/Highway Encounter (Europe)/Highway Encounter (Europe).json
 developer: Vortex Software
 publisher: Gremlin Graphics Software
 genre: Action
@@ -745,7 +745,7 @@ x-playable: Yes
 
 
 game: Hunter's Moon (Europe)
-file: Other/Commodore 64/Hunter's Moon (Europe)/Hunter's Moon (Europe).json
+file: Roms/Other/Commodore 64/Hunter's Moon (Europe)/Hunter's Moon (Europe).json
 developer: Martin Walker
 publisher: U.S. Gold Ltd.
 genre: Shooter
@@ -772,7 +772,7 @@ x-playable: Yes
 
 
 game: Hysteria (Europe)
-file: Other/Commodore 64/Hysteria (Europe)/Hysteria (Europe).json
+file: Roms/Other/Commodore 64/Hysteria (Europe)/Hysteria (Europe).json
 developer: Special FX
 publisher: Software Projects
 genre: Action
@@ -799,7 +799,7 @@ x-playable: Yes
 
 
 game: IO - Into Oblivion (Europe)
-file: Other/Commodore 64/IO - Into Oblivion (Europe)/IO - Into Oblivion (Europe).json
+file: Roms/Other/Commodore 64/IO - Into Oblivion (Europe)/IO - Into Oblivion (Europe).json
 developer: Kinetic Designs
 publisher: Zeppelin Games
 genre: Shooter
@@ -823,7 +823,7 @@ x-playable: Yes
 
 
 game: Impossible Mission (USA, Europe)
-file: Other/Commodore 64/Impossible Mission (USA, Europe)/Impossible Mission (USA, Europe).json
+file: Roms/Other/Commodore 64/Impossible Mission (USA, Europe)/Impossible Mission (USA, Europe).json
 developer: Dennis Caswell
 publisher: U.S. Gold Ltd.
 genre: Action;Platform;Puzzle
@@ -844,7 +844,7 @@ x-playable: Yes
 
 
 game: Impossible Mission II (USA, Europe)
-file: Other/Commodore 64/Impossible Mission II (USA, Europe)/Impossible Mission II (USA, Europe).json
+file: Roms/Other/Commodore 64/Impossible Mission II (USA, Europe)/Impossible Mission II (USA, Europe).json
 developer: József Szentesi
 publisher: U.S. Gold Ltd.
 genre: Platform;Puzzle
@@ -873,7 +873,7 @@ x-playable: Yes
 
 
 game: Jumpman (USA, Europe)
-file: Other/Commodore 64/Jumpman (USA, Europe)/Jumpman (USA, Europe).json
+file: Roms/Other/Commodore 64/Jumpman (USA, Europe)/Jumpman (USA, Europe).json
 developer: Randy Glover
 publisher: Epyx, Inc.
 genre: Platform
@@ -900,7 +900,7 @@ x-playable: Yes
 
 
 game: Jumpman Junior (USA, Europe)
-file: Other/Commodore 64/Jumpman Junior (USA, Europe)/Jumpman Junior (USA, Europe).json
+file: Roms/Other/Commodore 64/Jumpman Junior (USA, Europe)/Jumpman Junior (USA, Europe).json
 developer: Epyx, Inc.
 publisher: Epyx, Inc.
 genre: Action;Platform
@@ -929,7 +929,7 @@ x-playable: Yes
 
 
 game: Mega-Apocalypse (Europe)
-file: Other/Commodore 64/Mega-Apocalypse (Europe)/Mega-Apocalypse (Europe).json
+file: Roms/Other/Commodore 64/Mega-Apocalypse (Europe)/Mega-Apocalypse (Europe).json
 developer: Martech Games
 publisher: Martech Games
 genre: Shooter
@@ -958,7 +958,7 @@ x-playable: Yes
 
 
 game: Mission A.D. (Europe)
-file: Other/Commodore 64/Mission A.D. (Europe)/Mission A.D. (Europe).json
+file: Roms/Other/Commodore 64/Mission A.D. (Europe)/Mission A.D. (Europe).json
 developer: Marc Dawson
 publisher: Odin Computer Graphics Ltd.
 genre: Platform;Shooter
@@ -981,7 +981,7 @@ x-playable: Yes
 
 
 game: Monty on the Run (Europe)
-file: Other/Commodore 64/Monty on the Run (Europe)/Monty on the Run (Europe).json
+file: Roms/Other/Commodore 64/Monty on the Run (Europe)/Monty on the Run (Europe).json
 developer: Micro Projects
 publisher: Gremlin Graphics Software
 genre: Platform
@@ -1009,7 +1009,7 @@ x-playable: Yes
 
 
 game: Netherworld (USA, Europe)
-file: Other/Commodore 64/Netherworld (USA, Europe)/Netherworld (USA, Europe).json
+file: Roms/Other/Commodore 64/Netherworld (USA, Europe)/Netherworld (USA, Europe).json
 developer: jukka Tapanimäki
 publisher: Hewson Consultants
 genre: Shooter
@@ -1036,7 +1036,7 @@ x-playable: Yes
 
 
 game: Nobby the Ardvark (USA, Europe)
-file: Other/Commodore 64/Nobby the Ardvark (USA, Europe)/Nobby the Ardvark (USA, Europe).json
+file: Roms/Other/Commodore 64/Nobby the Ardvark (USA, Europe)/Nobby the Ardvark (USA, Europe).json
 developer: Genesis Software Developments
 publisher: Thalamus
 genre: Action;Platformer;2D
@@ -1061,7 +1061,7 @@ x-playable: Yes
 
 
 game: Nodes of Yesod (USA)
-file: Other/Commodore 64/Nodes of Yesod (USA)/Nodes of Yesod (USA).json
+file: Roms/Other/Commodore 64/Nodes of Yesod (USA)/Nodes of Yesod (USA).json
 developer: Keith Robinson
 publisher: Odin Computer Graphics Ltd.
 genre: Platform
@@ -1089,7 +1089,7 @@ x-playable: Yes
 
 
 game: PET Snake Redux (USA, Europe)
-file: Other/Commodore 64/PET Snake Redux (USA, Europe)/PET Snake Redux (USA, Europe).json
+file: Roms/Other/Commodore 64/PET Snake Redux (USA, Europe)/PET Snake Redux (USA, Europe).json
 developer: Donkeysoft UK
 publisher: Chronosoft UK
 genre: Action
@@ -1113,7 +1113,7 @@ x-playable: Yes
 
 
 game: Paradroid (USA, Europe)
-file: Other/Commodore 64/Paradroid (USA, Europe)/Paradroid (USA, Europe).json
+file: Roms/Other/Commodore 64/Paradroid (USA, Europe)/Paradroid (USA, Europe).json
 developer: Graftgold
 publisher: Thunder Mountain
 genre: Puzzle;Shooter
@@ -1139,7 +1139,7 @@ x-playable: Yes
 
 
 game: Pitstop II (Europe)
-file: Other/Commodore 64/Pitstop II (Europe)/Pitstop II (Europe).json
+file: Roms/Other/Commodore 64/Pitstop II (Europe)/Pitstop II (Europe).json
 developer: Epyx
 publisher: Epyx
 genre: Racing
@@ -1169,7 +1169,7 @@ x-playable: Yes
 
 
 game: Ranarama (Europe)
-file: Other/Commodore 64/Ranarama (Europe)/Ranarama (Europe).json
+file: Roms/Other/Commodore 64/Ranarama (Europe)/Ranarama (Europe).json
 developer: Graftgold
 publisher: Players Software
 genre: Shooter
@@ -1208,7 +1208,7 @@ x-playable: Yes
 
 
 game: Robin of the Wood (Europe)
-file: Other/Commodore 64/Robin of the Wood (Europe)/Robin of the Wood (Europe).json
+file: Roms/Other/Commodore 64/Robin of the Wood (Europe)/Robin of the Wood (Europe).json
 developer: Steve Wetherill
 publisher: Odin Computer Graphics Ltd.
 genre: Action;Adventure
@@ -1242,7 +1242,7 @@ x-playable: Yes
 
 
 game: Silicon Warrior (USA, Europe)
-file: Other/Commodore 64/Silicon Warrior (USA, Europe)/Silicon Warrior (USA, Europe).json
+file: Roms/Other/Commodore 64/Silicon Warrior (USA, Europe)/Silicon Warrior (USA, Europe).json
 developer: Epyx, Inc.
 publisher: Epyx, Inc.
 genre: Action;Platform
@@ -1261,7 +1261,7 @@ x-playable: Yes
 
 
 game: Skate Crazy (USA, Europe)
-file: Other/Commodore 64/Skate Crazy (USA, Europe)/Skate Crazy (USA, Europe).json
+file: Roms/Other/Commodore 64/Skate Crazy (USA, Europe)/Skate Crazy (USA, Europe).json
 developer: Christian P. Shrigley
 publisher: Mastertronic
 genre: Sports
@@ -1285,7 +1285,7 @@ x-playable: Yes
 
 
 game: Skool Daze (Europe)
-file: Other/Commodore 64/Skool Daze (Europe)/Skool Daze (Europe).json
+file: Roms/Other/Commodore 64/Skool Daze (Europe)/Skool Daze (Europe).json
 developer: Microsphere Computer Services Ltd.
 publisher: Elite Systems Ltd.
 genre: Action;Adventure
@@ -1318,7 +1318,7 @@ x-playable: Yes
 
 
 game: Snare (USA, Europe)
-file: Other/Commodore 64/Snare (USA, Europe)/Snare (USA, Europe).json
+file: Roms/Other/Commodore 64/Snare (USA, Europe)/Snare (USA, Europe).json
 developer: Enigma Software Developments
 publisher: Beyond Belief
 genre: Action
@@ -1349,7 +1349,7 @@ x-playable: Yes
 
 
 game: Soulless (USA)
-file: Other/Commodore 64/Soulless (USA)/Soulless (USA).json
+file: Roms/Other/Commodore 64/Soulless (USA)/Soulless (USA).json
 developer: Georg Rottensteiner
 publisher: Psytronik Software
 genre: Action;Platform
@@ -1386,7 +1386,7 @@ x-playable: Yes
 
 
 game: Speedball (USA, Europe)
-file: Other/Commodore 64/Speedball (USA, Europe)/Speedball (USA, Europe).json
+file: Roms/Other/Commodore 64/Speedball (USA, Europe)/Speedball (USA, Europe).json
 developer: The Bitmap Brothers
 publisher: Image Works
 genre: Sports
@@ -1410,7 +1410,7 @@ x-playable: Yes
 
 
 game: Speedball 2 (USA, Europe)
-file: Other/Commodore 64/Speedball 2 (USA, Europe)/Speedball 2 (USA, Europe).json
+file: Roms/Other/Commodore 64/Speedball 2 (USA, Europe)/Speedball 2 (USA, Europe).json
 developer: The Bitmap Brothers
 publisher: Image Works
 genre: Sports
@@ -1436,7 +1436,7 @@ x-playable: Yes
 
 
 game: Spindizzy (USA, Europe)
-file: Other/Commodore 64/Spindizzy (USA, Europe)/Spindizzy (USA, Europe).json
+file: Roms/Other/Commodore 64/Spindizzy (USA, Europe)/Spindizzy (USA, Europe).json
 developer: Paul Shirley
 publisher: Activision
 genre: Action;Puzzle
@@ -1460,7 +1460,7 @@ x-playable: Yes
 
 
 game: Street Sports Baseball (USA, Europe)
-file: Other/Commodore 64/Street Sports Baseball (USA, Europe)/Street Sports Baseball (USA, Europe).json
+file: Roms/Other/Commodore 64/Street Sports Baseball (USA, Europe)/Street Sports Baseball (USA, Europe).json
 developer: Epyx, Inc.
 publisher: Epyx, Inc.
 genre: Sports
@@ -1479,7 +1479,7 @@ x-playable: Yes
 
 
 game: Street Sports Basketball (USA, Europe)
-file: Other/Commodore 64/Street Sports Basketball (USA, Europe)/Street Sports Basketball (USA, Europe).json
+file: Roms/Other/Commodore 64/Street Sports Basketball (USA, Europe)/Street Sports Basketball (USA, Europe).json
 developer: Andrew B. Spencer
 publisher: Epyx, Inc.
 genre: Sports
@@ -1503,7 +1503,7 @@ x-playable: Yes
 
 
 game: Street Sports Soccer (USA, Europe)
-file: Other/Commodore 64/Street Sports Soccer (USA, Europe)/Street Sports Soccer (USA, Europe).json
+file: Roms/Other/Commodore 64/Street Sports Soccer (USA, Europe)/Street Sports Soccer (USA, Europe).json
 developer: K-Byte
 publisher: Epyx, Inc.
 genre: Action;Sports
@@ -1520,7 +1520,7 @@ x-playable: Yes
 
 
 game: Super Cycle (USA, Europe)
-file: Other/Commodore 64/Super Cycle (USA, Europe)/Super Cycle (USA, Europe).json
+file: Roms/Other/Commodore 64/Super Cycle (USA, Europe)/Super Cycle (USA, Europe).json
 developer: Stephen Landrum
 publisher: Epyx, Inc.
 genre: Racing
@@ -1543,7 +1543,7 @@ x-playable: Yes
 
 
 game: Sword of Fargoal, The (USA, Europe)
-file: Other/Commodore 64/Sword of Fargoal, The (USA, Europe)/Sword of Fargoal, The (USA, Europe).json
+file: Roms/Other/Commodore 64/Sword of Fargoal, The (USA, Europe)/Sword of Fargoal, The (USA, Europe).json
 developer: Jeff McCord
 publisher: Epyx, Inc.
 genre: Adventure
@@ -1572,7 +1572,7 @@ x-playable: Yes
 
 
 game: Temple of Apshai Trilogy (USA, Europe)
-file: Other/Commodore 64/Temple of Apshai Trilogy (USA, Europe)/Temple of Apshai Trilogy (USA, Europe).json
+file: Roms/Other/Commodore 64/Temple of Apshai Trilogy (USA, Europe)/Temple of Apshai Trilogy (USA, Europe).json
 developer: Epyx, Inc.
 publisher: Epyx, Inc.
 genre: Role-Playing
@@ -1599,7 +1599,7 @@ x-playable: Yes
 
 
 game: Thing on a Spring (USA, Europe)
-file: Other/Commodore 64/Thing on a Spring (USA, Europe)/Thing on a Spring (USA, Europe).json
+file: Roms/Other/Commodore 64/Thing on a Spring (USA, Europe)/Thing on a Spring (USA, Europe).json
 developer: Jason H. Perkins
 publisher: Epyx
 genre: Platform
@@ -1621,7 +1621,7 @@ x-playable: Yes
 
 
 game: Tower Toppler (USA, Europe)
-file: Other/Commodore 64/Tower Toppler (USA, Europe)/Tower Toppler (USA, Europe).json
+file: Roms/Other/Commodore 64/Tower Toppler (USA, Europe)/Tower Toppler (USA, Europe).json
 developer: Triffix
 publisher: U.S. Gold
 genre: Action;Platform
@@ -1653,7 +1653,7 @@ x-playable: Yes
 
 
 game: Trailblazer (USA, Europe)
-file: Other/Commodore 64/Trailblazer (USA, Europe)/Trailblazer (USA, Europe).json
+file: Roms/Other/Commodore 64/Trailblazer (USA, Europe)/Trailblazer (USA, Europe).json
 developer: Mr Chip Software
 publisher: Mindscape
 genre: Action
@@ -1677,7 +1677,7 @@ x-playable: Yes
 
 
 game: Uridium (USA, Europe)
-file: Other/Commodore 64/Uridium (USA, Europe)/Uridium (USA, Europe).json
+file: Roms/Other/Commodore 64/Uridium (USA, Europe)/Uridium (USA, Europe).json
 developer: Andrew Braybrook
 publisher: Mindscape
 genre: Shooter
@@ -1702,7 +1702,7 @@ x-playable: Yes
 
 
 game: Vegetables Deluxe C64 (USA)
-file: Other/Commodore 64/Vegetables Deluxe C64 (USA)/Vegetables Deluxe C64 (USA).json
+file: Roms/Other/Commodore 64/Vegetables Deluxe C64 (USA)/Vegetables Deluxe C64 (USA).json
 developer: Mike Richmond
 publisher: Mike Richmond
 genre: Puzzle
@@ -1745,7 +1745,7 @@ x-playable: Yes
 
 
 game: West Bank (USA, Europe)
-file: Other/Commodore 64/West Bank (USA, Europe)/West Bank (USA, Europe).json
+file: Roms/Other/Commodore 64/West Bank (USA, Europe)/West Bank (USA, Europe).json
 developer: Dinamic Software
 publisher: Gremlin Graphics Software
 genre: Action;Shooter
@@ -1772,7 +1772,7 @@ x-playable: Yes
 
 
 game: Who Dares Wins II (Europe)
-file: Other/Commodore 64/Who Dares Wins II (Europe)/Who Dares Wins II (Europe).json
+file: Roms/Other/Commodore 64/Who Dares Wins II (Europe)/Who Dares Wins II (Europe).json
 developer: Steve Evans
 publisher: Alligata Software Ltd.
 genre: Action
@@ -1799,7 +1799,7 @@ x-playable: Yes
 
 
 game: Zynaps (Europe)
-file: Other/Commodore 64/Zynaps (Europe)/Zynaps (Europe).json
+file: Roms/Other/Commodore 64/Zynaps (Europe)/Zynaps (Europe).json
 developer: Hewson Consultants
 publisher: Hewson Consultants
 genre: Shooter

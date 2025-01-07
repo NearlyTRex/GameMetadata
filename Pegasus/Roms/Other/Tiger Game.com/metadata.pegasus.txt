@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Tiger Game.com" -n {file.basenam
 
 
 game: Castlevania - Symphony of the Night (Unknown) (Proto)
-file: Other/Tiger Game.com/Castlevania - Symphony of the Night (Unknown) (Proto)/Castlevania - Symphony of the Night (Unknown) (Proto).json
+file: Roms/Other/Tiger Game.com/Castlevania - Symphony of the Night (Unknown) (Proto)/Castlevania - Symphony of the Night (Unknown) (Proto).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Action
@@ -32,7 +32,7 @@ x-playable: Yes
 
 
 game: Fighters Megamix (USA)
-file: Other/Tiger Game.com/Fighters Megamix (USA)/Fighters Megamix (USA).json
+file: Roms/Other/Tiger Game.com/Fighters Megamix (USA)/Fighters Megamix (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Fighting
@@ -51,7 +51,7 @@ x-playable: Yes
 
 
 game: Jurassic Park - The Lost World (USA)
-file: Other/Tiger Game.com/Jurassic Park - The Lost World (USA)/Jurassic Park - The Lost World (USA).json
+file: Roms/Other/Tiger Game.com/Jurassic Park - The Lost World (USA)/Jurassic Park - The Lost World (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Action;Platform
@@ -67,7 +67,7 @@ x-playable: Yes
 
 
 game: Resident Evil 2 (USA)
-file: Other/Tiger Game.com/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Roms/Other/Tiger Game.com/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Tiger Electronics, Ltd
 genre: Horror
@@ -96,7 +96,7 @@ x-playable: Yes
 
 
 game: Sonic Jam (USA)
-file: Other/Tiger Game.com/Sonic Jam (USA)/Sonic Jam (USA).json
+file: Roms/Other/Tiger Game.com/Sonic Jam (USA)/Sonic Jam (USA).json
 developer: Tiger Electronics, Ltd
 publisher: Sega
 genre: Platform

@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo SNES" -n {file.basen
 
 
 game: 7th Saga, The (USA)
-file: Nintendo/Nintendo SNES/7th Saga, The (USA)/7th Saga, The (USA).json
+file: Roms/Nintendo/Nintendo SNES/7th Saga, The (USA)/7th Saga, The (USA).json
 developer: Produce
 publisher: Enix
 genre: Role-Playing
@@ -31,7 +31,7 @@ x-playable: Yes
 
 
 game: ActRaiser (USA)
-file: Nintendo/Nintendo SNES/ActRaiser (USA)/ActRaiser (USA).json
+file: Roms/Nintendo/Nintendo SNES/ActRaiser (USA)/ActRaiser (USA).json
 developer: Quintet
 publisher: Enix
 genre: Action;Platform;Role-Playing;Strategy
@@ -54,7 +54,7 @@ x-playable: Yes
 
 
 game: Advanced Dungeons & Dragons - Eye of the Beholder (USA)
-file: Nintendo/Nintendo SNES/Advanced Dungeons & Dragons - Eye of the Beholder (USA)/Advanced Dungeons & Dragons - Eye of the Beholder (USA).json
+file: Roms/Nintendo/Nintendo SNES/Advanced Dungeons & Dragons - Eye of the Beholder (USA)/Advanced Dungeons & Dragons - Eye of the Beholder (USA).json
 developer: Westwood Studios, Inc.
 publisher: Capcom
 genre: Role-Playing
@@ -79,7 +79,7 @@ x-playable: Yes
 
 
 game: Arcana (USA)
-file: Nintendo/Nintendo SNES/Arcana (USA)/Arcana (USA).json
+file: Roms/Nintendo/Nintendo SNES/Arcana (USA)/Arcana (USA).json
 developer: HAL Laboratory, Inc.
 publisher: HAL Laboratory, Inc.
 genre: Role-Playing
@@ -104,7 +104,7 @@ x-playable: Yes
 
 
 game: Axelay (USA)
-file: Nintendo/Nintendo SNES/Axelay (USA)/Axelay (USA).json
+file: Roms/Nintendo/Nintendo SNES/Axelay (USA)/Axelay (USA).json
 developer: Konami
 publisher: Konami
 genre: Shooter
@@ -128,7 +128,7 @@ x-playable: Yes
 
 
 game: B.O.B. (USA)
-file: Nintendo/Nintendo SNES/B.O.B. (USA)/B.O.B. (USA).json
+file: Roms/Nintendo/Nintendo SNES/B.O.B. (USA)/B.O.B. (USA).json
 developer: Gray Matter
 publisher: Electronic Arts
 genre: Action;Platform
@@ -152,7 +152,7 @@ x-playable: Yes
 
 
 game: Battle Clash (USA)
-file: Nintendo/Nintendo SNES/Battle Clash (USA)/Battle Clash (USA).json
+file: Roms/Nintendo/Nintendo SNES/Battle Clash (USA)/Battle Clash (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Shooter
@@ -176,7 +176,7 @@ x-playable: Yes
 
 
 game: Big Sky Trooper (USA)
-file: Nintendo/Nintendo SNES/Big Sky Trooper (USA)/Big Sky Trooper (USA).json
+file: Roms/Nintendo/Nintendo SNES/Big Sky Trooper (USA)/Big Sky Trooper (USA).json
 developer: LucasArts
 publisher: JVC
 genre: Action;Adventure
@@ -196,7 +196,7 @@ x-playable: Yes
 
 
 game: Bill Laimbeer's Combat Basketball (USA)
-file: Nintendo/Nintendo SNES/Bill Laimbeer's Combat Basketball (USA)/Bill Laimbeer's Combat Basketball (USA).json
+file: Roms/Nintendo/Nintendo SNES/Bill Laimbeer's Combat Basketball (USA)/Bill Laimbeer's Combat Basketball (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action;Sports
@@ -217,7 +217,7 @@ x-playable: Yes
 
 
 game: Brain Lord (USA)
-file: Nintendo/Nintendo SNES/Brain Lord (USA)/Brain Lord (USA).json
+file: Roms/Nintendo/Nintendo SNES/Brain Lord (USA)/Brain Lord (USA).json
 developer: Produce
 publisher: Enix
 genre: Role-Playing
@@ -240,7 +240,7 @@ x-playable: Yes
 
 
 game: Brandish (USA)
-file: Nintendo/Nintendo SNES/Brandish (USA)/Brandish (USA).json
+file: Roms/Nintendo/Nintendo SNES/Brandish (USA)/Brandish (USA).json
 developer: Nihon Falcom
 publisher: Koei
 genre: Action;Role-Playing
@@ -263,7 +263,7 @@ x-playable: Yes
 
 
 game: Brawl Brothers (USA)
-file: Nintendo/Nintendo SNES/Brawl Brothers (USA)/Brawl Brothers (USA).json
+file: Roms/Nintendo/Nintendo SNES/Brawl Brothers (USA)/Brawl Brothers (USA).json
 developer: Jaleco
 publisher: Jaleco
 genre: Beat 'em Up
@@ -284,7 +284,7 @@ x-playable: Yes
 
 
 game: Breath of Fire (USA)
-file: Nintendo/Nintendo SNES/Breath of Fire (USA)/Breath of Fire (USA).json
+file: Roms/Nintendo/Nintendo SNES/Breath of Fire (USA)/Breath of Fire (USA).json
 developer: Capcom Co., Ltd.
 publisher: Square Soft, Inc.
 genre: Role-Playing
@@ -311,7 +311,7 @@ x-playable: Yes
 
 
 game: Breath of Fire II (USA)
-file: Nintendo/Nintendo SNES/Breath of Fire II (USA)/Breath of Fire II (USA).json
+file: Roms/Nintendo/Nintendo SNES/Breath of Fire II (USA)/Breath of Fire II (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Role-Playing
@@ -332,7 +332,7 @@ x-playable: Yes
 
 
 game: Castlevania - Dracula X (USA)
-file: Nintendo/Nintendo SNES/Castlevania - Dracula X (USA)/Castlevania - Dracula X (USA).json
+file: Roms/Nintendo/Nintendo SNES/Castlevania - Dracula X (USA)/Castlevania - Dracula X (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -357,7 +357,7 @@ x-playable: Yes
 
 
 game: Clay Fighter (USA)
-file: Nintendo/Nintendo SNES/Clay Fighter (USA)/Clay Fighter (USA).json
+file: Roms/Nintendo/Nintendo SNES/Clay Fighter (USA)/Clay Fighter (USA).json
 developer: Visual Concepts
 publisher: Interplay
 genre: Fighting
@@ -381,7 +381,7 @@ x-playable: Yes
 
 
 game: Clue (USA)
-file: Nintendo/Nintendo SNES/Clue (USA)/Clue (USA).json
+file: Roms/Nintendo/Nintendo SNES/Clue (USA)/Clue (USA).json
 developer: Sculptured Software
 publisher: Parker Brothers
 genre: Board Game
@@ -408,7 +408,7 @@ x-playable: Yes
 
 
 game: Contra III - The Alien Wars (USA)
-file: Nintendo/Nintendo SNES/Contra III - The Alien Wars (USA)/Contra III - The Alien Wars (USA).json
+file: Roms/Nintendo/Nintendo SNES/Contra III - The Alien Wars (USA)/Contra III - The Alien Wars (USA).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -438,7 +438,7 @@ x-playable: Yes
 
 
 game: Contra III - The Alien Wars (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo SNES/Contra III - The Alien Wars (World) (Contra Anniversary Collection)/Contra III - The Alien Wars (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo SNES/Contra III - The Alien Wars (World) (Contra Anniversary Collection)/Contra III - The Alien Wars (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -468,7 +468,7 @@ x-playable: Yes
 
 
 game: Cybernator (USA)
-file: Nintendo/Nintendo SNES/Cybernator (USA)/Cybernator (USA).json
+file: Roms/Nintendo/Nintendo SNES/Cybernator (USA)/Cybernator (USA).json
 developer: NCS Corporation
 publisher: Konami
 genre: Action;Platform
@@ -506,7 +506,7 @@ x-playable: Yes
 
 
 game: Darius Twin (USA)
-file: Nintendo/Nintendo SNES/Darius Twin (USA)/Darius Twin (USA).json
+file: Roms/Nintendo/Nintendo SNES/Darius Twin (USA)/Darius Twin (USA).json
 developer: Taito
 publisher: Taito
 genre: Shooter
@@ -529,7 +529,7 @@ x-playable: Yes
 
 
 game: Demon's Crest (USA)
-file: Nintendo/Nintendo SNES/Demon's Crest (USA)/Demon's Crest (USA).json
+file: Roms/Nintendo/Nintendo SNES/Demon's Crest (USA)/Demon's Crest (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Adventure;Platform
@@ -555,7 +555,7 @@ x-playable: Yes
 
 
 game: Donkey Kong Country (USA)
-file: Nintendo/Nintendo SNES/Donkey Kong Country (USA)/Donkey Kong Country (USA).json
+file: Roms/Nintendo/Nintendo SNES/Donkey Kong Country (USA)/Donkey Kong Country (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Platform
@@ -590,7 +590,7 @@ x-playable: Yes
 
 
 game: Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)
-file: Nintendo/Nintendo SNES/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).json
+file: Roms/Nintendo/Nintendo SNES/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr)/Donkey Kong Country 2 - Diddy's Kong Quest (USA) (En,Fr).json
 developer: Rare
 publisher: Nintendo
 genre: Platform
@@ -614,7 +614,7 @@ x-playable: Yes
 
 
 game: Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)
-file: Nintendo/Nintendo SNES/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).json
+file: Roms/Nintendo/Nintendo SNES/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr)/Donkey Kong Country 3 - Dixie Kong's Double Trouble! (USA) (En,Fr).json
 developer: Rare
 publisher: Nintendo
 genre: Platform
@@ -632,7 +632,7 @@ x-playable: Yes
 
 
 game: Doom (USA)
-file: Nintendo/Nintendo SNES/Doom (USA)/Doom (USA).json
+file: Roms/Nintendo/Nintendo SNES/Doom (USA)/Doom (USA).json
 developer: Sculptured Software
 publisher: Williams Entertainment
 genre: Shooter
@@ -654,7 +654,7 @@ x-playable: Yes
 
 
 game: Doom Troopers - Mutant Chronicles (USA)
-file: Nintendo/Nintendo SNES/Doom Troopers - Mutant Chronicles (USA)/Doom Troopers - Mutant Chronicles (USA).json
+file: Roms/Nintendo/Nintendo SNES/Doom Troopers - Mutant Chronicles (USA)/Doom Troopers - Mutant Chronicles (USA).json
 developer: Adrenalin Entertainment
 publisher: Playmates Interactive Entertainment
 genre: Action;Platform
@@ -678,7 +678,7 @@ x-playable: Yes
 
 
 game: Drakkhen (USA)
-file: Nintendo/Nintendo SNES/Drakkhen (USA)/Drakkhen (USA).json
+file: Roms/Nintendo/Nintendo SNES/Drakkhen (USA)/Drakkhen (USA).json
 developer: Kotobuki System
 publisher: Kemco
 genre: Role-Playing
@@ -697,7 +697,7 @@ x-playable: Yes
 
 
 game: Dungeon Master (USA)
-file: Nintendo/Nintendo SNES/Dungeon Master (USA)/Dungeon Master (USA).json
+file: Roms/Nintendo/Nintendo SNES/Dungeon Master (USA)/Dungeon Master (USA).json
 developer: FTL Games
 publisher: JVC
 genre: Role-Playing
@@ -724,7 +724,7 @@ x-playable: Yes
 
 
 game: EarthBound (USA)
-file: Nintendo/Nintendo SNES/EarthBound (USA)/EarthBound (USA).json
+file: Roms/Nintendo/Nintendo SNES/EarthBound (USA)/EarthBound (USA).json
 developer: Ape Inc.
 publisher: Nintendo
 genre: Role-Playing
@@ -774,7 +774,7 @@ x-playable: Yes
 
 
 game: F-Zero (USA)
-file: Nintendo/Nintendo SNES/F-Zero (USA)/F-Zero (USA).json
+file: Roms/Nintendo/Nintendo SNES/F-Zero (USA)/F-Zero (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Racing
@@ -794,7 +794,7 @@ x-playable: Yes
 
 
 game: Final Fantasy - Mystic Quest (USA)
-file: Nintendo/Nintendo SNES/Final Fantasy - Mystic Quest (USA)/Final Fantasy - Mystic Quest (USA).json
+file: Roms/Nintendo/Nintendo SNES/Final Fantasy - Mystic Quest (USA)/Final Fantasy - Mystic Quest (USA).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Role-Playing
@@ -815,7 +815,7 @@ x-playable: Yes
 
 
 game: Final Fantasy II (USA)
-file: Nintendo/Nintendo SNES/Final Fantasy II (USA)/Final Fantasy II (USA).json
+file: Roms/Nintendo/Nintendo SNES/Final Fantasy II (USA)/Final Fantasy II (USA).json
 developer: Square
 publisher: Square
 genre: Role-Playing
@@ -840,7 +840,7 @@ x-playable: Yes
 
 
 game: Final Fantasy III (USA)
-file: Nintendo/Nintendo SNES/Final Fantasy III (USA)/Final Fantasy III (USA).json
+file: Roms/Nintendo/Nintendo SNES/Final Fantasy III (USA)/Final Fantasy III (USA).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Role-Playing
@@ -867,7 +867,7 @@ x-playable: Yes
 
 
 game: Final Fight (USA) (Virtual Console)
-file: Nintendo/Nintendo SNES/Final Fight (USA) (Virtual Console)/Final Fight (USA) (Virtual Console).json
+file: Roms/Nintendo/Nintendo SNES/Final Fight (USA) (Virtual Console)/Final Fight (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -892,7 +892,7 @@ x-playable: Yes
 
 
 game: Final Fight 2 (USA) (Virtual Console)
-file: Nintendo/Nintendo SNES/Final Fight 2 (USA) (Virtual Console)/Final Fight 2 (USA) (Virtual Console).json
+file: Roms/Nintendo/Nintendo SNES/Final Fight 2 (USA) (Virtual Console)/Final Fight 2 (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -918,7 +918,7 @@ x-playable: Yes
 
 
 game: Final Fight 3 (USA) (Virtual Console)
-file: Nintendo/Nintendo SNES/Final Fight 3 (USA) (Virtual Console)/Final Fight 3 (USA) (Virtual Console).json
+file: Roms/Nintendo/Nintendo SNES/Final Fight 3 (USA) (Virtual Console)/Final Fight 3 (USA) (Virtual Console).json
 developer: Capcom
 publisher: Capcom
 genre: Beat 'em Up
@@ -953,7 +953,7 @@ x-playable: Yes
 
 
 game: Ghoul Patrol (USA)
-file: Nintendo/Nintendo SNES/Ghoul Patrol (USA)/Ghoul Patrol (USA).json
+file: Roms/Nintendo/Nintendo SNES/Ghoul Patrol (USA)/Ghoul Patrol (USA).json
 developer: LucasArts
 publisher: JVC Musical Industries, Inc.
 genre: Action;General
@@ -983,7 +983,7 @@ x-playable: Yes
 
 
 game: Harvest Moon (USA)
-file: Nintendo/Nintendo SNES/Harvest Moon (USA)/Harvest Moon (USA).json
+file: Roms/Nintendo/Nintendo SNES/Harvest Moon (USA)/Harvest Moon (USA).json
 developer: Amccus
 publisher: Natsume
 genre: Life Simulation;Role-Playing
@@ -1004,7 +1004,7 @@ x-playable: Yes
 
 
 game: Ignition Factor, The (USA)
-file: Nintendo/Nintendo SNES/Ignition Factor, The (USA)/Ignition Factor, The (USA).json
+file: Roms/Nintendo/Nintendo SNES/Ignition Factor, The (USA)/Ignition Factor, The (USA).json
 developer: Jaleco
 publisher: Jaleco
 genre: Action
@@ -1027,7 +1027,7 @@ x-playable: Yes
 
 
 game: Illusion of Gaia (USA)
-file: Nintendo/Nintendo SNES/Illusion of Gaia (USA)/Illusion of Gaia (USA).json
+file: Roms/Nintendo/Nintendo SNES/Illusion of Gaia (USA)/Illusion of Gaia (USA).json
 developer: Quintet
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -1054,7 +1054,7 @@ x-playable: Yes
 
 
 game: Indiana Jones' Greatest Adventures (USA)
-file: Nintendo/Nintendo SNES/Indiana Jones' Greatest Adventures (USA)/Indiana Jones' Greatest Adventures (USA).json
+file: Roms/Nintendo/Nintendo SNES/Indiana Jones' Greatest Adventures (USA)/Indiana Jones' Greatest Adventures (USA).json
 developer: Factor 5
 publisher: JVC Musical Industries, Inc.
 genre: Action;Platform
@@ -1073,7 +1073,7 @@ x-playable: Yes
 
 
 game: Inindo - Way of the Ninja (USA)
-file: Nintendo/Nintendo SNES/Inindo - Way of the Ninja (USA)/Inindo - Way of the Ninja (USA).json
+file: Roms/Nintendo/Nintendo SNES/Inindo - Way of the Ninja (USA)/Inindo - Way of the Ninja (USA).json
 developer: Koei
 publisher: Koei
 genre: Role-Playing
@@ -1098,7 +1098,7 @@ x-playable: Yes
 
 
 game: Jurassic Park (USA)
-file: Nintendo/Nintendo SNES/Jurassic Park (USA)/Jurassic Park (USA).json
+file: Roms/Nintendo/Nintendo SNES/Jurassic Park (USA)/Jurassic Park (USA).json
 developer: Ocean Software
 publisher: Ocean Software
 genre: Action;Adventure
@@ -1118,7 +1118,7 @@ x-playable: Yes
 
 
 game: Killer Instinct (USA)
-file: Nintendo/Nintendo SNES/Killer Instinct (USA)/Killer Instinct (USA).json
+file: Roms/Nintendo/Nintendo SNES/Killer Instinct (USA)/Killer Instinct (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Fighting
@@ -1140,7 +1140,7 @@ x-playable: Yes
 
 
 game: King Arthur's World (USA)
-file: Nintendo/Nintendo SNES/King Arthur's World (USA)/King Arthur's World (USA).json
+file: Roms/Nintendo/Nintendo SNES/King Arthur's World (USA)/King Arthur's World (USA).json
 developer: Argonaut Games
 publisher: Jaleco
 genre: Strategy
@@ -1165,7 +1165,7 @@ x-playable: Yes
 
 
 game: Kirby Super Star (USA)
-file: Nintendo/Nintendo SNES/Kirby Super Star (USA)/Kirby Super Star (USA).json
+file: Roms/Nintendo/Nintendo SNES/Kirby Super Star (USA)/Kirby Super Star (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1192,7 +1192,7 @@ x-playable: Yes
 
 
 game: Kirby's Avalanche (USA)
-file: Nintendo/Nintendo SNES/Kirby's Avalanche (USA)/Kirby's Avalanche (USA).json
+file: Roms/Nintendo/Nintendo SNES/Kirby's Avalanche (USA)/Kirby's Avalanche (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Puzzle
@@ -1217,7 +1217,7 @@ x-playable: Yes
 
 
 game: Kirby's Dream Course (USA)
-file: Nintendo/Nintendo SNES/Kirby's Dream Course (USA)/Kirby's Dream Course (USA).json
+file: Roms/Nintendo/Nintendo SNES/Kirby's Dream Course (USA)/Kirby's Dream Course (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Puzzle
@@ -1243,7 +1243,7 @@ x-playable: Yes
 
 
 game: Kirby's Dream Land 3 (USA)
-file: Nintendo/Nintendo SNES/Kirby's Dream Land 3 (USA)/Kirby's Dream Land 3 (USA).json
+file: Roms/Nintendo/Nintendo SNES/Kirby's Dream Land 3 (USA)/Kirby's Dream Land 3 (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Platform
@@ -1264,7 +1264,7 @@ x-playable: Yes
 
 
 game: Krusty's Super Fun House (USA)
-file: Nintendo/Nintendo SNES/Krusty's Super Fun House (USA)/Krusty's Super Fun House (USA).json
+file: Roms/Nintendo/Nintendo SNES/Krusty's Super Fun House (USA)/Krusty's Super Fun House (USA).json
 developer: Audiogenic
 publisher: Acclaim
 genre: Action;Puzzle
@@ -1290,7 +1290,7 @@ x-playable: Yes
 
 
 game: Lagoon (USA)
-file: Nintendo/Nintendo SNES/Lagoon (USA)/Lagoon (USA).json
+file: Roms/Nintendo/Nintendo SNES/Lagoon (USA)/Lagoon (USA).json
 developer: Kemco
 publisher: Kemco
 genre: Action;Role-Playing
@@ -1312,7 +1312,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - A Link to the Past (USA)
-file: Nintendo/Nintendo SNES/Legend of Zelda, The - A Link to the Past (USA)/Legend of Zelda, The - A Link to the Past (USA).json
+file: Roms/Nintendo/Nintendo SNES/Legend of Zelda, The - A Link to the Past (USA)/Legend of Zelda, The - A Link to the Past (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -1334,7 +1334,7 @@ x-playable: Yes
 
 
 game: Legend of the Mystical Ninja, The (USA) (Virtual Console)
-file: Nintendo/Nintendo SNES/Legend of the Mystical Ninja, The (USA) (Virtual Console)/Legend of the Mystical Ninja, The (USA) (Virtual Console).json
+file: Roms/Nintendo/Nintendo SNES/Legend of the Mystical Ninja, The (USA) (Virtual Console)/Legend of the Mystical Ninja, The (USA) (Virtual Console).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -1371,7 +1371,7 @@ x-playable: Yes
 
 
 game: Lemmings (USA)
-file: Nintendo/Nintendo SNES/Lemmings (USA)/Lemmings (USA).json
+file: Roms/Nintendo/Nintendo SNES/Lemmings (USA)/Lemmings (USA).json
 developer: Psygnosis Limited
 publisher: Sunsoft
 genre: Puzzle
@@ -1399,7 +1399,7 @@ x-playable: Yes
 
 
 game: Lufia & the Fortress of Doom (USA)
-file: Nintendo/Nintendo SNES/Lufia & the Fortress of Doom (USA)/Lufia & the Fortress of Doom (USA).json
+file: Roms/Nintendo/Nintendo SNES/Lufia & the Fortress of Doom (USA)/Lufia & the Fortress of Doom (USA).json
 developer: Neverland
 publisher: Taito
 genre: Role-Playing
@@ -1421,7 +1421,7 @@ x-playable: Yes
 
 
 game: Lufia II - Rise of the Sinistrals (USA)
-file: Nintendo/Nintendo SNES/Lufia II - Rise of the Sinistrals (USA)/Lufia II - Rise of the Sinistrals (USA).json
+file: Roms/Nintendo/Nintendo SNES/Lufia II - Rise of the Sinistrals (USA)/Lufia II - Rise of the Sinistrals (USA).json
 developer: Neverland
 publisher: Natsume
 genre: Role-Playing
@@ -1440,7 +1440,7 @@ x-playable: Yes
 
 
 game: Mario Paint (Japan, USA)
-file: Nintendo/Nintendo SNES/Mario Paint (Japan, USA)/Mario Paint (Japan, USA).json
+file: Roms/Nintendo/Nintendo SNES/Mario Paint (Japan, USA)/Mario Paint (Japan, USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Sandbox
@@ -1461,7 +1461,7 @@ x-playable: Yes
 
 
 game: Mega Man 2 (USA) (Rev 3)
-file: Nintendo/Nintendo SNES/Mega Man 2 (USA) (Rev 3)/Mega Man 2 (USA) (Rev 3).json
+file: Roms/Nintendo/Nintendo SNES/Mega Man 2 (USA) (Rev 3)/Mega Man 2 (USA) (Rev 3).json
 developer: infidelity
 publisher: infidelity
 genre: Action;Platform
@@ -1483,7 +1483,7 @@ x-playable: Yes
 
 
 game: Mega Man 4 (USA) (Rev 5)
-file: Nintendo/Nintendo SNES/Mega Man 4 (USA) (Rev 5)/Mega Man 4 (USA) (Rev 5).json
+file: Roms/Nintendo/Nintendo SNES/Mega Man 4 (USA) (Rev 5)/Mega Man 4 (USA) (Rev 5).json
 developer: infidelity
 publisher: infidelity
 genre: Action;Platform
@@ -1505,7 +1505,7 @@ x-playable: Yes
 
 
 game: Mega Man 7 (USA)
-file: Nintendo/Nintendo SNES/Mega Man 7 (USA)/Mega Man 7 (USA).json
+file: Roms/Nintendo/Nintendo SNES/Mega Man 7 (USA)/Mega Man 7 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1531,7 +1531,7 @@ x-playable: Yes
 
 
 game: Mega Man X (USA) (Rev 1)
-file: Nintendo/Nintendo SNES/Mega Man X (USA) (Rev 1)/Mega Man X (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo SNES/Mega Man X (USA) (Rev 1)/Mega Man X (USA) (Rev 1).json
 developer: Capcom
 publisher: Nintendo
 genre: Action;Platform
@@ -1558,7 +1558,7 @@ x-playable: Yes
 
 
 game: Mega Man X2 (USA)
-file: Nintendo/Nintendo SNES/Mega Man X2 (USA)/Mega Man X2 (USA).json
+file: Roms/Nintendo/Nintendo SNES/Mega Man X2 (USA)/Mega Man X2 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1586,7 +1586,7 @@ x-playable: Yes
 
 
 game: Mega Man X3 (USA)
-file: Nintendo/Nintendo SNES/Mega Man X3 (USA)/Mega Man X3 (USA).json
+file: Roms/Nintendo/Nintendo SNES/Mega Man X3 (USA)/Mega Man X3 (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -1610,7 +1610,7 @@ x-playable: Yes
 
 
 game: Metal Combat - Falcon's Revenge (USA)
-file: Nintendo/Nintendo SNES/Metal Combat - Falcon's Revenge (USA)/Metal Combat - Falcon's Revenge (USA).json
+file: Roms/Nintendo/Nintendo SNES/Metal Combat - Falcon's Revenge (USA)/Metal Combat - Falcon's Revenge (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Action
@@ -1631,7 +1631,7 @@ x-playable: Yes
 
 
 game: Metal Marines (USA)
-file: Nintendo/Nintendo SNES/Metal Marines (USA)/Metal Marines (USA).json
+file: Roms/Nintendo/Nintendo SNES/Metal Marines (USA)/Metal Marines (USA).json
 developer: Namco
 publisher: Namco
 genre: Strategy
@@ -1651,7 +1651,7 @@ x-playable: Yes
 
 
 game: Might and Magic III - Isles of Terra (USA)
-file: Nintendo/Nintendo SNES/Might and Magic III - Isles of Terra (USA)/Might and Magic III - Isles of Terra (USA).json
+file: Roms/Nintendo/Nintendo SNES/Might and Magic III - Isles of Terra (USA)/Might and Magic III - Isles of Terra (USA).json
 developer: FCI
 publisher: Iguana
 genre: Role-Playing
@@ -1674,7 +1674,7 @@ x-playable: Yes
 
 
 game: NBA Jam (USA)
-file: Nintendo/Nintendo SNES/NBA Jam (USA)/NBA Jam (USA).json
+file: Roms/Nintendo/Nintendo SNES/NBA Jam (USA)/NBA Jam (USA).json
 developer: Iguana Entertainment
 publisher: Acclaim
 genre: Sports
@@ -1693,7 +1693,7 @@ x-playable: Yes
 
 
 game: New Horizons (USA)
-file: Nintendo/Nintendo SNES/New Horizons (USA)/New Horizons (USA).json
+file: Roms/Nintendo/Nintendo SNES/New Horizons (USA)/New Horizons (USA).json
 developer: Koei
 publisher: Koei
 genre: Strategy
@@ -1724,7 +1724,7 @@ x-playable: Yes
 
 
 game: Out of This World (USA)
-file: Nintendo/Nintendo SNES/Out of This World (USA)/Out of This World (USA).json
+file: Roms/Nintendo/Nintendo SNES/Out of This World (USA)/Out of This World (USA).json
 developer: Delphine Software
 publisher: Interplay
 genre: Adventure;Platform
@@ -1753,7 +1753,7 @@ x-playable: Yes
 
 
 game: Pac-Attack (USA)
-file: Nintendo/Nintendo SNES/Pac-Attack (USA)/Pac-Attack (USA).json
+file: Roms/Nintendo/Nintendo SNES/Pac-Attack (USA)/Pac-Attack (USA).json
 developer: Namco
 publisher: Namco
 genre: Puzzle
@@ -1771,7 +1771,7 @@ x-playable: Yes
 
 
 game: Paladin's Quest (USA)
-file: Nintendo/Nintendo SNES/Paladin's Quest (USA)/Paladin's Quest (USA).json
+file: Roms/Nintendo/Nintendo SNES/Paladin's Quest (USA)/Paladin's Quest (USA).json
 developer: Copya System
 publisher: Enix
 genre: Role-Playing
@@ -1793,7 +1793,7 @@ x-playable: Yes
 
 
 game: Pilotwings (USA)
-file: Nintendo/Nintendo SNES/Pilotwings (USA)/Pilotwings (USA).json
+file: Roms/Nintendo/Nintendo SNES/Pilotwings (USA)/Pilotwings (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Flight Simulator
@@ -1820,7 +1820,7 @@ x-playable: Yes
 
 
 game: Populous (USA)
-file: Nintendo/Nintendo SNES/Populous (USA)/Populous (USA).json
+file: Roms/Nintendo/Nintendo SNES/Populous (USA)/Populous (USA).json
 developer: Infinity
 publisher: Acclaim
 genre: Construction and Management Simulation;Strategy
@@ -1843,7 +1843,7 @@ x-playable: Yes
 
 
 game: Rival Turf! (USA)
-file: Nintendo/Nintendo SNES/Rival Turf! (USA)/Rival Turf! (USA).json
+file: Roms/Nintendo/Nintendo SNES/Rival Turf! (USA)/Rival Turf! (USA).json
 developer: Jaleco
 publisher: Jaleco
 genre: Beat 'em Up
@@ -1862,7 +1862,7 @@ x-playable: Yes
 
 
 game: Robotrek (USA)
-file: Nintendo/Nintendo SNES/Robotrek (USA)/Robotrek (USA).json
+file: Roms/Nintendo/Nintendo SNES/Robotrek (USA)/Robotrek (USA).json
 developer: Quintet
 publisher: Enix
 genre: Role-Playing
@@ -1890,7 +1890,7 @@ x-playable: Yes
 
 
 game: Rock N' Roll Racing (USA)
-file: Nintendo/Nintendo SNES/Rock N' Roll Racing (USA)/Rock N' Roll Racing (USA).json
+file: Roms/Nintendo/Nintendo SNES/Rock N' Roll Racing (USA)/Rock N' Roll Racing (USA).json
 developer: Silicon & Synapse
 publisher: Interplay
 genre: Racing;Arcade;Futuristic
@@ -1913,7 +1913,7 @@ x-playable: Yes
 
 
 game: Secret of Evermore (USA)
-file: Nintendo/Nintendo SNES/Secret of Evermore (USA)/Secret of Evermore (USA).json
+file: Roms/Nintendo/Nintendo SNES/Secret of Evermore (USA)/Secret of Evermore (USA).json
 developer: Square Soft, Inc.
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -1937,7 +1937,7 @@ x-playable: Yes
 
 
 game: Secret of Evermore (USA) (2 Player Edition)
-file: Nintendo/Nintendo SNES/Secret of Evermore (USA) (2 Player Edition)/Secret of Evermore (USA) (2 Player Edition).json
+file: Roms/Nintendo/Nintendo SNES/Secret of Evermore (USA) (2 Player Edition)/Secret of Evermore (USA) (2 Player Edition).json
 developer: Square Soft, Inc.
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -1961,7 +1961,7 @@ x-playable: Yes
 
 
 game: Secret of Evermore (USA) (Balance Patch)
-file: Nintendo/Nintendo SNES/Secret of Evermore (USA) (Balance Patch)/Secret of Evermore (USA) (Balance Patch).json
+file: Roms/Nintendo/Nintendo SNES/Secret of Evermore (USA) (Balance Patch)/Secret of Evermore (USA) (Balance Patch).json
 developer: Square Soft, Inc.
 publisher: Nintendo
 genre: Action;Role-Playing
@@ -1989,7 +1989,7 @@ x-playable: Yes
 
 
 game: Secret of Mana (USA)
-file: Nintendo/Nintendo SNES/Secret of Mana (USA)/Secret of Mana (USA).json
+file: Roms/Nintendo/Nintendo SNES/Secret of Mana (USA)/Secret of Mana (USA).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Action;Role-Playing
@@ -2011,7 +2011,7 @@ x-playable: Yes
 
 
 game: Shadowrun (USA)
-file: Nintendo/Nintendo SNES/Shadowrun (USA)/Shadowrun (USA).json
+file: Roms/Nintendo/Nintendo SNES/Shadowrun (USA)/Shadowrun (USA).json
 developer: Beam Software
 publisher: Data East
 genre: Action;Role-Playing
@@ -2030,7 +2030,7 @@ x-playable: Yes
 
 
 game: Skyblazer (USA)
-file: Nintendo/Nintendo SNES/Skyblazer (USA)/Skyblazer (USA).json
+file: Roms/Nintendo/Nintendo SNES/Skyblazer (USA)/Skyblazer (USA).json
 developer: Ukiyotei
 publisher: Sony Imagesoft
 genre: Action;Platform
@@ -2057,7 +2057,7 @@ x-playable: Yes
 
 
 game: Soul Blazer (USA)
-file: Nintendo/Nintendo SNES/Soul Blazer (USA)/Soul Blazer (USA).json
+file: Roms/Nintendo/Nintendo SNES/Soul Blazer (USA)/Soul Blazer (USA).json
 developer: Quintet
 publisher: Enix
 genre: Action;Role-Playing
@@ -2081,7 +2081,7 @@ x-playable: Yes
 
 
 game: Spanky's Quest (USA)
-file: Nintendo/Nintendo SNES/Spanky's Quest (USA)/Spanky's Quest (USA).json
+file: Roms/Nintendo/Nintendo SNES/Spanky's Quest (USA)/Spanky's Quest (USA).json
 developer: Natsume
 publisher: Natsume
 genre: Platform
@@ -2100,7 +2100,7 @@ x-playable: Yes
 
 
 game: Sparkster (USA)
-file: Nintendo/Nintendo SNES/Sparkster (USA)/Sparkster (USA).json
+file: Roms/Nintendo/Nintendo SNES/Sparkster (USA)/Sparkster (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -2130,7 +2130,7 @@ x-playable: Yes
 
 
 game: Spider-Man (USA)
-file: Nintendo/Nintendo SNES/Spider-Man (USA)/Spider-Man (USA).json
+file: Roms/Nintendo/Nintendo SNES/Spider-Man (USA)/Spider-Man (USA).json
 developer: Western Technologies Inc.
 publisher: LJN
 genre: Action;Platform
@@ -2149,7 +2149,7 @@ x-playable: Yes
 
 
 game: Spider-Man - Venom - Maximum Carnage (USA)
-file: Nintendo/Nintendo SNES/Spider-Man - Venom - Maximum Carnage (USA)/Spider-Man - Venom - Maximum Carnage (USA).json
+file: Roms/Nintendo/Nintendo SNES/Spider-Man - Venom - Maximum Carnage (USA)/Spider-Man - Venom - Maximum Carnage (USA).json
 developer: Software Creations Ltd.
 publisher: LJN
 genre: Beat 'em Up
@@ -2168,7 +2168,7 @@ x-playable: Yes
 
 
 game: Star Fox (USA) (Rev 2)
-file: Nintendo/Nintendo SNES/Star Fox (USA) (Rev 2)/Star Fox (USA) (Rev 2).json
+file: Roms/Nintendo/Nintendo SNES/Star Fox (USA) (Rev 2)/Star Fox (USA) (Rev 2).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Shooter
@@ -2194,7 +2194,7 @@ x-playable: Yes
 
 
 game: Star Fox (USA) (Rev 2) (Exploration Showcase Legacy)
-file: Nintendo/Nintendo SNES/Star Fox (USA) (Rev 2) (Exploration Showcase Legacy)/Star Fox (USA) (Rev 2) (Exploration Showcase Legacy).json
+file: Roms/Nintendo/Nintendo SNES/Star Fox (USA) (Rev 2) (Exploration Showcase Legacy)/Star Fox (USA) (Rev 2) (Exploration Showcase Legacy).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Shooter
@@ -2235,7 +2235,7 @@ x-playable: Yes
 
 
 game: Star Fox (USA) (Rev 2) (Exploration Showcase)
-file: Nintendo/Nintendo SNES/Star Fox (USA) (Rev 2) (Exploration Showcase)/Star Fox (USA) (Rev 2) (Exploration Showcase).json
+file: Roms/Nintendo/Nintendo SNES/Star Fox (USA) (Rev 2) (Exploration Showcase)/Star Fox (USA) (Rev 2) (Exploration Showcase).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Shooter
@@ -2284,7 +2284,7 @@ x-playable: Yes
 
 
 game: Star Fox 2 (USA, Europe)
-file: Nintendo/Nintendo SNES/Star Fox 2 (USA, Europe)/Star Fox 2 (USA, Europe).json
+file: Roms/Nintendo/Nintendo SNES/Star Fox 2 (USA, Europe)/Star Fox 2 (USA, Europe).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Shooter
@@ -2307,7 +2307,7 @@ x-playable: Yes
 
 
 game: Street Fighter II Turbo (USA) (Rev 1)
-file: Nintendo/Nintendo SNES/Street Fighter II Turbo (USA) (Rev 1)/Street Fighter II Turbo (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo SNES/Street Fighter II Turbo (USA) (Rev 1)/Street Fighter II Turbo (USA) (Rev 1).json
 developer: Capcom
 publisher: Capcom
 genre: Fighting
@@ -2326,7 +2326,7 @@ x-playable: Yes
 
 
 game: Stunt Race FX (USA) (Rev 1)
-file: Nintendo/Nintendo SNES/Stunt Race FX (USA) (Rev 1)/Stunt Race FX (USA) (Rev 1).json
+file: Roms/Nintendo/Nintendo SNES/Stunt Race FX (USA) (Rev 1)/Stunt Race FX (USA) (Rev 1).json
 developer: Argonaut Games
 publisher: Nintendo
 genre: Racing
@@ -2348,7 +2348,7 @@ x-playable: Yes
 
 
 game: Super Bomberman (USA)
-file: Nintendo/Nintendo SNES/Super Bomberman (USA)/Super Bomberman (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Bomberman (USA)/Super Bomberman (USA).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action
@@ -2377,7 +2377,7 @@ x-playable: Yes
 
 
 game: Super Castlevania IV (USA)
-file: Nintendo/Nintendo SNES/Super Castlevania IV (USA)/Super Castlevania IV (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Castlevania IV (USA)/Super Castlevania IV (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -2411,7 +2411,7 @@ x-playable: Yes
 
 
 game: Super Castlevania IV (USA) (Castlevania Anniversary Collection)
-file: Nintendo/Nintendo SNES/Super Castlevania IV (USA) (Castlevania Anniversary Collection)/Super Castlevania IV (USA) (Castlevania Anniversary Collection).json
+file: Roms/Nintendo/Nintendo SNES/Super Castlevania IV (USA) (Castlevania Anniversary Collection)/Super Castlevania IV (USA) (Castlevania Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Action;Platform
@@ -2445,7 +2445,7 @@ x-playable: Yes
 
 
 game: Super Ghouls'n Ghosts (USA)
-file: Nintendo/Nintendo SNES/Super Ghouls'n Ghosts (USA)/Super Ghouls'n Ghosts (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Ghouls'n Ghosts (USA)/Super Ghouls'n Ghosts (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action
@@ -2472,7 +2472,7 @@ x-playable: Yes
 
 
 game: Super Mario All-Stars (USA)
-file: Nintendo/Nintendo SNES/Super Mario All-Stars (USA)/Super Mario All-Stars (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Mario All-Stars (USA)/Super Mario All-Stars (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -2498,7 +2498,7 @@ x-playable: Yes
 
 
 game: Super Mario Kart (USA)
-file: Nintendo/Nintendo SNES/Super Mario Kart (USA)/Super Mario Kart (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Mario Kart (USA)/Super Mario Kart (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Racing
@@ -2528,7 +2528,7 @@ x-playable: Yes
 
 
 game: Super Mario RPG - Legend of the Seven Stars (USA)
-file: Nintendo/Nintendo SNES/Super Mario RPG - Legend of the Seven Stars (USA)/Super Mario RPG - Legend of the Seven Stars (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Mario RPG - Legend of the Seven Stars (USA)/Super Mario RPG - Legend of the Seven Stars (USA).json
 developer: Squaresoft
 publisher: Nintendo
 genre: Role-Playing
@@ -2549,7 +2549,7 @@ x-playable: Yes
 
 
 game: Super Mario World (USA)
-file: Nintendo/Nintendo SNES/Super Mario World (USA)/Super Mario World (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Mario World (USA)/Super Mario World (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -2575,7 +2575,7 @@ x-playable: Yes
 
 
 game: Super Mario World (USA) (Co-op Patch)
-file: Nintendo/Nintendo SNES/Super Mario World (USA) (Co-op Patch)/Super Mario World (USA) (Co-op Patch).json
+file: Roms/Nintendo/Nintendo SNES/Super Mario World (USA) (Co-op Patch)/Super Mario World (USA) (Co-op Patch).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform
@@ -2600,7 +2600,7 @@ x-playable: Yes
 
 
 game: Super Mario World 2 - Yoshi's Island (USA)
-file: Nintendo/Nintendo SNES/Super Mario World 2 - Yoshi's Island (USA)/Super Mario World 2 - Yoshi's Island (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Mario World 2 - Yoshi's Island (USA)/Super Mario World 2 - Yoshi's Island (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Platform
@@ -2629,7 +2629,7 @@ x-playable: Yes
 
 
 game: Super Metroid (Japan, USA) (En,Ja)
-file: Nintendo/Nintendo SNES/Super Metroid (Japan, USA) (En,Ja)/Super Metroid (Japan, USA) (En,Ja).json
+file: Roms/Nintendo/Nintendo SNES/Super Metroid (Japan, USA) (En,Ja)/Super Metroid (Japan, USA) (En,Ja).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -2652,7 +2652,7 @@ x-playable: Yes
 
 
 game: Super Nova (USA)
-file: Nintendo/Nintendo SNES/Super Nova (USA)/Super Nova (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Nova (USA)/Super Nova (USA).json
 developer: Taito
 publisher: Taito
 genre: Shooter
@@ -2670,7 +2670,7 @@ x-playable: Yes
 
 
 game: Super Probotector - Alien Rebels (World) (Contra Anniversary Collection)
-file: Nintendo/Nintendo SNES/Super Probotector - Alien Rebels (World) (Contra Anniversary Collection)/Super Probotector - Alien Rebels (World) (Contra Anniversary Collection).json
+file: Roms/Nintendo/Nintendo SNES/Super Probotector - Alien Rebels (World) (Contra Anniversary Collection)/Super Probotector - Alien Rebels (World) (Contra Anniversary Collection).json
 developer: Konami
 publisher: Konami
 genre: Platform;Shooter
@@ -2699,7 +2699,7 @@ x-playable: Yes
 
 
 game: Super Punch-Out!! (USA)
-file: Nintendo/Nintendo SNES/Super Punch-Out!! (USA)/Super Punch-Out!! (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Punch-Out!! (USA)/Super Punch-Out!! (USA).json
 developer: Locomotive Corporation
 publisher: Nintendo
 genre: Sports
@@ -2722,7 +2722,7 @@ x-playable: Yes
 
 
 game: Super R-Type (USA)
-file: Nintendo/Nintendo SNES/Super R-Type (USA)/Super R-Type (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super R-Type (USA)/Super R-Type (USA).json
 developer: Irem
 publisher: Irem
 genre: Shooter
@@ -2745,7 +2745,7 @@ x-playable: Yes
 
 
 game: Super Scope 6 (USA)
-file: Nintendo/Nintendo SNES/Super Scope 6 (USA)/Super Scope 6 (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Scope 6 (USA)/Super Scope 6 (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Shooter
@@ -2771,7 +2771,7 @@ x-playable: Yes
 
 
 game: Super Smash T.V. (USA)
-file: Nintendo/Nintendo SNES/Super Smash T.V. (USA)/Super Smash T.V. (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Smash T.V. (USA)/Super Smash T.V. (USA).json
 developer: Beam Software
 publisher: Acclaim
 genre: Shooter
@@ -2793,7 +2793,7 @@ x-playable: Yes
 
 
 game: Super Star Wars (USA)
-file: Nintendo/Nintendo SNES/Super Star Wars (USA)/Super Star Wars (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Star Wars (USA)/Super Star Wars (USA).json
 developer: LucasArts
 publisher: JVC
 genre: Action;Platform;Shooter
@@ -2812,7 +2812,7 @@ x-playable: Yes
 
 
 game: Super Star Wars - Return of the Jedi (USA)
-file: Nintendo/Nintendo SNES/Super Star Wars - Return of the Jedi (USA)/Super Star Wars - Return of the Jedi (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Star Wars - Return of the Jedi (USA)/Super Star Wars - Return of the Jedi (USA).json
 developer: LucasArts
 publisher: JVC
 genre: Action;Platform;Shooter
@@ -2831,7 +2831,7 @@ x-playable: Yes
 
 
 game: Super Star Wars - The Empire Strikes Back (USA)
-file: Nintendo/Nintendo SNES/Super Star Wars - The Empire Strikes Back (USA)/Super Star Wars - The Empire Strikes Back (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Star Wars - The Empire Strikes Back (USA)/Super Star Wars - The Empire Strikes Back (USA).json
 developer: LucasArts
 publisher: JVC
 genre: Action;Platform;Shooter
@@ -2851,7 +2851,7 @@ x-playable: Yes
 
 
 game: Super Turrican (USA)
-file: Nintendo/Nintendo SNES/Super Turrican (USA)/Super Turrican (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Turrican (USA)/Super Turrican (USA).json
 developer: Factor 5
 publisher: Seika Corp.
 genre: Action;Platformer;2D
@@ -2871,7 +2871,7 @@ x-playable: Yes
 
 
 game: Super Turrican - Director's Cut (USA) (Unl)
-file: Nintendo/Nintendo SNES/Super Turrican - Director's Cut (USA) (Unl)/Super Turrican - Director's Cut (USA) (Unl).json
+file: Roms/Nintendo/Nintendo SNES/Super Turrican - Director's Cut (USA) (Unl)/Super Turrican - Director's Cut (USA) (Unl).json
 developer: Factor 5
 publisher: Seika Corp.
 genre: Action;Platformer;2D
@@ -2890,7 +2890,7 @@ x-playable: Yes
 
 
 game: Super Turrican 2 (USA)
-file: Nintendo/Nintendo SNES/Super Turrican 2 (USA)/Super Turrican 2 (USA).json
+file: Roms/Nintendo/Nintendo SNES/Super Turrican 2 (USA)/Super Turrican 2 (USA).json
 developer: Factor 5
 publisher: Ocean
 genre: Action;Platformer;2D
@@ -2910,7 +2910,7 @@ x-playable: Yes
 
 
 game: Syndicate (USA)
-file: Nintendo/Nintendo SNES/Syndicate (USA)/Syndicate (USA).json
+file: Roms/Nintendo/Nintendo SNES/Syndicate (USA)/Syndicate (USA).json
 developer: Bullfrog
 publisher: Ocean Software
 genre: Action;Strategy
@@ -2931,7 +2931,7 @@ x-playable: Yes
 
 
 game: Tecmo Secret of the Stars (USA)
-file: Nintendo/Nintendo SNES/Tecmo Secret of the Stars (USA)/Tecmo Secret of the Stars (USA).json
+file: Roms/Nintendo/Nintendo SNES/Tecmo Secret of the Stars (USA)/Tecmo Secret of the Stars (USA).json
 developer: Tecmo
 publisher: Tecmo
 genre: Role-Playing
@@ -2960,7 +2960,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles - Tournament Fighters (USA)
-file: Nintendo/Nintendo SNES/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
+file: Roms/Nintendo/Nintendo SNES/Teenage Mutant Ninja Turtles - Tournament Fighters (USA)/Teenage Mutant Ninja Turtles - Tournament Fighters (USA).json
 developer: Konami
 publisher: Konami
 genre: Action;Fighting;2D
@@ -2984,7 +2984,7 @@ x-playable: Yes
 
 
 game: Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)
-file: Nintendo/Nintendo SNES/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).json
+file: Roms/Nintendo/Nintendo SNES/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA)/Teenage Mutant Ninja Turtles IV - Turtles in Time (USA).json
 developer: Konami
 publisher: Konami
 genre: Beat 'em Up
@@ -3016,7 +3016,7 @@ x-playable: Yes
 
 
 game: Trials of Mana (USA)
-file: Nintendo/Nintendo SNES/Trials of Mana (USA)/Trials of Mana (USA).json
+file: Roms/Nintendo/Nintendo SNES/Trials of Mana (USA)/Trials of Mana (USA).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Action;Role-Playing
@@ -3043,7 +3043,7 @@ x-playable: Yes
 
 
 game: Trials of Mana (USA) (3-Player Edition)
-file: Nintendo/Nintendo SNES/Trials of Mana (USA) (3-Player Edition)/Trials of Mana (USA) (3-Player Edition).json
+file: Roms/Nintendo/Nintendo SNES/Trials of Mana (USA) (3-Player Edition)/Trials of Mana (USA) (3-Player Edition).json
 developer: Squaresoft
 publisher: Squaresoft
 genre: Action;Role-Playing
@@ -3075,7 +3075,7 @@ x-playable: Yes
 
 
 game: Twisted Tales of Spike McFang, The (USA)
-file: Nintendo/Nintendo SNES/Twisted Tales of Spike McFang, The (USA)/Twisted Tales of Spike McFang, The (USA).json
+file: Roms/Nintendo/Nintendo SNES/Twisted Tales of Spike McFang, The (USA)/Twisted Tales of Spike McFang, The (USA).json
 developer: Red Company
 publisher: Bullet-Proof Software
 genre: Role-Playing
@@ -3099,7 +3099,7 @@ x-playable: Yes
 
 
 game: Ultima - The Black Gate (USA)
-file: Nintendo/Nintendo SNES/Ultima - The Black Gate (USA)/Ultima - The Black Gate (USA).json
+file: Roms/Nintendo/Nintendo SNES/Ultima - The Black Gate (USA)/Ultima - The Black Gate (USA).json
 developer: ORIGIN Systems, Inc.
 publisher: FCI
 genre: Role-Playing
@@ -3125,7 +3125,7 @@ x-playable: Yes
 
 
 game: Ultima - The False Prophet (USA)
-file: Nintendo/Nintendo SNES/Ultima - The False Prophet (USA)/Ultima - The False Prophet (USA).json
+file: Roms/Nintendo/Nintendo SNES/Ultima - The False Prophet (USA)/Ultima - The False Prophet (USA).json
 developer: Infinity
 publisher: FCI
 genre: Role-Playing
@@ -3146,7 +3146,7 @@ x-playable: Yes
 
 
 game: Venom - Spider-Man - Separation Anxiety (USA)
-file: Nintendo/Nintendo SNES/Venom - Spider-Man - Separation Anxiety (USA)/Venom - Spider-Man - Separation Anxiety (USA).json
+file: Roms/Nintendo/Nintendo SNES/Venom - Spider-Man - Separation Anxiety (USA)/Venom - Spider-Man - Separation Anxiety (USA).json
 developer: Software Creations Ltd.
 publisher: Acclaim
 genre: Beat 'em Up
@@ -3166,7 +3166,7 @@ x-playable: Yes
 
 
 game: Vortex (USA) (En,Es)
-file: Nintendo/Nintendo SNES/Vortex (USA) (En,Es)/Vortex (USA) (En,Es).json
+file: Roms/Nintendo/Nintendo SNES/Vortex (USA) (En,Es)/Vortex (USA) (En,Es).json
 developer: Argonaut Games
 publisher: Electro Brain
 genre: Action;Shooter
@@ -3188,7 +3188,7 @@ x-playable: Yes
 
 
 game: Wild Guns (USA)
-file: Nintendo/Nintendo SNES/Wild Guns (USA)/Wild Guns (USA).json
+file: Roms/Nintendo/Nintendo SNES/Wild Guns (USA)/Wild Guns (USA).json
 developer: Natsume
 publisher: Natsume
 genre: Action;Shooter;Light Gun
@@ -3208,7 +3208,7 @@ x-playable: Yes
 
 
 game: Wing Commander (USA)
-file: Nintendo/Nintendo SNES/Wing Commander (USA)/Wing Commander (USA).json
+file: Roms/Nintendo/Nintendo SNES/Wing Commander (USA)/Wing Commander (USA).json
 developer: Mindscape
 publisher: Mindscape
 genre: Flight Simulator;Shooter
@@ -3242,7 +3242,7 @@ x-playable: Yes
 
 
 game: Wing Commander - The Secret Missions (USA)
-file: Nintendo/Nintendo SNES/Wing Commander - The Secret Missions (USA)/Wing Commander - The Secret Missions (USA).json
+file: Roms/Nintendo/Nintendo SNES/Wing Commander - The Secret Missions (USA)/Wing Commander - The Secret Missions (USA).json
 developer: Mindscape
 publisher: Mindscape
 genre: Flight Simulator
@@ -3262,7 +3262,7 @@ x-playable: Yes
 
 
 game: Wizardry V - Heart of the Maelstrom (USA)
-file: Nintendo/Nintendo SNES/Wizardry V - Heart of the Maelstrom (USA)/Wizardry V - Heart of the Maelstrom (USA).json
+file: Roms/Nintendo/Nintendo SNES/Wizardry V - Heart of the Maelstrom (USA)/Wizardry V - Heart of the Maelstrom (USA).json
 developer: Sir-Tech
 publisher: Capcom
 genre: Role-Playing
@@ -3284,7 +3284,7 @@ x-playable: Yes
 
 
 game: X-Men - Mutant Apocalypse (USA)
-file: Nintendo/Nintendo SNES/X-Men - Mutant Apocalypse (USA)/X-Men - Mutant Apocalypse (USA).json
+file: Roms/Nintendo/Nintendo SNES/X-Men - Mutant Apocalypse (USA)/X-Men - Mutant Apocalypse (USA).json
 developer: Capcom
 publisher: Capcom
 genre: Action;Platform
@@ -3304,7 +3304,7 @@ x-playable: Yes
 
 
 game: Yoshi's Safari (USA)
-file: Nintendo/Nintendo SNES/Yoshi's Safari (USA)/Yoshi's Safari (USA).json
+file: Roms/Nintendo/Nintendo SNES/Yoshi's Safari (USA)/Yoshi's Safari (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Shooter
@@ -3326,7 +3326,7 @@ x-playable: Yes
 
 
 game: Ys III - Wanderers from Ys (USA)
-file: Nintendo/Nintendo SNES/Ys III - Wanderers from Ys (USA)/Ys III - Wanderers from Ys (USA).json
+file: Roms/Nintendo/Nintendo SNES/Ys III - Wanderers from Ys (USA)/Ys III - Wanderers from Ys (USA).json
 developer: Advance Communication Company
 publisher: American Sammy
 genre: Action;Role-Playing
@@ -3343,7 +3343,7 @@ x-playable: Yes
 
 
 game: Zombies Ate My Neighbors (USA)
-file: Nintendo/Nintendo SNES/Zombies Ate My Neighbors (USA)/Zombies Ate My Neighbors (USA).json
+file: Roms/Nintendo/Nintendo SNES/Zombies Ate My Neighbors (USA)/Zombies Ate My Neighbors (USA).json
 developer: LucasArts
 publisher: Konami
 genre: Action;Shooter;Shoot-'Em-Up;Top-Down
@@ -3366,7 +3366,7 @@ x-playable: Yes
 
 
 game: Zool - Ninja of the 'Nth' Dimension (USA)
-file: Nintendo/Nintendo SNES/Zool - Ninja of the 'Nth' Dimension (USA)/Zool - Ninja of the 'Nth' Dimension (USA).json
+file: Roms/Nintendo/Nintendo SNES/Zool - Ninja of the 'Nth' Dimension (USA)/Zool - Ninja of the 'Nth' Dimension (USA).json
 developer: Gremlin Graphics Software
 publisher: GameTek
 genre: Action;Platform

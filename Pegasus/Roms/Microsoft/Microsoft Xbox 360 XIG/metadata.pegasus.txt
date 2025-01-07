@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Microsoft" -s "Microsoft Xbox 360 XIG" -n {
 
 
 game: Breath of Death VII (USA) (XIG)
-file: Microsoft/Microsoft Xbox 360 XIG/Breath of Death VII (USA) (XIG)/Breath of Death VII (USA) (XIG).json
+file: Roms/Microsoft/Microsoft Xbox 360 XIG/Breath of Death VII (USA) (XIG)/Breath of Death VII (USA) (XIG).json
 developer: Zeboyd Games
 publisher: Zeboyd Games
 genre: Role-Playing
@@ -26,7 +26,7 @@ x-playable: Yes
 
 
 game: Cthulhu Saves the World (USA) (XIG)
-file: Microsoft/Microsoft Xbox 360 XIG/Cthulhu Saves the World (USA) (XIG)/Cthulhu Saves the World (USA) (XIG).json
+file: Roms/Microsoft/Microsoft Xbox 360 XIG/Cthulhu Saves the World (USA) (XIG)/Cthulhu Saves the World (USA) (XIG).json
 developer: Zeboyd Games
 publisher: Zeboyd Games
 genre: Role-Playing
@@ -50,7 +50,7 @@ x-playable: Yes
 
 
 game: Dead Pixels (USA) (XIG)
-file: Microsoft/Microsoft Xbox 360 XIG/Dead Pixels (USA) (XIG)/Dead Pixels (USA) (XIG).json
+file: Roms/Microsoft/Microsoft Xbox 360 XIG/Dead Pixels (USA) (XIG)/Dead Pixels (USA) (XIG).json
 developer: CSR-Studios
 publisher: CSR-Studios
 genre: Shooter
@@ -74,7 +74,7 @@ x-playable: Yes
 
 
 game: EvilQuest (USA) (XIG)
-file: Microsoft/Microsoft Xbox 360 XIG/EvilQuest (USA) (XIG)/EvilQuest (USA) (XIG).json
+file: Roms/Microsoft/Microsoft Xbox 360 XIG/EvilQuest (USA) (XIG)/EvilQuest (USA) (XIG).json
 developer: Chaosoft Games
 publisher: Chaosoft Games
 genre: Role-Playing;Action RPG
@@ -93,7 +93,7 @@ x-playable: Yes
 
 
 game: White Noise - A Tale of Horror (USA) (XIG)
-file: Microsoft/Microsoft Xbox 360 XIG/White Noise - A Tale of Horror (USA) (XIG)/White Noise - A Tale of Horror (USA) (XIG).json
+file: Roms/Microsoft/Microsoft Xbox 360 XIG/White Noise - A Tale of Horror (USA) (XIG)/White Noise - A Tale of Horror (USA) (XIG).json
 developer: Milkstone Studios
 publisher: Milkstone Studios
 genre: Miscellaneous;General
@@ -109,7 +109,7 @@ x-playable: Yes
 
 
 game: Zombie Snowmen (USA) (XIG)
-file: Microsoft/Microsoft Xbox 360 XIG/Zombie Snowmen (USA) (XIG)/Zombie Snowmen (USA) (XIG).json
+file: Roms/Microsoft/Microsoft Xbox 360 XIG/Zombie Snowmen (USA) (XIG)/Zombie Snowmen (USA) (XIG).json
 developer: sanGames
 publisher: sanGames
 genre: Action;Arcade

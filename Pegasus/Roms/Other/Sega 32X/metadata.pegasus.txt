@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Sega 32X" -n {file.basename}
 
 
 game: Chaotix ~ Knuckles' Chaotix (Japan, USA)
-file: Other/Sega 32X/Chaotix ~ Knuckles' Chaotix (Japan, USA)/Chaotix ~ Knuckles' Chaotix (Japan, USA).json
+file: Roms/Other/Sega 32X/Chaotix ~ Knuckles' Chaotix (Japan, USA)/Chaotix ~ Knuckles' Chaotix (Japan, USA).json
 developer: Sonic Team
 publisher: Sega
 genre: Platform
@@ -27,7 +27,7 @@ x-playable: Yes
 
 
 game: Cyber Brawl ~ Cosmic Carnage (Japan, USA)
-file: Other/Sega 32X/Cyber Brawl ~ Cosmic Carnage (Japan, USA)/Cyber Brawl ~ Cosmic Carnage (Japan, USA).json
+file: Roms/Other/Sega 32X/Cyber Brawl ~ Cosmic Carnage (Japan, USA)/Cyber Brawl ~ Cosmic Carnage (Japan, USA).json
 developer: Almanic
 publisher: Sega
 genre: Fighting
@@ -47,7 +47,7 @@ x-playable: Yes
 
 
 game: Doom (Europe) (32X Resurrection Patch)
-file: Other/Sega 32X/Doom (Europe) (32X Resurrection Patch)/Doom (Europe) (32X Resurrection Patch).json
+file: Roms/Other/Sega 32X/Doom (Europe) (32X Resurrection Patch)/Doom (Europe) (32X Resurrection Patch).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -105,7 +105,7 @@ x-playable: Yes
 
 
 game: Doom (Japan, USA)
-file: Other/Sega 32X/Doom (Japan, USA)/Doom (Japan, USA).json
+file: Roms/Other/Sega 32X/Doom (Japan, USA)/Doom (Japan, USA).json
 developer: Sega
 publisher: Sega
 genre: Shooter
@@ -128,7 +128,7 @@ x-playable: Yes
 
 
 game: Metal Head (Japan, USA) (En,Ja)
-file: Other/Sega 32X/Metal Head (Japan, USA) (En,Ja)/Metal Head (Japan, USA) (En,Ja).json
+file: Roms/Other/Sega 32X/Metal Head (Japan, USA) (En,Ja)/Metal Head (Japan, USA) (En,Ja).json
 developer: Sega
 publisher: Sega
 genre: Action
@@ -152,7 +152,7 @@ x-playable: Yes
 
 
 game: Star Wars Arcade (USA)
-file: Other/Sega 32X/Star Wars Arcade (USA)/Star Wars Arcade (USA).json
+file: Roms/Other/Sega 32X/Star Wars Arcade (USA)/Star Wars Arcade (USA).json
 developer: Sega Interactive
 publisher: Sega
 genre: Shooter

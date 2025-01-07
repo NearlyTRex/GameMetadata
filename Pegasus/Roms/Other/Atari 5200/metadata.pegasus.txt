@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari 5200" -n {file.basename}
 
 
 game: Asteroids (USA) (Proto)
-file: Other/Atari 5200/Asteroids (USA) (Proto)/Asteroids (USA) (Proto).json
+file: Roms/Other/Atari 5200/Asteroids (USA) (Proto)/Asteroids (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -34,7 +34,7 @@ x-playable: Yes
 
 
 game: Bounty Bob Strikes Back! (USA)
-file: Other/Atari 5200/Bounty Bob Strikes Back! (USA)/Bounty Bob Strikes Back! (USA).json
+file: Roms/Other/Atari 5200/Bounty Bob Strikes Back! (USA)/Bounty Bob Strikes Back! (USA).json
 developer: Big Five Software
 publisher: Big Five Software
 genre: Action
@@ -55,7 +55,7 @@ x-playable: Yes
 
 
 game: Centipede (USA)
-file: Other/Atari 5200/Centipede (USA)/Centipede (USA).json
+file: Roms/Other/Atari 5200/Centipede (USA)/Centipede (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -76,7 +76,7 @@ x-playable: Yes
 
 
 game: Countermeasure (USA)
-file: Other/Atari 5200/Countermeasure (USA)/Countermeasure (USA).json
+file: Roms/Other/Atari 5200/Countermeasure (USA)/Countermeasure (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Shooter
@@ -106,7 +106,7 @@ x-playable: Yes
 
 
 game: Final Legacy (USA) (Proto)
-file: Other/Atari 5200/Final Legacy (USA) (Proto)/Final Legacy (USA) (Proto).json
+file: Roms/Other/Atari 5200/Final Legacy (USA) (Proto)/Final Legacy (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Strategy;Vehicle Simulation
@@ -170,7 +170,7 @@ x-playable: Yes
 
 
 game: Microgammon SB (USA) (Proto)
-file: Other/Atari 5200/Microgammon SB (USA) (Proto)/Microgammon SB (USA) (Proto).json
+file: Roms/Other/Atari 5200/Microgammon SB (USA) (Proto)/Microgammon SB (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Board Game
@@ -188,7 +188,7 @@ x-playable: Yes
 
 
 game: Millipede (USA) (Proto)
-file: Other/Atari 5200/Millipede (USA) (Proto)/Millipede (USA) (Proto).json
+file: Roms/Other/Atari 5200/Millipede (USA) (Proto)/Millipede (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -211,7 +211,7 @@ x-playable: Yes
 
 
 game: Miner 2049er Starring Bounty Bob (USA)
-file: Other/Atari 5200/Miner 2049er Starring Bounty Bob (USA)/Miner 2049er Starring Bounty Bob (USA).json
+file: Roms/Other/Atari 5200/Miner 2049er Starring Bounty Bob (USA)/Miner 2049er Starring Bounty Bob (USA).json
 developer: Big Five Software
 publisher: Big Five Software
 genre: Platform
@@ -238,7 +238,7 @@ x-playable: Yes
 
 
 game: Miniature Golf (USA) (Proto)
-file: Other/Atari 5200/Miniature Golf (USA) (Proto)/Miniature Golf (USA) (Proto).json
+file: Roms/Other/Atari 5200/Miniature Golf (USA) (Proto)/Miniature Golf (USA) (Proto).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -261,7 +261,7 @@ x-playable: Yes
 
 
 game: Missile Command (USA)
-file: Other/Atari 5200/Missile Command (USA)/Missile Command (USA).json
+file: Roms/Other/Atari 5200/Missile Command (USA)/Missile Command (USA).json
 developer: Atari
 publisher: Atari
 genre: Shooter
@@ -283,7 +283,7 @@ x-playable: Yes
 
 
 game: Pac-Man (USA)
-file: Other/Atari 5200/Pac-Man (USA)/Pac-Man (USA).json
+file: Roms/Other/Atari 5200/Pac-Man (USA)/Pac-Man (USA).json
 developer: Namco
 publisher: Atari
 genre: Action
@@ -302,7 +302,7 @@ x-playable: Yes
 
 
 game: RealSports Baseball (USA)
-file: Other/Atari 5200/RealSports Baseball (USA)/RealSports Baseball (USA).json
+file: Roms/Other/Atari 5200/RealSports Baseball (USA)/RealSports Baseball (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -331,7 +331,7 @@ x-playable: Yes
 
 
 game: RealSports Basketball (USA)
-file: Other/Atari 5200/RealSports Basketball (USA)/RealSports Basketball (USA).json
+file: Roms/Other/Atari 5200/RealSports Basketball (USA)/RealSports Basketball (USA).json
 developer: Patrick Bass
 publisher: Atari
 genre: Sports
@@ -355,7 +355,7 @@ x-playable: Yes
 
 
 game: RealSports Football (USA)
-file: Other/Atari 5200/RealSports Football (USA)/RealSports Football (USA).json
+file: Roms/Other/Atari 5200/RealSports Football (USA)/RealSports Football (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Sports
@@ -376,7 +376,7 @@ x-playable: Yes
 
 
 game: RealSports Soccer (USA)
-file: Other/Atari 5200/RealSports Soccer (USA)/RealSports Soccer (USA).json
+file: Roms/Other/Atari 5200/RealSports Soccer (USA)/RealSports Soccer (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -395,7 +395,7 @@ x-playable: Yes
 
 
 game: RealSports Tennis (USA)
-file: Other/Atari 5200/RealSports Tennis (USA)/RealSports Tennis (USA).json
+file: Roms/Other/Atari 5200/RealSports Tennis (USA)/RealSports Tennis (USA).json
 developer: Atari
 publisher: Atari
 genre: Sports
@@ -413,7 +413,7 @@ x-playable: Yes
 
 
 game: Star Raiders (USA)
-file: Other/Atari 5200/Star Raiders (USA)/Star Raiders (USA).json
+file: Roms/Other/Atari 5200/Star Raiders (USA)/Star Raiders (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Shooter
@@ -441,7 +441,7 @@ x-playable: Yes
 
 
 game: Super Breakout (USA)
-file: Other/Atari 5200/Super Breakout (USA)/Super Breakout (USA).json
+file: Roms/Other/Atari 5200/Super Breakout (USA)/Super Breakout (USA).json
 developer: Atari, Inc.
 publisher: Atari, Inc.
 genre: Action
@@ -470,7 +470,7 @@ x-playable: Yes
 
 
 game: Xari Arena (USA) (Proto)
-file: Other/Atari 5200/Xari Arena (USA) (Proto)/Xari Arena (USA) (Proto).json
+file: Roms/Other/Atari 5200/Xari Arena (USA) (Proto)/Xari Arena (USA) (Proto).json
 developer: Atari
 publisher: AtariAge
 genre: Action

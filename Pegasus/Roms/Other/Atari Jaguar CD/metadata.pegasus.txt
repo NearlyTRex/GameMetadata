@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Atari Jaguar CD" -n {file.basena
 
 
 game: Blue Lightning (USA)
-file: Other/Atari Jaguar CD/Blue Lightning (USA)/Blue Lightning (USA).json
+file: Roms/Other/Atari Jaguar CD/Blue Lightning (USA)/Blue Lightning (USA).json
 developer: Epyx
 publisher: Atari
 genre: Flight Simulator
@@ -23,7 +23,7 @@ x-playable: Yes
 
 
 game: Myst (USA)
-file: Other/Atari Jaguar CD/Myst (USA)/Myst (USA).json
+file: Roms/Other/Atari Jaguar CD/Myst (USA)/Myst (USA).json
 developer: Cyan
 publisher: Sun soft
 genre: Adventure

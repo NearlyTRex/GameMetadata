@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Nintendo" -s "Nintendo 64" -n {file.basenam
 
 
 game: 007 - The World Is Not Enough (USA)
-file: Nintendo/Nintendo 64/007 - The World Is Not Enough (USA)/007 - The World Is Not Enough (USA).json
+file: Roms/Nintendo/Nintendo 64/007 - The World Is Not Enough (USA)/007 - The World Is Not Enough (USA).json
 developer: Eurocom
 publisher: Electronic Arts
 genre: Shooter
@@ -25,7 +25,7 @@ x-playable: Yes
 
 
 game: Blast Corps (USA)
-file: Nintendo/Nintendo 64/Blast Corps (USA)/Blast Corps (USA).json
+file: Roms/Nintendo/Nintendo 64/Blast Corps (USA)/Blast Corps (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Action;Puzzle
@@ -43,7 +43,7 @@ x-playable: Yes
 
 
 game: Bomberman 64 (USA)
-file: Nintendo/Nintendo 64/Bomberman 64 (USA)/Bomberman 64 (USA).json
+file: Roms/Nintendo/Nintendo 64/Bomberman 64 (USA)/Bomberman 64 (USA).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Action;Platform
@@ -64,7 +64,7 @@ x-playable: Yes
 
 
 game: Bomberman 64 - The Second Attack! (USA)
-file: Nintendo/Nintendo 64/Bomberman 64 - The Second Attack! (USA)/Bomberman 64 - The Second Attack! (USA).json
+file: Roms/Nintendo/Nintendo 64/Bomberman 64 - The Second Attack! (USA)/Bomberman 64 - The Second Attack! (USA).json
 developer: Hudson Soft
 publisher: Vatical Entertainment
 genre: Action
@@ -95,7 +95,7 @@ x-playable: Yes
 
 
 game: Bomberman Hero (USA)
-file: Nintendo/Nintendo 64/Bomberman Hero (USA)/Bomberman Hero (USA).json
+file: Roms/Nintendo/Nintendo 64/Bomberman Hero (USA)/Bomberman Hero (USA).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Action;Platform
@@ -115,7 +115,7 @@ x-playable: Yes
 
 
 game: Castlevania (USA)
-file: Nintendo/Nintendo 64/Castlevania (USA)/Castlevania (USA).json
+file: Roms/Nintendo/Nintendo 64/Castlevania (USA)/Castlevania (USA).json
 developer: KCEK
 publisher: Konami
 genre: Action;Platform
@@ -136,7 +136,7 @@ x-playable: Yes
 
 
 game: Castlevania - Legacy of Darkness (USA)
-file: Nintendo/Nintendo 64/Castlevania - Legacy of Darkness (USA)/Castlevania - Legacy of Darkness (USA).json
+file: Roms/Nintendo/Nintendo 64/Castlevania - Legacy of Darkness (USA)/Castlevania - Legacy of Darkness (USA).json
 developer: KCEK
 publisher: Konami
 genre: Action;Platform
@@ -161,7 +161,7 @@ x-playable: Yes
 
 
 game: Conker's Bad Fur Day (USA)
-file: Nintendo/Nintendo 64/Conker's Bad Fur Day (USA)/Conker's Bad Fur Day (USA).json
+file: Roms/Nintendo/Nintendo 64/Conker's Bad Fur Day (USA)/Conker's Bad Fur Day (USA).json
 developer: Rare
 publisher: Rare
 genre: Action;Adventure;Platform
@@ -180,7 +180,7 @@ x-playable: Yes
 
 
 game: Cruis'n USA (USA)
-file: Nintendo/Nintendo 64/Cruis'n USA (USA)/Cruis'n USA (USA).json
+file: Roms/Nintendo/Nintendo 64/Cruis'n USA (USA)/Cruis'n USA (USA).json
 developer: Williams Entertainment, Inc.
 publisher: Nintendo
 genre: Racing
@@ -203,7 +203,7 @@ x-playable: Yes
 
 
 game: Diddy Kong Racing (USA) (En,Fr)
-file: Nintendo/Nintendo 64/Diddy Kong Racing (USA) (En,Fr)/Diddy Kong Racing (USA) (En,Fr).json
+file: Roms/Nintendo/Nintendo 64/Diddy Kong Racing (USA) (En,Fr)/Diddy Kong Racing (USA) (En,Fr).json
 developer: Rare
 publisher: Nintendo
 genre: Racing
@@ -245,7 +245,7 @@ x-playable: Yes
 
 
 game: Doom 64 (USA)
-file: Nintendo/Nintendo 64/Doom 64 (USA)/Doom 64 (USA).json
+file: Roms/Nintendo/Nintendo 64/Doom 64 (USA)/Doom 64 (USA).json
 developer: Midway Games
 publisher: Midway Games
 genre: Shooter
@@ -272,7 +272,7 @@ x-playable: Yes
 
 
 game: F-Zero X (USA)
-file: Nintendo/Nintendo 64/F-Zero X (USA)/F-Zero X (USA).json
+file: Roms/Nintendo/Nintendo 64/F-Zero X (USA)/F-Zero X (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Racing
@@ -292,7 +292,7 @@ x-playable: Yes
 
 
 game: Gauntlet Legends (USA)
-file: Nintendo/Nintendo 64/Gauntlet Legends (USA)/Gauntlet Legends (USA).json
+file: Roms/Nintendo/Nintendo 64/Gauntlet Legends (USA)/Gauntlet Legends (USA).json
 developer: Atari Games
 publisher: Midway
 genre: Action
@@ -314,7 +314,7 @@ x-playable: Yes
 
 
 game: GoldenEye 007 (USA)
-file: Nintendo/Nintendo 64/GoldenEye 007 (USA)/GoldenEye 007 (USA).json
+file: Roms/Nintendo/Nintendo 64/GoldenEye 007 (USA)/GoldenEye 007 (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Shooter
@@ -345,7 +345,7 @@ x-playable: Yes
 
 
 game: Harvest Moon 64 (USA)
-file: Nintendo/Nintendo 64/Harvest Moon 64 (USA)/Harvest Moon 64 (USA).json
+file: Roms/Nintendo/Nintendo 64/Harvest Moon 64 (USA)/Harvest Moon 64 (USA).json
 developer: Toy Box Studios
 publisher: Natsume
 genre: Life Simulation;Role-Playing
@@ -366,7 +366,7 @@ x-playable: Yes
 
 
 game: Hexen (USA)
-file: Nintendo/Nintendo 64/Hexen (USA)/Hexen (USA).json
+file: Roms/Nintendo/Nintendo 64/Hexen (USA)/Hexen (USA).json
 developer: Software Creations Ltd.
 publisher: id Software
 genre: Action;Shooter
@@ -390,7 +390,7 @@ x-playable: Yes
 
 
 game: Hybrid Heaven (USA)
-file: Nintendo/Nintendo 64/Hybrid Heaven (USA)/Hybrid Heaven (USA).json
+file: Roms/Nintendo/Nintendo 64/Hybrid Heaven (USA)/Hybrid Heaven (USA).json
 developer: KCEO
 publisher: Konami
 genre: Action;Role-Playing
@@ -418,7 +418,7 @@ x-playable: Yes
 
 
 game: Indiana Jones and the Infernal Machine (USA)
-file: Nintendo/Nintendo 64/Indiana Jones and the Infernal Machine (USA)/Indiana Jones and the Infernal Machine (USA).json
+file: Roms/Nintendo/Nintendo 64/Indiana Jones and the Infernal Machine (USA)/Indiana Jones and the Infernal Machine (USA).json
 developer: Factor 5
 publisher: LucasArts
 genre: Action;Adventure
@@ -442,7 +442,7 @@ x-playable: Yes
 
 
 game: Jet Force Gemini (USA)
-file: Nintendo/Nintendo 64/Jet Force Gemini (USA)/Jet Force Gemini (USA).json
+file: Roms/Nintendo/Nintendo 64/Jet Force Gemini (USA)/Jet Force Gemini (USA).json
 developer: Rare
 publisher: Rare
 genre: Action;Adventure;Shooter
@@ -464,7 +464,7 @@ x-playable: Yes
 
 
 game: John Romero's Daikatana (USA)
-file: Nintendo/Nintendo 64/John Romero's Daikatana (USA)/John Romero's Daikatana (USA).json
+file: Roms/Nintendo/Nintendo 64/John Romero's Daikatana (USA)/John Romero's Daikatana (USA).json
 developer: Kemco
 publisher: Kemco
 genre: Action;Shooter
@@ -484,7 +484,7 @@ x-playable: Yes
 
 
 game: Killer Instinct Gold (USA) (Rev 2)
-file: Nintendo/Nintendo 64/Killer Instinct Gold (USA) (Rev 2)/Killer Instinct Gold (USA) (Rev 2).json
+file: Roms/Nintendo/Nintendo 64/Killer Instinct Gold (USA) (Rev 2)/Killer Instinct Gold (USA) (Rev 2).json
 developer: Rare
 publisher: Nintendo
 genre: Fighting
@@ -505,7 +505,7 @@ x-playable: Yes
 
 
 game: Kirby 64 - The Crystal Shards (USA)
-file: Nintendo/Nintendo 64/Kirby 64 - The Crystal Shards (USA)/Kirby 64 - The Crystal Shards (USA).json
+file: Roms/Nintendo/Nintendo 64/Kirby 64 - The Crystal Shards (USA)/Kirby 64 - The Crystal Shards (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Adventure;Platform
@@ -526,7 +526,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Majora's Mask (USA)
-file: Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA)/Legend of Zelda, The - Majora's Mask (USA).json
+file: Roms/Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA)/Legend of Zelda, The - Majora's Mask (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -556,7 +556,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Majora's Mask (USA) (GameCube)
-file: Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA) (GameCube)/Legend of Zelda, The - Majora's Mask (USA) (GameCube).json
+file: Roms/Nintendo/Nintendo 64/Legend of Zelda, The - Majora's Mask (USA) (GameCube)/Legend of Zelda, The - Majora's Mask (USA) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -586,7 +586,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Ocarina of Time (USA)
-file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA)/Legend of Zelda, The - Ocarina of Time (USA).json
+file: Roms/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA)/Legend of Zelda, The - Ocarina of Time (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -616,7 +616,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Ocarina of Time (USA) (GameCube)
-file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time (USA) (GameCube).json
+file: Roms/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time (USA) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure
@@ -646,7 +646,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)
-file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube).json
+file: Roms/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (Europe) (Debug) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -664,7 +664,7 @@ x-playable: Yes
 
 
 game: Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)
-file: Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).json
+file: Roms/Nintendo/Nintendo 64/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube)/Legend of Zelda, The - Ocarina of Time - Master Quest (USA) (GameCube).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Adventure;Role-Playing
@@ -682,7 +682,7 @@ x-playable: Yes
 
 
 game: Mario Kart 64 (USA)
-file: Nintendo/Nintendo 64/Mario Kart 64 (USA)/Mario Kart 64 (USA).json
+file: Roms/Nintendo/Nintendo 64/Mario Kart 64 (USA)/Mario Kart 64 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Racing
@@ -710,7 +710,7 @@ x-playable: Yes
 
 
 game: Mario Party 2 (USA) (Wii Virtual Console)
-file: Nintendo/Nintendo 64/Mario Party 2 (USA) (Wii Virtual Console)/Mario Party 2 (USA) (Wii Virtual Console).json
+file: Roms/Nintendo/Nintendo 64/Mario Party 2 (USA) (Wii Virtual Console)/Mario Party 2 (USA) (Wii Virtual Console).json
 developer: Hudson Soft
 publisher: Nintendo
 genre: Party
@@ -731,7 +731,7 @@ x-playable: Yes
 
 
 game: Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)
-file: Nintendo/Nintendo 64/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).json
+file: Roms/Nintendo/Nintendo 64/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console)/Ogre Battle 64 - Person of Lordly Caliber (USA, Europe) (Rev 1) (Wii Virtual Console).json
 developer: Quest
 publisher: Atlus
 genre: Role-Playing;Strategy
@@ -755,7 +755,7 @@ x-playable: Yes
 
 
 game: Paper Mario (USA)
-file: Nintendo/Nintendo 64/Paper Mario (USA)/Paper Mario (USA).json
+file: Roms/Nintendo/Nintendo 64/Paper Mario (USA)/Paper Mario (USA).json
 developer: Intelligent Systems
 publisher: Nintendo
 genre: Role-Playing
@@ -776,7 +776,7 @@ x-playable: Yes
 
 
 game: Perfect Dark (USA)
-file: Nintendo/Nintendo 64/Perfect Dark (USA)/Perfect Dark (USA).json
+file: Roms/Nintendo/Nintendo 64/Perfect Dark (USA)/Perfect Dark (USA).json
 developer: Rare
 publisher: Nintendo
 genre: Shooter
@@ -794,7 +794,7 @@ x-playable: Yes
 
 
 game: Pokemon Snap (USA)
-file: Nintendo/Nintendo 64/Pokemon Snap (USA)/Pokemon Snap (USA).json
+file: Roms/Nintendo/Nintendo 64/Pokemon Snap (USA)/Pokemon Snap (USA).json
 developer: Nintendo
 publisher: Nintendo
 genre: Shooter
@@ -823,7 +823,7 @@ x-playable: Yes
 
 
 game: Portal 64 (USA)
-file: Nintendo/Nintendo 64/Portal 64 (USA)/Portal 64 (USA).json
+file: Roms/Nintendo/Nintendo 64/Portal 64 (USA)/Portal 64 (USA).json
 developer: James Lambert
 publisher: James Lambert
 genre: Adventure;Puzzle;Unofficial
@@ -838,7 +838,7 @@ x-playable: Yes
 
 
 game: Resident Evil 2 (USA)
-file: Nintendo/Nintendo 64/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
+file: Roms/Nintendo/Nintendo 64/Resident Evil 2 (USA)/Resident Evil 2 (USA).json
 developer: Angel Studios
 publisher: Capcom
 genre: Action;Horror
@@ -859,7 +859,7 @@ x-playable: Yes
 
 
 game: Star Fox 64 (USA)
-file: Nintendo/Nintendo 64/Star Fox 64 (USA)/Star Fox 64 (USA).json
+file: Roms/Nintendo/Nintendo 64/Star Fox 64 (USA)/Star Fox 64 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Shooter
@@ -885,7 +885,7 @@ x-playable: Yes
 
 
 game: Star Wars - Rogue Squadron (USA)
-file: Nintendo/Nintendo 64/Star Wars - Rogue Squadron (USA)/Star Wars - Rogue Squadron (USA).json
+file: Roms/Nintendo/Nintendo 64/Star Wars - Rogue Squadron (USA)/Star Wars - Rogue Squadron (USA).json
 developer: Factor 5
 publisher: Nintendo
 genre: Shooter
@@ -905,7 +905,7 @@ x-playable: Yes
 
 
 game: Star Wars - Shadows of the Empire (USA)
-file: Nintendo/Nintendo 64/Star Wars - Shadows of the Empire (USA)/Star Wars - Shadows of the Empire (USA).json
+file: Roms/Nintendo/Nintendo 64/Star Wars - Shadows of the Empire (USA)/Star Wars - Shadows of the Empire (USA).json
 developer: LucasArts
 publisher: Nintendo
 genre: Action
@@ -930,7 +930,7 @@ x-playable: Yes
 
 
 game: Star Wars Episode I - Battle for Naboo (USA)
-file: Nintendo/Nintendo 64/Star Wars Episode I - Battle for Naboo (USA)/Star Wars Episode I - Battle for Naboo (USA).json
+file: Roms/Nintendo/Nintendo 64/Star Wars Episode I - Battle for Naboo (USA)/Star Wars Episode I - Battle for Naboo (USA).json
 developer: Factor 5
 publisher: LucasArts
 genre: Action;Flight Simulator
@@ -949,7 +949,7 @@ x-playable: Yes
 
 
 game: Star Wars Episode I - Racer (USA)
-file: Nintendo/Nintendo 64/Star Wars Episode I - Racer (USA)/Star Wars Episode I - Racer (USA).json
+file: Roms/Nintendo/Nintendo 64/Star Wars Episode I - Racer (USA)/Star Wars Episode I - Racer (USA).json
 developer: LucasArts
 publisher: LucasArts
 genre: Racing
@@ -972,7 +972,7 @@ x-playable: Yes
 
 
 game: Super Mario 64 (USA)
-file: Nintendo/Nintendo 64/Super Mario 64 (USA)/Super Mario 64 (USA).json
+file: Roms/Nintendo/Nintendo 64/Super Mario 64 (USA)/Super Mario 64 (USA).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Platform
@@ -1011,7 +1011,7 @@ x-playable: Yes
 
 
 game: Super Mario 64 (USA) (Co-op Patch)
-file: Nintendo/Nintendo 64/Super Mario 64 (USA) (Co-op Patch)/Super Mario 64 (USA) (Co-op Patch).json
+file: Roms/Nintendo/Nintendo 64/Super Mario 64 (USA) (Co-op Patch)/Super Mario 64 (USA) (Co-op Patch).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Action;Platform
@@ -1049,7 +1049,7 @@ x-playable: Yes
 
 
 game: Super Smash Bros. (USA)
-file: Nintendo/Nintendo 64/Super Smash Bros. (USA)/Super Smash Bros. (USA).json
+file: Roms/Nintendo/Nintendo 64/Super Smash Bros. (USA)/Super Smash Bros. (USA).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Fighting
@@ -1076,7 +1076,7 @@ x-playable: Yes
 
 
 game: Super Smash Bros. (USA) (Smash Remix Patch)
-file: Nintendo/Nintendo 64/Super Smash Bros. (USA) (Smash Remix Patch)/Super Smash Bros. (USA) (Smash Remix Patch).json
+file: Roms/Nintendo/Nintendo 64/Super Smash Bros. (USA) (Smash Remix Patch)/Super Smash Bros. (USA) (Smash Remix Patch).json
 developer: HAL Laboratory
 publisher: Nintendo
 genre: Action;Fighting;Platform;Party
@@ -1107,7 +1107,7 @@ x-playable: Yes
 
 
 game: Tsumi to Batsu - Hoshi no Keishousha (Japan)
-file: Nintendo/Nintendo 64/Tsumi to Batsu - Hoshi no Keishousha (Japan)/Tsumi to Batsu - Hoshi no Keishousha (Japan).json
+file: Roms/Nintendo/Nintendo 64/Tsumi to Batsu - Hoshi no Keishousha (Japan)/Tsumi to Batsu - Hoshi no Keishousha (Japan).json
 developer: Treasure
 publisher: Nintendo
 genre: Shooter
@@ -1126,7 +1126,7 @@ x-playable: Yes
 
 
 game: WWF WrestleMania 2000 (USA)
-file: Nintendo/Nintendo 64/WWF WrestleMania 2000 (USA)/WWF WrestleMania 2000 (USA).json
+file: Roms/Nintendo/Nintendo 64/WWF WrestleMania 2000 (USA)/WWF WrestleMania 2000 (USA).json
 developer: AKI Corporation
 publisher: THQ
 genre: Sports
@@ -1145,7 +1145,7 @@ x-playable: Yes
 
 
 game: Yoshi's Story (USA) (En,Ja)
-file: Nintendo/Nintendo 64/Yoshi's Story (USA) (En,Ja)/Yoshi's Story (USA) (En,Ja).json
+file: Roms/Nintendo/Nintendo 64/Yoshi's Story (USA) (En,Ja)/Yoshi's Story (USA) (En,Ja).json
 developer: Nintendo EAD
 publisher: Nintendo
 genre: Platform

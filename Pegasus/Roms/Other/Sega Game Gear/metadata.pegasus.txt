@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "Sega Game Gear" -n {file.basenam
 
 
 game: Bare Knuckle ~ Streets of Rage (World)
-file: Other/Sega Game Gear/Bare Knuckle ~ Streets of Rage (World)/Bare Knuckle ~ Streets of Rage (World).json
+file: Roms/Other/Sega Game Gear/Bare Knuckle ~ Streets of Rage (World)/Bare Knuckle ~ Streets of Rage (World).json
 developer: Ancient
 publisher: Sega
 genre: Beat 'em Up
@@ -25,7 +25,7 @@ x-playable: Yes
 
 
 game: Bust-A-Move (USA, Europe)
-file: Other/Sega Game Gear/Bust-A-Move (USA, Europe)/Bust-A-Move (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Bust-A-Move (USA, Europe)/Bust-A-Move (USA, Europe).json
 developer: Santos
 publisher: Taito
 genre: Puzzle
@@ -44,7 +44,7 @@ x-playable: Yes
 
 
 game: Columns (USA, Europe, Brazil) (Rev 2)
-file: Other/Sega Game Gear/Columns (USA, Europe, Brazil) (Rev 2)/Columns (USA, Europe, Brazil) (Rev 2).json
+file: Roms/Other/Sega Game Gear/Columns (USA, Europe, Brazil) (Rev 2)/Columns (USA, Europe, Brazil) (Rev 2).json
 developer: Sega
 publisher: Sega
 genre: Puzzle
@@ -62,7 +62,7 @@ x-playable: Yes
 
 
 game: Crystal Warriors (USA, Europe)
-file: Other/Sega Game Gear/Crystal Warriors (USA, Europe)/Crystal Warriors (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Crystal Warriors (USA, Europe)/Crystal Warriors (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing;Strategy
@@ -95,7 +95,7 @@ x-playable: Yes
 
 
 game: Defenders of Oasis (USA, Europe)
-file: Other/Sega Game Gear/Defenders of Oasis (USA, Europe)/Defenders of Oasis (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Defenders of Oasis (USA, Europe)/Defenders of Oasis (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -123,7 +123,7 @@ x-playable: Yes
 
 
 game: Dr. Robotnik's Mean Bean Machine (USA, Europe)
-file: Other/Sega Game Gear/Dr. Robotnik's Mean Bean Machine (USA, Europe)/Dr. Robotnik's Mean Bean Machine (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Dr. Robotnik's Mean Bean Machine (USA, Europe)/Dr. Robotnik's Mean Bean Machine (USA, Europe).json
 developer: Compile
 publisher: Sega
 genre: Puzzle
@@ -141,7 +141,7 @@ x-playable: Yes
 
 
 game: Dragon Crystal (USA, Europe)
-file: Other/Sega Game Gear/Dragon Crystal (USA, Europe)/Dragon Crystal (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Dragon Crystal (USA, Europe)/Dragon Crystal (USA, Europe).json
 developer: Sega
 publisher: Sega
 genre: Role-Playing
@@ -158,7 +158,7 @@ x-playable: Yes
 
 
 game: Dynamite Headdy (Japan)
-file: Other/Sega Game Gear/Dynamite Headdy (Japan)/Dynamite Headdy (Japan).json
+file: Roms/Other/Sega Game Gear/Dynamite Headdy (Japan)/Dynamite Headdy (Japan).json
 developer: Minato Giken
 publisher: Sega
 genre: Platform
@@ -179,7 +179,7 @@ x-playable: Yes
 
 
 game: Dynamite Headdy (USA, Europe)
-file: Other/Sega Game Gear/Dynamite Headdy (USA, Europe)/Dynamite Headdy (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Dynamite Headdy (USA, Europe)/Dynamite Headdy (USA, Europe).json
 developer: Minato Giken
 publisher: Sega
 genre: Platform
@@ -201,7 +201,7 @@ x-playable: Yes
 
 
 game: Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)
-file: Other/Sega Game Gear/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).json
+file: Roms/Other/Sega Game Gear/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe)/Fantasy Zone Gear ~ Fantasy Zone (Japan, Europe).json
 developer: Sanritsu
 publisher: Sega
 genre: Shooter
@@ -222,7 +222,7 @@ x-playable: Yes
 
 
 game: G-LOC - Air Battle (USA, Europe, Brazil)
-file: Other/Sega Game Gear/G-LOC - Air Battle (USA, Europe, Brazil)/G-LOC - Air Battle (USA, Europe, Brazil).json
+file: Roms/Other/Sega Game Gear/G-LOC - Air Battle (USA, Europe, Brazil)/G-LOC - Air Battle (USA, Europe, Brazil).json
 developer: Sega AM2 R&D Division
 publisher: Sega
 genre: Action;Flight Simulator
@@ -239,7 +239,7 @@ x-playable: Yes
 
 
 game: G-Sonic ~ Sonic Blast (World)
-file: Other/Sega Game Gear/G-Sonic ~ Sonic Blast (World)/G-Sonic ~ Sonic Blast (World).json
+file: Roms/Other/Sega Game Gear/G-Sonic ~ Sonic Blast (World)/G-Sonic ~ Sonic Blast (World).json
 developer: Aspect
 publisher: Sega
 genre: Platform
@@ -258,7 +258,7 @@ x-playable: Yes
 
 
 game: GG Shinobi, The ~ Shinobi (World) (Rev 1)
-file: Other/Sega Game Gear/GG Shinobi, The ~ Shinobi (World) (Rev 1)/GG Shinobi, The ~ Shinobi (World) (Rev 1).json
+file: Roms/Other/Sega Game Gear/GG Shinobi, The ~ Shinobi (World) (Rev 1)/GG Shinobi, The ~ Shinobi (World) (Rev 1).json
 developer: Sega
 publisher: Sega
 genre: Action;Platform
@@ -279,7 +279,7 @@ x-playable: Yes
 
 
 game: Gunstar Heroes (Japan)
-file: Other/Sega Game Gear/Gunstar Heroes (Japan)/Gunstar Heroes (Japan).json
+file: Roms/Other/Sega Game Gear/Gunstar Heroes (Japan)/Gunstar Heroes (Japan).json
 developer: M2
 publisher: Sega
 genre: Action;Shooter
@@ -298,7 +298,7 @@ x-playable: Yes
 
 
 game: NBA Jam - Tournament Edition (World)
-file: Other/Sega Game Gear/NBA Jam - Tournament Edition (World)/NBA Jam - Tournament Edition (World).json
+file: Roms/Other/Sega Game Gear/NBA Jam - Tournament Edition (World)/NBA Jam - Tournament Edition (World).json
 developer: Iguana Entertainment
 publisher: Acclaim
 genre: Sports
@@ -317,7 +317,7 @@ x-playable: Yes
 
 
 game: Phantasy Star Adventure (Japan)
-file: Other/Sega Game Gear/Phantasy Star Adventure (Japan)/Phantasy Star Adventure (Japan).json
+file: Roms/Other/Sega Game Gear/Phantasy Star Adventure (Japan)/Phantasy Star Adventure (Japan).json
 developer: Sega
 publisher: Sega
 genre: Adventure
@@ -349,7 +349,7 @@ x-playable: Yes
 
 
 game: Phantasy Star Gaiden (Japan)
-file: Other/Sega Game Gear/Phantasy Star Gaiden (Japan)/Phantasy Star Gaiden (Japan).json
+file: Roms/Other/Sega Game Gear/Phantasy Star Gaiden (Japan)/Phantasy Star Gaiden (Japan).json
 developer: Japan System Supply
 publisher: Sega
 genre: Role-Playing
@@ -378,7 +378,7 @@ x-playable: Yes
 
 
 game: Road Rash (USA)
-file: Other/Sega Game Gear/Road Rash (USA)/Road Rash (USA).json
+file: Roms/Other/Sega Game Gear/Road Rash (USA)/Road Rash (USA).json
 developer: Probe
 publisher: U.S. Gold
 genre: Action;Racing
@@ -426,7 +426,7 @@ x-playable: Yes
 
 
 game: Shining Force - The Sword of Hajya (USA)
-file: Other/Sega Game Gear/Shining Force - The Sword of Hajya (USA)/Shining Force - The Sword of Hajya (USA).json
+file: Roms/Other/Sega Game Gear/Shining Force - The Sword of Hajya (USA)/Shining Force - The Sword of Hajya (USA).json
 developer: Sonic! Software Planning
 publisher: Sega
 genre: Role-Playing
@@ -445,7 +445,7 @@ x-playable: Yes
 
 
 game: Sonic Chaos (USA, Europe, Brazil)
-file: Other/Sega Game Gear/Sonic Chaos (USA, Europe, Brazil)/Sonic Chaos (USA, Europe, Brazil).json
+file: Roms/Other/Sega Game Gear/Sonic Chaos (USA, Europe, Brazil)/Sonic Chaos (USA, Europe, Brazil).json
 developer: Aspect
 publisher: Sega
 genre: Platform
@@ -470,7 +470,7 @@ x-playable: Yes
 
 
 game: Sonic Drift (Japan) (En)
-file: Other/Sega Game Gear/Sonic Drift (Japan) (En)/Sonic Drift (Japan) (En).json
+file: Roms/Other/Sega Game Gear/Sonic Drift (Japan) (En)/Sonic Drift (Japan) (En).json
 developer: Sega
 publisher: Sega
 genre: Racing
@@ -494,7 +494,7 @@ x-playable: Yes
 
 
 game: Sonic Drift Racing ~ Sonic Drift 2 (World)
-file: Other/Sega Game Gear/Sonic Drift Racing ~ Sonic Drift 2 (World)/Sonic Drift Racing ~ Sonic Drift 2 (World).json
+file: Roms/Other/Sega Game Gear/Sonic Drift Racing ~ Sonic Drift 2 (World)/Sonic Drift Racing ~ Sonic Drift 2 (World).json
 developer: Sega
 publisher: Sega
 genre: Racing
@@ -512,7 +512,7 @@ x-playable: Yes
 
 
 game: Sonic Labyrinth (World)
-file: Other/Sega Game Gear/Sonic Labyrinth (World)/Sonic Labyrinth (World).json
+file: Roms/Other/Sega Game Gear/Sonic Labyrinth (World)/Sonic Labyrinth (World).json
 developer: Minato Giken
 publisher: Sega
 genre: Platform
@@ -531,7 +531,7 @@ x-playable: Yes
 
 
 game: Sonic Spinball (USA, Europe)
-file: Other/Sega Game Gear/Sonic Spinball (USA, Europe)/Sonic Spinball (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Sonic Spinball (USA, Europe)/Sonic Spinball (USA, Europe).json
 developer: SEGA Interactive Development Division
 publisher: Sega
 genre: Action;Platform
@@ -551,7 +551,7 @@ x-playable: Yes
 
 
 game: Sonic The Hedgehog (World) (Rev 1)
-file: Other/Sega Game Gear/Sonic The Hedgehog (World) (Rev 1)/Sonic The Hedgehog (World) (Rev 1).json
+file: Roms/Other/Sega Game Gear/Sonic The Hedgehog (World) (Rev 1)/Sonic The Hedgehog (World) (Rev 1).json
 developer: Ancient
 publisher: Sega
 genre: Platform
@@ -575,7 +575,7 @@ x-playable: Yes
 
 
 game: Sonic The Hedgehog - Triple Trouble (USA, Europe)
-file: Other/Sega Game Gear/Sonic The Hedgehog - Triple Trouble (USA, Europe)/Sonic The Hedgehog - Triple Trouble (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Sonic The Hedgehog - Triple Trouble (USA, Europe)/Sonic The Hedgehog - Triple Trouble (USA, Europe).json
 developer: Aspect
 publisher: Sega
 genre: Platform
@@ -594,7 +594,7 @@ x-playable: Yes
 
 
 game: Sonic The Hedgehog 2 (World)
-file: Other/Sega Game Gear/Sonic The Hedgehog 2 (World)/Sonic The Hedgehog 2 (World).json
+file: Roms/Other/Sega Game Gear/Sonic The Hedgehog 2 (World)/Sonic The Hedgehog 2 (World).json
 developer: Aspect
 publisher: Sega
 genre: Action;Platform
@@ -619,7 +619,7 @@ x-playable: Yes
 
 
 game: Spider-Man vs. The Kingpin (USA, Europe)
-file: Other/Sega Game Gear/Spider-Man vs. The Kingpin (USA, Europe)/Spider-Man vs. The Kingpin (USA, Europe).json
+file: Roms/Other/Sega Game Gear/Spider-Man vs. The Kingpin (USA, Europe)/Spider-Man vs. The Kingpin (USA, Europe).json
 developer: Bits Studios
 publisher: Flying Edge
 genre: Action
@@ -644,7 +644,7 @@ x-playable: Yes
 
 
 game: Tails Adventure ~ Tails Adventures (World) (En,Ja)
-file: Other/Sega Game Gear/Tails Adventure ~ Tails Adventures (World) (En,Ja)/Tails Adventure ~ Tails Adventures (World) (En,Ja).json
+file: Roms/Other/Sega Game Gear/Tails Adventure ~ Tails Adventures (World) (En,Ja)/Tails Adventure ~ Tails Adventures (World) (En,Ja).json
 developer: Aspect
 publisher: Sega
 genre: Adventure;Platform
@@ -662,7 +662,7 @@ x-playable: Yes
 
 
 game: Tails no Skypatrol (Japan)
-file: Other/Sega Game Gear/Tails no Skypatrol (Japan)/Tails no Skypatrol (Japan).json
+file: Roms/Other/Sega Game Gear/Tails no Skypatrol (Japan)/Tails no Skypatrol (Japan).json
 developer: SIMS
 publisher: Sega
 genre: Platform
@@ -682,7 +682,7 @@ x-playable: Yes
 
 
 game: Vampire - Master of Darkness (USA)
-file: Other/Sega Game Gear/Vampire - Master of Darkness (USA)/Vampire - Master of Darkness (USA).json
+file: Roms/Other/Sega Game Gear/Vampire - Master of Darkness (USA)/Vampire - Master of Darkness (USA).json
 developer: SIMS
 publisher: Sega
 genre: Platform
@@ -700,7 +700,7 @@ x-playable: Yes
 
 
 game: X-Men (USA)
-file: Other/Sega Game Gear/X-Men (USA)/X-Men (USA).json
+file: Roms/Other/Sega Game Gear/X-Men (USA)/X-Men (USA).json
 developer: Sega
 publisher: Sega
 genre: Action

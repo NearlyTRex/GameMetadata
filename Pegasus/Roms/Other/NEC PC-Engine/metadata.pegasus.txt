@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Other" -s "NEC PC-Engine" -n {file.basename
 
 
 game: Appare Gateball (Japan)
-file: Other/NEC PC-Engine/Appare Gateball (Japan)/Appare Gateball (Japan).json
+file: Roms/Other/NEC PC-Engine/Appare Gateball (Japan)/Appare Gateball (Japan).json
 developer: Escape
 publisher: Hudson Soft
 genre: Sports
@@ -23,7 +23,7 @@ x-playable: Yes
 
 
 game: Battle Lode Runner (Japan)
-file: Other/NEC PC-Engine/Battle Lode Runner (Japan)/Battle Lode Runner (Japan).json
+file: Roms/Other/NEC PC-Engine/Battle Lode Runner (Japan)/Battle Lode Runner (Japan).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action;Puzzle
@@ -48,7 +48,7 @@ x-playable: Yes
 
 
 game: Bomberman '94 (Japan)
-file: Other/NEC PC-Engine/Bomberman '94 (Japan)/Bomberman '94 (Japan).json
+file: Roms/Other/NEC PC-Engine/Bomberman '94 (Japan)/Bomberman '94 (Japan).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action
@@ -70,7 +70,7 @@ x-playable: Yes
 
 
 game: Darius Alpha (Japan)
-file: Other/NEC PC-Engine/Darius Alpha (Japan)/Darius Alpha (Japan).json
+file: Roms/Other/NEC PC-Engine/Darius Alpha (Japan)/Darius Alpha (Japan).json
 developer: Bits Laboratory
 publisher: NEC Avenue, Ltd.
 genre: Shooter
@@ -94,7 +94,7 @@ x-playable: Yes
 
 
 game: Darius Plus (Japan)
-file: Other/NEC PC-Engine/Darius Plus (Japan)/Darius Plus (Japan).json
+file: Roms/Other/NEC PC-Engine/Darius Plus (Japan)/Darius Plus (Japan).json
 developer: Bits Laboratory
 publisher: NEC Avenue, Ltd.
 genre: Shooter
@@ -120,7 +120,7 @@ x-playable: Yes
 
 
 game: Dragon Spirit (Japan)
-file: Other/NEC PC-Engine/Dragon Spirit (Japan)/Dragon Spirit (Japan).json
+file: Roms/Other/NEC PC-Engine/Dragon Spirit (Japan)/Dragon Spirit (Japan).json
 developer: Namco
 publisher: NEC
 genre: Shooter
@@ -138,7 +138,7 @@ x-playable: Yes
 
 
 game: Dungeon Explorer (Japan)
-file: Other/NEC PC-Engine/Dungeon Explorer (Japan)/Dungeon Explorer (Japan).json
+file: Roms/Other/NEC PC-Engine/Dungeon Explorer (Japan)/Dungeon Explorer (Japan).json
 developer: Atlus
 publisher: NEC
 genre: Role-Playing
@@ -156,7 +156,7 @@ x-playable: Yes
 
 
 game: Fantasy Zone (Japan)
-file: Other/NEC PC-Engine/Fantasy Zone (Japan)/Fantasy Zone (Japan).json
+file: Roms/Other/NEC PC-Engine/Fantasy Zone (Japan)/Fantasy Zone (Japan).json
 developer: Bits Laboratory
 publisher: NEC
 genre: Shooter
@@ -174,7 +174,7 @@ x-playable: Yes
 
 
 game: Final Soldier (Japan) (En)
-file: Other/NEC PC-Engine/Final Soldier (Japan) (En)/Final Soldier (Japan) (En).json
+file: Roms/Other/NEC PC-Engine/Final Soldier (Japan) (En)/Final Soldier (Japan) (En).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Shooter
@@ -201,7 +201,7 @@ x-playable: Yes
 
 
 game: Galaga '88 (Japan)
-file: Other/NEC PC-Engine/Galaga '88 (Japan)/Galaga '88 (Japan).json
+file: Roms/Other/NEC PC-Engine/Galaga '88 (Japan)/Galaga '88 (Japan).json
 developer: Namco
 publisher: NEC
 genre: Shooter
@@ -220,7 +220,7 @@ x-playable: Yes
 
 
 game: Genpei Toumaden (Japan)
-file: Other/NEC PC-Engine/Genpei Toumaden (Japan)/Genpei Toumaden (Japan).json
+file: Roms/Other/NEC PC-Engine/Genpei Toumaden (Japan)/Genpei Toumaden (Japan).json
 developer: Now Production
 publisher: Namco
 genre: Action
@@ -237,7 +237,7 @@ x-playable: Yes
 
 
 game: Gradius (Japan)
-file: Other/NEC PC-Engine/Gradius (Japan)/Gradius (Japan).json
+file: Roms/Other/NEC PC-Engine/Gradius (Japan)/Gradius (Japan).json
 developer: Konami Industry Co. Ltd.
 publisher: Konami Industry Co. Ltd.
 genre: Shooter
@@ -260,7 +260,7 @@ x-playable: Yes
 
 
 game: Jaseiken Necromancer (Japan)
-file: Other/NEC PC-Engine/Jaseiken Necromancer (Japan)/Jaseiken Necromancer (Japan).json
+file: Roms/Other/NEC PC-Engine/Jaseiken Necromancer (Japan)/Jaseiken Necromancer (Japan).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Role-Playing
@@ -293,7 +293,7 @@ x-playable: Yes
 
 
 game: Neutopia (Japan)
-file: Other/NEC PC-Engine/Neutopia (Japan)/Neutopia (Japan).json
+file: Roms/Other/NEC PC-Engine/Neutopia (Japan)/Neutopia (Japan).json
 developer: Hudson Soft
 publisher: NEC
 genre: Action;Adventure
@@ -312,7 +312,7 @@ x-playable: Yes
 
 
 game: Neutopia II (Japan)
-file: Other/NEC PC-Engine/Neutopia II (Japan)/Neutopia II (Japan).json
+file: Roms/Other/NEC PC-Engine/Neutopia II (Japan)/Neutopia II (Japan).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Role-Playing
@@ -333,7 +333,7 @@ x-playable: Yes
 
 
 game: Ninja Ryuuken Den (Japan) (En,Ja,Zh)
-file: Other/NEC PC-Engine/Ninja Ryuuken Den (Japan) (En,Ja,Zh)/Ninja Ryuuken Den (Japan) (En,Ja,Zh).json
+file: Roms/Other/NEC PC-Engine/Ninja Ryuuken Den (Japan) (En,Ja,Zh)/Ninja Ryuuken Den (Japan) (En,Ja,Zh).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Action
@@ -353,7 +353,7 @@ x-playable: Yes
 
 
 game: Splatterhouse (Japan) (En)
-file: Other/NEC PC-Engine/Splatterhouse (Japan) (En)/Splatterhouse (Japan) (En).json
+file: Roms/Other/NEC PC-Engine/Splatterhouse (Japan) (En)/Splatterhouse (Japan) (En).json
 developer: Namco
 publisher: NEC
 genre: Action;Beat 'em Up
@@ -376,7 +376,7 @@ x-playable: Yes
 
 
 game: Super Momotarou Dentetsu II (Japan)
-file: Other/NEC PC-Engine/Super Momotarou Dentetsu II (Japan)/Super Momotarou Dentetsu II (Japan).json
+file: Roms/Other/NEC PC-Engine/Super Momotarou Dentetsu II (Japan)/Super Momotarou Dentetsu II (Japan).json
 developer: Hudson Soft
 publisher: Hudson Soft
 genre: Board Game
@@ -400,7 +400,7 @@ x-playable: Yes
 
 
 game: Super Star Soldier (Japan)
-file: Other/NEC PC-Engine/Super Star Soldier (Japan)/Super Star Soldier (Japan).json
+file: Roms/Other/NEC PC-Engine/Super Star Soldier (Japan)/Super Star Soldier (Japan).json
 developer: Inter State
 publisher: NEC
 genre: Shooter
@@ -420,7 +420,7 @@ x-playable: Yes
 
 
 game: Valkyrie no Densetsu (Japan)
-file: Other/NEC PC-Engine/Valkyrie no Densetsu (Japan)/Valkyrie no Densetsu (Japan).json
+file: Roms/Other/NEC PC-Engine/Valkyrie no Densetsu (Japan)/Valkyrie no Densetsu (Japan).json
 developer: Namco
 publisher: Namco
 genre: Action

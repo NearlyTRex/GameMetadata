@@ -3,7 +3,7 @@ launch: {env.JOYBOX_LAUNCH_JSON} -c "Computer" -s "Legacy Games" -n {file.basena
 
 
 game: Alex Hunter - Lord Of The Mind (USA)
-file: Computer/Legacy Games/A/Alex Hunter - Lord Of The Mind (USA)/Alex Hunter - Lord Of The Mind (USA).json
+file: Roms/Computer/Legacy Games/A/Alex Hunter - Lord Of The Mind (USA)/Alex Hunter - Lord Of The Mind (USA).json
 developer: Epic Star
 publisher: Big Fish Games
 genre: Adventure;Puzzle
@@ -31,7 +31,7 @@ x-playable: Yes
 
 
 game: Camelot - Wrath of the Green Knight Collector's Edition (USA)
-file: Computer/Legacy Games/C/Camelot - Wrath of the Green Knight Collector's Edition (USA)/Camelot - Wrath of the Green Knight Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/C/Camelot - Wrath of the Green Knight Collector's Edition (USA)/Camelot - Wrath of the Green Knight Collector's Edition (USA).json
 developer: Wonderland
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -54,7 +54,7 @@ x-playable: Yes
 
 
 game: City Legends - Trapped in Mirror Collector's Edition (USA)
-file: Computer/Legacy Games/C/City Legends - Trapped in Mirror Collector's Edition (USA)/City Legends - Trapped in Mirror Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/C/City Legends - Trapped in Mirror Collector's Edition (USA)/City Legends - Trapped in Mirror Collector's Edition (USA).json
 developer: Domini Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -78,7 +78,7 @@ x-playable: Yes
 
 
 game: Connected Hearts - Fortune Play Collector's Edition (USA)
-file: Computer/Legacy Games/C/Connected Hearts - Fortune Play Collector's Edition (USA)/Connected Hearts - Fortune Play Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/C/Connected Hearts - Fortune Play Collector's Edition (USA)/Connected Hearts - Fortune Play Collector's Edition (USA).json
 developer: Domini Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -104,7 +104,7 @@ x-playable: Yes
 
 
 game: Dark Arcana - The Carnival (USA)
-file: Computer/Legacy Games/D/Dark Arcana - The Carnival (USA)/Dark Arcana - The Carnival (USA).json
+file: Roms/Computer/Legacy Games/D/Dark Arcana - The Carnival (USA)/Dark Arcana - The Carnival (USA).json
 developer: Artifex Mundi
 publisher: Artifex Mundi
 genre: Adventure;Puzzle
@@ -128,7 +128,7 @@ x-playable: Yes
 
 
 game: Dark Strokes - Sins of the Fathers Collector's Edition (USA)
-file: Computer/Legacy Games/D/Dark Strokes - Sins of the Fathers Collector's Edition (USA)/Dark Strokes - Sins of the Fathers Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/D/Dark Strokes - Sins of the Fathers Collector's Edition (USA)/Dark Strokes - Sins of the Fathers Collector's Edition (USA).json
 developer: Alawar Entertainment
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -148,7 +148,7 @@ x-playable: Yes
 
 
 game: Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA)
-file: Computer/Legacy Games/D/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA)/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/D/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA)/Dark Strokes - The Legend of The Snow Kingdom Collector's Edition (USA).json
 developer: Alawar Entertainment
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -169,7 +169,7 @@ x-playable: Yes
 
 
 game: Darkarta - A Broken Hearts Quest Collector's Edition (USA)
-file: Computer/Legacy Games/D/Darkarta - A Broken Hearts Quest Collector's Edition (USA)/Darkarta - A Broken Hearts Quest Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/D/Darkarta - A Broken Hearts Quest Collector's Edition (USA)/Darkarta - A Broken Hearts Quest Collector's Edition (USA).json
 developer: Tuttifrutti Interactive
 publisher: Tuttifrutti Interactive
 genre: Puzzle;Hidden Object
@@ -192,7 +192,7 @@ x-playable: Yes
 
 
 game: Facility 47 (USA)
-file: Computer/Legacy Games/F/Facility 47 (USA)/Facility 47 (USA).json
+file: Roms/Computer/Legacy Games/F/Facility 47 (USA)/Facility 47 (USA).json
 developer: Inertia Game Studios
 publisher: Big Fish Games
 genre: Adventure;Point-and-Click
@@ -218,7 +218,7 @@ x-playable: Yes
 
 
 game: Forest Legends - The Call of Love Collector's Edition (USA)
-file: Computer/Legacy Games/F/Forest Legends - The Call of Love Collector's Edition (USA)/Forest Legends - The Call of Love Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/F/Forest Legends - The Call of Love Collector's Edition (USA)/Forest Legends - The Call of Love Collector's Edition (USA).json
 developer: Alawar Entertainment
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -238,7 +238,7 @@ x-playable: Yes
 
 
 game: Gloomy Tales - Horrific Show Collector's Edition (USA)
-file: Computer/Legacy Games/G/Gloomy Tales - Horrific Show Collector's Edition (USA)/Gloomy Tales - Horrific Show Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/G/Gloomy Tales - Horrific Show Collector's Edition (USA)/Gloomy Tales - Horrific Show Collector's Edition (USA).json
 developer: Domini Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -261,7 +261,7 @@ x-playable: Yes
 
 
 game: Hiddenverse - Divided Kingdom (USA)
-file: Computer/Legacy Games/H/Hiddenverse - Divided Kingdom (USA)/Hiddenverse - Divided Kingdom (USA).json
+file: Roms/Computer/Legacy Games/H/Hiddenverse - Divided Kingdom (USA)/Hiddenverse - Divided Kingdom (USA).json
 developer: Big Fish Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -282,7 +282,7 @@ x-playable: Yes
 
 
 game: Hiddenverse - Rise of Ariadna (USA)
-file: Computer/Legacy Games/H/Hiddenverse - Rise of Ariadna (USA)/Hiddenverse - Rise of Ariadna (USA).json
+file: Roms/Computer/Legacy Games/H/Hiddenverse - Rise of Ariadna (USA)/Hiddenverse - Rise of Ariadna (USA).json
 developer: Shaman Games Studio
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -301,7 +301,7 @@ x-playable: Yes
 
 
 game: House Of 1000 Doors 3 - Serpent Flame Collector's Edition (USA)
-file: Computer/Legacy Games/H/House Of 1000 Doors 3 - Serpent Flame Collector's Edition (USA)/House Of 1000 Doors 3 - Serpent Flame Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/H/House Of 1000 Doors 3 - Serpent Flame Collector's Edition (USA)/House Of 1000 Doors 3 - Serpent Flame Collector's Edition (USA).json
 developer: FIVE-BN STUDIO
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -320,7 +320,7 @@ x-playable: Yes
 
 
 game: Legendary Tales - Stolen Life Collector's Edition (USA)
-file: Computer/Legacy Games/L/Legendary Tales - Stolen Life Collector's Edition (USA)/Legendary Tales - Stolen Life Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/L/Legendary Tales - Stolen Life Collector's Edition (USA)/Legendary Tales - Stolen Life Collector's Edition (USA).json
 developer: FIVE-BN STUDIO
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -344,7 +344,7 @@ x-playable: Yes
 
 
 game: Lost Lands - Sand Captivity Collector's Edition (USA)
-file: Computer/Legacy Games/L/Lost Lands - Sand Captivity Collector's Edition (USA)/Lost Lands - Sand Captivity Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/L/Lost Lands - Sand Captivity Collector's Edition (USA)/Lost Lands - Sand Captivity Collector's Edition (USA).json
 developer: FIVE-BN STUDIO
 publisher: FIVE-BN STUDIO
 genre: Puzzle;Hidden Object
@@ -370,7 +370,7 @@ x-playable: Yes
 
 
 game: Lost Souls - Timeless Fables Collector's Edition (USA)
-file: Computer/Legacy Games/L/Lost Souls - Timeless Fables Collector's Edition (USA)/Lost Souls - Timeless Fables Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/L/Lost Souls - Timeless Fables Collector's Edition (USA)/Lost Souls - Timeless Fables Collector's Edition (USA).json
 developer: Fenomen Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -391,7 +391,7 @@ x-playable: Yes
 
 
 game: Magic City Detective - Wings of Revenge Collector's Edition (USA)
-file: Computer/Legacy Games/M/Magic City Detective - Wings of Revenge Collector's Edition (USA)/Magic City Detective - Wings of Revenge Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/M/Magic City Detective - Wings of Revenge Collector's Edition (USA)/Magic City Detective - Wings of Revenge Collector's Edition (USA).json
 developer: Domini Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -416,7 +416,7 @@ x-playable: Yes
 
 
 game: Margrave - The Blacksmiths Daughter (USA)
-file: Computer/Legacy Games/M/Margrave - The Blacksmiths Daughter (USA)/Margrave - The Blacksmiths Daughter (USA).json
+file: Roms/Computer/Legacy Games/M/Margrave - The Blacksmiths Daughter (USA)/Margrave - The Blacksmiths Daughter (USA).json
 developer: Inertia
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -439,7 +439,7 @@ x-playable: Yes
 
 
 game: Mystery Case Files - Black Crown (USA)
-file: Computer/Legacy Games/M/Mystery Case Files - Black Crown (USA)/Mystery Case Files - Black Crown (USA).json
+file: Roms/Computer/Legacy Games/M/Mystery Case Files - Black Crown (USA)/Mystery Case Files - Black Crown (USA).json
 developer: Eipix Entertainment
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -461,7 +461,7 @@ x-playable: Yes
 
 
 game: Mystery Case Files - Key to Ravenhearst (USA)
-file: Computer/Legacy Games/M/Mystery Case Files - Key to Ravenhearst (USA)/Mystery Case Files - Key to Ravenhearst (USA).json
+file: Roms/Computer/Legacy Games/M/Mystery Case Files - Key to Ravenhearst (USA)/Mystery Case Files - Key to Ravenhearst (USA).json
 developer: Eipix Entertainment
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -480,7 +480,7 @@ x-playable: Yes
 
 
 game: Mystical Riddles - Behind Doll Eyes Collector's Edition (USA)
-file: Computer/Legacy Games/M/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA)/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/M/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA)/Mystical Riddles - Behind Doll Eyes Collector's Edition (USA).json
 developer: Do Games Limited
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -503,7 +503,7 @@ x-playable: Yes
 
 
 game: Out of Time Collector's Edition (USA)
-file: Computer/Legacy Games/O/Out of Time Collector's Edition (USA)/Out of Time Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/O/Out of Time Collector's Edition (USA)/Out of Time Collector's Edition (USA).json
 developer: DragonsEye Studio
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -527,7 +527,7 @@ x-playable: Yes
 
 
 game: Pride and Prejudice - Blood Ties Collector's Edition (USA)
-file: Computer/Legacy Games/P/Pride and Prejudice - Blood Ties Collector's Edition (USA)/Pride and Prejudice - Blood Ties Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/P/Pride and Prejudice - Blood Ties Collector's Edition (USA)/Pride and Prejudice - Blood Ties Collector's Edition (USA).json
 developer: Wonderland
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -549,7 +549,7 @@ x-playable: Yes
 
 
 game: Royal Legends - Marshes Curse Collector's Edition (USA)
-file: Computer/Legacy Games/R/Royal Legends - Marshes Curse Collector's Edition (USA)/Royal Legends - Marshes Curse Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/R/Royal Legends - Marshes Curse Collector's Edition (USA)/Royal Legends - Marshes Curse Collector's Edition (USA).json
 developer: Domini Games
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -571,7 +571,7 @@ x-playable: Yes
 
 
 game: Seven Chambers, The (USA)
-file: Computer/Legacy Games/S/Seven Chambers, The (USA)/Seven Chambers, The (USA).json
+file: Roms/Computer/Legacy Games/S/Seven Chambers, The (USA)/Seven Chambers, The (USA).json
 developer: Three Headed Eagle
 publisher: Plug In Digital
 genre: Puzzle;Hidden Object
@@ -602,7 +602,7 @@ x-playable: Yes
 
 
 game: Stormhill Mystery - Family Shadows (USA)
-file: Computer/Legacy Games/S/Stormhill Mystery - Family Shadows (USA)/Stormhill Mystery - Family Shadows (USA).json
+file: Roms/Computer/Legacy Games/S/Stormhill Mystery - Family Shadows (USA)/Stormhill Mystery - Family Shadows (USA).json
 developer: Specialbit Studio
 publisher: Specialbit Studio
 genre: Puzzle;Hidden Object
@@ -634,7 +634,7 @@ x-playable: Yes
 
 
 game: Tearstone - Thieves of the Heart Collector's Edition (USA)
-file: Computer/Legacy Games/T/Tearstone - Thieves of the Heart Collector's Edition (USA)/Tearstone - Thieves of the Heart Collector's Edition (USA).json
+file: Roms/Computer/Legacy Games/T/Tearstone - Thieves of the Heart Collector's Edition (USA)/Tearstone - Thieves of the Heart Collector's Edition (USA).json
 developer: Dragons Eye Studio
 publisher: Big Fish Games
 genre: Puzzle;Hidden Object
@@ -658,7 +658,7 @@ x-playable: Yes
 
 
 game: Wild Case, The (USA)
-file: Computer/Legacy Games/W/Wild Case, The (USA)/Wild Case, The (USA).json
+file: Roms/Computer/Legacy Games/W/Wild Case, The (USA)/Wild Case, The (USA).json
 developer: Specialbit Studio
 publisher: Specialbit Studio
 genre: Adventure;Point-and-Click
