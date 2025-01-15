@@ -844,9 +844,10 @@ x-playable: Yes
 
 game: Control (USA)
 file: Roms/Computer/Epic Games/C/Control (USA)/Control (USA).json
+developer: Remedy Entertainment
+publisher: 505 Games
+genre: Action;Adventure;Horror;Shooter
 description:
-  Control
-  .
   After a secretive agency in New York is invaded by an otherworldly threat, you
   become the new Director struggling to regain Control.
   .
@@ -1198,6 +1199,44 @@ assets.video: Video/Earthlock (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/earthlock-e7d979
 x-co-op: No
 x-playable: No
+
+
+game: Eastern Exorcist (USA)
+file: Roms/Computer/Epic Games/E/Eastern Exorcist (USA)/Eastern Exorcist (USA).json
+developer: Wildfire Game
+publisher: Wildfire Game
+genre: Action-Adventure;RPG
+description:
+  Play as a skilled exorcist against chaotic evil!
+  .
+  Eastern Exorcist is a stunning 2D side-scrolling action RPG set in a fantasy
+  eastern world with vicious spirits and monsters. Play as a skilled exorcist
+  against chaotic evil to fight your way through the brutal world, and experience
+  different stories of joy and sorrow.
+  .
+  Art Direction
+  .
+  All hand-drawn Chinese ink painting styles, with many atmospheric scenes.
+  .
+  Combat System
+  .
+  Use your sword to execute demons and monsters with tactical combat mechanics in
+  hand-drawn frame-by-frame action design.
+  .
+  Storyline
+  .
+  Experience a complicated journey with joy and sorrow as an exorcist.
+  .
+  Cutscenes
+  .
+  Cutscenes are shown in the form of Chinese Opera.
+release: 2023-11-19
+players: 1
+assets.boxfront: BoxFront/Eastern Exorcist (USA).jpg
+assets.video: Video/Eastern Exorcist (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/eastern-exorcist-d49923
+x-co-op: No
+x-playable: Yes
 
 
 game: Electrician Simulator (USA)
@@ -2425,6 +2464,54 @@ players: 1
 assets.boxfront: BoxFront/Killing Floor 2 - Beta (USA).jpg
 assets.video: Video/Killing Floor 2 - Beta (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/killing-floor-2
+x-co-op: No
+x-playable: Yes
+
+
+game: Kingdom Come Deliverance (USA)
+file: Roms/Computer/Epic Games/K/Kingdom Come Deliverance (USA)/Kingdom Come Deliverance (USA).json
+developer: Warhorse Studios
+publisher: Prime Matter
+genre: Action;Adventure;Open World;RPG
+description:
+  Kingdom Come: Deliverance
+  .
+  Thrust into a raging civil war, you watch helplessly as invaders storm your
+  village and slaughter your family. Narrowly escaping the brutal attack, you grab
+  your sword to fight back. Avenge the death of your parents and help repel the
+  invading forces!
+  .
+  Massive realistic open world
+  .
+  Majestic castles, vast fields, all rendered in stunning high-end graphics.
+  .
+  Non-linear story
+  .
+  Solve quests in multiple ways, then face the consequences of your decisions.
+  .
+  Challenging combat
+  .
+  Distance, stealth, or melee. Choose your weapons and execute dozens of unique
+  combos in battles that are as thrilling as they are merciless.
+  .
+  Character development
+  .
+  Improve your skills, earn new perks, and forge and upgrade your equipment.
+  .
+  Dynamic world
+  .
+  Your actions influence the reactions of the people around you. Fight, steal,
+  seduce, threaten, persuade, or bribe. It's all up to you.
+  .
+  Historical accuracy
+  .
+  Meet real historical characters and experience the genuine look and feel of
+  medieval Bohemia.
+release: 2018-02-13
+players: 1
+assets.boxfront: BoxFront/Kingdom Come Deliverance (USA).jpg
+assets.video: Video/Kingdom Come Deliverance (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/kingdom-come-deliverance
 x-co-op: No
 x-playable: Yes
 
@@ -3671,6 +3758,63 @@ x-co-op: No
 x-playable: Yes
 
 
+game: SkyDrift Infinity (USA)
+file: Roms/Computer/Epic Games/S/SkyDrift Infinity (USA)/SkyDrift Infinity (USA).json
+developer: Digital Reality
+publisher: HandyGames
+genre: Action;Racing
+description:
+  Breathtaking flight experiences
+  .
+  Skydrift Infinity is an action-packed arcade game focusing on the experience of
+  flying alone, and with others, in a light, quick, fast-paced style.
+  .
+  In various game modes, you can partake in deathmatches and armed races as well
+  as other competitions, using modern airplanes, tuned to the max, and armed to
+  the teeth with extreme weaponry. Your goal is simple: if you can't overtake
+  them, shoot them down!
+  .
+  Tension all the way to the wingtips
+  .
+  Play alone, with your friends, or compete against previously unknown online
+  challengers! For relaxation explore exotic islands, the venue of the races, and
+  arena modes. Here you can break free of the 2-dimensionality, that restricts
+  other racing games! Your possibilities are limited only by your imagination!
+  .
+  Features
+  .
+  Race with planes and beat your opponents by using the drifting mechanic and
+  power-ups.
+  .
+  Vintage, Modern, Fantasy: 16 planes with four different paint jobs each ensure
+  everyone will find their new favorite aircraft.
+  .
+  Six Power-ups! Capture up to two different powers in your plane's arsenal, then
+  collect upgrades to increase the strength of those existing powers. Strategy
+  becomes key as you must choose which powers to keep, which ones to upgrade, and
+  which ones to convert into Boost energy.
+  .
+  Exciting Multiplayer and different game modes
+  .
+  8-person Multiplayer: Take your friends down online in this fast and furious
+  battle.
+  .
+  5 Exciting Game Modes: Power Race Mode is high-speed racing paired with power-
+  ups; Speed Race Mode, in which players navigate the course through ring targets
+  that increase aircraft velocity, and Survivor Mode where pilots race against the
+  countdown clock and each other. Plus Deathmatch and Team Deathmatch on top of
+  all of that!
+  .
+  Splitscreen mode for local multiplayer
+release: 2022-05-06
+players: 1
+assets.boxfront: BoxFront/SkyDrift Infinity (USA).jpg
+assets.video: Video/SkyDrift Infinity (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/skydrift-infinity-c4ca37
+x-co-op: No
+x-playable: Yes
+
+
 game: Snakebird Complete (USA)
 file: Roms/Computer/Epic Games/S/Snakebird Complete (USA)/Snakebird Complete (USA).json
 developer: Noumenon Games
@@ -4177,6 +4321,53 @@ players: 1
 assets.boxfront: BoxFront/Trek to Yomi (USA).jpg
 assets.video: Video/Trek to Yomi (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/trek-to-yomi-70d134
+x-co-op: No
+x-playable: Yes
+
+
+game: Turmoil (USA)
+file: Roms/Computer/Epic Games/T/Turmoil (USA)/Turmoil (USA).json
+developer: Gamious
+publisher: Gamious
+genre: Simulation;Strategy;Turn-Based
+description:
+  Drill for oil like it's 1899! Turmoil offers a visually charming, tongue-in-
+  cheek simulation inspired by the 19th century USA oil rush.
+  .
+  Get a taste of the rush and rivalry of the time as you earn your way to become a
+  successful oil entrepreneur. As you make money digging up and selling oil, the
+  town will grow along with you.
+  .
+  Lease land at the town auction and search for oil. Build a rig, create an
+  efficient pipe network and bring up the oil to store it in silos. Sell the oil
+  at the best times to maximize profits. Then buy essential upgrades in town to
+  cope with rock, gas and ice. Acquire more town shares than your competitors in a
+  bid to become the new mayor.
+  .
+  A campaign where you build your rags-to-riches oil baron career and beat your
+  rivals.
+  .
+  Dozens of upgrades and new tools to improve your oil mining operations.
+  .
+  Meet the town's characters in the saloon and make shady business deals.
+  .
+  Play single game mode to get one of literally millions of procedurally generated
+  levels and earn as much as you can in one year.
+  .
+  Lease land at the town auction and search for oil using a dowser, mole or
+  scanner.
+  .
+  Maximize your profits by using natural gas to boost the oil price.
+  .
+  Outbid your competitors at the stock auction.
+  .
+  Take on computer opponents, or challenge friends or random opponents in online
+  multiplayer matches.
+release: 2025-01-09
+players: 1
+assets.boxfront: BoxFront/Turmoil (USA).jpg
+assets.video: Video/Turmoil (USA).mp4
+x-url: https://store.epicgames.com/en-US/p/turmoil-26318a
 x-co-op: No
 x-playable: Yes
 
