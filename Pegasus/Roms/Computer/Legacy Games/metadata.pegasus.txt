@@ -673,6 +673,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Lunar Axe (USA)
+file: Roms/Computer/Legacy Games/L/Lunar Axe (USA)/Lunar Axe (USA).json
+developer: Ops Game Studio
+publisher: Ops Game Studio
+genre: Adventure;Point-and-Click
+description:
+  After a big earthquake in the city, ruins of an old building collapse and you
+  end up trapped inside a big abandoned house. Find a way out and unravel the
+  mystery of the inexplicable tremors, meet the guardian spirit of a mystical
+  artifact and learn its relation to recent events, before it's too late.
+  .
+  Lunar Axe is a point-and-click adventure game with locations and story inspired
+  by real places with incredible hand-drawing art.
+release: 2022-07-11
+players: 1
+assets.boxfront: BoxFront/Lunar Axe (USA).jpg
+assets.video: Video/Lunar Axe (USA).mp4
+x-url: https://store.steampowered.com/app/1305820/Lunar_Axe/
+x-co-op: No
+x-playable: Yes
+
+
 game: Magic City Detective - Wings of Revenge Collector's Edition (USA)
 file: Roms/Computer/Legacy Games/M/Magic City Detective - Wings of Revenge Collector's Edition (USA)/Magic City Detective - Wings of Revenge Collector's Edition (USA).json
 developer: Domini Games
@@ -749,6 +771,50 @@ players: 1
 assets.boxfront: BoxFront/Margrave - The Blacksmiths Daughter (USA).jpg
 assets.video: Video/Margrave - The Blacksmiths Daughter (USA).mp4
 x-url: https://www.bigfishgames.com/us/en/games/7443/margrave-the-blacksmiths-daughter/
+x-co-op: No
+x-playable: Yes
+
+
+game: Mystery Box - Hidden Secrets (USA)
+file: Roms/Computer/Legacy Games/M/Mystery Box - Hidden Secrets (USA)/Mystery Box - Hidden Secrets (USA).json
+developer: XScoder
+publisher: XScoder
+genre: Puzzle;General
+description:
+  To unlock the boxes of this escape room game, you have to interact with
+  objects, handles, buttons, and wheels on each side. You can find puzzle
+  pieces on the side of the boxes as well.
+  .
+  The illusion of holding a real object in total darkness is compelling!
+  .
+  Once you open all 8 boxes of a Level Pack, you can compose a puzzle and find
+  a brief history of the discovered invention.
+  .
+  Think outside of the box to solve all enigmas, it's not always an easy job
+  to escape the rooms!
+  .
+  Play the game with your headphones on to get immersed in this amazing
+  adventure!
+  .
+  Got stuck on some riddle? Tap the bulb button to get a helpful hint!
+  .
+  Available in English, French, Italian, German, Spanish, Russian, and
+  Japanese*
+  .
+  *The game language will change automatically based on the language settings
+  of your device
+  .
+  XSGames is a solo indie game developer from Italy. In 2020, I self-published
+  the first Mystery Box chapter on the app stores and was amazed by its
+  awesome success with the mobile gaming community.
+  .
+  Such results changed my life, so I hope you'll enjoy playing the Mystery Box
+  escape room adventures as much as I love making them!
+release: 2023-08-12
+players: 1
+assets.boxfront: BoxFront/Mystery Box - Hidden Secrets (USA).jpg
+assets.video: Video/Mystery Box - Hidden Secrets (USA).mp4
+x-url: https://store.steampowered.com/app/1735790/Mystery_Box_Hidden_Secrets/
 x-co-op: No
 x-playable: Yes
 
