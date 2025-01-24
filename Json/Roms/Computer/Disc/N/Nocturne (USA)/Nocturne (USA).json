@@ -1,44 +1,45 @@
 {
-    "files": [
-        "Nocturne (USA) (Disc 1).chd",
-        "Nocturne (USA) (Disc 2).chd",
-        "Nocturne (USA) (Update).chd",
-        "Nocturne (USA).m3u"
+  "files": [
+    "Nocturne (USA) (Disc 1).chd",
+    "Nocturne (USA) (Disc 2).chd",
+    "Nocturne (USA) (Update).chd",
+    "Nocturne (USA).m3u"
+  ],
+  "disc": {
+    "launch": [
+      {
+        "exe": "nocturne.exe",
+        "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne",
+        "args": []
+      }
     ],
-    "installer_exe": [
+    "setup": {
+      "install": [
         "DISC_ONE_ROOT/SETUP.EXE",
         "DISC_UPDATE_ROOT/nocpatch2.exe"
+      ],
+      "postinstall": [
+        {
+          "from": "DISC_ONE_ROOT/AVI",
+          "skip_existing": true,
+          "to": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/AVI",
+          "type": "copy"
+        }
+      ],
+      "preinstall": [
+        {
+          "from": "DISC_TWO_ROOT",
+          "skip_existing": true,
+          "to": "DISC_ONE_ROOT",
+          "type": "copy"
+        }
+      ]
+    },
+    "paths": [
+      "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/save",
+      "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/SYSTEM"
     ],
-    "launch_exe": [
-        "Program Files (x86)/Terminal Reality/Nocturne/nocturne.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Terminal Reality/Nocturne/nocturne.exe": "Program Files (x86)/Terminal Reality/Nocturne"
-    },
-    "steps": {
-        "postinstall": [
-            {
-                "from": "DISC_ONE_ROOT/AVI",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/AVI",
-                "type": "copy"
-            }
-        ],
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "save",
-            "SYSTEM"
-        ],
-        "search": "Terminal Reality/Nocturne/nocturne.exe"
-    },
-    "transform_file": "Nocturne (USA).m3u"
+    "keys": []
+  },
+  "transform_file": "Nocturne (USA).m3u"
 }
