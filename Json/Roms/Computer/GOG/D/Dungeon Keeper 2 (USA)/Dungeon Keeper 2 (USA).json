@@ -15,7 +15,9 @@
         "appname": "dungeon_keeper_2",
         "appurl": "https://www.gog.com/en/game/dungeon_keeper_2",
         "buildid": "1.7",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Bullfrog Productions Ltd"
+        ],
         "name": "Dungeon Keeper\u2122 2",
         "paths": []
     },
@@ -27,11 +29,6 @@
     ],
     "launch_exe_cwd": {
         "GOG Games/Dungeon Keeper 2/DKII-DX.exe": "GOG Games/Dungeon Keeper 2"
-    },
-    "registry": {
-        "game_keys": [
-            "HKEY_CURRENT_USER\\Software\\Bullfrog Productions Ltd"
-        ]
     },
     "transform_file": "setup_dungeon_keeper_2_1.7_(22280).exe"
 }

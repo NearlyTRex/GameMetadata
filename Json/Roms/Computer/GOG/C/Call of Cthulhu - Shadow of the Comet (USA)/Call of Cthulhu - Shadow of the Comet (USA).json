@@ -25,16 +25,12 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Call of Cthulhu: Shadow of the Comet",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CTU*.SAV"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_shadow_of_the_comet_1.0_(28045).exe"
     ],
-    "sync": {
-        "data": [
-            "CTU*.SAV"
-        ],
-        "search": "gog.ico"
-    },
     "transform_file": "setup_shadow_of_the_comet_1.0_(28045).exe"
 }

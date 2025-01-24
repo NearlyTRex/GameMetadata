@@ -21,16 +21,12 @@
         "buildid": "gog-5",
         "keys": [],
         "name": "Call of Cthulhu: Prisoner of Ice",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/ICE"
+        ]
     },
     "installer_exe": [
         "SETUP_MAIN_ROOT/setup_prisoner_of_ice_gog-5_(17101).exe"
     ],
-    "sync": {
-        "data": [
-            "ICE"
-        ],
-        "search": "gog.ico"
-    },
     "transform_file": "setup_prisoner_of_ice_gog-5_(17101).exe"
 }
