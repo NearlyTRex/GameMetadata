@@ -1,21 +1,29 @@
 {
+    "disc": {
+        "appid": "f4380155-13e6-4527-9af2-76a49fa8a33c",
+        "appname": "am2r_another_metroid_2_remake",
+        "name": "AM2R - Another Metroid 2 Remake",
+        "keys": [],
+        "launch": [
+            {
+                "args": [],
+                "cwd": "HDD_MAIN_ROOT/AM2R/Profiles/Community Updates (Latest)",
+                "exe": "AM2R.exe"
+            }
+        ],
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/AM2R",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "AM2R - Another Metroid 2 Remake (USA).chd"
     ],
-    "launch_exe": [
-        "AM2R/Profiles/Community Updates (Latest)/AM2R.exe"
-    ],
-    "launch_exe_cwd": {
-        "AM2R/Profiles/Community Updates (Latest)/AM2R.exe": "AM2R/Profiles/Community Updates (Latest)"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/AM2R",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "AM2R - Another Metroid 2 Remake (USA).chd"
 }

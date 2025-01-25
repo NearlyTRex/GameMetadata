@@ -1,16 +1,28 @@
 {
+    "disc": {
+        "appid": "9f961fb7-9eff-480c-ad55-1aa0fb2c517b",
+        "appname": "amnesia_the_dark_descent",
+        "name": "Amnesia - The Dark Descent",
+        "keys": [],
+        "launch": [
+            {
+                "args": [],
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Amnesia - The Dark Descent/redist",
+                "exe": "Amnesia.exe"
+            }
+        ],
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "exe": "DISC_MAIN_ROOT/setup.exe",
+                    "serial": "11111111111111"
+                }
+            ]
+        }
+    },
     "files": [
         "Amnesia - The Dark Descent (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
-    "launch_exe": [
-        "Program Files (x86)/Amnesia - The Dark Descent/redist/Amnesia.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Amnesia - The Dark Descent/redist/Amnesia.exe": "Program Files (x86)/Amnesia - The Dark Descent/redist"
-    },
-    "serials": {
-        "Amnesia - The Dark Descent (USA).chd": "11111111111111"
-    },
     "transform_file": "Amnesia - The Dark Descent (USA).chd"
 }

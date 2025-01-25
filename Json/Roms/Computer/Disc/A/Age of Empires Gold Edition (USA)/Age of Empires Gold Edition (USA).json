@@ -1,19 +1,31 @@
 {
+    "disc": {
+        "appid": "20a947f1-9e91-410a-a95c-c24b39366d1e",
+        "appname": "age_of_empires_gold_edition",
+        "name": "Age of Empires Gold Edition",
+        "keys": [],
+        "launch": [],
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "exe": "DISC_MAIN_ROOT/AOESETUP.EXE",
+                    "winver": "winxp"
+                }
+            ],
+            "postinstall": [
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Microsoft Games/Age of Empires",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Age of Empires Gold Edition (USA) (Update).chd",
         "Age of Empires Gold Edition (USA).chd",
         "Age of Empires Gold Edition (USA).m3u"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/AOESETUP.EXE",
-    "steps": {
-        "postinstall": [
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Microsoft Games/Age of Empires",
-                "type": "copy"
-            }
-        ]
-    },
-    "transform_file": "Age of Empires Gold Edition (USA).m3u",
-    "winver": "winxp"
+    "transform_file": "Age of Empires Gold Edition (USA).m3u"
 }

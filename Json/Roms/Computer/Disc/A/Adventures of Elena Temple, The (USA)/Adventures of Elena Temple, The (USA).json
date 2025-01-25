@@ -1,21 +1,29 @@
 {
+    "disc": {
+        "appid": "a7bba63c-c00c-4d01-9e4d-67972da98c46",
+        "appname": "the_adventures_of_elena_temple",
+        "name": "The Adventures of Elena Temple",
+        "keys": [],
+        "launch": [
+            {
+                "args": [],
+                "cwd": "HDD_MAIN_ROOT/Elena Temple v1.2.0 Windows/v1.2.0_DRMfree",
+                "exe": "ElenaTemple.exe"
+            }
+        ],
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Elena Temple v1.2.0 Windows.zip",
+                    "to": "HDD_MAIN_ROOT/Elena Temple v1.2.0 Windows",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Adventures of Elena Temple, The (USA).chd"
     ],
-    "launch_exe": [
-        "Elena Temple v1.2.0 Windows/v1.2.0_DRMfree/ElenaTemple.exe"
-    ],
-    "launch_exe_cwd": {
-        "Elena Temple v1.2.0 Windows/v1.2.0_DRMfree/ElenaTemple.exe": "Elena Temple v1.2.0 Windows/v1.2.0_DRMfree"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Elena Temple v1.2.0 Windows.zip",
-                "to": "HDD_MAIN_ROOT/Elena Temple v1.2.0 Windows",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Adventures of Elena Temple, The (USA).chd"
 }

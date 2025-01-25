@@ -1,12 +1,26 @@
 {
+    "disc": {
+        "appid": "3a266fb3-bc48-4877-a65a-2f2c274192e5",
+        "appname": "age_of_empires_ii_gold_edition",
+        "name": "Age of Empires II Gold Edition",
+        "keys": [],
+        "launch": [],
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "exe": "DISC_ONE_ROOT/AOESETUP.EXE"
+                },
+                {
+                    "exe": "DISC_TWO_ROOT/AOCSETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Age of Empires II Gold Edition (USA) (Disc 1).chd",
         "Age of Empires II Gold Edition (USA) (Disc 2).chd",
         "Age of Empires II Gold Edition (USA).m3u"
-    ],
-    "installer_exe": [
-        "DISC_ONE_ROOT/AOESETUP.EXE",
-        "DISC_TWO_ROOT/AOCSETUP.EXE"
     ],
     "transform_file": "Age of Empires II Gold Edition (USA).m3u"
 }
