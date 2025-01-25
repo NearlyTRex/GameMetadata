@@ -2,15 +2,6 @@
     "files": [
         "How do you Do It (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/How do you Do It (USA).exe"
-    ],
-    "launch_exe": [
-        "How do you Do It/how_do_you_Do_It/how do you Do It.exe"
-    ],
-    "launch_exe_cwd": {
-        "How do you Do It/how_do_you_Do_It/how do you Do It.exe": "How do you Do It/how_do_you_Do_It"
-    },
     "steam": {
         "appid": "353360",
         "appurl": "https://store.steampowered.com/app/353360",

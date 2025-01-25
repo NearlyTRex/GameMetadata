@@ -2,15 +2,6 @@
     "files": [
         "We Were Here (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/We Were Here (USA).exe"
-    ],
-    "launch_exe": [
-        "We Were Here/We Were Here.exe"
-    ],
-    "launch_exe_cwd": {
-        "We Were Here/We Were Here.exe": "We Were Here"
-    },
     "steam": {
         "appid": "582500",
         "appurl": "https://store.steampowered.com/app/582500",

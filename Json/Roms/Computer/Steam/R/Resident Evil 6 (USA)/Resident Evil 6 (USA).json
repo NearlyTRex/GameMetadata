@@ -6,30 +6,6 @@
         "Resident Evil 6 (USA).7z.004",
         "Resident Evil 6 (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil 6 (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil 6/BH6.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil 6/BH6.exe": "Resident Evil 6"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "tricks": {
-                "game": [
-                    "wmp11"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "221040",
         "appurl": "https://store.steampowered.com/app/221040",

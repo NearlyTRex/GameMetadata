@@ -2,21 +2,6 @@
     "files": [
         "Hurtworld (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Hurtworld (USA).exe"
-    ],
-    "launch_exe": [
-        "Hurtworld/Hurtworld.exe",
-        "Hurtworld/HurtworldClient.exe",
-        "Hurtworld/experimental/Hurtworld.exe",
-        "Hurtworld/experimental/HurtworldClient.exe"
-    ],
-    "launch_exe_cwd": {
-        "Hurtworld/Hurtworld.exe": "Hurtworld",
-        "Hurtworld/HurtworldClient.exe": "Hurtworld",
-        "Hurtworld/experimental/Hurtworld.exe": "Hurtworld/experimental",
-        "Hurtworld/experimental/HurtworldClient.exe": "Hurtworld/experimental"
-    },
     "steam": {
         "appid": "393420",
         "appurl": "https://store.steampowered.com/app/393420",

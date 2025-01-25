@@ -2,22 +2,6 @@
     "files": [
         "Crypt of the NecroDancer (USA) (15383827).7z"
     ],
-    "launch_exe": [
-        "Crypt of the NecroDancer/Necrodancer64/Necrodancer.exe"
-    ],
-    "launch_exe_cwd": {
-        "Crypt of the NecroDancer/Necrodancer64/Necrodancer.exe": "Crypt of the NecroDancer/Necrodancer64"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "247080",
         "appurl": "https://store.steampowered.com/app/247080",

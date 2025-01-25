@@ -2,15 +2,6 @@
     "files": [
         "Press X to Not Die (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Press X to Not Die (USA).exe"
-    ],
-    "launch_exe": [
-        "Press X to Not Die/Press X to Not Die.exe"
-    ],
-    "launch_exe_cwd": {
-        "Press X to Not Die/Press X to Not Die.exe": "Press X to Not Die"
-    },
     "steam": {
         "appid": "402330",
         "appurl": "https://store.steampowered.com/app/402330",

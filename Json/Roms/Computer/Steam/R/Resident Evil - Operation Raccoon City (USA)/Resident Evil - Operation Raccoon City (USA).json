@@ -5,25 +5,6 @@
         "Resident Evil - Operation Raccoon City (USA).7z.003",
         "Resident Evil - Operation Raccoon City (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil - Operation Raccoon City (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil - Operation Raccoon City/RaccoonCity.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil - Operation Raccoon City/RaccoonCity.exe": "Resident Evil - Operation Raccoon City"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "209100",
         "appurl": "https://store.steampowered.com/app/209100",

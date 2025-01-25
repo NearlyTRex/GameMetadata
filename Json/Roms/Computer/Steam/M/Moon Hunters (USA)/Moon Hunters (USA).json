@@ -2,15 +2,6 @@
     "files": [
         "Moon Hunters (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Moon Hunters (USA).exe"
-    ],
-    "launch_exe": [
-        "Moon Hunters/moonhunters.exe"
-    ],
-    "launch_exe_cwd": {
-        "Moon Hunters/moonhunters.exe": "Moon Hunters"
-    },
     "steam": {
         "appid": "320040",
         "appurl": "https://store.steampowered.com/app/320040",

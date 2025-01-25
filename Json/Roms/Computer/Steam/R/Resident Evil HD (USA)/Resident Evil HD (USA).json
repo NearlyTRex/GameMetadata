@@ -7,30 +7,6 @@
         "Resident Evil HD (USA).7z.005",
         "Resident Evil HD (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil HD (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil HD/bhd.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil HD/bhd.exe": "Resident Evil HD"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "tricks": {
-                "game": [
-                    "wmp11"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "304240",
         "appurl": "https://store.steampowered.com/app/304240",

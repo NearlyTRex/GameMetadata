@@ -2,25 +2,6 @@
     "files": [
         "Rive (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Rive (USA).exe"
-    ],
-    "launch_exe": [
-        "Rive/rive.exe"
-    ],
-    "launch_exe_cwd": {
-        "Rive/rive.exe": "Rive"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "278100",
         "appurl": "https://store.steampowered.com/app/278100",

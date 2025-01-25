@@ -2,15 +2,6 @@
     "files": [
         "Spooky's Jump Scare Mansion (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Spooky's Jump Scare Mansion (USA).exe"
-    ],
-    "launch_exe": [
-        "Spooky's Jump Scare Mansion/SPOOKY.exe"
-    ],
-    "launch_exe_cwd": {
-        "Spooky's Jump Scare Mansion/SPOOKY.exe": "Spooky's Jump Scare Mansion"
-    },
     "steam": {
         "appid": "356670",
         "appurl": "https://store.steampowered.com/app/356670",

@@ -4,15 +4,6 @@
         "Left 4 Dead 2 (USA).7z.002",
         "Left 4 Dead 2 (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Left 4 Dead 2 (USA).exe"
-    ],
-    "launch_exe": [
-        "Left 4 Dead 2/left4dead2.exe"
-    ],
-    "launch_exe_cwd": {
-        "Left 4 Dead 2/left4dead2.exe": "Left 4 Dead 2"
-    },
     "steam": {
         "appid": "550",
         "appurl": "https://store.steampowered.com/app/550",

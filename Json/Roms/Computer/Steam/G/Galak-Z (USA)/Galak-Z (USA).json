@@ -2,15 +2,6 @@
     "files": [
         "Galak-Z (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Galak-Z (USA).exe"
-    ],
-    "launch_exe": [
-        "Galak-Z/Galak-Z.exe"
-    ],
-    "launch_exe_cwd": {
-        "Galak-Z/Galak-Z.exe": "Galak-Z"
-    },
     "steam": {
         "appid": "300580",
         "appurl": "https://store.steampowered.com/app/300580",

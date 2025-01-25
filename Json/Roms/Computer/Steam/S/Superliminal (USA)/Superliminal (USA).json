@@ -2,15 +2,6 @@
     "files": [
         "Superliminal (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Superliminal (USA).exe"
-    ],
-    "launch_exe": [
-        "Superliminal/SuperliminalSteam.exe"
-    ],
-    "launch_exe_cwd": {
-        "Superliminal/SuperliminalSteam.exe": "Superliminal"
-    },
     "steam": {
         "appid": "1049410",
         "appurl": "https://store.steampowered.com/app/1049410",

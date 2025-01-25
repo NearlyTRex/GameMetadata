@@ -2,15 +2,6 @@
     "files": [
         "Human - Fall Flat (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Human - Fall Flat (USA).exe"
-    ],
-    "launch_exe": [
-        "Human - Fall Flat/Human.exe"
-    ],
-    "launch_exe_cwd": {
-        "Human - Fall Flat/Human.exe": "Human - Fall Flat"
-    },
     "steam": {
         "appid": "477160",
         "appurl": "https://store.steampowered.com/app/477160",

@@ -2,15 +2,6 @@
     "files": [
         "Narcosis (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Narcosis (USA).exe"
-    ],
-    "launch_exe": [
-        "Narcosis/Narcosis.exe"
-    ],
-    "launch_exe_cwd": {
-        "Narcosis/Narcosis.exe": "Narcosis"
-    },
     "steam": {
         "appid": "366870",
         "appurl": "https://store.steampowered.com/app/366870",

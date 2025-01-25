@@ -2,19 +2,10 @@
     "files": [
         "Path, The (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Path, The (USA).exe"
-    ],
-    "launch_exe": [
-        "The Path/PathViewer.exe"
-    ],
     "launch_exe_args": {
         "The Path/PathViewer.exe": [
             "GameLoader-Steam.cgr"
         ]
-    },
-    "launch_exe_cwd": {
-        "The Path/PathViewer.exe": "The Path"
     },
     "steam": {
         "appid": "27000",

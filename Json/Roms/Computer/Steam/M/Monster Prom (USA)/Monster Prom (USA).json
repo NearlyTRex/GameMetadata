@@ -2,15 +2,6 @@
     "files": [
         "Monster Prom (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Monster Prom (USA).exe"
-    ],
-    "launch_exe": [
-        "Monster Prom/MonsterProm.exe"
-    ],
-    "launch_exe_cwd": {
-        "Monster Prom/MonsterProm.exe": "Monster Prom"
-    },
     "steam": {
         "appid": "743450",
         "appurl": "https://store.steampowered.com/app/743450",

@@ -2,23 +2,6 @@
     "files": [
         "Cthulhu Saves the World (USA) (25888).7z"
     ],
-    "launch_exe": [
-        "Cthulhu Saves the World/CSTW.exe"
-    ],
-    "launch_exe_cwd": {
-        "Cthulhu Saves the World/CSTW.exe": "Cthulhu Saves the World"
-    },
-    "sandbox": {
-        "wine": {
-            "tricks": {
-                "game": [
-                    "dotnet40",
-                    "wmp11",
-                    "xna40"
-                ]
-            }
-        }
-    },
     "steam": {
         "appid": "107310",
         "appurl": "https://store.steampowered.com/app/107310",

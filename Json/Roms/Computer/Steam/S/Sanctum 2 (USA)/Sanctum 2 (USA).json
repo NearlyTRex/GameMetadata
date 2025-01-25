@@ -2,15 +2,6 @@
     "files": [
         "Sanctum 2 (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Sanctum 2 (USA).exe"
-    ],
-    "launch_exe": [
-        "Sanctum 2/Binaries/Win32/SanctumGame-Win32-Shipping.exe"
-    ],
-    "launch_exe_cwd": {
-        "Sanctum 2/Binaries/Win32/SanctumGame-Win32-Shipping.exe": "Sanctum 2/Binaries/Win32"
-    },
     "steam": {
         "appid": "210770",
         "appurl": "https://store.steampowered.com/app/210770",

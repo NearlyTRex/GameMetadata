@@ -10,15 +10,6 @@
         "Prey (USA).7z.008",
         "Prey (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Prey (USA).exe"
-    ],
-    "launch_exe": [
-        "Prey/Binaries/Danielle/x64/Release/Prey.exe"
-    ],
-    "launch_exe_cwd": {
-        "Prey/Binaries/Danielle/x64/Release/Prey.exe": "Prey/Binaries/Danielle/x64/Release"
-    },
     "steam": {
         "appid": "480490",
         "appurl": "https://store.steampowered.com/app/480490",

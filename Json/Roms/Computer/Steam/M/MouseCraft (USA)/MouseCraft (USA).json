@@ -2,15 +2,6 @@
     "files": [
         "MouseCraft (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/MouseCraft (USA).exe"
-    ],
-    "launch_exe": [
-        "MouseCraft/MouseCraft.exe"
-    ],
-    "launch_exe_cwd": {
-        "MouseCraft/MouseCraft.exe": "MouseCraft"
-    },
     "steam": {
         "appid": "252750",
         "appurl": "https://store.steampowered.com/app/252750",

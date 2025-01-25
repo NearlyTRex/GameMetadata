@@ -4,25 +4,6 @@
         "Shapeshifting Detective, The (USA).7z.002",
         "Shapeshifting Detective, The (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Shapeshifting Detective, The (USA).exe"
-    ],
-    "launch_exe": [
-        "The Shapeshifting Detective/ShapeshiftingDetective.exe"
-    ],
-    "launch_exe_cwd": {
-        "The Shapeshifting Detective/ShapeshiftingDetective.exe": "The Shapeshifting Detective"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "898650",
         "appurl": "https://store.steampowered.com/app/898650",

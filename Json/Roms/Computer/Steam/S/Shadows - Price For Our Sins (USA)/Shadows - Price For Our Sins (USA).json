@@ -2,22 +2,6 @@
     "files": [
         "Shadows - Price For Our Sins (USA).7z"
     ],
-    "launch_exe": [
-        "Shadows. Price for our sins.exe"
-    ],
-    "launch_exe_cwd": {
-        "Shadows. Price for our sins.exe": "."
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "1788940",
         "appurl": "https://store.steampowered.com/app/1788940",

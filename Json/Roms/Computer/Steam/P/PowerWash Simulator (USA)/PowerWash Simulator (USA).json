@@ -4,15 +4,6 @@
         "PowerWash Simulator (USA).7z.002",
         "PowerWash Simulator (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/PowerWash Simulator (USA).exe"
-    ],
-    "launch_exe": [
-        "PowerWash Simulator/PowerWashSimulator.exe"
-    ],
-    "launch_exe_cwd": {
-        "PowerWash Simulator/PowerWashSimulator.exe": "PowerWash Simulator"
-    },
     "steam": {
         "appid": "1290000",
         "appurl": "https://store.steampowered.com/app/1290000",

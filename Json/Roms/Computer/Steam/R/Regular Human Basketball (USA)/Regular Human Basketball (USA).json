@@ -2,15 +2,6 @@
     "files": [
         "Regular Human Basketball (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Regular Human Basketball (USA).exe"
-    ],
-    "launch_exe": [
-        "Regular Human Basketball/RegularHumanBasketball.exe"
-    ],
-    "launch_exe_cwd": {
-        "Regular Human Basketball/RegularHumanBasketball.exe": "Regular Human Basketball"
-    },
     "steam": {
         "appid": "661940",
         "appurl": "https://store.steampowered.com/app/661940",

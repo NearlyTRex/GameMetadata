@@ -2,15 +2,6 @@
     "files": [
         "Halcyon 6 - Lightspeed Edition (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Halcyon 6 - Lightspeed Edition (USA).exe"
-    ],
-    "launch_exe": [
-        "Halcyon 6 - Lightspeed Edition/H6.exe"
-    ],
-    "launch_exe_cwd": {
-        "Halcyon 6 - Lightspeed Edition/H6.exe": "Halcyon 6 - Lightspeed Edition"
-    },
     "steam": {
         "appid": "651660",
         "appurl": "https://store.steampowered.com/app/651660",

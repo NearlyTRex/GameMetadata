@@ -8,15 +8,6 @@
         "Resident Evil 3 Remake (USA).7z.006",
         "Resident Evil 3 Remake (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil 3 Remake (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil 3 Remake/re3.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil 3 Remake/re3.exe": "Resident Evil 3 Remake"
-    },
     "steam": {
         "appid": "952060",
         "appurl": "https://store.steampowered.com/app/952060",

@@ -2,12 +2,6 @@
     "files": [
         "Crimsonland (USA) (9959747).7z"
     ],
-    "launch_exe": [
-        "Crimsonland/Crimsonland.exe"
-    ],
-    "launch_exe_cwd": {
-        "Crimsonland/Crimsonland.exe": "Crimsonland"
-    },
     "steam": {
         "appid": "262830",
         "appurl": "https://store.steampowered.com/app/262830",

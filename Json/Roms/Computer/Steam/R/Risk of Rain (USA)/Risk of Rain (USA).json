@@ -2,15 +2,6 @@
     "files": [
         "Risk of Rain (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Risk of Rain (USA).exe"
-    ],
-    "launch_exe": [
-        "Risk of Rain/Risk of Rain.exe"
-    ],
-    "launch_exe_cwd": {
-        "Risk of Rain/Risk of Rain.exe": "Risk of Rain"
-    },
     "steam": {
         "appid": "248820",
         "appurl": "https://store.steampowered.com/app/248820",

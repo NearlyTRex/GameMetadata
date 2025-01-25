@@ -2,12 +2,6 @@
     "files": [
         "Armello (USA) (10109492).7z"
     ],
-    "launch_exe": [
-        "Armello/armello.exe"
-    ],
-    "launch_exe_cwd": {
-        "Armello/armello.exe": "Armello"
-    },
     "steam": {
         "appid": "290340",
         "appurl": "https://store.steampowered.com/app/290340",

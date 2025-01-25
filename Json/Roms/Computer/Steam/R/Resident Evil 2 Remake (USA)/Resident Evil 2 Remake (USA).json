@@ -8,15 +8,6 @@
         "Resident Evil 2 Remake (USA).7z.006",
         "Resident Evil 2 Remake (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil 2 Remake (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil 2 Remake/re2.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil 2 Remake/re2.exe": "Resident Evil 2 Remake"
-    },
     "steam": {
         "appid": "883710",
         "appurl": "https://store.steampowered.com/app/883710",

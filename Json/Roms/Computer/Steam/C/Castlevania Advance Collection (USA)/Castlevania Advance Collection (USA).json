@@ -2,22 +2,6 @@
     "files": [
         "Castlevania Advance Collection (USA) (7039365).7z"
     ],
-    "launch_exe": [
-        "Castlevania Advance Collection/game.exe"
-    ],
-    "launch_exe_cwd": {
-        "Castlevania Advance Collection/game.exe": "Castlevania Advance Collection"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "1552550",
         "appurl": "https://store.steampowered.com/app/1552550",

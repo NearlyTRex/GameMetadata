@@ -16,15 +16,6 @@
         "Resident Evil 4 Remake (USA).7z.014",
         "Resident Evil 4 Remake (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil 4 Remake (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil 4 Remake/re4.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil 4 Remake/re4.exe": "Resident Evil 4 Remake"
-    },
     "steam": {
         "appid": "2050650",
         "appurl": "https://store.steampowered.com/app/2050650",

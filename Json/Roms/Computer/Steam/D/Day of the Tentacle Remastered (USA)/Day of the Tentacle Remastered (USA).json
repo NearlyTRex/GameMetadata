@@ -2,15 +2,6 @@
     "files": [
         "Day of the Tentacle Remastered (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Day of the Tentacle Remastered (USA).exe"
-    ],
-    "launch_exe": [
-        "Day of the Tentacle Remastered/Dott.exe"
-    ],
-    "launch_exe_cwd": {
-        "Day of the Tentacle Remastered/Dott.exe": "Day of the Tentacle Remastered"
-    },
     "steam": {
         "appid": "388210",
         "appurl": "https://store.steampowered.com/app/388210",

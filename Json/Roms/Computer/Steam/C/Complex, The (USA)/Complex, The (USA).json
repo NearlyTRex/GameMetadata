@@ -4,22 +4,6 @@
         "Complex, The (USA) (12294997).7z.002",
         "Complex, The (USA) (12294997).7z.003"
     ],
-    "launch_exe": [
-        "The Complex/TheComplex.exe"
-    ],
-    "launch_exe_cwd": {
-        "The Complex/TheComplex.exe": "The Complex"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "1107790",
         "appurl": "https://store.steampowered.com/app/1107790",

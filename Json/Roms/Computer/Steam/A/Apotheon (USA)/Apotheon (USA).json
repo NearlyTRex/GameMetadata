@@ -2,12 +2,6 @@
     "files": [
         "Apotheon (USA) (6029102).7z"
     ],
-    "launch_exe": [
-        "Apotheon/Apotheon.exe"
-    ],
-    "launch_exe_cwd": {
-        "Apotheon/Apotheon.exe": "Apotheon"
-    },
     "steam": {
         "appid": "208750",
         "appurl": "https://store.steampowered.com/app/208750",

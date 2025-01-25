@@ -2,22 +2,6 @@
     "files": [
         "Castlevania Anniversary Collection (USA) (3872343).7z"
     ],
-    "launch_exe": [
-        "Castlevania Anniversary Collection/game.exe"
-    ],
-    "launch_exe_cwd": {
-        "Castlevania Anniversary Collection/game.exe": "Castlevania Anniversary Collection"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "1018010",
         "appurl": "https://store.steampowered.com/app/1018010",

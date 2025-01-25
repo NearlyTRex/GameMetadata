@@ -2,12 +2,6 @@
     "files": [
         "Assault Android Cactus (USA) (3789944).7z"
     ],
-    "launch_exe": [
-        "Assault Android Cactus/cactus.exe"
-    ],
-    "launch_exe_cwd": {
-        "Assault Android Cactus/cactus.exe": "Assault Android Cactus"
-    },
     "steam": {
         "appid": "250110",
         "appurl": "https://store.steampowered.com/app/250110",

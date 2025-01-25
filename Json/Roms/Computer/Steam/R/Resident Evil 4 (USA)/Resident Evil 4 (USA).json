@@ -5,25 +5,6 @@
         "Resident Evil 4 (USA).7z.003",
         "Resident Evil 4 (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil 4 (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil 4/Bin32/bio4.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil 4/Bin32/bio4.exe": "Resident Evil 4/Bin32"
-    },
-    "sandbox": {
-        "wine": {
-            "tricks": {
-                "game": [
-                    "d3dx9",
-                    "d3dcompiler_43"
-                ]
-            }
-        }
-    },
     "steam": {
         "appid": "254700",
         "appurl": "https://store.steampowered.com/app/254700",

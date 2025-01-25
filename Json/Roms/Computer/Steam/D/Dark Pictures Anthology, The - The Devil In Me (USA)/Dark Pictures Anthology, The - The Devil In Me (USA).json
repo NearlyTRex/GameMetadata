@@ -11,30 +11,6 @@
         "Dark Pictures Anthology, The - The Devil In Me (USA).7z.009",
         "Dark Pictures Anthology, The - The Devil In Me (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Dark Pictures Anthology, The - The Devil In Me (USA).exe"
-    ],
-    "launch_exe": [
-        "The Dark Pictures Anthology - The Devil In Me/TheDevilInMe.exe"
-    ],
-    "launch_exe_cwd": {
-        "The Dark Pictures Anthology - The Devil In Me/TheDevilInMe.exe": "The Dark Pictures Anthology - The Devil In Me"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "tricks": {
-                "game": [
-                    "vcrun2019"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "1567020",
         "appurl": "https://store.steampowered.com/app/1567020",

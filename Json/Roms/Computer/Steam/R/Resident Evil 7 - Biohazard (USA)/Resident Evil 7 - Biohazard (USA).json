@@ -16,15 +16,6 @@
         "Resident Evil 7 - Biohazard (USA).7z.014",
         "Resident Evil 7 - Biohazard (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Resident Evil 7 - Biohazard (USA).exe"
-    ],
-    "launch_exe": [
-        "Resident Evil 7 - Biohazard/re7.exe"
-    ],
-    "launch_exe_cwd": {
-        "Resident Evil 7 - Biohazard/re7.exe": "Resident Evil 7 - Biohazard"
-    },
     "steam": {
         "appid": "418370",
         "appurl": "https://store.steampowered.com/app/418370",

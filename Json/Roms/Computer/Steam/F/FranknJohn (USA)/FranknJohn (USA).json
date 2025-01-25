@@ -2,17 +2,6 @@
     "files": [
         "FranknJohn (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/FranknJohn (USA).exe"
-    ],
-    "launch_exe": [
-        "FranknJohn/FnJ_Arena_1.1/FNJArenaDemo.exe",
-        "FranknJohn/FranknJohn.exe"
-    ],
-    "launch_exe_cwd": {
-        "FranknJohn/FnJ_Arena_1.1/FNJArenaDemo.exe": "FranknJohn/FnJ_Arena_1.1",
-        "FranknJohn/FranknJohn.exe": "FranknJohn"
-    },
     "steam": {
         "appid": "305460",
         "appurl": "https://store.steampowered.com/app/305460",

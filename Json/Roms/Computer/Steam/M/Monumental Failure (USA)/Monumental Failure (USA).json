@@ -2,15 +2,6 @@
     "files": [
         "Monumental Failure (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Monumental Failure (USA).exe"
-    ],
-    "launch_exe": [
-        "Monumental Failure/MonumentalFailureWin32.exe"
-    ],
-    "launch_exe_cwd": {
-        "Monumental Failure/MonumentalFailureWin32.exe": "Monumental Failure"
-    },
     "steam": {
         "appid": "573300",
         "appurl": "https://store.steampowered.com/app/573300",

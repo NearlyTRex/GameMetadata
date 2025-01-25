@@ -4,25 +4,6 @@
         "Late Shift (USA).7z.002",
         "Late Shift (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Late Shift (USA).exe"
-    ],
-    "launch_exe": [
-        "Late Shift/LateShift.exe"
-    ],
-    "launch_exe_cwd": {
-        "Late Shift/LateShift.exe": "Late Shift"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "584980",
         "appurl": "https://store.steampowered.com/app/584980",

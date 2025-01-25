@@ -5,15 +5,6 @@
         "Song of Horror (USA).7z.003",
         "Song of Horror (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Song of Horror (USA).exe"
-    ],
-    "launch_exe": [
-        "Song of Horror/SongOfHorror.exe"
-    ],
-    "launch_exe_cwd": {
-        "Song of Horror/SongOfHorror.exe": "Song of Horror"
-    },
     "steam": {
         "appid": "1096570",
         "appurl": "https://store.steampowered.com/app/1096570",

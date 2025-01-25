@@ -2,25 +2,6 @@
     "files": [
         "Dead Cells (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Dead Cells (USA).exe"
-    ],
-    "launch_exe": [
-        "Dead Cells/deadcells.exe"
-    ],
-    "launch_exe_cwd": {
-        "Dead Cells/deadcells.exe": "Dead Cells"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "588650",
         "appurl": "https://store.steampowered.com/app/588650",

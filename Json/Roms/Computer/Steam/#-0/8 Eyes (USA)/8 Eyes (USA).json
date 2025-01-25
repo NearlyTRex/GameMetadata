@@ -2,12 +2,6 @@
     "files": [
         "8 Eyes (USA).7z"
     ],
-    "launch_exe": [
-        "8 eyes.exe"
-    ],
-    "launch_exe_cwd": {
-        "8 eyes.exe": "."
-    },
     "steam": {
         "appid": "1136080",
         "appurl": "https://store.steampowered.com/app/1136080",

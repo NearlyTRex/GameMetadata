@@ -2,15 +2,6 @@
     "files": [
         "Nosferatu - The Wrath of Malachi (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Nosferatu - The Wrath of Malachi (USA).exe"
-    ],
-    "launch_exe": [
-        "Nosferatu - The Wrath of Malachi/Nosferatu.exe"
-    ],
-    "launch_exe_cwd": {
-        "Nosferatu - The Wrath of Malachi/Nosferatu.exe": "Nosferatu - The Wrath of Malachi"
-    },
     "steam": {
         "appid": "283290",
         "appurl": "https://store.steampowered.com/app/283290",

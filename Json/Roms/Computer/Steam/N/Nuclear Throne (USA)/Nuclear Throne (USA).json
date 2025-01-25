@@ -2,15 +2,6 @@
     "files": [
         "Nuclear Throne (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Nuclear Throne (USA).exe"
-    ],
-    "launch_exe": [
-        "Nuclear Throne/nuclearthrone.exe"
-    ],
-    "launch_exe_cwd": {
-        "Nuclear Throne/nuclearthrone.exe": "Nuclear Throne"
-    },
     "steam": {
         "appid": "242680",
         "appurl": "https://store.steampowered.com/app/242680",

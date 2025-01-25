@@ -2,15 +2,6 @@
     "files": [
         "Warlock of Firetop Mountain, The (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Warlock of Firetop Mountain, The (USA).exe"
-    ],
-    "launch_exe": [
-        "The Warlock of Firetop Mountain/The Warlock of Firetop Mountain.exe"
-    ],
-    "launch_exe_cwd": {
-        "The Warlock of Firetop Mountain/The Warlock of Firetop Mountain.exe": "The Warlock of Firetop Mountain"
-    },
     "steam": {
         "appid": "324740",
         "appurl": "https://store.steampowered.com/app/324740",

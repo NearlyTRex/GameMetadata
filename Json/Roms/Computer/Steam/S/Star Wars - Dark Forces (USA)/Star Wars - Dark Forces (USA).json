@@ -2,12 +2,6 @@
     "files": [
         "Star Wars - Dark Forces (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Star Wars - Dark Forces (USA).exe"
-    ],
-    "launch_exe": [
-        "Star Wars - Dark Forces/DosBox/dosbox.exe"
-    ],
     "launch_exe_args": {
         "Star Wars - Dark Forces/DosBox/dosbox.exe": [
             "-conf",
@@ -16,9 +10,6 @@
             "-c",
             "exit"
         ]
-    },
-    "launch_exe_cwd": {
-        "Star Wars - Dark Forces/DosBox/dosbox.exe": "Star Wars - Dark Forces"
     },
     "steam": {
         "appid": "32400",

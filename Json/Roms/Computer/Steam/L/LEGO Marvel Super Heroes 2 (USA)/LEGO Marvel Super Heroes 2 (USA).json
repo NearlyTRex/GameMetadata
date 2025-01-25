@@ -8,25 +8,6 @@
         "LEGO Marvel Super Heroes 2 (USA).7z.006",
         "LEGO Marvel Super Heroes 2 (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/LEGO Marvel Super Heroes 2 (USA).exe"
-    ],
-    "launch_exe": [
-        "LEGO Marvel Super Heroes 2/LEGOMARVEL2_DX11.exe"
-    ],
-    "launch_exe_cwd": {
-        "LEGO Marvel Super Heroes 2/LEGOMARVEL2_DX11.exe": "LEGO Marvel Super Heroes 2"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steam": {
         "appid": "647830",
         "appurl": "https://store.steampowered.com/app/647830",

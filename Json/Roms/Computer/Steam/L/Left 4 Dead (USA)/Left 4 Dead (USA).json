@@ -2,15 +2,6 @@
     "files": [
         "Left 4 Dead (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Left 4 Dead (USA).exe"
-    ],
-    "launch_exe": [
-        "Left 4 Dead/left4dead.exe"
-    ],
-    "launch_exe_cwd": {
-        "Left 4 Dead/left4dead.exe": "Left 4 Dead"
-    },
     "steam": {
         "appid": "500",
         "appurl": "https://store.steampowered.com/app/500",

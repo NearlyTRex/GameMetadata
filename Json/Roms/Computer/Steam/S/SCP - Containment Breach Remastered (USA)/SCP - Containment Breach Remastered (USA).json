@@ -2,15 +2,6 @@
     "files": [
         "SCP - Containment Breach Remastered (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/SCP - Containment Breach Remastered (USA).exe"
-    ],
-    "launch_exe": [
-        "SCP - Containment Breach Remastered/SCPCBR.exe"
-    ],
-    "launch_exe_cwd": {
-        "SCP - Containment Breach Remastered/SCPCBR.exe": "SCP - Containment Breach Remastered"
-    },
     "steam": {
         "appid": "2090230",
         "appurl": "https://store.steampowered.com/app/2090230",
