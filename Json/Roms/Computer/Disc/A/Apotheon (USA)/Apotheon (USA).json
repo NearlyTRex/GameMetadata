@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "b2a6af72-75f3-4239-beb3-c631f4ea23e7",
+        "appname": "apotheon",
+        "keys": [],
+        "launch": [],
+        "name": "Apotheon",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Apotheon_Windows.zip",
+                    "to": "HDD_MAIN_ROOT/Apotheon_Windows",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Apotheon (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Apotheon_Windows.zip",
-                "to": "HDD_MAIN_ROOT/Apotheon_Windows",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Apotheon (USA).chd"
 }

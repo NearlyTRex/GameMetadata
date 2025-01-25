@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "2fce1e81-cc60-4db6-b8e1-e220072a049c",
+        "appname": "ancients_ii_approaching_evil",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ANC2",
+                "exe": "BEGIN.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Ancients II - Approaching Evil",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.BAT",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Ancients II - Approaching Evil (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.BAT",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "ANC2/BEGIN.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "ANC2/BEGIN.EXE": "ANC2"
-    },
     "transform_file": "Ancients II - Approaching Evil (USA).chd"
 }

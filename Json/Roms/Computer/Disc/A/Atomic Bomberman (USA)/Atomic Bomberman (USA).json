@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "85c5807d-fa6c-40c6-a464-4e8a94b53906",
+        "appname": "atomic_bomberman",
+        "keys": [],
+        "launch": [],
+        "name": "Atomic Bomberman",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Atomic Bomberman (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Atomic Bomberman (USA).chd"
 }

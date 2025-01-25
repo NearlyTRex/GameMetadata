@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "387e9689-7de5-4935-870e-f88b97b9f912",
+        "appname": "armello",
+        "keys": [],
+        "launch": [],
+        "name": "Armello",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Armello-1.0-windows-installer.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Armello (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Armello-1.0-windows-installer.exe",
     "transform_file": "Armello (USA).chd"
 }

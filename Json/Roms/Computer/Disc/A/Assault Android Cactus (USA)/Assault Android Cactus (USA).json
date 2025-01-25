@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "274c25b0-1150-47dc-9239-af6a91bd82aa",
+        "appname": "assault_android_cactus",
+        "keys": [],
+        "launch": [],
+        "name": "Assault Android Cactus",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/AAC Windows",
+                    "to": "HDD_MAIN_ROOT/AAC Windows",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Assault Android Cactus (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/AAC Windows",
-                "to": "HDD_MAIN_ROOT/AAC Windows",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Assault Android Cactus (USA).chd"
 }

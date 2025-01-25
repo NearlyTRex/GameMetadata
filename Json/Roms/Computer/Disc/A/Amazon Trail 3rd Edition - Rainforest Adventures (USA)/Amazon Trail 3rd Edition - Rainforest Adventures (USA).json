@@ -9,7 +9,8 @@
         "setup": {
             "install": [
                 {
-                    "exe": "DISC_MAIN_ROOT/SETUP.EXE"
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SETUP.EXE"
                 }
             ]
         }

@@ -6,7 +6,6 @@
         "keys": [],
         "launch": [
             {
-                "args": [],
                 "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Amnesia - The Dark Descent/redist",
                 "exe": "Amnesia.exe"
             }
@@ -15,7 +14,8 @@
         "setup": {
             "install": [
                 {
-                    "exe": "DISC_MAIN_ROOT/setup.exe",
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe",
                     "serial": "11111111111111"
                 }
             ]

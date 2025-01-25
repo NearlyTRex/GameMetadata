@@ -1,13 +1,32 @@
 {
+    "disc": {
+        "appid": "dee2267a-706c-45b4-81de-4aba551be79c",
+        "appname": "arx_fatalis",
+        "keys": [],
+        "launch": [],
+        "name": "Arx Fatalis",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "ArxFatalis_1.21_MULTILANG.exe"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "arx-libertatis-1.2.1-windows.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Arx Fatalis (USA) (Update).chd",
         "Arx Fatalis (USA).chd",
         "Arx Fatalis (USA).m3u"
-    ],
-    "installer_exe": [
-        "DISC_MAIN_ROOT/setup.exe",
-        "DISC_UPDATE_ROOT/ArxFatalis_1.21_MULTILANG.exe",
-        "DISC_UPDATE_ROOT/arx-libertatis-1.2.1-windows.exe"
     ],
     "transform_file": "Arx Fatalis (USA).m3u"
 }

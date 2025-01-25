@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "701e6cfa-d456-482a-9e8e-6d71f81ab629",
+        "appname": "atari_80_classic_games_in_one",
+        "keys": [],
+        "launch": [],
+        "name": "Atari - 80 Classic Games In One",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Atari - 80 Classic Games In One (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Atari - 80 Classic Games In One (USA).chd"
 }

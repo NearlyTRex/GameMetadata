@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "1689ce84-4df0-4e4b-b911-73636d0a12a8",
+        "appname": "axiom_verge",
+        "keys": [],
+        "launch": [],
+        "name": "Axiom Verge",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Axiom Verge - Windows.zip",
+                    "to": "HDD_MAIN_ROOT/Axiom Verge - Windows",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Axiom Verge (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Axiom Verge - Windows.zip",
-                "to": "HDD_MAIN_ROOT/Axiom Verge - Windows",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Axiom Verge (USA).chd"
 }

@@ -9,10 +9,12 @@
         "setup": {
             "install": [
                 {
-                    "exe": "DISC_ONE_ROOT/AOESETUP.EXE"
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "AOESETUP.EXE"
                 },
                 {
-                    "exe": "DISC_TWO_ROOT/AOCSETUP.EXE"
+                    "cwd": "DISC_TWO_ROOT",
+                    "exe": "AOCSETUP.EXE"
                 }
             ]
         }
