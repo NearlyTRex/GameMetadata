@@ -21,8 +21,5 @@
         "name": "Avernum 3",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_avernum3_2.1.0.4.exe"
-    ],
     "transform_file": "setup_avernum3_2.1.0.4.exe"
 }

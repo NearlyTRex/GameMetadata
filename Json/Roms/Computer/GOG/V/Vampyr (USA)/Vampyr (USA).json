@@ -23,9 +23,5 @@
         "name": "Vampyr",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_vampyr_1.1.7_(64bit)_(45305).exe",
-        "SETUP_MAIN_ROOT/dlc/setup_vampyr_-_the_hunters_heirlooms_dlc_1.1.7_(64bit)_(45305).exe"
-    ],
     "transform_file": "setup_vampyr_1.1.7_(64bit)_(45305).exe"
 }

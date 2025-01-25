@@ -11,14 +11,5 @@
         "name": "Lovecraft's Untold Stories",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_lovecrafts_untold_stories_1.35_(67308).exe"
-    ],
-    "launch_exe": [
-        "GOG Games/Lovecraft's Untold Stories/lus.exe"
-    ],
-    "launch_exe_cwd": {
-        "GOG Games/Lovecraft's Untold Stories/lus.exe": "GOG Games/Lovecraft's Untold Stories"
-    },
     "transform_file": "setup_lovecrafts_untold_stories_1.35_(67308).exe"
 }

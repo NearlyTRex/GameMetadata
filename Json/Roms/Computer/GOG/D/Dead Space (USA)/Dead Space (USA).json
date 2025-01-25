@@ -22,8 +22,5 @@
         "name": "Dead Space\u2122",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_dead_space_2.0.0.2.exe"
-    ],
     "transform_file": "setup_dead_space_2.0.0.2.exe"
 }

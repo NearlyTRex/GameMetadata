@@ -12,8 +12,5 @@
         "name": "CAYNE",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_cayne_2.0.0.2.exe"
-    ],
     "transform_file": "setup_cayne_2.0.0.2.exe"
 }

@@ -17,14 +17,5 @@
         "name": "Amnesia: The Dark Descent",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_amnesia_-_the_dark_descent_1.41b_(41677).exe"
-    ],
-    "launch_exe": [
-        "GOG Games/Amnesia - The Dark Descent/Amnesia.exe"
-    ],
-    "launch_exe_cwd": {
-        "GOG Games/Amnesia - The Dark Descent/Amnesia.exe": "GOG Games/Amnesia - The Dark Descent"
-    },
     "transform_file": "setup_amnesia_-_the_dark_descent_1.41b_(41677).exe"
 }

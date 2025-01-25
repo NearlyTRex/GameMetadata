@@ -15,8 +15,5 @@
         "name": "Warsow",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_warsow_2.4.0.18.exe"
-    ],
     "transform_file": "setup_warsow_2.4.0.18.exe"
 }

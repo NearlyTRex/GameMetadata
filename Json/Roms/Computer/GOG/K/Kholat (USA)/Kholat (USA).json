@@ -28,14 +28,5 @@
         "name": "Kholat",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_kholat_1.03a_(64bit)_(40572).exe"
-    ],
-    "launch_exe": [
-        "GOG Games/Kholat/Kholat/Binaries/Win64/Kholat-Win64-Shipping.exe"
-    ],
-    "launch_exe_cwd": {
-        "GOG Games/Kholat/Kholat/Binaries/Win64/Kholat-Win64-Shipping.exe": "GOG Games/Kholat/Kholat/Binaries/Win64"
-    },
     "transform_file": "setup_kholat_1.03a_(64bit)_(40572).exe"
 }

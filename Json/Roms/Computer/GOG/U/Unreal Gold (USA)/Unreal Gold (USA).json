@@ -17,8 +17,5 @@
         "name": "Unreal Gold",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_unreal_gold_2.0.0.6.exe"
-    ],
     "transform_file": "setup_unreal_gold_2.0.0.6.exe"
 }

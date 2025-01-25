@@ -34,13 +34,5 @@
         "name": "War for the Overworld",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe",
-        "SETUP_MAIN_ROOT/dlc/setup_crucible_v2.1.0f4_(64bit)_(55093).exe",
-        "SETUP_MAIN_ROOT/dlc/setup_heart_of_gold_v2.1.0f4_(64bit)_(55093).exe",
-        "SETUP_MAIN_ROOT/dlc/setup_my_pet_dungeon_v2.1.0f4_(64bit)_(55093).exe",
-        "SETUP_MAIN_ROOT/dlc/setup_the_undergames_v2.1.0f4_(64bit)_(55093).exe",
-        "SETUP_MAIN_ROOT/dlc/setup_underlord_edition_content_v2.1.0f4_(64bit)_(55093).exe"
-    ],
     "transform_file": "setup_war_for_the_overworld_v2.1.0f4_(64bit)_(55093).exe"
 }

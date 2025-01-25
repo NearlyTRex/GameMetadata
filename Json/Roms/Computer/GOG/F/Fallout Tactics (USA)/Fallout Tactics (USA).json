@@ -39,8 +39,5 @@
         "name": "Fallout Tactics Classic",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_fallout_tactics_2.1.0.12.exe"
-    ],
     "transform_file": "setup_fallout_tactics_2.1.0.12.exe"
 }

@@ -21,14 +21,5 @@
         "name": "Dungeon Keeper\u2122 2",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_dungeon_keeper_2_1.7_(22280).exe"
-    ],
-    "launch_exe": [
-        "GOG Games/Dungeon Keeper 2/DKII-DX.exe"
-    ],
-    "launch_exe_cwd": {
-        "GOG Games/Dungeon Keeper 2/DKII-DX.exe": "GOG Games/Dungeon Keeper 2"
-    },
     "transform_file": "setup_dungeon_keeper_2_1.7_(22280).exe"
 }

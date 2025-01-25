@@ -44,8 +44,5 @@
         "name": "STASIS",
         "paths": []
     },
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/setup_stasis_1.09.1_(21441).exe"
-    ],
     "transform_file": "setup_stasis_1.09.1_(21441).exe"
 }
