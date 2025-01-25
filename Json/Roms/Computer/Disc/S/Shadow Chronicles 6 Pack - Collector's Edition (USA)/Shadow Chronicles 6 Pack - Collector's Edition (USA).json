@@ -21,12 +21,6 @@
     },
     "sandbox": {
         "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true,
             "use_virtual_desktop": true
         }
     },

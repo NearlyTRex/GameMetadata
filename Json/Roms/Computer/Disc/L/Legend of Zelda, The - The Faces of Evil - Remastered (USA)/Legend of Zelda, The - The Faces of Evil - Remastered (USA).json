@@ -8,16 +8,6 @@
     "launch_exe_cwd": {
         "Zelda Faces of Evil/FOER.exe": "Zelda Faces of Evil"
     },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "d3d9,d3d10core,d3d11,dxgi=n,b"
-                ]
-            },
-            "use_dxvk": true
-        }
-    },
     "steps": {
         "preinstall": [
             {
