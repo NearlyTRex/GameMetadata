@@ -2,8 +2,5 @@
     "files": [
         "Crowntakers.exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Crowntakers.exe"
-    ],
     "transform_file": "Crowntakers.exe"
 }

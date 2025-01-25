@@ -8,8 +8,5 @@
         "extra/chipzel_-_super_hexagon_ep-mp3.zip",
         "super_hexagon-windows.exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/super_hexagon-windows.exe"
-    ],
     "transform_file": "super_hexagon-windows.exe"
 }

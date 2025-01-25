@@ -8,8 +8,5 @@
         "extra/splice-ost-flac.zip",
         "extra/splice-ost-mp3.zip"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Splice_Win32.exe"
-    ],
     "transform_file": "Splice_Win32.exe"
 }

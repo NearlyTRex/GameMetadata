@@ -8,8 +8,5 @@
         "extra/Limbo_Soundtrack_FLAC.zip",
         "extra/Limbo_Soundtrack_MP3.zip"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/LIMBOInstaller.exe"
-    ],
     "transform_file": "LIMBOInstaller.exe"
 }
