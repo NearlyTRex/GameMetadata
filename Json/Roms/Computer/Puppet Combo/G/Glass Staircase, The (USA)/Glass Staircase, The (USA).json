@@ -2,14 +2,5 @@
     "files": [
         "Glass Staircase, The (USA).exe"
     ],
-    "installer_exe": [
-        "SETUP_MAIN_ROOT/Glass Staircase, The (USA).exe"
-    ],
-    "launch_exe": [
-        "The Glass Staircase/The Glass Staircase (Windows) 1.04/The Glass Staircase/The Glass Staircase.exe"
-    ],
-    "launch_exe_cwd": {
-        "The Glass Staircase/The Glass Staircase (Windows) 1.04/The Glass Staircase/The Glass Staircase.exe": "The Glass Staircase/The Glass Staircase (Windows) 1.04/The Glass Staircase"
-    },
     "transform_file": "Glass Staircase, The (USA).exe"
 }
