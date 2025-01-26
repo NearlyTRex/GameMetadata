@@ -2,5 +2,8 @@
     "files": [
         "crawl-1-0-1-win.exe"
     ],
+    "humble": {
+        "appname": "crawl"
+    },
     "transform_file": "crawl-1-0-1-win.exe"
 }

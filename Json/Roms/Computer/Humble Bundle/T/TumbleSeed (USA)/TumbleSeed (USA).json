@@ -2,5 +2,8 @@
     "files": [
         "TumbleSeed_WIN_4Peaks.exe"
     ],
+    "humble": {
+        "appname": "tumbleseed"
+    },
     "transform_file": "TumbleSeed_WIN_4Peaks.exe"
 }

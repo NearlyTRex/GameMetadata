@@ -2,5 +2,8 @@
     "files": [
         "handoffate_humble_win32_53277.1.exe"
     ],
+    "humble": {
+        "appname": "handoffate"
+    },
     "transform_file": "handoffate_humble_win32_53277.1.exe"
 }

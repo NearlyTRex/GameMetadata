@@ -8,5 +8,8 @@
         "extra/Limbo_Soundtrack_FLAC.zip",
         "extra/Limbo_Soundtrack_MP3.zip"
     ],
+    "humble": {
+        "appname": "limbo"
+    },
     "transform_file": "LIMBOInstaller.exe"
 }

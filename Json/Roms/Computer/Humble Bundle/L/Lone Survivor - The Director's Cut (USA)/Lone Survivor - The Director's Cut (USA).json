@@ -2,5 +2,8 @@
     "files": [
         "LoneSurvivor-PC.exe"
     ],
+    "humble": {
+        "appname": "lonesurvivor"
+    },
     "transform_file": "LoneSurvivor-PC.exe"
 }

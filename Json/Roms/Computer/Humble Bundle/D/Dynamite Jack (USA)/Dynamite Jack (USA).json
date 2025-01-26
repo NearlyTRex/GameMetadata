@@ -2,5 +2,8 @@
     "files": [
         "DynamiteJack-125.exe"
     ],
+    "humble": {
+        "appname": "dynamitejack_android_pc"
+    },
     "transform_file": "DynamiteJack-125.exe"
 }

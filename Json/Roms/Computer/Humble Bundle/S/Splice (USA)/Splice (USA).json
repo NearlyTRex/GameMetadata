@@ -8,5 +8,8 @@
         "extra/splice-ost-flac.zip",
         "extra/splice-ost-mp3.zip"
     ],
+    "humble": {
+        "appname": "splice"
+    },
     "transform_file": "Splice_Win32.exe"
 }

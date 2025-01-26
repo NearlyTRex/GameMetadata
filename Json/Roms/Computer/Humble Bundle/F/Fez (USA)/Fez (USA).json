@@ -2,5 +2,8 @@
     "files": [
         "FEZ-Windows-11282016.exe"
     ],
+    "humble": {
+        "appname": "fez_bundle"
+    },
     "transform_file": "FEZ-Windows-11282016.exe"
 }

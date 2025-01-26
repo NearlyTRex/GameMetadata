@@ -2,5 +2,8 @@
     "files": [
         "StrataWindowsj4.exe"
     ],
+    "humble": {
+        "appname": "strata"
+    },
     "transform_file": "StrataWindowsj4.exe"
 }

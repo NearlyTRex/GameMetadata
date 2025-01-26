@@ -12,5 +12,8 @@
         "extra/psychonauts_score_mp3.zip",
         "extra/psychonauts_soundtrack_mp3.zip"
     ],
+    "humble": {
+        "appname": "psychonauts"
+    },
     "transform_file": "Psychonauts_Win.exe"
 }

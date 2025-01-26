@@ -2,5 +2,8 @@
     "files": [
         "Spookening_Windows.exe"
     ],
+    "humble": {
+        "appname": "thespookening"
+    },
     "transform_file": "Spookening_Windows.exe"
 }

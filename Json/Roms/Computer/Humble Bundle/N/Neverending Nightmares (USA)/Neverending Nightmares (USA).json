@@ -2,5 +2,8 @@
     "files": [
         "NeverendingNightmares-3.0.22218.msi"
     ],
+    "humble": {
+        "appname": "neverendingnightmares"
+    },
     "transform_file": "NeverendingNightmares-3.0.22218.msi"
 }

@@ -2,5 +2,8 @@
     "files": [
         "home-windows-v1.6.3.exe"
     ],
+    "humble": {
+        "appname": "home"
+    },
     "transform_file": "home-windows-v1.6.3.exe"
 }

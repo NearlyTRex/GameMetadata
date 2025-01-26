@@ -8,5 +8,8 @@
         "extra/chipzel_-_super_hexagon_ep-mp3.zip",
         "super_hexagon-windows.exe"
     ],
+    "humble": {
+        "appname": "superhexagon_android_pc"
+    },
     "transform_file": "super_hexagon-windows.exe"
 }

@@ -8,5 +8,8 @@
         "extra/braid_ost_flac_1433448506.zip",
         "extra/braid_ost_mp3_1433448506.zip"
     ],
+    "humble": {
+        "appname": "braid"
+    },
     "transform_file": "BraidSetup1448938528.exe"
 }

@@ -8,5 +8,8 @@
         "extra/AmnesiaOST_FLAC.zip",
         "extra/AmnesiaOST_MP3.zip"
     ],
+    "humble": {
+        "appname": "amnesia"
+    },
     "transform_file": "Amnesia_The_Dark_Decent.exe"
 }

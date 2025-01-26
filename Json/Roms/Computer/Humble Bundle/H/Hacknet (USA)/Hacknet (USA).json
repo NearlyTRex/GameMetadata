@@ -1,10 +1,9 @@
 {
-    "extra": [
-        "hacknet_labyrinths_1515459649.zip"
-    ],
     "files": [
-        "Hacknet_v5.069B_Standalone_WIN.exe",
-        "extra/hacknet_labyrinths_1515459649.zip"
+        "Hacknet_v5.069B_Standalone_WIN.exe"
     ],
+    "humble": {
+        "appname": "hacknet"
+    },
     "transform_file": "Hacknet_v5.069B_Standalone_WIN.exe"
 }

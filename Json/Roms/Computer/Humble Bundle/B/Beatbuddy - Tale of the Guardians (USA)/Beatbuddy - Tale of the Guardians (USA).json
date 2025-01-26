@@ -2,5 +2,8 @@
     "files": [
         "BeatbuddyWindows.exe"
     ],
+    "humble": {
+        "appname": "beatbuddy"
+    },
     "transform_file": "BeatbuddyWindows.exe"
 }

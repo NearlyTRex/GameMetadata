@@ -2,5 +2,8 @@
     "files": [
         "Crowntakers.exe"
     ],
+    "humble": {
+        "appname": "crowntakers"
+    },
     "transform_file": "Crowntakers.exe"
 }

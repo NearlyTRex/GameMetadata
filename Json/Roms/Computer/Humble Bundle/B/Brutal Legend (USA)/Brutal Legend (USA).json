@@ -8,5 +8,8 @@
         "extra/brutal_legend_ost_flac.zip",
         "extra/brutallegend_ost_mp3.zip"
     ],
+    "humble": {
+        "appname": "brutallegend"
+    },
     "transform_file": "Brutal_Legend_win_2013-04-28.exe"
 }

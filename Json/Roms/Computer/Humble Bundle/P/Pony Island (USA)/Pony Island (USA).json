@@ -2,5 +2,8 @@
     "files": [
         "ponyisland_windows_v1.20.exe"
     ],
+    "humble": {
+        "appname": "ponyisland"
+    },
     "transform_file": "ponyisland_windows_v1.20.exe"
 }
