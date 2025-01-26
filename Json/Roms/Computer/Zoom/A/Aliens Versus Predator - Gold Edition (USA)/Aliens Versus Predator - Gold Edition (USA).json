@@ -10,5 +10,9 @@
         "extra/Aliens-Versus-Predator-Classic-2000-Setup-1.1.zip",
         "extra/Aliens-versus-Predator-Gold-Manual-1.0.pdf"
     ],
-    "transform_file": "Aliens-Versus-Predator-Gold-Edition-Setup-1.1.exe"
+    "transform_file": "Aliens-Versus-Predator-Gold-Edition-Setup-1.1.exe",
+    "zoom": {
+        "appname": "aliens-vs-predator-gold-edition",
+        "appurl": "https://www.zoom-platform.com/product/aliens-vs-predator-gold-edition"
+    }
 }

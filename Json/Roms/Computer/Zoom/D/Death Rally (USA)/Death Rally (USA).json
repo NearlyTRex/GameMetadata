@@ -6,5 +6,9 @@
         "Death-Rally-English-Setup-1.1.exe",
         "extra/Death-Rally-Manual-1.0.pdf"
     ],
-    "transform_file": "Death-Rally-English-Setup-1.1.exe"
+    "transform_file": "Death-Rally-English-Setup-1.1.exe",
+    "zoom": {
+        "appname": "death-rally",
+        "appurl": "https://www.zoom-platform.com/product/death-rally"
+    }
 }

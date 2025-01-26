@@ -6,5 +6,9 @@
         "Pharaoh's-Tomb-English-Setup-1.0.exe",
         "extra/Pharaoh's-Tomb-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Pharaoh's-Tomb-English-Setup-1.0.exe"
+    "transform_file": "Pharaoh's-Tomb-English-Setup-1.0.exe",
+    "zoom": {
+        "appname": "pharaohs-tomb",
+        "appurl": "https://www.zoom-platform.com/product/pharaohs-tomb"
+    }
 }

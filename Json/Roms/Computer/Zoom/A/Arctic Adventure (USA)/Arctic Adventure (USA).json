@@ -6,5 +6,9 @@
         "Arctic-Adventure-English-Setup-1.0.exe",
         "extra/Arctic-Adventure-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Arctic-Adventure-English-Setup-1.0.exe"
+    "transform_file": "Arctic-Adventure-English-Setup-1.0.exe",
+    "zoom": {
+        "appname": "arctic-adventure",
+        "appurl": "https://www.zoom-platform.com/product/arctic-adventure"
+    }
 }

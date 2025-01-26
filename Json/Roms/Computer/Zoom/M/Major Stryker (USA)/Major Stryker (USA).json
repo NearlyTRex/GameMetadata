@@ -6,5 +6,9 @@
         "Major-Stryker-English-Setup-1.0.exe",
         "extra/Major-Stryker-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Major-Stryker-English-Setup-1.0.exe"
+    "transform_file": "Major-Stryker-English-Setup-1.0.exe",
+    "zoom": {
+        "appname": "major-stryker",
+        "appurl": "https://www.zoom-platform.com/product/major-stryker"
+    }
 }

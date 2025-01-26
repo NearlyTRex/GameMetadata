@@ -2,5 +2,9 @@
     "files": [
         "Bio-Menace-English-Setup-1.1.exe"
     ],
-    "transform_file": "Bio-Menace-English-Setup-1.1.exe"
+    "transform_file": "Bio-Menace-English-Setup-1.1.exe",
+    "zoom": {
+        "appname": "bio-menace",
+        "appurl": "https://www.zoom-platform.com/product/bio-menace"
+    }
 }

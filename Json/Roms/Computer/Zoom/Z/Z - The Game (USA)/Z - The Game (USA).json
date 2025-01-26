@@ -2,5 +2,9 @@
     "files": [
         "Z-The-Game-English-Setup-1.2.exe"
     ],
-    "transform_file": "Z-The-Game-English-Setup-1.2.exe"
+    "transform_file": "Z-The-Game-English-Setup-1.2.exe",
+    "zoom": {
+        "appname": "z-the-game",
+        "appurl": "https://www.zoom-platform.com/product/z-the-game"
+    }
 }

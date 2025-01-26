@@ -6,5 +6,9 @@
         "extra/Warzone-2100-Manual-1.0.pdf",
         "warzone2100_win_x64_installer.exe"
     ],
-    "transform_file": "warzone2100_win_x64_installer.exe"
+    "transform_file": "warzone2100_win_x64_installer.exe",
+    "zoom": {
+        "appname": "warzone-2100",
+        "appurl": "https://www.zoom-platform.com/product/warzone-2100"
+    }
 }

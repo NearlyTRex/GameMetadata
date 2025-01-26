@@ -8,5 +8,9 @@
         "extra/POSTAL-1-Official-MP3-Soundtrack-1.1.zip",
         "extra/Postal-1-Classic-and-Uncut-English-Manual-1.0.pdf"
     ],
-    "transform_file": "POSTAL-1-Classic-and-Uncut-English-Setup-1.2.exe"
+    "transform_file": "POSTAL-1-Classic-and-Uncut-English-Setup-1.2.exe",
+    "zoom": {
+        "appname": "postal-classic-and-uncut",
+        "appurl": "https://www.zoom-platform.com/product/postal-classic-and-uncut"
+    }
 }

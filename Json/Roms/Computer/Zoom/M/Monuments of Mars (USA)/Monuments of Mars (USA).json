@@ -2,5 +2,9 @@
     "files": [
         "Monuments-of-Mars-English-Setup-1.1.exe"
     ],
-    "transform_file": "Monuments-of-Mars-English-Setup-1.1.exe"
+    "transform_file": "Monuments-of-Mars-English-Setup-1.1.exe",
+    "zoom": {
+        "appname": "monuments-of-mars",
+        "appurl": "https://www.zoom-platform.com/product/monuments-of-mars"
+    }
 }

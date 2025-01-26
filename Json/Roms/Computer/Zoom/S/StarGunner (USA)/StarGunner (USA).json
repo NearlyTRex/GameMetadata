@@ -8,5 +8,9 @@
         "extra/StarGunner-MP3-Soundtrack-1.0.zip",
         "extra/StarGunner-Manual-1.0.pdf"
     ],
-    "transform_file": "StarGunner-English-Setup-1.2.exe"
+    "transform_file": "StarGunner-English-Setup-1.2.exe",
+    "zoom": {
+        "appname": "stargunner",
+        "appurl": "https://www.zoom-platform.com/product/stargunner"
+    }
 }

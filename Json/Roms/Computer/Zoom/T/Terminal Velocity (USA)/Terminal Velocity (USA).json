@@ -10,5 +10,9 @@
         "extra/Terminal-Velocity-MP3-Soundtrack-1.0.zip",
         "extra/Terminal-Velocity-Manual-1.0.pdf"
     ],
-    "transform_file": "Terminal-Velocity-English-Setup-1.2.exe"
+    "transform_file": "Terminal-Velocity-English-Setup-1.2.exe",
+    "zoom": {
+        "appname": "terminal-velocity",
+        "appurl": "https://www.zoom-platform.com/product/terminal-velocity"
+    }
 }
