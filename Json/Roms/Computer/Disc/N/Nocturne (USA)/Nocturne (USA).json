@@ -15,8 +15,14 @@
         ],
         "setup": {
             "install": [
-                "DISC_ONE_ROOT/SETUP.EXE",
-                "DISC_UPDATE_ROOT/nocpatch2.exe"
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "SETUP.EXE"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "nocpatch2.exe"
+                }
             ],
             "postinstall": [
                 {
