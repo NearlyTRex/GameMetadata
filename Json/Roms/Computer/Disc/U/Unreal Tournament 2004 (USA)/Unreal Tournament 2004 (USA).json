@@ -1,4 +1,53 @@
 {
+    "disc": {
+        "appid": "4c60968f-ae9e-421b-96c6-1aa39abd92f5",
+        "appname": "unreal_tournament_2004",
+        "keys": [],
+        "launch": [],
+        "name": "Unreal Tournament 2004",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "Setup.exe",
+                    "serial": "3A7XM-F7G2P-ABT6J-HD9DB"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_THREE_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_SIX_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Unreal Tournament 2004 (USA) (Disc 1).chd",
         "Unreal Tournament 2004 (USA) (Disc 2).chd",
@@ -8,43 +57,5 @@
         "Unreal Tournament 2004 (USA) (Disc 6).chd",
         "Unreal Tournament 2004 (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/Setup.exe",
-    "serials": {
-        "Unreal Tournament 2004 (USA) (Disc 1).chd": "3A7XM-F7G2P-ABT6J-HD9DB"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_THREE_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_FOUR_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_FIVE_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_SIX_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Unreal Tournament 2004 (USA).m3u"
 }

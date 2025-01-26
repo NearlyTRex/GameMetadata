@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "0c7a0a30-463f-431e-985b-1e18d5ac47c3",
+        "appname": "war_for_the_overworld_underlord_edition",
+        "keys": [],
+        "launch": [],
+        "name": "War for the Overworld - Underlord Edition",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "War for the Overworld - Underlord Edition (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "War for the Overworld - Underlord Edition (USA).chd"
 }

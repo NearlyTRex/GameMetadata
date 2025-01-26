@@ -1,35 +1,38 @@
 {
+    "disc": {
+        "appid": "84fa05f5-62a1-4545-9f39-19dd4f0e429f",
+        "appname": "exile_i_escape_from_the_pit",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/EXILE",
+                "exe": "EXILE.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "Exile I - Escape From the Pit",
+        "paths": [
+            "DOS_MAIN_ROOT/C/EXILE/*.SAV"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/EXILE",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Exile I - Escape From the Pit (USA) (Update).chd",
         "Exile I - Escape From the Pit (USA).chd",
         "Exile I - Escape From the Pit (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "EXILE/EXILE.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "EXILE/EXILE.EXE": "EXILE"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/EXILE",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "*.SAV"
-        ],
-        "search": "EXILE/EXILE.EXE"
-    },
     "transform_file": "Exile I - Escape From the Pit (USA).m3u"
 }

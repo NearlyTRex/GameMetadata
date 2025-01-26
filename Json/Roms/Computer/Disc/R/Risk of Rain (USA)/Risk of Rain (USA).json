@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "93dd28fa-e62f-486c-815c-dbbb219d8dfd",
+        "appname": "risk_of_rain",
+        "keys": [],
+        "launch": [],
+        "name": "Risk of Rain",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Windows",
+                    "to": "HDD_MAIN_ROOT/RiskOfRain",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Risk of Rain (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Windows",
-                "to": "HDD_MAIN_ROOT/RiskOfRain",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Risk of Rain (USA).chd"
 }

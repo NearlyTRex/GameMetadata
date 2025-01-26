@@ -1,22 +1,29 @@
 {
+    "disc": {
+        "appid": "8012ab82-7ba1-4d94-a58d-1df6c692a1d7",
+        "appname": "prisoner_of_ice",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ICE",
+                "exe": "ICE640.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Prisoner of Ice",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/ICE",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Prisoner of Ice (USA).chd"
     ],
-    "is_dos": true,
-    "launch_dos_exe": [
-        "ICE/ICE640.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "ICE/ICE640.EXE": "ICE"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/ICE",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Prisoner of Ice (USA).chd"
 }

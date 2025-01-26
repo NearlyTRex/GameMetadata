@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "efa58125-2951-4469-a1ed-e6c9ab6339d0",
+        "appname": "wasteland_2_directors_cut",
+        "keys": [],
+        "launch": [],
+        "name": "Wasteland 2 - Director's Cut",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "install.windows.bat"
+                }
+            ]
+        }
+    },
     "files": [
         "Wasteland 2 - Director's Cut (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/install.windows.bat",
     "transform_file": "Wasteland 2 - Director's Cut (USA).chd"
 }

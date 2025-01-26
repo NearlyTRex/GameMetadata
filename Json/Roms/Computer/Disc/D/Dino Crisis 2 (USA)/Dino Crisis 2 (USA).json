@@ -1,22 +1,30 @@
 {
+    "disc": {
+        "appid": "97cbb42f-2514-45a6-bf90-158f5e6e0e16",
+        "appname": "dino_crisis_2",
+        "keys": [],
+        "launch": [],
+        "name": "Dino Crisis 2",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Dino2",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/Dino2",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Dino Crisis 2 (USA) (Update).chd",
         "Dino Crisis 2 (USA).chd",
         "Dino Crisis 2 (USA).m3u"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Dino2",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/Dino2",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Dino Crisis 2 (USA).m3u"
 }

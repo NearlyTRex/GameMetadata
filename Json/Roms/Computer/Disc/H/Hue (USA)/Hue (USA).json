@@ -1,8 +1,23 @@
 {
+    "disc": {
+        "appid": "214de2ad-4eda-48e8-8cf4-972358c5014a",
+        "appname": "hue",
+        "keys": [],
+        "launch": [],
+        "name": "Hue",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Hue (Windows).exe",
+                    "installer_type": "7zip"
+                }
+            ]
+        }
+    },
     "files": [
         "Hue (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Hue (Windows).exe",
-    "installer_type": "7zip",
     "transform_file": "Hue (USA).chd"
 }

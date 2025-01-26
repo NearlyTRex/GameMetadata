@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "1c48c3c3-73af-40e0-8067-7455294ac38f",
+        "appname": "majesty_gold",
+        "keys": [],
+        "launch": [],
+        "name": "Majesty Gold",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Majesty Gold (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Majesty Gold (USA).chd"
 }

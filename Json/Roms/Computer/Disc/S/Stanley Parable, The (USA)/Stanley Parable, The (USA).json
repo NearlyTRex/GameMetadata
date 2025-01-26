@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "97d93569-e0a1-49ce-8398-df8d64a13db8",
+        "appname": "the_stanley_parable",
+        "keys": [],
+        "launch": [],
+        "name": "The Stanley Parable",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "The Stanley Parable Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Stanley Parable, The (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/The Stanley Parable Setup.exe",
     "transform_file": "Stanley Parable, The (USA).chd"
 }

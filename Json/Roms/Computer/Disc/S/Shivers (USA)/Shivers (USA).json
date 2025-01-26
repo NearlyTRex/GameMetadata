@@ -1,16 +1,27 @@
 {
+    "disc": {
+        "appid": "01cfee78-30f7-4906-a0b5-648c97bebaf2",
+        "appname": "shivers",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "Shivers",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                }
+            ]
+        }
+    },
     "files": [
         "Shivers (USA).chd"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            }
-        ]
-    },
     "transform_file": "Shivers (USA).chd"
 }

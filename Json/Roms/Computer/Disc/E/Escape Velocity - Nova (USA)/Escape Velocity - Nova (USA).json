@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "8a03f01b-4c8a-4a44-8c40-78f74c872670",
+        "appname": "escape_velocity_nova",
+        "keys": [],
+        "launch": [],
+        "name": "Escape Velocity - Nova",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/EV Nova",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Escape Velocity - Nova (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/EV Nova",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Escape Velocity - Nova (USA).chd"
 }

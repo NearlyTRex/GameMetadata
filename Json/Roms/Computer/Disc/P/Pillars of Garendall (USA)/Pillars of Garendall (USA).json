@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "ec9951db-49c0-4e7b-8f28-579fd6f494bc",
+        "appname": "pillars_of_garendall",
+        "keys": [],
+        "launch": [],
+        "name": "Pillars of Garendall",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Pillars",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Pillars of Garendall (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Pillars",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Pillars of Garendall (USA).chd"
 }

@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "b3c214dd-fb31-4994-b3bc-1f48c2ec021c",
+        "appname": "rive",
+        "keys": [],
+        "launch": [],
+        "name": "Rive",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/RIVE (Windows).zip",
+                    "to": "HDD_MAIN_ROOT/RIVE (Windows)",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Rive (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/RIVE (Windows).zip",
-                "to": "HDD_MAIN_ROOT/RIVE (Windows)",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Rive (USA).chd"
 }

@@ -1,30 +1,37 @@
 {
+    "disc": {
+        "appid": "8d5c9ff7-5421-45e7-bd4b-deb46835e0eb",
+        "appname": "doom_ii",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/DoomII",
+                "exe": "gzdoom.exe"
+            }
+        ],
+        "name": "Doom II",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/DOOM2CD/DOOM2.WAD",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/DoomII/DOOM2.WAD",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*.zip",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/DoomII",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Doom II (USA) (Update).chd",
         "Doom II (USA).chd",
         "Doom II (USA).m3u"
     ],
-    "launch_exe": [
-        "DoomII/gzdoom.exe"
-    ],
-    "launch_exe_cwd": {
-        "DoomII/gzdoom.exe": "DoomII"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/DOOM2CD/DOOM2.WAD",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/DoomII/DOOM2.WAD",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*.zip",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/DoomII",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Doom II (USA).m3u"
 }

@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "6f4e56b0-98f6-4748-82ed-7fbcf92096f2",
+        "appname": "marathon_2_durandal",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Marathon2",
+                "exe": "Marathon 2.exe"
+            }
+        ],
+        "name": "Marathon 2 - Durandal",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Marathon2",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Marathon 2 - Durandal (USA).chd"
     ],
-    "launch_exe": [
-        "Marathon2/Marathon 2.exe"
-    ],
-    "launch_exe_cwd": {
-        "Marathon2/Marathon 2.exe": "Marathon2"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Marathon2",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Marathon 2 - Durandal (USA).chd"
 }

@@ -1,4 +1,50 @@
 {
+    "disc": {
+        "appid": "49bc9f5e-c170-450c-b74d-de6b0b47b51d",
+        "appname": "schizm",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "Schizm",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_ONE_ROOT/Schizm",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/Schizm",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_THREE_ROOT/Schizm",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT/Schizm",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT/Schizm",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Schizm (USA) (Disc 1).chd",
         "Schizm (USA) (Disc 2).chd",
@@ -7,40 +53,5 @@
         "Schizm (USA) (Disc 5).chd",
         "Schizm (USA).m3u"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_ONE_ROOT/Schizm",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/Schizm",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_THREE_ROOT/Schizm",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_FOUR_ROOT/Schizm",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_FIVE_ROOT/Schizm",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Schizm (USA).m3u"
 }

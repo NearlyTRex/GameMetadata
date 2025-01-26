@@ -1,36 +1,50 @@
 {
-    "disc_type": "macwin",
+    "disc": {
+        "appid": "4a65794c-a1bc-401f-9e2c-caa67be8e4fd",
+        "appname": "myst_iii_exile",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "Myst III - Exile",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/M3Data",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/M3Data",
+                    "type": "copy",
+                    "disc_type": "macwin"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/Data",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/Data",
+                    "type": "copy",
+                    "disc_type": "macwin"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/Myst III English/language.m3u",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/M3Data/TEXT/ENGLISH.m3u",
+                    "type": "copy",
+                    "disc_type": "macwin"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/Myst III English/Manual.pdf",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy",
+                    "disc_type": "macwin"
+                }
+            ]
+        }
+    },
     "files": [
         "Myst III - Exile (USA).chd"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/M3Data",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/M3Data",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/Data",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/Data",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/Myst III English/language.m3u",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/M3Data/TEXT/ENGLISH.m3u",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/Myst III English/Manual.pdf",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Myst III - Exile (USA).chd"
 }

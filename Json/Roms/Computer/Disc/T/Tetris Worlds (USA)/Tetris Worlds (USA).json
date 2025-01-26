@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "88a8da0d-f98c-4306-a13e-95745eec77a7",
+        "appname": "tetris_worlds",
+        "keys": [],
+        "launch": [],
+        "name": "Tetris Worlds",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "TWLaunch.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Tetris Worlds (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/TWLaunch.exe",
     "transform_file": "Tetris Worlds (USA).chd"
 }

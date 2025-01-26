@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "94658114-8463-4ed4-9161-3290e3012bde",
+        "appname": "witchaven_ii_blood_vengeance",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/CAPSTONE/WHAVEN2",
+                "exe": "WH2.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Witchaven II - Blood Vengeance",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Witchaven II - Blood Vengeance (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "CAPSTONE/WHAVEN2/WH2.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "CAPSTONE/WHAVEN2/WH2.EXE": "CAPSTONE/WHAVEN2"
-    },
     "transform_file": "Witchaven II - Blood Vengeance (USA).chd"
 }

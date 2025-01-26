@@ -1,4 +1,60 @@
 {
+    "disc": {
+        "appid": "3296e0ac-e2ae-4545-8861-05a1cc58a9a6",
+        "appname": "diablo_ii_lord_of_destruction",
+        "keys": [],
+        "launch": [
+            {
+                "args": [
+                    "-3dfx",
+                    "-dxnocompatmodefix"
+                ],
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Diablo II",
+                "exe": "Game.exe",
+                "overrides": "glide3x=b,n",
+                "winver": "win10"
+            }
+        ],
+        "name": "Diablo II & Lord of Destruction",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "Installer.exe",
+                    "serial": "6D2DE2-WY2H-XMYB7R-WWMD-GY6K47"
+                },
+                {
+                    "cwd": "DISC_FOUR_ROOT",
+                    "exe": "Installer.exe",
+                    "serial": "6HRD27-V9J2-C9HMTN-CHHJ-8JGPJ7"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "LODPatch_114d.exe"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_THREE_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Diablo II",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Diablo II & Lord of Destruction (USA) (Disc 1).chd",
         "Diablo II & Lord of Destruction (USA) (Disc 2).chd",
@@ -7,57 +63,5 @@
         "Diablo II & Lord of Destruction (USA) (Update).chd",
         "Diablo II & Lord of Destruction (USA).m3u"
     ],
-    "installer_exe": [
-        "DISC_ONE_ROOT/Installer.exe",
-        "DISC_FOUR_ROOT/Installer.exe",
-        "DISC_UPDATE_ROOT/LODPatch_114d.exe"
-    ],
-    "launch_exe": [
-        "Program Files (x86)/Diablo II/Game.exe"
-    ],
-    "launch_exe_args": {
-        "Program Files (x86)/Diablo II/Game.exe": [
-            "-3dfx",
-            "-dxnocompatmodefix"
-        ]
-    },
-    "launch_exe_cwd": {
-        "Program Files (x86)/Diablo II/Game.exe": "Program Files (x86)/Diablo II"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "glide3x=b,n"
-                ]
-            }
-        }
-    },
-    "serials": {
-        "Diablo II & Lord of Destruction (USA) (Disc 1).chd": "6D2DE2-WY2H-XMYB7R-WWMD-GY6K47",
-        "Diablo II & Lord of Destruction (USA) (Disc 4).chd": "6HRD27-V9J2-C9HMTN-CHHJ-8JGPJ7"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_THREE_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Diablo II",
-                "type": "copy"
-            }
-        ]
-    },
-    "transform_file": "Diablo II & Lord of Destruction (USA).m3u",
-    "winver": "win10"
+    "transform_file": "Diablo II & Lord of Destruction (USA).m3u"
 }

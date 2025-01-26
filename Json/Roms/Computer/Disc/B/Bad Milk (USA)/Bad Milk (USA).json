@@ -1,30 +1,29 @@
 {
+    "disc": {
+        "appid": "e14f2db7-0c90-4650-8a1c-fad13acb5d26",
+        "appname": "bad_milk",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Bad Milk",
+                "exe": "badmilk.exe",
+                "tricks": "quicktime72"
+            }
+        ],
+        "name": "Bad Milk",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Bad Milk",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Bad Milk (USA).chd"
     ],
-    "launch_exe": [
-        "Bad Milk/badmilk.exe"
-    ],
-    "launch_exe_cwd": {
-        "Bad Milk/badmilk.exe": "Bad Milk"
-    },
-    "sandbox": {
-        "wine": {
-            "tricks": {
-                "game": [
-                    "quicktime72"
-                ]
-            }
-        }
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Bad Milk",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Bad Milk (USA).chd"
 }

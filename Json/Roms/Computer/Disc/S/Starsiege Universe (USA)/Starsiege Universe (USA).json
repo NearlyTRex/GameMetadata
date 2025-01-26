@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "93eaad69-d767-4ab6-9969-a1b93264970c",
+        "appname": "starsiege_universe",
+        "keys": [],
+        "launch": [],
+        "name": "Starsiege Universe",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Starsiege Universe (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Starsiege Universe (USA).chd"
 }

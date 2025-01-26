@@ -1,8 +1,23 @@
 {
+    "disc": {
+        "appid": "8af7b56c-25b0-4492-934b-490da0fe4a1e",
+        "appname": "tribes_2",
+        "keys": [],
+        "launch": [],
+        "name": "Tribes 2",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Tribes 2 (USA).chd",
         "Tribes 2 (USA).sbi"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Tribes 2 (USA).chd"
 }

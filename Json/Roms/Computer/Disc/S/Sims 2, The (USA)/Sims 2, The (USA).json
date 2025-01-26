@@ -1,4 +1,21 @@
 {
+    "disc": {
+        "appid": "96be12e7-9438-419c-a631-b1a582eb1bad",
+        "appname": "the_sims_2",
+        "keys": [],
+        "launch": [],
+        "name": "The Sims 2",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "setup.exe",
+                    "serial": "CMHR-XJX6-U4YC-DFYV-XR8C"
+                }
+            ]
+        }
+    },
     "files": [
         "Sims 2, The (USA) (Disc 1).chd",
         "Sims 2, The (USA) (Disc 2).chd",
@@ -6,8 +23,5 @@
         "Sims 2, The (USA) (Disc 4).chd",
         "Sims 2, The (USA).m3u"
     ],
-    "serials": {
-        "Sims 2, The (USA) (Disc 1).chd": "CMHR-XJX6-U4YC-DFYV-XR8C"
-    },
     "transform_file": "Sims 2, The (USA).m3u"
 }

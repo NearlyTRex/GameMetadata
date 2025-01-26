@@ -1,4 +1,73 @@
 {
+    "disc": {
+        "appid": "6315c980-234e-4adf-918e-50506891dbb9",
+        "appname": "myth_the_total_codex",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Myth II",
+                "exe": "Myth II.exe"
+            }
+        ],
+        "name": "Myth The Total Codex",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_THREE_ROOT",
+                    "exe": "Autoplay.exe"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "Myth2_184.exe"
+                }
+            ],
+            "postinstall": [
+                {
+                    "from": "DISC_ONE_ROOT/Chimera/*",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_ONE_ROOT/Chimera/*.smk",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_ONE_ROOT/Myth II Plugins",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth II Plugins",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_ONE_ROOT/Myth Total Codex",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth Total Codex",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_THREE_ROOT/cutscenes/*.smk",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/cutscenes/*.mov",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/plugins/*",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Myth The Total Codex (USA) (Disc 1).chd",
         "Myth The Total Codex (USA) (Disc 2).chd",
@@ -6,61 +75,5 @@
         "Myth The Total Codex (USA) (Update).chd",
         "Myth The Total Codex (USA).m3u"
     ],
-    "installer_exe": [
-        "DISC_THREE_ROOT/Autoplay.exe",
-        "DISC_UPDATE_ROOT/Myth2_184.exe"
-    ],
-    "launch_exe": [
-        "Program Files (x86)/Myth II/Myth II.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Myth II/Myth II.exe": "Program Files (x86)/Myth II"
-    },
-    "steps": {
-        "postinstall": [
-            {
-                "from": "DISC_ONE_ROOT/Chimera/*",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_ONE_ROOT/Chimera/*.smk",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_ONE_ROOT/Myth II Plugins",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth II Plugins",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_ONE_ROOT/Myth Total Codex",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/extra/Myth Total Codex",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_THREE_ROOT/cutscenes/*.smk",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/cutscenes/*.mov",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/cutscenes",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/plugins/*",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/Myth II/plugins",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Myth The Total Codex (USA).m3u"
 }

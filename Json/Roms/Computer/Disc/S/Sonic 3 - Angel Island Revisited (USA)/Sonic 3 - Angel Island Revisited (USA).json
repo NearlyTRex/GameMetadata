@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "9ca1664a-69a2-44d7-9903-ecfc4d7c068d",
+        "appname": "sonic_3_angel_island_revisited",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Sonic3",
+                "exe": "Sonic3AIR.exe"
+            }
+        ],
+        "name": "Sonic 3 - Angel Island Revisited",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Sonic3",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Sonic 3 - Angel Island Revisited (USA).chd"
     ],
-    "launch_exe": [
-        "Sonic3/Sonic3AIR.exe"
-    ],
-    "launch_exe_cwd": {
-        "Sonic3/Sonic3AIR.exe": "Sonic3"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Sonic3",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Sonic 3 - Angel Island Revisited (USA).chd"
 }

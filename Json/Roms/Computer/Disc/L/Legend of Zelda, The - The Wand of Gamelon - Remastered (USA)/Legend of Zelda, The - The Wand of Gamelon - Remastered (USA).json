@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "4f5b0bfd-1880-4af8-a892-0c9a5a7d9d87",
+        "appname": "the_legend_of_zelda_the_wand_of_gamelon_remastered",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Zelda Wand of Gamelon",
+                "exe": "WOGR.exe"
+            }
+        ],
+        "name": "The Legend of Zelda - The Wand of Gamelon - Remastered",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Zelda Wand of Gamelon",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).chd"
     ],
-    "launch_exe": [
-        "Zelda Wand of Gamelon/WOGR.exe"
-    ],
-    "launch_exe_cwd": {
-        "Zelda Wand of Gamelon/WOGR.exe": "Zelda Wand of Gamelon"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Zelda Wand of Gamelon",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Legend of Zelda, The - The Wand of Gamelon - Remastered (USA).chd"
 }

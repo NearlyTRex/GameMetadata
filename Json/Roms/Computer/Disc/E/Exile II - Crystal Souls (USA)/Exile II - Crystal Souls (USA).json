@@ -1,35 +1,38 @@
 {
+    "disc": {
+        "appid": "e924540c-8b79-4287-a505-52dd05f83555",
+        "appname": "exile_ii_crystal_souls",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/EXILE2",
+                "exe": "EXILE2.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "Exile II - Crystal Souls",
+        "paths": [
+            "DOS_MAIN_ROOT/C/EXILE2/*.SAV"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/EXILE2",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Exile II - Crystal Souls (USA) (Update).chd",
         "Exile II - Crystal Souls (USA).chd",
         "Exile II - Crystal Souls (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "EXILE2/EXILE2.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "EXILE2/EXILE2.EXE": "EXILE2"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/EXILE2",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "*.SAV"
-        ],
-        "search": "EXILE2/EXILE2.EXE"
-    },
     "transform_file": "Exile II - Crystal Souls (USA).m3u"
 }

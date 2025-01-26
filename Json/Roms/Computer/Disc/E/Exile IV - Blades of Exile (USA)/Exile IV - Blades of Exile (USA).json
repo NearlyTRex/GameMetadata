@@ -1,35 +1,38 @@
 {
+    "disc": {
+        "appid": "1a6d8c78-6f19-4427-be6a-833099113d28",
+        "appname": "exile_iv_blades_of_exile",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/EXILE4",
+                "exe": "BLADES.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "Exile IV - Blades of Exile",
+        "paths": [
+            "DOS_MAIN_ROOT/C/EXILE4/*.SAV"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/EXILE4",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Exile IV - Blades of Exile (USA) (Update).chd",
         "Exile IV - Blades of Exile (USA).chd",
         "Exile IV - Blades of Exile (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "EXILE4/BLADES.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "EXILE4/BLADES.EXE": "EXILE4"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/EXILE4",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "*.SAV"
-        ],
-        "search": "EXILE4/BLADES.EXE"
-    },
     "transform_file": "Exile IV - Blades of Exile (USA).m3u"
 }

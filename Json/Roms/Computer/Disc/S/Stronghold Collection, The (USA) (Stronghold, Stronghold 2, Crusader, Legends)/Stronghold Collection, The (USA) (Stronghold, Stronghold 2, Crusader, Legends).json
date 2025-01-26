@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "86b80454-1b23-4a36-a759-b3253ca390b2",
+        "appname": "the_stronghold_collection",
+        "keys": [],
+        "launch": [],
+        "name": "The Stronghold Collection",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).chd"
 }

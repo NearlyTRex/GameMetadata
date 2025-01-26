@@ -1,41 +1,52 @@
 {
+    "disc": {
+        "appid": "5125b350-fb1c-4ed4-b399-060c69e0ded4",
+        "appname": "the_dig",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "The Dig",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/DIG/VIDEO",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/VIDEO",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/DIG/DIG.LA0",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/DIG.LA0",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/DIG/DIG.LA1",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/DIG.LA1",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/DIG/DIGMUSIC.BUN",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/DIGMUSIC.BUN",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/DIG/DIGVOICE.BUN",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/DIGVOICE.BUN",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Dig, The (USA).chd"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/DIG/VIDEO",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/VIDEO",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/DIG/DIG.LA0",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/DIG.LA0",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/DIG/DIG.LA1",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/DIG.LA1",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/DIG/DIGMUSIC.BUN",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/DIGMUSIC.BUN",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/DIG/DIGVOICE.BUN",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/DIGVOICE.BUN",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Dig, The (USA).chd"
 }

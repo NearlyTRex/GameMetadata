@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "0b28c4af-9eb8-4b84-9269-5e6399e2f054",
+        "appname": "hexen_ii_continent_of_blackmarsh_matrox_oem_disc",
+        "keys": [],
+        "launch": [],
+        "name": "Hexen II - Continent of Blackmarsh Matrox OEM Disc",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/Hexen_II",
+                    "exe": "SETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Hexen_II/SETUP.EXE",
     "transform_file": "Hexen II - Continent of Blackmarsh Matrox OEM Disc (USA).chd"
 }

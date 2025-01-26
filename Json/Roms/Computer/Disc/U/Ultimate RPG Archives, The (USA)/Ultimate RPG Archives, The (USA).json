@@ -1,4 +1,106 @@
 {
+    "disc": {
+        "appid": "e7da60b4-393a-4cfe-a1a1-b01ee0750370",
+        "appname": "the_ultimate_rpg_archives",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/BARDTALE/BT1",
+                "exe": "BARD.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/BARDTALE/BT2",
+                "exe": "DK.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/BARDTALE/BT3",
+                "exe": "THIEF.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/DRAGON",
+                "exe": "DRAGON.BAT",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/INTRPLAY/STONKEEP",
+                "exe": "SK.BAT",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/UNDERWRD/UW1",
+                "exe": "UW.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/UNDERWRD/UW2",
+                "exe": "UW2.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/WASTELND/WL",
+                "exe": "WL.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/WORLD",
+                "exe": "XEEN.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "The Ultimate RPG Archives",
+        "paths": [
+            "DOS_MAIN_ROOT/C/INTRPLAY/STONKEEP/SAVEGAME"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                },
+                {
+                    "cwd": "DISC_THREE_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT/BARDTALE",
+                    "to": "DOS_MAIN_ROOT/C/BARDTALE",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/DRAGON",
+                    "to": "DOS_MAIN_ROOT/C/DRAGON",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/UNDERWRD",
+                    "to": "DOS_MAIN_ROOT/C/UNDERWRD",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/WASTELND",
+                    "to": "DOS_MAIN_ROOT/C/WASTELND",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/MANUALS",
+                    "to": "DOS_MAIN_ROOT/C/MANUALS",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/MAPS",
+                    "to": "DOS_MAIN_ROOT/C/MAPS",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Ultimate RPG Archives, The (USA) (Disc 1) (Stonekeep).chd",
         "Ultimate RPG Archives, The (USA) (Disc 2) (The Bard's Tale, Ultima Underworld, Dragon Wars, Wasteland).chd",
@@ -7,72 +109,5 @@
         "Ultimate RPG Archives, The (USA) (Disc 5) (Wizardry Gold).chd",
         "Ultimate RPG Archives, The (USA).m3u"
     ],
-    "installer_dos_exe": [
-        "DISC_ONE_ROOT/INSTALL.EXE",
-        "DISC_THREE_ROOT/INSTALL.EXE"
-    ],
-    "is_dos": true,
-    "launch_dos_exe": [
-        "BARDTALE/BT1/BARD.EXE",
-        "BARDTALE/BT2/DK.EXE",
-        "BARDTALE/BT3/THIEF.EXE",
-        "DRAGON/DRAGON.BAT",
-        "INTRPLAY/STONKEEP/SK.BAT",
-        "UNDERWRD/UW1/UW.EXE",
-        "UNDERWRD/UW2/UW2.EXE",
-        "WASTELND/WL/WL.EXE",
-        "WORLD/XEEN.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "BARDTALE/BT1/BARD.EXE": "BARDTALE/BT1",
-        "BARDTALE/BT2/DK.EXE": "BARDTALE/BT2",
-        "BARDTALE/BT3/THIEF.EXE": "BARDTALE/BT3",
-        "DRAGON/DRAGON.BAT": "DRAGON",
-        "INTRPLAY/STONKEEP/SK.BAT": "INTRPLAY/STONKEEP",
-        "UNDERWRD/UW1/UW.EXE": "UNDERWRD/UW1",
-        "UNDERWRD/UW2/UW2.EXE": "UNDERWRD/UW2",
-        "WASTELND/WL/WL.EXE": "WASTELND/WL",
-        "WORLD/XEEN.EXE": "WORLD"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT/BARDTALE",
-                "to": "DOS_MAIN_ROOT/C/BARDTALE",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/DRAGON",
-                "to": "DOS_MAIN_ROOT/C/DRAGON",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/UNDERWRD",
-                "to": "DOS_MAIN_ROOT/C/UNDERWRD",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/WASTELND",
-                "to": "DOS_MAIN_ROOT/C/WASTELND",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/MANUALS",
-                "to": "DOS_MAIN_ROOT/C/MANUALS",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/MAPS",
-                "to": "DOS_MAIN_ROOT/C/MAPS",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "MS-DOS/C/INTRPLAY/STONKEEP/SAVEGAME"
-        ],
-        "search": "raw_files.index"
-    },
     "transform_file": "Ultimate RPG Archives, The (USA).m3u"
 }

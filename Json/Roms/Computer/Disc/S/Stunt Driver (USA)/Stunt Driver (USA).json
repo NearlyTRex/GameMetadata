@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "9515bb5f-591f-4429-8acb-ccdddf4b53d6",
+        "appname": "stunt_driver",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/STUNT",
+                "exe": "STUNT.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Stunt Driver",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Stunt Driver (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "STUNT/STUNT.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "STUNT/STUNT.EXE": "STUNT"
-    },
     "transform_file": "Stunt Driver (USA).chd"
 }

@@ -1,19 +1,39 @@
 {
+    "disc": {
+        "appid": "f7caeb97-e334-4235-95d4-ac3a5e4b26e4",
+        "appname": "murder_mystery_collection_still_life_trilogy_loch_ness",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Anuman interactive/StillLife2",
+                "exe": "SL2.exe"
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Loch Ness",
+                "exe": "Lochness.exe"
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Post Mortem",
+                "exe": "Post Mortem.exe"
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Still Life",
+                "exe": "StillLife.exe"
+            }
+        ],
+        "name": "Murder Mystery Collection - Still Life Trilogy & Loch Ness",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autoplay.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autoplay.exe",
-    "launch_exe": [
-        "Program Files (x86)/Anuman interactive/StillLife2/SL2.exe",
-        "Program Files (x86)/Loch Ness/Lochness.exe",
-        "Program Files (x86)/Post Mortem/Post Mortem.exe",
-        "Program Files (x86)/Still Life/StillLife.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Anuman interactive/StillLife2/SL2.exe": "Program Files (x86)/Anuman interactive/StillLife2",
-        "Program Files (x86)/Loch Ness/Lochness.exe": "Program Files (x86)/Loch Ness",
-        "Program Files (x86)/Post Mortem/Post Mortem.exe": "Program Files (x86)/Post Mortem",
-        "Program Files (x86)/Still Life/StillLife.exe": "Program Files (x86)/Still Life"
-    },
     "transform_file": "Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).chd"
 }

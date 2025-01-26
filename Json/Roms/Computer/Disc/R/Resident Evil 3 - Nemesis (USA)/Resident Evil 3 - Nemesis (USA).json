@@ -1,38 +1,37 @@
 {
+    "disc": {
+        "appid": "61617574-f040-4edd-9435-928d847cea96",
+        "appname": "resident_evil_3_nemesis",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/ResidentEvil3",
+                "exe": "BIOHAZARD(R) 3 PC.exe",
+                "overrides": "ddraw=n,b"
+            }
+        ],
+        "name": "Resident Evil 3 - Nemesis",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT/data",
+                    "to": "HDD_MAIN_ROOT/ResidentEvil3",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/ResidentEvil3",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Resident Evil 3 - Nemesis (USA) (Disc 1).chd",
         "Resident Evil 3 - Nemesis (USA) (Disc 2).chd",
         "Resident Evil 3 - Nemesis (USA) (Update).chd",
         "Resident Evil 3 - Nemesis (USA).m3u"
     ],
-    "launch_exe": [
-        "ResidentEvil3/BIOHAZARD(R) 3 PC.exe"
-    ],
-    "launch_exe_cwd": {
-        "ResidentEvil3/BIOHAZARD(R) 3 PC.exe": "ResidentEvil3"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "ddraw=n,b"
-                ]
-            }
-        }
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT/data",
-                "to": "HDD_MAIN_ROOT/ResidentEvil3",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/ResidentEvil3",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Resident Evil 3 - Nemesis (USA).m3u"
 }

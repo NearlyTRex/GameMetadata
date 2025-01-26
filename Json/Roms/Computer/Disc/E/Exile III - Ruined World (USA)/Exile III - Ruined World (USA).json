@@ -1,35 +1,38 @@
 {
+    "disc": {
+        "appid": "98ed4f18-5cc3-4dee-aa40-f4b2fe12e773",
+        "appname": "exile_iii_ruined_world",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/EXILE3",
+                "exe": "EXILE3.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "Exile III - Ruined World",
+        "paths": [
+            "DOS_MAIN_ROOT/C/EXILE3/*.SAV"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/EXILE3",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Exile III - Ruined World (USA) (Update).chd",
         "Exile III - Ruined World (USA).chd",
         "Exile III - Ruined World (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "EXILE3/EXILE3.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "EXILE3/EXILE3.EXE": "EXILE3"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/EXILE3",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "*.SAV"
-        ],
-        "search": "EXILE3/EXILE3.EXE"
-    },
     "transform_file": "Exile III - Ruined World (USA).m3u"
 }

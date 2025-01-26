@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "3b7012c9-d378-4ddd-9bf5-6642aa34a3b6",
+        "appname": "galakz",
+        "keys": [],
+        "launch": [],
+        "name": "Galak-Z",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Galak-Z/Windows",
+                    "to": "HDD_MAIN_ROOT/Galak-Z",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Galak-Z (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Galak-Z/Windows",
-                "to": "HDD_MAIN_ROOT/Galak-Z",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Galak-Z (USA).chd"
 }

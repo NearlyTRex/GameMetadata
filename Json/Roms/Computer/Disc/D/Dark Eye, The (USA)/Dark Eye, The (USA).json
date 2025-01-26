@@ -1,30 +1,33 @@
 {
+    "disc": {
+        "appid": "a6375500-4222-4c46-a740-3b47096b7897",
+        "appname": "the_dark_eye",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/DARKEYE",
+                "exe": "DARKEYE.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "The Dark Eye",
+        "paths": [
+            "DOS_MAIN_ROOT/C/DARKEYE/SAVEDDKY"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Dark Eye, The (USA) (Update).chd",
         "Dark Eye, The (USA).chd",
         "Dark Eye, The (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "DARKEYE/DARKEYE.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "DARKEYE/DARKEYE.EXE": "DARKEYE"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "SAVEDDKY"
-        ],
-        "search": "DARKEYE/DARKEYE.EXE"
-    },
     "transform_file": "Dark Eye, The (USA).m3u"
 }

@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "4917b0c0-4656-4650-a83b-c51b4c69f35f",
+        "appname": "freedom_planet",
+        "keys": [],
+        "launch": [],
+        "name": "Freedom Planet",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Freedom Planet",
+                    "to": "HDD_MAIN_ROOT/Freedom Planet",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Freedom Planet (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Freedom Planet",
-                "to": "HDD_MAIN_ROOT/Freedom Planet",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Freedom Planet (USA).chd"
 }

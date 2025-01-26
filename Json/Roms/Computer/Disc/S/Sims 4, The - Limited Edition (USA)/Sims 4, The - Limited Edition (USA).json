@@ -1,11 +1,25 @@
 {
+    "disc": {
+        "appid": "9a2dd25f-e8f3-49e9-a430-64fde16801c3",
+        "appname": "the_sims_4_limited_edition",
+        "keys": [],
+        "launch": [],
+        "name": "The Sims 4 - Limited Edition",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "setup.exe",
+                    "serial": "H2MV-GE9D-6N5C-6ZDX-KD6W"
+                }
+            ]
+        }
+    },
     "files": [
         "Sims 4, The - Limited Edition (USA) (Disc 1).chd",
         "Sims 4, The - Limited Edition (USA) (Disc 2).chd",
         "Sims 4, The - Limited Edition (USA).m3u"
     ],
-    "serials": {
-        "Sims 4, The - Limited Edition (USA) (Disc 1).chd": "H2MV-GE9D-6N5C-6ZDX-KD6W"
-    },
     "transform_file": "Sims 4, The - Limited Edition (USA).m3u"
 }

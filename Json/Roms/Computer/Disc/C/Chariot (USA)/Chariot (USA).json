@@ -1,8 +1,23 @@
 {
+    "disc": {
+        "appid": "9d91e995-1de6-4180-af70-c9e554a2b266",
+        "appname": "chariot",
+        "keys": [],
+        "launch": [],
+        "name": "Chariot",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "ChariotInstall.exe",
+                    "winver": "win10"
+                }
+            ]
+        }
+    },
     "files": [
         "Chariot (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/ChariotInstall.exe",
-    "transform_file": "Chariot (USA).chd",
-    "winver": "win10"
+    "transform_file": "Chariot (USA).chd"
 }

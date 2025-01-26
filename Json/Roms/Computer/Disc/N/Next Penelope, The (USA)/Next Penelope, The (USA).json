@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "87580f5c-3132-478a-99b5-76f3d9cf70d0",
+        "appname": "the_next_penelope",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/TheNextPenelope_Windows",
+                "exe": "nw.exe"
+            }
+        ],
+        "name": "The Next Penelope",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/TheNextPenelope_Windows",
+                    "to": "HDD_MAIN_ROOT/TheNextPenelope_Windows",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Next Penelope, The (USA).chd"
     ],
-    "launch_exe": [
-        "TheNextPenelope_Windows/nw.exe"
-    ],
-    "launch_exe_cwd": {
-        "TheNextPenelope_Windows/nw.exe": "TheNextPenelope_Windows"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/TheNextPenelope_Windows",
-                "to": "HDD_MAIN_ROOT/TheNextPenelope_Windows",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Next Penelope, The (USA).chd"
 }

@@ -1,43 +1,51 @@
 {
+    "disc": {
+        "appid": "ca30819b-a80e-4361-a143-8aa89243eddc",
+        "appname": "necronomicon",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files/Necronomicon",
+                "exe": "Necrono.exe"
+            }
+        ],
+        "name": "Necronomicon",
+        "paths": [
+            "HDD_MAIN_ROOT/Program Files/Necronomicon/Saved_*.bin"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "Install.EXE"
+                }
+            ],
+            "postinstall": [
+                {
+                    "from": "DISC_ONE_ROOT/Data/*",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files/Necronomicon/Data",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/Data/*",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files/Necronomicon/Data",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/Program Files/Necronomicon",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Necronomicon (USA) (Disc 1).chd",
         "Necronomicon (USA) (Disc 2).chd",
         "Necronomicon (USA) (Update).chd",
         "Necronomicon (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/Install.EXE",
-    "launch_exe": [
-        "Program Files/Necronomicon/Necrono.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files/Necronomicon/Necrono.exe": "Program Files/Necronomicon"
-    },
-    "steps": {
-        "postinstall": [
-            {
-                "from": "DISC_ONE_ROOT/Data/*",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files/Necronomicon/Data",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/Data/*",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Program Files/Necronomicon/Data",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/Program Files/Necronomicon",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "Saved_*.bin"
-        ],
-        "search": "Necrono.exe"
-    },
     "transform_file": "Necronomicon (USA).m3u"
 }

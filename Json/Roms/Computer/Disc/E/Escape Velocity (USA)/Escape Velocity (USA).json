@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "1263262c-0fb5-4d12-ac8e-b77da60dff7b",
+        "appname": "escape_velocity",
+        "keys": [],
+        "launch": [],
+        "name": "Escape Velocity",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/EV",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Escape Velocity (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/EV",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Escape Velocity (USA).chd"
 }

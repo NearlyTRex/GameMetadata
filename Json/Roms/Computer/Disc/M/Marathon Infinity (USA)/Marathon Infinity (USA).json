@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "bb500e12-5cec-4518-bc4c-9691d5af7d61",
+        "appname": "marathon_infinity",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/MarathonInfinity",
+                "exe": "Marathon Infinity.exe"
+            }
+        ],
+        "name": "Marathon Infinity",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/MarathonInfinity",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Marathon Infinity (USA).chd"
     ],
-    "launch_exe": [
-        "MarathonInfinity/Marathon Infinity.exe"
-    ],
-    "launch_exe_cwd": {
-        "MarathonInfinity/Marathon Infinity.exe": "MarathonInfinity"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/MarathonInfinity",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Marathon Infinity (USA).chd"
 }

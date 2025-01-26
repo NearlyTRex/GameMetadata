@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "01bef80c-8047-4c1c-b13a-8ee2c8ff91a3",
+        "appname": "typoman_revised",
+        "keys": [],
+        "launch": [],
+        "name": "Typoman - Revised",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "TypomanInstall.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Typoman - Revised (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/TypomanInstall.exe",
     "transform_file": "Typoman - Revised (USA).chd"
 }

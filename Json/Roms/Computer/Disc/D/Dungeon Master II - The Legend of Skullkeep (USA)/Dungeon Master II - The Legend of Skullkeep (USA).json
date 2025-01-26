@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "6c92b200-1795-431a-b68e-d4a5439f2add",
+        "appname": "dungeon_master_ii_the_legend_of_skullkeep",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/INTRPLAY/SKULKEEP",
+                "exe": "DM2.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "Dungeon Master II - The Legend of Skullkeep",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Dungeon Master II - The Legend of Skullkeep (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "INTRPLAY/SKULKEEP/DM2.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "INTRPLAY/SKULKEEP/DM2.BAT": "INTRPLAY/SKULKEEP"
-    },
     "transform_file": "Dungeon Master II - The Legend of Skullkeep (USA).chd"
 }

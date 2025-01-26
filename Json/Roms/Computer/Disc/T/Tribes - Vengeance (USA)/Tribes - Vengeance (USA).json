@@ -1,10 +1,23 @@
 {
+    "disc": {
+        "appid": "4eff1e08-45fc-4e58-8be3-eca8239c2bee",
+        "appname": "tribes_vengeance",
+        "keys": [],
+        "launch": [],
+        "name": "Tribes - Vengeance",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "Autorun.exe",
+                    "serial": "GUP5-XAB6-RYD7-NEZ2-3426"
+                }
+            ]
+        }
+    },
     "files": [
         "Tribes - Vengeance (USA).chd"
     ],
-    "installer_exe": "DISC_ONE_ROOT/Autorun.exe",
-    "serials": {
-        "Tribes - Vengeance (USA).chd": "GUP5-XAB6-RYD7-NEZ2-3426"
-    },
     "transform_file": "Tribes - Vengeance (USA).chd"
 }

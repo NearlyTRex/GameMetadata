@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "27bc9b6e-0e21-42b7-aa7e-675d9d41e002",
+        "appname": "star_trek_omnipedia",
+        "keys": [],
+        "launch": [],
+        "name": "Star Trek - Omnipedia",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Star Trek - Omnipedia (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Star Trek - Omnipedia (USA).chd"
 }

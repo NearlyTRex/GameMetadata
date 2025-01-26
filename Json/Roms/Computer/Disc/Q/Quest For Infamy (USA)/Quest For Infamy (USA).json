@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "216a2f0c-9af0-4305-a618-3b2c65923578",
+        "appname": "quest_for_infamy",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Infamy",
+                "exe": "QFI.exe"
+            }
+        ],
+        "name": "Quest For Infamy",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Infamy",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Quest For Infamy (USA).chd"
     ],
-    "launch_exe": [
-        "Infamy/QFI.exe"
-    ],
-    "launch_exe_cwd": {
-        "Infamy/QFI.exe": "Infamy"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Infamy",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Quest For Infamy (USA).chd"
 }

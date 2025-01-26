@@ -1,18 +1,31 @@
 {
+    "disc": {
+        "appid": "bfe61b42-21af-44a9-a32a-f64f1c4cb885",
+        "appname": "konami_collectors_series_castlevania_and_contra",
+        "keys": [],
+        "launch": [],
+        "name": "Konami Collector's Series - Castlevania and Contra",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "STARTUP.EXE"
+                }
+            ],
+            "postinstall": [
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/KONAMI Software/Castlevania & Contra",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Konami Collector's Series - Castlevania and Contra (USA) (Update).chd",
         "Konami Collector's Series - Castlevania and Contra (USA).chd",
         "Konami Collector's Series - Castlevania and Contra (USA).m3u"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/STARTUP.EXE",
-    "steps": {
-        "postinstall": [
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/KONAMI Software/Castlevania & Contra",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Konami Collector's Series - Castlevania and Contra (USA).m3u"
 }

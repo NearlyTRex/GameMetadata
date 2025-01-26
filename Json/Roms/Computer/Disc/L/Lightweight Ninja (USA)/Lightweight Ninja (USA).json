@@ -1,13 +1,27 @@
 {
+    "disc": {
+        "appid": "11afb1d0-352a-4007-8c10-ca1254fe3d58",
+        "appname": "lightweight_ninja",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Drengin.net/LWNinja",
+                "exe": "LWNinja.exe"
+            }
+        ],
+        "name": "Lightweight Ninja",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Lightweight Ninja (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
-    "launch_exe": [
-        "Program Files (x86)/Drengin.net/LWNinja/LWNinja.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Drengin.net/LWNinja/LWNinja.exe": "Program Files (x86)/Drengin.net/LWNinja"
-    },
     "transform_file": "Lightweight Ninja (USA).chd"
 }

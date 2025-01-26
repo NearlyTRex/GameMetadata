@@ -1,14 +1,25 @@
 {
+    "disc": {
+        "appid": "a1cd001c-5627-4c0d-a567-fa183fa582fb",
+        "appname": "blair_witch_volume_2_the_legend_of_coffin_rock",
+        "keys": [],
+        "launch": [],
+        "name": "Blair Witch Volume 2 - The Legend of Coffin Rock",
+        "paths": [
+            "HDD_MAIN_ROOT/Program Files (x86)/HumanHead/Blair Witch II/save",
+            "HDD_MAIN_ROOT/Program Files (x86)/HumanHead/Blair Witch II/SYSTEM"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Blair Witch Volume 2 - The Legend of Coffin Rock (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
-    "sync": {
-        "data": [
-            "save",
-            "SYSTEM"
-        ],
-        "search": "blairwitch2.exe"
-    },
     "transform_file": "Blair Witch Volume 2 - The Legend of Coffin Rock (USA).chd"
 }

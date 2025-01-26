@@ -1,30 +1,33 @@
 {
+    "disc": {
+        "appid": "57156d98-f19e-4dfc-bf25-1c2bf3e5efa9",
+        "appname": "mavis_beacon_teaches_typing_version_3",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/MAVIS3",
+                "exe": "MAVIS.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "Mavis Beacon Teaches Typing! Version 3",
+        "paths": [
+            "DOS_MAIN_ROOT/C/MAVIS3/*.REC"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Mavis Beacon Teaches Typing! Version 3 (USA) (Update).chd",
         "Mavis Beacon Teaches Typing! Version 3 (USA).chd",
         "Mavis Beacon Teaches Typing! Version 3 (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "MAVIS3/MAVIS.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "MAVIS3/MAVIS.EXE": "MAVIS3"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "*.REC"
-        ],
-        "search": "MAVIS3/MAVIS.EXE"
-    },
     "transform_file": "Mavis Beacon Teaches Typing! Version 3 (USA).m3u"
 }

@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "094c10f3-358b-4f93-b160-1e7f22c6550b",
+        "appname": "dyscourse",
+        "keys": [],
+        "launch": [],
+        "name": "Dyscourse",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Dyscourse/Windows/Dyscourse_DRMfree_win.zip",
+                    "to": "HDD_MAIN_ROOT/Dyscourse_DRMfree_win",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Dyscourse (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Dyscourse/Windows/Dyscourse_DRMfree_win.zip",
-                "to": "HDD_MAIN_ROOT/Dyscourse_DRMfree_win",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Dyscourse (USA).chd"
 }

@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "7c0b810c-be7f-408d-a767-ce4d7dedda2b",
+        "appname": "street_fighter_2",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/STI/SFII",
+                "exe": "SF2.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Street Fighter 2",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SELECT.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Street Fighter 2 (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/SELECT.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "STI/SFII/SF2.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "STI/SFII/SF2.EXE": "STI/SFII"
-    },
     "transform_file": "Street Fighter 2 (USA).chd"
 }

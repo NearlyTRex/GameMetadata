@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "e099451e-8082-4a9b-997c-4d8cefe32d2c",
+        "appname": "sonic_r",
+        "keys": [],
+        "launch": [],
+        "name": "Sonic R",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Install.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Sonic R (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Install.exe",
     "transform_file": "Sonic R (USA).chd"
 }

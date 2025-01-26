@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "de8b4d6a-82d8-4eda-b451-3b5835f8c52f",
+        "appname": "starsiege_tribes",
+        "keys": [],
+        "launch": [],
+        "name": "Starsiege - Tribes",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Starsiege - Tribes (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Starsiege - Tribes (USA).chd"
 }

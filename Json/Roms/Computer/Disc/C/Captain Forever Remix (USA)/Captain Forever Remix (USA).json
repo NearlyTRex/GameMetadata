@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "14e0ace4-f5f0-4c02-b04f-526f79a8b952",
+        "appname": "captain_forever_remix",
+        "keys": [],
+        "launch": [],
+        "name": "Captain Forever Remix",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Windows.zip",
+                    "to": "HDD_MAIN_ROOT/Captain Forever Remix",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Captain Forever Remix (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Windows.zip",
-                "to": "HDD_MAIN_ROOT/Captain Forever Remix",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Captain Forever Remix (USA).chd"
 }

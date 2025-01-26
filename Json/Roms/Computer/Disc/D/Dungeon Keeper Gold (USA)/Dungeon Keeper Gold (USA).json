@@ -1,28 +1,35 @@
 {
+    "disc": {
+        "appid": "9979612c-4d1b-469c-932d-577c9ae4d7eb",
+        "appname": "dungeon_keeper_gold",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/DungeonKeeper",
+                "exe": "launcher.exe"
+            }
+        ],
+        "name": "Dungeon Keeper Gold",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Keeper",
+                    "to": "HDD_MAIN_ROOT/DungeonKeeper",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*.7z",
+                    "to": "HDD_MAIN_ROOT/DungeonKeeper",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Dungeon Keeper Gold (USA) (Update).chd",
         "Dungeon Keeper Gold (USA).chd",
         "Dungeon Keeper Gold (USA).m3u"
     ],
-    "launch_exe": [
-        "DungeonKeeper/launcher.exe"
-    ],
-    "launch_exe_cwd": {
-        "DungeonKeeper/launcher.exe": "DungeonKeeper"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Keeper",
-                "to": "HDD_MAIN_ROOT/DungeonKeeper",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*.7z",
-                "to": "HDD_MAIN_ROOT/DungeonKeeper",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Dungeon Keeper Gold (USA).m3u"
 }

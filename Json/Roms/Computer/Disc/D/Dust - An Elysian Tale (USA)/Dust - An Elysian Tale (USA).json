@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "57e595ae-8123-472f-a807-d4001030e2ca",
+        "appname": "dust_an_elysian_tale",
+        "keys": [],
+        "launch": [],
+        "name": "Dust - An Elysian Tale",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "DustAET_win_104.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Dust - An Elysian Tale (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/DustAET_win_104.exe",
     "transform_file": "Dust - An Elysian Tale (USA).chd"
 }

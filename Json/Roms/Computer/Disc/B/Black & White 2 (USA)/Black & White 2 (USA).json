@@ -1,4 +1,53 @@
 {
+    "disc": {
+        "appid": "f5117db5-daeb-464f-bb9e-527cfc7dffdf",
+        "appname": "black_white_2",
+        "keys": [],
+        "launch": [],
+        "name": "Black & White 2",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "arun.exe",
+                    "serial": "5ALC-LYDP-XWAR-TV87-NC6R"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "BW2Patch1_1.exe"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "BW2Patch1_2.exe"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "B&W2 Fan Patch v1.42 Installer.exe"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_THREE_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Black & White 2 (USA) (Disc 1).chd",
         "Black & White 2 (USA) (Disc 2).chd",
@@ -7,36 +56,5 @@
         "Black & White 2 (USA) (Update).chd",
         "Black & White 2 (USA).m3u"
     ],
-    "installer_exe": [
-        "DISC_ONE_ROOT/arun.exe",
-        "DISC_UPDATE_ROOT/BW2Patch1_1.exe",
-        "DISC_UPDATE_ROOT/BW2Patch1_2.exe",
-        "DISC_UPDATE_ROOT/B&W2 Fan Patch v1.42 Installer.exe"
-    ],
-    "serials": {
-        "Black & White 2 (USA) (Disc 1).chd": "5ALC-LYDP-XWAR-TV87-NC6R"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_THREE_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_FOUR_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Black & White 2 (USA).m3u"
 }

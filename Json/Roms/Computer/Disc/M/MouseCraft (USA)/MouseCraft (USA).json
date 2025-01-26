@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "47ca7344-9757-4523-98bd-3aac0effa5f1",
+        "appname": "mousecraft",
+        "keys": [],
+        "launch": [],
+        "name": "MouseCraft",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/MouseCraft/Windows",
+                    "exe": "MouseCraft.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "MouseCraft (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/MouseCraft/Windows/MouseCraft.exe",
     "transform_file": "MouseCraft (USA).chd"
 }

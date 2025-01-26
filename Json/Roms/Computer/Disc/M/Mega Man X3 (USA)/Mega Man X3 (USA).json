@@ -1,13 +1,27 @@
 {
+    "disc": {
+        "appid": "09d790e7-483e-40fc-bbbe-d4addfa7a9d8",
+        "appname": "mega_man_x3",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/CAPCOM/MEGAMANX3",
+                "exe": "MMX3.EXE"
+            }
+        ],
+        "name": "Mega Man X3",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "AUTORUN.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Mega Man X3 (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/AUTORUN.EXE",
-    "launch_exe": [
-        "CAPCOM/MEGAMANX3/MMX3.EXE"
-    ],
-    "launch_exe_cwd": {
-        "CAPCOM/MEGAMANX3/MMX3.EXE": "CAPCOM/MEGAMANX3"
-    },
     "transform_file": "Mega Man X3 (USA).chd"
 }

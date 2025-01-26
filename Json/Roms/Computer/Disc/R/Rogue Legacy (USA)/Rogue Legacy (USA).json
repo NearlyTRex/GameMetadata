@@ -1,10 +1,26 @@
 {
+    "disc": {
+        "appid": "f695af1d-b612-4f7d-8a49-62e0fa42b0f5",
+        "appname": "rogue_legacy",
+        "keys": [],
+        "launch": [],
+        "name": "Rogue Legacy",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/Rogue Legacy/Windows/Installation Files",
+                    "exe": "RogueLegacyInstaller_v120a.exe"
+                },
+                {
+                    "cwd": "DISC_MAIN_ROOT/Rogue Legacy/Windows/Patch",
+                    "exe": "Rogue Legacy Patch_v1.2.0b (Requires v120a) PC.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Rogue Legacy (USA).chd"
-    ],
-    "installer_exe": [
-        "DISC_MAIN_ROOT/Rogue Legacy/Windows/Installation Files/RogueLegacyInstaller_v120a.exe",
-        "DISC_MAIN_ROOT/Rogue Legacy/Windows/Patch/Rogue Legacy Patch_v1.2.0b (Requires v120a) PC.exe"
     ],
     "transform_file": "Rogue Legacy (USA).chd"
 }

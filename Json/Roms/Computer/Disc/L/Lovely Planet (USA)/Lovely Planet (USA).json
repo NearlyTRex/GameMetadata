@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "ae238293-c8f7-4596-b0c6-7011ef143795",
+        "appname": "lovely_planet",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Lovely Planet",
+                "exe": "LovelyPlanet.exe"
+            }
+        ],
+        "name": "Lovely Planet",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Lovely Planet/Windows",
+                    "to": "HDD_MAIN_ROOT/Lovely Planet",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Lovely Planet (USA).chd"
     ],
-    "launch_exe": [
-        "Lovely Planet/LovelyPlanet.exe"
-    ],
-    "launch_exe_cwd": {
-        "Lovely Planet/LovelyPlanet.exe": "Lovely Planet"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Lovely Planet/Windows",
-                "to": "HDD_MAIN_ROOT/Lovely Planet",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Lovely Planet (USA).chd"
 }

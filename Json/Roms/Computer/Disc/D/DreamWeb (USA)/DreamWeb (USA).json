@@ -1,17 +1,28 @@
 {
+    "disc": {
+        "appid": "8263b1f3-9826-47b4-a780-8140c36ce6ae",
+        "appname": "dreamweb",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "DreamWeb",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "DreamWeb (USA).chd"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "DreamWeb (USA).chd"
 }

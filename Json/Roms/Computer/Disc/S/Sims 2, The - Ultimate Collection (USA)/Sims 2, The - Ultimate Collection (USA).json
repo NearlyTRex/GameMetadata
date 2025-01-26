@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "79b85ef2-de33-4d7d-b62d-8239f7fb8ea2",
+        "appname": "the_sims_2_ultimate_collection",
+        "keys": [],
+        "launch": [],
+        "name": "The Sims 2 - Ultimate Collection",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Sims 2, The - Ultimate Collection (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Sims 2, The - Ultimate Collection (USA).chd"
 }

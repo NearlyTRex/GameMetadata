@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "dc4ac1a6-08ac-4f95-9598-1c03634a909b",
+        "appname": "scp087b",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/SCP_087_B",
+                "exe": "SCP-087-B.exe"
+            }
+        ],
+        "name": "SCP-087-B",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/SCP_087_B",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "SCP-087-B (USA).chd"
     ],
-    "launch_exe": [
-        "SCP_087_B/SCP-087-B.exe"
-    ],
-    "launch_exe_cwd": {
-        "SCP_087_B/SCP-087-B.exe": "SCP_087_B"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/SCP_087_B",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "SCP-087-B (USA).chd"
 }

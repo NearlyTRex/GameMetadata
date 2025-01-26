@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "603e8a5a-256d-462d-aefa-744751b77a69",
+        "appname": "glittermitten_grove_frog_fractions_2",
+        "keys": [],
+        "launch": [],
+        "name": "Glittermitten Grove & Frog Fractions 2",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/GlittermittenGrove_windows_v131.zip",
+                    "to": "HDD_MAIN_ROOT/GlittermittenGrove_windows_v131",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Glittermitten Grove & Frog Fractions 2 (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/GlittermittenGrove_windows_v131.zip",
-                "to": "HDD_MAIN_ROOT/GlittermittenGrove_windows_v131",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Glittermitten Grove & Frog Fractions 2 (USA).chd"
 }

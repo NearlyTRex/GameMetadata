@@ -1,34 +1,59 @@
 {
+    "disc": {
+        "appid": "69eac7d7-db53-4a38-a143-9913d2d7f436",
+        "appname": "forgotten_realms_the_archives_collection_two",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC2/POOL",
+                "exe": "START.BAT",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC2/CURSE",
+                "exe": "START.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC2/SECRET",
+                "exe": "START.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC2/DARKNESS",
+                "exe": "START.BAT",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC2/HILLSFAR",
+                "exe": "HILLSFAR.BAT",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC2/GATEWAY",
+                "exe": "START.BAT",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC2/TREASURE",
+                "exe": "START.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "Forgotten Realms - The Archives - Collection Two",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/FORC2",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Forgotten Realms - The Archives - Collection Two (USA).chd"
     ],
-    "is_dos": true,
-    "launch_dos_exe": [
-        "FORC2/POOL/START.BAT",
-        "FORC2/CURSE/START.EXE",
-        "FORC2/SECRET/START.EXE",
-        "FORC2/DARKNESS/START.BAT",
-        "FORC2/HILLSFAR/HILLSFAR.BAT",
-        "FORC2/GATEWAY/START.BAT",
-        "FORC2/TREASURE/START.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "FORC2/CURSE/START.EXE": "FORC2/CURSE",
-        "FORC2/DARKNESS/START.BAT": "FORC2/DARKNESS",
-        "FORC2/GATEWAY/START.BAT": "FORC2/GATEWAY",
-        "FORC2/HILLSFAR/HILLSFAR.BAT": "FORC2/HILLSFAR",
-        "FORC2/POOL/START.BAT": "FORC2/POOL",
-        "FORC2/SECRET/START.EXE": "FORC2/SECRET",
-        "FORC2/TREASURE/START.BAT": "FORC2/TREASURE"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/FORC2",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Forgotten Realms - The Archives - Collection Two (USA).chd"
 }

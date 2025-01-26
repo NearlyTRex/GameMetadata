@@ -1,33 +1,39 @@
 {
+    "disc": {
+        "appid": "1cd34b21-b976-42be-9742-32fac35c9351",
+        "appname": "resident_evil_4",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/CAPCOM/resident evil 4",
+                "exe": "game.exe"
+            }
+        ],
+        "name": "Resident Evil 4",
+        "paths": [
+            "HDD_MAIN_ROOT/Program Files (x86)/CAPCOM/resident evil 4/SaveData.dat"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "launcher.exe",
+                    "serial": "re15120671562455"
+                }
+            ],
+            "postinstall": [
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/CAPCOM/resident evil 4",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Resident Evil 4 (USA) (Update).chd",
         "Resident Evil 4 (USA).chd",
         "Resident Evil 4 (USA).m3u"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/launcher.exe",
-    "launch_exe": [
-        "Program Files (x86)/CAPCOM/resident evil 4/game.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/CAPCOM/resident evil 4/game.exe": "Program Files (x86)/CAPCOM/resident evil 4"
-    },
-    "serials": {
-        "Resident Evil 4 (USA).chd": "re15120671562455"
-    },
-    "steps": {
-        "postinstall": [
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/Program Files (x86)/CAPCOM/resident evil 4",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "SaveData.dat"
-        ],
-        "search": "CAPCOM/resident evil 4/game.exe"
-    },
     "transform_file": "Resident Evil 4 (USA).m3u"
 }

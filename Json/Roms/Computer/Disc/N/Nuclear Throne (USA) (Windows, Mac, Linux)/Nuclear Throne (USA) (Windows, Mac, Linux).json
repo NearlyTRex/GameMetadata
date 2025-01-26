@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "369b6b3b-28ad-4b93-9b96-d2660e124b7b",
+        "appname": "nuclear_throne",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Nuclear Throne",
+                "exe": "nuclearthrone.exe"
+            }
+        ],
+        "name": "Nuclear Throne",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/win.zip",
+                    "to": "HDD_MAIN_ROOT/Nuclear Throne",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Nuclear Throne (USA) (Windows, Mac, Linux).chd"
     ],
-    "launch_exe": [
-        "Nuclear Throne/nuclearthrone.exe"
-    ],
-    "launch_exe_cwd": {
-        "Nuclear Throne/nuclearthrone.exe": "Nuclear Throne"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/win.zip",
-                "to": "HDD_MAIN_ROOT/Nuclear Throne",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Nuclear Throne (USA) (Windows, Mac, Linux).chd"
 }

@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "f489814a-b59f-4110-8b2d-69a0a15b08b4",
+        "appname": "imscared_a_pixelated_nightmare",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Imscared",
+                "exe": "imscared.exe"
+            }
+        ],
+        "name": "Imscared - A Pixelated Nightmare",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Imscared",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Imscared - A Pixelated Nightmare (USA).chd"
     ],
-    "launch_exe": [
-        "Imscared/imscared.exe"
-    ],
-    "launch_exe_cwd": {
-        "Imscared/imscared.exe": "Imscared"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Imscared",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Imscared - A Pixelated Nightmare (USA).chd"
 }

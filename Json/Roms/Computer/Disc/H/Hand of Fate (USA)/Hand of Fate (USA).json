@@ -1,8 +1,23 @@
 {
+    "disc": {
+        "appid": "9ddfd8ad-d38f-44bb-99d8-8ac35f83ae84",
+        "appname": "hand_of_fate",
+        "keys": [],
+        "launch": [],
+        "name": "Hand of Fate",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "handoffate_humble_win32_21517.exe",
+                    "installer_type": "7zip"
+                }
+            ]
+        }
+    },
     "files": [
         "Hand of Fate (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/handoffate_humble_win32_21517.exe",
-    "installer_type": "7zip",
     "transform_file": "Hand of Fate (USA).chd"
 }

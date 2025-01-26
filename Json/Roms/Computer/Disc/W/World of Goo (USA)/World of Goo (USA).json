@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "6d998ac5-1f37-42cb-9ef9-4b2889c7ecde",
+        "appname": "world_of_goo",
+        "keys": [],
+        "launch": [],
+        "name": "World of Goo",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "WorldOfGooSetup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "World of Goo (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/WorldOfGooSetup.exe",
     "transform_file": "World of Goo (USA).chd"
 }

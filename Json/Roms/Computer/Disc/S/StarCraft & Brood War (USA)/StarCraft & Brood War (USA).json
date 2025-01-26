@@ -1,22 +1,33 @@
 {
+    "disc": {
+        "appid": "2ddbe5f7-6218-44ef-97a6-e94344c3c55f",
+        "appname": "starcraft_brood_war",
+        "keys": [],
+        "launch": [],
+        "name": "StarCraft & Brood War",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "StarCraft (Windows).exe",
+                    "serial": "26887CX6HTXXVXNY76JXRDCE2X"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "StarCraft & Brood War (USA) (Disc 1).chd",
         "StarCraft & Brood War (USA) (Disc 2).chd",
         "StarCraft & Brood War (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/StarCraft (Windows).exe",
-    "serials": {
-        "StarCraft & Brood War (USA) (Disc 1).chd": "26887CX6HTXXVXNY76JXRDCE2X"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "StarCraft & Brood War (USA).m3u"
 }

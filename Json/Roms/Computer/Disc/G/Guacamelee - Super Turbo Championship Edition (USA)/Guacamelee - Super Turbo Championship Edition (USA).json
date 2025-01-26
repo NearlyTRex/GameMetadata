@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "cddf059d-973f-478e-b5f3-5bdb5bbcd04d",
+        "appname": "guacamelee_super_turbo_championship_edition",
+        "keys": [],
+        "launch": [],
+        "name": "Guacamelee - Super Turbo Championship Edition",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Guacamelee! STCE - DRM-Free Installer.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Guacamelee - Super Turbo Championship Edition (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Guacamelee! STCE - DRM-Free Installer.exe",
     "transform_file": "Guacamelee - Super Turbo Championship Edition (USA).chd"
 }

@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "73199e1b-7c5d-4fd7-8a15-1343e55202ed",
+        "appname": "codename_nina_global_terrorism_strike_force",
+        "keys": [],
+        "launch": [],
+        "name": "Codename Nina - Global Terrorism Strike Force",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Codename Nina - Global Terrorism Strike Force (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Codename Nina - Global Terrorism Strike Force (USA).chd"
 }

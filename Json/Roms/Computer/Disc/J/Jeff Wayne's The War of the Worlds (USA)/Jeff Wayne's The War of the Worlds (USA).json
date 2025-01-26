@@ -1,9 +1,24 @@
 {
+    "disc": {
+        "appid": "e6aed063-3bab-418e-a2a7-5c564893ec48",
+        "appname": "jeff_waynes_the_war_of_the_worlds",
+        "keys": [],
+        "launch": [],
+        "name": "Jeff Wayne's The War of the Worlds",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "Autoexec.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Jeff Wayne's The War of the Worlds (USA) (Human Missions) (Disc 1).chd",
         "Jeff Wayne's The War of the Worlds (USA) (Martian Missions) (Disc 2).chd",
         "Jeff Wayne's The War of the Worlds (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/Autoexec.exe",
     "transform_file": "Jeff Wayne's The War of the Worlds (USA).m3u"
 }

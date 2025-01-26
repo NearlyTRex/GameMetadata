@@ -6,11 +6,12 @@
     "Nocturne (USA).m3u"
   ],
   "disc": {
+    "appid": "2ef139b3-7e3a-42c0-9b7c-83aa7f8ae13b",
+    "appname": "nocturne",
     "launch": [
       {
         "exe": "nocturne.exe",
-        "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne",
-        "args": []
+        "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne"
       }
     ],
     "setup": {

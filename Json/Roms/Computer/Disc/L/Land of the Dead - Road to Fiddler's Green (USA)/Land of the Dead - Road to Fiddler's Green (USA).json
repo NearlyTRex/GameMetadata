@@ -1,19 +1,32 @@
 {
+    "disc": {
+        "appid": "7d144e65-458e-4bd8-80f7-8c80b80628cc",
+        "appname": "land_of_the_dead_road_to_fiddlers_green",
+        "keys": [],
+        "launch": [],
+        "name": "Land of the Dead - Road to Fiddler's Green",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Land of the Dead - Road to Fiddler's Green (USA) (Disc 1).chd",
         "Land of the Dead - Road to Fiddler's Green (USA) (Disc 2).chd",
         "Land of the Dead - Road to Fiddler's Green (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/Setup.exe",
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Land of the Dead - Road to Fiddler's Green (USA).m3u"
 }

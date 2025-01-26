@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "12698676-f9b7-4b18-b0c2-fc49b2b552f1",
+        "appname": "microsoft_flight_simulator_for_windows_95",
+        "keys": [],
+        "launch": [],
+        "name": "Microsoft Flight Simulator for Windows 95",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Microsoft Flight Simulator for Windows 95 (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Microsoft Flight Simulator for Windows 95 (USA).chd"
 }

@@ -1,26 +1,39 @@
 {
+    "disc": {
+        "appid": "dc801bb9-c23f-4ae0-936f-3b380afaf446",
+        "appname": "forgotten_realms_the_archives_collection_one",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC1/EYE",
+                "exe": "START.BAT",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC1/DARKMOON",
+                "exe": "START.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/FORC1/EOB3",
+                "exe": "EYE.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "Forgotten Realms - The Archives - Collection One",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/FORC1",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Forgotten Realms - The Archives - Collection One (USA).chd"
     ],
-    "is_dos": true,
-    "launch_dos_exe": [
-        "FORC1/EYE/START.BAT",
-        "FORC1/DARKMOON/START.EXE",
-        "FORC1/EOB3/EYE.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "FORC1/DARKMOON/START.EXE": "FORC1/DARKMOON",
-        "FORC1/EOB3/EYE.BAT": "FORC1/EOB3",
-        "FORC1/EYE/START.BAT": "FORC1/EYE"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/FORC1",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Forgotten Realms - The Archives - Collection One (USA).chd"
 }

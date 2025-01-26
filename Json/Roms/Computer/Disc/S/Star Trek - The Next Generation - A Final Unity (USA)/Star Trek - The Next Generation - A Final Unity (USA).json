@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "464cb505-cd3d-47eb-b6a3-5c164f3a8996",
+        "appname": "star_trek_the_next_generation_a_final_unity",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/STTNG",
+                "exe": "STTNG.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Star Trek - The Next Generation - A Final Unity",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Star Trek - The Next Generation - A Final Unity (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "STTNG/STTNG.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "STTNG/STTNG.EXE": "STTNG"
-    },
     "transform_file": "Star Trek - The Next Generation - A Final Unity (USA).chd"
 }

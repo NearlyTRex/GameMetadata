@@ -1,23 +1,31 @@
 {
+    "disc": {
+        "appid": "59ecca96-c945-476e-a137-66685952e53c",
+        "appname": "brutal_legend",
+        "keys": [],
+        "launch": [],
+        "name": "Brutal Legend",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_ONE_ROOT",
+                    "to": "HDD_MAIN_ROOT/Brutal Legend",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Brutal Legend (USA) (Disc 1).chd",
         "Brutal Legend (USA) (Disc 2).chd",
         "Brutal Legend (USA).m3u"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_ONE_ROOT",
-                "to": "HDD_MAIN_ROOT/Brutal Legend",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Brutal Legend (USA).m3u"
 }

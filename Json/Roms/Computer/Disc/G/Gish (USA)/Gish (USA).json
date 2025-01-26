@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "4e214951-3885-40e0-b600-c6d61cb0d744",
+        "appname": "gish",
+        "keys": [],
+        "launch": [],
+        "name": "Gish",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Gish",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Gish (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Gish",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Gish (USA).chd"
 }

@@ -1,9 +1,24 @@
 {
+    "disc": {
+        "appid": "6e67db29-8122-48c1-aeab-d3c088a272f2",
+        "appname": "star_wars_xwing_alliance",
+        "keys": [],
+        "launch": [],
+        "name": "Star Wars - X-Wing Alliance",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "SETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Star Wars - X-Wing Alliance (USA) (Disc 1).chd",
         "Star Wars - X-Wing Alliance (USA) (Disc 2).chd",
         "Star Wars - X-Wing Alliance (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/SETUP.EXE",
     "transform_file": "Star Wars - X-Wing Alliance (USA).m3u"
 }

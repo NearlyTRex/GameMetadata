@@ -1,53 +1,52 @@
 {
+    "disc": {
+        "appid": "962ca116-327f-407e-9750-14782251a7e4",
+        "appname": "dino_crisis",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/DinoCrisis",
+                "exe": "DINO.exe",
+                "overrides": "ddraw=n,b"
+            }
+        ],
+        "name": "Dino Crisis",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT/Data",
+                    "to": "HDD_MAIN_ROOT/DinoCrisis/Data",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/Movie",
+                    "to": "HDD_MAIN_ROOT/DinoCrisis/Movie",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/SOUND",
+                    "to": "HDD_MAIN_ROOT/DinoCrisis/SOUND",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/DINO.exe",
+                    "to": "HDD_MAIN_ROOT/DinoCrisis/DINO.exe",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/DinoCrisis",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Dino Crisis (USA) (Disc 1).chd",
         "Dino Crisis (USA) (Disc 2).chd",
         "Dino Crisis (USA) (Update).chd",
         "Dino Crisis (USA).m3u"
     ],
-    "launch_exe": [
-        "DinoCrisis/DINO.exe"
-    ],
-    "launch_exe_cwd": {
-        "DinoCrisis/DINO.exe": "DinoCrisis"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "ddraw=n,b"
-                ]
-            }
-        }
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT/Data",
-                "to": "HDD_MAIN_ROOT/DinoCrisis/Data",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/Movie",
-                "to": "HDD_MAIN_ROOT/DinoCrisis/Movie",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/SOUND",
-                "to": "HDD_MAIN_ROOT/DinoCrisis/SOUND",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/DINO.exe",
-                "to": "HDD_MAIN_ROOT/DinoCrisis/DINO.exe",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/DinoCrisis",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Dino Crisis (USA).m3u"
 }

@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "92788d85-c70b-430e-8ca6-667460fce038",
+        "appname": "septerra_core_legacy_of_the_creator",
+        "keys": [],
+        "launch": [],
+        "name": "Septerra Core - Legacy of the Creator",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "LAUNCH.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Septerra Core - Legacy of the Creator (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/LAUNCH.EXE",
     "transform_file": "Septerra Core - Legacy of the Creator (USA).chd"
 }

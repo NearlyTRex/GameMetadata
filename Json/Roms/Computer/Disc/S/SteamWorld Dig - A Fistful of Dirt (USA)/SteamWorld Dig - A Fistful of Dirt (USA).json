@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "040990d3-1490-4c3d-803f-437744435f78",
+        "appname": "steamworld_dig_a_fistful_of_dirt",
+        "keys": [],
+        "launch": [],
+        "name": "SteamWorld Dig - A Fistful of Dirt",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/SteamWorld Dig/Win",
+                    "exe": "InstallDig.msi"
+                }
+            ]
+        }
+    },
     "files": [
         "SteamWorld Dig - A Fistful of Dirt (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/SteamWorld Dig/Win/InstallDig.msi",
     "transform_file": "SteamWorld Dig - A Fistful of Dirt (USA).chd"
 }

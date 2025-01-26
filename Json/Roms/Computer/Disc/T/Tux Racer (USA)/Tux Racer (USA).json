@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "19b306b2-1edf-48c4-821d-3d7357c4a569",
+        "appname": "tux_racer",
+        "keys": [],
+        "launch": [],
+        "name": "Tux Racer",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Tux Racer (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Tux Racer (USA).chd"
 }

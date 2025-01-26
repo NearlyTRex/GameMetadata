@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "9c81a562-835b-44ee-bd11-ec8d8a6d57c6",
+        "appname": "star_wars_dark_forces",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/DARK",
+                "exe": "DARK.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Star Wars - Dark Forces",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Star Wars - Dark Forces (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "DARK/DARK.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "DARK/DARK.EXE": "DARK"
-    },
     "transform_file": "Star Wars - Dark Forces (USA).chd"
 }

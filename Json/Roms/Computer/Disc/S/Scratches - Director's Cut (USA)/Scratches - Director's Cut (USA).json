@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "2756a274-57ca-4f89-a427-806f3ae54e14",
+        "appname": "scratches_directors_cut",
+        "keys": [],
+        "launch": [],
+        "name": "Scratches - Director's Cut",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "sdc_setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Scratches - Director's Cut (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/sdc_setup.exe",
     "transform_file": "Scratches - Director's Cut (USA).chd"
 }

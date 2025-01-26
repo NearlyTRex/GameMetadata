@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "e158c20c-260e-4323-8dd3-9a578dcd51a7",
+        "appname": "the_basement_collection",
+        "keys": [],
+        "launch": [],
+        "name": "The Basement Collection",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Basement Collection, The (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "Basement Collection, The (USA).chd"
 }

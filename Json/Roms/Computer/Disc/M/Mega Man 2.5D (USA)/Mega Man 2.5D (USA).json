@@ -1,31 +1,32 @@
 {
-    "files": [
-        "Mega Man 2.5D (USA).chd"
-    ],
-    "launch_exe": [
-        "Mega Man 2.5D/MM25DGame.exe"
-    ],
-    "launch_exe_cwd": {
-        "Mega Man 2.5D/MM25DGame.exe": "Mega Man 2.5D"
-    },
-    "sandbox": {
-        "wine": {
-            "tricks": {
-                "game": [
+    "disc": {
+        "appid": "fd8c16ca-bc69-4d8a-8ffa-6f4f1308738b",
+        "appname": "mega_man_25d",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Mega Man 2.5D",
+                "exe": "MM25DGame.exe",
+                "tricks": [
                     "dotnet40",
                     "xna40"
                 ]
             }
+        ],
+        "name": "Mega Man 2.5D",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Mega Man 2.5D",
+                    "type": "copy"
+                }
+            ]
         }
     },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Mega Man 2.5D",
-                "type": "copy"
-            }
-        ]
-    },
+    "files": [
+        "Mega Man 2.5D (USA).chd"
+    ],
     "transform_file": "Mega Man 2.5D (USA).chd"
 }

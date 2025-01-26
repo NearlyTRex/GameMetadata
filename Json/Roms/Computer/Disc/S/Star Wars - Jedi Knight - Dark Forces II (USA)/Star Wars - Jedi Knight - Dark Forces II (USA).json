@@ -1,9 +1,24 @@
 {
+    "disc": {
+        "appid": "44a3e6d3-184e-4410-aa55-17e606d2c05c",
+        "appname": "star_wars_jedi_knight_dark_forces_ii",
+        "keys": [],
+        "launch": [],
+        "name": "Star Wars - Jedi Knight - Dark Forces II",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "JEDI.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Star Wars - Jedi Knight - Dark Forces II (USA) (Disc 1).chd",
         "Star Wars - Jedi Knight - Dark Forces II (USA) (Disc 2).chd",
         "Star Wars - Jedi Knight - Dark Forces II (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/JEDI.EXE",
     "transform_file": "Star Wars - Jedi Knight - Dark Forces II (USA).m3u"
 }

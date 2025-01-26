@@ -1,19 +1,33 @@
 {
+    "disc": {
+        "appid": "ff31c01f-012a-4165-a922-dab7129cc52e",
+        "appname": "super_win_the_game",
+        "keys": [],
+        "launch": [],
+        "name": "Super Win The Game",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/Super Win The Game/Windows",
+                    "exe": "SuperGame_Windows_2014-12-16_16-04.exe"
+                },
+                {
+                    "cwd": "DISC_MAIN_ROOT/You Have To Win The Game/Windows",
+                    "exe": "TheGame_Install_2013-10-24_20-01.exe"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/CluserPuck99/Windows/ClusterPuck99_1_Win.zip",
+                    "to": "HDD_MAIN_ROOT/ClusterPuck99_1_Win",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Super Win The Game (USA).chd"
     ],
-    "installer_exe": [
-        "DISC_MAIN_ROOT/Super Win The Game/Windows/SuperGame_Windows_2014-12-16_16-04.exe",
-        "DISC_MAIN_ROOT/You Have To Win The Game/Windows/TheGame_Install_2013-10-24_20-01.exe"
-    ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/CluserPuck99/Windows/ClusterPuck99_1_Win.zip",
-                "to": "HDD_MAIN_ROOT/ClusterPuck99_1_Win",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Super Win The Game (USA).chd"
 }

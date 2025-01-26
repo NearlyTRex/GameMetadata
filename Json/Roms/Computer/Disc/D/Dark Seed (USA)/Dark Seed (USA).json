@@ -1,20 +1,31 @@
 {
+    "disc": {
+        "appid": "1d90c4f0-213d-4fb8-b540-c6764b677b39",
+        "appname": "dark_seed",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/DARKSEED",
+                "exe": "START.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Dark Seed",
+        "paths": [
+            "DOS_MAIN_ROOT/C/DARKSEED/*.SAV"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Dark Seed (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "DARKSEED/START.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "DARKSEED/START.EXE": "DARKSEED"
-    },
-    "sync": {
-        "data": [
-            "*.SAV"
-        ],
-        "search": "DARKSEED/START.EXE"
-    },
     "transform_file": "Dark Seed (USA).chd"
 }

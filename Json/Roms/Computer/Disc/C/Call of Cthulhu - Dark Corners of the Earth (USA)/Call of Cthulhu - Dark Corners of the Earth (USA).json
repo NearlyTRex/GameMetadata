@@ -1,19 +1,32 @@
 {
+    "disc": {
+        "appid": "e58d5574-55ca-4ea7-9dcd-ebf1fb12dda0",
+        "appname": "call_of_cthulhu_dark_corners_of_the_earth",
+        "keys": [],
+        "launch": [],
+        "name": "Call of Cthulhu - Dark Corners of the Earth",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "setup.exe"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Call of Cthulhu - Dark Corners of the Earth (USA) (Disc 1).chd",
         "Call of Cthulhu - Dark Corners of the Earth (USA) (Disc 2).chd",
         "Call of Cthulhu - Dark Corners of the Earth (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/setup.exe",
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Call of Cthulhu - Dark Corners of the Earth (USA).m3u"
 }

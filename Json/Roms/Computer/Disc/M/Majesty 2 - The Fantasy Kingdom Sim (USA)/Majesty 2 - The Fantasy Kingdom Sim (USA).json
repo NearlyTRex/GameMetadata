@@ -1,27 +1,34 @@
 {
+    "disc": {
+        "appid": "4ca2e6b4-e1fa-4003-af5e-a326508e2856",
+        "appname": "majesty_2_the_fantasy_kingdom_sim",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Paradox Interactive/Majesty 2",
+                "exe": "Majesty2.exe",
+                "tricks": "d3dx9"
+            }
+        ],
+        "name": "Majesty 2 - The Fantasy Kingdom Sim",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "autorun.exe"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "Majesty2_patch_1.5.355_en.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Majesty 2 - The Fantasy Kingdom Sim (USA) (Update).chd",
         "Majesty 2 - The Fantasy Kingdom Sim (USA).chd",
         "Majesty 2 - The Fantasy Kingdom Sim (USA).m3u"
     ],
-    "installer_exe": [
-        "DISC_MAIN_ROOT/autorun.exe",
-        "DISC_UPDATE_ROOT/Majesty2_patch_1.5.355_en.exe"
-    ],
-    "launch_exe": [
-        "Program Files (x86)/Paradox Interactive/Majesty 2/Majesty2.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Paradox Interactive/Majesty 2/Majesty2.exe": "Program Files (x86)/Paradox Interactive/Majesty 2"
-    },
-    "sandbox": {
-        "wine": {
-            "tricks": {
-                "game": [
-                    "d3dx9"
-                ]
-            }
-        }
-    },
     "transform_file": "Majesty 2 - The Fantasy Kingdom Sim (USA).m3u"
 }

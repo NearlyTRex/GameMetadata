@@ -1,4 +1,95 @@
 {
+    "disc": {
+        "appid": "8bac54c2-6e67-44ae-b293-15976b771a9e",
+        "appname": "phantasmagoria_2_a_puzzle_of_flesh",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "Phantasmagoria 2 - A Puzzle of Flesh",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_ONE_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.001",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_ONE_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.001",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.002",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.002",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_THREE_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.003",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_THREE_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.003",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.004",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.004",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.005",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.005",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_ONE_ROOT",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_THREE_ROOT",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                }
+            ]
+        }
+    },
     "files": [
         "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 1).chd",
         "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 2).chd",
@@ -7,85 +98,5 @@
         "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 5).chd",
         "Phantasmagoria 2 - A Puzzle of Flesh (USA).m3u"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_ONE_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.001",
-                "type": "move"
-            },
-            {
-                "from": "DISC_ONE_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.001",
-                "type": "move"
-            },
-            {
-                "from": "DISC_TWO_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.002",
-                "type": "move"
-            },
-            {
-                "from": "DISC_TWO_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.002",
-                "type": "move"
-            },
-            {
-                "from": "DISC_THREE_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.003",
-                "type": "move"
-            },
-            {
-                "from": "DISC_THREE_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.003",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FOUR_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.004",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FOUR_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.004",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FIVE_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.005",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FIVE_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.005",
-                "type": "move"
-            },
-            {
-                "from": "DISC_ONE_ROOT",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_TWO_ROOT",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_THREE_ROOT",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FOUR_ROOT",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FIVE_ROOT",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            }
-        ]
-    },
     "transform_file": "Phantasmagoria 2 - A Puzzle of Flesh (USA).m3u"
 }

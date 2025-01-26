@@ -1,32 +1,35 @@
 {
-    "disc_type": "macwin",
+    "disc": {
+        "appid": "d1c7b391-337c-42b3-a112-0a4d9e9b28a2",
+        "appname": "carmen_sandiego_word_detective",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/CSWORD",
+                "exe": "CWD16.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "Carmen Sandiego - Word Detective",
+        "paths": [
+            "DOS_MAIN_ROOT/C/CSWORD/ROSTERS"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy",
+                    "disc_type": "macwin"
+                }
+            ]
+        }
+    },
     "files": [
         "Carmen Sandiego - Word Detective (USA) (Disc 1) (Hybrid).chd",
         "Carmen Sandiego - Word Detective (USA) (Disc 2) (Windows).chd",
         "Carmen Sandiego - Word Detective (USA) (Update).chd",
         "Carmen Sandiego - Word Detective (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "CSWORD/CWD16.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "CSWORD/CWD16.EXE": "CSWORD"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "ROSTERS"
-        ],
-        "search": "CSWORD/CWD16.EXE"
-    },
     "transform_file": "Carmen Sandiego - Word Detective (USA).m3u"
 }

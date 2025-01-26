@@ -1,8 +1,23 @@
 {
-    "disc_type": "macwin",
+    "disc": {
+        "appid": "86c1ee28-d0d8-46b7-8d24-f7341cd7cac6",
+        "appname": "wheel_of_fortune_deluxe",
+        "keys": [],
+        "launch": [],
+        "name": "Wheel of Fortune Deluxe",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Wheel_of_Fortune_Deluxe_Setup.exe",
+                    "disc_type": "macwin"
+                }
+            ]
+        }
+    },
     "files": [
         "Wheel of Fortune Deluxe (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Wheel_of_Fortune_Deluxe_Setup.exe",
     "transform_file": "Wheel of Fortune Deluxe (USA).chd"
 }

@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "360b80b6-484f-423a-be86-602fc62d0abf",
+        "appname": "pier_solar",
+        "keys": [],
+        "launch": [],
+        "name": "Pier Solar",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Install.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Install.exe",
     "transform_file": "Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).chd"
 }

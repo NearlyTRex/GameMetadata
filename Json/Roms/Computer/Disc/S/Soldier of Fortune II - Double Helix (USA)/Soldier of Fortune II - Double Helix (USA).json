@@ -1,12 +1,25 @@
 {
+    "disc": {
+        "appid": "e5217d98-44fe-4822-92db-845b441a4e30",
+        "appname": "soldier_of_fortune_ii_double_helix",
+        "keys": [],
+        "launch": [],
+        "name": "Soldier of Fortune II - Double Helix",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "AUTORUN.EXE",
+                    "serial": "JPXX-H8P4-3TX7-37FW-6F"
+                }
+            ]
+        }
+    },
     "files": [
         "Soldier of Fortune II - Double Helix (USA) (Disc 1).chd",
         "Soldier of Fortune II - Double Helix (USA) (Disc 2).chd",
         "Soldier of Fortune II - Double Helix (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/AUTORUN.EXE",
-    "serials": {
-        "Soldier of Fortune II - Double Helix (USA) (Disc 1).chd": "JPXX-H8P4-3TX7-37FW-6F"
-    },
     "transform_file": "Soldier of Fortune II - Double Helix (USA).m3u"
 }

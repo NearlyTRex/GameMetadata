@@ -1,4 +1,21 @@
 {
+    "disc": {
+        "appid": "b683b8ba-5df8-4abf-b8fd-9b599045be25",
+        "appname": "enemy_zero",
+        "keys": [],
+        "launch": [],
+        "name": "Enemy Zero",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "EnemyZeroSetup_21.exe",
+                    "winver": "win10"
+                }
+            ]
+        }
+    },
     "files": [
         "Enemy Zero (USA) (Disc 0).chd",
         "Enemy Zero (USA) (Disc 1).chd",
@@ -7,7 +24,5 @@
         "Enemy Zero (USA) (Update).chd",
         "Enemy Zero (USA).m3u"
     ],
-    "installer_exe": "DISC_UPDATE_ROOT/EnemyZeroSetup_21.exe",
-    "transform_file": "Enemy Zero (USA).m3u",
-    "winver": "win10"
+    "transform_file": "Enemy Zero (USA).m3u"
 }

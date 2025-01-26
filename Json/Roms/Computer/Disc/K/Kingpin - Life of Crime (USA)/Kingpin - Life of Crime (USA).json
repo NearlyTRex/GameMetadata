@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "10a18cb0-a494-4b40-9277-02d347e05b3d",
+        "appname": "kingpin_life_of_crime",
+        "keys": [],
+        "launch": [],
+        "name": "Kingpin - Life of Crime",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Kingpin - Life of Crime (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Kingpin - Life of Crime (USA).chd"
 }

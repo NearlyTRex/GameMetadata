@@ -1,35 +1,38 @@
 {
+    "disc": {
+        "appid": "c62e4df1-24f4-47b2-9037-d3ccacb141de",
+        "appname": "castle_of_the_winds_i_a_question_of_vengeance",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/CASTLE1",
+                "exe": "CASTLE1.EXE",
+                "is_win31": true
+            }
+        ],
+        "name": "Castle of the Winds I - A Question of Vengeance",
+        "paths": [
+            "DOS_MAIN_ROOT/C/CASTLE1/*.CWG"
+        ],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/CASTLE1",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT",
+                    "to": "DOS_MAIN_ROOT/C",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Castle of the Winds I - A Question of Vengeance (USA) (Update).chd",
         "Castle of the Winds I - A Question of Vengeance (USA).chd",
         "Castle of the Winds I - A Question of Vengeance (USA).m3u"
     ],
-    "is_win31": true,
-    "launch_win31_exe": [
-        "CASTLE1/CASTLE1.EXE"
-    ],
-    "launch_win31_exe_cwd": {
-        "CASTLE1/CASTLE1.EXE": "CASTLE1"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/CASTLE1",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT",
-                "to": "DOS_MAIN_ROOT/C",
-                "type": "copy"
-            }
-        ]
-    },
-    "sync": {
-        "data": [
-            "*.CWG"
-        ],
-        "search": "CASTLE1/CASTLE1.EXE"
-    },
     "transform_file": "Castle of the Winds I - A Question of Vengeance (USA).m3u"
 }

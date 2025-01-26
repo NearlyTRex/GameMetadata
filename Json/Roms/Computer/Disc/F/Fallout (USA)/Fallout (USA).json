@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "b574d22f-26f3-47a9-8f2c-4ec86bf587d5",
+        "appname": "fallout",
+        "keys": [],
+        "launch": [],
+        "name": "Fallout",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/AUTORUN",
+                    "exe": "Fallout_Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Fallout (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/AUTORUN/Fallout_Setup.exe",
     "transform_file": "Fallout (USA).chd"
 }

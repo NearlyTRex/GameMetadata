@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "04302356-02d1-4f46-a774-9ba5d3604a2b",
+        "appname": "stories_the_path_of_destinies",
+        "keys": [],
+        "launch": [],
+        "name": "Stories - The Path of Destinies",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Stories - Install.zip",
+                    "to": "HDD_MAIN_ROOT/Stories - Install",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Stories - The Path of Destinies (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Stories - Install.zip",
-                "to": "HDD_MAIN_ROOT/Stories - Install",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Stories - The Path of Destinies (USA).chd"
 }

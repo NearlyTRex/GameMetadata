@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "1c39a84f-37ac-4f61-b282-4f974b8bc593",
+        "appname": "escape_velocity_override",
+        "keys": [],
+        "launch": [],
+        "name": "Escape Velocity - Override",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/EV Override",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Escape Velocity - Override (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/EV Override",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Escape Velocity - Override (USA).chd"
 }

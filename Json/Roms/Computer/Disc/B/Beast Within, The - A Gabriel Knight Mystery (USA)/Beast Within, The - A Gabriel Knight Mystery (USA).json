@@ -1,4 +1,115 @@
 {
+    "disc": {
+        "appid": "5510f272-cdb0-4e04-889a-0ba8f8c582bf",
+        "appname": "the_beast_within_a_gabriel_knight_mystery",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "The Beast Within - A Gabriel Knight Mystery",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_ONE_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.001",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_ONE_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.001",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.002",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.002",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_THREE_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.003",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_THREE_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.003",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.004",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.004",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.005",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.005",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_SIX_ROOT/RESOURCE.SFX",
+                    "to": "SCUMM_MAIN_ROOT/RESSFX.006",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_SIX_ROOT/RESOURCE.AUD",
+                    "to": "SCUMM_MAIN_ROOT/RESAUD.006",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_ONE_ROOT",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_THREE_ROOT",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FOUR_ROOT",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_FIVE_ROOT",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                },
+                {
+                    "from": "DISC_SIX_ROOT",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "move"
+                }
+            ]
+        }
+    },
     "files": [
         "Beast Within, The - A Gabriel Knight Mystery (USA) (Disc 1).chd",
         "Beast Within, The - A Gabriel Knight Mystery (USA) (Disc 2).chd",
@@ -8,105 +119,5 @@
         "Beast Within, The - A Gabriel Knight Mystery (USA) (Disc 6).chd",
         "Beast Within, The - A Gabriel Knight Mystery (USA).m3u"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_ONE_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.001",
-                "type": "move"
-            },
-            {
-                "from": "DISC_ONE_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.001",
-                "type": "move"
-            },
-            {
-                "from": "DISC_TWO_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.002",
-                "type": "move"
-            },
-            {
-                "from": "DISC_TWO_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.002",
-                "type": "move"
-            },
-            {
-                "from": "DISC_THREE_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.003",
-                "type": "move"
-            },
-            {
-                "from": "DISC_THREE_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.003",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FOUR_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.004",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FOUR_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.004",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FIVE_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.005",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FIVE_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.005",
-                "type": "move"
-            },
-            {
-                "from": "DISC_SIX_ROOT/RESOURCE.SFX",
-                "to": "SCUMM_MAIN_ROOT/RESSFX.006",
-                "type": "move"
-            },
-            {
-                "from": "DISC_SIX_ROOT/RESOURCE.AUD",
-                "to": "SCUMM_MAIN_ROOT/RESAUD.006",
-                "type": "move"
-            },
-            {
-                "from": "DISC_ONE_ROOT",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_THREE_ROOT",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FOUR_ROOT",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_FIVE_ROOT",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            },
-            {
-                "from": "DISC_SIX_ROOT",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "move"
-            }
-        ]
-    },
     "transform_file": "Beast Within, The - A Gabriel Knight Mystery (USA).m3u"
 }

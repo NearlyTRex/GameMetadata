@@ -1,20 +1,31 @@
 {
+    "disc": {
+        "appid": "a5d6de7e-60b0-4b69-a16c-63a8f3e99e27",
+        "appname": "gateway_ii_homeworld",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/GW2",
+                "exe": "GW2.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "Gateway II - Homeworld",
+        "paths": [
+            "DOS_MAIN_ROOT/C/GW2/*.SAV"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Gateway II - Homeworld (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "GW2/GW2.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "GW2/GW2.BAT": "GW2"
-    },
-    "sync": {
-        "data": [
-            "*.SAV"
-        ],
-        "search": "GW2/GW2.BAT"
-    },
     "transform_file": "Gateway II - Homeworld (USA).chd"
 }

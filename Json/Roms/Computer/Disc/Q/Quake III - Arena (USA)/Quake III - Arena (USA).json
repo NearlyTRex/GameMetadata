@@ -1,36 +1,41 @@
 {
+    "disc": {
+        "appid": "a09622e1-1f4d-4b91-8e9a-e2de4ddffec6",
+        "appname": "quake_iii_arena",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Quake3",
+                "exe": "ioquake3.x86_64.exe",
+                "serial": "2222222222222222"
+            }
+        ],
+        "name": "Quake III - Arena",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Quake3/baseq3",
+                    "to": "HDD_MAIN_ROOT/Quake3/baseq3",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/release-mingw64-x86_64.zip",
+                    "to": "HDD_MAIN_ROOT/Quake3",
+                    "type": "extract"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/Point-Release-1.32-PAK.zip",
+                    "to": "HDD_MAIN_ROOT/Quake3/baseq3",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Quake III - Arena (USA) (Update).chd",
         "Quake III - Arena (USA).chd",
         "Quake III - Arena (USA).m3u"
     ],
-    "launch_exe": [
-        "Quake3/ioquake3.x86_64.exe"
-    ],
-    "launch_exe_cwd": {
-        "Quake3/ioquake3.x86_64.exe": "Quake3"
-    },
-    "serials": {
-        "Quake III - Arena (USA).chd": "2222222222222222"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Quake3/baseq3",
-                "to": "HDD_MAIN_ROOT/Quake3/baseq3",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/release-mingw64-x86_64.zip",
-                "to": "HDD_MAIN_ROOT/Quake3",
-                "type": "extract"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/Point-Release-1.32-PAK.zip",
-                "to": "HDD_MAIN_ROOT/Quake3/baseq3",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Quake III - Arena (USA).m3u"
 }

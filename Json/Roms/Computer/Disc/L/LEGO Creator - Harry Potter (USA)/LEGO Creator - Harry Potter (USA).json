@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "376516f7-e39a-4feb-8e68-f9c92d8b8350",
+        "appname": "lego_creator_harry_potter",
+        "keys": [],
+        "launch": [],
+        "name": "LEGO Creator - Harry Potter",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "LEGO Creator - Harry Potter (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
     "transform_file": "LEGO Creator - Harry Potter (USA).chd"
 }

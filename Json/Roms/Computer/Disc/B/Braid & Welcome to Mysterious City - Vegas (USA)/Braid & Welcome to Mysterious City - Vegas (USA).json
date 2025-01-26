@@ -1,10 +1,26 @@
 {
+    "disc": {
+        "appid": "3fcae949-1462-447a-809f-773a227ea556",
+        "appname": "braid_welcome_to_mysterious_city_vegas",
+        "keys": [],
+        "launch": [],
+        "name": "Braid & Welcome to Mysterious City - Vegas",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "braid_full_1015.exe"
+                },
+                {
+                    "cwd": "DISC_MAIN_ROOT/Vegas",
+                    "exe": "MysteriousCityVegasSetup-Retail.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Braid & Welcome to Mysterious City - Vegas (USA).chd"
-    ],
-    "installer_exe": [
-        "DISC_MAIN_ROOT/braid_full_1015.exe",
-        "DISC_MAIN_ROOT/Vegas/MysteriousCityVegasSetup-Retail.exe"
     ],
     "transform_file": "Braid & Welcome to Mysterious City - Vegas (USA).chd"
 }

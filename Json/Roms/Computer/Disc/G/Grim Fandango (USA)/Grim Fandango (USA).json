@@ -1,31 +1,42 @@
 {
+    "disc": {
+        "appid": "20315820-0a91-4afb-93b4-6d5752f4dba5",
+        "appname": "grim_fandango",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "Grim Fandango",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_ONE_ROOT/GRIMDATA",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_TWO_ROOT/GRIMDATA",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/gfupd101.exe",
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Grim Fandango (USA) (Disc 1).chd",
         "Grim Fandango (USA) (Disc 2).chd",
         "Grim Fandango (USA) (Update).chd",
         "Grim Fandango (USA).m3u"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_ONE_ROOT/GRIMDATA",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_TWO_ROOT/GRIMDATA",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/gfupd101.exe",
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Grim Fandango (USA).m3u"
 }

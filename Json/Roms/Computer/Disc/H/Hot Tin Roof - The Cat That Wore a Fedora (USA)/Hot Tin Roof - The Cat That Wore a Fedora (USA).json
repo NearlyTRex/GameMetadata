@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "9e28b9a8-0ffc-49b0-8f02-5edd43be8d98",
+        "appname": "hot_tin_roof_the_cat_that_wore_a_fedora",
+        "keys": [],
+        "launch": [],
+        "name": "Hot Tin Roof - The Cat That Wore a Fedora",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/PC.zip",
+                    "to": "HDD_MAIN_ROOT/PC",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Hot Tin Roof - The Cat That Wore a Fedora (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/PC.zip",
-                "to": "HDD_MAIN_ROOT/PC",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Hot Tin Roof - The Cat That Wore a Fedora (USA).chd"
 }

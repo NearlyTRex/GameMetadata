@@ -1,9 +1,24 @@
 {
+    "disc": {
+        "appid": "c1930100-cdbf-4395-9aee-fe0c99124654",
+        "appname": "starsiege",
+        "keys": [],
+        "launch": [],
+        "name": "Starsiege",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "Autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Starsiege (USA) (Disc 1).chd",
         "Starsiege (USA) (Disc 2).chd",
         "Starsiege (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/Autorun.exe",
     "transform_file": "Starsiege (USA).m3u"
 }

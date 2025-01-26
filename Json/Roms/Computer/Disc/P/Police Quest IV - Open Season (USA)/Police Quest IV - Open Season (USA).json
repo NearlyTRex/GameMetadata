@@ -1,17 +1,28 @@
 {
+    "disc": {
+        "appid": "4a6776dc-00ce-4f9a-ab05-105b74d769bf",
+        "appname": "police_quest_iv_open_season",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "Police Quest IV - Open Season",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Police Quest IV - Open Season (USA).chd"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Police Quest IV - Open Season (USA).chd"
 }

@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "bbfb290c-63e4-4da8-8b0f-cfcb92b01727",
+        "appname": "the_legend_of_zelda_the_faces_of_evil_remastered",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Zelda Faces of Evil",
+                "exe": "FOER.exe"
+            }
+        ],
+        "name": "The Legend of Zelda - The Faces of Evil - Remastered",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Zelda Faces of Evil",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Legend of Zelda, The - The Faces of Evil - Remastered (USA).chd"
     ],
-    "launch_exe": [
-        "Zelda Faces of Evil/FOER.exe"
-    ],
-    "launch_exe_cwd": {
-        "Zelda Faces of Evil/FOER.exe": "Zelda Faces of Evil"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Zelda Faces of Evil",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Legend of Zelda, The - The Faces of Evil - Remastered (USA).chd"
 }

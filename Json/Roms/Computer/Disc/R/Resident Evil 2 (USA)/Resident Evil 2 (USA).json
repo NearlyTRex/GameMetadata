@@ -1,4 +1,32 @@
 {
+    "disc": {
+        "appid": "53360f0b-8cba-4e67-a70b-accb55a9d748",
+        "appname": "resident_evil_2",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/ResidentEvil2",
+                "exe": "bio2 1.10.exe",
+                "overrides": "ddraw=n,b"
+            }
+        ],
+        "name": "Resident Evil 2",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_THREE_ROOT/data",
+                    "to": "HDD_MAIN_ROOT/ResidentEvil2",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "to": "HDD_MAIN_ROOT/ResidentEvil2",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Resident Evil 2 (USA) (Disc 1).chd",
         "Resident Evil 2 (USA) (Disc 2).chd",
@@ -6,34 +34,5 @@
         "Resident Evil 2 (USA) (Update).chd",
         "Resident Evil 2 (USA).m3u"
     ],
-    "launch_exe": [
-        "ResidentEvil2/bio2 1.10.exe"
-    ],
-    "launch_exe_cwd": {
-        "ResidentEvil2/bio2 1.10.exe": "ResidentEvil2"
-    },
-    "sandbox": {
-        "wine": {
-            "overrides": {
-                "game": [
-                    "ddraw=n,b"
-                ]
-            }
-        }
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_THREE_ROOT/data",
-                "to": "HDD_MAIN_ROOT/ResidentEvil2",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*",
-                "to": "HDD_MAIN_ROOT/ResidentEvil2",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Resident Evil 2 (USA).m3u"
 }

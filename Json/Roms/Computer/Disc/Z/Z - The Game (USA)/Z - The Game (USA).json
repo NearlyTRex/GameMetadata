@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "27368883-0687-475b-abd3-b64946840720",
+        "appname": "z_the_game",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/Z",
+                "exe": "Z.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "Z - The Game",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Z - The Game (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "Z/Z.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "Z/Z.BAT": "Z"
-    },
     "transform_file": "Z - The Game (USA).chd"
 }

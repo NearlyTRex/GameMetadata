@@ -1,5 +1,40 @@
 {
-    "disc_type": "macwin",
+    "disc": {
+        "appid": "ca47db58-1e10-44ac-8993-3bb2726e9457",
+        "appname": "the_simcity_box",
+        "keys": [],
+        "launch": [],
+        "name": "The SimCity Box",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "setup.exe",
+                    "serial": "CSTT-5SUQ-V8YF-9GLF-GBE5",
+                    "disc_type": "macwin"
+                },
+                {
+                    "cwd": "DISC_THREE_ROOT",
+                    "exe": "AutoRun.exe",
+                    "serial": "5NM5-LBJC-32DN-PJD7-9B8Y",
+                    "disc_type": "macwin"
+                },
+                {
+                    "cwd": "DISC_FOUR_ROOT",
+                    "exe": "AutoRun.exe",
+                    "serial": "5NLC-926W-5JJ8-95J6-ARLD",
+                    "disc_type": "macwin"
+                },
+                {
+                    "cwd": "DISC_FIVE_ROOT",
+                    "exe": "AutoRun.exe",
+                    "serial": "G8BB-4HRA-LHWV-AY6Q-48NC",
+                    "disc_type": "macwin"
+                }
+            ]
+        }
+    },
     "files": [
         "SimCity Box, The (USA) (Disc 1) (SimCity 4 Deluxe Edition, Disc 1).chd",
         "SimCity Box, The (USA) (Disc 2) (SimCity 4 Deluxe Edition, Disc 2).chd",
@@ -8,17 +43,5 @@
         "SimCity Box, The (USA) (Disc 5) (SimCity Societies Destinations).chd",
         "SimCity Box, The (USA).m3u"
     ],
-    "installer_exe": [
-        "DISC_ONE_ROOT/setup.exe",
-        "DISC_THREE_ROOT/AutoRun.exe",
-        "DISC_FOUR_ROOT/AutoRun.exe",
-        "DISC_FIVE_ROOT/AutoRun.exe"
-    ],
-    "serials": {
-        "SimCity Box, The (USA) (Disc 1) (SimCity 4 Deluxe Edition, Disc 1).chd": "CSTT-5SUQ-V8YF-9GLF-GBE5",
-        "SimCity Box, The (USA) (Disc 3) (SnapCity).chd": "5NM5-LBJC-32DN-PJD7-9B8Y",
-        "SimCity Box, The (USA) (Disc 4) (SimCity Societies).chd": "5NLC-926W-5JJ8-95J6-ARLD",
-        "SimCity Box, The (USA) (Disc 5) (SimCity Societies Destinations).chd": "G8BB-4HRA-LHWV-AY6Q-48NC"
-    },
     "transform_file": "SimCity Box, The (USA).m3u"
 }

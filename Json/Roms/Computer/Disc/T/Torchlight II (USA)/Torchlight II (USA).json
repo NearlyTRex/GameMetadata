@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "fc7cba13-5699-4ac0-920b-f2e94ee6e055",
+        "appname": "torchlight_ii",
+        "keys": [],
+        "launch": [],
+        "name": "Torchlight II",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Torchlight II (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Torchlight II (USA).chd"
 }

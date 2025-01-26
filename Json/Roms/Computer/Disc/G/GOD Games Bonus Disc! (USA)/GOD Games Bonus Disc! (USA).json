@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "217030b7-5d2e-4b22-88d4-296a18d631a8",
+        "appname": "god_games_bonus_disc",
+        "keys": [],
+        "launch": [],
+        "name": "GOD Games Bonus Disc!",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/GOD Games Bonus",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "GOD Games Bonus Disc! (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/GOD Games Bonus",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "GOD Games Bonus Disc! (USA).chd"
 }

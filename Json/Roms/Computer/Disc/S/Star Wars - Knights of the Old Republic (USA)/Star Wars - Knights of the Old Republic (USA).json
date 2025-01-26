@@ -1,4 +1,20 @@
 {
+    "disc": {
+        "appid": "d43bebc0-2836-4fdf-a1a1-c204d1b98d55",
+        "appname": "star_wars_knights_of_the_old_republic",
+        "keys": [],
+        "launch": [],
+        "name": "Star Wars - Knights of the Old Republic",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Star Wars - Knights of the Old Republic (USA) (Disc 1).chd",
         "Star Wars - Knights of the Old Republic (USA) (Disc 2).chd",
@@ -6,6 +22,5 @@
         "Star Wars - Knights of the Old Republic (USA) (Disc 4).chd",
         "Star Wars - Knights of the Old Republic (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/autorun.exe",
     "transform_file": "Star Wars - Knights of the Old Republic (USA).m3u"
 }

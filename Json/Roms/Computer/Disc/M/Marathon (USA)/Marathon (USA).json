@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "c0b02523-db37-4852-ae6c-b01a4f8143cc",
+        "appname": "marathon",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Marathon",
+                "exe": "Marathon.exe"
+            }
+        ],
+        "name": "Marathon",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Marathon",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Marathon (USA).chd"
     ],
-    "launch_exe": [
-        "Marathon/Marathon.exe"
-    ],
-    "launch_exe_cwd": {
-        "Marathon/Marathon.exe": "Marathon"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Marathon",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Marathon (USA).chd"
 }

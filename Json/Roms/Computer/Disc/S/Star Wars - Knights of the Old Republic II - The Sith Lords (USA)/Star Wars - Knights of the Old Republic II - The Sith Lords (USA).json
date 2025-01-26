@@ -1,4 +1,20 @@
 {
+    "disc": {
+        "appid": "e5ab370a-f0d1-4cee-af0d-97381a602566",
+        "appname": "star_wars_knights_of_the_old_republic_ii_the_sith_lords",
+        "keys": [],
+        "launch": [],
+        "name": "Star Wars - Knights of the Old Republic II - The Sith Lords",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "autorun.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 1).chd",
         "Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 2).chd",
@@ -6,6 +22,5 @@
         "Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 4).chd",
         "Star Wars - Knights of the Old Republic II - The Sith Lords (USA).m3u"
     ],
-    "installer_exe": "DISC_ONE_ROOT/autorun.exe",
     "transform_file": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA).m3u"
 }

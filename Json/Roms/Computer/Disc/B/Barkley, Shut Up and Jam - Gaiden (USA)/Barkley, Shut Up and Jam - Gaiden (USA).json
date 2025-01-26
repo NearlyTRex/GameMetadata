@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "a0e629c0-6be0-435f-886c-0a0d76974138",
+        "appname": "barkley_shut_up_and_jam_gaiden",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Barkely",
+                "exe": "BarkleyV120.exe"
+            }
+        ],
+        "name": "Barkley, Shut Up and Jam - Gaiden",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Barkely",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Barkley, Shut Up and Jam - Gaiden (USA).chd"
     ],
-    "launch_exe": [
-        "Barkely/BarkleyV120.exe"
-    ],
-    "launch_exe_cwd": {
-        "Barkely/BarkleyV120.exe": "Barkely"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Barkely",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Barkley, Shut Up and Jam - Gaiden (USA).chd"
 }

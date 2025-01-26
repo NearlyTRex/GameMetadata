@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "62fe687e-d9ec-4bca-99c4-2797181c54d6",
+        "appname": "blood_spill_some",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/BLOOD",
+                "exe": "BLOOD.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Blood - Spill Some",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Blood - Spill Some (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "BLOOD/BLOOD.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "BLOOD/BLOOD.EXE": "BLOOD"
-    },
     "transform_file": "Blood - Spill Some (USA).chd"
 }

@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "897f5ffe-7783-4434-862c-ac92e41ff1bd",
+        "appname": "darwinia",
+        "keys": [],
+        "launch": [],
+        "name": "Darwinia",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/installer",
+                    "exe": "SETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Darwinia (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/installer/SETUP.EXE",
     "transform_file": "Darwinia (USA).chd"
 }

@@ -1,10 +1,23 @@
 {
+    "disc": {
+        "appid": "48798473-2082-4e8b-99fd-7d335a706f97",
+        "appname": "unreal_anthology",
+        "keys": [],
+        "launch": [],
+        "name": "Unreal Anthology",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe",
+                    "serial": "KEERL-7CPTK-A7YCP-R3V33"
+                }
+            ]
+        }
+    },
     "files": [
         "Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Autorun.exe",
-    "serials": {
-        "Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).chd": "KEERL-7CPTK-A7YCP-R3V33"
-    },
     "transform_file": "Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).chd"
 }

@@ -1,8 +1,23 @@
 {
+    "disc": {
+        "appid": "bacf83fa-5e1e-4a7f-beef-dd37ef48348a",
+        "appname": "forced_showdown",
+        "keys": [],
+        "launch": [],
+        "name": "Forced - Showdown",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Forced Showdown (x64).exe",
+                    "installer_type": "7zip"
+                }
+            ]
+        }
+    },
     "files": [
         "Forced - Showdown (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Forced Showdown (x64).exe",
-    "installer_type": "7zip",
     "transform_file": "Forced - Showdown (USA).chd"
 }

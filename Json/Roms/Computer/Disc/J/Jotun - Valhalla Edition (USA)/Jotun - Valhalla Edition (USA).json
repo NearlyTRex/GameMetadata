@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "37db6357-7b6b-4178-9d23-189d9122c923",
+        "appname": "jotun_valhalla_edition",
+        "keys": [],
+        "launch": [],
+        "name": "Jotun - Valhalla Edition",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Jotun - Valhalla Edition (Windows).exe",
+                    "to": "HDD_MAIN_ROOT/Jotun - Valhalla Edition (Windows)",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Jotun - Valhalla Edition (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Jotun - Valhalla Edition (Windows).exe",
-                "to": "HDD_MAIN_ROOT/Jotun - Valhalla Edition (Windows)",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Jotun - Valhalla Edition (USA).chd"
 }

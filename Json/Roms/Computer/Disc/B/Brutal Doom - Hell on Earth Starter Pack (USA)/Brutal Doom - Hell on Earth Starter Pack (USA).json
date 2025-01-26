@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "6ad1eea9-44e2-4acb-bc18-7c0d22efd7c2",
+        "appname": "brutal_doom_hell_on_earth_starter_pack",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Brutal Doom",
+                "exe": "gzdoom.exe"
+            }
+        ],
+        "name": "Brutal Doom - Hell on Earth Starter Pack",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Brutal Doom",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Brutal Doom - Hell on Earth Starter Pack (USA).chd"
     ],
-    "launch_exe": [
-        "Brutal Doom/gzdoom.exe"
-    ],
-    "launch_exe_cwd": {
-        "Brutal Doom/gzdoom.exe": "Brutal Doom"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Brutal Doom",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Brutal Doom - Hell on Earth Starter Pack (USA).chd"
 }

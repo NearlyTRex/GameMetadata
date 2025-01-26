@@ -1,34 +1,44 @@
 {
+    "disc": {
+        "appid": "8c40ba00-5b1f-4ac5-849b-cc54998089eb",
+        "appname": "gun",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Activision/GUN",
+                "exe": "Gun.exe"
+            }
+        ],
+        "name": "Gun",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_ONE_ROOT",
+                    "exe": "setup.exe"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_THREE_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Gun (USA) (Disc 1).chd",
         "Gun (USA) (Disc 2).chd",
         "Gun (USA) (Disc 3).chd",
         "Gun (USA).m3u"
     ],
-    "installer_exe": [
-        "DISC_ONE_ROOT/setup.exe"
-    ],
-    "launch_exe": [
-        "Program Files (x86)/Activision/GUN/Gun.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Activision/GUN/Gun.exe": "Program Files (x86)/Activision/GUN"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_TWO_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_THREE_ROOT",
-                "skip_existing": true,
-                "to": "DISC_ONE_ROOT",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Gun (USA).m3u"
 }

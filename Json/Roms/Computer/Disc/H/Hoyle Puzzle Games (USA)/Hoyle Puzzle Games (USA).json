@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "3e791e85-c964-4a48-9394-89d4766e53da",
+        "appname": "hoyle_puzzle_games",
+        "keys": [],
+        "launch": [],
+        "name": "Hoyle Puzzle Games",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Hoyle Puzzle Games (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Hoyle Puzzle Games (USA).chd"
 }

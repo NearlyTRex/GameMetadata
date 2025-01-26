@@ -1,13 +1,27 @@
 {
+    "disc": {
+        "appid": "11ed89ec-2540-4d9a-8cfd-b5620b4991f4",
+        "appname": "mahjong_mania",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/MahJongMania",
+                "exe": "mahjongg.exe"
+            }
+        ],
+        "name": "Mahjong Mania",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Mahjong Mania (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
-    "launch_exe": [
-        "Program Files (x86)/MahJongMania/mahjongg.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/MahJongMania/mahjongg.exe": "Program Files (x86)/MahJongMania"
-    },
     "transform_file": "Mahjong Mania (USA).chd"
 }

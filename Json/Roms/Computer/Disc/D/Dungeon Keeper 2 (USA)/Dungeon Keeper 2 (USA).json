@@ -1,19 +1,31 @@
 {
+    "disc": {
+        "appid": "0ea81b06-0e61-4369-acae-db4604220034",
+        "appname": "dungeon_keeper_2",
+        "keys": [],
+        "launch": [],
+        "name": "Dungeon Keeper 2",
+        "paths": [
+            "HDD_MAIN_ROOT/Program Files (x86)/Bullfrog/Dungeon Keeper 2/Data/Save",
+            "HDD_MAIN_ROOT/Program Files (x86)/Bullfrog/Dungeon Keeper 2/Data/Settings"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Autorun.exe"
+                },
+                {
+                    "cwd": "DISC_UPDATE_ROOT",
+                    "exe": "DKII_173.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Dungeon Keeper 2 (USA) (Update).chd",
         "Dungeon Keeper 2 (USA).chd",
         "Dungeon Keeper 2 (USA).m3u"
     ],
-    "installer_exe": [
-        "DISC_MAIN_ROOT/Autorun.exe",
-        "DISC_UPDATE_ROOT/DKII_173.exe"
-    ],
-    "sync": {
-        "data": [
-            "Data/Save",
-            "Data/Settings"
-        ],
-        "search": "DKII.exe"
-    },
     "transform_file": "Dungeon Keeper 2 (USA).m3u"
 }

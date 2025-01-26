@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "bf60fa21-d562-4e25-90a2-165a9831feb6",
+        "appname": "speculum_mortis_regret",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Speculum Mortis",
+                "exe": "Speculum.exe"
+            }
+        ],
+        "name": "Speculum Mortis - Regret",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Speculum Mortis",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Speculum Mortis - Regret (USA).chd"
     ],
-    "launch_exe": [
-        "Speculum Mortis/Speculum.exe"
-    ],
-    "launch_exe_cwd": {
-        "Speculum Mortis/Speculum.exe": "Speculum Mortis"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Speculum Mortis",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Speculum Mortis - Regret (USA).chd"
 }

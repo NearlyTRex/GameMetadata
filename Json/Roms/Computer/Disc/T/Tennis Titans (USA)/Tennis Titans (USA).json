@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "94218cda-4231-40ee-8755-01f8bdee500b",
+        "appname": "tennis_titans",
+        "keys": [],
+        "launch": [],
+        "name": "Tennis Titans",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Tennis Titans (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Setup.exe",
     "transform_file": "Tennis Titans (USA).chd"
 }

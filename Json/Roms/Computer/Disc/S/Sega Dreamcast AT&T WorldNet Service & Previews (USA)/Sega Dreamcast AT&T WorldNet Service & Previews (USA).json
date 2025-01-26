@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "92c625d5-33f1-4a0c-8ff1-7e842db74cd4",
+        "appname": "sega_dreamcast_att_worldnet_service_previews",
+        "keys": [],
+        "launch": [],
+        "name": "Sega Dreamcast AT&T WorldNet Service & Previews",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Sega Dreamcast AT&T WorldNet Service & Previews (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Sega Dreamcast AT&T WorldNet Service & Previews (USA).chd"
 }

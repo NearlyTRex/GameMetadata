@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "ee46c373-eec2-4f59-aa43-b8702d42acc8",
+        "appname": "witchaven",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/CAPSTONE/WHAVEN",
+                "exe": "WHAVEN.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "Witchaven",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Witchaven (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.EXE",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "CAPSTONE/WHAVEN/WHAVEN.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "CAPSTONE/WHAVEN/WHAVEN.BAT": "CAPSTONE/WHAVEN"
-    },
     "transform_file": "Witchaven (USA).chd"
 }

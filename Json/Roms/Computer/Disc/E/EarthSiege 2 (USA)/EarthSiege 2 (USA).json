@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "3359ff89-85bb-46cc-aa90-4e57a2eff889",
+        "appname": "earthsiege_2",
+        "keys": [],
+        "launch": [],
+        "name": "EarthSiege 2",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT/AUTORUN",
+                    "exe": "AUTOPLAY.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "EarthSiege 2 (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/AUTORUN/AUTOPLAY.EXE",
     "transform_file": "EarthSiege 2 (USA).chd"
 }

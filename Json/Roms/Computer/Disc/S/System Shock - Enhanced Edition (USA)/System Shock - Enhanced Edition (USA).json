@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "284685f4-cc54-47ff-941d-967952241e32",
+        "appname": "system_shock_enhanced_edition",
+        "keys": [],
+        "launch": [],
+        "name": "System Shock - Enhanced Edition",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/SYSTEM SHOCK ENHANCED EDITION - PROGRAM FILES",
+                    "to": "HDD_MAIN_ROOT/System Shock Enhanced Edition",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "System Shock - Enhanced Edition (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/SYSTEM SHOCK ENHANCED EDITION - PROGRAM FILES",
-                "to": "HDD_MAIN_ROOT/System Shock Enhanced Edition",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "System Shock - Enhanced Edition (USA).chd"
 }

@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "ac877fc9-0344-43c0-a5e0-c067e45502f4",
+        "appname": "mega_man_eternal",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Mega Man Eternal",
+                "exe": "Mega Man Eternal.exe"
+            }
+        ],
+        "name": "Mega Man Eternal",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Mega Man Eternal",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Mega Man Eternal (USA).chd"
     ],
-    "launch_exe": [
-        "Mega Man Eternal/Mega Man Eternal.exe"
-    ],
-    "launch_exe_cwd": {
-        "Mega Man Eternal/Mega Man Eternal.exe": "Mega Man Eternal"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Mega Man Eternal",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Mega Man Eternal (USA).chd"
 }

@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "0353bd75-b8b9-4626-bf0b-ae1c8406e1fd",
+        "appname": "costume_quest",
+        "keys": [],
+        "launch": [],
+        "name": "Costume Quest",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Costume Quest (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
     "transform_file": "Costume Quest (USA).chd"
 }

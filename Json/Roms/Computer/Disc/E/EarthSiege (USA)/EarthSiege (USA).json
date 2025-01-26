@@ -1,14 +1,29 @@
 {
+    "disc": {
+        "appid": "e89e08d6-3827-4761-906f-9ad72bdfcab1",
+        "appname": "earthsiege",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/SIERRA/MTECH",
+                "exe": "ES.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "EarthSiege",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.BAT",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "EarthSiege (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.BAT",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "SIERRA/MTECH/ES.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "SIERRA/MTECH/ES.BAT": "SIERRA/MTECH"
-    },
     "transform_file": "EarthSiege (USA).chd"
 }

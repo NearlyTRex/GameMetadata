@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "e7066ca7-8794-4a49-9505-8e65fa8e81a9",
+        "appname": "battleship_surface_thunder",
+        "keys": [],
+        "launch": [],
+        "name": "Battleship Surface Thunder",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Battleship Surface Thunder (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Battleship Surface Thunder (USA).chd"
 }

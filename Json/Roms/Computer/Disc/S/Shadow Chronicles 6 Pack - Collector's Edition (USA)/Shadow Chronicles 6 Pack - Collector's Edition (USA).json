@@ -1,28 +1,53 @@
 {
+    "disc": {
+        "appid": "26a799f8-6324-493b-82fc-b843bd122ebd",
+        "appname": "shadow_chronicles_6_pack_collectors_edition",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Ghost Encounters - Deadwood",
+                "exe": "GhostEncounters.exe",
+                "use_virtual_desktop": true
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Mystery of the Crystal Portal",
+                "exe": "Portal.exe",
+                "use_virtual_desktop": true
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Odysseus - Long Way Home",
+                "exe": "game.exe",
+                "use_virtual_desktop": true
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shadows - Price for Our Sins",
+                "exe": "Shadows.exe",
+                "use_virtual_desktop": true
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shiver - Poltergeist CE",
+                "exe": "SHIVER_PoltergeistCE.exe",
+                "use_virtual_desktop": true
+            },
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/The Veil of Mystery",
+                "exe": "TheVailOfMystery.exe",
+                "use_virtual_desktop": true
+            }
+        ],
+        "name": "Shadow Chronicles 6 Pack - Collector's Edition",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SC6PackSetup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Shadow Chronicles 6 Pack - Collector's Edition (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/SC6PackSetup.exe",
-    "launch_exe": [
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Ghost Encounters - Deadwood/GhostEncounters.exe",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Mystery of the Crystal Portal/Portal.exe",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Odysseus - Long Way Home/game.exe",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shadows - Price for Our Sins/Shadows.exe",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shiver - Poltergeist CE/SHIVER_PoltergeistCE.exe",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/The Veil of Mystery/TheVailOfMystery.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Ghost Encounters - Deadwood/GhostEncounters.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Ghost Encounters - Deadwood",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Mystery of the Crystal Portal/Portal.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Mystery of the Crystal Portal",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Odysseus - Long Way Home/game.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Odysseus - Long Way Home",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shadows - Price for Our Sins/Shadows.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shadows - Price for Our Sins",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shiver - Poltergeist CE/SHIVER_PoltergeistCE.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/Shiver - Poltergeist CE",
-        "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/The Veil of Mystery/TheVailOfMystery.exe": "Program Files (x86)/Viva Media/Shadow Chronicles 6-Pack/The Veil of Mystery"
-    },
-    "sandbox": {
-        "wine": {
-            "use_virtual_desktop": true
-        }
-    },
     "transform_file": "Shadow Chronicles 6 Pack - Collector's Edition (USA).chd"
 }

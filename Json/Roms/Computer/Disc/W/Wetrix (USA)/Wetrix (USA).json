@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "e7e16bc9-47fd-42dd-af99-4efecaa85c90",
+        "appname": "wetrix",
+        "keys": [],
+        "launch": [],
+        "name": "Wetrix",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SETUP.EXE"
+                }
+            ]
+        }
+    },
     "files": [
         "Wetrix (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/SETUP.EXE",
     "transform_file": "Wetrix (USA).chd"
 }

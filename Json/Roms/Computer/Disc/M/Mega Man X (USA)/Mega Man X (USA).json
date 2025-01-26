@@ -1,21 +1,32 @@
 {
+    "disc": {
+        "appid": "f762131d-5806-4fb7-9b91-3fd3169321aa",
+        "appname": "mega_man_x",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/MMX",
+                "exe": "MMX.BAT",
+                "is_dos": true
+            }
+        ],
+        "name": "Mega Man X",
+        "paths": [
+            "DOS_MAIN_ROOT/C/MMX/MMX.GMS",
+            "DOS_MAIN_ROOT/C/MMX/MMX.OPT"
+        ],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "INSTALL.BAT",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Mega Man X (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/INSTALL.BAT",
-    "is_dos": true,
-    "launch_dos_exe": [
-        "MMX/MMX.BAT"
-    ],
-    "launch_dos_exe_cwd": {
-        "MMX/MMX.BAT": "MMX"
-    },
-    "sync": {
-        "data": [
-            "MMX.GMS",
-            "MMX.OPT"
-        ],
-        "search": "MMX/MMX.BAT"
-    },
     "transform_file": "Mega Man X (USA).chd"
 }

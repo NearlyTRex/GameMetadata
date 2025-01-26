@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "5394d930-f4f7-4cf2-8d6d-06f8c7138007",
+        "appname": "torchlight",
+        "keys": [],
+        "launch": [],
+        "name": "Torchlight",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Torchlight.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Torchlight (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Torchlight.exe",
     "transform_file": "Torchlight (USA).chd"
 }

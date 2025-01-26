@@ -1,30 +1,37 @@
 {
+    "disc": {
+        "appid": "0c2f0675-64d8-46c0-8aa3-ee5e3d802080",
+        "appname": "chex_quest",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/ChexQuest",
+                "exe": "gzdoom.exe"
+            }
+        ],
+        "name": "Chex Quest",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/CHEX QUEST/CHEX QUEST/CHEX.WAD",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/ChexQuest/CHEX.WAD",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*.zip",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/ChexQuest",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Chex Quest (USA) (Update).chd",
         "Chex Quest (USA).chd",
         "Chex Quest (USA).m3u"
     ],
-    "launch_exe": [
-        "ChexQuest/gzdoom.exe"
-    ],
-    "launch_exe_cwd": {
-        "ChexQuest/gzdoom.exe": "ChexQuest"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/CHEX QUEST/CHEX QUEST/CHEX.WAD",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/ChexQuest/CHEX.WAD",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*.zip",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/ChexQuest",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Chex Quest (USA).m3u"
 }

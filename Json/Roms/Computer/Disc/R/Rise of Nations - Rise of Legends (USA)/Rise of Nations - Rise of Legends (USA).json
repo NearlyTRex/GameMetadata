@@ -1,22 +1,29 @@
 {
+    "disc": {
+        "appid": "d3a6979d-bc4d-4933-b8a7-44c2f4f76a2f",
+        "appname": "rise_of_nations_rise_of_legends",
+        "keys": [],
+        "launch": [],
+        "name": "Rise of Nations - Rise of Legends",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe",
+                    "serial": "RFFTP-FV7HC-4H6KM-XY8PM-XFQHB",
+                    "tricks": [
+                        "corefonts",
+                        "mfc42",
+                        "msxml3",
+                        "msxml4"
+                    ]
+                }
+            ]
+        }
+    },
     "files": [
         "Rise of Nations - Rise of Legends (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
-    "sandbox": {
-        "wine": {
-            "tricks": {
-                "game": [
-                    "corefonts",
-                    "mfc42",
-                    "msxml3",
-                    "msxml4"
-                ]
-            }
-        }
-    },
-    "serials": {
-        "Rise of Nations - Rise of Legends (USA).chd": "RFFTP-FV7HC-4H6KM-XY8PM-XFQHB"
-    },
     "transform_file": "Rise of Nations - Rise of Legends (USA).chd"
 }

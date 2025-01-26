@@ -1,30 +1,37 @@
 {
+    "disc": {
+        "appid": "c2f8bd9b-9335-4f35-9db5-a3ad2e4c626a",
+        "appname": "hexen_beyond_heretic",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Hexen",
+                "exe": "gzdoom.exe"
+            }
+        ],
+        "name": "Hexen - Beyond Heretic",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/HEXENCD/HEXEN.WAD",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Hexen/HEXEN.WAD",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_UPDATE_ROOT/*.zip",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Hexen",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Hexen - Beyond Heretic (USA) (Update).chd",
         "Hexen - Beyond Heretic (USA).chd",
         "Hexen - Beyond Heretic (USA).m3u"
     ],
-    "launch_exe": [
-        "Hexen/gzdoom.exe"
-    ],
-    "launch_exe_cwd": {
-        "Hexen/gzdoom.exe": "Hexen"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/HEXENCD/HEXEN.WAD",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Hexen/HEXEN.WAD",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_UPDATE_ROOT/*.zip",
-                "skip_existing": true,
-                "to": "HDD_MAIN_ROOT/Hexen",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Hexen - Beyond Heretic (USA).m3u"
 }

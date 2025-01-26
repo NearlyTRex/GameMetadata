@@ -1,8 +1,23 @@
 {
+    "disc": {
+        "appid": "b57d9d14-c504-4a33-96e4-8e7c2521b167",
+        "appname": "street_fighter_mega_man_collection",
+        "keys": [],
+        "launch": [],
+        "name": "Street Fighter & Mega Man Collection",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "SFCD.EXE",
+                    "is_dos": true
+                }
+            ]
+        }
+    },
     "files": [
         "Street Fighter & Mega Man Collection (USA).chd"
     ],
-    "installer_dos_exe": "DISC_MAIN_ROOT/SFCD.EXE",
-    "is_dos": true,
     "transform_file": "Street Fighter & Mega Man Collection (USA).chd"
 }

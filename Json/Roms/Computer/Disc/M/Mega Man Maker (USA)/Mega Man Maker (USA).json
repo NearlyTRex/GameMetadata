@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "7e14ce5e-ad8b-438f-ac57-154c229750a6",
+        "appname": "mega_man_maker",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Mega Maker",
+                "exe": "MegaMaker.exe"
+            }
+        ],
+        "name": "Mega Man Maker",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Mega Maker",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Mega Man Maker (USA).chd"
     ],
-    "launch_exe": [
-        "Mega Maker/MegaMaker.exe"
-    ],
-    "launch_exe_cwd": {
-        "Mega Maker/MegaMaker.exe": "Mega Maker"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Mega Maker",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Mega Man Maker (USA).chd"
 }

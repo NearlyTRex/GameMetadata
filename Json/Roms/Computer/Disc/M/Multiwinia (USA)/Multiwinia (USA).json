@@ -1,13 +1,27 @@
 {
+    "disc": {
+        "appid": "03cb834c-fbcc-47b7-83d3-b69cd9a4dc94",
+        "appname": "multiwinia",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Multiwinia",
+                "exe": "multiwinia.exe"
+            }
+        ],
+        "name": "Multiwinia",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "setup.exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Multiwinia (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/setup.exe",
-    "launch_exe": [
-        "Program Files (x86)/Multiwinia/multiwinia.exe"
-    ],
-    "launch_exe_cwd": {
-        "Program Files (x86)/Multiwinia/multiwinia.exe": "Program Files (x86)/Multiwinia"
-    },
     "transform_file": "Multiwinia (USA).chd"
 }

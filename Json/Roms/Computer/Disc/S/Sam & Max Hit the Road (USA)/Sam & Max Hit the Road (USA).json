@@ -1,29 +1,40 @@
 {
+    "disc": {
+        "appid": "b795ded1-7527-4ffd-8e86-ce5b5d399eab",
+        "appname": "sam_max_hit_the_road",
+        "keys": [],
+        "launch": [
+            {
+                "is_scumm": true
+            }
+        ],
+        "name": "Sam & Max Hit the Road",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/SAMNMAX/MONSTER.SOU",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/MONSTER.SOU",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/SAMNMAX/SAMNMAX.000",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/SAMNMAX.000",
+                    "type": "copy"
+                },
+                {
+                    "from": "DISC_MAIN_ROOT/SAMNMAX/SAMNMAX.001",
+                    "skip_existing": true,
+                    "to": "SCUMM_MAIN_ROOT/SAMNMAX.001",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Sam & Max Hit the Road (USA).chd"
     ],
-    "is_scumm": true,
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/SAMNMAX/MONSTER.SOU",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/MONSTER.SOU",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/SAMNMAX/SAMNMAX.000",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/SAMNMAX.000",
-                "type": "copy"
-            },
-            {
-                "from": "DISC_MAIN_ROOT/SAMNMAX/SAMNMAX.001",
-                "skip_existing": true,
-                "to": "SCUMM_MAIN_ROOT/SAMNMAX.001",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Sam & Max Hit the Road (USA).chd"
 }

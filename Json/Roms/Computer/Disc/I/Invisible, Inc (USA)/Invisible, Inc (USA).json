@@ -1,7 +1,22 @@
 {
+    "disc": {
+        "appid": "97fe629f-3b52-4a31-b3a4-f95aa7002351",
+        "appname": "invisible_inc",
+        "keys": [],
+        "launch": [],
+        "name": "Invisible, Inc",
+        "paths": [],
+        "setup": {
+            "install": [
+                {
+                    "cwd": "DISC_MAIN_ROOT",
+                    "exe": "Invisible Inc (Windows).exe"
+                }
+            ]
+        }
+    },
     "files": [
         "Invisible, Inc (USA).chd"
     ],
-    "installer_exe": "DISC_MAIN_ROOT/Invisible Inc (Windows).exe",
     "transform_file": "Invisible, Inc (USA).chd"
 }

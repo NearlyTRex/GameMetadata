@@ -1,21 +1,28 @@
 {
+    "disc": {
+        "appid": "54c9ebf5-fe1a-4d4d-9bad-32f841da8aac",
+        "appname": "owlboy",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Owlboy/Owlboy",
+                "exe": "Owlboy.exe"
+            }
+        ],
+        "name": "Owlboy",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT/Owlboy.zip",
+                    "to": "HDD_MAIN_ROOT/Owlboy",
+                    "type": "extract"
+                }
+            ]
+        }
+    },
     "files": [
         "Owlboy (USA).chd"
     ],
-    "launch_exe": [
-        "Owlboy/Owlboy/Owlboy.exe"
-    ],
-    "launch_exe_cwd": {
-        "Owlboy/Owlboy/Owlboy.exe": "Owlboy/Owlboy"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT/Owlboy.zip",
-                "to": "HDD_MAIN_ROOT/Owlboy",
-                "type": "extract"
-            }
-        ]
-    },
     "transform_file": "Owlboy (USA).chd"
 }

@@ -1,40 +1,74 @@
 {
+    "disc": {
+        "appid": "4fdf1cd8-6d37-45a1-9572-09964a1385a6",
+        "appname": "ultima_collection",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/AKALABET",
+                "exe": "AK.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/SERPENT",
+                "exe": "SERPENT.COM",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA1",
+                "exe": "ULTIMA.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA2",
+                "exe": "ULTIMAII.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA3",
+                "exe": "ULTIMA.COM",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA4",
+                "exe": "ULTIMA.COM",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA5",
+                "exe": "ULTIMA.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA6",
+                "exe": "ULTIMA6.EXE",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA7",
+                "exe": "ULTIMA7.COM",
+                "is_dos": true
+            },
+            {
+                "cwd": "DOS_MAIN_ROOT/C/ULTIMA/ULTIMA8",
+                "exe": "U8.EXE",
+                "is_dos": true
+            }
+        ],
+        "name": "Ultima Collection",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "DOS_MAIN_ROOT/C/ULTIMA",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Ultima Collection (USA) (Ultima I - Ultima VIII).chd"
     ],
-    "is_dos": true,
-    "launch_dos_exe": [
-        "ULTIMA/AKALABET/AK.EXE",
-        "ULTIMA/SERPENT/SERPENT.COM",
-        "ULTIMA/ULTIMA1/ULTIMA.EXE",
-        "ULTIMA/ULTIMA2/ULTIMAII.EXE",
-        "ULTIMA/ULTIMA3/ULTIMA.COM",
-        "ULTIMA/ULTIMA4/ULTIMA.COM",
-        "ULTIMA/ULTIMA5/ULTIMA.EXE",
-        "ULTIMA/ULTIMA6/ULTIMA6.EXE",
-        "ULTIMA/ULTIMA7/ULTIMA7.COM",
-        "ULTIMA/ULTIMA8/U8.EXE"
-    ],
-    "launch_dos_exe_cwd": {
-        "ULTIMA/AKALABET/AK.EXE": "ULTIMA/AKALABET",
-        "ULTIMA/SERPENT/SERPENT.COM": "ULTIMA/SERPENT",
-        "ULTIMA/ULTIMA1/ULTIMA.EXE": "ULTIMA/ULTIMA1",
-        "ULTIMA/ULTIMA2/ULTIMAII.EXE": "ULTIMA/ULTIMA2",
-        "ULTIMA/ULTIMA3/ULTIMA.COM": "ULTIMA/ULTIMA3",
-        "ULTIMA/ULTIMA4/ULTIMA.COM": "ULTIMA/ULTIMA4",
-        "ULTIMA/ULTIMA5/ULTIMA.EXE": "ULTIMA/ULTIMA5",
-        "ULTIMA/ULTIMA6/ULTIMA6.EXE": "ULTIMA/ULTIMA6",
-        "ULTIMA/ULTIMA7/ULTIMA7.COM": "ULTIMA/ULTIMA7",
-        "ULTIMA/ULTIMA8/U8.EXE": "ULTIMA/ULTIMA8"
-    },
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "DOS_MAIN_ROOT/C/ULTIMA",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Ultima Collection (USA) (Ultima I - Ultima VIII).chd"
 }

@@ -1,15 +1,23 @@
 {
+    "disc": {
+        "appid": "ec16a830-d7c1-4808-8f05-e5a28218d18b",
+        "appname": "the_legend_of_zelda_links_awakening_dx_hd",
+        "keys": [],
+        "launch": [],
+        "name": "The Legend of Zelda - Link's Awakening DX HD",
+        "paths": [],
+        "setup": {
+            "preinstall": [
+                {
+                    "from": "DISC_MAIN_ROOT",
+                    "to": "HDD_MAIN_ROOT/Links Awakening DX HD",
+                    "type": "copy"
+                }
+            ]
+        }
+    },
     "files": [
         "Legend of Zelda, The - Link's Awakening DX HD (USA).chd"
     ],
-    "steps": {
-        "preinstall": [
-            {
-                "from": "DISC_MAIN_ROOT",
-                "to": "HDD_MAIN_ROOT/Links Awakening DX HD",
-                "type": "copy"
-            }
-        ]
-    },
     "transform_file": "Legend of Zelda, The - Link's Awakening DX HD (USA).chd"
 }
