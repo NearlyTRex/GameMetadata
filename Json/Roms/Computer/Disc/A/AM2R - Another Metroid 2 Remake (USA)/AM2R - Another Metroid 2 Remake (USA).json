@@ -2,7 +2,6 @@
     "disc": {
         "appid": "f4380155-13e6-4527-9af2-76a49fa8a33c",
         "appname": "am2r_another_metroid_2_remake",
-        "name": "AM2R - Another Metroid 2 Remake",
         "keys": [],
         "launch": [
             {
@@ -10,6 +9,7 @@
                 "exe": "AM2R.exe"
             }
         ],
+        "name": "AM2R - Another Metroid 2 Remake",
         "paths": [],
         "setup": {
             "preinstall": [

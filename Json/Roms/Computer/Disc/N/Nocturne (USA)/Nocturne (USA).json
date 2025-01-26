@@ -1,46 +1,46 @@
 {
-  "files": [
-    "Nocturne (USA) (Disc 1).chd",
-    "Nocturne (USA) (Disc 2).chd",
-    "Nocturne (USA) (Update).chd",
-    "Nocturne (USA).m3u"
-  ],
-  "disc": {
-    "appid": "2ef139b3-7e3a-42c0-9b7c-83aa7f8ae13b",
-    "appname": "nocturne",
-    "launch": [
-      {
-        "exe": "nocturne.exe",
-        "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne"
-      }
-    ],
-    "setup": {
-      "install": [
-        "DISC_ONE_ROOT/SETUP.EXE",
-        "DISC_UPDATE_ROOT/nocpatch2.exe"
-      ],
-      "postinstall": [
-        {
-          "from": "DISC_ONE_ROOT/AVI",
-          "skip_existing": true,
-          "to": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/AVI",
-          "type": "copy"
+    "disc": {
+        "appid": "2ef139b3-7e3a-42c0-9b7c-83aa7f8ae13b",
+        "appname": "nocturne",
+        "keys": [],
+        "launch": [
+            {
+                "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne",
+                "exe": "nocturne.exe"
+            }
+        ],
+        "paths": [
+            "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/save",
+            "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/SYSTEM"
+        ],
+        "setup": {
+            "install": [
+                "DISC_ONE_ROOT/SETUP.EXE",
+                "DISC_UPDATE_ROOT/nocpatch2.exe"
+            ],
+            "postinstall": [
+                {
+                    "from": "DISC_ONE_ROOT/AVI",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/AVI",
+                    "type": "copy"
+                }
+            ],
+            "preinstall": [
+                {
+                    "from": "DISC_TWO_ROOT",
+                    "skip_existing": true,
+                    "to": "DISC_ONE_ROOT",
+                    "type": "copy"
+                }
+            ]
         }
-      ],
-      "preinstall": [
-        {
-          "from": "DISC_TWO_ROOT",
-          "skip_existing": true,
-          "to": "DISC_ONE_ROOT",
-          "type": "copy"
-        }
-      ]
     },
-    "paths": [
-      "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/save",
-      "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/SYSTEM"
+    "files": [
+        "Nocturne (USA) (Disc 1).chd",
+        "Nocturne (USA) (Disc 2).chd",
+        "Nocturne (USA) (Update).chd",
+        "Nocturne (USA).m3u"
     ],
-    "keys": []
-  },
-  "transform_file": "Nocturne (USA).m3u"
+    "transform_file": "Nocturne (USA).m3u"
 }

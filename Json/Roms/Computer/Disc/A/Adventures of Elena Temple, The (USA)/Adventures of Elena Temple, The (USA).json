@@ -2,7 +2,6 @@
     "disc": {
         "appid": "a7bba63c-c00c-4d01-9e4d-67972da98c46",
         "appname": "the_adventures_of_elena_temple",
-        "name": "The Adventures of Elena Temple",
         "keys": [],
         "launch": [
             {
@@ -10,6 +9,7 @@
                 "exe": "ElenaTemple.exe"
             }
         ],
+        "name": "The Adventures of Elena Temple",
         "paths": [],
         "setup": {
             "preinstall": [

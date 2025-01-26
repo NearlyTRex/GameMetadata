@@ -2,7 +2,6 @@
     "disc": {
         "appid": "9f961fb7-9eff-480c-ad55-1aa0fb2c517b",
         "appname": "amnesia_the_dark_descent",
-        "name": "Amnesia - The Dark Descent",
         "keys": [],
         "launch": [
             {
@@ -10,6 +9,7 @@
                 "exe": "Amnesia.exe"
             }
         ],
+        "name": "Amnesia - The Dark Descent",
         "paths": [],
         "setup": {
             "install": [

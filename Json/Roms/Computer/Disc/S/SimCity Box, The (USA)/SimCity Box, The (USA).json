@@ -10,27 +10,27 @@
             "install": [
                 {
                     "cwd": "DISC_ONE_ROOT",
+                    "disc_type": "macwin",
                     "exe": "setup.exe",
-                    "serial": "CSTT-5SUQ-V8YF-9GLF-GBE5",
-                    "disc_type": "macwin"
+                    "serial": "CSTT-5SUQ-V8YF-9GLF-GBE5"
                 },
                 {
                     "cwd": "DISC_THREE_ROOT",
+                    "disc_type": "macwin",
                     "exe": "AutoRun.exe",
-                    "serial": "5NM5-LBJC-32DN-PJD7-9B8Y",
-                    "disc_type": "macwin"
+                    "serial": "5NM5-LBJC-32DN-PJD7-9B8Y"
                 },
                 {
                     "cwd": "DISC_FOUR_ROOT",
+                    "disc_type": "macwin",
                     "exe": "AutoRun.exe",
-                    "serial": "5NLC-926W-5JJ8-95J6-ARLD",
-                    "disc_type": "macwin"
+                    "serial": "5NLC-926W-5JJ8-95J6-ARLD"
                 },
                 {
                     "cwd": "DISC_FIVE_ROOT",
+                    "disc_type": "macwin",
                     "exe": "AutoRun.exe",
-                    "serial": "G8BB-4HRA-LHWV-AY6Q-48NC",
-                    "disc_type": "macwin"
+                    "serial": "G8BB-4HRA-LHWV-AY6Q-48NC"
                 }
             ]
         }

@@ -17,10 +17,10 @@
         "setup": {
             "preinstall": [
                 {
+                    "disc_type": "macwin",
                     "from": "DISC_UPDATE_ROOT",
                     "to": "DOS_MAIN_ROOT/C",
-                    "type": "copy",
-                    "disc_type": "macwin"
+                    "type": "copy"
                 }
             ]
         }
