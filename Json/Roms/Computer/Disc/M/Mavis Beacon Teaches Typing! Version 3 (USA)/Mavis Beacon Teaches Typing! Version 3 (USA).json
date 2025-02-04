@@ -2,6 +2,7 @@
     "disc": {
         "appid": "57156d98-f19e-4dfc-bf25-1c2bf3e5efa9",
         "appname": "mavis_beacon_teaches_typing_version_3",
+        "installdir": "MAVIS3",
         "keys": [],
         "launch": [
             {
@@ -12,7 +13,7 @@
         ],
         "name": "Mavis Beacon Teaches Typing! Version 3",
         "paths": [
-            "DOS_MAIN_ROOT/C/MAVIS3/*.REC"
+            "GAME_INSTALL_DIR/*.REC"
         ],
         "setup": {
             "preinstall": [

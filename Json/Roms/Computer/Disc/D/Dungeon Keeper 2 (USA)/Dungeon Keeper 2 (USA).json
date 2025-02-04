@@ -2,12 +2,13 @@
     "disc": {
         "appid": "0ea81b06-0e61-4369-acae-db4604220034",
         "appname": "dungeon_keeper_2",
+        "installdir": "Dungeon Keeper 2",
         "keys": [],
         "launch": [],
         "name": "Dungeon Keeper 2",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files (x86)/Bullfrog/Dungeon Keeper 2/Data/Save",
-            "HDD_MAIN_ROOT/Program Files (x86)/Bullfrog/Dungeon Keeper 2/Data/Settings"
+            "GAME_INSTALL_DIR/Data/Save",
+            "GAME_INSTALL_DIR/Data/Settings"
         ],
         "setup": {
             "install": [

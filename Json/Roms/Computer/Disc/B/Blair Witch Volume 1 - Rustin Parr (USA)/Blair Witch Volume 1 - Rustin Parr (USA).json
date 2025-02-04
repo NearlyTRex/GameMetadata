@@ -2,12 +2,13 @@
     "disc": {
         "appid": "89b68a9e-b6fd-4387-a6af-1faaf880934e",
         "appname": "blair_witch_volume_1_rustin_parr",
+        "installdir": "Blair Witch Volume One - Rustin Parr",
         "keys": [],
         "launch": [],
         "name": "Blair Witch Volume 1 - Rustin Parr",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Blair Witch Volume One - Rustin Parr/save",
-            "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Blair Witch Volume One - Rustin Parr/SYSTEM"
+            "GAME_INSTALL_DIR/save",
+            "GAME_INSTALL_DIR/SYSTEM"
         ],
         "setup": {
             "install": [

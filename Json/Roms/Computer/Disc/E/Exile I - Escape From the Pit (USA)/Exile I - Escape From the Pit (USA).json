@@ -2,6 +2,7 @@
     "disc": {
         "appid": "84fa05f5-62a1-4545-9f39-19dd4f0e429f",
         "appname": "exile_i_escape_from_the_pit",
+        "installdir": "EXILE",
         "keys": [],
         "launch": [
             {
@@ -12,7 +13,7 @@
         ],
         "name": "Exile I - Escape From the Pit",
         "paths": [
-            "DOS_MAIN_ROOT/C/EXILE/*.SAV"
+            "GAME_INSTALL_DIR/*.SAV"
         ],
         "setup": {
             "preinstall": [

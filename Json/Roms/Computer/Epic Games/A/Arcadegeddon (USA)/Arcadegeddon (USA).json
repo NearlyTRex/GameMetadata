@@ -5,7 +5,7 @@
         "buildid": "rel_1.6.3_B41409_CL360563_Shipping_Client",
         "name": "Arcadegeddon",
         "paths": [
-            "STORE_INSTALL_DIR/Arcade/Saved/SaveGames"
+            "GAME_INSTALL_DIR/Arcade/Saved/SaveGames"
         ]
     }
 }

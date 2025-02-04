@@ -2,6 +2,7 @@
     "disc": {
         "appid": "a5d6de7e-60b0-4b69-a16c-63a8f3e99e27",
         "appname": "gateway_ii_homeworld",
+        "installdir": "GW2",
         "keys": [],
         "launch": [
             {
@@ -12,7 +13,7 @@
         ],
         "name": "Gateway II - Homeworld",
         "paths": [
-            "DOS_MAIN_ROOT/C/GW2/*.SAV"
+            "GAME_INSTALL_DIR/*.SAV"
         ],
         "setup": {
             "install": [

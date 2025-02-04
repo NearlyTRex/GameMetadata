@@ -2,6 +2,7 @@
     "disc": {
         "appid": "ac893c7a-2cfa-43cc-a33a-b8320a13bfb0",
         "appname": "spookys_house_of_jump_scares",
+        "installdir": "Spooky",
         "keys": [],
         "launch": [
             {
@@ -11,7 +12,7 @@
         ],
         "name": "Spooky's House of Jump Scares",
         "paths": [
-            "HDD_MAIN_ROOT/Spooky/save_data_main.ini"
+            "GAME_INSTALL_DIR/save_data_main.ini"
         ],
         "setup": {
             "preinstall": [

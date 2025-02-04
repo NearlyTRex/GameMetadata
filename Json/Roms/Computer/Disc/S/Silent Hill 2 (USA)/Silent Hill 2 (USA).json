@@ -2,6 +2,7 @@
     "disc": {
         "appid": "282af360-8579-4d39-96ef-ca0b6601afc7",
         "appname": "silent_hill_2",
+        "installdir": "Silent Hill 2",
         "keys": [],
         "launch": [
             {
@@ -11,7 +12,7 @@
         ],
         "name": "Silent Hill 2",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files (x86)/Konami/Silent Hill 2/data/save/Folder 01"
+            "GAME_INSTALL_DIR/data/save/Folder 01"
         ],
         "setup": {
             "install": [

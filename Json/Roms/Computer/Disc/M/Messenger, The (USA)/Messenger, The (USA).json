@@ -2,6 +2,7 @@
     "disc": {
         "appid": "7d5d725e-2a0e-4275-9dd9-1456e2ee591e",
         "appname": "the_messenger",
+        "installdir": "The Messenger",
         "keys": [],
         "launch": [
             {
@@ -11,7 +12,7 @@
         ],
         "name": "The Messenger",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files/The Messenger/Saved_*.bin"
+            "GAME_INSTALL_DIR/Saved_*.bin"
         ],
         "setup": {
             "install": [

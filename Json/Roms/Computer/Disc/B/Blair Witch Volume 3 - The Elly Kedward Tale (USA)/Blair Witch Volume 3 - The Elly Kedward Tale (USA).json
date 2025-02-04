@@ -2,12 +2,13 @@
     "disc": {
         "appid": "743d86b5-22ab-4619-8137-6f773c2f2728",
         "appname": "blair_witch_volume_3_the_elly_kedward_tale",
+        "installdir": "Blair Witch Volume Three - Elly Kedward",
         "keys": [],
         "launch": [],
         "name": "Blair Witch Volume 3 - The Elly Kedward Tale",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files (x86)/Ritual Entertainment/Blair Witch Volume Three - Elly Kedward/save",
-            "HDD_MAIN_ROOT/Program Files (x86)/Ritual Entertainment/Blair Witch Volume Three - Elly Kedward/SYSTEM"
+            "GAME_INSTALL_DIR/save",
+            "GAME_INSTALL_DIR/SYSTEM"
         ],
         "setup": {
             "install": [

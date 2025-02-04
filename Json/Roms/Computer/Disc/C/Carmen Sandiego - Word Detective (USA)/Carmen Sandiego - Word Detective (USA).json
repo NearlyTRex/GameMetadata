@@ -2,6 +2,7 @@
     "disc": {
         "appid": "d1c7b391-337c-42b3-a112-0a4d9e9b28a2",
         "appname": "carmen_sandiego_word_detective",
+        "installdir": "CSWORD",
         "keys": [],
         "launch": [
             {
@@ -12,7 +13,7 @@
         ],
         "name": "Carmen Sandiego - Word Detective",
         "paths": [
-            "DOS_MAIN_ROOT/C/CSWORD/ROSTERS"
+            "GAME_INSTALL_DIR/ROSTERS"
         ],
         "setup": {
             "preinstall": [

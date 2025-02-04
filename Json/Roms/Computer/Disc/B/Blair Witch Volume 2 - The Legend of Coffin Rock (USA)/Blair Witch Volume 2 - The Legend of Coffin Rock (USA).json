@@ -2,12 +2,13 @@
     "disc": {
         "appid": "a1cd001c-5627-4c0d-a567-fa183fa582fb",
         "appname": "blair_witch_volume_2_the_legend_of_coffin_rock",
+        "installdir": "Blair Witch II",
         "keys": [],
         "launch": [],
         "name": "Blair Witch Volume 2 - The Legend of Coffin Rock",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files (x86)/HumanHead/Blair Witch II/save",
-            "HDD_MAIN_ROOT/Program Files (x86)/HumanHead/Blair Witch II/SYSTEM"
+            "GAME_INSTALL_DIR/save",
+            "GAME_INSTALL_DIR/SYSTEM"
         ],
         "setup": {
             "install": [

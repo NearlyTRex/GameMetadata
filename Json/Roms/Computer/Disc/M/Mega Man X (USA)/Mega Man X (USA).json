@@ -2,6 +2,7 @@
     "disc": {
         "appid": "f762131d-5806-4fb7-9b91-3fd3169321aa",
         "appname": "mega_man_x",
+        "installdir": "MMX",
         "keys": [],
         "launch": [
             {
@@ -12,8 +13,8 @@
         ],
         "name": "Mega Man X",
         "paths": [
-            "DOS_MAIN_ROOT/C/MMX/MMX.GMS",
-            "DOS_MAIN_ROOT/C/MMX/MMX.OPT"
+            "GAME_INSTALL_DIR/MMX.GMS",
+            "GAME_INSTALL_DIR/MMX.OPT"
         ],
         "setup": {
             "install": [

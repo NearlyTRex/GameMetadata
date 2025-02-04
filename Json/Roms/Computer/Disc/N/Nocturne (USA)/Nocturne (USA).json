@@ -2,6 +2,7 @@
     "disc": {
         "appid": "2ef139b3-7e3a-42c0-9b7c-83aa7f8ae13b",
         "appname": "nocturne",
+        "installdir": "Nocturne",
         "keys": [],
         "launch": [
             {
@@ -10,8 +11,8 @@
             }
         ],
         "paths": [
-            "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/save",
-            "HDD_MAIN_ROOT/Program Files (x86)/Terminal Reality/Nocturne/SYSTEM"
+            "GAME_INSTALL_DIR/save",
+            "GAME_INSTALL_DIR/SYSTEM"
         ],
         "setup": {
             "install": [

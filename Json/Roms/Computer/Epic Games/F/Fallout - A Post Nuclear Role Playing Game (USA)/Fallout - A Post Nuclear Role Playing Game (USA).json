@@ -3,9 +3,10 @@
         "appname": "f8ef168f3522419caad27d82878e0329",
         "appurl": "https://store.epicgames.com/en-US/p/fallout",
         "buildid": "1.3",
+        "installdir": "Fallout",
         "name": "Fallout: A Post Nuclear Role Playing Game",
         "paths": [
-            "STORE_INSTALL_DIR/Fallout/data/SAVEGAME"
+            "GAME_INSTALL_DIR/data/SAVEGAME"
         ]
     }
 }

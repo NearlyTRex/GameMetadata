@@ -2,6 +2,7 @@
     "disc": {
         "appid": "ca30819b-a80e-4361-a143-8aa89243eddc",
         "appname": "necronomicon",
+        "installdir": "Necronomicon",
         "keys": [],
         "launch": [
             {
@@ -11,7 +12,7 @@
         ],
         "name": "Necronomicon",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files/Necronomicon/Saved_*.bin"
+            "GAME_INSTALL_DIR/Saved_*.bin"
         ],
         "setup": {
             "install": [

@@ -2,6 +2,7 @@
     "disc": {
         "appid": "7a56dbb7-9311-40d7-b79e-0b20d89d0e08",
         "appname": "castle_of_the_winds_ii_lifthransirs_bane",
+        "installdir": "CASTLE2",
         "keys": [],
         "launch": [
             {
@@ -12,7 +13,7 @@
         ],
         "name": "Castle of the Winds II - Lifthransir's Bane",
         "paths": [
-            "DOS_MAIN_ROOT/C/CASTLE2/*.CWG"
+            "GAME_INSTALL_DIR/*.CWG"
         ],
         "setup": {
             "preinstall": [

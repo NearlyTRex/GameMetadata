@@ -2,11 +2,12 @@
     "disc": {
         "appid": "0672a592-1f0d-4c80-93a2-79b898d3fdd4",
         "appname": "nox",
+        "installdir": "OpenNox",
         "keys": [],
         "launch": [],
         "name": "Nox",
         "paths": [
-            "HDD_MAIN_ROOT/Games/OpenNox/Save"
+            "GAME_INSTALL_DIR/Save"
         ],
         "setup": {
             "install": [

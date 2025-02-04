@@ -2,6 +2,7 @@
     "disc": {
         "appid": "1d90c4f0-213d-4fb8-b540-c6764b677b39",
         "appname": "dark_seed",
+        "installdir": "DARKSEED",
         "keys": [],
         "launch": [
             {
@@ -12,7 +13,7 @@
         ],
         "name": "Dark Seed",
         "paths": [
-            "DOS_MAIN_ROOT/C/DARKSEED/*.SAV"
+            "GAME_INSTALL_DIR/*.SAV"
         ],
         "setup": {
             "install": [

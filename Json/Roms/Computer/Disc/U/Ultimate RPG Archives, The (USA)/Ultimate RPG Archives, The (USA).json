@@ -52,7 +52,7 @@
         ],
         "name": "The Ultimate RPG Archives",
         "paths": [
-            "DOS_MAIN_ROOT/C/INTRPLAY/STONKEEP/SAVEGAME"
+            "GAME_INSTALL_DIR/INTRPLAY/STONKEEP/SAVEGAME"
         ],
         "setup": {
             "install": [

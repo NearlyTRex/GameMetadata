@@ -2,6 +2,7 @@
     "disc": {
         "appid": "1cd34b21-b976-42be-9742-32fac35c9351",
         "appname": "resident_evil_4",
+        "installdir": "resident evil 4",
         "keys": [],
         "launch": [
             {
@@ -11,7 +12,7 @@
         ],
         "name": "Resident Evil 4",
         "paths": [
-            "HDD_MAIN_ROOT/Program Files (x86)/CAPCOM/resident evil 4/SaveData.dat"
+            "GAME_INSTALL_DIR/SaveData.dat"
         ],
         "setup": {
             "install": [
