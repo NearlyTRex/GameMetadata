@@ -9,7 +9,9 @@
             }
         ],
         "name": "DreamWeb",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/DREAMWEB.D0*"
+        ],
         "setup": {
             "preinstall": [
                 {

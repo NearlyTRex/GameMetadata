@@ -10,7 +10,11 @@
             }
         ],
         "name": "Hexen - Beyond Heretic",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/base/*.CFG",
+            "GAME_INSTALL_DIR/base/*.conf",
+            "GAME_INSTALL_DIR/base/HEXNDATA"
+        ],
         "setup": {
             "preinstall": [
                 {

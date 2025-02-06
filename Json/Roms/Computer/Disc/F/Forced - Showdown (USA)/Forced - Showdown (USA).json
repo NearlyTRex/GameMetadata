@@ -2,10 +2,14 @@
     "disc": {
         "appid": "bacf83fa-5e1e-4a7f-beef-dd37ef48348a",
         "appname": "forced_showdown",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/BetaDwarf/FORCED SHOWDOWN"
+        ],
         "launch": [],
         "name": "Forced - Showdown",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/FORCED Showdown"
+        ],
         "setup": {
             "install": [
                 {

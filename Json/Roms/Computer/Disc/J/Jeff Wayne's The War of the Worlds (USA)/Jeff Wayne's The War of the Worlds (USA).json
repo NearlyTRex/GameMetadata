@@ -2,10 +2,14 @@
     "disc": {
         "appid": "e6aed063-3bab-418e-a2a7-5c564893ec48",
         "appname": "jeff_waynes_the_war_of_the_worlds",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/Rage/Jeff Wayne's 'The War Of The Worlds'/1.00.000"
+        ],
         "launch": [],
         "name": "Jeff Wayne's The War of the Worlds",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/SaveGame"
+        ],
         "setup": {
             "install": [
                 {

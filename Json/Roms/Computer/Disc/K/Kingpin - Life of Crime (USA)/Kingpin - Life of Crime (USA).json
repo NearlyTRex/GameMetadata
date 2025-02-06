@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Kingpin - Life of Crime",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/main/config.cfg",
+            "GAME_INSTALL_DIR/main/save"
+        ],
         "setup": {
             "install": [
                 {

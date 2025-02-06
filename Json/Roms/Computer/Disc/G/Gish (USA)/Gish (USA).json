@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Gish",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Gish"
+        ],
         "setup": {
             "preinstall": [
                 {

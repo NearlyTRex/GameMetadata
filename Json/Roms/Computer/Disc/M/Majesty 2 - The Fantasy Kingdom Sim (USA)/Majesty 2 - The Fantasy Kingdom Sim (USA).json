@@ -11,7 +11,9 @@
             }
         ],
         "name": "Majesty 2 - The Fantasy Kingdom Sim",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/majesty2"
+        ],
         "setup": {
             "install": [
                 {

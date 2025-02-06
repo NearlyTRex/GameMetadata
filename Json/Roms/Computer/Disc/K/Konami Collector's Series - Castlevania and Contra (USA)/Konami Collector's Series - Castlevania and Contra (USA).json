@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Konami Collector's Series - Castlevania and Contra",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/*.qxf"
+        ],
         "setup": {
             "install": [
                 {

@@ -2,7 +2,9 @@
     "disc": {
         "appid": "8c40ba00-5b1f-4ac5-849b-cc54998089eb",
         "appname": "gun",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Activision/Gun"
+        ],
         "launch": [
             {
                 "cwd": "HDD_MAIN_ROOT/Program Files (x86)/Activision/GUN",
@@ -10,7 +12,9 @@
             }
         ],
         "name": "Gun",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Activision/Gun"
+        ],
         "setup": {
             "install": [
                 {

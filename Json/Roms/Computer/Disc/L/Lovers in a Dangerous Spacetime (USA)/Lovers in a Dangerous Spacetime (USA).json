@@ -10,7 +10,9 @@
             }
         ],
         "name": "Lovers in a Dangerous Spacetime",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/LoversInADangerousSpacetime"
+        ],
         "setup": {
             "preinstall": [
                 {

@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Land of the Dead - Road to Fiddler's Green",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Saves",
+            "GAME_INSTALL_DIR/System"
+        ],
         "setup": {
             "install": [
                 {

@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Dino Crisis 2",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE*.DAT",
+            "GAME_INSTALL_DIR/dino2.cfg"
+        ],
         "setup": {
             "preinstall": [
                 {

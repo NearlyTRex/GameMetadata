@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Invisible, Inc",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Klei/InvisibleInc"
+        ],
         "setup": {
             "install": [
                 {

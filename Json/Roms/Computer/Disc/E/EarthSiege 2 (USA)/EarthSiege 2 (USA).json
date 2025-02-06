@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "EarthSiege 2",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/DATA/*.cfg",
+            "GAME_INSTALL_DIR/SAV"
+        ],
         "setup": {
             "install": [
                 {

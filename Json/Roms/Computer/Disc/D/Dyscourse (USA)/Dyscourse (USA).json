@@ -2,10 +2,14 @@
     "disc": {
         "appid": "094c10f3-358b-4f93-b160-1e7f22c6550b",
         "appname": "dyscourse",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Owlchemy Labs/Dyscourse"
+        ],
         "launch": [],
         "name": "Dyscourse",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Owlchemy Labs/Dyscourse"
+        ],
         "setup": {
             "preinstall": [
                 {

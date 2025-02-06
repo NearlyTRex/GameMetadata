@@ -2,7 +2,9 @@
     "disc": {
         "appid": "962ca116-327f-407e-9750-14782251a7e4",
         "appname": "dino_crisis",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/CAPCOM/DINOCRISIS"
+        ],
         "launch": [
             {
                 "cwd": "HDD_MAIN_ROOT/DinoCrisis",
@@ -11,7 +13,9 @@
             }
         ],
         "name": "Dino Crisis",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE*.dno"
+        ],
         "setup": {
             "preinstall": [
                 {

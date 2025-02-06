@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Enemy Zero",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/EZERO.INI",
+            "GAME_INSTALL_DIR/VOICEREC.DAT"
+        ],
         "setup": {
             "install": [
                 {

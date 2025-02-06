@@ -3,7 +3,9 @@
         "appid": "0ea81b06-0e61-4369-acae-db4604220034",
         "appname": "dungeon_keeper_2",
         "installdir": "Dungeon Keeper 2",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Bullfrog Productions Ltd/Dungeon Keeper II/Configuration/Player"
+        ],
         "launch": [],
         "name": "Dungeon Keeper 2",
         "paths": [

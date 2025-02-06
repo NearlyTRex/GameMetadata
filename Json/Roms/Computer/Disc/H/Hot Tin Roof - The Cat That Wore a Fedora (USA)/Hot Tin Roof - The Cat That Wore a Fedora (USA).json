@@ -2,7 +2,10 @@
     "disc": {
         "appid": "9e28b9a8-0ffc-49b0-8f02-5edd43be8d98",
         "appname": "hot_tin_roof_the_cat_that_wore_a_fedora",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Glass Bottom Games/Revolver",
+            "HKEY_CURRENT_USER/Software/Glass Bottom Games/Revolver/SaveSlot*_*"
+        ],
         "launch": [],
         "name": "Hot Tin Roof - The Cat That Wore a Fedora",
         "paths": [],
