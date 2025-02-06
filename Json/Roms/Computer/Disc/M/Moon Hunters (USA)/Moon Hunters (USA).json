@@ -10,7 +10,9 @@
             }
         ],
         "name": "Moon Hunters",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/MoonHunters"
+        ],
         "setup": {
             "preinstall": [
                 {

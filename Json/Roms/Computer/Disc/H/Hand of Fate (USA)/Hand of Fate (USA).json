@@ -2,10 +2,14 @@
     "disc": {
         "appid": "9ddfd8ad-d38f-44bb-99d8-8ac35f83ae84",
         "appname": "hand_of_fate",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Defiant Development/Hand of Fate"
+        ],
         "launch": [],
         "name": "Hand of Fate",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Defiant Development/Hand of Fate"
+        ],
         "setup": {
             "install": [
                 {

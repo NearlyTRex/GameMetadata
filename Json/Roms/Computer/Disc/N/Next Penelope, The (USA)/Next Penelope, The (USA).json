@@ -10,7 +10,9 @@
             }
         ],
         "name": "The Next Penelope",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/nw"
+        ],
         "setup": {
             "preinstall": [
                 {

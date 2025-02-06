@@ -5,7 +5,11 @@
         "keys": [],
         "launch": [],
         "name": "Freedom Planet",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/*.cfg",
+            "GAME_INSTALL_DIR/file*.sav",
+            "GAME_INSTALL_DIR/records.dat"
+        ],
         "setup": {
             "preinstall": [
                 {

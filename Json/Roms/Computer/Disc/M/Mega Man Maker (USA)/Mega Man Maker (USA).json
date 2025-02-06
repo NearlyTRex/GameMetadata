@@ -10,7 +10,9 @@
             }
         ],
         "name": "Mega Man Maker",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/MegaMaker"
+        ],
         "setup": {
             "preinstall": [
                 {

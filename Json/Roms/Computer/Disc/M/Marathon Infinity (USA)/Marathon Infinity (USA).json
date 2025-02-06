@@ -10,7 +10,10 @@
             }
         ],
         "name": "Marathon Infinity",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Aleph One",
+            "USER_PROFILE_DIR/Documents/Aleph One"
+        ],
         "setup": {
             "preinstall": [
                 {

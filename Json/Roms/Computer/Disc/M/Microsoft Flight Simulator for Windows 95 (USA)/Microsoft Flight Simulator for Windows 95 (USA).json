@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Microsoft Flight Simulator for Windows 95",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/FltSim95.CFG",
+            "GAME_INSTALL_DIR/Pilots"
+        ],
         "setup": {
             "install": [
                 {

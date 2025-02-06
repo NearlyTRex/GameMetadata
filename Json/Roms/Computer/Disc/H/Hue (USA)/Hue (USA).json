@@ -2,7 +2,9 @@
     "disc": {
         "appid": "214de2ad-4eda-48e8-8cf4-972358c5014a",
         "appname": "hue",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Fiddlesticks/Hue"
+        ],
         "launch": [],
         "name": "Hue",
         "paths": [],

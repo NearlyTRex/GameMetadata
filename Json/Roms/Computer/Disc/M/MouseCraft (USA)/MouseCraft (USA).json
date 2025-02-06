@@ -5,7 +5,11 @@
         "keys": [],
         "launch": [],
         "name": "MouseCraft",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/User Data/save.xml",
+            "GAME_INSTALL_DIR/User Data/settings.xml",
+            "USER_PROFILE_DIR/Documents/Crunching Koalas/MouseCraft"
+        ],
         "setup": {
             "install": [
                 {

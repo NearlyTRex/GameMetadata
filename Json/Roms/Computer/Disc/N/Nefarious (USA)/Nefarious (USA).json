@@ -10,7 +10,9 @@
             }
         ],
         "name": "Nefarious",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Starblade/Nefarious"
+        ],
         "setup": {
             "install": [
                 {
