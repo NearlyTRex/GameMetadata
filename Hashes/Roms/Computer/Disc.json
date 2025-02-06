@@ -2744,20 +2744,30 @@
         "filename": "Messenger, The (USA) (Disc 1).chd",
         "filename_enc": "de25ae68ba6e30dd495800e4eded3887.enc",
         "hash": "514b27fe07d62b24",
-        "hash_enc": "",
-        "mtime": "1655060430",
-        "size": "448930039",
-        "size_enc": 0
+        "hash_enc": "df8737f1c20486f0dfb1dfc3d39377d6",
+        "mtime": 1738527813,
+        "size": 448930039,
+        "size_enc": 448930145
     },
     {
         "dir": "Roms/Computer/Disc/M/Messenger, The (USA)",
         "filename": "Messenger, The (USA) (Disc 2).chd",
         "filename_enc": "3460412e07d42239a5631e5e7fac89b0.enc",
         "hash": "81f0a495b27017d3",
-        "hash_enc": "",
-        "mtime": "1655060459",
-        "size": "567179388",
-        "size_enc": 0
+        "hash_enc": "72c3e51355818162dfe0d5ec452c6188",
+        "mtime": 1738527818,
+        "size": 567179388,
+        "size_enc": 567179494
+    },
+    {
+        "dir": "Roms/Computer/Disc/M/Messenger, The (USA)",
+        "filename": "Messenger, The (USA) (Update).chd",
+        "filename_enc": "d1278c8a08af79b46516486e287b853d.enc",
+        "hash": "382f07d6ad07157f",
+        "hash_enc": "3d6d9c88ca6dc89ca65f79ef918937ca",
+        "mtime": 1738527819,
+        "size": 85314,
+        "size_enc": 85420
     },
     {
         "dir": "Roms/Computer/Disc/M/Messenger, The (USA)",
@@ -2784,110 +2794,110 @@
         "filename": "Microsoft Flight Simulator for Windows 95 (USA).chd",
         "filename_enc": "d29849ac625fe40d75ad3f25bc3a92e2.enc",
         "hash": "3a877fb9fab2cff9",
-        "hash_enc": "",
-        "mtime": "1705267276",
-        "size": "236373949",
-        "size_enc": 0
+        "hash_enc": "a46724b7d63d0a88c7f597c196028edf",
+        "mtime": 1738528461,
+        "size": 236373949,
+        "size_enc": 236374073
     },
     {
         "dir": "Roms/Computer/Disc/M/Moon Hunters (USA)",
         "filename": "Moon Hunters (USA).chd",
         "filename_enc": "fb417427986307b8c25cd9a585c87cd6.enc",
         "hash": "05e41e8db0e7d979",
-        "hash_enc": "",
-        "mtime": "1655061104",
-        "size": "1360431421",
-        "size_enc": 0
+        "hash_enc": "9c9e841ad4c34b6498661bad41fa578d",
+        "mtime": 1738528579,
+        "size": 1360431421,
+        "size_enc": 1360431516
     },
     {
         "dir": "Roms/Computer/Disc/M/Moraff's Maximum Mahjongg (USA)",
         "filename": "Moraff's Maximum Mahjongg (USA).chd",
         "filename_enc": "dd02edc2b15af0445afd03c1a61339d7.enc",
         "hash": "3f9cbe2d0853e27b",
-        "hash_enc": "",
-        "mtime": "1703718149",
-        "size": "207019399",
-        "size_enc": 0
+        "hash_enc": "d1adf2df588a3cc9e717c066c00f9ab0",
+        "mtime": 1738529071,
+        "size": 207019399,
+        "size_enc": 207019507
     },
     {
         "dir": "Roms/Computer/Disc/M/MouseCraft (USA)",
         "filename": "MouseCraft (USA).chd",
         "filename_enc": "c75b182aacffadfaa5371360b4dd0d68.enc",
         "hash": "7c416352a9c42f7d",
-        "hash_enc": "",
-        "mtime": "1655047092",
-        "size": "1894467816",
-        "size_enc": 0
+        "hash_enc": "6882c9c907aa57fe24ef1284ead7226c",
+        "mtime": 1738529166,
+        "size": 1894467816,
+        "size_enc": 1894467909
     },
     {
         "dir": "Roms/Computer/Disc/M/Multiwinia (USA)",
         "filename": "Multiwinia (USA).chd",
         "filename_enc": "c9a71a3fa0f254614cf817cb980da017.enc",
         "hash": "2e3d127c4066fcb7",
-        "hash_enc": "",
-        "mtime": "1655045764",
-        "size": "50683825",
-        "size_enc": 0
+        "hash_enc": "90a0b593c140c16e0cafc2cfbdbb0ffd",
+        "mtime": 1738529843,
+        "size": 50683825,
+        "size_enc": 50683918
     },
     {
         "dir": "Roms/Computer/Disc/M/Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA)",
         "filename": "Murder Mystery Collection - Still Life Trilogy & Loch Ness (USA).chd",
         "filename_enc": "014e52e0e4901a7dc8ac76c42a619a0b.enc",
         "hash": "d29ae945661e0a94",
-        "hash_enc": "",
-        "mtime": "1655060355",
-        "size": "7078034122",
-        "size_enc": 0
+        "hash_enc": "668190f76684364e71d385b417fd8444",
+        "mtime": 1738529932,
+        "size": 7078034122,
+        "size_enc": 7079762402
     },
     {
         "dir": "Roms/Computer/Disc/M/Myst - Masterpiece Edition (USA)",
         "filename": "Myst - Masterpiece Edition (USA).chd",
         "filename_enc": "01ffaa237fdd80aa1ad1c6e7d9f77903.enc",
         "hash": "0dacf4f2d36068d2",
-        "hash_enc": "",
-        "mtime": "1694379689",
-        "size": "1514672157",
-        "size_enc": 0
+        "hash_enc": "966f0d6755b539f30a20259491bc6670",
+        "mtime": 1738532505,
+        "size": 1514672157,
+        "size_enc": 1514672266
     },
     {
         "dir": "Roms/Computer/Disc/M/Myst III - Exile (USA)",
         "filename": "Myst III - Exile (USA).chd",
         "filename_enc": "b6767a78474849d50f298fb2804bc025.enc",
         "hash": "60e3458fbd0d068c",
-        "hash_enc": "",
-        "mtime": "1694381041",
-        "size": "3057734245",
-        "size_enc": 0
+        "hash_enc": "9d9f1341a6b6136d0809e55a87017354",
+        "mtime": 1738533074,
+        "size": 3057734245,
+        "size_enc": 3057734344
     },
     {
         "dir": "Roms/Computer/Disc/M/Myth The Total Codex (USA)",
         "filename": "Myth The Total Codex (USA) (Disc 1).chd",
         "filename_enc": "7ab218a55a728ee7966909836a096dec.enc",
         "hash": "25f578e2a72df919",
-        "hash_enc": "",
-        "mtime": "1693339391",
-        "size": "367145677",
-        "size_enc": 0
+        "hash_enc": "7addbe86674ec7e80765b049eba819bc",
+        "mtime": 1738534162,
+        "size": 367145677,
+        "size_enc": 367145789
     },
     {
         "dir": "Roms/Computer/Disc/M/Myth The Total Codex (USA)",
         "filename": "Myth The Total Codex (USA) (Disc 2).chd",
         "filename_enc": "c189efa9e5224947d7f4781ff53f0f80.enc",
         "hash": "28dd60c86f85aa69",
-        "hash_enc": "",
-        "mtime": "1693339408",
-        "size": "307965857",
-        "size_enc": 0
+        "hash_enc": "b90dc73b1ce236cb8c3a78a28375917e",
+        "mtime": 1738534167,
+        "size": 307965857,
+        "size_enc": 307965969
     },
     {
         "dir": "Roms/Computer/Disc/M/Myth The Total Codex (USA)",
         "filename": "Myth The Total Codex (USA) (Disc 3).chd",
         "filename_enc": "3dd756be4517945817eb4b508371be75.enc",
         "hash": "28c4ded4d0f5b946",
-        "hash_enc": "",
-        "mtime": "1693339431",
-        "size": "417989931",
-        "size_enc": 0
+        "hash_enc": "1a35669f3a1d237161e4cf267b9e4ce9",
+        "mtime": 1738534170,
+        "size": 417989931,
+        "size_enc": 417990043
     },
     {
         "dir": "Roms/Computer/Disc/M/Myth The Total Codex (USA)",
@@ -2901,13 +2911,23 @@
     },
     {
         "dir": "Roms/Computer/Disc/M/Myth The Total Codex (USA)",
+        "filename": "Myth The Total Codex (USA) (Update).chd",
+        "filename_enc": "9b177e7f86bad3d1d6537018da131041.enc",
+        "hash": "7f0c0b64773b1911",
+        "hash_enc": "0a698ed592ba78d7695acf067496c626",
+        "mtime": 1738534173,
+        "size": 304955748,
+        "size_enc": 304955860
+    },
+    {
+        "dir": "Roms/Computer/Disc/M/Myth The Total Codex (USA)",
         "filename": "Myth The Total Codex (USA).m3u",
         "filename_enc": "44e1c39b2988c1f445a87f176ca958af.enc",
-        "hash": "433d514284fdb3d8",
-        "hash_enc": "",
-        "mtime": "1698424248",
-        "size": "160",
-        "size_enc": 0
+        "hash": "f30b6679498e13bf",
+        "hash_enc": "e413d7b438a14acc9f6e10a0d3841a62",
+        "mtime": 1738534173,
+        "size": 160,
+        "size_enc": 257
     },
     {
         "dir": "Roms/Computer/Disc/M/Myth The Total Codex (USA)/update",
@@ -2924,20 +2944,30 @@
         "filename": "Necronomicon (USA) (Disc 1).chd",
         "filename_enc": "1002dbcf0a579c2017bdcbd5baa0225a.enc",
         "hash": "e1328382680e8b84",
-        "hash_enc": "",
-        "mtime": "1655047431",
-        "size": "545069752",
-        "size_enc": 0
+        "hash_enc": "691600c9c72440616945175101a2f850",
+        "mtime": 1738534936,
+        "size": 545069752,
+        "size_enc": 545069856
     },
     {
         "dir": "Roms/Computer/Disc/N/Necronomicon (USA)",
         "filename": "Necronomicon (USA) (Disc 2).chd",
         "filename_enc": "9125e6d43b042902886b58c13c4b7111.enc",
         "hash": "c036a9a87b47fc5e",
-        "hash_enc": "",
-        "mtime": "1655047401",
-        "size": "565014696",
-        "size_enc": 0
+        "hash_enc": "18ee8042e55c79dab07893ae0bfd87e4",
+        "mtime": 1738534943,
+        "size": 565014696,
+        "size_enc": 565014800
+    },
+    {
+        "dir": "Roms/Computer/Disc/N/Necronomicon (USA)",
+        "filename": "Necronomicon (USA) (Update).chd",
+        "filename_enc": "6955d9f5814ed3521145856edc946244.enc",
+        "hash": "8db494ade2fae5e8",
+        "hash_enc": "0a616c8dde37d94977f9252bbe1b921a",
+        "mtime": 1738534943,
+        "size": 81276,
+        "size_enc": 81380
     },
     {
         "dir": "Roms/Computer/Disc/N/Necronomicon (USA)",
@@ -2964,40 +2994,50 @@
         "filename": "Nefarious (USA).chd",
         "filename_enc": "912e05057ca424c6b2495ac43563ab16.enc",
         "hash": "473f9184b5a5a604",
-        "hash_enc": "",
-        "mtime": "1655060759",
-        "size": "851668087",
-        "size_enc": 0
+        "hash_enc": "674a52374eb58c9e43aaf09a0e40dfc7",
+        "mtime": 1738535354,
+        "size": 851668087,
+        "size_enc": 851668179
     },
     {
         "dir": "Roms/Computer/Disc/N/Next Penelope, The (USA)",
         "filename": "Next Penelope, The (USA).chd",
         "filename_enc": "4296ba8c15c916112306a8ea203a47c9.enc",
         "hash": "c53a9cb67eadb767",
-        "hash_enc": "",
-        "mtime": "1655060654",
-        "size": "429938742",
-        "size_enc": 0
+        "hash_enc": "7395055305b46adb143b3368c0a6c1c1",
+        "mtime": 1738535664,
+        "size": 429938742,
+        "size_enc": 429938843
     },
     {
         "dir": "Roms/Computer/Disc/N/Nocturne (USA)",
         "filename": "Nocturne (USA) (Disc 1).chd",
         "filename_enc": "6dbbf3a1ecaaf4006b5914611dfb38b5.enc",
         "hash": "f88a42222c2f9e83",
-        "hash_enc": "",
-        "mtime": "1655061139",
-        "size": "409021126",
-        "size_enc": 0
+        "hash_enc": "ab0996712996d80fe3078781bbd5bf17",
+        "mtime": 1738535841,
+        "size": 409021126,
+        "size_enc": 409021226
     },
     {
         "dir": "Roms/Computer/Disc/N/Nocturne (USA)",
         "filename": "Nocturne (USA) (Disc 2).chd",
         "filename_enc": "82437620b0d1fb90f6e9edd75e5f88a8.enc",
         "hash": "f7cb6e39943f820d",
-        "hash_enc": "",
-        "mtime": "1655061161",
-        "size": "624543129",
-        "size_enc": 0
+        "hash_enc": "d0f732593023c6cbf3efece7f71d06bf",
+        "mtime": 1738535847,
+        "size": 624543129,
+        "size_enc": 624543229
+    },
+    {
+        "dir": "Roms/Computer/Disc/N/Nocturne (USA)",
+        "filename": "Nocturne (USA) (Update).chd",
+        "filename_enc": "e7d98bb49c09b61502551abec2171a7f.enc",
+        "hash": "f1cb04c349481131",
+        "hash_enc": "259b59b16a4dd4327edb74e534f8c1ba",
+        "mtime": 1738535847,
+        "size": 3504749,
+        "size_enc": 3504849
     },
     {
         "dir": "Roms/Computer/Disc/N/Nocturne (USA)",
@@ -3021,13 +3061,33 @@
     },
     {
         "dir": "Roms/Computer/Disc/N/Nox (USA)",
+        "filename": "Nox (USA) (Update).chd",
+        "filename_enc": "4f7ca45f7612b6ba1379a0bc9bec33fe.enc",
+        "hash": "79ce0567bd09e312",
+        "hash_enc": "146966883d99d79c63357eb6b468f630",
+        "mtime": 1738536224,
+        "size": 39105755,
+        "size_enc": 39105850
+    },
+    {
+        "dir": "Roms/Computer/Disc/N/Nox (USA)",
         "filename": "Nox (USA).chd",
         "filename_enc": "fd30b77273bef47e0204ac5885d252a0.enc",
         "hash": "942e2df742ef48e0",
-        "hash_enc": "",
-        "mtime": "1655056770",
-        "size": "530247817",
-        "size_enc": 0
+        "hash_enc": "7ebc369a43624c6b9c3585b6253370d7",
+        "mtime": 1738536228,
+        "size": 530247817,
+        "size_enc": 530247903
+    },
+    {
+        "dir": "Roms/Computer/Disc/N/Nox (USA)",
+        "filename": "Nox (USA).m3u",
+        "filename_enc": "6b37385b58074583d6b647de659da13e.enc",
+        "hash": "6fa3d511c6d47f45",
+        "hash_enc": "05ce90c33498c167d7c52901016215b9",
+        "mtime": 1738536228,
+        "size": 37,
+        "size_enc": 116
     },
     {
         "dir": "Roms/Computer/Disc/N/Nox (USA)/update",
@@ -3044,70 +3104,70 @@
         "filename": "Nuclear Throne (USA) (Windows Only).chd",
         "filename_enc": "05c8f76f65881e35757dcbfb648dcd3b.enc",
         "hash": "62640788cf531560",
-        "hash_enc": "",
-        "mtime": "1655058360",
-        "size": "140153089",
-        "size_enc": 0
+        "hash_enc": "506a2498a148afddf908bc678b032218",
+        "mtime": 1738536439,
+        "size": 140153089,
+        "size_enc": 140153201
     },
     {
         "dir": "Roms/Computer/Disc/N/Nuclear Throne (USA) (Windows, Mac, Linux)",
         "filename": "Nuclear Throne (USA) (Windows, Mac, Linux).chd",
         "filename_enc": "9d1a5fa990c63edb40f774d743bb8b9c.enc",
         "hash": "e996fa033c20f344",
-        "hash_enc": "",
-        "mtime": "1655056836",
-        "size": "422485271",
-        "size_enc": 0
+        "hash_enc": "42ba517f5428214da26f377d75fadefb",
+        "mtime": 1738536497,
+        "size": 422485271,
+        "size_enc": 422485390
     },
     {
         "dir": "Roms/Computer/Disc/O/ObsCure (USA)",
         "filename": "ObsCure (USA) (Disc 1).chd",
         "filename_enc": "ab83d0641297f56175f9ce8ee87e2d19.enc",
         "hash": "fbc1b62a1baecddd",
-        "hash_enc": "",
-        "mtime": "1714573073",
-        "size": "679416308",
-        "size_enc": 0
+        "hash_enc": "5605c12f342d453a38c0b72a5d1c2133",
+        "mtime": 1738536658,
+        "size": 679416308,
+        "size_enc": 679416407
     },
     {
         "dir": "Roms/Computer/Disc/O/ObsCure (USA)",
         "filename": "ObsCure (USA) (Disc 2).chd",
         "filename_enc": "5d6e6bedcb54e53350a668db530c9977.enc",
         "hash": "cfee3d48e97e077c",
-        "hash_enc": "",
-        "mtime": "1714573083",
-        "size": "685685308",
-        "size_enc": 0
+        "hash_enc": "9155d66d5d3789f01fee6c0681a2f132",
+        "mtime": 1738536666,
+        "size": 685685308,
+        "size_enc": 685685407
     },
     {
         "dir": "Roms/Computer/Disc/O/ObsCure (USA)",
         "filename": "ObsCure (USA) (Disc 3).chd",
         "filename_enc": "c87f31fe0ed6414c2b0556efca0e145a.enc",
         "hash": "95c7e628cacf9504",
-        "hash_enc": "",
-        "mtime": "1714573093",
-        "size": "685705143",
-        "size_enc": 0
+        "hash_enc": "393326de2a296fc2ef79b542c6654c9d",
+        "mtime": 1738536673,
+        "size": 685705143,
+        "size_enc": 685705242
     },
     {
         "dir": "Roms/Computer/Disc/O/ObsCure (USA)",
         "filename": "ObsCure (USA) (Disc 4).chd",
         "filename_enc": "1be59a83c9e442060034af9aba6ee684.enc",
         "hash": "4e18e63b2380e7a7",
-        "hash_enc": "",
-        "mtime": "1714573102",
-        "size": "685646554",
-        "size_enc": 0
+        "hash_enc": "5e6d17e42d38c7ab167cb46d18188eed",
+        "mtime": 1738536679,
+        "size": 685646554,
+        "size_enc": 685646653
     },
     {
         "dir": "Roms/Computer/Disc/O/ObsCure (USA)",
         "filename": "ObsCure (USA) (Disc 5).chd",
         "filename_enc": "769a8b94f96b463c8284870a6367199f.enc",
         "hash": "a2d7c85532d02ea5",
-        "hash_enc": "",
-        "mtime": "1714573111",
-        "size": "632281711",
-        "size_enc": 0
+        "hash_enc": "9d8c3eccebf40eb66189497aa40c1e56",
+        "mtime": 1738536685,
+        "size": 632281711,
+        "size_enc": 632281810
     },
     {
         "dir": "Roms/Computer/Disc/O/ObsCure (USA)",
@@ -3124,250 +3184,270 @@
         "filename": "Oregon Trail II - 25th Anniversary Limited Edition (USA).chd",
         "filename_enc": "b3aab78732df5ff5e8473ad899ea8341.enc",
         "hash": "be1cab1bbb0a1982",
-        "hash_enc": "",
-        "mtime": "1714582827",
-        "size": "503426126",
-        "size_enc": 0
+        "hash_enc": "b6ebb5e39245bab349829d6431eca95e",
+        "mtime": 1738538963,
+        "size": 503426126,
+        "size_enc": 503426259
     },
     {
         "dir": "Roms/Computer/Disc/O/Owlboy (USA)",
         "filename": "Owlboy (USA).chd",
         "filename_enc": "416649fd5d7d0d38d7a19d6a58c969b4.enc",
         "hash": "5568e7eb6bd95694",
-        "hash_enc": "",
-        "mtime": "1655046070",
-        "size": "748713600",
-        "size_enc": 0
+        "hash_enc": "f8e1c4afe7efad70fb60e216d1c897bc",
+        "mtime": 1738539170,
+        "size": 748713600,
+        "size_enc": 748713689
     },
     {
         "dir": "Roms/Computer/Disc/P/P.T. - Playable Teaser (USA)",
         "filename": "P.T. - Playable Teaser (USA).chd",
         "filename_enc": "234d0c9b4384d772831257b1a417b895.enc",
         "hash": "5c82780ba9f5c016",
-        "hash_enc": "",
-        "mtime": "1697923648",
-        "size": "719154561",
-        "size_enc": 0
+        "hash_enc": "1788faa92828c102ebe5e58d2d9cc65e",
+        "mtime": 1738539446,
+        "size": 719154561,
+        "size_enc": 719154666
     },
     {
         "dir": "Roms/Computer/Disc/P/Pac-Man - Adventures in Time (USA)",
         "filename": "Pac-Man - Adventures in Time (USA).chd",
         "filename_enc": "08cd202e1d54d89d0c8df370a8886bed.enc",
         "hash": "80212aec2c5a1976",
-        "hash_enc": "",
-        "mtime": "1709568305",
-        "size": "346891038",
-        "size_enc": 0
+        "hash_enc": "a6628b77d09f6ea9d38094b48d5ab460",
+        "mtime": 1738539717,
+        "size": 346891038,
+        "size_enc": 346891149
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA) (Disc 1).chd",
         "filename_enc": "99d4371ddb5e96ef0e5a54a9046ab130.enc",
         "hash": "e44b7251ed17b559",
-        "hash_enc": "",
-        "mtime": "1693332119",
-        "size": "495057968",
-        "size_enc": 0
+        "hash_enc": "470d0fd7f4f2d518ebde9573a98041a2",
+        "mtime": 1738539850,
+        "size": 495057968,
+        "size_enc": 495058074
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA) (Disc 2).chd",
         "filename_enc": "7ff8ad8eb8e0050d3a1dfcf95ec762fd.enc",
         "hash": "9dc869bf6b6fcc9b",
-        "hash_enc": "",
-        "mtime": "1693332136",
-        "size": "462023721",
-        "size_enc": 0
+        "hash_enc": "6ce09fddc72d70625a747eea91644719",
+        "mtime": 1738539855,
+        "size": 462023721,
+        "size_enc": 462023827
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA) (Disc 3).chd",
         "filename_enc": "0382405f9706400f6977c4f1ef19f78f.enc",
         "hash": "29556473477fe2c1",
-        "hash_enc": "",
-        "mtime": "1693332156",
-        "size": "563562338",
-        "size_enc": 0
+        "hash_enc": "2423376813923e697951459186a223eb",
+        "mtime": 1738539861,
+        "size": 563562338,
+        "size_enc": 563562444
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA) (Disc 4).chd",
         "filename_enc": "0f52b79d33db6c6ac5929cc7d75afcd4.enc",
         "hash": "33117080464d62de",
-        "hash_enc": "",
-        "mtime": "1693332177",
-        "size": "566819251",
-        "size_enc": 0
+        "hash_enc": "6e8301bb68b931ca61284124ac09857d",
+        "mtime": 1738539868,
+        "size": 566819251,
+        "size_enc": 566819357
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA) (Disc 5).chd",
         "filename_enc": "6076d86fcef61f4027649ab7803d6130.enc",
         "hash": "6e314b7443bc033b",
-        "hash_enc": "",
-        "mtime": "1693332197",
-        "size": "507087192",
-        "size_enc": 0
+        "hash_enc": "7ca6050016175322fb597568a6fe7d16",
+        "mtime": 1738539872,
+        "size": 507087192,
+        "size_enc": 507087298
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA) (Disc 6).chd",
         "filename_enc": "1b9a3b794ea27129d1cb2a57e13851a0.enc",
         "hash": "36f536fc5026b9b7",
-        "hash_enc": "",
-        "mtime": "1693332218",
-        "size": "563167115",
-        "size_enc": 0
+        "hash_enc": "f1b023d863a4758673cec179ee3e0cf9",
+        "mtime": 1738539878,
+        "size": 563167115,
+        "size_enc": 563167221
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA) (Disc 7).chd",
         "filename_enc": "1d193d30f54680ad395d609abd23512f.enc",
         "hash": "15f5f45768b56e2c",
-        "hash_enc": "",
-        "mtime": "1693332236",
-        "size": "401795143",
-        "size_enc": 0
+        "hash_enc": "8d19ab82ec6e4faec59e2a2c20ea8392",
+        "mtime": 1738539882,
+        "size": 401795143,
+        "size_enc": 401795249
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria (USA)",
         "filename": "Phantasmagoria (USA).m3u",
         "filename_enc": "97c7f82e35bfcb2a04bb82a3ed5b2a3f.enc",
         "hash": "edf394e34c3e08a0",
-        "hash_enc": "",
-        "mtime": "1655062113",
-        "size": "238",
-        "size_enc": 0
+        "hash_enc": "c59a333102a0ba9e309594270786327f",
+        "mtime": 1738539883,
+        "size": 238,
+        "size_enc": 330
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)",
         "filename": "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 1).chd",
         "filename_enc": "aebe80128d3096f0f6801a5eb2a54772.enc",
         "hash": "d99140bc822e3363",
-        "hash_enc": "",
-        "mtime": "1655059440",
-        "size": "549502373",
-        "size_enc": 0
+        "hash_enc": "6d9c6a3ceb6e5e03e90f3e45ab5bb660",
+        "mtime": 1738541165,
+        "size": 549502373,
+        "size_enc": 549502501
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)",
         "filename": "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 2).chd",
         "filename_enc": "965a85d69769b96cdd650e41902bcbab.enc",
         "hash": "a741025a41c7510a",
-        "hash_enc": "",
-        "mtime": "1655059412",
-        "size": "493129250",
-        "size_enc": 0
+        "hash_enc": "d2aede9dfa896bb36ab9054d6311ebd7",
+        "mtime": 1738541170,
+        "size": 493129250,
+        "size_enc": 493129378
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)",
         "filename": "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 3).chd",
         "filename_enc": "b78c2bd4f4bd62ba13d8d7335f5ffe18.enc",
         "hash": "e545a7626fed0fb5",
-        "hash_enc": "",
-        "mtime": "1655059488",
-        "size": "454425881",
-        "size_enc": 0
+        "hash_enc": "b6bef9f8bf029e56ee8548598796fa01",
+        "mtime": 1738541174,
+        "size": 454425881,
+        "size_enc": 454426009
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)",
         "filename": "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 4).chd",
         "filename_enc": "cbd54a78b007d1e466bde4e07e238a36.enc",
         "hash": "09ecbc37b1260232",
-        "hash_enc": "",
-        "mtime": "1655059388",
-        "size": "470066451",
-        "size_enc": 0
+        "hash_enc": "66952d46c516d1b0633b31db062744a7",
+        "mtime": 1738541179,
+        "size": 470066451,
+        "size_enc": 470066579
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)",
         "filename": "Phantasmagoria 2 - A Puzzle of Flesh (USA) (Disc 5).chd",
         "filename_enc": "2f818b1df574b2bc0631e37ccfcb7790.enc",
         "hash": "f8e8f271eb9b7990",
-        "hash_enc": "",
-        "mtime": "1655059466",
-        "size": "515562105",
-        "size_enc": 0
+        "hash_enc": "9049fe155a9f1f21bc9b32eb599122bd",
+        "mtime": 1738541184,
+        "size": 515562105,
+        "size_enc": 515562233
     },
     {
         "dir": "Roms/Computer/Disc/P/Phantasmagoria 2 - A Puzzle of Flesh (USA)",
         "filename": "Phantasmagoria 2 - A Puzzle of Flesh (USA).m3u",
         "filename_enc": "40b0852e6b8a2e15466e159fbbe3ae67.enc",
         "hash": "b521c04e3b1f2e1e",
-        "hash_enc": "",
-        "mtime": "1655062033",
-        "size": "280",
-        "size_enc": 0
+        "hash_enc": "212ce204a881a54f065af992637e591b",
+        "mtime": 1738541185,
+        "size": 280,
+        "size_enc": 394
     },
     {
         "dir": "Roms/Computer/Disc/P/Pier Solar (USA) (En,Fr,Ja,De,Es,Pr)",
         "filename": "Pier Solar (USA) (En,Fr,Ja,De,Es,Pr).chd",
         "filename_enc": "102ebf402ae2da28c8ca40c7da15fcfe.enc",
         "hash": "1e3ea099b86b0ce1",
-        "hash_enc": "",
-        "mtime": "1655060016",
-        "size": "2160010052",
-        "size_enc": 0
+        "hash_enc": "b845cefd800873e5c6d8eb99bb6912e4",
+        "mtime": 1738542386,
+        "size": 2160010052,
+        "size_enc": 2160010165
     },
     {
         "dir": "Roms/Computer/Disc/P/Pillars of Garendall (USA)",
         "filename": "Pillars of Garendall (USA).chd",
         "filename_enc": "353ba841277e44d4d8123c4fb4439f48.enc",
         "hash": "f848d7207deebd98",
-        "hash_enc": "",
-        "mtime": "1699572343",
-        "size": "284860016",
-        "size_enc": 0
+        "hash_enc": "c9b04a05b845b42ee01869cbc8d6b4c4",
+        "mtime": 1738543158,
+        "size": 284860016,
+        "size_enc": 284860119
     },
     {
         "dir": "Roms/Computer/Disc/P/Play-Doh Creations (USA)",
         "filename": "Play-Doh Creations (USA).chd",
         "filename_enc": "4d686029fd1c74595b85631052fd9430.enc",
         "hash": "6f226d159efddbd9",
-        "hash_enc": "",
-        "mtime": "1703955392",
-        "size": "161638950",
-        "size_enc": 0
+        "hash_enc": "6117494975ee1b4a735062f3f3634344",
+        "mtime": 1738543265,
+        "size": 161638950,
+        "size_enc": 161639051
     },
     {
         "dir": "Roms/Computer/Disc/P/Police Quest IV - Open Season (USA)",
         "filename": "Police Quest IV - Open Season (USA).chd",
         "filename_enc": "b9cb94ef58fee33201191442d918b762.enc",
         "hash": "bc01cca906752cf7",
-        "hash_enc": "",
-        "mtime": "1655047458",
-        "size": "473205958",
-        "size_enc": 0
+        "hash_enc": "effd5213bfb8d8a101173eb14a1c587d",
+        "mtime": 1738543332,
+        "size": 473205958,
+        "size_enc": 473206070
     },
     {
         "dir": "Roms/Computer/Disc/P/Prisoner of Ice (USA)",
         "filename": "Prisoner of Ice (USA).chd",
         "filename_enc": "57718ee52bd13dffaf8e06d3e533f67f.enc",
         "hash": "8ca263da53bfcc1a",
-        "hash_enc": "",
-        "mtime": "1655057900",
-        "size": "233728407",
-        "size_enc": 0
+        "hash_enc": "c5a1143ee1e7433266db6ee8da0a08e6",
+        "mtime": 1738543506,
+        "size": 233728407,
+        "size_enc": 233728505
     },
     {
         "dir": "Roms/Computer/Disc/P/Punch Club (USA)",
         "filename": "Punch Club (USA).chd",
         "filename_enc": "619d24853393951f2f2d4c465a7e131a.enc",
         "hash": "395abe1b166904ae",
-        "hash_enc": "",
-        "mtime": "1655047247",
-        "size": "66358837",
-        "size_enc": 0
+        "hash_enc": "ef0f2de1a7ccb0cb883e537fdd01bc32",
+        "mtime": 1738543792,
+        "size": 66358837,
+        "size_enc": 66358930
+    },
+    {
+        "dir": "Roms/Computer/Disc/Q/Quake III - Arena (USA)",
+        "filename": "Quake III - Arena (USA) (Update).chd",
+        "filename_enc": "8daefcb99680e110734a30efce531d88.enc",
+        "hash": "ba3aed56493b1157",
+        "hash_enc": "7d5f8773b29c3d92d4e47efb297f5575",
+        "mtime": 1738543820,
+        "size": 31021458,
+        "size_enc": 31021567
     },
     {
         "dir": "Roms/Computer/Disc/Q/Quake III - Arena (USA)",
         "filename": "Quake III - Arena (USA).chd",
         "filename_enc": "969c6da785d1d7db4eca783b68e63c4f.enc",
         "hash": "57589e07030bd629",
-        "hash_enc": "",
-        "mtime": "1655047340",
-        "size": "506131230",
-        "size_enc": 0
+        "hash_enc": "c9a3b213d5f3902a9f5e8d2d55517a5e",
+        "mtime": 1738543824,
+        "size": 506131230,
+        "size_enc": 506131330
+    },
+    {
+        "dir": "Roms/Computer/Disc/Q/Quake III - Arena (USA)",
+        "filename": "Quake III - Arena (USA).m3u",
+        "filename_enc": "13204b7115e143159c17b297a4695bde.enc",
+        "hash": "9b0bfc703f3b6140",
+        "hash_enc": "5d8f8ff79bbebb6d67ef7babf3714419",
+        "mtime": 1738543824,
+        "size": 65,
+        "size_enc": 158
     },
     {
         "dir": "Roms/Computer/Disc/Q/Quake III - Arena (USA)",
@@ -3404,40 +3484,40 @@
         "filename": "Quest For Infamy (USA).chd",
         "filename_enc": "a630961f82bcbd8e36303576b97aa093.enc",
         "hash": "118bfe34865d1f90",
-        "hash_enc": "",
-        "mtime": "1655057170",
-        "size": "3766895479",
-        "size_enc": 0
+        "hash_enc": "eaf425f514a88a987ab57d3f8eecdfdf",
+        "mtime": 1738544063,
+        "size": 3766895479,
+        "size_enc": 3766895578
     },
     {
         "dir": "Roms/Computer/Disc/R/Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA)",
         "filename": "Real Crimes 2-Pack (Jack the Ripper, The Unicorn Killer) (USA).chd",
         "filename_enc": "59cd243eeec9db90325fb45ca145a15d.enc",
         "hash": "87797e194c8c7f97",
-        "hash_enc": "",
-        "mtime": "1655060406",
-        "size": "480318558",
-        "size_enc": 0
+        "hash_enc": "08cc339a12fed629a5e12df4b3e93ca7",
+        "mtime": 1738545404,
+        "size": 480318558,
+        "size_enc": 480318697
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil (USA)",
         "filename": "Resident Evil (USA) (Disc 1).chd",
         "filename_enc": "0454153b348c32dd049e1de7d55b6bfb.enc",
         "hash": "8ddd0031a992f316",
-        "hash_enc": "",
-        "mtime": "1655060561",
-        "size": "440769620",
-        "size_enc": 0
+        "hash_enc": "5d0a4e138e56fc36cfa03d2e34c262e0",
+        "mtime": 1738545584,
+        "size": 440769620,
+        "size_enc": 440769725
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil (USA)",
         "filename": "Resident Evil (USA) (Disc 2).chd",
         "filename_enc": "c60ffb9a28d63be244aa991506dd42ff.enc",
         "hash": "57eada8e85dd1171",
-        "hash_enc": "",
-        "mtime": "1697924697",
-        "size": "432236460",
-        "size_enc": 0
+        "hash_enc": "add8c3f4866198bd1c18529bae28848b",
+        "mtime": 1738545589,
+        "size": 432236460,
+        "size_enc": 432236565
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil (USA)",
@@ -3451,13 +3531,23 @@
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil (USA)",
+        "filename": "Resident Evil (USA) (Update).chd",
+        "filename_enc": "d3a4e2e87e035740d76bb05f14f95328.enc",
+        "hash": "d8371a93b41aa5f4",
+        "hash_enc": "f495b0b469d85e9985104b0c0c9fd08c",
+        "mtime": 1738545604,
+        "size": 1462353367,
+        "size_enc": 1462353472
+    },
+    {
+        "dir": "Roms/Computer/Disc/R/Resident Evil (USA)",
         "filename": "Resident Evil (USA).m3u",
         "filename_enc": "6bad231f03a7c6c1d0e240bc18b85e66.enc",
-        "hash": "ada6edf51f94e2f6",
-        "hash_enc": "",
-        "mtime": "1698424599",
-        "size": "99",
-        "size_enc": 0
+        "hash": "4bf541c493fb9527",
+        "hash_enc": "a1b8d693e4cd298e27c505ee44ecb816",
+        "mtime": 1738545604,
+        "size": 99,
+        "size_enc": 188
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil (USA)/fix",
@@ -3514,30 +3604,30 @@
         "filename": "Resident Evil 2 (USA) (Disc 1).chd",
         "filename_enc": "cb24612a2faab28f96c5118707a89b77.enc",
         "hash": "dc612558e2f1fcc9",
-        "hash_enc": "",
-        "mtime": "1655059673",
-        "size": "556066290",
-        "size_enc": 0
+        "hash_enc": "ebc6ce09b118b1ab410eee7000e33b38",
+        "mtime": 1738546463,
+        "size": 556066290,
+        "size_enc": 556066397
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 2 (USA)",
         "filename": "Resident Evil 2 (USA) (Disc 2).chd",
         "filename_enc": "33658fa5633d92093468dbfcaf82107c.enc",
         "hash": "a8d0d340e8f640bd",
-        "hash_enc": "",
-        "mtime": "1655059700",
-        "size": "529246176",
-        "size_enc": 0
+        "hash_enc": "f9cc0969ea1f079485b63142f16576a2",
+        "mtime": 1738546468,
+        "size": 529246176,
+        "size_enc": 529246283
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 2 (USA)",
         "filename": "Resident Evil 2 (USA) (Disc 3).chd",
         "filename_enc": "bcbc538a8d89e89d7181dc9ada9cd4b2.enc",
         "hash": "f0927cbb3cb6669d",
-        "hash_enc": "",
-        "mtime": "1697932074",
-        "size": "1472104652",
-        "size_enc": 0
+        "hash_enc": "d7e7404e9ef0745b982c7f506a287641",
+        "mtime": 1738546482,
+        "size": 1472104652,
+        "size_enc": 1472104759
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 2 (USA)",
@@ -3551,13 +3641,23 @@
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 2 (USA)",
+        "filename": "Resident Evil 2 (USA) (Update).chd",
+        "filename_enc": "c01755e5017916fb74838cb149e5f1ea.enc",
+        "hash": "7f375c5905405a86",
+        "hash_enc": "77a296b69c4ea87e8ba675e935d4d1a9",
+        "mtime": 1738546496,
+        "size": 1317488637,
+        "size_enc": 1317488744
+    },
+    {
+        "dir": "Roms/Computer/Disc/R/Resident Evil 2 (USA)",
         "filename": "Resident Evil 2 (USA).m3u",
         "filename_enc": "c72945fc458b2bc5773b600950c69a36.enc",
-        "hash": "6662f05e218acac2",
-        "hash_enc": "",
-        "mtime": "1698424849",
-        "size": "140",
-        "size_enc": 0
+        "hash": "9a3604bf7a6343a2",
+        "hash_enc": "bfa5cb774d9bcc3bf6fcd6ea3498905e",
+        "mtime": 1738546496,
+        "size": 140,
+        "size_enc": 232
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 2 (USA)/fix",
@@ -3594,20 +3694,20 @@
         "filename": "Resident Evil 3 - Nemesis (USA) (Disc 1).chd",
         "filename_enc": "50dc8cc779a3f9e2031718c64b8f18cb.enc",
         "hash": "914d30f674ca776d",
-        "hash_enc": "",
-        "mtime": "1655061371",
-        "size": "442906914",
-        "size_enc": 0
+        "hash_enc": "ab10e877acbdc581ea8fb3caa0c77fea",
+        "mtime": 1738547893,
+        "size": 442906914,
+        "size_enc": 442907031
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 3 - Nemesis (USA)",
         "filename": "Resident Evil 3 - Nemesis (USA) (Disc 2).chd",
         "filename_enc": "0a9f6afa273e8b4822245c004e516dfb.enc",
         "hash": "80f732b3197cb3bb",
-        "hash_enc": "",
-        "mtime": "1698335710",
-        "size": "1487989977",
-        "size_enc": 0
+        "hash_enc": "07f4c27ec96924ec0c492bac848dd425",
+        "mtime": 1738547906,
+        "size": 1487989977,
+        "size_enc": 1487990094
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 3 - Nemesis (USA)",
@@ -3621,13 +3721,23 @@
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 3 - Nemesis (USA)",
+        "filename": "Resident Evil 3 - Nemesis (USA) (Update).chd",
+        "filename_enc": "e8e5300f337c005520959e4d84331949.enc",
+        "hash": "317166c82ca762fc",
+        "hash_enc": "60e3f7e4f7fcbaee3e494f709c1fcc5c",
+        "mtime": 1738547911,
+        "size": 360104722,
+        "size_enc": 360104839
+    },
+    {
+        "dir": "Roms/Computer/Disc/R/Resident Evil 3 - Nemesis (USA)",
         "filename": "Resident Evil 3 - Nemesis (USA).m3u",
         "filename_enc": "e7bdc148890860e54105430cb84a95be.enc",
-        "hash": "c988eb0e565af1bb",
-        "hash_enc": "",
-        "mtime": "1698425131",
-        "size": "135",
-        "size_enc": 0
+        "hash": "c8cf01a793765ac6",
+        "hash_enc": "4dc2d5005c4d1832cbbc6363ca188fc5",
+        "mtime": 1738547911,
+        "size": 135,
+        "size_enc": 237
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 3 - Nemesis (USA)/fix",
@@ -3701,13 +3811,33 @@
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 4 (USA)",
+        "filename": "Resident Evil 4 (USA) (Update).chd",
+        "filename_enc": "30d4d29b67d13f9fe7f538597c20f4a0.enc",
+        "hash": "37b60adab0800184",
+        "hash_enc": "55b817766268f0aacdc4d886822a279b",
+        "mtime": 1738548733,
+        "size": 6878936,
+        "size_enc": 6879043
+    },
+    {
+        "dir": "Roms/Computer/Disc/R/Resident Evil 4 (USA)",
         "filename": "Resident Evil 4 (USA).chd",
         "filename_enc": "d443c3c61500725d866839b209861ab3.enc",
         "hash": "84e23849a5877590",
-        "hash_enc": "",
-        "mtime": "1655046572",
-        "size": "3334266534",
-        "size_enc": 0
+        "hash_enc": "c0fca1584d43a070ced70603a23b6914",
+        "mtime": 1738548763,
+        "size": 3334266534,
+        "size_enc": 3334266632
+    },
+    {
+        "dir": "Roms/Computer/Disc/R/Resident Evil 4 (USA)",
+        "filename": "Resident Evil 4 (USA).m3u",
+        "filename_enc": "2473bfda788837c2e9c6ce9d3337e700.enc",
+        "hash": "71f5529f39d59ddb",
+        "hash_enc": "c6008bc829dee601b0be0578b67c0d56",
+        "mtime": 1738548763,
+        "size": 61,
+        "size_enc": 152
     },
     {
         "dir": "Roms/Computer/Disc/R/Resident Evil 4 (USA)",
@@ -3734,10 +3864,10 @@
         "filename": "Rise of Nations - Rise of Legends (USA).chd",
         "filename_enc": "e26a9e7c05b4144430ce42eeceb73195.enc",
         "hash": "84746b34bdbdb125",
-        "hash_enc": "",
-        "mtime": "1698951957",
-        "size": "3082506390",
-        "size_enc": 0
+        "hash_enc": "ee4b86877c85bd2a68a3fb81fefe6ef2",
+        "mtime": 1738549984,
+        "size": 3082506390,
+        "size_enc": 3082506506
     },
     {
         "dir": "Roms/Computer/Disc/R/Rise of Nations - Rise of Legends (USA)",
@@ -3754,240 +3884,250 @@
         "filename": "Rise of the Triad - The Hunt Begins (USA).chd",
         "filename_enc": "d103da2613028195499bcc8163c7805c.enc",
         "hash": "88321b52efb43572",
-        "hash_enc": "",
-        "mtime": "1655047249",
-        "size": "11530195",
-        "size_enc": 0
+        "hash_enc": "ac498f11dd089d6e78b4bc42c8c1e042",
+        "mtime": 1738551098,
+        "size": 11530195,
+        "size_enc": 11530313
     },
     {
         "dir": "Roms/Computer/Disc/R/Risk of Rain (USA)",
         "filename": "Risk of Rain (USA).chd",
         "filename_enc": "cc5a5d9c3ffb3013306f4b747d6eaeda.enc",
         "hash": "0b88c5273f188cc3",
-        "hash_enc": "",
-        "mtime": "1655047236",
-        "size": "369897286",
-        "size_enc": 0
+        "hash_enc": "53276901750b42755c83903767b536fe",
+        "mtime": 1738551111,
+        "size": 369897286,
+        "size_enc": 369897381
     },
     {
         "dir": "Roms/Computer/Disc/R/Rive (USA)",
         "filename": "Rive (USA).chd",
         "filename_enc": "091ba130cd8571ee727684925ac6952a.enc",
         "hash": "df4dfe4c6f6f6940",
-        "hash_enc": "",
-        "mtime": "1655058688",
-        "size": "2524997047",
-        "size_enc": 0
+        "hash_enc": "5845022a0a81b5dab557dd91982dc950",
+        "mtime": 1738551270,
+        "size": 2524997047,
+        "size_enc": 2524997134
     },
     {
         "dir": "Roms/Computer/Disc/R/Riven - The Sequel to Myst (USA)",
         "filename": "Riven - The Sequel to Myst (USA).chd",
         "filename_enc": "af02567630d419d8e7df2eddaabad15a.enc",
         "hash": "b086a836c1cb36f1",
-        "hash_enc": "",
-        "mtime": "1694382651",
-        "size": "3235580289",
-        "size_enc": 0
+        "hash_enc": "45947b241a79c4f1be71a7f5c08de434",
+        "mtime": 1738553197,
+        "size": 3235580289,
+        "size_enc": 3235580398
     },
     {
         "dir": "Roms/Computer/Disc/R/Rogue Legacy (USA)",
         "filename": "Rogue Legacy (USA).chd",
         "filename_enc": "fdac58f4c6d3a8eee588a3988bef7172.enc",
         "hash": "efab78f6a3621a69",
-        "hash_enc": "",
-        "mtime": "1655059596",
-        "size": "501709320",
-        "size_enc": 0
+        "hash_enc": "8e9a1839619e0bc3e3aae811cd279179",
+        "mtime": 1738554353,
+        "size": 501709320,
+        "size_enc": 501709415
     },
     {
         "dir": "Roms/Computer/Disc/S/SCP-087 (USA)",
         "filename": "SCP-087 (USA).chd",
         "filename_enc": "689474ad89aa760915f4edb70f7d9468.enc",
         "hash": "6a688a99e40ba57b",
-        "hash_enc": "",
-        "mtime": "1698940369",
-        "size": "31875659",
-        "size_enc": 0
+        "hash_enc": "275de78e40190e6abd5f4e1f111571d5",
+        "mtime": 1738554537,
+        "size": 31875659,
+        "size_enc": 31875749
     },
     {
         "dir": "Roms/Computer/Disc/S/SCP-087-B (USA)",
         "filename": "SCP-087-B (USA).chd",
         "filename_enc": "4653fb2a3143ec6523596fc7700f2111.enc",
         "hash": "c4edab002ab646e8",
-        "hash_enc": "",
-        "mtime": "1698940370",
-        "size": "3075764",
-        "size_enc": 0
+        "hash_enc": "cfe89bc3b0ffe014bb7711f2fcad566f",
+        "mtime": 1738554554,
+        "size": 3075764,
+        "size_enc": 3075856
     },
     {
         "dir": "Roms/Computer/Disc/S/Sam & Max Hit the Road (USA)",
         "filename": "Sam & Max Hit the Road (USA).chd",
         "filename_enc": "6e858dd9aad6d7b81010496c54c801bc.enc",
         "hash": "2d4c1e1c38c6c67b",
-        "hash_enc": "",
-        "mtime": "1682275425",
-        "size": "181466533",
-        "size_enc": 0
+        "hash_enc": "3927e0c6412036bea7cca9c053bbc016",
+        "mtime": 1738554560,
+        "size": 181466533,
+        "size_enc": 181466638
     },
     {
         "dir": "Roms/Computer/Disc/S/Schizm (USA)",
         "filename": "Schizm (USA) (Disc 1).chd",
         "filename_enc": "17436656a99b5923564f97191add9e27.enc",
         "hash": "f85472e912239257",
-        "hash_enc": "",
-        "mtime": "1693331249",
-        "size": "643028014",
-        "size_enc": 0
+        "hash_enc": "ee398a2c653920e949694c5a6d612b97",
+        "mtime": 1738554653,
+        "size": 643028014,
+        "size_enc": 643028112
     },
     {
         "dir": "Roms/Computer/Disc/S/Schizm (USA)",
         "filename": "Schizm (USA) (Disc 2).chd",
         "filename_enc": "fb7b0bd2f1ebb57492366f897cfabfec.enc",
         "hash": "82e236d0601b7953",
-        "hash_enc": "",
-        "mtime": "1693331271",
-        "size": "651850456",
-        "size_enc": 0
+        "hash_enc": "81666335bc027e3572779c6733cdb528",
+        "mtime": 1738554659,
+        "size": 651850456,
+        "size_enc": 651850554
     },
     {
         "dir": "Roms/Computer/Disc/S/Schizm (USA)",
         "filename": "Schizm (USA) (Disc 3).chd",
         "filename_enc": "21da73f4c9ecdde6022acbdb1b78740e.enc",
         "hash": "3fd8a7382d0c9663",
-        "hash_enc": "",
-        "mtime": "1693331294",
-        "size": "662639966",
-        "size_enc": 0
+        "hash_enc": "06fab0b9e08533902fa1b71731497bf4",
+        "mtime": 1738554666,
+        "size": 662639966,
+        "size_enc": 662640064
     },
     {
         "dir": "Roms/Computer/Disc/S/Schizm (USA)",
         "filename": "Schizm (USA) (Disc 4).chd",
         "filename_enc": "95ebdf08171f1a216e8798952239dedb.enc",
         "hash": "51441de1422394da",
-        "hash_enc": "",
-        "mtime": "1693331315",
-        "size": "632832155",
-        "size_enc": 0
+        "hash_enc": "772d647419ed0a6b04ab23ac4c10e835",
+        "mtime": 1738554673,
+        "size": 632832155,
+        "size_enc": 632832253
     },
     {
         "dir": "Roms/Computer/Disc/S/Schizm (USA)",
         "filename": "Schizm (USA) (Disc 5).chd",
         "filename_enc": "cd3708fb5d4f8b4cd481d02262faea45.enc",
         "hash": "52fdc25341dae5ef",
-        "hash_enc": "",
-        "mtime": "1693331335",
-        "size": "583381645",
-        "size_enc": 0
+        "hash_enc": "dc8315fbef8e1c789338af93f7536fd4",
+        "mtime": 1738554679,
+        "size": 583381645,
+        "size_enc": 583381743
     },
     {
         "dir": "Roms/Computer/Disc/S/Schizm (USA)",
         "filename": "Schizm (USA).m3u",
         "filename_enc": "267bee36ff681101f04515f368605949.enc",
         "hash": "f885fb66b9c01f48",
-        "hash_enc": "",
-        "mtime": "1655062275",
-        "size": "130",
-        "size_enc": 0
+        "hash_enc": "bb137717974082fe5bf12ee2a09dfa0b",
+        "mtime": 1738554679,
+        "size": 130,
+        "size_enc": 213
     },
     {
         "dir": "Roms/Computer/Disc/S/Scratches - Director's Cut (USA)",
         "filename": "Scratches - Director's Cut (USA).chd",
         "filename_enc": "53c6090862359bbfa46bc3cd56ca6960.enc",
         "hash": "4c6803efabdd65cc",
-        "hash_enc": "",
-        "mtime": "1655060857",
-        "size": "1276361722",
-        "size_enc": 0
+        "hash_enc": "d1703f071336d3ec9e75093a85a6ef0b",
+        "mtime": 1738556167,
+        "size": 1276361722,
+        "size_enc": 1276361831
     },
     {
         "dir": "Roms/Computer/Disc/S/Sega Dreamcast AT&T WorldNet Service & Previews (USA)",
         "filename": "Sega Dreamcast AT&T WorldNet Service & Previews (USA).chd",
         "filename_enc": "4f669567ab89c7d1a8bcb4911af9705f.enc",
         "hash": "b51743055a4e987e",
-        "hash_enc": "",
-        "mtime": "1655061119",
-        "size": "354253955",
-        "size_enc": 0
+        "hash_enc": "72e1d7564b8c451c750400ac2b31b276",
+        "mtime": 1738556663,
+        "size": 354253955,
+        "size_enc": 354254085
     },
     {
         "dir": "Roms/Computer/Disc/S/Sega Genesis Classic Collection - Gold Edition (USA)",
         "filename": "Sega Genesis Classic Collection - Gold Edition (USA).chd",
         "filename_enc": "2e75fe6bda678961a7718b798e1a0ae2.enc",
         "hash": "72d74b3e5ba16543",
-        "hash_enc": "",
-        "mtime": "1655058169",
-        "size": "716421160",
-        "size_enc": 0
+        "hash_enc": "bbb9ff30b9e51290e41d8d73224125ab",
+        "mtime": 1738556833,
+        "size": 716421160,
+        "size_enc": 716421289
     },
     {
         "dir": "Roms/Computer/Disc/S/Septerra Core - Legacy of the Creator (USA)",
         "filename": "Septerra Core - Legacy of the Creator (USA).chd",
         "filename_enc": "d533482859182cab696df0b5d6cfeb76.enc",
         "hash": "13876f647b029b7c",
-        "hash_enc": "",
-        "mtime": "1655047318",
-        "size": "549738676",
-        "size_enc": 0
+        "hash_enc": "4d3076986ae92d3616253d4bb9e6a122",
+        "mtime": 1738557130,
+        "size": 549738676,
+        "size_enc": 549738796
     },
     {
         "dir": "Roms/Computer/Disc/S/Shadow Chronicles 6 Pack - Collector's Edition (USA)",
         "filename": "Shadow Chronicles 6 Pack - Collector's Edition (USA).chd",
         "filename_enc": "5404d607a203b13c15adbd7a7ff298b9.enc",
         "hash": "3402d144f3f09f0d",
-        "hash_enc": "",
-        "mtime": "1678468000",
-        "size": "3660230925",
-        "size_enc": 0
+        "hash_enc": "d6e58e464a12b0e55f936d7cf0df5381",
+        "mtime": 1738557686,
+        "size": 3660230925,
+        "size_enc": 3660231054
     },
     {
         "dir": "Roms/Computer/Disc/S/Shadow of the Comet (USA)",
         "filename": "Shadow of the Comet (USA).chd",
         "filename_enc": "dcc9ea6606e19f1c0d4dae23165858f5.enc",
         "hash": "c3f3852f507e0266",
-        "hash_enc": "",
-        "mtime": "1655047244",
-        "size": "88387336",
-        "size_enc": 0
+        "hash_enc": "0fdee859b15472c7e13d19fe93002da1",
+        "mtime": 1738558986,
+        "size": 88387336,
+        "size_enc": 88387438
     },
     {
         "dir": "Roms/Computer/Disc/S/Shivers (USA)",
         "filename": "Shivers (USA).chd",
         "filename_enc": "537ed9e5602d9bfdc4ce088a4c036151.enc",
         "hash": "c75870dfb979d496",
-        "hash_enc": "",
-        "mtime": "1693328990",
-        "size": "455298636",
-        "size_enc": 0
+        "hash_enc": "047cb69b2a62f5b8f69c405140b5c493",
+        "mtime": 1738559026,
+        "size": 455298636,
+        "size_enc": 455298726
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 2 (USA)",
         "filename": "Silent Hill 2 (USA) (Disc 1).chd",
         "filename_enc": "4a79a17956aa329b39d103bdaad7473e.enc",
         "hash": "fbfa2492eed5b800",
-        "hash_enc": "",
-        "mtime": "1655046415",
-        "size": "674018856",
-        "size_enc": 0
+        "hash_enc": "f265c145358386353e7244f53c4e5718",
+        "mtime": 1738559481,
+        "size": 674018856,
+        "size_enc": 674018961
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 2 (USA)",
         "filename": "Silent Hill 2 (USA) (Disc 2).chd",
         "filename_enc": "4dd0897f106883ecc3d0ef70ebb4c139.enc",
         "hash": "c5d4cf6a3086431f",
-        "hash_enc": "",
-        "mtime": "1655046440",
-        "size": "688006560",
-        "size_enc": 0
+        "hash_enc": "4a6b451700d537a8fb1175c5f88345b8",
+        "mtime": 1738559488,
+        "size": 688006560,
+        "size_enc": 688006665
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 2 (USA)",
         "filename": "Silent Hill 2 (USA) (Disc 3).chd",
         "filename_enc": "a439d601899d709923e0cf7b496c1f97.enc",
         "hash": "5ecd5a3eec80530a",
-        "hash_enc": "",
-        "mtime": "1655046449",
-        "size": "254320292",
-        "size_enc": 0
+        "hash_enc": "dfd3e2552e01455eb5c36232b51d321d",
+        "mtime": 1738559490,
+        "size": 254320292,
+        "size_enc": 254320397
+    },
+    {
+        "dir": "Roms/Computer/Disc/S/Silent Hill 2 (USA)",
+        "filename": "Silent Hill 2 (USA) (Update).chd",
+        "filename_enc": "d166480b8f7a25d6bec6a9cfb1a68ce5.enc",
+        "hash": "5fa18703d8ac2ada",
+        "hash_enc": "c8d99607365bdc3bfc9c8fc27f13a405",
+        "mtime": 1738559527,
+        "size": 3953834496,
+        "size_enc": 3953834601
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 2 (USA)",
@@ -4114,70 +4254,70 @@
         "filename": "Silent Hill 3 (USA) (Disc 1).chd",
         "filename_enc": "9cddcb68695e38b006b061b5ac90ea6e.enc",
         "hash": "c60277cb4f22f90f",
-        "hash_enc": "",
-        "mtime": "1655058227",
-        "size": "515922769",
-        "size_enc": 0
+        "hash_enc": "b1d2f07dc0608754616a6795ff8a96ad",
+        "mtime": 1738561718,
+        "size": 515922769,
+        "size_enc": 515922874
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 3 (USA)",
         "filename": "Silent Hill 3 (USA) (Disc 2).chd",
         "filename_enc": "03286f568abaf3a19fde7c2f55a15f45.enc",
         "hash": "e7406a1840da5234",
-        "hash_enc": "",
-        "mtime": "1655058253",
-        "size": "685042930",
-        "size_enc": 0
+        "hash_enc": "60fa502933bcbc9a5e836044687e6233",
+        "mtime": 1738561724,
+        "size": 685042930,
+        "size_enc": 685043035
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 3 (USA)",
         "filename": "Silent Hill 3 (USA) (Disc 3).chd",
         "filename_enc": "a633a761019305d7c7d50c2f01d31d98.enc",
         "hash": "11fe868c15aa8426",
-        "hash_enc": "",
-        "mtime": "1655058207",
-        "size": "686564350",
-        "size_enc": 0
+        "hash_enc": "1a4979d3f1d61ef3741caa5645ede843",
+        "mtime": 1738561731,
+        "size": 686564350,
+        "size_enc": 686564455
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 3 (USA)",
         "filename": "Silent Hill 3 (USA) (Disc 4).chd",
         "filename_enc": "600272f8796015e8cf21e66f242cee3e.enc",
         "hash": "f4cb92d9bcb7b64f",
-        "hash_enc": "",
-        "mtime": "1655058278",
-        "size": "689015764",
-        "size_enc": 0
+        "hash_enc": "153fe6fc2b47b7774627921fb0e20ab1",
+        "mtime": 1738561738,
+        "size": 689015764,
+        "size_enc": 689015869
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 3 (USA)",
         "filename": "Silent Hill 3 (USA) (Disc 5).chd",
         "filename_enc": "73a7de2e6a0d91f8a42f275019487d2f.enc",
         "hash": "047dccc1794fd75d",
-        "hash_enc": "",
-        "mtime": "1655058182",
-        "size": "326986115",
-        "size_enc": 0
+        "hash_enc": "8f0d5d816155b92d7d2594ea166b2c55",
+        "mtime": 1738561741,
+        "size": 326986115,
+        "size_enc": 326986220
     },
     {
         "dir": "Roms/Computer/Disc/S/Silent Hill 3 (USA)",
         "filename": "Silent Hill 3 (USA).m3u",
         "filename_enc": "3ea6ba35d2587a9ee069f9f8003299bb.enc",
         "hash": "17f45b26f70ea532",
-        "hash_enc": "",
-        "mtime": "1655062373",
-        "size": "165",
-        "size_enc": 0
+        "hash_enc": "6c1bb8794fe179ced84d1e5d7e69cc5d",
+        "mtime": 1738561741,
+        "size": 165,
+        "size_enc": 255
     },
     {
         "dir": "Roms/Computer/Disc/S/SimCity Box, The (USA)",
         "filename": "SimCity Box, The (USA) (Disc 1) (SimCity 4 Deluxe Edition, Disc 1).chd",
         "filename_enc": "71ac91f763ee6eec92fb655cd7614083.enc",
         "hash": "2d1d235c2fe63984",
-        "hash_enc": "",
-        "mtime": "1706653241",
-        "size": "578885678",
-        "size_enc": 0
+        "hash_enc": "f82a223c60d542b04f8e58addf251acb",
+        "mtime": 1738562802,
+        "size": 578885678,
+        "size_enc": 578885821
     },
     {
         "dir": "Roms/Computer/Disc/S/SimCity Box, The (USA)",
@@ -4194,20 +4334,20 @@
         "filename": "SimCity Box, The (USA) (Disc 2) (SimCity 4 Deluxe Edition, Disc 2).chd",
         "filename_enc": "ec1b6cefe766fd64ac61476e3968a928.enc",
         "hash": "35bd6a39293f2294",
-        "hash_enc": "",
-        "mtime": "1706653252",
-        "size": "574108371",
-        "size_enc": 0
+        "hash_enc": "9caa3928edd09251a3d3a1e3bac73e3f",
+        "mtime": 1738562808,
+        "size": 574108371,
+        "size_enc": 574108514
     },
     {
         "dir": "Roms/Computer/Disc/S/SimCity Box, The (USA)",
         "filename": "SimCity Box, The (USA) (Disc 3) (SnapCity).chd",
         "filename_enc": "c44763f08f353634d39fb0e62b048d8c.enc",
         "hash": "298f8d2d3fa6d498",
-        "hash_enc": "",
-        "mtime": "1706660212",
-        "size": "207959489",
-        "size_enc": 0
+        "hash_enc": "13e1ab1253af675b9c4b3e42ab33c642",
+        "mtime": 1738562811,
+        "size": 207959489,
+        "size_enc": 207959608
     },
     {
         "dir": "Roms/Computer/Disc/S/SimCity Box, The (USA)",
@@ -4224,10 +4364,10 @@
         "filename": "SimCity Box, The (USA) (Disc 4) (SimCity Societies).chd",
         "filename_enc": "150a24c45980c7388e7eab68a8a48022.enc",
         "hash": "fcfd35a7f074b724",
-        "hash_enc": "",
-        "mtime": "1706660166",
-        "size": "1772346311",
-        "size_enc": 0
+        "hash_enc": "be3304210e587aa671d589d8f8711a7a",
+        "mtime": 1738562828,
+        "size": 1772346311,
+        "size_enc": 1772346439
     },
     {
         "dir": "Roms/Computer/Disc/S/SimCity Box, The (USA)",
@@ -4244,10 +4384,10 @@
         "filename": "SimCity Box, The (USA) (Disc 5) (SimCity Societies Destinations).chd",
         "filename_enc": "854db720966f7321d187eaf537c401bb.enc",
         "hash": "887d0433385f6991",
-        "hash_enc": "",
-        "mtime": "1706660209",
-        "size": "2736369125",
-        "size_enc": 0
+        "hash_enc": "b8c37378b0cd54cd711e5b96a314ba09",
+        "mtime": 1738562854,
+        "size": 2736369125,
+        "size_enc": 2736369266
     },
     {
         "dir": "Roms/Computer/Disc/S/SimCity Box, The (USA)",
@@ -4263,61 +4403,61 @@
         "dir": "Roms/Computer/Disc/S/SimCity Box, The (USA)",
         "filename": "SimCity Box, The (USA).m3u",
         "filename_enc": "eeafbfdb416f6c4e2b65eee452b73684.enc",
-        "hash": "d17864ec3452b38c",
-        "hash_enc": "",
-        "mtime": "1706660962",
-        "size": "314",
-        "size_enc": 0
+        "hash": "a55c9979afb577e1",
+        "hash_enc": "548bfa4d8415189b5c8ec7b1160c4c6d",
+        "mtime": 1738562854,
+        "size": 314,
+        "size_enc": 408
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 2, The (USA)",
         "filename": "Sims 2, The (USA) (Disc 1).chd",
         "filename_enc": "a75c53fce0e8f3b1883e0552cae826b8.enc",
         "hash": "52143ef7839e9a59",
-        "hash_enc": "",
-        "mtime": "1709569270",
-        "size": "670031875",
-        "size_enc": 0
+        "hash_enc": "3f8ec1a57c104d0053ae94b3c8382fa9",
+        "mtime": 1738564968,
+        "size": 670031875,
+        "size_enc": 670031978
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 2, The (USA)",
         "filename": "Sims 2, The (USA) (Disc 2).chd",
         "filename_enc": "ba816ab43a91dee08124bbd71a408459.enc",
         "hash": "fa34caa0b0719cbd",
-        "hash_enc": "",
-        "mtime": "1709569279",
-        "size": "685565224",
-        "size_enc": 0
+        "hash_enc": "c49a11acf1988e735a2efb1b73c4ab3f",
+        "mtime": 1738564976,
+        "size": 685565224,
+        "size_enc": 685565327
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 2, The (USA)",
         "filename": "Sims 2, The (USA) (Disc 3).chd",
         "filename_enc": "5636fc3cc5ad69d7eb65e65f10d80c2b.enc",
         "hash": "df3f1dc154f0450e",
-        "hash_enc": "",
-        "mtime": "1709569287",
-        "size": "685312472",
-        "size_enc": 0
+        "hash_enc": "1c2d3dd54453561253ed74e36aa7c310",
+        "mtime": 1738564983,
+        "size": 685312472,
+        "size_enc": 685312575
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 2, The (USA)",
         "filename": "Sims 2, The (USA) (Disc 4).chd",
         "filename_enc": "84cbd7bb5030f6635b20e7df90af885a.enc",
         "hash": "2657a425465eb8f4",
-        "hash_enc": "",
-        "mtime": "1709569294",
-        "size": "503181813",
-        "size_enc": 0
+        "hash_enc": "2781e0a101c94d764ed3eacb9ed1eeab",
+        "mtime": 1738564987,
+        "size": 503181813,
+        "size_enc": 503181916
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 2, The (USA)",
         "filename": "Sims 2, The (USA).m3u",
         "filename_enc": "fea0db66470c8cb32565e9a73ae65e82.enc",
         "hash": "2c7f0276e003a774",
-        "hash_enc": "",
-        "mtime": "1709570389",
-        "size": "124",
-        "size_enc": 0
+        "hash_enc": "86d9a951ea21dc2ff2da5cd43a9df377",
+        "mtime": 1738564987,
+        "size": 124,
+        "size_enc": 212
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 2, The (USA)",
@@ -4334,40 +4474,40 @@
         "filename": "Sims 2, The - Ultimate Collection (USA).chd",
         "filename_enc": "ffefe706f705a86994d1542ba776ac81.enc",
         "hash": "6040109468c8a171",
-        "hash_enc": "",
-        "mtime": "1681756227",
-        "size": "7162859462",
-        "size_enc": 0
+        "hash_enc": "7e8ee300e093882932a9883d54487ea8",
+        "mtime": 1738565984,
+        "size": 7162859462,
+        "size_enc": 7164608429
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 4, The - Limited Edition (USA)",
         "filename": "Sims 4, The - Limited Edition (USA) (Disc 1).chd",
         "filename_enc": "8154258bd2be329188f8699aaa23f945.enc",
         "hash": "c5a8836829ad0780",
-        "hash_enc": "",
-        "mtime": "1709753611",
-        "size": "8426155452",
-        "size_enc": 0
+        "hash_enc": "4f8024288f82c66a462280d718497895",
+        "mtime": 1738568622,
+        "size": 8426155452,
+        "size_enc": 8428212861
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 4, The - Limited Edition (USA)",
         "filename": "Sims 4, The - Limited Edition (USA) (Disc 2).chd",
         "filename_enc": "7081aa269308f61fa4d8cd87bc2f5f08.enc",
         "hash": "f55469154413cba3",
-        "hash_enc": "",
-        "mtime": "1709753619",
-        "size": "512710830",
-        "size_enc": 0
+        "hash_enc": "f904344a69ca02378a29dc20ab46ea1c",
+        "mtime": 1738568628,
+        "size": 512710830,
+        "size_enc": 512710951
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 4, The - Limited Edition (USA)",
         "filename": "Sims 4, The - Limited Edition (USA).m3u",
         "filename_enc": "a0459b0d4039a9ac8927cccb985da88f.enc",
         "hash": "09d3ee603715221b",
-        "hash_enc": "",
-        "mtime": "1709753679",
-        "size": "98",
-        "size_enc": 0
+        "hash_enc": "9d111f7c831f6f35bd072306bbe1cfc5",
+        "mtime": 1738568628,
+        "size": 98,
+        "size_enc": 203
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims 4, The - Limited Edition (USA)",
@@ -4384,40 +4524,40 @@
         "filename": "Sims, The - Complete Collection (USA) (Disc 1).chd",
         "filename_enc": "51e30542dd0d2d7a114a6fc567a9c2c7.enc",
         "hash": "87a769d5a581011a",
-        "hash_enc": "",
-        "mtime": "1681756515",
-        "size": "605487305",
-        "size_enc": 0
+        "hash_enc": "6b832850391723b814e0d301bf66616c",
+        "mtime": 1738571849,
+        "size": 605487305,
+        "size_enc": 605487428
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims, The - Complete Collection (USA)",
         "filename": "Sims, The - Complete Collection (USA) (Disc 2).chd",
         "filename_enc": "7f3708c62e7eb93abb234a96623f0e5a.enc",
         "hash": "a0d6152de2f6db6f",
-        "hash_enc": "",
-        "mtime": "1681756657",
-        "size": "702580067",
-        "size_enc": 0
+        "hash_enc": "89a4ca18f96ac989d30850e30964e544",
+        "mtime": 1738571857,
+        "size": 702580067,
+        "size_enc": 702580190
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims, The - Complete Collection (USA)",
         "filename": "Sims, The - Complete Collection (USA) (Disc 3).chd",
         "filename_enc": "c5fe1a26ccef331d5b92c0a0ffb87de2.enc",
         "hash": "23fcd0601e3d5adb",
-        "hash_enc": "",
-        "mtime": "1681756726",
-        "size": "702991582",
-        "size_enc": 0
+        "hash_enc": "8a594dac53433c2b338c03657455fbab",
+        "mtime": 1738571864,
+        "size": 702991582,
+        "size_enc": 702991705
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims, The - Complete Collection (USA)",
         "filename": "Sims, The - Complete Collection (USA) (Disc 4).chd",
         "filename_enc": "2fbeaf2a39a5e016f5af1f72da0a0c20.enc",
         "hash": "347c684aa885284f",
-        "hash_enc": "",
-        "mtime": "1681756754",
-        "size": "284282961",
-        "size_enc": 0
+        "hash_enc": "405a1b2ffd489cadc2a2a4d864177416",
+        "mtime": 1738571866,
+        "size": 284282961,
+        "size_enc": 284283084
     },
     {
         "dir": "Roms/Computer/Disc/S/Sims, The - Complete Collection (USA)",
@@ -4444,50 +4584,50 @@
         "filename": "SkiFree (USA).chd",
         "filename_enc": "f02c4dadb71bc12dd253284321b2f6aa.enc",
         "hash": "b2b1c1622f56240a",
-        "hash_enc": "",
-        "mtime": "1697923648",
-        "size": "38424",
-        "size_enc": 0
+        "hash_enc": "84048f510909db8ec2ff9e24c6e9a29a",
+        "mtime": 1738573048,
+        "size": 38424,
+        "size_enc": 38512
     },
     {
         "dir": "Roms/Computer/Disc/S/Small Radios Big Televisions (USA)",
         "filename": "Small Radios Big Televisions (USA).chd",
         "filename_enc": "9149d4b05d305c07701fcd930d243821.enc",
         "hash": "e1fec7f82b4c4eea",
-        "hash_enc": "",
-        "mtime": "1711976844",
-        "size": "161173867",
-        "size_enc": 0
+        "hash_enc": "09334e587bacf857c01ca61be4f1fcff",
+        "mtime": 1738573072,
+        "size": 161173867,
+        "size_enc": 161173978
     },
     {
         "dir": "Roms/Computer/Disc/S/Soldier of Fortune II - Double Helix (USA)",
         "filename": "Soldier of Fortune II - Double Helix (USA) (Disc 1).chd",
         "filename_enc": "a6571fb81e43230282fb120ae97049d7.enc",
         "hash": "0cace6593d376e06",
-        "hash_enc": "",
-        "mtime": "1655064815",
-        "size": "608509927",
-        "size_enc": 0
+        "hash_enc": "06827a3758f76fa3312e8cb1b6802b0b",
+        "mtime": 1738573139,
+        "size": 608509927,
+        "size_enc": 608510055
     },
     {
         "dir": "Roms/Computer/Disc/S/Soldier of Fortune II - Double Helix (USA)",
         "filename": "Soldier of Fortune II - Double Helix (USA) (Disc 2).chd",
         "filename_enc": "a5243b1316db40ded9cd6a53eb6410e9.enc",
         "hash": "a406e43184ce82f7",
-        "hash_enc": "",
-        "mtime": "1655064792",
-        "size": "683805517",
-        "size_enc": 0
+        "hash_enc": "2df01641931299b2035c5dd1e119ad8a",
+        "mtime": 1738573146,
+        "size": 683805517,
+        "size_enc": 683805645
     },
     {
         "dir": "Roms/Computer/Disc/S/Soldier of Fortune II - Double Helix (USA)",
         "filename": "Soldier of Fortune II - Double Helix (USA).m3u",
         "filename_enc": "435f53813ae28db49cb0f063c52dab5a.enc",
         "hash": "09a92213d59fb998",
-        "hash_enc": "",
-        "mtime": "1655064878",
-        "size": "112",
-        "size_enc": 0
+        "hash_enc": "3346e1f519617fe605c5550bc9fdf692",
+        "mtime": 1738573146,
+        "size": 112,
+        "size_enc": 225
     },
     {
         "dir": "Roms/Computer/Disc/S/Soldier of Fortune II - Double Helix (USA)",
@@ -4504,280 +4644,300 @@
         "filename": "Sonic 3 - Angel Island Revisited (USA).chd",
         "filename_enc": "1a65ccc589b4270de5e7ec2ae091df13.enc",
         "hash": "1823dc5415afe09f",
-        "hash_enc": "",
-        "mtime": "1702875165",
-        "size": "147865065",
-        "size_enc": 0
+        "hash_enc": "809282345bfb5981afd3e7cc54724a84",
+        "mtime": 1738573614,
+        "size": 147865065,
+        "size_enc": 147865180
     },
     {
         "dir": "Roms/Computer/Disc/S/Sonic R (USA)",
         "filename": "Sonic R (USA).chd",
         "filename_enc": "d48f57015d10347db52a5eee73763055.enc",
         "hash": "7c6658555326fed2",
-        "hash_enc": "",
-        "mtime": "1655060680",
-        "size": "437423800",
-        "size_enc": 0
+        "hash_enc": "5dc863bba5f7dca7318e1259f3ac35fd",
+        "mtime": 1738573676,
+        "size": 437423800,
+        "size_enc": 437423890
     },
     {
         "dir": "Roms/Computer/Disc/S/Sonic Triple Trouble 16-bit (USA)",
         "filename": "Sonic Triple Trouble 16-bit (USA).chd",
         "filename_enc": "65be8bb733bc44608d3d7e36c10e7b92.enc",
         "hash": "88f296dfaf21d6ba",
-        "hash_enc": "",
-        "mtime": "1702781387",
-        "size": "104831402",
-        "size_enc": 0
+        "hash_enc": "7baf21136cb2c8353cf145b2994e6eb2",
+        "mtime": 1738573837,
+        "size": 104831402,
+        "size_enc": 104831512
     },
     {
         "dir": "Roms/Computer/Disc/S/Speculum Mortis - Regret (USA)",
         "filename": "Speculum Mortis - Regret (USA).chd",
         "filename_enc": "0dcc1e435f76b0f1b7283487073dad54.enc",
         "hash": "7cdc31b8d957b094",
-        "hash_enc": "",
-        "mtime": "1697923648",
-        "size": "2907306",
-        "size_enc": 0
+        "hash_enc": "be0871662e2876c802db2a25fc62c88e",
+        "mtime": 1738573881,
+        "size": 2907306,
+        "size_enc": 2907413
+    },
+    {
+        "dir": "Roms/Computer/Disc/S/Spider-Man - The Sinister Six (USA)",
+        "filename": "Spider-Man - The Sinister Six (USA) (Disc 1).chd",
+        "filename_enc": "d66baa582355ea7ab38ba52a8a3a42d4.enc",
+        "hash": "7b00db59897d8484",
+        "hash_enc": "61aa33a1b78f369040a851efcc6ee012",
+        "mtime": 1738573925,
+        "size": 312084371,
+        "size_enc": 312084492
+    },
+    {
+        "dir": "Roms/Computer/Disc/S/Spider-Man - The Sinister Six (USA)",
+        "filename": "Spider-Man - The Sinister Six (USA) (Disc 2).chd",
+        "filename_enc": "a18e1d7e5b1570805269aa62ad47420c.enc",
+        "hash": "8a2c233ccc1ec403",
+        "hash_enc": "f544ac73d4a5b268de5aeb5a35317e93",
+        "mtime": 1738573927,
+        "size": 295924329,
+        "size_enc": 295924450
     },
     {
         "dir": "Roms/Computer/Disc/S/Spooky's House of Jump Scares (USA)",
         "filename": "Spooky's House of Jump Scares (USA).chd",
         "filename_enc": "192ae2b219da41c523b3224ad8e06c80.enc",
         "hash": "11de52e9f8912dbd",
-        "hash_enc": "",
-        "mtime": "1697923659",
-        "size": "319653417",
-        "size_enc": 0
+        "hash_enc": "5192da919aa401d47be6283d5d3b371b",
+        "mtime": 1738574156,
+        "size": 319653417,
+        "size_enc": 319653529
     },
     {
         "dir": "Roms/Computer/Disc/S/Stanley Parable, The (USA)",
         "filename": "Stanley Parable, The (USA).chd",
         "filename_enc": "c1cce07a026bb96cd500da5664cc047b.enc",
         "hash": "afe9b8ae42590188",
-        "hash_enc": "",
-        "mtime": "1655058730",
-        "size": "1168483874",
-        "size_enc": 0
+        "hash_enc": "1a8b3148338e70b0ad31f5591a695f9d",
+        "mtime": 1738574286,
+        "size": 1168483874,
+        "size_enc": 1168483977
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Trek - Omnipedia (USA)",
         "filename": "Star Trek - Omnipedia (USA).chd",
         "filename_enc": "3e8bfa5302f2129f78e5cf9a9817efc8.enc",
         "hash": "36e2836bb2c9f759",
-        "hash_enc": "",
-        "mtime": "1655060081",
-        "size": "414926228",
-        "size_enc": 0
+        "hash_enc": "e6c9e98fb94ed97ea7437704d5ad38f5",
+        "mtime": 1738574708,
+        "size": 414926228,
+        "size_enc": 414926332
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Trek - The Next Generation - A Final Unity (USA)",
         "filename": "Star Trek - The Next Generation - A Final Unity (USA).chd",
         "filename_enc": "34e31360db2cda5f02a24ca21f22b7f0.enc",
         "hash": "7dcd3a751fdeb848",
-        "hash_enc": "",
-        "mtime": "1655060048",
-        "size": "603680938",
-        "size_enc": 0
+        "hash_enc": "f42477f0b6c33fd15929aeae7417ee9d",
+        "mtime": 1738574866,
+        "size": 603680938,
+        "size_enc": 603681068
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Dark Forces (USA)",
         "filename": "Star Wars - Dark Forces (USA).chd",
         "filename_enc": "8364477563f41eab25e417d65bef4947.enc",
         "hash": "19787057d344d908",
-        "hash_enc": "",
-        "mtime": "1655060475",
-        "size": "140703136",
-        "size_enc": 0
+        "hash_enc": "d99f8ec57e47d15f20efa83ed7e84486",
+        "mtime": 1738575086,
+        "size": 140703136,
+        "size_enc": 140703242
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Jedi Knight - Dark Forces II (USA)",
         "filename": "Star Wars - Jedi Knight - Dark Forces II (USA) (Disc 1).chd",
         "filename_enc": "b251fb901cbb1dc7bba00186f60fc2db.enc",
         "hash": "4a3a63a40d5c2617",
-        "hash_enc": "",
-        "mtime": "1655056579",
-        "size": "453632406",
-        "size_enc": 0
+        "hash_enc": "66c018068e87e9c90036982673f2a786",
+        "mtime": 1738575163,
+        "size": 453632406,
+        "size_enc": 453632538
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Jedi Knight - Dark Forces II (USA)",
         "filename": "Star Wars - Jedi Knight - Dark Forces II (USA) (Disc 2).chd",
         "filename_enc": "f29edb5d67a4efb08645e41b79366df8.enc",
         "hash": "f706cd1597b05a53",
-        "hash_enc": "",
-        "mtime": "1655056606",
-        "size": "411174759",
-        "size_enc": 0
+        "hash_enc": "3442c64f27b61eb6521a8f7802d65759",
+        "mtime": 1738575166,
+        "size": 411174759,
+        "size_enc": 411174891
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Jedi Knight - Dark Forces II (USA)",
         "filename": "Star Wars - Jedi Knight - Dark Forces II (USA).m3u",
         "filename_enc": "a99a50d83dc01ba738fbfb0d59c0d1f4.enc",
         "hash": "41dfedbb372d906e",
-        "hash_enc": "",
-        "mtime": "1655062566",
-        "size": "120",
-        "size_enc": 0
+        "hash_enc": "b69d881b887d42580d93d55ae2c4fd56",
+        "mtime": 1738575167,
+        "size": 120,
+        "size_enc": 237
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic (USA)",
         "filename": "Star Wars - Knights of the Old Republic (USA) (Disc 1).chd",
         "filename_enc": "a14955a2bed86744d8a111ff7d857c98.enc",
         "hash": "5aed249a02b28cc8",
-        "hash_enc": "",
-        "mtime": "1655046646",
-        "size": "679551534",
-        "size_enc": 0
+        "hash_enc": "bb908c977032e02baf26c844d3caaaf6",
+        "mtime": 1738575487,
+        "size": 679551534,
+        "size_enc": 679551665
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic (USA)",
         "filename": "Star Wars - Knights of the Old Republic (USA) (Disc 2).chd",
         "filename_enc": "79fa4ac37fc6a11d22eb951c7acdb1f5.enc",
         "hash": "0dc9c6961a32fd3f",
-        "hash_enc": "",
-        "mtime": "1655046670",
-        "size": "686915744",
-        "size_enc": 0
+        "hash_enc": "be4f7745a8db3bcdc72afa4cff35f731",
+        "mtime": 1738575494,
+        "size": 686915744,
+        "size_enc": 686915875
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic (USA)",
         "filename": "Star Wars - Knights of the Old Republic (USA) (Disc 3).chd",
         "filename_enc": "1a5ee666b944fcaaaa4d7521ab124133.enc",
         "hash": "70390239c3604288",
-        "hash_enc": "",
-        "mtime": "1655046694",
-        "size": "686790850",
-        "size_enc": 0
+        "hash_enc": "3ffc4f432b80ff734a7a62fa8ba56dff",
+        "mtime": 1738575501,
+        "size": 686790850,
+        "size_enc": 686790981
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic (USA)",
         "filename": "Star Wars - Knights of the Old Republic (USA) (Disc 4).chd",
         "filename_enc": "e583e2a016a04beb2779683e3ee08cf9.enc",
         "hash": "ca2a0605bc19d79f",
-        "hash_enc": "",
-        "mtime": "1655046712",
-        "size": "506265198",
-        "size_enc": 0
+        "hash_enc": "ad0d930c32553b7076282540734dc70f",
+        "mtime": 1738575505,
+        "size": 506265198,
+        "size_enc": 506265329
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic (USA)",
         "filename": "Star Wars - Knights of the Old Republic (USA).m3u",
         "filename_enc": "93ba5f970400ebefb8d49fc6545ac04f.enc",
         "hash": "0267cf74c1f51c5b",
-        "hash_enc": "",
-        "mtime": "1655056173",
-        "size": "236",
-        "size_enc": 0
+        "hash_enc": "284cf34507ea15a06743fd17942e5475",
+        "mtime": 1738575506,
+        "size": 236,
+        "size_enc": 353
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)",
         "filename": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 1).chd",
         "filename_enc": "e61041c5a85df3469657c3a5779befa8.enc",
         "hash": "7674549c1877604b",
-        "hash_enc": "",
-        "mtime": "1655046761",
-        "size": "657618681",
-        "size_enc": 0
+        "hash_enc": "285752b84c729f3242f15678cff6596f",
+        "mtime": 1738576432,
+        "size": 657618681,
+        "size_enc": 657618832
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)",
         "filename": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 2).chd",
         "filename_enc": "aaa6aad35622bcece351aea1411c4b97.enc",
         "hash": "823ec4890e5de5ea",
-        "hash_enc": "",
-        "mtime": "1655046736",
-        "size": "688887147",
-        "size_enc": 0
+        "hash_enc": "f1a207203ae1dbc4811101d90c41a004",
+        "mtime": 1738576438,
+        "size": 688887147,
+        "size_enc": 688887298
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)",
         "filename": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 3).chd",
         "filename_enc": "0405a00b54de20fdce4c444ab9a86329.enc",
         "hash": "3dec1980dd95916e",
-        "hash_enc": "",
-        "mtime": "1655046785",
-        "size": "688338709",
-        "size_enc": 0
+        "hash_enc": "61a0bd95fff54573575b1c0ed1360660",
+        "mtime": 1738576445,
+        "size": 688338709,
+        "size_enc": 688338860
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)",
         "filename": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (Disc 4).chd",
         "filename_enc": "030a812902d2485b498f4e65936cb192.enc",
         "hash": "a36f79b99d24ef78",
-        "hash_enc": "",
-        "mtime": "1655046807",
-        "size": "605971696",
-        "size_enc": 0
+        "hash_enc": "a838261ef1c5bbf6aa3841ce301bfa1d",
+        "mtime": 1738576451,
+        "size": 605971696,
+        "size_enc": 605971847
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - Knights of the Old Republic II - The Sith Lords (USA)",
         "filename": "Star Wars - Knights of the Old Republic II - The Sith Lords (USA).m3u",
         "filename_enc": "cafe62ee616ef8ef8524787d1c1c9e77.enc",
         "hash": "521dc6596e529302",
-        "hash_enc": "",
-        "mtime": "1655056083",
-        "size": "316",
-        "size_enc": 0
+        "hash_enc": "d254ffdce1f54117d9bf1d7b660ee800",
+        "mtime": 1738576451,
+        "size": 316,
+        "size_enc": 453
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - X-Wing Alliance (USA)",
         "filename": "Star Wars - X-Wing Alliance (USA) (Disc 1).chd",
         "filename_enc": "ab0c407301ae56d24b884af233f1637a.enc",
         "hash": "960b3ccf418c189d",
-        "hash_enc": "",
-        "mtime": "1655058355",
-        "size": "380221716",
-        "size_enc": 0
+        "hash_enc": "0d5b645b7c32d348f5ae0854d810410a",
+        "mtime": 1738577457,
+        "size": 380221716,
+        "size_enc": 380221835
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - X-Wing Alliance (USA)",
         "filename": "Star Wars - X-Wing Alliance (USA) (Disc 2).chd",
         "filename_enc": "004c93f51f90ef4706a673d5d26b9620.enc",
         "hash": "9ec616ad9c3892c0",
-        "hash_enc": "",
-        "mtime": "1655058319",
-        "size": "379674670",
-        "size_enc": 0
+        "hash_enc": "5c3edd9d71e2c7da5a64553731c130a2",
+        "mtime": 1738577461,
+        "size": 379674670,
+        "size_enc": 379674789
     },
     {
         "dir": "Roms/Computer/Disc/S/Star Wars - X-Wing Alliance (USA)",
         "filename": "Star Wars - X-Wing Alliance (USA).m3u",
         "filename_enc": "13a73a84824cec45428b8d7e228029d6.enc",
         "hash": "9da0bb27d8e563ef",
-        "hash_enc": "",
-        "mtime": "1655062616",
-        "size": "94",
-        "size_enc": 0
+        "hash_enc": "079581e62c25e5aca8792926459fd312",
+        "mtime": 1738577461,
+        "size": 94,
+        "size_enc": 197
     },
     {
         "dir": "Roms/Computer/Disc/S/StarCraft & Brood War (USA)",
         "filename": "StarCraft & Brood War (USA) (Disc 1).chd",
         "filename_enc": "902a43b661f44923c45b290f5f55c9b8.enc",
         "hash": "4c541b5db8eaa326",
-        "hash_enc": "",
-        "mtime": "1693331012",
-        "size": "686467751",
-        "size_enc": 0
+        "hash_enc": "536033e5a74e84eb065bce2d73c70ec1",
+        "mtime": 1738577745,
+        "size": 686467751,
+        "size_enc": 686467864
     },
     {
         "dir": "Roms/Computer/Disc/S/StarCraft & Brood War (USA)",
         "filename": "StarCraft & Brood War (USA) (Disc 2).chd",
         "filename_enc": "131bda25cab0ae5d42266a8362fd49f6.enc",
         "hash": "a6c8acc9013996df",
-        "hash_enc": "",
-        "mtime": "1693331030",
-        "size": "628447983",
-        "size_enc": 0
+        "hash_enc": "67e130a30bce0b397f3c1a6e8a9a0e63",
+        "mtime": 1738577752,
+        "size": 628447983,
+        "size_enc": 628448096
     },
     {
         "dir": "Roms/Computer/Disc/S/StarCraft & Brood War (USA)",
         "filename": "StarCraft & Brood War (USA).m3u",
         "filename_enc": "8fea48f28072dcc1e117ca3b18094ffc.enc",
         "hash": "bd47bb67b225e3ff",
-        "hash_enc": "",
-        "mtime": "1655062425",
-        "size": "82",
-        "size_enc": 0
+        "hash_enc": "cfd707c9f9615c0df357fb9ab65a9feb",
+        "mtime": 1738577752,
+        "size": 82,
+        "size_enc": 179
     },
     {
         "dir": "Roms/Computer/Disc/S/StarCraft & Brood War (USA)",
@@ -4794,210 +4954,220 @@
         "filename": "Starsiege (USA) (Disc 1).chd",
         "filename_enc": "b14e3cebc3cbfcf8f6ab0aa67f8a920b.enc",
         "hash": "22514391edf8ddc2",
-        "hash_enc": "",
-        "mtime": "1655061206",
-        "size": "505009492",
-        "size_enc": 0
+        "hash_enc": "99e92a99c7521f49109b0ca98c9b2703",
+        "mtime": 1738578229,
+        "size": 505009492,
+        "size_enc": 505009593
     },
     {
         "dir": "Roms/Computer/Disc/S/Starsiege (USA)",
         "filename": "Starsiege (USA) (Disc 2).chd",
         "filename_enc": "d2df31466acf8fdb3a43c6fc346d8d99.enc",
         "hash": "daa75a3dc8a5acbf",
-        "hash_enc": "",
-        "mtime": "1655061183",
-        "size": "441396170",
-        "size_enc": 0
+        "hash_enc": "c7872c66e01a38e62e9825e4774ea5df",
+        "mtime": 1738578234,
+        "size": 441396170,
+        "size_enc": 441396271
     },
     {
         "dir": "Roms/Computer/Disc/S/Starsiege (USA)",
         "filename": "Starsiege (USA).m3u",
         "filename_enc": "5ed7c7eff66de9cf46118b220a7eb89c.enc",
         "hash": "921f2f32d0b87229",
-        "hash_enc": "",
-        "mtime": "1655062499",
-        "size": "58",
-        "size_enc": 0
+        "hash_enc": "4646d5840704b0715979f9464a4b7283",
+        "mtime": 1738578234,
+        "size": 58,
+        "size_enc": 143
     },
     {
         "dir": "Roms/Computer/Disc/S/Starsiege - Tribes (USA)",
         "filename": "Starsiege - Tribes (USA).chd",
         "filename_enc": "4b31bb570dc0f8ae9a206b82413db140.enc",
         "hash": "4a2d2af14c8d4df6",
-        "hash_enc": "",
-        "mtime": "1655060106",
-        "size": "376618036",
-        "size_enc": 0
+        "hash_enc": "1261ca1bb9f38307befc90a4455ded07",
+        "mtime": 1738578581,
+        "size": 376618036,
+        "size_enc": 376618137
     },
     {
         "dir": "Roms/Computer/Disc/S/Starsiege Universe (USA)",
         "filename": "Starsiege Universe (USA).chd",
         "filename_enc": "151128c304c3474a2e93054b415c3031.enc",
         "hash": "a4d517760597953d",
-        "hash_enc": "",
-        "mtime": "1655058144",
-        "size": "606148237",
-        "size_enc": 0
+        "hash_enc": "4f813d31af60ef5baeded2f54ff4683c",
+        "mtime": 1738578726,
+        "size": 606148237,
+        "size_enc": 606148338
     },
     {
         "dir": "Roms/Computer/Disc/S/SteamWorld Dig - A Fistful of Dirt (USA)",
         "filename": "SteamWorld Dig - A Fistful of Dirt (USA).chd",
         "filename_enc": "695336d69a238715b244e95f6e300cc0.enc",
         "hash": "e2a84813049a3e06",
-        "hash_enc": "",
-        "mtime": "1655057358",
-        "size": "373713516",
-        "size_enc": 0
+        "hash_enc": "68cf75ef1075764dc2ee30c04646ba80",
+        "mtime": 1738578948,
+        "size": 373713516,
+        "size_enc": 373713633
     },
     {
         "dir": "Roms/Computer/Disc/S/StepMania (USA)",
         "filename": "StepMania (USA).chd",
         "filename_enc": "529342789bfac457485aa7d715efefa0.enc",
         "hash": "1cb39e32c6661d5f",
-        "hash_enc": "",
-        "mtime": "1711976242",
-        "size": "179254716",
-        "size_enc": 0
+        "hash_enc": "7949e2d3f94562e4f01c5caf4fea075f",
+        "mtime": 1738579088,
+        "size": 179254716,
+        "size_enc": 179254808
     },
     {
         "dir": "Roms/Computer/Disc/S/Stories - The Path of Destinies (USA)",
         "filename": "Stories - The Path of Destinies (USA).chd",
         "filename_enc": "1346a0f2e0749034313d3535e36032d2.enc",
         "hash": "4bc39001756f226f",
-        "hash_enc": "",
-        "mtime": "1655046388",
-        "size": "1470922025",
-        "size_enc": 0
+        "hash_enc": "541472537cc20a1683194e746944431d",
+        "mtime": 1738579171,
+        "size": 1470922025,
+        "size_enc": 1470922139
     },
     {
         "dir": "Roms/Computer/Disc/S/Street Fighter & Mega Man Collection (USA)",
         "filename": "Street Fighter & Mega Man Collection (USA).chd",
         "filename_enc": "0855a3c1e2b86b04c53a46e8ef6afc39.enc",
         "hash": "b940c580c8972c97",
-        "hash_enc": "",
-        "mtime": "1655059644",
-        "size": "16680082",
-        "size_enc": 0
+        "hash_enc": "0f55d14fc053a92781d94014065c31f5",
+        "mtime": 1738579698,
+        "size": 16680082,
+        "size_enc": 16680201
     },
     {
         "dir": "Roms/Computer/Disc/S/Street Fighter 2 (USA)",
         "filename": "Street Fighter 2 (USA).chd",
         "filename_enc": "b6ba2c8c13324194338bf9e1613843ea.enc",
         "hash": "48578949ff38d653",
-        "hash_enc": "",
-        "mtime": "1655058733",
-        "size": "21303240",
-        "size_enc": 0
+        "hash_enc": "75c4ed8d098d4bcb01eaa2feab6e9d67",
+        "mtime": 1738579864,
+        "size": 21303240,
+        "size_enc": 21303339
     },
     {
         "dir": "Roms/Computer/Disc/S/Street Fighter X Mega Man (USA)",
         "filename": "Street Fighter X Mega Man (USA).chd",
         "filename_enc": "93fba7e9a778bfb9e107a4b4e1aae350.enc",
         "hash": "368b538bdc5df7ce",
-        "hash_enc": "",
-        "mtime": "1697923660",
-        "size": "37137060",
-        "size_enc": 0
+        "hash_enc": "fe3f890058436b800b6a9ec7b17238ab",
+        "mtime": 1738579877,
+        "size": 37137060,
+        "size_enc": 37137168
     },
     {
         "dir": "Roms/Computer/Disc/S/Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends)",
         "filename": "Stronghold Collection, The (USA) (Stronghold, Stronghold 2, Crusader, Legends).chd",
         "filename_enc": "cdcadfd907d8e7fc2b06180d0e6ad783.enc",
         "hash": "2c94af4ddd5d8a00",
-        "hash_enc": "",
-        "mtime": "1655057780",
-        "size": "5617917062",
-        "size_enc": 0
+        "hash_enc": "bd368bd5501c20a628c9fbf820d8bacd",
+        "mtime": 1738579947,
+        "size": 5617917062,
+        "size_enc": 5619288861
     },
     {
         "dir": "Roms/Computer/Disc/S/Stunt Driver (USA)",
         "filename": "Stunt Driver (USA).chd",
         "filename_enc": "70ff40a3b087966d72a0cd5f1c4d7aa1.enc",
         "hash": "ad73be5293d730e5",
-        "hash_enc": "",
-        "mtime": "1655057781",
-        "size": "5711184",
-        "size_enc": 0
+        "hash_enc": "04ac3c9b313c8edd02adb5b23033c5fc",
+        "mtime": 1738581944,
+        "size": 5711184,
+        "size_enc": 5711279
+    },
+    {
+        "dir": "Roms/Computer/Disc/S/Super Mario Bros. Crossover Trilogy (USA)",
+        "filename": "Super Mario Bros. Crossover Trilogy (USA).chd",
+        "filename_enc": "9ea42a3b37b034fb4ecbbc69328567eb.enc",
+        "hash": "335da0539e83859b",
+        "hash_enc": "631548469ba09a126681c30a113144da",
+        "mtime": 1738581951,
+        "size": 34294086,
+        "size_enc": 34294204
     },
     {
         "dir": "Roms/Computer/Disc/S/Super Win The Game (USA)",
         "filename": "Super Win The Game (USA).chd",
         "filename_enc": "291b9feeb3ac9436e6962edb4c59d0bd.enc",
         "hash": "fa7a3a4e05b0b575",
-        "hash_enc": "",
-        "mtime": "1655061351",
-        "size": "102446456",
-        "size_enc": 0
+        "hash_enc": "2de3c7acb43b0077245de08d0351899c",
+        "mtime": 1738581970,
+        "size": 102446456,
+        "size_enc": 102446557
     },
     {
         "dir": "Roms/Computer/Disc/S/System Shock - Enhanced Edition (USA)",
         "filename": "System Shock - Enhanced Edition (USA).chd",
         "filename_enc": "d75a24cb7e301a03ab300765337e1525.enc",
         "hash": "e6dfc692327be6f6",
-        "hash_enc": "",
-        "mtime": "1655056821",
-        "size": "1202416547",
-        "size_enc": 0
+        "hash_enc": "e2f029c5387ffea37f479c9bc686c820",
+        "mtime": 1738582022,
+        "size": 1202416547,
+        "size_enc": 1202416661
     },
     {
         "dir": "Roms/Computer/Disc/T/Tennis Titans (USA)",
         "filename": "Tennis Titans (USA).chd",
         "filename_enc": "7b20310d9628287fe02fc8df1c840e7f.enc",
         "hash": "68134e2317134408",
-        "hash_enc": "",
-        "mtime": "1678469127",
-        "size": "65534541",
-        "size_enc": 0
+        "hash_enc": "86c6acd001bca8f0b8f6bbad7dc345a0",
+        "mtime": 1738582454,
+        "size": 65534541,
+        "size_enc": 65534637
     },
     {
         "dir": "Roms/Computer/Disc/T/Tetris Worlds (USA)",
         "filename": "Tetris Worlds (USA).chd",
         "filename_enc": "52247fcc47653ebf05bfcc8e6f57f29a.enc",
         "hash": "c518082f78f613b3",
-        "hash_enc": "",
-        "mtime": "1678469183",
-        "size": "219158742",
-        "size_enc": 0
+        "hash_enc": "5b8f37bce676ad690f95b68d79c094f3",
+        "mtime": 1738582484,
+        "size": 219158742,
+        "size_enc": 219158838
     },
     {
         "dir": "Roms/Computer/Disc/T/Thomas Was Alone (USA)",
         "filename": "Thomas Was Alone (USA).chd",
         "filename_enc": "729ee735777fad56b262cb77fb3e1929.enc",
         "hash": "d80d0605820db5d7",
-        "hash_enc": "",
-        "mtime": "1655060389",
-        "size": "158171423",
-        "size_enc": 0
+        "hash_enc": "b57d6664122137a36711d170942bbd4e",
+        "mtime": 1738582569,
+        "size": 158171423,
+        "size_enc": 158171522
     },
     {
         "dir": "Roms/Computer/Disc/T/Torchlight (USA)",
         "filename": "Torchlight (USA).chd",
         "filename_enc": "3a5f6b9b93f0877ae67eae4b62f9ccb9.enc",
         "hash": "f2e7496a83f472d9",
-        "hash_enc": "",
-        "mtime": "1655047293",
-        "size": "1250086888",
-        "size_enc": 0
+        "hash_enc": "3025aff80ab10e896bc867fc7f117600",
+        "mtime": 1738582641,
+        "size": 1250086888,
+        "size_enc": 1250086981
     },
     {
         "dir": "Roms/Computer/Disc/T/Torchlight II (USA)",
         "filename": "Torchlight II (USA).chd",
         "filename_enc": "f4efa39d36c20324a3231159395216a4.enc",
         "hash": "74e7f8b84ee741b2",
-        "hash_enc": "",
-        "mtime": "1655059578",
-        "size": "1750620097",
-        "size_enc": 0
+        "hash_enc": "978dddcaf1bac786957d9795e234e6fc",
+        "mtime": 1738583123,
+        "size": 1750620097,
+        "size_enc": 1750620193
     },
     {
         "dir": "Roms/Computer/Disc/T/Tribes - Vengeance (USA)",
         "filename": "Tribes - Vengeance (USA).chd",
         "filename_enc": "ef0b7a72778ceae6ffb23ae9a8da6ff3.enc",
         "hash": "e01ca71146de0c04",
-        "hash_enc": "",
-        "mtime": "1693751512",
-        "size": "2219984191",
-        "size_enc": 0
+        "hash_enc": "f1c4df816cf6eb6b9e660a36e8a67d0c",
+        "mtime": 1738583768,
+        "size": 2219984191,
+        "size_enc": 2219984292
     },
     {
         "dir": "Roms/Computer/Disc/T/Tribes - Vengeance (USA)",
@@ -5014,120 +5184,120 @@
         "filename": "Tribes 2 (USA).chd",
         "filename_enc": "5c937b6e12247779b629a4cc678cfdcc.enc",
         "hash": "e1356e746362cb61",
-        "hash_enc": "",
-        "mtime": "1655057009",
-        "size": "529415920",
-        "size_enc": 0
+        "hash_enc": "440246c572160b4e423f927c2a9afaed",
+        "mtime": 1738585453,
+        "size": 529415920,
+        "size_enc": 529416011
     },
     {
         "dir": "Roms/Computer/Disc/T/Tribes 2 (USA)",
         "filename": "Tribes 2 (USA).sbi",
         "filename_enc": "4b60df0e728bcbfb71d806bc8ebc8315.enc",
         "hash": "d31a68e78417d06d",
-        "hash_enc": "",
-        "mtime": "851488320",
-        "size": "1264",
-        "size_enc": 0
+        "hash_enc": "69a4499632d99516cb8c581b303dea85",
+        "mtime": 1738585453,
+        "size": 1264,
+        "size_enc": 1350
     },
     {
         "dir": "Roms/Computer/Disc/T/Tux Racer (USA)",
         "filename": "Tux Racer (USA).chd",
         "filename_enc": "9a8c7348dc4d4be0e74341f1aa6442b8.enc",
         "hash": "98388c1ba3a9090e",
-        "hash_enc": "",
-        "mtime": "1655057383",
-        "size": "124092159",
-        "size_enc": 0
+        "hash_enc": "34cc8e1248bd4a66a3afc4762d71c514",
+        "mtime": 1738585649,
+        "size": 124092159,
+        "size_enc": 124092251
     },
     {
         "dir": "Roms/Computer/Disc/T/Typoman - Revised (USA)",
         "filename": "Typoman - Revised (USA).chd",
         "filename_enc": "44ac3ef942190fc434f7d5afd8b27253.enc",
         "hash": "2dbb1d608efdd931",
-        "hash_enc": "",
-        "mtime": "1655046973",
-        "size": "878020657",
-        "size_enc": 0
+        "hash_enc": "97571790a4142bab9c143300cc84ccb9",
+        "mtime": 1738585714,
+        "size": 878020657,
+        "size_enc": 878020757
     },
     {
         "dir": "Roms/Computer/Disc/U/Ultima Collection (USA) (Ultima I - Ultima VIII)",
         "filename": "Ultima Collection (USA) (Ultima I - Ultima VIII).chd",
         "filename_enc": "02f0d62613c712683540be112bc422af.enc",
         "hash": "a8e5f419c3aa077f",
-        "hash_enc": "",
-        "mtime": "1655046008",
-        "size": "394161359",
-        "size_enc": 0
+        "hash_enc": "b44fc7f2e457d12fe32753b37fd53aa9",
+        "mtime": 1738586034,
+        "size": 394161359,
+        "size_enc": 394161484
     },
     {
         "dir": "Roms/Computer/Disc/U/Ultimate RPG Archives, The (USA)",
         "filename": "Ultimate RPG Archives, The (USA) (Disc 1) (Stonekeep).chd",
         "filename_enc": "961a8c9b4c102406d74282579e9d0be9.enc",
         "hash": "226fcf4f39c96202",
-        "hash_enc": "",
-        "mtime": "1655045844",
-        "size": "363705288",
-        "size_enc": 0
+        "hash_enc": "1917afcb8c7c9e64a93601525eca785f",
+        "mtime": 1738586183,
+        "size": 363705288,
+        "size_enc": 363705418
     },
     {
         "dir": "Roms/Computer/Disc/U/Ultimate RPG Archives, The (USA)",
         "filename": "Ultimate RPG Archives, The (USA) (Disc 2) (The Bard's Tale, Ultima Underworld, Dragon Wars, Wasteland).chd",
         "filename_enc": "3fd057b427a410256cc9a8ebbad82b09.enc",
         "hash": "03e8b94fa2b68f38",
-        "hash_enc": "",
-        "mtime": "1655045815",
-        "size": "71752673",
-        "size_enc": 0
+        "hash_enc": "034c296bcac19ef495df4c8a40e7a191",
+        "mtime": 1738586185,
+        "size": 71752673,
+        "size_enc": 71752852
     },
     {
         "dir": "Roms/Computer/Disc/U/Ultimate RPG Archives, The (USA)",
         "filename": "Ultimate RPG Archives, The (USA) (Disc 3) (Might & Magic World of Xeen Disk A).chd",
         "filename_enc": "f8df8c0ec1d061cf37b9a5e695aecd2a.enc",
         "hash": "caf7ec4605db6d40",
-        "hash_enc": "",
-        "mtime": "1655045868",
-        "size": "198142130",
-        "size_enc": 0
+        "hash_enc": "c92a06ea8b9273b21acf45dd3044a233",
+        "mtime": 1738586187,
+        "size": 198142130,
+        "size_enc": 198142285
     },
     {
         "dir": "Roms/Computer/Disc/U/Ultimate RPG Archives, The (USA)",
         "filename": "Ultimate RPG Archives, The (USA) (Disc 4) (Might & Magic World of Xeen Disk B).chd",
         "filename_enc": "1b23a0073779342aa7d9ba8267c56849.enc",
         "hash": "4e469713f25bfc13",
-        "hash_enc": "",
-        "mtime": "1655045900",
-        "size": "247383557",
-        "size_enc": 0
+        "hash_enc": "d7599e0e3938ac6dfeca399f3652a2ba",
+        "mtime": 1738586189,
+        "size": 247383557,
+        "size_enc": 247383712
     },
     {
         "dir": "Roms/Computer/Disc/U/Ultimate RPG Archives, The (USA)",
         "filename": "Ultimate RPG Archives, The (USA) (Disc 5) (Wizardry Gold).chd",
         "filename_enc": "f6c2178f8eb6a7829be6d3bcb7cd0928.enc",
         "hash": "64f7a1f4fb680173",
-        "hash_enc": "",
-        "mtime": "1655045811",
-        "size": "316512739",
-        "size_enc": 0
+        "hash_enc": "66adafcee031e3736d4124e2772f81cb",
+        "mtime": 1738586192,
+        "size": 316512739,
+        "size_enc": 316512873
     },
     {
         "dir": "Roms/Computer/Disc/U/Ultimate RPG Archives, The (USA)",
         "filename": "Ultimate RPG Archives, The (USA).m3u",
         "filename_enc": "88c2fc11978cb7fbb67b089b1bff5f4d.enc",
-        "hash": "b0fc9e8d5219961d",
-        "hash_enc": "",
-        "mtime": "1655056391",
-        "size": "393",
-        "size_enc": 0
+        "hash": "adac3abb05ffcf03",
+        "hash_enc": "95d7f06932e86a7ec925ecf78afbb577",
+        "mtime": 1738586192,
+        "size": 393,
+        "size_enc": 497
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004)",
         "filename": "Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004).chd",
         "filename_enc": "11dd842b8621c41ab1bc8735f4264c72.enc",
         "hash": "b7865ca29f5e59b6",
-        "hash_enc": "",
-        "mtime": "1655059081",
-        "size": "4849928688",
-        "size_enc": 0
+        "hash_enc": "67340b8d700d88213cecf3c46bcd14fe",
+        "mtime": 1738586674,
+        "size": 4849928688,
+        "size_enc": 4851112953
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Anthology (USA) (Unreal, Unreal 2, UT, UT 2004)",
@@ -5144,70 +5314,70 @@
         "filename": "Unreal Tournament 2004 (USA) (Disc 1).chd",
         "filename_enc": "5f5b036615114239405e70b4435c6812.enc",
         "hash": "a2f632b4ebbf2125",
-        "hash_enc": "",
-        "mtime": "1655056748",
-        "size": "611860020",
-        "size_enc": 0
+        "hash_enc": "813de2ed3fca76dc82f1bd5b6e9d8fbf",
+        "mtime": 1738588406,
+        "size": 611860020,
+        "size_enc": 611860134
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)",
         "filename": "Unreal Tournament 2004 (USA) (Disc 2).chd",
         "filename_enc": "5d2ab94fc253a3c7f384a81fc90fbf99.enc",
         "hash": "a0fc4042a100edcf",
-        "hash_enc": "",
-        "mtime": "1655056653",
-        "size": "665582402",
-        "size_enc": 0
+        "hash_enc": "5ba3024b415caad0b56e600a7ac74347",
+        "mtime": 1738588413,
+        "size": 665582402,
+        "size_enc": 665582516
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)",
         "filename": "Unreal Tournament 2004 (USA) (Disc 3).chd",
         "filename_enc": "b3d3eca6fbbad9738180272ff9525942.enc",
         "hash": "f6c3e1dc6903f0c9",
-        "hash_enc": "",
-        "mtime": "1655056677",
-        "size": "654178253",
-        "size_enc": 0
+        "hash_enc": "1df9991e9a3b63d1458d83fd34498615",
+        "mtime": 1738588420,
+        "size": 654178253,
+        "size_enc": 654178367
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)",
         "filename": "Unreal Tournament 2004 (USA) (Disc 4).chd",
         "filename_enc": "7ac5a2fccf3ee384b8c688c613d91ead.enc",
         "hash": "9e72a8ea516dec6f",
-        "hash_enc": "",
-        "mtime": "1655056701",
-        "size": "668092847",
-        "size_enc": 0
+        "hash_enc": "9cf7fc56f8593e5e38ff111035462b11",
+        "mtime": 1738588427,
+        "size": 668092847,
+        "size_enc": 668092961
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)",
         "filename": "Unreal Tournament 2004 (USA) (Disc 5).chd",
         "filename_enc": "5e3784f4df0cc65f6773dad6b6783f33.enc",
         "hash": "678ffcfde2bc5c8b",
-        "hash_enc": "",
-        "mtime": "1655056629",
-        "size": "669753488",
-        "size_enc": 0
+        "hash_enc": "8cc6051a5767392fd72b3ac11808f18d",
+        "mtime": 1738588433,
+        "size": 669753488,
+        "size_enc": 669753602
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)",
         "filename": "Unreal Tournament 2004 (USA) (Disc 6).chd",
         "filename_enc": "0811aabbcb6b608858dc8e415a953fc6.enc",
         "hash": "dbe6d840b735c34b",
-        "hash_enc": "",
-        "mtime": "1655056723",
-        "size": "603778646",
-        "size_enc": 0
+        "hash_enc": "956fe7e7e902b01e82e52b9ac9c1ad56",
+        "mtime": 1738588439,
+        "size": 603778646,
+        "size_enc": 603778760
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)",
         "filename": "Unreal Tournament 2004 (USA).m3u",
         "filename_enc": "f35666fab3e7318b4e30638c598dd997.enc",
         "hash": "203117452d7a0859",
-        "hash_enc": "",
-        "mtime": "1693713902",
-        "size": "252",
-        "size_enc": 0
+        "hash_enc": "6139f7a926a2dcbeb2e2c9a9115edd0d",
+        "mtime": 1738588440,
+        "size": 252,
+        "size_enc": 352
     },
     {
         "dir": "Roms/Computer/Disc/U/Unreal Tournament 2004 (USA)",
@@ -5224,89 +5394,89 @@
         "filename": "Video Game Name Generator Competition (USA).chd",
         "filename_enc": "aaf1d2e706e260801c38df0f47e96f7d.enc",
         "hash": "a0fef729874cf676",
-        "hash_enc": "",
-        "mtime": "1697923669",
-        "size": "157287107",
-        "size_enc": 0
+        "hash_enc": "08ee6adf3aab049bbf008d894bd1d7f9",
+        "mtime": 1738639316,
+        "size": 157287107,
+        "size_enc": 157287227
     },
     {
         "dir": "Roms/Computer/Disc/W/War for the Overworld - Underlord Edition (USA)",
         "filename": "War for the Overworld - Underlord Edition (USA).chd",
         "filename_enc": "841c4c090cff44a0893b7cbb54ea1c61.enc",
         "hash": "00c6d1971c84533b",
-        "hash_enc": "",
-        "mtime": "1655046621",
-        "size": "949692999",
-        "size_enc": 0
+        "hash_enc": "e79f97c93bccb623259085204cea38d9",
+        "mtime": 1738639392,
+        "size": 949692999,
+        "size_enc": 949693123
     },
     {
         "dir": "Roms/Computer/Disc/W/Wasteland 2 - Director's Cut (USA)",
         "filename": "Wasteland 2 - Director's Cut (USA).chd",
         "filename_enc": "0de62abf71d88261f49581dc2bb8a402.enc",
         "hash": "e28bc3257b51aa9d",
-        "hash_enc": "",
-        "mtime": "1655059365",
-        "size": "7973034043",
-        "size_enc": 0
+        "hash_enc": "9099f1c927619bead4e9e5c8cf15a477",
+        "mtime": 1738639881,
+        "size": 7973034043,
+        "size_enc": 7974980810
     },
     {
         "dir": "Roms/Computer/Disc/W/Wetrix (USA)",
         "filename": "Wetrix (USA).chd",
         "filename_enc": "957774bea58f35c5a52bd9e36e9af995.enc",
         "hash": "d69c36ebbea8b45a",
-        "hash_enc": "",
-        "mtime": "1655058759",
-        "size": "318784062",
-        "size_enc": 0
+        "hash_enc": "afb31c723da0a849aa90b7558315e38e",
+        "mtime": 1738643041,
+        "size": 318784062,
+        "size_enc": 318784151
     },
     {
         "dir": "Roms/Computer/Disc/W/Wheel of Fortune Deluxe (USA)",
         "filename": "Wheel of Fortune Deluxe (USA).chd",
         "filename_enc": "db3ff6727f31cfbf303264f69a7d1649.enc",
         "hash": "51e4d5f1c6630617",
-        "hash_enc": "",
-        "mtime": "1705267258",
-        "size": "66856489",
-        "size_enc": 0
+        "hash_enc": "93734b2770d0af4b20b242a7b8931efd",
+        "mtime": 1738643160,
+        "size": 66856489,
+        "size_enc": 66856595
     },
     {
         "dir": "Roms/Computer/Disc/W/Witchaven (USA)",
         "filename": "Witchaven (USA).chd",
         "filename_enc": "fef0babb59c4c0d03f0336e543462c5a.enc",
         "hash": "57e4c684972b9a08",
-        "hash_enc": "",
-        "mtime": "1655045762",
-        "size": "93984666",
-        "size_enc": 0
+        "hash_enc": "6743260b53489fecff412cebd81b3055",
+        "mtime": 1738643348,
+        "size": 93984666,
+        "size_enc": 93984758
     },
     {
         "dir": "Roms/Computer/Disc/W/Witchaven II - Blood Vengeance (USA)",
         "filename": "Witchaven II - Blood Vengeance (USA).chd",
         "filename_enc": "2d66831be14a3c857f0f65610f3a9c34.enc",
         "hash": "075f1ca34b9531cb",
-        "hash_enc": "",
-        "mtime": "1655046942",
-        "size": "170102621",
-        "size_enc": 0
+        "hash_enc": "dc0b5c0a40e339b5e710dc05ddac6595",
+        "mtime": 1738643387,
+        "size": 170102621,
+        "size_enc": 170102734
     },
     {
         "dir": "Roms/Computer/Disc/W/World of Goo (USA)",
         "filename": "World of Goo (USA).chd",
         "filename_enc": "b59539429737539f93bfcd7261e90b11.enc",
         "hash": "f2fab1216dd16f70",
-        "hash_enc": "",
-        "mtime": "1655056772",
-        "size": "65633852",
-        "size_enc": 0
+        "hash_enc": "9733d56734317da40835dbc01f5e2272",
+        "mtime": 1738643453,
+        "size": 65633852,
+        "size_enc": 65633947
     },
     {
         "dir": "Roms/Computer/Disc/Z/Z - The Game (USA)",
         "filename": "Z - The Game (USA).chd",
         "filename_enc": "6dae41079379f2cd08ab0eeae604aed1.enc",
         "hash": "a4f2322f226d2fab",
-        "hash_enc": "",
-        "mtime": "1655046043",
-        "size": "306070869",
-        "size_enc": 0
+        "hash_enc": "9f428eae113194bb137b80879c860567",
+        "mtime": 1738643484,
+        "size": 306070869,
+        "size_enc": 306070964
     }
 ]
