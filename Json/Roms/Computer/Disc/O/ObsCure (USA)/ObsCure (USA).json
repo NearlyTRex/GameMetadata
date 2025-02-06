@@ -8,8 +8,8 @@
         "launch": [],
         "name": "ObsCure",
         "paths": [
-            "GAME_INSTALL_DIR/tm_input.ipt",
-            "GAME_INSTALL_DIR/Save"
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/tm_input.ipt"
         ],
         "setup": {}
     },
