@@ -2,7 +2,9 @@
     "disc": {
         "appid": "01bef80c-8047-4c1c-b13a-8ee2c8ff91a3",
         "appname": "typoman_revised",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Brainseed Factory/Typoman"
+        ],
         "launch": [],
         "name": "Typoman - Revised",
         "paths": [],

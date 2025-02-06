@@ -2,7 +2,9 @@
     "disc": {
         "appid": "44a3e6d3-184e-4410-aa55-17e606d2c05c",
         "appname": "star_wars_jedi_knight_dark_forces_ii",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/LucasArts Entertainment Company/JediKnight/v1.0"
+        ],
         "launch": [],
         "name": "Star Wars - Jedi Knight - Dark Forces II",
         "paths": [],

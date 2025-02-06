@@ -12,8 +12,8 @@
         ],
         "name": "Nocturne",
         "paths": [
-            "GAME_INSTALL_DIR/save",
-            "GAME_INSTALL_DIR/SYSTEM"
+            "GAME_INSTALL_DIR/SYSTEM",
+            "GAME_INSTALL_DIR/save"
         ],
         "setup": {
             "install": [

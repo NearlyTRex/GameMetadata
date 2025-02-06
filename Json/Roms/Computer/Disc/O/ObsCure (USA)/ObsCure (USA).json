@@ -2,10 +2,15 @@
     "disc": {
         "appid": "953cf3d7-8852-4bf1-853b-0d858eb1afbe",
         "appname": "obscure",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/Software/WOW6432Node/MC2/Obscure"
+        ],
         "launch": [],
         "name": "ObsCure",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/tm_input.ipt",
+            "GAME_INSTALL_DIR/Save"
+        ],
         "setup": {}
     },
     "files": [

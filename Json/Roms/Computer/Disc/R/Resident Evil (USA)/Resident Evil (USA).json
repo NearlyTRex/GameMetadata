@@ -2,7 +2,9 @@
     "disc": {
         "appid": "aedc4695-9e32-4e80-bd80-08c9bce0889b",
         "appname": "resident_evil",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/Software/capcom/RESIDENT EVIL"
+        ],
         "launch": [
             {
                 "cwd": "HDD_MAIN_ROOT/ResidentEvil",

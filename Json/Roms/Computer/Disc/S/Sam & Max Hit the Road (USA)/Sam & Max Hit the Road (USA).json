@@ -2,7 +2,9 @@
     "disc": {
         "appid": "b795ded1-7527-4ffd-8e86-ce5b5d399eab",
         "appname": "sam_max_hit_the_road",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/LucasArts/Sam & Max Hit the Road"
+        ],
         "launch": [
             {
                 "is_scumm": true
