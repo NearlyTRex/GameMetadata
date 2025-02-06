@@ -2,10 +2,14 @@
     "disc": {
         "appid": "387e9689-7de5-4935-870e-f88b97b9f912",
         "appname": "armello",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/League of Geeks/Armello"
+        ],
         "launch": [],
         "name": "Armello",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/League of Geeks/Armello"
+        ],
         "setup": {
             "install": [
                 {

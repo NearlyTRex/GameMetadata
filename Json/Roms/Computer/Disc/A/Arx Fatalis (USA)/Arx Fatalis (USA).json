@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Arx Fatalis",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/cfg_default.ini"
+        ],
         "setup": {
             "install": [
                 {

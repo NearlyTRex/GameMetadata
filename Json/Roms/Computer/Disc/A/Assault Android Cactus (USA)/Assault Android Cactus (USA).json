@@ -2,10 +2,14 @@
     "disc": {
         "appid": "274c25b0-1150-47dc-9239-af6a91bd82aa",
         "appname": "assault_android_cactus",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Witch Beam/Assault Android Cactus"
+        ],
         "launch": [],
         "name": "Assault Android Cactus",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/cactus_Data/game0a.sav"
+        ],
         "setup": {
             "preinstall": [
                 {

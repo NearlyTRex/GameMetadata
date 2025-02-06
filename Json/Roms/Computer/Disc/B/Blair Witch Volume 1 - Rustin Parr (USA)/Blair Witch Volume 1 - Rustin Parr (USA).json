@@ -7,8 +7,8 @@
         "launch": [],
         "name": "Blair Witch Volume 1 - Rustin Parr",
         "paths": [
-            "GAME_INSTALL_DIR/save",
-            "GAME_INSTALL_DIR/SYSTEM"
+            "GAME_INSTALL_DIR/SYSTEM",
+            "GAME_INSTALL_DIR/save"
         ],
         "setup": {
             "install": [

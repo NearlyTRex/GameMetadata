@@ -10,7 +10,9 @@
             }
         ],
         "name": "Amnesia - The Dark Descent",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Amnesia"
+        ],
         "setup": {
             "install": [
                 {

@@ -9,7 +9,11 @@
             }
         ],
         "name": "The Beast Within - A Gabriel Knight Mystery",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/GK2SG.*",
+            "GAME_INSTALL_DIR/RESOURCE.CFG",
+            "GAME_INSTALL_DIR/RESOURCE.WIN"
+        ],
         "setup": {
             "preinstall": [
                 {

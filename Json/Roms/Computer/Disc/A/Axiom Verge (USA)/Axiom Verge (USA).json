@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Axiom Verge",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/SavedGames/AxiomVerge"
+        ],
         "setup": {
             "preinstall": [
                 {

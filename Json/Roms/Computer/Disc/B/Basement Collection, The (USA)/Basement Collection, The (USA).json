@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "The Basement Collection",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/META-INF/AIR",
+            "USER_PROFILE_DIR/AppData/Roaming/collection"
+        ],
         "setup": {
             "install": [
                 {

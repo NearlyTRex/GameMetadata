@@ -2,10 +2,14 @@
     "disc": {
         "appid": "e58d5574-55ca-4ea7-9dcd-ebf1fb12dda0",
         "appname": "call_of_cthulhu_dark_corners_of_the_earth",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Bethesda Softworks/Call Of Cthulhu DCoTE/Settings"
+        ],
         "launch": [],
         "name": "Call of Cthulhu - Dark Corners of the Earth",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Bethesda/Call of Cthulhu"
+        ],
         "setup": {
             "install": [
                 {

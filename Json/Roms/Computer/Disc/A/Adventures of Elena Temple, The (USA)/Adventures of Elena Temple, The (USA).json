@@ -10,7 +10,9 @@
             }
         ],
         "name": "The Adventures of Elena Temple",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/GrimTalin/The Adventures of Elena Temple"
+        ],
         "setup": {
             "preinstall": [
                 {

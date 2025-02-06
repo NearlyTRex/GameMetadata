@@ -5,7 +5,11 @@
         "keys": [],
         "launch": [],
         "name": "Age of Mythology",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Startup/Persistent.cfg",
+            "GAME_INSTALL_DIR/Users",
+            "GAME_INSTALL_DIR/savegame"
+        ],
         "setup": {
             "install": [
                 {

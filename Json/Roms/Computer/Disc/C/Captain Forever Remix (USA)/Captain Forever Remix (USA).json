@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Captain Forever Remix",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/cap4ever_Data/ShipData/Favorites/*.cfs",
+            "USER_PROFILE_DIR/AppData/LocalLow/Pixelsaurus Games/Captain Forever Remix"
+        ],
         "setup": {
             "preinstall": [
                 {

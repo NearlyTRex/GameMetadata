@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Curse - The Eye of Isis",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Game.cfg"
+        ],
         "setup": {
             "install": [
                 {

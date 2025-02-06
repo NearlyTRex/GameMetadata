@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Darwinia",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Darwinia"
+        ],
         "setup": {
             "install": [
                 {

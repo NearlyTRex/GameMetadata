@@ -11,7 +11,11 @@
             }
         ],
         "name": "Ancients II - Approaching Evil",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/*.KAR",
+            "GAME_INSTALL_DIR/SAVEGAME.DTA",
+            "GAME_INSTALL_DIR/SETUP.DTA"
+        ],
         "setup": {
             "install": [
                 {

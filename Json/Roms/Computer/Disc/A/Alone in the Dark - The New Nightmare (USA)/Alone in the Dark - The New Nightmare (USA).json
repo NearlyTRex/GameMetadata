@@ -2,10 +2,14 @@
     "disc": {
         "appid": "929dbda3-54bb-4de9-878c-20e307fe9452",
         "appname": "alone_in_the_dark_the_new_nightmare",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Spiral House/launch/Data"
+        ],
         "launch": [],
         "name": "Alone in the Dark - The New Nightmare",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/_Alone4_.000.sav"
+        ],
         "setup": {
             "install": [
                 {

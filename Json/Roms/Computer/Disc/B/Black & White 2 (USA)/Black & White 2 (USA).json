@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Black & White 2",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Black & White 2"
+        ],
         "setup": {
             "install": [
                 {

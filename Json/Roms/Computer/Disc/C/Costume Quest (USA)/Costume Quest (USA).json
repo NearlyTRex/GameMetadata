@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Costume Quest",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/CostumeQuest"
+        ],
         "setup": {
             "install": [
                 {

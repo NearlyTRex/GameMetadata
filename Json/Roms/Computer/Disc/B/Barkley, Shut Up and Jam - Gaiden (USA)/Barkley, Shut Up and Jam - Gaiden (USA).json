@@ -10,7 +10,11 @@
             }
         ],
         "name": "Barkley, Shut Up and Jam - Gaiden",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Save*.sav",
+            "GAME_INSTALL_DIR/config.txt",
+            "GAME_INSTALL_DIR/controls.txt"
+        ],
         "setup": {
             "preinstall": [
                 {

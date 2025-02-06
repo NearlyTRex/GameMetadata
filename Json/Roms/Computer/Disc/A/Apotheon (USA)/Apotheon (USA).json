@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Apotheon",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Content/Config-7.cfg",
+            "GAME_INSTALL_DIR/Content/SavedGames"
+        ],
         "setup": {
             "preinstall": [
                 {

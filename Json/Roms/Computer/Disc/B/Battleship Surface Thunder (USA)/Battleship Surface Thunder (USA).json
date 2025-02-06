@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Battleship Surface Thunder",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/DisplaySettings.ini"
+        ],
         "setup": {
             "install": [
                 {
