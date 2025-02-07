@@ -11,7 +11,9 @@
             }
         ],
         "name": "Street Fighter 2",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/config.ini"
+        ],
         "setup": {
             "install": [
                 {

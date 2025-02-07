@@ -10,7 +10,9 @@
             }
         ],
         "name": "Quest For Infamy",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Quest for Infamy v1.1"
+        ],
         "setup": {
             "preinstall": [
                 {

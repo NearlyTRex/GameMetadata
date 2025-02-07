@@ -12,7 +12,8 @@
         ],
         "name": "Resident Evil 4",
         "paths": [
-            "GAME_INSTALL_DIR/SaveData.dat"
+            "GAME_INSTALL_DIR/SaveData.dat",
+            "GAME_INSTALL_DIR/SetupTool.ini"
         ],
         "setup": {
             "install": [

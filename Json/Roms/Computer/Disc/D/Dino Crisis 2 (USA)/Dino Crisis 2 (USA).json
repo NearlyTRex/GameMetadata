@@ -6,7 +6,7 @@
         "launch": [],
         "name": "Dino Crisis 2",
         "paths": [
-            "GAME_INSTALL_DIR/SAVE*.DAT",
+            "GAME_INSTALL_DIR/Saves/SAVE*.DAT",
             "GAME_INSTALL_DIR/dino2.cfg"
         ],
         "setup": {

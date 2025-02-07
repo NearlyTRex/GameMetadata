@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Rive",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Two Tribes/RIVE"
+        ],
         "setup": {
             "preinstall": [
                 {

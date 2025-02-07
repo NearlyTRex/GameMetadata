@@ -7,7 +7,8 @@
         "launch": [],
         "name": "Nox",
         "paths": [
-            "GAME_INSTALL_DIR/Save"
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/nox.cfg"
         ],
         "setup": {
             "install": [

@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Small Radios Big Televisions",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/user/save",
+            "GAME_INSTALL_DIR/user/settings"
+        ],
         "setup": {}
     },
     "files": [

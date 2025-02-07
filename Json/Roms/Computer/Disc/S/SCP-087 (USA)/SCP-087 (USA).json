@@ -10,7 +10,9 @@
             }
         ],
         "name": "SCP-087",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/SCP087_Data"
+        ],
         "setup": {
             "preinstall": [
                 {

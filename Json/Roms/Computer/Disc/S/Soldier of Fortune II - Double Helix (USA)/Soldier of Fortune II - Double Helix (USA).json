@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Soldier of Fortune II - Double Helix",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/base"
+        ],
         "setup": {
             "install": [
                 {

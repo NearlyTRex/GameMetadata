@@ -11,7 +11,10 @@
             }
         ],
         "name": "Star Trek - The Next Generation - A Final Unity",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/SAVEGAME/SAVEGAME.*",
+            "GAME_INSTALL_DIR/STTNG.INI"
+        ],
         "setup": {
             "install": [
                 {

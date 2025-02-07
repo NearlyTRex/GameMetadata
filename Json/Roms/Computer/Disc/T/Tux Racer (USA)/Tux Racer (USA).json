@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Tux Racer",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/config"
+        ],
         "setup": {
             "install": [
                 {

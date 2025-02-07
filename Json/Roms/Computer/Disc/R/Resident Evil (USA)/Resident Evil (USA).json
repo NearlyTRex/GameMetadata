@@ -13,7 +13,9 @@
             }
         ],
         "name": "Resident Evil",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE/savedat*.dat"
+        ],
         "setup": {
             "preinstall": [
                 {

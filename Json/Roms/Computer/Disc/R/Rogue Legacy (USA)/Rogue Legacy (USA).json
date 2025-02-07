@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Rogue Legacy",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Rogue Legacy",
+            "USER_PROFILE_DIR/Documents/SavedGames/RogueLegacy"
+        ],
         "setup": {
             "install": [
                 {

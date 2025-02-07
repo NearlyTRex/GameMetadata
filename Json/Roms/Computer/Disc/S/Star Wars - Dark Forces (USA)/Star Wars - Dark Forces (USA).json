@@ -11,7 +11,10 @@
             }
         ],
         "name": "Star Wars - Dark Forces",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/DARKPILO.CFG",
+            "GAME_INSTALL_DIR/JEDI.CFG"
+        ],
         "setup": {
             "install": [
                 {

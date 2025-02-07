@@ -10,7 +10,9 @@
             }
         ],
         "name": "Street Fighter X Mega Man",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/keyconfig.txt"
+        ],
         "setup": {
             "preinstall": [
                 {

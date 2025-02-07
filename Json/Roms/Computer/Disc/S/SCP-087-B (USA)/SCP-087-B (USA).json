@@ -10,7 +10,9 @@
             }
         ],
         "name": "SCP-087-B",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/options.ini"
+        ],
         "setup": {
             "preinstall": [
                 {

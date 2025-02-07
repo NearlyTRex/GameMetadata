@@ -10,7 +10,9 @@
             }
         ],
         "name": "SkiFree",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/VirtualStore/entpack.ini"
+        ],
         "setup": {
             "preinstall": [
                 {

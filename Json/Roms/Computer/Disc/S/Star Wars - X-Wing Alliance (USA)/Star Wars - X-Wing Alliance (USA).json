@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Star Wars - X-Wing Alliance",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/*.plt",
+            "GAME_INSTALL_DIR/config.cfg"
+        ],
         "setup": {
             "install": [
                 {

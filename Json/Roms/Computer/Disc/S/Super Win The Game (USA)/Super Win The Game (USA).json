@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Super Win The Game",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Super Win the Game"
+        ],
         "setup": {
             "install": [
                 {

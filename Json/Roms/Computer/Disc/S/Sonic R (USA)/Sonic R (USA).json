@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Sonic R",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/sonicr.inf",
+            "GAME_INSTALL_DIR/sonicr.sav"
+        ],
         "setup": {
             "install": [
                 {

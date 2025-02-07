@@ -10,7 +10,9 @@
             }
         ],
         "name": "Owlboy",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Owlboy"
+        ],
         "setup": {
             "preinstall": [
                 {

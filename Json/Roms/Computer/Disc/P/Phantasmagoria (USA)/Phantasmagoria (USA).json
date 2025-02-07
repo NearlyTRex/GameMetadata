@@ -9,7 +9,10 @@
             }
         ],
         "name": "Phantasmagoria",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Phant/PHANTSG.*",
+            "GAME_INSTALL_DIR/RESOURCE.CFG"
+        ],
         "setup": {
             "preinstall": [
                 {

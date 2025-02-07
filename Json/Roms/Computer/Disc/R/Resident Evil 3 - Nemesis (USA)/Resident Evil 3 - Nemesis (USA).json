@@ -11,7 +11,9 @@
             }
         ],
         "name": "Resident Evil 3 - Nemesis",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/bio3.ini"
+        ],
         "setup": {
             "preinstall": [
                 {

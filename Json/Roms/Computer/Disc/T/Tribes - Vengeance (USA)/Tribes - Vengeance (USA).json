@@ -5,7 +5,11 @@
         "keys": [],
         "launch": [],
         "name": "Tribes - Vengeance",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Content/Saves",
+            "GAME_INSTALL_DIR/Content/System",
+            "GAME_INSTALL_DIR/Program/Bin"
+        ],
         "setup": {
             "install": [
                 {

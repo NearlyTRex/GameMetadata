@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Stories - The Path of Destinies",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Stories"
+        ],
         "setup": {
             "preinstall": [
                 {

@@ -6,7 +6,8 @@
         "launch": [],
         "name": "Guacamelee - Super Turbo Championship Edition",
         "paths": [
-            "USER_PROFILE_DIR/Documents/GuacameleeSTCE"
+            "USER_PROFILE_DIR/Documents/GuacameleeSTCE",
+            "USER_PROFILE_DIR/Documents/GuacameleeSTCE_EGS"
         ],
         "setup": {
             "install": [

@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Rise of Nations - Rise of Legends",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Rise Of Legends"
+        ],
         "setup": {
             "install": [
                 {

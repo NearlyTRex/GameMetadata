@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Torchlight II",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Runic Games/Torchlight 2"
+        ],
         "setup": {
             "install": [
                 {

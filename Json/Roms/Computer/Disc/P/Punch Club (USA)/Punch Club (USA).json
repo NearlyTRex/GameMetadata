@@ -12,7 +12,9 @@
             }
         ],
         "name": "Punch Club",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Lazy Bear Games/Punch Club"
+        ],
         "setup": {
             "preinstall": [
                 {

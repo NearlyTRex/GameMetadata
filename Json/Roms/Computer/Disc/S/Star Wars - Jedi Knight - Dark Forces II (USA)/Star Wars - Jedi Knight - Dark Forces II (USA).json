@@ -7,7 +7,10 @@
         ],
         "launch": [],
         "name": "Star Wars - Jedi Knight - Dark Forces II",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Controls",
+            "GAME_INSTALL_DIR/player"
+        ],
         "setup": {
             "install": [
                 {

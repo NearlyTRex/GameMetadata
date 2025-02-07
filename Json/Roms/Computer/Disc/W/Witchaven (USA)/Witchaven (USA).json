@@ -11,7 +11,13 @@
             }
         ],
         "name": "Witchaven",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/PREF.DAT",
+            "GAME_INSTALL_DIR/SETUP.DAT",
+            "GAME_INSTALL_DIR/SETUP.INI",
+            "GAME_INSTALL_DIR/SVGM*.MAP",
+            "GAME_INSTALL_DIR/SVGN*.DAT"
+        ],
         "setup": {
             "install": [
                 {

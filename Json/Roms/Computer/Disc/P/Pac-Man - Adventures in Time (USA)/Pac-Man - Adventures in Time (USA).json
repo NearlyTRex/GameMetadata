@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Pac-Man - Adventures in Time",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/options.dat",
+            "GAME_INSTALL_DIR/slot#.dat"
+        ],
         "setup": {}
     },
     "files": [

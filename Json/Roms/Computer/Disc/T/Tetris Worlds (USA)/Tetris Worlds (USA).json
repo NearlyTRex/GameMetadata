@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Tetris Worlds",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/ASSETS/PC/ANY_LANG/MISC/TWConfig.ini",
+            "GAME_INSTALL_DIR/Save/TWPLINFO.dat"
+        ],
         "setup": {
             "install": [
                 {

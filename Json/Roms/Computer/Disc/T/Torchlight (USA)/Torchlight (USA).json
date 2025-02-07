@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Torchlight",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/runic games/torchlight"
+        ],
         "setup": {
             "install": [
                 {

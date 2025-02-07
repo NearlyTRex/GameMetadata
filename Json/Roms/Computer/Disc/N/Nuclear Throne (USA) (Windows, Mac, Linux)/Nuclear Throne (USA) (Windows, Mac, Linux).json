@@ -10,7 +10,9 @@
             }
         ],
         "name": "Nuclear Throne",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/nuclearthrone"
+        ],
         "setup": {
             "preinstall": [
                 {

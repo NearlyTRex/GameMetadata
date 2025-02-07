@@ -12,7 +12,8 @@
         ],
         "name": "Silent Hill 2",
         "paths": [
-            "GAME_INSTALL_DIR/data/save/Folder 01"
+            "GAME_INSTALL_DIR/data/save/Folder 01",
+            "USER_PROFILE_DIR/AppData/Local/SilentHill2"
         ],
         "setup": {
             "install": [

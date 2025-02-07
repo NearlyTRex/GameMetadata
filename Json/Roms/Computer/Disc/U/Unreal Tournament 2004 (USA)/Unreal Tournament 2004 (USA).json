@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "Unreal Tournament 2004",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Saves",
+            "GAME_INSTALL_DIR/System/*.ini"
+        ],
         "setup": {
             "install": [
                 {

@@ -5,7 +5,10 @@
         "keys": [],
         "launch": [],
         "name": "The Stanley Parable",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/thestanleyparable/cfg",
+            "GAME_INSTALL_DIR/thestanleyparable/save"
+        ],
         "setup": {
             "install": [
                 {
