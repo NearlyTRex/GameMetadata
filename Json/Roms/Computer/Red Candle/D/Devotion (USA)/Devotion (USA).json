@@ -9,7 +9,13 @@
     "redcandle": {
         "appid": "eddae276-fe2c-4dd8-8cc0-cc516175702b",
         "appname": "devotion",
-        "name": "Devotion"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/RedCandleGames/Devotion"
+        ],
+        "name": "Devotion",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/RedCandleGames/Devotion"
+        ]
     },
     "transform_file": "Devotion(412cce30).exe"
 }

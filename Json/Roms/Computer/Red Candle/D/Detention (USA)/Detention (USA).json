@@ -9,7 +9,13 @@
     "redcandle": {
         "appid": "743d640b-79a1-479e-9aae-f7cb1479ac9d",
         "appname": "detention",
-        "name": "Detention"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/RedCandleGames/Detention"
+        ],
+        "name": "Detention",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/RedCandleGames/Detention"
+        ]
     },
     "transform_file": "Detention-windows(7821293f).exe"
 }
