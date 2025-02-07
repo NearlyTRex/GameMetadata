@@ -7,6 +7,10 @@
         "appid": "5691315b-08e0-435e-b469-486d9d35eb12",
         "appname": "xenophage-alien-bloodsport",
         "appurl": "https://www.zoom-platform.com/product/xenophage-alien-bloodsport",
-        "name": "Xenophage - Alien Bloodsport"
+        "keys": [],
+        "name": "Xenophage - Alien Bloodsport",
+        "paths": [
+            "GAME_INSTALL_DIR/XPR.INI"
+        ]
     }
 }

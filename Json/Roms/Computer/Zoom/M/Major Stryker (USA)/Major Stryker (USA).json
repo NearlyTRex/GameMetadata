@@ -11,6 +11,11 @@
         "appid": "18a8598a-48bc-4b05-bce7-fac9b1040d09",
         "appname": "major-stryker",
         "appurl": "https://www.zoom-platform.com/product/major-stryker",
-        "name": "Major Stryker"
+        "keys": [],
+        "name": "Major Stryker",
+        "paths": [
+            "GAME_INSTALL_DIR/CONFIG.MS",
+            "GAME_INSTALL_DIR/SR*.MS"
+        ]
     }
 }

@@ -11,6 +11,12 @@
         "appid": "326c4d7c-aae8-40f2-83d8-34ff7048efcc",
         "appname": "arctic-adventure",
         "appurl": "https://www.zoom-platform.com/product/arctic-adventure",
-        "name": "Arctic Adventure"
+        "keys": [],
+        "name": "Arctic Adventure",
+        "paths": [
+            "GAME_INSTALL_DIR/AA*.CFG",
+            "GAME_INSTALL_DIR/AA*.HS",
+            "GAME_INSTALL_DIR/AA*.SAV"
+        ]
     }
 }

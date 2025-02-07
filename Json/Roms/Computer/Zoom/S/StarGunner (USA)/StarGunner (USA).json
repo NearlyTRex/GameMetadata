@@ -13,6 +13,12 @@
         "appid": "45ecfae8-0668-41b5-bf28-e06df0dda1f4",
         "appname": "stargunner",
         "appurl": "https://www.zoom-platform.com/product/stargunner",
-        "name": "StarGunner"
+        "keys": [],
+        "name": "StarGunner",
+        "paths": [
+            "GAME_INSTALL_DIR/STARGUN.CFG",
+            "GAME_INSTALL_DIR/STARGUN.HI",
+            "GAME_INSTALL_DIR/STARGUN.SAV"
+        ]
     }
 }

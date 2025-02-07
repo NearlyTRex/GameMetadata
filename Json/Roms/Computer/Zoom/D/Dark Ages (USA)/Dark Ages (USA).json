@@ -11,6 +11,12 @@
         "appid": "216787de-7c65-4baa-aac1-b47726b62244",
         "appname": "dark-ages",
         "appurl": "https://www.zoom-platform.com/product/dark-ages",
-        "name": "Dark Ages"
+        "keys": [],
+        "name": "Dark Ages",
+        "paths": [
+            "GAME_INSTALL_DIR/HIGHSCOR.DA1",
+            "GAME_INSTALL_DIR/KEYBOARD.CFG",
+            "GAME_INSTALL_DIR/SAVEGAME.DA1"
+        ]
     }
 }

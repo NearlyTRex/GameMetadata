@@ -17,6 +17,11 @@
         "appid": "8794681a-3182-4883-85ee-c90718d4f5cd",
         "appname": "terminal-velocity",
         "appurl": "https://www.zoom-platform.com/product/terminal-velocity",
-        "name": "Terminal Velocity"
+        "keys": [],
+        "name": "Terminal Velocity",
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE*.DAT",
+            "GAME_INSTALL_DIR/VOX.INI"
+        ]
     }
 }

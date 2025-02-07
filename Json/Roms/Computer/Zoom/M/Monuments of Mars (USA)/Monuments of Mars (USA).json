@@ -11,6 +11,12 @@
         "appid": "8268332c-a9d1-46e9-92de-4689b0994b25",
         "appname": "monuments-of-mars",
         "appurl": "https://www.zoom-platform.com/product/monuments-of-mars",
-        "name": "Monuments of Mars"
+        "keys": [],
+        "name": "Monuments of Mars",
+        "paths": [
+            "GAME_INSTALL_DIR/MARS*.KBD",
+            "GAME_INSTALL_DIR/MARS1.HS",
+            "GAME_INSTALL_DIR/MARS1.SV*"
+        ]
     }
 }

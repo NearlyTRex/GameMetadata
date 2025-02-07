@@ -11,6 +11,10 @@
         "appid": "b8ffa846-6b7d-4d40-b463-75b171e4e88b",
         "appname": "curse-the-eye-of-isis",
         "appurl": "https://www.zoom-platform.com/product/curse-the-eye-of-isis",
-        "name": "Curse - The Eye of Isis"
+        "keys": [],
+        "name": "Curse - The Eye of Isis",
+        "paths": [
+            "GAME_INSTALL_DIR/Game.cfg"
+        ]
     }
 }

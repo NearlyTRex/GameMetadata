@@ -26,6 +26,11 @@
         "appid": "cabe27e5-3588-43b4-9117-357ccbb648ed",
         "appname": "killing-time",
         "appurl": "https://www.zoom-platform.com/product/killing-time",
-        "name": "Killing Time"
+        "keys": [],
+        "name": "Killing Time",
+        "paths": [
+            "GAME_INSTALL_DIR/KillTime.cfg",
+            "GAME_INSTALL_DIR/Savegame.*"
+        ]
     }
 }
