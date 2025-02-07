@@ -8,7 +8,13 @@
     "puppetcombo": {
         "appid": "0d86197a-bfdb-4ce4-8e2b-3eb4c99b293f",
         "appname": "christmas_massacre",
-        "name": "Christmas Massacre"
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Puppet Combo/Christmas Massacre"
+        ],
+        "name": "Christmas Massacre",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Puppet Combo/Christmas Massacre"
+        ]
     },
     "transform_file": "Christmas Massacre 1.11 (Windows).zip"
 }

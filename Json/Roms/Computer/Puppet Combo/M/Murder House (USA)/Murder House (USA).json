@@ -6,7 +6,11 @@
     "puppetcombo": {
         "appid": "fbc0f9cc-723a-40fe-87ca-0ceaa6debef0",
         "appname": "murder_house",
-        "name": "Murder House"
+        "keys": [],
+        "name": "Murder House",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Vague Scenario LLC_/Murder House"
+        ]
     },
     "transform_file": "Murder House (Demo 0.03) Windows.zip"
 }

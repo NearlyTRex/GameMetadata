@@ -39,7 +39,11 @@
     "puppetcombo": {
         "appid": "b117b88a-5512-41b5-803b-32bdd60ef033",
         "appname": "stay_out_of_the_house",
-        "name": "Stay Out of the House"
+        "keys": [],
+        "name": "Stay Out of the House",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/PuppetCombo/Stay out of the House"
+        ]
     },
     "transform_file": "(Unstable) Stay out of the House 0.9.2.11 (Windows).zip"
 }

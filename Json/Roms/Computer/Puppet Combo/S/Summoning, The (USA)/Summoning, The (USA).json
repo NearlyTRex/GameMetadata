@@ -7,7 +7,11 @@
     "puppetcombo": {
         "appid": "00fe7765-55c7-44e0-bcb5-24b57e40c90c",
         "appname": "the_summoning",
-        "name": "The Summoning"
+        "keys": [],
+        "name": "The Summoning",
+        "paths": [
+            "GAME_INSTALL_DIR/SAVES"
+        ]
     },
     "transform_file": "TheSummoning1.0.1FullScreen.zip"
 }
