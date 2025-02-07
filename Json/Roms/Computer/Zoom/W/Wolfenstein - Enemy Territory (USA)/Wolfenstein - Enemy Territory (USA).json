@@ -1,6 +1,16 @@
 {
+    "extra": [
+        "Wolfenstein-Enemy-Territory-English-HTML-Manual-1.0.zip"
+    ],
+    "files": [
+        "Wolfenstein-Enemy-Territory-English-Setup-1.1.exe",
+        "extra/Wolfenstein-Enemy-Territory-English-HTML-Manual-1.0.zip"
+    ],
+    "transform_file": "Wolfenstein-Enemy-Territory-English-Setup-1.1.exe",
     "zoom": {
+        "appid": "b0cfebc9-8f4d-46f5-9f7b-3430f0a0c67d",
         "appname": "wolfenstein-enemy-territory",
-        "appurl": "https://www.zoom-platform.com/product/wolfenstein-enemy-territory"
+        "appurl": "https://www.zoom-platform.com/product/wolfenstein-enemy-territory",
+        "name": "Wolfenstein - Enemy Territory"
     }
 }

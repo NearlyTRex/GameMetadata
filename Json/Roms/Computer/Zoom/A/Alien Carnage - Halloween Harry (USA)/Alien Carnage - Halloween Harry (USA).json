@@ -3,12 +3,14 @@
         "Alien-Carnage-English-Manual-1.0.pdf"
     ],
     "files": [
-        "Alien-Carnage-Halloween-Harry-English-Setup-1.1.exe",
+        "Alien-Carnage-Halloween-Harry-English-Setup-1.2.1.exe",
         "extra/Alien-Carnage-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Alien-Carnage-Halloween-Harry-English-Setup-1.1.exe",
+    "transform_file": "Alien-Carnage-Halloween-Harry-English-Setup-1.2.1.exe",
     "zoom": {
+        "appid": "35e7726b-3328-446d-87db-04135f15b1c6",
         "appname": "alien-carnage-halloween-harry",
-        "appurl": "https://www.zoom-platform.com/product/alien-carnage-halloween-harry"
+        "appurl": "https://www.zoom-platform.com/product/alien-carnage-halloween-harry",
+        "name": "Alien Carnage - Halloween Harry"
     }
 }

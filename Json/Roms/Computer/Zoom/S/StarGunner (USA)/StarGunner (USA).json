@@ -1,16 +1,18 @@
 {
     "extra": [
-        "StarGunner-MP3-Soundtrack-1.0.zip",
-        "StarGunner-Manual-1.0.pdf"
+        "StarGunner-English-Manual-1.0.pdf",
+        "StarGunner-MP3-Soundtrack-1.0.zip"
     ],
     "files": [
-        "StarGunner-English-Setup-1.2.exe",
-        "extra/StarGunner-MP3-Soundtrack-1.0.zip",
-        "extra/StarGunner-Manual-1.0.pdf"
+        "StarGunner-English-Setup-1.3.exe",
+        "extra/StarGunner-English-Manual-1.0.pdf",
+        "extra/StarGunner-MP3-Soundtrack-1.0.zip"
     ],
-    "transform_file": "StarGunner-English-Setup-1.2.exe",
+    "transform_file": "StarGunner-English-Setup-1.3.exe",
     "zoom": {
+        "appid": "45ecfae8-0668-41b5-bf28-e06df0dda1f4",
         "appname": "stargunner",
-        "appurl": "https://www.zoom-platform.com/product/stargunner"
+        "appurl": "https://www.zoom-platform.com/product/stargunner",
+        "name": "StarGunner"
     }
 }

@@ -3,12 +3,14 @@
         "Dark-Ages-English-Manual-1.0.pdf"
     ],
     "files": [
-        "Dark-Ages-English-Setup-1.0.exe",
+        "Dark-Ages-English-Setup-1.1.exe",
         "extra/Dark-Ages-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Dark-Ages-English-Setup-1.0.exe",
+    "transform_file": "Dark-Ages-English-Setup-1.1.exe",
     "zoom": {
+        "appid": "216787de-7c65-4baa-aac1-b47726b62244",
         "appname": "dark-ages",
-        "appurl": "https://www.zoom-platform.com/product/dark-ages"
+        "appurl": "https://www.zoom-platform.com/product/dark-ages",
+        "name": "Dark Ages"
     }
 }

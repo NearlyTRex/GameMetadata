@@ -3,12 +3,14 @@
         "Major-Stryker-English-Manual-1.0.pdf"
     ],
     "files": [
-        "Major-Stryker-English-Setup-1.0.exe",
+        "Major-Stryker-English-Setup-1.1.exe",
         "extra/Major-Stryker-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Major-Stryker-English-Setup-1.0.exe",
+    "transform_file": "Major-Stryker-English-Setup-1.1.exe",
     "zoom": {
+        "appid": "18a8598a-48bc-4b05-bce7-fac9b1040d09",
         "appname": "major-stryker",
-        "appurl": "https://www.zoom-platform.com/product/major-stryker"
+        "appurl": "https://www.zoom-platform.com/product/major-stryker",
+        "name": "Major Stryker"
     }
 }

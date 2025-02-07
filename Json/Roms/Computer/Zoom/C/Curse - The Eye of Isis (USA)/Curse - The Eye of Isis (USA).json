@@ -1,10 +1,16 @@
 {
+    "extra": [
+        "Curse-The-Eye-Of-Isis-English-Manual-1.0.pdf"
+    ],
     "files": [
-        "Curse-The-Eye-of-Isis-English-Setup-1.1.exe"
+        "Curse-The-Eye-of-Isis-English-Setup-1.1.exe",
+        "extra/Curse-The-Eye-Of-Isis-English-Manual-1.0.pdf"
     ],
     "transform_file": "Curse-The-Eye-of-Isis-English-Setup-1.1.exe",
     "zoom": {
+        "appid": "b8ffa846-6b7d-4d40-b463-75b171e4e88b",
         "appname": "curse-the-eye-of-isis",
-        "appurl": "https://www.zoom-platform.com/product/curse-the-eye-of-isis"
+        "appurl": "https://www.zoom-platform.com/product/curse-the-eye-of-isis",
+        "name": "Curse - The Eye of Isis"
     }
 }

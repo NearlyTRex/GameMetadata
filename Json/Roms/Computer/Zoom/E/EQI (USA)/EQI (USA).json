@@ -1,6 +1,12 @@
 {
+    "files": [
+        "EQI-English-Setup-1.0.exe"
+    ],
+    "transform_file": "EQI-English-Setup-1.0.exe",
     "zoom": {
+        "appid": "14aef1a0-299a-4874-92e7-7c621af96c39",
         "appname": "eqi",
-        "appurl": "https://www.zoom-platform.com/product/eqi"
+        "appurl": "https://www.zoom-platform.com/product/eqi",
+        "name": "EQI"
     }
 }

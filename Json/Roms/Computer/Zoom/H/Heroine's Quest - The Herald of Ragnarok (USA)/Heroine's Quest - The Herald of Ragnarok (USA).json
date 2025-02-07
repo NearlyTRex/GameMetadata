@@ -1,6 +1,26 @@
 {
+    "extra": [
+        "Heroine's-Quest-The-Herald-of-Ragnarok-English-Manual-1.0.pdf",
+        "Heroine's-Quest-The-Herald-of-Ragnarok-English-Walkthrough-1.0.pdf",
+        "Heroine's-Quest-The-Herald-of-Ragnarok-Hungarian-Manual-1.0.pdf",
+        "Heroine's-Quest-The-Herald-of-Ragnarok-Physical-Release-Printout-Package-1.0.zip",
+        "Heroine's-Quest-The-Herald-of-Ragnarok-Poster-1.0.png",
+        "Heroine's-Quest-The-Herald-of-Ragnarok-Spanish-Manual-1.0.pdf"
+    ],
+    "files": [
+        "Heroine's-Quest-The-Herald-of-Ragnarok-(v1.2.9)-English-Setup-1.0.exe",
+        "extra/Heroine's-Quest-The-Herald-of-Ragnarok-English-Manual-1.0.pdf",
+        "extra/Heroine's-Quest-The-Herald-of-Ragnarok-English-Walkthrough-1.0.pdf",
+        "extra/Heroine's-Quest-The-Herald-of-Ragnarok-Hungarian-Manual-1.0.pdf",
+        "extra/Heroine's-Quest-The-Herald-of-Ragnarok-Physical-Release-Printout-Package-1.0.zip",
+        "extra/Heroine's-Quest-The-Herald-of-Ragnarok-Poster-1.0.png",
+        "extra/Heroine's-Quest-The-Herald-of-Ragnarok-Spanish-Manual-1.0.pdf"
+    ],
+    "transform_file": "Heroine's-Quest-The-Herald-of-Ragnarok-(v1.2.9)-English-Setup-1.0.exe",
     "zoom": {
+        "appid": "e79fde96-f01c-45bf-9f57-4a6ac1905008",
         "appname": "heroines-quest-the-herald-of-ragnarok",
-        "appurl": "https://www.zoom-platform.com/product/heroines-quest-the-herald-of-ragnarok"
+        "appurl": "https://www.zoom-platform.com/product/heroines-quest-the-herald-of-ragnarok",
+        "name": "Heroine's Quest - The Herald of Ragnarok"
     }
 }

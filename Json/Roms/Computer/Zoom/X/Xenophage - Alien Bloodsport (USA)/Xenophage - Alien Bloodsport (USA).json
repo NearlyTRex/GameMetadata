@@ -1,10 +1,12 @@
 {
     "files": [
-        "Xenophage-Alien-Bloodsport-English-Setup-1.0.exe"
+        "Xenophage-Alien-Bloodsport-English-Setup-1.1.exe"
     ],
-    "transform_file": "Xenophage-Alien-Bloodsport-English-Setup-1.0.exe",
+    "transform_file": "Xenophage-Alien-Bloodsport-English-Setup-1.1.exe",
     "zoom": {
+        "appid": "5691315b-08e0-435e-b469-486d9d35eb12",
         "appname": "xenophage-alien-bloodsport",
-        "appurl": "https://www.zoom-platform.com/product/xenophage-alien-bloodsport"
+        "appurl": "https://www.zoom-platform.com/product/xenophage-alien-bloodsport",
+        "name": "Xenophage - Alien Bloodsport"
     }
 }

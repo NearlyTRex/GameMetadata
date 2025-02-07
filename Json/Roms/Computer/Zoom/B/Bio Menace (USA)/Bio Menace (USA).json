@@ -1,10 +1,16 @@
 {
-    "files": [
-        "Bio-Menace-English-Setup-1.1.exe"
+    "extra": [
+        "Bio-Menace-Map-Editor-(TED5)-1.0.zip"
     ],
-    "transform_file": "Bio-Menace-English-Setup-1.1.exe",
+    "files": [
+        "Bio-Menace-English-Setup-1.2.exe",
+        "extra/Bio-Menace-Map-Editor-(TED5)-1.0.zip"
+    ],
+    "transform_file": "Bio-Menace-English-Setup-1.2.exe",
     "zoom": {
+        "appid": "9b2f0f83-7201-46ae-8016-3036da516dc0",
         "appname": "bio-menace",
-        "appurl": "https://www.zoom-platform.com/product/bio-menace"
+        "appurl": "https://www.zoom-platform.com/product/bio-menace",
+        "name": "Bio Menace"
     }
 }

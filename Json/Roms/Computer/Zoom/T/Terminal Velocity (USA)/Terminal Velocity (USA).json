@@ -1,18 +1,22 @@
 {
     "extra": [
+        "Terminal-Velocity-4K-Wallpaper-1.0.zip",
+        "Terminal-Velocity-English-Manual-1.0.pdf",
         "Terminal-Velocity-Level-Editor-1.0.zip",
-        "Terminal-Velocity-MP3-Soundtrack-1.0.zip",
-        "Terminal-Velocity-Manual-1.0.pdf"
+        "Terminal-Velocity-MP3-Soundtrack-1.0.zip"
     ],
     "files": [
-        "Terminal-Velocity-English-Setup-1.2.exe",
+        "Terminal-Velocity-English-Setup-1.3.exe",
+        "extra/Terminal-Velocity-4K-Wallpaper-1.0.zip",
+        "extra/Terminal-Velocity-English-Manual-1.0.pdf",
         "extra/Terminal-Velocity-Level-Editor-1.0.zip",
-        "extra/Terminal-Velocity-MP3-Soundtrack-1.0.zip",
-        "extra/Terminal-Velocity-Manual-1.0.pdf"
+        "extra/Terminal-Velocity-MP3-Soundtrack-1.0.zip"
     ],
-    "transform_file": "Terminal-Velocity-English-Setup-1.2.exe",
+    "transform_file": "Terminal-Velocity-English-Setup-1.3.exe",
     "zoom": {
+        "appid": "8794681a-3182-4883-85ee-c90718d4f5cd",
         "appname": "terminal-velocity",
-        "appurl": "https://www.zoom-platform.com/product/terminal-velocity"
+        "appurl": "https://www.zoom-platform.com/product/terminal-velocity",
+        "name": "Terminal Velocity"
     }
 }

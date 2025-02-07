@@ -1,10 +1,16 @@
 {
-    "files": [
-        "Monuments-of-Mars-English-Setup-1.1.exe"
+    "extra": [
+        "Monuments-of-Mars-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Monuments-of-Mars-English-Setup-1.1.exe",
+    "files": [
+        "Monuments-of-Mars-English-Setup-1.2.exe",
+        "extra/Monuments-of-Mars-English-Manual-1.0.pdf"
+    ],
+    "transform_file": "Monuments-of-Mars-English-Setup-1.2.exe",
     "zoom": {
+        "appid": "8268332c-a9d1-46e9-92de-4689b0994b25",
         "appname": "monuments-of-mars",
-        "appurl": "https://www.zoom-platform.com/product/monuments-of-mars"
+        "appurl": "https://www.zoom-platform.com/product/monuments-of-mars",
+        "name": "Monuments of Mars"
     }
 }

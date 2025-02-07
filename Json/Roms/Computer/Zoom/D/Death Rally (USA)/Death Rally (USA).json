@@ -1,14 +1,16 @@
 {
     "extra": [
-        "Death-Rally-Manual-1.0.pdf"
+        "Death-Rally-English-Manual-1.0.pdf"
     ],
     "files": [
-        "Death-Rally-English-Setup-1.1.exe",
-        "extra/Death-Rally-Manual-1.0.pdf"
+        "Death-Rally-English-Setup-1.1.1.exe",
+        "extra/Death-Rally-English-Manual-1.0.pdf"
     ],
-    "transform_file": "Death-Rally-English-Setup-1.1.exe",
+    "transform_file": "Death-Rally-English-Setup-1.1.1.exe",
     "zoom": {
+        "appid": "f79da7b2-b45e-45e5-9a21-da30eb629920",
         "appname": "death-rally",
-        "appurl": "https://www.zoom-platform.com/product/death-rally"
+        "appurl": "https://www.zoom-platform.com/product/death-rally",
+        "name": "Death Rally"
     }
 }

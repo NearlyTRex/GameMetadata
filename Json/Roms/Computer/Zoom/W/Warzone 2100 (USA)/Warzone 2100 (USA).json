@@ -1,14 +1,16 @@
 {
     "extra": [
-        "Warzone-2100-Manual-1.0.pdf"
+        "Warzone-2100-English-Manual-1.0.pdf"
     ],
     "files": [
-        "extra/Warzone-2100-Manual-1.0.pdf",
-        "warzone2100_win_x64_installer.exe"
+        "Warzone-2100-(v4.5.5)-English-Setup-1.7.exe",
+        "extra/Warzone-2100-English-Manual-1.0.pdf"
     ],
-    "transform_file": "warzone2100_win_x64_installer.exe",
+    "transform_file": "Warzone-2100-(v4.5.5)-English-Setup-1.7.exe",
     "zoom": {
+        "appid": "82cd2765-a51b-43d9-9c3e-9075be823db7",
         "appname": "warzone-2100",
-        "appurl": "https://www.zoom-platform.com/product/warzone-2100"
+        "appurl": "https://www.zoom-platform.com/product/warzone-2100",
+        "name": "Warzone 2100"
     }
 }

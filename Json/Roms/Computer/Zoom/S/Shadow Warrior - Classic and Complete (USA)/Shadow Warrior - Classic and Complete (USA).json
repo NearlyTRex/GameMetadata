@@ -4,13 +4,15 @@
         "Shadow-Warrior-Classic-Complete-Manual-1.0.pdf"
     ],
     "files": [
-        "Shadow-Warrior-Classic-Complete-English-Setup-1.1.exe",
+        "Shadow-Warrior-Classic-Complete-(v1.2)-English-Setup-1.4.exe",
         "extra/Shadow-Warrior-Classic-Complete-FLAC-Soundtrack-1.0.zip",
         "extra/Shadow-Warrior-Classic-Complete-Manual-1.0.pdf"
     ],
-    "transform_file": "Shadow-Warrior-Classic-Complete-English-Setup-1.1.exe",
+    "transform_file": "Shadow-Warrior-Classic-Complete-(v1.2)-English-Setup-1.4.exe",
     "zoom": {
+        "appid": "3ff5ecdf-449f-480a-b02b-c356acf69e7e",
         "appname": "shadow-warrior-classic-and-complete",
-        "appurl": "https://www.zoom-platform.com/product/shadow-warrior-classic-and-complete"
+        "appurl": "https://www.zoom-platform.com/product/shadow-warrior-classic-and-complete",
+        "name": "Shadow Warrior - Classic and Complete"
     }
 }
