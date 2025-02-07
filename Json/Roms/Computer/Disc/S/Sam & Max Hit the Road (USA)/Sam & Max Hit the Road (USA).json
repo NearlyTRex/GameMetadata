@@ -11,7 +11,13 @@
             }
         ],
         "name": "Sam & Max Hit the Road",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/SAVEGAME.*",
+            "GAME_INSTALL_DIR/SETMUSE.INI",
+            "GAME_INSTALL_DIR/samnmax.ini",
+            "GAME_INSTALL_DIR/samnmax.s*",
+            "USER_PROFILE_DIR/AppData/Roaming/LucasArts/Sam & Max Hit the Road"
+        ],
         "setup": {
             "preinstall": [
                 {
