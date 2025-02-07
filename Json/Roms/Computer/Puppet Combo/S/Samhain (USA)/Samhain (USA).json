@@ -2,5 +2,10 @@
     "files": [
         "Samhain (Windows).zip"
     ],
+    "puppetcombo": {
+        "appid": "6008dde2-b04d-4352-a33d-17cfb7d0bcd6",
+        "appname": "samhain",
+        "name": "Samhain"
+    },
     "transform_file": "Samhain (Windows).zip"
 }

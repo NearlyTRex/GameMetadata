@@ -2,5 +2,10 @@
     "files": [
         "Minotaur (Windows).zip"
     ],
+    "puppetcombo": {
+        "appid": "18321067-1758-479a-b66f-dce49e4e3a0f",
+        "appname": "minotaur",
+        "name": "Minotaur"
+    },
     "transform_file": "Minotaur (Windows).zip"
 }
