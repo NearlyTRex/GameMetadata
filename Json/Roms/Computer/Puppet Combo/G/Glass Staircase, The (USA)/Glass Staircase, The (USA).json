@@ -8,7 +8,9 @@
         "appname": "the_glass_staircase",
         "keys": [],
         "name": "The Glass Staircase",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Puppet Combo/The Glass Staircase"
+        ]
     },
     "transform_file": "The Glass Staircase (Windows) 1.04.zip"
 }
