@@ -10,7 +10,9 @@
             }
         ],
         "name": "AM2R - Another Metroid 2 Remake",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/AM2R"
+        ],
         "setup": {
             "preinstall": [
                 {

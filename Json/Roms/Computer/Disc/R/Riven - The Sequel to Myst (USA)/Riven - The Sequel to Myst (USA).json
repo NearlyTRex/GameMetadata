@@ -9,7 +9,10 @@
             }
         ],
         "name": "Riven - The Sequel to Myst",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/riven-000.rvn",
+            "GAME_INSTALL_DIR/timestamps"
+        ],
         "setup": {
             "preinstall": [
                 {

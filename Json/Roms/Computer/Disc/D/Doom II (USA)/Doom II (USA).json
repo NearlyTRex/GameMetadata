@@ -10,7 +10,10 @@
             }
         ],
         "name": "Doom II",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/GZDoom",
+            "USER_PROFILE_DIR/Saved Games/GZDoom"
+        ],
         "setup": {
             "preinstall": [
                 {

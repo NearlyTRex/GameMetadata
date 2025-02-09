@@ -10,7 +10,9 @@
             }
         ],
         "name": "The Legend of Zelda - The Faces of Evil - Remastered",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/FOER"
+        ],
         "setup": {
             "preinstall": [
                 {

@@ -14,7 +14,10 @@
             }
         ],
         "name": "The Real Crimes 2-Pack",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/GamersDigital/Jack the Ripper",
+            "USER_PROFILE_DIR/AppData/Roaming/PlayFirst/Real Crimes - The Unicorn Killer"
+        ],
         "setup": {
             "install": [
                 {

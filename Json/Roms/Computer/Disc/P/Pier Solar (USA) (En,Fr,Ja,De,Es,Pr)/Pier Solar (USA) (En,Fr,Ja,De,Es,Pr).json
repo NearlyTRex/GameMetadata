@@ -5,7 +5,9 @@
         "keys": [],
         "launch": [],
         "name": "Pier Solar",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/WaterMelon/PierSolar"
+        ],
         "setup": {
             "install": [
                 {

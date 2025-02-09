@@ -10,7 +10,9 @@
             }
         ],
         "name": "Multiwinia",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Introversion/Multiwinia"
+        ],
         "setup": {
             "install": [
                 {

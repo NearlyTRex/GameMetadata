@@ -11,7 +11,10 @@
         "name": "Phantasmagoria",
         "paths": [
             "GAME_INSTALL_DIR/Phant/PHANTSG.*",
-            "GAME_INSTALL_DIR/RESOURCE.CFG"
+            "GAME_INSTALL_DIR/RESOURCE.CFG",
+            "GAME_INSTALL_DIR/phantasmagoria-phantsg.*",
+            "GAME_INSTALL_DIR/phantasmagoria-pref.dat",
+            "GAME_INSTALL_DIR/timestamps"
         ],
         "setup": {
             "preinstall": [

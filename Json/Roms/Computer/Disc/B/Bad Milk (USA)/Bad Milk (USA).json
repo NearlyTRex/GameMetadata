@@ -11,7 +11,9 @@
             }
         ],
         "name": "Bad Milk",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Apple Computer/QuickTime"
+        ],
         "setup": {
             "preinstall": [
                 {

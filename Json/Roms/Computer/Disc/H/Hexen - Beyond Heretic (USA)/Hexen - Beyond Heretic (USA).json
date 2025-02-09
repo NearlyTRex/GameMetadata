@@ -13,7 +13,9 @@
         "paths": [
             "GAME_INSTALL_DIR/base/*.CFG",
             "GAME_INSTALL_DIR/base/*.conf",
-            "GAME_INSTALL_DIR/base/HEXNDATA"
+            "GAME_INSTALL_DIR/base/HEXNDATA",
+            "USER_PROFILE_DIR/Documents/My Games/GZDoom",
+            "USER_PROFILE_DIR/Saved Games/GZDoom"
         ],
         "setup": {
             "preinstall": [

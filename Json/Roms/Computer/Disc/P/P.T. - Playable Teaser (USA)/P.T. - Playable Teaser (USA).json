@@ -10,7 +10,9 @@
             }
         ],
         "name": "P.T. - Playable Teaser",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/PlayableTeaser"
+        ],
         "setup": {
             "preinstall": [
                 {

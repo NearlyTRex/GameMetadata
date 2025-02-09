@@ -7,7 +7,8 @@
         "name": "Arx Fatalis",
         "paths": [
             "GAME_INSTALL_DIR/Save",
-            "GAME_INSTALL_DIR/cfg_default.ini"
+            "GAME_INSTALL_DIR/cfg_default.ini",
+            "USER_PROFILE_DIR/Saved Games/Arx Libertatis"
         ],
         "setup": {
             "install": [

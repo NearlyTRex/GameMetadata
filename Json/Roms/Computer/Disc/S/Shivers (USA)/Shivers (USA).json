@@ -9,7 +9,10 @@
             }
         ],
         "name": "Shivers",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/shivers.001",
+            "GAME_INSTALL_DIR/timestamps"
+        ],
         "setup": {
             "preinstall": [
                 {

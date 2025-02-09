@@ -12,7 +12,8 @@
         ],
         "name": "Quake III - Arena",
         "paths": [
-            "GAME_INSTALL_DIR/baseq3/q3config.cfg"
+            "GAME_INSTALL_DIR/baseq3/q3config.cfg",
+            "USER_PROFILE_DIR/AppData/Roaming/Quake3"
         ],
         "setup": {
             "preinstall": [

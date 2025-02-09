@@ -10,7 +10,9 @@
             }
         ],
         "name": "The Legend of Zelda - The Wand of Gamelon - Remastered",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/WOGR"
+        ],
         "setup": {
             "preinstall": [
                 {

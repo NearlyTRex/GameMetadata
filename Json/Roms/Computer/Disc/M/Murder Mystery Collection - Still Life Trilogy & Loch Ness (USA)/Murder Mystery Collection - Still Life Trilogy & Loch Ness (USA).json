@@ -22,7 +22,9 @@
             }
         ],
         "name": "Murder Mystery Collection - Still Life Trilogy & Loch Ness",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Post_Mortem Saves"
+        ],
         "setup": {
             "install": [
                 {

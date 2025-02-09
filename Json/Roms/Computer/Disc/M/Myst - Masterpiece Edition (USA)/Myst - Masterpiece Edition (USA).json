@@ -9,7 +9,11 @@
             }
         ],
         "name": "Myst - Masterpiece Edition",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/myst-000.mym",
+            "GAME_INSTALL_DIR/myst-000.mys",
+            "GAME_INSTALL_DIR/timestamps"
+        ],
         "setup": {
             "preinstall": [
                 {

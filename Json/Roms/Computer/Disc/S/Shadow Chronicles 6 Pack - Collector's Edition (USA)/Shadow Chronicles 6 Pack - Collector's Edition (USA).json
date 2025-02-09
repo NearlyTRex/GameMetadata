@@ -36,7 +36,15 @@
             }
         ],
         "name": "Shadow Chronicles 6 Pack - Collector's Edition",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/8floor/Shadows_3100",
+            "USER_PROFILE_DIR/AppData/Roaming/Anarchy/GhostEncountersDeadwood",
+            "USER_PROFILE_DIR/AppData/Roaming/Artogon/Crystal Portal",
+            "USER_PROFILE_DIR/AppData/Roaming/Artogon/Shiver - Poltergeist_CE",
+            "USER_PROFILE_DIR/AppData/Roaming/GigantGames/TVOM_1_0",
+            "USER_PROFILE_DIR/AppData/Roaming/Macromedia/Flash Player",
+            "USER_PROFILE_DIR/AppData/Roaming/Rainbow/Odysseus"
+        ],
         "setup": {
             "install": [
                 {

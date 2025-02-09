@@ -7,6 +7,7 @@
         "name": "The Basement Collection",
         "paths": [
             "GAME_INSTALL_DIR/META-INF/AIR",
+            "USER_PROFILE_DIR/AppData/Roaming/Macromedia/Flash Player",
             "USER_PROFILE_DIR/AppData/Roaming/collection"
         ],
         "setup": {

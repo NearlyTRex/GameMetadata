@@ -7,7 +7,9 @@
         ],
         "launch": [],
         "name": "Chariot",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Frima_Studio/Chariot"
+        ],
         "setup": {
             "install": [
                 {

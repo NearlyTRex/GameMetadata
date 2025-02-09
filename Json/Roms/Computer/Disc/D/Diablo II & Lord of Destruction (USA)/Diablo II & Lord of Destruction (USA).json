@@ -16,7 +16,11 @@
             }
         ],
         "name": "Diablo II & Lord of Destruction",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Blizzard Entertainment",
+            "USER_PROFILE_DIR/Documents/Diablo II",
+            "USER_PROFILE_DIR/Saved Games/Diablo II"
+        ],
         "setup": {
             "install": [
                 {

@@ -10,7 +10,9 @@
         ],
         "name": "Grim Fandango",
         "paths": [
-            "GAME_INSTALL_DIR/grim*.gsv"
+            "GAME_INSTALL_DIR/grim*.gsv",
+            "GAME_INSTALL_DIR/grimdialog.htm",
+            "GAME_INSTALL_DIR/timestamps"
         ],
         "setup": {
             "preinstall": [

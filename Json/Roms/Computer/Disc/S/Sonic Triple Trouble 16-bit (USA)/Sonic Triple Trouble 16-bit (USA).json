@@ -10,7 +10,9 @@
             }
         ],
         "name": "Sonic Triple Trouble 16-bit",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Sonic_Triple_Trouble_16_Bit"
+        ],
         "setup": {
             "preinstall": [
                 {

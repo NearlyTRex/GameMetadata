@@ -126,7 +126,9 @@
             }
         ],
         "name": "Action 52 Owns",
-        "paths": [],
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Macromedia/Flash Player"
+        ],
         "setup": {
             "preinstall": [
                 {
