@@ -16,7 +16,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Phantasmagoria",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Phant/CHASEDUN.*",
+            "GAME_INSTALL_DIR/Phant/phantsg.*"
+        ]
     },
     "transform_file": "setup_phantasmagoria_1.0_(20239).exe"
 }

@@ -11,7 +11,9 @@
         "buildid": "1.10",
         "keys": [],
         "name": "Tormented Souls",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/duale-abstractd"
+        ]
     },
     "transform_file": "setup_tormented_souls_1.10_(57757).exe"
 }

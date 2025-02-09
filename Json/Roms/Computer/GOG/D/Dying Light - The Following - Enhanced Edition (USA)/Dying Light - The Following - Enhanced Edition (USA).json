@@ -92,7 +92,9 @@
         "buildid": "1.49.9",
         "keys": [],
         "name": "Dying Light: The Following \u2013 Enhanced Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/DyingLight"
+        ]
     },
     "transform_file": "setup_dying_light_the_following__enhanced_edition_1.49.8_(64bit)_(69352).exe"
 }

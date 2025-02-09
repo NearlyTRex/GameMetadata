@@ -17,7 +17,9 @@
         "buildid": "(gog-20)",
         "keys": [],
         "name": "Nox\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Save"
+        ]
     },
     "transform_file": "setup_nox_2.0.0.20.exe"
 }

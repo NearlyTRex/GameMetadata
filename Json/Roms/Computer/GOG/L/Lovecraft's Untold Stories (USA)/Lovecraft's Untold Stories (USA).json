@@ -9,7 +9,9 @@
         "buildid": "1.35",
         "keys": [],
         "name": "Lovecraft's Untold Stories",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/BliniGames/LovecraftsUntoldStories"
+        ]
     },
     "transform_file": "setup_lovecrafts_untold_stories_1.35_(67308).exe"
 }

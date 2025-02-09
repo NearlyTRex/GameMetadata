@@ -19,7 +19,11 @@
             "HKEY_CURRENT_USER/Software/Bullfrog Productions Ltd"
         ],
         "name": "Dungeon Keeper\u2122 2",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Data/Save",
+            "GAME_INSTALL_DIR/Data/Settings",
+            "USER_REGISTRY_DIR/user.reg"
+        ]
     },
     "transform_file": "setup_dungeon_keeper_2_1.7_(22280).exe"
 }

@@ -15,7 +15,9 @@
         "buildid": "gog-1",
         "keys": [],
         "name": "Costume Quest",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/CostumeQuest"
+        ]
     },
     "transform_file": "setup_costume_quest_gog-1_(18301).exe"
 }

@@ -15,7 +15,9 @@
         "buildid": "1.41b",
         "keys": [],
         "name": "Amnesia: The Dark Descent",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Amnesia"
+        ]
     },
     "transform_file": "setup_amnesia_-_the_dark_descent_1.41b_(41677).exe"
 }

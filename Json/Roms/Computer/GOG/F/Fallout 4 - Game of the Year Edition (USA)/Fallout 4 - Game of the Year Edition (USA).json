@@ -18,7 +18,10 @@
         "buildid": "1.10.163.0",
         "keys": [],
         "name": "Fallout 4: Game of the Year Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Fallout4",
+            "USER_PROFILE_DIR/Documents/My Games/Fallout4"
+        ]
     },
     "transform_file": "setup_fallout_4_game_of_the_year_edition_1.10.163.0_(64bit)_(66700).exe"
 }

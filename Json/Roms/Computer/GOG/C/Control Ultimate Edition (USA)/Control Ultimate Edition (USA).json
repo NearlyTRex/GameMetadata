@@ -16,7 +16,9 @@
         "buildid": "Update 2",
         "keys": [],
         "name": "Control Ultimate Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Control"
+        ]
     },
     "transform_file": "setup_control_ultimate_edition_update_2_(41492).exe"
 }

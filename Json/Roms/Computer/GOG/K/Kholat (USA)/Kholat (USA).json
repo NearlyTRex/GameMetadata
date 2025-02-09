@@ -26,7 +26,9 @@
         "buildid": "1.03a",
         "keys": [],
         "name": "Kholat",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Kholat"
+        ]
     },
     "transform_file": "setup_kholat_1.03a_(64bit)_(40572).exe"
 }

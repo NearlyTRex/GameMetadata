@@ -16,7 +16,9 @@
         "buildid": "1.06",
         "keys": [],
         "name": "BloodRayne: Terminal Cut",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/BloodRayne1"
+        ]
     },
     "transform_file": "setup_bloodrayne_terminal_cut_1.06_(59972).exe"
 }

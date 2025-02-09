@@ -20,7 +20,10 @@
         "buildid": "1.0.0.222 (gog-2)",
         "keys": [],
         "name": "Dead Space\u2122",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Electronic Arts/Dead Space",
+            "USER_PROFILE_DIR/Documents/Electronic Arts/Dead Space"
+        ]
     },
     "transform_file": "setup_dead_space_2.0.0.2.exe"
 }

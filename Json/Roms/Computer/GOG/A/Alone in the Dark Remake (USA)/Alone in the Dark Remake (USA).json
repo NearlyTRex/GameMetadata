@@ -34,7 +34,9 @@
         "buildid": "1.0.5b",
         "keys": [],
         "name": "Alone in the Dark",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/AloneInTheDark"
+        ]
     },
     "transform_file": "setup_alone_in_the_dark_1.0.3_(72235).exe"
 }

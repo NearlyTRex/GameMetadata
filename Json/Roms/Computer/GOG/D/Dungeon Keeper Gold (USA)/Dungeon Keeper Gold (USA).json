@@ -21,7 +21,9 @@
         "buildid": "10.1",
         "keys": [],
         "name": "Dungeon Keeper Gold\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE"
+        ]
     },
     "transform_file": "setup_dungeon_keeper_gold_10.1_(28184).exe"
 }
