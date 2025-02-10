@@ -14,7 +14,8 @@
         "name": "Moon Hunters",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/320040",
-            "USER_PROFILE_DIR/AppData/Roaming/MoonHunters"
+            "USER_PROFILE_DIR/AppData/Roaming/MoonHunters",
+            "USER_PROFILE_DIR/Application Data/MoonHunters"
         ]
     },
     "transform_file": "Moon Hunters (USA).exe"

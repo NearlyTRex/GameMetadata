@@ -14,7 +14,8 @@
         "name": "Nuclear Throne",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/242680",
-            "USER_PROFILE_DIR/AppData/Local/nuclearthrone"
+            "USER_PROFILE_DIR/AppData/Local/nuclearthrone",
+            "USER_PROFILE_DIR/Local Settings/Application Data/nuclearthrone"
         ]
     },
     "transform_file": "Nuclear Throne (USA).exe"
