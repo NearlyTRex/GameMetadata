@@ -10,7 +10,6 @@
             "install": [
                 {
                     "cwd": "DISC_MAIN_ROOT",
-                    "disc_type": "macwin",
                     "exe": "Wheel_of_Fortune_Deluxe_Setup.exe"
                 }
             ]

@@ -17,70 +17,60 @@
         "setup": {
             "preinstall": [
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/QTW",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/QTW",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/CHANNEL.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/CHANNEL.DAT",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/CREDITS.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/CREDITS.DAT",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/DUNNY.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/DUNNY.DAT",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/Help.dat",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT//Help.dat",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/INTRO.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/INTRO.DAT",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/MECHAN.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/MECHAN.DAT",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/MYST.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/MYST.DAT",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/SELEN.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/SELEN.DAT",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/STONE.DAT",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/STONE.DAT",

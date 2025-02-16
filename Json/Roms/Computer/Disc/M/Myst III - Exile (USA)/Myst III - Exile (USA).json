@@ -16,28 +16,24 @@
         "setup": {
             "preinstall": [
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/M3Data",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/M3Data",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/Data",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/Data",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/Myst III English/language.m3u",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT/M3Data/TEXT/ENGLISH.m3u",
                     "type": "copy"
                 },
                 {
-                    "disc_type": "macwin",
                     "from": "DISC_MAIN_ROOT/Myst III English/Manual.pdf",
                     "skip_existing": true,
                     "to": "SCUMM_MAIN_ROOT",
