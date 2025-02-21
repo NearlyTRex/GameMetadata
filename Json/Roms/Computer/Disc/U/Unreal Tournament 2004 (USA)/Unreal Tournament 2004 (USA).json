@@ -12,40 +12,46 @@
         "setup": {
             "install": [
                 {
-                    "cwd": "DISC_ONE_ROOT",
+                    "cwd": "SETUP_MAIN_ROOT/Temp",
                     "exe": "Setup.exe",
                     "serial": "3A7XM-F7G2P-ABT6J-HD9DB"
                 }
             ],
             "preinstall": [
                 {
+                    "from": "DISC_ONE_ROOT",
+                    "skip_existing": true,
+                    "to": "SETUP_MAIN_ROOT/Temp",
+                    "type": "copy"
+                },
+                {
                     "from": "DISC_TWO_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 },
                 {
                     "from": "DISC_THREE_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 },
                 {
                     "from": "DISC_FOUR_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 },
                 {
                     "from": "DISC_FIVE_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 },
                 {
                     "from": "DISC_SIX_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 }
             ]

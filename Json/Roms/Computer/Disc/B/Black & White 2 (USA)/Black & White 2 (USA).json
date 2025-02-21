@@ -11,7 +11,7 @@
         "setup": {
             "install": [
                 {
-                    "cwd": "DISC_ONE_ROOT",
+                    "cwd": "SETUP_MAIN_ROOT/Temp",
                     "exe": "arun.exe",
                     "serial": "5ALC-LYDP-XWAR-TV87-NC6R"
                 },
@@ -30,21 +30,27 @@
             ],
             "preinstall": [
                 {
+                    "from": "DISC_ONE_ROOT",
+                    "skip_existing": true,
+                    "to": "SETUP_MAIN_ROOT/Temp",
+                    "type": "copy"
+                },
+                {
                     "from": "DISC_TWO_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 },
                 {
                     "from": "DISC_THREE_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 },
                 {
                     "from": "DISC_FOUR_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 }
             ]

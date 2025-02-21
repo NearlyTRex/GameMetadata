@@ -24,7 +24,7 @@
         "setup": {
             "install": [
                 {
-                    "cwd": "DISC_ONE_ROOT",
+                    "cwd": "SETUP_MAIN_ROOT/Temp",
                     "exe": "Installer.exe",
                     "serial": "6D2DE2-WY2H-XMYB7R-WWMD-GY6K47"
                 },
@@ -38,22 +38,31 @@
                     "exe": "LODPatch_114d.exe"
                 }
             ],
+            "postinstall": [
+                {
+                    "from": "DISC_UPDATE_ROOT/*",
+                    "skip_existing": true,
+                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Diablo II",
+                    "type": "copy"
+                }
+            ],
             "preinstall": [
+                {
+                    "from": "DISC_ONE_ROOT",
+                    "skip_existing": true,
+                    "to": "SETUP_MAIN_ROOT/Temp",
+                    "type": "copy"
+                },
                 {
                     "from": "DISC_TWO_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 },
                 {
                     "from": "DISC_THREE_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
-                    "type": "copy"
-                },
-                {
-                    "from": "DISC_UPDATE_ROOT/*",
-                    "to": "HDD_MAIN_ROOT/Program Files (x86)/Diablo II",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 }
             ]

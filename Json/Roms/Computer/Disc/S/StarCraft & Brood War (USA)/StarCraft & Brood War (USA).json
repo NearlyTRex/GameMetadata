@@ -9,16 +9,22 @@
         "setup": {
             "install": [
                 {
-                    "cwd": "DISC_ONE_ROOT",
+                    "cwd": "SETUP_MAIN_ROOT/Temp",
                     "exe": "StarCraft (Windows).exe",
                     "serial": "26887CX6HTXXVXNY76JXRDCE2X"
                 }
             ],
             "preinstall": [
                 {
+                    "from": "DISC_ONE_ROOT",
+                    "skip_existing": true,
+                    "to": "SETUP_MAIN_ROOT/Temp",
+                    "type": "copy"
+                },
+                {
                     "from": "DISC_TWO_ROOT",
                     "skip_existing": true,
-                    "to": "DISC_ONE_ROOT",
+                    "to": "SETUP_MAIN_ROOT/Temp",
                     "type": "copy"
                 }
             ]

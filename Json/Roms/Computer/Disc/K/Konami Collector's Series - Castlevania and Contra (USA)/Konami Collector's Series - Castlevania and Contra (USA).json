@@ -12,7 +12,7 @@
             "install": [
                 {
                     "cwd": "DISC_MAIN_ROOT",
-                    "exe": "STARTUP.EXE"
+                    "exe": "Setup.exe"
                 }
             ],
             "postinstall": [
