@@ -3,7 +3,7 @@
         "appname": "1dea8a6ddb544842a58e4b5c8675ff58",
         "appurl": "https://store.epicgames.com/en-US/p/cave-story-plus",
         "buildid": "1.1",
-        "installdir": "CaveStoryPlus",
+        "installdir": "STORE_INSTALL_DIR/CaveStoryPlus",
         "name": "Cave Story+",
         "paths": [
             "GAME_INSTALL_DIR/Profile.dat"
