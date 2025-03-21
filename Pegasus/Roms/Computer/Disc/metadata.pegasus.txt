@@ -199,6 +199,13 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Alien vs. Predator - Fangame (USA)
+file: Roms/Computer/Disc/A/Alien vs. Predator - Fangame (USA)/Alien vs. Predator - Fangame (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Aliens Versus Predator Gold (USA)
 file: Roms/Computer/Disc/A/Aliens Versus Predator Gold (USA)/Aliens Versus Predator Gold (USA).json
 developer: Rebellion
@@ -298,6 +305,13 @@ players: 1
 assets.boxfront: BoxFront/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
 assets.boxback: BoxBack/Amazon Trail 3rd Edition - Rainforest Adventures (USA).jpg
 assets.video: Video/Amazon Trail 3rd Edition - Rainforest Adventures (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA)
+file: Roms/Computer/Disc/A/American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA)/American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA).json
+players: 1
 x-co-op: No
 x-playable: Yes
 
@@ -599,6 +613,13 @@ players: 4
 assets.boxfront: BoxFront/Atomic Bomberman (USA).jpg
 assets.video: Video/Atomic Bomberman (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Avengers vs. X-Men (USA)
+file: Roms/Computer/Disc/A/Avengers vs. X-Men (USA)/Avengers vs. X-Men (USA).json
+players: 1
+x-co-op: No
 x-playable: Yes
 
 
@@ -1352,6 +1373,13 @@ x-co-op: No
 x-playable: Yes
 
 
+game: DC Task Force (USA)
+file: Roms/Computer/Disc/D/DC Task Force (USA)/DC Task Force (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Dark Eye, The (USA)
 file: Roms/Computer/Disc/D/Dark Eye, The (USA)/Dark Eye, The (USA).json
 developer: Inscape
@@ -1684,6 +1712,13 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Dungeons and Dragons Cartoon - The Game (USA)
+file: Roms/Computer/Disc/D/Dungeons and Dragons Cartoon - The Game (USA)/Dungeons and Dragons Cartoon - The Game (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Dust - An Elysian Tale (USA)
 file: Roms/Computer/Disc/D/Dust - An Elysian Tale (USA)/Dust - An Elysian Tale (USA).json
 developer: Humble Hearts
@@ -1865,6 +1900,13 @@ release: 1998-04-28
 players: 1
 assets.boxfront: BoxFront/Escape Velocity - Override (USA).jpg
 assets.video: Video/Escape Velocity - Override (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Escape Whisper Valley (USA)
+file: Roms/Computer/Disc/E/Escape Whisper Valley (USA)/Escape Whisper Valley (USA).json
+players: 1
 x-co-op: No
 x-playable: Yes
 
@@ -2977,6 +3019,20 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Justice League Task Force 2 (USA)
+file: Roms/Computer/Disc/J/Justice League Task Force 2 (USA)/Justice League Task Force 2 (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Justice League vs. Street Fighter (USA)
+file: Roms/Computer/Disc/J/Justice League vs. Street Fighter (USA)/Justice League vs. Street Fighter (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Kingpin - Life of Crime (USA)
 file: Roms/Computer/Disc/K/Kingpin - Life of Crime (USA)/Kingpin - Life of Crime (USA).json
 developer: Xatrix Entertainment
@@ -3395,6 +3451,27 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Marvel First Alliance (USA)
+file: Roms/Computer/Disc/M/Marvel First Alliance (USA)/Marvel First Alliance (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Marvel First Alliance 2 (USA)
+file: Roms/Computer/Disc/M/Marvel First Alliance 2 (USA)/Marvel First Alliance 2 (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Marvel Infinity War (USA)
+file: Roms/Computer/Disc/M/Marvel Infinity War (USA)/Marvel Infinity War (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Mavis Beacon Teaches Typing! Version 3 (USA)
 file: Roms/Computer/Disc/M/Mavis Beacon Teaches Typing! Version 3 (USA)/Mavis Beacon Teaches Typing! Version 3 (USA).json
 developer: Software Toolworks
@@ -3424,6 +3501,15 @@ players: 1
 assets.boxfront: BoxFront/Mavis Beacon Teaches Typing! Version 3 (USA).jpg
 assets.boxback: BoxBack/Mavis Beacon Teaches Typing! Version 3 (USA).jpg
 assets.video: Video/Mavis Beacon Teaches Typing! Version 3 (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Max Payne (USA, Europe)
+file: Roms/Computer/Disc/M/Max Payne (USA, Europe)/Max Payne (USA, Europe).json
+players: 1
+assets.boxfront: BoxFront/Max Payne (USA, Europe).jpg
+assets.boxback: BoxBack/Max Payne (USA, Europe).jpg
 x-co-op: No
 x-playable: Yes
 

@@ -1251,6 +1251,13 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Endling - Extinction is Forever (USA)
+file: Roms/Computer/Amazon Games/E/Endling - Extinction is Forever (USA)/Endling - Extinction is Forever (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Everdream Valley (USA)
 file: Roms/Computer/Amazon Games/E/Everdream Valley (USA)/Everdream Valley (USA).json
 developer: Mooneaters
@@ -2001,6 +2008,26 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Night Reverie (USA)
+file: Roms/Computer/Amazon Games/N/Night Reverie (USA)/Night Reverie (USA).json
+developer: Somber Pixel
+publisher: Somber Pixel
+genre: Adventure;General
+description:
+  Night Reverie is a Puzzle/Adventure game in which a child must solve the mystery
+  behind the distortion of his house.
+  .
+  Enjoy a variety of dream-like environments and discover the truth behind the
+  distortion of the house. There must be an answer to all of this and a way to
+  return things back to normal.
+release: 2021-10-08
+players: 1
+assets.boxfront: BoxFront/Night Reverie (USA).jpg
+assets.video: Video/Night Reverie (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Nine Witches - Family Disruption (USA)
 file: Roms/Computer/Amazon Games/N/Nine Witches - Family Disruption (USA)/Nine Witches - Family Disruption (USA).json
 developer: Indiesruption
@@ -2260,6 +2287,19 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Sine Mora EX (USA)
+file: Roms/Computer/Amazon Games/S/Sine Mora EX (USA)/Sine Mora EX (USA).json
+developer: Digital Reality
+publisher: THQ Nordic
+genre: Action;Shooter;Shoot-'Em-Up;Horizontal
+release: 2017-08-08
+players: 1
+assets.boxfront: BoxFront/Sine Mora EX (USA).jpg
+assets.video: Video/Sine Mora EX (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Spirit Mancer (USA)
 file: Roms/Computer/Amazon Games/S/Spirit Mancer (USA)/Spirit Mancer (USA).json
 developer: Sunny Syrup Studio
@@ -2276,6 +2316,13 @@ release: 2024-11-22
 players: 1
 assets.boxfront: BoxFront/Spirit Mancer (USA).jpg
 assets.video: Video/Spirit Mancer (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Spitlings (USA)
+file: Roms/Computer/Amazon Games/S/Spitlings (USA)/Spitlings (USA).json
+players: 1
 x-co-op: No
 x-playable: Yes
 
@@ -2344,6 +2391,20 @@ release: 2010-10-26
 players: 1
 assets.boxfront: BoxFront/Star Wars - The Force Unleashed II (USA).jpg
 assets.video: Video/Star Wars - The Force Unleashed II (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Stunt Kite Party (USA)
+file: Roms/Computer/Amazon Games/S/Stunt Kite Party (USA)/Stunt Kite Party (USA).json
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Surf World Series (USA)
+file: Roms/Computer/Amazon Games/S/Surf World Series (USA)/Surf World Series (USA).json
+players: 1
 x-co-op: No
 x-playable: Yes
 
