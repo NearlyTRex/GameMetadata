@@ -976,6 +976,22 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Cat Quest (USA)
+file: Roms/Computer/Epic Games/C/Cat Quest (USA)/Cat Quest (USA).json
+players: 1
+x-url: https://store.epicgames.com/en-US/p/cat-quest-8373e0
+x-co-op: No
+x-playable: Yes
+
+
+game: Cat Quest II (USA)
+file: Roms/Computer/Epic Games/C/Cat Quest II (USA)/Cat Quest II (USA).json
+players: 1
+x-url: https://store.epicgames.com/en-US/p/cat-quest-ii-9dbefc
+x-co-op: No
+x-playable: Yes
+
+
 game: Cave Story+ (USA)
 file: Roms/Computer/Epic Games/C/Cave Story+ (USA)/Cave Story+ (USA).json
 developer: Nicalis
@@ -3041,6 +3057,14 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Let's Build a Zoo (USA)
+file: Roms/Computer/Epic Games/L/Let's Build a Zoo (USA)/Let's Build a Zoo (USA).json
+players: 1
+x-url: https://store.epicgames.com/en-US/p/lets-build-a-zoo
+x-co-op: No
+x-playable: Yes
+
+
 game: Loop Hero (USA)
 file: Roms/Computer/Epic Games/L/Loop Hero (USA)/Loop Hero (USA).json
 developer: Four Quarters
@@ -3610,6 +3634,14 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Neko Ghost, Jump! (USA)
+file: Roms/Computer/Epic Games/N/Neko Ghost, Jump! (USA)/Neko Ghost, Jump! (USA).json
+players: 1
+x-url: https://store.epicgames.com/en-US/p/neko-ghost-jump
+x-co-op: No
+x-playable: Yes
+
+
 game: No Straight Roads (USA)
 file: Roms/Computer/Epic Games/N/No Straight Roads (USA)/No Straight Roads (USA).json
 developer: Metronomik
@@ -4081,6 +4113,14 @@ x-co-op: No
 x-playable: Yes
 
 
+game: River City Girls (USA)
+file: Roms/Computer/Epic Games/R/River City Girls (USA)/River City Girls (USA).json
+players: 1
+x-url: https://store.epicgames.com/en-US/p/river-city-girls-e6f608
+x-co-op: No
+x-playable: Yes
+
+
 game: Sands of Aura (USA)
 file: Roms/Computer/Epic Games/S/Sands of Aura (USA)/Sands of Aura (USA).json
 developer: Chashu Entertainment
@@ -4242,6 +4282,14 @@ players: 1
 assets.boxfront: BoxFront/Scarf (USA).jpg
 assets.video: Video/Scarf (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/scarf-dd1030
+x-co-op: No
+x-playable: Yes
+
+
+game: Session - Skate Sim (USA)
+file: Roms/Computer/Epic Games/S/Session - Skate Sim (USA)/Session - Skate Sim (USA).json
+players: 1
+x-url: https://store.epicgames.com/en-US/p/session-skate-sim
 x-co-op: No
 x-playable: Yes
 
