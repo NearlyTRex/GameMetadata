@@ -1040,7 +1040,23 @@ x-playable: Yes
 
 game: Clouds and Sheep 2 (USA)
 file: Roms/Computer/Amazon Games/C/Clouds and Sheep 2 (USA)/Clouds and Sheep 2 (USA).json
+developer: HandyGames
+publisher: Headup Games
+genre: Simulation;Virtual;Pet
+description:
+  Feed them, play with them and they will love YOU back!
+  .
+  Solve countless quests and fulfill your wooly friends' needs. Plant grass,
+  flowers, trees and decorate different pastures to make them even more beautiful.
+  Control the clouds and make it rain or protect your flock from dangerous
+  thunder. Provide your sheep with food, accessories, toys and more and style them
+  with funny costumes!
+  .
+  Let's start and become the best shepherd in the world!
+release: 2016-10-24
 players: 1
+assets.boxfront: BoxFront/Clouds and Sheep 2 (USA).jpg
+assets.video: Video/Clouds and Sheep 2 (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -1260,7 +1276,28 @@ x-playable: Yes
 
 game: Endling - Extinction is Forever (USA)
 file: Roms/Computer/Amazon Games/E/Endling - Extinction is Forever (USA)/Endling - Extinction is Forever (USA).json
+developer: Herobeat Studios
+publisher: HandyGames
+genre: Action Adventure;General
+description:
+  Will the last mother fox on Earth be able to save its three little cubs?
+  .
+  Experience how life would be in a world ravaged by mankind through the eyes of
+  the last fox on Earth in this eco-conscious adventure. Discover the destructive
+  effect of the human race, which corrupts day after day the most precious and
+  needed resources of the natural environments.
+  .
+  Explore Endling's 3D side-scrolling world and defend your cubs, three tiny and
+  defenseless fur balls, feed them, see how they grow up level after level, notice
+  their unique personalities and fears, and most importantly, make them survive.
+  .
+  Use the cover of night to sneak with your litter towards a safer place. Spend
+  the day resting in an improvised shelter and plan for your next movement
+  carefully since it could be the last one for you or your cubs.
+release: 2022-07-19
 players: 1
+assets.boxfront: BoxFront/Endling - Extinction is Forever (USA).jpg
+assets.video: Video/Endling - Extinction is Forever (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -1969,6 +2006,27 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Mystery Case Files - Black Crown Collector's Edition (USA)
+file: Roms/Computer/Amazon Games/M/Mystery Case Files - Black Crown Collector's Edition (USA)/Mystery Case Files - Black Crown Collector's Edition (USA).json
+developer: Eipix Entertainment
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  When a patient at the Manchester Asylum draws a huge crown covering the walls of
+  her cell, you're sent to learn what, if anything, it has to do with your past.
+  But when the inmates escape, there's only one way for you to regain control --
+  find the Black Crown before they do. You'll need to gather your wits and use all
+  your abilities to learn the identity of "Jane Doe" and solve the mystery of the
+  Black Crown in this new chapter of the classic hidden-object puzzle adventure
+  game series!
+release: 2019-11-26
+players: 1
+assets.boxfront: BoxFront/Mystery Case Files - Black Crown Collector's Edition (USA).jpg
+assets.video: Video/Mystery Case Files - Black Crown Collector's Edition (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
 game: Mystery Case Files - The Dalimar Legacy Collector's Edition (USA)
 file: Roms/Computer/Amazon Games/M/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA)/Mystery Case Files - The Dalimar Legacy Collector's Edition (USA).json
 developer: Grandma Studios
@@ -2011,6 +2069,29 @@ release: 2018-11-29
 players: 1
 assets.boxfront: BoxFront/NAIRI - Tower of Shirin (USA).jpg
 assets.video: Video/NAIRI - Tower of Shirin (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Naheulbeuk's Dungeon Master (USA)
+file: Roms/Computer/Amazon Games/N/Naheulbeuk's Dungeon Master (USA)/Naheulbeuk's Dungeon Master (USA).json
+developer: Artefacts Studio
+publisher: Dear Villagers
+genre: Strategy;Management;Business / Tycoon
+description:
+  Embody Reivax, the servile or not, intendent of the Dungeon of Naheulbeuk, Years
+  before the first incursion of fearless adventurers, you are task to build,
+  develop and populate the wobbly tower, but above all try not to upset your
+  master, the evil sorcerer Zangdar.
+  .
+  Are you up to the task?
+  .
+  Build, manage & defend your dungeon in this satirical heroic fantasy universe of
+  Dungeon of Naheulbeuk. From a shaky establishment to an infamous lair!
+release: 2023-11-15
+players: 1
+assets.boxfront: BoxFront/Naheulbeuk's Dungeon Master (USA).jpg
+assets.video: Video/Naheulbeuk's Dungeon Master (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -2096,7 +2177,26 @@ x-playable: Yes
 
 game: Paleo Pines (USA)
 file: Roms/Computer/Amazon Games/P/Paleo Pines (USA)/Paleo Pines (USA).json
+developer: Italic Pig
+publisher: Modus Games
+genre: Simulation;Virtual;Virtual Life
+description:
+  Welcome to Paleo Pines, a charming island known for its friendly dinosaurs,
+  quirky townsfolk, and mysterious past. Here evolution took a different path,
+  creating a world in which humans and dinosaurs live together in harmony!
+  .
+  Set out with your dino companion, Lucky, to uncover the island's secrets and
+  discover new dinos. Your arrival on the island is met with welcome curiosity by
+  the local townsfolk who can help you on your quest (and just might give you more
+  work to do!).
+  .
+  Together with Lucky, grow crops, assist local villagers, befriend adorable
+  dinosaurs, and unearth the island's lost history to build your cozy dino
+  sanctuary.
+release: 2023-09-26
 players: 1
+assets.boxfront: BoxFront/Paleo Pines (USA).jpg
+assets.video: Video/Paleo Pines (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -2306,6 +2406,14 @@ file: Roms/Computer/Amazon Games/S/Sine Mora EX (USA)/Sine Mora EX (USA).json
 developer: Digital Reality
 publisher: THQ Nordic
 genre: Action;Shooter;Shoot-'Em-Up;Horizontal
+description:
+  Fusing frantic, innovative gameplay from Digital Reality with stunning graphical
+  design from Grasshopper Manufacture, Sine Mora set a new high standard for
+  shmups and gained widespread acclaim. Strap yourself in and get ready for a
+  breathtaking adventure!
+  .
+  Sine Mora is a horizontal shoot'em up that provides a unique take on challenge,
+  where... more >>
 release: 2017-08-08
 players: 1
 assets.boxfront: BoxFront/Sine Mora EX (USA).jpg
@@ -2336,7 +2444,26 @@ x-playable: Yes
 
 game: Spitlings (USA)
 file: Roms/Computer/Amazon Games/S/Spitlings (USA)/Spitlings (USA).json
+developer: Massive Miniteam
+publisher: Massive Miniteam
+genre: Action;Arcade
+description:
+  The Spitlings are happy little creatures, living a peaceful life in their
+  skyscraper hometown. Their only problem is the weather: It rains nasty goop that
+  turns into bubbles, entraps the Spitlings, and wrecks their town! There is only
+  one option: They'll have to split all bubbles and free their friends on the
+  lower floors. Along the way, who knows what they might encounter
+  .
+  Spitlings is a chaotic action arcade game for one to four players. It puts you
+  in control of the titular Spitlings: charming rectangular creatures with teeth
+  they can spit at bubbles or use to jump!
+  .
+  Your goal is simple, but hard to achieve: Get rid of all the bubbles bouncing
+  around the screen!
+release: 2020-08-04
 players: 1
+assets.boxfront: BoxFront/Spitlings (USA).jpg
+assets.video: Video/Spitlings (USA).mp4
 x-co-op: No
 x-playable: Yes
 
@@ -2411,14 +2538,53 @@ x-playable: Yes
 
 game: Stunt Kite Party (USA)
 file: Roms/Computer/Amazon Games/S/Stunt Kite Party (USA)/Stunt Kite Party (USA).json
+developer: HandyGames
+publisher: HandyGames
+genre: Miscellaneous;Party / Minigame
+description:
+  Choose from eight playable characters and fly your kite in four scenic settings,
+  where you can challenge your friends in either predefined matches or your own
+  custom created tournament. You can also face off against AI controlled
+  characters in the single-player experience, framed by a lighthearted story mode
+  that allows you to learn more about the joyful world of Stunt Kite Party.
+  .
+  Step into the shoes of a young and extraordinarily talented kiter, as he
+  journeys through the colorful world of Stunt Kite Party. As you take your first
+  steps to become a professional kiter, you learn that kiting has been outlawed in
+  the Big City. How can that be! Fight for your right to kite while you experience
+  lots of thrilling adventures, meet new friends and together, make kiting great
+  again. Can you and your friends be able to convince the mayor to legalize kiting
+  again?
+release: 2019-06-07
 players: 1
+assets.boxfront: BoxFront/Stunt Kite Party (USA).jpg
+assets.video: Video/Stunt Kite Party (USA).mp4
 x-co-op: No
 x-playable: Yes
 
 
 game: Surf World Series (USA)
 file: Roms/Computer/Amazon Games/S/Surf World Series (USA)/Surf World Series (USA).json
+developer: Climax Studios
+publisher: Vision Games Publishing LTD
+genre: Sports;Individual;Surf / Wakeboard
+description:
+  Grab your board and take on legendary waves in Surf World Series, the arcade
+  surfing game that brings you to 5 of the world's most infamous surfing
+  destinations, including Bell's Beach (Australia), Waimea Bay (Hawaii),
+  Supertubos (Portugal), Cacimba do Padre (Brazil), and Jeffrey's Bay (South
+  Africa).
+  .
+  Enjoy afternoon, evening, night, and bad weather variations with different waves
+  and visual aesthetics. Perform surfing's most intense tricks, including the
+  Superman and Sushi Roll, against 15 different surfers. Design your own signature
+  surfer with 6 playable characters and thousands of customizations to have the
+  freedom to design your own unique slick style. Compete in 3 multiplayer online
+  modes: Big Heat Battle, Championship and Survival.
+release: 2017-08-30
 players: 1
+assets.boxfront: BoxFront/Surf World Series (USA).jpg
+assets.video: Video/Surf World Series (USA).mp4
 x-co-op: No
 x-playable: Yes
 
