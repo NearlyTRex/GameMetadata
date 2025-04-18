@@ -422,6 +422,9 @@ x-playable: Yes
 
 game: Behind the Frame - The Finest Scenery (USA)
 file: Roms/Computer/Epic Games/B/Behind the Frame - The Finest Scenery (USA)/Behind the Frame - The Finest Scenery (USA).json
+developer: Silver Lining Studio
+publisher: Akupara Games
+genre: Adventure;General
 description:
   Behind the Frame: The Finest Scenery
   .
@@ -446,6 +449,7 @@ description:
   Miyazaki/Studio Ghibli visuals
   .
   * Experience an evocative story, through the eyes of a passionate artist
+release: 2021-08-25
 players: 1
 assets.boxfront: BoxFront/Behind the Frame - The Finest Scenery (USA).jpg
 assets.video: Video/Behind the Frame - The Finest Scenery (USA).mp4
@@ -515,6 +519,7 @@ game: Beyond Blue (USA)
 file: Roms/Computer/Epic Games/B/Beyond Blue (USA)/Beyond Blue (USA).json
 developer: E-Line Media
 publisher: E-Line Media
+genre: Adventure;3D;Third-Person
 description:
   Beyond Blue is a single-player narrative adventure that takes you deep into our
   planet's beating blue heart.
@@ -779,6 +784,9 @@ x-playable: Yes
 
 game: Brotato (USA)
 file: Roms/Computer/Epic Games/B/Brotato (USA)/Brotato (USA).json
+developer: Blobfish
+publisher: Blobfish
+genre: Action;Shooter;Shoot-'Em-Up;Top-Down
 description:
   About the game
   .
@@ -806,6 +814,7 @@ description:
   .
   Accessibility options: tweak the health, damage and speed of enemies so the
   difficulty is right for you
+release: 2023-06-23
 players: 1
 assets.boxfront: BoxFront/Brotato (USA).jpg
 assets.video: Video/Brotato (USA).mp4
@@ -980,6 +989,7 @@ game: Cat Quest (USA)
 file: Roms/Computer/Epic Games/C/Cat Quest (USA)/Cat Quest (USA).json
 developer: The Gentlebros
 publisher: Kepler Interactive
+genre: Role-Playing;Action RPG
 description:
   Cat Quest is an open world RPG set in the pawsome world of cats!
   .
@@ -1028,6 +1038,7 @@ game: Cat Quest II (USA)
 file: Roms/Computer/Epic Games/C/Cat Quest II (USA)/Cat Quest II (USA).json
 developer: The Gentlebros
 publisher: Kepler Interactive
+genre: Role-Playing;Action RPG
 description:
   CAT QUEST II is a 2D open-world action-RPG set in a fantasy realm of cats and
   dogs.
@@ -1116,6 +1127,7 @@ description:
   into the role of the Director. The world of Control has its own story, as do the
   allies Jesse meets along the way. Jesse works with other Bureau agents and
   discovers strange experiments and secrets.
+release: 2019-08-27
 players: 1
 assets.boxfront: BoxFront/Control (USA).jpg
 assets.video: Video/Control (USA).mp4
@@ -2567,6 +2579,7 @@ game: Hot Wheels Unleashed (USA)
 file: Roms/Computer/Epic Games/H/Hot Wheels Unleashed (USA)/Hot Wheels Unleashed (USA).json
 developer: Milestone S.r.l.
 publisher: Milestone S.r.l.
+genre: Racing;Arcade;Automobile
 description:
   HOT WHEELS UNLEASHED(tm)
   .
