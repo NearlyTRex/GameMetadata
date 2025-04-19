@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "6a2cc8b03e684bbd9096a338f96a7ba2",
-        "name": "Cat Quest II",
+        "appurl": "https://store.epicgames.com/en-US/p/cat-quest-ii-9dbefc",
         "buildid": "1.0.1",
-        "appurl": "https://store.epicgames.com/en-US/p/cat-quest-ii-9dbefc"
+        "keys": [],
+        "name": "Cat Quest II",
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Cat Quest II"
+        ]
     }
 }

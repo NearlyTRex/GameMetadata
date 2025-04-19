@@ -3,6 +3,10 @@
         "appname": "4237ffc575c94a0e89ef9ab7dd884ad5",
         "appurl": "https://store.epicgames.com/en-US/p/escape-academy-bfc2bf",
         "buildid": "v3.0.6.1",
-        "name": "Escape Academy"
+        "keys": [],
+        "name": "Escape Academy",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/CoinCrewGames/Escape Academy"
+        ]
     }
 }

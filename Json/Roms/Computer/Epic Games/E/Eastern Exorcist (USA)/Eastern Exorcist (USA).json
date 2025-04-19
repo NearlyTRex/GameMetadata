@@ -3,6 +3,10 @@
         "appname": "15b19b0c4791459f8e60942b328ee460",
         "appurl": "https://store.epicgames.com/en-US/p/eastern-exorcist-d49923",
         "buildid": "1.70.0913",
-        "name": "Eastern Exorcist"
+        "keys": [],
+        "name": "Eastern Exorcist",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/WildFire/EasternExorcist"
+        ]
     }
 }

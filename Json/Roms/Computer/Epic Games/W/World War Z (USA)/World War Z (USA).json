@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "Wombat",
+        "appurl": "https://store.epicgames.com/en-US/p/world-war-z--base-game",
+        "buildid": "2.39",
+        "keys": [],
         "name": "World War Z",
-        "buildid": "2.38",
-        "appurl": "https://store.epicgames.com/en-US/p/world-war-z--base-game"
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Saber/WWZ"
+        ]
     }
 }

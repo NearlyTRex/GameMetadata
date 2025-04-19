@@ -2,7 +2,11 @@
     "epic": {
         "appname": "1136763135c0482cbbb4b2d45e978156",
         "appurl": "https://store.epicgames.com/en-US/p/vampire-survivors-f699a1",
-        "buildid": "EGS_WINDOWS-Release-BaseGame-1.12.108-21763492",
-        "name": "Vampire Survivors"
+        "buildid": "EGS_WINDOWS-Release-BaseGame-1.13.103-31427187",
+        "keys": [],
+        "name": "Vampire Survivors",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Vampire_Survivors_EGS"
+        ]
     }
 }

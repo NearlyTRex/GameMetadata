@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "f46cc053068146bdbc8a591f4c410616",
-        "name": "Crime Boss: Rockay City",
+        "appurl": "https://store.epicgames.com/en-US/p/crime-boss",
         "buildid": "1.0.0.0.1326D",
-        "appurl": "https://store.epicgames.com/en-US/p/crime-boss"
+        "keys": [],
+        "name": "Crime Boss: Rockay City",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/CrimeBoss"
+        ]
     }
 }

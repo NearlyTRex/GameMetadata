@@ -3,6 +3,10 @@
         "appname": "6d3e443c997b4ebdb61a299161b3367a",
         "appurl": "https://store.epicgames.com/en-US/p/skydrift-infinity-c4ca37",
         "buildid": "0.9a",
-        "name": "SkyDrift Infinity"
+        "keys": [],
+        "name": "SkyDrift Infinity",
+        "paths": [
+            "GAME_INSTALL_DIR/_cloudfolder"
+        ]
     }
 }

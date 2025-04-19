@@ -3,6 +3,10 @@
         "appname": "7965f1986b164300886ff35757217f54",
         "appurl": "https://store.epicgames.com/en-US/p/ender-lilies-quietus-of-the-knights-9cea76",
         "buildid": "1.1.6b-Win64-2025-01-21_10-59",
-        "name": "ENDER LILIES: Quietus of the Knights"
+        "keys": [],
+        "name": "ENDER LILIES: Quietus of the Knights",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/EnderLilies"
+        ]
     }
 }

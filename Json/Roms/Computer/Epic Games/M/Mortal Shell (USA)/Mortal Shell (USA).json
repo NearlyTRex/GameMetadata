@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "0055e45ce7654c55aade646467349e83",
-        "name": "Mortal Shell",
+        "appurl": "https://store.epicgames.com/en-US/p/mortal-shell",
         "buildid": "14707",
-        "appurl": "https://store.epicgames.com/en-US/p/mortal-shell"
+        "keys": [],
+        "name": "Mortal Shell",
+        "paths": [
+            "USER_PROFILE_DIR/My Games/MortalShell"
+        ]
     }
 }

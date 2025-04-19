@@ -2,7 +2,11 @@
     "epic": {
         "appname": "c98c934106994f2d8afc36c3f1872549",
         "appurl": "https://store.epicgames.com/en-US/p/undying",
-        "buildid": "1.0.1.37982",
-        "name": "Undying"
+        "buildid": "1.0.2.41698",
+        "keys": [],
+        "name": "Undying",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Vanimals/Undying"
+        ]
     }
 }

@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "f0ac8218ef7d4b5aabec153e3f193db6",
-        "name": "Mortal Shell Tech Beta",
+        "appurl": "https://store.epicgames.com/en-US/p/mortal-shell",
         "buildid": "9674",
-        "appurl": "https://store.epicgames.com/en-US/p/mortal-shell"
+        "keys": [],
+        "name": "Mortal Shell Tech Beta",
+        "paths": [
+            "USER_PROFILE_DIR/My Games/MortalShell"
+        ]
     }
 }

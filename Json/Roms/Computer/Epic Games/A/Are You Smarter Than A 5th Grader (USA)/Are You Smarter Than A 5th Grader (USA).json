@@ -3,6 +3,10 @@
         "appname": "8052968859fb46aea7cbc381c19188d2",
         "appurl": "https://store.epicgames.com/en-US/p/are-you-smarter-than-a-5th-grader-bc328a",
         "buildid": "6366_Shipping",
-        "name": "Are You Smarter Than A 5th Grader"
+        "keys": [],
+        "name": "Are You Smarter Than A 5th Grader",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/FifthGrader"
+        ]
     }
 }

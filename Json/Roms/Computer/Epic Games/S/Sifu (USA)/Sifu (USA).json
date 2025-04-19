@@ -3,6 +3,10 @@
         "appname": "d36336f190094951873ed6138ac208d8",
         "appurl": "https://store.epicgames.com/en-US/p/sifu",
         "buildid": "6736",
-        "name": "Sifu"
+        "keys": [],
+        "name": "Sifu",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Sifu"
+        ]
     }
 }

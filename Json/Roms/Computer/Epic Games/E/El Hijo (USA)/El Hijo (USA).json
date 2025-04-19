@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "feb56be2152940029af3bc193970799d",
-        "name": "El Hijo",
+        "appurl": "https://store.epicgames.com/en-US/p/el-hijo-6b63c5",
         "buildid": "1.02.210331.0",
-        "appurl": "https://store.epicgames.com/en-US/p/el-hijo-6b63c5"
+        "keys": [],
+        "name": "El Hijo",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/HonigStudios/el-hijo"
+        ]
     }
 }

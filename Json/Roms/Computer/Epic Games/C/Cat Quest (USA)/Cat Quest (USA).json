@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "051eaac0842c46d7a5a62858ad534d5a",
-        "name": "Cat Quest",
+        "appurl": "https://store.epicgames.com/en-US/p/cat-quest-8373e0",
         "buildid": "1.4",
-        "appurl": "https://store.epicgames.com/en-US/p/cat-quest-8373e0"
+        "keys": [],
+        "name": "Cat Quest",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/The Gentlebros Pte_ Ltd_/Cat Quest"
+        ]
     }
 }

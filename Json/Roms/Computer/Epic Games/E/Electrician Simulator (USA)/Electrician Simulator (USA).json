@@ -3,6 +3,10 @@
         "appname": "019b8e62a48c4278ac5ca98d7986cd75",
         "appurl": "https://store.epicgames.com/en-US/p/electrician-simulator-164e9f",
         "buildid": "1.8.7003",
-        "name": "Electrician Simulator"
+        "keys": [],
+        "name": "Electrician Simulator",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Take IT Studio!/Electrician"
+        ]
     }
 }

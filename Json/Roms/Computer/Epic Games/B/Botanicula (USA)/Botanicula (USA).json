@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "d26da9e047e4440a80781f13a8b7c062",
-        "name": "Botanicula",
+        "appurl": "https://store.epicgames.com/en-US/p/botanicula-50043d",
         "buildid": "1.2.7",
-        "appurl": "https://store.epicgames.com/en-US/p/botanicula-50043d"
+        "keys": [],
+        "name": "Botanicula",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Amanita-Design.Botanicula"
+        ]
     }
 }

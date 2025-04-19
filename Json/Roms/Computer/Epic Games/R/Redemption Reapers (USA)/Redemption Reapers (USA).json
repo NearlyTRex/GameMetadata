@@ -1,8 +1,12 @@
 {
     "epic": {
         "appname": "0a0841c5f62f4c59bdb78ee9b5a7d58b",
-        "name": "Redemption Reapers",
+        "appurl": "https://store.epicgames.com/en-US/p/redemption-reapers-54dabd",
         "buildid": "1.4.3.2",
-        "appurl": "https://store.epicgames.com/en-US/p/redemption-reapers-54dabd"
+        "keys": [],
+        "name": "Redemption Reapers",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/RedemptionReapers"
+        ]
     }
 }

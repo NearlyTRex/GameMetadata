@@ -2,7 +2,11 @@
     "epic": {
         "appname": "Calluna",
         "appurl": "https://store.epicgames.com/en-US/p/control",
-        "buildid": "01.13",
-        "name": "Control"
+        "buildid": "1.33",
+        "keys": [],
+        "name": "Control",
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Remedy/Control"
+        ]
     }
 }

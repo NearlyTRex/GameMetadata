@@ -3,6 +3,10 @@
         "appname": "Eel",
         "appurl": "https://store.epicgames.com/en-US/p/kingdom-come-deliverance",
         "buildid": "1.9.6-404-504czj3",
-        "name": "Kingdom Come Deliverance"
+        "keys": [],
+        "name": "Kingdom Come Deliverance",
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/KingdomCome"
+        ]
     }
 }

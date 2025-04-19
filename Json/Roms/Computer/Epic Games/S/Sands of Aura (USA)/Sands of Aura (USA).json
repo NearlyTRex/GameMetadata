@@ -3,6 +3,10 @@
         "appname": "dbee85010fa34bef9f3611faee19220e",
         "appurl": "https://store.epicgames.com/en-US/p/sands-of-aura",
         "buildid": "1.01.25",
-        "name": "Sands of Aura"
+        "keys": [],
+        "name": "Sands of Aura",
+        "paths": [
+            "GAME_INSTALL_DIR/SaveGames"
+        ]
     }
 }

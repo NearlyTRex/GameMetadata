@@ -2,7 +2,11 @@
     "epic": {
         "appname": "24b4ee8b16e4450184fe33ff871cc0ee",
         "appurl": "https://store.epicgames.com/en-US/p/terratech-02ab0a",
-        "buildid": "1.6.4.2-Win64",
-        "name": "TerraTech"
+        "buildid": "1.6.7-Win64",
+        "keys": [],
+        "name": "TerraTech",
+        "paths": [
+            "USER_PROFILE_DIR/My Games/TerraTech"
+        ]
     }
 }
