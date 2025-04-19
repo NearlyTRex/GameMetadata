@@ -211,6 +211,52 @@ x-co-op: No
 x-playable: Yes
 
 
+game: EQI (USA)
+file: Roms/Computer/Zoom/E/EQI (USA)/EQI (USA).json
+developer: Chopin et al.
+publisher: Hyperstrange
+genre: Action;Platformer;3D
+description:
+  Experience. Question. Interface.
+  .
+  EQI is a trippy first-person arcade game with spatial puzzles, and a synthwave
+  soul. You find yourself in a digital world that twists and changes around you,
+  challenging your senses, focus, and reflexes.
+  .
+  Interface with the great mystery and transcend.
+release: 2021-01-15
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
+game: Heroine's Quest - The Herald of Ragnarok (USA)
+file: Roms/Computer/Zoom/H/Heroine's Quest - The Herald of Ragnarok (USA)/Heroine's Quest - The Herald of Ragnarok (USA).json
+developer: Crystal Shard
+publisher: Screen 7
+genre: Adventure;Point-and-Click
+description:
+  Explore the rich world of Nordic mythology! Egther, last of the Frost Giants,
+  has sworn to turn all the world to ice. A young heroine is called to fight him,
+  but first she must survive the harsh environment, battle hostile trolls, and
+  deal with many creatures and characters from the classic myths.
+  .
+  Heroine's Quest: The Herald of Ragnarok is an adventure / RPG hybrid. Like in
+  many adventure games, you have a world to save, and must use your wit, guile and
+  inventory to puzzle your way through. Like in many roleplaying games, you can
+  customize your character with various classes and skills, and must train
+  yourself in combat to stand a chance against the fierce monsters in your way.
+  .
+  Each class has her own solution to the numerous obstacles, where the warrior is
+  the most straightforward to play, the sorceress focuses on smart solutions and
+  finding the right spell for the situation, and the rogue cheats her way through
+  life without getting caught.
+release: 2014-03-20
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Killing Time (USA)
 file: Roms/Computer/Zoom/K/Killing Time (USA)/Killing Time (USA).json
 developer: ONEONE1
@@ -240,6 +286,34 @@ release: 2017-09-20
 players: 1
 assets.boxfront: BoxFront/Killing Time (USA).jpg
 assets.video: Video/Killing Time (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Liquidator (USA)
+file: Roms/Computer/Zoom/L/Liquidator (USA)/Liquidator (USA).json
+developer: Parallax Art Studio
+publisher: Strategy First
+genre: Action;Shooter;First-Person;Arcade
+description:
+  *Please note: This game is only available in the Russian language, there are
+  no other language options available.*
+  .
+  There's a fan-made English translation on Github. Also a smaller one for the
+  Slovak language.
+  .
+  Play this game, and you'll realize that everything you knew about HELL was
+  actually PARADISE.
+  .
+  "LIQUIDATOR" will shed light on the true state of events. You'll even get to
+  choose the paths you take to Hell, there are three of them. All of them are
+  similar to the post-perestroika era. Each one has many stages and even more
+  monsters.
+  .
+  Tear them apart and taste their blood... and don't forget the secret tilde
+  kick!
+release: 2024-10-31
+players: 1
 x-co-op: No
 x-playable: Yes
 
@@ -491,6 +565,24 @@ players: 4
 assets.boxfront: BoxFront/Warzone 2100 (USA).jpg
 assets.video: Video/Warzone 2100 (USA).mp4
 x-co-op: Yes
+x-playable: Yes
+
+
+game: Wolfenstein - Enemy Territory (USA)
+file: Roms/Computer/Zoom/W/Wolfenstein - Enemy Territory (USA)/Wolfenstein - Enemy Territory (USA).json
+developer: Splash Damage
+publisher: Activision
+genre: Action;Shooter;First-Person;Tactical
+description:
+  Wolfenstein: Enemy Territory is a free-to-play, objective-based multiplayer
+  World War II first-person shooter. Featuring up to thirty-two (32) players,
+  choose either the Axis or the Allies, as you fight across six (6) maps based
+  on real-world battle locations. Play as one of five (5) unique classes
+  (Engineer, Medic, Soldier, Field Ops, and Covert Ops) as you work with your
+  team to complete key objectives necessary for victory.
+release: 2003-05-29
+players: 1
+x-co-op: No
 x-playable: Yes
 
 

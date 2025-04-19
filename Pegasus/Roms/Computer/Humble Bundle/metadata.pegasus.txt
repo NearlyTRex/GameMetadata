@@ -67,6 +67,21 @@ x-co-op: No
 x-playable: Yes
 
 
+game: App Game Kit 2 (USA)
+file: Roms/Computer/Humble Bundle/A/App Game Kit 2 (USA)/App Game Kit 2 (USA).json
+developer: The Game Creators
+publisher: The Game Creators
+genre: Miscellaneous;Application
+description:
+  App Game Kit (AGK) will be a new and enhanced version of our current App Game
+  Kit product. AGK is already used by hundreds of developers around the world,
+  helping them to quickly create games and utility apps that can be coded once
+  and then deployed across popular mobile platforms.
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Bastion (USA)
 file: Roms/Computer/Humble Bundle/B/Bastion (USA)/Bastion (USA).json
 developer: Supergiant Games
@@ -1016,6 +1031,23 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Multimedia Fusion 2 (USA)
+file: Roms/Computer/Humble Bundle/M/Multimedia Fusion 2 (USA)/Multimedia Fusion 2 (USA).json
+developer: Clickteam
+publisher: Clickteam
+genre: Miscellaneous;Application
+description:
+  A powerful and user-friendly game and app creation tool, Multimedia Fusion 2
+  lets you design 2D games and interactive software without writing a single
+  line of code. Offered in a special bundle by Humble Bundle, this version
+  includes essential features for indie developers and hobbyists to quickly
+  bring their ideas to life with drag-and-drop logic and real-time previews.
+release: 2006-06-30
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Neverending Nightmares (USA)
 file: Roms/Computer/Humble Bundle/N/Neverending Nightmares (USA)/Neverending Nightmares (USA).json
 developer: Infinitap Games
@@ -1190,6 +1222,22 @@ release: 2016-01-04
 players: 1
 assets.boxfront: BoxFront/Pony Island (USA).jpg
 assets.video: Video/Pony Island (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Pro Motion 6.5 (USA)
+file: Roms/Computer/Humble Bundle/P/Pro Motion 6.5 (USA)/Pro Motion 6.5 (USA).json
+developer: Cosmigo Software Development
+publisher: BrashMonkey LLC
+genre: Miscellaneous;Application
+description:
+  Pro Motion is a pixel art and animation software designed for creating
+  detailed and pixel-precise graphics, ideal for mobile games and portable game
+  consoles. It offers features similar to the classic Amiga Deluxe Paint,
+  catering to artists working on sprites, images, and tile sets.
+release: 2017-09-25
+players: 1
 x-co-op: No
 x-playable: Yes
 
@@ -1441,6 +1489,22 @@ release: 2013-03-29
 players: 1
 assets.boxfront: BoxFront/Spookening, The (USA).jpg
 assets.video: Video/Spookening, The (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Sprite Lamp (USA)
+file: Roms/Computer/Humble Bundle/S/Sprite Lamp (USA)/Sprite Lamp (USA).json
+developer: Snake Hill Games
+publisher: Snake Hill Games
+genre: Miscellaneous;Application
+description:
+  Sprite Lamp is a tool for combining the visual styles possible with 2D art,
+  such as painted or pixel-art looks, with dynamic lighting found in modern
+  games. Game developers can create games in the style of classics like Metal
+  Slug or Braid, enhanced with dynamic lighting effects.
+release: 2014-09-25
+players: 1
 x-co-op: No
 x-playable: Yes
 
