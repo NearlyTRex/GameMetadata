@@ -1330,6 +1330,54 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Berserk Boy (USA)
+file: Roms/Computer/GOG/B/Berserk Boy (USA)/Berserk Boy (USA).json
+developer: BerserkBoy Games
+publisher: BerserkBoy Games
+genre: Action;Adventure;Platformer
+description:
+  BERSERK BOY is a high speed action packed Platformer, with Metroidvania
+  elements. Packed with vibrant and stylish pixel art. Go Berserk! as you change
+  into different forms and use the power of Lightning, Fire, Ice, Air, and Earth
+  to save the planet!
+  .
+  In the distant future, a mad scientist and his army of darkness seek to enslave
+  the people of Earth. Hope for all humanity rests with The Resistance, but are
+  they enough? Enter Kei, a rookie hero who is transformed by mysterious Orb
+  energy into BERSERK BOY!
+  .
+  With high-speed action and the power to defeat evil, BERSERK BOY must face off
+  against the diabolical Dr. Genos and his army of Dark Energy minions. Can he
+  save the world before it's too late? It's time to GO BERSERK!
+  .
+  Features
+  .
+  Unleash your ultimate form: with the power of the Berserk Orbs - Lightning,
+  Fire, Earth, Air, and Ice - and become a force to be reckoned with!
+  .
+  Go Berserk! Become a master of speed and skill as you chain together combos to
+  fill your Berserk Meter and unleash devastating special attacks! Upgrade your
+  abilities and become an unstoppable force!
+  .
+  Explore the sprawling world of New Hope City! and beyond, unlock hidden missions
+  along the way. Jump, dash, slam, and slide through multiple stages with
+  Metroidvania elements as you discover alternate paths and hidden collectibles!
+  .
+  BERSERK BOY brings retro gaming: into the modern age with slick and stylish
+  platforming action. Inspired by the genre greats, you'll be able to play for big
+  scores and fast times in this modern adventure with a retro feel.
+  .
+  Music by Sonic Mania composer Tee Lopes: Soundtrack by the master behind other
+  amazing works such as the TMNT soundtrack, Streets of Rage 4, Metal Slug
+  Tactics, and more! Enjoy the high-energy beats as you Go Berserk and save the
+  world!
+release: 2024-03-06
+players: 1
+x-url: https://www.gog.com/en/game/berserk_boy
+x-co-op: No
+x-playable: Yes
+
+
 game: Betrayer (USA)
 file: Roms/Computer/GOG/B/Betrayer (USA)/Betrayer (USA).json
 developer: Blackpowder Games
@@ -1979,6 +2027,58 @@ players: 1
 assets.boxfront: BoxFront/Blood - Fresh Supply (USA).jpg
 assets.video: Video/Blood - Fresh Supply (USA).mp4
 x-url: https://www.gog.com/en/game/blood_fresh_supply
+x-co-op: No
+x-playable: Yes
+
+
+game: Blood Omen - Legacy of Kain (USA)
+file: Roms/Computer/GOG/B/Blood Omen - Legacy of Kain (USA)/Blood Omen - Legacy of Kain (USA).json
+developer: Crystal Dynamics
+publisher: Crystal Dynamics
+genre: Action;Adventure;Fantasy
+description:
+  One of the darkest games of all time, Blood Omen: Legacy of Kain for the PC
+  takes gamers on an epic quest through a gothic universe fraught with murder,
+  magic and vengeance.
+  .
+  Accentuated with cinema-quality voice-overs, dynamic lighting effects and more
+  than 25 minutes of stunning full-motion-video footage, Legacy of Kain features
+  an engrossing storyline that invites gamers to embark on a journey through an
+  expansive world containing more than 100 hours of intense, blood-sucking, spell-
+  casting gameplay.
+  .
+  The nobleman Kain has been slain by a group of bandits and in his death, he is
+  revived by the necromancer Mortanius for his own ends. Kain is returned in the
+  form of a vampire and yearns to exact vengeance on those who killed him.
+  Stronger and faster than a human being, coupled with a thirst for blood that
+  must be satisfied regularly, he is able to dispatch his killers quickly.
+  However, Mortanius and other forces seek to use him as a tool in a greater plot.
+  Mortanius is of the Circle of Nine, the guardians of the Pillars of Nosgoth.
+  These pillars, connected to the world and balancing the forces, have become
+  corrupted and the Circle members been driven mad. At the Pillars, Kain meets
+  Ariel - a former guardian of the Pillar of Balance, now a spirit after being
+  murdered by an unseen assailant. She informs Kain of his relation to the Pillars
+  and that the only way for him to restore the balance is to seek out each
+  guardian and kill them. The fate of Nosgoth may hang on Kain decisions.
+  .
+  Blood Omen: Legacy of Kain is an action game where the player controls the
+  vampiric Kain. As a vampire, Kain is able to withstand sunlight, but is harmed
+  by water. However, he is able to obtain several cursed abilities and spells such
+  as being able to transform into a bat, wolf, and even a cloud mist respectively,
+  as well as learning the ability to disguise himself from creatures of weaker
+  mind. Kain is also fixated on murder and is a master of several ways to kill and
+  destroy his opponents. As the enemies are slain in front of him, Kain may drink
+  their blood to restore his health, which is always trickling away,
+  representative of his insatiable craving. To aid in the slaughter of his
+  enemies, Kain may equip different weapons and armor, each with its own unique
+  properties.
+  .
+  BLOOD OMEN (c) 1996 Crystal Dynamics group of companies. All rights reserved.
+  BLOOD OMEN, LEGACY OF KAIN, CRYSTAL DYNAMICS, and the CRYSTAL DYNAMICS logo are
+  trademarks of the Crystal Dynamics group of companies.
+release: 1996-11-11
+players: 1
+x-url: https://www.gog.com/en/game/blood_omen_legacy_of_kain
 x-co-op: No
 x-playable: Yes
 
@@ -10931,6 +11031,101 @@ players: 1
 assets.boxfront: BoxFront/Last Door, The - Collector's Edition (USA).jpg
 assets.video: Video/Last Door, The - Collector's Edition (USA).mp4
 x-url: https://www.gog.com/en/game/last_door_collectors_edition_the
+x-co-op: No
+x-playable: Yes
+
+
+game: Last Spell, The (USA)
+file: Roms/Computer/GOG/L/Last Spell, The (USA)/Last Spell, The (USA).json
+developer: Ishtar Games
+publisher: Nacon, The Arcade Crew
+genre: Role-playing;Turn-based;Fantasy
+description:
+  In a desperate move to end all wars that have been rampaging the world for
+  decades, the mages provoked The Cataclysm. Massive balls of pure magic
+  obliterated nearly everything. A strange purple mist propagated everywhere, with
+  hordes of bloodthirsty mutants coming at night.
+  .
+  Our only hope is now to banish all magic from this accursed world by casting The
+  Last Spell, requiring several days of uninterrupted incantation whilst a few
+  strained Heroes try to protect those damned mages.
+  .
+  The Last Spell is a tactical RPG with roguelite elements in which you have to
+  defend a city against hordes of deadly enemies.
+  .
+  During daytime, prepare your Heroes, carefully choose how to rebuild your Haven
+  and position your defenses. Over the night, exterminate all the monsters coming
+  at your walls with a large range of weapons and skills. Then heal, level up, and
+  repeat until the Magic Seal is broken.
+  .
+  Turn-Based Tactical RPG:
+  .
+  * The whole RPG package: a flurry of stats, skills, perks, traits... and more.
+  .
+  * Tons of items: armors, weapons, trinkets and potions... with their own stats
+  and skills, as well as optional random modifiers. Each weapon has its own
+  skillset and playstyle!
+  .
+  * Build your own classes: upgrade your heroes with stat bonuses and perks, and
+  equip whatever gear you wish. Want to make a glass cannon rogue/mage fighting
+  with a gun? Do it!
+  .
+  * Manage your squad of heroes: they're strong, but they are few and have access
+  to limited resources. Healing and mana are scarce, so try to find a good
+  balance.
+  .
+  Hordes of Evil:
+  .
+  * Think and adapt: you will face swarms of deadly enemies with only a few
+  hardened heroes. Optimize your positioning and plan your actions: big AOE
+  attacks, crowd control, buffs, poison... Every Action Point counts towards
+  another day of survival.
+  .
+  * Enemies have strengths and weaknesses that will challenge your wits. And
+  because hard is not enough for us, be prepared for the terrifying Elites!
+  .
+  * Each map will end with epic fights against unique mind-bending bosses.
+  .
+  Protect the Haven:
+  .
+  * Rebuild the city to help you in-between fights. Get healed, forge new magical
+  weapons, get new heroes. Spend your resources wisely, commander!
+  .
+  * Build up your defenses: walls, traps, towers, catapults... every tiny bit of
+  help is welcome.
+  .
+  * Protect the Magic Circle at all costs! If you lose it, humanity is doomed.
+  .
+  * 5 Havens to protect, each with their own setup and challenges requiring you to
+  tailor your strategy to beat the Great Evil.
+  .
+  Roguelite Elements:
+  .
+  * The game is meant to be hard. You will fail... A lot. But every time you do,
+  you'll grow harder, better, faster, stronger!
+  .
+  * Procedurally generated enemy waves, characters, weapons and a ton of
+  unlockables will keep you entertained until the real world collapses.
+  .
+  * Tailor each run thanks to the Omens: a limited amount of bonuses that can be
+  picked for the upcoming run. Do you prefer more Action Points, more characters,
+  sturdier defenses, better loot? Experiment to find your preferred tools of
+  destruction.
+  .
+  * Scale the difficulty to your liking, with 6 levels of Apocalypse to entertain
+  even the most crazy hardcore players.
+  .
+  Headbanger Soundtrack:
+  .
+  * Over 25 tracks of thunderous synths-driven progressive metal to guide you
+  through this joyous slaughterfest
+  .
+  * Composed by the incredible Remi - The Algorithm - Gallego
+  .
+  (c)The Arcade Crew - Ishtar Games - 2021, all rights reserved.
+release: 2023-03-09
+players: 1
+x-url: https://www.gog.com/en/game/the_last_spell
 x-co-op: No
 x-playable: Yes
 
@@ -22480,6 +22675,102 @@ players: 1
 assets.boxfront: BoxFront/Whispering Willows (USA).jpg
 assets.video: Video/Whispering Willows (USA).mp4
 x-url: https://www.gog.com/en/game/whispering_willows
+x-co-op: No
+x-playable: Yes
+
+
+game: Wild Country (USA)
+file: Roms/Computer/GOG/W/Wild Country (USA)/Wild Country (USA).json
+developer: Lost Native
+publisher: Lost Native, The Iterative Collective
+genre: Adventure;Card Game;Fantasy
+description:
+  WILD COUNTRY is a fantastical strategy game where players use beautifully
+  illustrated cards to construct buildings and perform abilities to build the best
+  city. Buildings score points, and the first to reach the objective wins!
+  .
+  Wild Country combines CCG gameplay with innovative mechanics inspired by classic
+  city-building games to create something unique and approachable. This game is
+  for people looking for something wholesome, comedic, strategic, and full of
+  things to do.
+  .
+  Do you have what it takes to win?
+  .
+  Feature Overview
+  .
+  Build your deck of 30 cards. Each card represents a Building, Ability, or Event
+  with a unique action. The goal of the game is to outsmart and outearn your
+  rival.
+  .
+  Play cards to place buildings and earn enough profit, but remember that placing
+  certain building types next to one another can have positive (or negative)
+  effects.
+  .
+  There is always something new to collect, learn, and master. There's a deck for
+  every personality and playstyle, and it's up to you to discover your winning
+  strategy.
+  .
+  Grow your collection and stand out from the crowd! There's a ton to customize,
+  from mayors, skins, and outfits to flags, emotes, and cards.
+  .
+  Embark on a journey like no other! Advance through a campaign bursting with
+  mysteries to discover, quests to uncover, and things to do.
+  .
+  Grab your friends to join the chaos with competitive and casual game modes!
+  .
+  Don't be afraid if you're new to the genre! Anyone can join the fun with
+  intuitive mechanics and customizable gameplay options to suit your needs.
+  .
+  Compete against rival competitors in a battle to build the best city. Watch out
+  for earthquakes, snowstorms, and rebellious raccoons. Unpredictable events test
+  your resolve or turn the tide of battle.
+  .
+  Whether new to card games or a seasoned fan, Wild Country offers endless
+  replayability, strategic gameplay, and unpredictable mischief.
+  .
+  There is always something new to collect, learn, and master. There's a deck for
+  every personality and playstyle, and it's up to you to find the cards for your
+  winning strategy.
+  .
+  Select and customize from a wild cast of characters, each with their own
+  personalities.
+  .
+  Embark on a journey like no other and complete Wild Country's expansive story
+  campaign.
+  .
+  Explore Big Sky Canyon, an idyllic region scattered with a colorful cast of
+  characters. Some think you're cool, some are determined to beat you, and others
+  might be from the future.
+  .
+  Collect cards, discover mysteries, and battle other competitors in the single-
+  player campaign... Or just enjoy the view.
+  .
+  Take your cards online and compete in both casual and ranked matches!
+  .
+  Make friends, make rivals, make profit, and have fun!
+  .
+  NO EXPERIENCE NECESSARY
+  .
+  Never played a CCG or City Builder before? No problem! Wild Country is easy to
+  pick up and play, with plenty of depth for those with the skills.
+  .
+  Anyone can join the fun with patient mechanics and customizable gameplay to suit
+  your needs. Need extra time? Opponent too difficult? Don't worry, you can change
+  all that.
+  .
+  REGULAR UPDATES & EVENTS
+  .
+  Regular updates, events, and limited-time content keep WILD COUNTRY fresh and
+  exciting.
+  .
+  Free updates containing fixes and improvements, as well as new quests,
+  challenges, and collectible content, help to improve your experience, grow your
+  collection, and keep your claws sharp.
+  .
+  The next update is never too far away.
+release: 2024-11-25
+players: 1
+x-url: https://www.gog.com/en/game/wild_country
 x-co-op: No
 x-playable: Yes
 
