@@ -3,7 +3,12 @@
         "Spookening_Windows.exe"
     ],
     "humble": {
-        "appname": "thespookening"
+        "appid": "92d2e03f-39e0-4649-a253-b3f6b53cab28",
+        "appname": "thespookening",
+        "buildid": "1.0",
+        "keys": [],
+        "name": "The Spookening",
+        "paths": []
     },
     "transform_file": "Spookening_Windows.exe"
 }

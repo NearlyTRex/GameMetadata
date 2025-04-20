@@ -9,7 +9,12 @@
         "super_hexagon-windows.exe"
     ],
     "humble": {
-        "appname": "superhexagon_android_pc"
+        "appid": "fc695e22-145d-4354-b705-3913b45ce61b",
+        "appname": "superhexagon_android_pc",
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Super Hexagon",
+        "paths": []
     },
     "transform_file": "super_hexagon-windows.exe"
 }

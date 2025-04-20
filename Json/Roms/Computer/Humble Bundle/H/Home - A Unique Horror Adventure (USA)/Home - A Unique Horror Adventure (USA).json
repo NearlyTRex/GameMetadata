@@ -3,7 +3,12 @@
         "home-windows-v1.6.3.exe"
     ],
     "humble": {
-        "appname": "home"
+        "appid": "aac3a3eb-6749-4cbd-8ea3-e261cf6f2eb3",
+        "appname": "home",
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Home",
+        "paths": []
     },
     "transform_file": "home-windows-v1.6.3.exe"
 }

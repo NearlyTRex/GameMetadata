@@ -10,7 +10,12 @@
         "nightskyWindows110Regular.exe"
     ],
     "humble": {
-        "appname": "nightsky_android_pc"
+        "appid": "fab4e55c-626e-4c86-b723-721d0a9a9d4c",
+        "appname": "nightsky_android_pc",
+        "buildid": "1.0",
+        "keys": [],
+        "name": "NightSky",
+        "paths": []
     },
     "transform_file": "NightSkyHD_Win_1217.exe"
 }

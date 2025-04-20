@@ -9,7 +9,12 @@
         "extra/splice-ost-mp3.zip"
     ],
     "humble": {
-        "appname": "splice"
+        "appid": "12ee0da6-c021-4ded-94f4-9b72a2ed3a23",
+        "appname": "splice",
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Splice",
+        "paths": []
     },
     "transform_file": "Splice_Win32.exe"
 }
