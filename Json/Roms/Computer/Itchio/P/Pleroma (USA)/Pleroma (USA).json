@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "466511",
         "appurl": "https://thealeks.itch.io/pleroma",
-        "name": "Pleroma"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Pleroma",
+        "paths": []
     },
     "transform_file": "Pleroma (USA).exe"
 }

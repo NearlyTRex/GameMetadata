@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "30028",
         "appurl": "https://onemrbean.itch.io/choicechamber",
-        "name": "Choice Chamber"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Choice Chamber",
+        "paths": []
     },
     "transform_file": "Choice Chamber (USA).exe"
 }

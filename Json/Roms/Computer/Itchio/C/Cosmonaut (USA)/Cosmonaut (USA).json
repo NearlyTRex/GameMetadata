@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "140240",
         "appurl": "https://apprenticesoft.itch.io/cosmonaut",
-        "name": "Cosmonaut"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Cosmonaut",
+        "paths": []
     },
     "transform_file": "Cosmonaut (USA).exe"
 }

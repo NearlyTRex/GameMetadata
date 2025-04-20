@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "344215",
         "appurl": "https://josephgribbin.itch.io/magnibox",
-        "name": "Magnibox"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Magnibox",
+        "paths": []
     },
     "transform_file": "Magnibox (USA).exe"
 }

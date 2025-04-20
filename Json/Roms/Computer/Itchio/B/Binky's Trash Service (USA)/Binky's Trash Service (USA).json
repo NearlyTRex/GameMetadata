@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "1042138",
         "appurl": "https://ondydev.itch.io/binkys-trash-service",
-        "name": "Binky's Trash Service"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Binky's Trash Service",
+        "paths": []
     },
     "transform_file": "Binky's Trash Service (USA).exe"
 }

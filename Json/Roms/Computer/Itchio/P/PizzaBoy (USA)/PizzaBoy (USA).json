@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "293769",
         "appurl": "https://extron.itch.io/pizzaboy",
-        "name": "PizzaBoy"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "PizzaBoy",
+        "paths": []
     },
     "transform_file": "PizzaBoy (USA).exe"
 }

@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "111017",
         "appurl": "https://hydezeke.itch.io/flamberge",
-        "name": "FLAMBERGE"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "FLAMBERGE",
+        "paths": []
     },
     "transform_file": "Flamberge (USA).exe"
 }

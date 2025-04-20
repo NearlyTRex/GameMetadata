@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "440512",
         "appurl": "https://yifatshaik.itch.io/conversations-with-emma",
-        "name": "Conversations With Emma"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Conversations With Emma",
+        "paths": []
     },
     "transform_file": "Conversations With Emma (USA).exe"
 }

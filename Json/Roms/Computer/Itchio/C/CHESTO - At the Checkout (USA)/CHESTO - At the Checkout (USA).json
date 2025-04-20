@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "28048",
         "appurl": "https://josefwho.itch.io/chesto",
-        "name": "CHESTO - At the Checkout"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "CHESTO - At the Checkout",
+        "paths": []
     },
     "transform_file": "CHESTO - At the Checkout (USA).exe"
 }

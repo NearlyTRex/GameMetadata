@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "414746",
         "appurl": "https://extrone.itch.io/neolite",
-        "name": "NeoLite"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "NeoLite",
+        "paths": []
     },
     "transform_file": "NeoLite (USA).exe"
 }

@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "1280938",
         "appurl": "https://cakeneq.itch.io/provider",
-        "name": "PROVIDER"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "PROVIDER",
+        "paths": []
     },
     "transform_file": "Provider (USA).exe"
 }

@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "64533",
         "appurl": "https://antworkshop.itch.io/binaries",
-        "name": "Binaries"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Binaries",
+        "paths": []
     },
     "transform_file": "Binaries (USA).exe"
 }

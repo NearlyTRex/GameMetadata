@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "287073",
         "appurl": "https://rootstudio.itch.io/bitcoin-miner-remastered",
-        "name": "Bitcoin Miner: Remastered"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Bitcoin Miner: Remastered",
+        "paths": []
     },
     "transform_file": "Bitcoin Miner - Remastered (USA).exe"
 }

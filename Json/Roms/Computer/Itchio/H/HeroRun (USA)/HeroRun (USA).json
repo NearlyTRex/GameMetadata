@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "223227",
         "appurl": "https://cannibalinteractive.itch.io/herorun",
-        "name": "HeroRun"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "HeroRun",
+        "paths": []
     },
     "transform_file": "HeroRun (USA).exe"
 }

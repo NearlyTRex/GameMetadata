@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "216137",
         "appurl": "https://kenney.itch.io/keycars",
-        "name": "KeyCars"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "KeyCars",
+        "paths": []
     },
     "transform_file": "KeyCars (USA).exe"
 }

@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "546140",
         "appurl": "https://argent-games.itch.io/self-checkout-unlimited",
-        "name": "Self-Checkout Unlimited"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Self-Checkout Unlimited",
+        "paths": []
     },
     "transform_file": "Self-Checkout Unlimited (USA).exe"
 }

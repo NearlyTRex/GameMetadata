@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "392429",
         "appurl": "https://dicey.itch.io/mr-mayor",
-        "name": "mr mayor tells your fortune recounts a story and offers you snacks"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "mr mayor tells your fortune recounts a story and offers you snacks",
+        "paths": []
     },
     "transform_file": "Mr Mayor Tells Your Fortune (USA).exe"
 }

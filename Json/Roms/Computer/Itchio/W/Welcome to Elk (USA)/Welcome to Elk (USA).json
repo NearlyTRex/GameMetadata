@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "1092220",
         "appurl": "https://triple-topping.itch.io/welcome-to-elk",
-        "name": "Welcome to Elk"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Welcome to Elk",
+        "paths": []
     },
     "transform_file": "Welcome to Elk (USA).exe"
 }

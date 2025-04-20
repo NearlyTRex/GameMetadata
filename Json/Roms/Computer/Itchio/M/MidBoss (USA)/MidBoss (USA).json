@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "19309",
         "appurl": "https://eniko.itch.io/midboss",
-        "name": "MidBoss"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "MidBoss",
+        "paths": []
     },
     "transform_file": "MidBoss (USA).exe"
 }

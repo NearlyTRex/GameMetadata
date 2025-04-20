@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "604259",
         "appurl": "https://phrssoftware.itch.io/2d-flight-simulator",
-        "name": "2d flight simulator"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "2d flight simulator",
+        "paths": []
     },
     "transform_file": "2D Flight Simulator (USA).exe"
 }

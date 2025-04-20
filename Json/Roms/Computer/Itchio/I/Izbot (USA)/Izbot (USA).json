@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "14754",
         "appurl": "https://ruxar.itch.io/izbot",
-        "name": "iZBOT"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "iZBOT",
+        "paths": []
     },
     "transform_file": "Izbot (USA).exe"
 }

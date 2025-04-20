@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "433000",
         "appurl": "https://hellotheregames.itch.io/carbage",
-        "name": "CARBAGE"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "CARBAGE",
+        "paths": []
     },
     "transform_file": "Carbage (USA).exe"
 }

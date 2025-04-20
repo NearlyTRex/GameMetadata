@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "45666",
         "appurl": "https://rustylake.itch.io/rustylakehotel",
-        "name": "Rusty Lake Hotel"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Rusty Lake Hotel",
+        "paths": []
     },
     "transform_file": "Rusty Lake Hotel (USA).exe"
 }

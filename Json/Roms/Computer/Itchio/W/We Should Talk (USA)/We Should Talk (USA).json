@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "255035",
         "appurl": "https://weshouldtalk.itch.io/we-should-talk",
-        "name": "We should talk."
+        "buildid": "1.0",
+        "keys": [],
+        "name": "We should talk.",
+        "paths": []
     },
     "transform_file": "We Should Talk (USA).exe"
 }

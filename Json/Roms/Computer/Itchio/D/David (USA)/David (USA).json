@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "5378",
         "appurl": "https://fermenter.itch.io/david",
-        "name": "David"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "David",
+        "paths": []
     },
     "transform_file": "David (USA).exe"
 }

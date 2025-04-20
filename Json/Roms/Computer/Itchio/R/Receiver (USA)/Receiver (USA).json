@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "404608",
         "appurl": "https://wolfiregames.itch.io/receiver",
-        "name": "Receiver"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Receiver",
+        "paths": []
     },
     "transform_file": "Receiver (USA).exe"
 }

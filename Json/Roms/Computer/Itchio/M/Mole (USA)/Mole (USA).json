@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "302002",
         "appurl": "https://badjano.itch.io/mole",
-        "name": "Mole"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Mole",
+        "paths": []
     },
     "transform_file": "Mole (USA).exe"
 }

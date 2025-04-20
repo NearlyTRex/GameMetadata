@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "40175",
         "appurl": "https://magicdweedoo.itch.io/ticket",
-        "name": "TICKET"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "TICKET",
+        "paths": []
     },
     "transform_file": "Ticket (USA).exe"
 }

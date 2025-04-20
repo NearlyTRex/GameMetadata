@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "238392",
         "appurl": "https://monothetic.itch.io/beacon",
-        "name": "BEACON"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "BEACON",
+        "paths": []
     },
     "transform_file": "Beacon (USA).exe"
 }

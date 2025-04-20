@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "666985",
         "appurl": "https://demmydev.itch.io/triattack",
-        "name": "tri.Attack();"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "tri.Attack();",
+        "paths": []
     },
     "transform_file": "Tri Attack (USA).exe"
 }

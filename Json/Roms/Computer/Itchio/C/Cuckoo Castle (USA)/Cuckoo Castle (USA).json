@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "33700",
         "appurl": "https://rilem.itch.io/cuckoo-castle",
-        "name": "Cuckoo Castle"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Cuckoo Castle",
+        "paths": []
     },
     "transform_file": "Cuckoo Castle (USA).exe"
 }

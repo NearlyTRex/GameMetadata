@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "360511",
         "appurl": "https://rosalievile.itch.io/onlinesimulator",
-        "name": "Online Simulator"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Online Simulator",
+        "paths": []
     },
     "transform_file": "Online Simulator (USA).exe"
 }

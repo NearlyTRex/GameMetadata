@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "150631",
         "appurl": "https://zerofiftyone.itch.io/evader",
-        "name": "EVADER"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "EVADER",
+        "paths": []
     },
     "transform_file": "Evader (USA).exe"
 }

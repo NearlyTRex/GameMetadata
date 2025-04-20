@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "120345",
         "appurl": "https://odrez.itch.io/fumiko",
-        "name": "Fumiko!"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "Fumiko!",
+        "paths": []
     },
     "transform_file": "Fumiko! (USA).exe"
 }

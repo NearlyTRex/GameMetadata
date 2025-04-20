@@ -5,7 +5,10 @@
     "itchio": {
         "appid": "80001",
         "appurl": "https://ebihime.itch.io/this-world-unknown",
-        "name": "This World Unknown"
+        "buildid": "1.0",
+        "keys": [],
+        "name": "This World Unknown",
+        "paths": []
     },
     "transform_file": "This World Unknown (USA).exe"
 }
