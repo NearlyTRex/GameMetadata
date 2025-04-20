@@ -988,6 +988,14 @@ x-co-op: Yes
 x-playable: Yes
 
 
+game: AtmaSphere (USA)
+file: Roms/Computer/Steam/A/AtmaSphere (USA)/AtmaSphere (USA).json
+players: 1
+x-url: https://store.steampowered.com/app/753660
+x-co-op: No
+x-playable: Yes
+
+
 game: Aveyond 3-1 - Lord of Twilight (USA)
 file: Roms/Computer/Steam/A/Aveyond 3-1 - Lord of Twilight (USA)/Aveyond 3-1 - Lord of Twilight (USA).json
 developer: Amaranth Games
@@ -9894,6 +9902,14 @@ players: 1
 assets.boxfront: BoxFront/Metro - Last Light Complete Edition (USA).jpg
 assets.video: Video/Metro - Last Light Complete Edition (USA).mp4
 x-url: https://store.steampowered.com/app/43160
+x-co-op: No
+x-playable: Yes
+
+
+game: Metro 2033 Redux (USA)
+file: Roms/Computer/Steam/M/Metro 2033 Redux (USA)/Metro 2033 Redux (USA).json
+players: 1
+x-url: https://store.steampowered.com/app/286690
 x-co-op: No
 x-playable: Yes
 
