@@ -2240,6 +2240,26 @@
         "size_enc": 1344944385
     },
     {
+        "dir": "Roms/Computer/Disc/H/Haunted Dual Pack (USA)",
+        "filename": "Haunted Dual Pack (USA).chd",
+        "filename_enc": "2c8e9961171a9195af2bb80a6f331447.enc",
+        "hash": "a23fc212dff9648b",
+        "hash_enc": "5bc55b9da3ea2dee07bdcaafa3c82eb2",
+        "mtime": 1745143381,
+        "size": 709495813,
+        "size_enc": 709495913
+    },
+    {
+        "dir": "Roms/Computer/Disc/H/Haunted Hotel 2-Pack (USA)",
+        "filename": "Haunted Hotel 2-Pack (USA).chd",
+        "filename_enc": "e91d92a924bef60ccf6cf50f258b2ccc.enc",
+        "hash": "be617e54c1fd2fe0",
+        "hash_enc": "19645dc03ffe57012b8055de428db01c",
+        "mtime": 1745143543,
+        "size": 160023603,
+        "size_enc": 160023706
+    },
+    {
         "dir": "Roms/Computer/Disc/H/Hexen - Beyond Heretic (USA)",
         "filename": "Hexen - Beyond Heretic (USA) (Update).chd",
         "filename_enc": "8f9ddb69c0fac62e0789d737b596ef2e.enc",
@@ -4828,6 +4848,16 @@
         "mtime": 1738573927,
         "size": 295924329,
         "size_enc": 295924450
+    },
+    {
+        "dir": "Roms/Computer/Disc/S/Spider-Man - The Sinister Six (USA)",
+        "filename": "Spider-Man - The Sinister Six (USA).m3u",
+        "filename_enc": "6c78a260c473a5f5ea3d59d636ebcce9.enc",
+        "hash": "56c4ac5589825cd5",
+        "hash_enc": "3f326f0d475b9771a97b3e37d36b41db",
+        "mtime": 1745176234,
+        "size": 98,
+        "size_enc": 203
     },
     {
         "dir": "Roms/Computer/Disc/S/Spooky's House of Jump Scares (USA)",
