@@ -2,22 +2,31 @@
     {
         "dir": "Roms/Other/Philips CDi/Apprentice, The (Europe)",
         "filename": "Apprentice, The (Europe).chd",
+        "filename_enc": "cafbc68c85b5dff4ab6e19853ad60e0e.enc",
         "hash": "910fde951e87c445",
-        "size": "367607703",
-        "mtime": "1619288042"
+        "hash_enc": "db85f441dff4ac3b12e6266973c52449",
+        "mtime": 1746598359,
+        "size": 367607703,
+        "size_enc": 367607804
     },
     {
         "dir": "Roms/Other/Philips CDi/Mutant Rampage - Bodyslam (Europe)",
         "filename": "Mutant Rampage - Bodyslam (Europe).chd",
+        "filename_enc": "f293064be028e38eaa927dd651eb68dd.enc",
         "hash": "1799aa69255432dc",
-        "size": "267900481",
-        "mtime": "1668110558"
+        "hash_enc": "f1291c6476125de21b78bffeeebdfcbb",
+        "mtime": 1746598479,
+        "size": 267900481,
+        "size_enc": 267900592
     },
     {
         "dir": "Roms/Other/Philips CDi/Pac-Panic (Europe)",
         "filename": "Pac-Panic (Europe).chd",
+        "filename_enc": "2a821cae932bb4da1f1bbbd0581073e0.enc",
         "hash": "a986eb97a495ff81",
-        "size": "14979054",
-        "mtime": "1668110978"
+        "hash_enc": "5ab23c6b6c9278fb752e2b80e047f10c",
+        "mtime": 1746598558,
+        "size": 14979054,
+        "size_enc": 14979149
     }
 ]

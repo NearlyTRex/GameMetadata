@@ -2,50 +2,71 @@
     {
         "dir": "Roms/Other/Atari 800/Bounty Bob Strikes Back! (USA)",
         "filename": "Bounty Bob Strikes Back! (USA).bin",
+        "filename_enc": "241372c72961db3c5e9b368150abf253.enc",
         "hash": "919cc87b06b7bc54",
-        "size": "40960",
-        "mtime": "1669519658"
+        "hash_enc": "b9af6c343afeec41db5e62488f8b86bf",
+        "mtime": 1746587310,
+        "size": 40960,
+        "size_enc": 41065
     },
     {
         "dir": "Roms/Other/Atari 800/Caverns of Mars (USA)",
         "filename": "Caverns of Mars (USA).bin",
+        "filename_enc": "92674f77191dcc1f86f05077fd654c84.enc",
         "hash": "05d81711103c5a6a",
-        "size": "16384",
-        "mtime": "1669519658"
+        "hash_enc": "1edd0be60cbf37433a7cf418d9da4b30",
+        "mtime": 1746587314,
+        "size": 16384,
+        "size_enc": 16480
     },
     {
         "dir": "Roms/Other/Atari 800/Food Fight (USA)",
         "filename": "Food Fight (USA).bin",
+        "filename_enc": "16e6d63cf053554bf5696b9b5fa76f0c.enc",
         "hash": "b7a04eb0a095de78",
-        "size": "32784",
-        "mtime": "851488320"
+        "hash_enc": "352c09c5484af31e64c21f55b102137d",
+        "mtime": 1746587318,
+        "size": 32784,
+        "size_enc": 32875
     },
     {
         "dir": "Roms/Other/Atari 800/Yoomp! (World)",
         "filename": "Yoomp! (World) (NTSC).xex",
+        "filename_enc": "c53c92cf5e00519dcde4701a3f2bf167.enc",
         "hash": "d94b32a285a97869",
-        "size": "26436",
-        "mtime": "1669740157"
+        "hash_enc": "8b5cef5446cf1de56ee85b76164f907d",
+        "mtime": 1746587322,
+        "size": 26436,
+        "size_enc": 26532
     },
     {
         "dir": "Roms/Other/Atari 800/Yoomp! (World)",
         "filename": "Yoomp! (World) (PAL).xex",
+        "filename_enc": "900ffb80eafceb27bbca8756d99fd62f.enc",
         "hash": "f2af24046d35439f",
-        "size": "26335",
-        "mtime": "1669740148"
+        "hash_enc": "470d153ad673293f2dcdb8774735a11d",
+        "mtime": 1746587322,
+        "size": 26335,
+        "size_enc": 26430
     },
     {
         "dir": "Roms/Other/Atari 800/Yoomp! (World)",
         "filename": "Yoomp! (World).atr",
+        "filename_enc": "dca086a06ed273a664d54b1c2c8f4491.enc",
         "hash": "972ee2aa208201b7",
-        "size": "92176",
-        "mtime": "1669740141"
+        "hash_enc": "76233de5be2da051e7f46e06b0fa56ce",
+        "mtime": 1746587322,
+        "size": 92176,
+        "size_enc": 92267
     },
     {
         "dir": "Roms/Other/Atari 800/Yoomp! (World)",
         "filename": "Yoomp! (World).dsk",
+        "filename_enc": "909d4bd395a725eb72acb86a97f65364.enc",
         "hash": "baaf259da35e9cb8",
-        "size": "92160",
-        "mtime": "1669519658"
+        "hash_enc": "ea7a54128f2795f9b20fed580e2b590e",
+        "mtime": 1746587322,
+        "size": 92160,
+        "size_enc": 92251
     }
 ]
