@@ -929,6 +929,29 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Afterimage (USA)
+file: Roms/Computer/Amazon Games/A/Afterimage (USA)/Afterimage (USA).json
+developer: Aurogon Shanghai
+publisher: Modus Games
+genre: Action;Platformer;Metroidvania
+description:
+  One of the supreme deities created this vast world called Engardin, upon which
+  natural wonders lie everywhere: gigantic volcanoes, steep canyons, deep seas and
+  a tower that soars into the clouds...
+  .
+  Encounter fantastic creatures during your journey: giant beasts wandering in
+  fire, and spirits lurking in the depth of complicated labyrinths... Learn about
+  your new friends, get to know their pasts and the agendas they hold.
+  .
+  Engardin is alive with unknown secrets. Venture forth and feel free to explore
+  wherever you like as a brave adventurer. Find out the stories that link each
+  area, discover a concealed history and the truth of the world.
+release: 2023-04-25
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Baldur's Gate - Enhanced Edition (USA)
 file: Roms/Computer/Amazon Games/B/Baldur's Gate - Enhanced Edition (USA)/Baldur's Gate - Enhanced Edition (USA).json
 developer: Beamdog
@@ -2101,6 +2124,29 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Labyrinth City - Pierre the Maze Detective (USA)
+file: Roms/Computer/Amazon Games/L/Labyrinth City - Pierre the Maze Detective (USA)/Labyrinth City - Pierre the Maze Detective (USA).json
+developer: Darjeeling
+publisher: Pixmain
+genre: Adventure;General
+description:
+  A terrible crime has been committed at the Opera City Museum! Mr. X, Pierre's
+  sworn enemy, has stolen and fled with the Maze Stone, a magical artefact that
+  turns everything around it into a labyrinth. Under the call of the Opera City
+  Museum, Pierre must undertake a new adventure that will lead him from the
+  museum, to the city streets, to a castle in the sky, a haunted mansion and much
+  more! There is no time to lose, lest the whole world turns into a maze!
+  .
+  Adapted from the bestselling children's book series Pierre The Maze Detective,
+  play as Pierre in this adventure/puzzle game and recover the stolen Maze Stone.
+  Journey through breathtakingly hand-drawn illustrations, meet eccentric
+  characters, and solve puzzles to save Opera City!
+release: 2021-06-22
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Masterplan Tycoon (USA)
 file: Roms/Computer/Amazon Games/M/Masterplan Tycoon (USA)/Masterplan Tycoon (USA).json
 developer: Bureau Bravin
@@ -2461,6 +2507,32 @@ release: 2023-09-26
 players: 1
 assets.boxfront: BoxFront/Paleo Pines (USA).jpg
 assets.video: Video/Paleo Pines (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Pixel Cafe (USA)
+file: Roms/Computer/Amazon Games/P/Pixel Cafe (USA)/Pixel Cafe (USA).json
+developer: Baltoro Games
+publisher: Baltoro Games
+genre: Strategy;General
+description:
+  Dive into this captivating blend of an arcade time manager and visual novel.
+  Help a small-town girl navigate life in a big city, and take part in her coming-
+  of-age story as she forges connections, overcomes difficulties, and struggles to
+  find her worth.
+  .
+  Explore Karstok, a city stuck between a socialist past and a capitalist future.
+  Go on an emotional journey as you form connections with your bosses and clients
+  in this beautifully crafted pixel art world.
+  .
+  Perfect your coffee-making and cooking skills on your professional journey
+  through 10 wildly different bars. Keep your customers satisfied as you learn new
+  recipes and adapt to sub-optimal working conditions. Sounds too easy? Challenge
+  one of the 50 optional Nightmare levels. Their hellish difficulty will surely
+  hunt you in your dreams.
+release: 2023-11-30
+players: 1
 x-co-op: No
 x-playable: Yes
 
@@ -2845,6 +2917,33 @@ release: 2019-06-07
 players: 1
 assets.boxfront: BoxFront/Stunt Kite Party (USA).jpg
 assets.video: Video/Stunt Kite Party (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Subterrain - Mines of Titan (USA)
+file: Roms/Computer/Amazon Games/S/Subterrain - Mines of Titan (USA)/Subterrain - Mines of Titan (USA).json
+developer: Pixellore
+publisher: Freedom Games
+genre: Role-Playing;General
+description:
+  In the near future, a violent meteor collision on Titan deposits a large amount
+  of rare materials into the icey surface of the moon. A mining company, TECC,
+  sends a massive amount of personnel to establish a colony to harvest the
+  resources. The mission, despite a promising development, is abruptly ended when
+  the colony goes silent. After several years, a second team is sent to pick up
+  the pieces and investigate what happened.
+  .
+  They discover there's no trace of the previous mining team, leaving the
+  newcomers to believe that everyone had perished...
+  .
+  ...until they find you.
+  .
+  An uncompromising turn-based survival RPG set on Titan.
+  .
+  Research and craft equipment, fight against odds, and discover your destiny.
+release: 2024-05-12
+players: 1
 x-co-op: No
 x-playable: Yes
 

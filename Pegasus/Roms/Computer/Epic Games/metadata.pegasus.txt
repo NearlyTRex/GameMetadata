@@ -596,6 +596,69 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Battle of Polytopia, The (USA)
+file: Roms/Computer/Epic Games/B/Battle of Polytopia, The (USA)/Battle of Polytopia, The (USA).json
+developer: Midjiwan AB
+publisher: Midjiwan AB
+genre: Strategy;Turn-Based;Turn-Based Strategy
+description:
+  Award-winning strategy game that combines casual fun with fast paced and deep 4X
+  tactics, all set in a charming low-poly world.
+  .
+  The Battle of Polytopia is a unique turn-based strategy game about controlling
+  the map, battling enemy tribes, discovering new lands, and mastering new
+  technologies. It offers a rare blend of casual gameplay and serious strategic
+  depth, all wrapped in a charming low-poly art style. With millions of players,
+  it has quickly become one of the most popular turn-based strategy games.
+  .
+  With millions of players, this game has quickly become one of the most popular
+  civilization style games for mobile and has been acclaimed for its sleek user
+  interface and great depth in game play.
+  .
+  FEATURES:
+  .
+  Fast Paced Turn based civilization strategy game.
+  .
+  Single & multiplayer strategy.
+  .
+  Multiplayer matchmaking (Find players all over the world)
+  .
+  4x (eXplore, eXpand, eXploit, and eXterminate)
+  .
+  Exploration, strategy, farming, building, warfare and technology research.
+  .
+  Three game modes - Perfection, Domination and Creative
+  .
+  New Weekly Challenges every week.
+  .
+  Multiplayer Tournaments every week.
+  .
+  Diplomacy - Make Peace treaties & Build Embassies
+  .
+  Mirror Matches (Meet opponents with the same tribe.)
+  .
+  Configurable map types - Dryland, Lake, Continents, Archipelago and Water World
+  .
+  Wide range of different tribes with unique nature, culture and game experience.
+  .
+  Auto generated maps make each game a new experience.
+  .
+  Allow offline game play.
+  .
+  Gameplay in portrait and landscape mode.
+  .
+  Strategy multiplayer & Pass & Play.
+  .
+  Leader board with top scores for the best civilization builders.
+  .
+  Really Cute low poly graphics.
+release: 2025-06-17
+players: 1
+x-url: https://store.epicgames.com/en-US/p/the-battle-of-polytopia-12fed6
+x-co-op: No
+x-playable: Yes
+
+
 game: Bear and Breakfast (USA)
 file: Roms/Computer/Epic Games/B/Bear and Breakfast (USA)/Bear and Breakfast (USA).json
 developer: Gummy Cat
@@ -934,6 +997,9 @@ x-playable: Yes
 
 game: Botanicula (USA)
 file: Roms/Computer/Epic Games/B/Botanicula (USA)/Botanicula (USA).json
+developer: Amanita Design
+publisher: Amanita Design
+genre: Adventure;Indie;Puzzle
 description:
   A tale of five tree creatures
   .
@@ -959,6 +1025,7 @@ description:
   No text or lengthy dialogues to bore you.
   .
   Bonuses for vigilant players at the end of the game.
+release: 2023-10-31
 players: 1
 x-url: https://store.epicgames.com/en-US/p/botanicula-50043d
 x-co-op: No
@@ -1141,6 +1208,9 @@ x-playable: Yes
 
 game: CHUCHEL (USA)
 file: Roms/Computer/Epic Games/C/CHUCHEL (USA)/CHUCHEL (USA).json
+developer: Amanita Design
+publisher: Amanita Design
+genre: Adventure;Indie;Puzzle
 description:
   An adorably mad adventure
   .
@@ -1170,6 +1240,7 @@ description:
   Build an inexplicable passion for cherries
   .
   Laugh. A lot.
+release: 2023-10-31
 players: 1
 x-url: https://store.epicgames.com/en-US/p/chuchel-203808
 x-co-op: No
@@ -1434,6 +1505,7 @@ game: Chessarama (USA)
 file: Roms/Computer/Epic Games/C/Chessarama (USA)/Chessarama (USA).json
 developer: Minimol Games
 publisher: Minimol Games
+genre: Puzzle;Strategy;Turn-Based Strategy
 description:
   Chessarama is a collection of original puzzle and strategy games inspired by
   Chess. It reimagines chess rules and tactics using many different themes. Each
@@ -1587,7 +1659,7 @@ description:
   A deadly virus is spreading across Los Angeles, turning its inhabitants into
   zombies. Bitten, infected, but more than just immune, uncover the truth
   behind the outbreak and discover who - or what - you are. Survive, evolve
-  and become the ultimate Zombie Slayer. 
+  and become the ultimate Zombie Slayer.
 release: 2023-04-21
 players: 1
 x-url: https://store.epicgames.com/en-US/p/dead-island-2
@@ -2683,6 +2755,7 @@ game: Fashion Police Squad (USA)
 file: Roms/Computer/Epic Games/F/Fashion Police Squad (USA)/Fashion Police Squad (USA).json
 developer: Mopeful Games
 publisher: No More Robots
+genre: First Person;Shooter
 description:
   Fashion Police Squad
   .
@@ -2728,6 +2801,7 @@ game: Figment (USA)
 file: Roms/Computer/Epic Games/F/Figment (USA)/Figment (USA).json
 developer: Bedtime Digital Games
 publisher: Bedtime Digital Games
+genre: Action;Adventure;Indie
 description:
   A musical action-adventure set in the recesses of the human mind...
   .
@@ -2761,6 +2835,7 @@ game: Figment 2 - Creed Valley (USA)
 file: Roms/Computer/Epic Games/F/Figment 2 - Creed Valley (USA)/Figment 2 - Creed Valley (USA).json
 developer: Bedtime Digital Games
 publisher: Bedtime Digital Games
+genre: Action;Adventure;Puzzle
 description:
   Piano bridges, dancing plants and musical showdowns, ready to dive into The
   Mind?
@@ -2802,6 +2877,64 @@ description:
 release: 2023-03-09
 players: 1
 x-url: https://store.epicgames.com/en-US/p/figment2-creed-valley
+x-co-op: No
+x-playable: Yes
+
+
+game: Filthy Animals Heist Simulator (USA)
+file: Roms/Computer/Epic Games/F/Filthy Animals Heist Simulator (USA)/Filthy Animals Heist Simulator (USA).json
+developer: Pewter Games Studios
+publisher: Green Man Gaming Publishing
+genre: Action;Adventure
+description:
+  Filthy Animals | Heist Simulator
+  .
+  Filthy Animals: Heist Simulator is a chaotic multiplayer Heist game for 1-4
+  players, spanning across 8 different chapters featuring a total of 21 unique
+  heist levels! Take on the role of mutant animals following the orders of Tony,
+  the Filthy Animal Bossman Criminal Mastermind. Wreak havoc through a series of
+  heists starting with a convenience store, a bank robbery, then break into a
+  super secret military base, with missions ranging all the way into outer space!
+  .
+  1-4 Player Online Co-Op
+  .
+  It's not safe to steal alone, bring up to 3 pals with you and wreck the joint
+  while you try to steal everything that's not nailed down. Play co-op online or
+  local and bring the chaos! But if you need some alone time, don't worry, we've
+  got you covered in single player too.
+  .
+  Challenging Heists
+  .
+  Success brings you bigger and tougher heists to cut your teeth on. Start with a
+  store, move on up to a bank and after that...the sky's the limit! Literally.
+  .
+  Enemies & Hazards
+  .
+  No-one said heists were easy. Every chapter is filled with enemies determined to
+  stop your stealing and environmental hazards that will blow your socks clean
+  off. With careful planning, and a lot of bumbling about, you'll be able to smash
+  and grab with the best of them. Even if you do lose your life, never fear,
+  simply get your team to flush you down the toilet and you'll be back and
+  fighting fit in no time.
+  .
+  Abilities & Power-Ups
+  .
+  The deck isn't stacked against you, each mutant animal has their own special
+  ability letting you explode things, smash up levels, and level the playing
+  field. Bring the chaos and let rip, just take care not to destroy your
+  teammates. Drink soda and eat tacos and other spicy Mexican foods to give you
+  the power you need to smash your way to victory!
+  .
+  Weapons & Tools
+  .
+  There are loads of ways to beat each level in Filthy Animals so explore
+  everything, grab tools and weapons so you can choose the route that suits you
+  and your gang. Just make sure you choose the right tool for the job, a fire axe
+  can get you through a door but for those pesky guards a shotgun might just be
+  the answer!
+release: 2023-04-04
+players: 1
+x-url: https://store.epicgames.com/en-US/p/filthy-animals-f6c65c
 x-co-op: No
 x-playable: Yes
 
@@ -3439,6 +3572,41 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Hidden Folks (USA)
+file: Roms/Computer/Epic Games/H/Hidden Folks (USA)/Hidden Folks (USA).json
+developer: Adriaan de Jongh
+publisher: Adriaan de Jongh
+genre: Casual;Exploration;Indie
+description:
+  Search for hidden folks in hand-drawn, interactive, miniature landscapes
+  .
+  Search for hidden folks in hand-drawn, interactive, miniature landscapes. Unfurl
+  tent flaps, cut through bushes, slam doors, and poke some crocodiles!
+  Rooooaaaarrrr!!!!!
+  .
+  A strip of targets shows you what to look for. Click on a target for a hint, and
+  find enough to unlock the next area.
+  .
+  Game Features
+  .
+  32 hand-drawn areas
+  .
+  300+ targets to find
+  .
+  2000+ mouth-originated sound effects
+  .
+  500+ unique interactions
+  .
+  3 color modes: normal, sepia, and night mode
+  .
+  22 languages (translated by the community)
+release: 2025-08-14
+players: 1
+x-url: https://store.epicgames.com/en-US/p/hidden-folks-239d16
+x-co-op: No
+x-playable: Yes
+
+
 game: Hot Wheels Unleashed (USA)
 file: Roms/Computer/Epic Games/H/Hot Wheels Unleashed (USA)/Hot Wheels Unleashed (USA).json
 developer: Milestone S.r.l.
@@ -3628,6 +3796,40 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Into The Breach (USA)
+file: Roms/Computer/Epic Games/I/Into The Breach (USA)/Into The Breach (USA).json
+developer: Subset Games
+publisher: Subset Games
+genre: Rogue-Lite;Strategy;Turn-Based;Turn-Based Strategy
+description:
+  Into the Breach
+  .
+  Defend the Cities
+  .
+  Civilian buildings power your mechs. Defend them from the Vek and watch your
+  fire!
+  .
+  Perfect Your Strategy
+  .
+  All enemy attacks are telegraphed in minimalist, turn-based combat. Analyze your
+  opponent's attack and come up with the perfect counter every turn.
+  .
+  Build the Ultimate Mech
+  .
+  Find powerful new weapons and unique pilots as you battle the Vek infestation
+  across Corporate-Nation islands.
+  .
+  Another Chance
+  .
+  Failure is not an option. When you are defeated, send help back through time to
+  save another timeline!
+release: 2019-12-19
+players: 1
+x-url: https://store.epicgames.com/en-US/p/into-the-breach
+x-co-op: No
+x-playable: Yes
+
+
 game: Invincible Presents - Atom Eve (USA)
 file: Roms/Computer/Epic Games/I/Invincible Presents - Atom Eve (USA)/Invincible Presents - Atom Eve (USA).json
 developer: Terrible Posture Games
@@ -3764,6 +3966,59 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Jorel's Brother and The Most Important Game of the Galaxy (USA)
+file: Roms/Computer/Epic Games/J/Jorel's Brother and The Most Important Game of the Galaxy (USA)/Jorel's Brother and The Most Important Game of the Galaxy (USA).json
+developer: Double Dash Studios
+publisher: Double Dash Studios
+genre: Adventure;Indie
+description:
+  About This Game
+  .
+  "Jorel's Brother and The Most Important Game of the Galaxy" is a point-and-click
+  adventure about an eight-year-old boy who lives with his eccentric family in the
+  shadow of Jorel, his handsome and popular brother. Based on the award-winning
+  Brazilian animation "Jorel's Brother", in this game you will be able to step
+  into the yellow boots of none other than Jorel's Brother in an interactive story
+  full of comedy, mystery, and twists and turns! It's like playing a brand-new
+  full-sized episode of a cartoon!
+  .
+  When a mysterious video game falls from the sky, the youngest of the family will
+  do anything to play it, even if it takes him to the utmost ends of the galaxy!
+  .
+  Control Jorel's Brother as he faces alien spaceships, authoritarian clowns,
+  bureaucracy, driving tests, and avocado smoothies in this 'brutal' point-and-
+  click adventure game with three episodes full of humor and action!
+  .
+  Experience fun moments as if you were playing a cartoon!
+  .
+  Key Features
+  .
+  Talk with more than 30 characters with several different interactions!
+  .
+  Visit beloved places (and new ones!) of the most watched animated series in
+  Latin America: "Jorel's Brother"!
+  .
+  Feel like playing an episode of the cartoon, with the arts and scripts from the
+  same creators of the animated series.
+  .
+  Play 'brutal' minigames on the beach, in outer space and...in the shower?!
+  .
+  Pick up items! Solve puzzles! Explore different locations!
+  .
+  Collect stickers scattered all over the game and complete an album full of
+  images of characters and places from the series.
+  .
+  Beat the bureaucracy of an extraterrestrial DMV! Defeat aliens, DJ's, clowns,
+  and robots!
+  .
+  You can use a mouse, a keyboard or a controller. Play it as you please!
+release: 2025-08-04
+players: 1
+x-url: https://store.epicgames.com/en-US/p/jorels-brother-and-the-most-important-game-of-the-galaxy-47435f
+x-co-op: No
+x-playable: Yes
+
+
 game: Jotun - Valhalla Edition (USA)
 file: Roms/Computer/Epic Games/J/Jotun - Valhalla Edition (USA)/Jotun - Valhalla Edition (USA).json
 developer: Thunder Lotus Games
@@ -3866,6 +4121,45 @@ description:
 release: 2021-11-09
 players: 1
 x-url: https://store.epicgames.com/en-US/p/jurassic-world-evolution-2
+x-co-op: No
+x-playable: Yes
+
+
+game: Kamaeru (USA)
+file: Roms/Computer/Epic Games/K/Kamaeru (USA)/Kamaeru (USA).json
+developer: Humble Reeds
+publisher: Armor Games Studios
+genre: Casual;Indie;Simulation
+description:
+  Kamaeru is a cozy frog collecting game about farming and preserving nature. You
+  play as a kind soul helping an old friend restore the wetlands of your childhood
+  by transforming them into a safe haven for friendly little frogs. With the help
+  of the game's cast of welcoming NPCs, you will photograph and breed frogs to
+  increase your reputation, decorate your frog refuge, and plant native crops to
+  help your amphibian abode thrive!
+  .
+  Feed, breed, collect, and raise all of the game's 500+ frogs!  It's up to you to
+  figure out the secret to attracting new and adorable frogs. You can complete
+  your collection by unlocking all the rare colors through a special breeding
+  mini-game. When new ones join your refuge, use the in-game camera to take photos
+  of them and collect them for your frogedex!
+  .
+  In order to succeed in your quest for frog preservation, you will need to
+  restore the nearby wetlands to their former glory. This will allow you to
+  continually support and cultivate the area through a process known as
+  paludiculture!
+  .
+  Dig ponds to let water roam the land again and plant native wetlands species to
+  harvest precious crops. From there, you can transform your pickings into
+  manufactured goods that can be sold to improve your froggy habitat further!
+  .
+  New furniture will bring new frogs with it! As you personalize your habitat, new
+  poses of frogs will be shown into specific kinds of furniture. Plus, it'll
+  attract attention to the area-and with it, new visitors! You can even repaint
+  furniture to better fit your own unique style sensibilities.
+release: 2024-12-04
+players: 1
+x-url: https://store.epicgames.com/en-US/p/kamaeru-0c301e
 x-co-op: No
 x-playable: Yes
 
@@ -4765,6 +5059,45 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Machinarium (USA)
+file: Roms/Computer/Epic Games/M/Machinarium (USA)/Machinarium (USA).json
+developer: Amanita Design
+publisher: Amanita Design
+genre: Adventure;Indie;Puzzle
+description:
+  Robot city adventure
+  .
+  Help Josef the robot save his girlfriend Berta kidnapped by the Black Cap
+  Brotherhood gang!
+  .
+  Machinarium is the award-winning independent adventure game developed by the
+  makers of Samorost, Botanicula and CHUCHEL.
+  .
+  World: Machinarium world is populated only by robots of various forms and
+  functions. One of the most interesting places in this world is old, rusty and
+  legendary city of Machinarium where the game takes place
+  .
+  Story: You will have to get rid of wicked robots from the Black Cap Brotherhood
+  and save the head of the city and also your robot-girl friend
+  .
+  Puzzles: You will be solving many logical puzzles, adventure quests, brain
+  teasers and mini-games
+  .
+  Graphics: Backgrounds and characters are 2D hand-drawn and there is more then
+  one hour of carefully crafted animations
+  .
+  Music: Beautiful original soundtrack was composed and recorded by Floex
+  (Samorost2 OST)
+  .
+  Communication: You won't find any lengthy boring dialogs in this game,
+  characters talk by comic bubbles with simple animations and symbols
+release: 2024-12-18
+players: 1
+x-url: https://store.epicgames.com/en-US/p/machinarium-5e6c71
+x-co-op: No
+x-playable: Yes
+
+
 game: Mages of Mystralia (USA)
 file: Roms/Computer/Epic Games/M/Mages of Mystralia (USA)/Mages of Mystralia (USA).json
 developer: Borealys Games
@@ -4779,6 +5112,68 @@ description:
 release: 2021-12-27
 players: 1
 x-url: https://store.epicgames.com/en-US/p/mages-of-mystralia
+x-co-op: No
+x-playable: Yes
+
+
+game: Make Way (USA)
+file: Roms/Computer/Epic Games/M/Make Way (USA)/Make Way (USA).json
+developer: Ice BEAM
+publisher: Secret Mode
+genre: Action;Party;Racing
+description:
+  Make Way is classic, top-down, multiplayer racing shifted up multiple gears.
+  .
+  Grab track pieces from a pick n mix menu and snap them together to build your
+  first course. Dodge hazards, unleash weaponry, and avoid falling off the edge in
+  a chaotic rush to the finish line, then bolt on new track pieces for the next
+  round.
+  .
+  Scrap across ever-growing courses with increasingly perilous features until a
+  winner is crowned before starting over with a brand-new course.
+  .
+  Build your course
+  .
+  Work together--or against one another--to quickly build tracks using a range of
+  ridiculous pieces, including loops, seesaws, corkscrews, and even train
+  crossings. Then add obstacles and power-ups. Ruin your friends' race with a
+  well-placed barrier or jettison them off the side of a curve with a crafty
+  boost-pad.
+  .
+  Blow up the competition
+  .
+  Six racers jostle and shunt to cross checkpoints and reach the finish line.
+  Obliterate opponents with a range of wacky weapons, including goo cannons and
+  Tesla coils, but beware: each checkpoint acts as a respawn point and revenge is
+  a dish best served via a giant mallet or rooftop-mounted shotgun...
+  .
+  Keep on truckin'
+  .
+  The finish line isn't the finish! Add new track pieces after each round to
+  create monstrously large courses, and score bonus points with your performance
+  to take home the trophy.
+  .
+  Add to your collection
+  .
+  Unlock new track pieces and hazards for more dangerous course designs. Add new
+  vehicles to your garage to romp to victory in style.
+  .
+  Key Features
+  .
+  Mix and match unique track pieces and hazards for near-endless course
+  configurations
+  .
+  Fight for weapons and power-ups to gain the advantage
+  .
+  Unlock new track pieces and vehicles for wackier races
+  .
+  Up to six players, on the same screen or online with cross-platform multiplayer
+  .
+  Toggle traps and safety barriers on or off to make those twisty turns easier (or
+  more perilous!) using fully customisable rulesets
+release: 2025-08-28
+players: 1
+x-url: https://store.epicgames.com/en-US/p/make-way-bddf5f
 x-co-op: No
 x-playable: Yes
 
@@ -4916,6 +5311,112 @@ players: 1
 assets.boxfront: BoxFront/Model Builder (USA).jpg
 assets.video: Video/Model Builder (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/model-builder-complete-edition-f9b456
+x-co-op: No
+x-playable: Yes
+
+
+game: Monument Valley (USA)
+file: Roms/Computer/Epic Games/M/Monument Valley (USA)/Monument Valley (USA).json
+developer: ustwo games
+publisher: ustwo games
+genre: Adventure;Casual;Puzzle
+description:
+  Discover Monument Valley - A quest for forgiveness in a strikingly beautiful and
+  mysterious world.
+  .
+  Embark on a journey of forgiveness along with Ida, the silent princess, through
+  impossible environments and illusionary puzzles. Experience this meditative and
+  calming puzzle game by manipulating monuments and creating evolving paths to
+  explore new, surreal, and mysterious worlds.
+  .
+  The Modern Classic Comes to PC.
+  .
+  In this multi-award-winning title, solve tricky but immensely satisfying puzzles
+  with optical illusions at their core.
+  .
+  Evolve landscapes to reveal paths that would have otherwise been impossible
+  without your help.
+  .
+  As you progress, discover beautiful architecture, transforming landscapes
+  through pushing, pulling, clicking, raising, lowering and more.
+  .
+  Ida is not alone in this world, and you will need to use your wits to outsmart
+  the enigmatic Crow People who block the path from Ida quest for forgiveness.
+  .
+  Simply Explorative
+  .
+  Click to manipulate a beautiful variety of worlds, all built for a one-of-a-kind
+  PC experience. Designed for players of all ages and experience levels, Monument
+  Valley allows players to explore evolving environments, transforming scenic and
+  visually stunning landscapes as you play. Everyone should be able to pick up,
+  enjoy and complete Ida's journey. This is the biggest and best way to play
+  Monument Valley yet.
+  .
+  Beautifully Reimagined
+  .
+  Whether playing in Full HD, TV or on ultrawide 21:9 displays, Monument Valley
+  looks better than ever with stunning full-screen panoramic artwork. With more
+  perceptible visuals than ever before, what secrets will you uncover?
+  .
+  ustwo games are proud independent developers, best known for the award-winning
+  Monument Valley series, Land's End, Assemble with Care and Alba: A Wildlife
+  Adventure.
+release: 2025-09-04
+players: 1
+x-url: https://store.epicgames.com/en-US/p/monument-valley-1d99d3
+x-co-op: No
+x-playable: Yes
+
+
+game: Monument Valley 2 (USA)
+file: Roms/Computer/Epic Games/M/Monument Valley 2 (USA)/Monument Valley 2 (USA).json
+developer: ustwo games
+publisher: ustwo games
+genre: Adventure;Casual;Puzzle
+description:
+  Discover illusionary pathways and delightful puzzles as you learn the secrets of
+  The Sacred Geometry.
+  .
+  In this meditative and calming puzzle game, follow the heart warming story of Ro
+  in her journey through motherhood. Rediscover independence through manipulating
+  monuments and evolving paths to explore new, surreal, and mysterious worlds.
+  .
+  The Award Winning Series Returns
+  .
+  Welcome back to the world of magical and mysterious monuments in Monument Valley
+  2, the award-winning sequel to the critically acclaimed Monument Valley.
+  .
+  Featuring brand-new environments and puzzles to explore, Monument Valley 2 is a
+  surreal and beautiful experience, with an mistakably unique art style inspired
+  by optical illusions that will keep players feeling in awe.
+  .
+  As you make your way through Ro and her child's adventure, there will always be
+  exciting and mysterious mechanics to unlock, and new friends to meet along the
+  way.
+  .
+  Beautifully Unique
+  .
+  A critically acclaimed sequel to Monument Valley, Monument Valley 2 returns you
+  to the world of magical and mysterious architecture in a completely stand-alone
+  adventure. You don't need to have played the original Monument Valley to be able
+  to enjoy this experience. The game features brand new worlds and unique puzzles
+  to explore.
+  .
+  Simple For All
+  .
+  Click and drag to reshape the world and help Ro and her Child explore
+  breathtaking yet impossible areas. Designed to be easy for everyone to pick up,
+  enjoy and complete.
+  .
+  A New Way to Play
+  .
+  With an entirely new control scheme reimagined for PC, you can interact with the
+  universe of Monument Valley in a unique and tactile way. Combined with an all-
+  new panoramic way to play the game designed for Full HD and ultrawide displays,
+  Monument Valley 2 is more awe-inspiring and beautiful than ever before.
+release: 2025-09-11
+players: 1
+x-url: https://store.epicgames.com/en-US/p/monument-valley-2-addd02
 x-co-op: No
 x-playable: Yes
 
@@ -5686,6 +6187,90 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Project Winter (USA)
+file: Roms/Computer/Epic Games/P/Project Winter (USA)/Project Winter (USA).json
+developer: Other Ocean Interactive
+publisher: Other Ocean Group
+genre: Action-Adventure;Casual;Indie
+description:
+  Introducing Project Winter 2.0: Cabin Fever
+  .
+  Project Winter 2.0: Cabin Fever is an 8-player survival and social deception
+  game where teamwork is vital, but betrayal is inevitable. Face the wilderness,
+  uncover traitors, and survive paranoia in this streamlined yet chaotic
+  multiplayer experience.
+  .
+  ABOUT PROJECT WINTER
+  .
+  The ultimate test of trust and betrayal: do your friends have your back or will
+  they leave you bleeding in the snow? Project Winter is an 8-person multiplayer
+  game of survival and social deception, where cooperation is essential, but
+  betrayal is inevitable.
+  .
+  Stranded in the frozen wilderness, survivors must gather resources, repair
+  objectives, and fight the elements to escape. But hidden among them are traitors
+  working together to sabotage, mislead, and eliminate their so-called allies.
+  .
+  Project Winter 2.0: Cabin Fever introduces a faster, more streamlined experience
+  that keeps the paranoia and chaos alive while making it easier than ever for new
+  players to jump in. For seasoned players, the punishing Classic mode remains -
+  demanding coordination, grit, and sharp instincts to survive.
+  .
+  No two matches are ever the same. Whether you're chopping firewood with allies,
+  whispering over secret radios as a traitor, or panicking when a sudden blizzard
+  forces everyone together, the tension builds with every decision.
+  .
+  ROLES
+  .
+  Survivor
+  .
+  As a survivor you will have to complete a series of objectives in order to call
+  in one of several rescue vehicles and escape to win the game.
+  .
+  Repair all the objectives to restore the cabin radio to working order.
+  .
+  Break rocks, harvest berries and herbs, and cut down trees to earn crafting
+  materials used to repair objectives, and help keep you alive.
+  .
+  Explore crates found in the buildings scattered throughout the map which contain
+  items that will help you survive and complete your objectives.
+  .
+  Traitor
+  .
+  As a traitor your goal is to stop the survivors from escaping without being
+  identified or killed.
+  .
+  All of your teammates will be revealed to you at the start of the match and can
+  be identified by a red traitor symbol, much like yours. You will start with a
+  red radio to communicate with your fellow traitor.
+  .
+  Use traitor crates and hatches scattered throughout the map to gain advantage
+  against survivors.
+  .
+  FEATURES
+  .
+  Teamwork & Survival: Survivors can't make it alone. Work together to endure the
+  cold, complete objectives, and fend off wildlife.
+  .
+  Betrayal & Deception: Traitors blend in, gain trust, and then strike when the
+  moment is right. Anyone could be the enemy!
+  .
+  Communication: Proximity voice, radio channels, text chat, and emotes keep every
+  interaction charged with suspicion.
+  .
+  Multiple Modes: Choose between streamlined Cabin Fever, unforgiving Classic, or
+  customize your own rules for the perfect dose of paranoia.
+  .
+  Cosmetics & Progression: Unlock stylish looks and personalize your character
+  with cosmetics available in our in-game store, progression trees, or in-game
+  drops.
+release: 2025-09-18
+players: 1
+x-url: https://store.epicgames.com/en-US/p/project-winter-3b9e84
+x-co-op: No
+x-playable: Yes
+
+
 game: Redacted (USA)
 file: Roms/Computer/Epic Games/R/Redacted (USA)/Redacted (USA).json
 developer: Striking Distance Studios
@@ -6104,6 +6689,9 @@ x-playable: Yes
 
 game: Sable (USA)
 file: Roms/Computer/Epic Games/S/Sable (USA)/Sable (USA).json
+developer: Shedworks
+publisher: Raw Fury
+genre: Adventure;Indie;Open World
 description:
   Sable
   .
@@ -6138,8 +6726,27 @@ description:
   .
   * Try your hand at fishing in the desert, and showcase your collection of bugs
   and fish in the Vivarium.
+release: 2021-09-23
 players: 1
 x-url: https://store.epicgames.com/en-US/p/sable
+x-co-op: No
+x-playable: Yes
+
+
+game: Samorost 2 (USA)
+file: Roms/Computer/Epic Games/S/Samorost 2 (USA)/Samorost 2 (USA).json
+developer: Amanita Design
+publisher: Amanita Design
+genre: Adventure;Indie;Puzzle
+description:
+  A Surreal Adventure
+  .
+  Samorost 2 tells a surreal story of a space gnome whose dog just got kidnapped
+  by mischievous aliens. Set out on a short expedition to rescue the pup, deal
+  with curious strangers and relax to the soothing music by Tomas "Floex" Dvorak.
+release: 2023-06-30
+players: 1
+x-url: https://store.epicgames.com/en-US/p/samorost-2-1b9bb1
 x-co-op: No
 x-playable: Yes
 
@@ -6570,6 +7177,7 @@ game: Sky Racket (USA)
 file: Roms/Computer/Epic Games/S/Sky Racket (USA)/Sky Racket (USA).json
 developer: Double Dash Studios
 publisher: Double Dash Studios
+genre: Casual;Indie;Sports
 description:
   About Game
   .
@@ -6961,6 +7569,43 @@ players: 1
 assets.boxfront: BoxFront/Stasis - Bone Totem (USA).jpg
 assets.video: Video/Stasis - Bone Totem (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/stasis-bone-totem-ca8320
+x-co-op: No
+x-playable: Yes
+
+
+game: Strange Horticulture (USA)
+file: Roms/Computer/Epic Games/S/Strange Horticulture (USA)/Strange Horticulture (USA).json
+developer: Bad Viking
+publisher: Iceberg Interactive
+genre: Exploration;Puzzle;Simulation
+description:
+  A quaint town surrounded by hag-infested forests and rugged mountains.
+  .
+  You are the Horticulturist, owner of local plant store Strange Horticulture. As
+  a cast of colorful customers come by your shop, you are thrust into an occult
+  mystery stretching back hundreds of years.
+  .
+  Explore the lands beyond your store to find new plants. Use context clues to
+  determine which places to visit, and which to avoid.
+  .
+  Using your trusty encyclopedia and clues found on your explorations, you learn
+  about the strange plants you come across, whose effects can be to influence the
+  story.
+  .
+  Find new plants, but be careful!
+  .
+  The dark woods and lakes are not always friendly to a simple herbalist. You
+  might discover powers beyond your wildest dreams - or lose your mind completely.
+  Use context clues to determine which places to visit, and which to avoid!
+  .
+  Using your trusty encyclopedia and clues found on your explorations...
+  .
+  ...you learn more about the strange plants you come across. By identifying each
+  plant, you will be able to use their effects to influence the story -- from
+  hypnotic hallucinogens to powerful poisons.
+release: 2022-01-21
+players: 1
+x-url: https://store.epicgames.com/en-US/p/strange-horticulture-360e80
 x-co-op: No
 x-playable: Yes
 
@@ -7465,6 +8110,26 @@ players: 1
 assets.boxfront: BoxFront/Tomb Raider - Game of the Year Edition (USA).jpg
 assets.video: Video/Tomb Raider - Game of the Year Edition (USA).mp4
 x-url: https://store.epicgames.com/en-US/p/tomb-raider
+x-co-op: No
+x-playable: Yes
+
+
+game: Totally Reliable Delivery Service (USA)
+file: Roms/Computer/Epic Games/T/Totally Reliable Delivery Service (USA)/Totally Reliable Delivery Service (USA).json
+developer: We're Five Games
+publisher: Infogrames, LLC
+genre: Casual;Indie;Party
+description:
+  Totally Reliable Delivery Service Cyberfunk
+  .
+  When futuristic tech meets bass pumping funk music... Cyberfunk is the future of
+  package delivery!
+  .
+  Cyberfunk includes huge new floating islands to explore, new unique deliveries
+  to complete, new methods of transportation, and funky music to boogey down to!
+release: 2020-04-01
+players: 1
+x-url: https://store.epicgames.com/en-US/p/totally-reliable-delivery-service--cyberfunk
 x-co-op: No
 x-playable: Yes
 

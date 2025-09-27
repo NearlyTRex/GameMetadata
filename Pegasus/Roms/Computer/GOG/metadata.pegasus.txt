@@ -5745,6 +5745,14 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Dragons of Flame (USA)
+file: Roms/Computer/GOG/D/Dragons of Flame (USA)/Dragons of Flame (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/dragons_of_flame
+x-co-op: No
+x-playable: Yes
+
+
 game: Dragonsphere (USA)
 file: Roms/Computer/GOG/D/Dragonsphere (USA)/Dragonsphere (USA).json
 developer: MPS Labs
@@ -6814,6 +6822,22 @@ x-co-op: No
 x-playable: Yes
 
 
+game: FATE - The Cursed King (USA)
+file: Roms/Computer/GOG/F/FATE - The Cursed King (USA)/FATE - The Cursed King (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/fate_the_cursed_king
+x-co-op: No
+x-playable: Yes
+
+
+game: FATE - The Traitor Soul (USA)
+file: Roms/Computer/GOG/F/FATE - The Traitor Soul (USA)/FATE - The Traitor Soul (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/fate_the_traitor_soul
+x-co-op: No
+x-playable: Yes
+
+
 game: FATE - Undiscovered Realms (USA)
 file: Roms/Computer/GOG/F/FATE - Undiscovered Realms (USA)/FATE - Undiscovered Realms (USA).json
 players: 1
@@ -7411,6 +7435,14 @@ players: 1
 assets.boxfront: BoxFront/Fallout Tactics (USA).jpg
 assets.video: Video/Fallout Tactics (USA).mp4
 x-url: https://www.gog.com/en/game/fallout_tactics_classic
+x-co-op: No
+x-playable: Yes
+
+
+game: Fantasy Empires (USA)
+file: Roms/Computer/GOG/F/Fantasy Empires (USA)/Fantasy Empires (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/fantasy_empires
 x-co-op: No
 x-playable: Yes
 
@@ -9735,6 +9767,22 @@ game: Heroes of Loot (USA)
 file: Roms/Computer/GOG/H/Heroes of Loot (USA)/Heroes of Loot (USA).json
 players: 1
 x-url: https://www.gog.com/en/game/heroes_of_loot
+x-co-op: No
+x-playable: Yes
+
+
+game: Heroes of Loot 2 (USA)
+file: Roms/Computer/GOG/H/Heroes of Loot 2 (USA)/Heroes of Loot 2 (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/heroes_of_loot_2
+x-co-op: No
+x-playable: Yes
+
+
+game: Heroes of the Lance (USA)
+file: Roms/Computer/GOG/H/Heroes of the Lance (USA)/Heroes of the Lance (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/heroes_of_the_lance
 x-co-op: No
 x-playable: Yes
 
@@ -13488,6 +13536,14 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Necroking (USA)
+file: Roms/Computer/GOG/N/Necroking (USA)/Necroking (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/necroking
+x-co-op: No
+x-playable: Yes
+
+
 game: Nehrim - At Fate's Edge (USA)
 file: Roms/Computer/GOG/N/Nehrim - At Fate's Edge (USA)/Nehrim - At Fate's Edge (USA).json
 developer: SureAI
@@ -15727,6 +15783,22 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Ravenloft - Stone Prophet (USA)
+file: Roms/Computer/GOG/R/Ravenloft - Stone Prophet (USA)/Ravenloft - Stone Prophet (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/ravenloft_stone_prophet
+x-co-op: No
+x-playable: Yes
+
+
+game: Ravenloft - Strahd's Possession (USA)
+file: Roms/Computer/GOG/R/Ravenloft - Strahd's Possession (USA)/Ravenloft - Strahd's Possession (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/ravenloft_strahds_possession
+x-co-op: No
+x-playable: Yes
+
+
 game: Realms of the Haunting (USA)
 file: Roms/Computer/GOG/R/Realms of the Haunting (USA)/Realms of the Haunting (USA).json
 developer: Gremlin Interactive
@@ -16194,6 +16266,14 @@ description:
 release: 2000-06-16
 players: 1
 x-url: https://www.gog.com/en/game/resident_evil_3
+x-co-op: No
+x-playable: Yes
+
+
+game: Residual (USA)
+file: Roms/Computer/GOG/R/Residual (USA)/Residual (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/residual
 x-co-op: No
 x-playable: Yes
 
@@ -17136,6 +17216,14 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Shadow Sorcerer (USA)
+file: Roms/Computer/GOG/S/Shadow Sorcerer (USA)/Shadow Sorcerer (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/shadow_sorcerer
+x-co-op: No
+x-playable: Yes
+
+
 game: Shadow Warrior Classic Complete (USA)
 file: Roms/Computer/GOG/S/Shadow Warrior Classic Complete (USA)/Shadow Warrior Classic Complete (USA).json
 developer: 3D Realms
@@ -17569,6 +17657,14 @@ players: 1
 assets.boxfront: BoxFront/Sid Meier's Civilization III Complete (USA).jpg
 assets.video: Video/Sid Meier's Civilization III Complete (USA).mp4
 x-url: https://www.gog.com/en/game/sid_meiers_civilization_iii_complete
+x-co-op: No
+x-playable: Yes
+
+
+game: Sid Meier's Civilization IV - The Complete Edition (USA)
+file: Roms/Computer/GOG/S/Sid Meier's Civilization IV - The Complete Edition (USA)/Sid Meier's Civilization IV - The Complete Edition (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/sid_meiers_civilization_iv_the_complete_edition
 x-co-op: No
 x-playable: Yes
 
@@ -18199,6 +18295,14 @@ players: 1
 assets.boxfront: BoxFront/Space Hulk - Deathwing - Enhanced Edition (USA).jpg
 assets.video: Video/Space Hulk - Deathwing - Enhanced Edition (USA).mp4
 x-url: https://www.gog.com/en/game/space_hulk_deathwing_enhanced_edition
+x-co-op: No
+x-playable: Yes
+
+
+game: Spelljammer - Pirates of Realmspace (USA)
+file: Roms/Computer/GOG/S/Spelljammer - Pirates of Realmspace (USA)/Spelljammer - Pirates of Realmspace (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/spelljammer_pirates_of_realmspace
 x-co-op: No
 x-playable: Yes
 
@@ -20533,6 +20637,14 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Tin Hearts (USA)
+file: Roms/Computer/GOG/T/Tin Hearts (USA)/Tin Hearts (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/tin_hearts
+x-co-op: No
+x-playable: Yes
+
+
 game: Tomb Raider - Anniversary (USA)
 file: Roms/Computer/GOG/T/Tomb Raider - Anniversary (USA)/Tomb Raider - Anniversary (USA).json
 developer: Crystal Dynamics
@@ -20970,6 +21082,14 @@ players: 1
 assets.boxfront: BoxFront/Total Annihilation - Kingdoms + Iron Plague (USA).jpg
 assets.video: Video/Total Annihilation - Kingdoms + Iron Plague (USA).mp4
 x-url: https://www.gog.com/en/game/total_annihilation_kingdoms
+x-co-op: No
+x-playable: Yes
+
+
+game: Tower of Time (USA)
+file: Roms/Computer/GOG/T/Tower of Time (USA)/Tower of Time (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/tower_of_time
 x-co-op: No
 x-playable: Yes
 
@@ -22470,6 +22590,14 @@ players: 4
 assets.boxfront: BoxFront/War for the Overworld (USA).jpg
 assets.video: Video/War for the Overworld (USA).mp4
 x-url: https://www.gog.com/en/game/war_for_the_overworld
+x-co-op: No
+x-playable: Yes
+
+
+game: War of the Lance (USA)
+file: Roms/Computer/GOG/W/War of the Lance (USA)/War of the Lance (USA).json
+players: 1
+x-url: https://www.gog.com/en/game/war_of_the_lance
 x-co-op: No
 x-playable: Yes
 
