@@ -2,9 +2,11 @@
     "epic": {
         "appname": "ce3fb6fe8fdf4c9ba649abc3e407debf",
         "appurl": "https://store.epicgames.com/en-US/p/machinarium-5e6c71",
-        "buildid": "5348",
+        "buildid": "5627C",
         "keys": [],
         "name": "Machinarium",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Amanita-Design.Machinarium"
+        ]
     }
 }
