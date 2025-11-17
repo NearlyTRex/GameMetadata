@@ -311,7 +311,18 @@ x-playable: Yes
 
 game: American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA)
 file: Roms/Computer/Disc/A/American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA)/American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA).json
+developer: Legacy Games
+publisher: Legacy Interactive
+genre: Miscellaneous;Compilation
+description:
+  DISTURBINGLY CREEPY, STRANGE AND MYSTERIOUS.
+  .
+  Push the boundaries of horror in this scary game collection! Haunted houses,
+  bizarre characters and more add up to exciting, fast-paced action!
+release: 2014-11-15
 players: 1
+assets.boxfront: BoxFront/American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA).jpg
+assets.boxback: BoxBack/American Horror - Super Scary Hidden Object Mysteries 15 Pack (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -1906,6 +1917,19 @@ x-playable: Yes
 
 game: Escape Whisper Valley (USA)
 file: Roms/Computer/Disc/E/Escape Whisper Valley (USA)/Escape Whisper Valley (USA).json
+developer: SpinTop Games
+publisher: PopCap
+genre: Puzzle;Hidden Object
+description:
+  A sudden rockslide has left you trapped in Whisper Valley, an abandoned mountain
+  village. Can you piece together the clues that will get you back home?
+  .
+  Explore 25 intriguing locations and track down more than 2,000 items in the new
+  hidden object game from the makers of Escape Rosecliff Island. Solve mini-game
+  puzzles and collect pieces of a map to help you find your way out. Locate the
+  hidden locks and keys in every scene to unlock two bonus game modes. Plan your
+  escape today!
+release: 2010-06-16
 players: 1
 x-co-op: No
 x-playable: Yes
@@ -2665,6 +2689,24 @@ release: 2015-02-17
 players: 1
 assets.boxfront: BoxFront/Hand of Fate (USA).jpg
 assets.video: Video/Hand of Fate (USA).mp4
+
+
+game: Haunted Hotel 2-Pack (USA)
+file: Roms/Computer/Disc/H/Haunted Hotel 2-Pack (USA)/Haunted Hotel 2-Pack (USA).json
+developer: Specialbit Studio
+publisher: Big Fish Games
+genre: Puzzle;Hidden Object
+description:
+  [UNLOCK THE FULL ADVENTURE FROM WITHIN THE GAME!]A lone FBI agent is working a
+  case investigating a rash of disappearances with ominous portent. His
+  investigation leads him to the Lonely Star, a Hotel with a disturbing past of
+  unexplained phenomenon. Can the intrepid agent find out who is behind the
+  disappearances and close the case once and for all? Help the agent seek the
+  truth and survive the Haunted Hotel!
+release: 2009-01-04
+players: 1
+assets.boxfront: BoxFront/Haunted Hotel 2-Pack (USA).jpg
+assets.boxback: BoxBack/Haunted Hotel 2-Pack (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3507,6 +3549,18 @@ x-playable: Yes
 
 game: Max Payne (USA, Europe)
 file: Roms/Computer/Disc/M/Max Payne (USA, Europe)/Max Payne (USA, Europe).json
+developer: Remedy Entertainment
+publisher: Gathering
+genre: Action;Shooter;Third-Person;Arcade
+description:
+  Max Payne is a man with nothing to lose--a fugitive undercover cop framed for
+  murder, and now hunted by the cops and the mob. As Payne, you'll uncover plot
+  twists, engage in dramatic "bullet-time" firefights with thugs, and fight your
+  way through an unforgiving New York blizzard. Max can wield a variety of weapons
+  including pistols, submachine guns, shotguns, sniper rifles, grenades, and
+  Molotov cocktails. Prepare yourself for an involving story combined with slick
+  action.
+release: 2001-07-23
 players: 1
 assets.boxfront: BoxFront/Max Payne (USA, Europe).jpg
 assets.boxback: BoxBack/Max Payne (USA, Europe).jpg
@@ -5150,6 +5204,22 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Seven Kingdoms II - The Fryhtan Wars (USA)
+file: Roms/Computer/Disc/S/Seven Kingdoms II - The Fryhtan Wars (USA)/Seven Kingdoms II - The Fryhtan Wars (USA).json
+developer: Enlight Software
+publisher: Ubisoft
+genre: Strategy;Real-Time;General
+description:
+  You though that the blood-thirsty Fryntan's were history but the nightmare has
+  only just begun. Seven Kingdoms II is the highly anticipated sequel to Trevor
+  Chan's debut game of empire-building and diplomatic intrigue where the monstrous
+  Fryntans are back with a vengeance.
+release: 1999-07-31
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Shadow Chronicles 6 Pack - Collector's Edition (USA)
 file: Roms/Computer/Disc/S/Shadow Chronicles 6 Pack - Collector's Edition (USA)/Shadow Chronicles 6 Pack - Collector's Edition (USA).json
 developer: Encore Software
@@ -5221,6 +5291,29 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Sid Meier's Civilization V (USA)
+file: Roms/Computer/Disc/S/Sid Meier's Civilization V (USA)/Sid Meier's Civilization V (USA).json
+developer: Firaxis Games
+publisher: 2K Games
+genre: Strategy;Turn-Based;4X
+description:
+  With over nine million units sold worldwide, and unprecedented critical acclaim
+  from fans and press around the world, Sid Meier's Civilization is recognized as
+  one of the greatest strategy franchises of all-time. Now, Firaxis Games will
+  take this incredibly fun and addictive strategy game to unprecedented heights by
+  adding new ways to play and win; new tools to manage and expand your
+  civilization; extensive modding capabilities; and intensely competitive
+  multiplayer options. Civilization V will come to life in a beautifully detailed,
+  living world that will elevate the gameplay experience to a whole new level
+  making it a must-have for gamers around the globe!
+release: 2010-09-21
+players: 1
+assets.boxfront: BoxFront/Sid Meier's Civilization V (USA).jpg
+assets.boxback: BoxBack/Sid Meier's Civilization V (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Silent Hill 2 (USA)
 file: Roms/Computer/Disc/S/Silent Hill 2 (USA)/Silent Hill 2 (USA).json
 developer: Creature Labs
@@ -5266,6 +5359,27 @@ release: 2003-12-02
 players: 1
 assets.boxfront: BoxFront/Silent Hill 3 (USA).jpg
 assets.video: Video/Silent Hill 3 (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Silent Hill 4 - The Room (USA)
+file: Roms/Computer/Disc/S/Silent Hill 4 - The Room (USA)/Silent Hill 4 - The Room (USA).json
+developer: Konami
+publisher: Konami
+genre: Action Adventure;Survival
+description:
+  Henry Townshend finds himself trapped in an apartment cursed by a deeply rooted
+  evil. Only by exploring mysterious portals leading to disturbing alternate
+  worlds will Henry begin to uncover the truth. However, mysterious new
+  characters, horrendous creatures, and the undead, use any means necessary to
+  impede his progress. It's up to you to help Henry through expansive areas,
+  including a forest, a prison, and a hotel, in an effort to survive the
+  nightmarish world of Silent Hill 4: The Room.
+release: 2004-09-07
+players: 1
+assets.boxfront: BoxFront/Silent Hill 4 - The Room (USA).jpg
+assets.boxback: BoxBack/Silent Hill 4 - The Room (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -5601,6 +5715,50 @@ release: 2008
 players: 1
 assets.boxfront: BoxFront/Speculum Mortis - Regret (USA).jpg
 assets.video: Video/Speculum Mortis - Regret (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Spider-Man - The Sinister Six (USA)
+file: Roms/Computer/Disc/S/Spider-Man - The Sinister Six (USA)/Spider-Man - The Sinister Six (USA).json
+developer: Brooklyn Multimedia
+publisher: Byron Preiss Multimedia
+genre: Action Adventure;General
+description:
+  You Are Spider-Man. Can You Survive Six of Your Deadliest Foes?
+  .
+  Marvel Comics Spider-Man: The Sinister Six is the ultimate action-adventure,
+  featuring everyone's favorite wall-crawler. Face down your arch-enemies, The
+  Sinister Six: Dr. Octopus, Hobgoblin, Shocker, Chameleon, Mysterio, and Vulture.
+  .
+  When Spidey's nefarious nasties join forces to frame the Web-Slinger, you must
+  solve puzzles, blast through deadly combat sequences, and fight to save New
+  York. You'll need all of your spider-powers--and all the skills of your alter
+  ego, Peter Parker.
+  .
+  The renowned Marvel Comics characters come to life in a mind-blowing mix of
+  fast-paced action, gorgeous animation, 3-D backgrounds, an original music score,
+  and a stellar cast.
+  .
+  - Cool Spider-Man computer graphics
+  .
+  - Four difficulty settings let you determine the challenge
+  .
+  - Six different story lines and outcomes based on how you play
+  .
+  - Web-spinning, wall-crawling action sequences
+  .
+  - Brain-teasing mind-bending puzzles
+  .
+  - The first software that lets you be both Spider-Man and Peter Parker
+  .
+  - Direct link to the Spider-Man: The Sinister Six World Wide Web site!
+  .
+  The #1 rated Super Hero from Marvel Comics!
+release: 1996-11-15
+players: 1
+assets.boxfront: BoxFront/Spider-Man - The Sinister Six (USA).jpg
+assets.boxback: BoxBack/Spider-Man - The Sinister Six (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -6423,6 +6581,28 @@ release: 2012-06-24
 players: 1
 assets.boxfront: BoxFront/Thomas Was Alone (USA).jpg
 assets.video: Video/Thomas Was Alone (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Tomb Raider - The Lost Artifact (USA)
+file: Roms/Computer/Disc/T/Tomb Raider - The Lost Artifact (USA)/Tomb Raider - The Lost Artifact (USA).json
+developer: Core Design Ltd.
+publisher: Eidos Interactive
+genre: Action Adventure;Linear
+description:
+  From the lofty towers of the late Dr. Willard's Scottish castle to the eerie
+  catacombs of France, The Lost Artifact unveils the dramatic conclusion of events
+  set in motion in Tomb Raider III. Upon the death of the dastardly Willard, Lara
+  Croft learns of a lost artifact stowed beneath the Scottish mists at Willard's
+  Loch Ness estate. Rumored to be the legendary Hand of Rathmore, this fifth
+  artifact is the key to unlocking the final secret of the ancient meteor's
+  powers. There is no time to lose, for whom else shares the secret and has joined
+  the hunt?
+release: 2000-03-08
+players: 1
+assets.boxfront: BoxFront/Tomb Raider - The Lost Artifact (USA).jpg
+assets.boxback: BoxBack/Tomb Raider - The Lost Artifact (USA).jpg
 x-co-op: No
 x-playable: Yes
 
