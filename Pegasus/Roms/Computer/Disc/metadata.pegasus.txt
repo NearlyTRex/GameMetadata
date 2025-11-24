@@ -201,8 +201,18 @@ x-playable: Yes
 
 game: Alien vs. Predator - Fangame (USA)
 file: Roms/Computer/Disc/A/Alien vs. Predator - Fangame (USA)/Alien vs. Predator - Fangame (USA).json
-players: 1
-x-co-op: No
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Beat'em Up
+description:
+  A fan-made beat 'em up inspired by the classic Alien vs Predator arcade
+  franchise. Play as Linn, Dutch, or Predator with distinct movesets as you
+  battle through waves of alien enemies. Features co-op gameplay for up to 3
+  players, aerial recovery mechanics, character-specific abilities, and dodge
+  systems. Built using the OpenBOR engine.
+release: 2023-06-15
+players: 3
+x-co-op: Yes
 x-playable: Yes
 
 
@@ -629,8 +639,19 @@ x-playable: Yes
 
 game: Avengers vs. X-Men (USA)
 file: Roms/Computer/Disc/A/Avengers vs. X-Men (USA)/Avengers vs. X-Men (USA).json
-players: 1
-x-co-op: No
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Fighting
+description:
+  A MUGEN-based fighting game that brings the Marvel crossover event to life.
+  Fight as part of the Avengers or X-Men in intense battles with over 20
+  playable characters including Beast, Black Widow, Deadpool, Colossus, Iron
+  Man, Captain America, Emma Frost, Magneto, Cyclops, and Hulk. Features arcade
+  mode with comic-style storyline, survival mode, and classic mode with each
+  character having an impressive list of special moves and attacks.
+release: 2013-08-14
+players: 2
+x-co-op: Yes
 x-playable: Yes
 
 
@@ -1386,8 +1407,20 @@ x-playable: Yes
 
 game: DC Task Force (USA)
 file: Roms/Computer/Disc/D/DC Task Force (USA)/DC Task Force (USA).json
-players: 1
-x-co-op: No
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Beat'em Up;Adventure
+description:
+  Explore the DC Universe in this beat 'em up adventure where you assemble your
+  own Justice League team to defend Earth from an alien invasion. Visit classic
+  cities and planets while recruiting members from a roster of 82 playable
+  characters including Superman, Batman, Wonder Woman, Green Lantern, The Flash,
+  and more. Features an open-universe structure with sidescroller action and
+  platformer stages. Complete the main campaign in just over an hour, or explore
+  for 7+ hours to unlock all characters. Built on the OpenBOR engine.
+release: 2025-01-07
+players: 3
+x-co-op: Yes
 x-playable: Yes
 
 
@@ -1725,8 +1758,20 @@ x-playable: Yes
 
 game: Dungeons and Dragons Cartoon - The Game (USA)
 file: Roms/Computer/Disc/D/Dungeons and Dragons Cartoon - The Game (USA)/Dungeons and Dragons Cartoon - The Game (USA).json
-players: 1
-x-co-op: No
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Beat'em Up;Role-Playing
+description:
+  A side-scrolling beat 'em up inspired by the classic 1980s animated series and
+  Capcom arcade games like King of Dragons. Built with OpenBOR, featuring all
+  six main heroes as playable characters - Hank, Bobby, Sheila, Presto, Diana,
+  and Eric - each with distinct combat abilities. Includes instant character
+  switching mid-game and four unlockable characters: Bruenor, Strongheart,
+  Warduke, and Venger. Features light RPG mechanics with collectible upgrades
+  and leveling systems. Supports up to four players in cooperative action.
+release: 2021-07-06
+players: 4
+x-co-op: Yes
 x-playable: Yes
 
 
@@ -2691,6 +2736,27 @@ assets.boxfront: BoxFront/Hand of Fate (USA).jpg
 assets.video: Video/Hand of Fate (USA).mp4
 
 
+game: Haunted Dual Pack (USA)
+file: Roms/Computer/Disc/H/Haunted Dual Pack (USA)/Haunted Dual Pack (USA).json
+developer: Specialbit Studios
+publisher: Big Fish Games
+genre: Adventure;Puzzle;Hidden Object
+description:
+  A compilation of the first two Haunted Hotel hidden object adventure games.
+  In Haunted Hotel (2008), your car breaks down near an abandoned, haunted hotel
+  and you must investigate to find a way to escape. In Haunted Hotel II: Believe
+  the Lies (2009), an FBI agent goes undercover at the mysterious Lonely Star
+  hotel to unravel a deeper conspiracy. Search cluttered scenes for hidden
+  objects, solve puzzles and mini-games, and piece together clues to solve each
+  mystery. Features timed gameplay with hints and inventory-based puzzle solving.
+release: 2011
+players: 1
+assets.boxfront: BoxFront/Haunted Dual Pack (USA).jpg
+assets.boxback: BoxBack/Haunted Dual Pack (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Haunted Hotel 2-Pack (USA)
 file: Roms/Computer/Disc/H/Haunted Hotel 2-Pack (USA)/Haunted Hotel 2-Pack (USA).json
 developer: Specialbit Studio
@@ -3063,14 +3129,37 @@ x-playable: Yes
 
 game: Justice League Task Force 2 (USA)
 file: Roms/Computer/Disc/J/Justice League Task Force 2 (USA)/Justice League Task Force 2 (USA).json
-players: 1
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Fighting
+description:
+  A spiritual successor in graphics and gameplay to the 16-bit Justice League
+  Task Force from the SNES and Genesis era. This MUGEN-based fan-made sequel
+  adds more characters, more costumes, and more fun with 25 playable DC Universe
+  characters including heroes and villains across varied stages. Features
+  accessible controls with move lists displayed before each fight while offering
+  depth through combo systems and special moves. A spin-off of Justice League
+  vs. Street Fighter by veteran MUGEN developer ZVitor.
+release: 2020-02-07
+players: 2
 x-co-op: No
 x-playable: Yes
 
 
 game: Justice League vs. Street Fighter (USA)
 file: Roms/Computer/Disc/J/Justice League vs. Street Fighter (USA)/Justice League vs. Street Fighter (USA).json
-players: 1
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Fighting
+description:
+  A MUGEN-based crossover fighting game featuring more than 35 characters from
+  DC Comics and Capcom universes. In a misguided effort to save the multiverse,
+  former Green Lantern Hal Jordan merges the DC universe with the Street Fighter
+  world. Battle as Superman, Batman, Flash, Green Arrow, Joker, Darkseid, Ryu,
+  Ken, and many others. Features hidden characters including Predator, Goku,
+  Leonardo, and Wolverine in this epic 2D fighter.
+release: 2016-01-01
+players: 2
 x-co-op: No
 x-playable: Yes
 
@@ -3495,22 +3584,57 @@ x-playable: Yes
 
 game: Marvel First Alliance (USA)
 file: Roms/Computer/Disc/M/Marvel First Alliance (USA)/Marvel First Alliance (USA).json
-players: 1
-x-co-op: No
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Beat'em Up
+description:
+  An OpenBOR-based beat 'em up inspired by Streets of Rage and Double Dragon.
+  The Avengers and friends battle Red Skull's forces attempting world domination
+  across eight zones containing over twenty levels. Features more than thirty
+  playable Marvel characters including Thor, Iron Man, Hulk, Hawkeye, Spider-Man,
+  Nightcrawler, War Machine, and Colossus. Unlock additional heroes by defeating
+  bosses. Supports cooperative gameplay with up to four players simultaneously.
+release: 2015-02-25
+players: 4
+x-co-op: Yes
 x-playable: Yes
 
 
 game: Marvel First Alliance 2 (USA)
 file: Roms/Computer/Disc/M/Marvel First Alliance 2 (USA)/Marvel First Alliance 2 (USA).json
-players: 1
-x-co-op: No
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Beat'em Up
+description:
+  Red Skull and Hydra attempt world domination in this 16-bit side-scrolling
+  brawler built with OpenBOR. Team up as one of dozens of Marvel's most powerful
+  superheroes with up to four players in cooperative action. Features an expanded
+  roster of 52 characters that unlock through Story mode, with additional
+  scenarios including dedicated Spider-Man/Carnage and X-Men/Apocalypse episodes.
+  Dynamic NPCs join battles, and multiple difficulty levels unlock after
+  completing the campaign. Inspired by Streets of Rage and Double Dragon.
+release: 2014-07-25
+players: 4
+x-co-op: Yes
 x-playable: Yes
 
 
 game: Marvel Infinity War (USA)
 file: Roms/Computer/Disc/M/Marvel Infinity War (USA)/Marvel Infinity War (USA).json
-players: 1
-x-co-op: No
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Beat'em Up
+description:
+  The ultimate beat 'em up from the Marvel universe built with OpenBOR. Features
+  a massive roster of 78 playable characters from the Avengers, X-Men, Guardians
+  of the Galaxy, and The Defenders. Adventure through locations inspired by The
+  Infinity War saga following Thanos and the Infinity Gems storyline. Multiple
+  game modes including remakes of Captain America and the Avengers and Spider-Man
+  Maximum Carnage, plus Training Mode, Boss Rush, and bonus content. Supports up
+  to four players simultaneously in cooperative action.
+release: 2017-01-31
+players: 4
+x-co-op: Yes
 x-playable: Yes
 
 
@@ -6412,6 +6536,25 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Super Mario Bros. Crossover Trilogy (USA)
+file: Roms/Computer/Disc/S/Super Mario Bros. Crossover Trilogy (USA)/Super Mario Bros. Crossover Trilogy (USA).json
+developer: Exploding Rabbit
+publisher: Exploding Rabbit
+genre: Action;Platformer
+description:
+  Super Mario Bros. Crossover is a fan-made crossover platform Flash video game
+  launched on Newgrounds on April 27, 2010 by Exploding Rabbit. It is based
+  mostly on the gameplay of Nintendo's Super Mario Bros. for the NES. The only
+  major difference is the ability to control characters that debuted in other
+  Nintendo Entertainment System games unrelated to the Mario series, plus the
+  ability to use "skins" of levels and characters from other games and
+  platforms.
+release: 2010-04-27
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Super Win The Game (USA)
 file: Roms/Computer/Disc/S/Super Win The Game (USA)/Super Win The Game (USA).json
 developer: Minor Key Games, LLC.
@@ -7106,6 +7249,25 @@ players: 1
 assets.boxfront: BoxFront/World of Goo (USA).jpg
 assets.boxback: BoxBack/World of Goo (USA).jpg
 assets.video: Video/World of Goo (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: X-Men Second Coming (USA)
+file: Roms/Computer/Disc/X/X-Men Second Coming (USA)/X-Men Second Coming (USA).json
+developer: ZVitor
+publisher: ZVitor
+genre: Action;Fighting
+description:
+  The definitive X-Men fighting game built with the MUGEN engine. Features over
+  twenty playable mutant fighters in 1-v-1 two-dimensional combat. Most
+  characters are adapted from classic Capcom titles like X-Men: Children of the
+  Atom and X-Men vs Street Fighter, while others were created from scratch.
+  Battle as Wolverine, Magneto, Cyclops, Storm, Beast, Namor, Bishop, and more.
+  Based on the 2010 X-Men "Second Coming" storyline featuring a messiah figure
+  who could restore mutantkind after near-extinction.
+release: 2013-08-14
+players: 2
 x-co-op: No
 x-playable: Yes
 
