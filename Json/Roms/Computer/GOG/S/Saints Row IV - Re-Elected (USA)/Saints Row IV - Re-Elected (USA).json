@@ -13,7 +13,10 @@
         "buildid": "main_20230227_162925",
         "keys": [],
         "name": "Saints Row IV: Re-Elected",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/_saves",
+            "GAME_INSTALL_DIR/display.ini"
+        ]
     },
     "transform_file": "setup_saints_row_iv_re-elected_main_20230227_162925_(64bit)_(62751).exe"
 }

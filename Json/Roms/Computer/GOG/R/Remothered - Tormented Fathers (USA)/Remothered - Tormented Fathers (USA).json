@@ -15,7 +15,9 @@
         "buildid": "1.5.1",
         "keys": [],
         "name": "Remothered: Tormented Fathers",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Remothered"
+        ]
     },
     "transform_file": "setup_remothered_tormented_fathers_1.5.1_(64bit)_(22016).exe"
 }

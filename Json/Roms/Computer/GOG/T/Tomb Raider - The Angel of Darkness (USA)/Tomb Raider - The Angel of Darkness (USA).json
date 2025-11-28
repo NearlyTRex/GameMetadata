@@ -4,8 +4,12 @@
         "appname": "tomb_raider_the_angel_of_darkness",
         "appurl": "https://www.gog.com/en/game/tomb_raider_the_angel_of_darkness",
         "buildid": "GOG.1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Core Design/TombRaiderAngelOfDarkness/1.0"
+        ],
         "name": "Tomb Raider: The Angel of Darkness",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SaveGame"
+        ]
     }
 }

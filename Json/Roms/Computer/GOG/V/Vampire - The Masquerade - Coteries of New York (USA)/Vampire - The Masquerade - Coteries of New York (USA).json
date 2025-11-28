@@ -4,8 +4,12 @@
         "appname": "vampire_the_masquerade_coteries_of_new_york",
         "appurl": "https://www.gog.com/en/game/vampire_the_masquerade_coteries_of_new_york",
         "buildid": "TestKS",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/DrawDistance/VtM Coteries of New York"
+        ],
         "name": "Vampire: The Masquerade - Coteries of New York",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/DrawDistance/VtM Coteries of New York"
+        ]
     }
 }

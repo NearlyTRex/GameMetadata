@@ -20,7 +20,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Still Life 2",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/EXTDataSave"
+        ]
     },
     "transform_file": "setup_still_life_2_1.0_(22305).exe"
 }

@@ -9,7 +9,10 @@
         "buildid": "RC1",
         "keys": [],
         "name": "Wolfenstein: Enemy Territory",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/etmain",
+            "USER_PROFILE_DIR/AppData/Local/PunkBuster/ET"
+        ]
     },
     "transform_file": "setup_wolfenstein_enemy_territory_1.0_(58735).exe"
 }

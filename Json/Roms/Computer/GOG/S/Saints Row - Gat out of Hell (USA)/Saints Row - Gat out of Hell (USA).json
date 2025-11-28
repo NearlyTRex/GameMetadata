@@ -15,7 +15,10 @@
         "buildid": "20170523",
         "keys": [],
         "name": "Saints Row: Gat out of Hell",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/_saves",
+            "GAME_INSTALL_DIR/display.ini"
+        ]
     },
     "transform_file": "setup_saints_row_-_gat_out_of_hell_20170523_(12199).exe"
 }

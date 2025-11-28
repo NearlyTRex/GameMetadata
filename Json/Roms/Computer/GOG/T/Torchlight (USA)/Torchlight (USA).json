@@ -23,7 +23,9 @@
         "buildid": "1.15(A)",
         "keys": [],
         "name": "Torchlight",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/runic games/torchlight"
+        ]
     },
     "transform_file": "setup_torchlight_1.15(a)_(23675).exe"
 }

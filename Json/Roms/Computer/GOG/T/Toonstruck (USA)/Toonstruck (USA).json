@@ -20,7 +20,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Toonstruck",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.SAV",
+            "GAME_INSTALL_DIR/TOONSTRK.CFG"
+        ]
     },
     "transform_file": "setup_toonstruck_1.0_(20270).exe"
 }

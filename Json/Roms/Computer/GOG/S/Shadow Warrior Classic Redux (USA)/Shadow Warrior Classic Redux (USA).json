@@ -9,7 +9,11 @@
         "buildid": "1.1.9",
         "keys": [],
         "name": "Shadow Warrior Classic Redux",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/gameroot/game0_#.sav",
+            "GAME_INSTALL_DIR/gameroot/sw-redux-local.cfg",
+            "GAME_INSTALL_DIR/gameroot/sw-redux.cfg"
+        ]
     },
     "transform_file": "setup_shadow_warrior_classic_redux_1.1.7_(16473).exe"
 }

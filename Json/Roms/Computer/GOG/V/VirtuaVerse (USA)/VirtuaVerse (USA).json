@@ -7,9 +7,13 @@
         "appname": "virtuaverse",
         "appurl": "https://www.gog.com/en/game/virtuaverse",
         "buildid": "1.37",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Theta Division Games/VirtuaVerse"
+        ],
         "name": "VirtuaVerse",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Theta Division Games/VirtuaVerse"
+        ]
     },
     "transform_file": "setup_virtuaverse_1.37_(57276).exe"
 }

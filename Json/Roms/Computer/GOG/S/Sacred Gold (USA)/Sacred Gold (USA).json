@@ -26,7 +26,10 @@
         "buildid": "2.28",
         "keys": [],
         "name": "Sacred Gold",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SETTINGS.CFG",
+            "GAME_INSTALL_DIR/save"
+        ]
     },
     "transform_file": "setup_sacred_gold_2.28_(17769).exe"
 }

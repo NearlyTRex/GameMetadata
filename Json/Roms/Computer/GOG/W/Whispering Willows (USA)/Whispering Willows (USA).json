@@ -4,7 +4,9 @@
         "appname": "whispering_willows",
         "appurl": "https://www.gog.com/en/game/whispering_willows",
         "buildid": "1.6.4",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Nightlight Interactive/Whispering Willows"
+        ],
         "name": "Whispering Willows",
         "paths": []
     }

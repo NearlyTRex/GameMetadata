@@ -4,7 +4,9 @@
         "appname": "riot_civil_unrest",
         "appurl": "https://www.gog.com/en/game/riot_civil_unrest",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/DefaultCompany/Riot"
+        ],
         "name": "RIOT - Civil Unrest",
         "paths": []
     }

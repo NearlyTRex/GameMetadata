@@ -23,7 +23,10 @@
         "buildid": "1.0 CS v2",
         "keys": [],
         "name": "Ultima\u2122 8 Gold Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVEGAME",
+            "GAME_INSTALL_DIR/U8.INI"
+        ]
     },
     "transform_file": "setup_ultima_viii_-_pagan_1.0_cs_v2_(28831).exe"
 }

@@ -4,8 +4,12 @@
         "appname": "tomb_raider_anniversary",
         "appurl": "https://www.gog.com/en/game/tomb_raider_anniversary",
         "buildid": "1.0 GOG v3",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Crystal Dynamics/Tomb Raider: Anniversary"
+        ],
         "name": "Tomb Raider: Anniversary",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Eidos/Tomb Raider - Anniversary"
+        ]
     }
 }

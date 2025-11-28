@@ -6,6 +6,9 @@
         "buildid": "1.0.6.1",
         "keys": [],
         "name": "Saints Row\u00ae: The Third\u2122 Remastered",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/display.ini",
+            "USER_PROFILE_DIR/AppData/Local/Saints Row The Third/Remastered"
+        ]
     }
 }

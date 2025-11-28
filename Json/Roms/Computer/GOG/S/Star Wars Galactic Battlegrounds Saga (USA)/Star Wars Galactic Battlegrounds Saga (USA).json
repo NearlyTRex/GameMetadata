@@ -4,8 +4,14 @@
         "appname": "star_wars_galactic_battlegrounds_saga",
         "appurl": "https://www.gog.com/en/game/star_wars_galactic_battlegrounds_saga",
         "buildid": "1.1 (gog-4)",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/LucasArts Entertainment Company LLC/Star Wars Galactic Battlegrounds: Clone Campaigns/1.0"
+        ],
         "name": "STAR WARS\u2122 Galactic Battlegrounds Saga",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Game/SaveGame",
+            "GAME_INSTALL_DIR/Game/player.nf1",
+            "GAME_INSTALL_DIR/Game/player.nfx"
+        ]
     }
 }

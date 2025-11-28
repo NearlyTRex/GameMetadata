@@ -21,7 +21,9 @@
         "buildid": "1.6 CS",
         "keys": [],
         "name": "Worlds of Ultima\u2122: The Savage Empire",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVEGAME"
+        ]
     },
     "transform_file": "setup_worlds_of_ultima_-_the_savage_empire_1.6_cs_(28045).exe"
 }

@@ -15,7 +15,11 @@
         "buildid": "1.0b",
         "keys": [],
         "name": "Stargunner",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/STARGUN.CFG",
+            "GAME_INSTALL_DIR/STARGUN.HI",
+            "GAME_INSTALL_DIR/STARGUN.SAV"
+        ]
     },
     "transform_file": "setup_stargunner_1.0b_(28045).exe"
 }

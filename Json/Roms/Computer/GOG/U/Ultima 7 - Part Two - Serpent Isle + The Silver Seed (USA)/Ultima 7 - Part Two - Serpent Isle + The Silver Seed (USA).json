@@ -23,7 +23,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Ultima VII\u2122  - Serpent Isle + The Silver Seed",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GAME*.U7"
+        ]
     },
     "transform_file": "setup_ultima_vii_-_serpent_isle_1.0_(22309).exe"
 }

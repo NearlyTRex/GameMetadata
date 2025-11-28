@@ -23,7 +23,9 @@
         "buildid": "1.01",
         "keys": [],
         "name": "The Talos Principle: Gold Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/UserData/Talos.ini"
+        ]
     },
     "transform_file": "setup_the_talos_principle_gold_edition_1.01_(64bit)_(42512).exe"
 }

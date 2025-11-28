@@ -13,7 +13,13 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Witchaven",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/PREF.DAT",
+            "GAME_INSTALL_DIR/SETUP.DAT",
+            "GAME_INSTALL_DIR/SETUP.INI",
+            "GAME_INSTALL_DIR/SVGM*.MAP",
+            "GAME_INSTALL_DIR/SVGN*.DAT"
+        ]
     },
     "transform_file": "setup_witchaven_1.0_(47551).exe"
 }

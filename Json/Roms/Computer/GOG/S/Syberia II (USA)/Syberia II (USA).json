@@ -23,7 +23,9 @@
         "buildid": "1.0.0",
         "keys": [],
         "name": "Syberia II",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Syberia 2 Saves"
+        ]
     },
     "transform_file": "setup_syberia_2_20171109_(16283).exe"
 }

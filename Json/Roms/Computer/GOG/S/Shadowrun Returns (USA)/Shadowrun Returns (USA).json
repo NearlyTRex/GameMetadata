@@ -14,9 +14,13 @@
         "appname": "shadowrun_returns",
         "appurl": "https://www.gog.com/en/game/shadowrun_returns",
         "buildid": "1.2.7 (gog-12)",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Harebrained Schemes/Shadowrun"
+        ],
         "name": "Shadowrun Returns",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Harebrained Schemes/Shadowrun Returns"
+        ]
     },
     "transform_file": "setup_shadowrun_returns_1.2.7_(a)_(10017).exe"
 }

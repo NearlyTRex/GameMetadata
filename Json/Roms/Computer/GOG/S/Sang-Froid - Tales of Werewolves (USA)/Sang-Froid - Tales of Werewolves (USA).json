@@ -16,7 +16,9 @@
         "buildid": "1.13",
         "keys": [],
         "name": "Sang-Froid: Tales of Werewolves",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/VirtualStore/sangFroidData"
+        ]
     },
     "transform_file": "setup_sang_froid_-_tales_of_werewolves_1.13_(21492).exe"
 }

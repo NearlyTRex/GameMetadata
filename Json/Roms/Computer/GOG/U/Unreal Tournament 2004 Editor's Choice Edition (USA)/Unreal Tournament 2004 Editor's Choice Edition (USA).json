@@ -18,7 +18,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Unreal Tournament 2004 Editor's Choice Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves",
+            "GAME_INSTALL_DIR/System/*.ini"
+        ]
     },
     "transform_file": "setup_unreal_tournament_2004_1.0_(18947).exe"
 }

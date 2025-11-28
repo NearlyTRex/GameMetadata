@@ -42,7 +42,9 @@
         "buildid": "1.09.1",
         "keys": [],
         "name": "STASIS",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/The Brotherhood/Stasis"
+        ]
     },
     "transform_file": "setup_stasis_1.09.1_(21441).exe"
 }

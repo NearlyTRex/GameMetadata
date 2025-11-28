@@ -25,7 +25,10 @@
         "buildid": "1.10",
         "keys": [],
         "name": "Tzar: The Burden of the Crown",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/tzar.ini"
+        ]
     },
     "transform_file": "setup_tzar_1.01_(10554).exe"
 }

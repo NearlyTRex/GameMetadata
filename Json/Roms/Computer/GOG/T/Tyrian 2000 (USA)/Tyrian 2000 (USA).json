@@ -13,7 +13,10 @@
         "buildid": "3.01",
         "keys": [],
         "name": "Tyrian 2000",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/TYRIAN.CFG",
+            "GAME_INSTALL_DIR/TYRIAN.SAV"
+        ]
     },
     "transform_file": "setup_tyrian_2000_3.0_(28045).exe"
 }

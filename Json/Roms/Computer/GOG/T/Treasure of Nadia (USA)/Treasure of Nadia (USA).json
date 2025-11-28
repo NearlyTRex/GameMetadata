@@ -6,6 +6,10 @@
         "buildid": "1.0117",
         "keys": [],
         "name": "Treasure of Nadia",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/User Data/Defaultconfig.rpgsave",
+            "USER_PROFILE_DIR/AppData/Local/User Data/Defaultfile*.rpgsave",
+            "USER_PROFILE_DIR/AppData/Local/User Data/Defaultglobal.rpgsave"
+        ]
     }
 }

@@ -11,9 +11,13 @@
         "appname": "stories_untold",
         "appurl": "https://www.gog.com/en/game/stories_untold",
         "buildid": "1.3",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/No Code/Stories Untold"
+        ],
         "name": "Stories Untold",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/No Code/Stories Untold SaveGame.dat"
+        ]
     },
     "transform_file": "setup_stories_untold_64_1.3_(16262).exe"
 }

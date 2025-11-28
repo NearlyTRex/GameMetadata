@@ -6,6 +6,10 @@
         "buildid": "1.51.1",
         "keys": [],
         "name": "Unepic",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/config.cfg",
+            "GAME_INSTALL_DIR/save",
+            "USER_PROFILE_DIR/AppData/Roaming/unepic"
+        ]
     }
 }

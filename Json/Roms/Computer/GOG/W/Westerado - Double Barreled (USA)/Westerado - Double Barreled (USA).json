@@ -15,7 +15,10 @@
         "buildid": "22082017",
         "keys": [],
         "name": "Westerado: Double Barreled",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/WesteradoDB",
+            "USER_PROFILE_DIR/Documents/Westerado DB"
+        ]
     },
     "transform_file": "setup_westerado_-_double_barreled_22082017_(14408).exe"
 }

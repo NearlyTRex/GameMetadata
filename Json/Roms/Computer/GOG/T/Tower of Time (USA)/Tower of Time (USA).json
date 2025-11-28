@@ -4,8 +4,12 @@
         "appname": "tower_of_time",
         "appurl": "https://www.gog.com/en/game/tower_of_time",
         "buildid": "1.4.5.11880",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Event horizon/Tower of Time"
+        ],
         "name": "Tower of Time",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Event horizon/Tower of Time"
+        ]
     }
 }

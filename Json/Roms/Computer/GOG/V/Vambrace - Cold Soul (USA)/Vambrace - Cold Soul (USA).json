@@ -4,8 +4,12 @@
         "appname": "vambrace_cold_soul",
         "appurl": "https://www.gog.com/en/game/vambrace_cold_soul",
         "buildid": "1.11-fix",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/DevespressoGames/VambraceColdSoul"
+        ],
         "name": "Vambrace: Cold Soul",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/DevespressoGames/VambraceColdSoul"
+        ]
     }
 }

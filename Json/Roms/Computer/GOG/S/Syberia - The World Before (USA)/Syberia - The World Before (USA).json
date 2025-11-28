@@ -6,6 +6,8 @@
         "buildid": "1.2.40404",
         "keys": [],
         "name": "Syberia: The World Before",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/SyberiaTWB"
+        ]
     }
 }

@@ -17,7 +17,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Unreal Tournament GOTY",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/System/UnrealTournament.ini",
+            "GAME_INSTALL_DIR/System/User.ini"
+        ]
     },
     "transform_file": "setup_ut_goty_2.0.0.5.exe"
 }

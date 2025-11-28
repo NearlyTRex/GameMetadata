@@ -17,7 +17,9 @@
         "buildid": "1.3 (gog-8)",
         "keys": [],
         "name": "Requiem: Avenging Angel",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Gamers"
+        ]
     },
     "transform_file": "setup_requiem_avenging_angel_2.0.0.8.exe"
 }

@@ -25,7 +25,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Shadow Man",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Grafix.Cfg",
+            "GAME_INSTALL_DIR/Saves"
+        ]
     },
     "transform_file": "setup_shadow_man_1.0_(22189).exe"
 }

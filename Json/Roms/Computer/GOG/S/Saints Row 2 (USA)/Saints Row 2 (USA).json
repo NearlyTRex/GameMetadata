@@ -19,7 +19,9 @@
         "buildid": "gog-5",
         "keys": [],
         "name": "Saints Row 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/THQ/Saints Row 2"
+        ]
     },
     "transform_file": "setup_saints_row_2_gog-5_(9656).exe"
 }

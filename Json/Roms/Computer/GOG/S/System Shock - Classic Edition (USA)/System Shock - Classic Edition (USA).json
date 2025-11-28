@@ -9,7 +9,10 @@
         "buildid": "(gog-3)",
         "keys": [],
         "name": "System Shock: Classic Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CYB.CFG",
+            "GAME_INSTALL_DIR/DATA"
+        ]
     },
     "transform_file": "setup_system_shock_classic_2.0.0.3.exe"
 }

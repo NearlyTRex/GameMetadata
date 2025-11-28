@@ -55,7 +55,9 @@
         "buildid": "3.5.0.26g",
         "keys": [],
         "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Witcher 2"
+        ]
     },
     "transform_file": "setup_the_witcher_2_-_assassins_of_kings_enhanced_edition_3.5.0.26g_(64109).exe"
 }

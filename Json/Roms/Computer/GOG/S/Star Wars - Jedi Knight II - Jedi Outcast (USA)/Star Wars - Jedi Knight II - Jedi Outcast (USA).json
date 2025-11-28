@@ -13,7 +13,11 @@
         "buildid": "1.04",
         "keys": [],
         "name": "Star Wars\u2122: Jedi Knight\u2122 II - Jedi Outcast\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GameData/base/*.cfg",
+            "GAME_INSTALL_DIR/GameData/base/saves",
+            "GAME_INSTALL_DIR/GameData/base/screenshots"
+        ]
     },
     "transform_file": "setup_star_wars_jedi_knight_ii_-_jedi_outcast_1.04_(17964).exe"
 }

@@ -9,7 +9,9 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Star Trek\u2122: Elite Force II",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/base/save"
+        ]
     },
     "transform_file": "setup_star_trektm_elite_force_ii_1.1_(34378).exe"
 }

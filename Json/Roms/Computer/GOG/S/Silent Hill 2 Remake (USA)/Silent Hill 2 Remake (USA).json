@@ -6,6 +6,8 @@
         "buildid": "1.0.10",
         "keys": [],
         "name": "SILENT HILL 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/SilentHill2"
+        ]
     }
 }

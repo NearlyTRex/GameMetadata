@@ -21,7 +21,10 @@
         "buildid": "2001_12_23",
         "keys": [],
         "name": "Wizardry 8",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.CFG",
+            "GAME_INSTALL_DIR/Saves"
+        ]
     },
     "transform_file": "setup_wizardry_8_2001_12_23_(22306).exe"
 }

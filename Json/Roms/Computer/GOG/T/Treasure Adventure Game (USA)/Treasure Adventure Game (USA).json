@@ -17,7 +17,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Treasure Adventure Game",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/config.ini",
+            "GAME_INSTALL_DIR/save_data"
+        ]
     },
     "transform_file": "setup_treasure_adventure_game_1.0_(22308).exe"
 }

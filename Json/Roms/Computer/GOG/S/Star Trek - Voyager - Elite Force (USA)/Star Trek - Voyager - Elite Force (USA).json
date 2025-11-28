@@ -9,7 +9,10 @@
         "buildid": "1.2",
         "keys": [],
         "name": "Star Trek\u2122: Voyager - Elite Force",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/BaseEF/efconfig.cfg",
+            "GAME_INSTALL_DIR/BaseEF/saves"
+        ]
     },
     "transform_file": "setup_star_trek_voyagertm_elite_force_1.2_(34378).exe"
 }

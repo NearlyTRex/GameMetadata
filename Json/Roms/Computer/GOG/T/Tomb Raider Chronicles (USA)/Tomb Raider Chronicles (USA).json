@@ -6,6 +6,8 @@
         "buildid": "20220725",
         "keys": [],
         "name": "Tomb Raider Chronicles",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/savegame.*"
+        ]
     }
 }

@@ -17,7 +17,11 @@
         "buildid": "v2001",
         "keys": [],
         "name": "Unreal 2: The Awakening Special Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/System/Unreal2.ini",
+            "GAME_INSTALL_DIR/System/User.ini"
+        ]
     },
     "transform_file": "setup_unreal_2_-_the_awakening_special_edition_v2001_(19575).exe"
 }

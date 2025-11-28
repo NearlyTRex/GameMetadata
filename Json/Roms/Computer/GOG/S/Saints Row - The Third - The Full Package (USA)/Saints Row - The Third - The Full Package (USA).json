@@ -20,7 +20,10 @@
         "buildid": "1.05",
         "keys": [],
         "name": "Saints Row: The Third - The Full Package",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/display.ini",
+            "USER_PROFILE_DIR/AppData/Local/Saints Row The Third"
+        ]
     },
     "transform_file": "setup_saints_row_3_1.05_(18826).exe"
 }

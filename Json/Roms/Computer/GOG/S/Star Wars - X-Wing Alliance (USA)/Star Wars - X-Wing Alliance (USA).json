@@ -15,7 +15,9 @@
         "buildid": "2.02",
         "keys": [],
         "name": "STAR WARS\u2122: X-Wing Alliance\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/config.cfg"
+        ]
     },
     "transform_file": "setup_star_wars_-_x-wing_alliance_2.02_(18061).exe"
 }

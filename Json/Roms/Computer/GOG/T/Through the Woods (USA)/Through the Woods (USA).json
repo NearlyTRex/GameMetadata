@@ -19,9 +19,13 @@
         "appname": "through_the_woods",
         "appurl": "https://www.gog.com/en/game/through_the_woods",
         "buildid": "1.2",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Antagonist/ThroughTheWoods"
+        ],
         "name": "Through the Woods",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Through the Woods_Data"
+        ]
     },
     "transform_file": "setup_through_the_woods_1.2_(15132).exe"
 }

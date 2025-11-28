@@ -6,6 +6,8 @@
         "buildid": "1.1.1",
         "keys": [],
         "name": "Showgunners",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Showgunners"
+        ]
     }
 }

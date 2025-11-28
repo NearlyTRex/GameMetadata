@@ -6,6 +6,8 @@
         "buildid": "1.1.18",
         "keys": [],
         "name": "Space Hulk: Deathwing - Enhanced Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/SpaceHulkEnhanced"
+        ]
     }
 }

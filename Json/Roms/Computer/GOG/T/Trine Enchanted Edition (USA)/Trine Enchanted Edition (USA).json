@@ -24,7 +24,10 @@
         "buildid": "2.11 (gog-5)",
         "keys": [],
         "name": "Trine Enchanted Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/config",
+            "GAME_INSTALL_DIR/profiles"
+        ]
     },
     "transform_file": "setup_trine_enhanced_edition_2.12(a)_(50506).exe"
 }

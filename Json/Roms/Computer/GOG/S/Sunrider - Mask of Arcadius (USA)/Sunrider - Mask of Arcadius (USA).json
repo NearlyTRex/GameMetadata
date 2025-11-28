@@ -9,7 +9,10 @@
         "buildid": "7.2 Hotfix",
         "keys": [],
         "name": "Sunrider: Mask of Arcadius",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/game/saves",
+            "USER_PROFILE_DIR/AppData/Roaming/RenPy/Sunrider Episode 2 Save Data"
+        ]
     },
     "transform_file": "setup_sunrider_mask_of_arcadius_7.2_hotfix_(20990).exe"
 }

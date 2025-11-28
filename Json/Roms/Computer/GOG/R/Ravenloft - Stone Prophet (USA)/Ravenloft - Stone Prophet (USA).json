@@ -6,6 +6,9 @@
         "buildid": "1.1 CINEfix",
         "keys": [],
         "name": "Ravenloft: Stone Prophet",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GAME.OPT",
+            "GAME_INSTALL_DIR/SAVE*"
+        ]
     }
 }

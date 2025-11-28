@@ -6,6 +6,10 @@
         "buildid": "1.2",
         "keys": [],
         "name": "Warcraft: Orcs and Humans",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CONFIG.WAR",
+            "GAME_INSTALL_DIR/PREFS.WAR",
+            "GAME_INSTALL_DIR/SAVE*.SAV"
+        ]
     }
 }

@@ -19,7 +19,9 @@
         "buildid": "1.0 CS",
         "keys": [],
         "name": "Ultima I\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/PLAYER*.U1"
+        ]
     },
     "transform_file": "setup_ultima_1.0_cs_(28189).exe"
 }

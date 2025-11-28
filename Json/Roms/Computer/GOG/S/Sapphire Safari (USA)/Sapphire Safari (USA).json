@@ -6,6 +6,8 @@
         "buildid": "v027.01",
         "keys": [],
         "name": "Sapphire Safari",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/SapphireSafari"
+        ]
     }
 }

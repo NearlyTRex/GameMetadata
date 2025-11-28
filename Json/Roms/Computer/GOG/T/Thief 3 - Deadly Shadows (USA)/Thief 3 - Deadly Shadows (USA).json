@@ -22,7 +22,10 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Thief\u2122 3: Deadly Shadows",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/System/Default.ini",
+            "GAME_INSTALL_DIR/save/SaveGames"
+        ]
     },
     "transform_file": "setup_thief_-_deadly_shadows_1.1_(21683).exe"
 }

@@ -22,7 +22,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Still Life",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Save"
+        ]
     },
     "transform_file": "setup_still_life_1.0_(22140).exe"
 }

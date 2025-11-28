@@ -9,7 +9,9 @@
         "buildid": "1.01 GOG v2 hotfix",
         "keys": [],
         "name": "Teenagent",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/TEENAGE*.SAV"
+        ]
     },
     "transform_file": "setup_teenagent_1.0_(15595).exe"
 }

@@ -11,7 +11,9 @@
         "buildid": "1.0.19",
         "keys": [],
         "name": "Silver Chains",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/SilverChains"
+        ]
     },
     "transform_file": "setup_silver_chains_1.0.19_(64bit)_(33437).exe"
 }

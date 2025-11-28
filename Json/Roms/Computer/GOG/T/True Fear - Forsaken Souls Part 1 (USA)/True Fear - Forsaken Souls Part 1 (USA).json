@@ -7,7 +7,9 @@
         "appname": "true_fear_forsaken_souls",
         "appurl": "https://www.gog.com/en/game/true_fear_forsaken_souls",
         "buildid": "2.0.10",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Goblinz Enterprises Limited/True Fear"
+        ],
         "name": "True Fear: Forsaken Souls Part 1",
         "paths": [
             "USER_PROFILE_DIR/AppData/Local/Goblinz/TrueFear_ForsakenSouls",

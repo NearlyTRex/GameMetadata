@@ -7,7 +7,9 @@
         "appname": "symphonia_2020",
         "appurl": "https://www.gog.com/en/game/symphonia_2020",
         "buildid": "V1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/DefaultCompany/Symphonia"
+        ],
         "name": "Symphonia (Student Project, 2020)",
         "paths": []
     },

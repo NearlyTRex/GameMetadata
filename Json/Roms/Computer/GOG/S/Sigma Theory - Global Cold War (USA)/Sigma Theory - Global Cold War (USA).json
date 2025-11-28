@@ -7,9 +7,13 @@
         "appname": "sigma_theory_global_cold_war",
         "appurl": "https://www.gog.com/en/game/sigma_theory_global_cold_war",
         "buildid": "1.2.1.2",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/MiClosStudio/sigma"
+        ],
         "name": "Sigma Theory: Global Cold War",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/MiClosStudio/sigma"
+        ]
     },
     "transform_file": "setup_sigma_theory_global_cold_war_1.2.1.2_(39590).exe"
 }

@@ -27,7 +27,10 @@
         "buildid": "1.19F GOG v2",
         "keys": [],
         "name": "Ultima\u2122 9: Ascension",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Options.ini",
+            "GAME_INSTALL_DIR/savegame"
+        ]
     },
     "transform_file": "setup_ultima9_2.0.0.14.exe"
 }

@@ -20,7 +20,9 @@
         "buildid": "1.0.0 GOG v7",
         "keys": [],
         "name": "Syberia",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Syberia Saves"
+        ]
     },
     "transform_file": "setup_syberia_1.0.0_hotfix4_(53936).exe"
 }

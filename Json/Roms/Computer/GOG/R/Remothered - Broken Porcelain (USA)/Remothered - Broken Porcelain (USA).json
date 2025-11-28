@@ -11,7 +11,9 @@
         "buildid": "2.0.0",
         "keys": [],
         "name": "Remothered: Broken Porcelain",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Remothered2"
+        ]
     },
     "transform_file": "setup_remothered_broken_porcelain_2.0.0_(64bit)_(46001).exe"
 }

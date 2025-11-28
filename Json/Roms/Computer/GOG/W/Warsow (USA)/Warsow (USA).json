@@ -13,7 +13,9 @@
         "buildid": "2.1 (gog-18)",
         "keys": [],
         "name": "Warsow",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Warsow"
+        ]
     },
     "transform_file": "setup_warsow_2.4.0.18.exe"
 }

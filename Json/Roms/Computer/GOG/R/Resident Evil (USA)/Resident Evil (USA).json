@@ -4,8 +4,14 @@
         "appname": "resident_evil",
         "appurl": "https://www.gog.com/en/game/resident_evil",
         "buildid": "1.0 hotfix3",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/Software/capcom/BIO HAZARD",
+            "HKEY_LOCAL_MACHINE/Software/capcom/RESIDENT EVIL"
+        ],
         "name": "Resident Evil",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE/savedat*.dat",
+            "GAME_INSTALL_DIR/SAVE/savedata"
+        ]
     }
 }

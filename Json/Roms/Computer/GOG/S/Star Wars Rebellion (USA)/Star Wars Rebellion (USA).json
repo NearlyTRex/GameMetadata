@@ -6,6 +6,8 @@
         "buildid": "1.0_v4_gog",
         "keys": [],
         "name": "STAR WARS\u2122 Rebellion",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SaveGame"
+        ]
     }
 }

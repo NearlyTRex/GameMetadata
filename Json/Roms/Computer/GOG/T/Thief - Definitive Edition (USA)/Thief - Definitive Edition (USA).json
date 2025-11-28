@@ -4,8 +4,13 @@
         "appname": "thief_definitive_edition",
         "appurl": "https://www.gog.com/en/game/thief_definitive_edition",
         "buildid": "1.7",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Eidos Montreal/Thief"
+        ],
         "name": "THIEF: Definitive Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/ThiefGame/Config",
+            "USER_PROFILE_DIR/Documents/My Games/Thief"
+        ]
     }
 }

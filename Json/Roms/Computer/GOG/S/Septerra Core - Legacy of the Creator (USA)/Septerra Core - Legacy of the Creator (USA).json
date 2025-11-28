@@ -21,7 +21,9 @@
         "buildid": "1.4 (gog-10)",
         "keys": [],
         "name": "Septerra Core: Legacy of the Creator",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/savedata"
+        ]
     },
     "transform_file": "setup_septerra_core_2.0.0.10.exe"
 }

@@ -14,7 +14,9 @@
         "buildid": "1.6-fix",
         "keys": [],
         "name": "Tr\u00fcberbrook",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/BTF/Truberbrook"
+        ]
     },
     "transform_file": "setup_truberbrook_1.6_(30927).exe"
 }

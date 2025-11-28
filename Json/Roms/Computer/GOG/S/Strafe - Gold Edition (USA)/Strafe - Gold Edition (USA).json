@@ -13,7 +13,9 @@
         "buildid": "1.4",
         "keys": [],
         "name": "STRAFE: Gold Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Pixel Titans/Strafe"
+        ]
     },
     "transform_file": "setup_strafe_1.4_(38935).exe"
 }

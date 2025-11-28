@@ -9,7 +9,10 @@
         "buildid": "1.1 RDNA fix",
         "keys": [],
         "name": "Star Trek\u2122: Armada II",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/ARMADA.PRF",
+            "GAME_INSTALL_DIR/save"
+        ]
     },
     "transform_file": "setup_star_trektm_armada_ii_1.1_rdna_fix_(52907).exe"
 }

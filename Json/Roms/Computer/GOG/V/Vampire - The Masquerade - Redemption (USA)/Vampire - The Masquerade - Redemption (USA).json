@@ -19,7 +19,10 @@
         "buildid": "1.1_GOG_v4",
         "keys": [],
         "name": "Vampire: The Masquerade - Redemption",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SaveGames",
+            "GAME_INSTALL_DIR/masquerade.ini"
+        ]
     },
     "transform_file": "setup_vampire_the_masquerade_redemption_2.0.0.3.exe"
 }

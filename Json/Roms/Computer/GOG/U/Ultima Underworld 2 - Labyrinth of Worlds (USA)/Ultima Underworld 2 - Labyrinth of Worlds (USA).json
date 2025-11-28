@@ -25,7 +25,9 @@
         "buildid": "1.01 GOG v3",
         "keys": [],
         "name": "Ultima\u2122  Underworld II",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE*"
+        ]
     },
     "transform_file": "setup_ultima_underworld_2_1.0_cs_(28190).exe"
 }

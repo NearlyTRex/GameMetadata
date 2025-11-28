@@ -6,6 +6,11 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Spelljammer: Pirates of Realmspace",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.GSF",
+            "GAME_INSTALL_DIR/*.PTY",
+            "GAME_INSTALL_DIR/*.SFI",
+            "GAME_INSTALL_DIR/PREFS.DAT"
+        ]
     }
 }

@@ -23,7 +23,12 @@
         "buildid": "1.26 ND",
         "keys": [],
         "name": "Thief\u2122 Gold",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.cfg",
+            "GAME_INSTALL_DIR/*.ini",
+            "GAME_INSTALL_DIR/SAVES/cfg*.bnd",
+            "GAME_INSTALL_DIR/SAVES/game*.sav"
+        ]
     },
     "transform_file": "setup_thief_gold_1.26_nd_(21948).exe"
 }

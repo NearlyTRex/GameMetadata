@@ -14,10 +14,14 @@
         "appname": "sanitarium",
         "appurl": "https://www.gog.com/en/game/sanitarium",
         "buildid": "1.0 SVM",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/Software/WOW6432Node/DreamForge/Sanitarium"
+        ],
         "name": "Sanitarium",
         "paths": [
-            "GAME_INSTALL_DIR/SAVES"
+            "GAME_INSTALL_DIR/SAVES",
+            "USER_PROFILE_DIR/AppData/Local/VirtualStore/DotEmu/Sanitarium",
+            "USER_PROFILE_DIR/AppData/Roaming/DotEmu/Sanitarium"
         ]
     },
     "transform_file": "setup_sanitarium_1.0_svm_(57892).exe"

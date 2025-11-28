@@ -7,7 +7,9 @@
         "appname": "true_fear_forsaken_souls_part_2",
         "appurl": "https://www.gog.com/en/game/true_fear_forsaken_souls_part_2",
         "buildid": "2.0.12",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Goblinz Enterprises Limited/True Fear 2"
+        ],
         "name": "True Fear: Forsaken Souls Part 2",
         "paths": [
             "USER_PROFILE_DIR/AppData/Local/Goblinz/True Fear 2",

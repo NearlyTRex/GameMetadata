@@ -33,7 +33,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Wizardry 7 Gold",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.SGM",
+            "GAME_INSTALL_DIR/CDDATA.INI"
+        ]
     },
     "transform_file": "setup_wizardry7_2.2.0.17.exe"
 }

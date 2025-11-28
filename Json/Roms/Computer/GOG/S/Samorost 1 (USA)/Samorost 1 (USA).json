@@ -9,7 +9,9 @@
         "buildid": "1.12",
         "keys": [],
         "name": "Samorost 1",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/amanitadesign.samorost1"
+        ]
     },
     "transform_file": "setup_samorost_1_1.12_(47177).exe"
 }

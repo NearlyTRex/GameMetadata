@@ -6,6 +6,8 @@
         "buildid": "v1.4.1b",
         "keys": [],
         "name": "Residual",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/residual"
+        ]
     }
 }

@@ -13,7 +13,14 @@
         "buildid": "1.22 (gog-7)",
         "keys": [],
         "name": "Sid Meier's Civilization\u00ae III Complete",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Civ3PTW/Civilization3X.ini",
+            "GAME_INSTALL_DIR/Civ3PTW/Saves",
+            "GAME_INSTALL_DIR/Civilization3.ini",
+            "GAME_INSTALL_DIR/Conquests/Conquests.ini",
+            "GAME_INSTALL_DIR/Conquests/Saves",
+            "GAME_INSTALL_DIR/Saves"
+        ]
     },
     "transform_file": "setup_civilization3_complete_2.0.0.7.exe"
 }

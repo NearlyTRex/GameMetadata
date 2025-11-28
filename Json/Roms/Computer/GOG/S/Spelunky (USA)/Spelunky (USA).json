@@ -6,6 +6,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Spelunky",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Data/config.txt",
+            "GAME_INSTALL_DIR/Data/spelunky_save.sav"
+        ]
     }
 }

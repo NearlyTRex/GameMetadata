@@ -30,7 +30,9 @@
         "appname": "war_for_the_overworld",
         "appurl": "https://www.gog.com/en/game/war_for_the_overworld",
         "buildid": "v2.1.3f1",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Subterranean Games/War For The Overworld"
+        ],
         "name": "War for the Overworld",
         "paths": []
     },

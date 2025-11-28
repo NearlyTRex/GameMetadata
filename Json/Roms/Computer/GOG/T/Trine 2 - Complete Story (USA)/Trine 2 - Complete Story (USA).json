@@ -22,7 +22,9 @@
         "buildid": "2.01 build 447",
         "keys": [],
         "name": "Trine 2: Complete Story",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Trine2"
+        ]
     },
     "transform_file": "setup_trine_2_-_complete_story_2.01_build_447_(15973).exe"
 }

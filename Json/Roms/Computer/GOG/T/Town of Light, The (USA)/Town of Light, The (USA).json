@@ -4,8 +4,13 @@
         "appname": "the_town_of_light",
         "appurl": "https://www.gog.com/en/game/the_town_of_light",
         "buildid": "2.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/LKA Srls/The Town of Light"
+        ],
         "name": "The Town of Light",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/ttol_Data/config.xml",
+            "GAME_INSTALL_DIR/ttol_Data/extra.ettol"
+        ]
     }
 }

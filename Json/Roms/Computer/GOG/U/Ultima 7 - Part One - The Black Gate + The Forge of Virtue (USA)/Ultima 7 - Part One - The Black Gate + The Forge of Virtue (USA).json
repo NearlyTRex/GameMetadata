@@ -23,7 +23,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Ultima VII\u2122  - The Black Gate + The Forge of Virtue",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GAME*.U7"
+        ]
     },
     "transform_file": "setup_ultima_vii_-_the_black_gate_1.0_(22309).exe"
 }

@@ -4,8 +4,12 @@
         "appname": "tomb_raider_underworld",
         "appurl": "https://www.gog.com/en/game/tomb_raider_underworld",
         "buildid": "1.1 GOG v3",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Crystal Dynamics/Tomb Raider: Underworld"
+        ],
         "name": "Tomb Raider: Underworld",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/My Documents/Eidos/Tomb Raider - Underworld"
+        ]
     }
 }

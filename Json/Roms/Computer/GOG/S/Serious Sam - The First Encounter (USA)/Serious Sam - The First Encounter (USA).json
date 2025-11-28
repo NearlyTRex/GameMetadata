@@ -13,7 +13,10 @@
         "buildid": "1.05",
         "keys": [],
         "name": "Serious Sam: The First Encounter",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SaveGame",
+            "GAME_INSTALL_DIR/Scripts"
+        ]
     },
     "transform_file": "setup_serious_sam_the_first_encounter_1.05_(21759).exe"
 }

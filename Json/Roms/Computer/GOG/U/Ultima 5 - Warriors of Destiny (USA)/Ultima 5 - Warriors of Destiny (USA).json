@@ -27,7 +27,9 @@
         "buildid": "1.0 CS",
         "keys": [],
         "name": "Ultima V\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVED.GAM"
+        ]
     },
     "transform_file": "setup_ultima_v_-_warriors_of_destiny_1.0_cs_(28045).exe"
 }

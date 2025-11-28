@@ -4,8 +4,12 @@
         "appname": "thronebreaker_the_witcher_tales",
         "appurl": "https://www.gog.com/en/game/thronebreaker_the_witcher_tales",
         "buildid": "3553184",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/CDProjektRED/Thronebreaker"
+        ],
         "name": "Thronebreaker: The Witcher Tales",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/CDProjektRED/Thronebreaker"
+        ]
     }
 }

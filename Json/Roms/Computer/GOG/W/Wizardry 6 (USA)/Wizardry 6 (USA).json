@@ -21,7 +21,10 @@
         "buildid": "2.2.0.18",
         "keys": [],
         "name": "Wizardry 6",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.DBS",
+            "GAME_INSTALL_DIR/SCENARIO.HDR"
+        ]
     },
     "transform_file": "setup_wizardry6_2.2.0.18.exe"
 }

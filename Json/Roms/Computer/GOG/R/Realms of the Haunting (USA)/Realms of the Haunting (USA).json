@@ -15,7 +15,10 @@
         "buildid": "1.12 GOG v2",
         "keys": [],
         "name": "Realms of the Haunting",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/ROTH.INI",
+            "GAME_INSTALL_DIR/SAVEGAME"
+        ]
     },
     "transform_file": "setup_realms_of_the_haunting_2.0.0.12.exe"
 }

@@ -17,9 +17,13 @@
         "appname": "total_annihilation_kingdoms",
         "appurl": "https://www.gog.com/en/game/total_annihilation_kingdoms",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Cavedog Entertainment/Kingdoms"
+        ],
         "name": "Total Annihilation: Kingdoms + Iron Plague",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SavedGames"
+        ]
     },
     "transform_file": "setup_total_annihilation_kingdoms_2.0.0.22.exe"
 }

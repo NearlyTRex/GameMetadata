@@ -13,7 +13,9 @@
         "buildid": "1.0.14",
         "keys": [],
         "name": "Wizardry: Labyrinth of Lost Souls",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Wizardry_LoLS"
+        ]
     },
     "transform_file": "setup_wizardry_labyrinth_of_lost_souls_1.0.14_(35878).exe"
 }

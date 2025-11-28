@@ -20,7 +20,9 @@
         "buildid": "1.0.0.2 hotfix",
         "keys": [],
         "name": "Wolfenstein: The New Order",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/MachineGames/Wolfenstein The New Order"
+        ]
     },
     "transform_file": "setup_wolfenstein_the_new_order_1.0.0.2_hotfix_(36443).exe"
 }

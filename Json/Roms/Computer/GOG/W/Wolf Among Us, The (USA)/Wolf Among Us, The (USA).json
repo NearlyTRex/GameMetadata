@@ -10,7 +10,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "The Wolf Among Us",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/The Wolf Among Us",
+            "USER_PROFILE_DIR/Documents/Telltale Games/TheWolfAmongUs"
+        ]
     },
     "transform_file": "setup_the_wolf_among_us_1.0_(17820).exe"
 }

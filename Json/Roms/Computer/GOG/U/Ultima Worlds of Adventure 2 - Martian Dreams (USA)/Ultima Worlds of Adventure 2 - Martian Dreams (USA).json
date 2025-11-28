@@ -23,7 +23,9 @@
         "buildid": "1.0 CS",
         "keys": [],
         "name": "Ultima\u2122 Worlds of Adventure 2: Martian Dreams",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVEGAME"
+        ]
     },
     "transform_file": "setup_ultima_worlds_of_adventure_2_-_martian_dreams_1.0_cs_(28044).exe"
 }

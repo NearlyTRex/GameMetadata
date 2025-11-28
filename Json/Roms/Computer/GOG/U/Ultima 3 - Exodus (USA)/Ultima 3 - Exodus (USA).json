@@ -19,7 +19,11 @@
         "buildid": "1.0 CS",
         "keys": [],
         "name": "Ultima III\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/PARTY.ULT",
+            "GAME_INSTALL_DIR/ROSTER.ULT",
+            "GAME_INSTALL_DIR/SOSARIA.ULT"
+        ]
     },
     "transform_file": "setup_ultima_iii_-_exodus_1.0_cs_(28045).exe"
 }
