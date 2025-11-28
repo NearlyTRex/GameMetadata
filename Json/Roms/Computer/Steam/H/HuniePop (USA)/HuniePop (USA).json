@@ -7,10 +7,13 @@
         "buildid": "8281361",
         "controller_support": "unknown",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/HuniePop",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/HuniePot/HuniePop"
+        ],
         "name": "HuniePop",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/339800"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/339800",
+            "USER_PROFILE_DIR/AppData/LocalLow/HuniePot/HuniePop"
         ]
     }
 }

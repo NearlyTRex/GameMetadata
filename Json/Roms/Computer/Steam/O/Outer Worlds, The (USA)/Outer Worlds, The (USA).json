@@ -10,7 +10,9 @@
         "keys": [],
         "name": "The Outer Worlds",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/578650"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/578650",
+            "USER_PROFILE_DIR/AppData/Local/Indiana",
+            "USER_PROFILE_DIR/Saved Games/The Outer Worlds"
         ]
     }
 }

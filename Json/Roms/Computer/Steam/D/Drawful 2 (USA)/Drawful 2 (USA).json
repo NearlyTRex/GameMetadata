@@ -14,7 +14,8 @@
         "name": "Drawful 2",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/442070",
-            "USER_PROFILE_DIR/AppData/Local/Jackbox Games/Drawful 2"
+            "USER_PROFILE_DIR/AppData/Local/Jackbox Games/Drawful 2",
+            "USER_PROFILE_DIR/AppData/Roaming/com.jackboxgames.drawful2.air"
         ]
     },
     "transform_file": "Drawful 2 (USA).exe"

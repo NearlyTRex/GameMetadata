@@ -7,7 +7,9 @@
         "buildid": "20837351",
         "controller_support": "full",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/PEAK",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/LandCrab/PEAK"
+        ],
         "name": "PEAK",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/3527290"

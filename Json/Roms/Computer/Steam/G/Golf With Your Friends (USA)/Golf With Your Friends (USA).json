@@ -10,7 +10,9 @@
         "buildid": "20236533",
         "controller_support": "partial",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/Golf With Your Friends",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Team17 Digital Ltd/Golf With Your Friends"
+        ],
         "name": "Golf With Your Friends",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/431240",

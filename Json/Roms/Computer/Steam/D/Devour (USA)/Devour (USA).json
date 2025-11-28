@@ -12,10 +12,13 @@
         "buildid": "20827052",
         "controller_support": "full",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/Devour",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Straight Back Games/DEVOUR"
+        ],
         "name": "DEVOUR",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1274570"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1274570",
+            "USER_PROFILE_DIR/AppData/LocalLow/Straight Back Games/DEVOUR"
         ]
     },
     "transform_file": "Devour (USA).exe"

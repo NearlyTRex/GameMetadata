@@ -7,10 +7,13 @@
         "buildid": "17905164",
         "controller_support": "unknown",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/The Sims Legacy Collection",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Electronic Arts/The Sims 25"
+        ],
         "name": "The Sims\u2122 Legacy Collection",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/3314060"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/3314060",
+            "USER_PROFILE_DIR/Saved Games/Electronic Arts/The Sims 25"
         ]
     }
 }

@@ -13,7 +13,8 @@
         "keys": [],
         "name": "Atari Vault",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/400020"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/400020",
+            "USER_PROFILE_DIR/AppData/LocalLow/Atari+/Atari Vault"
         ]
     },
     "transform_file": "Atari Vault (USA) (4553289).7z"

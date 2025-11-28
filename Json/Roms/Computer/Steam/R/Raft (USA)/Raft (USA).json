@@ -10,7 +10,9 @@
         "buildid": "10199006",
         "controller_support": "unknown",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/Raft",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Redbeet Interactive/Raft"
+        ],
         "name": "Raft",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/648800",

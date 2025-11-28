@@ -7,10 +7,13 @@
         "buildid": "20652841",
         "controller_support": "full",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/Vampire Survivors",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/poncle/Vampire Survivors"
+        ],
         "name": "Vampire Survivors",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1794680"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1794680",
+            "USER_PROFILE_DIR/AppData/Roaming/Vampire_Survivors"
         ]
     }
 }

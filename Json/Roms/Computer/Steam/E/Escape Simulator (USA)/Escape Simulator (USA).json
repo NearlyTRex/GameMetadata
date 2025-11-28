@@ -7,10 +7,13 @@
         "buildid": "20196830",
         "controller_support": "full",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/Escape Simulator",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Pine Studio/Escape Simulator"
+        ],
         "name": "Escape Simulator",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1435790"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1435790",
+            "USER_PROFILE_DIR/AppData/LocalLow/Pine Studio/Escape Simulator"
         ]
     }
 }
