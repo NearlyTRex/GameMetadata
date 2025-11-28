@@ -15,6 +15,7 @@
         "keys": [],
         "name": "Death Rally",
         "paths": [
+            "GAME_INSTALL_DIR/DR.SG*",
             "GAME_INSTALL_DIR/dr.cfg"
         ]
     }

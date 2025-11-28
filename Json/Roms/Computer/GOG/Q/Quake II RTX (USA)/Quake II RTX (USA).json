@@ -9,7 +9,10 @@
         "buildid": "1.8.0",
         "keys": [],
         "name": "Quake II RTX",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/baseq2/q2config.cfg",
+            "GAME_INSTALL_DIR/baseq2/save"
+        ]
     },
     "transform_file": "setup_quake_ii_rtx_1.7.0_(67306).exe"
 }

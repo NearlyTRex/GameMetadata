@@ -6,9 +6,14 @@
         "appid": "ca060b7d-5f42-4797-8476-0a4c7acd12b6",
         "appname": "crowntakers",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Bulwark Studios/Crowntakers"
+        ],
         "name": "Crowntakers",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves",
+            "USER_PROFILE_DIR/AppData/LocalLow/Bulwark Studios/Crowntakers"
+        ]
     },
     "transform_file": "Crowntakers.exe"
 }

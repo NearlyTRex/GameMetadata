@@ -6,9 +6,14 @@
         "appid": "e9180a6f-8f70-40ee-ad68-a40f559f3d9b",
         "appname": "screencheat",
         "buildid": "1462442844",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Samurai Punk/SCREENCHEAT"
+        ],
         "name": "Screencheat",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/profiles/profiles.dat",
+            "USER_PROFILE_DIR/AppData/LocalLow/Samurai Punk/SCREENCHEAT"
+        ]
     },
     "transform_file": "Screencheat_3_3_0_win32.exe"
 }

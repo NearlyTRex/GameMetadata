@@ -18,7 +18,9 @@
         "buildid": "1454462224",
         "keys": [],
         "name": "Psychonauts",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Profiles"
+        ]
     },
     "transform_file": "Psychonauts_Win.exe"
 }

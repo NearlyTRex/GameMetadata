@@ -14,6 +14,9 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Wolfenstein - Enemy Territory",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/etmain",
+            "USER_PROFILE_DIR/AppData/Local/PunkBuster/ET"
+        ]
     }
 }
