@@ -9,7 +9,9 @@
         "buildid": "1.1.0",
         "keys": [],
         "name": "Martial Law",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Godot/app_userdata/Martial Law"
+        ]
     },
     "transform_file": "setup_martial_law_1.1.0_(64bit)_(55044).exe"
 }

@@ -6,6 +6,10 @@
         "buildid": "1.1 CS",
         "keys": [],
         "name": "Dark Sun: Shattered Lands",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CHARSAVE.GFF",
+            "GAME_INSTALL_DIR/DARKRUN.GFF",
+            "GAME_INSTALL_DIR/SAVE*.SAV"
+        ]
     }
 }

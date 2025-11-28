@@ -21,7 +21,10 @@
         "buildid": "1.3",
         "keys": [],
         "name": "Pool of Radiance",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/POOL.CFG",
+            "GAME_INSTALL_DIR/SAVE"
+        ]
     },
     "transform_file": "setup_pool_of_radiance_1.3_(28044).exe"
 }

@@ -15,7 +15,10 @@
         "buildid": "gog-7",
         "keys": [],
         "name": "Downfall",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/acsetup.cfg",
+            "GAME_INSTALL_DIR/agssave.*"
+        ]
     },
     "transform_file": "setup_downfall_gog-7_(3705).exe"
 }

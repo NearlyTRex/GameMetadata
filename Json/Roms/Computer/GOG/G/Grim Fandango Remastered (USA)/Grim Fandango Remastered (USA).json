@@ -22,7 +22,10 @@
         "buildid": "1.4.0",
         "keys": [],
         "name": "Grim Fandango Remastered",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves",
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/GrimFandango"
+        ]
     },
     "transform_file": "setup_grim_fandango_remastererd_1.4.0_(17097).exe"
 }

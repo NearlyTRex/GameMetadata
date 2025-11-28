@@ -22,7 +22,11 @@
         "buildid": "1.0.43.1",
         "keys": [],
         "name": "Little Nightmares",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Atlas/Saved/Config/WindowsNoEditor/*.ini",
+            "GAME_INSTALL_DIR/Atlas/Saved/SaveGames/*_SaveSlot*.sav",
+            "GAME_INSTALL_DIR/Atlas/Saved/SaveGames/*_UserMeta.sav"
+        ]
     },
     "transform_file": "setup_little_nightmares_1.0.43.1_(18471).exe"
 }

@@ -18,7 +18,9 @@
         "buildid": "20161205",
         "keys": [],
         "name": "Headlander",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/Headlander"
+        ]
     },
     "transform_file": "setup_headlander_20161205_(12563).exe"
 }

@@ -10,7 +10,9 @@
         "buildid": "1.10 Win",
         "keys": [],
         "name": "Inscryption",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SaveFile.gwsave"
+        ]
     },
     "transform_file": "setup_inscryption_1.10_win_(56780).exe"
 }

@@ -17,7 +17,9 @@
         "appname": "life_is_strange_before_the_storm",
         "appurl": "https://www.gog.com/en/game/life_is_strange_before_the_storm",
         "buildid": "1.0 hotfix",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Square Enix/Life is Strange: Before the Storm"
+        ],
         "name": "Life is Strange: Before the Storm",
         "paths": []
     },

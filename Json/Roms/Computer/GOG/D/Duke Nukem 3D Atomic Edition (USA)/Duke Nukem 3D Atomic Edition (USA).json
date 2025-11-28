@@ -21,7 +21,10 @@
         "buildid": "1.5",
         "keys": [],
         "name": "Duke Nukem 3D Atomic Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/DUKE3D.CFG",
+            "GAME_INSTALL_DIR/GAME*.SAV"
+        ]
     },
     "transform_file": "setup_duke_nukem_3d_1.5_(28044).exe"
 }

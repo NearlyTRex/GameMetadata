@@ -6,6 +6,8 @@
         "buildid": "1.4.1-hotfix",
         "keys": [],
         "name": "Dark Sky",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Ganymede Games/Dark Sky"
+        ]
     }
 }

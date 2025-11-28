@@ -6,7 +6,10 @@
         "keys": [],
         "launch": [],
         "name": "StepMania",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/StepMania 5/Data",
+            "GAME_INSTALL_DIR/StepMania 5/Themes/_fallback"
+        ],
         "setup": {}
     },
     "files": [

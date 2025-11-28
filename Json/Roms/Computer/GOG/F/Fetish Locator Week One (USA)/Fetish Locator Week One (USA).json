@@ -6,6 +6,9 @@
         "buildid": "1.0.60-dlc",
         "keys": [],
         "name": "Fetish Locator Week One",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/game/saves",
+            "USER_PROFILE_DIR/AppData/Roaming/RenPy/persistent/FetishLocator"
+        ]
     }
 }

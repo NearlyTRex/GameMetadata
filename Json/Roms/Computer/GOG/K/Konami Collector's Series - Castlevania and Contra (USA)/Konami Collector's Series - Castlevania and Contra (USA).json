@@ -9,7 +9,9 @@
         "buildid": "1.0 GOG v4",
         "keys": [],
         "name": "Konami Collector's Series: Castlevania & Contra",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.qxf"
+        ]
     },
     "transform_file": "setup_konami_collectors_series_castlevania__contra_1.0.cu_(44646).exe"
 }

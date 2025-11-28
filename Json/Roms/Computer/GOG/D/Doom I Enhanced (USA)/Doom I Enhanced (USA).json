@@ -8,9 +8,13 @@
         "appname": "doom_i_enhanced",
         "appurl": "https://www.gog.com/en/game/doom_i_enhanced",
         "buildid": "January_23_update",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Bethesda Softworks/DOOM"
+        ],
         "name": "DOOM I Enhanced",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM Classic"
+        ]
     },
     "transform_file": "setup_doom_i_enhanced_january_23_update_(64bit)_(60827).exe"
 }

@@ -6,6 +6,9 @@
         "buildid": "1.5.1.712",
         "keys": [],
         "name": "The Outer Worlds",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Indiana",
+            "USER_PROFILE_DIR/Saved Games/The Outer Worlds"
+        ]
     }
 }

@@ -19,7 +19,11 @@
         "buildid": "2.000",
         "keys": [],
         "name": "Police Quest - In Pursuit of The Death Angel",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/PQ1",
+            "GAME_INSTALL_DIR/PQ1SG.*",
+            "GAME_INSTALL_DIR/cloud_saves/PQ1SG.*"
+        ]
     },
     "transform_file": "setup_police_quest_-_in_pursuit_of_the_death_angel_2.000_(28044).exe"
 }

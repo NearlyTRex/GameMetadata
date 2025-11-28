@@ -6,6 +6,8 @@
         "buildid": "2.1",
         "keys": [],
         "name": "DragonStrike",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/PREF.DAT"
+        ]
     }
 }

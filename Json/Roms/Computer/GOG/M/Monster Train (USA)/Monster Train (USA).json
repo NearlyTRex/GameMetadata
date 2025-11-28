@@ -4,8 +4,12 @@
         "appname": "monster_train",
         "appurl": "https://www.gog.com/en/game/monster_train",
         "buildid": "Build-12924-Production",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Shiny Shoe/MonsterTrain"
+        ],
         "name": "Monster Train",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Shiny Shoe/MonsterTrain"
+        ]
     }
 }

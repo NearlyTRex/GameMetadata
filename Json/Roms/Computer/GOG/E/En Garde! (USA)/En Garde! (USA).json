@@ -6,6 +6,8 @@
         "buildid": "1.0_ua_update",
         "keys": [],
         "name": "En Garde!",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/EnGarde"
+        ]
     }
 }

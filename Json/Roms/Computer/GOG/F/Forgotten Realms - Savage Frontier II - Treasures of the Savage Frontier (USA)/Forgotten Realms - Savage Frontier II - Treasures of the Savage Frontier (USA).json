@@ -19,7 +19,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Treasures of the Savage Frontier",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE",
+            "GAME_INSTALL_DIR/TREASURE.CFG"
+        ]
     },
     "transform_file": "setup_treasures_of_the_savage_frontier_1.0_(28045).exe"
 }

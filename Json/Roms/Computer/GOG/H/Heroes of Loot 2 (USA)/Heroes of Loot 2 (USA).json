@@ -6,6 +6,9 @@
         "buildid": "1.5.2b",
         "keys": [],
         "name": "Heroes of Loot 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/.prefs/hol2",
+            "USER_PROFILE_DIR/.prefs/hol2svg"
+        ]
     }
 }

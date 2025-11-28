@@ -17,7 +17,9 @@
         "buildid": "1.0.2g",
         "keys": [],
         "name": "Geneforge 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Spiderweb Software/Geneforge 2 Saved Games"
+        ]
     },
     "transform_file": "setup_geneforge_2_1.0.2g_(21279).exe"
 }

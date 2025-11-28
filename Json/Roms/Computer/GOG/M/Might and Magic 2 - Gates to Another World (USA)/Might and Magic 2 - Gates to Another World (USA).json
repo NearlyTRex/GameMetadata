@@ -17,7 +17,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Might and Magic 2 - Gates to Another World",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/ROSTER.DAT"
+        ]
     },
     "transform_file": "setup_might_and_magic_2_-_gates_to_another_world_1.0_(28044).exe"
 }

@@ -8,9 +8,13 @@
         "appname": "the_painscreek_killings",
         "appurl": "https://www.gog.com/en/game/the_painscreek_killings",
         "buildid": "1.1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/EQ Studios/The Painscreek Killings"
+        ],
         "name": "The Painscreek Killings",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/EQ Studios/The Painscreek Killings"
+        ]
     },
     "transform_file": "setup_the_painscreek_killings_1.0.8_(47822).exe"
 }

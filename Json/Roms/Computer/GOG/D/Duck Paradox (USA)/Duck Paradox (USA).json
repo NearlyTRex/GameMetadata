@@ -4,7 +4,9 @@
         "appname": "duck_paradox",
         "appurl": "https://www.gog.com/en/game/duck_paradox",
         "buildid": "1.0.6 (R)",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Magic Games/Duck Paradox"
+        ],
         "name": "Duck Paradox",
         "paths": []
     }

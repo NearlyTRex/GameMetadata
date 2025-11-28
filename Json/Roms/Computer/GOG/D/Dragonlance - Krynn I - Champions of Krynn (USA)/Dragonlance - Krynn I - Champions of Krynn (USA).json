@@ -17,7 +17,10 @@
         "buildid": "1.2",
         "keys": [],
         "name": "Champions of Krynn",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/KRYNN.CFG",
+            "GAME_INSTALL_DIR/SAVE"
+        ]
     },
     "transform_file": "setup_champions_of_krynn_1.2_(28043).exe"
 }

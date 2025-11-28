@@ -4,8 +4,12 @@
         "appname": "dishonored_definitive_edition",
         "appurl": "https://www.gog.com/en/game/dishonored_definitive_edition",
         "buildid": "334700 2022",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Arkane/Dishonored"
+        ],
         "name": "Dishonored - Definitive Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Dishonored"
+        ]
     }
 }

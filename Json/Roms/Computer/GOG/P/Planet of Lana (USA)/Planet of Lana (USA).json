@@ -4,8 +4,12 @@
         "appname": "planet_of_lana",
         "appurl": "https://www.gog.com/en/game/planet_of_lana",
         "buildid": "1.1.0.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Wishfully/Planet of Lana"
+        ],
         "name": "Planet of Lana",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Wishfully/Planet of Lana"
+        ]
     }
 }

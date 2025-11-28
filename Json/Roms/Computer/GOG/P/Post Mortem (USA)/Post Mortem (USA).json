@@ -20,7 +20,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Post Mortem",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Post_Mortem Saves",
+            "USER_PROFILE_DIR/Documents/Post_Mortem Saves"
+        ]
     },
     "transform_file": "setup_post_mortem_1.0_(19454).exe"
 }

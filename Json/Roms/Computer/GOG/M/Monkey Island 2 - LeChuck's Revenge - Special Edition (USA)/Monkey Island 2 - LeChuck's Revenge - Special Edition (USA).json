@@ -13,7 +13,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Monkey Island\u2122 2 Special Edition: LeChuck\u2019s Revenge\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/monkey2.bin",
+            "USER_PROFILE_DIR/AppData/Roaming/LucasArts/Monkey Island 2 Special Edition"
+        ]
     },
     "transform_file": "setup_monkey_island2_se_2.0.0.10.exe"
 }

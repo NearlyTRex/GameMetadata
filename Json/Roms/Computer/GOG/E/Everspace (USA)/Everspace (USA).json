@@ -11,7 +11,9 @@
         "buildid": "1.3.5.36556",
         "keys": [],
         "name": "EVERSPACE\u2122",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/RSG"
+        ]
     },
     "transform_file": "setup_everspace_1.3.5.36556_(64bit)_(32841).exe"
 }

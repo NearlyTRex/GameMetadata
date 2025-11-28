@@ -4,8 +4,12 @@
         "appname": "legacy_of_kain_defiance",
         "appurl": "https://www.gog.com/en/game/legacy_of_kain_defiance",
         "buildid": "1.1 ca_fix",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Crystal Dynamics/Legacy of Kain: Defiance/1.00.000"
+        ],
         "name": "Legacy of Kain: Defiance",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Legacy of Kain - Defiance"
+        ]
     }
 }

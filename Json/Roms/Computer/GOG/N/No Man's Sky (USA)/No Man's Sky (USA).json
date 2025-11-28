@@ -13,7 +13,10 @@
         "buildid": "6.17.2_HolidayExpeditions2025_155983",
         "keys": [],
         "name": "No Man's Sky",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Binaries/SETTINGS",
+            "USER_PROFILE_DIR/AppData/Roaming/HelloGames/NMS"
+        ]
     },
     "transform_file": "setup_no_mans_sky_4.65_orbitals_121808_(72994).exe"
 }

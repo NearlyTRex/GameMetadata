@@ -7,9 +7,13 @@
         "appname": "legend_of_keepers_career_of_a_dungeon_master",
         "appurl": "https://www.gog.com/en/game/legend_of_keepers_career_of_a_dungeon_master",
         "buildid": "1.1.0.3",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/GoblinzStudio/LegendOfKeepers"
+        ],
         "name": "Legend of Keepers: Career of a Dungeon Manager",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/GoblinzStudio/LegendOfKeepers"
+        ]
     },
     "transform_file": "setup_legend_of_keepers_career_of_a_dungeon_manager_1.1.0.3_(69681).exe"
 }

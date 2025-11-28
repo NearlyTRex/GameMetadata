@@ -4,6 +4,7 @@
         "appname": "resident_evil",
         "buildid": "1.0",
         "keys": [
+            "HKEY_LOCAL_MACHINE/Software/capcom/BIO HAZARD",
             "HKEY_LOCAL_MACHINE/Software/capcom/RESIDENT EVIL"
         ],
         "launch": [
@@ -15,7 +16,8 @@
         ],
         "name": "Resident Evil",
         "paths": [
-            "GAME_INSTALL_DIR/SAVE/savedat*.dat"
+            "GAME_INSTALL_DIR/SAVE/savedat*.dat",
+            "GAME_INSTALL_DIR/SAVE/savedata"
         ],
         "setup": {
             "preinstall": [

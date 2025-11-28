@@ -17,7 +17,10 @@
         "buildid": "1.2",
         "keys": [],
         "name": "Gateway to the Savage Frontier",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GAME.CFG",
+            "GAME_INSTALL_DIR/SAVE"
+        ]
     },
     "transform_file": "setup_gateway_to_the_savage_frontier_1.2_(28044).exe"
 }

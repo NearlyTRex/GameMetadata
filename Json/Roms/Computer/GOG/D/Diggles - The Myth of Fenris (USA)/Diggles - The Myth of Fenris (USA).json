@@ -4,7 +4,9 @@
         "appname": "diggles_the_myth_of_fenris",
         "appurl": "https://www.gog.com/en/game/diggles_the_myth_of_fenris",
         "buildid": "2.1.1.10",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/SekOst/Diggles"
+        ],
         "name": "Diggles: The Myth of Fenris",
         "paths": []
     }

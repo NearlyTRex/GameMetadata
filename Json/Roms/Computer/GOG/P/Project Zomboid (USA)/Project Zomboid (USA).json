@@ -10,7 +10,9 @@
         "buildid": "41.78.16",
         "keys": [],
         "name": "Project Zomboid",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Zomboid"
+        ]
     },
     "transform_file": "setup_project_zomboid_41.78.16_(64bit)_(60900).exe"
 }

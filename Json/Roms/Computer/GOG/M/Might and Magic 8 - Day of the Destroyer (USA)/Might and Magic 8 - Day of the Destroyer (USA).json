@@ -21,9 +21,13 @@
         "appname": "might_and_magic_8_day_of_the_destroyer",
         "appurl": "https://www.gog.com/en/game/might_and_magic_8_day_of_the_destroyer",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/New World Computing/Might and Magic Day of the Destroyer/1.0"
+        ],
         "name": "Might and Magic\u00ae 8: Day of the Destroyer\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves"
+        ]
     },
     "transform_file": "setup_might_and_magic_8_day_of_the_destroyer_1.0_(22833).exe"
 }

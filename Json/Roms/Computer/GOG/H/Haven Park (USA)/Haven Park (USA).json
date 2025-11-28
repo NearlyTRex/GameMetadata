@@ -7,9 +7,13 @@
         "appname": "haven_park",
         "appurl": "https://www.gog.com/en/game/haven_park",
         "buildid": "1.2.3",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/BubbleStudio/HavenPark"
+        ],
         "name": "Haven Park",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/BubbleStudio/HavenPark"
+        ]
     },
     "transform_file": "setup_haven_park_1.2.3_(61844).exe"
 }

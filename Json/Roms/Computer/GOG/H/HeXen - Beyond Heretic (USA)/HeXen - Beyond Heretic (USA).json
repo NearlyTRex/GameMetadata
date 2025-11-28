@@ -9,7 +9,11 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Hexen: Beyond Heretic",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/base/*.CFG",
+            "GAME_INSTALL_DIR/base/*.conf",
+            "GAME_INSTALL_DIR/base/HEXNDATA"
+        ]
     },
     "transform_file": "setup_hexen_beyond_heretic_1.1_(42801).exe"
 }

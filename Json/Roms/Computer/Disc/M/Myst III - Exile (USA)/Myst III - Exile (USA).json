@@ -12,7 +12,8 @@
         "name": "Myst III - Exile",
         "paths": [
             "GAME_INSTALL_DIR/Saved Games",
-            "USER_PROFILE_DIR/AppData/Roaming/ResidualVM"
+            "USER_PROFILE_DIR/AppData/Roaming/ResidualVM",
+            "USER_PROFILE_DIR/AppData/Roaming/ScummVM"
         ],
         "setup": {
             "preinstall": [

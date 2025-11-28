@@ -8,9 +8,14 @@
         "appname": "doom_ii_enhanced",
         "appurl": "https://www.gog.com/en/game/doom_ii_enhanced",
         "buildid": "January_23_update",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Bethesda Softworks/DOOM 2"
+        ],
         "name": "DOOM II Enhanced",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Bethesda Softworks/DOOM 2",
+            "USER_PROFILE_DIR/Saved Games/id Software/DOOM 2"
+        ]
     },
     "transform_file": "setup_doom_ii_enhanced_january_23_update_(64bit)_(60827).exe"
 }

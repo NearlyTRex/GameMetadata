@@ -6,6 +6,8 @@
         "buildid": "20221128_1.7.1.r70100_Shipping",
         "keys": [],
         "name": "Gamedec - Definitive Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/GameDEC"
+        ]
     }
 }

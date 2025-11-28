@@ -19,7 +19,10 @@
         "buildid": "1.10",
         "keys": [],
         "name": "Pools of Darkness",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/POOL4.CFG",
+            "GAME_INSTALL_DIR/SAVE"
+        ]
     },
     "transform_file": "setup_pools_of_darkness_1.10_(28044).exe"
 }

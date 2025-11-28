@@ -9,7 +9,9 @@
         "buildid": "1.5.3",
         "keys": [],
         "name": "Neurodeck: Psychological Deckbuilder",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/TavroxGames/Neurodeck"
+        ]
     },
     "transform_file": "setup_neurodeck_psychological_deckbuilder_1.5.3_(64bit)_(49983).exe"
 }

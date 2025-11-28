@@ -27,7 +27,10 @@
         "buildid": "1.3",
         "keys": [],
         "name": "Curse of the Azure Bonds",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CURSE.CFG",
+            "GAME_INSTALL_DIR/SAVE"
+        ]
     },
     "transform_file": "setup_curse_of_the_azure_bonds_1.3_(28043).exe"
 }

@@ -13,7 +13,9 @@
         "buildid": "1.0.0.397609 hotfix2",
         "keys": [],
         "name": "Life is Strange: Complete Season",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Life Is Strange"
+        ]
     },
     "transform_file": "setup_life_is_strange_complete_season_1.0.0.397609_hotfix2_(40423).exe"
 }

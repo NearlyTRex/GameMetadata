@@ -4,8 +4,12 @@
         "appname": "mutazione",
         "appurl": "https://www.gog.com/en/game/mutazione",
         "buildid": "1.84.2",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Die Gute Fabrik/Mutazione"
+        ],
         "name": "Mutazione",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Die Gute Fabrik/Mutazione"
+        ]
     }
 }

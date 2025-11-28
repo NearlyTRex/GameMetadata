@@ -7,9 +7,14 @@
         "appname": "lost_ruins",
         "appurl": "https://www.gog.com/en/game/lost_ruins",
         "buildid": "1.0.9a",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Altari Games/LostRuins"
+        ],
         "name": "Lost Ruins",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves",
+            "GAME_INSTALL_DIR/Settings/settings.xml"
+        ]
     },
     "transform_file": "setup_lost_ruins_1.0.9a_(48363).exe"
 }

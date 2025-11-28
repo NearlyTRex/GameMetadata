@@ -9,7 +9,9 @@
         "buildid": "gog-3",
         "keys": [],
         "name": "THE KING OF FIGHTERS 2002",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/SNK/kof2k2nd"
+        ]
     },
     "transform_file": "setup_the_king_of_fighters_2002_gog-3_(12081).exe"
 }

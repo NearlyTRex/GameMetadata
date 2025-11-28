@@ -21,7 +21,10 @@
         "buildid": "1.3",
         "keys": [],
         "name": "Might and Magic\u00ae 9",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SaveGames",
+            "GAME_INSTALL_DIR/autoexec.cfg"
+        ]
     },
     "transform_file": "setup_might_and_magic_9_writ_of_fate_1.3_(31712).exe"
 }

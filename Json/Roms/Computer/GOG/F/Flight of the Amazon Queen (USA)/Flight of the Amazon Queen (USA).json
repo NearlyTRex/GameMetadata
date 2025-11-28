@@ -17,7 +17,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Flight of the Amazon Queen",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/queen.ini",
+            "GAME_INSTALL_DIR/queen.s*"
+        ]
     },
     "transform_file": "setup_flight_of_the_amazon_queen_1.0_(20270).exe"
 }

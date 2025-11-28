@@ -4,8 +4,12 @@
         "appname": "dredge",
         "appurl": "https://www.gog.com/en/game/dredge",
         "buildid": "2879 - PROD.1_dlcfix",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Black Salt Games/DREDGE"
+        ],
         "name": "DREDGE",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Black Salt Games/DREDGE"
+        ]
     }
 }

@@ -10,7 +10,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Gravewood High",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/GravewoodHigh"
+        ]
     },
     "transform_file": "setup_gravewood_high_1.0_(64bit)_(64312).exe"
 }

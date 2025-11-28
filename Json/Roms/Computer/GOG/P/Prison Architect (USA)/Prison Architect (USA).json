@@ -9,7 +9,9 @@
         "buildid": "The_Jailhouse102_11056",
         "keys": [],
         "name": "Prison Architect",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Introversion/Prison Architect"
+        ]
     },
     "transform_file": "setup_prison_architect_the_jailhouse102_11056_(64bit)_(62678).exe"
 }

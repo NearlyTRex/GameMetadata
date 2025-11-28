@@ -4,8 +4,12 @@
         "appname": "huniepop",
         "appurl": "https://www.gog.com/en/game/huniepop",
         "buildid": "1.2.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/HuniePot/HuniePop"
+        ],
         "name": "HuniePop",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/HuniePot/HuniePop"
+        ]
     }
 }

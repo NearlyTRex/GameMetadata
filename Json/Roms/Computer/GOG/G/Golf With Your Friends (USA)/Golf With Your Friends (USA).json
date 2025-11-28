@@ -4,8 +4,12 @@
         "appname": "golf_with_your_friends",
         "appurl": "https://www.gog.com/en/game/golf_with_your_friends",
         "buildid": "21.999952-Production.1_dlcfix",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Team17 Digital Ltd/Golf With Your Friends"
+        ],
         "name": "Golf With Your Friends",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Team17 Digital Ltd/Golf With Your Friends"
+        ]
     }
 }

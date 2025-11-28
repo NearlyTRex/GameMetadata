@@ -11,9 +11,13 @@
         "appname": "paper_sorcerer",
         "appurl": "https://www.gog.com/en/game/paper_sorcerer",
         "buildid": "2.5",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/UltraRunaway/Paper Sorcerer"
+        ],
         "name": "Paper Sorcerer",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/UltraRunaway/Paper Sorcerer"
+        ]
     },
     "transform_file": "setup_paper_sorcerer_2.5_(21323).exe"
 }

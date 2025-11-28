@@ -4,8 +4,12 @@
         "appname": "hard_west_2",
         "appurl": "https://www.gog.com/en/game/hard_west_2",
         "buildid": "1.0.2.1.4197",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Ice Code Games/HardWest2"
+        ],
         "name": "Hard West 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Ice Code Games/HardWest2"
+        ]
     }
 }

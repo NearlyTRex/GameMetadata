@@ -4,8 +4,12 @@
         "appname": "dark_fall_ghost_vigil",
         "appurl": "https://www.gog.com/en/game/dark_fall_ghost_vigil",
         "buildid": "DFGV-1.5-GOG",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Darkling Room/Dark Fall - Ghost Vigil"
+        ],
         "name": "Dark Fall: Ghost Vigil",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Darkling Room/Dark Fall - Ghost Vigil"
+        ]
     }
 }

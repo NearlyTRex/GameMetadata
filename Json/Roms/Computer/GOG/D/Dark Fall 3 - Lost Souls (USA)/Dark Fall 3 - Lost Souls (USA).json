@@ -4,8 +4,12 @@
         "appname": "dark_fall_3_lost_souls",
         "appurl": "https://www.gog.com/en/game/dark_fall_3_lost_souls",
         "buildid": "1.1",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Darkling Room/Dark Fall Lost Souls"
+        ],
         "name": "Dark Fall 3: Lost Souls",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Saved Games/Dark Fall - Lost Souls"
+        ]
     }
 }

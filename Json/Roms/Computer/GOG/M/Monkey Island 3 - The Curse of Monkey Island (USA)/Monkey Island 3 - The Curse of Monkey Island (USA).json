@@ -14,7 +14,14 @@
         "buildid": "1.0L",
         "keys": [],
         "name": "The Curse of Monkey Island\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves/monkey3.c*",
+            "GAME_INSTALL_DIR/Saves/monkey3.c01",
+            "GAME_INSTALL_DIR/ScummVM/monkey3/monkey3.ini",
+            "GAME_INSTALL_DIR/ScummVM/monkey3/monkey3.s*",
+            "GAME_INSTALL_DIR/monkey3.ini",
+            "USER_PROFILE_DIR/AppData/Roaming/ScummVM"
+        ]
     },
     "transform_file": "setup_the_curse_of_monkey_islandtm_1.0l_(20628).exe"
 }

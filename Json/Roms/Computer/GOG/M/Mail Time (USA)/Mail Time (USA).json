@@ -6,6 +6,8 @@
         "buildid": "v.1.00.19",
         "keys": [],
         "name": "Mail Time",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/MailTime"
+        ]
     }
 }

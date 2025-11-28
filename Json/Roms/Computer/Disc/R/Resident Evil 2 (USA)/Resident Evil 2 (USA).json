@@ -14,7 +14,10 @@
             }
         ],
         "name": "Resident Evil 2",
-        "paths": [],
+        "paths": [
+            "GAME_INSTALL_DIR/Saves",
+            "GAME_INSTALL_DIR/savedata"
+        ],
         "setup": {
             "preinstall": [
                 {

@@ -6,6 +6,9 @@
         "buildid": "1.60",
         "keys": [],
         "name": "Knights and Merchants",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/data/save",
+            "GAME_INSTALL_DIR/setup.cfg"
+        ]
     }
 }

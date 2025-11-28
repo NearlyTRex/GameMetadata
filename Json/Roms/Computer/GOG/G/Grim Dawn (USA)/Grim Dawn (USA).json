@@ -10,7 +10,9 @@
         "buildid": "1.2.1.6",
         "keys": [],
         "name": "Grim Dawn",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Grim Dawn"
+        ]
     },
     "transform_file": "setup_grim_dawn_1.2.0.5a_(64bit)_(71558).exe"
 }

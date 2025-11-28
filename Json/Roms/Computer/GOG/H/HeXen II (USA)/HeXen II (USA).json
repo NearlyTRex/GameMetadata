@@ -9,7 +9,10 @@
         "buildid": "1.11 music fix",
         "keys": [],
         "name": "Hexen II",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/data1/*.cfg",
+            "GAME_INSTALL_DIR/data1/s*/*.*"
+        ]
     },
     "transform_file": "setup_hexen_ii_1.11_music_fix_(45370).exe"
 }

@@ -12,7 +12,9 @@
         "buildid": "1.03",
         "keys": [],
         "name": "Metro: Last Light Redux",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/4A Games/Metro Last Light"
+        ]
     },
     "transform_file": "setup_metro_last_light_redux_1.03_(33180).exe"
 }

@@ -15,7 +15,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Lone Survivor: The Director's Cut",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/LoneSurvivor/META-INF/AIR",
+            "USER_PROFILE_DIR/AppData/Roaming/LoneSurvivor"
+        ]
     },
     "transform_file": "setup_lone_survivor_-_the_directors_cut_1.0_(21178).exe"
 }

@@ -18,7 +18,11 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Gabriel Knight 2: The Beast Within",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GK2SG.*",
+            "GAME_INSTALL_DIR/RESOURCE.CFG",
+            "GAME_INSTALL_DIR/RESOURCE.WIN"
+        ]
     },
     "transform_file": "setup_gabriel_knight_2_-_the_beast_within_1.1_(20239).exe"
 }

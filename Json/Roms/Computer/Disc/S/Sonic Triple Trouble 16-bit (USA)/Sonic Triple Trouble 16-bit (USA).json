@@ -12,6 +12,7 @@
         ],
         "name": "Sonic Triple Trouble 16-bit",
         "paths": [
+            "GAME_INSTALL_DIR/options.ini",
             "USER_PROFILE_DIR/AppData/Local/Sonic_Triple_Trouble_16_Bit"
         ],
         "setup": {

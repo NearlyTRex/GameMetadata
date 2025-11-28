@@ -5,7 +5,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Silent Hill 4 - The Room",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/saves"
+        ]
     },
     "files": [
         "Silent Hill 4 - The Room (USA).chd"

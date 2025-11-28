@@ -22,7 +22,9 @@
         "buildid": "0.1.3905696",
         "keys": [],
         "name": "The Elder Scrolls V: Skyrim Special Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Skyrim Special Edition"
+        ]
     },
     "transform_file": "setup_the_elder_scrolls_v_skyrim_special_edition_0.1.3905696_(64bit)_(70738).exe"
 }

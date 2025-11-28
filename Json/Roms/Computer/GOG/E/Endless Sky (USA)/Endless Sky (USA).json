@@ -9,7 +9,9 @@
         "buildid": "0.10.16",
         "keys": [],
         "name": "Endless Sky",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/endless-sky"
+        ]
     },
     "transform_file": "setup_endless_sky_0.10.6_(64bit)_(71276).exe"
 }

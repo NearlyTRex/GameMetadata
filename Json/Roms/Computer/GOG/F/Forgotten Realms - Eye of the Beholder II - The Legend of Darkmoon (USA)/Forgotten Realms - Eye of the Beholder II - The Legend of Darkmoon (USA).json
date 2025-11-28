@@ -15,7 +15,9 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Eye of the Beholder II: The Legend of Darkmoon",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/EOBDATA*.SAV"
+        ]
     },
     "transform_file": "setup_eye_of_the_beholder_ii_the_legend_of_darkmoon_1.1_(28044).exe"
 }

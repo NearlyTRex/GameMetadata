@@ -3,9 +3,13 @@
         "appid": "669eebb2-1917-4ea4-a46c-c4bda1b1c7a1",
         "appname": "max_payne",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Remedy Entertainment/Max Payne"
+        ],
         "name": "Max Payne",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Max Payne Savegames"
+        ]
     },
     "files": [
         "Max Payne (USA, Europe).chd"

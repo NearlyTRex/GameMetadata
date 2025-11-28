@@ -17,7 +17,9 @@
         "buildid": "1.0g",
         "keys": [],
         "name": "Geneforge 3",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Spiderweb Software/Geneforge 3 Saved Games"
+        ]
     },
     "transform_file": "setup_geneforge_3_1.0g_(21279).exe"
 }

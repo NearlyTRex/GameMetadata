@@ -5,7 +5,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Seven Kingdoms II - The Fryhtan Wars",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CONFIG.DAT",
+            "GAME_INSTALL_DIR/Save"
+        ]
     },
     "files": [
         "Seven Kingdoms II - The Fryhtan Wars (USA).chd",

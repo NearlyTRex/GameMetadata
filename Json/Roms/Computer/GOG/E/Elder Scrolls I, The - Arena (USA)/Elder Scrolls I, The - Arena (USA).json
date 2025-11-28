@@ -19,7 +19,10 @@
         "buildid": "1.07",
         "keys": [],
         "name": "The Elder Scrolls: Arena",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.0*",
+            "GAME_INSTALL_DIR/ARENA/NAMES.DAT"
+        ]
     },
     "transform_file": "setup_the_elder_scrolls_arena_1.07_(28043).exe"
 }

@@ -4,8 +4,12 @@
         "appname": "death_squared",
         "appurl": "https://www.gog.com/en/game/death_squared",
         "buildid": "1.8.5",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/SMG Studio/Death Squared"
+        ],
         "name": "Death Squared",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/SMG Studio/Death Squared"
+        ]
     }
 }

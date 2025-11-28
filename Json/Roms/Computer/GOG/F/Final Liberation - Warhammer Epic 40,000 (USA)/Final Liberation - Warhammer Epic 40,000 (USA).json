@@ -15,7 +15,10 @@
         "buildid": "1.01 GOG v2",
         "keys": [],
         "name": "Final Liberation: Warhammer Epic 40,000",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAV",
+            "GAME_INSTALL_DIR/epic.ini"
+        ]
     },
     "transform_file": "setup_wh40k_final_liberation_2.0.0.4.exe"
 }

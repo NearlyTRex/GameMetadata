@@ -25,7 +25,11 @@
         "buildid": "2.1.0.7 GOG v1",
         "keys": [],
         "name": "F.E.A.R. Platinum",
-        "paths": []
+        "paths": [
+            "USER_PUBLIC_DIR/Documents/Monolith Productions/FEAR",
+            "USER_PUBLIC_DIR/Documents/TimeGate Studios/FEARXP",
+            "USER_PUBLIC_DIR/Documents/TimeGate Studios/FEARXP2"
+        ]
     },
     "transform_file": "setup_fear_platinum_collection_2.0.0.5.exe"
 }

@@ -9,7 +9,9 @@
         "buildid": "1.3.6",
         "keys": [],
         "name": "Helium Rain",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/HeliumRain"
+        ]
     },
     "transform_file": "setup_helium_rain_1.3.6_(64bit)_(27263).exe"
 }

@@ -17,7 +17,10 @@
         "buildid": "1.0 20211006_cfg_fix",
         "keys": [],
         "name": "Fantasy General",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/DAT/PREFS.DAT",
+            "GAME_INSTALL_DIR/SAVES"
+        ]
     },
     "transform_file": "setup_fantasy_general_1.0_20211006_(50527).exe"
 }

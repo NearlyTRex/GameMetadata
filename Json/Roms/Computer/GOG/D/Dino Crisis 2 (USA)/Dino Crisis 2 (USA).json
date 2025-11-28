@@ -6,6 +6,9 @@
         "buildid": "1.0 hotfix2",
         "keys": [],
         "name": "Dino Crisis 2",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves/SAVE*.DAT",
+            "GAME_INSTALL_DIR/dino2.cfg"
+        ]
     }
 }

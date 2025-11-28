@@ -25,7 +25,10 @@
         "buildid": "(gog-21)",
         "keys": [],
         "name": "Divine Divinity",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/config.div",
+            "GAME_INSTALL_DIR/savegames"
+        ]
     },
     "transform_file": "setup_divine_divinity_2.0.0.21.exe"
 }

@@ -11,7 +11,11 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Deadly Premonition: Director's Cut",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/config.cnf",
+            "GAME_INSTALL_DIR/configJ.cnf",
+            "GAME_INSTALL_DIR/savedata"
+        ]
     },
     "transform_file": "setup_deadly_premonition_directors_cut_2.1.0.6.exe"
 }

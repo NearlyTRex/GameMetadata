@@ -6,6 +6,8 @@
         "buildid": "1.3",
         "keys": [],
         "name": "Fort Solis",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Sycamore"
+        ]
     }
 }

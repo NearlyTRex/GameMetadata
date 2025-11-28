@@ -17,7 +17,11 @@
         "buildid": "1.07",
         "keys": [],
         "name": "The Elder Scrolls II: Daggerfall",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/ARENA2/BETAPLYR.DAT",
+            "GAME_INSTALL_DIR/ARENA2/DAGGER.GRD",
+            "GAME_INSTALL_DIR/DF/DAGGER/SAVE*"
+        ]
     },
     "transform_file": "setup_the_elder_scrolls_ii_daggerfall_1.07_(28043).exe"
 }

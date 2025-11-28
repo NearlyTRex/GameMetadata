@@ -4,8 +4,12 @@
         "appname": "dino_crisis",
         "appurl": "https://www.gog.com/en/game/dino_crisis",
         "buildid": "1.0 hotfix2",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/CAPCOM/DINOCRISIS"
+        ],
         "name": "Dino Crisis",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE*.dno"
+        ]
     }
 }

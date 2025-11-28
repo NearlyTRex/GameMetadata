@@ -24,7 +24,14 @@
         "buildid": "1.0 20210623",
         "keys": [],
         "name": "Tales of Monkey Island: Complete Season",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/Lair of the Leviathan",
+            "USER_PROFILE_DIR/Documents/Telltale Games/Launch of the Screaming Narwhal",
+            "USER_PROFILE_DIR/Documents/Telltale Games/Rise of the Pirate God",
+            "USER_PROFILE_DIR/Documents/Telltale Games/Tales of Monkey Island - Chapter *",
+            "USER_PROFILE_DIR/Documents/Telltale Games/The Siege of Spinner Cay",
+            "USER_PROFILE_DIR/Documents/Telltale Games/The Trial and Execution of Guybrush Threepwood"
+        ]
     },
     "transform_file": "setup_tales_of_monkey_island_1.0_20210623_(48006).exe"
 }

@@ -14,7 +14,10 @@
         "buildid": "2.0.5",
         "keys": [],
         "name": "Myst III: Exile",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saved Games",
+            "USER_PROFILE_DIR/AppData/Roaming/ScummVM"
+        ]
     },
     "transform_file": "setup_myst_3_exile_1.27_rvm_(21807).exe"
 }

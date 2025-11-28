@@ -17,7 +17,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Dracula 2 - The Last Sanctuary",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Dracula The Last Sanctuary"
+        ]
     },
     "transform_file": "setup_dracula2_2.1.0.6.exe"
 }

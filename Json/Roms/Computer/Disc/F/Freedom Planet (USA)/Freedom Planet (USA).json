@@ -9,7 +9,8 @@
         "paths": [
             "GAME_INSTALL_DIR/*.cfg",
             "GAME_INSTALL_DIR/file*.sav",
-            "GAME_INSTALL_DIR/records.dat"
+            "GAME_INSTALL_DIR/records.dat",
+            "GAME_INSTALL_DIR/save*.dat"
         ],
         "setup": {
             "preinstall": [

@@ -13,7 +13,11 @@
         "buildid": "2.0 CSv2 Patch 2_gus",
         "keys": [],
         "name": "Jazz Jackrabbit Collection",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CONFIG.000",
+            "GAME_INSTALL_DIR/SAVE.*",
+            "GAME_INSTALL_DIR/SOUNDCRD.INF"
+        ]
     },
     "transform_file": "setup_jazz_jackrabbit_collection_2.0_csv2_patch_2_(72509).exe"
 }

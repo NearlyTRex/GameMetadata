@@ -28,7 +28,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Harvester",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CONFIG.INI",
+            "GAME_INSTALL_DIR/HARVEST"
+        ]
     },
     "transform_file": "setup_harvester_1.0_(28235).exe"
 }

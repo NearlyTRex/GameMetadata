@@ -16,7 +16,9 @@
         "buildid": "1.3.3",
         "keys": [],
         "name": "Immortal Redneck",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/CremaGames/Immortal Redneck"
+        ]
     },
     "transform_file": "setup_immortal_redneck_64_1.3.3_(15760).exe"
 }

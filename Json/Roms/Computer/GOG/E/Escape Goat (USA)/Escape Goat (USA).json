@@ -17,7 +17,9 @@
         "buildid": "1.0.5",
         "keys": [],
         "name": "Escape Goat",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Escape Goat"
+        ]
     },
     "transform_file": "setup_escape_goat_1.0.5_(20747).exe"
 }

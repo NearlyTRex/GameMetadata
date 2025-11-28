@@ -23,7 +23,11 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Earth 2140 Trilogy",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE",
+            "GAME_INSTALL_DIR/game.ini",
+            "USER_PROFILE_DIR/AppData/Roaming/Earth 2140"
+        ]
     },
     "transform_file": "setup_earth_2140_1.0_(19593).exe"
 }

@@ -13,7 +13,14 @@
         "buildid": "1.9",
         "keys": [],
         "name": "Final Doom",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Final Doom for Windows 95",
+            "GAME_INSTALL_DIR/PLUTONIA",
+            "GAME_INSTALL_DIR/TNT",
+            "GAME_INSTALL_DIR/base/*.CFG",
+            "GAME_INSTALL_DIR/base/*.DSG",
+            "GAME_INSTALL_DIR/base/*.conf"
+        ]
     },
     "transform_file": "setup_final_doom_1.9_(28044).exe"
 }

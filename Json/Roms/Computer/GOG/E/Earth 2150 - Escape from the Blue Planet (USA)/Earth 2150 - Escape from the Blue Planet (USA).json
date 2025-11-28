@@ -17,9 +17,15 @@
         "appname": "earth_2150_escape_from_the_blue_planet",
         "appurl": "https://www.gog.com/en/game/earth_2150_escape_from_the_blue_planet",
         "buildid": "2.8.7.1",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/Reality Pump/LostSouls/BaseGame",
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/Topware/Earth 2150/BaseGame",
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/Topware/TheMoonProject/BaseGame"
+        ],
         "name": "Earth 2150 - Escape from the Blue Planet",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Players"
+        ]
     },
     "transform_file": "setup_earth_2150_2.8.7.1_(16406).exe"
 }

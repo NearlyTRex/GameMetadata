@@ -29,7 +29,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Might and Magic 4-5 - World of Xeen",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/XEEN*.SAV",
+            "GAME_INSTALL_DIR/XEEN.CFG"
+        ]
     },
     "transform_file": "setup_might_and_magic_4-5_-_world_of_xeen_1.0_(28066).exe"
 }

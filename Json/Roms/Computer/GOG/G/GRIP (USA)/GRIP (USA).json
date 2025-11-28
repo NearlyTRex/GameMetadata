@@ -6,6 +6,8 @@
         "buildid": "1.5.3 v2",
         "keys": [],
         "name": "GRIP",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Grip"
+        ]
     }
 }

@@ -6,6 +6,8 @@
         "buildid": "3.2.2",
         "keys": [],
         "name": "Heroes of Loot",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/dungeon"
+        ]
     }
 }

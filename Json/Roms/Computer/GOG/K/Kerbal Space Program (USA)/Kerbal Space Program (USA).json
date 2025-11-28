@@ -6,6 +6,9 @@
         "buildid": "1.12.5.03190",
         "keys": [],
         "name": "Kerbal Space Program",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/saves",
+            "GAME_INSTALL_DIR/settings.cfg"
+        ]
     }
 }

@@ -10,7 +10,11 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Hector: Badge of Carnage - Full Series",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/Hector Ep 2",
+            "USER_PROFILE_DIR/Documents/Telltale Games/Hector Ep 3",
+            "USER_PROFILE_DIR/Documents/Telltale Games/Hector Episode 1"
+        ]
     },
     "transform_file": "setup_hector_badge_of_carnage_1.0_(21465).exe"
 }

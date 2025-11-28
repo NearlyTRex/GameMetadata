@@ -9,7 +9,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Puzzle Agent 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/Puzzle Agent 2"
+        ]
     },
     "transform_file": "setup_puzzle_agent_2_1.0_(21444).exe"
 }

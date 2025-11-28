@@ -13,7 +13,9 @@
         "buildid": "1.01",
         "keys": [],
         "name": "Hellblade: Senua's Sacrifice VR",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/HellbladeGame"
+        ]
     },
     "transform_file": "setup_hellblade_senuas_sacrifice_vr_1.01_(22815).exe"
 }

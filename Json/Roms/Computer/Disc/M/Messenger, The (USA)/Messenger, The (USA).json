@@ -4,7 +4,9 @@
         "appname": "the_messenger",
         "buildid": "1.0",
         "installdir": "HDD_MAIN_ROOT/Program Files/The Messenger",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Sabotage Studio/The Messenger"
+        ],
         "launch": [
             {
                 "cwd": "HDD_MAIN_ROOT/Program Files/The Messenger",
@@ -13,7 +15,8 @@
         ],
         "name": "The Messenger",
         "paths": [
-            "GAME_INSTALL_DIR/Saved_*.bin"
+            "GAME_INSTALL_DIR/Saved_*.bin",
+            "USER_PROFILE_DIR/AppData/LocalLow/Sabotage Studio/The Messenger"
         ],
         "setup": {
             "install": [

@@ -15,7 +15,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Indiana Jones\u00ae and the Last Crusade\u2122",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/INDY3/savegame.___",
+            "USER_PROFILE_DIR/AppData/Roaming/LucasArts/Indiana Jones and the Last Crusade"
+        ]
     },
     "transform_file": "setup_indiana_jones_and_the_last_crusade_1.0_(20270).exe"
 }

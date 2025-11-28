@@ -15,7 +15,9 @@
         "buildid": "V1.0",
         "keys": [],
         "name": "Dungeon Hack",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVEGAME"
+        ]
     },
     "transform_file": "setup_dungeon_hack_v1.0_(28044).exe"
 }

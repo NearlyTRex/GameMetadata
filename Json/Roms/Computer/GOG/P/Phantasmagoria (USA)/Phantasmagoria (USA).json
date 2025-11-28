@@ -18,7 +18,9 @@
         "name": "Phantasmagoria",
         "paths": [
             "GAME_INSTALL_DIR/Phant/CHASEDUN.*",
-            "GAME_INSTALL_DIR/Phant/phantsg.*"
+            "GAME_INSTALL_DIR/Phant/PHANTSG.*",
+            "GAME_INSTALL_DIR/Phant/phantsg.*",
+            "GAME_INSTALL_DIR/RESOURCE.CFG"
         ]
     },
     "transform_file": "setup_phantasmagoria_1.0_(20239).exe"

@@ -4,7 +4,9 @@
         "appname": "overcooked_2",
         "appurl": "https://www.gog.com/en/game/overcooked_2",
         "buildid": "6.231.1_dlcfix",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Team17/Overcooked2"
+        ],
         "name": "Overcooked! 2",
         "paths": []
     }

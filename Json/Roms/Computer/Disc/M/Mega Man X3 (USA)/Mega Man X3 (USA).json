@@ -3,7 +3,10 @@
         "appid": "09d790e7-483e-40fc-bbbe-d4addfa7a9d8",
         "appname": "mega_man_x3",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/CAPCOM/Mega Man X3",
+            "HKEY_CURRENT_USER/Software/CAPCOM/Mega Man X3/Card"
+        ],
         "launch": [
             {
                 "cwd": "HDD_MAIN_ROOT/CAPCOM/MEGAMANX3",

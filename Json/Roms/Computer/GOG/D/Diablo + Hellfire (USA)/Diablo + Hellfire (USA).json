@@ -19,9 +19,15 @@
         "appname": "diablo",
         "appurl": "https://www.gog.com/en/game/diablo",
         "buildid": "1.09 Hellfire v4",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Blizzard Entertainment/Diablo"
+        ],
         "name": "Diablo + Hellfire",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/*.sv",
+            "GAME_INSTALL_DIR/dx/*.sv",
+            "GAME_INSTALL_DIR/hellfire/*.hsv"
+        ]
     },
     "transform_file": "setup_diablo_1.09_hellfire_v2_(30038).exe"
 }

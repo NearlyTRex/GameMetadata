@@ -18,7 +18,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Dracula 3 - The Path of the Dragon",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Dracula 3"
+        ]
     },
     "transform_file": "setup_dracula3_2.1.0.5.exe"
 }

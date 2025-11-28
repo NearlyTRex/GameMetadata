@@ -19,7 +19,9 @@
         "buildid": "gog-3",
         "keys": [],
         "name": "I Have No Mouth And I Must Scream",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SCREAM"
+        ]
     },
     "transform_file": "setup_i_have_no_mouth_gog-2_(17822).exe"
 }

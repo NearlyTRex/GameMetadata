@@ -17,7 +17,10 @@
         "buildid": "1.10",
         "keys": [],
         "name": "Death Knights of Krynn",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/DKK.CFG",
+            "GAME_INSTALL_DIR/SAVE"
+        ]
     },
     "transform_file": "setup_death_knights_of_krynn_1.10_(28043).exe"
 }

@@ -7,9 +7,13 @@
         "appname": "nosferatu_wrath_of_malachi",
         "appurl": "https://www.gog.com/en/game/nosferatu_wrath_of_malachi",
         "buildid": "1.0(a)",
-        "keys": [],
+        "keys": [
+            "HKEY_LOCAL_MACHINE/SOFTWARE/WOW6432Node/Idol FX/Nosferatu"
+        ],
         "name": "Nosferatu: Wrath of Malachi",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Version/Data"
+        ]
     },
     "transform_file": "setup_nosferatu_-_wrath_of_malachi_1.0(a)_(72704).exe"
 }

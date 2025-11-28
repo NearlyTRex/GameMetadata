@@ -8,9 +8,13 @@
         "appname": "lorelai",
         "appurl": "https://www.gog.com/en/game/lorelai",
         "buildid": "1.1.0a",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Harvester Games/Lorelai"
+        ],
         "name": "Lorelai",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Harvester Games/Lorelai"
+        ]
     },
     "transform_file": "setup_lorelai_1.1.0a_(40070).exe"
 }

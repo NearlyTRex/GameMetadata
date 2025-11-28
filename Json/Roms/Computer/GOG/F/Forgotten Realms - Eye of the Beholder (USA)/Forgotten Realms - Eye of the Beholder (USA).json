@@ -15,7 +15,9 @@
         "buildid": "1.7",
         "keys": [],
         "name": "Eye of the Beholder",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/EOBDATA.SAV"
+        ]
     },
     "transform_file": "setup_eye_of_the_beholder_1.7_(28044).exe"
 }

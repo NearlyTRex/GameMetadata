@@ -28,7 +28,12 @@
         "buildid": "5100",
         "keys": [],
         "name": "POSTAL 2",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Paradise Lost/PLSave",
+            "GAME_INSTALL_DIR/Paradise Lost/System/*.ini",
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/System/*.ini"
+        ]
     },
     "transform_file": "setup_postal_2_5100_(64474).exe"
 }

@@ -19,7 +19,9 @@
         "buildid": "1. 002",
         "keys": [],
         "name": "Police Quest 2 - Vengeance",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/PQ2"
+        ]
     },
     "transform_file": "setup_police_quest_2_-_vengeance_1._002_(28044).exe"
 }

@@ -14,7 +14,9 @@
         "buildid": "Episode 5",
         "keys": [],
         "name": "Marvel\u2019s Guardians of the Galaxy: The Telltale Series",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/Guardians of the Galaxy"
+        ]
     },
     "transform_file": "setup_guardians_of_the_galaxy_episode_5_(16140).exe"
 }

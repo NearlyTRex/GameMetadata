@@ -14,7 +14,9 @@
         "buildid": "1.0720.01",
         "keys": [],
         "name": "Martha Is Dead",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/MID"
+        ]
     },
     "transform_file": "setup_martha_is_dead_1.0719.01_(64bit)_(66176).exe"
 }

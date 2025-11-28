@@ -18,7 +18,9 @@
         "buildid": "2021.09.16_10.04.08_R24065",
         "keys": [],
         "name": "Observer: System Redux",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/ObserverSystemRedux"
+        ]
     },
     "transform_file": "setup_observer_system_redux_2021.09.16_10.04.08_r24065_(64bit)_(50048).exe"
 }

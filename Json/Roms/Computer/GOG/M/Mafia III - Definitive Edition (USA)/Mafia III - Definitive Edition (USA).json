@@ -6,6 +6,8 @@
         "buildid": "1.0.1 GOG v2",
         "keys": [],
         "name": "Mafia III: Definitive Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/2K Games/Mafia III"
+        ]
     }
 }

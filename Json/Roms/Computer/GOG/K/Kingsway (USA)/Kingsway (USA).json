@@ -9,7 +9,9 @@
         "buildid": "1.2.1",
         "keys": [],
         "name": "Kingsway",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Kingsway"
+        ]
     },
     "transform_file": "setup_kingsway_1.2.1_(64096).exe"
 }

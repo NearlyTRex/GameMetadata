@@ -8,9 +8,13 @@
         "appname": "darkwood",
         "appurl": "https://www.gog.com/en/game/darkwood",
         "buildid": "1.4.2",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Acid Wizard Studio/Darkwood"
+        ],
         "name": "Darkwood",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Acid Wizard Studio/DARKWOOD"
+        ]
     },
     "transform_file": "setup_darkwood_1.4.2_(64bit)_(70214).exe"
 }

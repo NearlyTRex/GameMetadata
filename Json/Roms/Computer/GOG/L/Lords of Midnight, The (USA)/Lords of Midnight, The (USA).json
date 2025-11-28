@@ -21,7 +21,11 @@
         "buildid": "2.0.11_56",
         "keys": [],
         "name": "The Lords of Midnight",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/LOM-*.GAM",
+            "GAME_INSTALL_DIR/settings.cfg",
+            "GAME_INSTALL_DIR/story"
+        ]
     },
     "transform_file": "setup_the_lords_of_midnight_2.0.8_50_(72083).exe"
 }

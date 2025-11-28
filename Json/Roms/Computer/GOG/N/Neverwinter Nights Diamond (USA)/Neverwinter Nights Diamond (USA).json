@@ -6,6 +6,8 @@
         "buildid": "1.68",
         "keys": [],
         "name": "Neverwinter Nights Diamond",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/saves"
+        ]
     }
 }

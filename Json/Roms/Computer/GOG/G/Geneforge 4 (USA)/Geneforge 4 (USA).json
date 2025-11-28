@@ -17,7 +17,9 @@
         "buildid": "1.0g",
         "keys": [],
         "name": "Geneforge 4",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Geneforge 4 Saved Games"
+        ]
     },
     "transform_file": "setup_geneforge_4_-_rebellion_1.0g_(21279).exe"
 }

@@ -19,7 +19,9 @@
         "buildid": "(gog-15)",
         "keys": [],
         "name": "Pharaoh + Cleopatra",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Save"
+        ]
     },
     "transform_file": "setup_pharaoh_gold_2.1.0.15.exe"
 }

@@ -14,7 +14,9 @@
         "buildid": "Nomads 1.0.48a",
         "keys": [],
         "name": "Nomads of Driftland",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Nomads"
+        ]
     },
     "transform_file": "setup_nomads_of_driftland_nomads_1.0.48a_(64bit)_(44177).exe"
 }

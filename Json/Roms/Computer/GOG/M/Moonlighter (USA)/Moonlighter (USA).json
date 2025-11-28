@@ -4,8 +4,12 @@
         "appname": "moonlighter",
         "appurl": "https://www.gog.com/en/game/moonlighter",
         "buildid": "1.14.37",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/11BitStudios/Moonlighter"
+        ],
         "name": "Moonlighter",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/11BitStudios/Moonlighter"
+        ]
     }
 }

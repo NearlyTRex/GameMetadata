@@ -8,9 +8,13 @@
         "appname": "firewatch",
         "appurl": "https://www.gog.com/en/game/firewatch",
         "buildid": "1.12",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/CampoSanto/Firewatch"
+        ],
         "name": "Firewatch",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/CampoSanto/Firewatch"
+        ]
     },
     "transform_file": "setup_firewatch_1.12_(64bit)_(54889).exe"
 }

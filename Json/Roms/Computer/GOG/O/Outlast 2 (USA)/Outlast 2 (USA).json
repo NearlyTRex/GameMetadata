@@ -15,7 +15,9 @@
         "buildid": "Story Mode",
         "keys": [],
         "name": "Outlast 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Outlast2"
+        ]
     },
     "transform_file": "setup_outlast_2_gog-4_(19597).exe"
 }

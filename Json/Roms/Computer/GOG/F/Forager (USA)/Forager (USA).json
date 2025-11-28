@@ -6,6 +6,8 @@
         "buildid": "4.1.8",
         "keys": [],
         "name": "Forager",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Forager"
+        ]
     }
 }

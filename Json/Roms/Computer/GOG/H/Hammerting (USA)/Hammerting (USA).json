@@ -10,7 +10,9 @@
         "buildid": "build3-tdtd-06964af_tdtd-release_candidate-windows-release",
         "keys": [],
         "name": "Hammerting",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/Warpzone Studios/tdtd"
+        ]
     },
     "transform_file": "setup_hammerting_build3-tdtd-06964af_tdtd-release_candidate-windows-release_(64bit)_(53933).exe"
 }

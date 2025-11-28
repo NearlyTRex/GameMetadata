@@ -7,7 +7,9 @@
         "appname": "flashout_3d_enhanced_edition",
         "appurl": "https://www.gog.com/en/game/flashout_3d_enhanced_edition",
         "buildid": "1.0.4",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Jujubee S.A./Flashout3D-EE"
+        ],
         "name": "Flashout 3D: Enhanced Edition",
         "paths": []
     },

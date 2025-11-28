@@ -9,7 +9,9 @@
         "buildid": "14.1",
         "keys": [],
         "name": "OpenTTD",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/OpenTTD"
+        ]
     },
     "transform_file": "setup_openttd_14.1_(64bit)_(73101).exe"
 }

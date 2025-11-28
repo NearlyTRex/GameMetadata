@@ -9,7 +9,10 @@
         "buildid": "1.99",
         "keys": [],
         "name": "Dink Smallwood HD",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/dink/*.dat",
+            "GAME_INSTALL_DIR/save.dat"
+        ]
     },
     "transform_file": "setup_dink_smallwood_hd_1.99_(64bit)_(58058).exe"
 }

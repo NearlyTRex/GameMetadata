@@ -4,8 +4,12 @@
         "appname": "gods_trigger",
         "appurl": "https://www.gog.com/en/game/gods_trigger",
         "buildid": "1.2.58760",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/One More Level/GodsTrigger"
+        ],
         "name": "God's Trigger",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/One More Level/Gods_Trigger"
+        ]
     }
 }

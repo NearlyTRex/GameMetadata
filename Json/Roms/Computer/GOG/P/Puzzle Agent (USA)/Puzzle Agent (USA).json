@@ -9,7 +9,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Puzzle Agent",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Telltale Games/The Mystery of Scoggins"
+        ]
     },
     "transform_file": "setup_puzzle_agent_1.0_(21444).exe"
 }

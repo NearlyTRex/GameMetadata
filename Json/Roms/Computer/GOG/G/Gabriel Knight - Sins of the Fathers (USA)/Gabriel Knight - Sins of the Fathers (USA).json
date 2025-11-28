@@ -17,7 +17,11 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Gabriel Knight: Sins of the Fathers",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GKSG.*",
+            "GAME_INSTALL_DIR/RESOURCE.CFG",
+            "GAME_INSTALL_DIR/RESOURCE.WIN"
+        ]
     },
     "transform_file": "setup_gabriel_knight_-_sins_of_the_fathers_1.1_(20239).exe"
 }

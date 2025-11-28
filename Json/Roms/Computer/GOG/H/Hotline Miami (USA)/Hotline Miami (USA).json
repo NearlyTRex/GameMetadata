@@ -17,7 +17,9 @@
         "buildid": "gog-8(a)",
         "keys": [],
         "name": "Hotline Miami",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/HotlineMiami"
+        ]
     },
     "transform_file": "setup_hotline_miami_gog-8(a)_(46452).exe"
 }

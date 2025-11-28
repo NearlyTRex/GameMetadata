@@ -19,9 +19,13 @@
         "appname": "knock_knock",
         "appurl": "https://www.gog.com/en/game/knock_knock",
         "buildid": "(gog-4)",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Ice-Pick Lodge/Knock-knock"
+        ],
         "name": "Knock-Knock",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/knock.cfg"
+        ]
     },
     "transform_file": "setup_knock-knock_2.0.0.4.exe"
 }

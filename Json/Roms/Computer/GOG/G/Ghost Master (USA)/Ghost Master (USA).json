@@ -25,7 +25,10 @@
         "buildid": "20171020",
         "keys": [],
         "name": "Ghost Master",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GhostData/SaveGames",
+            "GAME_INSTALL_DIR/GhostData/SpDrv.cfg"
+        ]
     },
     "transform_file": "setup_ghost_master_20171020_(15806).exe"
 }

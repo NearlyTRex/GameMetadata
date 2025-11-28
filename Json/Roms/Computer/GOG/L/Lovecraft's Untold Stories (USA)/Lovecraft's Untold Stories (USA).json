@@ -7,9 +7,13 @@
         "appname": "lovecrafts_untold_stories",
         "appurl": "https://www.gog.com/en/game/lovecrafts_untold_stories",
         "buildid": "1.35",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/BliniGames/LovecraftsUntoldStories"
+        ],
         "name": "Lovecraft's Untold Stories",
         "paths": [
+            "GAME_INSTALL_DIR/Lus_Data/Save/*.lus",
+            "GAME_INSTALL_DIR/Lus_Data/Save/UserSetting.conf",
             "USER_PROFILE_DIR/AppData/LocalLow/BliniGames/LovecraftsUntoldStories"
         ]
     },

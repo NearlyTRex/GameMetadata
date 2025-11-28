@@ -7,9 +7,13 @@
         "appname": "jotun",
         "appurl": "https://www.gog.com/en/game/jotun",
         "buildid": "11-09-2019",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Thunder Lotus Games/Jotun"
+        ],
         "name": "Jotun: Valhalla Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Thunder Lotus Games/Jotun"
+        ]
     },
     "transform_file": "setup_jotun_valhalla_edition_11-09-2019_(64bit)_(32396).exe"
 }

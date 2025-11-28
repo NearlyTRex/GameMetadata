@@ -23,9 +23,13 @@
         "appname": "earth_2160",
         "appurl": "https://www.gog.com/en/game/earth_2160",
         "buildid": "1.3.8 (gog-48)",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Reality Pump/Earth 2160"
+        ],
         "name": "Earth 2160",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Earth 2160"
+        ]
     },
     "transform_file": "setup_earth_2160_2.0.0.48.exe"
 }

@@ -9,7 +9,9 @@
         "buildid": "1.1.191",
         "keys": [],
         "name": "Delores: A Thimbleweed Park Mini-Adventure",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Terrible Toybox/Delores"
+        ]
     },
     "transform_file": "setup_delores_a_thimbleweed_park_mini-adventure_1.1.191_(64bit)_(38487).exe"
 }

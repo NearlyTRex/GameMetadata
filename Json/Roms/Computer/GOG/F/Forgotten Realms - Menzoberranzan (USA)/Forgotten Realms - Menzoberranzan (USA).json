@@ -15,7 +15,10 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Menzoberranzan",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GAME.OPT",
+            "GAME_INSTALL_DIR/SAVE*"
+        ]
     },
     "transform_file": "setup_menzoberranzan_1.1_(28166).exe"
 }

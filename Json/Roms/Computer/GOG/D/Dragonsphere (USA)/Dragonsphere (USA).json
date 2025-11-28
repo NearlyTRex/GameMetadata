@@ -17,7 +17,11 @@
         "buildid": "1.01",
         "keys": [],
         "name": "Dragonsphere",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CONFIG.DRA",
+            "GAME_INSTALL_DIR/DRAG0*.SAV",
+            "GAME_INSTALL_DIR/SAVES.DIR"
+        ]
     },
     "transform_file": "setup_dragonsphere_1.0_(28044).exe"
 }

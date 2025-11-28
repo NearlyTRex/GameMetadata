@@ -4,8 +4,12 @@
         "appname": "overcooked_gourmet_edition",
         "appurl": "https://www.gog.com/en/game/overcooked_gourmet_edition",
         "buildid": "1.1",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Ghost Town Games/Overcooked"
+        ],
         "name": "Overcooked: Gourmet Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Ghost Town Games/Overcooked"
+        ]
     }
 }

@@ -21,7 +21,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Penumbra - Black Plague",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Penumbra/Black Plague",
+            "USER_PROFILE_DIR/Documents/Penumbra/Requiem"
+        ]
     },
     "transform_file": "setup_penumbra_-_black_plague_1.0_(20339).exe"
 }

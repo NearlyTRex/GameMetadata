@@ -16,7 +16,10 @@
         "buildid": "1.3.11 (B)",
         "keys": [],
         "name": "Day of the Tentacle Remastered",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/savedata",
+            "USER_PROFILE_DIR/AppData/Roaming/Doublefine/DayOfTheTentacle"
+        ]
     },
     "transform_file": "setup_day_of_the_tentacle_remastered_1.3.11_(b)_(46979).exe"
 }

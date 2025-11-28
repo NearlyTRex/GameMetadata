@@ -21,7 +21,9 @@
         "buildid": "1.03",
         "keys": [],
         "name": "Might and Magic 3 - Isles of Terra",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVE*.MM3"
+        ]
     },
     "transform_file": "setup_might_and_magic_3_-_isles_of_terra_1.03_(70835).exe"
 }
