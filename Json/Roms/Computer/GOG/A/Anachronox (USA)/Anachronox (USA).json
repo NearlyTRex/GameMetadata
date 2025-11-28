@@ -17,7 +17,10 @@
         "buildid": "1.02",
         "keys": [],
         "name": "Anachronox",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/anoxdata/CONFIGS",
+            "GAME_INSTALL_DIR/anoxdata/SAVE"
+        ]
     },
     "transform_file": "setup_anachronox_1.02_(22258).exe"
 }

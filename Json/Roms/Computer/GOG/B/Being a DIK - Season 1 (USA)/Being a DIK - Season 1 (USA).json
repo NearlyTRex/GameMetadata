@@ -6,6 +6,11 @@
         "buildid": "0.4.8.14",
         "keys": [],
         "name": "Being a DIK - Season 1",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/game/saves",
+            "USER_PROFILE_DIR/AppData/Roaming/RenPy/BeingaDIK-1535311494",
+            "USER_PROFILE_DIR/AppData/Roaming/RenPy/BeingaDIK-1535311495",
+            "USER_PROFILE_DIR/AppData/Roaming/RenPy/BeingaDIK-GOG-1535311497"
+        ]
     }
 }

@@ -23,7 +23,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Batman\u2122: Arkham Origins",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SinglePlayer/BMGame/Config",
+            "USER_PROFILE_DIR/Documents/WB Games/Batman Arkham Origins"
+        ]
     },
     "transform_file": "setup_batman_arkham_origins_1.0_(37592).exe"
 }

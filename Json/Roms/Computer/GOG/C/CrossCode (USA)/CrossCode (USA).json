@@ -17,7 +17,9 @@
         "buildid": "1.4.2-3",
         "keys": [],
         "name": "CrossCode",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/CrossCode"
+        ]
     },
     "transform_file": "setup_crosscode_1.4.2-3_(64bit)_(65218).exe"
 }

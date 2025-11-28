@@ -6,6 +6,9 @@
         "buildid": "1.0.22",
         "keys": [],
         "name": "Chasm: The Rift",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Chasm The Rift Original/GAME/CHASM/*.SAV",
+            "USER_PROFILE_DIR/Documents/Chasm"
+        ]
     }
 }

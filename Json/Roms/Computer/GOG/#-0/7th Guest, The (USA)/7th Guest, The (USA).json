@@ -23,7 +23,10 @@
         "buildid": "1.30",
         "keys": [],
         "name": "The 7th Guest",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/GROOVIE.INI",
+            "GAME_INSTALL_DIR/t7g.*"
+        ]
     },
     "transform_file": "setup_the_7th_guest_1.30_(17746).exe"
 }

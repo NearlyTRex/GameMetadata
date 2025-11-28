@@ -6,6 +6,8 @@
         "buildid": "1.0 hotfix",
         "keys": [],
         "name": "Blood Omen: Legacy of Kain",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SAVED"
+        ]
     }
 }

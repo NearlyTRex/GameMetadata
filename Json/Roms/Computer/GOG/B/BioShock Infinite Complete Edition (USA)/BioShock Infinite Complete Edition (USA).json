@@ -19,7 +19,10 @@
         "buildid": "1.0.1643565",
         "keys": [],
         "name": "BioShock Infinite Complete Edition",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/My Games/BioShock Infinite Epic",
+            "USER_PROFILE_DIR/Documents/My Games/BioShock Infinite"
+        ]
     },
     "transform_file": "setup_bioshock_infinite_1.0.1643565_(29748).exe"
 }

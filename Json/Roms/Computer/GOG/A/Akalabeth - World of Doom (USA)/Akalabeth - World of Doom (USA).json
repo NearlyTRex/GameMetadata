@@ -21,7 +21,9 @@
         "buildid": "1.02 CS",
         "keys": [],
         "name": "Akalabeth: World of Doom",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/PLAYER.U0"
+        ]
     },
     "transform_file": "setup_akalabeth_2.0.0.1.exe"
 }

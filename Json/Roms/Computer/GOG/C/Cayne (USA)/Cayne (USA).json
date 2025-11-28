@@ -8,9 +8,13 @@
         "appname": "cayne",
         "appurl": "https://www.gog.com/en/game/cayne",
         "buildid": "1.26 (gog-2)",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/THE BROTHERHOOD/CAYNE"
+        ],
         "name": "CAYNE",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/The Brotherhood/CAYNE"
+        ]
     },
     "transform_file": "setup_cayne_2.0.0.2.exe"
 }

@@ -19,7 +19,9 @@
         "buildid": "1.21 (gog-4)",
         "keys": [],
         "name": "Blades of Avernum",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/irunin.ini"
+        ]
     },
     "transform_file": "setup_blades_of_avernum_2.1.0.4.exe"
 }

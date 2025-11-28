@@ -7,9 +7,13 @@
         "appname": "the_bards_tale_trilogy",
         "appurl": "https://www.gog.com/en/game/the_bards_tale_trilogy",
         "buildid": "4.34",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/InXile Entertainment/The Bard's Tale Trilogy"
+        ],
         "name": "The Bard's Tale Trilogy",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/InXile Entertainment/The Bard's Tale Trilogy"
+        ]
     },
     "transform_file": "setup_the_bards_tale_trilogy_4.34_(34202).exe"
 }

@@ -20,7 +20,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Black Mirror 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/BlackMirror2"
+        ]
     },
     "transform_file": "setup_black_mirror_2_1.0_(25641).exe"
 }

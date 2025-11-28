@@ -19,7 +19,10 @@
         "buildid": "(gog-4)",
         "keys": [],
         "name": "Avernum 5",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Avernum 5 Saved Games",
+            "USER_PROFILE_DIR/Documents/Spiderweb Software/Avernum 5 Saved Games"
+        ]
     },
     "transform_file": "setup_avernum5_2.1.0.4.exe"
 }

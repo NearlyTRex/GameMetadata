@@ -19,7 +19,10 @@
         "buildid": "1.1 GOG DirectX_fix DEPHook",
         "keys": [],
         "name": "Clive Barker's Undying",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/System/*.ini"
+        ]
     },
     "transform_file": "setup_clive_barkers_undying_1.1_hotfix_(22471).exe"
 }

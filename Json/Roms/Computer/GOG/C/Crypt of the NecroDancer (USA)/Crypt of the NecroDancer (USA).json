@@ -9,7 +9,10 @@
         "buildid": "4.2.0-b5599",
         "keys": [],
         "name": "Crypt of the NecroDancer",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/data/save_data.xml",
+            "USER_PROFILE_DIR/AppData/Roaming/NecroDancer"
+        ]
     },
     "transform_file": "setup_crypt_of_the_necrodancer_4.1.0-b5142_(64bit)_(72378).exe"
 }

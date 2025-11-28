@@ -4,8 +4,12 @@
         "appname": "blast_brigade_vs_the_evil_legion_of_dr_cread",
         "appurl": "https://www.gog.com/en/game/blast_brigade_vs_the_evil_legion_of_dr_cread",
         "buildid": "0.1.production.23",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/MYGAMES/Blast Brigade"
+        ],
         "name": "Blast Brigade vs. the Evil Legion of Dr. Cread",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/MYGAMES/Blast Brigade"
+        ]
     }
 }

@@ -24,7 +24,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "BloodRayne 2 (Legacy)",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/savegame",
+            "GAME_INSTALL_DIR/system"
+        ]
     },
     "transform_file": "setup_bloodrayne_2_1.0_(19403).exe"
 }

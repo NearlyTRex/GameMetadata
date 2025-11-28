@@ -33,7 +33,9 @@
         "buildid": "1.1 (gog-14)",
         "keys": [],
         "name": "Black Mirror 1",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/agds.cfg"
+        ]
     },
     "transform_file": "setup_black_mirror_2.1.1.4.exe"
 }

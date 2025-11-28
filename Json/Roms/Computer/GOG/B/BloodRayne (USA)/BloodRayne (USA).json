@@ -21,7 +21,10 @@
         "buildid": "gog-1",
         "keys": [],
         "name": "BloodRayne (Legacy)",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/savegame",
+            "GAME_INSTALL_DIR/system"
+        ]
     },
     "transform_file": "setup_bloodrayne_gog-1_(17893).exe"
 }

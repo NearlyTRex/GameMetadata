@@ -10,7 +10,9 @@
         "buildid": "1.0.0.13",
         "keys": [],
         "name": "Conarium",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Conarium"
+        ]
     },
     "transform_file": "setup_conarium_1.0.0.13_(21992).exe"
 }

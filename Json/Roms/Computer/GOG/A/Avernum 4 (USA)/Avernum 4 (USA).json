@@ -19,7 +19,10 @@
         "buildid": "(gog-5)",
         "keys": [],
         "name": "Avernum 4",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Data",
+            "GAME_INSTALL_DIR/irunin.ini"
+        ]
     },
     "transform_file": "setup_avernum4_2.1.0.5.exe"
 }

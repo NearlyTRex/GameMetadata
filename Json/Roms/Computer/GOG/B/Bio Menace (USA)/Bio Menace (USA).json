@@ -9,7 +9,10 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Bio Menace",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/CONFIG.BM*",
+            "GAME_INSTALL_DIR/SAVEGAM*.BM*"
+        ]
     },
     "transform_file": "setup_bio_menace_1.1_(28043).exe"
 }

@@ -24,7 +24,10 @@
         "buildid": "1.22",
         "keys": [],
         "name": "Arx Fatalis",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Save",
+            "GAME_INSTALL_DIR/cfg_default.ini"
+        ]
     },
     "transform_file": "setup_arx_fatalis_1.22_(38577).exe"
 }

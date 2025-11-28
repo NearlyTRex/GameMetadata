@@ -21,7 +21,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "A.D. 2044",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/save000*.dta",
+            "GAME_INSTALL_DIR/save0009.dta"
+        ]
     },
     "transform_file": "setup_ad2044_1.0_(15637).exe"
 }

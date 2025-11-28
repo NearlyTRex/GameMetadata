@@ -19,7 +19,10 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Alan Wake's American Nightmare",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Remedy/AmericanNightmare",
+            "USER_PROFILE_DIR/Documents/Remedy/AmericanNightmare_EGS_Version"
+        ]
     },
     "transform_file": "setup_alan_wake_american_nightmare_2.1.0.24.exe"
 }

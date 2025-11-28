@@ -7,9 +7,14 @@
         "appname": "chroma_squad",
         "appurl": "https://www.gog.com/en/game/chroma_squad",
         "buildid": "1.12b",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Behold Studios/Chroma Squad"
+        ],
         "name": "Chroma Squad",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/chromasquad_Data/savedGames",
+            "USER_PROFILE_DIR/AppData/LocalLow/Behold Studios/Chroma Squad"
+        ]
     },
     "transform_file": "setup_chroma_squad_1.12b_(15290).exe"
 }

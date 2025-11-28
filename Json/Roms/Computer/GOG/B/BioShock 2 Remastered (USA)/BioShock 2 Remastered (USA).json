@@ -13,7 +13,11 @@
         "buildid": "1.0.122864",
         "keys": [],
         "name": "BioShock\u2122 2 Remastered",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/BioshockHD/Bioshock2",
+            "USER_PROFILE_DIR/AppData/Roaming/My games/Bioshock Epic HD/Bioshock2",
+            "USER_PROFILE_DIR/Documents/BioshockHD/Bioshock2"
+        ]
     },
     "transform_file": "setup_bioshock_2_remastered_1.0.122864_(25813).exe"
 }

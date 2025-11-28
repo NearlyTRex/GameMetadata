@@ -31,7 +31,10 @@
         "buildid": "v1.65b",
         "keys": [],
         "name": "Brigador: Up-Armored Edition",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/profile.json",
+            "GAME_INSTALL_DIR/settings.json"
+        ]
     },
     "transform_file": "setup_brigador_up-armored_edition_v1.65b_(64bit)_(62346).exe"
 }

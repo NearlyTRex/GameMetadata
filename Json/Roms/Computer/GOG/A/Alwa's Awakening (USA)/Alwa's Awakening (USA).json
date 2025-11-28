@@ -7,9 +7,13 @@
         "appname": "alwas_awakening",
         "appurl": "https://www.gog.com/en/game/alwas_awakening",
         "buildid": "1.6.6.56",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/EldenPixels/Alwa's Awakening"
+        ],
         "name": "Alwa's Awakening",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/EldenPixels/Alwa's Awakening"
+        ]
     },
     "transform_file": "setup_alwas_awakening_1.6.6.56_(64bit)_(38915).exe"
 }

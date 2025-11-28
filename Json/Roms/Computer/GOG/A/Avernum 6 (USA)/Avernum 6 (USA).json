@@ -19,7 +19,9 @@
         "buildid": "1.1",
         "keys": [],
         "name": "Avernum 6",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Spiderweb Software/Avernum 6 Saved Games"
+        ]
     },
     "transform_file": "setup_avernum6_2.1.0.4.exe"
 }

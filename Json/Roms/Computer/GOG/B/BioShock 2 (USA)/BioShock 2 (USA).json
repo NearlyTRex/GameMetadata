@@ -12,7 +12,11 @@
         "buildid": "1.5.0.019",
         "keys": [],
         "name": "BioShock\u00ae 2",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Bioshock2",
+            "USER_PROFILE_DIR/AppData/Roaming/Bioshock2Steam",
+            "USER_PROFILE_DIR/Documents/Bioshock2"
+        ]
     },
     "transform_file": "setup_bioshock_2_1.5.0.019_(25143).exe"
 }

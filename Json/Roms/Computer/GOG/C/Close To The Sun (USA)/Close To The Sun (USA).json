@@ -6,6 +6,8 @@
         "buildid": "1.6-gog",
         "keys": [],
         "name": "Close To The Sun",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/ctts"
+        ]
     }
 }

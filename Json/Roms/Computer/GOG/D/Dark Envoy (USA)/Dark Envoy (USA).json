@@ -6,6 +6,8 @@
         "buildid": "1.9.0.74338",
         "keys": [],
         "name": "Dark Envoy",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Event Horizon/DarkEnvoy"
+        ]
     }
 }

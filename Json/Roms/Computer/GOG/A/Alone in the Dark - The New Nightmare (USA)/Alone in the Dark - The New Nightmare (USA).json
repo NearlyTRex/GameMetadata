@@ -20,9 +20,13 @@
         "appname": "alone_in_the_dark_the_new_nightmare",
         "appurl": "https://www.gog.com/en/game/alone_in_the_dark_the_new_nightmare",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Spiral House/launch/Data"
+        ],
         "name": "Alone in the Dark: The New Nightmare",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/_Alone4_.000.sav"
+        ]
     },
     "transform_file": "setup_alone_in_the_dark_-_the_new_nightmare_1.0_(22762).exe"
 }

@@ -6,6 +6,9 @@
         "buildid": "1.4.1",
         "keys": [],
         "name": "Coromon",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/TRAGsoft/Coromon",
+            "USER_PROFILE_DIR/AppData/Local/TRAGsoft_epic/Coromon"
+        ]
     }
 }

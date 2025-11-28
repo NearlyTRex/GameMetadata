@@ -21,7 +21,11 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Beneath a Steel Sky (1994)",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/SKY-VM.*",
+            "GAME_INSTALL_DIR/beneath.ini",
+            "GAME_INSTALL_DIR/config.dat"
+        ]
     },
     "transform_file": "setup_beneath_a_steel_sky_1.0_(20270).exe"
 }

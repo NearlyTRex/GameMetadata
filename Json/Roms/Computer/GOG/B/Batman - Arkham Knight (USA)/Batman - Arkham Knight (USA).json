@@ -33,7 +33,10 @@
         "buildid": "1.999",
         "keys": [],
         "name": "Batman\u2122: Arkham Knight",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/BMGame/Config",
+            "GAME_INSTALL_DIR/BMGame/SaveData"
+        ]
     },
     "transform_file": "setup_batman_arkham_knight_1.98_(37902).exe"
 }

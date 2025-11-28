@@ -20,7 +20,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Amnesia: A Machine For Pigs",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Amnesia/Pig"
+        ]
     },
     "transform_file": "setup_amnesia_-_a_machine_for_pigs_1.0_(20583).exe"
 }

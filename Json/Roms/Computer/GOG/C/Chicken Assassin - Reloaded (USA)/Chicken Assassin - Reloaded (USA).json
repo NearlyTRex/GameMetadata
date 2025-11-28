@@ -4,8 +4,12 @@
         "appname": "chicken_assassin_reloaded",
         "appurl": "https://www.gog.com/en/game/chicken_assassin_reloaded",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Oneshark/ChickenAssassin"
+        ],
         "name": "Chicken Assassin: Reloaded",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Oneshark/ChickenAssassin"
+        ]
     }
 }

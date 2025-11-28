@@ -44,7 +44,9 @@
         "buildid": "1.0.4",
         "keys": [],
         "name": "Alien: Isolation",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/The Creative Assembly/Alien Isolation"
+        ]
     },
     "transform_file": "setup_alien_isolation_1.0.4_(56204).exe"
 }

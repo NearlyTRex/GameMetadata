@@ -9,7 +9,9 @@
         "buildid": "1.0_gog",
         "keys": [],
         "name": "Cats Hidden in Paris",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/Cats Hidden in Paris"
+        ]
     },
     "transform_file": "setup_cats_hidden_in_paris_1.0_gog_dlc_fix6_(69829).exe"
 }

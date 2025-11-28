@@ -13,7 +13,9 @@
         "appname": "ascendant",
         "appurl": "https://www.gog.com/en/game/ascendant",
         "buildid": "1.0",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Hapa Games/Ascendant"
+        ],
         "name": "Ascendant",
         "paths": []
     },

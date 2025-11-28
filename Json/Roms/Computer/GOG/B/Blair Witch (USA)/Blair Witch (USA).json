@@ -13,7 +13,9 @@
         "buildid": "1.04",
         "keys": [],
         "name": "Blair Witch",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Blairwitch"
+        ]
     },
     "transform_file": "setup_blair_witch_1.04_(64bit)_(34361).exe"
 }

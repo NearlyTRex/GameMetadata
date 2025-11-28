@@ -26,7 +26,8 @@
         "keys": [],
         "name": "Call of Cthulhu: Shadow of the Comet",
         "paths": [
-            "GAME_INSTALL_DIR/CTU*.SAV"
+            "GAME_INSTALL_DIR/CTU*.SAV",
+            "GAME_INSTALL_DIR/INFOGRAM/SHADOW.CD/*.SAV"
         ]
     },
     "transform_file": "setup_shadow_of_the_comet_1.0_(28045).exe"

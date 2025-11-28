@@ -4,8 +4,13 @@
         "appname": "cat_quest_ii",
         "appurl": "https://www.gog.com/en/game/cat_quest_ii",
         "buildid": "1.7.7.4",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/The Gentlebros Pte. Ltd./Cat Quest II"
+        ],
         "name": "Cat Quest II",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/The Gentlebros Pte. Ltd_/Cat Quest II",
+            "USER_PROFILE_DIR/Documents/Cat Quest II"
+        ]
     }
 }

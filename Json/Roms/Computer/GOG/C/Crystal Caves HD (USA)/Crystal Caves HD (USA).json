@@ -4,8 +4,12 @@
         "appname": "crystal_caves_hd",
         "appurl": "https://www.gog.com/en/game/crystal_caves_hd",
         "buildid": "1.1.6.02",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Apogee Software/Crystal Caves HD"
+        ],
         "name": "Crystal Caves HD",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Apogee Software/Crystal Caves HD"
+        ]
     }
 }

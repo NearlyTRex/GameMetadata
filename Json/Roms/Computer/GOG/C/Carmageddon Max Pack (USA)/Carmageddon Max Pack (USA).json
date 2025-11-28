@@ -27,7 +27,9 @@
         "buildid": "1.0_gog",
         "keys": [],
         "name": "Carmageddon Max Pack",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/DATA"
+        ]
     },
     "transform_file": "setup_carmageddon_2.0.0.63.exe"
 }

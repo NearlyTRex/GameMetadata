@@ -4,8 +4,12 @@
         "appname": "blood_west",
         "appurl": "https://www.gog.com/en/game/blood_west",
         "buildid": "4.6.0 RC2",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/SOFTWARE/Hyperstrange/Blood West"
+        ],
         "name": "Blood West",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/Hyperstrange/Blood West"
+        ]
     }
 }

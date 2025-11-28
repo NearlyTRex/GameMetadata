@@ -9,7 +9,11 @@
         "buildid": "1.05.240321",
         "keys": [],
         "name": "Book of Demons",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/custom_settings.txt",
+            "GAME_INSTALL_DIR/registry.xml",
+            "USER_PROFILE_DIR/AppData/Roaming/Return2Games_WIP21"
+        ]
     },
     "transform_file": "setup_book_of_demons_1.05.240321_(72057).exe"
 }

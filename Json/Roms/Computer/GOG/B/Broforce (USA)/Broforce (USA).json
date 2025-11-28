@@ -15,7 +15,9 @@
         "buildid": "Forever HF - Win",
         "keys": [],
         "name": "Broforce",
-        "paths": []
+        "paths": [
+            "GAME_INSTALL_DIR/Saves/Options.xml"
+        ]
     },
     "transform_file": "setup_broforce_forever_hf_-_win_(71320).exe"
 }

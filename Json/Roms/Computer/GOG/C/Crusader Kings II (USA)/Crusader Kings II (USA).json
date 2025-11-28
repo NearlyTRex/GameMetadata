@@ -13,7 +13,9 @@
         "buildid": "3.3.5.1",
         "keys": [],
         "name": "Crusader Kings II",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/Paradox Interactive/Crusader Kings II"
+        ]
     },
     "transform_file": "setup_crusader_kings_ii_3.3.5.1_(64bit)_(63440).exe"
 }

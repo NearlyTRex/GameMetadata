@@ -9,7 +9,9 @@
         "buildid": "v1.5.2a",
         "keys": [],
         "name": "Caveblazers",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/Caveblazers"
+        ]
     },
     "transform_file": "setup_caveblazers_v1.5.2a_(39657).exe"
 }

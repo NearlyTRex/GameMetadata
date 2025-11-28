@@ -17,6 +17,8 @@
         "keys": [],
         "name": "Control Ultimate Edition",
         "paths": [
+            "GAME_INSTALL_DIR/renderer.ini",
+            "USER_PROFILE_DIR/AppData/Local/Remedy/Control",
             "USER_PROFILE_DIR/Documents/My Games/Control"
         ]
     },

@@ -6,6 +6,8 @@
         "buildid": "1.0.5",
         "keys": [],
         "name": "Call of Juarez: Gunslinger",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Local/techland/cojgunslinger"
+        ]
     }
 }

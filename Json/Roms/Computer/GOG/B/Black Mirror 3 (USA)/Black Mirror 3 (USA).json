@@ -18,7 +18,9 @@
         "buildid": "1.0",
         "keys": [],
         "name": "Black Mirror 3",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/Documents/BlackMirrorIII"
+        ]
     },
     "transform_file": "setup_black_mirror3_2.0.0.5.exe"
 }

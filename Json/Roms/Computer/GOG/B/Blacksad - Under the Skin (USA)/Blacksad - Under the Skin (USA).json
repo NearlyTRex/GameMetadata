@@ -11,9 +11,13 @@
         "appname": "blacksad_under_the_skin",
         "appurl": "https://www.gog.com/en/game/blacksad_under_the_skin",
         "buildid": "20270705_Blacksad_Patch",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/PenduloStudios/Blacksad"
+        ],
         "name": "Blacksad: Under the Skin",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/LocalLow/PenduloStudios/Blacksad"
+        ]
     },
     "transform_file": "setup_blacksad_under_the_skin_1.0.5_12210.2935.2020040301_(37312).exe"
 }
