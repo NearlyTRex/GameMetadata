@@ -690,6 +690,22 @@ x-co-op: No
 x-playable: Yes
 
 
+game: DVD Player Version 2.12 (USA) (En,Fr,De,Es,It,Nl,Pt)
+file: Roms/Sony/Sony PlayStation 2/DVD Player Version 2.12 (USA) (En,Fr,De,Es,It,Nl,Pt)/DVD Player Version 2.12 (USA) (En,Fr,De,Es,It,Nl,Pt).json
+developer: Sony Computer Entertainment
+publisher: Sony Computer Entertainment
+genre: Utilities
+description:
+  DVD Player software disc for PlayStation 2, allowing the console to play DVD
+  movies. This version (2.12) was distributed with later PS2 models and includes
+  support for multiple languages. The disc is required for DVD playback on early
+  PS2 consoles that did not have the player built into the system software.
+release: 2002
+players: 1
+x-co-op: No
+x-playable: Yes
+
+
 game: Dance Dance Revolution Extreme (USA)
 file: Roms/Sony/Sony PlayStation 2/Dance Dance Revolution Extreme (USA)/Dance Dance Revolution Extreme (USA).json
 developer: Konami
@@ -1505,6 +1521,28 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Fugitive Hunter - War on Terror (USA)
+file: Roms/Sony/Sony PlayStation 2/Fugitive Hunter - War on Terror (USA)/Fugitive Hunter - War on Terror (USA).json
+developer: Black Ops Entertainment
+publisher: Encore Software
+genre: Action;Shooter;First-Person;Arcade
+description:
+  As an elite secret agent of the US Government, your job is to hunt drug dealers,
+  militia leaders, gun runners, and international terrorists. Follow 11 armed and
+  dangerous felons--including Osama Bin Laden--through Afghanistan, the Caribbean,
+  Paris, Utah, and Miami. You'll fight terror with state-of-the-art weaponry, such
+  as rocket launchers, sniper rifles, and shotguns. Switch from a first-person
+  shooter to third-person fighter view for brutal hand-to-hand combat. Bonus
+  features include director's commentary, interviews with game creators, and
+  behind-the-scenes movie making.
+release: 2003-11-18
+players: 1
+assets.boxfront: BoxFront/Fugitive Hunter - War on Terror (USA).jpg
+assets.boxback: BoxBack/Fugitive Hunter - War on Terror (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Galerians - Ash (USA)
 file: Roms/Sony/Sony PlayStation 2/Galerians - Ash (USA)/Galerians - Ash (USA).json
 developer: Polygon Magic
@@ -2118,6 +2156,25 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Jampack - Summer 2003 (USA) (Teen)
+file: Roms/Sony/Sony PlayStation 2/Jampack - Summer 2003 (USA) (Teen)/Jampack - Summer 2003 (USA) (Teen).json
+developer: SCEA
+publisher: SCEA
+genre: Miscellaneous;Demo Disc
+description:
+  PlayStation Underground demo compilation featuring playable demos of The
+  Getaway, Primal, War of the Monsters, Amplitude, ATV Offroad Fury 2, World Tour
+  Soccer 2003, MLB 2004, and Silent Hill 3, plus an NBA Street Vol. 2 video
+  preview. Includes behind-the-scenes videos and previews of upcoming PlayStation
+  2 titles.
+release: 2003
+players: 1
+assets.boxfront: BoxFront/Jampack - Summer 2003 (USA) (Teen).jpg
+assets.boxback: BoxBack/Jampack - Summer 2003 (USA) (Teen).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Jampack Demo Disc Volume 11 (USA)
 file: Roms/Sony/Sony PlayStation 2/Jampack Demo Disc Volume 11 (USA)/Jampack Demo Disc Volume 11 (USA).json
 developer: SCEA
@@ -2251,6 +2308,25 @@ release: 2004-09-21
 players: 1
 assets.boxfront: BoxFront/Katamari Damacy (USA).jpg
 assets.video: Video/Katamari Damacy (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Japan)
+file: Roms/Sony/Sony PlayStation 2/Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Japan)/Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Japan).json
+developer: Capcom
+publisher: Bandai
+genre: Action;Fighting
+description:
+  Arcade-style 3D fighting game based on the Mobile Suit Zeta Gundam anime series.
+  Players choose from mobile suits representing either the A.E.U.G. or Titans
+  factions and battle in arenas recreating iconic locations from the series.
+  Features fast-paced combat with ranged and melee attacks, boost dashing, and
+  special techniques unique to each mobile suit. Supports two-player versus mode.
+release: 2003-12-04
+players: 2
+assets.boxfront: BoxFront/Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Japan).jpg
+assets.boxback: BoxBack/Kidou Senshi Z Gundam - A.E.U.G. vs. Titans (Japan).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -3324,6 +3400,27 @@ release: 2001-03-27
 players: 4
 assets.boxfront: BoxFront/Quake III - Revolution (USA).jpg
 assets.video: Video/Quake III - Revolution (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: R-Type Final (USA)
+file: Roms/Sony/Sony PlayStation 2/R-Type Final (USA)/R-Type Final (USA).json
+developer: Irem
+publisher: Eidos Interactive
+genre: Action;Shooter;Shoot-'Em-Up;Horizontal
+description:
+  The classic 1987 arcade shooter gets a complete makeover in R-Type Final. While
+  it does include all-new features, such as the Force System and AI Mode, it still
+  retains some of the classic gameplay that started it all. Use the Force System
+  to power-up your ship and battle against the evil Bydo. Over 100 ships are
+  available for you to choose from and customize. Save your ships on a memory card
+  via AI Mode and battle head-to-head against the computer or your friend's
+  machines.
+release: 2004-02-03
+players: 1
+assets.boxfront: BoxFront/R-Type Final (USA).jpg
+assets.boxback: BoxBack/R-Type Final (USA).jpg
 x-co-op: No
 x-playable: Yes
 
@@ -4705,6 +4802,25 @@ release: 2002-09-23
 players: 1
 assets.boxfront: BoxFront/Summoner 2 (USA).jpg
 assets.video: Video/Summoner 2 (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Taiko no Tatsujin - Appare Sandaime (Japan)
+file: Roms/Sony/Sony PlayStation 2/Taiko no Tatsujin - Appare Sandaime (Japan)/Taiko no Tatsujin - Appare Sandaime (Japan).json
+developer: Namco
+publisher: Namco
+genre: Rhythm;Music
+description:
+  Third entry in the popular Taiko no Tatsujin rhythm game series for PlayStation
+  2. Players use the TaTaCon drum controller or standard gamepad to hit notes in
+  time with music from various genres including J-pop, anime themes, classical
+  music, and Namco game soundtracks. Features multiple difficulty levels and a
+  variety of game modes including multiplayer support.
+release: 2003-10-30
+players: 2
+assets.boxfront: BoxFront/Taiko no Tatsujin - Appare Sandaime (Japan).jpg
+assets.boxback: BoxBack/Taiko no Tatsujin - Appare Sandaime (Japan).jpg
 x-co-op: No
 x-playable: Yes
 

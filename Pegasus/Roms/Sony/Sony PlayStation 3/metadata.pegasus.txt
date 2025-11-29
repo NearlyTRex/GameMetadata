@@ -1014,6 +1014,33 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Elder Scrolls V, The - Skyrim - Legendary Edition (USA) (En,Fr,Es)
+file: Roms/Sony/Sony PlayStation 3/Elder Scrolls V, The - Skyrim - Legendary Edition (USA) (En,Fr,Es)/Elder Scrolls V, The - Skyrim - Legendary Edition (USA) (En,Fr,Es).json
+developer: Bethesda Game Studios
+publisher: Bethesda Softworks
+genre: Role-Playing;Western-Style
+description:
+  The Elder Scrolls V: Skyrim is an action role-playing game and the fifth
+  installment in The Elder Scrolls series, set 200 years after the events of
+  Oblivion. The ancient home of the Nords, Skyrim, teeters at the brink of
+  destruction as a civil war rages between the Imperial Legion and the rebel
+  Stormcloaks. Meanwhile, the return of the dragons heralds an even greater
+  threat: Alduin the World-Eater, prophesied to destroy the world. Players take
+  on the role of the Dragonborn, a mortal born with the soul of a dragon who can
+  absorb dragon souls and wield powerful Thu'um shouts. The game continues the
+  open world tradition of its predecessors, allowing players to explore the
+  frozen tundras, pine forests, and mountain ranges of Skyrim while joining
+  factions such as the Companions, the College of Winterhold, the Thieves Guild,
+  or the Dark Brotherhood. This Legendary Edition includes all three expansion
+  packs: Dawnguard, Hearthfire, and Dragonborn.
+release: 2011-11-11
+players: 1
+assets.boxfront: BoxFront/Elder Scrolls V, The - Skyrim - Legendary Edition (USA) (En,Fr,Es).jpg
+assets.boxback: BoxBack/Elder Scrolls V, The - Skyrim - Legendary Edition (USA) (En,Fr,Es).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Enchanted Arms (USA)
 file: Roms/Sony/Sony PlayStation 3/Enchanted Arms (USA)/Enchanted Arms (USA).json
 developer: FromSoftware, Inc.
@@ -1678,6 +1705,30 @@ release: 2010-03-23
 players: 1
 assets.boxfront: BoxFront/Just Cause 2 (USA) (En,Fr,De,Es,It).jpg
 x-co-op: No
+x-playable: Yes
+
+
+game: Kidou Senshi Gundam - Extreme Vs. (Japan, Asia)
+file: Roms/Sony/Sony PlayStation 3/Kidou Senshi Gundam - Extreme Vs. (Japan, Asia)/Kidou Senshi Gundam - Extreme Vs. (Japan, Asia).json
+developer: Bandai Namco Games
+publisher: Bandai Namco Games
+genre: Action;Fighting;3D
+description:
+  Mobile Suit Gundam: Extreme Vs. is a 3D arcade fighting game in the Gundam Vs.
+  series. Players pilot dozens of mobile suits from across thirty years of
+  Gundam series in fast-paced 2-on-2 team battles. Each team shares a 6000 point
+  resource meter, and when a mobile suit is shot down, its cost is deducted from
+  the meter. The first team to hit zero loses. Mobile suits cost 1000 to 3000
+  points, with higher cost machines being more powerful. Gameplay uses Shoot,
+  Melee, Jump, and Search commands, with Extreme Action allowing players to
+  dash-cancel attacks for larger combos. The PS3 version adds Trial Mission Mode
+  featuring challenges like destroying machines within time limits or sinking
+  battleships, plus exclusive boss characters and DLC support.
+release: 2011-12-01
+players: 2
+assets.boxfront: BoxFront/Kidou Senshi Gundam - Extreme Vs. (Japan, Asia).jpg
+assets.boxback: BoxBack/Kidou Senshi Gundam - Extreme Vs. (Japan, Asia).jpg
+x-co-op: Yes
 x-playable: Yes
 
 

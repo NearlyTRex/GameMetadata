@@ -2946,6 +2946,58 @@ x-co-op: No
 x-playable: Yes
 
 
+game: Interactive CD Sampler Disc Vol. 9 (USA)
+file: Roms/Sony/Sony PlayStation/Interactive CD Sampler Disc Vol. 9 (USA)/Interactive CD Sampler Disc Vol. 9 (USA).json
+developer: SCEA
+publisher: SCEA
+genre: Miscellaneous;Demo Disc
+description:
+  PlayStation demo disc bundled with consoles, featuring playable demos of Crash
+  Bandicoot 3: Warped, MediEvil, Spyro the Dragon, Gran Turismo, A Bug's Life,
+  Cool Boarders 3, NFL GameDay '99, Rally Cross 2, Tomb Raider III, Wild 9,
+  Bust-A-Move 4, Metal Gear Solid, NHL FaceOff '99, and Brave Fencer Musashi.
+release: 1998
+players: 1
+assets.boxfront: BoxFront/Interactive CD Sampler Disc Vol. 9 (USA).jpg
+assets.boxback: BoxBack/Interactive CD Sampler Disc Vol. 9 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Interactive CD Sampler Disc Volume 7 (USA)
+file: Roms/Sony/Sony PlayStation/Interactive CD Sampler Disc Volume 7 (USA)/Interactive CD Sampler Disc Volume 7 (USA).json
+developer: SCEA
+publisher: SCEA
+genre: Miscellaneous;Demo Disc
+description:
+  PlayStation demo disc bundled with consoles, featuring playable demos of
+  Blasto, Tomba!, Einhänder, Gran Turismo, Hot Shots Golf, Jersey Devil, Gex:
+  Enter the Gecko, Tekken 3, Tomb Raider II, and NBA ShootOut '98.
+release: 1998
+players: 1
+assets.boxfront: BoxFront/Interactive CD Sampler Disc Volume 7 (USA).jpg
+assets.boxback: BoxBack/Interactive CD Sampler Disc Volume 7 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
+game: Interactive CD Sampler Disc Volume 8 (USA)
+file: Roms/Sony/Sony PlayStation/Interactive CD Sampler Disc Volume 8 (USA)/Interactive CD Sampler Disc Volume 8 (USA).json
+developer: SCEA
+publisher: SCEA
+genre: Miscellaneous;Demo Disc
+description:
+  PlayStation demo disc bundled with consoles, featuring playable demos of Spyro
+  the Dragon, NFL Xtreme, MediEvil, Gran Turismo, Metal Gear Solid, Test Drive
+  5, Legacy of Kain: Soul Reaver, Cool Boarders 3, Ninja: Shadow of Darkness,
+  and WWF War Zone.
+release: 1998
+players: 1
+assets.boxfront: BoxFront/Interactive CD Sampler Disc Volume 8 (USA).jpg
+x-co-op: No
+x-playable: Yes
+
+
 game: Interactive CD Sampler Pack Volume 3 (USA)
 file: Roms/Sony/Sony PlayStation/Interactive CD Sampler Pack Volume 3 (USA)/Interactive CD Sampler Pack Volume 3 (USA).json
 developer: SCEA
@@ -5014,6 +5066,21 @@ release: 1997-09-15
 players: 2
 assets.boxfront: BoxFront/Oddworld - Abe's Oddysee (USA).jpg
 assets.video: Video/Oddworld - Abe's Oddysee (USA).mp4
+x-co-op: No
+x-playable: Yes
+
+
+game: Official U.S. PlayStation Magazine Demo Disc 34 (USA)
+file: Roms/Sony/Sony PlayStation/Official U.S. PlayStation Magazine Demo Disc 34 (USA)/Official U.S. PlayStation Magazine Demo Disc 34 (USA).json
+developer: Various
+publisher: Ziff Davis
+genre: Miscellaneous;Demo Disc
+description:
+  Demo disc included with issue 34 of the Official U.S. PlayStation Magazine,
+  featuring playable demos and previews of upcoming PlayStation titles from late
+  2000.
+release: 2000
+players: 1
 x-co-op: No
 x-playable: Yes
 
