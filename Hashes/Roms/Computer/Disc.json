@@ -2620,6 +2620,16 @@
         "size_enc": 99925367
     },
     {
+        "dir": "Roms/Computer/Disc/L/Limbo - Special Edition (USA)",
+        "filename": "Limbo - Special Edition (USA).chd",
+        "filename_enc": "dae64cb2372db93ac5b27858c7d121fa.enc",
+        "hash": "4f1fe1d3a5ac647d",
+        "hash_enc": "c18046b160d0811c3a3d747946503883",
+        "mtime": 1764733467,
+        "size": 108404132,
+        "size_enc": 108404238
+    },
+    {
         "dir": "Roms/Computer/Disc/L/Lovely Planet (USA)",
         "filename": "Lovely Planet (USA).chd",
         "filename_enc": "cd44ecf8cbcc5a91ab10e31cec3ec631.enc",
@@ -4188,6 +4198,26 @@
         "mtime": 1738557130,
         "size": 549738676,
         "size_enc": 549738796
+    },
+    {
+        "dir": "Roms/Computer/Disc/S/Seven Kingdoms II - The Fryhtan Wars (USA)",
+        "filename": "Seven Kingdoms II - The Fryhtan Wars (USA).chd",
+        "filename_enc": "ca8c82f22dc8b33c4545e80a19dc4ffa.enc",
+        "hash": "250999ec623a53cd",
+        "hash_enc": "5ac1ac7375cbbc61e565cf24c6572f41",
+        "mtime": 1764734761,
+        "size": 367580375,
+        "size_enc": 367580494
+    },
+    {
+        "dir": "Roms/Computer/Disc/S/Seven Kingdoms II - The Fryhtan Wars (USA)",
+        "filename": "Seven Kingdoms II - The Fryhtan Wars (USA).sub",
+        "filename_enc": "3dd2abc170b69059b41da770cfe22f4a.enc",
+        "hash": "a553d99e1c380d4f",
+        "hash_enc": "80834a8a0d626b6b70aac8522e8d9832",
+        "mtime": 1764734762,
+        "size": 25033056,
+        "size_enc": 25033175
     },
     {
         "dir": "Roms/Computer/Disc/S/Shadow Chronicles 6 Pack - Collector's Edition (USA)",
