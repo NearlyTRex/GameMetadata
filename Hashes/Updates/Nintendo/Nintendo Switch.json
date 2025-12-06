@@ -3000,6 +3000,16 @@
         "size_enc": 93227078
     },
     {
+        "dir": "Updates/Nintendo/Nintendo Switch/Pokemon Legends Z-A (World)",
+        "filename": "Pokemon Legends Z-A (World) (v1.0.2, v131072) (Update).nsp",
+        "filename_enc": "649c0742a84deede38d0e07999af7ca9.enc",
+        "hash": "ed2ce18574261d1c",
+        "hash_enc": "778fec9bea5445b125fe773028f4a881",
+        "mtime": 1765037159,
+        "size": 53249611,
+        "size_enc": 53249742
+    },
+    {
         "dir": "Updates/Nintendo/Nintendo Switch/Pokemon Mystery Dungeon - Rescue Team DX (USA, Europe)",
         "filename": "Pokemon Mystery Dungeon - Rescue Team DX (USA, Europe) (v1.0.2, v131072) (Update).nsp",
         "filename_enc": "155a388cc04fa01e2cff282a54efeb57.enc",
@@ -3828,6 +3838,26 @@
         "mtime": 1746745502,
         "size": 54141716,
         "size_enc": 54141851
+    },
+    {
+        "dir": "Updates/Nintendo/Nintendo Switch/Super Mario Galaxy (World)",
+        "filename": "Super Mario Galaxy (World) (v1.2.0, v131072) (Update).nsp",
+        "filename_enc": "68e8c517b73eeeb4cc3a88bafbcb0a3d.enc",
+        "hash": "e1be559c16d71f75",
+        "hash_enc": "b397624430118c6634b6bbd3b6208456",
+        "mtime": 1765038425,
+        "size": 388000561,
+        "size_enc": 388000691
+    },
+    {
+        "dir": "Updates/Nintendo/Nintendo Switch/Super Mario Galaxy 2 (World)",
+        "filename": "Super Mario Galaxy 2 (World) (v1.2.0, v131072) (Update).nsp",
+        "filename_enc": "63521aaaa2a539e6ba704eb9bf138afa.enc",
+        "hash": "379594fcac49db9f",
+        "hash_enc": "fa705206bf6c5730cc71aaa862253fe1",
+        "mtime": 1765038522,
+        "size": 222491441,
+        "size_enc": 222491573
     },
     {
         "dir": "Updates/Nintendo/Nintendo Switch/Super Mario Maker 2 (World)",
