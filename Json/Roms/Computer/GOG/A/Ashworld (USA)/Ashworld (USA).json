@@ -6,6 +6,8 @@
         "buildid": "V1.8.1B",
         "keys": [],
         "name": "Ashworld",
-        "paths": []
+        "paths": [
+            "USER_PROFILE_DIR/AppData/Roaming/ashworld"
+        ]
     }
 }

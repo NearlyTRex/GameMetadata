@@ -7,6 +7,8 @@
         "keys": [],
         "name": "Call of Juarez",
         "paths": [
+            "GAME_INSTALL_DIR/out/Settings",
+            "GAME_INSTALL_DIR/out/save",
             "USER_PROFILE_DIR/Documents/call of juarez"
         ]
     }
