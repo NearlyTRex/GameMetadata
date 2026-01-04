@@ -2734,6 +2734,8 @@ release: 2015-02-17
 players: 1
 assets.boxfront: BoxFront/Hand of Fate (USA).jpg
 assets.video: Video/Hand of Fate (USA).mp4
+x-co-op: No
+x-playable: Yes
 
 
 game: Haunted Dual Pack (USA)
