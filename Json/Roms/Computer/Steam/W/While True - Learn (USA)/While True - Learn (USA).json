@@ -7,7 +7,9 @@
         "buildid": "15353991",
         "controller_support": "full",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/wtl",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Luden.io/while True: learn()"
+        ],
         "name": "while True: learn()",
         "paths": [
             "STORE_INSTALL_DIR/userdata/STORE_USER_ID/619150"

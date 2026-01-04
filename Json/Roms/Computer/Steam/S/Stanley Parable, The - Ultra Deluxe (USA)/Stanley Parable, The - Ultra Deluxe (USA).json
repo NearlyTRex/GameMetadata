@@ -7,10 +7,13 @@
         "buildid": "13725329",
         "controller_support": "full",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/The Stanley Parable Ultra Deluxe",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Crows Crows Crows/The Stanley Parable: Ultra Deluxe"
+        ],
         "name": "The Stanley Parable: Ultra Deluxe",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1703340"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1703340",
+            "USER_PROFILE_DIR/AppData/LocalLow/Crows Crows Crows/The Stanley Parable_ Ultra Deluxe"
         ]
     }
 }

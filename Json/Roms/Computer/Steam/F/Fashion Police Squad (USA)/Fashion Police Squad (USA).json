@@ -7,10 +7,13 @@
         "buildid": "20291294",
         "controller_support": "full",
         "installdir": "STORE_INSTALL_DIR/steamapps/common/Fashion Police Squad",
-        "keys": [],
+        "keys": [
+            "HKEY_CURRENT_USER/Software/Mopeful Games/Fashion Police Squad"
+        ],
         "name": "Fashion Police Squad",
         "paths": [
-            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1319460"
+            "STORE_INSTALL_DIR/userdata/STORE_USER_ID/1319460",
+            "USER_PROFILE_DIR/AppData/LocalLow/Mopeful Games/Fashion Police Squad"
         ]
     }
 }
