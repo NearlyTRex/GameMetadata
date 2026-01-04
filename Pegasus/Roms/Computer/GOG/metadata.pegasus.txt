@@ -132,6 +132,17 @@ x-playable: Yes
 
 game: Agony (USA)
 file: Roms/Computer/GOG/A/Agony (USA)/Agony (USA).json
+developer: Madmind Studio
+publisher: Playway
+genre: Survival Horror
+description:
+  Agony is a first-person survival horror set in hell. You begin your journey as
+  a tormented soul within the depths of hell without any memories about your
+  past. The special ability to control people on your path and possess demons
+  gives you the power to survive in the unforgiving environment. In
+  order to complete this journey you will explore the hostile environment,
+  hiding from demons and solving puzzles.
+release: 2018-05-29
 players: 1
 x-url: https://www.gog.com/en/game/agony
 x-co-op: No
@@ -140,6 +151,17 @@ x-playable: Yes
 
 game: Agony UNRATED (USA)
 file: Roms/Computer/GOG/A/Agony UNRATED (USA)/Agony UNRATED (USA).json
+developer: Madmind Studio
+publisher: Playway
+genre: Survival Horror
+description:
+  Agony UNRATED is the uncensored version of Agony, a first-person survival
+  horror set in hell. You begin your journey as a tormented soul within the
+  depths of hell without any memories about your past. The special ability to
+  control people on your path and possess demons gives you the power to survive
+  in the unforgiving environment. This version includes all content that was
+  removed from the original release.
+release: 2018-10-31
 players: 1
 x-url: https://www.gog.com/en/game/agony_unrated
 x-co-op: No
@@ -4566,16 +4588,36 @@ x-co-op: No
 x-playable: Yes
 
 
-game: Dark Sun - Shattered Lands (USA)
-file: Roms/Computer/GOG/D/Dark Sun - Shattered Lands (USA)/Dark Sun - Shattered Lands (USA).json
+game: Dark Sun I - Shattered Lands (USA)
+file: Roms/Computer/GOG/D/Dark Sun I - Shattered Lands (USA)/Dark Sun I - Shattered Lands (USA).json
+developer: Strategic Simulations, Inc.
+publisher: Strategic Simulations, Inc.
+genre: Role-Playing
+description:
+  Dark Sun: Shattered Lands is a turn-based role-playing video game set in the
+  Dungeons & Dragons campaign setting of Dark Sun. The world of Athas is a
+  brutal desert landscape where magic has devastated the environment. You
+  control a party of gladiatorial slaves who must fight for survival and
+  freedom in this harsh world.
+release: 1993-01-01
 players: 1
 x-url: https://www.gog.com/en/game/dark_sun_shattered_lands
 x-co-op: No
 x-playable: Yes
 
 
-game: Dark Sun - Wake of the Ravager (USA)
-file: Roms/Computer/GOG/D/Dark Sun - Wake of the Ravager (USA)/Dark Sun - Wake of the Ravager (USA).json
+game: Dark Sun II - Wake of the Ravager (USA)
+file: Roms/Computer/GOG/D/Dark Sun II - Wake of the Ravager (USA)/Dark Sun II - Wake of the Ravager (USA).json
+developer: Strategic Simulations, Inc.
+publisher: Strategic Simulations, Inc.
+genre: Role-Playing
+description:
+  Dark Sun: Wake of the Ravager is the sequel to Shattered Lands, continuing
+  the story in the Dungeons & Dragons Dark Sun campaign setting. Set on the
+  harsh desert world of Athas, you must stop the Dragon's plan to unleash the
+  Ravager, an ancient evil that threatens to destroy what remains of
+  civilization.
+release: 1994-10-01
 players: 1
 x-url: https://www.gog.com/en/game/dark_sun_wake_of_the_ravager
 x-co-op: No
@@ -6246,8 +6288,17 @@ x-co-op: No
 x-playable: Yes
 
 
-game: Dragons of Flame (USA)
-file: Roms/Computer/GOG/D/Dragons of Flame (USA)/Dragons of Flame (USA).json
+game: Dragonlance II - Dragons of Flame (USA)
+file: Roms/Computer/GOG/D/Dragonlance II - Dragons of Flame (USA)/Dragonlance II - Dragons of Flame (USA).json
+developer: U.S. Gold
+publisher: Strategic Simulations, Inc.
+genre: Action;Role-Playing
+description:
+  Dragons of Flame is a side-scrolling action RPG set in the Dragonlance
+  campaign setting. It is the sequel to Heroes of the Lance and is based on the
+  second Dragonlance campaign module. Guide the Heroes of the Lance through Pax
+  Tharkas to rescue the slaves held captive by the Dragon Highlords.
+release: 1989-01-01
 players: 1
 x-url: https://www.gog.com/en/game/dragons_of_flame
 x-co-op: No
@@ -10807,9 +10858,19 @@ x-playable: Yes
 
 game: Heretic + Hexen (USA)
 file: Roms/Computer/GOG/H/Heretic + Hexen (USA)/Heretic + Hexen (USA).json
-players: 1
+developer: Raven Software
+publisher: id Software
+genre: First-Person Shooter
+description:
+  A bundle containing Heretic (1994) and Hexen: Beyond Heretic (1995). Both
+  games are dark fantasy first-person shooters developed by Raven Software
+  using the Doom engine. Heretic puts you in the role of an elven warrior
+  battling the forces of D'Sparil, while Hexen offers three character classes
+  and hub-based level design as you fight against Korax.
+release: 1994-12-23
+players: 1-8
 x-url: https://www.gog.com/en/game/heretic_hexen_game
-x-co-op: No
+x-co-op: Yes
 x-playable: Yes
 
 
@@ -11009,8 +11070,17 @@ x-co-op: No
 x-playable: Yes
 
 
-game: Heroes of the Lance (USA)
-file: Roms/Computer/GOG/H/Heroes of the Lance (USA)/Heroes of the Lance (USA).json
+game: Dragonlance I - Heroes of the Lance (USA)
+file: Roms/Computer/GOG/D/Dragonlance I - Heroes of the Lance (USA)/Dragonlance I - Heroes of the Lance (USA).json
+developer: U.S. Gold
+publisher: Strategic Simulations, Inc.
+genre: Action;Role-Playing
+description:
+  Heroes of the Lance is a side-scrolling action game based on the Dragonlance
+  novel Dragons of Autumn Twilight. Control the eight Heroes of the Lance as
+  they venture into the ruins of Xak Tsaroth to recover the Disks of Mishakal
+  and confront the dragon Khisanth.
+release: 1989-01-01
 players: 1
 x-url: https://www.gog.com/en/game/heroes_of_the_lance
 x-co-op: No
@@ -17566,16 +17636,34 @@ x-co-op: No
 x-playable: Yes
 
 
-game: Ravenloft - Stone Prophet (USA)
-file: Roms/Computer/GOG/R/Ravenloft - Stone Prophet (USA)/Ravenloft - Stone Prophet (USA).json
+game: Ravenloft II - Stone Prophet (USA)
+file: Roms/Computer/GOG/R/Ravenloft II - Stone Prophet (USA)/Ravenloft II - Stone Prophet (USA).json
+developer: DreamForge Intertainment
+publisher: Strategic Simulations, Inc.
+genre: Role-Playing
+description:
+  Ravenloft: Stone Prophet is a first-person RPG set in the Dungeons & Dragons
+  Ravenloft campaign setting. Transported to the Egyptian-themed domain of
+  Har'Akir, you must uncover the mystery of the Stone Prophet and escape the
+  realm of the undead pharaoh Anhktepot.
+release: 1995-01-01
 players: 1
 x-url: https://www.gog.com/en/game/ravenloft_stone_prophet
 x-co-op: No
 x-playable: Yes
 
 
-game: Ravenloft - Strahd's Possession (USA)
-file: Roms/Computer/GOG/R/Ravenloft - Strahd's Possession (USA)/Ravenloft - Strahd's Possession (USA).json
+game: Ravenloft I - Strahd's Possession (USA)
+file: Roms/Computer/GOG/R/Ravenloft I - Strahd's Possession (USA)/Ravenloft I - Strahd's Possession (USA).json
+developer: DreamForge Intertainment
+publisher: Strategic Simulations, Inc.
+genre: Role-Playing
+description:
+  Ravenloft: Strahd's Possession is a first-person RPG set in the Dungeons &
+  Dragons Ravenloft campaign setting. Drawn into the mist-shrouded realm of
+  Barovia, you must navigate the gothic horror landscape and ultimately
+  confront the vampire lord Strahd von Zarovich in his castle.
+release: 1994-01-01
 players: 1
 x-url: https://www.gog.com/en/game/ravenloft_strahds_possession
 x-co-op: No
@@ -19228,8 +19316,18 @@ x-co-op: No
 x-playable: Yes
 
 
-game: Shadow Sorcerer (USA)
-file: Roms/Computer/GOG/S/Shadow Sorcerer (USA)/Shadow Sorcerer (USA).json
+game: Dragonlance III - Shadow Sorcerer (USA)
+file: Roms/Computer/GOG/D/Dragonlance III - Shadow Sorcerer (USA)/Dragonlance III - Shadow Sorcerer (USA).json
+developer: U.S. Gold
+publisher: Strategic Simulations, Inc.
+genre: Action;Role-Playing
+description:
+  Shadow Sorcerer is the third and final game in the Dragonlance action series,
+  following Heroes of the Lance and Dragons of Flame. Lead a party of four
+  adventurers who have rescued 800 slaves and must shepherd them through the
+  wilderness before the Dragon army catches up. Features strategic, tactical,
+  and political gameplay layers.
+release: 1991-01-01
 players: 1
 x-url: https://www.gog.com/en/game/shadow_sorcerer
 x-co-op: No
@@ -19935,6 +20033,16 @@ x-playable: Yes
 
 game: Sinking City Remastered, The (USA)
 file: Roms/Computer/GOG/S/Sinking City Remastered, The (USA)/Sinking City Remastered, The (USA).json
+developer: Frogwares
+publisher: Frogwares
+genre: Action;Adventure;Detective-mystery
+description:
+  The Sinking City Remastered is an enhanced version of the Lovecraftian
+  adventure and investigation game. The half-submerged city of Oakmont is
+  gripped by supernatural forces. As private investigator Charles Reed, uncover
+  the truth of what has possessed the city and the minds of its inhabitants
+  while battling your own creeping madness.
+release: 2019-06-27
 players: 1
 x-url: https://www.gog.com/en/game/the_sinking_city_remastered_base
 x-co-op: No
@@ -24959,6 +25067,16 @@ x-playable: Yes
 
 game: Vampire - The Masquerade - Bloodlines 2 (USA)
 file: Roms/Computer/GOG/V/Vampire - The Masquerade - Bloodlines 2 (USA)/Vampire - The Masquerade - Bloodlines 2 (USA).json
+developer: The Chinese Room
+publisher: Paradox Interactive
+genre: Action;Role-Playing
+description:
+  Vampire: The Masquerade - Bloodlines 2 is a first-person action RPG set in
+  the World of Darkness. You play as Phyre, an Elder vampire who awakens in
+  early 21st-century Seattle during a historic snowstorm. Navigate the politics
+  of vampire society, choose your clan, and uncover the mysteries of your past
+  while hunting in the shadows of the city.
+release: 2025-10-21
 players: 1
 x-url: https://www.gog.com/en/game/vampire_the_masquerade_bloodlines_2_game
 x-co-op: No
@@ -25514,6 +25632,15 @@ x-playable: Yes
 
 game: War of the Lance (USA)
 file: Roms/Computer/GOG/W/War of the Lance (USA)/War of the Lance (USA).json
+developer: Strategic Simulations, Inc.
+publisher: Strategic Simulations, Inc.
+genre: Strategy
+description:
+  War of the Lance is a turn-based strategy game set in the Dragonlance
+  campaign setting. Command the forces of good or evil in the epic conflict
+  that defines the Dragonlance saga. Control armies, heroes, and dragons in
+  strategic battles across the continent of Ansalon.
+release: 1990-01-01
 players: 1
 x-url: https://www.gog.com/en/game/war_of_the_lance
 x-co-op: No
